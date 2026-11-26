@@ -13125,10 +13125,13 @@
 {"id":1510426,"jp":"種倉庫","fr":"Grenier à graines"}
 {"id":1510428,"jp":"自動栽培","fr":"Culture automatique"}
 {"id":1510430,"jp":"牧場配置","fr":"Placement au pâturage"}
+{"id":1510431,"jp":"キボを一定時間牧場に配置すると、それぞれに対応した生産物を生み出します。\nキボによって生産できるアイテムはさまざまです。","fr":"Si vous placez un Kibo au pâturage pendant un certain temps, il produit des objets qui lui sont propres.\nLes objets produits varient selon le Kibo."}
 {"id":1510432,"jp":"自動収集","fr":"Collecte automatique"}
+{"id":1510433,"jp":"収集作業が大変なら、キボを牧場に派遣しましょう。\n冒険中も、派遣したキボが代わりに生産物を集めてくれます。","fr":"Si la collecte vous pèse, affectez des Kibo au pâturage.\nMême pendant vos aventures, les Kibo affectés récoltent les produits à votre place."}
 {"id":1510435,"jp":"体勢ゲージ","fr":"Jauge de posture"}
 {"id":1510437,"jp":"キボ小屋","fr":"Enclos à Kibo"}
 {"id":1510439,"jp":"位置の調整","fr":"Ajuster la position"}
+{"id":1510440,"jp":"<color={highlight}>長押し</color>するとキボを持ち上げて、位置を調整できます。","fr":"Un <color={highlight}>appui prolongé</color> permet de soulever un Kibo et d'ajuster sa position."}
 {"id":1510441,"jp":"移動と入れ替え","fr":"Déplacer et échanger"}
 {"id":1510443,"jp":"ページ切り替え","fr":"Changer de page"}
 {"id":1510446,"jp":"クエスト追跡","fr":"Suivi des quêtes"}
@@ -13140,6 +13143,7 @@
 {"id":1510461,"jp":"ゲーム内時間設定","fr":"Réglage de l'heure du jeu"}
 {"id":1510463,"jp":"孵化ポスト","fr":"Poste d'éclosion"}
 {"id":1510465,"jp":"星輝鉱","fr":"Minerai d'éclat stellaire"}
+{"id":1510466,"jp":"ステラカードの主な素材です。ステラカードを作るなら、見逃さないようにしてください。","fr":"Matériau principal des cartes Stella. Si vous voulez fabriquer des cartes Stella, ne le laissez pas filer."}
 {"id":1510467,"jp":"元素属性","fr":"Attribut élémentaire"}
 {"id":1510471,"jp":"属性バランス","fr":"Équilibre des éléments"}
 {"id":1510477,"jp":"キボの絆","fr":"Le Lien avec les Kibo"}
@@ -13169,21 +13173,29 @@
 {"id":1510536,"jp":"巡霊プレート","fr":"Dalles des esprits errants"}
 {"id":1510539,"jp":"石陣ギミック","fr":"Énigme du cercle de pierres"}
 {"id":1510542,"jp":"輝印の祭壇","fr":"Autel de l'empreinte radieuse"}
+{"id":1510545,"jp":"石柱を修復してから祭壇に戻ると、封印されていた<color={highlight}>宝物</color>を獲得できます。","fr":"Une fois les piliers de pierre réparés, retournez à l'autel pour obtenir le <color={highlight}>trésor</color> qui y était scellé."}
 {"id":1510546,"jp":"星砂の刻印","fr":"Sceau de sable stellaire"}
 {"id":1510550,"jp":"道しるべ草の導き","fr":"Le guide des herbes balises"}
+{"id":1510551,"jp":"道端には「道しるべ草」と呼ばれる特殊な植物が現れることがあります。\n触れると道を導いてくれます。","fr":"Une plante spéciale appelée « Herbe balise » peut apparaître au bord des chemins.\nIl suffit de la toucher pour qu'elle vous guide."}
 {"id":1510553,"jp":"順列石柱","fr":"Piliers à permutation"}
 {"id":1510556,"jp":"ソザンカのはしご","fr":"L'échelle de Sozanka"}
 {"id":1510558,"jp":"トーテムを<color={highlight}>正確に</color>積み上げるほど、スコアが高くなります。\n位置がズレると、トーテムポールは崩れ落ちてしまいます。","fr":"Plus vous empilez les totems avec <color={highlight}>précision</color>, plus votre score est élevé.\nUn totem mal placé fait s'écrouler le mât totémique."}
 {"id":1510560,"jp":"石像の修復","fr":"Restauration des statues"}
+{"id":1510562,"jp":"石像を元通りに修復すると、<color={highlight}>貴重な宝物</color>を獲得できます。","fr":"Remettez la statue en état pour obtenir un <color={highlight}>précieux trésor</color>."}
 {"id":1510563,"jp":"自由作業","fr":"Travail libre"}
 {"id":1510565,"jp":"指定派遣","fr":"Affectation désignée"}
 {"id":1510567,"jp":"ロックオン","fr":"Verrouillage"}
 {"id":1510571,"jp":"複数部位","fr":"Plusieurs parties"}
+{"id":1510572,"jp":"一部の敵は複数の部位を持ち、部位によって防御性能が異なります。\n脆い部位を攻撃すると、大ダメージを与えられます。","fr":"Certains ennemis ont plusieurs parties, dont la résistance diffère.\nAttaquer une partie fragile inflige de lourds DGT."}
 {"id":1510573,"jp":"2段ジャンプ","fr":"Double saut"}
+{"id":1510575,"jp":"ジャンプ中にもう一度ジャンプボタンを押すと<color={highlight}>2段ジャンプ</color>できます。","fr":"Appuyez de nouveau sur le bouton de saut en plein saut pour effectuer un <color={highlight}>double saut</color>."}
 {"id":1510576,"jp":"ジャンプ","fr":"Saut"}
 {"id":1510579,"jp":"農園の心得","fr":"Conseils pour la ferme"}
+{"id":1510580,"jp":"星識レベルを上げると、一定数の<color={highlight}>心得ポイント</color>を獲得できます。","fr":"Monter de niveau de Savoir stellaire donne un certain nombre de <color={highlight}>points de savoir-faire</color>."}
 {"id":1510586,"jp":"キボ謎解きグリッド","fr":"Grille d'énigmes des Kibo"}
+{"id":1510592,"jp":"冒険で獲得したキボは、すべて<color={highlight}>キボ図鑑</color>に記録されます。","fr":"Tous les Kibo obtenus en aventure sont enregistrés dans l'<color={highlight}>Encyclopédie des Kibo</color>."}
 {"id":1510597,"jp":"集中","fr":"Concentration"}
+{"id":1510599,"jp":"深呼吸して、<color={highlight}>精神を集中させる</color>と、近くの特別なものを発見できます","fr":"Inspirez profondément et <color={highlight}>concentrez votre esprit</color> pour repérer les éléments particuliers à proximité"}
 {"id":1510601,"jp":"装備アップグレード","fr":"Amélioration d'équipement"}
 {"id":1510603,"jp":"装備強化","fr":"Renforcement d'équipement"}
 {"id":1510605,"jp":"装備同調","fr":"Synchronie d'équipement"}
@@ -13196,11 +13208,13 @@
 {"id":1510622,"jp":"キャラクター訓練【シンフォーリア：その2】","fr":"Entraînement de personnage 【Symphoria : partie 2】"}
 {"id":1510624,"jp":"キャラクター訓練【シンフォーリア：その3】","fr":"Entraînement de personnage 【Symphoria : partie 3】"}
 {"id":1510626,"jp":"キャラクター訓練【シンフォーリア：その4】","fr":"Entraînement de personnage 【Symphoria : partie 4】"}
+{"id":1510627,"jp":"<color={highlight}>星響スキル</color>を発動すると、ルミィが強力なダメージを与えます。","fr":"Lancer une <color={highlight}>Compétence Écho stellaire</color> permet à Lumi d'infliger de puissants DGT."}
 {"id":1510628,"jp":"キャラクター訓練【寒悠悠：その1】","fr":"Entraînement de personnage 【Han Youyou : partie 1】"}
 {"id":1510630,"jp":"キャラクター訓練【寒悠悠：その2】","fr":"Entraînement de personnage 【Han Youyou : partie 2】"}
 {"id":1510632,"jp":"キャラクター訓練【ポンポン：その1】","fr":"Entraînement de personnage 【Pengpeng : partie 1】"}
 {"id":1510634,"jp":"キャラクター訓練【ポンポン：その2】","fr":"Entraînement de personnage 【Pengpeng : partie 2】"}
 {"id":1510636,"jp":"キャラクター訓練【ポンポン：その3】","fr":"Entraînement de personnage 【Pengpeng : partie 3】"}
+{"id":1510637,"jp":"派生チャージ攻撃を発動した後、星響スキルが強化され、追加効果を得ます。","fr":"Après le déclenchement d'une Attaque chargée dérivée, la Compétence Écho stellaire est renforcée et gagne un effet supplémentaire."}
 {"id":1510638,"jp":"キャラクター訓練【リリィ：その1】","fr":"Entraînement de personnage 【Lily : partie 1】"}
 {"id":1510640,"jp":"キャラクター訓練【キャスベル：その1】","fr":"Entraînement de personnage 【Cathbelle : partie 1】"}
 {"id":1510642,"jp":"キャラクター訓練【キャスベル：その2】","fr":"Entraînement de personnage 【Cathbelle : partie 2】"}
@@ -13216,13 +13230,16 @@
 {"id":1510661,"jp":"キャラクター訓練【ルルカ：その1】","fr":"Entraînement de personnage 【Luruka : partie 1】"}
 {"id":1510663,"jp":"キャラクター訓練【ルルカ：その2】","fr":"Entraînement de personnage 【Luruka : partie 2】"}
 {"id":1510665,"jp":"キャラクター訓練【ルルカ：その3】","fr":"Entraînement de personnage 【Luruka : partie 3】"}
+{"id":1510666,"jp":"星極スキルを発動すると、<color={highlight}>「勇気のアウラ」</color>を召喚して共に戦わせます。","fr":"Lancer une Compétence Zénith stellaire invoque l'<color={highlight}>« Aura du courage »</color>, qui combat à vos côtés."}
 {"id":1510667,"jp":"キャラクター訓練【ルルカ：その4】","fr":"Entraînement de personnage 【Luruka : partie 4】"}
 {"id":1510669,"jp":"キャラクター訓練【モーレン：その1】","fr":"Entraînement de personnage 【Morwyn : partie 1】"}
 {"id":1510671,"jp":"キャラクター訓練【モーレン：その2】","fr":"Entraînement de personnage 【Morwyn : partie 2】"}
 {"id":1510672,"jp":"追撃後、通常攻撃の第4段を発動可能です。","fr":"Après l'attaque de suivi, vous pouvez déclencher le 4e coup de l'Attaque normale."}
 {"id":1510673,"jp":"キャラクター訓練【ファランタ：その1】","fr":"Entraînement de personnage 【Faridah : partie 1】"}
+{"id":1510674,"jp":"特定の攻撃後、<color={highlight}>タイミングよく攻撃ボタンを押す</color>と追撃を発動できます。","fr":"Après certaines attaques, <color={highlight}>appuyez sur le bouton d'attaque au bon moment</color> pour déclencher une attaque de suivi."}
 {"id":1510675,"jp":"キャラクター訓練【ファランタ：その2】","fr":"Entraînement de personnage 【Faridah : partie 2】"}
 {"id":1510677,"jp":"キャラクター訓練【ファランタ：その3】","fr":"Entraînement de personnage 【Faridah : partie 3】"}
+{"id":1510678,"jp":"星響スキルを発動した後、攻撃ボタンを連打することで必ず追撃が発動します。追撃は最大3回まで発動できます。","fr":"Après avoir lancé une Compétence Écho stellaire, martelez le bouton d'attaque pour déclencher à coup sûr une attaque de suivi. Elle peut se déclencher jusqu'à 3 fois."}
 {"id":1510679,"jp":"キャラクター訓練【アビィ：その1】","fr":"Entraînement de personnage 【Abby : partie 1】"}
 {"id":1510681,"jp":"キャラクター訓練【アビィ：その2】","fr":"Entraînement de personnage 【Abby : partie 2】"}
 {"id":1510684,"jp":"キャラクター訓練【シャル：その1】","fr":"Entraînement de personnage 【Shalle : partie 1】"}
@@ -13242,24 +13259,35 @@
 {"id":1510714,"jp":"入れ替え","fr":"Échanger"}
 {"id":1510716,"jp":"寮","fr":"Dortoir"}
 {"id":1510718,"jp":"家具の購入","fr":"Acheter des meubles"}
+{"id":1510719,"jp":"家具ショップでは、お気に入りのキャラクターのために家具を購入できます。","fr":"Dans la boutique de meubles, vous pouvez acheter des meubles pour vos personnages préférés."}
 {"id":1510720,"jp":"家具タイプ","fr":"Types de meubles"}
+{"id":1510721,"jp":"家具によって同時に使用できる人数が異なります。必要に応じて購入してください。","fr":"Le nombre de personnes pouvant utiliser un meuble en même temps varie selon le meuble. Achetez-les selon vos besoins."}
 {"id":1510722,"jp":"家具のプレゼント","fr":"Offrir des meubles"}
+{"id":1510723,"jp":"購入した家具は、贈りものとして対象のキャラクターに渡せます。","fr":"Les meubles achetés peuvent être offerts en cadeau au personnage concerné."}
 {"id":1510724,"jp":"家具の使用","fr":"Utiliser des meubles"}
 {"id":1510726,"jp":"緊急依頼","fr":"Commandes urgentes"}
 {"id":1510728,"jp":"星極連撃","fr":"Enchaînement Zénith stellaire"}
 {"id":1510731,"jp":"取引所","fr":"Comptoir d'échange"}
 {"id":1510734,"jp":"巣に帰るドゥル","fr":"Les Dur rentrent au nid"}
 {"id":1510736,"jp":"湧き出るアウラ","fr":"Aura jaillissante"}
+{"id":1510739,"jp":"アウラの出現を阻止することに成功すると、報酬を獲得できます。","fr":"Si vous empêchez l'apparition d'une Aura, vous obtenez une récompense."}
 {"id":1510740,"jp":"星で描く麦畑","fr":"Champ de blé en étoiles"}
 {"id":1510742,"jp":"ごろごろグラゴ","fr":"Grago qui roule"}
+{"id":1510743,"jp":"グラゴは、障害物をすべて吹き飛ばす完璧なローリングを夢見ています。\nグラゴに変身して、最高のお手本を見せてあげましょう。","fr":"Grago rêve d'un roulé-boulé parfait qui balaie tous les obstacles.\nTransformez-vous en Grago et montrez-lui le meilleur exemple."}
 {"id":1510746,"jp":"堅い志","fr":"Volonté inébranlable"}
+{"id":1510747,"jp":"守護の意志を貫きましょう！次々と襲い来る危険のなかで戦い抜き、最後の瞬間まで守りきってください！","fr":"Restez fidèle à votre volonté de protéger ! Combattez au milieu des dangers qui s'enchaînent et défendez jusqu'au dernier instant !"}
+{"id":1510748,"jp":"作物を守るために立てられたかかしが、すこし壊れてしまいました。かかしを修復し、危機が去るまで守り抜きましょう！","fr":"L'épouvantail dressé pour protéger les cultures est un peu abîmé. Réparez-le et défendez-le jusqu'à ce que le danger soit écarté !"}
 {"id":1510751,"jp":"リィフの演奏","fr":"Le concert de Riff"}
 {"id":1510755,"jp":"朽ちた橋の修復","fr":"Réparer le pont vermoulu"}
+{"id":1510757,"jp":"修復すれば、両岸の道がつながり、移動がもっと便利になります！","fr":"Une fois réparé, il relie les deux rives et facilite encore les déplacements !"}
 {"id":1510758,"jp":"昇降機の修復","fr":"Réparer l'élévateur"}
+{"id":1510760,"jp":"修復すれば、高速で昇降できるようになり、移動がもっと便利になります！","fr":"Une fois réparé, il permet de monter et de descendre rapidement, et facilite encore les déplacements !"}
 {"id":1510762,"jp":"強力な敵","fr":"Ennemis puissants"}
 {"id":1510764,"jp":"潜影探し","fr":"À la recherche des ombres tapies"}
 {"id":1510767,"jp":"キボの群れ","fr":"Troupeau de Kibo"}
 {"id":1510770,"jp":"キボを救出","fr":"Secourir des Kibo"}
+{"id":1510772,"jp":"大変です。キボたちが悪党によって拘束装置に閉じ込められています。","fr":"Quelle catastrophe. Des Kibo ont été enfermés dans des dispositifs de contention par des malfrats."}
+{"id":1510773,"jp":"見張りの敵を倒して装置を破壊し、キボたちを解放してあげましょう！","fr":"Battez les ennemis de garde, détruisez les dispositifs et libérez les Kibo !"}
 {"id":1510774,"jp":"シリンダー調整","fr":"Réglage des cylindres"}
 {"id":1510776,"jp":"キャラクター訓練【ペイペイ：その1】","fr":"Entraînement de personnage 【Peipei : partie 1】"}
 {"id":1510778,"jp":"キャラクター訓練【ペイペイ：その2】","fr":"Entraînement de personnage 【Peipei : partie 2】"}
@@ -13280,28 +13308,41 @@
 {"id":1510808,"jp":"遠隔パリィ：その2","fr":"Parade à distance : partie 2"}
 {"id":1510810,"jp":"体勢ゲージ：その1","fr":"Jauge de posture : partie 1"}
 {"id":1510812,"jp":"体勢ゲージ：その2","fr":"Jauge de posture : partie 2"}
+{"id":1510813,"jp":"キボを編成すると、敵の体勢ゲージに<color={highlight}>協力攻撃ポイント</color>が表示されます。","fr":"Quand vous composez une équipe de Kibo, des <color={highlight}>points d'attaque coopérative</color> s'affichent sur la Jauge de posture de l'ennemi."}
 {"id":1510814,"jp":"体勢ゲージ：その3","fr":"Jauge de posture : partie 3"}
 {"id":1510816,"jp":"スターリンク攻撃：その1","fr":"Attaque de Lien stellaire : partie 1"}
 {"id":1510818,"jp":"スターリンク攻撃：その2","fr":"Attaque de Lien stellaire : partie 2"}
+{"id":1510819,"jp":"この時、敵はブレイク状態になって攻撃しなくなり、受けるダメージが150%になります。","fr":"À ce moment, l'ennemi passe en état de brise, cesse d'attaquer et subit 150 % de DGT."}
 {"id":1510820,"jp":"読みもの","fr":"Lectures"}
 {"id":1510822,"jp":"宝箱","fr":"Coffre au trésor"}
 {"id":1510826,"jp":"元素薬材","fr":"Plantes médicinales élémentaires"}
+{"id":1510828,"jp":"<color={highlight}>適切な元素</color>で攻撃することで、より効率的に採取できます。","fr":"Attaquer avec l'<color={highlight}>élément approprié</color> permet de récolter plus efficacement."}
 {"id":1510829,"jp":"輝くキボ","fr":"Kibo brillant"}
 {"id":1510833,"jp":"星彩キボ","fr":"Kibo étoilés"}
+{"id":1510838,"jp":"畑のマスを通過する時、そのマスにスタンシアの種を蒔きます。","fr":"En passant sur une case du champ, vous y semez des graines de Stancia."}
 {"id":1510841,"jp":"ライドラン","fr":"Course à dos de Kibo"}
+{"id":1510844,"jp":"茨は<color={highlight}>ジャンプ</color>で飛び越えられます。","fr":"Les ronces peuvent être franchies d'un <color={highlight}>saut</color>."}
 {"id":1510847,"jp":"回遊鳥","fr":"Oiseaux migrateurs"}
+{"id":1510849,"jp":"<color={highlight}>元素の渦に触れる</color>と、大量の元素の結晶を獲得できます。","fr":"<color={highlight}>Toucher un tourbillon élémentaire</color> donne de grandes quantités de cristaux élémentaires."}
 {"id":1510850,"jp":"鳴雷の門","fr":"La porte du tonnerre"}
 {"id":1510853,"jp":"キボの相棒","fr":"Kibo partenaire"}
 {"id":1510856,"jp":"ドッグファイト","fr":"Combat aérien"}
+{"id":1510857,"jp":"ドッグファイト中、パモーラは<color={highlight}>自動で前進</color>します。","fr":"Pendant le combat aérien, Pamora <color={highlight}>avance automatiquement</color>."}
+{"id":1510859,"jp":"凶鳥が攻撃してきた時は、<color={highlight}>ロール</color>で回避することができます。","fr":"Quand un oiseau maudit attaque, vous pouvez l'esquiver avec une <color={highlight}>roulade</color>."}
 {"id":1510861,"jp":"簡易ノード","fr":"Nœud simplifié"}
+{"id":1510862,"jp":"星脈ノードの建設時に出た余り材料で作られた簡易ノード。ワープと回復機能のみ利用可能です。","fr":"Nœud simplifié fabriqué avec les matériaux restants de la construction d'un nœud de veine stellaire. Seules les fonctions de téléportation et de soins sont disponibles."}
 {"id":1510863,"jp":"フィールドバフ施設","fr":"Installation de soutien de terrain"}
 {"id":1510865,"jp":"複数体勢ゲージ：その1","fr":"Jauges de posture multiples : partie 1"}
+{"id":1510866,"jp":"一部の強力な敵の体勢ゲージには、追加の協力攻撃ポイントがあります。","fr":"La Jauge de posture de certains ennemis puissants possède des points d'attaque coopérative supplémentaires."}
 {"id":1510867,"jp":"複数体勢ゲージ：その2","fr":"Jauges de posture multiples : partie 2"}
 {"id":1510869,"jp":"珍跡キボ","fr":"Kibo des vestiges"}
 {"id":1510871,"jp":"幻域獣","fr":"Bêtes du domaine illusoire"}
 {"id":1510874,"jp":"マウントおやつ袋","fr":"Sac de friandises pour monture"}
+{"id":1510875,"jp":"マウントおやつ袋に食物を補充しておけば、マウントの満腹度が足りなくなったとき、自動で食べてくれます。","fr":"Si vous approvisionnez le sac de friandises pour monture en nourriture, la monture mangera automatiquement quand sa satiété sera insuffisante."}
 {"id":1510876,"jp":"農園採集施設","fr":"Installation de collecte de la ferme"}
+{"id":1510877,"jp":"林果園と採集所は採集設備です。資源を獲得するには、対応するキボを派遣して作業させる必要があります。","fr":"Le verger et le poste de cueillette sont des installations de collecte. Pour obtenir des ressources, il faut affecter les Kibo correspondants au travail."}
 {"id":1510878,"jp":"キャラクター訓練【源千代：その1】","fr":"Entraînement de personnage 【Minamoto Chiyo : partie 1】"}
+{"id":1510879,"jp":"源千代がチャージ攻撃/星響スキル/星閃スキル/星極スキルを発動すると、『業火』を獲得する（最大8スタック）。","fr":"Quand Minamoto Chiyo déclenche une Attaque chargée, une Compétence Écho stellaire, une Compétence Éclair stellaire ou une Compétence Zénith stellaire, obtient « Feu infernal » (8 cumuls max.)."}
 {"id":1510880,"jp":"キャラクター訓練【源千代：その2】","fr":"Entraînement de personnage 【Minamoto Chiyo : partie 2】"}
 {"id":1510882,"jp":"キャラクター訓練【源千代：その3】","fr":"Entraînement de personnage【Minamoto Chiyo : partie 3】"}
 {"id":1510884,"jp":"エネルギー裂隙と砕けた岩石","fr":"Faille d'Énergie et roches fragmentées"}
@@ -13309,6 +13350,10 @@
 {"id":1510889,"jp":"造影儀","fr":"Imageur"}
 {"id":1510891,"jp":"回転足場","fr":"Plateformes rotatives"}
 {"id":1510892,"jp":"装置を操作すると、マップ上の足場を回転させて移動ルートを変更できます。\n足場を正しい位置まで回転させれば、<color={highlight}>次の地点へ進む</color>ことができます。","fr":"Actionnez le mécanisme pour faire pivoter les plateformes de la carte et modifier l'itinéraire.\nUne fois les plateformes tournées dans la bonne position, vous pourrez <color={highlight}>avancer jusqu'au point suivant</color>."}
+{"id":1510893,"jp":"シャドウブレイズは一部の強力なスキルを発動する際、過剰なスーニヤエネルギーを吸収してシールドを生成します。","fr":"Quand Shadowblaze lance certaines compétences puissantes, il absorbe un excès d'énergie de Sunya pour créer un bouclier."}
+{"id":1510895,"jp":"シャドウブレイズは一部の強力なスキルを発動する際、3つのエネルギーボールからエネルギーを吸収してチャージを行います。","fr":"Quand Shadowblaze lance certaines compétences puissantes, il absorbe l'énergie de 3 boules d'énergie pour se charger."}
+{"id":1510897,"jp":"アマルテイアは一部の強力なスキルを発動する際、破壊可能な巨大水弾を召喚します。","fr":"Quand Amalthea lance certaines compétences puissantes, elle invoque un énorme projectile d'eau destructible."}
+{"id":1510899,"jp":"モルフォーレは一部の強力なスキルを発動する際、自身にダメージを防ぐシールドを展開します。","fr":"Quand Morphore lance certaines compétences puissantes, il déploie autour de lui un bouclier qui bloque les DGT."}
 {"id":1510903,"jp":"モルフォーレ＆ナイトフォール","fr":"Morphore et Vespervamp"}
 {"id":1510906,"jp":"沃土","fr":"Terre fertile"}
 {"id":1510908,"jp":"武器工房","fr":"Atelier d'armes"}
@@ -13326,8 +13371,10 @@
 {"id":1510939,"jp":"封印コンソール","fr":"Console du sceau"}
 {"id":1510945,"jp":"飛空船を調べる","fr":"Inspecter le vaisseau volant"}
 {"id":1510947,"jp":"キボを追い払う","fr":"Chasser les Kibo"}
+{"id":1510948,"jp":"<color={highlight}>キボに近づく</color>と、逃げるキボを範囲外へ追い払うことができます。","fr":"<color={highlight}>S'approcher d'un Kibo</color> permet de chasser hors de la zone le Kibo qui fuit."}
 {"id":1510949,"jp":"種まき","fr":"Semer"}
 {"id":1510953,"jp":"クロディーメを数える","fr":"Compter les Clodime"}
+{"id":1510955,"jp":"できるだけ<color={highlight}>クロディーメ以外のキボは避けて</color>ね","fr":"Évitez autant que possible <color={highlight}>les Kibo autres que Clodime</color>, d'accord ?"}
 {"id":1510956,"jp":"ヘルプ一覧","fr":"Liste d'aide"}
 {"id":1510958,"jp":"騎乗","fr":"Chevaucher"}
 {"id":1510960,"jp":"協力攻撃","fr":"Attaque coopérative"}
@@ -13335,39 +13382,167 @@
 {"id":1510966,"jp":"キャラクターとの交流","fr":"Interagir avec les personnages"}
 {"id":1510968,"jp":"農園派遣","fr":"Affectation à la ferme"}
 {"id":1510971,"jp":"探索と宝探し","fr":"Exploration et chasse au trésor"}
+{"id":1510972,"jp":"多様な移動方法を駆使して、世界の隅々を探索し、宝を探しましょう","fr":"Explorez tous les recoins du monde et partez à la chasse aux trésors grâce à de multiples moyens de déplacement"}
+{"id":1510974,"jp":"<color={highlight}>メインメニュー</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Menu principal</color>"}
+{"id":1510977,"jp":"<color={highlight}>チーム編成</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Composition d'équipe</color>"}
+{"id":1510980,"jp":"<color={highlight}>キャラクター</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Personnage</color>"}
+{"id":1510983,"jp":"<color={highlight}>キボ</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Kibo</color>"}
+{"id":1510986,"jp":"<color={highlight}>イベント</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Événement</color>"}
+{"id":1510989,"jp":"<color={highlight}>依頼</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Missions</color>"}
+{"id":1510992,"jp":"<color={highlight}>観測</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Observation</color>"}
+{"id":1510995,"jp":"<color={highlight}>漫遊記</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Carnet de voyage</color>"}
+{"id":1510998,"jp":"<color={highlight}>バッグ</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Sac</color>"}
+{"id":1511000,"jp":"<color={highlight}>農園本部</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>QG de la ferme</color>"}
+{"id":1511002,"jp":"<color={highlight}>心得</color>ボタンを押してください。","fr":"Appuyez sur le bouton <color={highlight}>Savoir-faire</color>."}
+{"id":1511004,"jp":"<color={highlight}>ヘルプ</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Aide</color>"}
+{"id":1511006,"jp":"<color={highlight}>キボ図鑑</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Encyclopédie des Kibo</color>"}
+{"id":1511008,"jp":"<color={highlight}>星源の庭</color>ボタンを押してください。","fr":"Appuyez sur le bouton <color={highlight}>Jardin de la source stellaire</color>."}
+{"id":1511010,"jp":"<color={highlight}>クエスト</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Quêtes</color>"}
+{"id":1511012,"jp":"<color={highlight}>実績</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Succès</color>"}
+{"id":1511014,"jp":"<color={highlight}>装備</color>タブを押してください","fr":"Appuyez sur l'onglet <color={highlight}>Équipement</color>"}
+{"id":1511016,"jp":"<color={highlight}>星祝</color>タブを押してください","fr":"Appuyez sur l'onglet <color={highlight}>Bénédiction stellaire</color>"}
+{"id":1511018,"jp":"<color={highlight}>戻る</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Retour</color>"}
+{"id":1511020,"jp":"<color={highlight}>終了</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Terminer</color>"}
+{"id":1511022,"jp":"<color={highlight}>閉じる</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Fermer</color>"}
+{"id":1511024,"jp":"<color={highlight}>確認</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Confirmer</color>"}
+{"id":1511026,"jp":"<color={highlight}>キャンセル</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Annuler</color>"}
+{"id":1511027,"jp":"<color={highlight}>メニュー</color>を押して開く","fr":"Appuyer sur <color={highlight}>Menu</color> pour ouvrir"}
+{"id":1511029,"jp":"<color={highlight}>マップ</color>を押して開く","fr":"Appuyer sur <color={highlight}>Carte</color> pour ouvrir"}
+{"id":1511031,"jp":"<color={highlight}>星協集会</color>タブを押してください","fr":"Appuyez sur l'onglet <color={highlight}>Réunion de l'Association stellaire</color>"}
+{"id":1511034,"jp":"<color={highlight}>ESC</color>を押して畑仕事モードを終了","fr":"Appuyer sur <color={highlight}>ESC</color> pour quitter le mode Travaux des champs"}
+{"id":1511036,"jp":"<color={highlight}>終了</color>を押して畑仕事モードを終了","fr":"Appuyer sur <color={highlight}>Terminer</color> pour quitter le mode Travaux des champs"}
 {"id":1511038,"jp":"押して編成する","fr":"Appuyer pour former l'équipe"}
+{"id":1511039,"jp":"<actionkey>UI/Submit</actionkey>で編成する","fr":"<actionkey>UI/Submit</actionkey> pour former l'équipe"}
 {"id":1511042,"jp":"テララを選択","fr":"Choisir Terara"}
+{"id":1511043,"jp":"<actionkey>UI/Submit</actionkey>でテララを選択","fr":"<actionkey>UI/Submit</actionkey> pour choisir Terara"}
+{"id":1511044,"jp":"スターリンク中はここから<color={highlight}>スターリンクの成功率</color>を確認できるのだ！","fr":"Pendant un Lien stellaire, on peut consulter ici le <color={highlight}>taux de réussite du Lien stellaire</color> !"}
+{"id":1511045,"jp":"<color={highlight}>スターリンク成功率</color>詳細パネルを開く","fr":"Ouvrir le panneau détaillé du <color={highlight}>taux de réussite du Lien stellaire</color>"}
+{"id":1511046,"jp":"<color={highlight}>詳細を確認</color>を押してください","fr":"Appuyez sur <color={highlight}>Consulter les détails</color>"}
 {"id":1511047,"jp":"スターリンク成功率は、いろんな要素で決まるぞ。","fr":"Le taux de réussite du Lien stellaire dépend de plusieurs facteurs."}
 {"id":1511050,"jp":"でも、心配はいらないのだ！","fr":"Mais pas d'inquiétude !"}
 {"id":1511052,"jp":"よーし、それじゃ自由にスターリンクしてみるのだ！","fr":"Très bien, il est temps d'essayer de former des Liens stellaires librement !"}
 {"id":1511053,"jp":"共鳴の石台のレシピが解放されたのだ！","fr":"La recette du socle de résonance est débloquée !"}
+{"id":1511054,"jp":"<color={highlight}>共鳴の石台のレシピ</color>を押してください","fr":"Appuyez sur <color={highlight}>la recette du socle de résonance</color>"}
 {"id":1511056,"jp":"さっそく作ってみよう！","fr":"Fabriquons-en un tout de suite !"}
+{"id":1511058,"jp":"建設可能エリア内で<color={highlight}>Eキー</color>を押すと畑仕事モードに入ります。","fr":"Dans la zone constructible, appuyez sur la <color={highlight}>touche E</color> pour passer en mode Travaux des champs."}
+{"id":1511059,"jp":"押して<color={highlight}>畑仕事モード</color>に切り替える","fr":"Appuyer pour passer en <color={highlight}>mode Travaux des champs</color>"}
+{"id":1511063,"jp":"<color={highlight}>農地開墾</color>を押してください","fr":"Appuyez sur <color={highlight}>Défrichage des champs</color>"}
+{"id":1511065,"jp":"対応する属性のキボを使うと、謎の仕掛けを解き明かせる","fr":"Un Kibo de l'élément correspondant permet de résoudre un mystérieux mécanisme"}
+{"id":1511067,"jp":"キボを使って<color={highlight}>謎の仕掛けを解き明かす","fr":"Utiliser un Kibo pour <color={highlight}>résoudre un mystérieux mécanisme"}
+{"id":1511069,"jp":"<color={highlight}>集中</color>を使用すると、採集物をすぐに見つけられます。","fr":"Utilisez <color={highlight}>Concentration</color> pour repérer immédiatement les objets à récolter."}
+{"id":1511071,"jp":"<color={highlight}>一括装備</color>を押してください","fr":"Appuyez sur <color={highlight}>Tout équiper</color>"}
+{"id":1511072,"jp":"<color={highlight}>バッグ</color>を押してください","fr":"Appuyez sur <color={highlight}>Sac</color>"}
+{"id":1511073,"jp":"<color={highlight}>料理</color>を押してください","fr":"Appuyez sur <color={highlight}>Cuisine</color>"}
+{"id":1511074,"jp":"<color={highlight}>食べる</color>を押してください","fr":"Appuyez sur <color={highlight}>Manger</color>"}
+{"id":1511075,"jp":"<color={highlight}>使用確認</color>を押してください","fr":"Appuyez sur <color={highlight}>Confirmer l'utilisation</color>"}
+{"id":1511077,"jp":"押して<color={highlight}>協力攻撃</color>を発動してください","fr":"Appuyez pour déclencher une <color={highlight}>attaque coopérative</color>"}
+{"id":1511079,"jp":"戦闘でチャージを行い、Rキーで<color={highlight}>星極スキル</color>を発動できます。","fr":"Chargez en combat, puis appuyez sur la touche R pour lancer la <color={highlight}>Compétence Zénith stellaire</color>."}
 {"id":1511081,"jp":"星臨者、ファイト開始だ！","fr":"Enfant des étoiles, que le combat commence !"}
 {"id":1511082,"jp":"まずはキボカードについて知らないとな。","fr":"Il faut d'abord apprendre à connaître les cartes Kibo."}
 {"id":1511083,"jp":"キボファイトで発揮する能力はキボによって違うんだ。","fr":"Chaque Kibo possède des capacités différentes en Duel de Kibo."}
+{"id":1511084,"jp":"それぞれの能力は<color={highlight}>ファイトタグ</color>で区別できるぞ！","fr":"Chaque capacité se distingue par son <color={highlight}>badge de duel</color> !"}
+{"id":1511085,"jp":"異なるタグのキボをうまく組み合わせることで、キボファイトの勝率を上げることができる。","fr":"En combinant bien des Kibo de badges différents, on peut améliorer son taux de victoire en Duel de Kibo."}
+{"id":1511086,"jp":"持ってるカードから最初のキボを選んで出撃させてみろ！","fr":"Choisissons le premier Kibo à envoyer parmi les cartes en main !"}
+{"id":1511087,"jp":"<color={highlight}>先発キボを選択</color>を押してください","fr":"Appuyez sur <color={highlight}>Choisir le Kibo de départ</color>"}
+{"id":1511089,"jp":"ファイトの勝敗は、<color={highlight}>ファイトポイント</color>で決まるんだ。","fr":"L'issue du duel se décide aux <color={highlight}>points de duel</color>."}
+{"id":1511090,"jp":"キボが<color={highlight}>戦闘不能になる</color>と、ファイトポイントが引かれていく……","fr":"Quand un Kibo est <color={highlight}>mis hors de combat</color>, des points de duel sont retirés…"}
 {"id":1511093,"jp":"それから、キボファイトには時間制限もあるんだ。","fr":"Il y a aussi une limite de temps dans le Duel de Kibo."}
+{"id":1511095,"jp":"こっちが出すのは<color={highlight}>氷属性のウル</color>だ。ウルはすっごく強いからな！","fr":"De notre côté, c'est <color={highlight}>Uru, de l'élément Glace</color>. Uru est vraiment très fort !"}
 {"id":1511096,"jp":"だけど、弱点もある。","fr":"Mais il a aussi un point faible."}
+{"id":1511097,"jp":"有利に進めたいなら、<color={highlight}>風属性のハーチャ</color>を出撃させてみろ！","fr":"Pour prendre l'avantage, envoyons <color={highlight}>Harcha, de l'élément Vent</color> !"}
+{"id":1511098,"jp":"<color=#91fff9>キボをドラッグ</color>して配置エリアに置いて","fr":"<color=#91fff9>Faites glisser un Kibo</color> vers la zone de placement"}
+{"id":1511102,"jp":"<color={highlight}>視点切り替え</color>を押すんだ","fr":"Appuyez sur <color={highlight}>Changer de vue</color>"}
 {"id":1511104,"jp":"どーだ？カンタンだろ？","fr":"Alors ? Facile, non ?"}
+{"id":1511105,"jp":"ほら、<color={highlight}>つぎキボ</color>も配置してみろ！","fr":"Allez, plaçons aussi <color={highlight}>le Kibo suivant</color> !"}
+{"id":1511106,"jp":"同時にフィールドに出せるキボの数には数の限りがある。","fr":"Le nombre de Kibo qu'on peut aligner en même temps sur le terrain est limité."}
+{"id":1511107,"jp":"フィールドのキボが上限に達した場合、呼び出すにはカードのなかから一体を選んで入れ替える必要があるんだ。","fr":"Quand les Kibo sur le terrain atteignent la limite, il faut, pour en appeler un nouveau, choisir une carte et l'échanger avec l'un d'eux."}
 {"id":1511108,"jp":"試してみろ！","fr":"Allez, on essaie !"}
+{"id":1511109,"jp":"<color={highlight}>キボ入れ替え</color>を押すんだ","fr":"Appuyez sur <color={highlight}>Échanger un Kibo</color>"}
+{"id":1511110,"jp":"<color={highlight}>キボ入れ替え</color>を押してください","fr":"Appuyez sur <color={highlight}>Échanger un Kibo</color>"}
 {"id":1511111,"jp":"もうバッチリみたいだな。","fr":"On dirait que tout est bien compris."}
 {"id":1511112,"jp":"こっからさきは自由にやってみろ！","fr":"Pour la suite, place à l'improvisation !"}
+{"id":1511114,"jp":"キボファイトの時は、できるだけキボの長所を活かすようにするといいぞ。","fr":"En Duel de Kibo, mieux vaut exploiter autant que possible les points forts de chaque Kibo."}
+{"id":1511116,"jp":"防御するキボを配置したら、つぎは<color={highlight}>火力</color>を担当するキボを配置するんだ。","fr":"Une fois le Kibo de défense en place, on place celui qui s'occupe de la <color={highlight}>puissance de feu</color>."}
+{"id":1511119,"jp":"防御型と火力型のキボが揃えば、自然と<color={highlight}>回復</color>担当のキボも必要になる！","fr":"Avec des Kibo de défense et d'attaque, il faut naturellement aussi un Kibo chargé des <color={highlight}>soins</color> !"}
+{"id":1511120,"jp":"<color={highlight}>回復タグ</color>を持つクロディーメを配置しよう！","fr":"Plaçons Clodime, qui possède le <color={highlight}>badge de soins</color> !"}
 {"id":1511121,"jp":"これで、防御、攻撃、回復の鉄板トリオの完成だ！","fr":"Et voilà le trio incontournable : défense, attaque et soins !"}
+{"id":1511122,"jp":"回復タイプのキボはスキルを使用することで、ダメージを受けたキボのHPを回復できる。","fr":"Les Kibo de type soins peuvent, grâce à leurs compétences, restaurer les PV des Kibo qui ont subi des DGT."}
+{"id":1511123,"jp":"相手の出撃してる2体のキボはどちらも<color={highlight}>風属性</color>だ。","fr":"Les 2 Kibo adverses envoyés au combat sont tous deux de l'<color={highlight}>élément Vent</color>."}
+{"id":1511124,"jp":"風属性に有利な<color={highlight}>木属性</color>のキボ、クローネックとフォーリーを配置しよう！","fr":"Plaçons Kronek et Foley, des Kibo de l'<color={highlight}>élément Bois</color>, avantageux contre le Vent !"}
+{"id":1511125,"jp":"<color={highlight}>属性で有利</color>な場合、キボの与えるダメージが大幅にアップするぞ！","fr":"Quand l'<color={highlight}>avantage élémentaire</color> est de votre côté, les DGT infligés par le Kibo augmentent fortement !"}
+{"id":1511126,"jp":"相手がこっちのマグマロスにとって<color={highlight}>不利</color>なマスティーバを出撃させたな！","fr":"L'adversaire a envoyé Mustiva, un Kibo <color={highlight}>désavantageux</color> pour notre Magmaros !"}
+{"id":1511127,"jp":"<color={highlight}>入れ替え</color>を使って、マグマロスをカメレウスに入れ替えよう！","fr":"Utilisons <color={highlight}>Échanger</color> pour remplacer Magmaros par Chameleus !"}
+{"id":1511128,"jp":"木属性のカメレウスは水属性のマスティーバに対して有利だから、受けるダメージが大きく減るんだ。","fr":"Chameleus, de l'élément Bois, est avantagé contre Mustiva, de l'élément Eau : les DGT subis sont donc fortement réduits."}
+{"id":1511129,"jp":"敵のラフィーロックは味方のクローネックに対して<color={highlight}>有利</color>","fr":"Le Fyrock ennemi est <color={highlight}>avantageux</color> contre notre Kronek"}
+{"id":1511130,"jp":"<color={highlight}>入れ替え</color>を使って、クローネックをメテオールに入れ替えよう","fr":"Utilisons <color={highlight}>Échanger</color> pour remplacer Kronek par Staray"}
+{"id":1511131,"jp":"水属性のメテオールは火属性のフィーロックに対して有利だから、より大きなダメージを与えることができる。","fr":"Staray, de l'élément Eau, est avantagé contre Fyrock, de l'élément Feu : il peut donc infliger davantage de DGT."}
+{"id":1511133,"jp":"一部のキボは待機中に<color={highlight}>エネルギーを回復</color>できるんだ！","fr":"Certains Kibo peuvent <color={highlight}>récupérer de l'Énergie</color> pendant qu'ils attendent !"}
+{"id":1511134,"jp":"エネルギーが最大のキボを呼び出すと、<color={highlight}>登場スキル</color>が発動するぞ！","fr":"Appeler un Kibo dont l'Énergie est au maximum déclenche sa <color={highlight}>compétence d'entrée</color> !"}
+{"id":1511135,"jp":"エネルギーが最大のキボを連続でフィールドに出すことで、すっごい力を発揮できるんだ。","fr":"En enchaînant sur le terrain des Kibo à Énergie maximale, on peut déployer une force incroyable."}
+{"id":1511147,"jp":"攻撃ボタンで<color={highlight}>攻撃</color>を発動できます","fr":"Le bouton d'attaque permet de lancer une <color={highlight}>attaque</color>"}
+{"id":1511149,"jp":"攻撃ボタンを長押しすると<color={highlight}>チャージ攻撃</color>を発動できます","fr":"Maintenir le bouton d'attaque enfoncé permet de lancer une <color={highlight}>Attaque chargée</color>"}
+{"id":1511151,"jp":"押すと<color={highlight}>星響スキル</color>を発動できます","fr":"Appuyez pour lancer une <color={highlight}>Compétence Écho stellaire</color>"}
+{"id":1511154,"jp":"<color={highlight}>観測</color>を押してください","fr":"Appuyez sur <color={highlight}>Observation</color>"}
+{"id":1511156,"jp":"<color={highlight}>1回観測</color>を押してください","fr":"Appuyez sur <color={highlight}>Observation ×1</color>"}
 {"id":1511159,"jp":"押して操作するキャラクターを切り替えます。","fr":"Appuyez pour changer de personnage contrôlé."}
+{"id":1511161,"jp":"押して<color={highlight}>操作するキャラクター</color>を切り替えます","fr":"Appuyez pour changer de <color={highlight}>personnage contrôlé</color>"}
+{"id":1511163,"jp":"戦闘でチャージを行い、<color={highlight}>星極スキル</color>を発動できます。","fr":"Chargez en combat pour pouvoir lancer la <color={highlight}>Compétence Zénith stellaire</color>."}
+{"id":1511164,"jp":"押して<color={highlight}>星極スキル</color>を発動","fr":"Appuyer pour lancer la <color={highlight}>Compétence Zénith stellaire</color>"}
+{"id":1511168,"jp":"押して<color={highlight}>キボスキル</color>を発動","fr":"Appuyer pour lancer une <color={highlight}>compétence de Kibo</color>"}
+{"id":1511170,"jp":"一部のキボスキルで、<color={highlight}>刻印</color>を増やすことができます。","fr":"Certaines compétences de Kibo permettent d'augmenter les <color={highlight}>Sceaux</color>."}
+{"id":1511172,"jp":"ロックオンを押すと、敵を<color={highlight}>ロックオン</color>できます","fr":"Appuyer sur Verrouillage permet de <color={highlight}>verrouiller</color> un ennemi"}
+{"id":1511174,"jp":"<color={highlight}>完了</color>したクエストをタップして、報酬を受け取ります","fr":"Touchez une quête <color={highlight}>terminée</color> pour recevoir sa récompense"}
+{"id":1511177,"jp":"押すと<color={highlight}>レベルアップ状態</color>に入ります","fr":"Appuyer permet de passer en <color={highlight}>mode de montée de niveau</color>"}
+{"id":1511178,"jp":"<actionkey>UI/Submit</actionkey> でレベルアップ状態に入る","fr":"<actionkey>UI/Submit</actionkey> pour passer en mode de montée de niveau"}
+{"id":1511179,"jp":"押すとレベルアップアイテムを<color={highlight}>素早く選択</color>できます","fr":"Appuyer permet de <color={highlight}>sélectionner rapidement</color> les objets de montée de niveau"}
+{"id":1511181,"jp":"ここを押すと、<color={highlight}>レベルアップ</color>！さっそく試してみるのだ！","fr":"Appuyez ici pour <color={highlight}>monter de niveau</color> ! Essayons tout de suite !"}
+{"id":1511187,"jp":"タイミングを見計らって、パリィで<color={highlight}>カウンター</color>を仕掛けるのだ！","fr":"Il faut bien choisir son moment et déclencher un <color={highlight}>contre</color> avec la Parade !"}
 {"id":1511190,"jp":"ファイトのまえに、編成のしかたを確認しておくぞ！","fr":"Avant le combat, voyons comment composer une équipe !"}
+{"id":1511191,"jp":"いいか！キボファイトをはじめるには、キボが全部で8匹必要なんだ。","fr":"Bon ! Pour lancer un Duel de Kibo, il faut 8 Kibo en tout."}
+{"id":1511192,"jp":"まあ、今回はアタシが特別に貸してやるから、心配いらないぞ！","fr":"Pas d'inquiétude : cette fois, c'est moi qui vous les prête, à titre exceptionnel !"}
 {"id":1511193,"jp":"このあと、ここで出撃させたいキボを選べるからな。","fr":"Il sera ensuite possible de choisir ici les Kibo à déployer."}
+{"id":1511194,"jp":"これはファイタースキルだ。うまく使えば、流れをひっくり返せるぞ！","fr":"Voici une compétence de Combattant. Bien utilisée, elle peut renverser le cours du duel !"}
+{"id":1511195,"jp":"ファイタースキルにはいろんな種類があるけど、今回はこのままでいこう！","fr":"Il existe toutes sortes de compétences de Combattant, mais pour cette fois, on garde celle-ci !"}
+{"id":1511196,"jp":"確認ができたら戻ろう。編成は<color={highlight}>自動保存</color>されるからな！","fr":"Une fois la vérification faite, on revient. La composition de l'équipe est <color={highlight}>enregistrée automatiquement</color> !"}
 {"id":1511197,"jp":"そんじゃ！ファイト開始だ！","fr":"Allez ! Que le combat commence !"}
 {"id":1511198,"jp":"キボの近くで<actionkey>MainInput/MainPetCatch</actionkey> を押すと、星絆状態に入ります。","fr":"Appuyez sur <actionkey>MainInput/MainPetCatch</actionkey> près d'un Kibo pour passer en mode Lien stellaire."}
+{"id":1511199,"jp":"キボの近くで<color={highlight}>星絆ボタン</color>を押すと、星絆状態に入ります。","fr":"Près d'un Kibo, appuyez sur le <color={highlight}>bouton Lien stellaire</color> pour passer en mode Lien stellaire."}
 {"id":1511201,"jp":"ここで、キャラクターに必要な星祝を確認できるのだ。","fr":"Ici, on peut consulter les Bénédictions stellaires nécessaires à chaque personnage."}
 {"id":1511202,"jp":"星祝には、それぞれ異なる力が秘められている。","fr":"Chaque Bénédiction stellaire renferme un pouvoir différent."}
+{"id":1511204,"jp":"押して<color={highlight}>ジャンプ</color>してください","fr":"Appuyez pour <color={highlight}>sauter</color>"}
+{"id":1511206,"jp":"一部のスキルは<color={highlight}>刻印</color>を消費することで、ダメージを大幅に上昇させます。","fr":"Certaines compétences consomment des <color={highlight}>Sceaux</color> pour augmenter fortement les DGT."}
+{"id":1511208,"jp":"長押しで<color={highlight}>マウントホイールを開きます。</color>","fr":"Un appui prolongé <color={highlight}>ouvre la roue des montures.</color>"}
+{"id":1511210,"jp":"押して<color={highlight}>マウントホイール</color>を編集する","fr":"Appuyer pour modifier la <color={highlight}>roue des montures</color>"}
 {"id":1511212,"jp":"押してキボをマウントホイールに追加する","fr":"Appuyez pour ajouter un Kibo à la roue des montures"}
+{"id":1511213,"jp":"<actionkey>UI/Submit</actionkey>押してキボをホイールに追加する","fr":"<actionkey>UI/Submit</actionkey> pour ajouter le Kibo à la roue"}
 {"id":1511214,"jp":"キボをタップして騎乗","fr":"Toucher un Kibo pour le chevaucher"}
+{"id":1511215,"jp":"<actionkey>GamepadUI/Common_RStickMove</actionkey>キボを騎乗","fr":"<actionkey>GamepadUI/Common_RStickMove</actionkey> pour chevaucher un Kibo"}
+{"id":1511216,"jp":"「<color={highlight}>キボを確認</color>」をタップ","fr":"Touchez « <color={highlight}>Consulter le Kibo</color> »"}
+{"id":1511218,"jp":"<color={highlight}>因子変異</color>ボタンをタップ","fr":"Touchez le bouton <color={highlight}>Mutation de facteurs</color>"}
+{"id":1511221,"jp":"キボが所持できる<color={highlight}>因子の数には上限があります</color>","fr":"Le nombre de <color={highlight}>facteurs qu'un Kibo peut posséder est limité</color>"}
+{"id":1511225,"jp":"<color={highlight}>マップレベル</color>ボタンを押してください。","fr":"Appuyez sur le bouton <color={highlight}>Niveau de la carte</color>."}
+{"id":1511227,"jp":"<color={highlight}>難易度選択</color>を押してください","fr":"Appuyez sur <color={highlight}>Choix de la difficulté</color>"}
+{"id":1511229,"jp":"<color={highlight}>この難易度を有効にする</color>を押してください","fr":"Appuyez sur <color={highlight}>Activer cette difficulté</color>"}
+{"id":1511231,"jp":"星臨者が農園を建設すると、農園経験値を獲得できるのだ。","fr":"En construisant la ferme, l'Enfant des étoiles obtient de l'EXP de la ferme !"}
 {"id":1511232,"jp":"経験値を十分に獲得すると、農園レベルが上がる。","fr":"Avec suffisamment d'EXP, le niveau de la ferme augmente."}
+{"id":1511233,"jp":"農園レベルが上がると、農園建設に役立つボーナスが手に入る。","fr":"Quand le niveau de la ferme augmente, on obtient des bonus utiles pour la construction."}
+{"id":1511234,"jp":"それに、農園の建設素材も報酬として獲得できちゃうのだ！","fr":"Et on reçoit aussi en récompense des matériaux de construction pour la ferme !"}
+{"id":1511235,"jp":"<color={highlight}>餌やり</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Nourrissage</color>"}
+{"id":1511237,"jp":"<color={highlight}>全選択</color>タブを押してください","fr":"Appuyez sur l'onglet <color={highlight}>Tout sélectionner</color>"}
+{"id":1511239,"jp":"<color={highlight}>デイリー依頼</color>を押してください","fr":"Appuyez sur <color={highlight}>Missions quotidiennes</color>"}
+{"id":1511241,"jp":"<color={highlight}>装備品の獲得</color>タブを押してください","fr":"Appuyez sur l'onglet <color={highlight}>Obtention d'équipement</color>"}
+{"id":1511243,"jp":"<color={highlight}>装備品の獲得</color>依頼を達成すると、キャラクター装備を獲得できます","fr":"Terminer les missions d'<color={highlight}>obtention d'équipement</color> permet d'obtenir de l'équipement de personnage"}
 {"id":1511244,"jp":"どんどんやってみるのだ！","fr":"Allez, continuons à essayer !"}
+{"id":1511246,"jp":"<color={highlight}>全選択</color>をタップ","fr":"Touchez <color={highlight}>Tout sélectionner</color>"}
+{"id":1511248,"jp":"冒険中に仲間になったキボたちは、みんなキボ小屋に集まってるのだ！","fr":"Les Kibo devenus compagnons en cours d'aventure se rassemblent tous dans l'Enclos à Kibo !"}
 {"id":1511249,"jp":"1つの小屋には30匹まで住めるぞ。","fr":"Chaque enclos peut accueillir jusqu'à 30 Kibo."}
 {"id":1511250,"jp":"キミはいま、20個のキボ小屋を持ってるのだ！","fr":"Il y a actuellement 20 Enclos à Kibo à disposition !"}
 {"id":1511251,"jp":"小屋は矢印ボタンで切り替えられるぞ！","fr":"Les flèches permettent de passer d'un enclos à l'autre !"}
+{"id":1511252,"jp":"ここでキボ小屋をロックできる。ロックすると、この小屋には新しいキボが自動で入らなくなるのだ。","fr":"Ici, on peut verrouiller l'Enclos à Kibo. Une fois verrouillé, aucun nouveau Kibo n'y entre automatiquement !"}
 {"id":1511253,"jp":"キボが入る小屋を自由に決めることができるぞ。","fr":"Il est possible de choisir librement l'enclos de chaque Kibo."}
 {"id":1511254,"jp":"ここで選んだキボのレベルも確認できるのだ。","fr":"On peut aussi consulter ici le niveau du Kibo sélectionné."}
+{"id":1511255,"jp":"ここでキボの元素属性、戦闘での役割、それに特性を確認できるぞ！","fr":"Ici, on peut consulter l'élément d'un Kibo, son rôle en combat et ses traits !"}
+{"id":1511256,"jp":"戦闘タイプを見れば、キボの役割をすぐに見分けることができる。","fr":"Le type de combat permet de repérer tout de suite le rôle du Kibo."}
 {"id":1511257,"jp":"ここでキボのステータスと潜在能力評価もわかるのだ。","fr":"Ici, on retrouve les statistiques du Kibo et l'évaluation de son potentiel."}
 {"id":1511258,"jp":"潜在能力評価が高いほど、育てる価値が高い。","fr":"Plus son potentiel est élevé, plus il est intéressant de l'entraîner."}
 {"id":1511259,"jp":"キボのスキルはここに表示される。","fr":"Les compétences du Kibo sont affichées ici."}
@@ -13376,52 +13551,308 @@
 {"id":1511262,"jp":"各因子はそのキボの持つ特殊な能力を表してるのだ。","fr":"Chaque facteur représente une capacité particulière du Kibo."}
 {"id":1511263,"jp":"因子のランクが高いほど、能力も強くなる！","fr":"Plus le rang d'un facteur est élevé, plus sa capacité est puissante !"}
 {"id":1511264,"jp":"キボはそれぞれ固有の先天因子を持ってるぞ。","fr":"Chaque Kibo possède ses propres facteurs innés."}
+{"id":1511265,"jp":"いろんなキボと星絆を結んで、自分にぴったりのパートナーを見つけよう！","fr":"Nouons un Lien stellaire avec toutes sortes de Kibo pour trouver le partenaire idéal !"}
+{"id":1511266,"jp":"<color={highlight}>キボ</color>を選択","fr":"Choisir le <color={highlight}>Kibo</color>"}
+{"id":1511269,"jp":"ジャンプ中にもう一度ジャンプボタンを押すと<color={highlight}>二段ジャンプ</color>できます。","fr":"Appuyez de nouveau sur le bouton de saut en plein saut pour effectuer un <color={highlight}>double saut</color>."}
+{"id":1511270,"jp":"<color={highlight}>特殊なステラカード</color>のレシピをタップ","fr":"Touchez la recette de la <color={highlight}>carte Stella spéciale</color>"}
+{"id":1511271,"jp":"<color={highlight}>MAX</color>ボタンをタップ","fr":"Touchez le bouton <color={highlight}>MAX</color>"}
+{"id":1511273,"jp":"<color={highlight}>生産開始</color>ボタンをタップ","fr":"Touchez le bouton <color={highlight}>Lancer la production</color>"}
+{"id":1511274,"jp":"ステータスはここで確認。みんな唯一無二の能力を持ってるのだ。","fr":"Les statistiques se consultent ici. Chacun possède des capacités uniques."}
+{"id":1511275,"jp":"キボの遺伝子はここ！キボの能力の高さは、遺伝子で決まると言っても過言じゃない！","fr":"Les gènes du Kibo, c'est ici ! On peut presque dire que ses gènes déterminent le niveau de ses capacités !"}
+{"id":1511276,"jp":"おっ、キボの戦闘力が見えたぞ！この数字でキボの強さがだいたいわかるのだ。","fr":"Oh, la puissance de combat du Kibo s'affiche ! Ce chiffre donne une idée assez juste de sa force."}
 {"id":1511277,"jp":"空白部分を押して、さきに進むのだ！","fr":"Appuyer sur une zone vide permet de continuer !"}
 {"id":1511278,"jp":"先へ進みましょう。","fr":"Continuons."}
+{"id":1511279,"jp":"<color={highlight}>マウントおやつ袋</color>ボタンを押してください。","fr":"Appuyez sur le bouton <color={highlight}>Sac de friandises pour monture</color>."}
+{"id":1511281,"jp":"<color={highlight}>一括追加</color>ボタンを押す","fr":"Appuyer sur le bouton <color={highlight}>Tout ajouter</color>"}
+{"id":1511284,"jp":"迷霧の下にはおもしろいものがたくさん隠されてるぞ。\n冒険を楽しもう！","fr":"Bien des choses intéressantes se cachent sous la brume.\nProfitez de l'aventure !"}
+{"id":1511285,"jp":"ここから、<color={highlight}>キボファイトトレーナー</color>をすぐに探せるのだ！","fr":"Ici, on peut chercher tout de suite un <color={highlight}>dresseur de Duel de Kibo</color> !"}
+{"id":1511286,"jp":"ここを押して<color={highlight}>エリア探索度</color>を確認！","fr":"Appuyez ici pour consulter le <color={highlight}>taux d'exploration de la zone</color> !"}
+{"id":1511287,"jp":"<color={highlight}>エリア探索度</color>を押して開く","fr":"Appuyer sur <color={highlight}>Taux d'exploration de la zone</color> pour ouvrir"}
+{"id":1511289,"jp":"各エリアには<color={highlight}>探索度</color>が設定されてる。","fr":"Chaque zone possède un <color={highlight}>taux d'exploration</color>."}
+{"id":1511290,"jp":"探索コンテンツをクリアすると、対応するエリアの探索度が上昇するぞ！","fr":"Terminer les contenus d'exploration fait monter le taux d'exploration de la zone correspondante !"}
+{"id":1511292,"jp":"押して<color={highlight}>探索度報酬</color>を確認！","fr":"Appuyez pour consulter les <color={highlight}>récompenses d'exploration</color> !"}
+{"id":1511294,"jp":"各エリアの探索を完了させると、<color={highlight}>マップ探索レベル経験値</color>を蓄積できる！","fr":"Terminer l'exploration de chaque zone permet d'accumuler de l'<color={highlight}>EXP de niveau d'exploration de la carte</color> !"}
 {"id":1511297,"jp":"楽しみなのだ～\nさっそく試してみよう！","fr":"J'ai tellement hâte !\nEssayons tout de suite !"}
+{"id":1511299,"jp":"<color={highlight}>タップ</color>でキボグリッドを呼び出します","fr":"<color={highlight}>Touchez</color> pour faire apparaître la grille des Kibo"}
+{"id":1511303,"jp":"<color={highlight}>ポポクッキー</color>のレシピを押す","fr":"Appuyer sur la recette du <color={highlight}>Biscuit Popo</color>"}
 {"id":1511305,"jp":"ポポクッキーを作ってみよう〜","fr":"Préparons des biscuits Popo ~"}
 {"id":1511307,"jp":"ボス、特異体、幻域獣は警戒心が高いです。","fr":"Les boss, les Kibo anormaux et les bêtes du domaine illusoire sont très méfiants."}
+{"id":1511309,"jp":"エリアクエストには、日常的に挑戦できる依頼がいっぱい用意されてるぞ！","fr":"Les quêtes de zone proposent plein de missions à relever au quotidien !"}
+{"id":1511310,"jp":"ここでは、入門訓練で<color={highlight}>戦闘の基本操作</color>を学ぶことができるんだ。","fr":"Ici, l'entraînement d'initiation permet d'apprendre les <color={highlight}>commandes de base du combat</color>."}
+{"id":1511311,"jp":"つぎは<color={highlight}>メインストーリー依頼</color>を開いて、挑戦してみよう。","fr":"Ensuite, ouvrons les <color={highlight}>Missions de l'histoire principale</color> pour les relever."}
+{"id":1511312,"jp":"<color={highlight}>メインストーリー依頼</color>を押してください","fr":"Appuyez sur <color={highlight}>Missions de l'histoire principale</color>"}
+{"id":1511314,"jp":"<color={highlight}>依頼を開始</color>を押してください","fr":"Appuyez sur <color={highlight}>Commencer la mission</color>"}
 {"id":1511316,"jp":"依頼の情報と報酬内容を確認！","fr":"Consulter les informations et les récompenses de la Mission !"}
+{"id":1511318,"jp":"<color={highlight}>モード選択</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Choix du mode</color>"}
 {"id":1511320,"jp":"マルチモードが解放されたのだ！","fr":"Le mode multijoueur est débloqué !"}
+{"id":1511322,"jp":"<color={highlight}>「マルチモード」</color>を押してみよう！","fr":"Essayons le <color={highlight}>« Mode multijoueur »</color> !"}
+{"id":1511325,"jp":"好みのゲームモードを選んで、自分だけの旅をはじめよう！","fr":"Choisissez le mode de jeu qui vous plaît et commencez votre propre voyage !"}
+{"id":1511326,"jp":"<color={highlight}>共鳴の石台のレシピ</color>を選択","fr":"Choisir la <color={highlight}>recette du socle de résonance</color>"}
+{"id":1511328,"jp":"<color={highlight}>生産開始</color>を押してください","fr":"Appuyez sur <color={highlight}>Lancer la production</color>"}
+{"id":1511330,"jp":"<color={highlight}>生産完了</color>までお待ちください。","fr":"Veuillez attendre la <color={highlight}>fin de la production</color>."}
+{"id":1511331,"jp":"<color={highlight}>共鳴の石台</color>を受け取る","fr":"Récupérer le <color={highlight}>socle de résonance</color>"}
+{"id":1511333,"jp":"<color={highlight}>キボ管理</color>ボタンを押す","fr":"Appuyer sur le bouton <color={highlight}>Gestion des Kibo</color>"}
+{"id":1511335,"jp":"<color={highlight}>伐採の才能</color>を持つキボを派遣しよう","fr":"Affectons un Kibo ayant le <color={highlight}>talent de bûcheronnage</color>"}
+{"id":1511337,"jp":"<color={highlight}>金麦の種</color>を選択","fr":"Choisir la <color={highlight}>graine de blé doré</color>"}
+{"id":1511339,"jp":"<color={highlight}>MAX</color>を押してください","fr":"Appuyez sur <color={highlight}>MAX</color>"}
+{"id":1511341,"jp":"<color={highlight}>すべて購入</color>を押してください","fr":"Appuyez sur <color={highlight}>Tout acheter</color>"}
+{"id":1511343,"jp":"ヘルプには、ゲームプレイ中に確認したチュートリアルが記録されていくのだ。","fr":"L'Aide enregistre au fil de la partie les tutoriels que vous avez vus."}
+{"id":1511344,"jp":"冒険中に見たチュートリアルは、ヘルプ一覧に記録されていくのだ。","fr":"Les tutoriels vus en aventure sont enregistrés dans la Liste d'aide."}
+{"id":1511345,"jp":"タブごとに分類されるから、知りたい情報もすぐに見つかるぞ。","fr":"Ils sont classés par onglet : on trouve vite l'information voulue."}
+{"id":1511346,"jp":"検索を使えば、ピンポイントに調べることだってできる！","fr":"Avec la recherche, on peut même trouver une information précise !"}
+{"id":1511347,"jp":"<color={highlight}>日渡の塵影</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Ombres de poussière du Passe-Soleil</color>"}
+{"id":1511349,"jp":"<color={highlight}>工業</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Industrie</color>"}
 {"id":1511350,"jp":"デイリークエスト……達成すると、報酬もらえる。","fr":"Les quêtes quotidiennes… Une fois terminées, elles donnent des récompenses."}
+{"id":1511351,"jp":"<color={highlight}>週間活躍度</color>を押してください","fr":"Appuyez sur <color={highlight}>Activité hebdomadaire</color>"}
 {"id":1511353,"jp":"ウィークリークエストは、報酬もっと豪華になる……","fr":"Les quêtes hebdomadaires… Leurs récompenses sont encore plus généreuses…"}
+{"id":1511354,"jp":"<color={highlight}>アニマ</color>>は、この世界に存在する『情報』が具現化したものなのだ。","fr":"Les <color={highlight}>Anima</color>> sont la matérialisation de l'« information » qui existe dans ce monde."}
 {"id":1511355,"jp":"この「情報」は、時間や空間の制約を受けない。","fr":"Ces « Infos » ne sont limitées ni par le temps ni par l'espace."}
 {"id":1511356,"jp":"アニマを装備することで、ステータスもアップするぞ！","fr":"Équiper des Anima permet aussi une Hausse des statistiques !"}
 {"id":1511358,"jp":"ぴったりのアニマを選んで、装備してみよう。","fr":"Choisissons un Anima adapté et essayons de l'équiper."}
+{"id":1511359,"jp":"<color={highlight}>アニマ欄</color>を押して開く","fr":"Appuyer sur la <color={highlight}>zone des Anima</color> pour l'ouvrir"}
+{"id":1511361,"jp":"この<color={highlight}>アニマ</color>を選択","fr":"Choisir cet <color={highlight}>Anima</color>"}
+{"id":1511363,"jp":"<color={highlight}>装備</color>を押してください","fr":"Appuyez sur <color={highlight}>Équipement</color>"}
+{"id":1511365,"jp":"<color={highlight}>強化</color>を押してください","fr":"Appuyez sur <color={highlight}>Améliorer</color>"}
+{"id":1511367,"jp":"<color={highlight}>素材追加</color>を押してください","fr":"Appuyez sur <color={highlight}>Ajouter des matériaux</color>"}
+{"id":1511369,"jp":"<color={highlight}>素材強化</color>を押してください","fr":"Appuyez sur <color={highlight}>Renforcement par matériaux</color>"}
+{"id":1511371,"jp":"<color={highlight}>レベルアップ</color>を押すと、アニマを強化できるぞ！さっそく試してみよう！","fr":"Appuyez sur <color={highlight}>Monter de niveau</color> pour renforcer l'Anima ! Essayons tout de suite !"}
+{"id":1511373,"jp":"タップして<color={highlight}>ショートカットバッグ</color>を編集する","fr":"Toucher pour modifier le <color={highlight}>sac de raccourcis</color>"}
+{"id":1511375,"jp":"アイテムをクイックバッグに入れておけば、必要な時にすぐ使えるようになる！","fr":"En rangeant des objets dans le sac rapide, on peut les utiliser tout de suite quand on en a besoin !"}
 {"id":1511376,"jp":"さっそく試してみよう！","fr":"Essayons tout de suite !"}
+{"id":1511377,"jp":"<color={highlight}>キャラクター</color>を押してください","fr":"Appuyez sur <color={highlight}>Personnage</color>"}
+{"id":1511379,"jp":"<color={highlight}>入居</color>を押してください","fr":"Appuyez sur <color={highlight}>Emménager</color>"}
+{"id":1511381,"jp":"<color={highlight}>訪問</color>を押してください","fr":"Appuyez sur <color={highlight}>Visite</color>"}
+{"id":1511383,"jp":"<actionkey>UI/Submit</actionkey> で入居キャラクターを選択","fr":"<actionkey>UI/Submit</actionkey> pour choisir le personnage qui emménage"}
+{"id":1511390,"jp":"つぎは<color={highlight}>オーダーボード</color>を見てみましょう！","fr":"Voyons maintenant le <color={highlight}>Tableau des commandes</color> !"}
+{"id":1511392,"jp":"<color={highlight}>上昇率順に並べ替え</color>を押してください。","fr":"Appuyez sur <color={highlight}>Trier par taux de hausse</color>."}
+{"id":1511395,"jp":"<actionkey>UI/Cancel</actionkey> でバッグに戻る","fr":"<actionkey>UI/Cancel</actionkey> pour revenir au sac"}
+{"id":1511396,"jp":"<color={highlight}>危機討伐</color>を押してください","fr":"Appuyez sur <color={highlight}>Traque des menaces</color>"}
+{"id":1511398,"jp":"左側のリストで難易度を調整すると、いろんな難易度の依頼クエストを受けることができるぞ！","fr":"En réglant la difficulté dans la liste de gauche, on peut accepter des missions de toutes les difficultés !"}
 {"id":1511401,"jp":"強敵だから、仲間を誘って挑戦したほうがいいけど……","fr":"Ce sont de redoutables adversaires, alors mieux vaut inviter des compagnons pour les affronter…"}
 {"id":1511402,"jp":"もちろん、ひとりで挑戦することもできるぞ！","fr":"Bien sûr, il est aussi possible de les affronter en solo !"}
+{"id":1511403,"jp":"ここには各エリアから集められたオーダーがあるんです。オーダーされた商品を用意できれば通常より高い報酬をもらえますよ。","fr":"Ici se trouvent les commandes rassemblées dans chaque zone. Si vous parvenez à préparer les produits commandés, vous obtiendrez une récompense supérieure à la normale."}
+{"id":1511404,"jp":"今回はただで荷物をあげちゃいます。エリアオーダーを1件達成してみましょう！","fr":"Cette fois, je vous offre les marchandises ! Essayons de terminer une commande de zone !"}
+{"id":1511405,"jp":"次は<color={highlight}>出荷箱</color>を見てみましょう！","fr":"Voyons maintenant la <color={highlight}>caisse d'expédition</color> !"}
+{"id":1511407,"jp":"<color={highlight}>星旅の記録</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Chronique du voyage stellaire</color>"}
+{"id":1511409,"jp":"星旅の記録には、この世界で生き抜く術が記されてるんだ！","fr":"La Chronique du voyage stellaire consigne les moyens de survivre dans ce monde !"}
+{"id":1511410,"jp":"星旅の記録クエストをクリアすると、この世界についてもっと深く知ることができる！","fr":"Terminer les quêtes de la Chronique du voyage stellaire permet de mieux connaître ce monde !"}
+{"id":1511411,"jp":"ここは<color={highlight}>必修クエスト</color>だぞ。","fr":"Voici les <color={highlight}>quêtes obligatoires</color>."}
+{"id":1511412,"jp":"必修クエストをクリアしないと、旅録を進めることはできないからな！","fr":"Tant qu'on n'a pas terminé les quêtes obligatoires, la Chronique ne peut pas avancer !"}
+{"id":1511413,"jp":"で、こっちは<color={highlight}>選択クエスト</color>だ。","fr":"Et ici, ce sont les <color={highlight}>quêtes facultatives</color>."}
+{"id":1511414,"jp":"選択クエストをクリアしなくても、旅は進められるぞ。\nなにをすべきか迷ったら、覗いてみろ！","fr":"Même sans terminer les quêtes facultatives, le voyage peut avancer.\nSi on ne sait pas quoi faire, il suffit d'y jeter un œil !"}
+{"id":1511415,"jp":"どの星旅の記録クエストをクリアしても、<color={highlight}>星旅ポイント</color>は獲得できる！","fr":"Quelle que soit la quête de la Chronique du voyage stellaire terminée, on obtient des <color={highlight}>points de voyage stellaire</color> !"}
+{"id":1511416,"jp":"星旅ポイントが一定以上になると、豪華な報酬をもらえるぞ！","fr":"Quand les points de voyage stellaire atteignent un certain seuil, de somptueuses récompenses sont offertes !"}
 {"id":1511417,"jp":"どうだ？やる気になってきただろ？","fr":"Alors ? Ça donne envie de s'y mettre, non ?"}
 {"id":1511418,"jp":"つぎは、必須クエストをひとつクリアしてみよう！","fr":"Ensuite, essayons de terminer l'une des quêtes obligatoires !"}
+{"id":1511419,"jp":"<color={highlight}>必修クエスト</color>を押してください","fr":"Appuyez sur <color={highlight}>Quêtes obligatoires</color>"}
+{"id":1511420,"jp":"<color={highlight}>クエスト追跡</color>を押してください","fr":"Appuyez sur <color={highlight}>Suivi des quêtes</color>"}
+{"id":1511421,"jp":"<color={highlight}>クエストへ向かう</color>を押してください","fr":"Appuyez sur <color={highlight}>Aller à la quête</color>"}
+{"id":1511423,"jp":"押して<color={highlight}>回避</color>できます。","fr":"Appuyez pour <color={highlight}>esquiver</color>."}
+{"id":1511424,"jp":"押してキボグリッドを<color={highlight}>編集</color>する","fr":"Appuyer pour <color={highlight}>modifier</color> la grille des Kibo"}
+{"id":1511426,"jp":"キボグリッドの<color={highlight}>一括装備</color>を押してください","fr":"Appuyez sur <color={highlight}>Tout équiper</color> de la grille des Kibo"}
+{"id":1511428,"jp":"<color={highlight}>閉じる</color>を押してください","fr":"Appuyez sur <color={highlight}>Fermer</color>"}
+{"id":1511429,"jp":"編成完了後、<color={highlight}>キボを押す</color>と、そのまま謎解きを手伝ってもらえるのだ。","fr":"Une fois l'équipe composée, <color={highlight}>appuyer sur le Kibo</color> permet de lui faire aider tout de suite à résoudre l'énigme !"}
+{"id":1511430,"jp":"編成完了後、<color={highlight}>キボを選択する</color>と、そのまま謎解きに使用できます。","fr":"Une fois l'équipe composée, <color={highlight}>sélectionner le Kibo</color> permet de l'utiliser tout de suite pour résoudre l'énigme."}
 {"id":1511431,"jp":"さっそく試してみよう。","fr":"Essayons tout de suite."}
+{"id":1511432,"jp":"キボを編成すると、体勢ゲージに<color={highlight}>協力攻撃ポイント</color>が表示されます。","fr":"Quand vous composez une équipe de Kibo, des <color={highlight}>points d'attaque coopérative</color> s'affichent sur la Jauge de posture."}
+{"id":1511434,"jp":"<color={highlight}>ゲーム内時間設定</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Réglage de l'heure du jeu</color>"}
+{"id":1511436,"jp":"ここに<color={highlight}>現在の時間</color>が表示されてるのだ。","fr":"Ici s'affiche l'<color={highlight}>heure actuelle</color> !"}
 {"id":1511437,"jp":"押せば、時間をさっと進められるぞ。","fr":"Une simple pression permet de faire avancer le temps en un instant."}
+{"id":1511438,"jp":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> でクイックジャンプ","fr":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> pour le saut rapide"}
+{"id":1511439,"jp":"時間を調整して確定すれば、指定した時刻まで時間が進む！","fr":"Une fois l'heure réglée et confirmée, le temps avance jusqu'à l'heure indiquée !"}
 {"id":1511440,"jp":"便利だろう。試してみるといい。","fr":"Pratique, n'est-ce pas ? Autant essayer."}
+{"id":1511441,"jp":"異脈の星巣には、<color={highlight}>超変異因子</color>を持つ特殊なキボが棲息してるのだ！","fr":"Dans le Nid stellaire des veines aberrantes vivent des Kibo spéciaux dotés de <color={highlight}>facteurs de mutation supérieure</color> !"}
+{"id":1511442,"jp":"一般には<color={highlight}>超変異キボ</color>と呼ばれてる。","fr":"On les appelle couramment les <color={highlight}>Kibo à mutation supérieure</color>."}
+{"id":1511443,"jp":"強敵だから、挑戦するなら仲間を誘ったほうがいいのだ！","fr":"Ce sont de redoutables adversaires : mieux vaut inviter des compagnons pour les affronter !"}
+{"id":1511444,"jp":"ここで敵の<color={highlight}>基本情報</color>が確認できるぞ。","fr":"Ici, on peut consulter les <color={highlight}>informations de base</color> de l'ennemi."}
+{"id":1511445,"jp":"押して詳細な<color={highlight}>敵情報</color>を確認","fr":"Appuyer pour consulter les <color={highlight}>informations détaillées sur l'ennemi</color>"}
 {"id":1511446,"jp":"ここを見れば敵の詳しい情報がわかるのだ！","fr":"Toutes les informations détaillées sur l'ennemi se trouvent ici !"}
 {"id":1511447,"jp":"相手は強敵。挑むまえにしっかり情報を確認するのだ。","fr":"C'est un adversaire redoutable. Mieux vaut bien consulter ses informations avant de l'affronter."}
+{"id":1511448,"jp":"押して<color={highlight}>報酬プレビュー</color>を確認","fr":"Appuyer pour consulter l'<color={highlight}>aperçu des récompenses</color>"}
+{"id":1511449,"jp":"ここには、いま挑戦中の超変異キボが確率でドロップする超変異因子が記録されてるのだ。","fr":"Ici sont consignés les facteurs de mutation supérieure que le Kibo à mutation supérieure du défi en cours peut lâcher, selon une probabilité !"}
 {"id":1511450,"jp":"挑戦前にプレビューで確認できるぞ。","fr":"L'aperçu permet de vérifier tout cela avant de relever le défi."}
+{"id":1511451,"jp":"押して<color={highlight}>挑戦編成</color>を確認する","fr":"Appuyer pour consulter la <color={highlight}>composition de défi</color>"}
+{"id":1511452,"jp":"異脈の星巣をはじめるには、<color={highlight}>8匹のキボ</color>を出撃させる必要があるのだ。","fr":"Pour lancer le Nid stellaire des veines aberrantes, il faut envoyer au combat <color={highlight}>8 Kibo</color> !"}
 {"id":1511453,"jp":"今回は、ルミィさまが用意したチームを使うといい。","fr":"Cette fois, utilisons l'équipe préparée par dame Lumi."}
 {"id":1511454,"jp":"今回はひとまず、ソロで挑んでみよう！","fr":"Pour commencer, essayons de relever ce défi en solo !"}
+{"id":1511455,"jp":"<color={highlight}>シングル挑戦</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Défi en solo</color>"}
+{"id":1511456,"jp":"<color={highlight}>ボス絞り込み</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Filtrer les boss</color>"}
+{"id":1511458,"jp":"目当てのステージがない場合は、更新してみるといいぞ。","fr":"Si l'étape voulue n'apparaît pas, il vaut mieux essayer d'actualiser !"}
+{"id":1511459,"jp":"ここには星臨者さまに必要なお宝がたくさんありますよ！見ていってくださいね～！","fr":"Vous trouverez ici plein de trésors dont vous aurez besoin, Enfant des étoiles ! Venez jeter un œil ~ !"}
+{"id":1511461,"jp":"押して<color={highlight}>移動</color>してください。","fr":"Appuyez pour vous <color={highlight}>déplacer</color>."}
+{"id":1511463,"jp":"ここにあるお宝は、どんぐりお宝探検隊がプロミリア各地を冒険して手に入れたものです。品揃えは豊富ですよ。","fr":"Les trésors ici ont été rapportés par la brigade des trésors du Gland lors de ses aventures aux quatre coins de Promilia. Le choix est vaste."}
+{"id":1511464,"jp":"私の商品はどれも本物のお宝！とってもお得ですよ。ぜひ、また来てくださいね。","fr":"Tous mes articles sont de véritables trésors ! Des prix très avantageux. Revenez nous voir."}
 {"id":1511465,"jp":"今回は無料ですよ！新規のお客さまへのサービスです！","fr":"C'est gratuit cette fois-ci ! Une offre réservée à notre nouvelle clientèle !"}
+{"id":1511466,"jp":"今後は「輝くコイン」を使って、いつでもお宝と交換できますからね。","fr":"Désormais, vous pourrez échanger des trésors à tout moment en utilisant la « Pièce scintillante »."}
+{"id":1511468,"jp":"<color={highlight}>左スティック</color>で画面を移動できます","fr":"Le <color={highlight}>stick gauche</color> permet de déplacer l'écran"}
+{"id":1511470,"jp":"チャレンジ中は異なる<color={highlight}>視点</color>に切り替えてウミィを探す必要があるのだ。","fr":"Pendant le défi, il faut passer à différents <color={highlight}>points de vue</color> pour chercher Umii !"}
+{"id":1511472,"jp":"ここで<color={highlight}>視点の切り替え</color>ができます","fr":"Vous pouvez <color={highlight}>changer de point de vue</color> ici"}
+{"id":1511474,"jp":"<color={highlight}>ウミィを発見</color>したら、撮影が可能です","fr":"Dès que vous avez <color={highlight}>trouvé Umii</color>, vous pouvez prendre une photo"}
 {"id":1511475,"jp":"どうだ！簡単じゃないか？","fr":"Alors ! C'est facile, non ?"}
 {"id":1511476,"jp":"それじゃあ、さっそく試してみるのだ～","fr":"Dans ce cas, essayons tout de suite ~"}
+{"id":1511477,"jp":"<color={highlight}>普通のステラカード</color>のレシピを押してください。","fr":"Appuyez sur la recette de la <color={highlight}>carte Stella ordinaire</color>."}
+{"id":1511480,"jp":"<color={highlight}>ステラカード</color>の製作完了までお待ちください。","fr":"Veuillez attendre la fabrication de la <color={highlight}>carte Stella</color>."}
+{"id":1511481,"jp":"<color=#91fff9>ステラカード</color>の製作完了までお待ちください。","fr":"Veuillez attendre la fabrication de la <color=#91fff9>carte Stella</color>."}
+{"id":1511485,"jp":"ジャンプボタンをタップして<color={highlight}>二段ジャンプ</color>","fr":"Touchez le bouton de saut pour effectuer un <color={highlight}>double saut</color>"}
+{"id":1511487,"jp":"もう一度ジャンプボタンを押すと、キャベッコで<color={highlight}>飛行</color>できます。","fr":"Appuyez de nouveau sur le bouton de saut pour <color={highlight}>voler</color> avec Cabbeco."}
+{"id":1511489,"jp":"キャベッコで飛行中、長押しすると<color={highlight}>飛行高度</color>を上げることができます。","fr":"En vol avec Cabbeco, un appui prolongé permet de gagner de l'<color={highlight}>altitude de vol</color>."}
+{"id":1511490,"jp":"<color={highlight}>一括投入</color>ボタンを押す","fr":"Appuyer sur le bouton <color={highlight}>Tout ajouter</color>"}
+{"id":1511492,"jp":"最後の試練に向けて、小玉さんの修行計画がはじまるよ！","fr":"Le plan d'entraînement de Xiaoyu en vue de la dernière épreuve commence !"}
+{"id":1511493,"jp":"戦略を立て、時間と資源を適切に配分し、小玉さんの各ステータスを高めて試練の日の戦闘に備えよう！","fr":"Établissons une stratégie, répartissons bien le temps et les ressources, et améliorons chaque statistique de Xiaoyu pour préparer le combat du jour de l'épreuve !"}
+{"id":1511495,"jp":"「修行」で小玉さんの各ステータスと<color={highlight}>「修行段階」</color>を高められる。","fr":"L'« Entraînement » permet d'améliorer chaque statistique de Xiaoyu ainsi que son <color={highlight}>« palier d'entraînement »</color>."}
+{"id":1511496,"jp":"時間は限られてるし、さっそく小玉さんに今日の修行をはじめてもらおう！","fr":"Le temps est limité : commençons tout de suite l'entraînement du jour avec Xiaoyu !"}
+{"id":1511497,"jp":"<color={highlight}>修行</color>ボタンを押してください。","fr":"Appuyez sur le bouton <color={highlight}>Entraînement</color>."}
+{"id":1511498,"jp":"ここでは、今回の<color={highlight}>修習方針</color>を選択できます。","fr":"Ici, vous pouvez choisir l'<color={highlight}>orientation d'étude</color> du moment."}
+{"id":1511499,"jp":"修習方針ごとに、対応する修習ステータスが<color={highlight}>上昇</color>します。","fr":"Selon l'orientation d'étude, la statistique d'étude correspondante <color={highlight}>augmente</color>."}
+{"id":1511500,"jp":"修習方針を選択すると、画面右側で今回の修行により上昇する予定のステータスと、修習効果全体のボーナス倍率を確認できます。","fr":"En choisissant une orientation d'étude, vous voyez à droite de l'écran les statistiques censées augmenter grâce à cet entraînement, ainsi que le multiplicateur de bonus de l'effet d'étude global."}
+{"id":1511501,"jp":"修行中は、小玉さんと縁を結んだキャラクターやキボも小玉様に手を差し伸べて、修行を助けてくれるよ。","fr":"Pendant l'entraînement, les personnages et les Kibo avec qui Xiaoyu a noué des liens lui tendent aussi la main pour l'aider."}
+{"id":1511502,"jp":"遊歴でたくさんのキャラクターやキボと出会い、縁を結んで、小玉さんの修行が順調になるように力を貸してもらおう！","fr":"Rencontrons plein de personnages et de Kibo en voyage, nouons des liens et demandons-leur de l'aide pour que l'entraînement de Xiaoyu se déroule bien !"}
+{"id":1511503,"jp":"法力は塗山一族の修行の基礎。法力を修習すると小玉さんの総合戦闘力が上昇するから、序盤の修行に適してるよ。","fr":"La magie est la base de l'entraînement du clan Tushan. Étudier la magie fait monter la puissance de combat globale de Xiaoyu : c'est idéal pour l'entraînement du début."}
+{"id":1511504,"jp":"初めての修行は<color={highlight}>法力</color>から始めましょう！","fr":"Pour le premier entraînement, commençons par la <color={highlight}>magie</color> !"}
+{"id":1511505,"jp":"<color={highlight}>法力の修行</color>を押してください。","fr":"Appuyez sur <color={highlight}>Entraînement de magie</color>."}
+{"id":1511507,"jp":"浮世を遊歴し、よい縁を結ぶことも、塗山一族の修行試練において重要な一環です。","fr":"Voyager dans le monde et nouer de bons liens est aussi une étape importante de l'épreuve d'entraînement du clan Tushan."}
+{"id":1511510,"jp":"ボタンを押して<color={highlight}>「奇遇」に入って</color>みましょう！","fr":"Appuyez sur le bouton pour <color={highlight}>entrer dans les « Rencontres fortuites »</color> !"}
+{"id":1511512,"jp":"ボタンを押し、<color={highlight}>「行動力」</color>を消費して奇遇を開始しましょう！","fr":"Appuyez sur le bouton, dépensez des <color={highlight}>« Points d'action »</color> et lancez une rencontre fortuite !"}
+{"id":1511515,"jp":"判定の成否には、小玉さんの現在の修行ステータスが関係するんだ。","fr":"La réussite d'un test dépend des statistiques d'entraînement actuelles de Xiaoyu."}
+{"id":1511516,"jp":"法力の修行をしたいまの小玉さんなら、目の前の状況にも簡単に対処できる。判定選択肢を押してモフリーネを救おう！","fr":"Après son entraînement de magie, Xiaoyu fait désormais face sans peine à la situation. Appuyons sur un choix de test pour sauver Downybrinny !"}
+{"id":1511517,"jp":"<color={highlight}>確認</color>を押してください。","fr":"Appuyez sur <color={highlight}>Confirmer</color>."}
+{"id":1511518,"jp":"遊歴中の奇遇イベントでは、新しい仲間と出会い、修行ステータスを高め、さまざまな「奇縁」を獲得できます。","fr":"Lors des rencontres fortuites en voyage, on fait de nouveaux compagnons, on améliore ses statistiques d'entraînement et on obtient diverses « Occasions »."}
+{"id":1511519,"jp":"戦略を活用して小玉さんの各ステータスを高め、試験に合格できるよう手助けしよう！","fr":"Servons-nous de la stratégie pour améliorer chaque statistique de Xiaoyu et l'aider à réussir l'examen !"}
+{"id":1511520,"jp":"小玉さんが難問にぶつかったみたいだね。メイプルが小玉さんと冒険者さんを助けるにゃ！","fr":"On dirait que Xiaoyu est face à un problème difficile. Maple va aider Xiaoyu, et toi aussi, nya !"}
+{"id":1511521,"jp":"<color={highlight}>縁起</color>を押して、小玉の修行の旅を始めましょう！","fr":"Appuyez sur <color={highlight}>Fortune</color> pour commencer le voyage d'entraînement de Xiaoyu !"}
+{"id":1511522,"jp":"異なる集中方針を選ぶと、さまざまな修行効果や物語を体験できます。","fr":"En choisissant différentes orientations de concentration, vous découvrirez divers effets d'entraînement et histoires."}
+{"id":1511523,"jp":"最初の旅は<color={highlight}>「身を挺して世に入る」</color>から始めましょう！","fr":"Pour le premier voyage, commençons par <color={highlight}>« Entrer dans le monde en payant de sa personne »</color> !"}
+{"id":1511524,"jp":"<color={highlight}>確認</color>を押して修行を始めましょう！","fr":"Appuyez sur <color={highlight}>Confirmer</color> pour commencer l'entraînement !"}
+{"id":1511526,"jp":"スタミナが低い場合、修行で「あまり効果がない」が発生する確率が上昇します。","fr":"Quand l'endurance est basse, la probabilité d'obtenir « Peu efficace » à l'entraînement augmente."}
+{"id":1511527,"jp":"そんな時は、小玉さんにしっかり<color={highlight}>休息</color>してもらうにゃ！","fr":"Dans ce cas, il faut que Xiaoyu prenne un bon <color={highlight}>repos</color>, nya !"}
+{"id":1511528,"jp":"<color={highlight}>戻る</color>を押してください。","fr":"Appuyez sur <color={highlight}>Retour</color>."}
+{"id":1511529,"jp":"<color={highlight}>「休息」</color>ボタンを押し、小玉様を休ませてスタミナを回復しましょう！","fr":"Appuyez sur le bouton <color={highlight}>« Repos »</color> pour que Xiaoyu se repose et récupère de l'endurance !"}
 {"id":1511530,"jp":"いつの間にか、試練の日がきてたにゃ！","fr":"Sans même qu'on s'en aperçoive, le jour de l'épreuve est arrivé, nya !"}
+{"id":1511531,"jp":"小玉さんは今日、縁結びの試験という大きな挑戦に臨むんだよ！","fr":"Aujourd'hui, Xiaoyu relève un grand défi : l'examen « Nouer les liens » !"}
+{"id":1511532,"jp":"まずはここを押して、小玉さんがこれまでに習得した新しい能力を確認しよう！","fr":"Pour commencer, appuyons ici pour voir les nouvelles capacités que Xiaoyu a acquises jusqu'ici !"}
+{"id":1511533,"jp":"修行ステータスが上がるにつれて、小玉さんは新しい能力を次々と習得するの。ここで詳細を確認できるにゃ！","fr":"À mesure que ses statistiques d'entraînement montent, Xiaoyu acquiert de nouvelles capacités les unes après les autres. Les détails se consultent ici, nya !"}
+{"id":1511534,"jp":"準備は整いました。勇気を出して試練の日に挑みましょう！","fr":"Tout est prêt. Prenons notre courage à deux mains et affrontons le jour de l'épreuve !"}
+{"id":1511536,"jp":"今回は、小玉さんの<color={highlight}>『敵の退治」</color>エンディングを確認しよう！","fr":"Cette fois, regardons la fin <color={highlight}>« Chasse aux ennemis »</color> de Xiaoyu !"}
+{"id":1511537,"jp":"<color={highlight}>エンディングを見る</color>を押してください。","fr":"Appuyez sur <color={highlight}>Voir la fin</color>."}
 {"id":1511538,"jp":"修行中にたくさんの新しい仲間と出会えたね！","fr":"L'entraînement a permis de rencontrer tant de nouveaux compagnons !"}
+{"id":1511539,"jp":"ここを押して、小玉様がみんなと結んだ縁を確認しましょう！","fr":"Appuyons ici pour voir les liens que Xiaoyu a noués avec tout le monde !"}
+{"id":1511541,"jp":"なんどもプレイして、小玉さんにもっとたくさんの仲間と縁を結んでもらおう！","fr":"Jouons encore et encore pour que Xiaoyu noue des liens avec encore plus de compagnons !"}
+{"id":1511542,"jp":"栄光を象徴する<color={highlight}>「試練」</color>も解放されました。","fr":"Les <color={highlight}>« Épreuves »</color>, symbole de gloire, sont elles aussi débloquées."}
+{"id":1511543,"jp":"達成済みエンディングのステータスを使って、より高難易度の試練に挑戦してみるにゃ！","fr":"Essayons, avec les statistiques d'une fin déjà atteinte, de relever une épreuve de difficulté supérieure, nya !"}
+{"id":1511544,"jp":"<color={highlight}>試練</color>を押してください。","fr":"Appuyez sur <color={highlight}>Épreuve</color>."}
+{"id":1511545,"jp":"「試練」では、達成済みエンディングのデータを使って、より強い敵に挑戦できます。","fr":"Dans les « Épreuves », on peut affronter des ennemis plus puissants grâce aux données des fins déjà atteintes."}
+{"id":1511546,"jp":"<color={highlight}>エンディングを使用</color>を押してください。","fr":"Appuyez sur <color={highlight}>Utiliser la fin</color>."}
+{"id":1511547,"jp":"最終的な試験ポイントはランキングに記録されるよ。最終順位も忘れずに確認してね！","fr":"Les points d'examen finaux sont enregistrés dans le classement. Pensez aussi à consulter votre rang final !"}
+{"id":1511548,"jp":"今回は、<color={highlight}>「勇をもって敵を退ける」</color>を選択しましょう！","fr":"Cette fois, choisissons <color={highlight}>« Repousser l'ennemi par le courage »</color> !"}
 {"id":1511549,"jp":"小玉さんと縁を結んだ仲間が増えたよ！","fr":"Xiaoyu a noué des liens avec encore plus de compagnons !"}
+{"id":1511550,"jp":"出発前に、忘れずに仲間を招待して手伝ってもらうにゃ！","fr":"Avant de partir, il ne faut pas oublier d'inviter des compagnons pour qu'ils nous aident, nya !"}
+{"id":1511551,"jp":"見て。小玉さんと縁を結んだ仲間が助けに来てくれたにゃ！","fr":"Regardez : les compagnons qui ont noué des liens avec Xiaoyu sont venus à la rescousse, nya !"}
+{"id":1511554,"jp":"仲間の協力で、小玉さんがどんな修行成果を得たか見てみよう！","fr":"Voyons quels fruits de l'entraînement Xiaoyu a récoltés grâce à l'aide de ses compagnons !"}
+{"id":1511555,"jp":"星臨者！『天道の余塵』が開放されたのだ！さっそく見てみよう！","fr":"Enfant des étoiles ! La « Poussière de la Voie céleste » est débloquée ! Allons voir tout de suite !"}
+{"id":1511556,"jp":"『天道の余塵』では、再現されたかつての強敵を迎え撃つことになるのだ。","fr":"Dans la « Poussière de la Voie céleste », on affronte d'anciens adversaires redoutables recréés."}
+{"id":1511557,"jp":"いまいるステージをクリアすると報酬を獲得できて、より難易度の高いステージが解放される。","fr":"Terminer l'étape en cours donne des récompenses et débloque une étape plus difficile."}
 {"id":1511558,"jp":"まずは『創流の円環』をクリアしよう！","fr":"Commençons par terminer le « Cercle de la genèse » !"}
+{"id":1511559,"jp":"『創流の円環』をクリアすると、より難易度の高い『悠久の円環』が解放されるぞ。","fr":"Terminer le « Cercle de la genèse » débloque le « Cercle de l'éternité », plus difficile."}
+{"id":1511560,"jp":"『悠久の円環』のすべてのステージをクリアすると、さらに『潮汐の円環』も解放される。","fr":"Terminer toutes les étapes du « Cercle de l'éternité » débloque aussi le « Cercle des marées »."}
+{"id":1511561,"jp":"『潮汐の円環』は常時解放されていて、一定周期でステージと報酬が入れ替わるのだ！","fr":"Le « Cercle des marées » est toujours accessible, et ses étapes et ses récompenses changent à intervalles réguliers !"}
 {"id":1511562,"jp":"周期ごとに、ステージの環境も変化する。","fr":"L'environnement des niveaux change également à chaque cycle."}
 {"id":1511563,"jp":"挑戦する準備はできたか？","fr":"Tout est prêt pour relever le défi ?"}
+{"id":1511564,"jp":"よし、『創流の円環』に入って、最初の挑戦をはじめよう！","fr":"Très bien, entrons dans le « Cercle de la genèse » et lançons le premier défi !"}
+{"id":1511565,"jp":"『御霊の戦歌』には、段階的に難易度が上がるステージがあるのだ。","fr":"Le « Chant de guerre des Esprits anciens » propose des étapes dont la difficulté monte par paliers."}
+{"id":1511569,"jp":"追加報酬を獲得できる回数は、ステージごとに毎日個別で計算されてるのだ。","fr":"Le nombre de récompenses supplémentaires obtenables se calcule chaque jour séparément pour chaque étape."}
+{"id":1511570,"jp":"導きの道のクエストを完了することでも、追加の流光の欠片を獲得できるぞ。","fr":"Terminer les quêtes du Chemin qui guide permet aussi d'obtenir des Fragments de lumière filante supplémentaires."}
+{"id":1511571,"jp":"押して<color={highlight}>採集プラン</color>を切り替えます。","fr":"Appuyer pour changer de <color={highlight}>plan de cueillette</color>."}
+{"id":1511573,"jp":"<color={highlight}>マウント</color>を獲得したのだ。さっそく試してみよう！","fr":"Vous avez obtenu une <color={highlight}>monture</color> ! Essayons-la tout de suite !"}
+{"id":1511575,"jp":"このファイターを<color={highlight}>選択</color>してみよう。","fr":"Essayons de <color={highlight}>choisir</color> ce Combattant."}
+{"id":1511578,"jp":"<color={highlight}>推奨属性</color>のキボを使うと、楽に勝負を進められるはずだぞ。","fr":"Avec un Kibo de l'<color={highlight}>élément recommandé</color>, le duel devrait se dérouler plus facilement !"}
 {"id":1511579,"jp":"ファイターに勝利すると報酬も獲得できるのだ。","fr":"Vaincre un combattant permet aussi d'obtenir des récompenses."}
+{"id":1511580,"jp":"一部のキボファイトはまだ解放されてない。まずエリアレベルを上げる必要がある。","fr":"Certains Duels de Kibo ne sont pas encore débloqués. Il faut d'abord augmenter le niveau de zone."}
+{"id":1511581,"jp":"ここを押すと、いまいる場所の<color={highlight}>エリアレベル</color>を確認できる。","fr":"Appuyer ici permet de consulter le <color={highlight}>niveau de zone</color> de l'endroit où l'on se trouve."}
+{"id":1511583,"jp":"ファイターに勝利すると<color={highlight}>エリアレベル経験値</color>を獲得できるのだ！","fr":"Vaincre un Combattant donne de l'<color={highlight}>EXP de niveau de zone</color> !"}
+{"id":1511584,"jp":"エリアレベルを上げると<color={highlight}>レベル報酬</color>を獲得できる。","fr":"Monter de niveau de zone donne des <color={highlight}>récompenses de niveau</color>."}
+{"id":1511585,"jp":"ここではマップをすぐに切り替えて、別のマップのファイターを探せるのだ。","fr":"Ici, on peut changer de carte instantanément pour chercher les Combattants d'une autre carte."}
+{"id":1511586,"jp":"今後はほかのプレイヤーと対戦するモードも解放される予定だぞ。","fr":"À l'avenir, un mode de duel contre d'autres joueurs sera aussi débloqué."}
+{"id":1511587,"jp":"このファイターの<color={highlight}>選択を解除</color>。","fr":"<color={highlight}>Désélectionner</color> ce Combattant."}
+{"id":1511589,"jp":"はじめてクリアした時は、初回クリア報酬を受け取ることができる。","fr":"La première fois qu'on termine une étape, on peut recevoir la récompense de première réussite."}
+{"id":1511590,"jp":"クリア時に達成したチャレンジ目標に応じた数の星を獲得できるぞ。","fr":"On obtient un nombre d'étoiles correspondant aux objectifs de défi atteints à la fin de l'étape."}
+{"id":1511591,"jp":"星の数が一定に達すると、追加報酬ももらえちゃうのだ！","fr":"Quand le nombre d'étoiles atteint un certain seuil, on reçoit aussi des récompenses supplémentaires !"}
+{"id":1511592,"jp":"クリアすると晦冥の星砂を獲得して、ショップで報酬と交換できる！","fr":"Terminer une étape donne du Sable stellaire des ténèbres, échangeable contre des récompenses à la boutique !"}
+{"id":1511594,"jp":"<color={highlight}>キボの絆</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Lien avec les Kibo</color>"}
 {"id":1511596,"jp":"ここを押すと、すぐに私と取引することもできますよ！","fr":"Il suffit d'appuyer ici pour effectuer immédiatement des échanges avec moi !"}
+{"id":1511597,"jp":"<color={highlight}>スカイホークに騎乗</color>をタップ","fr":"Touchez <color={highlight}>Chevaucher Skyhawk</color>"}
+{"id":1511598,"jp":"大会で一位になるために、千代さんはもっと修行を重ねて、『朧影』の力を解放する必要があるんだにゃ！","fr":"Pour remporter la première place du tournoi, Chiyo doit s'entraîner encore davantage et libérer le pouvoir d'« Oborokage », nya !"}
+{"id":1511599,"jp":"戦略を立て、資源を適切に配分し、千代さんの各ステータスを高めて出征日の戦闘に備えるにゃ！","fr":"Établissons une stratégie, répartissons bien les ressources et améliorons chaque statistique de Chiyo pour préparer le combat du jour de l'expédition, nya !"}
+{"id":1511602,"jp":"大会で優勝して賞金を手に入れれば、千代さんならきっと借金を返せるにゃ！","fr":"En gagnant le tournoi et en empochant la prime, Chiyo pourra sûrement rembourser sa dette, nya !"}
+{"id":1511604,"jp":"千代さんは準備ができたみたい。さっそく今日の<color={highlight}>修行</color>をはじめよう！","fr":"Chiyo semble avoir fini ses préparatifs. Commençons tout de suite l'<color={highlight}>entraînement</color> du jour !"}
+{"id":1511606,"jp":"ここでは、今回の<color={highlight}>修行方針</color>を選択できるよ。","fr":"Ici, vous pouvez choisir l'<color={highlight}>orientation d'entraînement</color> du moment."}
+{"id":1511607,"jp":"修行方針ごとに、対応するステータスが<color={highlight}>上昇</color>するんだ。","fr":"Selon l'orientation d'entraînement, la statistique correspondante <color={highlight}>augmente</color>."}
+{"id":1511608,"jp":"修行方針を選択すると、画面右側で今回の修行により上昇する予定のステータスと、総修行効果のボーナス倍率を確認できるからね。","fr":"En choisissant une orientation d'entraînement, vous voyez à droite de l'écran les statistiques censées augmenter grâce à cet entraînement, ainsi que le multiplicateur de bonus de l'effet d'entraînement total."}
+{"id":1511609,"jp":"修行中は、千代さんと知り合ったよき友やキボも加勢して、修行を助けてくれるよ。","fr":"Pendant l'entraînement, les bons amis et les Kibo que Chiyo a rencontrés lui prêtent aussi main-forte."}
+{"id":1511611,"jp":"『朧影』の力を使いこなすには、まず<color={highlight}>『心眼』</color>を磨くのがおすすめにゃ！","fr":"Pour maîtriser le pouvoir d'« Oborokage », mieux vaut commencer par aiguiser son <color={highlight}>« Œil intérieur »</color>, nya !"}
+{"id":1511612,"jp":"最初の修行は<color={highlight}>『心眼』</color>からはじめよう！","fr":"Commençons le premier entraînement par l'<color={highlight}>« Œil intérieur »</color> !"}
+{"id":1511613,"jp":"<color={highlight}>「心眼」を修行</color>を押してください。","fr":"Appuyez sur <color={highlight}>Entraîner l'« Œil intérieur »</color>."}
+{"id":1511616,"jp":"修行が終わったら、フリス各地を遊歴して、大会の狩猟クエストをクリアすることも重要だよ。","fr":"Une fois l'entraînement terminé, il est aussi important de voyager à travers Fleece et de terminer les quêtes de chasse du tournoi."}
+{"id":1511617,"jp":"狩猟クエストのほかに、遊歴中にはユニを稼げる絶好のチャンスもたっくさんあるにゃ！","fr":"Outre les quêtes de chasse, le voyage offre aussi plein d'excellentes occasions de gagner des Uni, nya !"}
+{"id":1511618,"jp":"『薄金鬼』が焦った様子で歩きまわってるね。きっと千代さんに大切なことを知らせたいんじゃないかな！","fr":"L'« Oni d'or pâle » marche en tous sens, l'air pressé. Il veut sûrement apprendre quelque chose d'important à Chiyo !"}
+{"id":1511619,"jp":"判定の成否には、千代さんの現在のステータスが関係してるの。","fr":"La réussite d'un test dépend des statistiques actuelles de Chiyo."}
+{"id":1511620,"jp":"心眼の修行をした千代さんなら、目のまえの状況にも簡単に対処できるにゃ。判定選択肢を押して試練に挑んでみよう！","fr":"Avec son entraînement de l'Œil intérieur, Chiyo peut facilement gérer la situation. Appuyons sur un choix de test pour relever l'épreuve, nya !"}
+{"id":1511622,"jp":"さっきイベントで資金を獲得できたね。つぎは一緒にショップを見てまわろう！","fr":"Tout à l'heure, l'événement nous a rapporté des fonds. Allons maintenant faire un tour des boutiques ensemble !"}
+{"id":1511623,"jp":"<color={highlight}>買い物の道</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Chemin des achats</color>"}
+{"id":1511626,"jp":"<color={highlight}>購入</color>を押して、おいしいお菓子を堪能しよう～","fr":"Appuyez sur <color={highlight}>Acheter</color> et régalez-vous de bonnes friandises ~"}
+{"id":1511628,"jp":"旅先のイベントで資金を稼ぎ、ショップで商品を買えば、千代さんはもっと強くなれるよ！","fr":"En gagnant des fonds grâce aux événements en voyage et en achetant des produits à la boutique, Chiyo peut devenir encore plus forte !"}
 {"id":1511629,"jp":"旅先での選択や資金の使い道は、よーく考えるにゃ！","fr":"Il faut bien réfléchir aux choix en voyage et à la manière de dépenser son argent, nya !"}
+{"id":1511630,"jp":"ハンター大会で結果を出すには、厳しい修行と訓練が欠かせないにゃ……","fr":"Pour réussir au tournoi des chasseurs, un entraînement rigoureux est indispensable, nya…"}
+{"id":1511631,"jp":"大会主催者のひとりとして、このメイプルがお手伝いするよ～","fr":"Maple, l'une des organisatrices du tournoi, va donner un coup de main ~"}
+{"id":1511632,"jp":"<color={highlight}>出発</color>を押して、千代さんの修行の旅をはじめよう！","fr":"Appuyez sur <color={highlight}>Partir</color> pour commencer le voyage d'entraînement de Chiyo !"}
+{"id":1511634,"jp":"異なる修行方針を選ぶと、いろんな修行効果や物語を体験できるよ。","fr":"En choisissant différentes orientations d'entraînement, vous découvrirez divers effets d'entraînement et histoires."}
+{"id":1511635,"jp":"最初の旅は<color={highlight}>『基本の構え』</color>からはじめよう！","fr":"Pour le premier voyage, commençons par la <color={highlight}>« Garde de base »</color> !"}
+{"id":1511640,"jp":"だから、『資金』が足りないと<color={highlight}>修行できない</color>にゃ……","fr":"C'est pourquoi, sans « fonds » suffisants, on <color={highlight}>ne peut pas s'entraîner</color>, nya…"}
+{"id":1511642,"jp":"そんな時は<color={highlight}>『大道芸』</color>で気分転換するといいにゃ～","fr":"Dans ce cas, mieux vaut se changer les idées avec un <color={highlight}>« Spectacle de rue »</color>, nya ~"}
+{"id":1511644,"jp":"立ち止まるのと怠けるるのは違うの。つぎに力を発揮するためなんだにゃ！","fr":"S'arrêter n'est pas paresser. C'est pour mieux donner sa force la fois suivante, nya !"}
+{"id":1511645,"jp":"<color={highlight}>大道芸</color>を押してください","fr":"Appuyez sur <color={highlight}>Spectacle de rue</color>."}
+{"id":1511647,"jp":"もう<color={highlight}>出征日</color>がやって来ちゃったね！","fr":"Le <color={highlight}>jour d'expédition</color> est déjà arrivé !"}
 {"id":1511648,"jp":"今日は千代さんが腕前を披露し、『凶獣』を狩る日！","fr":"Aujourd'hui, Chiyo va montrer son talent en chassant une « Bête maudite » !"}
+{"id":1511649,"jp":"まずはここを押して、千代さんがこれまでに習得した新しい剣技を確認しよう！","fr":"Pour commencer, appuyons ici pour voir les nouvelles techniques de sabre que Chiyo a acquises jusqu'ici !"}
 {"id":1511650,"jp":"まずは<actionkey>GamepadUI/GamepadUI_West</actionkey> で、千代さんがこの間にどんな新しい剣技を習得したか見てみましょう！","fr":"Pour commencer, <actionkey>GamepadUI/GamepadUI_West</actionkey> : voyons quelles nouvelles techniques d'épée Chiyo a apprises entre-temps !"}
 {"id":1511652,"jp":"準備は整った。勇気を出して、この出征に臨もう！","fr":"Tout est prêt. Prenons notre courage à deux mains et partons en expédition !"}
+{"id":1511653,"jp":"準備万端。勇気を出して、この出征に挑みましょう！<actionkey>UI/Submit</actionkey> で出征","fr":"Tout est prêt. Prenons notre courage à deux mains et partons en expédition ! <actionkey>UI/Submit</actionkey> pour partir en expédition"}
+{"id":1511654,"jp":"今回は、まずここを押して<color={highlight}>『抜刀』</color>エンディングを確認しよう。","fr":"Cette fois, appuyons d'abord ici pour voir la fin <color={highlight}>« Dégainer »</color>."}
+{"id":1511656,"jp":"ハンター大会への参加を通じて、千代さんはたくさんのよき友と巡り会った。","fr":"En participant au tournoi des chasseurs, Chiyo a rencontré beaucoup de bons amis."}
+{"id":1511657,"jp":"<color={highlight}>良き友</color>ボタンを押してください。","fr":"Appuyez sur le bouton <color={highlight}>Bons amis</color>."}
+{"id":1511659,"jp":"<color={highlight}>『狩猟ポイント』</color>で、よき友たちに教えを請うことができるよ。","fr":"Avec les <color={highlight}>« points de chasse »</color>, on peut solliciter les enseignements des bons amis."}
+{"id":1511660,"jp":"初期ステータスのアップ、良き友の初期好感度の増加、新たなサポートの良き友の解放","fr":"Hausse des statistiques initiales, hausse de l'affinité initiale des bons amis, déblocage de nouveaux bons amis de soutien"}
+{"id":1511661,"jp":"なんどもプレイして、もっとたくさんの『狩猟ポイント』を獲得しよう！","fr":"Jouons encore et encore pour gagner encore plus de « points de chasse » !"}
+{"id":1511663,"jp":"『試練』では、達成済みエンディングのステータスを使って、より強い獲物を狩れるんだにゃ！","fr":"Dans l'« Épreuve », on peut chasser de plus grosses proies grâce aux statistiques des fins déjà atteintes, nya !"}
+{"id":1511665,"jp":"最終的な出征ポイントは冒険者ギルドのランキングに記録されるよ。試練の最終順位も忘れずに確認してね！","fr":"Les points d'expédition finaux sont enregistrés au classement de la Guilde des aventuriers. Pensez aussi à consulter le rang final de l'épreuve !"}
+{"id":1511666,"jp":"今回は、<color={highlight}>『居合』</color>を選択してみよう！","fr":"Cette fois, essayons <color={highlight}>« Iai »</color> !"}
 {"id":1511667,"jp":"千代さんが巡り会ったよき友が増えたよ。","fr":"Chiyo a rencontré de nouveaux amis précieux."}
 {"id":1511668,"jp":"出発前に、忘れずによき友を冒険へ誘うにゃ！","fr":"Avant de partir, il ne faut pas oublier d'inviter ses amis à l'aventure, nya !"}
+{"id":1511669,"jp":"見て。千代さんと知り合ったよき友が助けに来てくれたにゃ！","fr":"Regardez : les bons amis que Chiyo a rencontrés sont venus l'aider, nya !"}
+{"id":1511672,"jp":"よき友の助けで千代さんがどんな修行の成果を得られるか、見に行こう！","fr":"Allons voir quels fruits de l'entraînement Chiyo obtient grâce à l'aide de ses bons amis !"}
+{"id":1511673,"jp":"冒険ギルドから新しい狩猟クエストが発行されたよ。確認しに行こう！","fr":"La Guilde des aventuriers a publié de nouvelles quêtes de chasse. Allons voir !"}
+{"id":1511675,"jp":"迷跡の森の奥深くには封印された秘宝が隠されていて、強力なキボたちに守られてるの。","fr":"Au fond de la Forêt aux Traces perdues se cache un trésor scellé, protégé par de puissants Kibo."}
+{"id":1511676,"jp":"そんなキボを狩猟することが、ギルドから出された新しいクエストだよ。","fr":"Chasser ces Kibo est la nouvelle quête lancée par la Guilde."}
+{"id":1511677,"jp":"<color={highlight}>クエスト確認</color>を押してください","fr":"Appuyez sur <color={highlight}>Consulter la quête</color>."}
+{"id":1511679,"jp":"ただし、迷跡の森は危険だから、入って狩猟するには救助サービス付きの高級狩猟許可証を購入する必要があるの。","fr":"Mais la Forêt aux Traces perdues est dangereuse : pour y entrer et y chasser, il faut acheter un permis de chasse de luxe avec service de secours."}
+{"id":1511680,"jp":"この許可証を侮っちゃだめだにゃ。危険な時にすっごく役立つんだから！","fr":"Ne sous-estimez pas ce permis, nya. Il est vraiment très utile en cas de danger !"}
+{"id":1511681,"jp":"<color={highlight}>購入</color>を押してください","fr":"Appuyez sur <color={highlight}>Acheter</color>."}
+{"id":1511683,"jp":"宝の地図はこの場所を示してるね。ボタンを押して、『行動力』を消費して狩りに向かおう！","fr":"La carte au trésor indique cet endroit. Appuyons sur le bouton, dépensons des « points d'action » et partons chasser !"}
+{"id":1511684,"jp":"宝の地図がこの地点を示しています。「行動力」を消費して狩猟に向かいましょう！","fr":"La carte au trésor indique ce point. Dépensez des « Points d'action » et partez chasser !"}
+{"id":1511685,"jp":"宝の地図にある宝物を見つけたら、まとまったユニと交換できるよ！","fr":"En trouvant le trésor de la carte, on peut l'échanger contre une belle somme d'Uni !"}
+{"id":1511687,"jp":"ここを押して、<color={highlight}>『カラフルパレード団』</color>に入って！","fr":"Appuyez ici et entrez dans la <color={highlight}>« Troupe de la Parade multicolore »</color> !"}
+{"id":1511692,"jp":"修行で使う刀掛けを強化すると、千代さんの心眼修行の効果が高まるよ！","fr":"Renforcer le porte-sabres utilisé pour l'entraînement augmente l'effet de l'entraînement de l'Œil intérieur de Chiyo !"}
+{"id":1511693,"jp":"星臨者の保証があれば、『フリスのマルシェ』で商品を購入するとき、さきに少額の手付金を支払うことができる。","fr":"Avec la garantie de l'Enfant des étoiles, on peut verser d'abord un petit acompte pour acheter des produits au « Marché de Fleece »."}
 {"id":1511694,"jp":"残りはつぎの出征後に払えばいいにゃ！","fr":"Le reste pourra être payé après la prochaine expédition, nya !"}
+{"id":1511695,"jp":"こんなお得な機会は逃せないよ。千代さん、安心して買ってね！","fr":"On ne peut pas laisser passer une telle occasion. Chiyo, tu peux acheter l'esprit tranquille !"}
+{"id":1511696,"jp":"新たなスタートで、千代さんは<color={highlight}>新しい剣技</color>を解放したよ！","fr":"Avec ce nouveau départ, Chiyo a débloqué de <color={highlight}>nouvelles techniques de sabre</color> !"}
+{"id":1511697,"jp":"これらの剣技は<color={highlight}>『居合』</color>スタートのときだけ解放されるの。","fr":"Ces techniques de sabre ne se débloquent qu'en commençant par <color={highlight}>« Iai »</color>."}
+{"id":1511698,"jp":"うまく活用して、千代さんを大会最強の参加者に育てよう！","fr":"Utilisons-les bien pour faire de Chiyo la participante la plus forte du tournoi !"}
+{"id":1511702,"jp":"準備を整えて、より高難易度の挑戦に立ち向かってみてね～","fr":"Préparez-vous bien, puis relevez un défi de plus haute difficulté ~"}
 {"id":1511703,"jp":"科学","fr":"Science"}
 {"id":1511704,"jp":"手帳","fr":"Carnet"}
 {"id":1511705,"jp":"特殊効果なし","fr":"Aucun effet spécial"}
+{"id":1511706,"jp":"騎士見習いのリリィだよ。まだまだ未熟だけど、よければ、わたしも同行させてくれないかな？\n","fr":"Je suis Lily, apprentie chevalière. Je manque encore d'expérience, mais si tu veux bien, me laisserais-tu t'accompagner ?\n"}
+{"id":1511709,"jp":"間に合いました……！シャルと申します。これからお供させてください。必ずやあなたのお役に立ちます。\n","fr":"J'ai pu arriver à temps… ! Je m'appelle Shalle. Permettez-moi de vous accompagner désormais. Je vous serai certainement utile.\n"}
 {"id":1511710,"jp":"非表示","fr":"Masqué"}
 {"id":1511711,"jp":"桃玉の薫香","fr":"Parfum de pêche et de jade"}
 {"id":1511712,"jp":"塗山小玉の初期衣装。","fr":"Tenue de base de Tushan Xiaoyu."}
@@ -13453,72 +13884,113 @@
 {"id":1511745,"jp":"【手紙】郵便局の手紙を解放×1","fr":"【Lettre】 Débloque une lettre du bureau de poste ×1"}
 {"id":1511746,"jp":"【物語】物語×1を解放","fr":"【Histoire】 Débloque une histoire ×1"}
 {"id":1511747,"jp":"【属性】キャラクターHP+55","fr":"【Attribut】 PV du personnage +55"}
+{"id":1511748,"jp":"<物語>物語×1を解放し、完了すると秘虹晶×25を獲得","fr":"<Histoire> Débloque une histoire ×1 ; une fois terminée, obtient Cristal d'arc-en-ciel secret ×25"}
+{"id":1511749,"jp":"<物語>物語×1を解放し、完了すると絆アニマ×1を獲得","fr":"<Histoire> Débloque une histoire ×1 ; une fois terminée, obtient Anima de Lien ×1"}
 {"id":1511750,"jp":"訪問","fr":"Visite"}
 {"id":1511751,"jp":"マーカー","fr":"Repère"}
 {"id":1511753,"jp":"ハクオン家の完璧な令嬢","fr":"La parfaite demoiselle de la maison Hakuon"}
 {"id":1511754,"jp":"次期当主にとって、これは誇るほどのものではない。","fr":"Pour la future dirigeante de la famille, il n'y a pas de quoi s'en vanter."}
 {"id":1511755,"jp":"『銭』途洋々","fr":"Un avenir « en or »"}
+{"id":1511756,"jp":"モーレンがEXダメージを与えた時、自身のEX強度が20%上昇する（効果時間：15秒）。さらに星極チャージを3回復する。","fr":"Quand Morwyn inflige des DGT EX, augmente de 20 % sa Puissance EX (durée : 15 s). Restaure en plus 3 points de charge Zénith stellaire."}
 {"id":1511757,"jp":"切断","fr":"Taille"}
+{"id":1511758,"jp":"EX強度が50上昇する。\nEX会心率が5%上昇する。\n雷属性ダメージ増幅が8%上昇する。","fr":"Augmente la Puissance EX de 50.\nAugmente le Taux CRIT EX de 5 %.\nAugmente l'Amplification des DGT de Foudre de 8 %."}
 {"id":1511759,"jp":"完璧主義","fr":"Perfectionnisme"}
+{"id":1511760,"jp":"どんな局面にもそつなく対応できるが、他者の考えがわからないこともある。","fr":"Elle s'adapte sans peine à toutes les situations, mais il lui arrive de ne pas comprendre ce que pensent les autres."}
 {"id":1511761,"jp":"鈍感なお嬢さま","fr":"Une demoiselle peu perspicace"}
 {"id":1511762,"jp":"成形","fr":"Façonnage"}
+{"id":1511763,"jp":"モーレンが風の刻印または雷の刻印を消費した時、対応する属性のダメージ増幅が20%上昇する（効果時間：10秒）。","fr":"Quand Morwyn consomme un Sceau de Vent ou un Sceau de Foudre, augmente de 20 % l'Amplification des DGT de l'élément correspondant (durée : 10 s)."}
 {"id":1511764,"jp":"研磨","fr":"Polissage"}
+{"id":1511765,"jp":"EX強度が50上昇する。\n被ダメージが5%減少する。\n風属性ダメージ増幅が8%上昇する。","fr":"Augmente la Puissance EX de 50.\nRéduit les DGT subis de 5 %.\nAugmente l'Amplification des DGT de Vent de 8 %."}
 {"id":1511766,"jp":"剣魂の奏者","fr":"Virtuose de l'âme de l'épée"}
+{"id":1511767,"jp":"常に優雅さを保ち、一族の名誉を汚すようなことは決してしてはならない。","fr":"Garder en toute circonstance son élégance et ne jamais rien faire qui ternisse l'honneur de sa famille."}
+{"id":1511768,"jp":"私の剣術は、剣聖と称される両親とはまったく違うわ。私はふたりの後継者であって、模造品ではないの。","fr":"Mon escrime n'a rien à voir avec celle de mes parents, qu'on surnomme les Maîtres de l'épée. Je suis leur héritière, pas une imitation."}
 {"id":1511769,"jp":"端正な振る舞い","fr":"Une conduite irréprochable"}
 {"id":1511771,"jp":"油断したとき","fr":"Quand elle baisse sa garde"}
+{"id":1511772,"jp":"一緒にいると、いつも自然と気が緩んでしまうの。これは……どうしてなのかしら？","fr":"Quand on est ensemble, je me détends toujours sans y penser. Je me demande bien pourquoi… ?"}
 {"id":1511773,"jp":"誓いの下に立ち","fr":"Debout sous le serment"}
 {"id":1511775,"jp":"ほっとする微笑み","fr":"Un sourire rassurant"}
+{"id":1511776,"jp":"心配しないでください……私があなたの支えになります。","fr":"Ne vous inquiétez pas… Je serai votre soutien."}
 {"id":1511778,"jp":"恐怖の刃に直面し","fr":"Face à la lame de la peur"}
+{"id":1511779,"jp":"攻撃力が50上昇する。\n会心率が4%上昇する。\n光属性ダメージ増幅が8%上昇する。","fr":"Augmente l'ATQ de 50.\nAugmente le Taux CRIT de 4 %.\nAugmente l'Amplification des DGT de Lumière de 8 %."}
 {"id":1511780,"jp":"真面目な一面","fr":"Un côté sérieux"}
 {"id":1511781,"jp":"文化の知識も重要！","fr":"La culture, c'est important aussi !"}
 {"id":1511782,"jp":"眼鏡をかけることもある","fr":"Porte parfois des lunettes"}
 {"id":1511783,"jp":"己の欲を抑え","fr":"Réfréner ses désirs"}
 {"id":1511785,"jp":"弱者を守護する責務","fr":"Le devoir de protéger les faibles"}
+{"id":1511786,"jp":"攻撃力が50上昇する。\n会心ダメージが8%増加する。\n被ダメージが5%減少する。","fr":"Augmente l'ATQ de 50.\nAugmente les DGT CRIT de 8 %.\nRéduit les DGT subis de 5 %."}
 {"id":1511787,"jp":"もっと食べたい","fr":"Envie d'en manger encore"}
 {"id":1511788,"jp":"もう一杯いただけますか、ごちそうさまでした。","fr":"Puis-je en reprendre un peu ? Merci pour ce délicieux repas."}
+{"id":1511789,"jp":"膨大な運動量のせいか、その華奢な外見に反して、彼女がいったいいつ満腹になるのかと、心配になることも。","fr":"Sans doute à cause de son énorme dépense physique, on se demande parfois, malgré sa silhouette menue, quand elle finira par être rassasiée."}
 {"id":1511790,"jp":"いったいどれくらい食べられるのでしょう","fr":"Mais jusqu'à quel point peut-elle manger ?"}
 {"id":1511791,"jp":"栄光の名を戴く","fr":"Porter un nom glorieux"}
+{"id":1511792,"jp":"シャルの与ダメージが20%増加する。\nブレイク状態のエネミーを攻撃した時、自身の与ダメージがさらに20%増加する。","fr":"Augmente de 20 % les DGT infligés par Shalle.\nQuand Shalle attaque un ennemi en état de brise, augmente encore de 20 % ses DGT infligés."}
 {"id":1511793,"jp":"美夢の騎士","fr":"La chevalière des beaux rêves"}
 {"id":1511795,"jp":"カチカチ","fr":"Solide comme un roc"}
+{"id":1511796,"jp":"ノノはチャージ攻撃のチャージ中および発動中、被ダメージが20%減少する。\nチャージ攻撃のダメージ倍率が20%上昇する。","fr":"Pendant la charge et le déclenchement de l'Attaque chargée de Nono, réduit de 20 % les DGT subis.\nAugmente de 20 % le multiplicateur de DGT de l'Attaque chargée."}
 {"id":1511797,"jp":"宝物！あそこだ！","fr":"Un trésor ! Là-bas !"}
 {"id":1511798,"jp":"ティティと一緒に探検隊を結成した。","fr":"A formé une brigade d'exploration avec Tiffy."}
 {"id":1511799,"jp":"お宝ハンター","fr":"Chasseuse de trésors"}
+{"id":1511800,"jp":"ノノが星閃スキルを発動した後、地の刻印を2つ獲得し、自身のブレイク効率が20%上昇する（効果時間：15秒）。","fr":"Après que Nono a lancé une Compétence Éclair stellaire, obtient 2 Sceaux de Terre et augmente de 20 % son Efficacité de brise (durée : 15 s)."}
 {"id":1511801,"jp":"ピカピカ","fr":"Ça brille !"}
+{"id":1511802,"jp":"ブレイク値が40増加する。\nブレイク効率が6%上昇する。","fr":"Augmente la Valeur de brise de 40.\nAugmente l'Efficacité de brise de 6 %."}
 {"id":1511803,"jp":"宝探しに夢中な冒険家","fr":"Une aventurière passionnée de trésors"}
+{"id":1511804,"jp":"遺跡の探索、鉱脈の発掘――宝物に関することなら、ノノはどれも得意なのである！","fr":"Explorer des ruines, creuser des filons… pour tout ce qui touche aux trésors, Nono est imbattable !"}
 {"id":1511805,"jp":"うぅ……もうだれかがきたあとだった……","fr":"Ouh… Quelqu'un est déjà passé par ici…"}
 {"id":1511807,"jp":"山吹色","fr":"Jaune d'or"}
+{"id":1511808,"jp":"攻撃力が40上昇する。\nエネルギー回復増幅が4%上昇する。","fr":"Augmente l'ATQ de 40.\nAugmente l'Amplification de récupération d'Énergie de 4 %."}
 {"id":1511809,"jp":"運命の導き","fr":"Les voies du destin"}
+{"id":1511810,"jp":"異常なほど運が良く、まぐれで宝物を見つけることも多い。また、どれだけ追い詰められていても、必ずピンチを切り抜けてしまう。","fr":"Dotée d'une chance anormale, elle découvre souvent des trésors par pur hasard. Et même acculée, elle se sort toujours d'une situation critique."}
 {"id":1511811,"jp":"どこかわからないけど、ノノ、左に行く！","fr":"Nono ne sait pas où aller, mais Nono va à gauche !"}
 {"id":1511812,"jp":"ティティ！行こう！","fr":"Tiffy ! On y va !"}
+{"id":1511813,"jp":"ノノがEXダメージを1回与えた後、チーム全体の攻撃力が5%上昇する（最大3スタック、効果時間：24秒）。","fr":"Après que Nono a infligé des DGT EX une fois, augmente de 5 % l'ATQ de toute l'équipe (3 cumuls max., durée : 24 s)."}
 {"id":1511814,"jp":"宝物の抱擁","fr":"L'étreinte des trésors"}
+{"id":1511815,"jp":"彼女はずっと、宝物の方から自分の懐に飛び込んでくると信じていた。","fr":"Elle a toujours cru que les trésors viendraient d'eux-mêmes tomber dans sa poche."}
+{"id":1511816,"jp":"テララのHPがHP上限の80%以上の時、自身の攻撃力が12%上昇する。","fr":"Quand les PV de Terara sont à 80 % ou plus de leur maximum, augmente de 12 % son ATQ."}
 {"id":1511817,"jp":"ハンターの直感","fr":"L'instinct de la chasseuse"}
+{"id":1511818,"jp":"アタシはシャルル村最強のハンターなんだ。だから、アタシの直感を信じてくれ！","fr":"Je suis la meilleure chasseuse du village de Charlulu. Alors fais confiance à mon instinct !"}
 {"id":1511819,"jp":"ハンターとしての警戒心","fr":"La vigilance d'un chasseur"}
 {"id":1511821,"jp":"密林の影","fr":"L'ombre de la jungle"}
+{"id":1511822,"jp":"EX強度が40上昇する。\n火属性ダメージ増幅が6%上昇する。","fr":"Augmente la Puissance EX de 40.\nAugmente l'Amplification des DGT de Feu de 6 %."}
 {"id":1511823,"jp":"リラックス感","fr":"Détente"}
+{"id":1511824,"jp":"外の世界の知識がたくさんあるんだな……すごく気にはなるけど、もう頭が回らない……","fr":"Tu as plein de connaissances sur le monde extérieur… Ça m'intrigue vraiment, mais je n'ai plus la tête à ça…"}
 {"id":1511825,"jp":"それでも、やっぱり知りたい……","fr":"Malgré tout, j'aimerais vraiment savoir…"}
 {"id":1511827,"jp":"崖谷の咆哮","fr":"Le rugissement des falaises"}
 {"id":1511828,"jp":"エネルギー満タン！","fr":"Énergie à bloc !"}
+{"id":1511830,"jp":"なあ、いま困ってるんだって？へへ、安心しな、アタシが来たからにはもう大丈夫！","fr":"Alors comme ça, tu as un souci ? Hé hé, ne t'inquiète pas : maintenant que je suis là, tout ira bien !"}
 {"id":1511831,"jp":"とにかく行動あるのみだ！","fr":"Quoi qu'il en soit, il faut agir !"}
+{"id":1511832,"jp":"テララが「燃焼」を獲得するたび、自身のEX強度が4%上昇する（最大3スタック、効果時間：24秒）。","fr":"Chaque fois que Terara obtient « Brûlure », augmente de 4 % sa Puissance EX (3 cumuls max., durée : 24 s)."}
 {"id":1511833,"jp":"ハンターの心得","fr":"Le savoir-faire de la chasseuse"}
+{"id":1511834,"jp":"へへ、びっくりした？気づかないうちにすぐそばまで近づく……これがハンターの技ってやつだ！","fr":"Hé hé, surpris ? S'approcher tout près sans qu'on s'en rende compte… c'est ça, l'art de la chasse !"}
 {"id":1511835,"jp":"若葉の芽吹き","fr":"Jeunes feuilles qui bourgeonnent"}
+{"id":1511836,"jp":"シンフォーリアのEXダメージが12%増加する。\n星響スキルがエネミーに命中した時、風の刻印を1つ獲得する。","fr":"Augmente de 12 % les DGT EX de Symphoria.\nQuand une Compétence Écho stellaire touche un ennemi, obtient 1 Sceau de Vent."}
 {"id":1511837,"jp":"守る心","fr":"Un cœur protecteur"}
+{"id":1511838,"jp":"あなたに同行するのも任務のうちです。ですから……あまり私から離れないでくださいね？","fr":"Vous accompagner fait partie de ma mission. Alors… ne vous éloignez pas trop de moi, d'accord ?"}
 {"id":1511840,"jp":"木々の囁き","fr":"Le murmure des arbres"}
+{"id":1511841,"jp":"EX強度が40上昇する。\n風属性ダメージ増幅が6%上昇する。","fr":"Augmente la Puissance EX de 40.\nAugmente l'Amplification des DGT de Vent de 6 %."}
 {"id":1511842,"jp":"ウィスパー","fr":"Murmure"}
+{"id":1511843,"jp":"女王の命に従い、多くの任務に参加してきましたが、ロースランサをこんなに長いあいだ離れるのは初めてで……","fr":"J'ai participé à de nombreuses missions sur ordre de la reine, mais c'est la première fois que je reste aussi longtemps loin de Lors Lains…"}
 {"id":1511844,"jp":"木漏れ日の影","fr":"L'ombre sous les feuillages"}
 {"id":1511846,"jp":"舞い散る落ち葉","fr":"Feuilles qui tombent en dansant"}
 {"id":1511847,"jp":"ウィスパーリーフがもたらします……","fr":"La feuille murmurante apporte…"}
+{"id":1511849,"jp":"風が彼方の声を運んできた。きっと、木々が成長するときにあがった笑い声と歌声なのだろう。","fr":"Le vent a apporté des voix venues de loin. Ce sont sûrement les rires et les chants des arbres en pleine croissance."}
 {"id":1511850,"jp":"エルフの本領","fr":"Le vrai talent des Elfes"}
+{"id":1511851,"jp":"シンフォーリアのチャージ攻撃がエネミーに命中するたび、EX会心率が5%上昇する（最大4スタック、効果時間：20秒）。","fr":"Chaque fois que l'Attaque chargée de Symphoria touche un ennemi, augmente de 5 % le Taux CRIT EX (4 cumuls max., durée : 20 s)."}
 {"id":1511852,"jp":"吹き抜けるそよ風","fr":"Une brise qui passe"}
 {"id":1511854,"jp":"アビィがグルル","fr":"Abby fait grrr"}
 {"id":1511856,"jp":"幼竜","fr":"Jeune dragon"}
+{"id":1511857,"jp":"アビィは竜なの。もちろんパパもママも竜。でも、アビィはみんなと違うんだって、いつも言われてた……","fr":"Abby est un dragon. Bien sûr, papa et maman aussi. Mais on a toujours dit à Abby qu'elle était différente des autres…"}
 {"id":1511858,"jp":"アビィが飛びかかる","fr":"Abby bondit"}
 {"id":1511860,"jp":"アビィのカチャカチャ","fr":"Le cliquetis d'Abby"}
+{"id":1511861,"jp":"攻撃力が50上昇する。\nブレイク値が50増加する。\nブレイク効率が8%上昇する。","fr":"Augmente l'ATQ de 50.\nAugmente la Valeur de brise de 50.\nAugmente l'Efficacité de brise de 8 %."}
 {"id":1511863,"jp":"たしか……えと、『さんさいかれー』？","fr":"Si je me souviens bien… Euh, du « curry aux légumes sauvages » ?"}
 {"id":1511864,"jp":"アビィのまんまるおなか","fr":"Le petit ventre tout rond d'Abby"}
 {"id":1511866,"jp":"アビィはおなかいっぱい","fr":"Abby a le ventre plein"}
+{"id":1511867,"jp":"攻撃力が50上昇する。\nエネルギー回復増幅が5%上昇する。\n水属性ダメージ増幅が8%上昇する。","fr":"Augmente l'ATQ de 50.\nAugmente l'Amplification de récupération d'Énergie de 5 %.\nAugmente l'Amplification des DGT d'Eau de 8 %."}
 {"id":1511868,"jp":"す、すごく食べたい！","fr":"A-Abby a très envie d'en manger !"}
 {"id":1511869,"jp":"これ、とってもおいしい、あと、かたい。","fr":"C'est très bon, ça. Et aussi, c'est dur."}
 {"id":1511870,"jp":"美石家アビィ","fr":"Abby, gastronome des pierres"}
+{"id":1511871,"jp":"アビィがチャージ攻撃または星極スキルを発動した時、チーム全体のチャージ攻撃ダメージが18%増加する（効果時間：24秒）。","fr":"Quand Abby lance une Attaque chargée ou une Compétence Zénith stellaire, augmente de 18 % les DGT d'Attaque chargée de toute l'équipe (durée : 24 s)."}
+{"id":1511872,"jp":"アビィ、どれくらい寝てたの？ずっとアビィのそばにいてくれたの……？","fr":"Abby a dormi combien de temps ? Tu as été près d'Abby tout ce temps… ?"}
 {"id":1511873,"jp":"風立ちて、翼が広がる","fr":"Le vent se lève, les ailes se déploient"}
 {"id":1511875,"jp":"照れた一瞬","fr":"Un instant d'embarras"}
 {"id":1511876,"jp":"顔が赤い！？ただ赤辛子を食べすぎただけだ。","fr":"J'ai le visage rouge ?! C'est juste parce que j'ai mangé trop de piment rouge."}
@@ -13526,61 +13998,86 @@
 {"id":1511878,"jp":"孤鷹が峡谷を越える","fr":"Le faucon solitaire franchit le canyon"}
 {"id":1511880,"jp":"夜の帳のなかで思索する","fr":"Méditer sous le voile de la nuit"}
 {"id":1511881,"jp":"独特な外見","fr":"Une apparence singulière"}
+{"id":1511882,"jp":"小麦色の肌と白黒の4枚の翼は、翼人のなかでは比較的めずらしい。","fr":"Son teint hâlé et ses quatre ailes noires et blanches sont assez rares chez les Ailés."}
 {"id":1511883,"jp":"だが本人はとても気に入っている","fr":"Mais elle les apprécie énormément."}
 {"id":1511884,"jp":"刃は風に磨かれる","fr":"Une lame aiguisée par le vent"}
+{"id":1511885,"jp":"ファランタの星極スキルがエネミーに命中した後、そのエネミーの被ダメージが15%増加する（効果時間：24秒）。","fr":"Après que la Compétence Zénith stellaire de Faridah a touché un ennemi, augmente de 15 % les DGT subis par cet ennemi (durée : 24 s)."}
 {"id":1511886,"jp":"沈黙の誓い","fr":"Le vœu de silence"}
+{"id":1511887,"jp":"攻撃力が50上昇する。\n防御貫通が4%上昇する。\n風属性ダメージ増幅が8%上昇する。","fr":"Augmente l'ATQ de 50.\nAugmente la Pénétration de DÉF de 4 %.\nAugmente l'Amplification des DGT de Vent de 8 %."}
 {"id":1511888,"jp":"ひそかな心配","fr":"Une inquiétude secrète"}
+{"id":1511889,"jp":"公正無私な態度の裏で、実は一族の者たちひとりひとりを気にかけている。","fr":"Derrière une attitude juste et désintéressée, elle se soucie en réalité de chaque membre de son clan."}
+{"id":1511890,"jp":"いつもひとりで隠れて、ネガティブな感情を消化している。","fr":"Toujours seule, elle se cache pour digérer ses émotions négatives."}
 {"id":1511891,"jp":"鉄面の長？","fr":"Une cheffe au visage de fer ?"}
 {"id":1511892,"jp":"鷹主の決意","fr":"La résolution du Seigneur des faucons"}
 {"id":1511894,"jp":"訓練の合間","fr":"Entre deux entraînements"}
 {"id":1511897,"jp":"カラクリの鬼才","fr":"Génie des mécanismes"}
+{"id":1511898,"jp":"これは……動くね。こっちは、変形できるね。そしてこれは……って、はやく逃げて、もうすぐ爆発するよ！","fr":"Ça, ça bouge. Celui-ci peut se transformer. Et ça, c'est… hé, fuis vite, ça va bientôt exploser !"}
 {"id":1511899,"jp":"迷ったときは改造だ","fr":"Dans le doute, on modifie !"}
 {"id":1511900,"jp":"精密計算","fr":"Calcul de précision"}
+{"id":1511901,"jp":"寒悠悠の星響スキルのチャージ回数が2回になる。\n星響スキルのダメージ倍率が8%上昇する。","fr":"Le nombre de charges de la Compétence Écho stellaire de Han Youyou passe à 2.\nAugmente de 8 % le multiplicateur de DGT de la Compétence Écho stellaire."}
 {"id":1511902,"jp":"カチッという音","fr":"Un petit clic"}
 {"id":1511903,"jp":"お嬢さま……？","fr":"Mademoiselle… ?"}
+{"id":1511904,"jp":"つけてくる奴、もういないよね？\n……ふふん、『努力は裏切らない』ね。","fr":"Plus personne ne nous suit, hein ?\n… Hé hé, « l'effort ne trahit jamais »."}
 {"id":1511905,"jp":"あとをつけてきているのはだれだろう？","fr":"Qui peut bien nous suivre ?"}
 {"id":1511906,"jp":"歯車の回転","fr":"Engrenages en mouvement"}
 {"id":1511908,"jp":"錠の解除","fr":"Déverrouillage"}
 {"id":1511909,"jp":"防御力が50上昇する。\nHPが600増加する。","fr":"Augmente la DÉF de 50.\nAugmente les PV de 600."}
 {"id":1511910,"jp":"宝探しの奇才","fr":"Prodige de la chasse au trésor"}
+{"id":1511912,"jp":"まぁ、こっちはもう準備できてるし、いやがっても絶対連れていくんだけどね！","fr":"Enfin, moi, j'ai tout préparé, et même si ça ne te plaît pas, je t'emmène quoi qu'il arrive !"}
 {"id":1511913,"jp":"探そうと思えば、必ず見つかるよ。","fr":"Il suffit de chercher pour finir par trouver."}
 {"id":1511916,"jp":"巡礼の初誓","fr":"Premier serment du pèlerinage"}
 {"id":1511918,"jp":"見習い騎士","fr":"Apprentie chevalière"}
 {"id":1511919,"jp":"まだまだ経験は浅いけど、騎士道精神は貫き通す！","fr":"Je manque encore d'expérience, mais je resterai toujours fidèle à l'esprit chevaleresque !"}
 {"id":1511920,"jp":"風に舞う綿羽","fr":"Duvet dansant dans le vent"}
+{"id":1511921,"jp":"リリィが星閃スキルを発動した後、チーム全体の風属性ダメージがさらに15%増加する（効果時間：15秒）。","fr":"Après que Lily a lancé une Compétence Éclair stellaire, augmente encore de 15 % les DGT de Vent de toute l'équipe (durée : 15 s)."}
 {"id":1511922,"jp":"堅靭なる心盾","fr":"Le bouclier inflexible du cœur"}
 {"id":1511923,"jp":"非凡な出自？","fr":"Des origines hors du commun ?"}
 {"id":1511925,"jp":"だれにだって秘密のひとつやふたつぐらいあるでしょ？","fr":"Tout le monde a bien un ou deux petits secrets, non ?"}
 {"id":1511926,"jp":"天翔ける輝き","fr":"Un éclat qui fend le ciel"}
 {"id":1511928,"jp":"王家の決意","fr":"La résolution royale"}
 {"id":1511929,"jp":"騎士の道","fr":"La voie du chevalier"}
+{"id":1511931,"jp":"いつか、本物の騎士になる。そのときは、どうかあなたに見届けてほしいな。","fr":"Un jour, je deviendrai une vraie chevalière. Ce jour-là, j'aimerais que tu sois là pour le voir."}
 {"id":1511932,"jp":"微光","fr":"Faible lueur"}
 {"id":1511933,"jp":"永遠の盟約","fr":"Pacte éternel"}
 {"id":1511935,"jp":"騎士の姿","fr":"Allure de chevalière"}
+{"id":1511936,"jp":"わたしが呼べば、あなたはいつでも応えてくれる。だから、わたしの鎧も弱いところも、すべてあなたに見せるね。","fr":"Quand je t'appelle, tu réponds toujours présent. Alors je te montrerai tout de moi, mon armure comme mes faiblesses."}
 {"id":1511937,"jp":"風秘める翼","fr":"Des ailes qui cachent le vent"}
 {"id":1511939,"jp":"新生の翼","fr":"Des ailes renouvelées"}
+{"id":1511940,"jp":"お父さん……もうすぐ、お父さんが駆け抜けた雲の上に手が届くよ！","fr":"Papa… bientôt, j'atteindrai ces hauteurs, au-dessus des nuages, que tu as parcourues en filant !"}
 {"id":1511941,"jp":"密かな誓い","fr":"Un serment secret"}
+{"id":1511942,"jp":"ミィティの星閃スキルがエネミーに命中した後、そのエネミーが受ける雷属性ダメージが15%増加する（効果時間：24秒）。","fr":"Après que la Compétence Éclair stellaire de Mitty a touché un ennemi, augmente de 15 % les DGT de Foudre subis par cet ennemi (durée : 24 s)."}
 {"id":1511943,"jp":"ひとっ飛びで、宙へ","fr":"D'un bond, dans les airs"}
 {"id":1511944,"jp":"幼くも負けず嫌い","fr":"Jeune mais mauvaise perdante"}
+{"id":1511945,"jp":"アタシは先代の<ruby=ホークガル>鷹主</ruby>の娘……哀れむような目で見るのはやめて！","fr":"Je suis la fille du précédent Seigneur Faucon… arrête de me regarder avec cet air de pitié !"}
 {"id":1511946,"jp":"うぅ……ア、アタシ、泣いてなんかない……","fr":"Ouh… J-je ne pleure pas du tout…"}
 {"id":1511948,"jp":"反転して急降下","fr":"Retournement et piqué"}
 {"id":1511949,"jp":"大得意","fr":"Toute fière"}
 {"id":1511950,"jp":"ふっふーん！さっきの技、マネできないでしょう！","fr":"Hé hé ! Impossible de reproduire ma technique de tout à l'heure, hein !"}
+{"id":1511951,"jp":"まあ、アタシを『師匠』って呼んぶのなら、教えてあげてもいいわよ。","fr":"Eh bien, si tu m'appelles « maître », je veux bien t'apprendre."}
 {"id":1511952,"jp":"アタシが一番すごい！","fr":"C'est moi la plus forte !"}
+{"id":1511953,"jp":"「蓄電」がある時、自身の雷属性ダメージが20%増加する。","fr":"Tant que « Charge accumulée » est présente, augmente de 20 % ses DGT de Foudre."}
 {"id":1511954,"jp":"華奢な体と不屈の心","fr":"Corps frêle, cœur indomptable"}
+{"id":1511955,"jp":"なによ！アンタ……見てなさいよね、アタシはすぐに大きくなるんだから！でそのときは、アタシが翼人最強の戦士になってるわよ！","fr":"Quoi ! Toi… Regarde bien, je vais vite grandir ! Et ce jour-là, je serai la plus forte guerrière des Ailés !"}
 {"id":1511956,"jp":"共鳴分光","fr":"Spectre de résonance"}
 {"id":1511958,"jp":"生い立ちが謎の少年","fr":"Le garçon aux origines mystérieuses"}
 {"id":1511960,"jp":"空から落ちてきた……？","fr":"Une chute depuis le ciel… ?"}
 {"id":1511962,"jp":"銀輝の浮影","fr":"Ombre flottante argentée"}
+{"id":1511963,"jp":"攻撃力が50上昇する。\n防御力が60上昇する。\nHPが800増加する。","fr":"Augmente l'ATQ de 50.\nAugmente la DÉF de 60.\nAugmente les PV de 800."}
 {"id":1511964,"jp":"予言の者","fr":"Enfant de la prophétie"}
+{"id":1511965,"jp":"予言のステラストーンから誕生した神秘的な少年。この世界の秘密が、まもなく明かされようとしている……","fr":"Un garçon mystérieux né de la pierre Stella de la prophétie. Les secrets de ce monde sont sur le point d'être révélés…"}
 {"id":1511966,"jp":"予言はすでに成就した","fr":"La prophétie s'est accomplie"}
+{"id":1511967,"jp":"天賦スキルによる全属性ダメージ増幅が20%に上昇する。\n「輝映」によるチーム全体の防御貫通が15%に上昇する。","fr":"L'Amplification des DGT de tous les éléments conférée par la compétence de don passe à 20 %.\nLa Pénétration de DÉF de toute l'équipe conférée par « Rayonnement » passe à 15 %."}
 {"id":1511968,"jp":"無垢の散羽","fr":"Plumes éparses de l'innocence"}
 {"id":1511969,"jp":"プロミリアのアイデア王","fr":"Le roi des idées de Promilia"}
 {"id":1511972,"jp":"いい考えがあるよ……","fr":"J'ai une bonne idée…"}
 {"id":1511973,"jp":"薄明の星灯り","fr":"Lueur d'étoile au crépuscule"}
 {"id":1511975,"jp":"星の旅路","fr":"Un voyage parmi les étoiles"}
+{"id":1511976,"jp":"予言の通り、流星はこの大地に降臨した。彼の行く先には、どのような結末が待っているのだろうか？","fr":"Comme l'annonçait la prophétie, une étoile filante est descendue sur cette terre. Quel dénouement l'attend sur son chemin ?"}
 {"id":1511977,"jp":"生い立ちが謎に包まれた少女","fr":"Une jeune fille aux origines mystérieuses"}
+{"id":1511978,"jp":"予言のステラストーンから誕生した神秘的な少女。この世界の秘密がまもなく明かされようとしている……","fr":"Une jeune fille mystérieuse née de la pierre Stella de la prophétie. Les secrets de ce monde sont sur le point d'être révélés…"}
+{"id":1511979,"jp":"予言の通り、流星はこの大地に降臨した。彼女の行く先には、どのような結末が待っているのだろうか？","fr":"Comme l'annonçait la prophétie, une étoile filante est descendue sur cette terre. Quel dénouement l'attend sur son chemin ?"}
 {"id":1511981,"jp":"ポンポンさま！","fr":"L'illustre Pengpeng !"}
+{"id":1511982,"jp":"ふっふーん、ポンポンってばすっごく強いんだから！いまからすごいのを……うわああっ！落っこちる！早く受け止めてー！","fr":"Hé hé, Pengpeng est super forte, tu sais ! Je vais te montrer un truc incroyable… waaah ! Je tombe ! Rattrape-moi vite !"}
 {"id":1511983,"jp":"受け止めてよ！","fr":"Rattrape-moi !"}
 {"id":1511985,"jp":"虚中の真実","fr":"La vérité dans le vide"}
 {"id":1511986,"jp":"カンフーマスター！","fr":"Experte en kung-fu !"}
@@ -13588,37 +14085,53 @@
 {"id":1511988,"jp":"進退自在","fr":"Avancer et reculer à sa guise"}
 {"id":1511990,"jp":"動静一体","fr":"Unité du mouvement et du calme"}
 {"id":1511991,"jp":"おいしい！","fr":"Délicieux !"}
+{"id":1511992,"jp":"炸八塊、芙蓉豆腐、鮮菱湯、ケツギョの甘酢がけ、鶏とキノコの煮込み、天余白玉……うーん、これもおいしい、あれもおいしい！","fr":"Huit morceaux frits, tofu Furong, soupe de châtaignes d'eau fraîches, perche mandarin à l'aigre-doux, poulet mijoté aux champignons, jade blanc de Tianyu… Mmh, ça c'est bon, ça aussi c'est bon !"}
 {"id":1511993,"jp":"えっ、まえのごはんからまだ1時間しか経ってないのか！？","fr":"Quoi, ça fait seulement une heure depuis le dernier repas !?"}
 {"id":1511994,"jp":"おかわり！","fr":"Encore une assiette !"}
+{"id":1511996,"jp":"ふっふーん、見て見て！すごいだろ！こんな技、だれにでもできっこない……って頭がくらくらする、うぅ……","fr":"Hé hé, regarde, regarde ! Impressionnant, hein ! Personne ne peut faire une technique pareille… mais j'ai la tête qui tourne, ouh…"}
 {"id":1511997,"jp":"大いなる神霊の加護","fr":"La protection des grands esprits"}
 {"id":1511999,"jp":"御霊の声","fr":"La voix des Esprits anciens"}
 {"id":1512000,"jp":"唯一のシャーマン","fr":"La seule chamane"}
 {"id":1512001,"jp":"わたしにひとときの力を","fr":"Accordez-moi un instant de force"}
 {"id":1512003,"jp":"想いは導きとなり","fr":"Les sentiments deviennent un guide"}
+{"id":1512004,"jp":"HPが800増加する。\n回復効果が12%上昇する。\nエネルギー回復増幅が5%上昇する。","fr":"Augmente les PV de 800.\nAugmente l'effet de soin de 12 %.\nAugmente l'Amplification de récupération d'Énergie de 5 %."}
 {"id":1512005,"jp":"小さなときめき","fr":"Un petit frisson au cœur"}
+{"id":1512006,"jp":"魂の鼓動を感じた……これほどまでに心を揺さぶられるとは……","fr":"J'ai senti le battement d'une âme… Jamais mon cœur n'avait été aussi ébranlé…"}
 {"id":1512007,"jp":"共感中","fr":"En pleine empathie"}
 {"id":1512008,"jp":"魂は結びつく","fr":"Les âmes se lient"}
 {"id":1512010,"jp":"万物の祝福を捧げよう","fr":"Offrir la bénédiction de toute chose"}
+{"id":1512011,"jp":"防御力が60上昇する。\nHPが800増加する。\n回復効果が12%上昇する。","fr":"Augmente la DÉF de 60.\nAugmente les PV de 800.\nAugmente l'effet de soin de 12 %."}
 {"id":1512012,"jp":"恐るべき製薬技術","fr":"Une redoutable science des remèdes"}
+{"id":1512013,"jp":"さあどうぞ、できたての安神の薬汁です。あれ？どこに行くんですか？","fr":"Voici votre décoction apaisante, tout juste prête. Hein ? Où allez-vous ?"}
+{"id":1512014,"jp":"ルルカとアニスが出会えば、世界は滅びてしまうかもしれない。","fr":"Si Luruka et Anais se rencontrent, le monde pourrait bien être détruit."}
 {"id":1512015,"jp":"飲んでみる？","fr":"Envie de goûter ?"}
 {"id":1512016,"jp":"すべてが安らぐまで","fr":"Jusqu'à ce que tout s'apaise"}
 {"id":1512018,"jp":"朝の挨拶","fr":"Salut du matin"}
 {"id":1512021,"jp":"私は強い？","fr":"Je suis forte ?"}
+{"id":1512022,"jp":"大侠客になることを夢見ているペイペイだが、実はいつの間にか、すでになっているのではないだろうか？","fr":"Peipei rêve de devenir une grande Âme chevaleresque, mais ne l'est-elle pas déjà, sans même s'en être aperçue ?"}
 {"id":1512023,"jp":"ペイペイ、しっかり練習します。","fr":"Peipei va s'entraîner sérieusement."}
+{"id":1512024,"jp":"ペイペイが星閃スキルを発動した後、「陰陽合一」を獲得し、自身の会心率が20%上昇する（効果時間：10秒）。","fr":"Après que Peipei a lancé une Compétence Éclair stellaire, obtient « Union du yin et du yang » et augmente de 20 % son Taux CRIT (durée : 10 s)."}
 {"id":1512025,"jp":"身を伏せ守勢に入る","fr":"Se baisser et passer en défense"}
+{"id":1512026,"jp":"攻撃力が50上昇する。\n被ダメージが5%減少する。\n地属性ダメージ増幅が8%上昇する。","fr":"Augmente l'ATQ de 50.\nRéduit les DGT subis de 5 %.\nAugmente l'Amplification des DGT de Terre de 8 %."}
 {"id":1512027,"jp":"看板娘","fr":"La mascotte du restaurant"}
+{"id":1512028,"jp":"吉逸楼の看板娘として、ペイペイは毎日がんばっています！","fr":"En tant que mascotte du restaurant Jiyi Lou, Peipei travaille dur chaque jour !"}
 {"id":1512029,"jp":"レジ打ち、配膳、修行。1日3食、早寝早起き。","fr":"Tenir la caisse, servir les plats, s'entraîner. Trois repas par jour, se coucher tôt et se lever tôt."}
+{"id":1512030,"jp":"「陰陽合一」がある間、ペイペイの防御力が30%上昇し、会心ダメージが50%増加する。","fr":"Tant que « Union du yin et du yang » est active, la DÉF de Peipei augmente de 30 % et ses DGT CRIT de 50 %."}
 {"id":1512031,"jp":"一気二色","fr":"Un souffle, deux couleurs"}
 {"id":1512032,"jp":"肉まん！","fr":"Des baozi à la viande !"}
 {"id":1512033,"jp":"肉まんをひとついかがですか？","fr":"Un petit baozi à la viande, ça vous dirait ?"}
+{"id":1512034,"jp":"肉まんは、大切なひとにも贈り、助けを必要としているひとにも分け与えよう。疲れたときは、自分で食べてもいい。","fr":"Les baozi à la viande, on en offre à ceux qu'on aime comme à ceux qui ont besoin d'aide. Et quand on est fatigué, on peut très bien les manger soi-même."}
 {"id":1512035,"jp":"包子はいつでも食べられます。","fr":"Les baozi se dégustent à toute heure."}
 {"id":1512036,"jp":"光陰一体","fr":"Unité de la lumière et de l'ombre"}
+{"id":1512037,"jp":"ペイペイの強化チャージ攻撃のダメージ倍率が35%上昇する。","fr":"Augmente de 35 % le multiplicateur de DGT de l'Attaque chargée renforcée de Peipei."}
 {"id":1512038,"jp":"小さな感慨","fr":"Une petite émotion"}
 {"id":1512040,"jp":"あなたにご挨拶を","fr":"Mes salutations"}
 {"id":1512042,"jp":"たまに力加減がうまくできないことに悩んでいる。","fr":"Elle s'inquiète de ne pas toujours réussir à doser sa force."}
+{"id":1512043,"jp":"どうかお気をつけて。作業のつもりで臨まないと、力加減が難しくなるかもしれません。","fr":"Prenez garde, je vous prie. Si vous ne l'abordez pas comme une simple tâche, il pourrait devenir difficile de bien doser votre force."}
 {"id":1512044,"jp":"怪力メイド","fr":"Domestique à la force herculéenne"}
 {"id":1512046,"jp":"なにかご用でしょうか？","fr":"Puis-je vous aider ?"}
 {"id":1512047,"jp":"闇料理","fr":"Cuisine des ténèbres"}
+{"id":1512048,"jp":"このお料理はナナチャにお手伝いいてもらい完成したものです。お口に合うか、召し上がってみてください。","fr":"Ce plat a été terminé avec l'aide de Nanacha. Goûtez-le, j'espère qu'il vous plaira."}
 {"id":1512049,"jp":"期待でいっぱいの表情","fr":"Un visage plein d'attente"}
 {"id":1512050,"jp":"後始末はわたしが","fr":"Je me charge du rangement"}
 {"id":1512052,"jp":"あなたの望むままに","fr":"Comme vous le souhaitez"}
@@ -16832,10 +17345,910 @@
 {"id":1515625,"jp":"ティーガのレベルを70にする","fr":"Monter Tiga au niveau 70"}
 {"id":1515626,"jp":"ティーガのレベルを80にする","fr":"Monter Tiga au niveau 80"}
 {"id":1515627,"jp":"ティーガのレベルを90にする","fr":"Monter Tiga au niveau 90"}
+{"id":1515628,"jp":"ティーガのレベルを100にする","fr":"Monter Tiga au niveau 100"}
+{"id":1515629,"jp":"ティーガの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Tiga au rang E"}
+{"id":1515630,"jp":"ティーガの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Tiga au rang D"}
+{"id":1515631,"jp":"ティーガの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Tiga au rang C"}
+{"id":1515632,"jp":"ティーガの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Tiga au rang B"}
+{"id":1515633,"jp":"ティーガの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Tiga au rang A"}
+{"id":1515634,"jp":"ティーガの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Tiga au rang S"}
+{"id":1515635,"jp":"ガルティガーのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Galtiger"}
+{"id":1515636,"jp":"ガルティガーのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Galtiger"}
+{"id":1515637,"jp":"ガルティガーのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Galtiger"}
+{"id":1515638,"jp":"ガルティガーのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Galtiger"}
+{"id":1515639,"jp":"ガルティガーのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Galtiger"}
+{"id":1515640,"jp":"ガルティガーのレベルを30にする","fr":"Monter Galtiger au niveau 30"}
+{"id":1515641,"jp":"ガルティガーのレベルを50にする","fr":"Monter Galtiger au niveau 50"}
+{"id":1515642,"jp":"ガルティガーのレベルを60にする","fr":"Monter Galtiger au niveau 60"}
+{"id":1515643,"jp":"ガルティガーのレベルを70にする","fr":"Monter Galtiger au niveau 70"}
+{"id":1515644,"jp":"ガルティガーのレベルを80にする","fr":"Monter Galtiger au niveau 80"}
+{"id":1515645,"jp":"ガルティガーのレベルを90にする","fr":"Monter Galtiger au niveau 90"}
+{"id":1515646,"jp":"ガルティガーのレベルを100にする","fr":"Monter Galtiger au niveau 100"}
+{"id":1515647,"jp":"ガルティガーの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Galtiger au rang E"}
+{"id":1515648,"jp":"ガルティガーの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Galtiger au rang D"}
+{"id":1515649,"jp":"ガルティガーの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Galtiger au rang C"}
+{"id":1515650,"jp":"ガルティガーの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Galtiger au rang B"}
+{"id":1515651,"jp":"ガルティガーの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Galtiger au rang A"}
+{"id":1515652,"jp":"ガルティガーの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Galtiger au rang S"}
+{"id":1515653,"jp":"モーキュンのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Mokyun"}
+{"id":1515654,"jp":"モーキュンのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Mokyun"}
+{"id":1515655,"jp":"モーキュンのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Mokyun"}
+{"id":1515656,"jp":"モーキュンのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Mokyun"}
+{"id":1515657,"jp":"モーキュンのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Mokyun"}
+{"id":1515658,"jp":"モーキュンのレベルを30にする","fr":"Monter Mokyun au niveau 30"}
+{"id":1515659,"jp":"モーキュンのレベルを50にする","fr":"Monter Mokyun au niveau 50"}
+{"id":1515660,"jp":"モーキュンのレベルを60にする","fr":"Monter Mokyun au niveau 60"}
+{"id":1515661,"jp":"モーキュンのレベルを70にする","fr":"Monter Mokyun au niveau 70"}
+{"id":1515662,"jp":"モーキュンのレベルを80にする","fr":"Monter Mokyun au niveau 80"}
+{"id":1515663,"jp":"モーキュンのレベルを90にする","fr":"Monter Mokyun au niveau 90"}
+{"id":1515664,"jp":"モーキュンのレベルを100にする","fr":"Monter Mokyun au niveau 100"}
+{"id":1515665,"jp":"モーキュンの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Mokyun au rang E"}
+{"id":1515666,"jp":"モーキュンの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Mokyun au rang D"}
+{"id":1515667,"jp":"モーキュンの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Mokyun au rang C"}
+{"id":1515668,"jp":"モーキュンの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Mokyun au rang B"}
+{"id":1515669,"jp":"モーキュンの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Mokyun au rang A"}
+{"id":1515670,"jp":"モーキュンの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Mokyun au rang S"}
+{"id":1515671,"jp":"クロディーメのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Clodime"}
+{"id":1515672,"jp":"クロディーメのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Clodime"}
+{"id":1515673,"jp":"クロディーメのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Clodime"}
+{"id":1515674,"jp":"クロディーメのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Clodime"}
+{"id":1515675,"jp":"クロディーメのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Clodime"}
+{"id":1515676,"jp":"クロディーメのレベルを30にする","fr":"Monter Clodime au niveau 30"}
+{"id":1515677,"jp":"クロディーメのレベルを50にする","fr":"Monter Clodime au niveau 50"}
+{"id":1515678,"jp":"クロディーメのレベルを60にする","fr":"Monter Clodime au niveau 60"}
+{"id":1515679,"jp":"クロディーメのレベルを70にする","fr":"Monter Clodime au niveau 70"}
+{"id":1515680,"jp":"クロディーメのレベルを80にする","fr":"Monter Clodime au niveau 80"}
+{"id":1515681,"jp":"クロディーメのレベルを90にする","fr":"Monter Clodime au niveau 90"}
+{"id":1515682,"jp":"クロディーメのレベルを100にする","fr":"Monter Clodime au niveau 100"}
 {"id":1515683,"jp":"クロディーメの6種の潜在能力をすべてランクEにする","fr":"Faire passer les 6 potentiels de Clodime au rang E"}
+{"id":1515684,"jp":"クロディーメの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Clodime au rang D"}
+{"id":1515685,"jp":"クロディーメの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Clodime au rang C"}
+{"id":1515686,"jp":"クロディーメの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Clodime au rang B"}
+{"id":1515687,"jp":"クロディーメの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Clodime au rang A"}
+{"id":1515688,"jp":"クロディーメの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Clodime au rang S"}
+{"id":1515689,"jp":"グリファのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Griffa"}
+{"id":1515690,"jp":"グリファのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Griffa"}
+{"id":1515691,"jp":"グリファのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Griffa"}
+{"id":1515692,"jp":"グリファのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Griffa"}
+{"id":1515693,"jp":"グリファのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Griffa"}
+{"id":1515694,"jp":"グリファのレベルを30にする","fr":"Monter Griffa au niveau 30"}
+{"id":1515695,"jp":"グリファのレベルを50にする","fr":"Monter Griffa au niveau 50"}
+{"id":1515696,"jp":"グリファのレベルを60にする","fr":"Monter Griffa au niveau 60"}
+{"id":1515697,"jp":"グリファのレベルを70にする","fr":"Monter Griffa au niveau 70"}
+{"id":1515698,"jp":"グリファのレベルを80にする","fr":"Monter Griffa au niveau 80"}
+{"id":1515699,"jp":"グリファのレベルを90にする","fr":"Monter Griffa au niveau 90"}
+{"id":1515700,"jp":"グリファのレベルを100にする","fr":"Monter Griffa au niveau 100"}
+{"id":1515701,"jp":"グリファの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Griffa au rang E"}
+{"id":1515702,"jp":"グリファの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Griffa au rang D"}
+{"id":1515703,"jp":"グリファの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Griffa au rang C"}
+{"id":1515704,"jp":"グリファの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Griffa au rang B"}
+{"id":1515705,"jp":"グリファの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Griffa au rang A"}
+{"id":1515706,"jp":"グリファの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Griffa au rang S"}
+{"id":1515707,"jp":"グリフォンのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Griffon"}
+{"id":1515708,"jp":"グリフォンのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Griffon"}
+{"id":1515709,"jp":"グリフォンのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Griffon"}
+{"id":1515710,"jp":"グリフォンのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Griffon"}
+{"id":1515711,"jp":"グリフォンのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Griffon"}
+{"id":1515712,"jp":"グリフォンのレベルを30にする","fr":"Monter Griffon au niveau 30"}
+{"id":1515713,"jp":"グリフォンのレベルを50にする","fr":"Monter Griffon au niveau 50"}
+{"id":1515714,"jp":"グリフォンのレベルを60にする","fr":"Monter Griffon au niveau 60"}
+{"id":1515715,"jp":"グリフォンのレベルを70にする","fr":"Monter Griffon au niveau 70"}
+{"id":1515716,"jp":"グリフォンのレベルを80にする","fr":"Monter Griffon au niveau 80"}
+{"id":1515717,"jp":"グリフォンのレベルを90にする","fr":"Monter Griffon au niveau 90"}
+{"id":1515718,"jp":"グリフォンのレベルを100にする","fr":"Monter Griffon au niveau 100"}
+{"id":1515719,"jp":"グリフォンの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Griffon au rang E"}
+{"id":1515720,"jp":"グリフォンの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Griffon au rang D"}
+{"id":1515721,"jp":"グリフォンの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Griffon au rang C"}
+{"id":1515722,"jp":"グリフォンの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Griffon au rang B"}
+{"id":1515723,"jp":"グリフォンの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Griffon au rang A"}
+{"id":1515724,"jp":"グリフォンの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Griffon au rang S"}
+{"id":1515725,"jp":"ウィングリフのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Wingriff"}
+{"id":1515726,"jp":"ウィングリフのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Wingriff"}
+{"id":1515727,"jp":"ウィングリフのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Wingriff"}
+{"id":1515728,"jp":"ウィングリフのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Wingriff"}
+{"id":1515729,"jp":"ウィングリフのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Wingriff"}
+{"id":1515730,"jp":"ウィングリフのレベルを30にする","fr":"Monter Wingriff au niveau 30"}
+{"id":1515731,"jp":"ウィングリフのレベルを50にする","fr":"Monter Wingriff au niveau 50"}
+{"id":1515732,"jp":"ウィングリフのレベルを60にする","fr":"Monter Wingriff au niveau 60"}
+{"id":1515733,"jp":"ウィングリフのレベルを70にする","fr":"Monter Wingriff au niveau 70"}
+{"id":1515734,"jp":"ウィングリフのレベルを80にする","fr":"Monter Wingriff au niveau 80"}
+{"id":1515735,"jp":"ウィングリフのレベルを90にする","fr":"Monter Wingriff au niveau 90"}
+{"id":1515736,"jp":"ウィングリフのレベルを100にする","fr":"Monter Wingriff au niveau 100"}
+{"id":1515737,"jp":"ウィングリフの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Wingriff au rang E"}
+{"id":1515738,"jp":"ウィングリフの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Wingriff au rang D"}
+{"id":1515739,"jp":"ウィングリフの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Wingriff au rang C"}
+{"id":1515740,"jp":"ウィングリフの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Wingriff au rang B"}
+{"id":1515741,"jp":"ウィングリフの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Wingriff au rang A"}
+{"id":1515742,"jp":"ウィングリフの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Wingriff au rang S"}
+{"id":1515743,"jp":"ネロアルバのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Neroalba"}
+{"id":1515744,"jp":"ネロアルバのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Neroalba"}
+{"id":1515745,"jp":"ネロアルバのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Neroalba"}
+{"id":1515746,"jp":"ネロアルバのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Neroalba"}
+{"id":1515747,"jp":"ネロアルバのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Neroalba"}
+{"id":1515748,"jp":"ネロアルバのレベルを30にする","fr":"Monter Neroalba au niveau 30"}
+{"id":1515749,"jp":"ネロアルバのレベルを50にする","fr":"Monter Neroalba au niveau 50"}
+{"id":1515750,"jp":"ネロアルバのレベルを60にする","fr":"Monter Neroalba au niveau 60"}
+{"id":1515751,"jp":"ネロアルバのレベルを70にする","fr":"Monter Neroalba au niveau 70"}
+{"id":1515752,"jp":"ネロアルバのレベルを80にする","fr":"Monter Neroalba au niveau 80"}
+{"id":1515753,"jp":"ネロアルバのレベルを90にする","fr":"Monter Neroalba au niveau 90"}
+{"id":1515754,"jp":"ネロアルバのレベルを100にする","fr":"Monter Neroalba au niveau 100"}
+{"id":1515755,"jp":"ネロアルバの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Neroalba au rang E"}
+{"id":1515756,"jp":"ネロアルバの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Neroalba au rang D"}
+{"id":1515757,"jp":"ネロアルバの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Neroalba au rang C"}
+{"id":1515758,"jp":"ネロアルバの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Neroalba au rang B"}
+{"id":1515759,"jp":"ネロアルバの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Neroalba au rang A"}
+{"id":1515760,"jp":"ネロアルバの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Neroalba au rang S"}
+{"id":1515761,"jp":"黒白無安のアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Heibai Wu'an"}
+{"id":1515762,"jp":"黒白無安のアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Heibai Wu'an"}
+{"id":1515763,"jp":"黒白無安のアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Heibai Wu'an"}
+{"id":1515764,"jp":"黒白無安のアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Heibai Wu'an"}
+{"id":1515765,"jp":"黒白無安のアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Heibai Wu'an"}
+{"id":1515766,"jp":"黒白無安のレベルを30にする","fr":"Monter Heibai Wu'an au niveau 30"}
+{"id":1515767,"jp":"黒白無安のレベルを50にする","fr":"Monter Heibai Wu'an au niveau 50"}
+{"id":1515768,"jp":"黒白無安のレベルを60にする","fr":"Monter Heibai Wu'an au niveau 60"}
+{"id":1515769,"jp":"黒白無安のレベルを70にする","fr":"Monter Heibai Wu'an au niveau 70"}
+{"id":1515770,"jp":"黒白無安のレベルを80にする","fr":"Monter Heibai Wu'an au niveau 80"}
+{"id":1515771,"jp":"黒白無安のレベルを90にする","fr":"Monter Heibai Wu'an au niveau 90"}
+{"id":1515772,"jp":"黒白無安のレベルを100にする","fr":"Monter Heibai Wu'an au niveau 100"}
+{"id":1515773,"jp":"黒白無安の6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Heibai Wu'an au rang E"}
+{"id":1515774,"jp":"黒白無安の6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Heibai Wu'an au rang D"}
+{"id":1515775,"jp":"黒白無安の6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Heibai Wu'an au rang C"}
+{"id":1515776,"jp":"黒白無安の6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Heibai Wu'an au rang B"}
+{"id":1515777,"jp":"黒白無安の6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Heibai Wu'an au rang A"}
+{"id":1515778,"jp":"黒白無安の6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Heibai Wu'an au rang S"}
+{"id":1515779,"jp":"ライドンのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Rydon"}
+{"id":1515780,"jp":"ライドンのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Rydon"}
+{"id":1515781,"jp":"ライドンのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Rydon"}
+{"id":1515782,"jp":"ライドンのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Rydon"}
+{"id":1515783,"jp":"ライドンのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Rydon"}
+{"id":1515784,"jp":"ライドンのレベルを30にする","fr":"Monter Rydon au niveau 30"}
+{"id":1515785,"jp":"ライドンのレベルを50にする","fr":"Monter Rydon au niveau 50"}
+{"id":1515786,"jp":"ライドンのレベルを60にする","fr":"Monter Rydon au niveau 60"}
+{"id":1515787,"jp":"ライドンのレベルを70にする","fr":"Monter Rydon au niveau 70"}
+{"id":1515788,"jp":"ライドンのレベルを80にする","fr":"Monter Rydon au niveau 80"}
+{"id":1515789,"jp":"ライドンのレベルを90にする","fr":"Monter Rydon au niveau 90"}
+{"id":1515790,"jp":"ライドンのレベルを100にする","fr":"Monter Rydon au niveau 100"}
+{"id":1515791,"jp":"ライドンの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Rydon au rang E"}
+{"id":1515792,"jp":"ライドンの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Rydon au rang D"}
+{"id":1515793,"jp":"ライドンの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Rydon au rang C"}
+{"id":1515794,"jp":"ライドンの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Rydon au rang B"}
+{"id":1515795,"jp":"ライドンの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Rydon au rang A"}
+{"id":1515796,"jp":"ライドンの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Rydon au rang S"}
+{"id":1515797,"jp":"ツイーチのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Tweech"}
+{"id":1515798,"jp":"ツイーチのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Tweech"}
+{"id":1515799,"jp":"ツイーチのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Tweech"}
+{"id":1515800,"jp":"ツイーチのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Tweech"}
+{"id":1515801,"jp":"ツイーチのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Tweech"}
+{"id":1515802,"jp":"ツイーチのレベルを30にする","fr":"Monter Tweech au niveau 30"}
+{"id":1515803,"jp":"ツイーチのレベルを50にする","fr":"Monter Tweech au niveau 50"}
+{"id":1515804,"jp":"ツイーチのレベルを60にする","fr":"Monter Tweech au niveau 60"}
+{"id":1515805,"jp":"ツイーチのレベルを70にする","fr":"Monter Tweech au niveau 70"}
+{"id":1515806,"jp":"ツイーチのレベルを80にする","fr":"Monter Tweech au niveau 80"}
+{"id":1515807,"jp":"ツイーチのレベルを90にする","fr":"Monter Tweech au niveau 90"}
+{"id":1515808,"jp":"ツイーチのレベルを100にする","fr":"Monter Tweech au niveau 100"}
+{"id":1515809,"jp":"ツイーチの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Tweech au rang E"}
+{"id":1515810,"jp":"ツイーチの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Tweech au rang D"}
+{"id":1515811,"jp":"ツイーチの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Tweech au rang C"}
+{"id":1515812,"jp":"ツイーチの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Tweech au rang B"}
+{"id":1515813,"jp":"ツイーチの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Tweech au rang A"}
+{"id":1515814,"jp":"ツイーチの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Tweech au rang S"}
+{"id":1515815,"jp":"ホーミーロウのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Homilow"}
+{"id":1515816,"jp":"ホーミーロウのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Homilow"}
+{"id":1515817,"jp":"ホーミーロウのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Homilow"}
+{"id":1515818,"jp":"ホーミーロウのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Homilow"}
+{"id":1515819,"jp":"ホーミーロウのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Homilow"}
+{"id":1515820,"jp":"ホーミーロウのレベルを30にする","fr":"Monter Homilow au niveau 30"}
+{"id":1515821,"jp":"ホーミーロウのレベルを50にする","fr":"Monter Homilow au niveau 50"}
+{"id":1515822,"jp":"ホーミーロウのレベルを60にする","fr":"Monter Homilow au niveau 60"}
+{"id":1515823,"jp":"ホーミーロウのレベルを70にする","fr":"Monter Homilow au niveau 70"}
+{"id":1515824,"jp":"ホーミーロウのレベルを80にする","fr":"Monter Homilow au niveau 80"}
+{"id":1515825,"jp":"ホーミーロウのレベルを90にする","fr":"Monter Homilow au niveau 90"}
+{"id":1515826,"jp":"ホーミーロウのレベルを100にする","fr":"Monter Homilow au niveau 100"}
+{"id":1515827,"jp":"ホーミーロウの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Homilow au rang E"}
+{"id":1515828,"jp":"ホーミーロウの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Homilow au rang D"}
+{"id":1515829,"jp":"ホーミーロウの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Homilow au rang C"}
+{"id":1515830,"jp":"ホーミーロウの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Homilow au rang B"}
+{"id":1515831,"jp":"ホーミーロウの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Homilow au rang A"}
+{"id":1515832,"jp":"ホーミーロウの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Homilow au rang S"}
+{"id":1515833,"jp":"ウッダのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Woodda"}
+{"id":1515834,"jp":"ウッダのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Woodda"}
+{"id":1515835,"jp":"ウッダのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Woodda"}
+{"id":1515836,"jp":"ウッダのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Woodda"}
+{"id":1515837,"jp":"ウッダのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Woodda"}
+{"id":1515838,"jp":"ウッダのレベルを30にする","fr":"Monter Woodda au niveau 30"}
+{"id":1515839,"jp":"ウッダのレベルを50にする","fr":"Monter Woodda au niveau 50"}
+{"id":1515840,"jp":"ウッダのレベルを60にする","fr":"Monter Woodda au niveau 60"}
+{"id":1515841,"jp":"ウッダのレベルを70にする","fr":"Monter Woodda au niveau 70"}
+{"id":1515842,"jp":"ウッダのレベルを80にする","fr":"Monter Woodda au niveau 80"}
+{"id":1515843,"jp":"ウッダのレベルを90にする","fr":"Monter Woodda au niveau 90"}
+{"id":1515844,"jp":"ウッダのレベルを100にする","fr":"Monter Woodda au niveau 100"}
+{"id":1515845,"jp":"ウッダの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Woodda au rang E"}
+{"id":1515846,"jp":"ウッダの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Woodda au rang D"}
+{"id":1515847,"jp":"ウッダの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Woodda au rang C"}
+{"id":1515848,"jp":"ウッダの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Woodda au rang B"}
+{"id":1515849,"jp":"ウッダの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Woodda au rang A"}
+{"id":1515850,"jp":"ウッダの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Woodda au rang S"}
+{"id":1515851,"jp":"リンディのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Lindy"}
+{"id":1515852,"jp":"リンディのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Lindy"}
+{"id":1515853,"jp":"リンディのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Lindy"}
+{"id":1515854,"jp":"リンディのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Lindy"}
+{"id":1515855,"jp":"リンディのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Lindy"}
+{"id":1515856,"jp":"リンディのレベルを30にする","fr":"Monter Lindy au niveau 30"}
+{"id":1515857,"jp":"リンディのレベルを50にする","fr":"Monter Lindy au niveau 50"}
+{"id":1515858,"jp":"リンディのレベルを60にする","fr":"Monter Lindy au niveau 60"}
+{"id":1515859,"jp":"リンディのレベルを70にする","fr":"Monter Lindy au niveau 70"}
+{"id":1515860,"jp":"リンディのレベルを80にする","fr":"Monter Lindy au niveau 80"}
+{"id":1515861,"jp":"リンディのレベルを90にする","fr":"Monter Lindy au niveau 90"}
+{"id":1515862,"jp":"リンディのレベルを100にする","fr":"Monter Lindy au niveau 100"}
+{"id":1515863,"jp":"リンディの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Lindy au rang E"}
+{"id":1515864,"jp":"リンディの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Lindy au rang D"}
+{"id":1515865,"jp":"リンディの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Lindy au rang C"}
+{"id":1515866,"jp":"リンディの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Lindy au rang B"}
+{"id":1515867,"jp":"リンディの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Lindy au rang A"}
+{"id":1515868,"jp":"リンディの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Lindy au rang S"}
+{"id":1515869,"jp":"フォーリーのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Foley"}
+{"id":1515870,"jp":"フォーリーのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Foley"}
+{"id":1515871,"jp":"フォーリーのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Foley"}
+{"id":1515872,"jp":"フォーリーのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Foley"}
+{"id":1515873,"jp":"フォーリーのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Foley"}
+{"id":1515874,"jp":"フォーリーのレベルを30にする","fr":"Monter Foley au niveau 30"}
+{"id":1515875,"jp":"フォーリーのレベルを50にする","fr":"Monter Foley au niveau 50"}
+{"id":1515876,"jp":"フォーリーのレベルを60にする","fr":"Monter Foley au niveau 60"}
+{"id":1515877,"jp":"フォーリーのレベルを70にする","fr":"Monter Foley au niveau 70"}
+{"id":1515878,"jp":"フォーリーのレベルを80にする","fr":"Monter Foley au niveau 80"}
+{"id":1515879,"jp":"フォーリーのレベルを90にする","fr":"Monter Foley au niveau 90"}
+{"id":1515880,"jp":"フォーリーのレベルを100にする","fr":"Monter Foley au niveau 100"}
+{"id":1515881,"jp":"フォーリーの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Foley au rang E"}
+{"id":1515882,"jp":"フォーリーの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Foley au rang D"}
+{"id":1515883,"jp":"フォーリーの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Foley au rang C"}
+{"id":1515884,"jp":"フォーリーの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Foley au rang B"}
+{"id":1515885,"jp":"フォーリーの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Foley au rang A"}
+{"id":1515886,"jp":"フォーリーの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Foley au rang S"}
+{"id":1515887,"jp":"セレーシャのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Celesha"}
+{"id":1515888,"jp":"セレーシャのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Celesha"}
+{"id":1515889,"jp":"セレーシャのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Celesha"}
+{"id":1515890,"jp":"セレーシャのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Celesha"}
+{"id":1515891,"jp":"セレーシャのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Celesha"}
+{"id":1515892,"jp":"セレーシャのレベルを30にする","fr":"Monter Celesha au niveau 30"}
+{"id":1515893,"jp":"セレーシャのレベルを50にする","fr":"Monter Celesha au niveau 50"}
+{"id":1515894,"jp":"セレーシャのレベルを60にする","fr":"Monter Celesha au niveau 60"}
+{"id":1515895,"jp":"セレーシャのレベルを70にする","fr":"Monter Celesha au niveau 70"}
+{"id":1515896,"jp":"セレーシャのレベルを80にする","fr":"Monter Celesha au niveau 80"}
+{"id":1515897,"jp":"セレーシャのレベルを90にする","fr":"Monter Celesha au niveau 90"}
+{"id":1515898,"jp":"セレーシャのレベルを100にする","fr":"Monter Celesha au niveau 100"}
+{"id":1515899,"jp":"セレーシャの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Celesha au rang E"}
+{"id":1515900,"jp":"セレーシャの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Celesha au rang D"}
+{"id":1515901,"jp":"セレーシャの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Celesha au rang C"}
+{"id":1515902,"jp":"セレーシャの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Celesha au rang B"}
+{"id":1515903,"jp":"セレーシャの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Celesha au rang A"}
+{"id":1515904,"jp":"セレーシャの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Celesha au rang S"}
+{"id":1515905,"jp":"キラミィのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Kiramy"}
+{"id":1515906,"jp":"キラミィのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Kiramy"}
+{"id":1515907,"jp":"キラミィのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Kiramy"}
+{"id":1515908,"jp":"キラミィのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Kiramy"}
 {"id":1515909,"jp":"キラミィのアクティブスキルを50回発動する","fr":"Utiliser 50 fois la compétence active de Kiramy"}
+{"id":1515910,"jp":"キラミィのレベルを30にする","fr":"Monter Kiramy au niveau 30"}
+{"id":1515911,"jp":"キラミィのレベルを50にする","fr":"Monter Kiramy au niveau 50"}
+{"id":1515912,"jp":"キラミィのレベルを60にする","fr":"Monter Kiramy au niveau 60"}
+{"id":1515913,"jp":"キラミィのレベルを70にする","fr":"Monter Kiramy au niveau 70"}
+{"id":1515914,"jp":"キラミィのレベルを80にする","fr":"Monter Kiramy au niveau 80"}
+{"id":1515915,"jp":"キラミィのレベルを90にする","fr":"Monter Kiramy au niveau 90"}
+{"id":1515916,"jp":"キラミィのレベルを100にする","fr":"Monter Kiramy au niveau 100"}
+{"id":1515917,"jp":"キラミィの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Kiramy au rang E"}
+{"id":1515918,"jp":"キラミィの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Kiramy au rang D"}
+{"id":1515919,"jp":"キラミィの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Kiramy au rang C"}
+{"id":1515920,"jp":"キラミィの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Kiramy au rang B"}
+{"id":1515921,"jp":"キラミィの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Kiramy au rang A"}
+{"id":1515922,"jp":"キラミィの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Kiramy au rang S"}
+{"id":1515923,"jp":"スターミィのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Starmy"}
+{"id":1515924,"jp":"スターミィのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Starmy"}
+{"id":1515925,"jp":"スターミィのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Starmy"}
+{"id":1515926,"jp":"スターミィのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Starmy"}
+{"id":1515927,"jp":"スターミィのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Starmy"}
+{"id":1515928,"jp":"スターミィのレベルを30にする","fr":"Monter Starmy au niveau 30"}
+{"id":1515929,"jp":"スターミィのレベルを50にする","fr":"Monter Starmy au niveau 50"}
+{"id":1515930,"jp":"スターミィのレベルを60にする","fr":"Monter Starmy au niveau 60"}
+{"id":1515931,"jp":"スターミィのレベルを70にする","fr":"Monter Starmy au niveau 70"}
+{"id":1515932,"jp":"スターミィのレベルを80にする","fr":"Monter Starmy au niveau 80"}
+{"id":1515933,"jp":"スターミィのレベルを90にする","fr":"Monter Starmy au niveau 90"}
+{"id":1515934,"jp":"スターミィのレベルを100にする","fr":"Monter Starmy au niveau 100"}
+{"id":1515935,"jp":"スターミィの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Starmy au rang E"}
+{"id":1515936,"jp":"スターミィの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Starmy au rang D"}
+{"id":1515937,"jp":"スターミィの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Starmy au rang C"}
+{"id":1515938,"jp":"スターミィの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Starmy au rang B"}
+{"id":1515939,"jp":"スターミィの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Starmy au rang A"}
+{"id":1515940,"jp":"スターミィの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Starmy au rang S"}
+{"id":1515941,"jp":"ラファウのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Rafau"}
+{"id":1515942,"jp":"ラファウのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Rafau"}
+{"id":1515943,"jp":"ラファウのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Rafau"}
+{"id":1515944,"jp":"ラファウのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Rafau"}
+{"id":1515945,"jp":"ラファウのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Rafau"}
+{"id":1515946,"jp":"ラファウのレベルを30にする","fr":"Monter Rafau au niveau 30"}
+{"id":1515947,"jp":"ラファウのレベルを50にする","fr":"Monter Rafau au niveau 50"}
+{"id":1515948,"jp":"ラファウのレベルを60にする","fr":"Monter Rafau au niveau 60"}
+{"id":1515949,"jp":"ラファウのレベルを70にする","fr":"Monter Rafau au niveau 70"}
+{"id":1515950,"jp":"ラファウのレベルを80にする","fr":"Monter Rafau au niveau 80"}
+{"id":1515951,"jp":"ラファウのレベルを90にする","fr":"Monter Rafau au niveau 90"}
+{"id":1515952,"jp":"ラファウのレベルを100にする","fr":"Monter Rafau au niveau 100"}
+{"id":1515953,"jp":"ラファウの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Rafau au rang E"}
+{"id":1515954,"jp":"ラファウの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Rafau au rang D"}
+{"id":1515955,"jp":"ラファウの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Rafau au rang C"}
+{"id":1515956,"jp":"ラファウの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Rafau au rang B"}
+{"id":1515957,"jp":"ラファウの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Rafau au rang A"}
+{"id":1515958,"jp":"ラファウの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Rafau au rang S"}
+{"id":1515959,"jp":"ラディーバのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Radiiba"}
+{"id":1515960,"jp":"ラディーバのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Radiiba"}
+{"id":1515961,"jp":"ラディーバのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Radiiba"}
+{"id":1515962,"jp":"ラディーバのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Radiiba"}
+{"id":1515963,"jp":"ラディーバのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Radiiba"}
+{"id":1515964,"jp":"ラディーバのレベルを30にする","fr":"Monter Radiiba au niveau 30"}
+{"id":1515965,"jp":"ラディーバのレベルを50にする","fr":"Monter Radiiba au niveau 50"}
+{"id":1515966,"jp":"ラディーバのレベルを60にする","fr":"Monter Radiiba au niveau 60"}
+{"id":1515967,"jp":"ラディーバのレベルを70にする","fr":"Monter Radiiba au niveau 70"}
+{"id":1515968,"jp":"ラディーバのレベルを80にする","fr":"Monter Radiiba au niveau 80"}
+{"id":1515969,"jp":"ラディーバのレベルを90にする","fr":"Monter Radiiba au niveau 90"}
+{"id":1515970,"jp":"ラディーバのレベルを100にする","fr":"Monter Radiiba au niveau 100"}
+{"id":1515971,"jp":"ラディーバの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Radiiba au rang E"}
+{"id":1515972,"jp":"ラディーバの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Radiiba au rang D"}
+{"id":1515973,"jp":"ラディーバの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Radiiba au rang C"}
+{"id":1515974,"jp":"ラディーバの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Radiiba au rang B"}
+{"id":1515975,"jp":"ラディーバの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Radiiba au rang A"}
+{"id":1515976,"jp":"ラディーバの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Radiiba au rang S"}
+{"id":1515977,"jp":"フラウのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Furau"}
+{"id":1515978,"jp":"フラウのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Furau"}
+{"id":1515979,"jp":"フラウのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Furau"}
+{"id":1515980,"jp":"フラウのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Furau"}
+{"id":1515981,"jp":"フラウのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Furau"}
+{"id":1515982,"jp":"フラウのレベルを30にする","fr":"Monter Furau au niveau 30"}
+{"id":1515983,"jp":"フラウのレベルを50にする","fr":"Monter Furau au niveau 50"}
+{"id":1515984,"jp":"フラウのレベルを60にする","fr":"Monter Furau au niveau 60"}
+{"id":1515985,"jp":"フラウのレベルを70にする","fr":"Monter Furau au niveau 70"}
+{"id":1515986,"jp":"フラウのレベルを80にする","fr":"Monter Furau au niveau 80"}
+{"id":1515987,"jp":"フラウのレベルを90にする","fr":"Monter Furau au niveau 90"}
+{"id":1515988,"jp":"フラウのレベルを100にする","fr":"Monter Furau au niveau 100"}
+{"id":1515989,"jp":"フラウの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Furau au rang E"}
+{"id":1515990,"jp":"フラウの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Furau au rang D"}
+{"id":1515991,"jp":"フラウの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Furau au rang C"}
+{"id":1515992,"jp":"フラウの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Furau au rang B"}
+{"id":1515993,"jp":"フラウの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Furau au rang A"}
+{"id":1515994,"jp":"フラウの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Furau au rang S"}
+{"id":1515995,"jp":"ボールモウのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Ballmow"}
+{"id":1515996,"jp":"ボールモウのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Ballmow"}
+{"id":1515997,"jp":"ボールモウのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Ballmow"}
+{"id":1515998,"jp":"ボールモウのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Ballmow"}
+{"id":1515999,"jp":"ボールモウのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Ballmow"}
+{"id":1516000,"jp":"ボールモウのレベルを30にする","fr":"Monter Ballmow au niveau 30"}
+{"id":1516001,"jp":"ボールモウのレベルを50にする","fr":"Monter Ballmow au niveau 50"}
+{"id":1516002,"jp":"ボールモウのレベルを60にする","fr":"Monter Ballmow au niveau 60"}
+{"id":1516003,"jp":"ボールモウのレベルを70にする","fr":"Monter Ballmow au niveau 70"}
+{"id":1516004,"jp":"ボールモウのレベルを80にする","fr":"Monter Ballmow au niveau 80"}
+{"id":1516005,"jp":"ボールモウのレベルを90にする","fr":"Monter Ballmow au niveau 90"}
+{"id":1516006,"jp":"ボールモウのレベルを100にする","fr":"Monter Ballmow au niveau 100"}
+{"id":1516007,"jp":"ボールモウの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Ballmow au rang E"}
+{"id":1516008,"jp":"ボールモウの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Ballmow au rang D"}
+{"id":1516009,"jp":"ボールモウの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Ballmow au rang C"}
+{"id":1516010,"jp":"ボールモウの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Ballmow au rang B"}
+{"id":1516011,"jp":"ボールモウの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Ballmow au rang A"}
+{"id":1516012,"jp":"ボールモウの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Ballmow au rang S"}
+{"id":1516013,"jp":"フルーフォウスのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Furuufousu"}
+{"id":1516014,"jp":"フルーフォウスのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Furuufousu"}
+{"id":1516015,"jp":"フルーフォウスのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Furuufousu"}
+{"id":1516016,"jp":"フルーフォウスのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Furuufousu"}
+{"id":1516017,"jp":"フルーフォウスのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Furuufousu"}
+{"id":1516018,"jp":"フルーフォウスのレベルを30にする","fr":"Monter Furuufousu au niveau 30"}
+{"id":1516019,"jp":"フルーフォウスのレベルを50にする","fr":"Monter Furuufousu au niveau 50"}
+{"id":1516020,"jp":"フルーフォウスのレベルを60にする","fr":"Monter Furuufousu au niveau 60"}
+{"id":1516021,"jp":"フルーフォウスのレベルを70にする","fr":"Monter Furuufousu au niveau 70"}
+{"id":1516022,"jp":"フルーフォウスのレベルを80にする","fr":"Monter Furuufousu au niveau 80"}
+{"id":1516023,"jp":"フルーフォウスのレベルを90にする","fr":"Monter Furuufousu au niveau 90"}
+{"id":1516024,"jp":"フルーフォウスのレベルを100にする","fr":"Monter Furuufousu au niveau 100"}
+{"id":1516031,"jp":"エレキリーのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active d'Electrilly"}
+{"id":1516032,"jp":"エレキリーのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active d'Electrilly"}
+{"id":1516033,"jp":"エレキリーのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active d'Electrilly"}
+{"id":1516034,"jp":"エレキリーのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active d'Electrilly"}
+{"id":1516035,"jp":"エレキリーのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active d'Electrilly"}
+{"id":1516036,"jp":"エレキリーのレベルを30にする","fr":"Monter Electrilly au niveau 30"}
+{"id":1516037,"jp":"エレキリーのレベルを50にする","fr":"Monter Electrilly au niveau 50"}
+{"id":1516038,"jp":"エレキリーのレベルを60にする","fr":"Monter Electrilly au niveau 60"}
+{"id":1516039,"jp":"エレキリーのレベルを70にする","fr":"Monter Electrilly au niveau 70"}
+{"id":1516040,"jp":"エレキリーのレベルを80にする","fr":"Monter Electrilly au niveau 80"}
+{"id":1516041,"jp":"エレキリーのレベルを90にする","fr":"Monter Electrilly au niveau 90"}
+{"id":1516042,"jp":"エレキリーのレベルを100にする","fr":"Monter Electrilly au niveau 100"}
+{"id":1516043,"jp":"エレキリーの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels d'Electrilly au rang E"}
+{"id":1516044,"jp":"エレキリーの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels d'Electrilly au rang D"}
+{"id":1516045,"jp":"エレキリーの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels d'Electrilly au rang C"}
+{"id":1516046,"jp":"エレキリーの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels d'Electrilly au rang B"}
+{"id":1516047,"jp":"エレキリーの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels d'Electrilly au rang A"}
+{"id":1516048,"jp":"エレキリーの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels d'Electrilly au rang S"}
+{"id":1516049,"jp":"エレキカッターのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active d'Elekicutter"}
+{"id":1516050,"jp":"エレキカッターのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active d'Elekicutter"}
+{"id":1516051,"jp":"エレキカッターのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active d'Elekicutter"}
+{"id":1516052,"jp":"エレキカッターのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active d'Elekicutter"}
+{"id":1516053,"jp":"エレキカッターのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active d'Elekicutter"}
+{"id":1516054,"jp":"エレキカッターのレベルを30にする","fr":"Monter Elekicutter au niveau 30"}
+{"id":1516055,"jp":"エレキカッターのレベルを50にする","fr":"Monter Elekicutter au niveau 50"}
+{"id":1516056,"jp":"エレキカッターのレベルを60にする","fr":"Monter Elekicutter au niveau 60"}
+{"id":1516057,"jp":"エレキカッターのレベルを70にする","fr":"Monter Elekicutter au niveau 70"}
+{"id":1516058,"jp":"エレキカッターのレベルを80にする","fr":"Monter Elekicutter au niveau 80"}
+{"id":1516059,"jp":"エレキカッターのレベルを90にする","fr":"Monter Elekicutter au niveau 90"}
+{"id":1516060,"jp":"エレキカッターのレベルを100にする","fr":"Monter Elekicutter au niveau 100"}
+{"id":1516067,"jp":"グレイニーのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Greyny"}
+{"id":1516068,"jp":"グレイニーのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Greyny"}
+{"id":1516069,"jp":"グレイニーのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Greyny"}
+{"id":1516070,"jp":"グレイニーのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Greyny"}
+{"id":1516071,"jp":"グレイニーのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Greyny"}
+{"id":1516072,"jp":"グレイニーのレベルを30にする","fr":"Monter Greyny au niveau 30"}
+{"id":1516073,"jp":"グレイニーのレベルを50にする","fr":"Monter Greyny au niveau 50"}
+{"id":1516074,"jp":"グレイニーのレベルを60にする","fr":"Monter Greyny au niveau 60"}
+{"id":1516075,"jp":"グレイニーのレベルを70にする","fr":"Monter Greyny au niveau 70"}
+{"id":1516076,"jp":"グレイニーのレベルを80にする","fr":"Monter Greyny au niveau 80"}
+{"id":1516077,"jp":"グレイニーのレベルを90にする","fr":"Monter Greyny au niveau 90"}
+{"id":1516078,"jp":"グレイニーのレベルを100にする","fr":"Monter Greyny au niveau 100"}
+{"id":1516079,"jp":"グレイニーの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Greyny au rang E"}
+{"id":1516080,"jp":"グレイニーの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Greyny au rang D"}
+{"id":1516081,"jp":"グレイニーの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Greyny au rang C"}
+{"id":1516082,"jp":"グレイニーの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Greyny au rang B"}
+{"id":1516083,"jp":"グレイニーの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Greyny au rang A"}
+{"id":1516084,"jp":"グレイニーの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Greyny au rang S"}
+{"id":1516085,"jp":"グレナードのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Grenade"}
+{"id":1516086,"jp":"グレナードのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Grenade"}
+{"id":1516087,"jp":"グレナードのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Grenade"}
+{"id":1516088,"jp":"グレナードのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Grenade"}
+{"id":1516089,"jp":"グレナードのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Grenade"}
+{"id":1516090,"jp":"グレナードのレベルを30にする","fr":"Monter Grenade au niveau 30"}
+{"id":1516091,"jp":"グレナードのレベルを50にする","fr":"Monter Grenade au niveau 50"}
+{"id":1516092,"jp":"グレナードのレベルを60にする","fr":"Monter Grenade au niveau 60"}
+{"id":1516093,"jp":"グレナードのレベルを70にする","fr":"Monter Grenade au niveau 70"}
+{"id":1516094,"jp":"グレナードのレベルを80にする","fr":"Monter Grenade au niveau 80"}
+{"id":1516095,"jp":"グレナードのレベルを90にする","fr":"Monter Grenade au niveau 90"}
+{"id":1516096,"jp":"グレナードのレベルを100にする","fr":"Monter Grenade au niveau 100"}
+{"id":1516097,"jp":"グレナードの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Grenade au rang E"}
+{"id":1516098,"jp":"グレナードの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Grenade au rang D"}
+{"id":1516099,"jp":"グレナードの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Grenade au rang C"}
+{"id":1516100,"jp":"グレナードの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Grenade au rang B"}
+{"id":1516101,"jp":"グレナードの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Grenade au rang A"}
+{"id":1516102,"jp":"グレナードの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Grenade au rang S"}
+{"id":1516103,"jp":"グレイターグのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Gureitaagu"}
+{"id":1516104,"jp":"グレイターグのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Gureitaagu"}
+{"id":1516105,"jp":"グレイターグのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Gureitaagu"}
+{"id":1516106,"jp":"グレイターグのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Gureitaagu"}
+{"id":1516107,"jp":"グレイターグのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Gureitaagu"}
+{"id":1516108,"jp":"グレイターグのレベルを30にする","fr":"Monter Gureitaagu au niveau 30"}
+{"id":1516109,"jp":"グレイターグのレベルを50にする","fr":"Monter Gureitaagu au niveau 50"}
+{"id":1516110,"jp":"グレイターグのレベルを60にする","fr":"Monter Gureitaagu au niveau 60"}
+{"id":1516111,"jp":"グレイターグのレベルを70にする","fr":"Monter Gureitaagu au niveau 70"}
+{"id":1516112,"jp":"グレイターグのレベルを80にする","fr":"Monter Gureitaagu au niveau 80"}
+{"id":1516113,"jp":"グレイターグのレベルを90にする","fr":"Monter Gureitaagu au niveau 90"}
+{"id":1516114,"jp":"グレイターグのレベルを100にする","fr":"Monter Gureitaagu au niveau 100"}
+{"id":1516115,"jp":"グレイターグの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Gureitaagu au rang E"}
+{"id":1516116,"jp":"グレイターグの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Gureitaagu au rang D"}
+{"id":1516117,"jp":"グレイターグの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Gureitaagu au rang C"}
+{"id":1516118,"jp":"グレイターグの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Gureitaagu au rang B"}
+{"id":1516119,"jp":"グレイターグの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Gureitaagu au rang A"}
+{"id":1516120,"jp":"グレイターグの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Gureitaagu au rang S"}
+{"id":1516121,"jp":"アマルテイアのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active d'Amalthea"}
+{"id":1516122,"jp":"アマルテイアのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active d'Amalthea"}
+{"id":1516123,"jp":"アマルテイアのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active d'Amalthea"}
+{"id":1516124,"jp":"アマルテイアのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active d'Amalthea"}
+{"id":1516125,"jp":"アマルテイアのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active d'Amalthea"}
+{"id":1516126,"jp":"アマルテイアのレベルを30にする","fr":"Monter Amalthea au niveau 30"}
+{"id":1516127,"jp":"アマルテイアのレベルを50にする","fr":"Monter Amalthea au niveau 50"}
+{"id":1516128,"jp":"アマルテイアのレベルを60にする","fr":"Monter Amalthea au niveau 60"}
+{"id":1516129,"jp":"アマルテイアのレベルを70にする","fr":"Monter Amalthea au niveau 70"}
+{"id":1516130,"jp":"アマルテイアのレベルを80にする","fr":"Monter Amalthea au niveau 80"}
+{"id":1516131,"jp":"アマルテイアのレベルを90にする","fr":"Monter Amalthea au niveau 90"}
+{"id":1516132,"jp":"アマルテイアのレベルを100にする","fr":"Monter Amalthea au niveau 100"}
+{"id":1516133,"jp":"アマルテイアの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels d'Amalthea au rang E"}
+{"id":1516134,"jp":"アマルテイアの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels d'Amalthea au rang D"}
+{"id":1516135,"jp":"アマルテイアの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels d'Amalthea au rang C"}
+{"id":1516136,"jp":"アマルテイアの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels d'Amalthea au rang B"}
+{"id":1516137,"jp":"アマルテイアの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels d'Amalthea au rang A"}
+{"id":1516138,"jp":"アマルテイアの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels d'Amalthea au rang S"}
+{"id":1516139,"jp":"バッティのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Batty"}
+{"id":1516140,"jp":"バッティのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Batty"}
+{"id":1516141,"jp":"バッティのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Batty"}
+{"id":1516142,"jp":"バッティのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Batty"}
+{"id":1516143,"jp":"バッティのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Batty"}
+{"id":1516144,"jp":"バッティのレベルを30にする","fr":"Monter Batty au niveau 30"}
+{"id":1516145,"jp":"バッティのレベルを50にする","fr":"Monter Batty au niveau 50"}
+{"id":1516146,"jp":"バッティのレベルを60にする","fr":"Monter Batty au niveau 60"}
 {"id":1516147,"jp":"バッティのレベルを70にする","fr":"Amener Batty au niveau 70"}
+{"id":1516148,"jp":"バッティのレベルを80にする","fr":"Monter Batty au niveau 80"}
+{"id":1516149,"jp":"バッティのレベルを90にする","fr":"Monter Batty au niveau 90"}
+{"id":1516150,"jp":"バッティのレベルを100にする","fr":"Monter Batty au niveau 100"}
+{"id":1516151,"jp":"バッティの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Batty au rang E"}
+{"id":1516152,"jp":"バッティの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Batty au rang D"}
+{"id":1516153,"jp":"バッティの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Batty au rang C"}
+{"id":1516154,"jp":"バッティの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Batty au rang B"}
+{"id":1516155,"jp":"バッティの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Batty au rang A"}
+{"id":1516156,"jp":"バッティの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Batty au rang S"}
+{"id":1516157,"jp":"ニィバットのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Nybat"}
+{"id":1516158,"jp":"ニィバットのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Nybat"}
+{"id":1516159,"jp":"ニィバットのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Nybat"}
+{"id":1516160,"jp":"ニィバットのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Nybat"}
+{"id":1516161,"jp":"ニィバットのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Nybat"}
+{"id":1516162,"jp":"ニィバットのレベルを30にする","fr":"Monter Nybat au niveau 30"}
+{"id":1516163,"jp":"ニィバットのレベルを50にする","fr":"Monter Nybat au niveau 50"}
+{"id":1516164,"jp":"ニィバットのレベルを60にする","fr":"Monter Nybat au niveau 60"}
+{"id":1516165,"jp":"ニィバットのレベルを70にする","fr":"Monter Nybat au niveau 70"}
+{"id":1516166,"jp":"ニィバットのレベルを80にする","fr":"Monter Nybat au niveau 80"}
+{"id":1516167,"jp":"ニィバットのレベルを90にする","fr":"Monter Nybat au niveau 90"}
+{"id":1516168,"jp":"ニィバットのレベルを100にする","fr":"Monter Nybat au niveau 100"}
+{"id":1516169,"jp":"ニィバットの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Nybat au rang E"}
+{"id":1516170,"jp":"ニィバットの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Nybat au rang D"}
+{"id":1516171,"jp":"ニィバットの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Nybat au rang C"}
+{"id":1516172,"jp":"ニィバットの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Nybat au rang B"}
+{"id":1516173,"jp":"ニィバットの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Nybat au rang A"}
+{"id":1516174,"jp":"ニィバットの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Nybat au rang S"}
+{"id":1516175,"jp":"シェディーバのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Shediva"}
+{"id":1516176,"jp":"シェディーバのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Shediva"}
+{"id":1516177,"jp":"シェディーバのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Shediva"}
+{"id":1516178,"jp":"シェディーバのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Shediva"}
+{"id":1516179,"jp":"シェディーバのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Shediva"}
+{"id":1516180,"jp":"シェディーバのレベルを30にする","fr":"Monter Shediva au niveau 30"}
+{"id":1516181,"jp":"シェディーバのレベルを50にする","fr":"Monter Shediva au niveau 50"}
+{"id":1516182,"jp":"シェディーバのレベルを60にする","fr":"Monter Shediva au niveau 60"}
+{"id":1516183,"jp":"シェディーバのレベルを70にする","fr":"Monter Shediva au niveau 70"}
+{"id":1516184,"jp":"シェディーバのレベルを80にする","fr":"Monter Shediva au niveau 80"}
+{"id":1516185,"jp":"シェディーバのレベルを90にする","fr":"Monter Shediva au niveau 90"}
+{"id":1516186,"jp":"シェディーバのレベルを100にする","fr":"Monter Shediva au niveau 100"}
+{"id":1516187,"jp":"シェディーバの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Shediva au rang E"}
+{"id":1516188,"jp":"シェディーバの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Shediva au rang D"}
+{"id":1516189,"jp":"シェディーバの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Shediva au rang C"}
+{"id":1516190,"jp":"シェディーバの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Shediva au rang B"}
+{"id":1516191,"jp":"シェディーバの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Shediva au rang A"}
+{"id":1516192,"jp":"シェディーバの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Shediva au rang S"}
+{"id":1516193,"jp":"ピカリンのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Pikarin"}
+{"id":1516194,"jp":"ピカリンのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Pikarin"}
+{"id":1516195,"jp":"ピカリンのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Pikarin"}
+{"id":1516196,"jp":"ピカリンのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Pikarin"}
+{"id":1516197,"jp":"ピカリンのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Pikarin"}
+{"id":1516198,"jp":"ピカリンのレベルを30にする","fr":"Monter Pikarin au niveau 30"}
+{"id":1516199,"jp":"ピカリンのレベルを50にする","fr":"Monter Pikarin au niveau 50"}
+{"id":1516200,"jp":"ピカリンのレベルを60にする","fr":"Monter Pikarin au niveau 60"}
+{"id":1516201,"jp":"ピカリンのレベルを70にする","fr":"Monter Pikarin au niveau 70"}
+{"id":1516202,"jp":"ピカリンのレベルを80にする","fr":"Monter Pikarin au niveau 80"}
+{"id":1516203,"jp":"ピカリンのレベルを90にする","fr":"Monter Pikarin au niveau 90"}
+{"id":1516204,"jp":"ピカリンのレベルを100にする","fr":"Monter Pikarin au niveau 100"}
+{"id":1516205,"jp":"ピカリンの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Pikarin au rang E"}
+{"id":1516206,"jp":"ピカリンの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Pikarin au rang D"}
+{"id":1516207,"jp":"ピカリンの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Pikarin au rang C"}
+{"id":1516208,"jp":"ピカリンの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Pikarin au rang B"}
+{"id":1516209,"jp":"ピカリンの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Pikarin au rang A"}
+{"id":1516210,"jp":"ピカリンの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Pikarin au rang S"}
+{"id":1516211,"jp":"フィアールのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Fearc"}
+{"id":1516212,"jp":"フィアールのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Fearc"}
+{"id":1516213,"jp":"フィアールのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Fearc"}
+{"id":1516214,"jp":"フィアールのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Fearc"}
+{"id":1516215,"jp":"フィアールのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Fearc"}
+{"id":1516216,"jp":"フィアールのレベルを30にする","fr":"Monter Fearc au niveau 30"}
+{"id":1516217,"jp":"フィアールのレベルを50にする","fr":"Monter Fearc au niveau 50"}
+{"id":1516218,"jp":"フィアールのレベルを60にする","fr":"Monter Fearc au niveau 60"}
+{"id":1516219,"jp":"フィアールのレベルを70にする","fr":"Monter Fearc au niveau 70"}
+{"id":1516220,"jp":"フィアールのレベルを80にする","fr":"Monter Fearc au niveau 80"}
+{"id":1516221,"jp":"フィアールのレベルを90にする","fr":"Monter Fearc au niveau 90"}
+{"id":1516222,"jp":"フィアールのレベルを100にする","fr":"Monter Fearc au niveau 100"}
+{"id":1516223,"jp":"フィアールの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Fearc au rang E"}
+{"id":1516224,"jp":"フィアールの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Fearc au rang D"}
+{"id":1516225,"jp":"フィアールの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Fearc au rang C"}
+{"id":1516226,"jp":"フィアールの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Fearc au rang B"}
+{"id":1516227,"jp":"フィアールの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Fearc au rang A"}
+{"id":1516228,"jp":"フィアールの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Fearc au rang S"}
+{"id":1516229,"jp":"スピークルのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Speakle"}
+{"id":1516230,"jp":"スピークルのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Speakle"}
+{"id":1516231,"jp":"スピークルのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Speakle"}
+{"id":1516232,"jp":"スピークルのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Speakle"}
+{"id":1516233,"jp":"スピークルのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Speakle"}
+{"id":1516234,"jp":"スピークルのレベルを30にする","fr":"Monter Speakle au niveau 30"}
+{"id":1516235,"jp":"スピークルのレベルを50にする","fr":"Monter Speakle au niveau 50"}
+{"id":1516236,"jp":"スピークルのレベルを60にする","fr":"Monter Speakle au niveau 60"}
+{"id":1516237,"jp":"スピークルのレベルを70にする","fr":"Monter Speakle au niveau 70"}
+{"id":1516238,"jp":"スピークルのレベルを80にする","fr":"Monter Speakle au niveau 80"}
+{"id":1516239,"jp":"スピークルのレベルを90にする","fr":"Monter Speakle au niveau 90"}
+{"id":1516240,"jp":"スピークルのレベルを100にする","fr":"Monter Speakle au niveau 100"}
+{"id":1516241,"jp":"スピークルの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Speakle au rang E"}
+{"id":1516242,"jp":"スピークルの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Speakle au rang D"}
+{"id":1516243,"jp":"スピークルの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Speakle au rang C"}
+{"id":1516244,"jp":"スピークルの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Speakle au rang B"}
+{"id":1516245,"jp":"スピークルの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Speakle au rang A"}
+{"id":1516246,"jp":"スピークルの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Speakle au rang S"}
+{"id":1516247,"jp":"メーフォンのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Meefon"}
+{"id":1516248,"jp":"メーフォンのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Meefon"}
+{"id":1516249,"jp":"メーフォンのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Meefon"}
+{"id":1516250,"jp":"メーフォンのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Meefon"}
+{"id":1516251,"jp":"メーフォンのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Meefon"}
+{"id":1516252,"jp":"メーフォンのレベルを30にする","fr":"Monter Meefon au niveau 30"}
+{"id":1516253,"jp":"メーフォンのレベルを50にする","fr":"Monter Meefon au niveau 50"}
+{"id":1516254,"jp":"メーフォンのレベルを60にする","fr":"Monter Meefon au niveau 60"}
+{"id":1516255,"jp":"メーフォンのレベルを70にする","fr":"Monter Meefon au niveau 70"}
+{"id":1516256,"jp":"メーフォンのレベルを80にする","fr":"Monter Meefon au niveau 80"}
+{"id":1516257,"jp":"メーフォンのレベルを90にする","fr":"Monter Meefon au niveau 90"}
+{"id":1516258,"jp":"メーフォンのレベルを100にする","fr":"Monter Meefon au niveau 100"}
+{"id":1516259,"jp":"メーフォンの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Meefon au rang E"}
+{"id":1516260,"jp":"メーフォンの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Meefon au rang D"}
+{"id":1516261,"jp":"メーフォンの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Meefon au rang C"}
+{"id":1516262,"jp":"メーフォンの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Meefon au rang B"}
+{"id":1516263,"jp":"メーフォンの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Meefon au rang A"}
+{"id":1516264,"jp":"メーフォンの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Meefon au rang S"}
+{"id":1516265,"jp":"メーガルムのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Maegalum"}
+{"id":1516266,"jp":"メーガルムのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Maegalum"}
+{"id":1516267,"jp":"メーガルムのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Maegalum"}
+{"id":1516268,"jp":"メーガルムのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Maegalum"}
+{"id":1516269,"jp":"メーガルムのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Maegalum"}
+{"id":1516270,"jp":"メーガルムのレベルを30にする","fr":"Monter Maegalum au niveau 30"}
+{"id":1516271,"jp":"メーガルムのレベルを50にする","fr":"Monter Maegalum au niveau 50"}
+{"id":1516272,"jp":"メーガルムのレベルを60にする","fr":"Monter Maegalum au niveau 60"}
+{"id":1516273,"jp":"メーガルムのレベルを70にする","fr":"Monter Maegalum au niveau 70"}
+{"id":1516274,"jp":"メーガルムのレベルを80にする","fr":"Monter Maegalum au niveau 80"}
+{"id":1516275,"jp":"メーガルムのレベルを90にする","fr":"Monter Maegalum au niveau 90"}
+{"id":1516276,"jp":"メーガルムのレベルを100にする","fr":"Monter Maegalum au niveau 100"}
+{"id":1516277,"jp":"メーガルムの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Maegalum au rang E"}
+{"id":1516278,"jp":"メーガルムの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Maegalum au rang D"}
+{"id":1516279,"jp":"メーガルムの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Maegalum au rang C"}
+{"id":1516280,"jp":"メーガルムの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Maegalum au rang B"}
+{"id":1516281,"jp":"メーガルムの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Maegalum au rang A"}
+{"id":1516282,"jp":"メーガルムの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Maegalum au rang S"}
+{"id":1516283,"jp":"ミミックのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Mimikku"}
+{"id":1516284,"jp":"ミミックのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Mimikku"}
+{"id":1516285,"jp":"ミミックのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Mimikku"}
+{"id":1516286,"jp":"ミミックのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Mimikku"}
+{"id":1516287,"jp":"ミミックのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Mimikku"}
+{"id":1516288,"jp":"ミミックのレベルを30にする","fr":"Monter Mimikku au niveau 30"}
+{"id":1516289,"jp":"ミミックのレベルを50にする","fr":"Monter Mimikku au niveau 50"}
+{"id":1516290,"jp":"ミミックのレベルを60にする","fr":"Monter Mimikku au niveau 60"}
+{"id":1516291,"jp":"ミミックのレベルを70にする","fr":"Monter Mimikku au niveau 70"}
+{"id":1516292,"jp":"ミミックのレベルを80にする","fr":"Monter Mimikku au niveau 80"}
+{"id":1516293,"jp":"ミミックのレベルを90にする","fr":"Monter Mimikku au niveau 90"}
+{"id":1516294,"jp":"ミミックのレベルを100にする","fr":"Monter Mimikku au niveau 100"}
+{"id":1516295,"jp":"ミミックの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Mimikku au rang E"}
+{"id":1516296,"jp":"ミミックの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Mimikku au rang D"}
+{"id":1516297,"jp":"ミミックの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Mimikku au rang C"}
+{"id":1516298,"jp":"ミミックの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Mimikku au rang B"}
+{"id":1516299,"jp":"ミミックの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Mimikku au rang A"}
+{"id":1516300,"jp":"ミミックの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Mimikku au rang S"}
+{"id":1516301,"jp":"ブロンのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Bron"}
+{"id":1516302,"jp":"ブロンのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Bron"}
+{"id":1516303,"jp":"ブロンのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Bron"}
+{"id":1516304,"jp":"ブロンのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Bron"}
+{"id":1516305,"jp":"ブロンのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Bron"}
+{"id":1516306,"jp":"ブロンのレベルを30にする","fr":"Monter Bron au niveau 30"}
+{"id":1516307,"jp":"ブロンのレベルを50にする","fr":"Monter Bron au niveau 50"}
+{"id":1516308,"jp":"ブロンのレベルを60にする","fr":"Monter Bron au niveau 60"}
+{"id":1516309,"jp":"ブロンのレベルを70にする","fr":"Monter Bron au niveau 70"}
+{"id":1516310,"jp":"ブロンのレベルを80にする","fr":"Monter Bron au niveau 80"}
+{"id":1516311,"jp":"ブロンのレベルを90にする","fr":"Monter Bron au niveau 90"}
+{"id":1516312,"jp":"ブロンのレベルを100にする","fr":"Monter Bron au niveau 100"}
+{"id":1516313,"jp":"ブロンの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Bron au rang E"}
+{"id":1516314,"jp":"ブロンの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Bron au rang D"}
+{"id":1516315,"jp":"ブロンの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Bron au rang C"}
+{"id":1516316,"jp":"ブロンの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Bron au rang B"}
+{"id":1516317,"jp":"ブロンの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Bron au rang A"}
+{"id":1516318,"jp":"ブロンの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Bron au rang S"}
+{"id":1516319,"jp":"ブローモルのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Brawmoll"}
+{"id":1516320,"jp":"ブローモルのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Brawmoll"}
+{"id":1516321,"jp":"ブローモルのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Brawmoll"}
+{"id":1516322,"jp":"ブローモルのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Brawmoll"}
+{"id":1516323,"jp":"ブローモルのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Brawmoll"}
+{"id":1516324,"jp":"ブローモルのレベルを30にする","fr":"Monter Brawmoll au niveau 30"}
+{"id":1516325,"jp":"ブローモルのレベルを50にする","fr":"Monter Brawmoll au niveau 50"}
+{"id":1516326,"jp":"ブローモルのレベルを60にする","fr":"Monter Brawmoll au niveau 60"}
+{"id":1516327,"jp":"ブローモルのレベルを70にする","fr":"Monter Brawmoll au niveau 70"}
+{"id":1516328,"jp":"ブローモルのレベルを80にする","fr":"Monter Brawmoll au niveau 80"}
+{"id":1516329,"jp":"ブローモルのレベルを90にする","fr":"Monter Brawmoll au niveau 90"}
+{"id":1516330,"jp":"ブローモルのレベルを100にする","fr":"Monter Brawmoll au niveau 100"}
+{"id":1516331,"jp":"ブローモルの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Brawmoll au rang E"}
+{"id":1516332,"jp":"ブローモルの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Brawmoll au rang D"}
+{"id":1516333,"jp":"ブローモルの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Brawmoll au rang C"}
+{"id":1516334,"jp":"ブローモルの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Brawmoll au rang B"}
+{"id":1516335,"jp":"ブローモルの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Brawmoll au rang A"}
+{"id":1516336,"jp":"ブローモルの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Brawmoll au rang S"}
+{"id":1516337,"jp":"フィドロのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Fidoro"}
+{"id":1516338,"jp":"フィドロのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Fidoro"}
+{"id":1516339,"jp":"フィドロのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Fidoro"}
+{"id":1516340,"jp":"フィドロのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Fidoro"}
+{"id":1516341,"jp":"フィドロのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Fidoro"}
+{"id":1516342,"jp":"フィドロのレベルを30にする","fr":"Monter Fidoro au niveau 30"}
+{"id":1516343,"jp":"フィドロのレベルを50にする","fr":"Monter Fidoro au niveau 50"}
+{"id":1516344,"jp":"フィドロのレベルを60にする","fr":"Monter Fidoro au niveau 60"}
+{"id":1516345,"jp":"フィドロのレベルを70にする","fr":"Monter Fidoro au niveau 70"}
+{"id":1516346,"jp":"フィドロのレベルを80にする","fr":"Monter Fidoro au niveau 80"}
+{"id":1516347,"jp":"フィドロのレベルを90にする","fr":"Monter Fidoro au niveau 90"}
+{"id":1516348,"jp":"フィドロのレベルを100にする","fr":"Monter Fidoro au niveau 100"}
+{"id":1516349,"jp":"フィドロの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Fidoro au rang E"}
+{"id":1516350,"jp":"フィドロの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Fidoro au rang D"}
+{"id":1516351,"jp":"フィドロの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Fidoro au rang C"}
+{"id":1516352,"jp":"フィドロの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Fidoro au rang B"}
+{"id":1516353,"jp":"フィドロの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Fidoro au rang A"}
+{"id":1516354,"jp":"フィドロの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Fidoro au rang S"}
+{"id":1516355,"jp":"フィーロックのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Fyrock"}
+{"id":1516356,"jp":"フィーロックのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Fyrock"}
+{"id":1516357,"jp":"フィーロックのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Fyrock"}
+{"id":1516358,"jp":"フィーロックのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Fyrock"}
+{"id":1516359,"jp":"フィーロックのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Fyrock"}
+{"id":1516360,"jp":"フィーロックのレベルを30にする","fr":"Monter Fyrock au niveau 30"}
+{"id":1516361,"jp":"フィーロックのレベルを50にする","fr":"Monter Fyrock au niveau 50"}
+{"id":1516362,"jp":"フィーロックのレベルを60にする","fr":"Monter Fyrock au niveau 60"}
+{"id":1516363,"jp":"フィーロックのレベルを70にする","fr":"Monter Fyrock au niveau 70"}
+{"id":1516364,"jp":"フィーロックのレベルを80にする","fr":"Monter Fyrock au niveau 80"}
+{"id":1516365,"jp":"フィーロックのレベルを90にする","fr":"Monter Fyrock au niveau 90"}
+{"id":1516366,"jp":"フィーロックのレベルを100にする","fr":"Monter Fyrock au niveau 100"}
+{"id":1516367,"jp":"フィーロックの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Fyrock au rang E"}
+{"id":1516368,"jp":"フィーロックの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Fyrock au rang D"}
+{"id":1516369,"jp":"フィーロックの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Fyrock au rang C"}
+{"id":1516370,"jp":"フィーロックの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Fyrock au rang B"}
+{"id":1516371,"jp":"フィーロックの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Fyrock au rang A"}
+{"id":1516372,"jp":"フィーロックの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Fyrock au rang S"}
 {"id":1516373,"jp":"青華の幼狐のアクティブスキルを3回発動する","fr":"Utiliser 3 fois la compétence active du Renardeau de Qinghua"}
+{"id":1516374,"jp":"青華の幼狐のアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active du renardeau Qinghua"}
+{"id":1516375,"jp":"青華の幼狐のアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active du renardeau Qinghua"}
+{"id":1516376,"jp":"青華の幼狐のアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active du renardeau Qinghua"}
+{"id":1516377,"jp":"青華の幼狐のアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active du renardeau Qinghua"}
+{"id":1516378,"jp":"青華の幼狐のレベルを30にする","fr":"Monter le renardeau Qinghua au niveau 30"}
+{"id":1516379,"jp":"青華の幼狐のレベルを50にする","fr":"Monter le renardeau Qinghua au niveau 50"}
+{"id":1516380,"jp":"青華の幼狐のレベルを60にする","fr":"Monter le renardeau Qinghua au niveau 60"}
+{"id":1516381,"jp":"青華の幼狐のレベルを70にする","fr":"Monter le renardeau Qinghua au niveau 70"}
+{"id":1516382,"jp":"青華の幼狐のレベルを80にする","fr":"Monter le renardeau Qinghua au niveau 80"}
+{"id":1516383,"jp":"青華の幼狐のレベルを90にする","fr":"Monter le renardeau Qinghua au niveau 90"}
+{"id":1516384,"jp":"青華の幼狐のレベルを100にする","fr":"Monter le renardeau Qinghua au niveau 100"}
+{"id":1516385,"jp":"青華の幼狐の6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels du renardeau Qinghua au rang E"}
+{"id":1516386,"jp":"青華の幼狐の6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels du renardeau Qinghua au rang D"}
+{"id":1516387,"jp":"青華の幼狐の6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels du renardeau Qinghua au rang C"}
+{"id":1516388,"jp":"青華の幼狐の6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels du renardeau Qinghua au rang B"}
+{"id":1516389,"jp":"青華の幼狐の6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels du renardeau Qinghua au rang A"}
+{"id":1516390,"jp":"青華の幼狐の6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels du renardeau Qinghua au rang S"}
+{"id":1516391,"jp":"綺華の霊狐のアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active du renard spirituel Qihua"}
+{"id":1516392,"jp":"綺華の霊狐のアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active du renard spirituel Qihua"}
+{"id":1516393,"jp":"綺華の霊狐のアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active du renard spirituel Qihua"}
+{"id":1516394,"jp":"綺華の霊狐のアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active du renard spirituel Qihua"}
+{"id":1516395,"jp":"綺華の霊狐のアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active du renard spirituel Qihua"}
+{"id":1516396,"jp":"綺華の霊狐のレベルを30にする","fr":"Monter le renard spirituel Qihua au niveau 30"}
+{"id":1516397,"jp":"綺華の霊狐のレベルを50にする","fr":"Monter le renard spirituel Qihua au niveau 50"}
+{"id":1516398,"jp":"綺華の霊狐のレベルを60にする","fr":"Monter le renard spirituel Qihua au niveau 60"}
+{"id":1516399,"jp":"綺華の霊狐のレベルを70にする","fr":"Monter le renard spirituel Qihua au niveau 70"}
+{"id":1516400,"jp":"綺華の霊狐のレベルを80にする","fr":"Monter le renard spirituel Qihua au niveau 80"}
+{"id":1516401,"jp":"綺華の霊狐のレベルを90にする","fr":"Monter le renard spirituel Qihua au niveau 90"}
+{"id":1516402,"jp":"綺華の霊狐のレベルを100にする","fr":"Monter le renard spirituel Qihua au niveau 100"}
+{"id":1516403,"jp":"綺華の霊狐の6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels du renard spirituel Qihua au rang E"}
+{"id":1516404,"jp":"綺華の霊狐の6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels du renard spirituel Qihua au rang D"}
+{"id":1516405,"jp":"綺華の霊狐の6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels du renard spirituel Qihua au rang C"}
+{"id":1516406,"jp":"綺華の霊狐の6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels du renard spirituel Qihua au rang B"}
+{"id":1516407,"jp":"綺華の霊狐の6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels du renard spirituel Qihua au rang A"}
+{"id":1516408,"jp":"綺華の霊狐の6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels du renard spirituel Qihua au rang S"}
+{"id":1516409,"jp":"夢華の九尾のアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active du renard à neuf queues des songes"}
+{"id":1516410,"jp":"夢華の九尾のアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active du renard à neuf queues des songes"}
+{"id":1516411,"jp":"夢華の九尾のアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active du renard à neuf queues des songes"}
+{"id":1516412,"jp":"夢華の九尾のアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active du renard à neuf queues des songes"}
+{"id":1516413,"jp":"夢華の九尾のアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active du renard à neuf queues des songes"}
+{"id":1516414,"jp":"夢華の九尾のレベルを30にする","fr":"Monter le renard à neuf queues des songes au niveau 30"}
+{"id":1516415,"jp":"夢華の九尾のレベルを50にする","fr":"Monter le renard à neuf queues des songes au niveau 50"}
+{"id":1516416,"jp":"夢華の九尾のレベルを60にする","fr":"Monter le renard à neuf queues des songes au niveau 60"}
+{"id":1516417,"jp":"夢華の九尾のレベルを70にする","fr":"Monter le renard à neuf queues des songes au niveau 70"}
+{"id":1516418,"jp":"夢華の九尾のレベルを80にする","fr":"Monter le renard à neuf queues des songes au niveau 80"}
+{"id":1516419,"jp":"夢華の九尾のレベルを90にする","fr":"Monter le renard à neuf queues des songes au niveau 90"}
+{"id":1516420,"jp":"夢華の九尾のレベルを100にする","fr":"Monter le renard à neuf queues des songes au niveau 100"}
+{"id":1516421,"jp":"夢華の九尾の6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels du renard à neuf queues des songes au rang E"}
+{"id":1516422,"jp":"夢華の九尾の6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels du renard à neuf queues des songes au rang D"}
+{"id":1516423,"jp":"夢華の九尾の6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels du renard à neuf queues des songes au rang C"}
+{"id":1516424,"jp":"夢華の九尾の6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels du renard à neuf queues des songes au rang B"}
+{"id":1516425,"jp":"夢華の九尾の6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels du renard à neuf queues des songes au rang A"}
+{"id":1516426,"jp":"夢華の九尾の6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels du renard à neuf queues des songes au rang S"}
+{"id":1516427,"jp":"ララティのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Laratee"}
+{"id":1516428,"jp":"ララティのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Laratee"}
+{"id":1516429,"jp":"ララティのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Laratee"}
+{"id":1516430,"jp":"ララティのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Laratee"}
+{"id":1516431,"jp":"ララティのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Laratee"}
+{"id":1516432,"jp":"ララティのレベルを30にする","fr":"Monter Laratee au niveau 30"}
+{"id":1516433,"jp":"ララティのレベルを50にする","fr":"Monter Laratee au niveau 50"}
+{"id":1516434,"jp":"ララティのレベルを60にする","fr":"Monter Laratee au niveau 60"}
+{"id":1516435,"jp":"ララティのレベルを70にする","fr":"Monter Laratee au niveau 70"}
+{"id":1516436,"jp":"ララティのレベルを80にする","fr":"Monter Laratee au niveau 80"}
+{"id":1516437,"jp":"ララティのレベルを90にする","fr":"Monter Laratee au niveau 90"}
+{"id":1516438,"jp":"ララティのレベルを100にする","fr":"Monter Laratee au niveau 100"}
+{"id":1516439,"jp":"ララティの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Laratee au rang E"}
+{"id":1516440,"jp":"ララティの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Laratee au rang D"}
+{"id":1516441,"jp":"ララティの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Laratee au rang C"}
+{"id":1516442,"jp":"ララティの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Laratee au rang B"}
+{"id":1516443,"jp":"ララティの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Laratee au rang A"}
+{"id":1516444,"jp":"ララティの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Laratee au rang S"}
+{"id":1516445,"jp":"ララッポのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Rarappo"}
+{"id":1516446,"jp":"ララッポのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Rarappo"}
+{"id":1516447,"jp":"ララッポのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Rarappo"}
+{"id":1516448,"jp":"ララッポのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Rarappo"}
+{"id":1516449,"jp":"ララッポのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Rarappo"}
+{"id":1516450,"jp":"ララッポのレベルを30にする","fr":"Monter Rarappo au niveau 30"}
+{"id":1516451,"jp":"ララッポのレベルを50にする","fr":"Monter Rarappo au niveau 50"}
+{"id":1516452,"jp":"ララッポのレベルを60にする","fr":"Monter Rarappo au niveau 60"}
+{"id":1516453,"jp":"ララッポのレベルを70にする","fr":"Monter Rarappo au niveau 70"}
+{"id":1516454,"jp":"ララッポのレベルを80にする","fr":"Monter Rarappo au niveau 80"}
+{"id":1516455,"jp":"ララッポのレベルを90にする","fr":"Monter Rarappo au niveau 90"}
+{"id":1516456,"jp":"ララッポのレベルを100にする","fr":"Monter Rarappo au niveau 100"}
+{"id":1516457,"jp":"ララッポの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Rarappo au rang E"}
+{"id":1516458,"jp":"ララッポの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Rarappo au rang D"}
+{"id":1516459,"jp":"ララッポの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Rarappo au rang C"}
+{"id":1516460,"jp":"ララッポの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Rarappo au rang B"}
+{"id":1516461,"jp":"ララッポの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Rarappo au rang A"}
+{"id":1516462,"jp":"ララッポの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Rarappo au rang S"}
+{"id":1516463,"jp":"ドラフィのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Dorafi"}
+{"id":1516464,"jp":"ドラフィのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Dorafi"}
+{"id":1516465,"jp":"ドラフィのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Dorafi"}
+{"id":1516466,"jp":"ドラフィのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Dorafi"}
+{"id":1516467,"jp":"ドラフィのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Dorafi"}
+{"id":1516468,"jp":"ドラフィのレベルを30にする","fr":"Monter Dorafi au niveau 30"}
+{"id":1516469,"jp":"ドラフィのレベルを50にする","fr":"Monter Dorafi au niveau 50"}
+{"id":1516470,"jp":"ドラフィのレベルを60にする","fr":"Monter Dorafi au niveau 60"}
+{"id":1516471,"jp":"ドラフィのレベルを70にする","fr":"Monter Dorafi au niveau 70"}
+{"id":1516472,"jp":"ドラフィのレベルを80にする","fr":"Monter Dorafi au niveau 80"}
+{"id":1516473,"jp":"ドラフィのレベルを90にする","fr":"Monter Dorafi au niveau 90"}
+{"id":1516474,"jp":"ドラフィのレベルを100にする","fr":"Monter Dorafi au niveau 100"}
+{"id":1516475,"jp":"ドラフィの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Dorafi au rang E"}
+{"id":1516476,"jp":"ドラフィの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Dorafi au rang D"}
+{"id":1516477,"jp":"ドラフィの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Dorafi au rang C"}
+{"id":1516478,"jp":"ドラフィの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Dorafi au rang B"}
+{"id":1516479,"jp":"ドラフィの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Dorafi au rang A"}
+{"id":1516480,"jp":"ドラフィの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Dorafi au rang S"}
+{"id":1516481,"jp":"ドラフォルグのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Doraforugu"}
+{"id":1516482,"jp":"ドラフォルグのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Doraforugu"}
+{"id":1516483,"jp":"ドラフォルグのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Doraforugu"}
+{"id":1516484,"jp":"ドラフォルグのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Doraforugu"}
+{"id":1516485,"jp":"ドラフォルグのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Doraforugu"}
+{"id":1516486,"jp":"ドラフォルグのレベルを30にする","fr":"Monter Doraforugu au niveau 30"}
+{"id":1516487,"jp":"ドラフォルグのレベルを50にする","fr":"Monter Doraforugu au niveau 50"}
+{"id":1516488,"jp":"ドラフォルグのレベルを60にする","fr":"Monter Doraforugu au niveau 60"}
+{"id":1516489,"jp":"ドラフォルグのレベルを70にする","fr":"Monter Doraforugu au niveau 70"}
+{"id":1516490,"jp":"ドラフォルグのレベルを80にする","fr":"Monter Doraforugu au niveau 80"}
+{"id":1516491,"jp":"ドラフォルグのレベルを90にする","fr":"Monter Doraforugu au niveau 90"}
+{"id":1516492,"jp":"ドラフォルグのレベルを100にする","fr":"Monter Doraforugu au niveau 100"}
+{"id":1516493,"jp":"ドラフォルグの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Doraforugu au rang E"}
+{"id":1516494,"jp":"ドラフォルグの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Doraforugu au rang D"}
+{"id":1516495,"jp":"ドラフォルグの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Doraforugu au rang C"}
+{"id":1516496,"jp":"ドラフォルグの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Doraforugu au rang B"}
+{"id":1516497,"jp":"ドラフォルグの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Doraforugu au rang A"}
+{"id":1516498,"jp":"ドラフォルグの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Doraforugu au rang S"}
+{"id":1516499,"jp":"ドラグブレイズのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Dragblaze"}
+{"id":1516500,"jp":"ドラグブレイズのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Dragblaze"}
+{"id":1516501,"jp":"ドラグブレイズのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Dragblaze"}
+{"id":1516502,"jp":"ドラグブレイズのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Dragblaze"}
+{"id":1516503,"jp":"ドラグブレイズのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Dragblaze"}
+{"id":1516504,"jp":"ドラグブレイズのレベルを30にする","fr":"Monter Dragblaze au niveau 30"}
+{"id":1516505,"jp":"ドラグブレイズのレベルを50にする","fr":"Monter Dragblaze au niveau 50"}
+{"id":1516506,"jp":"ドラグブレイズのレベルを60にする","fr":"Monter Dragblaze au niveau 60"}
+{"id":1516507,"jp":"ドラグブレイズのレベルを70にする","fr":"Monter Dragblaze au niveau 70"}
+{"id":1516508,"jp":"ドラグブレイズのレベルを80にする","fr":"Monter Dragblaze au niveau 80"}
+{"id":1516509,"jp":"ドラグブレイズのレベルを90にする","fr":"Monter Dragblaze au niveau 90"}
+{"id":1516510,"jp":"ドラグブレイズのレベルを100にする","fr":"Monter Dragblaze au niveau 100"}
+{"id":1516517,"jp":"チョフコのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Chofuko"}
+{"id":1516518,"jp":"チョフコのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Chofuko"}
+{"id":1516519,"jp":"チョフコのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Chofuko"}
+{"id":1516520,"jp":"チョフコのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Chofuko"}
+{"id":1516521,"jp":"チョフコのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Chofuko"}
+{"id":1516522,"jp":"チョフコのレベルを30にする","fr":"Monter Chofuko au niveau 30"}
+{"id":1516523,"jp":"チョフコのレベルを50にする","fr":"Monter Chofuko au niveau 50"}
+{"id":1516524,"jp":"チョフコのレベルを60にする","fr":"Monter Chofuko au niveau 60"}
+{"id":1516525,"jp":"チョフコのレベルを70にする","fr":"Monter Chofuko au niveau 70"}
+{"id":1516526,"jp":"チョフコのレベルを80にする","fr":"Monter Chofuko au niveau 80"}
+{"id":1516527,"jp":"チョフコのレベルを90にする","fr":"Monter Chofuko au niveau 90"}
+{"id":1516528,"jp":"チョフコのレベルを100にする","fr":"Monter Chofuko au niveau 100"}
+{"id":1516529,"jp":"チョフコの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Chofuko au rang E"}
+{"id":1516530,"jp":"チョフコの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Chofuko au rang D"}
+{"id":1516531,"jp":"チョフコの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Chofuko au rang C"}
+{"id":1516532,"jp":"チョフコの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Chofuko au rang B"}
+{"id":1516533,"jp":"チョフコの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Chofuko au rang A"}
+{"id":1516534,"jp":"チョフコの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Chofuko au rang S"}
+{"id":1516535,"jp":"フィアラーガのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Fiaraaga"}
+{"id":1516536,"jp":"フィアラーガのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Fiaraaga"}
+{"id":1516537,"jp":"フィアラーガのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Fiaraaga"}
+{"id":1516538,"jp":"フィアラーガのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Fiaraaga"}
+{"id":1516539,"jp":"フィアラーガのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Fiaraaga"}
+{"id":1516540,"jp":"フィアラーガのレベルを30にする","fr":"Monter Fiaraaga au niveau 30"}
+{"id":1516541,"jp":"フィアラーガのレベルを50にする","fr":"Monter Fiaraaga au niveau 50"}
+{"id":1516542,"jp":"フィアラーガのレベルを60にする","fr":"Monter Fiaraaga au niveau 60"}
+{"id":1516543,"jp":"フィアラーガのレベルを70にする","fr":"Monter Fiaraaga au niveau 70"}
+{"id":1516544,"jp":"フィアラーガのレベルを80にする","fr":"Monter Fiaraaga au niveau 80"}
+{"id":1516545,"jp":"フィアラーガのレベルを90にする","fr":"Monter Fiaraaga au niveau 90"}
+{"id":1516546,"jp":"フィアラーガのレベルを100にする","fr":"Monter Fiaraaga au niveau 100"}
+{"id":1516547,"jp":"フィアラーガの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Fiaraaga au rang E"}
+{"id":1516548,"jp":"フィアラーガの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Fiaraaga au rang D"}
+{"id":1516549,"jp":"フィアラーガの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Fiaraaga au rang C"}
 {"id":1516611,"jp":"獄鬼面のアクティブスキルを50回発動する","fr":"Utiliser 50 fois la compétence active du Masque d'oni infernal"}
 {"id":1516843,"jp":"イエローアルビのアクティブスキルを15回発動する","fr":"Utiliser 15 fois la compétence active de Yellowalbi"}
 {"id":1517075,"jp":"カエアのアクティブスキルを3回発動する","fr":"Utiliser 3 fois la compétence active de Kaea"}
