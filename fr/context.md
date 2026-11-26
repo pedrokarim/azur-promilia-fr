@@ -62,7 +62,7 @@ Une fois choisi pour un personnage, le registre ne change plus, sauf si l'histoi
 - Les menus sont étroits : le français est en général plus long que l'anglais. Pour les statistiques, les abréviations habituelles des jeux en français : ATQ, DÉF, PV, Taux CRIT, DGT CRIT.
 - Les répliques gardent les hésitations et onomatopées du japonais sous une forme française naturelle (うっ, rendu « Ugh » en anglais, devient « Aïe » ou « Argh » selon le contexte).
 - Les noms propres restent ceux du glossaire. Quand l'anglais officiel (site, X @AzurPromilia_EN) et l'anglais des fans diffèrent, l'officiel l'emporte : il est noté dans la colonne `en` du glossaire.
-- Typographie, en attendant le test de la police du jeu : guillemets « » avec une espace ordinaire à l'intérieur, une espace ordinaire avant ! ? : ;, l'apostrophe droite ' et le caractère … (pour …… aussi). Si la police passe le test, un script remplacera ces espaces par des insécables sur toutes les lignes.
+- Typographie : on écrit des espaces ordinaires avant ! ? : ; et à l'intérieur des « », l'apostrophe droite ' et le caractère … (aussi pour ……). `build` les remplace par l'espace insécable U+00A0. Testé en jeu le 26/11/2026 : la police affiche les accents (É À Ç é è à ç œ), les « » et l'insécable U+00A0, mais pas l'espace fine U+202F, qui sort en carré : ne jamais l'employer.
 - Titres de succès et de rang qui désignent le joueur : tournures sans accord (« As des combos », « Terreur des grottes »).
 - Noms de Kibo et de boss : ceux de l'anglais, invariables (Staray, Cabbird, Kingraga…). Plusieurs sont confirmés par le site officiel.
 
@@ -76,4 +76,4 @@ Arrêtées le 26/11/2026, faute de version française officielle, à partir de l
 - Les monstres (凶獣) : Bêtes maudites.
 - Les Esprits anciens (御霊さま).
 
-Reste ouvert : le sens exact de 精鬼族, et la typographie, qui attend le test des accents en jeu.
+Reste ouvert : le sens exact de 精鬼族.

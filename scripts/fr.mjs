@@ -41,8 +41,8 @@ const ACCENT_TEST = {
   設定: 'Réglages éèêëàâçùûœ',
   言語: 'Langue « ÉÈÀÇŒ »',
   グラフィック: 'Graphismes ’…',
-  確認: 'Confirmer !',
-  キャンセル: 'Annuler : îïôü',
+  確認: 'Confirmer\u00a0!',
+  キャンセル: 'Annuler\u00a0: îïôü',
   戻る: 'Retour ÂÊÎÔÛ',
 };
 
@@ -285,6 +285,18 @@ function importWork(options) {
   for (const reason of rejected) console.log(`refusée : ${reason}`);
 }
 
+/**
+ * Pose les espaces insécables du français au moment de fabriquer le fichier du jeu : avant
+ * ! ? : ; », après «. Les traducteurs écrivent des espaces ordinaires, le résultat reste
+ * uniforme. Testé en jeu le 26/11/2026 : la police affiche l'insécable U+00A0, mais pas
+ * l'espace fine U+202F (carré), qu'on n'emploie donc jamais.
+ */
+function frenchSpacing(text) {
+  return text
+    .replace(/[ \u202f]+([!?:;»])/g, '\u00a0$1')
+    .replace(/«[ \u202f]+/g, '«\u00a0');
+}
+
 function build(options) {
   const fallback = options.fallback ?? 'en';
   if (!['en', 'jp'].includes(fallback)) throw new Error('--fallback vaut « en » ou « jp »');
@@ -298,10 +310,10 @@ function build(options) {
     let source = row.src;
     // En test des accents, chaque texte commence par des accents et des guillemets français :
     // n'importe quel écran du jeu montre alors si la police les affiche.
-    const accentText = ACCENT_TEST[row.jp] ?? (row.en ? `ÉÀÇ éèàçœ « » ! ${row.en}` : '');
+    const accentText = ACCENT_TEST[row.jp] ?? (row.en ? `ÉÀÇ éèàçœ «\u00a0»\u00a0! ${row.en}` : '');
     const translated = options['accent-test'] ? accentText : french.byJp.get(row.jp)?.fr;
     if (translated && validate(row.jp, translated).length === 0) {
-      text = translated;
+      text = options['accent-test'] ? translated : frenchSpacing(translated);
       source = 'fr';
       fromFrench++;
     } else if (fallback === 'en') {
