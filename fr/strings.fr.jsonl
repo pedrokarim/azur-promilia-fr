@@ -49130,31 +49130,331 @@
 {"id":1544735,"jp":"でも、おかしいぞ？\n人間がそんなに長く生きられるはずがないのだ！","fr":"Mais il y a quelque chose qui cloche !\nUn être humain ne peut pas vivre aussi longtemps !"}
 {"id":1544736,"jp":"きっと、あの玉璧の影響かな……なんだか不思議な力が秘められてるみたいだった。|きっと、あの玉璧の影響かな……なんだか不思議な力が秘められてるみたいだった。","fr":"Ça doit être à cause du disque de jade… On aurait dit qu'il renfermait un drôle de pouvoir.|Ça doit être à cause du disque de jade… On aurait dit qu'il renfermait un drôle de pouvoir."}
 {"id":1544737,"jp":"父さまもそのように言っていました……\n玉璧には、想像も及ばぬ力が秘められているのだと……","fr":"Père le disait aussi…\nLe disque de jade renferme un pouvoir qui dépasse tout ce qu'on peut imaginer…"}
+{"id":1544738,"jp":"どのような仕組みなのかはわたくしにもよくわかりません……\nですが、あの玉璧の近くにいると、不思議と力が満ちるのを感じるのです。","fr":"J'ignore moi-même comment cela fonctionne…\nMais près de ce disque de jade, je sens mes forces revenir. C'est étrange."}
+{"id":1544739,"jp":"つまり、あれが香子さんの命を繋いでいたってこと……？","fr":"Alors, Xiangzi, c'est ce disque qui te gardait en vie… ?"}
+{"id":1544740,"jp":"あの玉璧って、そんなにすごいものだったのか！？\nくうぅ～あのネズミにお宝をあげちゃったのだ！","fr":"Il était si puissant que ça, ce disque de jade !?\nRaaah ! Et dire qu'on a donné ce trésor à ce rat !"}
 {"id":1544741,"jp":"そんな……わたくしはこのさき、どうすればよいのでしょうか……\n幽霊でないなら、消えることもできないではありませんか！","fr":"Non… Que vais-je devenir désormais…\nSi je ne suis pas un fantôme, je ne peux même pas disparaître !"}
+{"id":1544742,"jp":"ううっ！どうしてこのようなことに……\nわたくしのような者は、冥界にすら受け入れてもらえないのですね……\nごめんなさい、<size=22>どうにかして死ぬ方法を考えなければ……</size>","fr":"Oh… Comment ai-je pu en arriver là ?\nMême le royaume des morts ne veut pas de moi…\nPardonnez-moi, <size=22>il faut que je trouve un moyen de mourir…</size>"}
+{"id":1544743,"jp":"みなさま、お騒がせいたしました……\nやはり蘭家の村へ帰って、おのれの死期を待ちたいと……","fr":"Pardonnez-moi de vous avoir causé tant d'émoi…\nJe crois que je vais rentrer au village des Lan et attendre que mon heure vienne…"}
+{"id":1544744,"jp":"自分のために生きてみるのもいいと思うよ。","fr":"Tu pourrais essayer de vivre pour toi, tu sais."}
+{"id":1544745,"jp":"使命が生きる目的のすべてじゃないよ。","fr":"Ta mission n'est pas ta seule raison de vivre."}
+{"id":1544746,"jp":"使命は終わったんだよね。\nそれなら、もう過去に囚われる意味はないと思う。","fr":"Ta mission est terminée, pas vrai ?\nTu peux laisser le passé derrière toi, maintenant."}
+{"id":1544747,"jp":"蘭家の村のみんなも、香子に命を大事にして欲しいと思ってるはずだよ。","fr":"Au village des Lan, tout le monde voudrait que tu prennes soin de toi, Xiangzi. J'en suis sûr."}
+{"id":1544748,"jp":"あの宝に縛られるのはもうやめて。自分だけの宝物を見つけるんだ。|あの宝に縛られるのはもうやめて。自分だけの宝物を見つけるの。","fr":"Tu peux laisser ce trésor derrière toi. Va en trouver un qui n'appartienne qu'à toi.|Tu peux laisser ce trésor derrière toi. Va en trouver un qui n'appartienne qu'à toi."}
 {"id":1544749,"jp":"自分だけの、宝物……","fr":"Un trésor… rien qu'à moi…"}
+{"id":1544750,"jp":"そうそう！世界は広いし、\n香子さんを待ってる冒険だって、きっとたくさんあるはずだよ。","fr":"Mais oui ! Le monde est vaste !\nJe parie qu'il y a plein d'aventures qui t'attendent, Xiangzi."}
+{"id":1544751,"jp":"うぅ……ほ、本当に……ご一緒してもよいのでしょうか？","fr":"Oh… V-vous êtes sûrs… que je peux venir avec vous ?"}
+{"id":1544752,"jp":"ルミィさまは寛大だからな。\n仲間がひとり増えるくらい気にしないのだ！","fr":"La grande Lumi a bon cœur, tu sais.\nUne amie de plus, ça lui va très bien !"}
+{"id":1544753,"jp":"うぅ……！ありがとうございます……！","fr":"Oh… ! Merci à tous… !"}
+{"id":1544754,"jp":"でも、棺桶を持ったままじゃ、宿を取るのは難しいよね……","fr":"Par contre, avec un cercueil sous le bras, ça va être dur de trouver une chambre à l'auberge…"}
+{"id":1544755,"jp":"生きてるなら、棺桶なんか捨てちゃえばいいのだ！","fr":"Puisque t'es en vie, balance-le, ton cercueil !"}
+{"id":1544756,"jp":"そ、それは、いけません！\nこれを失うくらいなら、死んだほうがましです！","fr":"M-mais enfin, jamais de la vie !\nJe préférerais mourir plutôt que de le perdre !"}
+{"id":1544757,"jp":"領主邸にお世話になるとか？","fr":"Et si on demandait au seigneur de t'héberger ?"}
+{"id":1544758,"jp":"野宿するしかないかも……","fr":"On va peut-être devoir dormir à la belle étoile…"}
+{"id":1544759,"jp":"それは駄目だよ！香子さんが危ない目に遭うかもしれないし……\n道に棺桶があったら、みんなだってびっくりしちゃうよ！","fr":"Pas question ! Xiangzi pourrait avoir des ennuis…\nEt imagine la tête des gens s'ils tombent sur un cercueil en pleine rue !"}
+{"id":1544760,"jp":"いまは金麦穂カーニバルの期間中だし、\n警備の手間は増やさないほうがいいよね……\n領主さまに聞いてみるのはどうかな？力になってくれるかも。","fr":"On est en plein Carnaval de l'Épi doré.\nLes gardes ont déjà assez de travail comme ça…\nEt si on en parlait au seigneur ? On pourrait avoir un coup de main."}
+{"id":1544761,"jp":"たしかに、それがよさそうなのだ。\n領主の屋敷はあんなに広いんだから、ひとり増えるくらいなんてことないだろう。\n坑道の事件も解決してあげたし、それくらいの頼みは聞いてくれそうなのだ。","fr":"Oui, la grande Lumi trouve que c'est une bonne idée.\nT'as vu la taille du manoir ? Y a bien de la place pour une personne de plus !\nEt puis, on a réglé le problème dans la mine. Le seigneur peut bien nous rendre ce petit service."}
+{"id":1544762,"jp":"あ……ありがとうございます！本当に……","fr":"M… merci ! Du fond du cœur…"}
+{"id":1544763,"jp":"それじゃ、香子さんのことはお任せするね。\nわたしは旅館に戻るから。","fr":"Bon, je vous confie Xiangzi, alors.\nMoi, je rentre à l'auberge."}
 {"id":1544764,"jp":"行こう、ハイディ。","fr":"Allons-y, Heidi."}
+{"id":1544765,"jp":"よーし、あたしたちも帰るのだ！","fr":"Allez, la grande Lumi rentre aussi ! On y va !"}
+{"id":1544766,"jp":"シフォン！帰ったのだ～","fr":"Chiffon ! La grande Lumi est de retour !"}
+{"id":1544767,"jp":"お帰りなさい、{playerName}さま。\n私とテララもいま療養院から戻ってきたところです。\nケガをされた鉱員の方々の治療も済みましたので、皆さんの様子を見に行こうかと。","fr":"Ah, vous voilà, {playerName}.\nTerara et moi venons de rentrer du dispensaire.\nLes mineurs blessés ont reçu leurs soins. Nous allions venir prendre de vos nouvelles."}
+{"id":1544768,"jp":"なあなあ、{playerName}。療養院って、すごいんだな！\n芽吹の谷じゃ見たこともないものがいっぱいでさ。\n治療の仕方もホントいろいろあって！","fr":"Dis, {playerName}, c'est fou, ce dispensaire !\nY a plein de trucs que j'avais jamais vus dans la Vallée des Bourgeons.\nEt ils ont toutes sortes de façons de soigner les gens !"}
+{"id":1544769,"jp":"アニスがあの……なんだっけ……注射器、だったか？\nさきにトゲみたいなのがついてるヤツを尻にブスッて刺したら、\nすぐよくなったりしてさ！","fr":"Anais a pris un… comment ça s'appelle, déjà… une seringue, c'est ça ?\nLe truc avec une espèce d'épine au bout. Paf, elle lui a planté ça dans les fesses,\net hop, il allait déjà mieux !"}
+{"id":1544770,"jp":"すっごく痛そうなのだ！","fr":"Aïe ! Rien que d'y penser, la grande Lumi a mal !"}
+{"id":1544771,"jp":"よかった。テララも充実してたみたいだね。","fr":"Tant mieux. Toi aussi, t'as eu une journée bien remplie, Terara."}
+{"id":1544772,"jp":"はぁーあ、でもさ。やっぱり一緒に冒険できないのは残念だったよ。\n屋根の上で飛んだり跳ねたり……見てるだけでわくわくした！","fr":"Pfff… J'aurais quand même bien aimé partir à l'aventure avec toi.\nTous ces bonds sur les toits… Rien que de te voir, j'avais envie d'y aller !"}
+{"id":1544773,"jp":"ルミィ……{playerName}さまを危険な目に遭わせてはならないとあれほど……\nいいですか、私たちの任務は星臨者さまを無事にロースランサまでお連れすること。\n忘れてはいけません！","fr":"Lumi… Combien de fois vous ai-je dit de ne pas mettre {playerName} en danger…\nNotre mission est de conduire l'Enfant des étoiles à Lors Lains en toute sécurité.\nJe vous demande de vous en souvenir !"}
+{"id":1544774,"jp":"{playerName}さまになにかあったら、どうするんですか！","fr":"Et s'il arrivait quelque chose à {playerName}, que feriez-vous ?"}
+{"id":1544775,"jp":"いや～あれは泥棒を捕まえるためだったのだ……\nしかも、最後はちゃーんと丸く収まった！なっ、{playerName}！","fr":"Mais euh… la grande Lumi voulait juste attraper un voleur…\nEt au bout du compte, tout s'est très bien passé ! Hein, {playerName} ?"}
 {"id":1544776,"jp":"そのとおり！","fr":"Exactement !"}
 {"id":1544777,"jp":"心配させてごめん。","fr":"Pardon de t'avoir inquiété."}
+{"id":1544778,"jp":"もちろん、星臨者だからね！","fr":"Bien sûr, je suis l'Enfant des étoiles !"}
+{"id":1544779,"jp":"僕はルダリスを倒した星臨者だよ。心配いらないって！|私はルダリスを倒した星臨者だよ。心配いらないって！","fr":"C'est moi, l'Enfant des étoiles qui a battu Rudalis. T'en fais pas !|C'est moi, l'Enfant des étoiles qui a battu Rudalis. T'en fais pas !"}
+{"id":1544780,"jp":"あの戦いは、あまりにも熾烈なものでした。\nだからこそ、もう危険な目に遭ってほしくないのです。","fr":"Ce combat a été d'une violence terrible.\nJe ne veux plus vous voir courir de pareils risques."}
+{"id":1544781,"jp":"はぁ、わかりました……\nどうせなにを言っても、あなたは迷わず飛び込んでいくでしょうから……","fr":"Ah… Je comprends.\nQuoi que je dise, vous foncerez tête baissée de toute façon…"}
+{"id":1544782,"jp":"でも、これからは自分の安全を最優先してください！\nよろしいですね？","fr":"À l'avenir, faites passer votre sécurité avant tout, je vous en prie !\nD'accord ?"}
+{"id":1544783,"jp":"{playerName}&ルミィ","fr":"{playerName}&Lumi"}
+{"id":1544784,"jp":"それから、こちらの方は……","fr":"Et qui est donc cette jeune femme… ?"}
+{"id":1544785,"jp":"ごめんなさい！ごめんなさい！ごめんなさい！","fr":"Pardon ! Pardon ! Pardon !"}
+{"id":1544786,"jp":"謝らないでください！責めるつもりはないのです。","fr":"Vous n'avez pas à vous excuser ! Je ne vous reproche rien."}
+{"id":1544787,"jp":"この子はとってもシャイなのだ。気にすることないぞ。","fr":"Elle est super timide, tu sais. T'en fais pas."}
+{"id":1544788,"jp":"さきほどは話を聞く余裕もありませんでしたから。\nなにがあったのか教えていただけますか……？","fr":"Tout à l'heure, je n'ai pas eu le temps de vous écouter.\nPourriez-vous me raconter ce qui s'est passé… ?"}
+{"id":1544789,"jp":"シンフォーリアに鉱山で別れたあと起こったことを伝えた。","fr":"Vous avez raconté à Symphoria ce qui s'est passé après que vos chemins se sont séparés à la mine."}
+{"id":1544790,"jp":"なるほど、そういう事情だったのですね。\nはじめまして、蘭香子さん。私はシンフォーリアです。\nお困りのことがあれば、いつでも頼ってくださいね。","fr":"Je comprends mieux, maintenant.\nEnchantée, Lan Xiangzi. Je m'appelle Symphoria.\nSi vous avez besoin de quoi que ce soit, vous pouvez compter sur moi."}
+{"id":1544791,"jp":"ううっ、温かいです！みなさま、本当によい方ばかりで……！","fr":"Oh… Ça me va droit au cœur ! Vous êtes tous si gentils… !"}
+{"id":1544792,"jp":"わあ！なんだこれ？でっかい箱だな。","fr":"Oh ! C'est quoi, ça ? Elle est énorme, cette caisse !"}
+{"id":1544793,"jp":"テララ……いーか。これは、死体を入れる箱なのだ！","fr":"Écoute bien, Terara… Dans cette caisse, on met des cadavres !"}
+{"id":1544794,"jp":"死体だって？ほんとに入ってるのか！？","fr":"Des cadavres !? Y en a vraiment un dedans ?"}
+{"id":1544795,"jp":"なにを仰っているのかは、わかりませんが……！\nごめんなさい……やはり、持ち込むべきではありませんでしたよね！","fr":"Je ne comprends pas de quoi vous parlez, mais… !\nPardonnez-moi… Je n'aurais vraiment pas dû apporter ça ici !"}
 {"id":1544796,"jp":"いや、構わないよ。","fr":"Non, ce n'est rien."}
+{"id":1544797,"jp":"到着して早々、大活躍じゃないか。\nフリスにもすっかり馴染んでいるようだ。","fr":"À peine sur place, et déjà de beaux exploits !\nOn dirait que Fleece est déjà comme chez vous."}
+{"id":1544798,"jp":"みんな、今日はほんとうにありがとう。\nランプブラックの救援だけじゃなく、坑道の幽霊騒ぎまで！","fr":"Merci à tous pour ce que vous avez fait aujourd'hui.\nVous avez porté secours à Lampblack et réglé cette histoire de fantômes dans la mine !"}
+{"id":1544799,"jp":"これで鉱員さんたちも安心して作業を再開できる。\n本当に大手柄だよ。","fr":"Grâce à vous, les mineurs vont pouvoir reprendre le travail l'esprit tranquille.\nVous avez fait du beau travail."}
+{"id":1544800,"jp":"報酬として、これを受け取っておくれ。","fr":"Tenez, voilà votre récompense."}
+{"id":1544801,"jp":"わあぁ！ユニがこんなに！？","fr":"Wouah ! Autant d'Uni !?"}
+{"id":1544802,"jp":"ああ、スペシャルオークションの開催も間近に迫っている。\nこの競売証も渡しておこうか。","fr":"Ah, et la vente aux enchères spéciale approche.\nJe vais aussi vous donner ce laissez-passer."}
+{"id":1544803,"jp":"これを持っていれば、貴方たちもオークションに参加できる。\nほかの入札者たちと、競争する資格が得られるというわけだ。","fr":"Avec ça, vous pourrez participer à la vente.\nVous aurez le droit d'enchérir comme les autres."}
+{"id":1544804,"jp":"お気遣い感謝いたします。\nですが、私たちにそこまでの金銭的な余裕は……","fr":"Je vous remercie de votre attention.\nMais nous n'avons pas les moyens de payer une telle somme…"}
+{"id":1544805,"jp":"それは貴方たち次第だろう。\nフリスでは夢と希望さえあれば、チャンスは平等だ。","fr":"Ça dépend de vous.\nÀ Fleece, tant qu'on a des rêves et de l'espoir, tout le monde a sa chance."}
+{"id":1544806,"jp":"貴方たちを見ていると、他国を巡っていた若いころのことを思い出すよ。","fr":"À vous voir, je repense à ma jeunesse, quand je voyageais de pays en pays."}
+{"id":1544807,"jp":"物語の登場人物になるか、それとも通り過ぎていくか……\nすべては貴方たちの選択次第さ。","fr":"Vous pouvez entrer dans l'histoire ou passer votre chemin…\nÀ vous de choisir."}
+{"id":1544808,"jp":"では、あとはご自由に。私はまだ仕事が残っていてね。\nコムギ、代わりにもてなして差し上げなさい。","fr":"Sur ce, faites comme chez vous. J'ai encore du travail.\nKomugi, occupe-toi de nos invités."}
+{"id":1544809,"jp":"うん、任せて、おばあちゃん。","fr":"Oui, tu peux compter sur moi, Mamie."}
+{"id":1544810,"jp":"それでは、フリスで一番のカーニバルを楽しんでおくれ。","fr":"Amusez-vous bien au plus beau carnaval de Fleece !"}
+{"id":1544811,"jp":"領主さまは厳格な方ですが、\n細々とご配慮くださいますね。","fr":"Madame le seigneur est sévère,\nmais elle veille au moindre détail pour que nous soyons bien ici."}
+{"id":1544812,"jp":"でしょ！もしなにか必要なことがあったら、遠慮なくわたしに言ってね！","fr":"Eh oui ! Si t'as besoin de quoi que ce soit, dis-le-moi !"}
+{"id":1544813,"jp":"じゃあ、お言葉に甘えて。\nこの子もしばらく領主邸に泊まれないかな？","fr":"Puisque tu proposes…\nTu crois que cette fille pourrait loger au manoir quelque temps, elle aussi ?"}
+{"id":1544814,"jp":"その服装……辰王朝から来た方だよね？","fr":"À voir ta tenue… Tu viens de la dynastie Chen, c'est ça ?"}
 {"id":1544815,"jp":"わ……わたくしは……","fr":"M-moi, je…"}
+{"id":1544816,"jp":"あー、その話をすると長くなるのだ！\nルミィさまはもうおなかぺこぺこだぞ！\nさきに食事にするのだ！話は食べながらしよう！","fr":"Ah, ça, c'est toute une histoire !\nLa grande Lumi meurt de faim !\nÀ table ! On en parlera en mangeant !"}
+{"id":1544817,"jp":"うん、そうしよっか。\nとりあえずナナチャに、客室をもうひとつ用意してもらうね。","fr":"Oui, bonne idée.\nJe vais déjà demander à Nanacha de préparer une chambre de plus."}
+{"id":1544818,"jp":"ううぅ！外の世界には、こんなにも優しい方がたくさんいらっしゃるのですね！\n本当にありがとうございます……！","fr":"Oh… Je n'imaginais pas qu'il y avait tant de gens aussi gentils dans le monde extérieur !\nMerci du fond du cœur… !"}
+{"id":1544819,"jp":"今日はお疲れでしょう。ゆっくりお休みください。","fr":"Après une journée pareille, vous devez avoir besoin de repos. Dormez bien."}
 {"id":1544820,"jp":"少女の声","fr":"Voix d'une jeune fille"}
+{"id":1544821,"jp":"<size=22>お星さま……</size>","fr":"<size=22>Mon étoile…</size>"}
+{"id":1544822,"jp":"私の小さなお星さま……","fr":"Ma petite étoile à moi…"}
+{"id":1544823,"jp":"うれしい。すぐに私だってわかってくれたね。","fr":"Ça me fait plaisir. Tu m'as reconnue tout de suite."}
+{"id":1544824,"jp":"どうしてここに……？\n『無垢の海』ってところに、いるんじゃなかったの？","fr":"Qu'est-ce que tu fais ici… ?\nJe croyais que tu étais dans un endroit qu'on appelle la « mer de l'Innocence »."}
+{"id":1544825,"jp":"ふふっ、私はずっとあなたの心のなかにいるの。","fr":"Hi hi… Je suis avec toi depuis le début, au fond de ton cœur."}
+{"id":1544826,"jp":"いつだってあなたを見つめ、あなたの声に耳を傾け、\nあなたを感じているんだから。","fr":"Je te regarde, j'écoute ta voix,\net je sens ta présence à chaque instant."}
+{"id":1544827,"jp":"ますますわからなくなった……","fr":"Je comprends encore moins qu'avant…"}
+{"id":1544828,"jp":"じゃあ、どうしてここに来たの？","fr":"Alors, pourquoi t'es venue ici ?"}
+{"id":1544829,"jp":"そうね、ちょっとした夢のなかの素敵で不思議な巡り会い……というのはどう？","fr":"Voyons… Et si on disait que c'est une jolie rencontre, un peu mystérieuse, le temps d'un rêve ?"}
+{"id":1544830,"jp":"ふふっ、それはもちろん……","fr":"Hi hi… Eh bien, c'est parce que…"}
+{"id":1544831,"jp":"行こう、お星さま。あなたと一緒にこの世界を感じたいの。","fr":"Viens, mon étoile. J'ai envie de découvrir ce monde avec toi."}
+{"id":1544832,"jp":"ねえねえ！これはなに？","fr":"Oh, dis ! C'est quoi, ça ?"}
+{"id":1544833,"jp":"これはパン。さっきアビィに買ってあげたばかりだけど、\nあの子はすごくうれしそうに食べてたよ。","fr":"C'est du pain. Je viens d'en acheter à Abby.\nIl fallait voir comme elle était contente d'en manger !"}
+{"id":1544834,"jp":"いいなぁ……どんな味がするんだろう？","fr":"Oh, j'aimerais bien y goûter… Ça a quel goût ?"}
+{"id":1544835,"jp":"食べたいなら、買ってあげるよ。","fr":"Si tu veux goûter, je t'en achète."}
+{"id":1544836,"jp":"ううん、いまはまだ……食べられないの。","fr":"Non, je ne peux pas encore… Je ne peux pas en manger."}
+{"id":1544837,"jp":"えっとね……いまは同じ世界にいないから……","fr":"Tu vois… Pour l'instant, on n'est pas dans le même monde…"}
+{"id":1544838,"jp":"私にできるのは、あなたの目に自分の姿を映すことだけなの。","fr":"Tout ce que je peux faire, c'est apparaître à tes yeux."}
+{"id":1544839,"jp":"つまりね……いま、私の姿が見えているのはあなただけってこと。","fr":"Ça veut dire que pour l'instant… il n'y a que toi qui me vois."}
+{"id":1544840,"jp":"僕にしか見えないのか……|私にしか見えないんだ……","fr":"Il n'y a que moi qui te vois, alors…|Il n'y a que moi qui te vois, alors…"}
+{"id":1544841,"jp":"（たしかに……いまのこの子の姿はなんだかゆらゆらしていて、夢のなかの泡沫みたいだ）|（たしかに……いまのこの子の姿はなんだかゆらゆらしていて、夢のなかの泡沫みたい……）","fr":"(C'est vrai… Ses contours vacillent, comme une bulle sur le point d'éclater dans un rêve.)|(C'est vrai… Ses contours vacillent, comme une bulle sur le point d'éclater dans un rêve…)"}
+{"id":1544842,"jp":"（無垢の海にいた女の子が賑やかなマルシェで\n子どもみたいに笑って、はしゃいでる）","fr":"(La fille de la mer de l'Innocence, au milieu de la foule du marché…\nElle rit et s'amuse comme une gamine.)"}
+{"id":1544843,"jp":"（これが夢じゃなくて、現実だったらよかったのに……）","fr":"(Si seulement ça pouvait être vrai…)"}
 {"id":1544844,"jp":"（だって……）","fr":"(Parce que…)"}
+{"id":1544845,"jp":"（なんだか切なくなるくらい、うれしそうだ……）|（なんだか切なくなるくらい、うれしそう……）","fr":"(Elle a l'air si heureuse que ça me serre le cœur…)|(Elle a l'air si heureuse que ça me serre le cœur…)"}
+{"id":1544846,"jp":"（普通のひとみたいに、この世界を楽しんでいる。無垢の海でひとり……僕の物語を待っているんじゃなく……）|（普通のひとみたいに、この世界を楽しんでいる。無垢の海でひとり……私の物語を待っているんじゃなく……）","fr":"(Elle profite de ce monde comme n'importe quelle personne ordinaire. Si elle pouvait vivre comme ça au lieu d'attendre mes histoires, toute seule dans la mer de l'Innocence…)|(Elle profite de ce monde comme n'importe quelle personne ordinaire. Si elle pouvait vivre comme ça au lieu d'attendre mes histoires, toute seule dans la mer de l'Innocence…)"}
+{"id":1544847,"jp":"あっ、ぼーっとしてる！","fr":"Hé, t'es dans la lune !"}
+{"id":1544848,"jp":"だめよ、マルシェを巡るのは楽しいことなんだから。\nね、もっとたくさん見て回ろう？","fr":"Allez, on est au marché pour s'amuser !\nViens, il y a encore plein de choses à voir !"}
+{"id":1544849,"jp":"あっ！あそこのひと、めずらしい格好をしてるのね！","fr":"Oh, regarde les vêtements de cette personne, là-bas ! On n'en voit pas tous les jours !"}
+{"id":1544850,"jp":"ああ、暑い……ほんとに暑いわ……","fr":"Ah, quelle chaleur… Il fait vraiment trop chaud…"}
+{"id":1544851,"jp":"そこの方、本を見て行かない？","fr":"Vous, là-bas ! Vous voulez feuilleter quelques livres ?"}
 {"id":1544852,"jp":"本屋さんなのかな？","fr":"Une librairie, peut-être ?"}
+{"id":1544853,"jp":"あれだけ着こんだら、暑いのは当たり前だよね。\nここは見るからに温かい気候の場所だもの。","fr":"Avec tout ce qu'elle a sur le dos, forcément qu'elle a chaud.\nOn voit bien qu'ici, le climat est plutôt chaud."}
+{"id":1544854,"jp":"異国のひとみたいだから、祖国でそういう風習があるのかもしれないね。","fr":"Elle a l'air de venir d'ailleurs. C'est peut-être la coutume de s'habiller comme ça chez elle."}
+{"id":1544855,"jp":"うん、きっとそうね。この世界は本当にいろいろなひとがいて……\n彩りに満ちているもの。","fr":"Oui, sûrement. On croise tellement de gens différents dans ce monde…\nIl y a des couleurs partout."}
+{"id":1544856,"jp":"だから、あなたが話してくれるお話だって、\nあんなにおもしろくて、驚きに溢れているんだよね。","fr":"C'est sûrement pour ça que les histoires que tu me racontes\nme plaisent autant. Je ne sais jamais ce qui va se passer !"}
+{"id":1544857,"jp":"ね……私、すごく褒めてるの。\n喜んでもらえたらうれしいな！","fr":"Tu sais… c'est un compliment, tout ça.\nJ'espère que ça te fait plaisir !"}
+{"id":1544858,"jp":"うん、そんなふうに言ってもらえてうれしいよ。","fr":"Oui, ça me fait plaisir que tu me dises ça."}
+{"id":1544859,"jp":"ふふっ。ねぇ、ほかにはおもしろい場所はないかな？","fr":"Hi hi. Dis, tu connais d'autres endroits sympas ?"}
+{"id":1544860,"jp":"思いつく場所はぜんぶ連れて行ってあげよう。","fr":"Je vais te montrer tous les endroits qui me viennent à l'esprit."}
 {"id":1544861,"jp":"楽しそうだね。","fr":"Tu as l'air de bien t'amuser."}
+{"id":1544862,"jp":"もちろん。だって、あなたと一緒だもの。","fr":"Bien sûr. Puisque je suis avec toi."}
+{"id":1544863,"jp":"でも、あなたはなにか悩んでるんだね。","fr":"Mais il y a quelque chose qui te tracasse, hein ?"}
+{"id":1544864,"jp":"いいよ、約束だもの……\n役に立てるかわからないけど、悩みごとならなんでも聞いてあげる。","fr":"Vas-y, je te l'ai promis…\nJe ne sais pas si je pourrai t'aider, mais quoi que tu aies sur le cœur, je t'écoute."}
+{"id":1544865,"jp":"胸のうちを打ち明けるだけでも、気持ちが晴れるものでしょ？\nほら、話してみて。ね？","fr":"Rien que d'en parler, ça fait du bien, tu sais ?\nAllez, raconte-moi."}
+{"id":1544866,"jp":"どうして僕が星臨者なんだろう？|どうして私が星臨者なんだろう？","fr":"Pourquoi c'est moi, l'Enfant des étoiles ?|Pourquoi c'est moi, l'Enfant des étoiles ?"}
+{"id":1544867,"jp":"星臨者って、なにをすべきなの？","fr":"Qu'est-ce que je suis censé faire en tant qu'Enfant des étoiles ?"}
+{"id":1544868,"jp":"どうしてきみはずっと無垢の海にいるの？","fr":"Pourquoi tu restes tout le temps dans la mer de l'Innocence ?"}
+{"id":1544869,"jp":"それはね？この世界が導いた必然なの。","fr":"Tu vois, ce monde a fait en sorte que ça arrive. Il ne pouvait en être autrement."}
+{"id":1544870,"jp":"あなたが星臨者として、このプロミリア大陸に降臨したのは\nこの世界のみんなが望んだことなんだよ。","fr":"Si tu es venu sur le continent de Promilia en tant qu'Enfant des étoiles,\nc'est parce que tout le monde ici l'a souhaité."}
+{"id":1544871,"jp":"そのみんなにはね、あなた自身の望みも含まれているの。","fr":"Et quand je dis tout le monde, ça veut dire que toi aussi, tu l'as souhaité."}
+{"id":1544872,"jp":"僕自身の……望み？|私自身の……望み？","fr":"Moi… j'ai souhaité ça ?|Moi… j'ai souhaité ça ?"}
+{"id":1544873,"jp":"いまはまだ思い出せないかもしれない。\nでも、旅を続ければ、きっと思い出せるよ。","fr":"Pour l'instant, ça ne te dit peut-être rien.\nMais si tu poursuis ton voyage, ça te reviendra, j'en suis sûre."}
+{"id":1544874,"jp":"それに、ほかのだれかの口から願いごとを聞いたら、\n叶わなくなっちゃうもの。","fr":"Et puis, si quelqu'un d'autre te dit quel vœu tu as fait,\nil ne se réalisera pas."}
+{"id":1544875,"jp":"あなたはもう、星臨者として成すべきことをしてる。","fr":"Tu fais déjà ce que l'Enfant des étoiles est censé faire."}
+{"id":1544876,"jp":"だって、タナの願いを叶えてあげたじゃない。","fr":"Tu as bien exaucé le vœu de Tana, après tout."}
+{"id":1544877,"jp":"それにね、無垢の海を訪れて、私に物語を話すこと――\nそれだって、星臨者としての大切な役目なんだから！","fr":"Et venir me raconter tes histoires à la mer de l'Innocence…\nÇa aussi, ça fait partie de ton rôle d'Enfant des étoiles, et c'est important !"}
+{"id":1544878,"jp":"物語を話すことも？……本当に？","fr":"Raconter des histoires ? … Vraiment ?"}
 {"id":1544879,"jp":"ふふっ。","fr":"Hihi."}
+{"id":1544880,"jp":"やるべきことは、まだまだたくさんあるの！\nでも、それをひとつひとつ説明するのは、ちょっと難しいかな。","fr":"Il te reste encore plein de choses à faire !\nMais j'aurais du mal à te les expliquer une par une."}
+{"id":1544881,"jp":"そうね、どうしてかな。","fr":"Tiens, pourquoi donc ?"}
+{"id":1544882,"jp":"あなたたちみたいに、この大地を自由に巡って、\n自分の目でこの世界をたしかめる――","fr":"Parcourir ces terres en toute liberté comme vous le faites,\nvoir ce monde de mes propres yeux…"}
+{"id":1544883,"jp":"『永遠』にこんなふうに過ごせたらいいのに……って、思った？","fr":"Tu t'es dit que tu aimerais que ça dure « pour toujours »… c'est ça ?"}
+{"id":1544884,"jp":"ふふっ、なにも言わないってことは、そうなんだよね。","fr":"Hi hi, si tu ne réponds rien, c'est que j'ai vu juste."}
+{"id":1544885,"jp":"あなたには星臨者としてしなければならないことがある。\nそれと同じように、私にも使命があるの。","fr":"Tu as un rôle à jouer en tant qu'Enfant des étoiles.\nMoi aussi, j'ai une mission."}
+{"id":1544886,"jp":"この世界のすべてのものに、存在する意味がある……","fr":"Tout ce qui existe dans ce monde a sa raison d'être…"}
+{"id":1544887,"jp":"その意味を知ることこそ、旅の醍醐味だよね。","fr":"Et le plus beau, quand on voyage, c'est de découvrir laquelle, tu ne trouves pas ?"}
+{"id":1544888,"jp":"まだ見ぬものに心を躍らせて、自分の物語を綴っていくの。","fr":"On a le cœur qui bat à l'idée de ce qu'on va découvrir, et on écrit sa propre histoire au fil du voyage."}
+{"id":1544889,"jp":"僕が星臨者じゃなかったら……|私が星臨者じゃなかったら……","fr":"Si je n'étais pas l'Enfant des étoiles…|Si je n'étais pas l'Enfant des étoiles…"}
+{"id":1544890,"jp":"やめたいと思ったことはあるの？","fr":"Tu as déjà eu envie de tout laisser tomber ?"}
+{"id":1544891,"jp":"それはきっと、僕が決めていいことじゃないんだよね。|それはきっと、私が決めていいことじゃないんだよね。","fr":"J'imagine que ça ne dépend pas de moi, hein ?|J'imagine que ça ne dépend pas de moi, hein ?"}
+{"id":1544892,"jp":"だれが平穏な日常を守っているのか。\nその重荷を背負う者に、寄り添うのはだれなのか――","fr":"Qui veille sur la tranquillité de nos jours ?\nEt qui se tient aux côtés de ceux qui portent ce fardeau…"}
+{"id":1544893,"jp":"お星さま、この世界をよく見て。","fr":"Mon étoile, regarde bien ce monde."}
+{"id":1544894,"jp":"あなたが望む道は、きっとすぐそこにある。","fr":"Le chemin que tu veux prendre est sûrement tout près."}
+{"id":1544895,"jp":"僕の望む道……？|私の望む道……？","fr":"Le chemin que je veux prendre… ?|Le chemin que je veux prendre… ?"}
+{"id":1544896,"jp":"どういうこと？もっとはっきり教えて。","fr":"Qu'est-ce que tu veux dire ? Explique-moi."}
 {"id":1544897,"jp":"あれ……？どこに……","fr":"Hein… ? Où est…"}
+{"id":1544898,"jp":"いきなり現れて、いきなり消える……\n本当に気まぐれなんだから。","fr":"Elle surgit de nulle part et disparaît sans prévenir…\nElle n'en fait vraiment qu'à sa tête."}
+{"id":1544899,"jp":"答えは……自分で探すしかない、か……","fr":"Bon… Il va falloir que je trouve la réponse par moi-même…"}
+{"id":1544900,"jp":"あの子の言うとおり、きっと旅はまだまだ続くんだろうな。|あの子の言うとおり、きっと旅はまだまだ続くんだろうね。","fr":"Elle a raison. Il me reste sûrement encore pas mal de chemin à faire.|Elle a raison. Il me reste sûrement encore pas mal de chemin à faire."}
 {"id":1544901,"jp":"（ん……もう、朝？）","fr":"(Mm… déjà le matin ?)"}
+{"id":1544902,"jp":"（ぐっすり眠れたけど……まだ頭がぼんやりしてる……）","fr":"(J'ai dormi comme une souche… Mais j'ai encore la tête dans le brouillard…)"}
+{"id":1544903,"jp":"休息は十分。みんなを探しに行こう。","fr":"J'ai assez dormi. Je vais retrouver les autres."}
+{"id":1544904,"jp":"気持ちいいな……もうすこし眠ろう。","fr":"Qu'est-ce qu'on est bien… Je vais dormir encore un peu."}
 {"id":1544905,"jp":"おやすみ……","fr":"Bonne nuit…"}
+{"id":1544906,"jp":"貴賓室のベッドがあまりにも心地よすぎて、\n星臨者は夢のなかで安らかな一生を終えた。","fr":"Le lit de la chambre d'honneur était si douillet\nque vous avez fini vos jours en paix dans un rêve."}
+{"id":1544907,"jp":"なんだか、一生分の夢を見たような……","fr":"J'ai l'impression d'avoir vécu toute une vie en rêve…"}
+{"id":1544908,"jp":"こらぁ、{playerName}！そろそろ起きるのだ！\nもう太陽だってぱっちり目を覚ましてるんだぞ！","fr":"Hééé, {playerName} ! Debout, là-dedans !\nMême le soleil a déjà les yeux grands ouverts !"}
+{"id":1544909,"jp":"（ルミィ……？そろそろ起きて、みんなを探しに行こう）","fr":"(Lumi… ? Bon, il est temps de me lever et d'aller retrouver les autres.)"}
+{"id":1544910,"jp":"{playerName}さま、昨晩はゆっくりお休みになられましたか？\nどこか具合の悪いところは？","fr":"{playerName}, avez-vous bien dormi cette nuit ?\nVous sentez-vous mal quelque part ?"}
+{"id":1544911,"jp":"どうしたの、シンフォーリア？\nそんなに心配そうな顔をして。","fr":"Qu'est-ce qu'il y a, Symphoria ?\nTu as l'air toute inquiète."}
+{"id":1544912,"jp":"昨日、ディナーに呼んでも起きないくらいぐっすりだったし。\nシフォンは病気になったんじゃないかと心配してるのだ。","fr":"Hier, tu dormais si bien qu'on n'a même pas réussi à te réveiller pour le dîner.\nChiffon a peur que tu aies attrapé quelque chose."}
+{"id":1544913,"jp":"そうそう！あんなにおいしかったのにさ。\n食べそこねて損したな！","fr":"Eh oui ! Et qu'est-ce que c'était bon !\nT'as raté quelque chose !"}
+{"id":1544914,"jp":"昨夜は外に出かけてたよ。","fr":"Je suis allé prendre l'air hier soir."}
+{"id":1544915,"jp":"夢から目覚められなくなるとこだった。","fr":"J'ai bien cru que je n'arriverais pas à me réveiller."}
+{"id":1544916,"jp":"あれは、本当に夢だったのかな……","fr":"C'était vraiment un rêve, tout ça… ?"}
+{"id":1544917,"jp":"出かけていた？いいえ、昨晩はずっとお部屋にいたはずです。\nメイドの方々も外に出られたとは言っていませんでした。","fr":"Vous êtes sorti ? Pourtant, vous avez dû passer toute la nuit dans votre chambre.\nLes servantes ne m'ont signalé aucune sortie."}
+{"id":1544918,"jp":"夢でも見てたんじゃないか？\n昨日はラーガの突進を食らっても目覚めそうになかったのだ！","fr":"Tu as peut-être rêvé, tout simplement ?\nHier, même une ruée de Raga n'aurait pas suffi à te réveiller !"}
+{"id":1544919,"jp":"夢から目覚められなくなる？\nやはりどこか具合が悪いのですね！\n昨日、ルミィに振り回されたせいで……","fr":"Vous avez cru que vous n'arriveriez pas à vous réveiller ?\nVous voyez bien que quelque chose ne va pas !\nÀ force de vous faire courir partout hier, Lumi a dû vous épuiser…"}
+{"id":1544920,"jp":"えぇ！あたしのせいじゃないぞ？","fr":"Hein ? Mais la grande Lumi n'y est pour rien !"}
+{"id":1544921,"jp":"具合が悪いなら、アタシと療養院に行って、\nアニスに診てもらうのはどうだ？","fr":"Si tu te sens mal, viens avec moi à la maison de soins.\nOn demandera à Anais de t'examiner. Ça te va ?"}
+{"id":1544922,"jp":"（あの子と街を散歩した記憶がぼんやりあるけど……）","fr":"(Je me souviens vaguement d'avoir fait un tour en ville avec cette fille…)"}
+{"id":1544923,"jp":"（もしかして……本当に夢だったのかな……）","fr":"(Et si j'avais vraiment rêvé… ?)"}
+{"id":1544924,"jp":"大丈夫だよ、心配かけてごめんね。","fr":"Je vais bien. Pardon de t'avoir fait du souci."}
+{"id":1544925,"jp":"そう、ですか……？それならよかったです。\nナナチャさんにお願いして、朝食を用意していただきました。\n空腹のまま動きまわってお体を壊したら大変ですから。","fr":"Vous… en êtes sûr ? Tant mieux, alors.\nJ'ai demandé à Nanacha de vous préparer le petit déjeuner.\nÀ courir partout le ventre vide, vous finiriez par tomber malade."}
+{"id":1544926,"jp":"今日はなにか予定があるの？","fr":"On a quelque chose de prévu aujourd'hui ?"}
+{"id":1544927,"jp":"昨日、アニスにも予定を聞かれたな。\n特に急ぎの用がなければ、アタシは今日も療養院を手伝うつもりだけど。","fr":"Anais m'a posé la même question hier.\nS'il n'y a rien d'urgent, je compte retourner donner un coup de main à la maison de soins."}
+{"id":1544928,"jp":"もちろん、『終刻の風塁』に入る方法を探すに決まってるのだ！\nこのままじゃ毎日、アイオリアンのことばっかり考えちゃって、\n金麦穂カーニバルだって思う存分楽しめないぞ！","fr":"On va chercher comment entrer dans le bastion des Vents du Dernier Jour, évidemment !\nÀ ce rythme, la grande Lumi va penser à l'Éolien du matin au soir,\net elle ne pourra même pas profiter à fond du Carnaval de l'Épi doré !"}
+{"id":1544929,"jp":"ルミィ、領主さまのお話をもう忘れたんですか？\n金麦穂カーニバルの期間中は、余計なことをして問題を起こさないようにと\n言われたはずですよ。","fr":"Lumi, avez-vous déjà oublié les consignes du seigneur ?\nIl nous a demandé d'éviter les initiatives qui pourraient causer des ennuis\npendant le Carnaval de l'Épi doré."}
+{"id":1544930,"jp":"大丈夫だいじょーぶ！\n見つからないようにこっそり動けば――","fr":"Mais oui, mais oui, tout ira bien !\nIl suffit de se faufiler sans se faire voir et…"}
+{"id":1544931,"jp":"こっそり、なにをするつもりかな？","fr":"Et qu'est-ce que tu comptes faire en douce, au juste ?"}
+{"id":1544932,"jp":"<quake>うわぁっ！こらこら、なんでいつもびっくりさせるような\n登場の仕方をするのだ！</quake>","fr":"<quake>Aaah ! Mais enfin ! Pourquoi faut-il toujours que tu débarques\ncomme ça et que tu fiches la trouille à la grande Lumi ?</quake>"}
+{"id":1544933,"jp":"手持ち無沙汰にしているなら、頼みを聞いてくれないか？","fr":"Si tu as un moment, tu pourrais me rendre un service ?"}
+{"id":1544934,"jp":"はい、なんでもお申し付けください。","fr":"Bien sûr. Dites-nous ce qu'il vous faut."}
+{"id":1544935,"jp":"金麦穂カーニバルがいよいよ佳境を迎える。\n街の出入りする者もますます増えて、\n治安の維持がこれまで以上に難しくなるだろう。","fr":"Le Carnaval de l'Épi doré battra bientôt son plein.\nIl y aura de plus en plus de monde qui entrera et sortira de la ville.\nMaintenir l'ordre risque de devenir plus difficile que jamais."}
+{"id":1544936,"jp":"だが、今日は重要な使節を迎える予定があってね。\nそちらに時間を割く余裕がない。そこで、事件や事故を未然に防ぐために、\nコムギに街を見回ってもらおうと考えているんだが――","fr":"Or, je dois recevoir un émissaire de marque aujourd'hui.\nJe n'aurai pas le temps de m'en occuper. Pour éviter les incidents,\nje pensais demander à Komugi de faire une ronde en ville…"}
+{"id":1544937,"jp":"できれば、皆にこの子を手伝ってもらいたい。\nもちろん、相応の報酬は払うつもりだ。\n領主からの正式な依頼ととってくれて構わない。","fr":"Si possible, j'aimerais que vous lui donniez tous un coup de main.\nBien entendu, je compte vous payer comme il se doit.\nConsidérez ça comme une mission officielle de votre seigneur."}
+{"id":1544938,"jp":"ほかに大事な用があるなら、無理にとは言わないけど……","fr":"Si vous avez plus urgent à faire, je ne vais pas vous forcer…"}
+{"id":1544939,"jp":"つまり雑用をしろってことか？\nめんどーなのだ！","fr":"En gros, tu veux nous refiler les corvées ?\nLa grande Lumi trouve ça barbant !"}
+{"id":1544940,"jp":"ルミィ、領主さまにはいろいろとお世話になっています。\n私たちの力の及ぶ限り、お返しはすべきですよ。","fr":"Lumi, le seigneur nous a déjà beaucoup aidés.\nOn lui doit bien un coup de main, dans la mesure de nos moyens."}
+{"id":1544941,"jp":"私は問題ありません。\n{playerName}さまはいかがですか？","fr":"Pour ma part, j'accepte.\nEt vous, {playerName} ?"}
+{"id":1544942,"jp":"僕も問題ないよ。|私も問題ないよ。","fr":"Ça me va aussi.|Ça me va aussi."}
+{"id":1544943,"jp":"僕は反対かな。|私は反対かな。","fr":"Je préférerais qu'on refuse.|Je préférerais qu'on refuse."}
+{"id":1544944,"jp":"ご心配にはおよびませんよ、お嬢さま。\nこのような怠惰な方々などいないほうが、滞りなく進められるはずです。\nどうやら、この屋敷で食べて眠る以外、能もない方々のようですから。","fr":"Rassurez-vous, Mademoiselle.\nTout ira plus rondement sans ces tire-au-flanc.\nÀ les voir, ils ne savent que manger et dormir dans ce manoir."}
+{"id":1544945,"jp":"必要でしたら、領主さまをハーベストホールまで送ったのち、\n私がただちに戻りますので。どうかお任せください。","fr":"Au besoin, j'escorterai le seigneur jusqu'à la Halle des Moissons,\npuis je reviendrai aussitôt. Vous pouvez compter sur moi."}
+{"id":1544946,"jp":"{playerName}さま、街を巡回しながら進化教団の動向も確認できますし、\nここはやはり……","fr":"{playerName}, cette ronde nous permettrait aussi de surveiller les agissements du Culte de l'Évolution.\nJe pense que nous devrions accepter…"}
+{"id":1544947,"jp":"うん、そうだね……やっぱり一緒に行くことにしよう。","fr":"Oui, tu as raison… Tout compte fait, on va l'accompagner."}
+{"id":1544948,"jp":"ありがたい。それでは、コムギのことはよろしく頼む。","fr":"Merci. Je compte sur vous pour épauler Komugi."}
+{"id":1544949,"jp":"安心して、おばあさま！\n街の治安はわたしが守ってみせるよ。","fr":"Rassure-toi, grand-mère !\nJe vais te montrer que je sais faire régner l'ordre en ville !"}
+{"id":1544950,"jp":"ああ、期待しているよ。","fr":"Oui, je compte sur toi."}
 {"id":1544951,"jp":"うん、頑張るね！","fr":"Oui, je vais faire de mon mieux !"}
+{"id":1544952,"jp":"本当にありがとう。\n貴重な時間を割いてもらってごめんね。","fr":"Merci, vraiment.\nDésolée de vous prendre autant de temps."}
+{"id":1544953,"jp":"いいえ、お気になさらないでください。\nフリスの治安を守る人員が不足していることは、伺っています。\nお役に立てるのは光栄なことです。","fr":"Je vous en prie, ne vous en faites pas.\nOn m'a dit que Fleece manquait de monde pour maintenir l'ordre.\nC'est un honneur de pouvoir vous aider."}
+{"id":1544954,"jp":"はあぁ～せっかくのカーニバルが……","fr":"Pfff… La grande Lumi qui se faisait une joie de profiter du carnaval…"}
+{"id":1544955,"jp":"視察する場所はフリスの名所ばかりだから、\nついでに観光だってできるよ。","fr":"On va passer par les plus beaux coins de Fleece.\nVous pourrez en profiter pour visiter !"}
+{"id":1544956,"jp":"お気遣い、ありがとうございます。","fr":"Merci d'y avoir pensé."}
+{"id":1544957,"jp":"ううん！あ、そうだ。テララさんはもし嫌じゃなければ、\n今日も療養院のお手伝いをお願いしてもいいかな？","fr":"De rien ! Ah, au fait, Terara, si ça te dit,\ntu pourrais retourner donner un coup de main à la maison de soins aujourd'hui ?"}
+{"id":1544958,"jp":"あれ？アンタ、獣人語を話せるのか？","fr":"Hein ? Tu parles la langue des Furriens ?"}
+{"id":1544959,"jp":"うん！まえにね、キャスベルからすこし教えてもらったの。","fr":"Oui ! Cathbelle m'en a appris un peu, il y a quelque temps."}
+{"id":1544960,"jp":"アニスお姉ちゃんの療養院も最近は大忙しだから、\nすこしでも負担を減らせたらいいなって。","fr":"Ces temps-ci, Anais est débordée à la maison de soins.\nJe me suis dit que ça lui ferait du bien d'avoir un peu d'aide."}
+{"id":1544961,"jp":"ああ、もちろんいいぞ！アタシに任せとけ！","fr":"Ah bah oui, bien sûr ! Compte sur moi !"}
+{"id":1544962,"jp":"コムギは本当に偉いね。\nその若さで、こんなにしっかりしてて。","fr":"Tu m'impressionnes, Komugi.\nTu prends déjà de sacrées responsabilités pour ton âge."}
+{"id":1544963,"jp":"そんなこと。おばあさまに比べたらわたしなんてまだまだだよ……\nもっと頑張って、はやくおばあさまに追いつかなきゃ。","fr":"Oh, tu sais, j'ai encore du chemin à faire avant d'arriver à la cheville de grand-mère…\nIl faut que je me donne encore plus de mal si je veux vite la rattraper."}
+{"id":1544964,"jp":"ナナチャが用意した朝食は見るからにおいしそうだ。","fr":"Rien qu'à le voir, le petit déjeuner préparé par Nanacha vous met l'eau à la bouche."}
+{"id":1544965,"jp":"（濃厚なミルク、鼻をくすぐる麦の香り。\nシンゲツイモの甘さがほどよく溶け込んだ滑らかなくちどけ……）","fr":"(Le lait est bien crémeux, et le parfum du blé me chatouille le nez.\nÇa fond en bouche, avec juste ce qu'il faut de douceur grâce à la patate Nouvelle-Lune…)"}
+{"id":1544966,"jp":"（飲んだ瞬間、おなかがポカポカして、体の力が抜けていくような）","fr":"(Dès la première gorgée, j'ai chaud au ventre et je sens tout mon corps se détendre…)"}
+{"id":1544967,"jp":"お客さま、朝食はお口に合いましたでしょうか？","fr":"Le petit déjeuner vous a-t-il plu ?"}
 {"id":1544968,"jp":"おいしすぎるよ！","fr":"C'est trop bon !"}
+{"id":1544969,"jp":"ふふ、それならよかったです。\nお客さまは食にご興味がおありのようですから、\n今日の朝食のレシピをご用意しておきました。どうぞお受け取りください。","fr":"Hihi, j'en suis ravie.\nVous avez l'air d'apprécier la bonne cuisine,\nalors je vous ai préparé la recette du petit déjeuner de ce matin. Tenez."}
+{"id":1544970,"jp":"食材は手に入れやすいものばかりです。\nおなかが空かれたら、作ってみてくださいね。","fr":"Tous les ingrédients se trouvent facilement.\nLa prochaine fois que vous aurez faim, essayez donc la recette."}
+{"id":1544971,"jp":"わあ！昨日よりもっと騒がしくなってるぞ！","fr":"Waouh ! Ça fait encore plus de bruit qu'hier !"}
+{"id":1544972,"jp":"ずいぶん賑やかですね。お祭りらしい雰囲気です。","fr":"Quelle animation ! On sent que c'est la fête."}
+{"id":1544973,"jp":"で、この混雑のなかで見張りをするのか？\nそれはさすがにタイクツすぎるのだ！","fr":"Attends, on va devoir monter la garde au milieu de toute cette foule ?\nLa grande Lumi va mourir d'ennui !"}
+{"id":1544974,"jp":"ちがうよ。\n見張りが必要なのはここじゃなくて、広場の上なの。","fr":"Non.\nOn va monter la garde au-dessus de la place."}
+{"id":1544975,"jp":"広場の上？それってつまり……","fr":"Au-dessus de la place ? Tu veux dire…"}
+{"id":1544976,"jp":"うん、紹介しそびれちゃったけど、わかるよね――\nフリス上空にある、飛空船乗り場だよ。","fr":"Oui, j'ai oublié de vous en parler, mais vous avez sûrement deviné…\nLe port des dirigeables, là-haut, au-dessus de Fleece."}
+{"id":1544977,"jp":"飛空船乗り場はフリスで最も重要な施設のひとつなの。\nプロミリア大陸の各地からやってくる観光客のほとんどは、\nあそこからフリスに入ってくるんだよ。","fr":"Le port des dirigeables est l'un des endroits les plus importants de Fleece.\nDes visiteurs viennent de tout le continent de Promilia,\net la plupart arrivent à Fleece par là."}
+{"id":1544978,"jp":"乗客たちが降りて来るから、道をあけよう。","fr":"Les passagers vont descendre. Laissons-les passer."}
+{"id":1544979,"jp":"これが飛空船乗り場に上がるためのエレベータ。\n混雑を避けるために、金麦穂カーニバルの期間中は\n飛空船の搭乗券を持ってなきゃ乗れないの。","fr":"Voilà l'ascenseur qui monte au port des dirigeables.\nPour éviter la cohue pendant le Carnaval de l'Épi doré,\nil faut une carte d'embarquement pour le prendre."}
+{"id":1544980,"jp":"さあ、最初の視察場所に案内するよ。\nついでに、飛空船乗り場と飛空船の見学もしていってね。","fr":"Allez, je vous montre où commence la ronde.\nProfitez-en pour visiter le port et les dirigeables !"}
+{"id":1544981,"jp":"待つのだ！飛空船のなかも見なきゃいけないのか？","fr":"Attends ! Il faut aussi monter à bord des dirigeables ?"}
+{"id":1544982,"jp":"イヤだ、イヤだ、イヤなのだ～！\n飛空船だけは死んでも乗りたくないのだ！","fr":"Non, non, nooon !\nJamais la grande Lumi ne mettra les pieds dans un dirigeable, même sous la menace !"}
+{"id":1544983,"jp":"あの……ルミィさん……？","fr":"Euh… Lumi… ?"}
+{"id":1544984,"jp":"すみません……\nルミィは魔導技術を使った飛空船がすごく苦手で……","fr":"Excusez-la…\nLumi ne supporte vraiment pas les dirigeables qui utilisent la technologie magitech…"}
+{"id":1544985,"jp":"でも、フリスの飛空船は魔力をエネルギー源にしているはずです。\n魔導炉を積んだ飛空船より、ましなはずですよ。","fr":"Mais les dirigeables de Fleece tirent normalement leur Énergie de la magie.\nTu devrais mieux le supporter qu'à bord d'un dirigeable équipé d'un réacteur magitech."}
+{"id":1544986,"jp":"そ、それでもイヤなのだ！あたしは忠実なるアビィ派なのだ！","fr":"M-même comme ça, la grande Lumi refuse ! La grande Lumi est du côté d'Abby, un point c'est tout !"}
+{"id":1544987,"jp":"さすがのアビィもこの数は乗せられません……","fr":"Même Abby ne peut pas nous porter tous…"}
+{"id":1544988,"jp":"フリスから飛空船に乗って、ロースランサに帰ることも考慮しています。\n飛空船は大陸最速の乗りもの。利便性は侮れませんから。","fr":"J'envisage aussi de prendre un dirigeable à Fleece pour rentrer à Lors Lains.\nC'est le moyen de transport le plus rapide du continent. Ça nous ferait gagner du temps."}
+{"id":1544989,"jp":"それはそうだけど、それでも飛空船はイヤなのだ――","fr":"Oui, d'accord, mais la grande Lumi ne veut toujours pas monter dans un dirigeable…"}
+{"id":1544990,"jp":"妖精にとっては、泥のなかにいるよりも\nよっぽど気分が悪いものなのだ！","fr":"Pour une fée, c'est encore pire\nque de patauger dans la boue !"}
+{"id":1544991,"jp":"うーん、困りましたね……","fr":"Hmm… Comment allons-nous faire ?"}
+{"id":1544992,"jp":"ルミィは置いて行こう。","fr":"On n'a qu'à laisser Lumi ici."}
+{"id":1544993,"jp":"僕は飛空船にすごく興味がある！|私は飛空船にすごく興味がある！","fr":"Moi, j'ai trop envie de monter dans un dirigeable !|Moi, j'ai trop envie de monter dans un dirigeable !"}
+{"id":1544994,"jp":"でも、せっかくだし……","fr":"Mais tant qu'on est là…"}
+{"id":1544995,"jp":"ううっ……！ひどいぞ、{playerName}！\nルミィさまとの絆はこんな空に浮かぶガラクタにも\n勝てないくらい脆かったのか！？","fr":"Ouin… ! T'es vraiment sans cœur, {playerName} !\nTon Lien avec la grande Lumi compte si peu que ça ?\nIl suffit d'une ferraille volante pour le briser ?"}
+{"id":1544996,"jp":"いいか、ルミィさまの言うことをよーく聞くのだ。\n一度、飛空船に乗ったら、心も体も魔導技術に汚染される！\nそのうち、朽ち果てて歪んだモンスターになっちゃうのだ！","fr":"Écoute bien ce que te dit la grande Lumi.\nÀ peine à bord d'un dirigeable, la technologie magitech te contamine le corps et l'esprit !\nEt bientôt, tu vas pourrir sur place et te changer en monstre difforme !"}
 {"id":1544997,"jp":"そんな大げさな……","fr":"Tu exagères…"}
+{"id":1544998,"jp":"そんなに心配する必要ないよ。\nシンフォーリアさんの言う通り、フリスの飛空船は魔力で駆動してるの。","fr":"Tu peux te rassurer, Lumi.\nComme le disait Symphoria, les dirigeables de Fleece fonctionnent à la magie."}
+{"id":1544999,"jp":"ロジニア連邦の魔導技術に比べれば安全性は格段に向上してる。\n安心して乗れるはずだよ。","fr":"Ils sont beaucoup plus sûrs que les engins magitech de la Fédération de Roginia.\nTu devrais pouvoir monter l'esprit tranquille."}
+{"id":1545000,"jp":"やだやだやだ！行かないったら行かないー！","fr":"Non, non et non ! La grande Lumi a dit qu'elle n'irait paaas !"}
+{"id":1545001,"jp":"そっか……ごめんね。\nルミィさんがそこまで飛空船が苦手だったなんて。","fr":"Ah… Pardon, Lumi.\nJe ne savais pas que les dirigeables te faisaient si peur."}
+{"id":1545002,"jp":"コムギさんがお困りですよ、ルミィ。\nどうしても無理なら、ここで私たちを待っていてもらえますか？","fr":"Vous mettez Komugi dans l'embarras, Lumi.\nSi vous ne pouvez vraiment pas monter, pourriez-vous nous attendre ici ?"}
+{"id":1545003,"jp":"ううっ……シフォンまで……","fr":"Ouin… Même toi, Chiffon…"}
+{"id":1545004,"jp":"皆さん、飛空船に乗船されますか？","fr":"Vous souhaitez tous monter à bord d'un dirigeable ?"}
+{"id":1545005,"jp":"あら！コムギさん、今日はどうしたんです？","fr":"Oh, Komugi ! Qu'est-ce qui vous amène aujourd'hui ?"}
+{"id":1545006,"jp":"おばあさまの代わりに、飛空船乗り場のセキュリティを確認しにきたの。","fr":"Je viens faire le tour des mesures de sécurité de l'aérogare à la place de grand-mère."}
+{"id":1545007,"jp":"なるほど、そういうことですか。\nそれなら、全力で協力します。お上がりください。","fr":"Ah, je comprends.\nVous pouvez compter sur nous. Je vous en prie, montez."}
+{"id":1545008,"jp":"イヤだー！乗らないのだ！","fr":"Nooon ! La grande Lumi ne montera pas !"}
+{"id":1545009,"jp":"えっと……どうしても無理なら、みんなはここで待ってて。\nすこし待たせちゃうかもしれないけど……","fr":"Euh… Si c'est vraiment trop pour toi, vous pouvez tous m'attendre ici.\nJe risque d'en avoir pour un petit moment…"}
+{"id":1545010,"jp":"僕は乗りたい！|私は乗りたい！","fr":"Moi, je veux monter !|Moi, je veux monter !"}
+{"id":1545011,"jp":"せっかくなので、私も見学してみたいです。","fr":"Puisque l'occasion se présente, j'aimerais aussi visiter les lieux."}
+{"id":1545012,"jp":"あの、こちらの方々は？","fr":"Puis-je vous demander qui vous accompagne ?"}
+{"id":1545013,"jp":"おばあさまのお客さまなの。一緒に上がってもいい？","fr":"C'est grand-mère qui les a invités. Ils peuvent monter avec moi ?"}
 {"id":1545014,"jp":"ええ、もちろんです。","fr":"Oui, bien sûr."}
 {"id":1545015,"jp":"ううぅ――ええい！","fr":"Uuuh… bon, allez !"}
+{"id":1545016,"jp":"皆さま、フリス空港にようこそ。\nオジー旅団はお客さまにご満足いただけるよう常に心を配り、\n快適で安全な飛空船の旅をご提供いたします。","fr":"Bienvenue à l'aéroport de Fleece.\nLa brigade Ozzy veille à ce que chaque passager soit satisfait.\nÀ bord de nos dirigeables, vous voyagerez dans le confort et en toute sécurité."}
+{"id":1545017,"jp":"この飛空船乗り場は、フリスの市庁舎が運営しているのではないのですね？","fr":"Ah, je pensais que l'aérogare dépendait de la mairie de Fleece."}
+{"id":1545018,"jp":"うん、オジー旅団はフリスの商業団体のひとつでね。\nフリス中の飛空船の運営を担ってるんだ。由緒正しい家族経営の商会だよ。","fr":"La brigade Ozzy, c'est une des compagnies marchandes de Fleece.\nC'est une maison familiale de longue date, très respectée. Elle exploite tous les dirigeables de Fleece."}
+{"id":1545019,"jp":"飛空船の運営以外にも、飛空船の研究開発や建造を手掛けております。\nロージア帝国と共同で進めているビジネスも多いんですよ。","fr":"Nous concevons et construisons aussi nos dirigeables, et nous menons nos propres recherches.\nNous avons d'ailleurs plusieurs projets en commun avec l'Empire de Rosia."}
+{"id":1545020,"jp":"ここのスタッフたちとセキュリティの確認をするから、\nそのあいだは自由に飛空船乗り場を見学していてね。","fr":"Je vais faire le point sur la sécurité avec le personnel.\nEn attendant, vous pouvez visiter l'aérogare à votre guise."}
+{"id":1545021,"jp":"ここの空から見る景色、お気に入りなんだ。\n高い場所からフリスを見下ろすと、\n心まで青空みたいに澄み切ってすっきりするからね！","fr":"J'adore la vue qu'on a de là-haut.\nQuand tu vois Fleece tout en bas, tu respires enfin.\nTu as l'esprit aussi dégagé que le ciel !"}
+{"id":1545022,"jp":"どんな悩みを抱えていても、\nここに来れば綺麗さっぱり吹っ飛んじゃうよ。","fr":"Tu peux avoir tous les soucis du monde,\nil suffit de venir ici pour qu'ils s'envolent."}
+{"id":1545023,"jp":"ありがとうございます。では、また後ほど。","fr":"Merci beaucoup. À tout à l'heure."}
+{"id":1545024,"jp":"フリスの景観は本当に美しいですね。\nハイガーデンでもこうして空の上から大地を見下ろすことはありますが、\nこちらのほうがより世界の広さを感じられるような気がします。","fr":"Fleece est magnifique vue d'ici.\nÀ High Garden aussi, il nous arrive de contempler la terre depuis les airs,\nmais ici, je crois qu'on se rend mieux compte de l'immensité du monde."}
+{"id":1545025,"jp":"たしかに眺めは悪くないのだ。あの飛空船さえなければ……","fr":"La grande Lumi reconnaît que la vue vaut le coup d'œil. Si seulement il n'y avait pas ce dirigeable…"}
+{"id":1545026,"jp":"本来なら、もうハイガーデンに着いていたころですね……\n{playerName}さまと出会ってから、ずっと予想外のこと続きです。","fr":"Nous devrions déjà être à High Garden, à l'heure qu'il est…\nDepuis que je vous ai rencontré, {playerName}, les surprises se succèdent."}
+{"id":1545027,"jp":"計画が変化に追いつけないってヤツなのだ。\nでも、あたしはこんなふうに冒険しながら旅をするほうが好きだぞ！\nなんでもかんでも計画通りじゃつまらないのだ！","fr":"Forcément, les plans ont toujours un train de retard.\nEt la grande Lumi préfère les voyages où il arrive des aventures !\nSi tout se passe comme prévu, on s'ennuie à mourir !"}
+{"id":1545028,"jp":"はあぁ、ハイガーデンに戻ったら、またあのじじどもとにらめっこか。\nめんどーなのだ。","fr":"Pfff… De retour à High Garden, la grande Lumi va encore devoir supporter les regards de travers de ces vieux croûtons.\nQuelle barbe !"}
+{"id":1545029,"jp":"ハイガーデンに着いたらなにをするの？","fr":"Qu'est-ce qu'on fera en arrivant à High Garden ?"}
+{"id":1545030,"jp":"それは……私にもわかりません。\n私の使命は、あなたを無事にお連れするまでですから。","fr":"Eh bien… Je l'ignore moi aussi.\nMa mission s'achève dès que je vous aurai fait arriver à bon port."}
+{"id":1545031,"jp":"{playerName}さまには、もっと大事なお役目があるはずです。\n長老の方々がさきを見据えた計画を立てているでしょう。","fr":"Vous avez sûrement un rôle bien plus important à jouer, {playerName}.\nLes anciens ont sans doute déjà prévu la suite."}
+{"id":1545032,"jp":"あなたの護衛任務を終えたあとは、\n新しい任務を与えられ、見知らぬ遠い場所に向かうことになるかもしれません……","fr":"Une fois ma mission d'escorte terminée,\non me confiera peut-être une autre mission, quelque part très loin, en terre inconnue…"}
+{"id":1545033,"jp":"そうなったら、一緒にいられる時間はほとんどないでしょうね……","fr":"Si ça arrive, il ne nous restera sans doute guère de temps à passer ensemble…"}
+{"id":1545034,"jp":"こうして旅をするほうが好きだな。","fr":"Moi, je préfère voyager comme ça."}
+{"id":1545035,"jp":"シンフォーリアと一緒にいるほうが好きだな。","fr":"Moi, je préfère être avec toi, Symphoria."}
+{"id":1545036,"jp":"ルミィと一緒にいるほうが好きだな。","fr":"Moi, je préfère être avec toi, Lumi."}
+{"id":1545037,"jp":"未来のことはわからないけど、いまはこの目に映るものを大切にしたいな。","fr":"Je ne sais pas ce que l'avenir nous réserve. Pour l'instant, j'ai envie de profiter de ce qu'on a sous les yeux."}
+{"id":1545038,"jp":"あれ？シフォン、照れてるのだ？","fr":"Tiens ? Tu rougis, Chiffon ?"}
+{"id":1545039,"jp":"そ……そんなことは、ありません！\nただ、{playerName}さまがそんなふうに言ってくださるとは、\n思っていなかったので。","fr":"M… Mais pas du tout !\nC'est juste que je ne m'attendais pas\nà vous entendre dire ça, {playerName}."}
+{"id":1545040,"jp":"驚きましたが、とてもうれしかったです……\nあなたのお傍にいるあいだ、絶対に期待に背かないとお約束します。","fr":"Vous m'avez surprise, et ça m'a fait très plaisir…\nTant que je serai à vos côtés, je vous promets d'être à la hauteur de vos attentes."}
+{"id":1545041,"jp":"シンフォーリアはいつも気負いすぎだよ。","fr":"Symphoria, tu te mets toujours trop de pression."}
+{"id":1545042,"jp":"そうだぞ！こーいうときはもっと気軽に受け取ればいいのだ。","fr":"Mais oui ! Quand on te dit un truc gentil, tu peux juste en profiter, tu sais."}
+{"id":1545043,"jp":"うわぁ、どうしたのだ？いきなりそんな恥ずかしいこと言って。","fr":"Oh là ! Qu'est-ce qui te prend de dire des trucs aussi gênants, d'un coup ?"}
+{"id":1545044,"jp":"でも、そのとーりなのだ！\nルミィさまと一緒にいれば、毎日楽しいことばっかりだぞ！","fr":"Cela dit, t'as bien raison !\nAvec la grande Lumi, tu vas t'amuser tous les jours !"}
+{"id":1545045,"jp":"ハイガーデンに着いたって、このルミィさまがバックについてる！\n心配いらないのだ～","fr":"Même à High Garden, la grande Lumi sera là pour toi !\nAlors, arrête de t'en faire !"}
+{"id":1545046,"jp":"ええ、将来のことはだれもわかりません。\n大賢者さまの予言すら、完全にその通りになるかはわかりませんから。","fr":"Oui, personne ne sait de quoi demain sera fait.\nMême la prophétie du Grand Sage pourrait se réaliser autrement qu'il l'a prédit."}
+{"id":1545047,"jp":"だからこそ、こうしてたまに息抜きをしたり、\n思いっきり旅を楽しむことが、大事なのでしょうね。","fr":"Il faut sans doute savoir souffler de temps en temps, comme aujourd'hui,\net profiter du voyage tant qu'on le peut."}
+{"id":1545048,"jp":"私はもっといまこのときを――\n{playerName}さまと一緒にいられるこの時間を\n大切にすべきなのかもしれません。","fr":"Je devrais peut-être accorder plus de prix à ces moments…\nAu temps que j'ai la chance de passer\navec vous, {playerName}."}
+{"id":1545049,"jp":"あっ、{playerName}！あそこを見るのだ！","fr":"Oh, {playerName} ! Regarde là-bas !"}
+{"id":1545050,"jp":"なんか、こそこそしてるぞ。不審者っぽいのだ……","fr":"Il y a quelqu'un qui se cache… C'est louche."}
 {"id":1545051,"jp":"高所恐怖症かな？","fr":"Peut-être le vertige ?"}
 {"id":1545052,"jp":"おなかが痛いのかも。","fr":"Peut-être mal au ventre."}
+{"id":1545053,"jp":"受付の方に来ていただきましょう。\n助けが必要かもしれません。","fr":"Allons chercher quelqu'un à l'accueil.\nCette personne a peut-être besoin d'aide."}
+{"id":1545054,"jp":"うむ！シフォンは担当者を探してきて欲しいのだ。\nあたしたちで声をかけてみる。","fr":"Oui ! Chiffon, va chercher quelqu'un de l'aéroport.\nNous, on va essayer de lui parler."}
 {"id":1545055,"jp":"怪しい者","fr":"Individu suspect"}
+{"id":1545056,"jp":"<quake>きゃぁっ！！だ、だれよ！こそこそと！</quake>","fr":"<quake>Aaah ! Q-qui va là ? À vous faufiler comme ça !</quake>"}
+{"id":1545057,"jp":"なに言ってるのだ！\nこそこそしてるのはそっちだぞ！","fr":"Mais qu'est-ce que tu racontes !\nC'est toi qui te faufiles !"}
+{"id":1545058,"jp":"<quake>ふん、この魔眼に映らぬものはない！\nキミたちの正体は……ずばり、機関のエージェント！</quake>","fr":"<quake>Ha ! Rien n'échappe à mon œil démoniaque !\nJe sais qui vous êtes… Des agents de l'Organisation !</quake>"}
 {"id":1545059,"jp":"エージェント？","fr":"Des agents ?"}
+{"id":1545060,"jp":"あたしを捕まえようなんて、百朔はやいんだから！\n真紅の閃光は不滅よーー","fr":"Revenez dans cent lunes si vous voulez m'attraper !\nL'Éclair écarlate est immortelle…"}
 {"id":1545061,"jp":"消えちゃった……","fr":"Elle a disparu…"}
+{"id":1545062,"jp":"{playerName}さま！さきほどの方はどこに……？","fr":"{playerName} ! Où est passée la personne de tout à l'heure… ?"}
 {"id":1545076,"jp":"ナビゲーター・レイナ","fr":"Navigatrice Reina"}
 {"id":1545086,"jp":"アハハ、その通り！\nなかに入ってるのは、すべてフリスの葡萄園で醸造された上質なワインだよ。\n領主さまがロージア帝国の皇室のために、特別に用意された品だ。","fr":"Ha ha, tout juste !\nCe qu'il y a dedans, c'est du vin de qualité, tout entier produit dans les vignobles de Fleece.\nLe seigneur l'a fait préparer spécialement pour la famille impériale de l'Empire de Rosia."}
 {"id":1545092,"jp":"ルミィ、どうかした？","fr":"Lumi, qu'est-ce qui ne va pas ?"}
@@ -51445,9 +51745,109 @@
 {"id":1551649,"jp":"あ、もしかして、収穫が一瞬でできるようになったの？","fr":"Ah, tu as trouvé un moyen de faire les récoltes en un clin d'œil ?"}
 {"id":1551650,"jp":"いやいや、そんな話じゃなくてさ。最近、すごく怖いことがあったんだよ！","fr":"Mais non, rien à voir ! Il m'est arrivé un truc vraiment terrifiant dernièrement !"}
 {"id":1551651,"jp":"畑から骨でも出てきたの？","fr":"Tu as déterré des os dans les champs ou quoi ?"}
+{"id":1551652,"jp":"ううん、そんなもんじゃないよ――実はね……オイラのクワが、夢遊病になったんだ！","fr":"Non, rien à voir ! En fait… Ma houe est devenue somnambule !"}
+{"id":1551653,"jp":"へえ……それは怖いね。","fr":"Ah oui… Terrifiant, en effet."}
+{"id":1551654,"jp":"ちょっと、本当なんだよ！","fr":"Hé, je suis sérieuse !"}
+{"id":1551655,"jp":"だから言ったのだ。畑仕事にのめり込みすぎるなって。リリカのやつ、疲れすぎて幻覚が見えちゃってるのだ。","fr":"C'est pourtant ce que la grande Lumi t'avait dit ! Ne passe pas tout ton temps à faire des Travaux des champs. Lyrica est tellement fatiguée qu'elle commence à avoir des hallucinations !"}
+{"id":1551656,"jp":"幻覚じゃないって、妖精さん！あれは絶対に幻覚じゃないよ。","fr":"Mais ce ne sont pas des hallucinations, Dame Fée ! Je sais très bien ce que j'ai vu !"}
+{"id":1551657,"jp":"農具を入れてる宝物庫には何千本も農具があるけど、一本一本がどこに置いてあるのかも、その耐久性も全部ちゃんと覚えてるんだ。","fr":"Il y a des milliers d'outils agricoles dans ma salle aux trésors, mais je sais exactement où chacun est rangé et dans quel état il se trouve."}
+{"id":1551658,"jp":"……でも一昨日からなんだけど……畑のそばにあった古いクワの位置が、毎日変わってるんだ。しかも、きれいになってるんだよ。","fr":"… Seulement, depuis avant-hier, la vieille houe que j'avais laissée au bord du champ change de place tous les jours. Et en plus, elle est de plus en plus propre !"}
+{"id":1551659,"jp":"で今日、宝物庫に行ったら……クワがどこにもいないんだよ！なにが起きてるのかまだ全然調べてないのにさ。","fr":"Et aujourd'hui, quand je suis entrée dans ma salle aux trésors… Plus aucune trace de ma houe ! Alors que je n'ai même pas encore eu le temps d'élucider cette histoire !"}
+{"id":1551660,"jp":"ん？あのクワなら、ずっと干してあったぞ。あたしはてっきり、もう使わないものだと思っていたのだ。","fr":"Hmm ? Cette houe-là ? Elle était toujours dehors à prendre l'air. La grande Lumi pensait que tu ne t'en servais plus."}
+{"id":1551661,"jp":"実際、使ってないんだよ。修理するには高すぎるからね……","fr":"C'était effectivement le cas. Elle coûte trop cher à réparer…"}
+{"id":1551662,"jp":"でも、根性を鍛えるちょうどいい機会だと思ったから、毎日畑のそばでクワに風に当ててたんだよ。","fr":"Mais je me suis dit que c'était l'occasion idéale de lui forger le caractère. Alors, tous les jours, je la laissais affronter le vent au bord du champ."}
+{"id":1551663,"jp":"はじめて知ったよ。農具って根性があるんだね……","fr":"Tiens, j'apprends quelque chose… Les outils agricoles ont donc du caractère…"}
+{"id":1551664,"jp":"もちろんあるよ！農具には一本一本、自分の気性があるんだ。キボと同じさ。","fr":"Bien sûr ! Chaque outil a son propre tempérament. Exactement comme les Kibo !"}
+{"id":1551665,"jp":"でも今考えると……オイラが厳しすぎたせいなのかもね。それであの子がストレスをためて、夢遊病みたいに出歩くようになったのかも……","fr":"Mais maintenant que j'y pense… J'ai peut-être été trop sévère avec elle. À force de stresser, la pauvre a peut-être fini par faire des crises de somnambulisme…"}
+{"id":1551666,"jp":"はあ、やっぱりもっとはやく修理してあげるべきだったのかな……","fr":"Aaah… J'aurais vraiment dû la faire réparer plus tôt…"}
+{"id":1551667,"jp":"うーん……だれかがクワを持っていった可能性はないの？","fr":"Hmm… Et si quelqu'un avait tout simplement emporté ta houe ?"}
+{"id":1551668,"jp":"そんなこと、あるかな？あんなにたくさん農具があるのに、だれも使ってなさそうな古いクワをわざわざ持っていくなんてこと……","fr":"Tu crois ? Avec tous les outils qu'il y a ici, pourquoi quelqu'un irait prendre une vieille houe dont personne ne semble se servir ?"}
+{"id":1551669,"jp":"たしかにすこし変だね……","fr":"C'est vrai que ce serait un peu bizarre…"}
+{"id":1551670,"jp":"そうだ、昨日なんだけどさ、クワの刃のところに蜜の粉をまいたんだよ。ほら、クワが消えたら後を追おうと思ってね。ただ、そのあと農作業で手が離せなくなっちゃったんだけど……","fr":"Ah, au fait ! Hier, j'ai saupoudré la lame de ma houe de poudre de nectar. Je me suis dit que je pourrais suivre sa trace si elle disparaissait. Mais après, j'ai été tellement occupée par les travaux agricoles que je n'ai pas pu m'en charger…"}
+{"id":1551671,"jp":"蜜の粉っていうのは、花蜜から作った粉なのか？だったら、いまからでも追いかけることはできるぞ。あれは地面に2、3日は残るからな。","fr":"La poudre de nectar, c'est bien cette poudre fabriquée à partir du nectar des fleurs ? Dans ce cas, on peut encore suivre sa trace ! Elle reste au sol pendant deux ou trois jours."}
+{"id":1551672,"jp":"たしかに、追いかけられるね！オイラ、忙しすぎて頭が回ってなかったよ。","fr":"Mais oui, on peut encore la retrouver ! J'ai tellement de travail que je n'arrive même plus à réfléchir correctement."}
+{"id":1551673,"jp":"でも今日はオイラ、畑を耕すのを終わらせないといけないんだ。はやく「恩恵石」を使って、次の収穫に間に合わせたいからさ。","fr":"Sauf qu'aujourd'hui, je dois absolument finir de labourer le champ. Je voudrais utiliser rapidement la « Pierre de bienfait » pour que tout soit prêt à temps pour la prochaine récolte."}
+{"id":1551674,"jp":"だから、悪いんだけど、ボスと妖精さんにクワを探してきてもらうことになりそうで……","fr":"Alors, désolée, mais je vais devoir vous demander de retrouver ma houe, Chef et Dame Fée…"}
+{"id":1551675,"jp":"大丈夫。クワ探しは僕たちに任せて。ただ……『恩恵石』……ってなに？|大丈夫。クワ探しは私たちに任せて。ただ……『恩恵石』……ってなに？","fr":"Pas de problème, laisse-nous retrouver ta houe. Mais… C'est quoi, une « Pierre de bénédiction » ?|Pas de problème, laisse-nous retrouver ta houe. Mais… C'est quoi, une « Pierre de bénédiction » ?"}
+{"id":1551676,"jp":"えへへ……『恩恵石』は、オイラがおいしい食材を育てるための特別な特別な秘密なんだ。あとでボスにも教えてあげるよ。","fr":"Héhé… Les « Pierres de bénédiction », c'est mon secret très, très spécial pour faire pousser de délicieux ingrédients. Je t'en parlerai plus tard, Chef !"}
+{"id":1551677,"jp":"もったいぶるとは……なんだか妙に意味深なのだ……","fr":"Faire autant de mystères… Voilà qui est bien suspect…"}
+{"id":1551678,"jp":"まあいい。日々せっせと畑仕事をしていることに免じてルミィさまが一肌脱ぐのだ。さあ行くぞ、星臨者。夢遊病のクワを探しに行くのだ。","fr":"Enfin, soit ! Puisque tu te consacres chaque jour avec tant d'ardeur aux Travaux des champs, la grande Lumi veut bien te donner un coup de main. En route, Enfant des étoiles ! Partons à la recherche de cette houe somnambule !"}
+{"id":1551679,"jp":"蜜の粉の跡を見てみるね。うーん……クワは、村のほうへ向かっているのか？","fr":"Voyons un peu les traces de poudre de nectar. Hmm… La houe se serait dirigée vers le village ?"}
+{"id":1551680,"jp":"とにかく、まずは村に行ってみるのだ。","fr":"Quoi qu'il en soit, allons d'abord faire un tour au village !"}
+{"id":1551681,"jp":"おっ！星臨者、今日はどんな料理を作るんだ？\nアタシとウルが無料で味見してやるぞ？","fr":"Oh ! Enfant des étoiles, qu'est-ce que tu nous prépares de bon aujourd'hui ?\nUru et moi, on veut bien goûter gratuitement, tu sais !"}
+{"id":1551682,"jp":"つまみ食いのくせに、堂々としすぎなのだ。","fr":"Tu pourrais au moins avoir la décence de cacher que tu viens grappiller à manger !"}
+{"id":1551683,"jp":"いやそもそも、テララにかまってる暇は無いのだ。\n星臨者はこれから、超絶に重要で緊急の――「夢遊病のクワを追いかける」という任務があるのだ！","fr":"Enfin bref, la grande Lumi n'a pas de temps à perdre avec Terara.\nL'Enfant des étoiles doit accomplir une mission de la plus haute importance et d'une urgence absolue : « retrouver la houe somnambule » !"}
+{"id":1551684,"jp":"えっ……夢遊病の……なんだって？","fr":"Hein… ? Une quoi somnambule ?"}
+{"id":1551685,"jp":"そうか、キミたちは畑仕事のことをなにも知らないんだったな。\nよし星臨者、最初から説明してやるのだ。","fr":"Ah oui, c'est vrai que vous n'y connaissez rien aux Travaux des champs.\nBon, Enfant des étoiles, explique-leur tout depuis le début !"}
+{"id":1551686,"jp":"これまでの経緯をテララに説明した。","fr":"Vous avez expliqué à Terara toute l'histoire depuis le début."}
+{"id":1551687,"jp":"ぷっ……あはは！道具が夢遊病！？そんなわけないだろ！\n……あ、それとも、畑仕事っていうのはそれくらい不思議なもんなのか？","fr":"Pff… Ahahaha ! Un outil somnambule !? Mais ça n'existe pas, voyons !\n… À moins que les Travaux des champs ne soient vraiment aussi mystérieux que ça ?"}
+{"id":1551688,"jp":"……よし決めた。アタシも一緒に行くぞ。\nいったいなにが起きたのか、この目で見てやる。","fr":"… Bon, c'est décidé. Je viens avec vous !\nJe veux voir de mes propres yeux ce qui se passe."}
+{"id":1551689,"jp":"よお、星臨者、テララ。また狩りに出かけるのか？","fr":"Salut, Enfant des étoiles ! Salut, Terara ! Vous repartez à la chasse ?"}
+{"id":1551690,"jp":"ソール、ちょうど聞きたいことがあるんだどさ……","fr":"Sol, justement, j'avais un truc à te demander…"}
+{"id":1551691,"jp":"この二日間、なにか変なもの見なかったか？たとえば……その……夢遊病のクワとか……","fr":"Tu n'aurais rien vu de bizarre ces deux derniers jours ? Par exemple… Euh… Une houe somnambule, ou quelque chose comme ça…"}
+{"id":1551692,"jp":"おお、それなら見たぞ……！","fr":"Oh, mais oui, j'ai vu ça… !"}
 {"id":1551693,"jp":"え、クワを！？","fr":"Quoi, la houe !?"}
+{"id":1551694,"jp":"クワ？クワって何だぁ？","fr":"Une houe ? C'est quoi, une houe ?"}
+{"id":1551695,"jp":"……は？じゃあ、さっきの「おお」はなんだったんだよ！","fr":"… Hein ? Mais alors, pourquoi t'as dit que tu avais vu ça !?"}
+{"id":1551696,"jp":"あー……別の変なものを見たんだよぉ。","fr":"Ah… C'est que j'ai vu un autre truc bizarre."}
 {"id":1551697,"jp":"聞かせるのだ。","fr":"Raconte-nous."}
+{"id":1551698,"jp":"ここ二日ほど、村の近くに、大きな穴がいくつもできててよ。\n掘り返した後、埋め戻されてるんだよな。たぶん……だれかが宝探しをしているんだと思うんだが。","fr":"Depuis deux jours, de gros trous apparaissent un peu partout aux alentours du village.\nQuelqu'un les creuse, puis les rebouche. Je me dis que… quelqu'un doit chercher un trésor."}
+{"id":1551699,"jp":"宝探し？この辺りで？キボのフンくらいしか出てこないだろ。","fr":"Chercher un trésor ? Par ici ? À part des crottes de Kibo, y a rien à déterrer dans le coin !"}
+{"id":1551700,"jp":"キボのフンなんて掘るかぁ？\n掘り当てたものはキボのフンとは限らないんじゃないか？","fr":"Mais qui irait creuser pour trouver des crottes de Kibo ?\nSi quelqu'un a déterré quelque chose, ce n'étaient pas forcément des crottes de Kibo, tu sais."}
+{"id":1551701,"jp":"むっ……たしかに一理あるな。","fr":"Hmm… C'est vrai que tu marques un point."}
+{"id":1551702,"jp":"なにが「一理あるな」だ！なんの話をしてるのか全然分からないのだ、ぺっぺっ！","fr":"Mais quel point !? La grande Lumi ne comprend absolument rien à votre discussion ! Pouah, pouah !"}
+{"id":1551703,"jp":"コホン……とにかく言いたいことはそれだけだ。ソール、引き続き見張りを頼むぞ。","fr":"Ahem… Enfin bref, c'est tout ce que je voulais te dire. Sol, continue à monter la garde, je compte sur toi."}
+{"id":1551704,"jp":"ここには、これといった手がかりはなさそうだな。痕跡は村の外へ向かっているみたいだし、行ってみよう。","fr":"On dirait qu'il n'y a aucun indice intéressant par ici. Les traces semblent mener à l'extérieur du village. Allons voir."}
+{"id":1551705,"jp":"カタル、はやく起きろ。カータールー！","fr":"Katalua, réveille-toi ! Kaaataaaluaaa !"}
+{"id":1551706,"jp":"……ん、むう？テララ……と、星臨者さんとルミィさん！？","fr":"… Mmh, hein ? Terara… Et l'Enfant des étoiles et Lumi !?"}
+{"id":1551707,"jp":"どうしてみんなここにいるの？わ、わたし、なにかしちゃったの！？","fr":"Pourquoi vous êtes tous là ? J-J'ai fait quelque chose de mal !?"}
+{"id":1551708,"jp":"落ち着いて、カタル。ここはシャルル村の外れだけど、どうしてこんなところで寝ていたの？","fr":"Calme-toi, Katalua. On est à la périphérie du Village de Charlulu. Pourquoi tu dormais dans un endroit pareil ?"}
+{"id":1551709,"jp":"村の外れ？あっ、うそ……ちょっとだけ寝るつもりだったのに……","fr":"À la périphérie du village ? Oh non, c'est pas vrai… Je voulais juste faire une petite sieste…"}
+{"id":1551710,"jp":"なるほど……うん、わかるぞ。\nちょっとだけと思って寝てたのに、気づいたら寝過ごしてたってわけだな。","fr":"Ah, je vois… Ça, je comprends !\nTu te dis que tu vas dormir cinq petites minutes, et quand tu te réveilles, tu as complètement dépassé l'heure prévue."}
+{"id":1551711,"jp":"本当にごめんなさい……\n最近、昼は戦闘の訓練をして、夜は畑仕事の練習をしてたから、そのせいかも……","fr":"Je suis vraiment désolée…\nCes derniers temps, je m'entraîne au combat pendant la journée et je m'exerce aux Travaux des champs la nuit. C'est peut-être à cause de ça…"}
 {"id":1551712,"jp":"畑仕事の練習？","fr":"Exercice de travaux des champs ?"}
+{"id":1551713,"jp":"うん、夜に練習していたの……\nわたしもリリカさんみたいに、みんなの生活に役立つ食べ物を育てたくて……","fr":"Oui, je m'exerçais la nuit…\nJ'aimerais pouvoir cultiver de quoi nourrir tout le monde, comme le fait Lyrica…"}
+{"id":1551714,"jp":"なるほどなのだ。なかなか感心なのだ。","fr":"La grande Lumi comprend mieux. Voilà une intention tout à fait louable !"}
+{"id":1551715,"jp":"カタル、その畑仕事の練習は村の近くでしていたの？","fr":"Katalua, c'est près du village que tu t'exerçais aux Travaux des champs ?"}
+{"id":1551716,"jp":"うん。村外れのほうが広いかなって思って……それに、みんなの邪魔にもならないし。","fr":"Oui. Je me suis dit qu'il y aurait plus de place à l'extérieur du village… Et puis, comme ça, je ne gênerais personne."}
+{"id":1551717,"jp":"……ってことはまさか……最近村の近くにできた大穴って、全部カタルが！？","fr":"… Attends un peu… Ne me dis pas que tous ces énormes trous apparus près du village dernièrement, c'était toi, Katalua !?"}
+{"id":1551718,"jp":"大穴……あっ！ご、ごめんなさい！\n最初は、穴が深ければ深いほど、作物がよく育つと思ってたの……それで……","fr":"Les énormes trous… Ah ! J-Je suis désolée !\nAu début, je pensais que plus les trous étaient profonds, mieux les plantes pousseraient… Alors…"}
+{"id":1551719,"jp":"でも、リリカさんの畑をよく見てみたら、わかったの。\n植物は地下2パミーの深さからは育たないって……","fr":"Mais en observant attentivement le champ de Lyrica, j'ai fini par comprendre.\nLes plantes ne peuvent pas pousser à une profondeur de deux Pammy…"}
+{"id":1551720,"jp":"やっぱり、みんなに迷惑をかけちゃってたんだね！本当にごめんなさい……","fr":"J'ai vraiment fini par causer des ennuis à tout le monde ! Je suis tellement désolée…"}
+{"id":1551721,"jp":"なんだ、穴を掘りたいならはやくアタシに言ってくれよ！\nうちのウルは専門家だからな、1日10個くらい、楽勝だぞ！","fr":"Mais enfin, si tu voulais creuser des trous, fallait me le dire plus tôt !\nMon Uru est un véritable expert ! Une dizaine de trous par jour, c'est du gâteau pour lui !"}
+{"id":1551722,"jp":"余計なことを言うな、なのだ。","fr":"Toi, évite de lui donner de mauvaises idées !"}
+{"id":1551723,"jp":"ところで、カタルはどうしてリリカに畑のことを聞かなかったのだ？\nあいつはこの分野の専門家なのだぞ。","fr":"Au fait, Katalua, pourquoi tu n'as pas demandé conseil à Lyrica pour les Travaux des champs ?\nC'est une experte en la matière, tu sais !"}
+{"id":1551724,"jp":"聞こうとは思ったんだ……でも、リリカさんって毎日畑の世話ですごく忙しそうで、\n声をかけるタイミングが見つからなくて……それでちょっと気後れしちゃって……","fr":"J'y ai pensé… Mais Lyrica a toujours l'air tellement occupée à prendre soin de ses cultures…\nJe n'ai jamais trouvé le bon moment pour lui en parler… Et puis, je n'ai pas vraiment osé…"}
+{"id":1551725,"jp":"大丈夫だよ、カタル。僕も教えられるから。|大丈夫だよ、カタル。私も教えられるから。","fr":"Ne t'en fais pas, Katalua. Je peux aussi t'apprendre !|Ne t'en fais pas, Katalua. Je peux aussi t'apprendre !"}
+{"id":1551726,"jp":"えっ？星臨者さん、本当にいいの？","fr":"Hein ? Enfant des étoiles, ça ne te dérange vraiment pas ?"}
+{"id":1551727,"jp":"畑仕事なら僕の右に出る者はいないからね。|畑仕事なら私の右に出る者はいないからね。","fr":"Quand il s'agit des Travaux des champs, personne ne m'arrive à la cheville !|Quand il s'agit des Travaux des champs, personne ne m'arrive à la cheville !"}
+{"id":1551728,"jp":"ちょうど穴掘りを手伝ってくれる人が欲しかったところでね。|ちょうど穴掘りを手伝ってくれる人が欲しかったところなの。","fr":"Justement, je cherchais quelqu'un pour m'aider à creuser des trous.|Justement, je cherchais quelqu'un pour m'aider à creuser des trous."}
+{"id":1551729,"jp":"そうそう。それにあの畑はまだまだ開墾できるところがたくさんあるから、\n練習するにはちょうどいいぞ。","fr":"Exactement ! Et il reste encore plein de parcelles à défricher dans ce champ.\nC'est l'endroit idéal pour t'exercer !"}
+{"id":1551730,"jp":"うむ。毎日わざわざ人里離れた場所まで行くより、ずっと時間の節約になるのだ。","fr":"Tout à fait ! Tu gagneras bien plus de temps qu'en allant te perdre loin du village tous les jours."}
+{"id":1551731,"jp":"みんながそう言ってくれるなら……よろしくお願いするね、星臨者さん！","fr":"Puisque vous êtes tous d'accord… Alors, je compte sur toi, Enfant des étoiles !"}
+{"id":1551732,"jp":"よかったぁ……これでもう、クワを担いで遠くまで歩かなくて済むしね。","fr":"Quel soulagement… Je n'aurai plus besoin de marcher aussi loin avec ma houe sur l'épaule."}
+{"id":1551733,"jp":"そういえば……練習に使っていたクワはどこから持ってきたの？","fr":"Au fait… Où as-tu trouvé la houe que tu utilisais pour t'exercer ?"}
+{"id":1551734,"jp":"畑のそばで見つけたの。\nあの時、リリカさんにちょっと借りていいか聞きに行ったんだけど……すごく忙しそうで……","fr":"Je l'ai trouvée au bord du champ.\nJ'étais allée demander à Lyrica si je pouvais la lui emprunter un peu, mais elle avait l'air tellement occupée…"}
+{"id":1551735,"jp":"だから、置き手紙を残していったの。\n畑仕事を覚えたいから、このクワを数日だけ借りるね、って書いて。","fr":"Alors, je lui ai laissé un petit mot.\nJe lui expliquais que je voulais apprendre les Travaux des champs et que je lui empruntais sa houe pour quelques jours."}
+{"id":1551736,"jp":"そのあと、あまりにもボロボロだったから、おじさんに直してもらったんだ。\nせっかくだから、きれいにして返したいなと思って……","fr":"Ensuite, comme elle était vraiment en piteux état, j'ai demandé à un monsieur de la réparer.\nTant qu'à faire, je voulais aussi la nettoyer avant de la rendre…"}
+{"id":1551737,"jp":"そういうことだったのか……ということは、これで事件解決だな。\n『夢遊病のクワ』は見つかったわけだし！","fr":"Ah, c'était donc ça… Eh bien, affaire classée !\nOn a retrouvé notre fameuse « houe somnambule » !"}
+{"id":1551738,"jp":"……むう、発見？もしかして、みんなはこのクワを探しに来たの？\nリリカさんは置き手紙を見てないってこと！？","fr":"… Mmh, retrouvée ? Vous étiez tous venus chercher cette houe ?\nÇa veut dire que Lyrica n'a pas vu le mot que je lui avais laissé !?"}
+{"id":1551739,"jp":"置き手紙の話はしてなかったけど……\nカタルのキボ、口元に紙くずがついてるぞ？","fr":"Elle ne nous a pas parlé d'un petit mot, mais…\nDis donc, Katalua, ton Kibo a un morceau de papier collé au coin de la bouche !"}
+{"id":1551740,"jp":"あ、この紙切れ……キクギ！どうして食べちゃったの！？","fr":"Oh, ce bout de papier… Kikugi ! Pourquoi tu l'as mangé !?"}
+{"id":1551741,"jp":"あー……つまりメモを置いたそばから、コイツに食べられたってことか……","fr":"Aaaah… Autrement dit, à peine avais-tu posé ton petit mot que Kikugi l'avait déjà dévoré…"}
+{"id":1551742,"jp":"むうぅ……キクギったら……こうしてる場合じゃない。\nクワを持って、すぐにリリカさんに謝りに行かないと……！","fr":"Ouuuh… Sacrée Kikugi… Bon, ce n'est pas le moment de traîner.\nIl faut que je rapporte la houe à Lyrica et que je m'excuse auprès d'elle tout de suite… !"}
+{"id":1551743,"jp":"……って、クワは……？手元に置いてあったはずなのに！？","fr":"… Mais où est passée la houe… ? Pourtant, je l'avais posée juste à côté de moi !?"}
+{"id":1551744,"jp":"さっき周りを見たが、リリカのクワはこの近くにはなかったのだ。","fr":"La grande Lumi a déjà inspecté les environs. La houe de Lyrica n'est nulle part par ici."}
+{"id":1551745,"jp":"それに、蜜粉の痕跡もここで途切れているね。\n穴を掘っているときに落ちてしまったのかも。","fr":"Et les traces de poudre de nectar s'arrêtent ici aussi.\nLa poudre a peut-être fini par tomber pendant que tu creusais."}
+{"id":1551746,"jp":"そ、そんな……ちゃんと手元に置いていたのに。大変……大変だ……！","fr":"N-Non, c'est pas possible… Je l'avais pourtant gardée près de moi. Oh non… C'est la catastrophe… !"}
+{"id":1551747,"jp":"大丈夫、そこまで大した問題じゃないよ。\n蜜の粉が花蜜から作られているなら、必ず香りが残っているはずだ。|大丈夫、そこまで大した問題じゃないよ。\n蜜の粉が花蜜から作られているなら、必ず香りが残っているはずだしね。","fr":"Ne t'en fais pas, ce n'est pas si grave.\nSi la poudre de nectar est fabriquée à partir du nectar des fleurs, elle doit forcément avoir laissé une odeur.|Ne t'en fais pas, ce n'est pas si grave.\nSi la poudre de nectar est fabriquée à partir du nectar des fleurs, elle doit forcément avoir laissé une odeur."}
+{"id":1551748,"jp":"……つまり、ウルならきっと簡単に追える。そうだよね、テララ？","fr":"… Autrement dit, Uru devrait pouvoir suivre sa piste sans difficulté. Pas vrai, Terara ?"}
+{"id":1551749,"jp":"へへ、アタシも同じことを考えてたところだ。\nよし、ウル！蜜の粉の匂いを追うぞ！","fr":"Héhé, j'étais justement en train de penser à la même chose !\nAllez, Uru ! Suis l'odeur de la poudre de nectar !"}
+{"id":1551750,"jp":"ボス、それにみんな、おかえり！それで、オイラのクワは見つかった？","fr":"Chef ! Tout le monde est de retour, à ce que je vois ! Alors, vous avez retrouvé ma houe ?"}
+{"id":1551751,"jp":"リリカさん、本当にごめんね……！\nあなたのクワを持っていったの、わたしなの……全部わたしが勝手な行動をしたせいだったの！","fr":"Lyrica, je suis vraiment désolée… !\nC'est moi qui ai pris ta houe… Tout ça, c'est parce que j'ai agi sans réfléchir !"}
+{"id":1551752,"jp":"畑仕事を覚えたいからって、道端にあった古いクワを勝手に持っていって、\n毎晩こっそり練習して……本当にごめんなさい！","fr":"Je voulais apprendre les Travaux des champs, alors j'ai pris cette vieille houe au bord du chemin sans ta permission,\net je me suis exercée en cachette toutes les nuits… Je suis vraiment désolée !"}
+{"id":1551753,"jp":"もう絶対にしない！ど、どうか許して……リリカさん！","fr":"Je te promets que je ne recommencerai plus jamais ! J-Je t'en prie, pardonne-moi, Lyrica !"}
+{"id":1551754,"jp":"えっと……どういうこと？","fr":"Euh… De quoi tu parles, au juste ?"}
 {"id":1551780,"jp":"はい……！","fr":"Oui… !"}
 {"id":1551795,"jp":"……ウウゥ……","fr":"… Wuuh…"}
 {"id":1551803,"jp":"キボの排泄物なのだ。","fr":"Ce sont des déjections de Kibo."}
