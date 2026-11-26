@@ -15195,15 +15195,21 @@
 {"id":1511391,"jp":"<actionkey>GamepadUI/GamepadUI_West</actionkey> を押して、次は<color={highlight}>オーダーボード</color>を見てみましょう！","fr":"Appuyez sur <actionkey>GamepadUI/GamepadUI_West</actionkey> pour consulter maintenant le <color={highlight}>tableau des commandes</color> !"}
 {"id":1511392,"jp":"<color={highlight}>上昇率順に並べ替え</color>を押してください。","fr":"Appuyez sur <color={highlight}>Trier par taux de hausse</color>."}
 {"id":1511393,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>値上がり幅順に並べ替え</color>","fr":"<color={highlight}>Trier par hausse de prix</color> avec <actionkey>UI/Submit</actionkey>"}
+{"id":1511394,"jp":"<actionkey>GamepadUI/GamepadUI_L3</actionkey> で値上がり幅の並べ替え方式を選択","fr":"Sélectionner le mode de tri par hausse de prix avec <actionkey>GamepadUI/GamepadUI_L3</actionkey>"}
 {"id":1511395,"jp":"<actionkey>UI/Cancel</actionkey> でバッグに戻る","fr":"<actionkey>UI/Cancel</actionkey> pour revenir au sac"}
 {"id":1511396,"jp":"<color={highlight}>危機討伐</color>を押してください","fr":"Appuyez sur <color={highlight}>Traque des menaces</color>"}
+{"id":1511397,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>危機討伐</color>を開く","fr":"Ouvrir la <color={highlight}>Traque des menaces</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511398,"jp":"左側のリストで難易度を調整すると、いろんな難易度の依頼クエストを受けることができるぞ！","fr":"En réglant la difficulté dans la liste de gauche, on peut accepter des missions de toutes les difficultés !"}
+{"id":1511399,"jp":"依頼クエストと緊急委託任務の報酬を受け取るには、それぞれ<color={highlight}>晶鍵石</color>と<color={highlight}>異彩の晶鍵石</color>を消費する必要があるんだ。","fr":"Pour récupérer les récompenses des Missions et des missions d'urgence, vous devez utiliser respectivement des <color={highlight}>clés cristallines</color> et des <color={highlight}>clés cristallines Variante</color>."}
+{"id":1511400,"jp":"晶鍵石は<color={highlight}>毎週月曜日に5個自動回復</color>するけど、所持<color={highlight}>上限に達すると自動回復しなくなる</color>。","fr":"<color={highlight}>5 clés cristallines sont automatiquement restaurées chaque lundi</color>, mais <color={highlight}>la récupération automatique s'arrête lorsque la limite de possession est atteinte</color>."}
 {"id":1511401,"jp":"強敵だから、仲間を誘って挑戦したほうがいいけど……","fr":"Ce sont de redoutables adversaires, alors mieux vaut inviter des compagnons pour les affronter…"}
 {"id":1511402,"jp":"もちろん、ひとりで挑戦することもできるぞ！","fr":"Bien sûr, il est aussi possible de les affronter en solo !"}
 {"id":1511403,"jp":"ここには各エリアから集められたオーダーがあるんです。オーダーされた商品を用意できれば通常より高い報酬をもらえますよ。","fr":"Ici se trouvent les commandes rassemblées dans chaque zone. Si vous parvenez à préparer les produits commandés, vous obtiendrez une récompense supérieure à la normale."}
 {"id":1511404,"jp":"今回はただで荷物をあげちゃいます。エリアオーダーを1件達成してみましょう！","fr":"Cette fois, je vous offre les marchandises ! Essayons de terminer une commande de zone !"}
 {"id":1511405,"jp":"次は<color={highlight}>出荷箱</color>を見てみましょう！","fr":"Voyons maintenant la <color={highlight}>caisse d'expédition</color> !"}
+{"id":1511406,"jp":"<actionkey>MainInput/MainOpenNoviceTask</actionkey>で<color={highlight}>星旅の記録</color>を開いてください。","fr":"Ouvrez la <color={highlight}>Chronique du voyage stellaire</color> avec <actionkey>MainInput/MainOpenNoviceTask</actionkey>."}
 {"id":1511407,"jp":"<color={highlight}>星旅の記録</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Chronique du voyage stellaire</color>"}
+{"id":1511408,"jp":"<actionkey>GamepadUI/PageControllerQuickRoulette_DpadLeft</actionkey> で<color={highlight}>星旅の記録</color>を開く","fr":"Ouvrir la <color={highlight}>Chronique du voyage stellaire</color> avec <actionkey>GamepadUI/PageControllerQuickRoulette_DpadLeft</actionkey>"}
 {"id":1511409,"jp":"星旅の記録には、この世界で生き抜く術が記されてるんだ！","fr":"La Chronique du voyage stellaire consigne les moyens de survivre dans ce monde !"}
 {"id":1511410,"jp":"星旅の記録クエストをクリアすると、この世界についてもっと深く知ることができる！","fr":"Terminer les quêtes de la Chronique du voyage stellaire permet de mieux connaître ce monde !"}
 {"id":1511411,"jp":"ここは<color={highlight}>必修クエスト</color>だぞ。","fr":"Voici les <color={highlight}>quêtes obligatoires</color>."}
@@ -15217,15 +15223,20 @@
 {"id":1511419,"jp":"<color={highlight}>必修クエスト</color>を押してください","fr":"Appuyez sur <color={highlight}>Quêtes obligatoires</color>"}
 {"id":1511420,"jp":"<color={highlight}>クエスト追跡</color>を押してください","fr":"Appuyez sur <color={highlight}>Suivi des quêtes</color>"}
 {"id":1511421,"jp":"<color={highlight}>クエストへ向かう</color>を押してください","fr":"Appuyez sur <color={highlight}>Aller à la quête</color>"}
+{"id":1511422,"jp":"<actionkey>MainInput/MainEvade</actionkey> で<color={highlight}>回避</color>できます。","fr":"Vous pouvez effectuer une <color={highlight}>esquive</color> avec <actionkey>MainInput/MainEvade</actionkey>."}
 {"id":1511423,"jp":"押して<color={highlight}>回避</color>できます。","fr":"Appuyez pour <color={highlight}>esquiver</color>."}
 {"id":1511424,"jp":"押してキボグリッドを<color={highlight}>編集</color>する","fr":"Appuyer pour <color={highlight}>modifier</color> la grille des Kibo"}
+{"id":1511425,"jp":"<actionkey>GamepadUI/GamepadUI_West</actionkey> でキボグリッドを<color={highlight}>編集</color>","fr":"<color={highlight}>Modifier</color> la grille des Kibo avec <actionkey>GamepadUI/GamepadUI_West</actionkey>"}
 {"id":1511426,"jp":"キボグリッドの<color={highlight}>一括装備</color>を押してください","fr":"Appuyez sur <color={highlight}>Tout équiper</color> de la grille des Kibo"}
+{"id":1511427,"jp":"<actionkey>GamepadUI/GamepadUI_North</actionkey> でキボグリッドを<color={highlight}>一括装備</color>","fr":"<color={highlight}>Tout équiper</color> dans la grille des Kibo avec <actionkey>GamepadUI/GamepadUI_North</actionkey>"}
 {"id":1511428,"jp":"<color={highlight}>閉じる</color>を押してください","fr":"Appuyez sur <color={highlight}>Fermer</color>"}
 {"id":1511429,"jp":"編成完了後、<color={highlight}>キボを押す</color>と、そのまま謎解きを手伝ってもらえるのだ。","fr":"Une fois l'équipe composée, <color={highlight}>appuyer sur le Kibo</color> permet de lui faire aider tout de suite à résoudre l'énigme !"}
 {"id":1511430,"jp":"編成完了後、<color={highlight}>キボを選択する</color>と、そのまま謎解きに使用できます。","fr":"Une fois l'équipe composée, <color={highlight}>sélectionner le Kibo</color> permet de l'utiliser tout de suite pour résoudre l'énigme."}
 {"id":1511431,"jp":"さっそく試してみよう。","fr":"Essayons tout de suite."}
 {"id":1511432,"jp":"キボを編成すると、体勢ゲージに<color={highlight}>協力攻撃ポイント</color>が表示されます。","fr":"Quand vous composez une équipe de Kibo, des <color={highlight}>points d'attaque coopérative</color> s'affichent sur la Jauge de posture."}
+{"id":1511433,"jp":"体勢ゲージを協力攻撃ポイントまで削ると、<color={highlight}>キボ合撃</color>が発動し、一気に<color={highlight}>体勢ゲージを大幅に削り</color>ます。","fr":"Lorsque la Jauge de posture atteint un point d'attaque coopérative, une <color={highlight}>Attaque combinée de Kibo</color> se déclenche et <color={highlight}>réduit considérablement la Jauge de posture</color> en un instant."}
 {"id":1511434,"jp":"<color={highlight}>ゲーム内時間設定</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Réglage de l'heure du jeu</color>"}
+{"id":1511435,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>ゲーム内時間設定</color>を開く","fr":"Ouvrir les <color={highlight}>Paramètres de l'heure du jeu</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511436,"jp":"ここに<color={highlight}>現在の時間</color>が表示されてるのだ。","fr":"Ici s'affiche l'<color={highlight}>heure actuelle</color> !"}
 {"id":1511437,"jp":"押せば、時間をさっと進められるぞ。","fr":"Une simple pression permet de faire avancer le temps en un instant."}
 {"id":1511438,"jp":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> でクイックジャンプ","fr":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> pour le saut rapide"}
@@ -15249,24 +15260,38 @@
 {"id":1511456,"jp":"<color={highlight}>ボス絞り込み</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Filtrer les boss</color>"}
 {"id":1511458,"jp":"目当てのステージがない場合は、更新してみるといいぞ。","fr":"Si l'étape voulue n'apparaît pas, il vaut mieux essayer d'actualiser !"}
 {"id":1511459,"jp":"ここには星臨者さまに必要なお宝がたくさんありますよ！見ていってくださいね～！","fr":"Vous trouverez ici plein de trésors dont vous aurez besoin, Enfant des étoiles ! Venez jeter un œil ~ !"}
+{"id":1511460,"jp":"ここには星臨者さんに必要なお宝がいっぱいです。<actionkey>UI/Submit</actionkey> で中を見てみましょう。","fr":"Cet endroit regorge de trésors dont l'Enfant des étoiles aura besoin. Jetons un œil à l'intérieur avec <actionkey>UI/Submit</actionkey>."}
 {"id":1511461,"jp":"押して<color={highlight}>移動</color>してください。","fr":"Appuyez pour vous <color={highlight}>déplacer</color>."}
+{"id":1511462,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>ジャンプ</color>","fr":"<color={highlight}>Sauter</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511463,"jp":"ここにあるお宝は、どんぐりお宝探検隊がプロミリア各地を冒険して手に入れたものです。品揃えは豊富ですよ。","fr":"Les trésors ici ont été rapportés par la brigade des trésors du Gland lors de ses aventures aux quatre coins de Promilia. Le choix est vaste."}
 {"id":1511464,"jp":"私の商品はどれも本物のお宝！とってもお得ですよ。ぜひ、また来てくださいね。","fr":"Tous mes articles sont de véritables trésors ! Des prix très avantageux. Revenez nous voir."}
 {"id":1511465,"jp":"今回は無料ですよ！新規のお客さまへのサービスです！","fr":"C'est gratuit cette fois-ci ! Une offre réservée à notre nouvelle clientèle !"}
 {"id":1511466,"jp":"今後は「輝くコイン」を使って、いつでもお宝と交換できますからね。","fr":"Désormais, vous pourrez échanger des trésors à tout moment en utilisant la « Pièce scintillante »."}
+{"id":1511467,"jp":"<color={highlight}>バーチャルスティック</color>を使って、<color={highlight}>画面を移動</color>できるのだ。","fr":"Utilisez le <color={highlight}>joystick virtuel</color> pour <color={highlight}>déplacer la vue</color>."}
 {"id":1511468,"jp":"<color={highlight}>左スティック</color>で画面を移動できます","fr":"Le <color={highlight}>stick gauche</color> permet de déplacer l'écran"}
+{"id":1511469,"jp":"<color={highlight}>カメラ倍率コントローラー</color>をスライドすると、画面を<color={highlight}>ズームイン・ズームアウト</color>できる。","fr":"Faites glisser le <color={highlight}>curseur de zoom de la caméra</color> pour <color={highlight}>zoomer ou dézoomer</color>."}
 {"id":1511470,"jp":"チャレンジ中は異なる<color={highlight}>視点</color>に切り替えてウミィを探す必要があるのだ。","fr":"Pendant le défi, il faut passer à différents <color={highlight}>points de vue</color> pour chercher Umii !"}
+{"id":1511471,"jp":"<color={highlight}>左右の矢印</color>を押すと、<color={highlight}>視点の切り替え</color>ができるぞ。","fr":"Appuyez sur les <color={highlight}>flèches gauche et droite</color> pour <color={highlight}>changer de point de vue</color>."}
 {"id":1511472,"jp":"ここで<color={highlight}>視点の切り替え</color>ができます","fr":"Vous pouvez <color={highlight}>changer de point de vue</color> ici"}
+{"id":1511473,"jp":"<color={highlight}>ウミィを見つけた</color>ら、<color={highlight}>撮影ボタン</color>を押して撮影できる！","fr":"Une fois <color={highlight}>Umii trouvé</color>, appuyez sur le <color={highlight}>bouton de prise de vue</color> pour prendre une photo !"}
 {"id":1511474,"jp":"<color={highlight}>ウミィを発見</color>したら、撮影が可能です","fr":"Dès que vous avez <color={highlight}>trouvé Umii</color>, vous pouvez prendre une photo"}
 {"id":1511475,"jp":"どうだ！簡単じゃないか？","fr":"Alors ! C'est facile, non ?"}
 {"id":1511476,"jp":"それじゃあ、さっそく試してみるのだ～","fr":"Dans ce cas, essayons tout de suite ~"}
 {"id":1511477,"jp":"<color={highlight}>普通のステラカード</color>のレシピを押してください。","fr":"Appuyez sur la recette de la <color={highlight}>carte Stella ordinaire</color>."}
+{"id":1511478,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>ステラカード</color>のレシピを選択","fr":"Sélectionner la recette de la <color={highlight}>carte Stella</color> avec <actionkey>UI/Submit</actionkey>"}
+{"id":1511479,"jp":"<actionkey>GamepadUI/GamepadUI_R2</actionkey> で数量を<color={highlight}>MAX</color>にする","fr":"Régler la quantité sur <color={highlight}>MAX</color> avec <actionkey>GamepadUI/GamepadUI_R2</actionkey>"}
 {"id":1511480,"jp":"<color={highlight}>ステラカード</color>の製作完了までお待ちください。","fr":"Veuillez attendre la fabrication de la <color={highlight}>carte Stella</color>."}
 {"id":1511481,"jp":"<color=#91fff9>ステラカード</color>の製作完了までお待ちください。","fr":"Veuillez attendre la fabrication de la <color=#91fff9>carte Stella</color>."}
+{"id":1511482,"jp":"<actionkey>GamepadUI/PageControllerQuickRoulette_DpadRight</actionkey> で<color={highlight}>クイック生産</color>を選択","fr":"Sélectionner la <color={highlight}>Production rapide</color> avec <actionkey>GamepadUI/PageControllerQuickRoulette_DpadRight</actionkey>"}
+{"id":1511483,"jp":"二段ジャンプ後、再度ジャンプをタップすると<color={highlight}>キャベッコ</color>で<color={highlight}>飛行</color>できます","fr":"Après un double saut, appuyez de nouveau sur le bouton de saut pour <color={highlight}>voler</color> avec <color={highlight}>Cabbeco</color>"}
+{"id":1511484,"jp":"<actionkey>MainInput/MainJump</actionkey> で<color={highlight}>二段ジャンプ</color>","fr":"Effectuer un <color={highlight}>double saut</color> avec <actionkey>MainInput/MainJump</actionkey>"}
 {"id":1511485,"jp":"ジャンプボタンをタップして<color={highlight}>二段ジャンプ</color>","fr":"Touchez le bouton de saut pour effectuer un <color={highlight}>double saut</color>"}
+{"id":1511486,"jp":"もう一度<actionkey>MainInput/MainJump</actionkey> を押すと、キャベッコで<color={highlight}>飛行</color>できます。","fr":"Appuyez de nouveau sur <actionkey>MainInput/MainJump</actionkey> pour <color={highlight}>voler</color> avec Cabbeco."}
 {"id":1511487,"jp":"もう一度ジャンプボタンを押すと、キャベッコで<color={highlight}>飛行</color>できます。","fr":"Appuyez de nouveau sur le bouton de saut pour <color={highlight}>voler</color> avec Cabbeco."}
+{"id":1511488,"jp":"キャベッコで飛行中、<actionkeyhold>MainInput/MainFlyUp</actionkeyhold>を長押しすると<color={highlight}>飛行高度</color>を上げることができます。","fr":"Pendant un vol avec Cabbeco, maintenez <actionkeyhold>MainInput/MainFlyUp</actionkeyhold> pour augmenter votre <color={highlight}>altitude de vol</color>."}
 {"id":1511489,"jp":"キャベッコで飛行中、長押しすると<color={highlight}>飛行高度</color>を上げることができます。","fr":"En vol avec Cabbeco, un appui prolongé permet de gagner de l'<color={highlight}>altitude de vol</color>."}
 {"id":1511490,"jp":"<color={highlight}>一括投入</color>ボタンを押す","fr":"Appuyer sur le bouton <color={highlight}>Tout ajouter</color>"}
+{"id":1511491,"jp":"<actionkey>GamepadUI/GamepadUI_West</actionkey> で<color={highlight}>一括投入</color>","fr":"<color={highlight}>Tout ajouter</color> avec <actionkey>GamepadUI/GamepadUI_West</actionkey>"}
 {"id":1511492,"jp":"最後の試練に向けて、小玉さんの修行計画がはじまるよ！","fr":"Le plan d'entraînement de Xiaoyu en vue de la dernière épreuve commence !"}
 {"id":1511493,"jp":"戦略を立て、時間と資源を適切に配分し、小玉さんの各ステータスを高めて試練の日の戦闘に備えよう！","fr":"Établissons une stratégie, répartissons bien le temps et les ressources, et améliorons chaque statistique de Xiaoyu pour préparer le combat du jour de l'épreuve !"}
 {"id":1511495,"jp":"「修行」で小玉さんの各ステータスと<color={highlight}>「修行段階」</color>を高められる。","fr":"L'« Entraînement » permet d'améliorer chaque statistique de Xiaoyu ainsi que son <color={highlight}>« palier d'entraînement »</color>."}
@@ -15280,9 +15305,15 @@
 {"id":1511503,"jp":"法力は塗山一族の修行の基礎。法力を修習すると小玉さんの総合戦闘力が上昇するから、序盤の修行に適してるよ。","fr":"La magie est la base de l'entraînement du clan Tushan. Étudier la magie fait monter la puissance de combat globale de Xiaoyu : c'est idéal pour l'entraînement du début."}
 {"id":1511504,"jp":"初めての修行は<color={highlight}>法力</color>から始めましょう！","fr":"Pour le premier entraînement, commençons par la <color={highlight}>magie</color> !"}
 {"id":1511505,"jp":"<color={highlight}>法力の修行</color>を押してください。","fr":"Appuyez sur <color={highlight}>Entraînement de magie</color>."}
+{"id":1511506,"jp":"<color={highlight}>修行や休息</color>を行うと、右上の<color={highlight}>行動回数</color>を消費するから、状況に応じて適切に計画を立てるにゃ！","fr":"L'<color={highlight}>Entraînement et le repos</color> consomment les <color={highlight}>points d'action</color> affichés en haut à droite. Pensez à bien planifier vos activités selon la situation, nya !"}
 {"id":1511507,"jp":"浮世を遊歴し、よい縁を結ぶことも、塗山一族の修行試練において重要な一環です。","fr":"Voyager dans le monde et nouer de bons liens est aussi une étape importante de l'épreuve d'entraînement du clan Tushan."}
+{"id":1511508,"jp":"毎日の修行が終わると、フリスを遊歴し、さまざまな<color={highlight}>「奇遇」</color>に出会えます。","fr":"Une fois l'Entraînement quotidien terminé, vous pouvez parcourir Fleece et vivre diverses <color={highlight}>« Rencontres fortuites »</color>."}
+{"id":1511509,"jp":"小玉さんの<color={highlight}>法力</color>を高められるかもしれない<color={highlight}>「奇遇」</color>が目の前にあるね。","fr":"Une <color={highlight}>« Rencontre fortuite »</color> se présente à vous. Elle pourrait augmenter la <color={highlight}>Puissance spirituelle</color> de Xiaoyu."}
 {"id":1511510,"jp":"ボタンを押して<color={highlight}>「奇遇」に入って</color>みましょう！","fr":"Appuyez sur le bouton pour <color={highlight}>entrer dans les « Rencontres fortuites »</color> !"}
+{"id":1511511,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>「巡り合わせ」</color>に入ってみましょう！","fr":"Participons à cette <color={highlight}>« Rencontre du destin »</color> avec <actionkey>UI/Submit</actionkey> !"}
 {"id":1511512,"jp":"ボタンを押し、<color={highlight}>「行動力」</color>を消費して奇遇を開始しましょう！","fr":"Appuyez sur le bouton, dépensez des <color={highlight}>« Points d'action »</color> et lancez une rencontre fortuite !"}
+{"id":1511513,"jp":"<actionkey>UI/Submit</actionkey> で、<color={highlight}>「行動力」</color>を消費して巡り合わせを開始しましょう！","fr":"Utilisez <actionkey>UI/Submit</actionkey> pour dépenser des <color={highlight}>points d'action</color> et commencer la Rencontre du destin !"}
+{"id":1511514,"jp":"一部の奇遇イベントには、特定のステータス判定を含む<color={highlight}>判定選択肢</color>があります。","fr":"Certaines rencontres fortuites proposent des <color={highlight}>choix soumis à un test</color> portant sur une statistique particulière."}
 {"id":1511515,"jp":"判定の成否には、小玉さんの現在の修行ステータスが関係するんだ。","fr":"La réussite d'un test dépend des statistiques d'entraînement actuelles de Xiaoyu."}
 {"id":1511516,"jp":"法力の修行をしたいまの小玉さんなら、目の前の状況にも簡単に対処できる。判定選択肢を押してモフリーネを救おう！","fr":"Après son entraînement de magie, Xiaoyu fait désormais face sans peine à la situation. Appuyons sur un choix de test pour sauver Downybrinny !"}
 {"id":1511517,"jp":"<color={highlight}>確認</color>を押してください。","fr":"Appuyez sur <color={highlight}>Confirmer</color>."}
@@ -15293,6 +15324,7 @@
 {"id":1511522,"jp":"異なる集中方針を選ぶと、さまざまな修行効果や物語を体験できます。","fr":"En choisissant différentes orientations de concentration, vous découvrirez divers effets d'entraînement et histoires."}
 {"id":1511523,"jp":"最初の旅は<color={highlight}>「身を挺して世に入る」</color>から始めましょう！","fr":"Pour le premier voyage, commençons par <color={highlight}>« Entrer dans le monde en payant de sa personne »</color> !"}
 {"id":1511524,"jp":"<color={highlight}>確認</color>を押して修行を始めましょう！","fr":"Appuyez sur <color={highlight}>Confirmer</color> pour commencer l'entraînement !"}
+{"id":1511525,"jp":"修行すると<color={highlight}>スタミナ</color>を消費します。画面上部のスタミナゲージで現在のスタミナと気分を確認できます。","fr":"L'Entraînement consomme de l'<color={highlight}>endurance</color>. La jauge en haut de l'écran vous permet de consulter votre endurance actuelle et votre humeur."}
 {"id":1511526,"jp":"スタミナが低い場合、修行で「あまり効果がない」が発生する確率が上昇します。","fr":"Quand l'endurance est basse, la probabilité d'obtenir « Peu efficace » à l'entraînement augmente."}
 {"id":1511527,"jp":"そんな時は、小玉さんにしっかり<color={highlight}>休息</color>してもらうにゃ！","fr":"Dans ce cas, il faut que Xiaoyu prenne un bon <color={highlight}>repos</color>, nya !"}
 {"id":1511528,"jp":"<color={highlight}>戻る</color>を押してください。","fr":"Appuyez sur <color={highlight}>Retour</color>."}
@@ -15302,10 +15334,12 @@
 {"id":1511532,"jp":"まずはここを押して、小玉さんがこれまでに習得した新しい能力を確認しよう！","fr":"Pour commencer, appuyons ici pour voir les nouvelles capacités que Xiaoyu a acquises jusqu'ici !"}
 {"id":1511533,"jp":"修行ステータスが上がるにつれて、小玉さんは新しい能力を次々と習得するの。ここで詳細を確認できるにゃ！","fr":"À mesure que ses statistiques d'entraînement montent, Xiaoyu acquiert de nouvelles capacités les unes après les autres. Les détails se consultent ici, nya !"}
 {"id":1511534,"jp":"準備は整いました。勇気を出して試練の日に挑みましょう！","fr":"Tout est prêt. Prenons notre courage à deux mains et affrontons le jour de l'épreuve !"}
+{"id":1511535,"jp":"<color={highlight}>異なるステータス条件</color>を満たすと、<color={highlight}>異なるエンディング</color>が解放されます。","fr":"Remplir <color={highlight}>différentes conditions de statistiques</color> permet de débloquer <color={highlight}>différents dénouements</color>."}
 {"id":1511536,"jp":"今回は、小玉さんの<color={highlight}>『敵の退治」</color>エンディングを確認しよう！","fr":"Cette fois, regardons la fin <color={highlight}>« Chasse aux ennemis »</color> de Xiaoyu !"}
 {"id":1511537,"jp":"<color={highlight}>エンディングを見る</color>を押してください。","fr":"Appuyez sur <color={highlight}>Voir la fin</color>."}
 {"id":1511538,"jp":"修行中にたくさんの新しい仲間と出会えたね！","fr":"L'entraînement a permis de rencontrer tant de nouveaux compagnons !"}
 {"id":1511539,"jp":"ここを押して、小玉様がみんなと結んだ縁を確認しましょう！","fr":"Appuyons ici pour voir les liens que Xiaoyu a noués avec tout le monde !"}
+{"id":1511540,"jp":"<color={highlight}>締縁結</color>を使用すると、小玉さんと他の仲間の<color={highlight}>初期好感度</color>を上げられます","fr":"Utiliser <color={highlight}>Nouer les liens</color> permet d'augmenter l'<color={highlight}>affinité initiale</color> entre Xiaoyu et ses compagnons"}
 {"id":1511541,"jp":"なんどもプレイして、小玉さんにもっとたくさんの仲間と縁を結んでもらおう！","fr":"Jouons encore et encore pour que Xiaoyu noue des liens avec encore plus de compagnons !"}
 {"id":1511542,"jp":"栄光を象徴する<color={highlight}>「試練」</color>も解放されました。","fr":"Les <color={highlight}>« Épreuves »</color>, symbole de gloire, sont elles aussi débloquées."}
 {"id":1511543,"jp":"達成済みエンディングのステータスを使って、より高難易度の試練に挑戦してみるにゃ！","fr":"Essayons, avec les statistiques d'une fin déjà atteinte, de relever une épreuve de difficulté supérieure, nya !"}
@@ -15317,6 +15351,8 @@
 {"id":1511549,"jp":"小玉さんと縁を結んだ仲間が増えたよ！","fr":"Xiaoyu a noué des liens avec encore plus de compagnons !"}
 {"id":1511550,"jp":"出発前に、忘れずに仲間を招待して手伝ってもらうにゃ！","fr":"Avant de partir, il ne faut pas oublier d'inviter des compagnons pour qu'ils nous aident, nya !"}
 {"id":1511551,"jp":"見て。小玉さんと縁を結んだ仲間が助けに来てくれたにゃ！","fr":"Regardez : les compagnons qui ont noué des liens avec Xiaoyu sont venus à la rescousse, nya !"}
+{"id":1511552,"jp":"サポートキャラクターの<color={highlight}>好感度レベルが1以上</color>の時、確率で該当キャラクターの<color={highlight}>修習サポート</color>が発生します","fr":"Lorsque le <color={highlight}>niveau d'affinité atteint au moins 1</color>, le personnage de soutien a une chance de déclencher son <color={highlight}>soutien à l'Entraînement</color>"}
+{"id":1511553,"jp":"修行サポートは、今回の<color={highlight}>修習効果</color>を<color={highlight}>大幅に上昇</color>させます。","fr":"Le soutien à l'Entraînement <color={highlight}>augmente considérablement</color> l'<color={highlight}>efficacité de l'Entraînement</color> en cours."}
 {"id":1511554,"jp":"仲間の協力で、小玉さんがどんな修行成果を得たか見てみよう！","fr":"Voyons quels fruits de l'entraînement Xiaoyu a récoltés grâce à l'aide de ses compagnons !"}
 {"id":1511555,"jp":"星臨者！『天道の余塵』が開放されたのだ！さっそく見てみよう！","fr":"Enfant des étoiles ! La « Poussière de la Voie céleste » est débloquée ! Allons voir tout de suite !"}
 {"id":1511556,"jp":"『天道の余塵』では、再現されたかつての強敵を迎え撃つことになるのだ。","fr":"Dans la « Poussière de la Voie céleste », on affronte d'anciens adversaires redoutables recréés."}
@@ -15329,87 +15365,130 @@
 {"id":1511563,"jp":"挑戦する準備はできたか？","fr":"Tout est prêt pour relever le défi ?"}
 {"id":1511564,"jp":"よし、『創流の円環』に入って、最初の挑戦をはじめよう！","fr":"Très bien, entrons dans le « Cercle de la genèse » et lançons le premier défi !"}
 {"id":1511565,"jp":"『御霊の戦歌』には、段階的に難易度が上がるステージがあるのだ。","fr":"Le « Chant de guerre des Esprits anciens » propose des étapes dont la difficulté monte par paliers."}
+{"id":1511566,"jp":"ステージに挑戦すると<color={highlight}>流光の欠片</color>と<color={highlight}>育成素材</color>を獲得できる。難易度が高くなるほど報酬も豪華になるぞ。","fr":"Relever les défis des niveaux permet d'obtenir des <color={highlight}>fragments de lumière fluide</color> et des <color={highlight}>matériaux de progression</color>. Plus la difficulté est élevée, plus les récompenses sont généreuses."}
+{"id":1511567,"jp":"流光の欠片を消費して、<color={highlight}>星灯り交換所</color>で<color={highlight}>報酬と交換</color>できるのだ。","fr":"Vous pouvez dépenser des fragments de lumière fluide au <color={highlight}>Comptoir d'échange des lueurs stellaires</color> pour <color={highlight}>obtenir des récompenses</color>."}
+{"id":1511568,"jp":"毎日、<color={highlight}>最初の6回までステージ報酬を受け取る</color>と、<color={highlight}>追加の</color>流光の欠片を獲得できる。","fr":"Chaque jour, en <color={highlight}>récupérant les 6 premières récompenses de niveau</color>, vous obtenez des fragments de lumière fluide <color={highlight}>supplémentaires</color>."}
 {"id":1511569,"jp":"追加報酬を獲得できる回数は、ステージごとに毎日個別で計算されてるのだ。","fr":"Le nombre de récompenses supplémentaires obtenables se calcule chaque jour séparément pour chaque étape."}
 {"id":1511570,"jp":"導きの道のクエストを完了することでも、追加の流光の欠片を獲得できるぞ。","fr":"Terminer les quêtes du Chemin qui guide permet aussi d'obtenir des Fragments de lumière filante supplémentaires."}
 {"id":1511571,"jp":"押して<color={highlight}>採集プラン</color>を切り替えます。","fr":"Appuyer pour changer de <color={highlight}>plan de cueillette</color>."}
+{"id":1511572,"jp":"<actionkey>GamepadUI/GamepadUI_L3</actionkey> で<color={highlight}>採集プラン</color>を切り替えられます。","fr":"Vous pouvez changer de <color={highlight}>plan de collecte</color> avec <actionkey>GamepadUI/GamepadUI_L3</actionkey>."}
 {"id":1511573,"jp":"<color={highlight}>マウント</color>を獲得したのだ。さっそく試してみよう！","fr":"Vous avez obtenu une <color={highlight}>monture</color> ! Essayons-la tout de suite !"}
+{"id":1511574,"jp":"星臨者！ここでは現在のマップにいるすべてのキボファイトの<color={highlight}>ファイター</color>を見つけられるぞ。","fr":"Enfant des étoiles ! Vous trouverez ici tous les <color={highlight}>duellistes</color> de Duel de Kibo présents sur la carte actuelle."}
 {"id":1511575,"jp":"このファイターを<color={highlight}>選択</color>してみよう。","fr":"Essayons de <color={highlight}>choisir</color> ce Combattant."}
+{"id":1511576,"jp":"<actionkey>UI/Submit</actionkey> を押して、このファイターを<color={highlight}>選択</color>してください","fr":"Appuyez sur <actionkey>UI/Submit</actionkey> pour <color={highlight}>sélectionner</color> ce duelliste"}
+{"id":1511577,"jp":"ここではファイターの<color={highlight}>基本情報</color>と<color={highlight}>ファイターレベル</color>が確認できる。","fr":"Vous pouvez consulter ici les <color={highlight}>informations de base</color> et le <color={highlight}>niveau du duelliste</color>."}
 {"id":1511578,"jp":"<color={highlight}>推奨属性</color>のキボを使うと、楽に勝負を進められるはずだぞ。","fr":"Avec un Kibo de l'<color={highlight}>élément recommandé</color>, le duel devrait se dérouler plus facilement !"}
 {"id":1511579,"jp":"ファイターに勝利すると報酬も獲得できるのだ。","fr":"Vaincre un combattant permet aussi d'obtenir des récompenses."}
 {"id":1511580,"jp":"一部のキボファイトはまだ解放されてない。まずエリアレベルを上げる必要がある。","fr":"Certains Duels de Kibo ne sont pas encore débloqués. Il faut d'abord augmenter le niveau de zone."}
 {"id":1511581,"jp":"ここを押すと、いまいる場所の<color={highlight}>エリアレベル</color>を確認できる。","fr":"Appuyer ici permet de consulter le <color={highlight}>niveau de zone</color> de l'endroit où l'on se trouve."}
+{"id":1511582,"jp":"<actionkey>GamepadUI/GamepadUI_Option</actionkey> で、現在のエリアの<color={highlight}>エリアレベル</color>を確認できます。","fr":"Vous pouvez consulter le <color={highlight}>niveau de la zone</color> actuelle avec <actionkey>GamepadUI/GamepadUI_Option</actionkey>."}
 {"id":1511583,"jp":"ファイターに勝利すると<color={highlight}>エリアレベル経験値</color>を獲得できるのだ！","fr":"Vaincre un Combattant donne de l'<color={highlight}>EXP de niveau de zone</color> !"}
 {"id":1511584,"jp":"エリアレベルを上げると<color={highlight}>レベル報酬</color>を獲得できる。","fr":"Monter de niveau de zone donne des <color={highlight}>récompenses de niveau</color>."}
 {"id":1511585,"jp":"ここではマップをすぐに切り替えて、別のマップのファイターを探せるのだ。","fr":"Ici, on peut changer de carte instantanément pour chercher les Combattants d'une autre carte."}
 {"id":1511586,"jp":"今後はほかのプレイヤーと対戦するモードも解放される予定だぞ。","fr":"À l'avenir, un mode de duel contre d'autres joueurs sera aussi débloqué."}
 {"id":1511587,"jp":"このファイターの<color={highlight}>選択を解除</color>。","fr":"<color={highlight}>Désélectionner</color> ce Combattant."}
+{"id":1511588,"jp":"<actionkey>UI/Cancel</actionkey> でこのファイターの<color={highlight}>選択を解除</color>してください。","fr":"<color={highlight}>Désélectionnez</color> ce duelliste avec <actionkey>UI/Cancel</actionkey>."}
 {"id":1511589,"jp":"はじめてクリアした時は、初回クリア報酬を受け取ることができる。","fr":"La première fois qu'on termine une étape, on peut recevoir la récompense de première réussite."}
 {"id":1511590,"jp":"クリア時に達成したチャレンジ目標に応じた数の星を獲得できるぞ。","fr":"On obtient un nombre d'étoiles correspondant aux objectifs de défi atteints à la fin de l'étape."}
 {"id":1511591,"jp":"星の数が一定に達すると、追加報酬ももらえちゃうのだ！","fr":"Quand le nombre d'étoiles atteint un certain seuil, on reçoit aussi des récompenses supplémentaires !"}
 {"id":1511592,"jp":"クリアすると晦冥の星砂を獲得して、ショップで報酬と交換できる！","fr":"Terminer une étape donne du Sable stellaire des ténèbres, échangeable contre des récompenses à la boutique !"}
+{"id":1511593,"jp":"<actionkey>GamepadUI/PageControllerQuickRoulette_DpadUp</actionkey> で<color={highlight}>イベント</color>を開く","fr":"Ouvrir les <color={highlight}>Événements</color> avec <actionkey>GamepadUI/PageControllerQuickRoulette_DpadUp</actionkey>"}
 {"id":1511594,"jp":"<color={highlight}>キボの絆</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Lien avec les Kibo</color>"}
+{"id":1511595,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>キボの絆</color>を開く","fr":"Ouvrir le <color={highlight}>Lien des Kibo</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511596,"jp":"ここを押すと、すぐに私と取引することもできますよ！","fr":"Il suffit d'appuyer ici pour effectuer immédiatement des échanges avec moi !"}
 {"id":1511597,"jp":"<color={highlight}>スカイホークに騎乗</color>をタップ","fr":"Touchez <color={highlight}>Chevaucher Skyhawk</color>"}
 {"id":1511598,"jp":"大会で一位になるために、千代さんはもっと修行を重ねて、『朧影』の力を解放する必要があるんだにゃ！","fr":"Pour remporter la première place du tournoi, Chiyo doit s'entraîner encore davantage et libérer le pouvoir d'« Oborokage », nya !"}
 {"id":1511599,"jp":"戦略を立て、資源を適切に配分し、千代さんの各ステータスを高めて出征日の戦闘に備えるにゃ！","fr":"Établissons une stratégie, répartissons bien les ressources et améliorons chaque statistique de Chiyo pour préparer le combat du jour de l'expédition, nya !"}
+{"id":1511601,"jp":"ここには千代さんのいまの<color={highlight}>所持金</color>と<color={highlight}>借金</color>が表示されるにゃ。でも、焦らないでね。まずはこのユニで力をつけよう！","fr":"Vous trouverez ici les <color={highlight}>fonds disponibles</color> et la <color={highlight}>dette</color> actuelle de Chiyo, nya. Mais pas de panique. Utilisons d'abord ces Uni pour devenir plus forts !"}
 {"id":1511602,"jp":"大会で優勝して賞金を手に入れれば、千代さんならきっと借金を返せるにゃ！","fr":"En gagnant le tournoi et en empochant la prime, Chiyo pourra sûrement rembourser sa dette, nya !"}
+{"id":1511603,"jp":"『修行』で千代さんの各ステータスを伸ばすと、<color={highlight}>『ハンターレベル』</color>も上がるよ！","fr":"Améliorer les statistiques de Chiyo grâce à l'Entraînement augmente également son <color={highlight}>« niveau de chasseur »</color> !"}
 {"id":1511604,"jp":"千代さんは準備ができたみたい。さっそく今日の<color={highlight}>修行</color>をはじめよう！","fr":"Chiyo semble avoir fini ses préparatifs. Commençons tout de suite l'<color={highlight}>entraînement</color> du jour !"}
+{"id":1511605,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>修行</color>ボタンを選択","fr":"Sélectionner le bouton <color={highlight}>Entraînement</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511606,"jp":"ここでは、今回の<color={highlight}>修行方針</color>を選択できるよ。","fr":"Ici, vous pouvez choisir l'<color={highlight}>orientation d'entraînement</color> du moment."}
 {"id":1511607,"jp":"修行方針ごとに、対応するステータスが<color={highlight}>上昇</color>するんだ。","fr":"Selon l'orientation d'entraînement, la statistique correspondante <color={highlight}>augmente</color>."}
 {"id":1511608,"jp":"修行方針を選択すると、画面右側で今回の修行により上昇する予定のステータスと、総修行効果のボーナス倍率を確認できるからね。","fr":"En choisissant une orientation d'entraînement, vous voyez à droite de l'écran les statistiques censées augmenter grâce à cet entraînement, ainsi que le multiplicateur de bonus de l'effet d'entraînement total."}
 {"id":1511609,"jp":"修行中は、千代さんと知り合ったよき友やキボも加勢して、修行を助けてくれるよ。","fr":"Pendant l'entraînement, les bons amis et les Kibo que Chiyo a rencontrés lui prêtent aussi main-forte."}
+{"id":1511610,"jp":"今後の<color={highlight}>『遊歴』</color>と<color={highlight}>『よき友』</color>では、もっとたくさんのよき友やキボと巡り会って、親交を深められるにゃ！","fr":"Au fil des <color={highlight}>« Voyages »</color> et des <color={highlight}>« Bons amis »</color>, vous rencontrerez davantage d'amis et de Kibo avec lesquels approfondir vos liens, nya !"}
 {"id":1511611,"jp":"『朧影』の力を使いこなすには、まず<color={highlight}>『心眼』</color>を磨くのがおすすめにゃ！","fr":"Pour maîtriser le pouvoir d'« Oborokage », mieux vaut commencer par aiguiser son <color={highlight}>« Œil intérieur »</color>, nya !"}
 {"id":1511612,"jp":"最初の修行は<color={highlight}>『心眼』</color>からはじめよう！","fr":"Commençons le premier entraînement par l'<color={highlight}>« Œil intérieur »</color> !"}
 {"id":1511613,"jp":"<color={highlight}>「心眼」を修行</color>を押してください。","fr":"Appuyez sur <color={highlight}>Entraîner l'« Œil intérieur »</color>."}
+{"id":1511614,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>修習「心眼」を選択</color>","fr":"<color={highlight}>Sélectionner l'Entraînement « Œil intérieur »</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511616,"jp":"修行が終わったら、フリス各地を遊歴して、大会の狩猟クエストをクリアすることも重要だよ。","fr":"Une fois l'entraînement terminé, il est aussi important de voyager à travers Fleece et de terminer les quêtes de chasse du tournoi."}
 {"id":1511617,"jp":"狩猟クエストのほかに、遊歴中にはユニを稼げる絶好のチャンスもたっくさんあるにゃ！","fr":"Outre les quêtes de chasse, le voyage offre aussi plein d'excellentes occasions de gagner des Uni, nya !"}
 {"id":1511618,"jp":"『薄金鬼』が焦った様子で歩きまわってるね。きっと千代さんに大切なことを知らせたいんじゃないかな！","fr":"L'« Oni d'or pâle » marche en tous sens, l'air pressé. Il veut sûrement apprendre quelque chose d'important à Chiyo !"}
 {"id":1511619,"jp":"判定の成否には、千代さんの現在のステータスが関係してるの。","fr":"La réussite d'un test dépend des statistiques actuelles de Chiyo."}
 {"id":1511620,"jp":"心眼の修行をした千代さんなら、目のまえの状況にも簡単に対処できるにゃ。判定選択肢を押して試練に挑んでみよう！","fr":"Avec son entraînement de l'Œil intérieur, Chiyo peut facilement gérer la situation. Appuyons sur un choix de test pour relever l'épreuve, nya !"}
+{"id":1511621,"jp":"心眼の修行を経て、千代さんは目の前の状況にも余裕で対処できるようになったニャ。<actionkey>UI/Submit</actionkey> で選択肢の判定を行い、試練に挑みましょう～","fr":"Grâce à son Entraînement de l'Œil intérieur, Chiyo peut désormais faire face à la situation sans difficulté, nya. Utilisez <actionkey>UI/Submit</actionkey> pour effectuer le test associé au choix et relever l'épreuve !"}
 {"id":1511622,"jp":"さっきイベントで資金を獲得できたね。つぎは一緒にショップを見てまわろう！","fr":"Tout à l'heure, l'événement nous a rapporté des fonds. Allons maintenant faire un tour des boutiques ensemble !"}
 {"id":1511623,"jp":"<color={highlight}>買い物の道</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Chemin des achats</color>"}
+{"id":1511624,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>買いものの極意</color>を開く","fr":"Ouvrir les <color={highlight}>Secrets du shopping</color> avec <actionkey>UI/Submit</actionkey>"}
+{"id":1511625,"jp":"メイメイハウスでさっぱりした<color={highlight}>「クールパンナコッタ」</color>をひとつ食べると、集中をさっと高めることができるにゃ！","fr":"Déguster une <color={highlight}>« Panna cotta glacée »</color> à la maison Meimei permet de restaurer rapidement la Concentration, nya !"}
 {"id":1511626,"jp":"<color={highlight}>購入</color>を押して、おいしいお菓子を堪能しよう～","fr":"Appuyez sur <color={highlight}>Acheter</color> et régalez-vous de bonnes friandises ~"}
+{"id":1511627,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>購入</color>して、このおいしさを味わいましょう～","fr":"Effectuez l'<color={highlight}>achat</color> avec <actionkey>UI/Submit</actionkey> et savourez cette petite merveille !"}
 {"id":1511628,"jp":"旅先のイベントで資金を稼ぎ、ショップで商品を買えば、千代さんはもっと強くなれるよ！","fr":"En gagnant des fonds grâce aux événements en voyage et en achetant des produits à la boutique, Chiyo peut devenir encore plus forte !"}
 {"id":1511629,"jp":"旅先での選択や資金の使い道は、よーく考えるにゃ！","fr":"Il faut bien réfléchir aux choix en voyage et à la manière de dépenser son argent, nya !"}
 {"id":1511630,"jp":"ハンター大会で結果を出すには、厳しい修行と訓練が欠かせないにゃ……","fr":"Pour réussir au tournoi des chasseurs, un entraînement rigoureux est indispensable, nya…"}
 {"id":1511631,"jp":"大会主催者のひとりとして、このメイプルがお手伝いするよ～","fr":"Maple, l'une des organisatrices du tournoi, va donner un coup de main ~"}
 {"id":1511632,"jp":"<color={highlight}>出発</color>を押して、千代さんの修行の旅をはじめよう！","fr":"Appuyez sur <color={highlight}>Partir</color> pour commencer le voyage d'entraînement de Chiyo !"}
+{"id":1511633,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>旅立ち</color>を開き、千代さんの修行の旅を始めるニャ～","fr":"Ouvrez <color={highlight}>Départ</color> avec <actionkey>UI/Submit</actionkey> pour commencer le voyage d'Entraînement de Chiyo, nya !"}
 {"id":1511634,"jp":"異なる修行方針を選ぶと、いろんな修行効果や物語を体験できるよ。","fr":"En choisissant différentes orientations d'entraînement, vous découvrirez divers effets d'entraînement et histoires."}
 {"id":1511635,"jp":"最初の旅は<color={highlight}>『基本の構え』</color>からはじめよう！","fr":"Pour le premier voyage, commençons par la <color={highlight}>« Garde de base »</color> !"}
+{"id":1511636,"jp":"はじめての旅立ちは<color={highlight}>「基本の構え」</color>から始めましょう！<actionkey>UI/Submit</actionkey> で選択するニャ～","fr":"Commençons ce premier voyage avec la <color={highlight}>« Garde de base »</color> ! Sélectionnez-la avec <actionkey>UI/Submit</actionkey>, nya !"}
+{"id":1511637,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>確認</color>して修行を始めましょう！","fr":"<color={highlight}>Confirmez</color> avec <actionkey>UI/Submit</actionkey> pour commencer l'Entraînement !"}
+{"id":1511638,"jp":"修行すると<color={highlight}>集中</color>と<color={highlight}>資金</color>が消費される。画面上部で現在の集中値、資金、気分を確認できる。","fr":"L'Entraînement consomme de la <color={highlight}>Concentration</color> et des <color={highlight}>fonds</color>. Vous pouvez consulter votre Concentration actuelle, vos fonds et votre humeur en haut de l'écran."}
+{"id":1511639,"jp":"千代さんが<color={highlight}>『朧影』</color>で修行すると、うっかり訓練施設を壊して、追加の出費が発生することがある……","fr":"Lorsque Chiyo s'entraîne avec <color={highlight}>« Oborokage »</color>, il lui arrive de détruire accidentellement les installations d'Entraînement, entraînant des dépenses supplémentaires…"}
 {"id":1511640,"jp":"だから、『資金』が足りないと<color={highlight}>修行できない</color>にゃ……","fr":"C'est pourquoi, sans « fonds » suffisants, on <color={highlight}>ne peut pas s'entraîner</color>, nya…"}
+{"id":1511641,"jp":"集中値が低い場合、修行で<color={highlight}>『暗中模索』</color>が発生する確率が上昇しちゃうの！","fr":"Lorsque la Concentration est faible, la probabilité d'obtenir un résultat <color={highlight}>« Tâtonnement »</color> pendant l'Entraînement augmente !"}
 {"id":1511642,"jp":"そんな時は<color={highlight}>『大道芸』</color>で気分転換するといいにゃ～","fr":"Dans ce cas, mieux vaut se changer les idées avec un <color={highlight}>« Spectacle de rue »</color>, nya ~"}
+{"id":1511643,"jp":"『大道芸』では<color={highlight}>資金を稼ぐ</color>ことができるの。気分転換をして<color={highlight}>疲労を和らげる</color>こともできちゃうよ！","fr":"Les spectacles de rue permettent de <color={highlight}>gagner des fonds</color>. Ils permettent aussi de se changer les idées et d'<color={highlight}>atténuer la fatigue</color> !"}
 {"id":1511644,"jp":"立ち止まるのと怠けるるのは違うの。つぎに力を発揮するためなんだにゃ！","fr":"S'arrêter n'est pas paresser. C'est pour mieux donner sa force la fois suivante, nya !"}
 {"id":1511645,"jp":"<color={highlight}>大道芸</color>を押してください","fr":"Appuyez sur <color={highlight}>Spectacle de rue</color>."}
+{"id":1511646,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>大道芸</color>を選択","fr":"Sélectionner <color={highlight}>Spectacle de rue</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511647,"jp":"もう<color={highlight}>出征日</color>がやって来ちゃったね！","fr":"Le <color={highlight}>jour d'expédition</color> est déjà arrivé !"}
 {"id":1511648,"jp":"今日は千代さんが腕前を披露し、『凶獣』を狩る日！","fr":"Aujourd'hui, Chiyo va montrer son talent en chassant une « Bête maudite » !"}
 {"id":1511649,"jp":"まずはここを押して、千代さんがこれまでに習得した新しい剣技を確認しよう！","fr":"Pour commencer, appuyons ici pour voir les nouvelles techniques de sabre que Chiyo a acquises jusqu'ici !"}
 {"id":1511650,"jp":"まずは<actionkey>GamepadUI/GamepadUI_West</actionkey> で、千代さんがこの間にどんな新しい剣技を習得したか見てみましょう！","fr":"Pour commencer, <actionkey>GamepadUI/GamepadUI_West</actionkey> : voyons quelles nouvelles techniques d'épée Chiyo a apprises entre-temps !"}
+{"id":1511651,"jp":"修行を続けると、千代さんは<color={highlight}>新しい剣技を次々と習得</color>する。ここで詳細を確認できるにゃ。","fr":"En poursuivant son Entraînement, Chiyo <color={highlight}>apprend de nouvelles techniques de sabre les unes après les autres</color>. Vous pouvez consulter les détails ici, nya."}
 {"id":1511652,"jp":"準備は整った。勇気を出して、この出征に臨もう！","fr":"Tout est prêt. Prenons notre courage à deux mains et partons en expédition !"}
 {"id":1511653,"jp":"準備万端。勇気を出して、この出征に挑みましょう！<actionkey>UI/Submit</actionkey> で出征","fr":"Tout est prêt. Prenons notre courage à deux mains et partons en expédition ! <actionkey>UI/Submit</actionkey> pour partir en expédition"}
 {"id":1511654,"jp":"今回は、まずここを押して<color={highlight}>『抜刀』</color>エンディングを確認しよう。","fr":"Cette fois, appuyons d'abord ici pour voir la fin <color={highlight}>« Dégainer »</color>."}
+{"id":1511655,"jp":"<actionkey>GamepadUI/GamepadUI_West</actionkey> で<color={highlight}>エンディングに入る</color>","fr":"<color={highlight}>Accéder au dénouement</color> avec <actionkey>GamepadUI/GamepadUI_West</actionkey>"}
 {"id":1511656,"jp":"ハンター大会への参加を通じて、千代さんはたくさんのよき友と巡り会った。","fr":"En participant au tournoi des chasseurs, Chiyo a rencontré beaucoup de bons amis."}
 {"id":1511657,"jp":"<color={highlight}>良き友</color>ボタンを押してください。","fr":"Appuyez sur le bouton <color={highlight}>Bons amis</color>."}
+{"id":1511658,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>良き友</color>ボタンを選択","fr":"Sélectionner le bouton <color={highlight}>Bons amis</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511659,"jp":"<color={highlight}>『狩猟ポイント』</color>で、よき友たちに教えを請うことができるよ。","fr":"Avec les <color={highlight}>« points de chasse »</color>, on peut solliciter les enseignements des bons amis."}
 {"id":1511660,"jp":"初期ステータスのアップ、良き友の初期好感度の増加、新たなサポートの良き友の解放","fr":"Hausse des statistiques initiales, hausse de l'affinité initiale des bons amis, déblocage de nouveaux bons amis de soutien"}
 {"id":1511661,"jp":"なんどもプレイして、もっとたくさんの『狩猟ポイント』を獲得しよう！","fr":"Jouons encore et encore pour gagner encore plus de « points de chasse » !"}
+{"id":1511662,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>試練</color>を選択","fr":"Sélectionner <color={highlight}>Épreuves</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511663,"jp":"『試練』では、達成済みエンディングのステータスを使って、より強い獲物を狩れるんだにゃ！","fr":"Dans l'« Épreuve », on peut chasser de plus grosses proies grâce aux statistiques des fins déjà atteintes, nya !"}
+{"id":1511664,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>エンディングを使用</color>を選択","fr":"Sélectionner <color={highlight}>Appliquer le dénouement</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511665,"jp":"最終的な出征ポイントは冒険者ギルドのランキングに記録されるよ。試練の最終順位も忘れずに確認してね！","fr":"Les points d'expédition finaux sont enregistrés au classement de la Guilde des aventuriers. Pensez aussi à consulter le rang final de l'épreuve !"}
 {"id":1511666,"jp":"今回は、<color={highlight}>『居合』</color>を選択してみよう！","fr":"Cette fois, essayons <color={highlight}>« Iai »</color> !"}
 {"id":1511667,"jp":"千代さんが巡り会ったよき友が増えたよ。","fr":"Chiyo a rencontré de nouveaux amis précieux."}
 {"id":1511668,"jp":"出発前に、忘れずによき友を冒険へ誘うにゃ！","fr":"Avant de partir, il ne faut pas oublier d'inviter ses amis à l'aventure, nya !"}
 {"id":1511669,"jp":"見て。千代さんと知り合ったよき友が助けに来てくれたにゃ！","fr":"Regardez : les bons amis que Chiyo a rencontrés sont venus l'aider, nya !"}
+{"id":1511670,"jp":"良き友の<color={highlight}>好感度レベルが1以上</color>の時、確率で該当キャラクターの<color={highlight}>好感度サポート</color>が発生します","fr":"Lorsque le <color={highlight}>niveau d'affinité d'un ami atteint au moins 1</color>, ce personnage a une chance de déclencher son <color={highlight}>soutien d'affinité</color>"}
+{"id":1511671,"jp":"好感度サポートは、今回の修習の<color={highlight}>修行効果</color>を<color={highlight}>大幅にアップ</color>させます","fr":"Le soutien d'affinité permet une <color={highlight}>forte hausse de</color> l'<color={highlight}>efficacité de l'Entraînement</color> en cours"}
 {"id":1511672,"jp":"よき友の助けで千代さんがどんな修行の成果を得られるか、見に行こう！","fr":"Allons voir quels fruits de l'entraînement Chiyo obtient grâce à l'aide de ses bons amis !"}
 {"id":1511673,"jp":"冒険ギルドから新しい狩猟クエストが発行されたよ。確認しに行こう！","fr":"La Guilde des aventuriers a publié de nouvelles quêtes de chasse. Allons voir !"}
+{"id":1511674,"jp":"冒険者ギルドが新しい狩猟クエストを発行しました。<actionkey>UI/Submit</actionkey> で確認しに行きましょう！","fr":"La Guilde des aventuriers a publié une nouvelle quête de chasse. Allons la consulter avec <actionkey>UI/Submit</actionkey> !"}
 {"id":1511675,"jp":"迷跡の森の奥深くには封印された秘宝が隠されていて、強力なキボたちに守られてるの。","fr":"Au fond de la Forêt aux Traces perdues se cache un trésor scellé, protégé par de puissants Kibo."}
 {"id":1511676,"jp":"そんなキボを狩猟することが、ギルドから出された新しいクエストだよ。","fr":"Chasser ces Kibo est la nouvelle quête lancée par la Guilde."}
 {"id":1511677,"jp":"<color={highlight}>クエスト確認</color>を押してください","fr":"Appuyez sur <color={highlight}>Consulter la quête</color>."}
+{"id":1511678,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>クエストを確認</color>","fr":"<color={highlight}>Consulter la quête</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511679,"jp":"ただし、迷跡の森は危険だから、入って狩猟するには救助サービス付きの高級狩猟許可証を購入する必要があるの。","fr":"Mais la Forêt aux Traces perdues est dangereuse : pour y entrer et y chasser, il faut acheter un permis de chasse de luxe avec service de secours."}
 {"id":1511680,"jp":"この許可証を侮っちゃだめだにゃ。危険な時にすっごく役立つんだから！","fr":"Ne sous-estimez pas ce permis, nya. Il est vraiment très utile en cas de danger !"}
 {"id":1511681,"jp":"<color={highlight}>購入</color>を押してください","fr":"Appuyez sur <color={highlight}>Acheter</color>."}
+{"id":1511682,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>購入</color>","fr":"<color={highlight}>Acheter</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511683,"jp":"宝の地図はこの場所を示してるね。ボタンを押して、『行動力』を消費して狩りに向かおう！","fr":"La carte au trésor indique cet endroit. Appuyons sur le bouton, dépensons des « points d'action » et partons chasser !"}
 {"id":1511684,"jp":"宝の地図がこの地点を示しています。「行動力」を消費して狩猟に向かいましょう！","fr":"La carte au trésor indique ce point. Dépensez des « Points d'action » et partez chasser !"}
 {"id":1511685,"jp":"宝の地図にある宝物を見つけたら、まとまったユニと交換できるよ！","fr":"En trouvant le trésor de la carte, on peut l'échanger contre une belle somme d'Uni !"}
+{"id":1511686,"jp":"ショップに<color={highlight}>新商品</color>が入荷したよ。千代さんの初出征での勝利を祝って、見に行こう！","fr":"De <color={highlight}>nouveaux produits</color> sont arrivés en boutique. Allons les découvrir pour célébrer la victoire de Chiyo lors de sa première expédition !"}
 {"id":1511687,"jp":"ここを押して、<color={highlight}>『カラフルパレード団』</color>に入って！","fr":"Appuyez ici et entrez dans la <color={highlight}>« Troupe de la Parade multicolore »</color> !"}
+{"id":1511688,"jp":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> で、<color={highlight}>「カラフルパレード団」</color>に入ります","fr":"Accédez à la <color={highlight}>« Troupe de la Parade multicolore »</color> avec <actionkey>GamepadUI/GamepadUI_R1</actionkey>"}
+{"id":1511689,"jp":"『カラフルパレード団』では<color={highlight}>絵彩</color>、<color={highlight}>護符</color>、<color={highlight}>素晴らしい物語</color>を販売してるの。","fr":"La « Troupe de la parade colorée » vend des <color={highlight}>peintures</color>, des <color={highlight}>talismans</color> et de <color={highlight}>merveilleuses histoires</color>."}
+{"id":1511690,"jp":"ここの商品は<color={highlight}>能力を高めたり</color>、千代さんに<color={highlight}>一時的な幸運</color>をもたらしたりしてくれるんだ！","fr":"Les produits vendus ici permettent d'<color={highlight}>améliorer les capacités</color> de Chiyo ou de lui apporter une <color={highlight}>chance temporaire</color> !"}
+{"id":1511691,"jp":"<color={highlight}>『フリスのマルシェ』</color>の露店には、いろいろな<color={highlight}>修行効果とステータスを上昇させる商品</color>が隠されてるの。","fr":"Les étals du <color={highlight}>« Marché de Fleece »</color> regorgent de <color={highlight}>produits améliorant l'efficacité de l'Entraînement et les statistiques</color>."}
 {"id":1511692,"jp":"修行で使う刀掛けを強化すると、千代さんの心眼修行の効果が高まるよ！","fr":"Renforcer le porte-sabres utilisé pour l'entraînement augmente l'effet de l'entraînement de l'Œil intérieur de Chiyo !"}
 {"id":1511693,"jp":"星臨者の保証があれば、『フリスのマルシェ』で商品を購入するとき、さきに少額の手付金を支払うことができる。","fr":"Avec la garantie de l'Enfant des étoiles, on peut verser d'abord un petit acompte pour acheter des produits au « Marché de Fleece »."}
 {"id":1511694,"jp":"残りはつぎの出征後に払えばいいにゃ！","fr":"Le reste pourra être payé après la prochaine expédition, nya !"}
@@ -15417,11 +15496,15 @@
 {"id":1511696,"jp":"新たなスタートで、千代さんは<color={highlight}>新しい剣技</color>を解放したよ！","fr":"Avec ce nouveau départ, Chiyo a débloqué de <color={highlight}>nouvelles techniques de sabre</color> !"}
 {"id":1511697,"jp":"これらの剣技は<color={highlight}>『居合』</color>スタートのときだけ解放されるの。","fr":"Ces techniques de sabre ne se débloquent qu'en commençant par <color={highlight}>« Iai »</color>."}
 {"id":1511698,"jp":"うまく活用して、千代さんを大会最強の参加者に育てよう！","fr":"Utilisons-les bien pour faire de Chiyo la participante la plus forte du tournoi !"}
+{"id":1511699,"jp":"千代さん、<color={highlight}>『万物を剣とする』</color>エンディング達成おめでとう！でも、『凶獣ハンター大会』はまだ終わりじゃないにゃ～","fr":"Chiyo, félicitations pour avoir atteint le dénouement <color={highlight}>« Toute chose devient une lame »</color> ! Mais le Tournoi des chasseurs de Bêtes maudites n'est pas encore terminé, nya !"}
+{"id":1511701,"jp":"千代さんは<color={highlight}>初期資金が増え</color>、<color={highlight}></color>より難しい出征に挑むことになるよ！","fr":"Chiyo disposera de <color={highlight}>fonds de départ plus importants</color> et <color={highlight}></color>devra relever des expéditions encore plus difficiles !"}
 {"id":1511702,"jp":"準備を整えて、より高難易度の挑戦に立ち向かってみてね～","fr":"Préparez-vous bien, puis relevez un défi de plus haute difficulté ~"}
 {"id":1511703,"jp":"科学","fr":"Science"}
 {"id":1511704,"jp":"手帳","fr":"Carnet"}
 {"id":1511705,"jp":"特殊効果なし","fr":"Aucun effet spécial"}
 {"id":1511706,"jp":"騎士見習いのリリィだよ。まだまだ未熟だけど、よければ、わたしも同行させてくれないかな？\n","fr":"Je suis Lily, apprentie chevalière. Je manque encore d'expérience, mais si tu veux bien, me laisserais-tu t'accompagner ?\n"}
+{"id":1511707,"jp":"「罪禍を焼き払う灼熱の炎よ！深紅の勝鬨をもってこの戦に終焉を告げよう。闇を切り裂け――Das feuer des ehrgeiz！」……どうどう？銃を構えるときの決めセリフを考えてみたんだ♪イケてるでしょ？","fr":"« Ô flammes ardentes qui consument les péchés et les calamités ! Que le cri de victoire écarlate mette fin à cette bataille. Déchirez les ténèbres ! Das feuer des ehrgeiz ! »… Alors, alors ? J'ai inventé cette réplique pour le moment où je braque mon arme. Plutôt classe, non ?"}
+{"id":1511708,"jp":"葉脈は、あなたと私が出会うことを予告していたのね。私はメーツァ、ある小さな土地を守る者よ。長い旅になるけれど、花々が咲き誇る旅の果てまで、あなたとともに歩めることを願うわ。","fr":"Les nervures des feuilles avaient prédit notre rencontre. Je suis Metsa, gardienne d'une petite contrée. Le voyage sera long, mais j'espère pouvoir marcher à vos côtés jusqu'au bout du chemin, là où les fleurs s'épanouissent pleinement."}
 {"id":1511709,"jp":"間に合いました……！シャルと申します。これからお供させてください。必ずやあなたのお役に立ちます。\n","fr":"J'ai pu arriver à temps… ! Je m'appelle Shalle. Permettez-moi de vous accompagner désormais. Je vous serai certainement utile.\n"}
 {"id":1511710,"jp":"非表示","fr":"Masqué"}
 {"id":1511711,"jp":"桃玉の薫香","fr":"Parfum de pêche et de jade"}
@@ -15431,12 +15514,17 @@
 {"id":1511717,"jp":"新規イラスト、新規モデル","fr":"Nouvelle illustration, nouveau modèle"}
 {"id":1511718,"jp":"武器衣装","fr":"Tenue d'arme"}
 {"id":1511719,"jp":"シンフォーリアの初期衣装。","fr":"Tenue initiale de Symphoria."}
+{"id":1511720,"jp":"森の木々を揺らす、遠い風の囁きが届く。\n「いま頬を撫でていった風は、ずいぶんと遠くから来たようですね……ロースランサからでしょうか……」","fr":"Le murmure d'un vent lointain vous parvient, faisant frémir les arbres de la forêt.\n« La brise qui vient d'effleurer ma joue semble venir de très loin… Peut-être de Lors Lains… »"}
 {"id":1511721,"jp":"優雅で幻想的な、シンフォーリア専用の衣装。","fr":"Une tenue élégante et féerique réservée à Symphoria."}
+{"id":1511722,"jp":"清らかな夜、寄り添う睡蓮の合間を縫って、揺れる波紋が幽雅な香りを放つ。\n「風の声が聞こえますか？ふたりで湖水をひとすくいしたら、月が私たちの手に浮かぶと……囁いています」","fr":"Par une nuit limpide, les ondulations de l'eau se faufilent entre les nénuphars serrés les uns contre les autres, exhalant un parfum délicat.\n« Entendez-vous la voix du vent ? Il murmure que si nous recueillons ensemble un peu d'eau du lac, la lune flottera entre nos mains… »"}
 {"id":1511723,"jp":"雲間の青空","fr":"Ciel bleu entre les nuages"}
 {"id":1511724,"jp":"アビィの初期衣装。","fr":"Tenue de base d'Abby."}
+{"id":1511725,"jp":"雲間からのぞく小さな青空のように、清らかで柔らかく、かけがえのないもの。\n「アビィ、今日はいい子にしてたよ。だから、もうすこし食べてもいい？」","fr":"Une douceur pure et irremplaçable, semblable à un petit coin de ciel bleu qui se dévoile entre les nuages.\n« Abby a été sage aujourd'hui. Alors, Abby peut encore manger un peu ? »"}
 {"id":1511726,"jp":"上品でありながら愛らしい、アビィ専用の衣装。","fr":"Une tenue à la fois raffinée et adorable réservée à Abby."}
+{"id":1511727,"jp":"願いを羽に折り、朝露を飾れば、きっとこんな姿になるのだろう。\n「これ、お祭りの服なの……？　じゃあ、お菓子がいっぱいいっぱいあるんだね」","fr":"Si l'on pliait ses souhaits en plumes pour les parer de rosée matinale, ils prendraient sans doute cette apparence.\n« C'est une tenue de fête… ? Alors, il y aura plein, plein de friandises ! »"}
 {"id":1511728,"jp":"羽誓う大空","fr":"Le ciel du serment ailé"}
 {"id":1511729,"jp":"シャルの初期衣装。","fr":"Tenue de base de Shalle."}
+{"id":1511730,"jp":"空は数多のペガサスナイトの誓いを見届け、これからも新たな騎士が翼を広げる姿を見守るだろう。\n「ロイレー、出発しましょう――今日もきっといい天気になります」","fr":"Le ciel a été témoin des serments d'innombrables chevaliers pégases et continuera de veiller sur les nouveaux chevaliers qui déploieront leurs ailes.\n« Roiree, partons. Aujourd'hui encore, le temps sera sûrement magnifique. »"}
 {"id":1511731,"jp":"【v1.0実装範囲外】","fr":"【Non prévu dans la v1.0】"}
 {"id":1511732,"jp":"好感度レベル0","fr":"Niveau d'affection 0"}
 {"id":1511733,"jp":"好感度レベル1","fr":"Niveau d'affection 1"}
@@ -15458,6 +15546,7 @@
 {"id":1511749,"jp":"<物語>物語×1を解放し、完了すると絆アニマ×1を獲得","fr":"<Histoire> Débloque une histoire ×1 ; une fois terminée, obtient Anima de Lien ×1"}
 {"id":1511750,"jp":"訪問","fr":"Visite"}
 {"id":1511751,"jp":"マーカー","fr":"Repère"}
+{"id":1511752,"jp":"モーレンが与える雷属性ダメージが25%増加する。\n通常攻撃の4段目または5段目を発動している間、自身のよろけ耐性が上昇する。","fr":"Augmente de 25 % les DGT de Foudre infligés par Morwyn.\nAugmente sa résistance au déséquilibre pendant le 4e ou le 5e coup de son Attaque normale."}
 {"id":1511753,"jp":"ハクオン家の完璧な令嬢","fr":"La parfaite demoiselle de la maison Hakuon"}
 {"id":1511754,"jp":"次期当主にとって、これは誇るほどのものではない。","fr":"Pour la future dirigeante de la famille, il n'y a pas de quoi s'en vanter."}
 {"id":1511755,"jp":"『銭』途洋々","fr":"Un avenir « en or »"}
@@ -15475,17 +15564,21 @@
 {"id":1511767,"jp":"常に優雅さを保ち、一族の名誉を汚すようなことは決してしてはならない。","fr":"Garder en toute circonstance son élégance et ne jamais rien faire qui ternisse l'honneur de sa famille."}
 {"id":1511768,"jp":"私の剣術は、剣聖と称される両親とはまったく違うわ。私はふたりの後継者であって、模造品ではないの。","fr":"Mon escrime n'a rien à voir avec celle de mes parents, qu'on surnomme les Maîtres de l'épée. Je suis leur héritière, pas une imitation."}
 {"id":1511769,"jp":"端正な振る舞い","fr":"Une conduite irréprochable"}
+{"id":1511770,"jp":"モーレンが雷の刻印を消費した時、EX会心率が20%上昇する（効果時間：12秒）。\n「煌めき」を獲得した時、自身のEX強度が10%上昇する（最大3スタック、効果時間：8秒）。星極スキルを発動した後、この効果のスタック数はリセットされる。","fr":"Lorsque Morwyn consomme un Sceau de Foudre, son Taux CRIT EX augmente de 20 % (durée : 12 s).\nLorsqu'elle obtient « Scintillement », sa Puissance EX augmente de 10 % (maximum 3 cumuls, durée : 8 s). Les cumuls de cet effet sont réinitialisés après l'activation de sa Compétence Zénith stellaire."}
 {"id":1511771,"jp":"油断したとき","fr":"Quand elle baisse sa garde"}
 {"id":1511772,"jp":"一緒にいると、いつも自然と気が緩んでしまうの。これは……どうしてなのかしら？","fr":"Quand on est ensemble, je me détends toujours sans y penser. Je me demande bien pourquoi… ?"}
 {"id":1511773,"jp":"誓いの下に立ち","fr":"Debout sous le serment"}
+{"id":1511774,"jp":"シャルがチャージ攻撃の第二形態を発動した時、最後の攻撃に追加の連撃が1回発生し、攻撃力の200%分のダメージを与える。\n自身のチャージ攻撃の会心率が10%上昇する。","fr":"Lorsque Shalle effectue son Attaque chargée de type 2, le dernier coup déclenche une attaque supplémentaire infligeant des DGT équivalents à 200 % de son ATQ.\nAugmente de 10 % le Taux CRIT de ses Attaques chargées."}
 {"id":1511775,"jp":"ほっとする微笑み","fr":"Un sourire rassurant"}
 {"id":1511776,"jp":"心配しないでください……私があなたの支えになります。","fr":"Ne vous inquiétez pas… Je serai votre soutien."}
+{"id":1511777,"jp":"シャルが「勇毅」を獲得した時、自身の光属性ダメージ増幅も10%上昇する（効果時間：15秒）。\nチャージ攻撃の第二形態のダメージ倍率が15%上昇する。","fr":"Lorsque Shalle obtient « Bravoure », son Amplification des DGT de Lumière augmente également de 10 % (durée : 15 s).\nAugmente de 15 % le multiplicateur de DGT de son Attaque chargée de type 2."}
 {"id":1511778,"jp":"恐怖の刃に直面し","fr":"Face à la lame de la peur"}
 {"id":1511779,"jp":"攻撃力が50上昇する。\n会心率が4%上昇する。\n光属性ダメージ増幅が8%上昇する。","fr":"Augmente l'ATQ de 50.\nAugmente le Taux CRIT de 4 %.\nAugmente l'Amplification des DGT de Lumière de 8 %."}
 {"id":1511780,"jp":"真面目な一面","fr":"Un côté sérieux"}
 {"id":1511781,"jp":"文化の知識も重要！","fr":"La culture, c'est important aussi !"}
 {"id":1511782,"jp":"眼鏡をかけることもある","fr":"Porte parfois des lunettes"}
 {"id":1511783,"jp":"己の欲を抑え","fr":"Réfréner ses désirs"}
+{"id":1511784,"jp":"シャルがチャージ攻撃の第二形態を発動した時、星極チャージを3回復し、星響スキルのクールタイムが1秒短縮される（クールタイム：10秒）。\nシャルのチャージ攻撃ダメージが10%増加する。","fr":"Lorsque Shalle effectue son Attaque chargée de type 2, elle récupère 3 points de charge du Zénith stellaire et réduit de 1 s le temps de recharge de sa Compétence Écho stellaire (temps de recharge : 10 s).\nAugmente de 10 % les DGT de ses Attaques chargées."}
 {"id":1511785,"jp":"弱者を守護する責務","fr":"Le devoir de protéger les faibles"}
 {"id":1511786,"jp":"攻撃力が50上昇する。\n会心ダメージが8%増加する。\n被ダメージが5%減少する。","fr":"Augmente l'ATQ de 50.\nAugmente les DGT CRIT de 8 %.\nRéduit les DGT subis de 5 %."}
 {"id":1511787,"jp":"もっと食べたい","fr":"Envie d'en manger encore"}
@@ -15495,6 +15588,7 @@
 {"id":1511791,"jp":"栄光の名を戴く","fr":"Porter un nom glorieux"}
 {"id":1511792,"jp":"シャルの与ダメージが20%増加する。\nブレイク状態のエネミーを攻撃した時、自身の与ダメージがさらに20%増加する。","fr":"Augmente de 20 % les DGT infligés par Shalle.\nQuand Shalle attaque un ennemi en état de brise, augmente encore de 20 % ses DGT infligés."}
 {"id":1511793,"jp":"美夢の騎士","fr":"La chevalière des beaux rêves"}
+{"id":1511794,"jp":"お目覚めですか？よく眠れたでしょうか？ふふ、悪夢なんて見るはずがありませんよ。私がここにいるのですから。ですので、安心してお眠りください。","fr":"Vous voilà de nouveau parmi nous ? Avez-vous bien dormi ? Hihi, il est impossible que vous fassiez des cauchemars. Après tout, je suis là. Vous pouvez donc dormir en toute sérénité."}
 {"id":1511795,"jp":"カチカチ","fr":"Solide comme un roc"}
 {"id":1511796,"jp":"ノノはチャージ攻撃のチャージ中および発動中、被ダメージが20%減少する。\nチャージ攻撃のダメージ倍率が20%上昇する。","fr":"Pendant la charge et le déclenchement de l'Attaque chargée de Nono, réduit de 20 % les DGT subis.\nAugmente de 20 % le multiplicateur de DGT de l'Attaque chargée."}
 {"id":1511797,"jp":"宝物！あそこだ！","fr":"Un trésor ! Là-bas !"}
@@ -15506,6 +15600,7 @@
 {"id":1511803,"jp":"宝探しに夢中な冒険家","fr":"Une aventurière passionnée de trésors"}
 {"id":1511804,"jp":"遺跡の探索、鉱脈の発掘――宝物に関することなら、ノノはどれも得意なのである！","fr":"Explorer des ruines, creuser des filons… pour tout ce qui touche aux trésors, Nono est imbattable !"}
 {"id":1511805,"jp":"うぅ……もうだれかがきたあとだった……","fr":"Ouh… Quelqu'un est déjà passé par ici…"}
+{"id":1511806,"jp":"ノノがチャージ攻撃の3段階目を発動した時、星響スキルのクールタイムが1秒短縮され、チャージ攻撃ダメージが15%増加する（効果時間：15秒）。","fr":"Lorsque Nono effectue une Attaque chargée de palier 3, le temps de recharge de sa Compétence Écho stellaire est réduit de 1 s et les DGT de ses Attaques chargées augmentent de 15 % (durée : 15 s)."}
 {"id":1511807,"jp":"山吹色","fr":"Jaune d'or"}
 {"id":1511808,"jp":"攻撃力が40上昇する。\nエネルギー回復増幅が4%上昇する。","fr":"Augmente l'ATQ de 40.\nAugmente l'Amplification de récupération d'Énergie de 4 %."}
 {"id":1511809,"jp":"運命の導き","fr":"Les voies du destin"}
@@ -15519,13 +15614,16 @@
 {"id":1511817,"jp":"ハンターの直感","fr":"L'instinct de la chasseuse"}
 {"id":1511818,"jp":"アタシはシャルル村最強のハンターなんだ。だから、アタシの直感を信じてくれ！","fr":"Je suis la meilleure chasseuse du village de Charlulu. Alors fais confiance à mon instinct !"}
 {"id":1511819,"jp":"ハンターとしての警戒心","fr":"La vigilance d'un chasseur"}
+{"id":1511820,"jp":"テララが星響スキルを発動した時、風の刻印をさらに1つ獲得する。\n「燃焼」を獲得した時、自身の攻撃力が8%上昇する（効果時間：15秒）。","fr":"Lorsque Terara active sa Compétence Écho stellaire, elle obtient 1 Sceau de Vent supplémentaire.\nLorsqu'elle obtient « Brûlure », son ATQ augmente de 8 % (durée : 15 s)."}
 {"id":1511821,"jp":"密林の影","fr":"L'ombre de la jungle"}
 {"id":1511822,"jp":"EX強度が40上昇する。\n火属性ダメージ増幅が6%上昇する。","fr":"Augmente la Puissance EX de 40.\nAugmente l'Amplification des DGT de Feu de 6 %."}
 {"id":1511823,"jp":"リラックス感","fr":"Détente"}
 {"id":1511824,"jp":"外の世界の知識がたくさんあるんだな……すごく気にはなるけど、もう頭が回らない……","fr":"Tu as plein de connaissances sur le monde extérieur… Ça m'intrigue vraiment, mais je n'ai plus la tête à ça…"}
 {"id":1511825,"jp":"それでも、やっぱり知りたい……","fr":"Malgré tout, j'aimerais vraiment savoir…"}
+{"id":1511826,"jp":"テララの派生チャージ攻撃による連続突きがエネミーに命中するたび、自身の星極チャージをさらに1回復する。\n最後の一撃が命中した時、自身の防御貫通が20%上昇する（効果時間：24秒）。","fr":"Chaque fois qu'un coup d'estoc de l'Attaque chargée dérivée de Terara touche un ennemi, elle récupère 1 point supplémentaire de charge du Zénith stellaire.\nLorsque le dernier coup touche, sa Pénétration de DÉF augmente de 20 % (durée : 24 s)."}
 {"id":1511827,"jp":"崖谷の咆哮","fr":"Le rugissement des falaises"}
 {"id":1511828,"jp":"エネルギー満タン！","fr":"Énergie à bloc !"}
+{"id":1511829,"jp":"アタシの行動が衝動的すぎるって？でもさ、なにかを解決したいのなら、まずは動かないと、だろ？それに、だれかが先頭に立って動けば、ほかのヤツらもすこしは勇気をもらえるはずだしさ！","fr":"Tu trouves que j'agis trop impulsivement ? Mais si on veut résoudre un problème, il faut bien commencer par agir, non ? Et puis, si quelqu'un prend les devants, ça donnera sûrement un peu de courage aux autres !"}
 {"id":1511830,"jp":"なあ、いま困ってるんだって？へへ、安心しな、アタシが来たからにはもう大丈夫！","fr":"Alors comme ça, tu as un souci ? Hé hé, ne t'inquiète pas : maintenant que je suis là, tout ira bien !"}
 {"id":1511831,"jp":"とにかく行動あるのみだ！","fr":"Quoi qu'il en soit, il faut agir !"}
 {"id":1511832,"jp":"テララが「燃焼」を獲得するたび、自身のEX強度が4%上昇する（最大3スタック、効果時間：24秒）。","fr":"Chaque fois que Terara obtient « Brûlure », augmente de 4 % sa Puissance EX (3 cumuls max., durée : 24 s)."}
@@ -15535,25 +15633,33 @@
 {"id":1511836,"jp":"シンフォーリアのEXダメージが12%増加する。\n星響スキルがエネミーに命中した時、風の刻印を1つ獲得する。","fr":"Augmente de 12 % les DGT EX de Symphoria.\nQuand une Compétence Écho stellaire touche un ennemi, obtient 1 Sceau de Vent."}
 {"id":1511837,"jp":"守る心","fr":"Un cœur protecteur"}
 {"id":1511838,"jp":"あなたに同行するのも任務のうちです。ですから……あまり私から離れないでくださいね？","fr":"Vous accompagner fait partie de ma mission. Alors… ne vous éloignez pas trop de moi, d'accord ?"}
+{"id":1511839,"jp":"シンフォーリアは、通常攻撃中の移動射撃でも「風語」を獲得する（スタック可能）。\n「風の息吹」を獲得した時、EX強度が150上昇する（効果時間：15秒）。","fr":"Symphoria obtient également « Murmure du vent » lorsqu'elle tire en se déplaçant pendant ses Attaques normales (cumulable).\nLorsqu'elle obtient « Souffle du vent », sa Puissance EX augmente de 150 (durée : 15 s)."}
 {"id":1511840,"jp":"木々の囁き","fr":"Le murmure des arbres"}
 {"id":1511841,"jp":"EX強度が40上昇する。\n風属性ダメージ増幅が6%上昇する。","fr":"Augmente la Puissance EX de 40.\nAugmente l'Amplification des DGT de Vent de 6 %."}
 {"id":1511842,"jp":"ウィスパー","fr":"Murmure"}
 {"id":1511843,"jp":"女王の命に従い、多くの任務に参加してきましたが、ロースランサをこんなに長いあいだ離れるのは初めてで……","fr":"J'ai participé à de nombreuses missions sur ordre de la reine, mais c'est la première fois que je reste aussi longtemps loin de Lors Lains…"}
 {"id":1511844,"jp":"木漏れ日の影","fr":"L'ombre sous les feuillages"}
+{"id":1511845,"jp":"シンフォーリアが星極スキルで風の刻印を消費した時、木の刻印を1つ獲得し、範囲効果を追加で1回発動する。この範囲効果は木の刻印を1つ消費し、EXダメージを1回与える。","fr":"Lorsque Symphoria consomme un Sceau de Vent avec sa Compétence Zénith stellaire, elle obtient 1 Sceau de Bois et déclenche une fois supplémentaire un effet de zone. Cet effet consomme 1 Sceau de Bois et inflige une instance de DGT EX."}
 {"id":1511846,"jp":"舞い散る落ち葉","fr":"Feuilles qui tombent en dansant"}
 {"id":1511847,"jp":"ウィスパーリーフがもたらします……","fr":"La feuille murmurante apporte…"}
+{"id":1511848,"jp":"たとえ枯れ落ちた葉がいずれ木から離れるとしても、再び巡りあう種はつぎの季節にひっそりと芽吹きます。星臨者さまも、きっとそう思うでしょう？","fr":"Même si les feuilles fanées finissent par se détacher de l'arbre, les graines qui se retrouvent germeront discrètement à la saison suivante. N'est-ce pas aussi votre avis, Enfant des étoiles ?"}
 {"id":1511849,"jp":"風が彼方の声を運んできた。きっと、木々が成長するときにあがった笑い声と歌声なのだろう。","fr":"Le vent a apporté des voix venues de loin. Ce sont sûrement les rires et les chants des arbres en pleine croissance."}
 {"id":1511850,"jp":"エルフの本領","fr":"Le vrai talent des Elfes"}
 {"id":1511851,"jp":"シンフォーリアのチャージ攻撃がエネミーに命中するたび、EX会心率が5%上昇する（最大4スタック、効果時間：20秒）。","fr":"Chaque fois que l'Attaque chargée de Symphoria touche un ennemi, augmente de 5 % le Taux CRIT EX (4 cumuls max., durée : 20 s)."}
 {"id":1511852,"jp":"吹き抜けるそよ風","fr":"Une brise qui passe"}
+{"id":1511853,"jp":"時々、考えるんです。風はいったいどこから吹いてくるのだろうって。そして、いま気になっていることは、この風と一緒に私はどこへ向かうのかということ。ん……星臨者さん、来たんですね？では、出発の準備をしましょう。","fr":"Parfois, je me demande d'où vient le vent. Et aujourd'hui, je me demande où il m'emportera… Tiens… Enfant des étoiles, vous voilà ? Alors, préparons-nous à partir."}
 {"id":1511854,"jp":"アビィがグルル","fr":"Abby fait grrr"}
+{"id":1511855,"jp":"アビィが星閃スキルを発動した後、自身のよろけ耐性が1段階上昇し、被ダメージが80%減少する（効果時間：8秒）。\n自身のブレイク効率が20%上昇する。","fr":"Après avoir activé son Éclair stellaire, Abby augmente sa résistance au déséquilibre de 1 palier et réduit ses DGT subis de 80 % (durée : 8 s).\nAugmente de 20 % son Efficacité de brise."}
 {"id":1511856,"jp":"幼竜","fr":"Jeune dragon"}
 {"id":1511857,"jp":"アビィは竜なの。もちろんパパもママも竜。でも、アビィはみんなと違うんだって、いつも言われてた……","fr":"Abby est un dragon. Bien sûr, papa et maman aussi. Mais on a toujours dit à Abby qu'elle était différente des autres…"}
 {"id":1511858,"jp":"アビィが飛びかかる","fr":"Abby bondit"}
+{"id":1511859,"jp":"アビィがEXダメージを与えた後、星響スキルのクールタイムが3秒短縮される（クールタイム：15秒）。また、自身の与ダメージが12%増加する（効果時間：10秒）。","fr":"Après avoir infligé des DGT EX, Abby réduit de 3 s le temps de recharge de sa Compétence Écho stellaire (temps de recharge : 15 s). Ses DGT infligés augmentent également de 12 % (durée : 10 s)."}
 {"id":1511860,"jp":"アビィのカチャカチャ","fr":"Le cliquetis d'Abby"}
 {"id":1511861,"jp":"攻撃力が50上昇する。\nブレイク値が50増加する。\nブレイク効率が8%上昇する。","fr":"Augmente l'ATQ de 50.\nAugmente la Valeur de brise de 50.\nAugmente l'Efficacité de brise de 8 %."}
+{"id":1511862,"jp":"決して悪戯というわけではないが、アビィはいつも目新しいものに気を取られてしまう。そして自ら試してみることで、さまざまな知識を学んでいくのだった。","fr":"Ce n'est jamais par malice, mais Abby se laisse toujours distraire par les nouveautés. C'est en expérimentant par elle-même qu'elle acquiert toutes sortes de connaissances."}
 {"id":1511863,"jp":"たしか……えと、『さんさいかれー』？","fr":"Si je me souviens bien… Euh, du « curry aux légumes sauvages » ?"}
 {"id":1511864,"jp":"アビィのまんまるおなか","fr":"Le petit ventre tout rond d'Abby"}
+{"id":1511865,"jp":"アビィの攻撃がエネミーに命中した後、自身の星極チャージを15回復する（クールタイム：20秒）。\nアビィのチャージ攻撃のダメージ倍率が10%上昇する。","fr":"Lorsqu'une attaque d'Abby touche un ennemi, elle récupère 15 points de charge du Zénith stellaire (temps de recharge : 20 s).\nAugmente de 10 % le multiplicateur de DGT de son Attaque chargée."}
 {"id":1511866,"jp":"アビィはおなかいっぱい","fr":"Abby a le ventre plein"}
 {"id":1511867,"jp":"攻撃力が50上昇する。\nエネルギー回復増幅が5%上昇する。\n水属性ダメージ増幅が8%上昇する。","fr":"Augmente l'ATQ de 50.\nAugmente l'Amplification de récupération d'Énergie de 5 %.\nAugmente l'Amplification des DGT d'Eau de 8 %."}
 {"id":1511868,"jp":"す、すごく食べたい！","fr":"A-Abby a très envie d'en manger !"}
@@ -15562,10 +15668,12 @@
 {"id":1511871,"jp":"アビィがチャージ攻撃または星極スキルを発動した時、チーム全体のチャージ攻撃ダメージが18%増加する（効果時間：24秒）。","fr":"Quand Abby lance une Attaque chargée ou une Compétence Zénith stellaire, augmente de 18 % les DGT d'Attaque chargée de toute l'équipe (durée : 24 s)."}
 {"id":1511872,"jp":"アビィ、どれくらい寝てたの？ずっとアビィのそばにいてくれたの……？","fr":"Abby a dormi combien de temps ? Tu as été près d'Abby tout ce temps… ?"}
 {"id":1511873,"jp":"風立ちて、翼が広がる","fr":"Le vent se lève, les ailes se déploient"}
+{"id":1511874,"jp":"ファランタが星極スキルまたは星響スキルを発動した後、自身が必ず追撃を発動できるようになる（効果時間：20秒、発動上限：6回）。\nファランタの追撃のダメージ倍率が20%上昇する。","fr":"Après avoir activé sa Compétence Zénith stellaire ou sa Compétence Écho stellaire, Faridah peut déclencher à coup sûr des attaques de suivi (durée : 20 s, maximum 6 déclenchements).\nAugmente de 20 % le multiplicateur de DGT de ses attaques de suivi."}
 {"id":1511875,"jp":"照れた一瞬","fr":"Un instant d'embarras"}
 {"id":1511876,"jp":"顔が赤い！？ただ赤辛子を食べすぎただけだ。","fr":"J'ai le visage rouge ?! C'est juste parce que j'ai mangé trop de piment rouge."}
 {"id":1511877,"jp":"感情表現が苦手","fr":"Mal à l'aise avec ses émotions"}
 {"id":1511878,"jp":"孤鷹が峡谷を越える","fr":"Le faucon solitaire franchit le canyon"}
+{"id":1511879,"jp":"ファランタの追撃がエネミーに命中した時、自身の最大HPの10%分のシールドを獲得する（クールタイム：10秒）。再び獲得した時、シールド値が更新される。シールドがある間、ファランタのブレイク効率が20%上昇する。","fr":"Lorsqu'une attaque de suivi de Faridah touche un ennemi, elle obtient un Bouclier équivalent à 10 % de ses PV max. (temps de recharge : 10 s). Obtenir à nouveau ce Bouclier réinitialise sa valeur. Tant qu'il est actif, l'Efficacité de brise de Faridah augmente de 20 %."}
 {"id":1511880,"jp":"夜の帳のなかで思索する","fr":"Méditer sous le voile de la nuit"}
 {"id":1511881,"jp":"独特な外見","fr":"Une apparence singulière"}
 {"id":1511882,"jp":"小麦色の肌と白黒の4枚の翼は、翼人のなかでは比較的めずらしい。","fr":"Son teint hâlé et ses quatre ailes noires et blanches sont assez rares chez les Ailés."}
@@ -15579,7 +15687,10 @@
 {"id":1511890,"jp":"いつもひとりで隠れて、ネガティブな感情を消化している。","fr":"Toujours seule, elle se cache pour digérer ses émotions négatives."}
 {"id":1511891,"jp":"鉄面の長？","fr":"Une cheffe au visage de fer ?"}
 {"id":1511892,"jp":"鷹主の決意","fr":"La résolution du Seigneur des faucons"}
+{"id":1511893,"jp":"ファランタがEXダメージを与えた時、エネミーが受ける該当属性のダメージが4%増加する（最大5スタック、効果時間：20秒）。各スタックの効果時間は個別に計算される。","fr":"Lorsque Faridah inflige des DGT EX, les DGT subis par l'ennemi dans l'élément correspondant augmentent de 4 % (maximum 5 cumuls, durée : 20 s). La durée de chaque cumul est calculée séparément."}
 {"id":1511894,"jp":"訓練の合間","fr":"Entre deux entraînements"}
+{"id":1511895,"jp":"休みは却下だ。暑いからといって、敵が攻撃を諦めることはないだろう？\n……はあ、仕方ない。人間と翼人の身体構造の違いを考慮し、私の翼の下に入ることを許可しよう。だが、すこしの間だけだぞ！","fr":"Demande de repos refusée. Tu crois que l'ennemi renoncera à attaquer simplement parce qu'il fait chaud ?\n… Bon, soit. Compte tenu des différences physiques entre les humains et les Ailés, je t'autorise à te mettre sous mon aile. Mais pour un court instant seulement !"}
+{"id":1511896,"jp":"寒悠悠がチャージ攻撃を発動した時、自身のよろけ耐性が1段階上昇する。\n「焔火」が爆発したエネミーが受ける火属性ダメージが12%増加する（効果時間：24秒）。","fr":"Lorsque Han Youyou effectue une Attaque chargée, sa résistance au déséquilibre augmente de 1 palier.\nLes DGT de Feu subis par les ennemis sur lesquels « Feu ardent » a explosé augmentent de 12 % (durée : 24 s)."}
 {"id":1511897,"jp":"カラクリの鬼才","fr":"Génie des mécanismes"}
 {"id":1511898,"jp":"これは……動くね。こっちは、変形できるね。そしてこれは……って、はやく逃げて、もうすぐ爆発するよ！","fr":"Ça, ça bouge. Celui-ci peut se transformer. Et ça, c'est… hé, fuis vite, ça va bientôt exploser !"}
 {"id":1511899,"jp":"迷ったときは改造だ","fr":"Dans le doute, on modifie !"}
@@ -15593,25 +15704,34 @@
 {"id":1511908,"jp":"錠の解除","fr":"Déverrouillage"}
 {"id":1511909,"jp":"防御力が50上昇する。\nHPが600増加する。","fr":"Augmente la DÉF de 50.\nAugmente les PV de 600."}
 {"id":1511910,"jp":"宝探しの奇才","fr":"Prodige de la chasse au trésor"}
+{"id":1511911,"jp":"すこし工夫して、いろいろ研究して、たくさんたくさん試してみるの。それでも駄目ならもう一度試せばいい！どうせ時間はたっぷりあるんだから！","fr":"Il suffit d'un peu d'ingéniosité, de faire toutes sortes de recherches et d'essayer encore et encore. Et si ça ne marche toujours pas, on recommence ! De toute façon, on a tout notre temps !"}
 {"id":1511912,"jp":"まぁ、こっちはもう準備できてるし、いやがっても絶対連れていくんだけどね！","fr":"Enfin, moi, j'ai tout préparé, et même si ça ne te plaît pas, je t'emmène quoi qu'il arrive !"}
 {"id":1511913,"jp":"探そうと思えば、必ず見つかるよ。","fr":"Il suffit de chercher pour finir par trouver."}
+{"id":1511914,"jp":"寒悠悠の星極スキルが「焔火」を付与されたエネミーに命中した後、チーム全体の火属性ダメージが16%増加する（効果時間：24秒）。","fr":"Lorsque la Compétence Zénith stellaire de Han Youyou touche un ennemi affecté par « Feu ardent », les DGT de Feu de toute l'équipe augmentent de 16 % (durée : 24 s)."}
+{"id":1511915,"jp":"ホンモノのお宝は、たぶんここにあるのかも。ん？それがなにかわからないって？大丈夫。お宝は逃げたりしないから、じっくり時間をかけて探そうよ！","fr":"Le véritable trésor se trouve peut-être ici. Hein ? Tu ne sais pas ce que c'est ? Ce n'est pas grave. Un trésor ne va pas s'enfuir, alors prenons notre temps pour le chercher !"}
 {"id":1511916,"jp":"巡礼の初誓","fr":"Premier serment du pèlerinage"}
+{"id":1511917,"jp":"「意志」の効果時間が無期限になる。「意志」によってジャストガードまたはジャストパリィが発動した時、エネミーが受ける風属性ダメージが15%増加する（効果時間：15秒）。","fr":"La durée de l'effet « Volonté » devient illimitée. Lorsque « Volonté » déclenche une Garde parfaite ou une Parade parfaite, les DGT de Vent subis par les ennemis augmentent de 15 % (durée : 15 s)."}
 {"id":1511918,"jp":"見習い騎士","fr":"Apprentie chevalière"}
 {"id":1511919,"jp":"まだまだ経験は浅いけど、騎士道精神は貫き通す！","fr":"Je manque encore d'expérience, mais je resterai toujours fidèle à l'esprit chevaleresque !"}
 {"id":1511920,"jp":"風に舞う綿羽","fr":"Duvet dansant dans le vent"}
 {"id":1511921,"jp":"リリィが星閃スキルを発動した後、チーム全体の風属性ダメージがさらに15%増加する（効果時間：15秒）。","fr":"Après que Lily a lancé une Compétence Éclair stellaire, augmente encore de 15 % les DGT de Vent de toute l'équipe (durée : 15 s)."}
 {"id":1511922,"jp":"堅靭なる心盾","fr":"Le bouclier inflexible du cœur"}
 {"id":1511923,"jp":"非凡な出自？","fr":"Des origines hors du commun ?"}
+{"id":1511924,"jp":"ん？まえに住んでいたところと比べてここはどうって……？うん……信じられないかもしれないけれど、ここのほうがずっと落ち着くの。","fr":"Hm ? Ce que je pense de cet endroit par rapport à celui où je vivais avant… ? Eh bien… Tu auras peut-être du mal à le croire, mais je me sens bien plus à l'aise ici."}
 {"id":1511925,"jp":"だれにだって秘密のひとつやふたつぐらいあるでしょ？","fr":"Tout le monde a bien un ou deux petits secrets, non ?"}
 {"id":1511926,"jp":"天翔ける輝き","fr":"Un éclat qui fend le ciel"}
+{"id":1511927,"jp":"「意志」によってジャストガードまたはジャストパリィが発動した時、操作キャラクターの攻撃力が10%上昇する（効果時間：24秒）。\nリリィの星響スキルのダメージ倍率が20%上昇する。","fr":"Lorsque « Volonté » déclenche une Garde parfaite ou une Parade parfaite, l'ATQ du personnage contrôlé augmente de 10 % (durée : 24 s).\nAugmente de 20 % le multiplicateur de DGT de la Compétence Écho stellaire de Lily."}
 {"id":1511928,"jp":"王家の決意","fr":"La résolution royale"}
 {"id":1511929,"jp":"騎士の道","fr":"La voie du chevalier"}
+{"id":1511930,"jp":"まだ未熟で、たとえ不安を抱えていようとも、彼女の笑顔は変わらず温かく朗らかだ。助けを必要とするすべての者を、力の限り助けようとするのだった。","fr":"Malgré son manque d'expérience et les inquiétudes qui l'habitent, son sourire reste chaleureux et rayonnant. Elle s'efforce d'aider de toutes ses forces quiconque en a besoin."}
 {"id":1511931,"jp":"いつか、本物の騎士になる。そのときは、どうかあなたに見届けてほしいな。","fr":"Un jour, je deviendrai une vraie chevalière. Ce jour-là, j'aimerais que tu sois là pour le voir."}
 {"id":1511932,"jp":"微光","fr":"Faible lueur"}
 {"id":1511933,"jp":"永遠の盟約","fr":"Pacte éternel"}
+{"id":1511934,"jp":"「意志」によってジャストガードまたはジャストパリィが発動した時の強化効果が上昇し、攻撃力の上昇量が15%になる。\nリリィの星響スキルのダメージ倍率が20%上昇する。","fr":"L'effet de renforcement déclenché lorsque « Volonté » provoque une Garde parfaite ou une Parade parfaite est amélioré : la hausse d'ATQ passe à 15 %.\nAugmente de 20 % le multiplicateur de DGT de la Compétence Écho stellaire de Lily."}
 {"id":1511935,"jp":"騎士の姿","fr":"Allure de chevalière"}
 {"id":1511936,"jp":"わたしが呼べば、あなたはいつでも応えてくれる。だから、わたしの鎧も弱いところも、すべてあなたに見せるね。","fr":"Quand je t'appelle, tu réponds toujours présent. Alors je te montrerai tout de moi, mon armure comme mes faiblesses."}
 {"id":1511937,"jp":"風秘める翼","fr":"Des ailes qui cachent le vent"}
+{"id":1511938,"jp":"「蓄電」がある時にチャージ攻撃の3段階目を発動すると、矢が1本エネミーに命中するごとに、自身の星極チャージをさらに2回復する。\nミィティの星響スキルのダメージ倍率が8%上昇する。","fr":"Lorsqu'une Attaque chargée de palier 3 est effectuée sous l'effet « Charge accumulée », chaque flèche touchant un ennemi restaure 2 points supplémentaires de charge du Zénith stellaire.\nAugmente de 8 % le multiplicateur de DGT de la Compétence Écho stellaire de Mitty."}
 {"id":1511939,"jp":"新生の翼","fr":"Des ailes renouvelées"}
 {"id":1511940,"jp":"お父さん……もうすぐ、お父さんが駆け抜けた雲の上に手が届くよ！","fr":"Papa… bientôt, j'atteindrai ces hauteurs, au-dessus des nuages, que tu as parcourues en filant !"}
 {"id":1511941,"jp":"密かな誓い","fr":"Un serment secret"}
@@ -15620,6 +15740,7 @@
 {"id":1511944,"jp":"幼くも負けず嫌い","fr":"Jeune mais mauvaise perdante"}
 {"id":1511945,"jp":"アタシは先代の<ruby=ホークガル>鷹主</ruby>の娘……哀れむような目で見るのはやめて！","fr":"Je suis la fille du précédent Seigneur Faucon… arrête de me regarder avec cet air de pitié !"}
 {"id":1511946,"jp":"うぅ……ア、アタシ、泣いてなんかない……","fr":"Ouh… J-je ne pleure pas du tout…"}
+{"id":1511947,"jp":"ミィティが星極スキルを発動した後、次のチャージ攻撃のチャージ時間が大幅に短縮される。そのチャージ攻撃を発動した後、チーム全体のEX強度が15%上昇する（効果時間：24秒）。","fr":"Après l'activation de la Compétence Zénith stellaire de Mitty, le temps de charge de sa prochaine Attaque chargée est considérablement réduit. Effectuer cette Attaque chargée augmente de 15 % la Puissance EX de toute l'équipe (durée : 24 s)."}
 {"id":1511948,"jp":"反転して急降下","fr":"Retournement et piqué"}
 {"id":1511949,"jp":"大得意","fr":"Toute fière"}
 {"id":1511950,"jp":"ふっふーん！さっきの技、マネできないでしょう！","fr":"Hé hé ! Impossible de reproduire ma technique de tout à l'heure, hein !"}
@@ -15629,8 +15750,11 @@
 {"id":1511954,"jp":"華奢な体と不屈の心","fr":"Corps frêle, cœur indomptable"}
 {"id":1511955,"jp":"なによ！アンタ……見てなさいよね、アタシはすぐに大きくなるんだから！でそのときは、アタシが翼人最強の戦士になってるわよ！","fr":"Quoi ! Toi… Regarde bien, je vais vite grandir ! Et ce jour-là, je serai la plus forte guerrière des Ailés !"}
 {"id":1511956,"jp":"共鳴分光","fr":"Spectre de résonance"}
+{"id":1511957,"jp":"星響スキルまたは派生チャージ攻撃を発動中、攻撃がエネミーに命中するたび、自身の星極チャージを1回復する。\n星極スキルのダメージ倍率が10%上昇する。","fr":"Pendant l'activation d'une Compétence Écho stellaire ou d'une Attaque chargée dérivée, chaque attaque touchant un ennemi restaure 1 point de charge du Zénith stellaire.\nAugmente de 10 % le multiplicateur de DGT de la Compétence Zénith stellaire."}
 {"id":1511958,"jp":"生い立ちが謎の少年","fr":"Le garçon aux origines mystérieuses"}
+{"id":1511959,"jp":"すこし鈍感なところがあるが、非常に強い信念を持ち、それを曲げることは決してない。自分の生い立ちや生存の意義を見いだすために旅に出た。","fr":"Malgré un certain manque de finesse, ses convictions sont inébranlables et rien ne saurait les ébranler. Un voyage a été entrepris pour découvrir ses origines et le sens de son existence."}
 {"id":1511960,"jp":"空から落ちてきた……？","fr":"Une chute depuis le ciel… ?"}
+{"id":1511961,"jp":"戦闘開始後、5秒ごとに星極チャージを2回復する。\n星響スキルを発動した後、自身は「星臨の刻」を獲得する。全属性ダメージが15%増加する（効果時間：24秒）。","fr":"Après le début du combat, récupère 2 points de charge du Zénith stellaire toutes les 5 s.\nAprès avoir activé une Compétence Écho stellaire, obtient « L'heure de la venue stellaire ». Les DGT de tous les éléments augmentent de 15 % (durée : 24 s)."}
 {"id":1511962,"jp":"銀輝の浮影","fr":"Ombre flottante argentée"}
 {"id":1511963,"jp":"攻撃力が50上昇する。\n防御力が60上昇する。\nHPが800増加する。","fr":"Augmente l'ATQ de 50.\nAugmente la DÉF de 60.\nAugmente les PV de 800."}
 {"id":1511964,"jp":"予言の者","fr":"Enfant de la prophétie"}
@@ -15639,36 +15763,46 @@
 {"id":1511967,"jp":"天賦スキルによる全属性ダメージ増幅が20%に上昇する。\n「輝映」によるチーム全体の防御貫通が15%に上昇する。","fr":"L'Amplification des DGT de tous les éléments conférée par la compétence de don passe à 20 %.\nLa Pénétration de DÉF de toute l'équipe conférée par « Rayonnement » passe à 15 %."}
 {"id":1511968,"jp":"無垢の散羽","fr":"Plumes éparses de l'innocence"}
 {"id":1511969,"jp":"プロミリアのアイデア王","fr":"Le roi des idées de Promilia"}
+{"id":1511970,"jp":"いざという時には、窮地を脱するような奇妙なアイデアがいくつも浮かんでくるものだ。……そのアイデアがどうやって生まれたのか――それについては、また別の話だ。","fr":"Dans les moments critiques, toutes sortes d'idées étranges surgissent pour permettre de se sortir d'une situation délicate… Quant à savoir comment ces idées ont germé, c'est une tout autre histoire."}
+{"id":1511971,"jp":"たたかうのが強くて、おいしいもの作ってくれて、アビィといっしょに遊んでくれる。それから……こっそり寝坊してもだいじょうぶなところ、すぐに見つける……え？それは言っちゃダメ？","fr":"Se bat très bien, prépare de bonnes choses à manger et joue avec Abby. Et puis… trouve toujours des endroits où on peut faire la grasse matinée en cachette… Hein ? Il ne fallait pas le dire ?"}
 {"id":1511972,"jp":"いい考えがあるよ……","fr":"J'ai une bonne idée…"}
 {"id":1511973,"jp":"薄明の星灯り","fr":"Lueur d'étoile au crépuscule"}
+{"id":1511974,"jp":"星極スキルを発動した後、チーム全体が「星臨の刻」を獲得する。全属性ダメージが15%増加する（効果時間：24秒）。\n星極スキルの最初の一撃がエネミーに命中した後、星極チャージを5回復する。\n星極スキルのダメージ倍率が15%上昇する。","fr":"Après l'activation de la Compétence Zénith stellaire, toute l'équipe obtient « L'heure de la venue stellaire ». Les DGT de tous les éléments augmentent de 15 % (durée : 24 s).\nLorsque le premier coup de la Compétence Zénith stellaire touche un ennemi, récupère 5 points de charge du Zénith stellaire.\nAugmente de 15 % le multiplicateur de DGT de la Compétence Zénith stellaire."}
 {"id":1511975,"jp":"星の旅路","fr":"Un voyage parmi les étoiles"}
 {"id":1511976,"jp":"予言の通り、流星はこの大地に降臨した。彼の行く先には、どのような結末が待っているのだろうか？","fr":"Comme l'annonçait la prophétie, une étoile filante est descendue sur cette terre. Quel dénouement l'attend sur son chemin ?"}
 {"id":1511977,"jp":"生い立ちが謎に包まれた少女","fr":"Une jeune fille aux origines mystérieuses"}
 {"id":1511978,"jp":"予言のステラストーンから誕生した神秘的な少女。この世界の秘密がまもなく明かされようとしている……","fr":"Une jeune fille mystérieuse née de la pierre Stella de la prophétie. Les secrets de ce monde sont sur le point d'être révélés…"}
 {"id":1511979,"jp":"予言の通り、流星はこの大地に降臨した。彼女の行く先には、どのような結末が待っているのだろうか？","fr":"Comme l'annonçait la prophétie, une étoile filante est descendue sur cette terre. Quel dénouement l'attend sur son chemin ?"}
+{"id":1511980,"jp":"ポンポンが通常攻撃の4段目を発動した時、自身のよろけ耐性が1段階上昇する。\nポンポンが通常攻撃の4段目の強化効果を獲得した時、そのスタック数が2倍になる。\nポンポンの星響スキルのダメージ倍率が8%上昇する。","fr":"Lorsque Pengpeng effectue le 4e coup de son Attaque normale, sa résistance au déséquilibre augmente de 1 palier.\nLorsqu'elle obtient l'effet de renforcement du 4e coup de son Attaque normale, le nombre de cumuls obtenus est doublé.\nAugmente de 8 % le multiplicateur de DGT de sa Compétence Écho stellaire."}
 {"id":1511981,"jp":"ポンポンさま！","fr":"L'illustre Pengpeng !"}
 {"id":1511982,"jp":"ふっふーん、ポンポンってばすっごく強いんだから！いまからすごいのを……うわああっ！落っこちる！早く受け止めてー！","fr":"Hé hé, Pengpeng est super forte, tu sais ! Je vais te montrer un truc incroyable… waaah ! Je tombe ! Rattrape-moi vite !"}
 {"id":1511983,"jp":"受け止めてよ！","fr":"Rattrape-moi !"}
+{"id":1511984,"jp":"ポンポンが強化された星響スキルを発動した後、チーム全体の火属性ダメージと地属性ダメージが8%増加する（効果時間：24秒）。","fr":"Après l'activation de la Compétence Écho stellaire renforcée de Pengpeng, les DGT de Feu et de Terre de toute l'équipe augmentent de 8 % (durée : 24 s)."}
 {"id":1511985,"jp":"虚中の真実","fr":"La vérité dans le vide"}
 {"id":1511986,"jp":"カンフーマスター！","fr":"Experte en kung-fu !"}
 {"id":1511987,"jp":"どれどれ……ええと……","fr":"Voyons voir… Euh…"}
 {"id":1511988,"jp":"進退自在","fr":"Avancer et reculer à sa guise"}
+{"id":1511989,"jp":"ポンポンの通常攻撃の4段目がエネミーに命中するたび、そのエネミーが受ける地属性ダメージと火属性ダメージが2%増加する（最大8スタック、効果時間：24秒）。","fr":"Chaque fois que le 4e coup de l'Attaque normale de Pengpeng touche un ennemi, les DGT de Terre et de Feu subis par cet ennemi augmentent de 2 % (maximum 8 cumuls, durée : 24 s)."}
 {"id":1511990,"jp":"動静一体","fr":"Unité du mouvement et du calme"}
 {"id":1511991,"jp":"おいしい！","fr":"Délicieux !"}
 {"id":1511992,"jp":"炸八塊、芙蓉豆腐、鮮菱湯、ケツギョの甘酢がけ、鶏とキノコの煮込み、天余白玉……うーん、これもおいしい、あれもおいしい！","fr":"Huit morceaux frits, tofu Furong, soupe de châtaignes d'eau fraîches, perche mandarin à l'aigre-doux, poulet mijoté aux champignons, jade blanc de Tianyu… Mmh, ça c'est bon, ça aussi c'est bon !"}
 {"id":1511993,"jp":"えっ、まえのごはんからまだ1時間しか経ってないのか！？","fr":"Quoi, ça fait seulement une heure depuis le dernier repas !?"}
 {"id":1511994,"jp":"おかわり！","fr":"Encore une assiette !"}
+{"id":1511995,"jp":"ポンポンの星極スキルの最後の一撃がエネミーに命中した後、地の刻印をさらに1つ獲得し、自身の攻撃力が15%上昇する（効果時間：24秒）。","fr":"Lorsque le dernier coup de la Compétence Zénith stellaire de Pengpeng touche un ennemi, elle obtient 1 Sceau de Terre supplémentaire et son ATQ augmente de 15 % (durée : 24 s)."}
 {"id":1511996,"jp":"ふっふーん、見て見て！すごいだろ！こんな技、だれにでもできっこない……って頭がくらくらする、うぅ……","fr":"Hé hé, regarde, regarde ! Impressionnant, hein ! Personne ne peut faire une technique pareille… mais j'ai la tête qui tourne, ouh…"}
 {"id":1511997,"jp":"大いなる神霊の加護","fr":"La protection des grands esprits"}
+{"id":1511998,"jp":"「知恵のアウラ」の出場時間が20秒に延長される。\n「知恵のアウラ」を召喚した時、フィールド上のキャラクターの会心ダメージが20%増加する（24秒間）。","fr":"La durée de présence de l'« Aura de sagesse » est prolongée à 20 s.\nLors de l'invocation de l'« Aura de sagesse », les DGT CRIT des personnages présents sur le terrain augmentent de 20 % (durée : 24 s)."}
 {"id":1511999,"jp":"御霊の声","fr":"La voix des Esprits anciens"}
 {"id":1512000,"jp":"唯一のシャーマン","fr":"La seule chamane"}
 {"id":1512001,"jp":"わたしにひとときの力を","fr":"Accordez-moi un instant de force"}
+{"id":1512002,"jp":"ルルカはチャージ攻撃の発動中、被ダメージが70%減少する。\nルルカの星閃スキルで回復した操作キャラクターは、星極チャージを5回復する。","fr":"Pendant l'activation de son Attaque chargée, les DGT subis par Luruka sont réduits de 70 %.\nLe personnage contrôlé soigné par l'Éclair stellaire de Luruka récupère 5 points de charge du Zénith stellaire."}
 {"id":1512003,"jp":"想いは導きとなり","fr":"Les sentiments deviennent un guide"}
 {"id":1512004,"jp":"HPが800増加する。\n回復効果が12%上昇する。\nエネルギー回復増幅が5%上昇する。","fr":"Augmente les PV de 800.\nAugmente l'effet de soin de 12 %.\nAugmente l'Amplification de récupération d'Énergie de 5 %."}
 {"id":1512005,"jp":"小さなときめき","fr":"Un petit frisson au cœur"}
 {"id":1512006,"jp":"魂の鼓動を感じた……これほどまでに心を揺さぶられるとは……","fr":"J'ai senti le battement d'une âme… Jamais mon cœur n'avait été aussi ébranlé…"}
 {"id":1512007,"jp":"共感中","fr":"En pleine empathie"}
 {"id":1512008,"jp":"魂は結びつく","fr":"Les âmes se lient"}
+{"id":1512009,"jp":"ルルカが星極スキルを発動した後、しばらくの間、チャージ攻撃の2段階目を直接発動できる。\n「活力のアウラ」が回復するたび、ルルカ自身の星極チャージをさらに1回復する。","fr":"Après avoir activé sa Compétence Zénith stellaire, Luruka peut effectuer directement une Attaque chargée de palier 2 pendant un court instant.\nChaque fois que l'« Aura de vitalité » prodigue des soins, Luruka récupère 1 point supplémentaire de charge du Zénith stellaire."}
 {"id":1512010,"jp":"万物の祝福を捧げよう","fr":"Offrir la bénédiction de toute chose"}
 {"id":1512011,"jp":"防御力が60上昇する。\nHPが800増加する。\n回復効果が12%上昇する。","fr":"Augmente la DÉF de 60.\nAugmente les PV de 800.\nAugmente l'effet de soin de 12 %."}
 {"id":1512012,"jp":"恐るべき製薬技術","fr":"Une redoutable science des remèdes"}
@@ -15676,7 +15810,10 @@
 {"id":1512014,"jp":"ルルカとアニスが出会えば、世界は滅びてしまうかもしれない。","fr":"Si Luruka et Anais se rencontrent, le monde pourrait bien être détruit."}
 {"id":1512015,"jp":"飲んでみる？","fr":"Envie de goûter ?"}
 {"id":1512016,"jp":"すべてが安らぐまで","fr":"Jusqu'à ce que tout s'apaise"}
+{"id":1512017,"jp":"「勇気のアウラ」のHP上限が100%上昇し、攻撃がエネミーに命中した時、防御力を20%低下させる（効果時間：6秒）。\nルルカの天賦スキルによる会心ダメージ増幅がさらに30%上昇する。","fr":"Les PV max. de l'« Aura du courage » augmentent de 100 %. Lorsque ses attaques touchent un ennemi, elles réduisent sa DÉF de 20 % (durée : 6 s).\nL'Amplification des DGT CRIT conférée par le talent de Luruka augmente de 30 % supplémentaires."}
 {"id":1512018,"jp":"朝の挨拶","fr":"Salut du matin"}
+{"id":1512019,"jp":"あ……起こしてしましましたか？今日は御霊さまをお祭りする日なので、遅刻は駄目ですよ？そうですね……しっかり起きられたら、ご褒美をあげましょうか――悪い子にはあげませんよ、ふふ。","fr":"Oh… Je t'ai réveillé ? Aujourd'hui, nous célébrons les Esprits anciens, alors pas question d'être en retard, d'accord ? Voyons… Si tu te lèves bien sagement, je te donnerai peut-être une récompense. Mais pas de récompense pour les enfants désobéissants, hihi."}
+{"id":1512020,"jp":"ペイペイの星響スキルがエネミーに命中した後、対象の防御力が20%低下し、自身の攻撃力が20%上昇する（効果時間：10秒）。","fr":"Lorsque la Compétence Écho stellaire de Peipei touche un ennemi, la DÉF de la cible diminue de 20 % et l'ATQ de Peipei augmente de 20 % (durée : 10 s)."}
 {"id":1512021,"jp":"私は強い？","fr":"Je suis forte ?"}
 {"id":1512022,"jp":"大侠客になることを夢見ているペイペイだが、実はいつの間にか、すでになっているのではないだろうか？","fr":"Peipei rêve de devenir une grande Âme chevaleresque, mais ne l'est-elle pas déjà, sans même s'en être aperçue ?"}
 {"id":1512023,"jp":"ペイペイ、しっかり練習します。","fr":"Peipei va s'entraîner sérieusement."}
@@ -15695,21 +15832,26 @@
 {"id":1512036,"jp":"光陰一体","fr":"Unité de la lumière et de l'ombre"}
 {"id":1512037,"jp":"ペイペイの強化チャージ攻撃のダメージ倍率が35%上昇する。","fr":"Augmente de 35 % le multiplicateur de DGT de l'Attaque chargée renforcée de Peipei."}
 {"id":1512038,"jp":"小さな感慨","fr":"Une petite émotion"}
+{"id":1512039,"jp":"星臨者さんは、ペイペイをバカにしたりしませんし、ペイペイの夢を笑うこともありません。なにかあったら、なんだって相談に乗ってくれますし……星臨者さんがいてくれて、ペイペイはとっても嬉しいです！","fr":"L'Enfant des étoiles ne se moque jamais de Peipei ni de ses rêves. Et quand Peipei a un souci, l'Enfant des étoiles est toujours là pour l'écouter… Peipei est tellement heureuse de t'avoir à ses côtés !"}
 {"id":1512040,"jp":"あなたにご挨拶を","fr":"Mes salutations"}
+{"id":1512041,"jp":"キャスベルが星閃スキルを発動した後、自身のブレイク効率が20%上昇する（効果時間：15秒）。\n星響スキルの後、一定時間内に攻撃ボタンを長押ししてチャージ攻撃を行うと、チャージ攻撃の第三形態を発動できる。","fr":"Après avoir activé son Éclair stellaire, Cathbelle augmente son Efficacité de brise de 20 % (durée : 15 s).\nAprès sa Compétence Écho stellaire, maintenir le bouton d'attaque dans le délai imparti permet d'effectuer une Attaque chargée de type 3."}
 {"id":1512042,"jp":"たまに力加減がうまくできないことに悩んでいる。","fr":"Elle s'inquiète de ne pas toujours réussir à doser sa force."}
 {"id":1512043,"jp":"どうかお気をつけて。作業のつもりで臨まないと、力加減が難しくなるかもしれません。","fr":"Prenez garde, je vous prie. Si vous ne l'abordez pas comme une simple tâche, il pourrait devenir difficile de bien doser votre force."}
 {"id":1512044,"jp":"怪力メイド","fr":"Domestique à la force herculéenne"}
+{"id":1512045,"jp":"キャスベルの星閃スキル、ジャストパリィ、星響スキル、派生チャージ攻撃がエネミーに命中した後、自身の与える雷属性ダメージが9%増加し、被ダメージが25%減少する（最大3スタック、効果時間：15秒）。","fr":"Lorsque l'Éclair stellaire, la Parade parfaite, la Compétence Écho stellaire ou l'Attaque chargée dérivée de Cathbelle touche un ennemi, ses DGT de Foudre infligés augmentent de 9 % et ses DGT subis diminuent de 25 % (maximum 3 cumuls, durée : 15 s)."}
 {"id":1512046,"jp":"なにかご用でしょうか？","fr":"Puis-je vous aider ?"}
 {"id":1512047,"jp":"闇料理","fr":"Cuisine des ténèbres"}
 {"id":1512048,"jp":"このお料理はナナチャにお手伝いいてもらい完成したものです。お口に合うか、召し上がってみてください。","fr":"Ce plat a été terminé avec l'aide de Nanacha. Goûtez-le, j'espère qu'il vous plaira."}
 {"id":1512049,"jp":"期待でいっぱいの表情","fr":"Un visage plein d'attente"}
 {"id":1512050,"jp":"後始末はわたしが","fr":"Je me charge du rangement"}
+{"id":1512051,"jp":"キャスベルがEXダメージを与えるたび、命中したエネミーの被ブレイク効率が6%上昇する（最大3スタック、効果時間：24秒）。","fr":"Chaque fois que Cathbelle inflige des DGT EX, l'Efficacité de brise subie par l'ennemi touché augmente de 6 % (maximum 3 cumuls, durée : 24 s)."}
 {"id":1512052,"jp":"あなたの望むままに","fr":"Comme vous le souhaitez"}
 {"id":1512053,"jp":"攻撃力が50上昇する。\n被ダメージが5%減少する。\n雷属性ダメージ増幅が8%上昇する。","fr":"Augmente l'ATQ de 50.\nRéduit de 5 % les DGT subis.\nAugmente de 8 % l'Amplification des DGT de Foudre."}
 {"id":1512054,"jp":"まさかの毒舌？","fr":"Une langue acérée, vraiment ?"}
 {"id":1512055,"jp":"無礼な客人への眼差し","fr":"Un regard pour les invités impolis"}
 {"id":1512056,"jp":"客が主人に無礼を働けば、キャスベルは言葉で客の痛いところを突き、そしてまたナナチャに説教されるのだった。","fr":"Quand un invité manque de respect à sa maîtresse, Cathbelle le touche là où ça fait mal, avec des mots bien sentis, et se fait de nouveau sermonner par Nanacha."}
 {"id":1512057,"jp":"メイドの矜持","fr":"La fierté d'une domestique"}
+{"id":1512058,"jp":"キャスベルが星極スキルで刻印を消費した時、チーム全体の会心率が8%上昇し、会心ダメージが16%増加する（効果時間：24秒）。","fr":"Lorsque Cathbelle consomme des Sceaux avec sa Compétence Zénith stellaire, le Taux CRIT de toute l'équipe augmente de 8 % et les DGT CRIT de 16 % (durée : 24 s)."}
 {"id":1512059,"jp":"9足目の白いストッキング","fr":"La neuvième paire de bas blancs"}
 {"id":1512060,"jp":"失礼かもしれませんが、すこし手伝っていただけますか？私にとってはあまりにも脆すぎて……","fr":"Je vous demande pardon si c'est impoli, mais pourriez-vous m'aider un peu ? C'est bien trop fragile pour moi…"}
 {"id":1512061,"jp":"悪霊退散","fr":"Esprits mauvais, dehors !"}
@@ -15717,6 +15859,7 @@
 {"id":1512063,"jp":"か、過負荷だ……","fr":"S-surcharge…"}
 {"id":1512064,"jp":"たくさんのひと……たくさんのキボ……たくさんの声……どうしたらいいんでしょう……","fr":"Tant de gens… tant de Kibo… tant de voix… Que dois-je faire…"}
 {"id":1512065,"jp":"やっぱりここにいるのが一番ほっとします……","fr":"C'est vraiment ici que je me sens le mieux…"}
+{"id":1512066,"jp":"木棺を召喚して登場させた時、衝撃波を1回放ち、自身の攻撃力の150%分のダメージを与える。さらにチーム全体のEX会心率が15%上昇する（効果時間：24秒）。","fr":"Lors de son invocation, le cercueil en bois libère une onde de choc infligeant des DGT équivalents à 150 % de l'ATQ de Lan Xiangzi. Le Taux CRIT EX de toute l'équipe augmente également de 15 % (durée : 24 s)."}
 {"id":1512067,"jp":"天地正気","fr":"Le souffle juste du ciel et de la terre"}
 {"id":1512068,"jp":"攻撃力が50上昇する。\nエネルギー回復増幅が5%上昇する。\n氷属性ダメージ増幅が8%上昇する。","fr":"Augmente l'ATQ de 50.\nAugmente de 5 % l'Amplification de récupération d'Énergie.\nAugmente de 8 % l'Amplification des DGT de Glace."}
 {"id":1512069,"jp":"こ、こうやって描くんでしょうか……","fr":"C-c'est comme ça qu'il faut dessiner… ?"}
@@ -15728,13 +15871,17 @@
 {"id":1512075,"jp":"防御力が60上昇する。\nHPが800増加する。\n氷属性ダメージ増幅が8%上昇する。","fr":"Augmente la DÉF de 60.\nAugmente les PV de 800.\nAugmente de 8 % l'Amplification des DGT de Glace."}
 {"id":1512076,"jp":"も、もう休みたい……","fr":"J-je voudrais déjà me reposer…"}
 {"id":1512077,"jp":"お、おはようございます。ゆっくり休めましたか？もしよければ、わたくしのところでもうすこし横になっていても……その……","fr":"B-bonjour. Avez-vous pu vous reposer à votre aise ? Si vous le souhaitez, vous pouvez encore vous étendre un peu chez moi… c'est-à-dire… enfin…"}
+{"id":1512078,"jp":"あなたのおそばにいると、自分がただの生ける屍だとは思えなくなります。まるで、胸のなかでなにかがもう一度、鼓動をはじめたみたいで……これこそ、あなたがもたらしてくれた恩寵なのでしょうか？","fr":"Lorsque je suis à vos côtés, j'en oublie que je ne suis qu'un cadavre animé. C'est comme si quelque chose s'était remis à battre dans ma poitrine… Serait-ce là la grâce que vous m'avez accordée ?"}
 {"id":1512079,"jp":"停滞の者","fr":"L'être figé"}
 {"id":1512080,"jp":"魂魄安寧","fr":"Âmes en paix"}
+{"id":1512081,"jp":"蘭香子の天賦スキルによるチーム全体の全属性ダメージ増幅がさらに10%上昇する。\n魂の影がエネミーに命中した時、防御力を4%低下させる（最大3スタック、効果時間：24秒）。","fr":"L'Amplification des DGT de tous les éléments conférée à toute l'équipe par le talent de Lan Xiangzi augmente de 10 % supplémentaires.\nLorsqu'une ombre d'âme touche un ennemi, elle réduit sa DÉF de 4 % (maximum 3 cumuls, durée : 24 s)."}
 {"id":1512082,"jp":"奥深き鼓動","fr":"Un battement profond"}
 {"id":1512083,"jp":"じ、自分の気持ち、忘れたことはありません……あなたにも隠したりはしませんから。","fr":"J-je n'ai jamais oublié ce que je ressens… et je ne vous le cacherai pas non plus."}
 {"id":1512084,"jp":"アニスの星響スキルのクールタイムを16%短縮する。同スキルによるチーム全体の攻撃力増幅が16%になる。","fr":"Réduit de 16 % le temps de recharge de la Compétence Écho stellaire d'Anais. L'Amplification d'ATQ de toute l'équipe conférée par cette compétence passe à 16 %."}
 {"id":1512085,"jp":"『慈愛の微笑み』","fr":"« Le sourire bienveillant »"}
+{"id":1512086,"jp":"ふふ、もうわがまま言わないでちょうだい。このお薬を飲まないと、体はよくならないのよ？もう、どうすればいい子になってくれるのかしら……","fr":"Hihi, allons, ne fais plus de caprices. Si tu ne prends pas ce médicament, tu ne guériras pas, tu sais ? Voyons… Que vais-je bien pouvoir faire pour que tu sois sage ?"}
 {"id":1512087,"jp":"痛くてもリハビリ","fr":"La rééducation, même si ça fait mal"}
+{"id":1512088,"jp":"アニスが星響スキルを発動した後、チャージ攻撃の第二形態へ派生できる。この派生攻撃がエネミーに命中した後、対象の光属性被ダメージが8%増加する（効果時間：24秒）。","fr":"Après avoir activé sa Compétence Écho stellaire, Anais peut enchaîner avec une Attaque chargée de type 2. Lorsque cette attaque dérivée touche un ennemi, les DGT de Lumière subis par la cible augmentent de 8 % (durée : 24 s)."}
 {"id":1512089,"jp":"3匹のピアッド","fr":"Trois Piad"}
 {"id":1512090,"jp":"回復効果が10%上昇する。\nエネルギー回復増幅が4%上昇する。","fr":"Augmente l'effet de soin de 10 %.\nAugmente de 4 % l'Amplification de récupération d'Énergie."}
 {"id":1512091,"jp":"世界を柔らかさで満たす","fr":"Emplir le monde de douceur"}
@@ -15747,11 +15894,15 @@
 {"id":1512098,"jp":"1日の中で唯一の休憩時間","fr":"L'unique moment de repos de la journée"}
 {"id":1512099,"jp":"療養院のみんなの世話をするため、アニスはよく深夜まで働いていた。","fr":"Pour prendre soin de tout le monde au sanatorium, Anais travaillait souvent jusque tard dans la nuit."}
 {"id":1512100,"jp":"みんなのお母さん","fr":"La maman de tout le monde"}
+{"id":1512101,"jp":"アニスの星極スキルでEXダメージを与えた後、チーム全体のチャージ攻撃ダメージ増幅が30%になり、チーム全体の星極チャージをそれぞれ8回復する。","fr":"Lorsque la Compétence Zénith stellaire d'Anais inflige des DGT EX, l'Amplification des DGT d'Attaque chargée de toute l'équipe passe à 30 % et chaque membre récupère 8 points de charge du Zénith stellaire."}
 {"id":1512102,"jp":"純白の夢","fr":"Un rêve d'un blanc pur"}
 {"id":1512103,"jp":"そこは、星臨者が思わず安心と不安を同時に感じてしまう場所だ。","fr":"Un lieu où l'Enfant des étoiles ressent, malgré soi, apaisement et inquiétude à la fois."}
 {"id":1512104,"jp":"星の川に映るふたつの影","fr":"Deux silhouettes reflétées dans la rivière des étoiles"}
+{"id":1512105,"jp":"塗山小玉のチャージ攻撃が1撃命中するごとに、「縁結び値」をさらに3獲得する。\n「縁結び」がある間、自身の与ダメージが20%増加する。","fr":"Chaque coup réussi de l'Attaque chargée de Tushan Xiaoyu lui confère 3 points supplémentaires de « Nouer les liens ».\nTant que l'effet « Nouer les liens » est actif, ses DGT infligés augmentent de 20 %."}
 {"id":1512106,"jp":"縁結びの小仙狐","fr":"La petite renarde céleste qui noue les destins"}
+{"id":1512107,"jp":"百業この世に在るかぎり！因果の巡り終わりなーし！うちは青華郷から来た狐で、塗山氏の裔だよ――鏡花州の伝説では、みんなから『縁を守る仙狐』って呼ばれちゃってるけどね。","fr":"Tant que les cent métiers prospéreront en ce monde, le cycle des causes et des conséquences ne prendra jamais fin ! Je suis une renarde du village de Qinghua, descendante du clan Tushan. Mais dans les légendes du Cap Jinghua, tout le monde m'appelle « la renarde immortelle gardienne des liens » !"}
 {"id":1512108,"jp":"心に千の結び目あり","fr":"Mille nœuds dans le cœur"}
+{"id":1512109,"jp":"塗山小玉が星閃スキルを発動した後、パッシブ強化効果を直ちにスタック上限まで獲得し、風の刻印をさらに1つ獲得する。\n天賦スキルによる攻撃力増幅が12%になる。","fr":"Après avoir activé son Éclair stellaire, Tushan Xiaoyu obtient immédiatement le maximum de cumuls de son effet de renforcement passif ainsi que 1 Sceau de Vent supplémentaire.\nL'Amplification d'ATQ conférée par son talent passe à 12 %."}
 {"id":1512110,"jp":"花薫る紅袖","fr":"Manches pourpres parfumées de fleurs"}
 {"id":1512111,"jp":"EX強度が50上昇する。\n与ダメージが3%増加する。\n風属性ダメージ増幅が8%上昇する。","fr":"Augmente la Puissance EX de 50.\nAugmente de 3 % les DGT infligés.\nAugmente de 8 % l'Amplification des DGT de Vent."}
 {"id":1512112,"jp":"本当に泣けちゃうね……","fr":"Ça donne vraiment envie de pleurer…"}
@@ -15769,19 +15920,26 @@
 {"id":1512125,"jp":"良き縁と美しき夢","fr":"Belles rencontres et beaux rêves"}
 {"id":1512126,"jp":"縁に導かれて、またあんたはうちのそばに来てくれた。じゃあこの小さな仙狐が、あんたにできることってなにかな？","fr":"Te revoilà près de moi, grâce au destin. Alors, que peut bien faire pour toi cette petite renarde céleste ?"}
 {"id":1512127,"jp":"炎は夜明けまえに囁く","fr":"Les flammes murmurent avant l'aube"}
+{"id":1512128,"jp":"ルビーナが刻印を消費した後しばらくの間、強化通常攻撃の連続攻撃を7段目から始まったものとして扱う。さらに自身の会心ダメージが20%増加する（効果時間：15秒）。","fr":"Pendant un certain temps après que Ruby a consommé des Sceaux, son enchaînement d'Attaques normales renforcées est considéré comme commençant au 7e coup. Ses DGT CRIT augmentent également de 20 % (durée : 15 s)."}
 {"id":1512129,"jp":"アーティスト","fr":"Artiste"}
 {"id":1512130,"jp":"ロジニア連邦にその名を轟かせる武器アーティスト、『紅き炎雷』参上！","fr":"Artiste des armes dont le nom résonne dans toute la Fédération de Roginia, « Foudre de flammes écarlates » fait son entrée !"}
 {"id":1512131,"jp":"光と影が交錯する誓い","fr":"Un serment où se croisent l'ombre et la lumière"}
+{"id":1512132,"jp":"ルビーナの星極スキルの最後の一撃がエネミーに命中した後、自身の攻撃力が10%上昇する（効果時間：30秒）。\n星極スキルで刻印を1つ消費するごとに、弾薬が無限になる時間が2秒延長される。","fr":"Lorsque le dernier coup de la Compétence Zénith stellaire de Ruby touche un ennemi, son ATQ augmente de 10 % (durée : 30 s).\nChaque Sceau consommé par sa Compétence Zénith stellaire prolonge de 2 s la durée de ses munitions illimitées."}
 {"id":1512133,"jp":"夢を貫く弾丸","fr":"La balle qui perce les rêves"}
 {"id":1512134,"jp":"攻撃力が50上昇する。\n会心ダメージが8%増加する。\n火属性ダメージ増幅が8%上昇する。","fr":"Augmente l'ATQ de 50.\nAugmente de 8 % les DGT CRIT.\nAugmente de 8 % l'Amplification des DGT de Feu."}
 {"id":1512135,"jp":"大芸術家","fr":"Grande artiste"}
+{"id":1512136,"jp":"あたしのアートは、どんな武器よりも鋭くて、どんなアートよりも貴重なの。世の闇すらも覆い隠せぬその輝きは……ってちょっと待って、『起動呪文』はなんだったっけ……","fr":"Mon art est plus tranchant que n'importe quelle arme et plus précieux que toute autre œuvre. Son éclat est tel que même les ténèbres du monde ne sauraient le dissimuler… Attends un peu, c'était quoi déjà, la « formule d'activation »…"}
 {"id":1512137,"jp":"夜の帳に杯を","fr":"Trinquer sous le voile de la nuit"}
+{"id":1512138,"jp":"「レッドホット」は星極スキルの発動時に追加で3スタック獲得でき、1スタックにつき自身の与ダメージが2%増加する（最大9スタック）。","fr":"L'activation de la Compétence Zénith stellaire confère 3 cumuls supplémentaires de « Rouge incandescent ». Chaque cumul augmente les DGT infligés par Ruby de 2 % (maximum 9 cumuls)."}
 {"id":1512139,"jp":"硝子の森を疾る流星","fr":"Un météore filant à travers la forêt de verre"}
 {"id":1512140,"jp":"攻撃力が50上昇する。\n防御貫通が4%上昇する。\n与ダメージが3%増加する。","fr":"Augmente l'ATQ de 50.\nAugmente de 4 % la Pénétration de DÉF.\nAugmente de 3 % les DGT infligés."}
 {"id":1512141,"jp":"スーパーアーティスト","fr":"Super artiste"}
 {"id":1512142,"jp":"魔導と魔法の狭間で、未来への号令を詠唱する『連邦のレジェンド級武器アーティスト』。きらめく光が世界を照らす――ルビーナ！","fr":"Entre magie technique et sortilèges, elle lance le cri de ralliement vers l'avenir : l'« artiste des armes légendaire de la Fédération ». Une lumière scintillante éclaire le monde : voici Ruby !"}
+{"id":1512143,"jp":"って、あれれ？来てたんだ！ねぇねぇ、そこにある本を取ってくれない？そう！その10冊全部――ふふん、インスピレーションの泉を泳ぐわよ！","fr":"Hein ? Oh, tu es là ! Dis, dis, tu pourrais me passer les livres qui sont là-bas ? Oui ! Les dix, tous ! Héhé, plongeons dans la source de l'inspiration !"}
 {"id":1512144,"jp":"未完のオレンジの詩篇","fr":"Poème orange inachevé"}
+{"id":1512145,"jp":"ルビーナの強化通常攻撃のダメージ倍率が15%上昇する。\nこの戦闘中、強化通常攻撃を行った後は毎回、自身の防御貫通が0.6%上昇する（最大50スタック）。戦闘終了まで続く。","fr":"Augmente de 15 % le multiplicateur de DGT des Attaques normales renforcées de Ruby.\nPendant ce combat, chaque Attaque normale renforcée effectuée augmente sa Pénétration de DÉF de 0,6 % (maximum 50 cumuls). Cet effet persiste jusqu'à la fin du combat."}
 {"id":1512146,"jp":"工房でのひととき","fr":"Un moment à l'atelier"}
+{"id":1512147,"jp":"今日は、あたしと一緒につぎの作品の設計について研究してもらうわ！ふふん、そこらへんのとは違って、あたしはそう簡単に満足なんてしないからね。","fr":"Aujourd'hui, tu vas m'aider à concevoir ma prochaine œuvre ! Héhé, contrairement au commun des mortels, je ne me satisfais pas aussi facilement, tu sais."}
 {"id":1512148,"jp":"芽吹きの角","fr":"Cornes bourgeonnantes"}
 {"id":1512149,"jp":"カタルのスキルで得たシールドが永続する。\nそのシールドがある時、ブレイク効率が10%上昇する。","fr":"Le bouclier obtenu grâce à la compétence de Katalua devient permanent.\nTant que ce bouclier est actif, augmente de 10 % l'Efficacité de brise."}
 {"id":1512150,"jp":"勇敢なウシさん","fr":"Courageuse petite vache"}
@@ -15802,8 +15960,11 @@
 {"id":1512165,"jp":"後ろにいて。わたしが……あなたを守るから！","fr":"Reste derrière moi. Je… Je te protégerai !"}
 {"id":1512166,"jp":"『角曲がりの一族』の最も頑丈な盾","fr":"Le plus solide bouclier du « clan des Cornes courbées »"}
 {"id":1512167,"jp":"きらめく瞳","fr":"Des yeux pétillants"}
+{"id":1512168,"jp":"星響スキルによるエネミーの被ダメージ増加量が20%になる。\n星閃スキルによる攻撃力増幅量が、カタルの基礎防御力の40%分になる。","fr":"La hausse des DGT subis par les ennemis conférée par la Compétence Écho stellaire passe à 20 %.\nL'Amplification d'ATQ conférée par l'Éclair stellaire devient équivalente à 40 % de la DÉF de base de Katalua."}
 {"id":1512169,"jp":"堅盾の背後","fr":"Derrière le bouclier solide"}
+{"id":1512170,"jp":"うぅ……わ、わたしって、わたあめみたいにふわふわしてて頼りなさそうに見えるのかな？でもね……実はわたしって、すっごく粘り強いんだよ！","fr":"Ouh… E-est-ce que j'ai vraiment l'air aussi légère et peu fiable qu'une barbe à papa ? Pourtant… En réalité, je suis vraiment, vraiment tenace !"}
 {"id":1512171,"jp":"歓声！旅のはじまり","fr":"Hourra ! Le voyage commence"}
+{"id":1512172,"jp":"「ニャンニャンラッシュ」の効果時間が24秒に延長され、操作キャラクターを切り替えた時も引き継がれる。\n「ニャンニャンラッシュ」による固定ダメージが50%増加する。","fr":"La durée de « Ruée nya-nya » est prolongée à 24 s et son effet persiste lors d'un changement de personnage contrôlé.\nAugmente de 50 % les DGT fixes infligés par « Ruée nya-nya »."}
 {"id":1512173,"jp":"元気な案内娘","fr":"Une guide pleine d'entrain"}
 {"id":1512174,"jp":"『冒険者協会の受付』と『キボファイト組合の案内人』を兼任している。","fr":"Elle est à la fois « l'accueil de la Guilde des aventuriers » et « le guide de l'Association de Duel de Kibo »."}
 {"id":1512175,"jp":"お役に立ててうれしいなぁ～","fr":"Ça me fait tellement plaisir d'avoir pu aider ~"}
@@ -15822,18 +15983,22 @@
 {"id":1512189,"jp":"甘い愛","fr":"Un amour tout doux"}
 {"id":1512190,"jp":"もう、すっごーい！こんなに胸が高鳴るひと、初めて出会ったよ。冒険者さん、だ〜い好きだよ！","fr":"Oh là là, c'est génial ! C'est la première fois que je rencontre quelqu'un qui me fait battre le cœur comme ça. Partenaire d'aventure, je t'adore !"}
 {"id":1512191,"jp":"暗中に蓄えし根の力","fr":"La force des racines amassée dans l'ombre"}
+{"id":1512192,"jp":"メーツァが通常攻撃の4段目、チャージ攻撃を行った時、エネミーに「茨」を付与する（最大2スタック）。\nメーツァがチャージ攻撃を行う時、自身のよろけ耐性が1段階上昇する。\nメーツァの星極スキルのダメージ倍率が12%上昇する。","fr":"Lorsque Metsa effectue le 4e coup de son Attaque normale ou une Attaque chargée, elle applique « Ronces » aux ennemis (maximum 2 cumuls).\nPendant son Attaque chargée, sa résistance au déséquilibre augmente de 1 palier.\nAugmente de 12 % le multiplicateur de DGT de sa Compétence Zénith stellaire."}
 {"id":1512193,"jp":"翠緑の英冠","fr":"La couronne vert émeraude"}
 {"id":1512194,"jp":"長い旅になるけれど、花々が美しく咲き誇るそのときまで、あなたとともに歩めることを願うわ。","fr":"Ce sera un long voyage, mais j'espère marcher à tes côtés jusqu'au moment où les fleurs s'épanouiront dans toute leur beauté."}
 {"id":1512195,"jp":"エヴァーガーデンのガーデナー","fr":"Jardinier du Jardin d'Evergreen"}
+{"id":1512196,"jp":"メーツァが通常攻撃の4段目、チャージ攻撃、またはジャストガードからの反撃を発動した時、エネミーが受ける木・風属性ダメージが15%増加する（効果時間：24秒）。\nメーツァが星極スキルを発動した後は、次のチャージ攻撃を素早く発動できる。","fr":"Lorsque Metsa effectue le 4e coup de son Attaque normale, une Attaque chargée ou une contre-attaque après une Garde parfaite, les DGT de Bois et de Vent subis par les ennemis augmentent de 15 % (durée : 24 s).\nAprès avoir activé sa Compétence Zénith stellaire, Metsa peut effectuer rapidement sa prochaine Attaque chargée."}
 {"id":1512197,"jp":"光のなか芽吹く新芽","fr":"Une pousse qui germe dans la lumière"}
 {"id":1512198,"jp":"ときを超える価値","fr":"Une valeur qui traverse le temps"}
 {"id":1512199,"jp":"こうしてイグドラシルの一枝を守ることは、私の使命であり、この上ない栄誉なの。","fr":"Veiller ainsi sur une branche d'Yggdrasil est ma mission, et le plus grand des honneurs."}
 {"id":1512200,"jp":"風と語らう樹冠","fr":"La cime qui parle au vent"}
+{"id":1512201,"jp":"メーツァの星響スキルのダメージ倍率が10%上昇する。\nメーツァの星極スキルが刻印を消費した後、チーム全体に付与する木属性ダメージ増幅と風属性ダメージ増幅が、それぞれさらに16%上昇する。","fr":"Augmente de 10 % le multiplicateur de DGT de la Compétence Écho stellaire de Metsa.\nLorsque sa Compétence Zénith stellaire consomme des Sceaux, l'Amplification des DGT de Bois et l'Amplification des DGT de Vent conférées à toute l'équipe augmentent chacune de 16 % supplémentaires."}
 {"id":1512202,"jp":"静寂に咲き誇る花","fr":"Une fleur éclose dans le silence"}
 {"id":1512203,"jp":"キボの友","fr":"L'amie des Kibo"}
 {"id":1512204,"jp":"この子たちはね、私の目の届かない場所を歩きまわって、帰ってくるとおもしろいお話をたくさん聞かせてくれるの。","fr":"Ces petits compagnons parcourent des endroits que mon regard n'atteint pas, et à leur retour, ils me racontent plein d'histoires amusantes."}
 {"id":1512205,"jp":"彼女のために、花の枝や木の種をくわえてきたり、おとなしく撫でさせてくれたり、一緒に森の小川を渡ったり……","fr":"Pour elle, ils rapportent des brindilles fleuries ou des graines d'arbres, se laissent caresser sagement, traversent avec elle les ruisseaux de la forêt…"}
 {"id":1512206,"jp":"数多の生命","fr":"Des vies innombrables"}
+{"id":1512207,"jp":"メーツァの星極スキルと星閃スキルによる回復が発動するたび、チーム全体の与える木属性ダメージと風属性ダメージが4%増加する（最大6スタック、効果時間：24秒）。\n「霊木の種」を拾った後にチーム全体が回復する星極チャージが2になる。","fr":"Chaque fois que les soins de la Compétence Zénith stellaire ou de l'Éclair stellaire de Metsa se déclenchent, les DGT de Bois et de Vent infligés par toute l'équipe augmentent de 4 % (maximum 6 cumuls, durée : 24 s).\nRamasser une « Graine d'arbre spirituel » restaure désormais 2 points de charge du Zénith stellaire à chaque membre de l'équipe."}
 {"id":1512208,"jp":"午後","fr":"Après-midi"}
 {"id":1512209,"jp":"ごきげんよう。いいお天気で、風も心地よくて……こんな日は、一緒に過ごすのにちょうどいいわね。","fr":"Bien le bonjour. Il fait beau, le vent est agréable… Par une journée pareille, il fait bon la passer ensemble."}
 {"id":1512211,"jp":"千代","fr":"Chiyo"}
@@ -15869,7 +16034,42 @@
 {"id":1512241,"jp":"牧場で{name}系のアイテムの追加ドロップの確率が+{value}される。","fr":"Au pâturage, augmente de {value} la chance d'obtenir en plus des objets de type {name}."}
 {"id":1512242,"jp":"{name2021}で、{name2026}元素のアイテムの生産量が2倍になる確率が+{value}される。","fr":"À {name2021}, augmente de {value} la chance de doubler la quantité d'objets de l'élément {name2026} produits."}
 {"id":1512243,"jp":"{name}で、全レシピの所要時間は{value}まで短縮される。","fr":"À {name}, le temps requis pour toutes les recettes peut être réduit jusqu'à {value}."}
+{"id":1512244,"jp":"<color=#ef903d>軟木</color>の1日あたりの産出量<color=#ef903d>+360</color>","fr":"Production quotidienne de <color=#ef903d>bois tendre</color> <color=#ef903d>+360</color>"}
+{"id":1512245,"jp":"<color=#ef903d>繊維</color>の1日あたりの産出量<color=#ef903d>+120</color>","fr":"Production quotidienne de <color=#ef903d>fibres</color> <color=#ef903d>+120</color>"}
+{"id":1512246,"jp":"<color=#ef903d>{0}</color>の保管上限を<color=#ef903d>{1}</color>マス増やす","fr":"Augmente de <color=#ef903d>{1}</color> cases la capacité de stockage de <color=#ef903d>{0}</color>"}
+{"id":1512247,"jp":"<color=#ef903d>{0}</color>で<color=#ef903d>{1}</color>の生産が解放される","fr":"Débloque la production de <color=#ef903d>{1}</color> dans <color=#ef903d>{0}</color>"}
+{"id":1512248,"jp":"<color=#ef903d>硬木</color>の1日あたりの産出量<color=#ef903d>+360</color>","fr":"Production quotidienne de <color=#ef903d>bois dur</color> <color=#ef903d>+360</color>"}
+{"id":1512249,"jp":"<color=#ef903d>風銅採鉱場</color>で<color=#ef903d>塵石</color>の1日あたりの産出量<color=#ef903d>+240</color>","fr":"Production quotidienne de <color=#ef903d>pierres de poussière</color> à la <color=#ef903d>mine de cuivre du vent</color> <color=#ef903d>+240</color>"}
+{"id":1512250,"jp":"<color=#ef903d>風銅採鉱場</color>で<color=#ef903d>黄玉</color>の1日あたりの産出量<color=#ef903d>+4</color>","fr":"Production quotidienne de <color=#ef903d>topazes</color> à la <color=#ef903d>mine de cuivre du vent</color> <color=#ef903d>+4</color>"}
+{"id":1512251,"jp":"<color=#ef903d>閃錫採鉱場</color>で<color=#ef903d>塵石</color>の1日あたりの産出量<color=#ef903d>+240</color>","fr":"Production quotidienne de <color=#ef903d>pierres de poussière</color> à la <color=#ef903d>mine d'étain scintillant</color> <color=#ef903d>+240</color>"}
+{"id":1512252,"jp":"<color=#ef903d>閃錫採鉱場</color>で<color=#ef903d>黄玉</color>の1日あたりの産出量<color=#ef903d>+4</color>","fr":"Production quotidienne de <color=#ef903d>topazes</color> à la <color=#ef903d>mine d'étain scintillant</color> <color=#ef903d>+4</color>"}
+{"id":1512253,"jp":"<color=#ef903d>鏡鉄採鉱場</color>で<color=#ef903d>硬岩</color>の1日あたりの産出量<color=#ef903d>+160</color>","fr":"Production quotidienne de <color=#ef903d>roches dures</color> à la <color=#ef903d>mine de fer miroir</color> <color=#ef903d>+160</color>"}
+{"id":1512254,"jp":"<color=#ef903d>鏡鉄採鉱場</color>で<color=#ef903d>青晶</color>の1日あたりの産出量<color=#ef903d>+2</color>","fr":"Production quotidienne de <color=#ef903d>cristaux bleus</color> à la <color=#ef903d>mine de fer miroir</color> <color=#ef903d>+2</color>"}
+{"id":1512255,"jp":"<color=#ef903d>空鉄採鉱場</color>で<color=#ef903d>硬岩</color>の1日あたりの産出量<color=#ef903d>+160</color>","fr":"Production quotidienne de <color=#ef903d>roches dures</color> à la <color=#ef903d>mine de fer céleste</color> <color=#ef903d>+160</color>"}
+{"id":1512256,"jp":"<color=#ef903d>空鉄採鉱場</color>で<color=#ef903d>銀</color>の1日あたりの産出量<color=#ef903d>+2</color>","fr":"Production quotidienne d'<color=#ef903d>argent</color> à la <color=#ef903d>mine de fer céleste</color> <color=#ef903d>+2</color>"}
+{"id":1512257,"jp":"<color=#ef903d>風銅採鉱場</color>で<color=#ef903d>風銅鉱</color>の1日あたりの産出量<color=#ef903d>+360</color>","fr":"Production quotidienne de <color=#ef903d>minerai de cuivre du vent</color> à la <color=#ef903d>mine de cuivre du vent</color> <color=#ef903d>+360</color>"}
+{"id":1512258,"jp":"<color=#ef903d>閃錫採鉱場</color>で<color=#ef903d>閃錫鉱</color>の1日あたりの産出量<color=#ef903d>+120</color>","fr":"Production quotidienne de <color=#ef903d>minerai d'étain scintillant</color> à la <color=#ef903d>mine d'étain scintillant</color> <color=#ef903d>+120</color>"}
+{"id":1512259,"jp":"<color=#ef903d>鏡鉄採鉱場</color>で<color=#ef903d>鏡鉄鉱</color>の1日あたりの産出量<color=#ef903d>+90</color>","fr":"Production quotidienne de <color=#ef903d>minerai de fer miroir</color> à la <color=#ef903d>mine de fer miroir</color> <color=#ef903d>+90</color>"}
+{"id":1512260,"jp":"<color=#ef903d>空鉄採鉱場</color>で<color=#ef903d>空鉄鉱</color>の1日あたりの産出量<color=#ef903d>+72</color>","fr":"Production quotidienne de <color=#ef903d>minerai de fer céleste</color> à la <color=#ef903d>mine de fer céleste</color> <color=#ef903d>+72</color>"}
+{"id":1512261,"jp":"<color=#ef903d>地元素の微粒子</color>の1日あたりの産出量<color=#ef903d>+90</color>","fr":"Production quotidienne de <color=#ef903d>particules élémentaires de Terre</color> <color=#ef903d>+90</color>"}
+{"id":1512262,"jp":"<color=#ef903d>水元素の微粒子</color>の1日あたりの産出量<color=#ef903d>+90</color>","fr":"Production quotidienne de <color=#ef903d>particules élémentaires d'Eau</color> <color=#ef903d>+90</color>"}
+{"id":1512263,"jp":"<color=#ef903d>火元素の微粒子</color>の1日あたりの産出量<color=#ef903d>+90</color>","fr":"Production quotidienne de <color=#ef903d>particules élémentaires de Feu</color> <color=#ef903d>+90</color>"}
+{"id":1512264,"jp":"<color=#ef903d>風元素の微粒子</color>の1日あたりの産出量<color=#ef903d>+90</color>","fr":"Production quotidienne de <color=#ef903d>particules élémentaires de Vent</color> <color=#ef903d>+90</color>"}
+{"id":1512265,"jp":"<color=#ef903d>氷元素の微粒子</color>の1日あたりの産出量<color=#ef903d>+90</color>","fr":"Production quotidienne de <color=#ef903d>particules élémentaires de Glace</color> <color=#ef903d>+90</color>"}
+{"id":1512266,"jp":"<color=#ef903d>雷元素の微粒子</color>の1日あたりの産出量<color=#ef903d>+90</color>","fr":"Production quotidienne de <color=#ef903d>particules élémentaires de Foudre</color> <color=#ef903d>+90</color>"}
+{"id":1512267,"jp":"<color=#ef903d>木元素の微粒子</color>の1日あたりの産出量<color=#ef903d>+90</color>","fr":"Production quotidienne de <color=#ef903d>particules élémentaires de Bois</color> <color=#ef903d>+90</color>"}
+{"id":1512268,"jp":"<color=#ef903d>光元素の微粒子</color>の1日あたりの産出量<color=#ef903d>+30</color>","fr":"Production quotidienne de <color=#ef903d>particules élémentaires de Lumière</color> <color=#ef903d>+30</color>"}
+{"id":1512269,"jp":"<color=#ef903d>闇元素の微粒子</color>の1日あたりの産出量<color=#ef903d>+30</color>","fr":"Production quotidienne de <color=#ef903d>particules élémentaires de Ténèbres</color> <color=#ef903d>+30</color>"}
 {"id":1512270,"jp":"元素微粒子の保管上限が<color=#ef903d>{0}</color>増加する","fr":"Augmente de <color=#ef903d>{0}</color> la capacité de stockage des particules élémentaires"}
+{"id":1512271,"jp":"<color=#ef903d>マダラキノコ</color>の1日あたりの産出量<color=#ef903d>+15</color>","fr":"Production quotidienne de <color=#ef903d>champignons tachetés</color> <color=#ef903d>+15</color>"}
+{"id":1512272,"jp":"<color=#ef903d>エイプル</color>の1日あたりの産出量<color=#ef903d>+15</color>","fr":"Production quotidienne d'<color=#ef903d>Aple</color> <color=#ef903d>+15</color>"}
+{"id":1512273,"jp":"<color=#ef903d>チシキ</color>の1日あたりの産出量<color=#ef903d>+15</color>","fr":"Production quotidienne de <color=#ef903d>Chishiki</color> <color=#ef903d>+15</color>"}
+{"id":1512274,"jp":"<color=#ef903d>ムーンベリー</color>の1日あたりの産出量<color=#ef903d>+15</color>","fr":"Production quotidienne de <color=#ef903d>baies lunaires</color> <color=#ef903d>+15</color>"}
+{"id":1512275,"jp":"<color=#ef903d>ユースベリー</color>の1日あたりの産出量<color=#ef903d>+15</color>","fr":"Production quotidienne de <color=#ef903d>baies de jouvence</color> <color=#ef903d>+15</color>"}
+{"id":1512276,"jp":"<color=#ef903d>リッチモモ</color>の1日あたりの産出量<color=#ef903d>+15</color>","fr":"Production quotidienne de <color=#ef903d>pêches savoureuses</color> <color=#ef903d>+15</color>"}
+{"id":1512277,"jp":"<color=#ef903d>砕けた星輝鉱</color>の1日あたりの産出量<color=#ef903d>+200</color>","fr":"Production quotidienne de <color=#ef903d>minerai d'éclat stellaire fragmenté</color> <color=#ef903d>+200</color>"}
+{"id":1512278,"jp":"<color=#ef903d>砕けた星輝鉱</color>の1日あたりの産出量<color=#ef903d>+400</color>","fr":"Production quotidienne de <color=#ef903d>minerai d'éclat stellaire fragmenté</color> <color=#ef903d>+400</color>"}
+{"id":1512279,"jp":"<color=#ef903d>砕けた星輝鉱</color>の1日あたりの産出量<color=#ef903d>+500</color>","fr":"Production quotidienne de <color=#ef903d>minerai d'éclat stellaire fragmenté</color> <color=#ef903d>+500</color>"}
 {"id":1512280,"jp":"餌場で産出されるキボの卵に<color=#ef903d>高個体値</color>の特性が付く確率が上昇する","fr":"Augmente la chance que les œufs de Kibo produits à l'aire de nourrissage aient le trait <color=#ef903d>haut potentiel</color>"}
 {"id":1512281,"jp":"低確率でレアなキボの卵を産出する","fr":"Faible probabilité de produire un œuf de Kibo Rare"}
 {"id":1512282,"jp":"餌場で産出されるキボの卵に<color=#ef903d>輝く</color>の特性が付く確率が上昇する","fr":"Augmente la chance que les œufs de Kibo produits à l'aire de nourrissage aient le trait <color=#ef903d>brillant</color>"}
