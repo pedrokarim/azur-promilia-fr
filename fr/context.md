@@ -51,7 +51,7 @@ Seuls les traits relevés dans le texte du jeu sont notés ici. Un personnage ga
 Le japonais marque la politesse par la forme des verbes et par les suffixes, le français par le tutoiement. Règle de départ :
 - un personnage qui emploie les formes polies (です・ます, さま) avec le joueur le vouvoie ;
 - le langage familier, les enfants et Lumi tutoient ;
-- le joueur, quand ses choix de réponse s'adressent à un personnage, suit le registre de celui-ci.
+- le joueur tutoie tout le monde, comme en japonais où il parle familièrement à chacun, même aux personnages qui le vouvoient (échange « vous / tu »). Décidé le 26/11/2026.
 
 Une fois choisi pour un personnage, le registre ne change plus, sauf si l'histoire le fait évoluer (rapprochement, dispute) : le noter alors dans ce fichier.
 
@@ -61,7 +61,7 @@ Relevés dans les dialogues déjà traduits. Un traducteur les applique tels que
 
 - Lumi tutoie tout le monde et parle d'elle à la troisième personne (« la grande Lumi », « la Grande Fée »).
 - Symphoria (surnom « Chiffon ») vouvoie le joueur et les PNJ.
-- Le joueur tutoie ses compagnons et vouvoie qui le vouvoie.
+- Le joueur tutoie tout le monde, y compris ceux qui le vouvoient.
 - Tutoient : Terara, Mitty, Komugi, Ruby, Lily, Han Youyou, Xiaoyu (« renarde céleste »), Peipei (à la troisième personne), Maple (« nya »), le Chef du village, le Seigneur Faucon, Joy, Gladia, le boulanger.
 - Vouvoient : Shiroro, Chilul, Lan Xiangzi, Sans-Nom (« Sire Sans-Nom »), Nanacha (« Mademoiselle » pour Komugi), l'infirmière, les compagnies Tianjiang et Goyard.
 - Lan Xiangzi enfant et son père, Abby (phrases d'enfant), Peipei : parlent d'eux à la troisième personne.
