@@ -10,26 +10,37 @@
 {"id":1495188,"jp":"チーム全体の会心率が<color=#EF903D>15%</color>上昇し、会心ダメージが<color=#EF903D>30%</color>増加する。","fr":"Augmente de <color=#EF903D>15 %</color> le Taux CRIT et de <color=#EF903D>30 %</color> les DGT CRIT de toute l'équipe."}
 {"id":1495189,"jp":"鋭進","fr":"Percée acérée"}
 {"id":1495191,"jp":"同調","fr":"Synchronie"}
+{"id":1495192,"jp":"刻印を獲得した後、チーム全体の与ダメージが<color=#EF903D>8%</color>増加する（最大<color=#EF903D>3</color>スタック、効果時間：<color=#EF903D>24</color>秒）。","fr":"Après avoir obtenu un Sceau, augmente de <color=#EF903D>8 %</color> les DGT infligés de toute l'équipe (<color=#EF903D>3</color> cumuls max., durée : <color=#EF903D>24</color> s)."}
 {"id":1495193,"jp":"共鳴","fr":"Résonance"}
 {"id":1495194,"jp":"キボ特殊スキルを発動した後、チーム全体の星極チャージが<color=#EF903D>5</color>増加する。","fr":"Après avoir utilisé une compétence spéciale de Kibo, augmente de <color=#EF903D>5</color> la charge Zénith stellaire de toute l'équipe."}
 {"id":1495195,"jp":"熱風","fr":"Vent brûlant"}
 {"id":1495196,"jp":"チーム全体の風属性ダメージと火属性ダメージが<color=#EF903D>25%</color>増加する。","fr":"Augmente de <color=#EF903D>25 %</color> les DGT de Vent et de Feu de toute l'équipe."}
 {"id":1495197,"jp":"損傷","fr":"Blessure"}
+{"id":1495198,"jp":"エネミーがブレイクしている間、そのエネミーの被ダメージ増幅倍率が<color=#EF903D>220%</color>になる。","fr":"Tant qu'un ennemi est en brise, son multiplicateur d'Amplification des DGT subis passe à <color=#EF903D>220 %</color>."}
 {"id":1495199,"jp":"同調強化","fr":"Synchronie renforcée"}
 {"id":1495200,"jp":"チーム全体のEX強度が<color=#EF903D>200</color>上昇する。","fr":"Augmente de <color=#EF903D>200</color> la Puissance EX de toute l'équipe."}
 {"id":1495201,"jp":"星の恩寵","fr":"Grâce des étoiles"}
+{"id":1495202,"jp":"星閃スキル発動後3秒以内にチャージ攻撃を行うと、チーム全体の星極チャージが<color=#EF903D>10</color>増加する（クールタイム：<color=#EF903D>30</color>秒）。","fr":"Si une Attaque chargée est effectuée dans les 3 secondes suivant l'utilisation d'une Compétence Éclair stellaire, augmente de <color=#EF903D>10</color> la charge Zénith stellaire de toute l'équipe (temps de recharge : <color=#EF903D>30</color> s)."}
 {"id":1495203,"jp":"蓄積","fr":"Réserve"}
+{"id":1495204,"jp":"刻印を付与するたびに、EX強度が<color=#EF903D>50</color>上昇する（最大<color=#EF903D>5</color>スタック、効果時間：<color=#EF903D>24</color>秒）。","fr":"À chaque application d'un Sceau, augmente de <color=#EF903D>50</color> la Puissance EX (<color=#EF903D>5</color> cumuls max., durée : <color=#EF903D>24</color> s)."}
 {"id":1495205,"jp":"協動","fr":"Coopération"}
+{"id":1495206,"jp":"キボ特殊スキルを発動した後、操作キャラクターのブレイク効率が<color=#EF903D>30%</color>上昇する（効果時間：<color=#EF903D>15</color>秒）。","fr":"Après avoir utilisé une compétence spéciale de Kibo, augmente de <color=#EF903D>30 %</color> l'Efficacité de brise du personnage contrôlé (durée : <color=#EF903D>15</color> s)."}
 {"id":1495207,"jp":"援護","fr":"Couverture"}
+{"id":1495208,"jp":"増幅または支援のキャラクターが星響スキルを発動した後、チーム全体の被ダメージが<color=#EF903D>50%</color>減少する（効果時間：<color=#EF903D>20</color>秒）。","fr":"Après qu'un personnage de rôle Amplification ou Soutien a utilisé une Compétence Écho stellaire, réduit de <color=#EF903D>50 %</color> les DGT subis de toute l'équipe (durée : <color=#EF903D>20</color> s)."}
 {"id":1495209,"jp":"蓄撃","fr":"Frappe accumulée"}
 {"id":1495211,"jp":"シナジー","fr":"Synergie"}
 {"id":1495213,"jp":"チャージ","fr":"Charge"}
+{"id":1495214,"jp":"キャラクターが光属性ダメージまたは地属性ダメージを与えた時、自身の会心ダメージが<color=#EF903D>50%</color>増加する（効果時間：<color=#EF903D>10</color>秒）。","fr":"Quand un personnage inflige des DGT de Lumière ou de Terre, augmente ses propres DGT CRIT de <color=#EF903D>50 %</color> (durée : <color=#EF903D>10</color> s)."}
 {"id":1495215,"jp":"協調","fr":"Harmonie"}
+{"id":1495216,"jp":"風の刻印または火の刻印がある時、チーム全体の通常攻撃による風・火の刻印の属性ダメージが<color=#EF903D>30%</color>増加する。","fr":"Tant qu'un Sceau de Vent ou de Feu est présent, augmente de <color=#EF903D>30 %</color> les DGT élémentaires des Sceaux de Vent et de Feu infligés par les Attaques normales de toute l'équipe."}
 {"id":1495217,"jp":"冥風","fr":"Vent ténébreux"}
+{"id":1495218,"jp":"エネミーが受ける属性有利ダメージの倍率が<color=#EF903D>15%</color>に低下し、風属性と闇属性の被ダメージが<color=#EF903D>20%</color>増加する。","fr":"Le multiplicateur des DGT d'avantage élémentaire subis par les ennemis tombe à <color=#EF903D>15 %</color>, et leurs DGT de Vent et de Ténèbres subis augmentent de <color=#EF903D>20 %</color>."}
 {"id":1495219,"jp":"超限","fr":"Surpassement"}
 {"id":1495221,"jp":"累積","fr":"Cumul"}
 {"id":1495223,"jp":"奇技","fr":"Technique singulière"}
+{"id":1495224,"jp":"キボ特殊スキルを発動した後、自身の与ダメージが<color=#EF903D>12%</color>増加する（効果時間：<color=#EF903D>24</color>秒）。","fr":"Après avoir utilisé une compétence spéciale de Kibo, augmente ses propres DGT infligés de <color=#EF903D>12 %</color> (durée : <color=#EF903D>24</color> s)."}
 {"id":1495226,"jp":"連携","fr":"Coordination"}
+{"id":1495227,"jp":"キボ特殊スキルを発動した後、自身の全属性ダメージが<color=#EF903D>30%</color>増加する（効果時間：<color=#EF903D>24</color>秒）。","fr":"Après avoir utilisé une compétence spéciale de Kibo, augmente ses propres DGT de tous les éléments de <color=#EF903D>30 %</color> (durée : <color=#EF903D>24</color> s)."}
 {"id":1495228,"jp":"暴勢","fr":"Déchaînement"}
 {"id":1495230,"jp":"創流の円環Ⅰ","fr":"Cercle de la genèse Ⅰ"}
 {"id":1495231,"jp":"敵を倒す","fr":"Vaincre les ennemis"}
@@ -106,12 +117,15 @@
 {"id":1495302,"jp":"歴戦の勇士の指輪","fr":"Anneau du vétéran"}
 {"id":1495303,"jp":"簡素で洗練された作りの指輪。飾り気のなさが、勇士そのものを思わせる。","fr":"Anneau d'une facture sobre et raffinée. Son absence d'ornement évoque le vaillant guerrier lui-même."}
 {"id":1495304,"jp":"斥候のマント","fr":"Cape de l'éclaireur"}
+{"id":1495305,"jp":"先陣を切る者のために用意されたマント。ひらりとひるがえる、軽やかな仕立てで、疾走や突撃の妨げにならず着用者の身を守ってくれる。","fr":"Une cape conçue pour qui ouvre la marche. Légère, elle flotte avec grâce au moindre mouvement et protège le porteur sans gêner ni la course ni la charge."}
 {"id":1495306,"jp":"斥候の下衣","fr":"Pantalon de l'éclaireur"}
+{"id":1495307,"jp":"先陣を切る者のために用意された下衣。邪魔にならないすっきりとしたシルエットで、疾走や突撃の妨げにならず着用者の身を守ってくれる。","fr":"Un pantalon conçu pour qui ouvre la marche. Sa silhouette nette et discrète protège le porteur sans gêner ni la course ni la charge."}
 {"id":1495308,"jp":"斥候の耳飾り","fr":"Boucle d'oreille de l'éclaireur"}
 {"id":1495309,"jp":"蔓を模して作られた耳飾り。優美でありながら控えめなデザインをしている。","fr":"Boucles d'oreille imitant des vrilles. Leur dessin est gracieux, mais discret."}
 {"id":1495310,"jp":"斥候の指輪","fr":"Anneau de l'éclaireur"}
 {"id":1495311,"jp":"蔓を模して作られた指輪。優美でありながら控えめなデザインをしている。","fr":"Anneau imitant des vrilles. Son dessin est gracieux, mais discret."}
 {"id":1495312,"jp":"流光の音","fr":"Son de lumière filante"}
+{"id":1495313,"jp":"旧式のマント。裁縫は精緻で、布地には光の紋様がうっすらと浮かんでいる。それは、風に吹かれた光が軌跡を残しているかのようだ。","fr":"Une cape de modèle ancien. La couture est d'une grande finesse, et de faibles motifs de lumière affleurent sur l'étoffe, comme si la lumière, emportée par le vent, y avait laissé son sillage."}
 {"id":1495314,"jp":"依頼-急流の護りⅢ","fr":"Commande - Protection des rapides Ⅲ"}
 {"id":1495315,"jp":"依頼-急流の護りⅡ","fr":"Commande - Protection des rapides Ⅱ"}
 {"id":1495316,"jp":"流光の響き","fr":"Écho de lumière filante"}
@@ -120,36 +134,53 @@
 {"id":1495319,"jp":"依頼-烈炎の護りⅡ","fr":"Commande - Protection des flammes ardentes Ⅱ"}
 {"id":1495320,"jp":"望月の香り","fr":"Parfum de pleine lune"}
 {"id":1495322,"jp":"青流の華","fr":"Fleur du courant bleu"}
+{"id":1495323,"jp":"月光の色をした、重ね付けの腕輪。大きい珠は七個、小さい珠は四十二個。透き通るような珠を弄れば、まるで星と月がこぼれ落ちるかのよう。","fr":"Un bracelet à plusieurs rangs, couleur de clair de lune. Il compte sept grosses perles et quarante-deux petites. Quand on joue avec ces perles translucides, on dirait que les étoiles et la lune s'en déversent."}
 {"id":1495324,"jp":"裂空の双刃","fr":"Lames jumelles fend-ciel"}
+{"id":1495325,"jp":"一対の双刀。刀身は細く、軽やかで鋭い。弧を描く刀身には、稲妻を思わせる刃紋がゆらめいている。その一閃は雷光のごとく、一瞬にして天をも切り裂く。","fr":"Une paire de sabres jumeaux. Leurs lames sont fines, légères et tranchantes. Sur leur fil courbe ondule un hamon qui évoque l'éclair. Leur éclat unique, pareil à un trait de foudre, peut fendre le ciel même en un instant."}
 {"id":1495326,"jp":"依頼-蒼雷の護りⅢ","fr":"Commande - Protection de la foudre azur Ⅲ"}
 {"id":1495327,"jp":"依頼-蒼雷の護りⅡ","fr":"Commande - Protection de la foudre azur Ⅱ"}
 {"id":1495328,"jp":"嵐追","fr":"Chasse-tempête"}
+{"id":1495329,"jp":"一振りの横刀。月下に置くと、刀身に煙るような青い流紋が浮かび上がり、山霧がそのなかに潜んでいるかのようだ。振るえば流紋は刃に沿って退き、霧散する。その様から『嵐追』と名付けられた。","fr":"Un sabre yokoto. Posé sous la lune, sa lame laisse apparaître de bleus motifs fluides, comme enfumés, ainsi que si la brume des montagnes s'y cachait. Quand on le brandit, les motifs reculent le long du fil et se dissipent comme la brume. C'est ce qui lui a valu le nom de « Chasse-tempête »."}
 {"id":1495330,"jp":"遠征者の決意","fr":"Résolution de l'expéditionnaire"}
 {"id":1495331,"jp":"遠征と戦のために仕立てられた軽やかなマント。縁はすっきりと仕上げられ、ひるがえる姿は、高らかに掲げられた軍旗のようだ。","fr":"Cape légère taillée pour les expéditions et les batailles. Ses bords sont nets, et quand elle flotte, on dirait un étendard hissé bien haut."}
 {"id":1495332,"jp":"遠征者の戦歌","fr":"Chant de guerre de l'expéditionnaire"}
 {"id":1495334,"jp":"依頼-常青の庇護Ⅲ","fr":"Commande - Abri de verdure éternelle Ⅲ"}
 {"id":1495335,"jp":"依頼-常青の庇護Ⅱ","fr":"Commande - Abri de verdure éternelle Ⅱ"}
 {"id":1495336,"jp":"山岳の威","fr":"Puissance des cimes"}
+{"id":1495337,"jp":"古びた鉱石と暗色の金属で鋳造された首飾り。ずっしりと重く、表面はひどく粗削りで、とても装飾品には見えない。\n必要な時にはこれを取り外し、手に巻きつけてメリケンサックとして使う者もいるという。","fr":"Un collier coulé dans un minerai ancien et un métal sombre. Il est lourd, et sa surface est si grossière qu'il n'a rien d'un bijou.\nOn dit que certains le détachent en cas de besoin et l'enroulent autour de leur main pour s'en servir comme d'un coup-de-poing américain."}
 {"id":1495338,"jp":"渡河の勁","fr":"Vigueur du gué"}
+{"id":1495339,"jp":"険しい山肌の断面のような、奇妙な形をした腕輪。内側は平らだが、外側は装身具とは思えないほどデコボコしている。\n必要な時にはこれを取り外し、半分を握り込んでメリケンサックとして使う者もいるという。","fr":"Un bracelet d'une forme étrange, comme la coupe d'un flanc de montagne escarpé. L'intérieur est plat, mais l'extérieur est si cabossé qu'on le croirait étranger à la parure.\nOn dit que certains le détachent en cas de besoin et en serrent une moitié dans le poing comme coup-de-poing américain."}
 {"id":1495340,"jp":"黎明の啓","fr":"Révélation de l'aube"}
+{"id":1495341,"jp":"金色の長い枝を骨組みとした霊杖。文様が重なり合いながら上へと伸びている。頂にある澄んだ宝石は、まるで昇りゆく曙のよう。荘厳にして燦然とかがやく杖は、旧き夜に終わりを告げ、新たな一日の訪れを告げる。","fr":"Un bâton spirituel dont l'ossature est une longue branche dorée. Des motifs s'y superposent en s'élevant vers le haut. La gemme limpide qui le couronne évoque une aurore qui se lève. Majestueux et resplendissant, le bâton annonce la fin de l'ancienne nuit et l'arrivée d'un jour nouveau."}
 {"id":1495342,"jp":"鉄火の響き","fr":"Écho du fer et du feu"}
+{"id":1495343,"jp":"鉄と赤金で鍛えられた短剣。刃は短く、表面には炎の痕のような暗赤色の紋様がかすかに浮かんでいる。その刃は薄く、炉の熱を孕んでいるかのように熱い。振るえば烈火が金床に爆ぜる、あの鮮烈な音が蘇る。","fr":"Un poignard forgé de fer et d'or rouge. Sa lame est courte, et de faibles motifs rouge sombre, comme des traces de flammes, s'y devinent à la surface. Mince, elle est brûlante, comme si elle gardait la chaleur de la forge. Quand on la brandit, revient ce son vif, celui des flammes ardentes qui éclatent sur l'enclume."}
 {"id":1495344,"jp":"夜明けの序曲","fr":"Prélude de l'aube"}
+{"id":1495345,"jp":"長旅と突撃のために仕立てられたマント。翻るその姿には『突き進む』という気概が宿っている。長い夜に差し込んだ一筋の朝日のように……真の突破はいつもここからはじまる。","fr":"Une cape taillée pour les longs voyages et les charges. Dans son drapé flottant demeure l'esprit de « foncer droit devant ». Comme un rayon de soleil matinal qui perce une longue nuit… une véritable percée commence toujours ici."}
 {"id":1495346,"jp":"夕暮れの終曲","fr":"Final du crépuscule"}
+{"id":1495347,"jp":"長旅と突撃のために仕立てられた長靴。実用性と美しさを兼ね備えている。夜明けが訪れれば、やがて夜の帳も下りる。序章があれば終曲もある。恐れることはない、ただ前へ進め。","fr":"Des bottes taillées pour les longs voyages et les charges, qui allient l'utile et le beau. Quand l'aube vient, le voile de la nuit finit par retomber. Où il y a un prologue, il y a un final. Ne crains rien, avance, c'est tout."}
 {"id":1495348,"jp":"雷棘の髪飾り","fr":"Barrette aux épines de foudre"}
+{"id":1495349,"jp":"深みのある金属で鋳造されたヘッドアクセサリー。縁には外側へ向かって鋭い棘が伸びている。垂れ下がる結晶の飾りは、揺れるたびに電光を思わせる冷たい光沢を放つ。","fr":"Un accessoire de tête coulé dans un métal profond. Des pointes acérées s'étirent vers l'extérieur le long de son bord. Les ornements de cristal qui pendent jettent à chaque balancement un éclat froid qui évoque la foudre."}
 {"id":1495350,"jp":"雷鳴の残り火","fr":"Braises du tonnerre"}
 {"id":1495351,"jp":"暗銀の鎖と焦げた黒鉄をつなぎ、手枷を模して作られた指輪。表面には、雷火の焼け跡を思わせる細かな裂け目が残っている。","fr":"Anneau imitant des menottes, forgé d'une chaîne d'argent sombre et de fer noir brûlé. Sa surface garde de fines fissures qui rappellent des brûlures de foudre."}
 {"id":1495352,"jp":"先駆けの旗","fr":"Étendard de l'avant-garde"}
+{"id":1495353,"jp":"新品の、意匠が華やかなマント。\n「これが、かつて旗として使われたあのマントであるはずがない」\n「ええ、もちろん違います。ですが仕方ないのです……模造品でもいいから売ってくれ、という依頼が後を絶たなくて……」","fr":"Une cape neuve au dessin somptueux.\n« Impossible que ce soit la cape qui servit jadis d'étendard. »\n« Bien sûr que non. Mais que voulez-vous… les demandes ne cessent d'arriver, on nous supplie d'en vendre, ne serait-ce qu'une imitation… »"}
 {"id":1495354,"jp":"決戦に挑む意志","fr":"Volonté face au combat décisif"}
 {"id":1495355,"jp":"新品の長靴。まだだれも履いたことがない。\n「じゃあ、この靴も……」\n「ええ、そうです」","fr":"Bottes neuves. Personne ne les a encore portées.\n« Alors ces bottes aussi… »\n« Oui, exactement. »"}
 {"id":1495356,"jp":"依頼-丘陵の辺境Ⅲ","fr":"Commande - Confins des collines Ⅲ"}
 {"id":1495357,"jp":"依頼-丘陵の辺境Ⅱ","fr":"Commande - Confins des collines Ⅱ"}
 {"id":1495358,"jp":"立ちのぼる朝霧","fr":"Brume matinale qui s'élève"}
+{"id":1495359,"jp":"極めて凝った造りのかんざし。乳白の玉珠と、淡く輝く細かな結晶をふんだんに用いている。日の下を歩けば光が入り乱れ、目を眩ませる。朝霧が陽に蒸されて立ちのぼる、あの眩しさに似ている。視界が元通りになるまで、しばし待つほかない。","fr":"Une épingle à cheveux d'une facture extrêmement soignée, ornée à profusion de perles blanc laiteux et de fins cristaux à la lueur ténue. Quand on marche au soleil, la lumière s'y mêle en tous sens et éblouit, comme l'éclat de la brume matinale que le soleil réchauffe et fait monter. On n'a plus qu'à attendre un moment que la vue redevienne normale."}
 {"id":1495360,"jp":"沸き立つ雲霞","fr":"Nuées bouillonnantes"}
 {"id":1495362,"jp":"未完の征途","fr":"Campagne inachevée"}
+{"id":1495363,"jp":"戦場に赴く者のものとは思えない服。\n戦いに身を投じた者にとって、背負ってきた出自などどうでもいい。大切なのは、この道の果てに何が待っているか、だ。","fr":"Des vêtements qui ne semblent pas faits pour partir au champ de bataille.\nPour qui s'est jeté dans le combat, l'origine dont on est chargé n'a plus d'importance. Ce qui compte, c'est ce qui attend au bout de cette route."}
 {"id":1495364,"jp":"未完の荒路","fr":"Route sauvage inachevée"}
+{"id":1495365,"jp":"戦場に赴く者のものとは思えない靴。\n戦いに身を投じた者にとって、背負ってきた出自などどうでもいい。大切なのは、この道の果てに何が待っているか、だ。","fr":"Des chaussures qui ne semblent pas faites pour partir au champ de bataille.\nPour qui s'est jeté dans le combat, l'origine dont on est chargé n'a plus d'importance. Ce qui compte, c'est ce qui attend au bout de cette route."}
 {"id":1495366,"jp":"激流","fr":"Torrent"}
+{"id":1495367,"jp":"細い鎖で流線形の晶飾りを吊るした耳飾り。急流が岩の隙間を縫うような清冷な色合いを湛え、小ぶりながらも、鋭く研ぎ澄まされた存在感を放つ。","fr":"Des boucles d'oreille ornées d'un cristal profilé suspendu à une fine chaîne. Elles ont la couleur claire et froide d'un torrent qui se faufile entre les rochers : petites, mais d'une présence aiguisée comme une lame."}
 {"id":1495368,"jp":"渦巻く潮","fr":"Marée tourbillonnante"}
+{"id":1495369,"jp":"幾重にも重なる波紋が刻まれた指輪。中央には濃い色の水晶が嵌め込まれている。光が揺れるたび、水晶の内で小さな潮が満ち引きする。静けさの水底には、すべてを飲み込む力が秘められている。","fr":"Un anneau gravé de ridules qui se superposent à l'infini. Un cristal de teinte sombre est serti en son centre. Chaque fois que la lumière frémit, une minuscule marée monte et descend à l'intérieur du cristal. Au fond silencieux de l'eau dort une puissance capable de tout engloutir."}
 {"id":1495370,"jp":"庭の箴言","fr":"Maxime du jardin"}
+{"id":1495371,"jp":"果実とも結晶ともつかない、不思議な一粒。水に沈めても、光に透かしても、異なる紋様を浮かべる。その意味はいまだ解き明かされていない。","fr":"Un petit grain étrange, ni tout à fait un fruit ni un cristal. Qu'on le plonge dans l'eau ou qu'on le tienne à contre-jour, il fait apparaître un motif différent. Sa signification n'a toujours pas été élucidée."}
 {"id":1495372,"jp":"激流の怒り","fr":"Colère du torrent"}
 {"id":1495374,"jp":"星雲の共鳴","fr":"Résonance des nébuleuses"}
 {"id":1495376,"jp":"依頼-厚岩の重盾Ⅴ","fr":"Commande - Lourd bouclier de roc Ⅴ"}
@@ -158,62 +189,83 @@
 {"id":1495380,"jp":"依頼-烈炎の護りⅤ","fr":"Commande - Protection des flammes ardentes Ⅴ"}
 {"id":1495381,"jp":"依頼-烈炎の護りⅣ","fr":"Commande - Protection des flammes ardentes Ⅳ"}
 {"id":1495382,"jp":"閃光の空隙","fr":"Faille fulgurante"}
+{"id":1495383,"jp":"銀白色の金属が、亀裂を象るように折り曲げられた耳飾り。その狭間には、ほの暗く光る結晶石が嵌め込まれている。軽やかでありながら、刃を思わせる鋭さを放っている。身に着けた者が夜を駆ければ、その輝きが夜の帳を切り裂くだろう。","fr":"Des boucles d'oreille d'un métal blanc argenté, pliées comme pour figurer une fissure, avec en leur creux un cristal à l'éclat sourd. Légères, elles dégagent pourtant un tranchant de lame. Si leur porteur file dans la nuit, leur éclat déchirera le voile des ténèbres."}
 {"id":1495384,"jp":"依頼-急熾の守りⅤ","fr":"Commande - Garde des braises vives Ⅴ"}
 {"id":1495385,"jp":"依頼-急熾の守りⅣ","fr":"Commande - Garde des braises vives Ⅳ"}
 {"id":1495386,"jp":"紅金の耳飾り","fr":"Boucle d'oreille d'or rouge"}
 {"id":1495388,"jp":"翡翠の羽","fr":"Plume de martin-pêcheur"}
 {"id":1495390,"jp":"星降る腕輪","fr":"Bracelet de pluie d'étoiles"}
+{"id":1495391,"jp":"幾粒もの晶石が散りばめらたミスリルの腕輪。その晶石は、零れ落ちた星屑のように輝いている。少し揺らすだけで、砕けた星々が降り注ぐような光を放つ。","fr":"Un bracelet de mithril parsemé de nombreux cristaux. Ils brillent comme de la poussière d'étoiles tombée à terre. Pour peu qu'on le secoue, il jette une lumière comme une pluie d'étoiles brisées."}
 {"id":1495392,"jp":"依頼-丘陵の辺境Ⅴ","fr":"Commande - Confins des collines Ⅴ"}
 {"id":1495393,"jp":"依頼-丘陵の辺境Ⅳ","fr":"Commande - Confins des collines Ⅳ"}
 {"id":1495394,"jp":"炎華の指輪","fr":"Anneau de fleur ardente"}
 {"id":1495396,"jp":"流雲の指輪","fr":"Anneau des nuages errants"}
+{"id":1495397,"jp":"瑠璃玉色の指輪。玉石は温かな色合いを持ち、内側には幾筋もの白い流紋が走っている。光にかざせば、模様はゆるやかにうねりを見せる。その様はまるで天上を流れる雲のよう。","fr":"Un anneau couleur lapis-lazuli. La pierre a une teinte chaude, et de nombreuses veines blanches courent à l'intérieur. Tenu face à la lumière, le motif ondule doucement, comme les nuages qui glissent dans le ciel."}
 {"id":1495398,"jp":"夜空のマント","fr":"Cape du ciel nocturne"}
+{"id":1495399,"jp":"極薄のヴェールと繊細な織布で仕立てられたマント。縁には星空のグラデーションが施され、広げれば夜空を眺めるような趣を見せる。纏えば星の輝きが揺らめき、その足取りはまるで星々を巡る旅人のようである。","fr":"Une cape confectionnée dans un voile ultrafin et une étoffe tissée délicate. Ses bords sont ornés d'un dégradé de ciel étoilé, et déployée, elle donne l'impression de contempler le ciel nocturne. Quand on s'en drape, la lumière des étoiles ondoie, et le pas devient celui d'un voyageur qui parcourt les étoiles."}
 {"id":1495400,"jp":"依頼-急流の護りⅤ","fr":"Commande - Protection des rapides Ⅴ"}
 {"id":1495401,"jp":"依頼-急流の護りⅣ","fr":"Commande - Protection des rapides Ⅳ"}
 {"id":1495402,"jp":"調和の靴","fr":"Souliers de l'harmonie"}
+{"id":1495403,"jp":"輪状の紋様で調和を象る靴。歩いても余計な音がまるで立たない。旅の楽団が演者のために作らせたもので、仲間と歩調を合わせるために用意されたものだという。","fr":"Des souliers qui figurent l'harmonie par un motif en anneaux. À la marche, ils ne font presque aucun bruit superflu. Une troupe itinérante les aurait fait fabriquer pour ses artistes, afin de marcher du même pas que leurs compagnons."}
 {"id":1495404,"jp":"依頼-厳寒の壁Ⅴ","fr":"Commande - Rempart du grand froid Ⅴ"}
 {"id":1495405,"jp":"依頼-厳寒の壁Ⅳ","fr":"Commande - Rempart du grand froid Ⅳ"}
 {"id":1495406,"jp":"迅雷の狩人","fr":"Chasseur fulgurant"}
+{"id":1495407,"jp":"稲妻が耳に貼り付いたような、奇抜な形の耳飾り。ハンター用に作られ、動くたびに、風を裂く微かな気配が耳をかすめる。「目に頼る者は遅く、風の震えを聞く者は早い」と、かつての狩人たちは信じていた。","fr":"Des boucles d'oreille de forme insolite, comme un éclair collé à l'oreille. Conçues pour les chasseurs, elles effleurent l'oreille d'une faible sensation de vent déchiré à chaque mouvement. « Qui se fie à ses yeux est lent ; qui entend le frémissement du vent est rapide », croyaient les chasseurs d'autrefois."}
 {"id":1495408,"jp":"寒月のかんざし","fr":"Épingle de lune hivernale"}
+{"id":1495409,"jp":"細い銀枝を枯れ木に見立てたかんざし。華美な飾りを添えず、ただ一輪の冷たい白銀の月が枝に掛けられている。葉を落とした冬の森に、凍てつく月だけが残されたかのように。","fr":"Une épingle faite d'une fine branche d'argent figurant un arbre mort. Sans ornement tapageur, seule une lune d'argent froide est suspendue à la branche, comme si, dans une forêt d'hiver dépouillée de ses feuilles, il ne restait que la lune glacée."}
 {"id":1495410,"jp":"森の音珠","fr":"Perles chantantes de la forêt"}
 {"id":1495411,"jp":"色合いの異なる青緑色の珠を連ねた耳飾り。揺れるたびに、森の葉が擦れ合うような柔らかな音が響く。","fr":"Boucles d'oreille faites de perles bleu-vert de teintes variées. À chaque balancement résonne un son doux, comme des feuilles qui se frôlent dans la forêt."}
 {"id":1495412,"jp":"雷切りの羽","fr":"Plume tranche-foudre"}
+{"id":1495413,"jp":"銀細工と羽のような金属片を幾層にも重ねた腕輪。鋭い縁と軽やかな紋様は、さながら空を駆ける風切り音と雷光を手首に封じ込めたかのようだ。","fr":"Un bracelet fait de couches d'orfèvrerie d'argent et de fragments de métal en forme de plumes. Ses bords tranchants et ses motifs légers semblent sceller au poignet le sifflement du vent qui fend le ciel et l'éclair de la foudre."}
 {"id":1495414,"jp":"氷河の断絶","fr":"Fracture du glacier"}
 {"id":1495416,"jp":"緑野の風吟","fr":"Chant du vent des prairies"}
+{"id":1495417,"jp":"濃淡さまざまな青緑の珠石を連ね、細い羽根と小石をあしらった腕輪。歩みのたびに珠石が触れ合い、幽かな音を立てる。林の葉が擦れる音のように、遠い枝から返るこだまのように。森のささやきを、そのまま腕に結び留めたかのようだ。","fr":"Un bracelet de perles bleu-vert de teintes variées, enfilées avec de fines plumes et de petits cailloux. À chaque pas, les perles s'entrechoquent et produisent un son ténu, comme le frottement des feuilles d'un bosquet, comme un écho renvoyé par une branche lointaine. C'est comme si les murmures de la forêt avaient été noués tels quels au bras."}
 {"id":1495418,"jp":"勇者の鋭意","fr":"Ardeur du héros"}
 {"id":1495420,"jp":"依頼-蒼雷の護りⅤ","fr":"Commande - Protection de la foudre azur Ⅴ"}
 {"id":1495421,"jp":"依頼-蒼雷の護りⅣ","fr":"Commande - Protection de la foudre azur Ⅳ"}
 {"id":1495422,"jp":"勇者の物語","fr":"Récit du héros"}
+{"id":1495423,"jp":"旅する者とともに山道や長い石段を越えてきた、頑丈な短靴。表面には、消えることのない細かな傷が数えきれないほど残っている。\n勇者の物語は、凱歌のなかにだけ刻まれるのではない。止まることのなかった一歩一歩に、それは秘められている。","fr":"De solides bottines qui ont franchi sentiers de montagne et longs escaliers de pierre avec leur voyageur. D'innombrables fines éraflures, qui ne s'effaceront jamais, marquent leur surface.\nLe récit d'un héros ne se grave pas seulement dans les chants de victoire. Il se cache dans chacun des pas qui ne se sont jamais arrêtés."}
 {"id":1495424,"jp":"依頼-常青の庇護Ⅴ","fr":"Commande - Abri de verdure éternelle Ⅴ"}
 {"id":1495425,"jp":"依頼-常青の庇護Ⅳ","fr":"Commande - Abri de verdure éternelle Ⅳ"}
 {"id":1495426,"jp":"曙光の降臨","fr":"Avènement de l'aurore"}
 {"id":1495428,"jp":"残影の彼岸花","fr":"Lycoris rémanent"}
+{"id":1495429,"jp":"緋、暗赤、金を幾重にも重ね、花弁が開くように形づくられた髪飾り。身に着ければ、細長い花糸が髪の間へと垂れる。一歩ごとに揺れるその様は、墨の川面に浮かぶ花のようでもあり、深い夜にともる火のようでもある。","fr":"Une barrette façonnée comme une fleur qui s'ouvre, faite de couches d'écarlate, de rouge sombre et d'or. Portée, ses longues étamines retombent dans les cheveux. Balancée à chaque pas, elle ressemble à une fleur flottant sur une rivière d'encre, ou à un feu allumé au cœur de la nuit profonde."}
 {"id":1495430,"jp":"日輪の誓い","fr":"Serment du soleil"}
 {"id":1495432,"jp":"明けの明星","fr":"Étoile du matin"}
+{"id":1495433,"jp":"銀白の環に微かな結晶を留めた、簡素な指輪。長き夜を旅した者は知っている。人の心を奮い立たせるのは、昼の眩い光ではない。闇夜の果てに、誰より先に昇る一筋の星明かりなのだと。","fr":"Un anneau simple, au cercle blanc argenté orné d'un faible cristal. Qui a voyagé par de longues nuits le sait : ce qui galvanise les cœurs, ce n'est pas l'éclatante lumière du jour. C'est l'unique trait de lumière d'étoile qui se lève avant tout autre au bout de la nuit noire."}
 {"id":1495434,"jp":"散りゆく月華","fr":"Clair de lune épars"}
+{"id":1495435,"jp":"月の満ち欠けを象った薄片を連ねた腕輪。形は奇妙だが、月の下に置けばいつでも、重なり合ってこぼれるような光を映す。散った月を敷き詰めたかのような、澄んで冷たい輝きである。","fr":"Un bracelet fait de fines lamelles qui figurent les phases de la lune. Sa forme est étrange, mais posé sous la lune, il reflète toujours une lumière qui se superpose et déborde. Son éclat clair et froid est celui de lunes éparpillées qu'on aurait étalées à terre."}
 {"id":1495436,"jp":"灼ける長い道","fr":"Longue route brûlante"}
 {"id":1495438,"jp":"斜紋のマント","fr":"Cape en sergé"}
 {"id":1495439,"jp":"軽やかで利便性に優れたマント。布地に走る斜紋は特徴であり、傷跡でもある。","fr":"Cape légère et très pratique. La trame en diagonale qui parcourt le tissu est à la fois sa marque distinctive et sa cicatrice."}
 {"id":1495440,"jp":"依頼-大気の護りⅤ","fr":"Commande - Protection des airs Ⅴ"}
 {"id":1495441,"jp":"依頼-大気の護りⅣ","fr":"Commande - Protection des airs Ⅳ"}
 {"id":1495442,"jp":"凱旋の響き","fr":"Écho du triomphe"}
+{"id":1495443,"jp":"履き込んでも型崩れしない丈夫な靴。石段や原野を踏みしめるたび、澄んだ足音が響く。その靴音は持ち主に代わって、行く先へ訪れを告げているかのようだ。","fr":"De solides chaussures qui gardent leur forme même après un long usage. À chaque pas sur les marches de pierre ou la lande, un clair bruit de pas résonne. On dirait que ce son annonce, à la place de son propriétaire, son arrivée là où il se rend."}
 {"id":1495444,"jp":"依頼-日月の守りⅤ","fr":"Commande - Garde du soleil et de la lune Ⅴ"}
 {"id":1495445,"jp":"依頼-日月の守りⅣ","fr":"Commande - Garde du soleil et de la lune Ⅳ"}
 {"id":1495446,"jp":"石心","fr":"Cœur de pierre"}
 {"id":1495448,"jp":"宵咲きの花","fr":"Fleur du soir"}
+{"id":1495449,"jp":"深紫の花を束ね、漆黒の細い鎖を添えた髪飾り。華やかさはないが、髪に挿せば、宵の闇にふと花を見つけたような、思いがけない喜びがある。","fr":"Une barrette de fleurs violet foncé en bouquet, accompagnée d'une fine chaîne noir de jais. Sans éclat, mais piquée dans les cheveux, elle apporte une joie inattendue, comme celle de trouver soudain une fleur dans l'obscurité du soir."}
 {"id":1495450,"jp":"天に鳴く雷","fr":"Tonnerre des cieux"}
+{"id":1495451,"jp":"寒色の金属で作られた耳飾り。縁は羽の先のように鋭い。駆けるたびにかすかな震えが走る。その音は、遠雷が轟く前触れに似ている。","fr":"Des boucles d'oreille d'un métal aux teintes froides. Leur bord est acéré comme la pointe d'une plume. À chaque foulée, un faible frémissement les parcourt. Ce son ressemble au présage d'un tonnerre lointain avant qu'il ne gronde."}
 {"id":1495452,"jp":"山骨","fr":"Ossature des monts"}
 {"id":1495454,"jp":"宵の三日月","fr":"Croissant du soir"}
 {"id":1495455,"jp":"細い鎖と淡い銀の三日月を連ねた腕輪。手首に着けてもほとんど重さを感じず、宵の月が手首に留まっているかのようだ。","fr":"Bracelet fait d'une fine chaîne et de croissants de lune en argent pâle. On le sent à peine au poignet, comme si la lune du soir s'y était posée."}
 {"id":1495456,"jp":"撃日の指輪","fr":"Anneau frappe-soleil"}
+{"id":1495457,"jp":"角ばった輪郭の指輪。埋め込まれた晶核には放射状の紋様が刻まれ、それが外周まで精巧に伸びている。雷が裂け、切っ先のような光がほとばしる――その一瞬を留めたかのような意匠である。","fr":"Un anneau au contour anguleux. Le noyau de cristal qui y est serti porte un motif rayonnant, qui s'étire avec finesse jusqu'à la périphérie. Le dessin semble figer cet instant où la foudre se fend et où une lumière aiguë comme une pointe de lame jaillit."}
 {"id":1495458,"jp":"破砕の調べ","fr":"Mélodie fracassante"}
 {"id":1495460,"jp":"風破る鋒","fr":"Pointe fend-vent"}
 {"id":1495462,"jp":"風の祝福","fr":"Bénédiction du vent"}
 {"id":1495463,"jp":"装飾というより、軽やかさと旅路への願いを込めた髪飾り。\n祝福と祈りが風に乗り、どうかあなたを導きますように。","fr":"Barrette qui renferme des vœux de légèreté et de bon voyage, plus que de simples ornements.\nPuissent bénédictions et prières, portées par le vent, te guider."}
 {"id":1495464,"jp":"冥夜の魂砕き","fr":"Brise-âme de la nuit noire"}
+{"id":1495465,"jp":"烏金の房を付けたかんざし。かんざしの先は丸く、飾りも質素で髪に隠しやすい。だが、その芯には仕掛けがあり、引き抜けば長針となる。","fr":"Une épingle ornée d'une frange d'or noir. Son bout est arrondi et sa décoration modeste, ce qui permet de la cacher aisément dans les cheveux. Mais son cœur recèle un mécanisme : tirée, elle devient une longue aiguille."}
 {"id":1495466,"jp":"落雷の判決","fr":"Verdict de la foudre"}
+{"id":1495467,"jp":"銀と鉄で鍛えられた耳飾り。鎖は枷のような形をし、表面には雷に似た細かい紋様が刻まれている。留め具にはくっきりとしたエッジがあり、嵌め合わせると、かすかな落雷の音が聞こえるという。","fr":"Des boucles d'oreille forgées d'argent et de fer. Leurs chaînes ont la forme d'entraves, et leur surface est gravée de fins motifs semblables à la foudre. Les fermoirs ont des arêtes nettes, et l'on dit qu'en les emboîtant, on entend le faible bruit d'un coup de foudre."}
 {"id":1495468,"jp":"翼風の腕輪","fr":"Bracelet du vent ailé"}
+{"id":1495469,"jp":"伸びやかな輪郭の腕輪。翠色の素材で鳥の翼をかたどった飾りには、軽やかに飛び続け、遠くまで尽きることなく進むという願いが込められている。","fr":"Un bracelet au contour élancé. L'ornement en forme d'ailes d'oiseau, taillé dans un matériau vert jade, porte le vœu de voler d'un vol léger et d'avancer loin sans jamais s'épuiser."}
 {"id":1495470,"jp":"雷鳴の断罪","fr":"Condamnation du tonnerre"}
+{"id":1495471,"jp":"奇妙な形をした腕輪。銀と黒鉄で鍛えられ、枷のような形をしている。表面には小さな雷紋様が刻まれ、留め具にはくっきりとしたエッジがある。嵌め合わせると、かすかな落雷の音が聞こえるという。","fr":"Un bracelet de forme étrange. Forgé d'argent et de fer noir, il a la forme d'une entrave. De petits motifs de foudre sont gravés à sa surface, et le fermoir a une arête nette. On dit qu'en l'emboîtant, on entend le faible bruit d'un coup de foudre."}
 {"id":1495472,"jp":"冥夜の心砕き","fr":"Brise-cœur de la nuit noire"}
 {"id":1495473,"jp":"沈んだ色合いを持つ、烏金の指輪。見た目は平凡だが、ひねると薄い刃が滑り出す。だれにも気づかれぬまま、夜に潜む刃と化す。","fr":"Anneau d'or noir aux teintes sombres. D'apparence banale, mais une fine lame en jaillit quand on le tourne. À l'insu de tous, il devient une lame tapie dans la nuit."}
 {"id":1495474,"jp":"蒼穹の鎧","fr":"Armure du firmament"}
@@ -221,32 +273,49 @@
 {"id":1495476,"jp":"蒼穹の戦靴","fr":"Bottes de guerre du firmament"}
 {"id":1495477,"jp":"奇妙な形をした戦靴。ただならぬ気配を纏っているが、これを着こなせる者が、果たしているだろうか。","fr":"Bottes de guerre de forme étrange. Elles dégagent une aura inquiétante, mais qui pourrait bien les porter ?"}
 {"id":1495478,"jp":"深く沈む淵","fr":"Gouffre sans fond"}
+{"id":1495479,"jp":"飾り気のない鎖に、墨のように深い縁のペンダント。中央には暗青の宝石が据えられ、周囲の水紋が渦を巻きながら沈んでいく。眺めれば波ひとつない静かな海のようだが、その実は底知れず、あらゆるものを呑み込もうとする力を隠している。","fr":"Un pendentif sur une chaîne sans apprêt, dont le bord est profond comme l'encre. Une gemme bleu sombre trône en son centre, et les ondes autour tourbillonnent en s'enfonçant. À la voir, on croirait une mer calme sans une seule vague, mais en vérité elle est insondable et cache une puissance qui veut tout engloutir."}
 {"id":1495480,"jp":"幽月の耳飾り","fr":"Boucle d'oreille de lune voilée"}
 {"id":1495481,"jp":"白玉に墨色が混じった耳飾り。陰る雲に覆われた寒月のような色合いをしている。","fr":"Boucles d'oreille de jade blanc veiné d'encre. Leur teinte rappelle une lune froide voilée de nuages."}
 {"id":1495482,"jp":"陽に灼ける道","fr":"Route brûlée par le soleil"}
+{"id":1495483,"jp":"一本の髪紐。かつては濃く鮮やかな色だったが、使い込まれるうちに灰色に褪せていった。\n荒野を長く歩く者たちにはお馴染みの品で、実際に使ってみれば、想像よりずっと用途が多いことに気づくだろう。","fr":"Un lacet pour les cheveux. Jadis d'une couleur profonde et vive, il a passé au gris à force d'usage.\nObjet familier de qui arpente longuement les terres sauvages, il se révèle, à l'usage, bien plus polyvalent qu'on ne l'imagine."}
 {"id":1495484,"jp":"奈落の崖","fr":"Falaise de l'abîme"}
+{"id":1495485,"jp":"冷たく重い金属を鋳造した鎖腕輪。鎖節は短く連なり、表面には濡れた岩肌や引き潮の跡を思わせる暗い紋様が覆う。留め具を合わせれば、それだけで圧迫感が漂う。深淵の縁で足を踏み外し、二度と抜け出せぬ深い潮へ、引きずり込まれていくかのように。","fr":"Un bracelet de chaîne coulé dans un métal froid et lourd. Ses maillons sont courts et serrés, et sa surface est couverte de motifs sombres qui rappellent la roche mouillée et les traces d'une marée descendante. Rien qu'à boucler le fermoir, on sent peser une oppression, comme si l'on avait glissé au bord de l'abîme et qu'on se faisait entraîner dans une marée profonde dont on ne sortirait plus."}
 {"id":1495486,"jp":"寒日の陽光","fr":"Soleil d'hiver"}
+{"id":1495487,"jp":"玉は冷ややかに澄み、淡く白い光を帯びた腕輪。肌に映れば霜のような趣を見せる。手首を返すたび、それは冬の陽の照りに似て、温もりはなくともたしかに届いている。","fr":"Un bracelet de jade, d'une clarté froide, teinté d'une pâle lueur blanche. Sur la peau, il prend un air de givre. À chaque mouvement du poignet, il évoque l'éclat du soleil d'hiver : sans chaleur, mais qui atteint bel et bien."}
 {"id":1495488,"jp":"赤焔の余燼","fr":"Braises de la flamme rouge"}
 {"id":1495489,"jp":"焔が燃え立つ形を模した腕輪。荒野を歩く者にとって、焔はもっとも暖かく、親しい相棒である。","fr":"Bracelet imitant des flammes qui s'élèvent. Pour qui marche en terre sauvage, la flamme est le compagnon le plus chaleureux et le plus fidèle."}
 {"id":1495490,"jp":"律の帰する詩","fr":"Poème de l'unisson"}
+{"id":1495491,"jp":"かつて戦のまえの祈りに用いられたと伝わるマント。重なり合う羽片と流れ落ちる飾り帯が、極めて複雑に組み上げられている。\n多くの心がひとつに集えば、いかなる戦にも敗れることはない。","fr":"Une cape que l'on dit avoir servi jadis aux prières avant la bataille. Des plumes superposées et des écharpes qui retombent s'y assemblent de façon extrêmement complexe.\nQuand beaucoup de cœurs se rassemblent en un seul, aucune bataille ne peut être perdue."}
 {"id":1495492,"jp":"律の帰する音","fr":"Son de l'unisson"}
+{"id":1495493,"jp":"かつて戦のまえの祈りに用いられたと伝わる靴。重なり合う羽片と流れ落ちる飾り帯が、極めて複雑に組み上げられている。\n多くの心がひとつに集えば、いかなる戦にも敗れることはない。","fr":"Des chaussures que l'on dit avoir servi jadis aux prières avant la bataille. Des plumes superposées et des écharpes qui retombent s'y assemblent de façon extrêmement complexe.\nQuand beaucoup de cœurs se rassemblent en un seul, aucune bataille ne peut être perdue."}
 {"id":1495494,"jp":"霜降りの花","fr":"Fleur de givre"}
 {"id":1495495,"jp":"一対の耳飾り。\n冬、細枝に霜の花が結ぶ。","fr":"Une paire de boucles d'oreilles.\nEn hiver, des fleurs de givre éclosent sur les fines branches."}
 {"id":1495496,"jp":"空を灼く花","fr":"Fleur qui embrase le ciel"}
+{"id":1495497,"jp":"ドライフラワーで作られた髪飾り。乾燥してもなお、大きく咲き誇り、枯れてもその鮮やかさは衰えを見せない。\nこの花が満開となると、燃え盛る炎が空を焼き尽くすかのように咲き誇る。","fr":"Une barrette faite de fleurs séchées. Même séchées, elles fleurissent en grand, et même fanées, leur éclat ne faiblit pas.\nQuand cette fleur est en pleine floraison, elle s'épanouit comme si un feu ardent consumait tout le ciel."}
 {"id":1495498,"jp":"光を讃える歌","fr":"Hymne à la lumière"}
+{"id":1495499,"jp":"幾重にも重なる真珠の首飾り。長さの異なる細い鎖と、丸みを帯びた真珠を層に重ねてある。珠の表面は艶やかに濡れて光る。陽の光と聖なる光が降り注ぐとき、その輝きもまた、こうして幾重にも重なりながら落ちてくるのだろう。","fr":"Un collier de perles en rangs superposés. De fines chaînes de longueurs différentes et des perles rondes sont étagées en couches. La surface des perles brille d'un lustre humide. Quand la lumière du soleil et la lumière sacrée tombent sur elles, leur éclat doit lui aussi tomber ainsi, couche après couche."}
 {"id":1495500,"jp":"森と風の誓い","fr":"Serment de la forêt et du vent"}
+{"id":1495501,"jp":"獣骨の薄片、枝の小さな輪、染め羽根を編み合わせたヘッドアクセサリー。素朴で古風な文様が施され、部族同盟の成立や誓いを立てる儀式、成人の儀などで身に着けられる。森に暮らす諸族が風と森を共に守る、古き盟約の象徴である。","fr":"Un accessoire de tête tressé de fines lamelles d'os de bête, de petits anneaux de branches et de plumes teintes. Orné de motifs simples et archaïques, on le porte lors de la conclusion d'alliances entre tribus, des cérémonies de serment et des rites de passage à l'âge adulte. Il symbolise l'ancien pacte par lequel les tribus de la forêt protègent ensemble le vent et la forêt."}
 {"id":1495502,"jp":"砕け雪の結晶","fr":"Cristal de neige brisé"}
 {"id":1495503,"jp":"薄銀を骨組みとし、細かな結晶を散りばめた指輪。指先に舞い落ちた雪が、溶けることなくそのまま飾りになったかのようだ。","fr":"Anneau dont l'armature d'argent fin est semée de petits cristaux. On dirait des flocons tombés sur le bout des doigts qui ne fondraient pas et deviendraient une parure."}
 {"id":1495504,"jp":"燃ゆる天穹","fr":"Voûte céleste embrasée"}
+{"id":1495505,"jp":"炎のように熾烈な花びらを封じ込めた腕輪。\nこの花は気性が荒いとされ、農家は咲きすぎるまえにあえて花のつぼみを摘むという。枯れゆく時でさえも、最も美しく咲き誇ろうとするその様は、まさに花のなかの勇士である。","fr":"Un bracelet qui renferme des pétales féroces comme des flammes.\nOn dit que cette fleur a un caractère rude, et les paysans cueillent exprès ses boutons avant qu'elle ne s'ouvre trop. Même en train de se faner, elle s'efforce de fleurir dans toute sa beauté : un vrai brave parmi les fleurs."}
 {"id":1495506,"jp":"光にじむ祈り","fr":"Prière nimbée de lumière"}
+{"id":1495507,"jp":"淡い金を台座とした指輪。澄んで明るい淡色の宝石が嵌め込まれ、その周りを小さなダイヤモンドが彩る。祈りを捧げるとき、指先に微かな輝きを放つ。","fr":"Un anneau serti sur un support d'or pâle. Une gemme claire et lumineuse, de teinte pâle, y est sertie, entourée de petits diamants. Quand on prie, elle jette une faible lueur au bout des doigts."}
 {"id":1495508,"jp":"森わたる祈り","fr":"Prière à travers bois"}
+{"id":1495509,"jp":"細い蔓と羽根、小さな鈴を編んで作った飾り。枝先に掛けたり腕に結んだりして使う。風が吹くたびに、林のささやきに似たかすかな音を立てる。森とそよ風に願いを託す品として大切にされている。","fr":"Une décoration tressée de fines vrilles, de plumes et de petites clochettes. On la suspend au bout d'une branche ou on la noue au bras. À chaque souffle de vent, elle émet un son ténu, semblable aux murmures d'un bosquet. On la chérit comme un objet pour confier ses vœux à la forêt et à la brise."}
 {"id":1495510,"jp":"樹海の影","fr":"Ombre de la forêt profonde"}
+{"id":1495511,"jp":"柔らかな生地で仕立てた、フード付きのマント。小枝の紋様があしらわれ、浅草色に染められている。縁はわずかに垂れ下がり、まるで林冠が落とす淡い木陰のようだ。","fr":"Une cape à capuche taillée dans une étoffe douce. Ornée d'un motif de brindilles, elle est teinte d'un vert herbe clair. Ses bords retombent légèrement, comme la pâle ombre que projette la canopée."}
 {"id":1495512,"jp":"戯れる朝露","fr":"Rosée espiègle"}
+{"id":1495513,"jp":"薄紗を幾重にも重ねたロングスカート。裾には淡い葉の飾りと小粒のビーズが施されている。歩くたびに飾りの光が揺れ動き、朝露が草の葉をつたって滴り落ちるようにきらめく。森で戯れているかのような、生気に満ちた気配が漂う。","fr":"Une longue jupe faite de nombreuses couches de gaze légère. L'ourlet est décoré de pâles feuilles et de minuscules perles. À chaque pas, la lumière des ornements oscille et scintille comme la rosée du matin qui coule le long des brins d'herbe. Il s'en dégage un air plein de vie, comme si l'on batifolait dans la forêt."}
 {"id":1495514,"jp":"泉の祝福","fr":"Bénédiction de la source"}
+{"id":1495515,"jp":"銀白の細鎖と淡い藍晶石を編み合わせたヘッドアクセサリー。額の垂れ飾りは水滴の形をしている。温かく清らかな佇まいは、まるで泉の祝福がそのまま形を成したかのよう。目を凝らせば、安らぎと加護の気配がそこから静かに流れ出ているのが感じられる。","fr":"Un accessoire de tête tressé de fines chaînes blanc argenté et de pâle cyanite. Le pendant du front a la forme d'une goutte d'eau. Son allure chaleureuse et pure semble être la bénédiction d'une source faite forme. En y regardant bien, on sent s'en écouler doucement un souffle de paix et de protection."}
 {"id":1495516,"jp":"樹海が結ぶ誓い","fr":"Serment de la forêt profonde"}
+{"id":1495517,"jp":"銀枝の額飾り。額から銀色の枝が伸び、両脇では若枝がふわりと絡みつく。中央には澄んだ緑石の飾りが垂れ下がる。古木の影と森の輝きを、そのまま形にしたかのようだ。","fr":"Un ornement frontal en branches d'argent. Des branches argentées s'étirent du front, et de jeunes rameaux s'y enlacent doucement de chaque côté. Au centre pend un ornement de pierre verte limpide. On dirait l'ombre des vieux arbres et l'éclat de la forêt rendus tels quels en forme."}
 {"id":1495518,"jp":"聖なる輝きの残響","fr":"Écho de l'éclat sacré"}
 {"id":1495519,"jp":"貴族の令嬢がお茶会や舞踏会で身につけるヘッドアクセサリー。精巧で美しいが、悪目立ちすることはない。","fr":"Accessoire de tête que portent les jeunes nobles aux goûters et aux bals. Fin et beau, il ne se fait jamais remarquer à l'excès."}
 {"id":1495520,"jp":"止まぬ漣","fr":"Ondulations sans fin"}
+{"id":1495521,"jp":"柔らかな白いリボンや銀の鎖を首に沿わせたチョーカー。水滴のような結晶や小さな宝石が飾られ、静かな水面に波紋が広がるかのような、澄んだ光を放っている。","fr":"Un ras-de-cou de rubans blancs doux et de chaînes d'argent qui longent la nuque. Orné de cristaux en gouttes et de petites gemmes, il jette une lumière limpide, comme des ondes qui s'étendent sur une eau calme."}
 {"id":1495522,"jp":"青の礼讃","fr":"Éloge du bleu"}
 {"id":1495523,"jp":"色の濃淡が異なる小石を繋ぎ合わせて作った指輪。あしらわれた青緑の宝石が、森からの精巧な贈りものであることを物語る。","fr":"Anneau fait de petits cailloux de teintes variées assemblés. La gemme bleu-vert qui l'orne atteste qu'il est un présent délicat de la forêt."}
 {"id":1495524,"jp":"聖輝の恩寵","fr":"Grâce de l'éclat sacré"}
@@ -258,35 +327,49 @@
 {"id":1495532,"jp":"日月の輪転","fr":"Ronde du soleil et de la lune"}
 {"id":1495533,"jp":"金と銀の二色で日月の形を象り、環を重ねた髪飾り。内と外が交わり巡る様は、昼と夜が連綿と続いているかのようだ。","fr":"Barrette d'or et d'argent figurant le soleil et la lune, aux anneaux superposés. L'intérieur et l'extérieur se croisent et tournent, comme le jour et la nuit qui se succèdent sans fin."}
 {"id":1495534,"jp":"青き生命","fr":"Vie verdoyante"}
+{"id":1495535,"jp":"様々な木の葉、小枝、天然の小石を編んで作ったブレスレット。素朴な見た目だが、健康ですくすく育つようにと、わざわざ森へ素材を拾いに行き、子どもへの贈りものとして編む者が後を絶たない。","fr":"Un bracelet tressé de feuilles variées, de brindilles et de cailloux naturels. D'aspect rustique, mais les gens ne cessent d'aller exprès en forêt ramasser les matériaux pour le tresser en cadeau à leurs enfants, afin qu'ils grandissent en bonne santé et vigoureux."}
 {"id":1495536,"jp":"星河の波","fr":"Vagues du fleuve d'étoiles"}
+{"id":1495537,"jp":"深藍と銀白の糸を編み合わせたブレスレット。細かな星の紋様が散りばめられ、少女の袖からほんのすこし覗く様は、星の波がここに潜み、いたずらにこちらを窺っているかのようだ。","fr":"Un bracelet tressé de fils indigo profond et blanc argenté, semé de minuscules motifs d'étoiles. Quand il dépasse à peine de la manche d'une fille, on dirait que des vagues d'étoiles s'y cachent et vous guettent malicieusement."}
 {"id":1495538,"jp":"旅風を肩に","fr":"Vent du voyage sur les épaules"}
 {"id":1495540,"jp":"戦意の刻み","fr":"Empreinte de l'esprit combatif"}
+{"id":1495541,"jp":"展示のために作られた、やや誇張気味の長靴。\n製作者が残したかったのは勝利そのものではなく、幾度もぶつかり、磨かれ、やがて凱旋を果たしたときの心持ちだという……","fr":"De hautes bottes un peu exagérées, faites pour l'exposition.\nOn raconte que ce que leur créateur voulait conserver n'était pas la victoire elle-même, mais l'état d'esprit de qui, après s'être heurté maintes fois et s'être poli, finit par rentrer en triomphe…"}
 {"id":1495542,"jp":"波濤の壁","fr":"Muraille des flots"}
+{"id":1495543,"jp":"輪郭の際立つ波しぶきをモチーフにしたネックレス。幾重にも外へ広がる造形は、波頭が断崖に激しく打ち砕かれ、再び巻き上がる一瞬を表している。","fr":"Un collier inspiré des embruns aux contours nets. Sa forme qui s'ouvre vers l'extérieur en plusieurs couches représente l'instant où la crête d'une vague se brise violemment contre une falaise abrupte et rejaillit."}
 {"id":1495544,"jp":"山を負う印","fr":"Emblème du porteur de montagne"}
 {"id":1495545,"jp":"素朴なチェーンの首飾り。垂れ飾りは重厚で、山岳を模したその姿は、まるで峰のひとつを胸元に下げてあるかのようだ。","fr":"Collier à chaîne simple. Le pendentif, massif, imite une montagne : on dirait qu'un sommet pend sur la poitrine."}
 {"id":1495546,"jp":"天激の波浪","fr":"Flots déchaînés des cieux"}
+{"id":1495547,"jp":"冷たい白銀の金属と深藍の紋飾りで作った、幅広の腕輪。縁の起伏は岸に打ちつける荒波を象り、線はきりりと鋭い。腕に嵌めると今にも抑えきれない奔流が溢れ出しそうだ。次の瞬間には、波が石を砕く瞬間が目の前に広がるかのようである。","fr":"Un large bracelet fait d'un métal blanc argenté froid et d'ornements indigo profond. Les ondulations de son bord figurent les vagues furieuses qui battent le rivage, et ses lignes sont vives et tranchantes. Au bras, il semble sur le point de laisser jaillir un torrent qu'il peine à contenir. À l'instant suivant, on croirait voir se déployer sous ses yeux le moment où les vagues brisent la pierre."}
 {"id":1495548,"jp":"磐途の遺痕","fr":"Traces du chemin de roc"}
 {"id":1495549,"jp":"重厚な造りの指輪。表面には大地の深淵でゆっくりと広がる岩脈のような、細かな亀裂が刻まれている。","fr":"Anneau d'une facture massive. Sa surface porte de fines fissures, comme des filons de roche qui s'étendent lentement dans les profondeurs de la terre."}
 {"id":1495550,"jp":"暁光","fr":"Lueur de l'aube"}
 {"id":1495552,"jp":"暗華繚乱","fr":"Sombre floraison"}
 {"id":1495554,"jp":"烈陽","fr":"Soleil ardent"}
+{"id":1495555,"jp":"刃渡り七尺二寸の大太刀。刃は雪のように白く輝き、鍔と鞘飾りには赤銅があしらわれている。抜刀したその刃光は、荒野の正午に照りつける烈日さながらに目を焼くと伝えられる。堂々として熾烈な豪気が宿るとされるが、実際に抜刀された記録は極めてすくない。","fr":"Un odachi dont la lame mesure sept shaku deux sun. La lame brille, blanche comme neige, et la garde et les ornements du fourreau sont ornés de cuivre rouge. On raconte que l'éclat de la lame dégainée brûle les yeux comme le soleil ardent d'un midi dans les terres désolées. On dit qu'il recèle une vaillance imposante et féroce, mais les cas où il a réellement été dégainé sont extrêmement rares."}
 {"id":1495556,"jp":"山折川断","fr":"Monts brisés, fleuves tranchés"}
 {"id":1495558,"jp":"潮鳴の声","fr":"Voix de la marée"}
+{"id":1495559,"jp":"岩石でできた、ごつごつした形の霊杖。海の色をした晶石が所々に嵌まっており、波が朝夕に打ち寄せる場所で採られたと伝えられている。耳を澄ませば、潮鳴りの音がはっきりと聞こえてくる。","fr":"Un bâton spirituel de roche, de forme rugueuse. Des cristaux couleur de mer y sont sertis çà et là, et l'on dit qu'il a été prélevé en un lieu où les vagues viennent battre matin et soir. À l'écoute, on entend distinctement le grondement de la marée."}
 {"id":1495560,"jp":"迅霆断岳","fr":"Foudre fend-cimes"}
 {"id":1495562,"jp":"雷極","fr":"Foudre absolue"}
 {"id":1495563,"jp":"細身の直剣。刃先は極めて鋭く、長い。抜いた瞬間に光が閃き、一瞬で空を貫く。その一閃はまさしく雷のごとし。","fr":"Épée droite et fine. Sa pointe est extrêmement acérée et longue. À peine tirée, la lumière jaillit et transperce le ciel en un instant. Cet éclair ressemble en tout point à la foudre."}
 {"id":1495564,"jp":"雲嘯風吟","fr":"Nuées qui sifflent, vent qui chante"}
+{"id":1495565,"jp":"刀身が幅広く、刀背が分厚い大刀。しかし振るっても重さは感じられず、風が雲を抜けていくような音が鳴る。高低を繰り返す音は、嘯くようでも、吟じるようでもあったため、この名がついた。","fr":"Un grand sabre à la lame large et au dos épais. Pourtant, on n'en sent pas le poids quand on le brandit, et il produit un son comme le vent qui traverse les nuages. Ce son qui monte et descend, comme un cri ou comme un chant, lui a valu son nom."}
 {"id":1495566,"jp":"不滅の炎光","fr":"Flamme immortelle"}
+{"id":1495567,"jp":"赤鉄と暗金で鍛えた一対の双刀。刃先にはうっすらと灼けるような火色が滲む。手練れがこの双刀を絶え間なく交互に振るうと、刃の端々が光で繋がり、消えない炎が長く燃え続けるかのように見える。","fr":"Une paire de sabres jumeaux forgés de fer rouge et d'or sombre. Un reflet de flamme comme brûlé affleure à peine au tranchant. Quand une main experte brandit sans relâche les deux sabres en alternance, les bouts de lame se relient de lumière et l'on croit voir brûler longtemps une flamme qui ne s'éteint pas."}
 {"id":1495568,"jp":"霜雪万朔","fr":"Givre de dix mille lunes"}
+{"id":1495569,"jp":"銀白と霜藍の鉄を鋳合わせた、六尺六寸の霊杖。表面には氷の枝が伸びるような細かな紋様が走り、杖の頭部には雪色の晶核が据えられている。遠目に見るだけでも、その寒気に身震いする。山を閉ざす雪と、河を凍らせる氷を呼べると伝えられている。","fr":"Un bâton spirituel de six shaku six sun, coulé dans un fer blanc argenté et bleu givre. Des motifs fins comme des branches de glace qui s'étendent courent à sa surface, et sa tête est ornée d'un noyau cristallin couleur de neige. Même vu de loin, son froid fait frissonner. On dit qu'il peut appeler la neige qui scelle les montagnes et la glace qui fige les fleuves."}
 {"id":1495570,"jp":"無光の囁き","fr":"Murmure sans lumière"}
+{"id":1495571,"jp":"全身が漆黒に沈んだ短剣。刃は薄く冷ややかで、縁に時折走る鈍い光が、夜の闇に潜む無音の殺意を思わせる。その姿はこれ以上ないほど控えめで、剥き出しの刃を誇る虚飾はない。だが、ひとたび間合いに入れば、相手の命を断つ暗い殺気が静かに宿っている。","fr":"Un poignard plongé tout entier dans le noir de jais. Sa lame est mince et froide, et la lueur terne qui court parfois sur son tranchant évoque l'intention meurtrière silencieuse tapie dans l'obscurité de la nuit. Son apparence est on ne peut plus discrète, sans la vanité d'exhiber une lame nue. Mais dès qu'on entre dans sa portée, une sombre soif de tuer, qui tranche la vie de l'adversaire, y dort en silence."}
 {"id":1495572,"jp":"古木のお告げ","fr":"Oracle du vieil arbre"}
+{"id":1495573,"jp":"古びた書物。表紙は深褐色で、装丁は古風で素朴。ページも通常とは異なり、未知の文字が記された、木の葉や小さな石片が挟まれている。万木の力を目覚めさせるという、古の呪文が秘められている。","fr":"Un vieux livre. Sa couverture est brun foncé et sa reliure, simple et d'un style ancien. Ses pages aussi sont inhabituelles : des feuilles d'arbre et de petits éclats de pierre couverts de caractères inconnus y sont glissés. Il renferme une ancienne incantation censée éveiller la puissance de tous les arbres."}
 {"id":1495574,"jp":"輝光の亀裂","fr":"Fissure radieuse"}
 {"id":1495576,"jp":"潮汐の聖典","fr":"Écritures des marées"}
+{"id":1495577,"jp":"不思議な古い書物。深青の表紙に銀白の紐が巻かれており、机に立てると背表紙に幾重もの波紋が浮かび上がる。ページをめくると、引いては寄せるような波が音が聞こえてくる。","fr":"Un étrange vieux livre. Sa couverture bleu profond est entourée d'un cordon blanc argenté, et quand on le dresse sur un bureau, des cercles d'ondes de plus en plus nombreux apparaissent sur son dos. Si l'on tourne les pages, on entend le bruit des vagues qui se retirent et reviennent."}
 {"id":1495578,"jp":"無瑕の重刃","fr":"Lourde lame immaculée"}
 {"id":1495579,"jp":"幅広の大剣。剣身は鉄のように冷たく硬い。かつて凶獣の群れのなかで、名もなき英雄がたったひとりでこの剣を振るった。","fr":"Grande épée à large lame, froide et dure comme le fer. Autrefois, un héros sans nom l'a brandie, seul, au milieu d'une horde de Bêtes maudites."}
 {"id":1495580,"jp":"鋭利な心魂","fr":"Âme acérée"}
 {"id":1495581,"jp":"縦長の耳飾り。夜の帳が下りるころ、嵌め込まれた宝石は炎のような夕陽を映し出す。","fr":"Boucles d'oreille tout en longueur. Quand le voile de la nuit tombe, la pierre sertie reflète un soleil couchant embrasé comme une flamme."}
 {"id":1495582,"jp":"英傑の守護","fr":"Protection du champion"}
+{"id":1495583,"jp":"幅広の指輪。かつて身につけた者は、最期の時まで忠誠を尽くすと誓いを立てた。後世の者は皆、その誓いが果たされたことを知っている。","fr":"Un large anneau. Son ancien porteur avait juré de rester loyal jusqu'à son dernier instant. Tous les gens des époques suivantes savent que ce serment a été tenu."}
 {"id":1495584,"jp":"翔舞","fr":"Danse envolée"}
 {"id":1495585,"jp":"長剣。柄が剣身より滑らかになっているのは、持ち主が来る日も来る日もこれを振り続けたためである。","fr":"Épée longue. Le manche est plus lisse que la lame, car son propriétaire l'a brandie jour après jour."}
 {"id":1495586,"jp":"攻撃力","fr":"ATQ"}
@@ -1326,9 +1409,11 @@
 {"id":1496625,"jp":"危機討伐を3回クリアする","fr":"Terminer 3 fois la Traque des menaces"}
 {"id":1496626,"jp":"ボスまたは特異体キボを3匹、倒すかスターリンクする","fr":"Vaincre 3 boss ou Kibo anormaux, ou établir un Lien stellaire avec eux"}
 {"id":1496627,"jp":"芽吹の谷","fr":"Vallée des Bourgeons"}
+{"id":1496628,"jp":"谷で最も開けた場所。中央にある水晶を上から下まで見ることができる。周辺には穏やかな動物が多いが、見るなり襲いかかってくるものもいるので注意しよう。","fr":"L'endroit le plus dégagé de la vallée. On peut voir le cristal du centre de haut en bas. Beaucoup d'animaux paisibles vivent aux alentours, mais certains attaquent dès qu'ils vous voient : mieux vaut rester prudent."}
 {"id":1496629,"jp":"都市国家フリス","fr":"Cité-État de Fleece"}
 {"id":1496630,"jp":"フリス","fr":"Fleece"}
 {"id":1496631,"jp":"シャルル村","fr":"Village de Charlulu"}
+{"id":1496632,"jp":"谷の南部にある村。オオカミ族に率いられた獣人たちが住んでいる。暮らしやすく、住民はみんな気さくだ。土産に狩った獲物を持っていけば、きっと喜んでくれるだろう。","fr":"Un village au sud de la vallée. Des Furriens menés par le clan des Loups y vivent. On y vit bien, et tous les habitants sont accueillants. Du gibier chassé, apporté en cadeau, leur fera sûrement plaisir."}
 {"id":1496633,"jp":"火の刻印 最大スタック時ダメージ","fr":"DGT du Sceau de Feu au cumul max."}
 {"id":1496634,"jp":"雷の刻印 最大スタック時ダメージ","fr":"DGT du Sceau de Foudre au cumul max."}
 {"id":1496635,"jp":"氷の刻印 最大スタック時ダメージ","fr":"DGT du Sceau de Glace au cumul max."}
@@ -2333,46 +2418,70 @@
 {"id":1497639,"jp":"炎の足跡","fr":"Empreintes de flammes"}
 {"id":1497640,"jp":"地面に燃え続ける炎を残し、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Laisse au sol des flammes qui brûlent sans cesse et infligent des <color=#d25556>DGT de Feu</color>."}
 {"id":1497641,"jp":"火の玉爆発","fr":"Explosion de boule de feu"}
+{"id":1497642,"jp":"15秒ごとに対象の位置へ空中に浮かぶファイアボールを放つ。その後、爆発し、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Toutes les 15 secondes, lance une boule de feu flottante à la position de la cible. Elle explose ensuite et inflige des <color=#d25556>DGT de Feu</color>."}
 {"id":1497643,"jp":"不滅の灼火","fr":"Flamme immortelle"}
+{"id":1497644,"jp":"命中した対象に「燃焼」を付与する（効果時間：16秒）。 「燃焼」：対象に1秒ごとに<color=#d25556>火属性ダメージ</color>を与える。","fr":"Inflige « Brûlure » aux cibles touchées (durée : 16 s). « Brûlure » : inflige des <color=#d25556>DGT de Feu</color> à la cible chaque seconde."}
 {"id":1497645,"jp":"火の盾","fr":"Bouclier de feu"}
 {"id":1497646,"jp":"自身にHP上限の10%分のシールドを付与する。","fr":"Obtient un Bouclier équivalant à 10% des PV max."}
 {"id":1497647,"jp":"烈焔柱","fr":"Piliers de flammes"}
+{"id":1497648,"jp":"攻撃している時、自身の周囲に炎の柱を継続して召喚し、対象に<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lors d'une attaque, invoque en continu des piliers de flammes autour de soi et inflige des <color=#d25556>DGT de Feu</color> aux cibles."}
 {"id":1497649,"jp":"灼熱火の玉","fr":"Boules de feu ardentes"}
+{"id":1497650,"jp":"攻撃している時、ファイアボールを3発連続で放ち、対象に<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lors d'une attaque, lance 3 boules de feu d'affilée et inflige des <color=#d25556>DGT de Feu</color> aux cibles."}
 {"id":1497651,"jp":"ポイズントレイル","fr":"Traînée de poison"}
+{"id":1497652,"jp":"背後に毒の沼を作る。命中した対象に1秒ごとに<color=#02a0e9>水属性ダメージ</color>を与える（効果時間：5秒）。","fr":"Crée un marais empoisonné derrière soi. Inflige des <color=#02a0e9>DGT d'Eau</color> chaque seconde aux cibles touchées (durée : 5 s)."}
 {"id":1497653,"jp":"ウォータースプラッシュ","fr":"Éclaboussure"}
+{"id":1497654,"jp":"スキルを発動するたび、水の玉を2個追加で放って連携攻撃し、<color=#02a0e9>水属性ダメージ</color>を与える。","fr":"À chaque utilisation d'une compétence, lance 2 boules d'eau supplémentaires en attaque de Coordination et inflige des <color=#02a0e9>DGT d'Eau</color>."}
 {"id":1497655,"jp":"激浪","fr":"Vagues déchaînées"}
+{"id":1497656,"jp":"スキルを発動するたび、自身の周囲に水の柱を継続して召喚し、対象に<color=#02a0e9>水属性ダメージ</color>を与える（効果時間：5秒）。","fr":"À chaque utilisation d'une compétence, invoque en continu des piliers d'eau autour de soi et inflige des <color=#02a0e9>DGT d'Eau</color> aux cibles (durée : 5 s)."}
 {"id":1497657,"jp":"水の盾","fr":"Bouclier d'eau"}
 {"id":1497658,"jp":"氷の棘・射出","fr":"Épines de glace : tir"}
+{"id":1497659,"jp":"スキルを発動するたび、自身の周囲につららを作って対象へ放ち、<color=#69c0bd>氷属性ダメージ</color>を与える。命中した対象の移動速度も低下させる。","fr":"À chaque utilisation d'une compétence, forme des pics de glace autour de soi et les projette sur les cibles en infligeant des <color=#69c0bd>DGT de Glace</color>. Réduit aussi la vitesse de déplacement des cibles touchées."}
 {"id":1497660,"jp":"氷結シールド","fr":"Bouclier gelé"}
 {"id":1497661,"jp":"氷竜巻","fr":"Tornade de glace"}
+{"id":1497662,"jp":"スキルを発動するたび、自身の周囲に氷の竜巻を継続して起こし、<color=#69c0bd>氷属性ダメージ</color>を与えて対象に「減速」を付与する（効果時間：5秒）。","fr":"À chaque utilisation d'une compétence, déclenche en continu des tornades de glace autour de soi, inflige des <color=#69c0bd>DGT de Glace</color> et applique « Ralentissement » aux cibles (durée : 5 s)."}
 {"id":1497663,"jp":"氷霧の軌跡","fr":"Sillage de brume glacée"}
+{"id":1497664,"jp":"地面に氷の霧を残して<color=#69c0bd>氷属性ダメージ</color>を与え、対象に「減速」を付与する（効果時間：5秒）。","fr":"Laisse au sol une brume glacée qui inflige des <color=#69c0bd>DGT de Glace</color> et applique « Ralentissement » aux cibles (durée : 5 s)."}
 {"id":1497665,"jp":"三重の嵐","fr":"Triple tempête"}
+{"id":1497666,"jp":"10秒ごとに自身の周囲へ竜巻を3つ出現させ、回転させる。竜巻1つにつき<color=#d2915d>風属性ダメージ</color>を与える。","fr":"Toutes les 10 secondes, fait apparaître 3 tornades autour de soi et les fait tourner. Chaque tornade inflige des <color=#d2915d>DGT de Vent</color>."}
 {"id":1497667,"jp":"暴走","fr":"Déchaînement"}
 {"id":1497668,"jp":"自身の攻撃力が上昇し、防御力が低下する。同時に「吸血」を獲得する。\n「吸血」：対象にダメージを与えた後HPを回復する。","fr":"Augmente sa propre ATQ et réduit sa DÉF. Obtient aussi « Vampirisme ».\n« Vampirisme » : restaure des PV après avoir infligé des DGT à une cible."}
 {"id":1497669,"jp":"旋風球","fr":"Orbe tourbillon"}
+{"id":1497670,"jp":"20秒ごとに対象の位置へ風の玉を放ち、広範囲に風域を作る。対象を玉へ引き寄せて<color=#d2915d>風属性ダメージ</color>を与える。","fr":"Toutes les 20 secondes, lance une boule de vent à la position de la cible et crée une vaste zone de vent. Attire les cibles vers la boule et inflige des <color=#d2915d>DGT de Vent</color>."}
 {"id":1497671,"jp":"風刃連撃","fr":"Lames de vent en rafale"}
+{"id":1497672,"jp":"スキルを発動するたび、自身の周囲に風刃を放って対象を攻撃し、<color=#d2915d>風属性ダメージ</color>を与える。","fr":"À chaque utilisation d'une compétence, projette des lames de vent autour de soi pour attaquer les cibles et inflige des <color=#d2915d>DGT de Vent</color>."}
 {"id":1497673,"jp":"風の盾","fr":"Bouclier de vent"}
 {"id":1497674,"jp":"暴風領域","fr":"Zone de tempête"}
+{"id":1497675,"jp":"一定間隔で嵐を起こしてフィールドを巻き込み、対象に継続して<color=#d2915d>風属性ダメージ</color>を与える。","fr":"À intervalles réguliers, déclenche une tempête qui englobe le terrain et inflige en continu des <color=#d2915d>DGT de Vent</color> aux cibles."}
 {"id":1497676,"jp":"ソーンエリア","fr":"Zone de ronces"}
+{"id":1497677,"jp":"対象の近くに茨を4本召喚し、命中した対象にダメージを与えて「裂傷」を付与する。「裂傷」：対象に1秒ごとに<color=#83959d>無属性ダメージ</color>を与える。","fr":"Invoque 4 ronces près de la cible, inflige des DGT aux cibles touchées et applique « Lacération ». « Lacération » : inflige des <color=#83959d>DGT neutres</color> à la cible chaque seconde."}
 {"id":1497678,"jp":"追跡の棘","fr":"Épines traqueuses"}
+{"id":1497679,"jp":"スキルを発動するたび、自身の周囲に茨を作り、その後、対象へ直線状に放つ。命中した対象に「裂傷」を付与する。\n「裂傷」：対象に1秒ごとに<color=#83959d>無属性ダメージ</color>を与える。","fr":"À chaque utilisation d'une compétence, forme des ronces autour de soi, puis les projette en ligne droite vers les cibles. Applique « Lacération » aux cibles touchées.\n« Lacération » : inflige des <color=#83959d>DGT neutres</color> à la cible chaque seconde."}
 {"id":1497680,"jp":"木の盾","fr":"Bouclier de bois"}
 {"id":1497681,"jp":"岩柱密布","fr":"Forêt de piliers rocheux"}
+{"id":1497682,"jp":"スキルを2回発動した後、その都度、対象の周囲へ岩柱突きを5本連続で出現させ、<color=#d58a6c>地属性ダメージ</color>を与える。","fr":"Après chaque série de 2 utilisations de compétence, fait surgir 5 piliers rocheux d'affilée autour de la cible et inflige des <color=#d58a6c>DGT de Terre</color>."}
 {"id":1497683,"jp":"大地のシールド","fr":"Bouclier de la terre"}
 {"id":1497684,"jp":"岩錐スプラッシュ","fr":"Gerbe de pics rocheux"}
+{"id":1497685,"jp":"スキルを発動するたび、地面から岩錐を突き出して対象を攻撃し、<color=#d58a6c>地属性ダメージ</color>を与える。","fr":"À chaque utilisation d'une compétence, fait jaillir des pics rocheux du sol pour attaquer les cibles et inflige des <color=#d58a6c>DGT de Terre</color>."}
 {"id":1497686,"jp":"三重電球","fr":"Triple orbe de foudre"}
+{"id":1497687,"jp":"15秒ごとに雷球を3個放って自身の周囲を回転させる。玉は対象に命中した後に消え、<color=#6f75d4>雷属性ダメージ</color>を与える。","fr":"Toutes les 15 secondes, lance 3 boules de foudre qui tournent autour de soi. Elles disparaissent après avoir touché une cible et infligent des <color=#6f75d4>DGT de Foudre</color>."}
 {"id":1497688,"jp":"連鎖雷撃","fr":"Foudre en chaîne"}
+{"id":1497689,"jp":"ダメージを与えた時、命中した対象と自身の間にチェーンライトニングが発生する。近くの対象へ飛び移って<color=#6f75d4>雷属性ダメージ</color>を与え、対象が1体いるごとに1回多く飛び移る。最大5回まで。","fr":"Quand des DGT sont infligés, une chaîne d'éclairs se forme entre la cible touchée et soi. Elle saute vers les cibles proches et inflige des <color=#6f75d4>DGT de Foudre</color>, avec 1 rebond supplémentaire par cible présente. Jusqu'à 5 rebonds."}
 {"id":1497690,"jp":"不息の落雷","fr":"Foudre incessante"}
 {"id":1497691,"jp":"自身の近くに落雷を継続して呼び、対象に<color=#6f75d4>雷属性ダメージ</color>を与える。","fr":"Fait tomber la foudre en continu à proximité et inflige des <color=#6f75d4>DGT de Foudre</color> aux cibles."}
 {"id":1497692,"jp":"雷の盾","fr":"Bouclier de foudre"}
 {"id":1497693,"jp":"光の槍","fr":"Lance de lumière"}
+{"id":1497694,"jp":"10秒ごとに対象の上へ光の槍を連続3本召喚して落として、<color=#cfb55d>光属性ダメージ</color>を与える。","fr":"Toutes les 10 secondes, invoque et fait tomber 3 lances de lumière d'affilée au-dessus de la cible, ce qui inflige des <color=#cfb55d>DGT de Lumière</color>."}
 {"id":1497695,"jp":"行動妨害無効","fr":"Immunité aux entraves"}
 {"id":1497696,"jp":"自身はすべての行動妨害効果を受けない。","fr":"Confère une immunité à tous les effets de contrôle."}
 {"id":1497697,"jp":"ポテンシャル","fr":"Potentiel"}
 {"id":1497698,"jp":"自身の防御力が低下する弱体効果を受ける。20秒後にこの弱体効果を解除し、自身の攻撃力とよろけ耐性を上昇させる。","fr":"Subit un affaiblissement qui réduit sa DÉF. Après 20 secondes, lève cet affaiblissement et augmente son ATQ et sa résistance au déséquilibre."}
 {"id":1497699,"jp":"追尾オーブ","fr":"Orbe à tête chercheuse"}
+{"id":1497700,"jp":"スキルを2回発動するごとに、自身の周囲へ追尾する光のオーブを放ち、対象に<color=#cfb55d>光属性ダメージ</color>を与える。","fr":"Après chaque série de 2 utilisations de compétence, lance autour de soi des orbes de lumière à tête chercheuse et inflige des <color=#cfb55d>DGT de Lumière</color> aux cibles."}
 {"id":1497701,"jp":"光の盾","fr":"Bouclier de lumière"}
 {"id":1497702,"jp":"呪いの暗球","fr":"Orbe sombre maudit"}
+{"id":1497703,"jp":"スキルを発動した時、自身の周囲に浮かぶ闇の玉を放って対象を追撃し、「呪い」を付与する。「呪い」：対象に継続して<color=#7d5bbc>闇属性ダメージ</color>を与える。","fr":"Quand une compétence est utilisée, lance des boules de ténèbres flottant autour de soi pour poursuivre les cibles et applique « Malédiction ». « Malédiction » : inflige en continu des <color=#7d5bbc>DGT de Ténèbres</color> à la cible."}
 {"id":1497704,"jp":"暗黒の牽引","fr":"Attraction ténébreuse"}
+{"id":1497705,"jp":"30秒ごとに自身の位置に闇の渦を作り、対象を引き寄せながら0.5秒ごとに<color=#7d5bbc>闇属性ダメージ</color>を与える。","fr":"Toutes les 30 secondes, crée un tourbillon de ténèbres à sa position, attire les cibles et inflige des <color=#7d5bbc>DGT de Ténèbres</color> toutes les 0,5 seconde."}
 {"id":1497706,"jp":"闇の盾","fr":"Bouclier des ténèbres"}
 {"id":1497707,"jp":"自身が受ける全属性ダメージが15%減少する。","fr":"Réduit les DGT élémentaires subis de 15%."}
 {"id":1497708,"jp":"自身が受ける火属性ダメージが20%減少する。","fr":"Réduit les DGT de Feu subis de 20%."}
@@ -2408,6 +2517,7 @@
 {"id":1497738,"jp":"攻撃態勢","fr":"Posture offensive"}
 {"id":1497739,"jp":"自身の攻撃力が上昇する。","fr":"Augmente sa propre ATQ."}
 {"id":1497740,"jp":"防御力破壊","fr":"Destruction de DÉF"}
+{"id":1497741,"jp":"対象にダメージを与えるたび、防御力を5%低下させる（最大6スタック、効果時間：15秒）。各スタックの効果時間は個別に計算される。","fr":"Chaque fois que des DGT sont infligés à une cible, réduit la DÉF de la cible de 5 % (6 cumuls max., durée : 15 s). La durée de chaque cumul est comptée séparément."}
 {"id":1497742,"jp":"自身にデバフが付与された時、その効果を解除する。","fr":"Dissipe tout Affaiblissement reçu dès son application."}
 {"id":1497743,"jp":"自身の防御力が20%低下する。","fr":"Réduit sa propre DÉF de 20%."}
 {"id":1497744,"jp":"反撃","fr":"Contre-attaque"}
@@ -2851,8 +2961,10 @@
 {"id":1498182,"jp":"1秒ごとにダメージを与え、効果終了時に大ダメージを1回与える（効果時間：6秒）。","fr":"Inflige des DGT chaque seconde, puis des DGT massifs une fois à la fin de l'effet (durée : 6 s)."}
 {"id":1498183,"jp":"寒悠悠","fr":"Han Youyou"}
 {"id":1498184,"jp":"12月15日","fr":"15 décembre"}
+{"id":1498186,"jp":"いつも自信満々で、悪戯好きな少女。お宝のにおいがする場所に駆けつけ、一風変わった武術と機関を駆使して手に入れてしまう。彼女に達成できない目標はない……もしあったとしても、いつだって悪知恵とお金を使ってなんとかしてしまうのだ。","fr":"Une fille toujours pleine d'assurance, qui adore faire des farces. Elle accourt dès qu'un endroit sent le trésor et finit toujours par mettre la main dessus grâce à des arts martiaux hors du commun et à ses mécanismes. Aucun objectif ne lui résiste… et s'il y en avait un, elle s'en sortirait toujours à coups de ruses et d'argent."}
 {"id":1498187,"jp":"ポンポン","fr":"Pengpeng"}
 {"id":1498188,"jp":"3月12日","fr":"12 mars"}
+{"id":1498189,"jp":"ちょっとばかりカンフーの心得があるカンフーマニアのパミー。\n鏡花州の吉逸楼の常連。ペイペイの親友で、いつもみんなの世話になっている。過去には放浪生活を送っていたらしい。","fr":"Une Pammy mordue de kung-fu, qui a tout de même un petit savoir-faire en la matière.\nHabituée de la maison Jiyi, au Cap Jinghua. Meilleure amie de Peipei, elle ne cesse de compter sur l'aide de tout le monde. Elle aurait, dit-on, mené autrefois une vie d'errance."}
 {"id":1498190,"jp":"ペイペイ","fr":"Peipei"}
 {"id":1498191,"jp":"8月30日","fr":"30 août"}
 {"id":1498193,"jp":"塗山小玉","fr":"Tushan Xiaoyu"}
@@ -2861,37 +2973,48 @@
 {"id":1498197,"jp":"6月26日","fr":"26 juin"}
 {"id":1498199,"jp":"ルビーナ","fr":"Ruby"}
 {"id":1498200,"jp":"5月21日","fr":"21 mai"}
+{"id":1498201,"jp":"レーブの街の片隅で武器屋を営む少女。見事な銃の腕前と独特な武器デザインの美学で知られている。しかし、前衛的なアートスタイルに満ち、まるでギャラリーのようなその店は、武器を買いに来た多くの者に見逃されてしまう。","fr":"Une jeune fille qui tient une armurerie dans un coin de la ville de Lebe. Elle est connue pour sa superbe adresse au tir et son esthétique singulière dans la conception d'armes. Pourtant, sa boutique, pleine d'un style artistique d'avant-garde et semblable à une galerie, échappe à bien des clients venus acheter des armes."}
 {"id":1498202,"jp":"源千代","fr":"Minamoto Chiyo"}
 {"id":1498203,"jp":"7月19日","fr":"19 juillet"}
 {"id":1498205,"jp":"シンフォーリア","fr":"Symphoria"}
 {"id":1498206,"jp":"4月11日","fr":"11 avril"}
 {"id":1498208,"jp":"メーツァ","fr":"Metsa"}
 {"id":1498209,"jp":"2月25日","fr":"25 février"}
+{"id":1498210,"jp":"緑豊かな森を抜けた谷の奥深くにあるガーデン。\nその場所はその地を守護する者と同じように、長い歳月を経てもなお穏やかで美しく、なにひとつ変わることがないように見える。\n「守るべきものが尊いほど、ときを超える価値があるの」","fr":"Un jardin au fond d'une vallée, après une forêt luxuriante.\nÀ l'image de celle qui le garde, il semble paisible et beau, inchangé malgré les longues années.\n« Plus ce qu'on protège est précieux, plus cela vaut d'être porté à travers le temps. »"}
 {"id":1498211,"jp":"アビィ","fr":"Abby"}
 {"id":1498212,"jp":"5月3日","fr":"3 mai"}
+{"id":1498213,"jp":"天真爛漫で、幼く愛らしい見た目とは裏腹に、動物たちが近づくのをためらい、恐怖のあまり動けなくなるような竜族のオーラを放つ少女。しかし、無表情な彼女が心配していることはいつだってひとつだけ――おなかがすいたときに、なにを食べるかだ。","fr":"Une fille candide qui, malgré son apparence enfantine et adorable, dégage une aura du clan des dragons telle que les animaux hésitent à s'approcher et se figent de peur. Pourtant, sur son visage impassible, une seule inquiétude revient toujours : que manger quand on a faim."}
 {"id":1498214,"jp":"テララ","fr":"Terara"}
 {"id":1498215,"jp":"8月2日","fr":"2 août"}
+{"id":1498216,"jp":"村の人気者、元気なオオカミ族の少女。毎日山谷を飛び回り、どんな困難にあっても屈することはない。思考は単純でなにごともストレートに考え、裏表がまったくない。その真っ直ぐな気性から、シャルル村のみんなに愛されている。","fr":"L'enfant chérie du village, une jeune fille énergique du clan des Loups. Elle bondit chaque jour par monts et par vaux et ne plie devant aucune épreuve. Elle pense simplement, prend tout de front et n'a aucune duplicité. Sa franchise lui vaut l'affection de tous au Village de Charlulu."}
 {"id":1498217,"jp":"ルルカ","fr":"Luruka"}
 {"id":1498218,"jp":"9月15日","fr":"15 septembre"}
+{"id":1498219,"jp":"つぼみのように繊細な若きシャーマン。\n御霊の導きに従いながら、村民たちの祈りに耳を傾ける。\n苦難に立ち向かい、力強く成長していく少女が守りたいと願うものは――","fr":"Une jeune chamane, délicate comme un bourgeon.\nGuidée par les Esprits anciens, elle écoute les prières des villageois.\nAffrontant les épreuves et grandissant avec force, ce que cette jeune fille souhaite protéger, c'est…"}
 {"id":1498220,"jp":"ミィティ","fr":"Mitty"}
 {"id":1498221,"jp":"10月7日","fr":"7 octobre"}
+{"id":1498222,"jp":"みずからの出自を誇る、風隠れ岩出身の翼人の弓使い。\nまだ若いので大きな責任を背負ってはいないが、日々鍛錬に打ち込み、偵察や狩りに勤しむ熱意は部族の精鋭にも勝るほど。\n「な、なによ！飛べなくったって、アタシは最高の戦士になるわ！……絶対に！」","fr":"Une archère ailée originaire de Roc Coupe-Vent, fière de ses origines.\nTrop jeune pour porter de grandes responsabilités, mais son ardeur à s'entraîner chaque jour, à éclairer et à chasser rivalise avec celle des élites de la tribu.\n« M-mais enfin ! Même si je peux pas voler, je serai la meilleure guerrière ! … Sans faute ! »"}
 {"id":1498223,"jp":"カタル","fr":"Katalua"}
 {"id":1498224,"jp":"6月1日","fr":"1er juin"}
+{"id":1498225,"jp":"素直でおとなしく、純朴なシャルル村の村民。周囲の愛情に育まれながら鍛錬を続け、強靭な体を手に入れたが、心はまだ未熟で成長途中。だけど、心配はいらない。『角曲がりの一族』の意志を受け継いだ『原木』は、やがて最強の『盾』になるのだ。","fr":"Une villageoise du Village de Charlulu, simple, docile et sincère. Entourée de l'affection des siens, elle s'entraîne sans relâche et s'est forgé un corps robuste, mais son cœur est encore immature et en pleine croissance. Pas d'inquiétude : le « bois brut » qui a hérité de la volonté du « clan des Cornes courbées » deviendra un jour le plus solide des « boucliers »."}
 {"id":1498226,"jp":"モーレン","fr":"Morwyn"}
 {"id":1498227,"jp":"2月15日","fr":"15 février"}
+{"id":1498228,"jp":"優雅で華麗な剣技、完璧な身のこなし、モーレンが他者に示す姿は、常に非の打ちどころがなく、輝きに満ちている。\nそのイメージを維持するためにハクオン家の継承者が陰で払った努力は、傍で暁闇と黄昏に舞う双剣だけが知っている。","fr":"Une escrime élégante et splendide, une aisance parfaite : l'image que Morwyn offre aux autres est toujours irréprochable et rayonnante.\nSeules les épées jumelles qui dansent à ses côtés à l'aube et au crépuscule savent les efforts que fait en coulisse l'héritière de la maison Hakuon pour maintenir cette image."}
 {"id":1498229,"jp":"シャル","fr":"Shalle"}
 {"id":1498230,"jp":"1月6日","fr":"6 janvier"}
 {"id":1498232,"jp":"ファランタ","fr":"Faridah"}
 {"id":1498233,"jp":"5月10日","fr":"10 mai"}
 {"id":1498235,"jp":"キャスベル","fr":"Cathbelle"}
 {"id":1498236,"jp":"6月10日","fr":"10 juin"}
+{"id":1498237,"jp":"フリスの領主の屋敷でメイドをしている、ロージア帝国出身の獣人。手首の枷が外されたところを見た者はおらず、暗い過去を感じさせる。だが、彼女がみずからその話題に触れることはない。","fr":"Une Furrienne originaire de l'Empire de Rosia, qui travaille comme servante au manoir du seigneur de Fleece. Personne n'a jamais vu les entraves de ses poignets retirées, ce qui laisse deviner un sombre passé. Mais elle n'aborde jamais elle-même le sujet."}
 {"id":1498238,"jp":"アニス","fr":"Anais"}
 {"id":1498239,"jp":"7月3日","fr":"3 juillet"}
+{"id":1498240,"jp":"包容力があり、優しく穏やかなカルノン療養院の看護師。だれに対しても平等かつ行き届いたお世話をしてくれるが、\n患者が言うことを聞かないときはやや強引な手段を取ることもある。\nまだ若いが、とても頼れる存在だ。","fr":"Infirmière du sanatorium Carnon, pleine de bienveillance, douce et posée. Elle prend soin de tous les patients avec la même attention, mais\nquand un patient n'écoute pas, elle recourt parfois à des méthodes un peu musclées.\nElle est encore jeune, mais on peut vraiment compter sur elle."}
 {"id":1498241,"jp":"？月？日","fr":"?/?"}
 {"id":1498244,"jp":"ノノ","fr":"Nono"}
 {"id":1498245,"jp":"11月25日","fr":"25 novembre"}
 {"id":1498247,"jp":"蘭香子","fr":"Lan Xiangzi"}
 {"id":1498248,"jp":"5月23日","fr":"23 mai"}
+{"id":1498249,"jp":"古風な袍を着て、額に謎めいた呪符を貼った少女。\n陰気な雰囲気と青白い肌は、出会った者をうすら寒い気分にさせる。\nしかし、実際には彼女のほうが、近づいてくる見知らぬ者に驚いて、飛び上がってしまうことが多いのだ。","fr":"Une jeune fille en robe à l'ancienne, un mystérieux talisman collé au front.\nSon air sombre et son teint pâle donnent à qui la croise un frisson glacé.\nPourtant, c'est en réalité elle qui sursaute le plus souvent, effrayée par les inconnus qui s'approchent."}
 {"id":1498250,"jp":"メイプル","fr":"Maple"}
 {"id":1498251,"jp":"8月8日","fr":"8 août"}
 {"id":1498253,"jp":"絆レベル6で受取可能","fr":"Disponible au niveau de Lien 6"}
@@ -2931,6 +3054,7 @@
 {"id":1498287,"jp":"落ち着きのない小悪魔","fr":"Petite diablesse turbulente"}
 {"id":1498289,"jp":"絆レベル2で解放","fr":"Débloqué au niveau de Lien 2"}
 {"id":1498290,"jp":"修行は自分次第","fr":"L'entraînement ne dépend que de soi"}
+{"id":1498291,"jp":"寒悠悠は幼いころからさまざまな詩書礼楽の薫陶を受けてきたが、成長するにつれて我慢できなくなり、『教え』を忠実に守れなくなっていった。\nしかしその一方で、さまざまな悪戯はだれに教わったわけでもなく、上達していったのだ……","fr":"Han Youyou a reçu dès l'enfance l'éducation variée des poèmes, des livres, des rites et de la musique, mais en grandissant, elle a perdu patience et n'a plus pu suivre fidèlement les « enseignements ».\nEn revanche, personne ne lui a jamais appris ses nombreuses farces, et elle n'a fait que s'améliorer…"}
 {"id":1498292,"jp":"絆レベル4で解放","fr":"Débloqué au niveau de Lien 4"}
 {"id":1498293,"jp":"壁登りの名人","fr":"As de l'escalade"}
 {"id":1498295,"jp":"絆レベル6で解放","fr":"Débloqué au niveau de Lien 6"}
@@ -2939,111 +3063,176 @@
 {"id":1498299,"jp":"お宝のありか","fr":"Là où dort le trésor"}
 {"id":1498301,"jp":"絆レベル10で解放","fr":"Débloqué au niveau de Lien 10"}
 {"id":1498302,"jp":"悪戯","fr":"Espièglerie"}
+{"id":1498303,"jp":"「脅かすなら、強さを見せつけてやらないとな！こうやって両手を上げて、目のまえにぴょんっと飛び出すんだ。どーだっ！？すごく威圧的だろう！」\n見た目があまりにもかわいらしいので、このような悪戯で客から苦情が来たことはない。","fr":"« Si tu veux faire peur, il faut montrer ta force ! Tu lèves les deux mains comme ça, et tu sautes devant eux d'un bond ! Alors ?! Super intimidant, non ?! »\nElle est tellement adorable que ces farces ne lui ont jamais valu la moindre plainte d'un client."}
 {"id":1498304,"jp":"食べられる幸せ","fr":"Le bonheur de manger"}
+{"id":1498305,"jp":"シャキシャキのエイプルはポンポンの大好物だが、ほかのおいしいものだって見逃すことはない。目のまえにたくさんのご馳走が並ぶと、ポンポンはいつも口いっぱいに頬張る。そして食べきれなかった分は……\n「これは……持ち帰るぞっ！ふぅ～」","fr":"Les Aple croquants sont la friandise préférée de Pengpeng, mais elle ne laisse pas passer non plus les autres bonnes choses. Devant un grand festin, Pengpeng a toujours les joues pleines. Et ce qu'elle ne peut pas finir…\n« Ça… je l'emporte à la maison ! Ouf~ »"}
 {"id":1498306,"jp":"『蛟龍戯珠』","fr":"« Le dragon joue avec la perle »"}
+{"id":1498307,"jp":"ポンポンの技名はどれも勇壮かつ壮大で、とても強そうに聞こえる。だけど、『蛟龍戯珠』という技でポンポンの果たす役割が『珠』ほうだなんて、だれも想像できなかったはずだ！","fr":"Les noms des techniques de Pengpeng sont tous héroïques et grandioses, et sonnent très puissants. Mais personne n'aurait pu imaginer que, dans la technique « Le dragon joue avec la perle », le rôle de Pengpeng serait celui de la « perle » !"}
 {"id":1498308,"jp":"カンフー小熊猫","fr":"Panda roux kung-fu"}
 {"id":1498309,"jp":"実際のところポンポンは正式にカンフーを習ったことはなく、実力も不安定だ。だけど幸いにも、パミーの愛らしい見た目とごく稀に発動する機転のおかげで、いつも危機を乗り越えることができる。ポンポン曰く、「これが実力だっ！」。","fr":"En vérité, Pengpeng n'a jamais appris le kung-fu dans les règles, et son niveau est très inégal. Heureusement, son allure adorable de Pammy et de très rares éclairs de génie lui permettent toujours de se tirer d'affaire. Comme le dit Pengpeng : « Ça, c'est du vrai talent ! »"}
 {"id":1498310,"jp":"マスターの修行","fr":"L'entraînement du maître"}
 {"id":1498312,"jp":"武への一途な思い","fr":"Dévotion aux arts martiaux"}
 {"id":1498314,"jp":"武侠活劇","fr":"Épopée wuxia"}
 {"id":1498316,"jp":"新しい修行","fr":"Nouvel entraînement"}
+{"id":1498317,"jp":"吉逸楼で会計と配膳の仕事を任されるようになってから、ペイペイは以前のようにまとまった時間を修行に当てることができなくなり、別の道を切り開いた――ペイペイが葵花点帳手の技を繰り出すと、あっという間に客の会計が終わるのだった。","fr":"Depuis qu'on lui a confié la comptabilité et le service à la maison Jiyi, Peipei ne peut plus consacrer de longs moments à l'entraînement comme avant, et elle s'est ouvert une autre voie : quand Peipei déploie sa technique de la Main comptable du Tournesol, l'addition d'un client est réglée en un clin d'œil."}
 {"id":1498318,"jp":"『パチ』と聞いて飛び起きる","fr":"Un réveil en sursaut au son de « Pachi »"}
+{"id":1498319,"jp":"ペイペイははやく起きる習慣がある。吉逸楼の営業の準備を行い、時間を見つけて武術を学ぶ者の基本功を練習する。そして寝坊しないように、パチと約束をした。朝になってもまだ目が覚めないときは、起こしてもらうのだ。","fr":"Peipei a l'habitude de se lever tôt. Elle prépare l'ouverture de la maison Jiyi et, quand elle trouve un moment, elle s'exerce aux exercices de base de qui pratique les arts martiaux. Et pour ne pas dormir trop longtemps, elle a fait une promesse à Pachi : si elle n'est toujours pas réveillée au matin, elle se fait réveiller."}
 {"id":1498320,"jp":"警戒態勢……","fr":"En alerte…"}
+{"id":1498321,"jp":"吉逸楼で多くの経験をしてきたが、ペイペイは相変わらずすこし緊張しやすい。緊張しすぎたペイペイは、警戒態勢に切り替わる。頭頂部のアホ毛が垂れ下がり、目も死んだようになる。そして口から飛び出すのは、的を得た鋭い発言だった。","fr":"Malgré tout ce qu'elle a vécu à la maison Jiyi, Peipei reste un peu sujette à la nervosité. Quand elle est trop nerveuse, Peipei passe en mode alerte. La mèche rebelle qui dépasse du sommet de sa tête retombe et ses yeux deviennent vides. Et ce qui sort alors de sa bouche, c'est une remarque pertinente et acérée."}
 {"id":1498322,"jp":"修行の真意","fr":"Le vrai sens de l'entraînement"}
 {"id":1498324,"jp":"これぞ因縁","fr":"C'était écrit"}
 {"id":1498326,"jp":"手放す知恵","fr":"La sagesse de lâcher prise"}
 {"id":1498328,"jp":"縁結びの乙女","fr":"La demoiselle qui noue les destins"}
 {"id":1498330,"jp":"場を温める芸技","fr":"L'art de briser la glace"}
 {"id":1498332,"jp":"見習いの少女","fr":"L'apprentie"}
+{"id":1498333,"jp":"真の騎士になるため、リリィは故郷を離れ、試練の旅に出た。旅の終着点がどこにあるのかはまだわからない。不安を抱える彼女だが、その笑顔は明るく朗らかで、助けを求めるひとたちを全力に手を差し伸べている。","fr":"Pour devenir une vraie chevalière, Lily a quitté son pays natal et s'est lancée dans un voyage d'épreuves. Elle ne sait pas encore où il s'achèvera. Elle est anxieuse, mais son sourire est lumineux et joyeux, et elle tend la main de toutes ses forces aux personnes qui demandent de l'aide."}
 {"id":1498334,"jp":"騎士の心得","fr":"Le code de chevalerie"}
+{"id":1498335,"jp":"「心身を鍛え、有言実行し、弱きを守り、謙虚かつ慎重に……それから、公正で、勇敢で、名誉を……ええと……」\n騎士の心得の暗唱はまだおぼつかないが、リリィは日々の生活ですでにそれを実践している。","fr":"« Forger le corps et l'esprit, tenir parole, protéger les faibles, rester humble et prudent… et puis, être juste, courageux, avoir de l'honneur… euh… »\nElle récite encore le code de chevalerie d'une voix hésitante, mais Lily le met déjà en pratique dans sa vie de tous les jours."}
 {"id":1498336,"jp":"道中の幸運","fr":"La chance du voyage"}
+{"id":1498337,"jp":"騎士修行の道中では、野宿をすることもたくさんある。\nしかし、お金が尽きかけると、必ずだれかが『任務の依頼』、『花を買いたい』、『社会への貢献』などという理由で金品や食べものを恵んでくれるのだ。","fr":"Sur la route de son entraînement de chevalière, il lui arrive souvent de dormir à la belle étoile.\nMais dès que son argent est sur le point de s'épuiser, quelqu'un lui offre toujours de l'argent ou de la nourriture, sous prétexte d'une « demande de mission », d'un « je voudrais acheter des fleurs » ou d'une « contribution à la société »."}
 {"id":1498338,"jp":"ポケットいっぱいの","fr":"Plein les poches"}
+{"id":1498339,"jp":"幼いころ、彼女が泣くと母親はよく『ペペアメどーこだ』という遊びをしてくれた。\nいまでは、自分がいつも勝てていたからくりもとっくにわかり、ポケットのペペアメは子どもたちをあやす魔法の道具になった。","fr":"Quand elle était petite, si elle pleurait, sa mère jouait souvent avec elle à un jeu appelé « Où est le bonbon Pepe ? ».\nAujourd'hui, elle a depuis longtemps compris le truc qui la faisait toujours gagner, et le bonbon Pepe qu'elle garde dans sa poche est devenu un outil magique pour apaiser les enfants."}
 {"id":1498340,"jp":"ゆっくり成長中","fr":"Lente croissance"}
 {"id":1498342,"jp":"幼少期の贈りもの","fr":"Un cadeau d'enfance"}
 {"id":1498344,"jp":"啓蒙のパフォーマンス","fr":"Le spectacle révélateur"}
 {"id":1498346,"jp":"失敗と再構築","fr":"Échecs et reconstruction"}
+{"id":1498347,"jp":"夢を叶えるために少女は武器屋を営む祖父のもとへ身を寄せた。\n彼女が銃身を3本ほど壊したあと、祖父は険しい顔で埃まみれの設計図を店のなかから探し出してきた。\n「どんな芸術的な発想があろうと、まずはまともなやり方を学ばなきゃいかん！」","fr":"Pour réaliser son rêve, la jeune fille est venue vivre chez son grand-père, qui tient une armurerie.\nAprès qu'elle a brisé environ 3 canons de fusil, son grand-père, le visage sévère, a déniché dans la boutique un plan couvert de poussière.\n« Quelles que soient tes idées artistiques, tu dois d'abord apprendre la bonne méthode ! »"}
 {"id":1498348,"jp":"忘れられない","fr":"Inoubliable"}
 {"id":1498350,"jp":"専用指令","fr":"Ordre dédié"}
+{"id":1498351,"jp":"「どんな武器でも、自分だけの美しさを咲かせることはできる！」\nいまではこの少女もそれなりに名の知られた武器アーティストになった。が、その信念を実現するため、専用の起動呪文を武器に設定する際には、簡略化を施しているのだ。","fr":"« Toute arme peut faire éclore sa propre beauté ! »\nAujourd'hui, cette jeune fille est devenue une artiste d'armes assez connue. Mais pour rester fidèle à cette conviction, quand elle règle sur ses armes leur incantation d'activation dédiée, elle la simplifie."}
 {"id":1498352,"jp":"完全無欠","fr":"Irréprochable"}
+{"id":1498353,"jp":"少女の正体については、諸説紛々としている。\n広く認められている推測のひとつは、「あらゆる面で非の打ちどころがないほど完璧なので、絶対に普通のひとではない」というものだ。\nこのことについて、本人が真正面から答えたことはないようである。","fr":"Les avis divergent sur la véritable identité de la jeune fille.\nL'une des suppositions les plus répandues : « Elle est si parfaite sous tous rapports qu'elle ne peut absolument pas être une personne ordinaire. »\nElle ne semble jamais avoir répondu franchement à ce sujet."}
 {"id":1498354,"jp":"予定表","fr":"Emploi du temps"}
 {"id":1498356,"jp":"姉妹","fr":"Sœurs"}
+{"id":1498357,"jp":"千代は源家のひとり娘ではない。本人の話によれば、源家のこの世代には四人の姉妹がいるという。\nそして、自分の一番上の姉の話になると、少女はめずらしく恥ずかしそうな表情を浮かべた。どうやら幼いころに姉にからかわれたことがあるかららしい……","fr":"Chiyo n'est pas la fille unique de la maison Minamoto. D'après elle, il y a quatre sœurs dans cette génération.\nQuand on parle de sa sœur aînée, la jeune fille prend une expression gênée, chose rare. Il semble qu'elle ait été taquinée par elle dans son enfance…"}
 {"id":1498358,"jp":"のんびりお茶をする時間","fr":"Un paisible moment autour d'un thé"}
 {"id":1498360,"jp":"『源家』の娘","fr":"La fille de la « maison Minamoto »"}
+{"id":1498361,"jp":"朧影とともに幽岐島を離れたときから、少女の双肩には常人には想像もつかない重荷がのしかかっていた。\nそれでも、あのときの彼女は、すこしの動揺も見せなかった。\n「源家の娘としての責務は、重々承知しております」","fr":"Depuis qu'elle a quitté l'île de Youqi avec Oborokage, la jeune fille porte sur les épaules un fardeau qu'un commun des mortels ne saurait imaginer.\nPourtant, à l'époque, elle n'avait pas montré le moindre trouble.\n« Je suis pleinement consciente de mes devoirs de fille de la maison Minamoto. »"}
 {"id":1498362,"jp":"長期菜食主義者","fr":"Végétarienne de longue date"}
+{"id":1498363,"jp":"これまでの生活習慣から、シンフォーリアは肉を食べることにあまり馴染みがなかった。\n「まさか。肉から出た油で焼いて、肉汁をソースにして食べるんですか？」\n獣人の調理法をはじめて目の当たりにしたシンフォーリアは衝撃を受けた。","fr":"Étant donné son mode de vie jusque-là, Symphoria n'était guère habituée à manger de la viande.\n« Pas possible. Vous la faites frire dans la graisse qui en sort, et vous la mangez avec le jus en guise de sauce ? »\nSymphoria a été choquée en voyant pour la première fois comment cuisinent les Furriens."}
 {"id":1498364,"jp":"ただの冗談","fr":"Juste une blague"}
 {"id":1498366,"jp":"ウィスパーフラワー","fr":"Fleur-murmure"}
 {"id":1498368,"jp":"風変わりな仲間","fr":"Une drôle de compagne"}
+{"id":1498369,"jp":"シンフォーリアの傍にはいつも、『ルミィ』という名の妖精がいる。\nルミィはシンフォーリアの保護者を自称しているが、ルミィがなにかやらかすたびに、後始末をするのは決まってシンフォーリアなのだった。","fr":"Une fée nommée « Lumi » est toujours aux côtés de Symphoria.\nLumi se prétend la protectrice de Symphoria, mais chaque fois que Lumi fait des bêtises, c'est invariablement Symphoria qui répare ses dégâts."}
 {"id":1498370,"jp":"遥かなる故郷","fr":"Le pays natal lointain"}
+{"id":1498371,"jp":"シンフォーリアは生まれ育った故郷からこれほど遠く離れたことがなかった。\n夜も更けて静まり返るころ、ひとり寂しさや懐かしさを感じることもある。\n長いときを生きるエルフは、幾度も別れを経験することではじめて、旅の本当の意味を理解するのだ。","fr":"Symphoria ne s'était jamais éloignée autant du pays où elle est née et a grandi.\nQuand la nuit est avancée et que tout se tait, il lui arrive de se sentir seule et nostalgique.\nLes Elfes, qui vivent longtemps, ne comprennent le vrai sens d'un voyage qu'après avoir connu bien des séparations."}
 {"id":1498372,"jp":"森が語る物語","fr":"Ce que raconte la forêt"}
 {"id":1498374,"jp":"『翠緑の英冠』","fr":"« Couronne verdoyante »"}
 {"id":1498376,"jp":"ある晩のこと","fr":"Un soir"}
 {"id":1498378,"jp":"ウッドエルフの天賦","fr":"Le don des Elfes des bois"}
+{"id":1498379,"jp":"メーツァはひとりで暮らすことに慣れている。しかし、森のキボたちは自分たちなりのやり方で彼女に親愛と信頼を寄せていた。花の枝や木の種をくわえてきたり、おとなしく撫でられたり、一緒に森のせせらぎを渡ったり……","fr":"Metsa a l'habitude de vivre seule. Pourtant, les Kibo de la forêt lui témoignent à leur manière affection et confiance. Ils lui rapportent des branches fleuries ou des graines d'arbre dans la gueule, se laissent caresser sagement, traversent avec elle les ruisseaux de la forêt…"}
 {"id":1498380,"jp":"ガーデンの守護者","fr":"Gardienne du Jardin"}
+{"id":1498381,"jp":"いまや『エヴァーガーデン』はめずらしい花々が咲き誇る庭となったが、メーツァはいまもなおみずからをこの地の守護者、『ガーデナー』と称している。彼女が抱いた夢と使命は、植物とともに根を下ろし、この地の一部となった。これまでも、そしてこれからも。","fr":"Le Jardin d'Evergreen est désormais un jardin où s'épanouissent des fleurs rares, mais Metsa continue de se dire la gardienne de ces lieux, la « jardinière ». Le rêve et la mission qu'elle a nourris ont pris racine avec les plantes et fait désormais partie de cette terre. Jusqu'ici, et pour toujours."}
 {"id":1498382,"jp":"好奇心","fr":"Curiosité"}
+{"id":1498383,"jp":"「幼子が好奇心を満たすために最初にすることは、手を伸ばすこと」\nはじめてルビッツを見たとき、指先で背中にあるルビーを突いて、落としてしまった。一緒に遊んで仲なおりしようとしたが、うまくいかなかった。","fr":"« La première chose que fait un tout-petit pour satisfaire sa curiosité, c'est tendre la main. »\nLa première fois qu'elle a vu un Rubbits, elle a pointé du bout du doigt le rubis sur son dos et l'a fait tomber. Elle a voulu jouer avec lui pour se réconcilier, mais ça n'a pas marché."}
 {"id":1498384,"jp":"『栄養剤』","fr":"« Fortifiant »"}
 {"id":1498386,"jp":"変わった味覚","fr":"Des goûts étranges"}
+{"id":1498387,"jp":"自我を解放したアビィは、大好きな肉のほかに『おやつ』も食べるようになった。たとえば、大きな翠繊石をキャンディみたいに噛み砕いて、飲み込んだり。\nもしかすると、アビィは一部のキボと話が合うかもしれない……","fr":"Depuis qu'elle a libéré son moi, Abby mange aussi des « goûters », en plus de la viande qu'elle adore. Par exemple, elle croque une grosse pierre de fibre émeraude comme un bonbon et l'avale.\nPeut-être qu'Abby s'entendrait bien avec certains Kibo…"}
 {"id":1498388,"jp":"要注意監視ターゲット","fr":"Sous haute surveillance"}
+{"id":1498389,"jp":"幼いころのアビィは、『貴重な宝石を拾い食いする』、『夢を見ながら木の枝をへし折る』、『キボを脅して遊びに付き合わせる』といった数々の罪状により、要注意監視ターゲットとしてマークされていた。","fr":"Dans sa petite enfance, Abby était fichée comme cible à surveiller de près pour une longue liste de méfaits : « avaler des gemmes précieuses trouvées par terre », « briser des branches d'arbre en rêvant », « menacer des Kibo pour les forcer à jouer avec elle »."}
 {"id":1498390,"jp":"先祖返り","fr":"Atavisme"}
+{"id":1498391,"jp":"アズドラーンは竜人の亜種だが、すべての個体が人と竜の姿を自由に行き来できるわけではない。アビィが人形態を獲得したのは、一種の先祖返りとされている。だが、アビィは自分の特異性を特に気にしていないようだ。","fr":"Les Azdrahn sont une sous-espèce de Draconiens, mais tous les individus ne peuvent pas passer librement de la forme humaine à celle de dragon. On dit qu'Abby a acquis une forme humaine par une sorte d'atavisme. Pourtant, Abby ne semble pas se soucier de sa particularité."}
 {"id":1498392,"jp":"ガキ大将","fr":"Cheffe de bande"}
+{"id":1498393,"jp":"村民は口を揃えてこう言う。「子どもと一緒に遊んでると、子どもより夢中になっちゃうんだ」。テララはだれもが認める大人気のガキ大将。そして、当のテララはそれを自慢に思っている。「それって、遊ぶのが一番うまいってことだろ？」","fr":"Les villageois disent tous la même chose : « Quand je joue avec les enfants, je m'y laisse prendre plus qu'eux ». Terara est la cheffe de bande incontestée et très populaire. Et Terara en est fière. « Ça veut dire que je suis la meilleure pour jouer, non ? »"}
 {"id":1498394,"jp":"腰に下げた角笛","fr":"Le cor à la ceinture"}
+{"id":1498395,"jp":"腰に下げた角笛は、テララが誇る戦利品だ。襲いかかってきたキングラーガをはじめて追い払い、村の平和を守ったとき、折れた牙をエンカクが角笛にしてくれたのだ。それは『最強のハンター』の伝説が幕を開けたことを記念するものであった。","fr":"Le cor qui pend à sa ceinture est le trophée dont Terara est la plus fière. Quand elle a repoussé pour la première fois un Kingraga qui l'attaquait et préservé la paix du village, c'est Enkaku qui a fait de son croc brisé un cor. Il commémore l'ouverture de la légende de la « Chasseuse hors pair »."}
 {"id":1498396,"jp":"ウルの虫歯","fr":"La carie d'Uru"}
+{"id":1498397,"jp":"テララは小さいころから自分の食べものをなんでも、大事な相棒のウルに分け与えていた。子どもがみんな大好きなアメだって例外ではない。\n村でキボの体調を管理しているおじさんは、『ウルに虫歯がある理由』を最後まで知ることはなかった。","fr":"Depuis toute petite, Terara partage tout ce qu'elle mange avec son précieux partenaire Uru. Même les bonbons, que tous les enfants adorent, ne font pas exception.\nL'homme du village qui veille à la santé des Kibo n'a jamais su « pourquoi Uru a une carie »."}
 {"id":1498398,"jp":"馬鹿は風邪を引かない","fr":"Les idiots ne s'enrhument jamais"}
+{"id":1498399,"jp":"小さいころから山谷や森のなかを駆け回っていたテララは、体がとても丈夫で、めったに病気になることはない。だが、彼女は『馬鹿は風邪を引かない』という言葉をとても嫌っている――アタシは絶対に、ぜーったいに馬鹿なんかじゃないからな！","fr":"Terara a couru toute son enfance dans les monts, les vallées et les forêts : elle est très robuste et tombe rarement malade. Mais elle déteste ce dicton, « Les idiots ne s'enrhument jamais » : moi, je ne suis absolument, mais alors absolument pas une idiote !"}
 {"id":1498400,"jp":"もふもふの大きなしっぽ","fr":"Une grande queue toute douce"}
+{"id":1498401,"jp":"テララは昼寝するとき、無意識に自分のもふもふのしっぽを抱きしめている。温かくて、安心感があるのだ。もちろん、寝起きは寝ぼけてしっぽを抱えていたことも忘れ、しっぽを踏みつけて転ぶようなドジもたまにする。","fr":"Quand Terara fait la sieste, elle serre sans s'en rendre compte sa queue toute douce dans ses bras. C'est chaud et rassurant. Bien sûr, au réveil, encore dans les vapes, elle oublie parfois qu'elle la tenait, marche dessus et trébuche comme une étourdie."}
 {"id":1498402,"jp":"アウラと通じるシャーマン","fr":"Le chamane qui communie avec l'aura"}
+{"id":1498403,"jp":"幼いころから極めて高い霊感を持ち、同世代の子どもが片言を話しているころには、すでにシャーマンの祝詞をすらすらと暗唱できたという。\nルルカ自身はこう言っている。\n「わたしもさきに言葉を覚えました。それから……」","fr":"Dès l'enfance, elle possédait une sensibilité spirituelle extrêmement vive, et à l'âge où les enfants de son âge balbutiaient encore, elle pouvait déjà réciter couramment les prières de chamane.\nLuruka elle-même dit :\n« Moi aussi, j'ai d'abord appris les mots. Et ensuite… »"}
 {"id":1498404,"jp":"ルルカ特製薬湯","fr":"La décoction spéciale de Luruka"}
 {"id":1498406,"jp":"頼られたい","fr":"Qu'on puisse compter sur moi"}
+{"id":1498407,"jp":"「わたしもお姉ちゃんの支えになりたい」\n村の外でテララに拾われたとき、ルルカはそう願った。しかし、そそっかしい姉のために心を砕くことが……果たして、願いを叶えることに繋がるのだろうか。","fr":"« Moi aussi, je voudrais être un soutien pour grande sœur. »\nQuand Terara l'a trouvée hors du village, Luruka a fait ce vœu. Mais se faire du souci pour une sœur étourdie… permet-il vraiment d'exaucer ce vœu ?"}
 {"id":1498408,"jp":"万物のアウラの足音","fr":"Les pas de l'aura de toute chose"}
+{"id":1498409,"jp":"神鼓は宇宙の縮図であり、バチの一打ち一打ちが宇宙を行進する万物のアウラの足音だと、シャーマンたちは信じている。\nルルカは神鼓そのものよりも、代々受け継がれてきたバチと、先祖の霊がすぐそばにいてくれるという感覚を大切にしている。","fr":"Les chamanes croient que le Tambour sacré est l'univers en miniature, et que chaque coup de baguette est le bruit des pas de l'aura de toute chose qui marche à travers le cosmos.\nLuruka chérit moins le Tambour sacré lui-même que les baguettes transmises de génération en génération et la sensation que les esprits de ses ancêtres sont tout près d'elle."}
 {"id":1498410,"jp":"大切な家族","fr":"Une famille précieuse"}
+{"id":1498411,"jp":"白い狼たちと森を歩いた日々はもう遠い昔のことのようだ。\n内気で繊細な少女にも、たくさんの頼れる家族ができた。しかし、想いが込められたあの首飾りを外すことは決してない。","fr":"Les jours où elle marchait en forêt avec les loups blancs semblent déjà bien loin.\nMême cette fille timide et sensible a désormais bien des proches sur qui compter. Pourtant, elle ne retire jamais ce collier chargé de sentiments."}
 {"id":1498412,"jp":"手作りの武器","fr":"Une arme faite main"}
+{"id":1498413,"jp":"ミィティが狩りで使う弓は、彼女が自分で素材を集め、大きさの合わない不揃いの弓を改造して作ったものだ。\n「ふん、アタシは立派な戦士。これくらいのこと自分で解決できて当然よ。たかが武器のことで、鍛冶師に手間をかけさせられないわ……」","fr":"L'arc que Mitty utilise à la chasse, elle l'a fabriqué elle-même : elle a réuni les matériaux et transformé un arc dépareillé, qui ne convenait pas à sa taille.\n« Hmph, je suis une guerrière accomplie. C'est normal que je règle ça toute seule. Je ne vais pas déranger un forgeron pour une simple arme… »"}
 {"id":1498414,"jp":"考えすぎ","fr":"Trop réfléchir"}
+{"id":1498415,"jp":"実はミィティの弓の腕はとっくに同世代の者たちを置き去りにしている。的を射抜くのを妨げているのは、彼女の緊張だけなのだ。\nミィティの獲物の大半は近距離で遭遇し、『ちゃんと当たるか』心配する間もなく、本能的に弓を引いて仕留めたものである。","fr":"En réalité, l'adresse de Mitty à l'arc a depuis longtemps distancé celle des gens de son âge. Seule sa nervosité l'empêche de transpercer la cible.\nLa plupart des proies de Mitty ont été rencontrées de près, et elle les a abattues d'instinct en bandant son arc, sans avoir le temps de se demander « si ça va bien toucher »."}
 {"id":1498416,"jp":"素直じゃない","fr":"Jamais franche"}
+{"id":1498417,"jp":"ミィティは口では決して認めることはないが、本心ではだれかの力になりたいという気持ちが強く、感謝されると思わず翼をパタパタさせてしまう。\n翼人以外の種族には、翼の動きからミィティの本音を察することはできないだろう。","fr":"Mitty ne l'admettra jamais de vive voix, mais au fond, elle a très envie d'être utile à quelqu'un, et quand on la remercie, elle ne peut s'empêcher de battre des ailes.\nOn imagine que les peuples autres que les Ailés ne peuvent pas deviner les vrais sentiments de Mitty d'après le mouvement de ses ailes."}
 {"id":1498418,"jp":"飛行特訓","fr":"Entraînement au vol"}
+{"id":1498419,"jp":"ミィティは過去の悪夢を克服し、飛べるようになるために、陰で長いこと努力をしてきた。\n鷹神を讃える詩から『着想を得て』、雷雨の日に荒れ狂う気流を利用して飛び立とうと試みたこともあるが……止められたうえに、こっぴどく叱られてしまった。","fr":"Pour surmonter le cauchemar de son passé et apprendre à voler, Mitty a longtemps fait des efforts en secret.\nElle a un jour « puisé son inspiration » dans un poème louant le dieu Faucon et tenté de s'envoler en profitant des courants d'air déchaînés d'un jour d'orage… mais on l'a arrêtée et elle s'est fait vertement gronder."}
 {"id":1498420,"jp":"獣人なんかじゃない","fr":"Pas une Furrienne"}
+{"id":1498421,"jp":"厳密に言えば、翼人も獣人の一部なのだと知ったときのミィティの表情は、まるで天が崩れ落ちてきたかのようだった。\n「受け入れられるわけないじゃない。ずっと会ってなかった隣に住んでるヤツが、いきなり遠い親族でしたって言われたみたい……」","fr":"Quand Mitty a appris que, à proprement parler, les Ailés font aussi partie des Furriens, son visage était celui de quelqu'un dont le ciel s'effondre.\n« C'est impossible à accepter. C'est comme si on me disait que le type d'à côté, que je n'ai pas vu depuis une éternité, était soudain un parent éloigné… »"}
 {"id":1498422,"jp":"磨かれるまえの原木","fr":"Du bois brut"}
+{"id":1498423,"jp":"長きにわたる訓練を経て、カタルは両手を使えば巨大な盾をいとも簡単に持ち上げられるようになった。だが、彼女は日々の訓練をやめない。片手でひとつずつ盾を持てるくらいになるまで鍛え上げたら、もっともっと安心できるはずだから！","fr":"Après un long entraînement, Katalua peut désormais soulever sans effort un énorme bouclier à deux mains. Mais elle ne renonce pas à ses entraînements quotidiens. Si elle s'entraîne jusqu'à pouvoir tenir un bouclier dans chaque main, elle sera sûrement encore plus rassurée !"}
 {"id":1498424,"jp":"害のない嘘","fr":"Un mensonge sans conséquence"}
 {"id":1498426,"jp":"先祖の歩み","fr":"Sur les pas des ancêtres"}
 {"id":1498428,"jp":"特別あつかい","fr":"Traitement de faveur"}
 {"id":1498430,"jp":"綿のようにふくらむ","fr":"Gonfler comme du coton"}
+{"id":1498431,"jp":"心と体はときとともに成長し、悩みも綿のようにふわふわと膨らんでいく。最近のカタルの悩みは発育がよすぎること……背がぐんぐん伸びるせいで、体が大盾に収まらず、しっぽと角がはみ出てしまう。","fr":"Le cœur et le corps grandissent avec le temps, et les soucis gonflent, doux comme du coton. Le souci de Katalua ces derniers temps : elle grandit trop bien… Elle pousse si vite que son corps ne tient plus derrière son grand bouclier, et que sa queue et ses cornes dépassent."}
 {"id":1498432,"jp":"風とともに","fr":"Avec le vent"}
 {"id":1498434,"jp":"すべて買い","fr":"Tout acheter"}
+{"id":1498435,"jp":"「これとあれはいらないわ。残りはぜんぶ包んでちょうだい」\nモーレンは買いものをするとき、まずいらないものを選び、それ以外をすべて買う。\nそして決まって、店ではおつりの用意ができないほどの高額な宝石を取り出すのだ。","fr":"« Je ne veux ni ceci ni cela. Emballez-moi tout le reste. »\nQuand Morwyn fait des achats, elle choisit d'abord ce dont elle ne veut pas, puis achète tout le reste.\nEt invariablement, elle sort une gemme de si grande valeur que la boutique ne peut pas rendre la monnaie."}
 {"id":1498436,"jp":"悪意なき横暴","fr":"Tyrannie sans malice"}
 {"id":1498438,"jp":"無駄遣い厳禁","fr":"Gaspillage interdit"}
 {"id":1498440,"jp":"ティータイム愛好家","fr":"Passion de l'heure du thé"}
 {"id":1498442,"jp":"種族違い","fr":"Erreur sur le peuple"}
+{"id":1498443,"jp":"自然との親和性の高さや優しく爽やかな雰囲気が相まって、ウッドエルフと間違われることがよくある。\nシャル自身はそれを不快には思っていないようだ。「ウッドエルフも素敵ですよね。森のなかを駆け抜ける俊敏さには憧れてしまいます」","fr":"Grâce à sa grande affinité avec la nature et à son air doux et frais, on la prend souvent pour une Elfe des bois.\nShalle elle-même ne semble pas en être contrariée. « Les Elfes des bois aussi sont charmants, n'est-ce pas ? J'admire leur agilité quand ils filent à travers la forêt. »"}
 {"id":1498444,"jp":"栄養補給","fr":"Ravitaillement"}
+{"id":1498445,"jp":"普段から非常食を持ち歩く習慣があり、戦いに赴く際には倍の量を蓄えている。\n自分の分だけでなく、ロイレーの分も。\nおなかを空かせていては、勝利を掴むことなどできないと、彼女はよく知っているのだ。","fr":"Elle a l'habitude de porter des vivres de secours, et quand elle part au combat, elle en emporte le double.\nPas seulement sa part, mais aussi celle de Roiree.\nElle sait très bien qu'on ne peut pas arracher la victoire le ventre vide."}
 {"id":1498446,"jp":"一直線に","fr":"Tout droit"}
+{"id":1498447,"jp":"槍を構えて突撃するときの勢いそのままに、シャルの思考パターンはほとんどが直線的である。\n問題を解決するとき、彼女は目標と結果をまっすぐに結びつけ、冷静に、着実に実行に移していくのだ。","fr":"Comme l'élan de sa charge lance au poing, la plupart des schémas de pensée de Shalle sont rectilignes.\nPour résoudre un problème, elle relie directement l'objectif au résultat, puis passe à l'action avec calme et constance."}
 {"id":1498448,"jp":"悪意の感知","fr":"Flairer la malveillance"}
+{"id":1498449,"jp":"シャルは悪意をもって他者を推し量ったことはない。しかし、だれかからの悪意にはとりわけ敏感で、その点はペガサスとよく似ている。\n凶獣の悪意も鋭く感知することができるので、任務のなかでたびたび騎士団を窮地から救ってきた。","fr":"Shalle n'a jamais jugé les autres avec malveillance. Mais elle est particulièrement sensible à la malveillance d'autrui, tout comme un pégase.\nElle perçoit aussi très finement la malveillance des Bêtes maudites, et a plusieurs fois tiré l'ordre des chevaliers d'un mauvais pas lors de missions."}
 {"id":1498450,"jp":"天の果てまで","fr":"Jusqu'au bout du ciel"}
 {"id":1498452,"jp":"実力至上主義","fr":"Seule compte la force"}
+{"id":1498453,"jp":"ファランタは歴代で最も若い鷹主であり、多くの者は彼女の統率の仕方はもっと自由で気ままなものになるだろうと思っていたが、実際はそうではなかった。彼女は翼人の伝統を尊重し、力を崇めていて、自身もまた部族最強の戦士なのである。","fr":"Faridah est la plus jeune Seigneur Faucon de l'histoire, et beaucoup pensaient que sa façon de diriger serait plus libre et insouciante, mais il n'en est rien. Elle respecte la tradition des Ailés et vénère la force, et elle est elle-même la plus puissante guerrière de la tribu."}
 {"id":1498454,"jp":"受け継がれたもの","fr":"Ce qui se transmet"}
+{"id":1498455,"jp":"部族のほかの者から見ると、ファランタはミィティにやや冷淡で、妹分に対するような親しさを見せない。だがそれは、ファランタの父親が厳格だったためだ。彼女はミィティに冷たいのではなく、そのような接し方しか知らないのだ。","fr":"Aux yeux des autres membres de la tribu, Faridah semble un peu froide envers Mitty et ne montre pas la proximité qu'on aurait avec une petite sœur de cœur. Mais c'est parce que le père de Faridah était strict. Elle n'est pas froide envers Mitty : elle ne connaît simplement pas d'autre façon de se comporter avec elle."}
 {"id":1498456,"jp":"換羽の最中","fr":"En pleine mue"}
+{"id":1498457,"jp":"換羽期になると、ファランタの背中の翼は羽根が抜けはじめ、毎日服の手入れに多くの時間を費やすことになる。どういうわけか、黒い羽根はきっちり白い靴につき、黒い肩掛けは白い羽根だらけになってしまう。","fr":"À la saison de la mue, les plumes des ailes dans le dos de Faridah commencent à tomber, et elle passe chaque jour beaucoup de temps à entretenir ses vêtements. Pour une raison inconnue, les plumes noires se collent pile à ses bottes blanches, et son châle noir finit couvert de plumes blanches."}
 {"id":1498458,"jp":"赤辛子！赤辛子！","fr":"Piment rouge ! Piment rouge !"}
+{"id":1498459,"jp":"ファランタはかつて自分に趣味など必要ないと公言していた。彼女の生活には族長として過ごす以外の時間がほとんどない――赤辛子への並々ならぬ執着を除いては。\nストレスを解消したいとき、彼女はほとんど無意識に赤辛子に手を伸ばしてしまう。","fr":"Faridah déclarait autrefois qu'elle n'avait pas besoin de passe-temps. Sa vie n'a presque pas de temps hors de ses fonctions de cheffe de tribu, à l'exception d'un attachement hors du commun pour la sauce au piment rouge.\nQuand elle veut évacuer le stress, elle tend presque inconsciemment la main vers la sauce au piment rouge."}
 {"id":1498460,"jp":"シャーマンの気苦労","fr":"Les soucis de la chamane"}
 {"id":1498462,"jp":"メイド修行、休止中","fr":"Formation de domestique en pause"}
 {"id":1498464,"jp":"雷霆万鈞の力","fr":"La force du tonnerre"}
 {"id":1498466,"jp":"これこそ浪費！","fr":"Ça, c'est du gaspillage !"}
+{"id":1498467,"jp":"食べものは大切にすべきだ。だからキャスベルは、自分が心を込めて準備した『若草ソースの海老グラタンアイス』という、栄養満点のおいしい一品をまえに、なぜみんなが難色を示すのかが理解できない。\nまったく、ひどい偏食だ。","fr":"Il faut chérir la nourriture. C'est pourquoi Cathbelle ne comprend pas pourquoi tout le monde fait la moue devant ce plat nutritif et délicieux qu'elle a préparé de tout cœur, la « glace gratin de crevettes à la sauce aux jeunes herbes ».\nVraiment, quelle bande de difficiles."}
 {"id":1498468,"jp":"みずからを主とする","fr":"Sa propre maîtresse"}
 {"id":1498470,"jp":"信頼の証","fr":"Une preuve de confiance"}
+{"id":1498471,"jp":"キャスベルはゲストを丁重にもてなすが、真の信頼を勝ち取ることは難しい。\nしかし、彼女が容赦なく皮肉りながら背後に庇い、その斧を振るってくれるのであれば……もはやこれ以上の信頼の証は必要ない。","fr":"Cathbelle reçoit ses invités avec une grande courtoisie, mais il est difficile de gagner sa véritable confiance.\nPourtant, si elle vous met à l'abri derrière elle en vous raillant sans pitié et brandit sa hache pour vous… alors nul besoin d'une autre preuve de confiance."}
 {"id":1498472,"jp":"甘党","fr":"Bec sucré"}
 {"id":1498474,"jp":"絶対にダメよ！","fr":"Pas question !"}
+{"id":1498475,"jp":"アニスはいつも患者みんなに優しく接する。しかし、治療に協力しようとしない患者をまえにすると、彼女はまったく異なる一面を見せる。\n「アニスさんが薬を飲ませてくるときの笑顔、いまだに悪夢に見ることがあるよ……」","fr":"Anais est toujours douce avec tous ses patients. Mais face à un patient qui refuse de coopérer au traitement, elle montre un tout autre visage.\n« Le sourire de Mademoiselle Anais quand elle me fait prendre mes médicaments, j'en fais encore des cauchemars… »"}
 {"id":1498476,"jp":"そう呼ばれると……","fr":"Quand on m'appelle comme ça…"}
+{"id":1498477,"jp":"子どもたちはみんな、万能な魔法の呪文を知っている。悪いことをして謝りたいとき、傷が痛くて甘えたいとき、『お母さん』とひと言叫ぶだけで、アニスお姉ちゃんがぎゅっと抱きしめてくれる。でも、悪いことをしたらちゃんと謝るのも忘れちゃダメよ？","fr":"Tous les enfants connaissent une formule magique universelle. Quand ils ont fait une bêtise et veulent s'excuser, ou quand une blessure leur fait mal et qu'ils veulent des câlins, il leur suffit de crier « Maman », et grande sœur Anais les serre fort dans ses bras. Mais n'oublie pas de t'excuser comme il faut quand tu as fait une bêtise, d'accord ?"}
 {"id":1498478,"jp":"メリーちゃん","fr":"Petite Mary"}
 {"id":1498480,"jp":"どこに隠したの？","fr":"Caché où ?"}
 {"id":1498482,"jp":"狼少女かく語りき","fr":"Ainsi parlait la louve"}
+{"id":1498483,"jp":"「村を出て、外の世界を見てみたいってずっと思ってたけど、ホントに願いが叶ったのは、アイツと出会ってからなんだ……アイツって、だれにも止められないような勢いがあるよな。もちろん！アタシだって負けてないぞ！」","fr":"« J'ai toujours voulu quitter le village pour voir le monde extérieur, mais mon vœu ne s'est vraiment réalisé qu'à ma rencontre avec l'Enfant des étoiles… L'Enfant des étoiles a un élan que personne ne peut arrêter, pas vrai ? Évidemment ! Moi non plus, je ne me laisse pas distancer ! »"}
 {"id":1498484,"jp":"ウッドエルフの好奇心","fr":"Curiosité d'Elfe des bois"}
+{"id":1498485,"jp":"「ウィスパーリーフが育つ条件はとても厳しいのに、はじめてできちんと育ててしまうなんて……さすが星臨者さま。いったいどんな技術を使ったんでしょうか……」","fr":"« Les conditions de pousse de la Feuille-murmure sont très exigeantes, et pourtant la faire pousser correctement du premier coup… Bien digne de l'Enfant des étoiles. Quelle technique a bien pu être utilisée… »"}
 {"id":1498486,"jp":"ガーデナーの箴言","fr":"Les maximes de la jardinière"}
 {"id":1498487,"jp":"「ふふ、果てしない大空の星から、大地に降臨した小さな命へ……『星臨者』、その名の意味することを考えたことはあるかしら？」","fr":"« Hihi, d'une étoile du ciel sans fin à une petite vie descendue sur la terre… Le nom d'Enfant des étoiles, as-tu déjà réfléchi à ce qu'il signifie ? »"}
 {"id":1498488,"jp":"シャーマンの霊魂論","fr":"Théorie chamanique des âmes"}
+{"id":1498489,"jp":"「死後の魂がどこへ向かうのか、わたしにも知る由もありません。生者が死後の世界に抱く幻想は、真実ではありませんから。ですが、あの方なら……もしかしたら、真実に触れることができるのかもしれません……」","fr":"« Où vont les âmes après la mort, même moi, je ne saurais le dire. Les fantasmes que les vivants nourrissent sur l'au-delà ne sont pas la vérité. Mais pour l'Enfant des étoiles… peut-être est-il possible de toucher la vérité… »"}
 {"id":1498490,"jp":"無邪気な言葉","fr":"Paroles innocentes"}
+{"id":1498491,"jp":"「強くて、おいしいもの作ってくれて、アビィといっしょに遊んでくれる。それから……こっそり寝坊しても、見つからない場所、すぐに見つける……え？それは言っちゃダメ？」","fr":"« Fort, fait de la bonne cuisine, joue avec Abby. Et puis… trouve tout de suite des endroits où Abby peut faire la grasse matinée en cachette sans être repérée… Hein ? Faut pas le dire ? »"}
 {"id":1498492,"jp":"頼れるハンマー","fr":"Un marteau fiable"}
+{"id":1498493,"jp":"ノノにとってハンマーは探検の道具で、武器としての使い方はおまけだ。\nいつだってキラキラした宝物を掘り出すためにハンマーを振るいたいと思っているが、宝探しの道を阻む大きな岩や仕掛け、それから敵に遭遇したときは躊躇いなく全力の一撃をくり出す。","fr":"Pour Nono, le marteau est un outil d'exploration, et l'usage comme arme n'est qu'un bonus.\nElle veut toujours le brandir pour déterrer des trésors étincelants, mais face à un gros rocher, un mécanisme ou un ennemi qui barre la route de la chasse au trésor, elle assène sans hésiter un coup de toutes ses forces."}
 {"id":1498494,"jp":"友情が長続きする秘訣","fr":"Le secret d'une amitié durable"}
+{"id":1498495,"jp":"「今月の収入は、ちょうどノノがやらかした損害を埋め合わせられるくらいだね。うん、これもある意味、収支のバランスが取れてるって言えるかな？あ、はは……」――ティティと叩かれ続けてとてつもなく強くなった心臓より。","fr":"« Les revenus de ce mois-ci permettent tout juste de combler les dégâts que Nono a causés. Oui, en un sens, on peut dire que les comptes sont équilibrés, non ? Ah, haha… » – De Tiffy, dont le cœur est devenu d'une robustesse incroyable à force de coups."}
 {"id":1498496,"jp":"ブルルちゃんのこと","fr":"À propos de la petite Bururu"}
+{"id":1498497,"jp":"「あれって……本当にボアラーガなのか？あんなに温厚そうな顔で、泥のなかを転がるのが好きなボアラーガなんてはじめて見たよ。きっと世話しているのが……ええと、純朴な子なんだろうな」――感嘆する通りすがりの遊牧民より。","fr":"« C'est vraiment un Boaraga, ça ? Je n'en avais jamais vu un avec une tête aussi douce qui aime se rouler dans la boue. Celui qui s'en occupe doit être… euh, un gamin simple et candide. » – D'un nomade de passage, admiratif."}
 {"id":1498498,"jp":"夢中の宝探し","fr":"Chasse au trésor en rêve"}
+{"id":1498499,"jp":"ノノは探検と同じくらい、眠ることにも真剣だ。\n夢のなかでお宝を手に入れた喜びが、目覚めたあとの原動力となる――\nなぜお宝の場所まで夢で見たところとまったく同じなのか、ノノは深く考えたことはない。","fr":"Nono prend le sommeil aussi au sérieux que l'exploration.\nLa joie d'avoir obtenu un trésor en rêve devient le moteur du réveil…\nPourquoi l'emplacement du trésor est exactement celui qu'elle a vu en rêve, Nono n'y a jamais vraiment réfléchi."}
 {"id":1498500,"jp":"一緒に旅しよう","fr":"Voyageons ensemble"}
+{"id":1498501,"jp":"最初の探検のきっかけはそのとき見つけたお宝と一緒に箱の底にしまってある。\nノノは守銭奴のように手に入れた財産を抱え込むよりも、新しいキラキラを求めて旅に出るほうが好きなのだ。","fr":"La raison de sa toute première expédition est rangée au fond d'une boîte, avec le trésor trouvé à l'époque.\nNono préfère partir en voyage à la recherche de nouveaux éclats plutôt que de thésauriser sa fortune comme un avare."}
 {"id":1498502,"jp":"隔世も昨日のごとく","fr":"Des siècles, comme hier"}
 {"id":1498504,"jp":"同じ選択","fr":"Le même choix"}
+{"id":1498505,"jp":"通常、薄暗く狭い、日の当たらない環境はひとを憂鬱な気分にさせるものだが、蘭香子は喜んでそうした場所に身を隠す。\nもしも、突然姿を消した蘭香子がどこに隠れているのか知りたいときは、ウミィを探し出し、聞いてみるといい――","fr":"En général, les endroits sombres, étroits et privés de soleil rendent maussade, mais Lan Xiangzi s'y cache avec plaisir.\nPour savoir où s'est cachée Lan Xiangzi après avoir disparu d'un coup, il suffit de retrouver un Umii et de lui demander…"}
 {"id":1498506,"jp":"人見知り","fr":"Timidité"}
+{"id":1498507,"jp":"坑道を離れるまえに、蘭香子は心の準備をしていた。だがやはり、外の世界に来てからも、見知らぬ者に対しては強い不安を抱いてしまう。\nもしもむやみに近づけば、彼女は驚きのあまり全身を強張らせ、完全に息を止めてしまうかもしれない。","fr":"Avant de quitter les galeries de la mine, Lan Xiangzi s'était préparée mentalement. Mais même dans le monde extérieur, elle ressent toujours une forte angoisse face aux inconnus.\nSi on l'approche sans précaution, elle risque de se raidir de surprise de tout son corps et de retenir complètement son souffle."}
 {"id":1498508,"jp":"奇妙な呪符","fr":"D'étranges talismans"}
+{"id":1498509,"jp":"方術士として、蘭香子はあらゆる護符に精通しており、不安を感じたときは周囲にぐるりとお札を貼りつける。\nだが一般の者にとって、これらの奇妙な図案はあまりにも不気味なものに映ってしまい、かえって蘭香子はよけいな注目を集めてしまうのだった……","fr":"En tant qu'adepte des arts mystiques, Lan Xiangzi maîtrise toutes sortes de talismans, et quand elle se sent anxieuse, elle en colle tout autour d'elle.\nMais pour les gens ordinaires, ces dessins étranges paraissent beaucoup trop sinistres, et Lan Xiangzi finit au contraire par attirer une attention indésirable…"}
 {"id":1498510,"jp":"食の好み","fr":"Goûts culinaires"}
 {"id":1498512,"jp":"ラッキーカラーは青","fr":"Couleur porte-bonheur : bleu"}
 {"id":1498514,"jp":"ふわふわになあれ","fr":"Doux comme un nuage"}
@@ -3058,9 +3247,14 @@
 {"id":1498528,"jp":"詳細・3","fr":"Détails 3"}
 {"id":1498529,"jp":"ほら見て、私の新作なんだ！","fr":"Et voilà ma toute dernière création !"}
 {"id":1498530,"jp":"自分について・1","fr":"À mon sujet 1"}
+{"id":1498531,"jp":"ん、私が値切り上手で驚いた？\nふふっ、別にね、得をしたいとかじゃなくて……\n\n機関の構造を知り尽くしてるからこそ、正しいものの価値を見抜けなくちゃいけない。\nそう思ってるだけなんだ。","fr":"Hm, ça t'étonne que je sache si bien marchander ?\nHéhé, ce n'est pas que je veuille faire une bonne affaire ou quoi que ce soit…\n\nC'est justement parce que je connais les mécanismes de fond en comble que je dois savoir discerner la vraie valeur des choses.\nC'est tout ce que je pense."}
 {"id":1498532,"jp":"自分について・2","fr":"À mon sujet 2"}
+{"id":1498533,"jp":"機関って、作るのも解くのもすっごくおもしろいよ！\nでも、ただ難しいだけで独創性のない仕掛けじゃダメ。つまらないもん。\nそんなの、時間をかけて解く価値もないし、ドーンて爆破しちゃったほうがいいよね。","fr":"Les mécanismes, c'est vraiment passionnant, aussi bien à fabriquer qu'à résoudre !\nMais un piège juste difficile, sans originalité, ça ne va pas. C'est ennuyeux.\nÇa ne vaut pas la peine d'y passer du temps, autant le faire sauter d'un grand BOUM, tu ne crois pas ?"}
 {"id":1498534,"jp":"星臨者について・1","fr":"À propos de l'Enfant des étoiles 1"}
 {"id":1498536,"jp":"星臨者について・2","fr":"À propos de l'Enfant des étoiles 2"}
+{"id":1498537,"jp":"星臨者が直面してる状況って、私がこれまで見てきたどんな機関よりも複雑かもね……いったいなにがあの人の背中を押してるんだろう？\nすごくすごく、気になっちゃう！","fr":"La situation à laquelle fait face l'Enfant des étoiles est peut-être plus complexe que tous les mécanismes que j'ai vus jusqu'ici… Qu'est-ce qui peut bien pousser l'Enfant des étoiles à avancer ?\nJe suis tellement, tellement curieuse !"}
+{"id":1498539,"jp":"城壁ってさ、どんっと立ってて、見てるだけでも安心感があるよね？\nでも私的には、跳んだり走ったりしながら街をパトロールしちゃう鎮守獅の方が、ずっとすごいと思うの！","fr":"Les remparts, ils se dressent là, massifs, et rien qu'à les regarder, on se sent en sécurité, non ?\nMais à mon avis, les lions gardiens qui patrouillent en ville en bondissant et en courant sont bien plus impressionnants !"}
+{"id":1498541,"jp":"機関の設計ってさ、\n皆の役に立つものが『巧み』とされて、役に立たないものは『拙い』って言われるの。\n\nでも、一見無駄なものが多い自然の造形美とかを見てると、本当に『巧み』なものは『拙く』見えるのかもしれないね……","fr":"Dans la conception des mécanismes,\nce qui est utile à tous est qualifié d'« ingénieux », et ce qui ne l'est pas, de « maladroit ».\n\nMais quand je contemple la beauté des formes de la nature, avec tant de choses d'apparence inutile, peut-être que ce qui est vraiment « ingénieux » peut sembler « maladroit »…"}
 {"id":1498542,"jp":"エピソード","fr":"Épisodes"}
 {"id":1498543,"jp":"内緒にしてくれるなら、もっといろいろ教えてあげてもいいよ！","fr":"Si tu gardes ça pour toi, je peux t'en apprendre bien plus !"}
 {"id":1498544,"jp":"必殺技","fr":"Coup fatal"}
@@ -3068,23 +3262,39 @@
 {"id":1498547,"jp":"よくきたな！\n今日もちゃんとしゅぎょーしてるか？","fr":"Ah, quelle bonne surprise !\nL'entraînement avance bien aujourd'hui aussi ?"}
 {"id":1498548,"jp":"ポンポンの技、どうだっ！？","fr":"Alors, que vaut la technique de Pengpeng ?!"}
 {"id":1498549,"jp":"ふふん、すごいだろー！","fr":"Héhé, impressionnant, hein ?"}
+{"id":1498552,"jp":"あいつは、ふつーに見えて意外といいやつだ。\nポンポンの『頼りになるやつランキング』上位に入れてやろう。\n……べつに、あいつがいないとダメって意味じゃないぞ！\nポンポンはカンフーマスター！あいつの助けなんていらないからな！はーっはっはー！","fr":"L'Enfant des étoiles a l'air tout ordinaire, mais c'est finalement quelqu'un de bien.\nPengpeng va placer l'Enfant des étoiles en haut de son « classement des gens fiables ».\n…Ça ne veut pas dire que Pengpeng ne peut pas se passer de l'Enfant des étoiles, hein !\nPengpeng est une experte en kung-fu ! Pas besoin de son aide ! Ha ha ha ha !"}
+{"id":1498553,"jp":"あいつは、いまはまだポンポンの足元にも及ばない。\nけど、センスはあるぞ！\n毎日ちゃんと内功のしゅぎょーをして、ポンポンの技をふたつ……\nいや、ひとつでも受け継いだら、ちょっとくらい名の知られたやつになるはずだ！","fr":"L'Enfant des étoiles n'arrive pas encore à la cheville de Pengpeng.\nMais l'Enfant des étoiles a du talent !\nSi, chaque jour, l'Enfant des étoiles s'entraîne sérieusement à la force intérieure et hérite de deux techniques de Pengpeng…\nnon, même d'une seule, ce sera quelqu'un d'un peu connu !"}
+{"id":1498555,"jp":"そんなに遠い国には行ったことないけど……\nでも、ちょーじょー決戦で有名になったら、\n外の国からもポンポンへのちょーせんしゃが出てくるだろうな！\nそんときはいろんな国に行って、いろんなごはんを食べてみることにするぞ！","fr":"Pengpeng n'est jamais allée dans des pays si lointains…\nMais quand Pengpeng sera célèbre grâce au duel au sommet,\ndes challengers pour Pengpeng viendront sûrement de l'étranger aussi !\nÀ ce moment-là, Pengpeng ira dans plein de pays et goûtera plein de plats différents !"}
 {"id":1498556,"jp":"ポンポンの伝説は、もう世界中に広まってるんだぞ！","fr":"La légende de Pengpeng a déjà fait le tour du monde !"}
 {"id":1498557,"jp":"カンフーとは……\n静かに！鋭く！打ち込む！\nこれがポンポンの実力だー！","fr":"Le kung-fu, c'est…\nCalme ! Précis ! Frappe !\nVoilà la vraie force de Pengpeng !"}
+{"id":1498558,"jp":"コホン。修行のために旅をしている騎士見習い、リリィだよ。まだまだ経験は浅いけど、騎士道精神は貫き通す！\nもしなにかわたしにできることがあったら、遠慮なく言ってね！\n喜んで手伝うから！","fr":"Hem. Je m'appelle Lily, apprentie chevalière en voyage d'entraînement. Je manque encore d'expérience, mais je resterai toujours fidèle à l'esprit chevaleresque !\nSi je peux faire quoi que ce soit pour toi, n'hésite pas à me le dire !\nJe t'aiderai avec plaisir !"}
 {"id":1498559,"jp":"あれ、わたしに会いに来てくれたの？嬉しい！","fr":"Oh, une petite visite pour moi ? Quel bonheur !"}
 {"id":1498560,"jp":"このあとの予定？\nちょっと待って、スケジュールを確認するね！","fr":"Mon programme pour la suite ?\nAttends, je vérifie mon emploi du temps !"}
 {"id":1498561,"jp":"騎士見習いのリリィ、あなたのために全力を尽くす！","fr":"Lily, apprentie chevalière, fera tout son possible pour aider !"}
+{"id":1498563,"jp":"戦う理由？\nえへへっ、それはもちろん、ランスがかっこいいから！\n\nえっ？それだけじゃ納得できない？\nうーん……旅を続けながら、最終的にそれぞれが目的を果たせればいいと思ってるの。\nでも、その途中で戦いを避けることはできない、でしょ？","fr":"Ma raison de me battre ?\nHéhé, bien sûr, parce que la lance, c'est la classe !\n\nHein ? Ça ne te convainc pas ?\nHmm… je pense qu'en continuant à voyager, on finira chacun par atteindre son but.\nMais on ne peut pas éviter les combats en chemin, n'est-ce pas ?"}
+{"id":1498564,"jp":"星臨者さん？\n一緒にいてとても心地よくて、安心できる！\nそれに、なにか困ったことがあると、いつも手を貸してくれる……そんな人。\nいつか、わたしがあの人を助けられたらいいな。","fr":"Enfant des étoiles ?\nÊtre à ses côtés, c'est vraiment agréable et rassurant !\nEt puis, dès que j'ai un souci, on me tend toujours la main… C'est quelqu'un comme ça.\nUn jour, j'espère pouvoir lui rendre la pareille."}
+{"id":1498565,"jp":"たしかにあの人の過去は謎めいているけれど、しつこく聞くつもりはないよ。\nだれにだって秘密のひとつやふたつぐらいあるでしょ？","fr":"C'est vrai que son passé est mystérieux, mais je n'ai pas l'intention d'insister.\nTout le monde a bien un secret ou deux, non ?"}
+{"id":1498566,"jp":"フリスの「戦禍の痕」かぁ。\nいまではところどころに痕跡が残ってるくらいだけど、大戦当時のすごさは伝わってくる……\n想像するだけで、ドキドキしてきちゃうよ！","fr":"Les « Cicatrices de la guerre » de Fleece, hein.\nAujourd'hui, il n'en reste que des traces çà et là, mais on sent bien l'ampleur de la grande guerre de l'époque…\nRien que d'y penser, mon cœur bat la chamade !"}
+{"id":1498567,"jp":"もし機会があったら、北のエルデンランドにも行ってみたいの。\nそう、あの騎士発祥の地！\nやっぱり歴史の本を読むより、この目で直接見たほうがためになるでしょ？","fr":"Si j'en ai l'occasion, j'aimerais aussi aller à Eldenland, au nord.\nOui, le berceau des chevaliers !\nAprès tout, voir de ses propres yeux, c'est plus instructif que lire des livres d'histoire, non ?"}
 {"id":1498568,"jp":"あなたも物語が好きなの？\nじゃあ、わたしがいくつかお話を聞かせてあげるね。","fr":"Toi aussi, tu aimes les histoires ?\nAlors je vais t'en raconter quelques-unes !"}
 {"id":1498569,"jp":"立ち向かうとき……\n嵐よ、わたしに跪け！\nふぅ……ちゃんとできた。","fr":"Quand je me bats…\nTempête, plie le genou devant moi !\nOuf… j'ai réussi."}
+{"id":1498570,"jp":"幽岐島から参りました、源千代と申します。\nいまは一介の浪人に過ぎません。\n\nはい？趣味も教えてほしい……ですか？\nわかりました。\nそうですね……茶道や華道が好きです。\n心が落ち着くので。","fr":"Je viens de l'île de Youqi, et je m'appelle Minamoto Chiyo.\nPour l'heure, je ne suis qu'une simple ronin.\n\nHm ? Vous aimeriez aussi connaître mes passe-temps… ?\nTrès bien.\nVoyons… j'aime la cérémonie du thé et l'art floral.\nCela apaise mon cœur."}
 {"id":1498571,"jp":"冷静な思考を絶やさないこと、それが私の必勝法です。","fr":"Toujours garder l'esprit calme. Voilà mon secret pour remporter la victoire."}
 {"id":1498572,"jp":"刀には鋭さがあります。人もまた然り。","fr":"Une lame se doit d'être affûtée. L'esprit aussi."}
 {"id":1498573,"jp":"必ずや、源家の名誉に恥じぬ働きをいたします。","fr":"Je ferai assurément honneur à la maison Minamoto."}
+{"id":1498575,"jp":"私は幽岐島の名家、源の娘として幼いころから戦闘の技術だけでなく、礼儀や算術といった教育も受けてきました。\n\n礼儀は心を磨く助けとなり、算術は世界を理性的に認識させてくれます。\nあの勉強漬けだった日々も、いまでは懐かしく感じますね。","fr":"En tant que fille de la maison Minamoto, illustre famille de l'île de Youqi, j'ai reçu dès l'enfance non seulement une formation au combat, mais aussi une éducation en étiquette et en arithmétique.\n\nL'étiquette aide à polir le cœur, et l'arithmétique nous fait percevoir le monde avec raison.\nCes jours passés à étudier sans relâche me semblent aujourd'hui pleins de nostalgie."}
 {"id":1498579,"jp":"飛空船にはまだ慣れることができません……畳の間もなければ、心を落ち着けてくれる玄米茶もありませんから……","fr":"Je ne m'habitue toujours pas au dirigeable… Il n'y a ni pièce à tatamis, ni thé genmaicha pour m'apaiser…"}
 {"id":1498580,"jp":"手を組むならば互いに深く理解し合わなければ。","fr":"Pour unir nos forces, nous devons apprendre à nous comprendre en profondeur."}
 {"id":1498581,"jp":"不浄な者よ……ここで消し去る！退、散！","fr":"Être impur… C'est ici que tout s'achève ! Disparais !"}
+{"id":1498582,"jp":"ロースランサから参りました、シンフォーリアです。\nいまは重要な長期任務の途中で……\n\nその、あなたと同行するのも任務のうちです。\nですから……あまり私から離れないでくださいね？","fr":"Je viens de Lors Lains, et je m'appelle Symphoria.\nEn ce moment, je suis en pleine mission de longue durée, et très importante…\n\nEt… vous accompagner fait partie de cette mission.\nAlors… ne vous éloignez pas trop de moi, d'accord ?"}
 {"id":1498583,"jp":"そろそろ出発しますか？","fr":"Il serait temps de partir, non ?"}
 {"id":1498584,"jp":"準備は万端です。","fr":"Tout est prêt."}
 {"id":1498585,"jp":"旅は、まだまだ続くのですね。","fr":"Notre voyage est donc encore loin de s'achever."}
+{"id":1498586,"jp":"私の過去、ですか？\nほかのウッドエルフとそこまで変わらない気がしますが……\n\nえっ、ルミィからなにか聞いたんですか？\n彼女の話は少々大袈裟ですので、鵜呑みにはしないでくださいね。","fr":"Mon passé, dites-vous ?\nJe crois que je ne diffère pas tant que ça des autres Elfes des bois…\n\nHein, Lumi vous a raconté quelque chose ?\nSes histoires sont un peu exagérées, alors ne les prenez pas pour argent comptant."}
+{"id":1498588,"jp":"予言がついに実現すると聞いたときから、\n私の周りは星臨者さまの噂で持ち切りで……\n\nかく言う私も、どのような方なのだろうと、楽しみにしていましたが……\n……ふふっ。こんなに優しい方だったなんて。安心しました。","fr":"Depuis que j'ai appris que la prophétie allait enfin se réaliser,\non ne parlait plus autour de moi que de l'Enfant des étoiles…\n\nMoi aussi, je me demandais avec impatience quel genre de personne vous seriez…\n…Hihi. Dire que vous êtes quelqu'un d'aussi gentil. Me voilà rassurée."}
 {"id":1498589,"jp":"星臨者さまは……頼れる仲間です。\n予言や使命とは関係なく、私自身がそう思っているのです。","fr":"Pour moi, l'Enfant des étoiles est… un soutien sur lequel je peux compter.\nPeu importent les prophéties ou la mission : c'est ce que je pense moi-même."}
+{"id":1498590,"jp":"任務でさまざまな場所に行きましたが、獣人の集落に滞在したのははじめてです。\nまるで似ても似つかないふたつの木のように、\nシャルル村の習慣は私の故郷のそれとはまるで違いました。\nですが、村の方たちの誠実さと熱意は素晴らしいものがありますね。","fr":"J'ai été envoyée en mission dans bien des endroits, mais c'est la première fois que je séjourne dans un village de Furriens.\nComme deux arbres qui n'ont rien de commun,\nles coutumes du Village de Charlulu sont entièrement différentes de celles de mon pays.\nMais la sincérité et la ferveur des villageois sont admirables."}
+{"id":1498591,"jp":"フリスのマルシェでは、いつも新しい発見があります。さすが多様な文化で知られる都市国家ですね。\n\nさまざまな文化に属す方々がこうして平和に暮らせているのは、この地を治める方の努力なしには成しえないことです。\n世界中がこうであってほしいですね。","fr":"Au marché de Fleece, on fait toujours de nouvelles découvertes. On reconnaît bien là une cité-État réputée pour la diversité de ses cultures.\n\nQue des gens de cultures si variées puissent vivre ainsi en paix ne se serait pas fait sans les efforts de celui ou celle qui gouverne cette terre.\nJ'aimerais que le monde entier soit ainsi."}
 {"id":1498592,"jp":"私の過去が知りたいのですか？\n長くなってしまいますが……","fr":"Vous voulez connaître mon passé ?\nCe sera un peu long…"}
 {"id":1498593,"jp":"これが木々の――\n最後の警告！\n風に散れ！","fr":"Voici le…\nDernier avertissement des arbres !\nQue le vent emporte tout !"}
 {"id":1498595,"jp":"あら、来てくれたのね。","fr":"Oh, quelle agréable visite."}
@@ -3092,41 +3302,65 @@
 {"id":1498597,"jp":"歩き疲れてしまったら、私のガーデンにいらっしゃい。","fr":"Mon jardin est toujours ouvert pour se reposer après une longue marche."}
 {"id":1498604,"jp":"森の囁きが聴こえるかしら？","fr":"Les murmures de la forêt se font-ils entendre ?"}
 {"id":1498605,"jp":"森を渡る風よ――\n大地を緑に染めて！\n命、咲き誇るまで……","fr":"Vent qui traverses la forêt…\nTeins la terre de vert !\nJusqu'à ce que la vie s'épanouisse…"}
+{"id":1498606,"jp":"なまえ、アビィ。\nん、ほんとの名前？\nあの長い名前のこと？\n\nいまは、言えない……\n竜のときは言える。\nけどみんな、きっとわからない。","fr":"Nom, Abby.\nHm, le vrai nom ?\nLe nom très long ?\n\nJe peux pas le dire maintenant…\nJe peux le dire quand je suis dragon.\nMais personne comprendra, sûrement."}
 {"id":1498607,"jp":"おなかが減ってたら、飛べない。","fr":"Quand j'ai faim, je peux pas voler."}
 {"id":1498608,"jp":"いっしょに遊びたい？","fr":"On joue ensemble ?"}
 {"id":1498609,"jp":"アビィ、夢を見た……なんの夢だったっけ？","fr":"Abby a fait un rêve… C'était quoi, déjà ?"}
+{"id":1498610,"jp":"アビィ、木の上でぐーぐーするの好き。\nまえ住んでたところ、木がいっぱいあった。\n静かで気持ちよかった。\n\nでも、一回だけ、ぐーぐーしてたらいきなり枝が折れたことがあった……\nアビィ、なにか悪いことしちゃった？","fr":"Abby aime faire dodo dans les arbres.\nLà où Abby habitait avant, il y avait plein d'arbres.\nC'était calme, c'était bien.\n\nMais une fois, pendant le dodo, la branche s'est cassée d'un coup…\nAbby a fait quelque chose de mal ?"}
 {"id":1498612,"jp":"せーりんしゃ、やさしい。\nおいしいものをいっぱいくれる。いっしょに遊んでくれる。\nあとは……うーん……いいにおいがする！","fr":"Enfant des étoiles, gentil.\nPlein de bonnes choses à manger. On joue ensemble.\nEt puis… hmm… ça sent bon !"}
+{"id":1498613,"jp":"いっしょに遊ぶって言ったのに、\nさいきん、ぜんぜんアビィのこと\nかまってくれない……\nでも、アビィはいい子だから、手伝いにいく！\nそうしたら、ずっといっしょ……それに、せーりんしゃを守れる。","fr":"On avait dit qu'on jouerait ensemble,\npourtant ces temps-ci,\non s'occupe plus du tout d'Abby…\nMais Abby est une gentille fille, alors Abby va aider !\nComme ça, ensemble pour toujours… et puis, Abby pourra protéger l'Enfant des étoiles."}
+{"id":1498615,"jp":"メーツァお姉ちゃんのお庭、知らないお花、いっぱい。ここにきてから集めはじめて、長い長い時間をかけたんだって。\nだからもう『なくなった』お花もある。\nメーツァお姉ちゃんのガーデンにだけあって、ほかのどこにもない花が。","fr":"Dans le jardin de grande sœur Metsa, plein de fleurs que je connais pas. Elle a commencé à les collecter en arrivant ici, et ça a pris longtemps, longtemps, longtemps.\nAlors il y a des fleurs qui sont « parties ».\nDes fleurs qui existaient seulement dans le Jardin de grande sœur Metsa, et nulle part ailleurs."}
 {"id":1498616,"jp":"わかってる。アビィいい子にする。","fr":"Je sais. Abby va être sage."}
 {"id":1498617,"jp":"はむ……\nはぁ――っ！\n消えて！","fr":"Miam…\nHaaaa !\nDisparais !"}
+{"id":1498618,"jp":"アタシはテララ！\nシャルル村の生まれで、村一番のハンターだ！\n\nアンタはもう仲間だから、\nアタシが守ってやるぞ、へへっ！\nどうだ、安心感ハンパないだろ？","fr":"Moi, c'est Terara !\nNée au Village de Charlulu, la meilleure chasseuse du village !\n\nTu fais déjà partie de la bande, alors\nje vais te protéger, hé hé !\nAlors, ça fait un sentiment de sécurité monstre, non ?"}
 {"id":1498619,"jp":"やっほー！また会ったな。","fr":"Coucou ! On se retrouve !"}
 {"id":1498620,"jp":"また会えて嬉しいぞ！","fr":"Quel plaisir de se revoir !"}
 {"id":1498621,"jp":"アンタの面倒はアタシが見てやるからな！","fr":"Pas de souci, je suis là pour prendre soin de tout !"}
+{"id":1498624,"jp":"最初にアイツを見つけたときは、いったいどこから来たんだろうって思った。\nひとりで森のなかに倒れてて……怪我もしてたし……\nここにきた目的も、どんなヤツかもわからなかったけど、\nでもさ！放っておくわけにはいかないじゃん！","fr":"La toute première fois que j'ai trouvé l'Enfant des étoiles, je me suis demandé d'où cette personne pouvait bien débarquer.\nPar terre, en pleine forêt, sans personne autour… et avec des blessures en plus…\nJe ne savais ni pourquoi elle était venue ici, ni qui c'était, mais voilà ! Je pouvais pas la laisser comme ça !"}
+{"id":1498627,"jp":"翼が生えてるヤツらがいるけどさ、別にあんなのちっとも羨ましくないから！\nアタシだって、うんと高く跳べば、アイツらとおんなじ景色が見えるし！","fr":"Oui, y en a qui ont des ailes, mais ça, je les envie pas du tout, hein !\nMoi aussi, si je saute super haut, je vois le même paysage que ces gens-là !"}
 {"id":1498628,"jp":"アタシのことを知りたい？\nいいぞ！じゃあ、どっから話そうか？","fr":"Tu veux en savoir plus sur moi ?\nVas-y ! Alors, par où je commence ?"}
 {"id":1498629,"jp":"邪魔なヤツは……ぶっ飛ばす！これで懲りたかっ！","fr":"Tous ceux qui me gênent… Je les envoie valser ! Alors, ça suffit ?!"}
+{"id":1498630,"jp":"ルルカです。\nシャルル村のオオカミ族の一員で、村のシャーマンを務めています。\nまだまだ未熟者ですが、頑張ります！\n\n……あの、わたしの力が必要なときは、すぐに駆けつけますから！\nよろしくお願いします！","fr":"Je suis Luruka.\nJe fais partie du clan des Loups du Village de Charlulu et je suis la chamane du village.\nJe manque encore d'expérience, mais je ferai de mon mieux !\n\n…Euh, quand vous aurez besoin de ma force, j'accourrai tout de suite !\nJe compte sur vous !"}
 {"id":1498631,"jp":"なにか悩みごとがあるなら、いつでも相談してくださいね。","fr":"Si quelque chose vous préoccupe, n'hésitez jamais à m'en parler."}
 {"id":1498632,"jp":"みなさんを守るため、全力を尽くします。","fr":"Je ferai tout mon possible pour protéger tout le monde."}
 {"id":1498633,"jp":"いつだって、想いはわたしたちを繋いでくれる……","fr":"Nos sentiments nous uniront toujours…"}
 {"id":1498640,"jp":"心は、ありのままの自分へと導いてくれるでしょう。","fr":"Le cœur nous guide vers notre véritable nature."}
 {"id":1498641,"jp":"悠久たる森のアウラよ……\n力を貸して！\n命を繋ぐために！","fr":"Aura de la forêt éternelle…\nPrête-moi ta force !\nPour que la vie se perpétue !"}
+{"id":1498642,"jp":"アタシはミィティ。ねえ、この翼が見える？\nそう、アタシは翼人なの。\nどんな獲物もアタシたちからは逃げられないわ。\n\n言っておくけど。どうしてもって言うなら手伝ってあげる。けど、アンタと仲良くするつもりはないから。","fr":"Je suis Mitty. Dis, tu vois ces ailes ?\nEh oui, je suis une Ailée.\nAucune proie ne nous échappe.\n\nJe te préviens : si tu y tiens vraiment, je veux bien t'aider. Mais je n'ai pas l'intention de devenir amie avec toi."}
 {"id":1498643,"jp":"翼人の戦士が、簡単に退くわけないでしょ！","fr":"Impossible pour une guerrière des Ailés de reculer aussi facilement !"}
 {"id":1498644,"jp":"アタシがお手本を見せてあげるわ！","fr":"Je vais montrer comment on fait !"}
 {"id":1498645,"jp":"アタシの弓は選び抜かれたものなんだから！","fr":"Mon arc a été choisi avec le plus grand soin !"}
+{"id":1498646,"jp":"今日の狩りをはじめるわよ！\n\n……は？獲物はどこって？\nそんなの、アタシが知るわけないでしょ！\nわからないから探しに行くんだし！\n\nまったく、アンタみたいな素人は学ぶことが山ほどあるんだから。\nちゃんとついて来なさいよね！","fr":"C'est parti pour la chasse du jour !\n\n…Hein ? Où est la proie ?\nComment je le saurais !\nOn va chercher justement parce qu'on ne sait pas !\n\nFranchement, un novice comme toi a une montagne de choses à apprendre.\nSuis-moi bien, d'accord !"}
 {"id":1498647,"jp":"翼の傷？\nあんなの、ちょっと掠っただけ。\nもう治ってきてるし、たいしたことない。\n\n……で、でもまあ、一応感謝しとくわ。気にかけてくれたわけだし！？\n……とにかく！心配いらないわ、アタシは大丈夫！","fr":"La blessure à mon aile ?\nCe n'était qu'une égratignure.\nÇa cicatrise déjà, ce n'est rien du tout.\n\n… M-mais bon, je te remercie quand même. Après tout, tu t'es fait du souci pour moi !?\n… Bref ! Pas la peine de t'inquiéter, je vais très bien !"}
+{"id":1498649,"jp":"アイツ、翼はないけど、結構頭はいいじゃない。\nほら、問題が起きたときも解決方法をいくつも出してくるし。\n\n……べ、別に褒めてるわけじゃないわ！\nただ観察対象として分析してるだけだからっ！","fr":"Pas d'ailes, mais l'Enfant des étoiles a une sacrée jugeote, non ?\nTiens, quand un problème survient, l'Enfant des étoiles propose toujours plusieurs solutions.\n\n…J-je ne le complimente pas, hein !\nJe l'analyse juste comme sujet d'observation, c'est tout !"}
+{"id":1498650,"jp":"谷の風は、アタシたちが情報を得る手段のひとつよ。高さが変わると、風が伝えてくれる情報も異なるの。\nアンタが谷に現れた日も、風の不穏な動きにすぐ気付いたんだから。\nどう？翼人の鋭さ、アンタの想像以上でしょ？","fr":"Le vent de la vallée est l'un des moyens par lesquels nous recueillons des informations. Selon l'altitude, ce que le vent nous apprend change.\nLe jour où tu es apparu dans la vallée, j'ai tout de suite remarqué un mouvement inquiétant dans le vent.\nAlors ? Les Ailés sont plus perspicaces que tu ne l'imaginais, non ?"}
+{"id":1498651,"jp":"あのね、今後のために、ひとつ教えてあげる。\n森を歩くときは足元に気をつけなさい。\n特にじめじめしたところに生えてるキノコ、アイツら動けるんだから！\nうぇ、あの動き……思い出しただけで気持ちわる～い。","fr":"Écoute, je vais te donner un conseil pour la suite.\nQuand tu marches en forêt, fais attention où tu mets les pieds.\nSurtout les champignons qui poussent dans les endroits humides, ceux-là, ils peuvent bouger !\nBeurk, ce mouvement… rien que d'y repenser, ça me dégoûte."}
 {"id":1498652,"jp":"な、なにじっと見てるのよ……\n別にやましいことなんてしてないし！","fr":"Q-qu'est-ce que tu me regardes comme ça…\nJe n'ai rien à me reprocher, moi !"}
 {"id":1498653,"jp":"受け取りなさい……\nアサルトサンダー！\n空からの贈りものよ。","fr":"Prends ça…\nFoudre d'assaut !\nUn cadeau du ciel."}
 {"id":1498655,"jp":"この剣が風を薙ぐ音に、耳を傾けなさい。","fr":"Écoutons le chant de cette lame qui fend le vent."}
 {"id":1498656,"jp":"ハクオン家の次期当主、モーレンよ。\nとはいえ私は私。家は家。\nそんなに畏まらなくていいわ。","fr":"Je suis Morwyn, prochaine héritière de la maison Hakuon.\nMais je reste moi, et la maison reste la maison.\nPas la peine de faire autant de manières."}
 {"id":1498657,"jp":"同じ志を持つ仲間でしたら、もっと教えてあげてもかまわないわ。","fr":"Si tu partages le même idéal, je veux bien t'en dire davantage."}
+{"id":1498658,"jp":"アヴァリアンが誇る4名の剣聖。\nそのうちのふたりは、私の両親なの。\n父の剣からは力強さと勇気を、母からは軽やかさと鋭さを学んだわ。\n\nけれど、私の二刀流はどちらとも違う。\n私は、私だけの道を進むのよ。","fr":"Les 4 Maîtres de l'épée dont Avalian est fière.\nDeux d'entre eux sont mes parents.\nDe l'épée de mon père, j'ai appris la force et le courage ; de ma mère, la légèreté et l'acuité.\n\nMais mon style à deux épées n'est ni l'un ni l'autre.\nJe suis la voie qui n'appartient qu'à moi."}
+{"id":1498661,"jp":"あの人は、能力も戦略も、間違いなく比類なきものを持っている。\nもし星臨者の助けを得られるのなら、ハクオン家の力はさらに強固なものになるわ。\n星臨者とは、それほどの存在ということね。","fr":"L'Enfant des étoiles possède sans conteste des capacités et une stratégie sans pareilles.\nSi nous pouvions obtenir son aide, la puissance de la maison Hakuon en serait encore consolidée.\nVoilà quelle importance a un Enfant des étoiles."}
+{"id":1498663,"jp":"一族の賢老たちから、タルシスの赤い砂漠にまつわる不気味な昔話を聞いたことがあるわ。\n激しい戦いの最中、数え切れないほどの命があの砂漠を赤く染めたらしいの。\nだけど、似たような話はどこにでもあるから、そのまま鵜呑みにしてはいけないわね。","fr":"J'ai entendu les sages anciens de ma famille raconter une inquiétante histoire d'autrefois sur le désert rouge de Tharsis.\nEn plein cœur d'une bataille acharnée, d'innombrables vies auraient teinté ce désert de rouge.\nMais des histoires semblables, il y en a partout, alors on ne doit pas la gober telle quelle."}
 {"id":1498664,"jp":"私のことを知りたい？\nふーん、まぁいいわよ、教えてあげてもかまわないわ。","fr":"Tu veux me connaître ?\nHmm, soit. Je veux bien t'en dire plus."}
 {"id":1498665,"jp":"耳を傾けなさい……\n『華麗なる剣雷の楽章』を！\n消え去るまで！","fr":"Prête l'oreille…\nÀ la « Symphonie magnifique des lames et de la foudre » !\nJusqu'à ce que tout disparaisse !"}
 {"id":1498667,"jp":"お待ちしておりました、星臨者さま。","fr":"J'attendais cette rencontre, Enfant des étoiles."}
 {"id":1498668,"jp":"私の出番ですか？いつでもご命令を。","fr":"C'est mon tour ? Je suis aux ordres."}
 {"id":1498669,"jp":"やはりあなたでしたか。\nロイレーの反応で、すぐわかりました。","fr":"C'était donc vous.\nLa réaction de Roiree me l'a tout de suite appris."}
+{"id":1498672,"jp":"おのれが従う価値がある方かどうかは、初対面の印象だけで、わかるものです。\nロイレーが私を選んでくれたように、\n私もあの方……星臨者さまに、この槍も、栄誉も、運命も……すべて捧げることを選んだのです。","fr":"On peut savoir dès la première impression si quelqu'un mérite qu'on le suive.\nTout comme Roiree m'a choisie,\nmoi aussi, j'ai choisi de tout offrir à cette personne… l'Enfant des étoiles : cette lance, mon honneur, mon destin… tout."}
+{"id":1498673,"jp":"いつも夜空に輝く星のように、暗い夜道を照らしてくれる……\nあの方と手を取り合い、ふたりの望む未来へと歩いてゆけたら……そんな日も遠くないと、私は信じております。","fr":"Comme les étoiles qui brillent toujours dans le ciel nocturne, l'Enfant des étoiles éclaire ma route dans la nuit noire…\nSi je pouvais lui tenir la main et marcher vers l'avenir que nous souhaitons tous deux… je crois que ce jour n'est pas loin."}
 {"id":1498676,"jp":"私のこと、ですか？\nすこし、恥ずかしいですが……どのようなことを知りたいのですか？","fr":"Moi ?\nC'est un peu gênant… Que voulez-vous savoir ?"}
 {"id":1498677,"jp":"すべての光を、ここに！\n貫け！\nこれが、私の意志です！","fr":"Toute la lumière, ici !\nTransperce !\nVoilà ma volonté !"}
 {"id":1498679,"jp":"私を探していた？なにかあったのか？","fr":"On me cherchait ? Il s'est passé quelque chose ?"}
 {"id":1498680,"jp":"ここにいる。","fr":"Je suis là."}
 {"id":1498681,"jp":"君の声が、風に乗って届いた。","fr":"Cette voix m'est parvenue, portée par le vent."}
+{"id":1498682,"jp":"私について知りたい、だと？\n\nそうだな、「鷹主」に選ばれたのは、高い戦闘力を持っていたから……\nそして決断を迫られる立場になって、ようやく理解したんだ。\n師が背負っていた責任の重さを……\n\nすまない。こんな話、つまらないだろう。","fr":"Tu veux en savoir plus sur moi ?\n\nEh bien, j'ai été choisie comme « Seigneur Faucon » parce que j'avais une grande puissance de combat…\nEt ce n'est qu'une fois placée dans une position qui exige de trancher que j'ai enfin compris.\nLe poids de la responsabilité que portait mon maître…\n\nDésolée. Une histoire pareille doit t'ennuyer."}
+{"id":1498683,"jp":"かつては弓で戦っていた時期もあった。\nだが私は、一族のなかでも機動力があるほうだったし、翼による動きの速さを最大限に活かすために、槍に武器を変えたんだ。\n\nまあ、接近戦はケガのリスクも高くなるが……\nそれは一族の長が気にすることではない。","fr":"Il fut un temps où je me battais à l'arc.\nMais j'étais l'une des plus mobiles de mon clan et, pour tirer le meilleur parti de la vitesse que me donnent mes ailes, j'ai troqué mon arme pour la lance.\n\nEnfin, le combat rapproché augmente aussi le risque de blessure…\nmais ce n'est pas ce dont se soucie la cheffe du clan."}
+{"id":1498684,"jp":"あの者が谷に落ちてきたとき、いつもと違う風が吹きはじめた気がした。\n木々の揺れも、最初は偶然だと思っていたが……\nまさか星臨者が嵐のような激変をもたらすとは。\nその力には、敬服するばかりだ。","fr":"Quand cette personne est tombée dans la vallée, j'ai eu l'impression qu'un vent inhabituel se levait.\nJe pensais d'abord que le balancement des arbres était une coïncidence, mais…\nJe n'aurais jamais cru qu'un Enfant des étoiles apporterait un bouleversement aussi violent qu'une tempête.\nSon pouvoir ne peut que forcer le respect."}
+{"id":1498685,"jp":"星臨の者……その不思議な知識と能力は、空からの贈りものかもしれない。\nだが特別な力がなかったとしても、あの者はきっと翼を広げ、どこまでも高く遠くまで行けるのだろう。\n伝説の鷹神のように。","fr":"L'Enfant des étoiles… Ce savoir et ce pouvoir étranges sont peut-être un présent du ciel.\nMais même sans pouvoir particulier, cette personne finirait sûrement par déployer ses ailes et aller toujours plus haut, toujours plus loin.\nComme le légendaire dieu Faucon."}
+{"id":1498686,"jp":"我々翼人の飛翔の儀について、君にも話しておきたい。まあ、谷の外にも似たような伝統はあるようだが。\n我々の『子ども』たちは崖から飛び降り……翼を広げて飛ぶことで『独り立ち』するんだ。","fr":"J'aimerais aussi te parler du rite du Vol de nous autres Ailés. Même s'il semble exister des traditions semblables hors de la vallée.\nNos « enfants » sautent d'une falaise… et c'est en déployant leurs ailes pour voler qu'ils « volent de leurs propres ailes »."}
+{"id":1498687,"jp":"翼人は皆、雲の上には鷹神が住むと信じ、空に憧れている。\nしかし……なぜかわからないが、落ちてきた君を見た瞬間……私は雲の上にも、暗雲が漂っていると感じたんだ。","fr":"Tous les Ailés croient que le dieu Faucon vit au-dessus des nuages, et nous rêvons du ciel.\nMais… sans savoir pourquoi, à l'instant de ta chute… j'ai senti que même au-dessus des nuages flottaient de sombres nuages."}
 {"id":1498688,"jp":"疑問に思ったことはなんでも聞いてくれ。\nなにも隠すつもりはない。","fr":"Pose-moi toutes les questions qui te viennent.\nJe n'ai rien à cacher."}
 {"id":1498689,"jp":"近づく嵐に怯え……\n落ちろ！\n空に縁なき者よ。","fr":"Que la tempête qui approche inspire la terreur…\nÀ terre !\nÊtre sans lien avec le ciel."}
 {"id":1498690,"jp":"なまえ、ノノ。\nキラキラのお宝、もっとほしい。\nみんなと、見つけたい\n……えっと……あ、ノノ、どんぐり、きらい。","fr":"Mon nom, Nono.\nJe veux plus de trésors qui brillent.\nJe veux les trouver avec tout le monde\n… euh… ah, Nono, déteste les glands."}
@@ -3144,16 +3378,26 @@
 {"id":1498702,"jp":"気楽にいこ。","fr":"On y va tranquille."}
 {"id":1498703,"jp":"『星』を降らせよう。","fr":"Faisons tomber les « étoiles »."}
 {"id":1498704,"jp":"旅は、まだ終わらない。","fr":"Le voyage n'est pas encore terminé."}
+{"id":1498705,"jp":"目を開けたときから、\nみんなが私のことを「予言の子だ」とおもしろがったり怖がったりしてた……\nだけど私は、そんな運命を受け入れるつもりはないよ。","fr":"Depuis que j'ai ouvert les yeux,\ntout le monde me qualifie d'« enfant de la prophétie » avec amusement ou crainte…\nMais je n'ai aucune intention d'accepter un tel destin."}
+{"id":1498706,"jp":"「肉はパクパク食べるからこそおいしい」、\n「狩りから帰ったらご先祖さまにお供えものをする」……っていう考えは理解できるけど、\n「気持ちを伝えるために決闘する」って……そんなことする必要ある……？","fr":"« La viande est meilleure quand on l'avale goulûment », « au retour de la chasse, on fait une offrande aux ancêtres »… ça, je peux le comprendre,\nmais « se battre en duel pour exprimer ses sentiments »…\nest-ce vraiment nécessaire… ?"}
 {"id":1498707,"jp":"蒼天に集いし――\n世界の意思よ――\n私に力を！","fr":"Rassemblée sous le ciel azur…\nÔ volonté du monde…\nAccorde-moi ta force !"}
 {"id":1498708,"jp":"気楽にいこう。","fr":"Allons-y tranquillement."}
+{"id":1498709,"jp":"ここの風習がだんだんわかってきたよ。\n一緒に肉を焼くっていうのは、幸せを分かち合うってこと。\n獲物をご先祖さまに供えるのは、ご加護を受けられたことへの感謝。\nで、激しい殴り合いは友情の証……って、これはちょっとよくわからないね。","fr":"Je commence à comprendre les coutumes d'ici.\nGriller de la viande ensemble, c'est partager le bonheur.\nOffrir sa prise aux ancêtres, c'est remercier pour leur protection.\nEt se battre violemment est une preuve d'amitié… ça, je ne comprends pas trop."}
+{"id":1498710,"jp":"えっへへ、うちは塗山小玉！\n青華郷は塗山氏の裔に連なる狐だよ！\n\n鏡花州の伝説では、『縁を守る仙狐』とかおーげさな名前で呼ばれちゃってるけど……うちは神仙狐になるために、まだまだまーだ修行中の身！\n\nあんたとの出会いはきっと、運命の縁だね！","fr":"Hé hé, moi, c'est Tushan Xiaoyu !\nUne renarde du village de Qinghua, descendante du clan Tushan !\n\nDans les légendes du Cap Jinghua, on m'appelle de grands noms comme « la renarde céleste qui protège les destins »… mais je suis encore, encore, encoooore en entraînement pour devenir une renarde divine !\n\nNotre rencontre est sûrement un lien du destin !"}
 {"id":1498711,"jp":"百業この世に在るかぎり！\n因果の巡り終わりなーし！","fr":"Tant que les actes existent en ce monde !\nLe cycle des causes et des effets n'aura jamais de fin !"}
 {"id":1498712,"jp":"もつれた糸にも、まあるい結び。","fr":"Même les fils emmêlés peuvent former de jolis nœuds."}
 {"id":1498713,"jp":"桃花の一札、久遠の縁！","fr":"Un talisman aux fleurs de pêcher, un lien pour l'éternité !"}
+{"id":1498717,"jp":"これって性格なのかなあ。うち、結構すぐに気持ちが揺らいじゃうんだ。仲間に支えてもらえなきゃ、前に進めないときもある……\n\nでもさ、侠客さんが迷いなく進んでいく姿を見てたら、うちも「支えられるようになりたいな」って思うようになっちゃった……","fr":"C'est peut-être mon caractère. Moi, mes émotions vacillent assez facilement. Parfois, je n'arrive pas à avancer sans le soutien de mes amis…\n\nMais tu sais, quand je te vois avancer sans hésiter, Âme chevaleresque, j'ai fini par me dire que moi aussi, je voulais devenir quelqu'un qui peut soutenir les autres…"}
+{"id":1498719,"jp":"青華郷の入口はね、水月居の鏡と繋がってるんだ。あ、でも、もちろんほんとに地続きなわけじゃないよ？\n\n鏡のなかに別世界を作り出せるのは、霊沢が塗山の一族に与えた力で……えーっと、よーするに！青華郷は霊沢に守られた桃源郷ってこと！","fr":"L'entrée du village de Qinghua est reliée au miroir de la résidence Shuiyue. Ah, mais bien sûr, ce n'est pas vraiment relié par la terre, hein ?\n\nCréer un autre monde dans un miroir, c'est un pouvoir que Lingze a accordé au clan Tushan… Euh, bref ! Le village de Qinghua est un paradis protégé par Lingze !"}
 {"id":1498720,"jp":"興味をもったら、もうそこに縁はあるよ！","fr":"Dès que l'intérêt s'éveille, un lien se tisse !"}
 {"id":1498721,"jp":"宝扇の玉枝よ……\n花霞に千の縁あれ――\n因果断ち切らん！","fr":"Branche de jade de l'éventail précieux…\nQue mille liens fleurissent dans la brume de fleurs !\nJe tranche les causes et les effets !"}
 {"id":1498723,"jp":"インスピレーションの火花がキラキラ！","fr":"Les étincelles de l'inspiration brillent de mille feux !"}
 {"id":1498724,"jp":"あたしの魔導アートは、天上天下に並ぶものなし！","fr":"Mon art magitech n'a d'égal ni au ciel ni sur terre !"}
 {"id":1498725,"jp":"神の創りし聖域で、キミを待ってるよ。","fr":"Je serai là, à attendre dans le sanctuaire créé par les dieux."}
+{"id":1498728,"jp":"星臨者は……あたしが思った通りの人間だったわ。\nどんな武器よりも鋭くて、どんなアートよりも気高い。\n世の闇すらも覆い隠せぬその輝き……\n\nまさに『夜空の極明星』！\nいつのまにか、目を奪われちゃってるの。","fr":"L'Enfant des étoiles est…\nexactement comme je l'avais imaginé.\nPlus tranchant que n'importe quelle arme, plus noble que n'importe quel art.\nUn éclat que même les ténèbres du monde ne peuvent masquer…\nVéritablement l'« étoile la plus brillante du ciel nocturne » !\nSans m'en rendre compte, je ne peux plus en détacher les yeux."}
+{"id":1498729,"jp":"最近はこのラノベに夢中なの。\nタイトルは『最強転生～異世界で俺は伝説の勇者になる！？～』。\n\n主人公一行の旅がもうおもしろくておもしろくて……って、あれれ？\nそういえばあの人とこの主人公って、なんとなく似てるよね……！？","fr":"Ces temps-ci, je suis accro à ce light novel.\nIl s'appelle « Réincarné au sommet : je deviens un héros légendaire dans un autre monde !? ». Le voyage du groupe du héros est tellement amusant, tellement amusant…\nHein ?\nAttends une seconde.\nÀ y réfléchir, ce héros et cette personne se ressemblent un peu, non… !?"}
+{"id":1498730,"jp":"小さいころにね？両親と祈雲の北にある島に旅行したことがあるの。\nあったか〜い温泉に入って、すっご〜くキレイな雪景色を眺めたんだぁ……\nうぅ〜、思い出したら、また行きたくなってきちゃった！","fr":"Quand j'étais petite, tu sais ? Je suis partie en voyage avec mes parents sur une île au nord de Qiyun.\nOn s'est baignés dans une source chaude toute chaaaude et on a contemplé un paysage de neige super beeeau…\nOuh~, rien que d'y repenser, j'ai de nouveau envie d'y aller !"}
+{"id":1498731,"jp":"ロジニア連邦の魔導技術は世界一よ。\n\nただの魔法なんかとはわけが違うんだから、キミも機会を作って試さなきゃ。\n\n安心して、あたしは『魔導の創造主』と呼ばれてるの。\n手取り足取り教えてあげる！","fr":"La technologie magitech de la Fédération de Roginia est la meilleure du monde.\n\nCe n'est rien à voir avec de la simple magie, alors tu devrais saisir l'occasion de l'essayer, toi aussi.\n\nRassure-toi, on me surnomme la « Créatrice de la magitech ».\nJe t'expliquerai tout, pas à pas !"}
 {"id":1498732,"jp":"あたしの美学を知りたい？\nふふん、それなら天地創造のときから話さなきゃ……","fr":"Tu veux connaître mon esthétique ?\nHé hé, alors il faudra remonter à la création du monde…"}
 {"id":1498733,"jp":"『魔眼』よ――\n罪業の影を狩れ！\n燃え尽きなさい♪","fr":"Ô « Œil magique »…\nTraque l'ombre des péchés !\nQue tout brûle jusqu'aux cendres ♪"}
 {"id":1498735,"jp":"ご安心ください。\nこの斧が主人に向けられることはございません。","fr":"Soyez sans crainte.\nCette hache ne se lèvera jamais contre la personne que je sers."}
@@ -3161,11 +3405,14 @@
 {"id":1498737,"jp":"なにかお手伝いいたしましょうか？","fr":"Puis-je apporter mon aide ?"}
 {"id":1498744,"jp":"この手枷の重みが知りたいのですか？","fr":"Le poids de ces entraves intrigue ?"}
 {"id":1498745,"jp":"雷鳴よ――\n暗雲を打ち砕け！\n枷など無意味……","fr":"Ô tonnerre…\nFracasse les sombres nuages !\nLes entraves ne signifient rien…"}
+{"id":1498746,"jp":"わたしはアニス……カルノン療養院の看護師よ。\nいたいいたいした子がいたら、すぐに教えてちょうだいね？みんなのお世話はわたしがぜーんぶ引き受けるわ。","fr":"Je suis Anais… infirmière au sanatorium Carnon.\nS'il y a quelqu'un qui a bobo, dis-le-moi tout de suite, d'accord ? Je m'occupe de tout le monde, absolument de tout le monde."}
 {"id":1498747,"jp":"いーい？具合が悪いときは我慢しちゃメッ、よ？","fr":"Bien compris ? Quand on ne se sent pas bien, pas question de serrer les dents, d'accord ?"}
 {"id":1498748,"jp":"よしよし。助けが必要なら、いつでも呼んでちょうだい。","fr":"C'est bien, c'est bien. Si tu as besoin d'aide, appelle-moi quand tu veux."}
 {"id":1498749,"jp":"用がなくたって、いつでも来ていいのよ。","fr":"Ma porte est toujours ouverte, même sans raison particulière."}
+{"id":1498753,"jp":"セイちゃんって不思議ね。\n子どもっぽいときもあるのに、ときどきすっごく頼りになって……\n\nあの子のいろいろな顔、もっともっと知りたいわ。これって、わがままかしら……？","fr":"Sei est un vrai mystère.\nOn dirait parfois un enfant, et parfois on peut vraiment compter sur Sei…\n\nTous les visages de cet enfant, j'aimerais encore mieux les connaître. Est-ce égoïste de ma part… ?"}
 {"id":1498756,"jp":"わたしのことが気になるなら、直接聞いてくれていいのよ。","fr":"Si je t'intrigue, tu peux me poser directement la question."}
 {"id":1498757,"jp":"治療をはじめるわ――痛くても、我慢してね？はい、よくできました。","fr":"Je commence le soin… Même si ça fait mal, serre les dents, d'accord ? Voilà, très bien."}
+{"id":1498758,"jp":"ご、ご挨拶しなきゃだめ？\nう、うぅ……き、緊張しちゃう……な。\nわ、わたしはカタル……！シャルル村の民兵隊、隊員……いつか、シャルル村を守れるような、強い戦士になりたいの……\nあの……挨拶、堅すぎるかな？わたし……失敗しちゃった……？","fr":"Faut-il… que je me présente ?\nUh, uuh… je suis nerveuse…\nJe… je suis Katalua… ! Membre de la milice du Village de Charlulu… Un jour, je voudrais devenir une guerrière assez forte pour protéger le Village de Charlulu…\nEuh… ma présentation, c'est trop raide ? J'ai… j'ai raté… ?"}
 {"id":1498759,"jp":"こ、こんにちは……ひ、ひさしぶり……だね。","fr":"B-bonjour… Ça… ça fait longtemps, non ?"}
 {"id":1498760,"jp":"あ！せ、星臨者さんと、目が合っちゃった……","fr":"Ah ! J-j'ai croisé le regard de l'Enfant des étoiles…"}
 {"id":1498761,"jp":"わ、わたしの力が、必要なら……！","fr":"S-si ma force peut être utile… !"}
@@ -3174,16 +3421,25 @@
 {"id":1498771,"jp":"鬼火が震え、すすり泣き……","fr":"Les feux follets tremblent et sanglotent…"}
 {"id":1498772,"jp":"邪妖を祓い、神気を清めん。","fr":"Bannissons les esprits maléfiques et purifions le souffle divin."}
 {"id":1498773,"jp":"や、やはりここが、一番落ち着きます……","fr":"C-c'est bien ici que je me sens le plus en paix…"}
+{"id":1498774,"jp":"あの、額の呪符は、ですね。剥がしてもなんともありません。\nただ、貼っていると、安心できて……\n昔となにも変わっていないような……そんな気がするのです。","fr":"Euh, ce talisman sur mon front… Même si je le retire, il ne se passe rien.\nSeulement, quand je le porte, je me sens rassurée…\nComme si rien n'avait changé depuis autrefois… C'est l'impression que j'ai."}
+{"id":1498776,"jp":"もしも、星臨大人に出会わなければ……\nわたくしは、つぎの一歩を踏み出すまでに、\nもっとずっと長い時間を必要としたかもしれません。\n\n長い歳月をひとりで過ごしたあとに、\nこんな形で新たな生命を得られたこと……\n心から感謝しております。","fr":"Si je n'avais pas rencontré le Vénérable Enfant des étoiles…\nil m'aurait peut-être fallu bien plus longtemps\navant de faire mon prochain pas.\n\nAprès de longues années passées seule,\navoir pu obtenir une nouvelle vie de cette façon…\nje vous en suis reconnaissante du fond du cœur."}
+{"id":1498777,"jp":"記憶がない？……そう、なのですね。\nすこし厚かましいかもしれませんが、わたくしは……\n星臨大人の記憶の器となって、\nすべてを覚えておくお役目を担えたら、うれしいです……","fr":"Vous n'avez pas de souvenirs ?… Je vois.\nC'est peut-être un peu présomptueux, mais moi…\nje serais heureuse de devenir le réceptacle des souvenirs du Vénérable Enfant des étoiles\net d'assumer la charge de me souvenir de tout…"}
 {"id":1498780,"jp":"わ、わたくしは覚えております……\nあなたさまに隠しごともいたしません。","fr":"Je… je m'en souviens…\nJe ne vous cacherai rien."}
 {"id":1498781,"jp":"え、え……うわわっ！\n霊符よ、力を……！は、破邪顕正っ！\nこ、これで、大丈夫です……","fr":"H-hein… ouah !\nTalisman, prête-moi ta force… ! Que le mal soit chassé et la justice rétablie !\nÇ-ça devrait aller maintenant."}
+{"id":1498782,"jp":"えっ……ごあいさつ？なら、ちょっと改まったほうがいいよね！\n……コホン！こんにちは、冒険者ギルドの看板娘！メイプルだよ！\nなにかお手伝いできることはあるかな？\n\n……って、あれれ～？なんか間違っちゃった！？","fr":"Hein… une présentation ? Alors il vaut mieux être un peu plus formelle, non !\n…Hem ! Bonjour, la mascotte de la Guilde des aventuriers ! Je suis Maple !\nIl y a quelque chose que je peux faire pour toi ?\n\n…Attends, héééé~ ? Il y a eu une erreur quelque part !?"}
 {"id":1498783,"jp":"準備できた？はじまるよ～ん！","fr":"Tout est prêt ? C'est parti !"}
 {"id":1498784,"jp":"にゃんにゃんパワーチャージ！","fr":"Recharge du pouvoir nya-nya !"}
 {"id":1498785,"jp":"ん～にゃにゃ。どう？かわいいと思ったでしょ？","fr":"Mmm… Nya-nya. Alors ? C'était adorable, hein ?"}
+{"id":1498786,"jp":"ふふーん♪メイプルのこと、気になるんだぁ～\nあのね～ラッキーカラーは青！好きなものはゼリー！\nそんでもって、特技はクロディーメちゃんのマ〜ネ♪\nこれから、いっぱいお話しようね！","fr":"Hé hé ♪ Alors comme ça, Maple t'intrigue~\nDis~ ma couleur porte-bonheur, c'est le bleu ! Ce que j'aime, c'est la gelée !\nEt mon talent spécial, c'est l'imitation de Clodime ♪\nOn va beaucoup discuter, à partir de maintenant !"}
+{"id":1498789,"jp":"はあ〜あ……ガイドはみんなに平等でなきゃいけないのにど〜してもあの人のことが気になっちゃう……！もう！これじゃ仕事に集中できないにゃ～","fr":"Haaah… Un guide doit traiter tout le monde de la même façon, mais je n'arrive pas à m'empêcher de penser à cette personne… ! Zut ! Comme ça, je n'arrive pas à me concentrer sur mon travail, nya~"}
+{"id":1498791,"jp":"あのね、遠い国には『アイドル』っていう\nキラキラした子たちがいるんだって！\n\nもしも、メイプルがそんな国に生まれてたらさ、\nメイプルもそういうキラキラした存在になっちゃてたかな……！？\nだってメイプルって、すっご〜くかわいいでしょ？えへっ！","fr":"Dis, dis, il paraît que dans un pays lointain, il y a\ndes filles qui brillent, qu'on appelle « idoles » !\n\nSi Maple était née dans un pays comme ça,\nest-ce que Maple serait devenue une étoile scintillante, elle aussi… ?!\nParce que Maple est trop mignonne, non ? Hihi !"}
 {"id":1498792,"jp":"メイプルのこと、もっと知りたくなっちゃった？","fr":"Envie d'en savoir plus sur Maple ?"}
 {"id":1498793,"jp":"元気！集まれ～！\nきらきら！\nえへっ、ばっちり～","fr":"Que toute la vitalité se rassemble !\nBrille, brille !\nHéhé, parfait !"}
 {"id":1498795,"jp":"はぁい、ペイペイはここにいます。\n駆けまわったりしませんから！","fr":"Oui, Peipei est là.\nPeipei ne va pas courir partout !"}
 {"id":1498796,"jp":"ほっほっ、はっ……！\nいつでも呼んでください！","fr":"Hop, hop, ha… !\nOn peut compter sur moi à tout moment !"}
 {"id":1498797,"jp":"はっ！えい！\nおっきな包子、おひとつどうですか？","fr":"Ha ! Ya !\nUn gros baozi, ça tente ?"}
+{"id":1498798,"jp":"取り出してすぐの糖葫芦は熱すぎるけど、\n置いておいたら溶けちゃいます。\n\nだから手に持って、目を閉じて、10秒数えてから食べるのが一番……\n\n行きますよ、いーち、にー、さーん……\nあっ、食べられちゃいましたぁ……","fr":"Le tanghulu, juste après être sorti, il est trop chaud,\nmais si on le laisse là, il fond.\n\nAlors le mieux, c'est de le tenir, de fermer les yeux, de compter jusqu'à 10 avant de le manger…\n\nOn y va, unnn, deuuux, troiiis…\nAh, il s'est fait manger…"}
+{"id":1498800,"jp":"ペイペイはパミーだから、子ども扱いする方もいるんですよ。\n悪い方ではないですが、ペイペイにほんとーのことを隠そうとするんです。\n\nだけど、星臨者さんはペイペイのことを子ども扱いしないで\nちゃんと見てくれます。星臨者さんはいいひとです。","fr":"Peipei est une Pammy, alors certaines personnes la traitent comme une enfant.\nCe ne sont pas de mauvaises personnes, mais elles essaient de cacher la vraaaie vérité à Peipei.\n\nMais l'Enfant des étoiles ne traite pas Peipei en enfant\net la regarde vraiment. L'Enfant des étoiles est quelqu'un de bien."}
 {"id":1498801,"jp":"星臨者さんと、もっともっと遊びたいです。\n時間があれば、一日中……\nでも、吉逸楼を放っておけないので……ううぅ。","fr":"Peipei veut jouer encore, encore plus avec l'Enfant des étoiles.\nS'il y avait le temps, toute la journée…\nMais Peipei ne peut pas laisser la maison Jiyi à l'abandon… uuuh."}
 {"id":1498804,"jp":"ペイペイがお話ししましょうか？","fr":"Peipei peut raconter l'histoire ?"}
 {"id":1498805,"jp":"陰陽の気よ、集え――\n万法、破れたり――！\nふぅ。","fr":"Souffles du yin et du yang, rassemblez-vous…\nQue tous les arts occultes soient brisés !\nOuf."}
