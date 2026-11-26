@@ -292,3 +292,7 @@ Lv.	Lv.	Niv.	ui	approved	« Niv. 30 », « Niv. max ».
 防御貫通	DEF Penetration	Pénétration de DÉF	stat	approved	
 継続ダメージ	DoT	DGT sur la durée	stat	approved	
 キボ特殊スキル	Kibo Special Skill	compétence spéciale de Kibo	mechanic	approved	
+弦位	Chord Rank	Rang de corde	mechanic	approved	Rangs d'affinité d'un personnage. Distinct de 弦音 (Note de corde).
+特上の	Premium	de premier choix	rarity	approved	Palier entre « supérieur » et « d'exception ».
+冒険者協会	Adventurers' Association	Guilde des aventuriers	faction	approved	Même organisation que 冒険者ギルド.
+古代方術	Ancient Arts	arts mystiques antiques	lore	approved	
