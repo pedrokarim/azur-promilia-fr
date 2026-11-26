@@ -37614,6 +37614,7 @@
 {"id":1561387,"jp":"セット","fr":"Set"}
 {"id":1561388,"jp":"品質","fr":"Qualité"}
 {"id":1561389,"jp":"緑","fr":"Vert"}
+{"id":1561390,"jp":"対象の装備が存在しません。","fr":"L'équipement désigné n'existe pas."}
 {"id":1561392,"jp":"試練の順位","fr":"Classement de l'épreuve"}
 {"id":1561393,"jp":"エンディングへ","fr":"Vers la fin"}
 {"id":1561394,"jp":"最高完了ウェーブ","fr":"Vague max terminée"}
@@ -37622,13 +37623,17 @@
 {"id":1561398,"jp":"スコア倍率","fr":"Multiplicateur de score"}
 {"id":1561399,"jp":"現在のスコア","fr":"Score actuel"}
 {"id":1561400,"jp":"編成プリセット","fr":"Préréglages d'équipe"}
+{"id":1561401,"jp":"異なる修行方針のエンディングをクリアする","fr":"Atteindre les dénouements de différentes orientations d'Entraînement"}
 {"id":1561402,"jp":"本日","fr":"Aujourd'hui"}
 {"id":1561403,"jp":"行動力","fr":"Points d'action"}
+{"id":1561404,"jp":"まだ縁を持っていません。","fr":"Vous n'avez encore tissé aucun lien."}
 {"id":1561405,"jp":"スタミナ","fr":"Endurance"}
 {"id":1561406,"jp":"縁を所持","fr":"Rencontres possédées"}
 {"id":1561407,"jp":"アニメーション加速","fr":"Accélération des animations"}
 {"id":1561408,"jp":"試験日","fr":"Jour d'examen"}
+{"id":1561409,"jp":"行動力が上限まで回復しました。","fr":"Les points d'action ont été entièrement restaurés."}
 {"id":1561410,"jp":"本日の修行の成果……","fr":"Résultats de l'entraînement du jour…"}
+{"id":1561411,"jp":"解放済み・戦闘スキップ","fr":"Débloqué : passer les combats"}
 {"id":1561413,"jp":"試験に不合格でした。","fr":"Examen raté."}
 {"id":1561415,"jp":"初期キャラクター","fr":"Personnage de départ"}
 {"id":1561416,"jp":"ハイスコア","fr":"Meilleur score"}
@@ -37644,34 +37649,79 @@
 {"id":1561428,"jp":"前提クエスト","fr":"Quête préalable"}
 {"id":1561430,"jp":"飛空艇の廃墟を調べる","fr":"Examiner les ruines du vaisseau volant"}
 {"id":1561432,"jp":"{0}が大量発生中","fr":"Prolifération de {0}"}
+{"id":1561438,"jp":"訓練完了後、練習相手のキボとはお別れとなります。","fr":"Une fois l'entraînement terminé, vous devrez faire vos adieux au Kibo partenaire d'entraînement."}
 {"id":1561439,"jp":"練習相手のキボを選択","fr":"Choisir un Kibo partenaire d'entraînement"}
 {"id":1561441,"jp":"資質","fr":"Aptitude"}
 {"id":1561442,"jp":"訓練不可","fr":"Entraînement impossible"}
 {"id":1561443,"jp":"必ず成功","fr":"Réussite garantie"}
+{"id":1561445,"jp":"練習相手のキボを選択してください。","fr":"Veuillez sélectionner un Kibo partenaire d'entraînement."}
+{"id":1561446,"jp":"消費アイテムが不足しています。","fr":"Objets consommables insuffisants."}
+{"id":1561448,"jp":"キボの訓練に成功しました。","fr":"L'entraînement du Kibo a réussi."}
+{"id":1561449,"jp":"キボの訓練に失敗しました。","fr":"L'entraînement du Kibo a échoué."}
+{"id":1561450,"jp":"キボが練習相手としての役目を終えました。","fr":"Le Kibo a rempli son rôle de partenaire d'entraînement."}
+{"id":1561451,"jp":"キボの練習相手としての役目が終了しました。","fr":"Le rôle de partenaire d'entraînement du Kibo a pris fin."}
 {"id":1561453,"jp":"現在のレベル：","fr":"Niveau actuel :"}
 {"id":1561454,"jp":"セット【{0}】","fr":"Set [{0}]"}
 {"id":1561455,"jp":"配色を保存","fr":"Enregistrer le jeu de couleurs"}
 {"id":1561456,"jp":"カラーカスタマイズ","fr":"Personnalisation des couleurs"}
+{"id":1561457,"jp":"販売終了まで：{0}日","fr":"Fin de la vente dans : {0} j"}
+{"id":1561462,"jp":"ステラカードが不足しています。調整してください。","fr":"Cartes Stella insuffisantes. Veuillez ajuster votre sélection."}
+{"id":1561463,"jp":"必ず星彩または異彩のキボが孵化する","fr":"Garantit l'éclosion d'un Kibo étoilé ou Variante"}
+{"id":1561464,"jp":"このステラカードは未獲得のため、設定できません。","fr":"Impossible de configurer cette carte Stella, car vous ne l'avez pas encore obtenue."}
+{"id":1561466,"jp":"ステラカードが不足しているため使用できません。","fr":"Cartes Stella insuffisantes pour effectuer cette action."}
+{"id":1561470,"jp":"まだこのステラカードを獲得していません。","fr":"Vous n'avez pas encore obtenu cette carte Stella."}
+{"id":1561471,"jp":"現在の挑戦をやり直しますか？","fr":"Recommencer le défi actuel ?"}
+{"id":1561475,"jp":"確認したいキャラクターを選択してください。","fr":"Veuillez sélectionner le personnage à consulter."}
+{"id":1561476,"jp":"確認したいアニマを選択してください。","fr":"Veuillez sélectionner l'Anima à consulter."}
+{"id":1561477,"jp":"キャラクター{0}を選択しますか？","fr":"Sélectionner le personnage {0} ?"}
+{"id":1561478,"jp":"アニマ{0}を選択しますか？","fr":"Sélectionner l'Anima {0} ?"}
 {"id":1561479,"jp":"指向観測","fr":"Observation ciblée"}
 {"id":1561481,"jp":"指向観測進捗","fr":"Progression de l'observation ciblée"}
 {"id":1561482,"jp":"推奨Lv.%s","fr":"Niv. rec. %s"}
+{"id":1561483,"jp":"推奨レベル：Lv.%s","fr":"Niveau recommandé : Niv. %s"}
+{"id":1561484,"jp":"トーテムの上限：{0}/{1}","fr":"Limite de totems : {0}/{1}"}
 {"id":1561487,"jp":"展示キボを変更","fr":"Changer le Kibo exposé"}
+{"id":1561488,"jp":"キボのスターリンク進捗","fr":"Progression du Lien stellaire des Kibo"}
+{"id":1561489,"jp":"タップしてホイールを編集","fr":"Appuyez pour modifier la roue"}
+{"id":1561490,"jp":"この種類の騎乗キボは所持していません。","fr":"Vous ne possédez aucun Kibo de ce type de monture."}
+{"id":1561491,"jp":"この種類の乗りものは所持していません。","fr":"Vous ne possédez aucune monture de ce type."}
+{"id":1561492,"jp":"マウントホイールを編集","fr":"Modifier la roue des montures Kibo"}
+{"id":1561493,"jp":"左側のリストから交代するキボを選択","fr":"Sélectionnez un Kibo de remplacement dans la liste de gauche"}
+{"id":1561494,"jp":"乗りものホイールを編集","fr":"Modifier la roue des véhicules"}
+{"id":1561495,"jp":"左側のリストから交代する乗りものを選択","fr":"Sélectionnez un véhicule de remplacement dans la liste de gauche"}
 {"id":1561496,"jp":"総ダメージ","fr":"DGT totaux"}
 {"id":1561497,"jp":"ボスダメージ","fr":"DGT au boss"}
 {"id":1561498,"jp":"現在のダメージ","fr":"DGT actuels"}
 {"id":1561499,"jp":"消費：","fr":"Coût :"}
 {"id":1561500,"jp":"戦闘統計","fr":"Statistiques de combat"}
+{"id":1561502,"jp":"現在所持している【{0}】星律","fr":"Rythmes des étoiles 【{0}】 actuellement possédés"}
+{"id":1561503,"jp":"このエリアの星律をすべて収集しました。","fr":"Vous avez collecté tous les Rythmes des étoiles de cette zone."}
 {"id":1561504,"jp":"すべて提出","fr":"Tout remettre"}
 {"id":1561505,"jp":"段階{0}","fr":"Stade {0}"}
+{"id":1561506,"jp":"このイベントは現在開催されていません。","fr":"Cet événement n'est pas actuellement disponible."}
+{"id":1561507,"jp":"このイベントは終了しました。","fr":"Cet événement est terminé."}
+{"id":1561508,"jp":"シェアまたは保存することで報酬を獲得できます。","fr":"Partagez ou enregistrez pour obtenir des récompenses."}
 {"id":1561509,"jp":"名前の表示","fr":"Afficher les noms"}
+{"id":1561510,"jp":"キボを編成していません。","fr":"Aucun Kibo dans la composition."}
 {"id":1561511,"jp":"ドゥルラン","fr":"Dur Run"}
+{"id":1561513,"jp":"{0}秒以内にすべてのドゥルを連れ戻す","fr":"Ramener tous les Dur en moins de {0} s"}
 {"id":1561514,"jp":"マウントの試練・奔騰","fr":"Épreuve de monture : Élan"}
+{"id":1561516,"jp":"{0}秒以内にすべてのオーブを回収する","fr":"Récupérer toutes les sphères en moins de {0} s"}
 {"id":1561517,"jp":"マウントの試練・翔破","fr":"Épreuve de monture : Envol"}
 {"id":1561519,"jp":"訓練を手伝えるキボ","fr":"Kibo pouvant aider à l'entraînement"}
+{"id":1561520,"jp":"潜在能力【{0}】の訓練に参加できるキボ","fr":"Kibo pouvant participer à l'entraînement du potentiel 【{0}】"}
+{"id":1561522,"jp":"訓練するステータスを選択してください。","fr":"Veuillez sélectionner la statistique à entraîner."}
+{"id":1561523,"jp":"ステータスを選択して潜在能力を訓練する","fr":"Sélectionner une statistique pour entraîner son potentiel"}
 {"id":1561525,"jp":"ピックアップ祈願","fr":"Vœu en vedette"}
+{"id":1561526,"jp":"アニマを1つ選択してピックアップ祈願を行う","fr":"Sélectionner 1 Anima pour effectuer une invocation vedette"}
+{"id":1561528,"jp":"使用するステラカードを選択","fr":"Sélectionner la carte Stella à utiliser"}
 {"id":1561529,"jp":"デフォルトに設定","fr":"Définir par défaut"}
+{"id":1561530,"jp":"飛行艇はスキルを発動できません。","fr":"Les compétences sont inutilisables à bord du dirigeable."}
 {"id":1561531,"jp":"作成して追跡","fr":"Fabriquer et suivre"}
 {"id":1561532,"jp":"作成","fr":"Fabriquer"}
+{"id":1561533,"jp":"放牧中のキボは展示できません。","fr":"Les Kibo au pâturage ne peuvent pas être exposés."}
+{"id":1561534,"jp":"派遣中のキボは展示できません。","fr":"Les Kibo en Affectation ne peuvent pas être exposés."}
+{"id":1561535,"jp":"このキボは別の場所に展示中です。移動しますか？","fr":"Ce Kibo est déjà exposé ailleurs. Le déplacer ?"}
 {"id":1561536,"jp":"出場展示","fr":"Présentation de participation"}
 {"id":1561537,"jp":"現在の展示","fr":"Exposition actuelle"}
 {"id":1561538,"jp":"展示中","fr":"Exposé"}
@@ -37679,6 +37729,16 @@
 {"id":1561543,"jp":"まもなく出現","fr":"Apparition imminente"}
 {"id":1561544,"jp":"大量発生","fr":"Prolifération"}
 {"id":1561545,"jp":"キボが大量発生中","fr":"Prolifération de Kibo"}
+{"id":1561548,"jp":"輝く個体の出現確率アップ・小","fr":"Légère hausse du taux d'apparition des Kibo brillants"}
+{"id":1561549,"jp":"輝く個体の出現確率アップ・中","fr":"Hausse modérée du taux d'apparition des Kibo brillants"}
+{"id":1561550,"jp":"輝く個体の出現確率アップ・大","fr":"Forte hausse du taux d'apparition des Kibo brillants"}
+{"id":1561551,"jp":"大量発生していたキボは姿を消した","fr":"Les Kibo apparus en grand nombre ont disparu."}
+{"id":1561553,"jp":"大量出現カウントダウン","fr":"Compte à rebours avant l'apparition massive"}
+{"id":1561554,"jp":"星脈の渦・キボは1分後、世界のどこかに集まります。","fr":"Vortex de veine stellaire - Des Kibo se rassembleront quelque part dans le monde dans 1 min."}
+{"id":1561555,"jp":"現在この地区の共鳴の鈴を所持していません。","fr":"Vous ne possédez actuellement aucune cloche de résonance pour cette région."}
+{"id":1561556,"jp":"必要な素材を所持しています。","fr":"Vous possédez les matériaux requis."}
+{"id":1561558,"jp":"フィールドを探索し続けると報酬が解放されます。","fr":"Poursuivez l'exploration pour débloquer des récompenses."}
+{"id":1561559,"jp":"同行者のステータスが上昇","fr":"Hausse des statistiques du compagnon"}
 {"id":1561560,"jp":"同行者","fr":"Compagnon"}
 {"id":1561561,"jp":"提供確率","fr":"Probabilités d'obtention"}
 {"id":1561562,"jp":"履歴","fr":"Historique"}
@@ -37686,6 +37746,7 @@
 {"id":1561564,"jp":"詳細説明","fr":"Description détaillée"}
 {"id":1561565,"jp":"確率詳細","fr":"Détail des probabilités"}
 {"id":1561567,"jp":"リセットまで：","fr":"Réinitialisation dans :"}
+{"id":1561568,"jp":"リセットまで残り時間：","fr":"Temps restant avant réinitialisation :"}
 {"id":1561569,"jp":"次の出征後の返済額：","fr":"Remboursement après la prochaine expédition :"}
 {"id":1561570,"jp":"遊歴終了","fr":"Fin du périple"}
 {"id":1561571,"jp":"機縁","fr":"Heureux hasard"}
@@ -37699,6 +37760,7 @@
 {"id":1561582,"jp":"内金","fr":"Acompte"}
 {"id":1561583,"jp":"残金","fr":"Solde"}
 {"id":1561584,"jp":"狩猟失敗","fr":"Chasse échouée"}
+{"id":1561585,"jp":"大道芸終了。お茶を飲んでリフレッシュしましょう！","fr":"Le spectacle de rue est terminé. Prenons un thé pour nous rafraîchir !"}
 {"id":1561586,"jp":"下位狩猟","fr":"Chasse de rang inférieur"}
 {"id":1561587,"jp":"上位狩猟","fr":"Chasse de rang supérieur"}
 {"id":1561588,"jp":"マスター狩猟","fr":"Chasse de maître"}
@@ -37708,10 +37770,14 @@
 {"id":1561592,"jp":"追跡を続ける","fr":"Continuer la poursuite"}
 {"id":1561593,"jp":"塗山小玉に追いつく","fr":"Rattraper Tushan Xiaoyu"}
 {"id":1561594,"jp":"寒悠悠を追いかける","fr":"Courir après Han Youyou"}
+{"id":1561595,"jp":"開始地点に戻って再挑戦しますか？","fr":"Revenir au point de départ et réessayer ?"}
 {"id":1561596,"jp":"チャレンジをスキップ","fr":"Passer le défi"}
 {"id":1561598,"jp":"ライカウモを討伐する","fr":"Vaincre Raikaumo"}
+{"id":1561599,"jp":"前提クエストを完了してイベントを解放","fr":"Terminer la quête prérequise pour débloquer l'événement"}
 {"id":1561600,"jp":"早期体験可能","fr":"Accès anticipé disponible"}
 {"id":1561601,"jp":"直ちに解放","fr":"Débloquer immédiatement"}
+{"id":1561602,"jp":"この属性は最大レベルです。","fr":"Cet élément a atteint son niveau maximal."}
+{"id":1561603,"jp":"スパイトホーンを終点まで誘導する","fr":"Guider Spitehorn jusqu'à destination"}
 {"id":1561604,"jp":"呼び戻す","fr":"Rappeler"}
 {"id":1561605,"jp":"生産キュー","fr":"File de production"}
 {"id":1561606,"jp":"画面を閉じる","fr":"Fermer l'écran"}
@@ -37725,6 +37791,7 @@
 {"id":1561614,"jp":"最小/最大生産数","fr":"Production min./max."}
 {"id":1561615,"jp":"左を選択","fr":"Choisir à gauche"}
 {"id":1561616,"jp":"右を選択","fr":"Choisir à droite"}
+{"id":1561617,"jp":"マップを上下にスクロール","fr":"Faire défiler la carte vers le haut ou le bas"}
 {"id":1561618,"jp":"現在地に戻る","fr":"Revenir à la position actuelle"}
 {"id":1561619,"jp":"リストから選択","fr":"Choisir dans la liste"}
 {"id":1561620,"jp":"マップから選択","fr":"Choisir sur la carte"}
@@ -37739,11 +37806,13 @@
 {"id":1561629,"jp":"装備切り替え","fr":"Changer d'équipement"}
 {"id":1561630,"jp":"切り替えキャンセル","fr":"Annuler le changement"}
 {"id":1561631,"jp":"バッグに切り替え","fr":"Passer au sac"}
+{"id":1561632,"jp":"選択して配置を入れ替え","fr":"Sélectionner pour intervertir les positions"}
 {"id":1561633,"jp":"素材を確認","fr":"Voir les matériaux"}
 {"id":1561634,"jp":"素早く回避する","fr":"Esquiver vite"}
 {"id":1561635,"jp":"報酬詳細を確認","fr":"Voir les détails des récompenses"}
 {"id":1561636,"jp":"すべての種を預ける","fr":"Déposer toutes les graines"}
 {"id":1561637,"jp":"種を半分預ける","fr":"Déposer la moitié des graines"}
+{"id":1561638,"jp":"種を預けるパネルを展開","fr":"Ouvrir le panneau de dépôt des graines"}
 {"id":1561639,"jp":"倉庫に切り替え","fr":"Passer à l'entrepôt"}
 {"id":1561640,"jp":"種を取り出す","fr":"Sortir des graines"}
 {"id":1561641,"jp":"選択中","fr":"Sélection en cours"}
@@ -37751,15 +37820,19 @@
 {"id":1561643,"jp":"キボを入れ替え","fr":"Échanger de Kibo"}
 {"id":1561644,"jp":"キボを外す","fr":"Retirer le Kibo"}
 {"id":1561645,"jp":"チーム編成画面に戻る","fr":"Retour à la composition d'équipe"}
+{"id":1561646,"jp":"プレゼント個数の最小/最大","fr":"Quantité min./max. de cadeaux"}
 {"id":1561647,"jp":"目標切り替え","fr":"Changer de cible"}
+{"id":1561648,"jp":"報酬リストをスクロール","fr":"Faire défiler la liste des récompenses"}
 {"id":1561649,"jp":"アイテムの詳細を確認","fr":"Voir les détails de l'objet"}
 {"id":1561650,"jp":"報酬の確認を終了する","fr":"Terminer la vérification des récompenses"}
+{"id":1561651,"jp":"プレイヤーの詳細を見る","fr":"Consulter les détails du joueur"}
 {"id":1561652,"jp":"最小/最大交換数","fr":"Quantité d'échange min./max."}
 {"id":1561653,"jp":"最小/最大購入数","fr":"Achat min./max."}
 {"id":1561654,"jp":"クエストへ向かう","fr":"Aller à la quête"}
 {"id":1561655,"jp":"アニマフレームを回転","fr":"Faire pivoter le cadre d'Anima"}
 {"id":1561656,"jp":"ズーム","fr":"Zoom"}
 {"id":1561657,"jp":"左右回転/上下移動","fr":"Rotation gauche/droite / Déplacement haut/bas"}
+{"id":1561658,"jp":"アイテムの最小/最大数","fr":"Quantité min./max. d'objets"}
 {"id":1561659,"jp":"最大","fr":"Max"}
 {"id":1561660,"jp":"最小","fr":"Min"}
 {"id":1561661,"jp":"メール切り替え","fr":"Changer de courrier"}
@@ -37768,6 +37841,8 @@
 {"id":1561664,"jp":"装備詳細を確認","fr":"Voir les détails de l'équipement"}
 {"id":1561665,"jp":"キボ移動","fr":"Déplacer le Kibo"}
 {"id":1561666,"jp":"スクロールして確認","fr":"Faire défiler pour voir"}
+{"id":1561667,"jp":"キャラクター/キボ切り替え","fr":"Basculer entre personnage et Kibo"}
+{"id":1561668,"jp":"キャラクター/キボを編集","fr":"Modifier le personnage/Kibo"}
 {"id":1561669,"jp":"展示枠切り替え","fr":"Changer d'emplacement d'exposition"}
 {"id":1561670,"jp":"キャラクター詳細","fr":"Détails du personnage"}
 {"id":1561671,"jp":"キャラクターを外す","fr":"Retirer le personnage"}
@@ -37778,10 +37853,12 @@
 {"id":1561676,"jp":"編成選択","fr":"Choix de l'équipe"}
 {"id":1561677,"jp":"チーム編成に戻る","fr":"Retour à la composition d'équipe"}
 {"id":1561678,"jp":"装備詳細画面を閉じる","fr":"Fermer les détails de l'équipement"}
+{"id":1561679,"jp":"キャラクターを選択して入居させる","fr":"Sélectionner un personnage à loger"}
 {"id":1561680,"jp":"リンクを開く","fr":"Ouvrir le lien"}
 {"id":1561681,"jp":"入手方法を確認","fr":"Voir comment l'obtenir"}
 {"id":1561682,"jp":"小屋を開く","fr":"Ouvrir l'enclos"}
 {"id":1561683,"jp":"切り替えスイッチ","fr":"Interrupteur"}
+{"id":1561684,"jp":"ショートカットホイール設定","fr":"Paramètres de la roue de raccourcis"}
 {"id":1561685,"jp":"選択して分解","fr":"Sélectionner pour démanteler"}
 {"id":1561686,"jp":"分解キャンセル","fr":"Annuler le démantèlement"}
 {"id":1561687,"jp":"増加","fr":"Augmenter"}
@@ -37805,12 +37882,15 @@
 {"id":1561705,"jp":"キャラクター操作","fr":"Contrôle du personnage"}
 {"id":1561706,"jp":"カーソル移動","fr":"Déplacer le curseur"}
 {"id":1561707,"jp":"トリミング範囲を移動","fr":"Déplacer la zone de recadrage"}
+{"id":1561708,"jp":"トリミング範囲を拡大/縮小","fr":"Agrandir/réduire la zone de recadrage"}
 {"id":1561709,"jp":"ステッカーを選択","fr":"Choisir l'autocollant"}
 {"id":1561710,"jp":"ステッカーを移動","fr":"Déplacer l'autocollant"}
+{"id":1561711,"jp":"ステッカーを拡大/縮小","fr":"Agrandir/réduire l'autocollant"}
 {"id":1561712,"jp":"ステッカーを追加","fr":"Ajouter un autocollant"}
 {"id":1561713,"jp":"テキストを編集","fr":"Modifier le texte"}
 {"id":1561714,"jp":"テキストを移動","fr":"Déplacer le texte"}
 {"id":1561715,"jp":"テキストを拡大/縮小","fr":"Agrandir/réduire le texte"}
+{"id":1561716,"jp":"装備スロットに切り替える","fr":"Passer à l'emplacement d'équipement"}
 {"id":1561717,"jp":"キボの出撃","fr":"Déployer le Kibo"}
 {"id":1561718,"jp":"キボの詳細を閉じる","fr":"Fermer les détails du Kibo"}
 {"id":1561719,"jp":"パレット切替","fr":"Changer de palette"}
@@ -37818,17 +37898,31 @@
 {"id":1561721,"jp":"ズームアウト","fr":"Zoom arrière"}
 {"id":1561722,"jp":"キボを切り替える","fr":"Changer de Kibo"}
 {"id":1561723,"jp":"回転させる","fr":"Faire pivoter"}
+{"id":1561724,"jp":"カーソルを押したままドラッグ","fr":"Maintenir enfoncé et faire glisser le curseur"}
 {"id":1561725,"jp":"素早くスクロール","fr":"Défilement rapide"}
+{"id":1561726,"jp":"カーソルを押したままドラッグ：小玉の毛をとかす","fr":"Maintenir enfoncé et faire glisser le curseur : brosser le pelage de Xiaoyu"}
+{"id":1561727,"jp":"パック画面が開いています。","fr":"L'écran des packs est ouvert."}
 {"id":1561728,"jp":"今期のバフ","fr":"Renforcement de la saison"}
 {"id":1561729,"jp":"マーカーをすべて選択","fr":"Sélectionner tous les marqueurs"}
 {"id":1561731,"jp":"上昇率順に並べ替え","fr":"Trier par taux de croissance"}
+{"id":1561732,"jp":"左側で売却する商品を選択してください。","fr":"Veuillez sélectionner les articles à vendre dans la liste de gauche."}
 {"id":1561733,"jp":"売却","fr":"Vendre"}
 {"id":1561734,"jp":"予想収入","fr":"Revenu estimé"}
 {"id":1561735,"jp":"生息地","fr":"Habitat"}
 {"id":1561736,"jp":"ログアップロード","fr":"Envoyer le journal"}
+{"id":1561739,"jp":"カスタマーサポートに連絡","fr":"Contacter le service client"}
 {"id":1561740,"jp":"アップロード","fr":"Envoyer"}
+{"id":1561741,"jp":"ログをアップロード中、しばらくお待ちください。","fr":"Envoi des journaux en cours. Veuillez patienter."}
+{"id":1561742,"jp":"ログのアップロードに成功しました。","fr":"Les journaux ont été envoyés avec succès."}
+{"id":1561745,"jp":"トーテムを倉庫に入れても、効果は有効です。","fr":"Les effets des totems restent actifs même lorsqu'ils sont placés dans l'entrepôt."}
+{"id":1561751,"jp":"{0}が目標の変更を拒否しました","fr":"{0} a refusé le changement d'objectif"}
+{"id":1561752,"jp":"キボ小屋が満員です。整理を行ってください。","fr":"L'Enclos à Kibo est plein. Veuillez libérer de la place."}
+{"id":1561754,"jp":"クロディーメを{0}匹、正しく数える","fr":"Compter correctement {0} Clodime"}
+{"id":1561755,"jp":"すべてのクロディーメを数える","fr":"Compter tous les Clodime"}
+{"id":1561756,"jp":"クロディーメを全体の半分まで数える","fr":"Compter la moitié des Clodime"}
 {"id":1561757,"jp":"スキル強化","fr":"Renforcement de compétence"}
 {"id":1561758,"jp":"源脈ランクアップ","fr":"Montée de rang de veine source"}
+{"id":1561759,"jp":"今回消費する追加報酬回数：{0}","fr":"Tentatives de récompenses supplémentaires consommées cette fois-ci : {0}"}
 {"id":1561760,"jp":"ミィティと合流する","fr":"Retrouver Mitty"}
 {"id":1561761,"jp":"廃墟からの脱出","fr":"Fuite des ruines"}
 {"id":1561762,"jp":"通路を構築","fr":"Construire le passage"}
@@ -37841,6 +37935,9 @@
 {"id":1561773,"jp":"装飾はありません。","fr":"Aucune décoration."}
 {"id":1561774,"jp":"装飾チェンジ","fr":"Changer la décoration"}
 {"id":1561775,"jp":"専用装飾","fr":"Décoration exclusive"}
+{"id":1561776,"jp":"修行に必要な資金が不足しています。","fr":"Fonds insuffisants pour l'Entraînement."}
+{"id":1561777,"jp":"保存すると報酬を獲得できます。","fr":"Enregistrez pour obtenir des récompenses."}
+{"id":1561778,"jp":"シェアすると報酬を獲得できます。","fr":"Partagez pour obtenir des récompenses."}
 {"id":1561780,"jp":"今すぐ購入 {0}","fr":"Acheter maintenant {0}"}
 {"id":1561781,"jp":"潜在能力","fr":"Potentiel"}
 {"id":1561782,"jp":"変更","fr":"Modifier"}
@@ -37852,63 +37949,102 @@
 {"id":1561789,"jp":"ランダムアニマ","fr":"Anima aléatoire"}
 {"id":1561790,"jp":"キャラクター獲得","fr":"Personnage obtenu"}
 {"id":1561791,"jp":"アニマ獲得","fr":"Anima obtenu"}
+{"id":1561792,"jp":"キボ小屋――絞り込み中","fr":"Enclos à Kibo - Filtrage en cours"}
+{"id":1561793,"jp":"絞り込んだ職種のキボを所持していません。","fr":"Vous ne possédez aucun Kibo du type de métier sélectionné."}
+{"id":1561794,"jp":"「{0}」から退出しますか？","fr":"Quitter « {0} » ?"}
+{"id":1561795,"jp":"現在のチーム編成をすべて解除しますか？","fr":"Vider entièrement la composition d'équipe actuelle ?"}
 {"id":1561796,"jp":"編成をクリア","fr":"Vider l'équipe"}
 {"id":1561799,"jp":"大道芸","fr":"Spectacle de rue"}
+{"id":1561800,"jp":"居合修行施設のレベルアップ","fr":"Améliorer l'installation d'Entraînement au Iaï"}
+{"id":1561801,"jp":"心眼修行施設のレベルアップ","fr":"Améliorer l'installation d'Entraînement à l'Œil intérieur"}
+{"id":1561802,"jp":"返し技修行施設のレベルアップ","fr":"Améliorer l'installation d'Entraînement à la Riposte"}
+{"id":1561803,"jp":"制敵修行施設のレベルアップ","fr":"Améliorer l'installation d'Entraînement à la Neutralisation"}
 {"id":1561804,"jp":"初級","fr":"Débutant"}
 {"id":1561805,"jp":"最高級","fr":"Premier choix"}
+{"id":1561806,"jp":"1日の購入上限に達しました。","fr":"Vous avez atteint la limite quotidienne d'achat."}
+{"id":1561807,"jp":"千代の修行方針を選択してください。","fr":"Veuillez sélectionner l'orientation d'Entraînement de Chiyo."}
 {"id":1561810,"jp":"凱旋日","fr":"Jour du triomphe"}
+{"id":1561811,"jp":"準備万端。出征を迎えましょう！","fr":"Tout est prêt. Partons en expédition !"}
 {"id":1561812,"jp":"出征の祭典へ向かう","fr":"Aller à la fête de l'expédition"}
+{"id":1561813,"jp":"出征戦闘チームは変更できません。","fr":"La composition de combat de l'expédition ne peut pas être modifiée."}
 {"id":1561814,"jp":"次の出征レベル","fr":"Niveau d'expédition suivant"}
 {"id":1561816,"jp":"能力アップ","fr":"Hausse de capacités"}
 {"id":1561817,"jp":"物語の展開を選択","fr":"Choisir le déroulement de l'histoire"}
 {"id":1561818,"jp":"完結","fr":"Terminé"}
+{"id":1561819,"jp":"狩猟から退出しますか？","fr":"Quitter la chasse ?"}
 {"id":1561820,"jp":"無尽の狩猟","fr":"Chasse sans fin"}
 {"id":1561821,"jp":"気分アップ","fr":"Hausse d'humeur"}
 {"id":1561823,"jp":"残高","fr":"Solde"}
+{"id":1561824,"jp":"購入分{0}+おまけ分{1}","fr":"Achat {0} + Bonus {1}"}
 {"id":1561825,"jp":"初回チャージ特典","fr":"Bonus de première recharge"}
 {"id":1561826,"jp":"チャージ特典","fr":"Bonus de recharge"}
 {"id":1561827,"jp":"{0}星虹","fr":"{0} Arc-en-ciel stellaire"}
+{"id":1561828,"jp":"今期の購入制限：{0}/{1}","fr":"Limite d'achat de cette saison : {0}/{1}"}
 {"id":1561829,"jp":"結界に入る","fr":"Entrer dans la barrière"}
+{"id":1561830,"jp":"千代の修行の成果を見る","fr":"Consulter les résultats de l'Entraînement de Chiyo"}
 {"id":1561831,"jp":"新規クエスト","fr":"Nouvelle quête"}
 {"id":1561832,"jp":"更新済み","fr":"Mis à jour"}
 {"id":1561833,"jp":"チームに残る","fr":"Rester dans l'équipe"}
 {"id":1561834,"jp":"チーム脱退","fr":"Quitter l'équipe"}
 {"id":1561836,"jp":"静思すべし","fr":"Réfléchir en silence"}
+{"id":1561838,"jp":"{0}秒以内にすべてのキボをペアにする","fr":"Former toutes les paires de Kibo en moins de {0} s"}
 {"id":1561839,"jp":"合計","fr":"Total"}
+{"id":1561840,"jp":"まだ準備していないチームメンバーがいます。","fr":"Certains membres de l'équipe ne sont pas encore prêts."}
 {"id":1561841,"jp":"レベル超過","fr":"Niveau dépassé"}
 {"id":1561842,"jp":"HPが高すぎます","fr":"PV trop élevés"}
 {"id":1561843,"jp":"暴走状態","fr":"État de déchaînement"}
 {"id":1561844,"jp":"凶獣種","fr":"Espèce de Bête maudite"}
 {"id":1561845,"jp":"物語クエスト中のキボ","fr":"Kibo en quête d'histoire"}
+{"id":1561846,"jp":"今週の上限に達しました。","fr":"Vous avez atteint la limite hebdomadaire."}
 {"id":1561847,"jp":"敵の召喚物","fr":"Invocations ennemies"}
+{"id":1561848,"jp":"このステラカードは対応していません。","fr":"Cette carte Stella n'est pas compatible."}
+{"id":1561849,"jp":"押してクロディーメを数える","fr":"Appuyez pour compter les Clodime"}
 {"id":1561850,"jp":"第","fr":"Vague"}
 {"id":1561851,"jp":"/{0}ウェーブ","fr":"/{0} vagues"}
+{"id":1561853,"jp":"乗りものホイールを開く","fr":"Ouvrir la roue des véhicules"}
 {"id":1561854,"jp":"相乗り","fr":"Monter à deux"}
 {"id":1561855,"jp":"獲得方法なし","fr":"Non obtenable"}
+{"id":1561856,"jp":"この乗りものはまだ所持していません。","fr":"Vous ne possédez pas encore ce véhicule."}
 {"id":1561857,"jp":"時間設定へ移動","fr":"Aller aux réglages de l'heure"}
 {"id":1561858,"jp":"用語解説","fr":"Glossaire"}
 {"id":1561859,"jp":"選択を切替","fr":"Changer la sélection"}
+{"id":1561860,"jp":"次の試験の推奨：修行境界{0}","fr":"Palier d'Entraînement recommandé pour le prochain examen : {0}"}
+{"id":1561861,"jp":"次の出征の推奨：ハンターレベル{0}","fr":"Niveau de chasseur recommandé pour la prochaine expédition : {0}"}
 {"id":1561862,"jp":"短押し：","fr":"Appui court :"}
 {"id":1561863,"jp":"長押し：","fr":"Appui long :"}
 {"id":1561864,"jp":"ダッシュ|回避","fr":"Sprint|Esquive"}
+{"id":1561865,"jp":"インタラクト|協力攻撃","fr":"Interagir|Attaque coopérative"}
 {"id":1561866,"jp":"視点移動","fr":"Déplacer la caméra"}
 {"id":1561867,"jp":"ロック/ロック解除","fr":"Verrouiller / déverrouiller"}
 {"id":1561868,"jp":"キボの収納／召喚","fr":"Ranger / invoquer le Kibo"}
 {"id":1561869,"jp":"キボとスターリンク","fr":"Kibo et Lien stellaire"}
 {"id":1561871,"jp":"ズームイン／アウト","fr":"Zoom avant / arrière"}
+{"id":1561872,"jp":"補充できる料理がありません。","fr":"Aucun plat disponible pour le réapprovisionnement."}
 {"id":1561873,"jp":"初期資産","fr":"Fonds de départ"}
+{"id":1561874,"jp":"騎乗中はキボを成長させられません。","fr":"Impossible de développer un Kibo lorsque vous êtes sur une monture."}
 {"id":1561875,"jp":"検索内容を入力","fr":"Saisir la recherche"}
+{"id":1561876,"jp":"素材が不足しているため、補充できません。","fr":"Matériaux insuffisants pour effectuer le réapprovisionnement."}
 {"id":1561877,"jp":"今日の修行成果","fr":"Résultats d'entraînement du jour"}
+{"id":1561882,"jp":"騎乗中のため、調律のレベルアップはできません。","fr":"Impossible d'augmenter le niveau d'Accordage lorsque vous êtes sur une monture."}
+{"id":1561883,"jp":"現在戦闘中のため、この操作は実行できません。","fr":"Impossible d'effectuer cette action pendant un combat."}
 {"id":1561884,"jp":"訓練効果絶大","fr":"Entraînement très efficace"}
 {"id":1561885,"jp":"練習中","fr":"Entraînement en cours"}
 {"id":1561886,"jp":"～機縁未所持～","fr":"~Occasion non possédée~"}
+{"id":1561887,"jp":"今はイベントに集中し、後で他の場所に行きましょう。","fr":"Concentrons-nous sur l'événement pour le moment. Nous irons ailleurs plus tard."}
 {"id":1561888,"jp":"アニマのランクアップ","fr":"Montée de rang d'Anima"}
 {"id":1561889,"jp":"購入済み","fr":"Acheté"}
 {"id":1561890,"jp":"新規因子","fr":"Nouveau facteur"}
 {"id":1561891,"jp":"因子入れ替え","fr":"Échanger le facteur"}
+{"id":1561892,"jp":"現在のレベルでは追加効果はありません。","fr":"Aucun effet supplémentaire au niveau actuel."}
 {"id":1561893,"jp":"選択をクリア","fr":"Effacer la sélection"}
 {"id":1561894,"jp":"数を追加","fr":"Augmenter la quantité"}
+{"id":1561895,"jp":"よりランクの高い装備は存在しません。","fr":"Aucun équipement de rang supérieur n'est disponible."}
+{"id":1561896,"jp":"ランク継承の対象となる装備を選択してください。","fr":"Veuillez sélectionner l'équipement qui héritera du rang."}
+{"id":1561897,"jp":"ユニが不足しているため、継承できません。","fr":"Uni insuffisants pour effectuer le transfert de rang."}
 {"id":1561898,"jp":"継承","fr":"Hériter"}
+{"id":1561899,"jp":"ランクアップに使用する同名装備を選択してください。","fr":"Veuillez sélectionner un équipement du même nom pour augmenter le rang."}
+{"id":1561900,"jp":"ランク継承に使用する同名装備を選択してください。","fr":"Veuillez sélectionner un équipement du même nom pour effectuer le transfert de rang."}
+{"id":1561902,"jp":"上限まで追加しました。","fr":"Ajout effectué jusqu'à la limite maximale."}
 {"id":1561903,"jp":"結果","fr":"Résultat"}
 {"id":1561904,"jp":"機縁を獲得","fr":"Occasion obtenue"}
 {"id":1561905,"jp":"集中{0}","fr":"Concentration {0}"}
@@ -37918,9 +38054,12 @@
 {"id":1561909,"jp":"ウミィはどこかな","fr":"Où est l'Umii ?"}
 {"id":1561910,"jp":"すべての剣技を表示","fr":"Afficher toutes les techniques d'épée"}
 {"id":1561911,"jp":"キボの潜在能力訓練","fr":"Entraînement du potentiel des Kibo"}
+{"id":1561912,"jp":"地区の精鋭に挑戦した後に解放","fr":"Débloqué après avoir affronté les élites de la région"}
 {"id":1561913,"jp":"マッチング画面に戻る","fr":"Retour au matchmaking"}
 {"id":1561914,"jp":"長押ししてドラッグ","fr":"Appui long et glisser"}
+{"id":1561915,"jp":"指定された機能を選択してください。","fr":"Veuillez sélectionner la fonctionnalité indiquée."}
 {"id":1561916,"jp":"お試し","fr":"Essai"}
+{"id":1561917,"jp":"販売中の商品はありません。","fr":"Aucun article n'est actuellement en vente."}
 {"id":1561918,"jp":"推奨属性","fr":"Élément conseillé"}
 {"id":1561919,"jp":"対戦報酬","fr":"Récompenses de match"}
 {"id":1561920,"jp":"あなたへのおすすめ","fr":"Recommandé pour vous"}
@@ -37931,53 +38070,108 @@
 {"id":1561925,"jp":"元素属性：","fr":"Élément :"}
 {"id":1561926,"jp":"体型：","fr":"Gabarit :"}
 {"id":1561927,"jp":"身長：","fr":"Taille :"}
+{"id":1561928,"jp":"レベルアップできません。","fr":"Impossible d'augmenter le niveau."}
+{"id":1561929,"jp":"現在の状態では形態を切り替えられません。","fr":"Impossible de changer de forme dans votre état actuel."}
+{"id":1561931,"jp":"{0}形態に切り替えました。","fr":"Passage à la forme {0} effectué."}
 {"id":1561934,"jp":"クイック出撃","fr":"Déploiement rapide"}
 {"id":1561935,"jp":"サポートの仲間","fr":"Alliés de soutien"}
 {"id":1561937,"jp":"ハード","fr":"Difficile"}
 {"id":1561938,"jp":"おやつ袋","fr":"Sac de friandises"}
+{"id":1561939,"jp":"幻影状態ではこの操作はできません。","fr":"Impossible d'effectuer cette action sous forme spectrale."}
 {"id":1561941,"jp":"観測へ","fr":"Vers l'Observation"}
 {"id":1561942,"jp":"予演へ","fr":"Vers la répétition"}
 {"id":1561943,"jp":"おすすめ順に並べ替え","fr":"Trier par recommandation"}
+{"id":1561944,"jp":"装備の推奨順に並べ替え","fr":"Trier par ordre de recommandation des équipements"}
+{"id":1561945,"jp":"強化素材が不足しているため、強化できません。","fr":"Matériaux de renforcement insuffisants."}
+{"id":1561946,"jp":"ユニが不足しているため、強化できません。","fr":"Uni insuffisants pour effectuer le renforcement."}
+{"id":1561947,"jp":"強化素材を選択してください。","fr":"Veuillez sélectionner les matériaux de renforcement."}
 {"id":1561948,"jp":"プリセット編成","fr":"Équipes prédéfinies"}
 {"id":1561952,"jp":"星律を繕う","fr":"Réparer la mélodie stellaire"}
 {"id":1561955,"jp":"乗りものを使用中","fr":"Monture en cours d'utilisation"}
 {"id":1561956,"jp":"クエスト目標","fr":"Objectif de quête"}
+{"id":1561957,"jp":"造影を使って閉ざされた門を通り抜ける","fr":"Utiliser la projection d'ombre pour traverser la porte scellée"}
+{"id":1561958,"jp":"造影を使って閉ざされた門を開ける","fr":"Utiliser la projection d'ombre pour ouvrir la porte scellée"}
+{"id":1561959,"jp":"造影を使って通路を作る","fr":"Utiliser la projection d'ombre pour créer un passage"}
+{"id":1561960,"jp":"造影を使って通路を作り、門を通り抜ける","fr":"Utiliser la projection d'ombre pour créer un passage et traverser la porte"}
 {"id":1561961,"jp":"～能力～","fr":"～Capacités～"}
 {"id":1561962,"jp":"詳細情報","fr":"Détails"}
 {"id":1561963,"jp":"必要条件","fr":"Conditions requises"}
 {"id":1561964,"jp":"習得する","fr":"Apprendre"}
 {"id":1561965,"jp":"含まれるレシピ","fr":"Recettes incluses"}
 {"id":1561966,"jp":"ノードを検索","fr":"Rechercher un nœud"}
+{"id":1561967,"jp":"オート進行で原初の潮の宝箱を受け取る","fr":"Récupérer un coffre de marée originelle avec la progression automatique"}
 {"id":1561968,"jp":"獲得済み","fr":"Obtenu"}
+{"id":1561969,"jp":"ショップで星虹を追加購入しますか？","fr":"Acheter davantage d'arcs-en-ciel stellaires dans la boutique ?"}
+{"id":1561971,"jp":"選択数が上限に達しました。","fr":"La limite de sélection est atteinte."}
+{"id":1561973,"jp":"長押ししてキャラクターの詳細を見る","fr":"Maintenez enfoncé pour consulter les détails du personnage"}
 {"id":1561975,"jp":"挑戦目標","fr":"Objectif du défi"}
 {"id":1561976,"jp":"カスタムカラー","fr":"Couleur personnalisée"}
 {"id":1561977,"jp":"カラーパレット","fr":"Palette de couleurs"}
 {"id":1561978,"jp":"クイックカラー選択","fr":"Choix rapide de couleur"}
+{"id":1561979,"jp":"最高ランクに達しました。","fr":"Le rang maximal est atteint."}
 {"id":1561980,"jp":"選択観測の進捗","fr":"Progression de l'Observation choisie"}
+{"id":1561981,"jp":"星明かりに綴られた物語","fr":"Histoires écrites à la lumière des étoiles"}
 {"id":1561982,"jp":"称号は最大12文字","fr":"Titre : 12 caractères maximum"}
+{"id":1561983,"jp":"Lv.100 名前テキスト","fr":"Niv. 100 - Texte du nom"}
+{"id":1561986,"jp":"農園への派遣も取り消す","fr":"Annuler également l'Affectation à la ferme"}
 {"id":1561987,"jp":"～訪問中～","fr":"～En visite～"}
 {"id":1561990,"jp":"交流中","fr":"Interaction en cours"}
 {"id":1561991,"jp":"キボ出現","fr":"Apparition de Kibo"}
+{"id":1561992,"jp":"特殊個体のため、源脈を育成できません。","fr":"Impossible de développer la veine source de ce Kibo anormal."}
 {"id":1561996,"jp":"序章を開始する","fr":"Commencer le prologue"}
 {"id":1561997,"jp":"IPアドレスを手入力","fr":"Saisir l'adresse IP à la main"}
 {"id":1561999,"jp":"シールド破壊の先鋒","fr":"Avant-garde brise-bouclier"}
 {"id":1562000,"jp":"{0}ミリ秒","fr":"{0} ms"}
+{"id":1562001,"jp":"GameManagerの初期化エラー：{0}","fr":"Erreur d'initialisation de GameManager : {0}"}
+{"id":1562004,"jp":"開始地点のGeometryが無効です：{0}","fr":"Geometry du point de départ invalide : {0}"}
 {"id":1562014,"jp":"{0}の{1}","fr":"{1} de {0}"}
+{"id":1562015,"jp":"チーム{0} - buff","fr":"Équipe {0} - Renforcement"}
+{"id":1562016,"jp":"*{0}秒後にスキップできます。","fr":"*Passage possible dans {0} s."}
+{"id":1562017,"jp":"{0}が発動し、キボが大量に出現します。","fr":"{0} s'est activé, des Kibo vont apparaître en grand nombre."}
+{"id":1562019,"jp":"{0}を消費して宝箱を開けますか？","fr":"Consommer {0} pour ouvrir le coffre ?"}
+{"id":1562020,"jp":"{0}を所持していないため開けられません。","fr":"Impossible d'ouvrir le coffre, car vous ne possédez pas {0}."}
 {"id":1562021,"jp":"ショップ{0}","fr":"Boutique {0}"}
+{"id":1562022,"jp":"以下の効果は［{0}］に適用されます。","fr":"Les effets suivants s'appliquent à ［{0}］."}
 {"id":1562023,"jp":"{0} {1}層","fr":"{0} étage {1}"}
+{"id":1562026,"jp":"現在のステージの推奨レベル：Lv.%s","fr":"Niveau recommandé pour le niveau actuel : Niv. %s"}
 {"id":1562027,"jp":"%d日%d時間","fr":"%d j %d h"}
 {"id":1562028,"jp":"%d時間%d分","fr":"%d h %d min"}
 {"id":1562029,"jp":"%d分%d秒","fr":"%d min %d s"}
+{"id":1562030,"jp":"マッチング受付時間：毎日%s","fr":"Horaires de recherche d'équipe : tous les jours %s"}
+{"id":1562031,"jp":"まもなくゲームが始まります！残り%d秒","fr":"La partie va bientôt commencer ! Il reste %d s"}
 {"id":1562032,"jp":"まもなくマッチングを終了します！残り%d秒","fr":"La recherche de partenaires va bientôt s'arrêter ! Encore %d s"}
+{"id":1562033,"jp":"マッチング中... %s","fr":"Recherche d'équipe en cours… %s"}
+{"id":1562034,"jp":"ほかのプレイヤーを待っています... 待機時間%s","fr":"En attente des autres joueurs… Temps d'attente : %s"}
+{"id":1562035,"jp":"マッチング成功！%d秒後にゲームへ入ります。","fr":"Équipe trouvée ! Entrée dans la partie dans %d s."}
 {"id":1562036,"jp":"ファイト編成%s","fr":"Équipe de duel %s"}
+{"id":1562038,"jp":"初心者ガイド一覧に移動しますか？","fr":"Accéder à la liste des guides pour débutants ?"}
 {"id":1562039,"jp":"加速の種","fr":"Graine d'accélération"}
+{"id":1562041,"jp":"キャラクターの衝突判定が有効になっていません。","fr":"La détection des collisions du personnage n'est pas activée."}
+{"id":1562043,"jp":"脱出地点の検索半径が無効です。","fr":"Le rayon de recherche du point de sortie est invalide."}
+{"id":1562044,"jp":"Geometryの検証パラメータが無効です。","fr":"Les paramètres de validation de Geometry sont invalides."}
+{"id":1562046,"jp":"下方向の探索範囲内に有効な地面が見つかりません。","fr":"Aucun sol valide trouvé dans la zone de recherche vers le bas."}
+{"id":1562047,"jp":"命中した地面の傾斜は歩行できません。","fr":"La pente du sol détecté est trop raide pour permettre le déplacement."}
+{"id":1562048,"jp":"地点が地面または足場の端に近すぎます。","fr":"Ce point est trop proche du bord du sol ou de la plateforme."}
+{"id":1562049,"jp":"プレイヤーカプセルが障害物と重なっています。","fr":"La capsule de collision du joueur chevauche un obstacle."}
+{"id":1562050,"jp":"地面の衝突判定が無効です。","fr":"La détection des collisions du sol est invalide."}
 {"id":1562053,"jp":"まばたき時の暗転","fr":"Noir au clignement des yeux"}
+{"id":1562054,"jp":"キャラクターの湿度効果を追加","fr":"Ajouter un effet d'humidité au personnage"}
+{"id":1562056,"jp":"*タップしてスキップ>>","fr":"*Appuyez pour passer>>"}
 {"id":1562057,"jp":"星魂レベルアップ","fr":"Niveau d'âme stellaire"}
+{"id":1562058,"jp":"満杯のため、キボの卵を入れられません。","fr":"Impossible d'ajouter des œufs de Kibo, car il n'y a plus de place."}
+{"id":1562059,"jp":"労働管理のC#への変換が未完了です。","fr":"La conversion de la gestion du travail vers C# n'est pas terminée."}
+{"id":1562060,"jp":"この機能はまだ完成していません。","fr":"Cette fonctionnalité est encore en cours de développement."}
+{"id":1562061,"jp":"星彩はありません（Test）","fr":"Aucun Kibo étoilé (Test)"}
+{"id":1562062,"jp":"［仮］ウミィの一筆書き：終了確認","fr":"［Provisoire］Dessin d'Umii en un seul trait : confirmation de sortie"}
+{"id":1562064,"jp":"ステラカードのアイコンが設定されていません。","fr":"Aucune icône n'a été définie pour cette carte Stella."}
 {"id":1562066,"jp":"基礎ステータス","fr":"Stats de base"}
 {"id":1562067,"jp":"上級ステータス","fr":"Stats avancées"}
+{"id":1562068,"jp":"仮：ユニが足りません。","fr":"Provisoire : Uni insuffisants."}
 {"id":1562070,"jp":"高レアリティ","fr":"Haute rareté"}
 {"id":1562071,"jp":"ランクアップ済み","fr":"Rang augmenté"}
 {"id":1562072,"jp":"強化済み","fr":"Renforcé"}
+{"id":1562073,"jp":"レベルアップすると経験値がオーバーします。","fr":"L'augmentation de niveau entraînera un dépassement de la limite d'EXP."}
+{"id":1562074,"jp":"ランクアップすると★の上限を超えます。","fr":"L'augmentation de rang dépassera la limite d'étoiles ★."}
 {"id":1562075,"jp":"仮：★3で解放","fr":"Provisoire : débloqué à ★3"}
 {"id":1562076,"jp":"京","fr":"Dix mille billions"}
 {"id":1562077,"jp":"兆","fr":"Billion"}
@@ -37996,45 +38190,79 @@
 {"id":1562090,"jp":"千兆","fr":"Mille billions"}
 {"id":1562091,"jp":"十京","fr":"Cent mille billions"}
 {"id":1562092,"jp":"百京","fr":"Trillion"}
+{"id":1562093,"jp":"すでに別の異脈星巣チームに参加しています。","fr":"Vous avez déjà rejoint une autre équipe de nid stellaire anomal."}
+{"id":1562094,"jp":"装備のメインステータスボーナス","fr":"Bonus de statistique principale de l'équipement"}
+{"id":1562095,"jp":"この料理を食べました。もう一度食べますか？","fr":"Vous avez déjà consommé ce plat. En manger à nouveau ?"}
 {"id":1562096,"jp":"依頼ショップ","fr":"Boutique des missions"}
+{"id":1562098,"jp":"イベントIDが無効です。","fr":"L'ID de l'événement est invalide."}
 {"id":1562099,"jp":"マッチング","fr":"Matchmaking"}
 {"id":1562101,"jp":"マッチングを続ける","fr":"Continuer la recherche"}
+{"id":1562102,"jp":"使用できるキャラクターがいません。","fr":"Aucun personnage utilisable."}
+{"id":1562103,"jp":"キャラクターデータが存在しません。","fr":"Les données du personnage n'existent pas."}
 {"id":1562104,"jp":"不明なキャラクター","fr":"Personnage inconnu"}
+{"id":1562105,"jp":"マッチングに失敗しました。","fr":"Échec de la recherche d'équipe."}
+{"id":1562106,"jp":"現在はマッチング受付時間外です。","fr":"La recherche d'équipe est actuellement en dehors des horaires d'ouverture."}
+{"id":1562108,"jp":"マッチングに参加できるキャラクターがいません。","fr":"Aucun personnage ne peut participer à la recherche d'équipe."}
 {"id":1562109,"jp":"マッチング中...","fr":"Matchmaking…"}
+{"id":1562110,"jp":"ほかのプレイヤーを待っています...","fr":"En attente des autres joueurs…"}
 {"id":1562111,"jp":"ゲーム進行中","fr":"Partie en cours"}
+{"id":1562113,"jp":"この対戦は終了しました。再度マッチングできます。","fr":"Cette partie est terminée. Vous pouvez relancer la recherche d'équipe."}
+{"id":1562114,"jp":"マッチング成功！まもなくゲームへ入ります...","fr":"Équipe trouvée ! Entrée imminente dans la partie…"}
 {"id":1562115,"jp":"ゲームへ移動中...","fr":"Transfert vers la partie…"}
+{"id":1562116,"jp":"この地面には転送できません。","fr":"Impossible de se téléporter sur ce terrain."}
+{"id":1562117,"jp":"：キボの謎解きスキルを発動","fr":": Activer la compétence de résolution d'énigmes du Kibo"}
+{"id":1562118,"jp":"タップしてキボの謎解きスキルを発動","fr":"Appuyez pour activer la compétence de résolution d'énigmes du Kibo"}
 {"id":1562121,"jp":"イベント完了","fr":"Événement terminé"}
 {"id":1562122,"jp":"イベント未完了","fr":"Événement non terminé"}
+{"id":1562126,"jp":"ネットワーク機能を利用できません。","fr":"Les fonctionnalités réseau sont indisponibles."}
+{"id":1562127,"jp":"マッチングのキャンセルに失敗しました。","fr":"Échec de l'annulation de la recherche d'équipe."}
 {"id":1562128,"jp":"本日の残り挑戦回数","fr":"Tentatives restantes aujourd'hui"}
+{"id":1562130,"jp":"推奨星識レベル：{0}（現在：{1}）","fr":"Niveau de Savoir stellaire recommandé : {0} (actuel : {1})"}
 {"id":1562131,"jp":"（解放可能）","fr":"(Déblocable)"}
+{"id":1562132,"jp":"クエストを達成できる時間帯ではありません。","fr":"Cette quête ne peut pas être accomplie à cette heure."}
 {"id":1562133,"jp":"シーンを切り替える","fr":"Changer de scène"}
 {"id":1562134,"jp":"旅を始める","fr":"Commencer le voyage"}
 {"id":1562136,"jp":"ホイールを切り替える","fr":"Changer de roue"}
+{"id":1562137,"jp":"★4キャラクターを1体選ぶ","fr":"Choisir 1 personnage ★4"}
+{"id":1562138,"jp":"キボの情報がありません","fr":"Aucune information sur ce Kibo"}
 {"id":1562139,"jp":"突破の上限：","fr":"Limite de percée :"}
+{"id":1562140,"jp":"この潜在能力を一緒に訓練できるキボがいません","fr":"Aucun Kibo disponible pour entraîner ce potentiel conjointement"}
 {"id":1562141,"jp":"キボの詳細","fr":"Détails du Kibo"}
 {"id":1562142,"jp":"乗りものを外す","fr":"Retirer la monture"}
 {"id":1562143,"jp":"数量を減らす","fr":"Réduire la quantité"}
+{"id":1562144,"jp":"現在の挑戦をあきらめ、新たに挑戦を始めますか？","fr":"Abandonner le défi actuel et en commencer un nouveau ?"}
 {"id":1562145,"jp":"新しく挑戦を始める","fr":"Lancer un nouveau défi"}
 {"id":1562146,"jp":"孵化を完了","fr":"Terminer l'éclosion"}
+{"id":1562147,"jp":"収穫箱は空っぽです。まだ収穫物はありません。","fr":"La caisse de récolte est vide. Il n'y a encore rien à récupérer."}
+{"id":1562148,"jp":"採集キボを派遣すると、収穫箱を使用できますよ～","fr":"Placez un Kibo en Affectation de collecte pour pouvoir utiliser la caisse de récolte !"}
 {"id":1562149,"jp":"分解する対象を選択","fr":"Choisir les objets à démonter"}
 {"id":1562150,"jp":"スキル比較","fr":"Comparer les compétences"}
 {"id":1562151,"jp":"固有","fr":"Unique"}
+{"id":1562152,"jp":"初期サポートキャラクターの人数が上限に達しました。","fr":"La limite de personnages de soutien initiaux est atteinte."}
+{"id":1562153,"jp":"門が閉まる前に脱出する","fr":"S'échapper avant la fermeture de la porte"}
 {"id":1562155,"jp":"騎乗チャレンジ・激流","fr":"Défi d'équitation : Torrent"}
 {"id":1562157,"jp":"手動で入れる","fr":"Insérer à la main"}
+{"id":1562158,"jp":"ショートカットバーに切り替える","fr":"Passer à la barre de raccourcis"}
 {"id":1562159,"jp":"プリセット適用","fr":"Appliquer le préréglage"}
 {"id":1562160,"jp":"再生","fr":"Lecture"}
 {"id":1562161,"jp":"展開","fr":"Développer"}
 {"id":1562162,"jp":"折りたたむ","fr":"Réduire"}
 {"id":1562163,"jp":"近況","fr":"Actualités récentes"}
+{"id":1562164,"jp":"夜空を彩る星々とともに、冬の夜の約束へ","fr":"Sous les étoiles qui parent le ciel nocturne, vers une promesse de nuit d'hiver"}
 {"id":1562165,"jp":"行動開始","fr":"Lancer l'action"}
+{"id":1562166,"jp":"ルートを考え、すべての空き地に種をまこう！","fr":"Planifiez votre itinéraire et semez des graines sur toutes les parcelles libres !"}
 {"id":1562167,"jp":"育成目標","fr":"Objectif de formation"}
 {"id":1562168,"jp":"検索をクリア","fr":"Effacer la recherche"}
 {"id":1562170,"jp":"{0}のドロップ","fr":"Butin de {0}"}
 {"id":1562171,"jp":"読む","fr":"Lire"}
+{"id":1562172,"jp":"このキボの痕跡は失われました","fr":"Les Traces de ce Kibo ont disparu"}
 {"id":1562174,"jp":"本日は値上がり！","fr":"Prix en hausse aujourd'hui !"}
 {"id":1562176,"jp":"後で","fr":"Plus tard"}
 {"id":1562177,"jp":"追跡する","fr":"Suivre"}
+{"id":1562178,"jp":"新たなエンディング{0}を解放しました。","fr":"Nouveau dénouement {0} débloqué."}
 {"id":1562183,"jp":"説明を見る","fr":"Voir la description"}
+{"id":1562184,"jp":"復活地点が更新されました。","fr":"Le point de réapparition a été actualisé."}
+{"id":1562185,"jp":"目標条件を1つ以上選択してください。","fr":"Veuillez sélectionner au moins une condition d'objectif."}
 {"id":1562186,"jp":"アニマを見る","fr":"Voir l'Anima"}
 {"id":1562187,"jp":"記録","fr":"Archives"}
 {"id":1562188,"jp":"開始","fr":"Démarrer"}
@@ -38049,16 +38277,27 @@
 {"id":1562197,"jp":"ボールを取り出す","fr":"Retirer la balle"}
 {"id":1562198,"jp":"ここに隠れる？","fr":"Se cacher ici ?"}
 {"id":1562199,"jp":"石柱を調べる","fr":"Examiner le pilier de pierre"}
+{"id":1562201,"jp":"キボが作業中です。精密派遣を解除しますか？","fr":"Le Kibo est en train de travailler. Annuler l'Affectation précise ?"}
+{"id":1562202,"jp":"注文上限：{0}/{1}","fr":"Limite de commandes : {0}/{1}"}
 {"id":1562203,"jp":"全画面で見る","fr":"Voir en plein écran"}
 {"id":1562204,"jp":"今回の出征の残高","fr":"Solde de cette expédition"}
 {"id":1562206,"jp":"因子の詳細を見る","fr":"Voir les détails du facteur"}
+{"id":1562207,"jp":"輝く因子は入れ替えられません","fr":"Les facteurs brillants ne peuvent pas être remplacés"}
+{"id":1562208,"jp":"・固有因子は入れ替えられません","fr":"・Les facteurs innés ne peuvent pas être remplacés"}
+{"id":1562209,"jp":"・輝く因子は入れ替えられません","fr":"・Les facteurs brillants ne peuvent pas être remplacés"}
 {"id":1562210,"jp":"パック交換","fr":"Échange de packs"}
 {"id":1562211,"jp":"自己紹介はありません","fr":"Aucune présentation"}
 {"id":1562212,"jp":"{0}が{1}に到達","fr":"{0} atteint {1}"}
+{"id":1562213,"jp":"アニマを1つ選んで指定観測を行う","fr":"Sélectionner 1 Anima pour effectuer une Observation ciblée"}
 {"id":1562214,"jp":"キボの位置を調整","fr":"Ajuster la position du Kibo"}
 {"id":1562215,"jp":"交換を確定","fr":"Confirmer l'échange"}
 {"id":1562216,"jp":"造影を呼び覚ます","fr":"Éveiller l'ombre"}
+{"id":1562217,"jp":"急いで塗山小玉を追いかけよう！","fr":"Vite, poursuivons Tushan Xiaoyu !"}
+{"id":1562218,"jp":"急いで寒悠悠を追いかけよう！","fr":"Vite, poursuivons Han Youyou !"}
 {"id":1562219,"jp":"おすすめ順","fr":"Par recommandation"}
+{"id":1562221,"jp":"現在の状態ではスターリンクできません","fr":"Impossible de former un Lien stellaire dans votre état actuel"}
+{"id":1562222,"jp":"購入後、以下のアイテムを獲得","fr":"Objets obtenus après l'achat"}
+{"id":1562223,"jp":"今期の購入制限：{0}","fr":"Limite d'achat de cette saison : {0}"}
 {"id":1562226,"jp":"風鳴りの森","fr":"Forêt du chant du vent"}
 {"id":1562227,"jp":"風林遺跡","fr":"Ruines des bois venteux"}
 {"id":1562228,"jp":"ムジャカ台地","fr":"Plateau de Mujaka"}
@@ -38085,6 +38324,20 @@
 {"id":1562249,"jp":"狩影の丘","fr":"Colline de l'ombre du chasseur"}
 {"id":1562250,"jp":"狼の獣道","fr":"Sentier des loups"}
 {"id":1562251,"jp":"遺構の渓流","fr":"Ruisseau des vestiges"}
+{"id":1562252,"jp":"ハーベストバレー2-1（45-50）","fr":"Vallée des Récoltes 2-1 (45-50)"}
+{"id":1562253,"jp":"ハーベストバレー2-2（55-60）","fr":"Vallée des Récoltes 2-2 (55-60)"}
+{"id":1562254,"jp":"ハーベストバレー2-3（50-55）","fr":"Vallée des Récoltes 2-3 (50-55)"}
+{"id":1562255,"jp":"ハーベストバレー2-4（50-55）","fr":"Vallée des Récoltes 2-4 (50-55)"}
+{"id":1562256,"jp":"迷跡の森2-1（60-65）","fr":"Forêt des Traces perdues 2-1 (60-65)"}
+{"id":1562257,"jp":"迷跡の森2-2（55-60）","fr":"Forêt des Traces perdues 2-2 (55-60)"}
+{"id":1562258,"jp":"迷跡の森2-3（55-60）","fr":"Forêt des Traces perdues 2-3 (55-60)"}
+{"id":1562259,"jp":"迷跡の森2-4（65-70）","fr":"Forêt des Traces perdues 2-4 (65-70)"}
+{"id":1562260,"jp":"迷跡の森2-5（65-70）","fr":"Forêt des Traces perdues 2-5 (65-70)"}
+{"id":1562261,"jp":"メルトレイク2-1（50-60）","fr":"Lac Melt 2-1 (50-60)"}
+{"id":1562262,"jp":"メルトレイク2-2（55-65）","fr":"Lac Melt 2-2 (55-65)"}
+{"id":1562263,"jp":"メルトレイク2-3（65-70）","fr":"Lac Melt 2-3 (65-70)"}
+{"id":1562264,"jp":"戦禍の痕2-1（65-70）","fr":"Cicatrices de guerre 2-1 (65-70)"}
+{"id":1562265,"jp":"戦禍の痕2-2（60-65）","fr":"Cicatrices de guerre 2-2 (60-65)"}
 {"id":1562266,"jp":"オチャドゥ農園","fr":"Ferme d'Ochadu"}
 {"id":1562267,"jp":"ゴンドーロ","fr":"Gondolo"}
 {"id":1562268,"jp":"望郷沢","fr":"Marais de la nostalgie"}
@@ -38102,6 +38355,7 @@
 {"id":1562280,"jp":"村長の家","fr":"Maison du chef du village"}
 {"id":1562281,"jp":"ルルカの家","fr":"Maison de Luruka"}
 {"id":1562282,"jp":"フリス領主邸","fr":"Manoir du seigneur de Fleece"}
+{"id":1562283,"jp":"フリスオークションハウス","fr":"Hôtel des ventes de Fleece"}
 {"id":1562284,"jp":"フリスの対戦場","fr":"Arène de combat de Fleece"}
 {"id":1562285,"jp":"フリス飛空船船長室","fr":"Cabine du capitaine du dirigeable de Fleece"}
 {"id":1562286,"jp":"フリス飛空船貨物室","fr":"Soute du dirigeable de Fleece"}
@@ -38117,8 +38371,10 @@
 {"id":1562296,"jp":"鉱洞の出口","fr":"Sortie de la mine"}
 {"id":1562297,"jp":"道場の出口","fr":"Sortie du dojo"}
 {"id":1562298,"jp":"森の奇縁-戦闘前位置","fr":"Étrange destin de la forêt - Position d'avant-combat"}
+{"id":1562299,"jp":"オークションハウス（市庁舎）出口","fr":"Sortie de l'hôtel des ventes (hôtel de ville)"}
 {"id":1562300,"jp":"飛空船船長室の出口","fr":"Sortie de la cabine du capitaine"}
 {"id":1562301,"jp":"飛空船貨物室の出口","fr":"Sortie de la soute"}
+{"id":1562302,"jp":"村の門のワープポイント","fr":"Point de téléportation de la porte du village"}
 {"id":1562303,"jp":"ルルカの家の前","fr":"Devant la maison de Luruka"}
 {"id":1562304,"jp":"広場中央","fr":"Centre de la place"}
 {"id":1562305,"jp":"フリス領主邸宅","fr":"Manoir du seigneur de Fleece"}
@@ -38128,12 +38384,18 @@
 {"id":1562309,"jp":"シャルル村の広場","fr":"Place du village de Charlulu"}
 {"id":1562310,"jp":"対岸のワープポイント","fr":"Point de téléportation de la rive opposée"}
 {"id":1562311,"jp":"橋のたもと","fr":"Pied du pont"}
+{"id":1562312,"jp":"エネルギー貯蔵室の入口","fr":"Entrée de la salle de stockage d'Énergie"}
 {"id":1562313,"jp":"ナイトフォールの洞窟","fr":"Grotte de Vespervamp"}
 {"id":1562314,"jp":"失われた遺跡","fr":"Ruines perdues"}
 {"id":1562315,"jp":"シャルル村の鏡像","fr":"Reflet du village de Charlulu"}
 {"id":1562316,"jp":"無垢の海の砂浜","fr":"Plage de la mer de l'innocence"}
+{"id":1562317,"jp":"竜王時代の遺跡の執政庁","fr":"Siège du gouvernement des ruines de l'ère du Roi-dragon"}
+{"id":1562318,"jp":"ランプブラック採鉱場-上層","fr":"Mine de Lampblack - Niveau supérieur"}
 {"id":1562319,"jp":"巨樹遺跡","fr":"Ruines de l'arbre géant"}
 {"id":1562320,"jp":"カルマーナの礎","fr":"Socle de Karmana"}
+{"id":1562321,"jp":"カルマーナの礎part1","fr":"Fondations de Karmana - Partie 1"}
+{"id":1562322,"jp":"カルマーナの礎part2","fr":"Fondations de Karmana - Partie 2"}
+{"id":1562323,"jp":"カルマーナの礎part3","fr":"Fondations de Karmana - Partie 3"}
 {"id":1562324,"jp":"第1章 塩湖水中","fr":"Chapitre 1 Sous l'eau du lac salé"}
 {"id":1562325,"jp":"聖地の花園","fr":"Jardin sacré"}
 {"id":1562326,"jp":"飛空船の艦橋","fr":"Passerelle du dirigeable"}
@@ -38145,10 +38407,37 @@
 {"id":1562332,"jp":"AOIモデルルーム","fr":"Salle modèle AOI"}
 {"id":1562333,"jp":"芽吹の谷_低密度","fr":"Vallée des Bourgeons - faible densité"}
 {"id":1562334,"jp":"芽吹の谷_中密度","fr":"Vallée des Bourgeons - densité moyenne"}
+{"id":1562335,"jp":"ステージシミュレーター","fr":"Simulateur de niveaux"}
 {"id":1562336,"jp":"メモリ浄化","fr":"Purification de la mémoire"}
 {"id":1562337,"jp":"モデルルーム（正面）","fr":"Salle modèle (face)"}
 {"id":1562338,"jp":"モデルルーム（遅延）","fr":"Salle modèle (différée)"}
+{"id":1562339,"jp":"運営戦闘シミュレーションシーン","fr":"Scène de simulation de combat pour l'équipe d'exploitation"}
+{"id":1562340,"jp":"キボファイト-正規シーン","fr":"Duel de Kibo - Scène standard"}
+{"id":1562341,"jp":"キボファイト-PVPシーン","fr":"Duel de Kibo - Scène JcJ"}
 {"id":1562342,"jp":"「森のさらに奥」","fr":"« Plus loin dans la forêt »"}
+{"id":1562343,"jp":"チュートリアル - アビィSSR","fr":"Tutoriel - Abby SSR"}
+{"id":1562344,"jp":"チュートリアル - メーツァSSR","fr":"Tutoriel - Metsa SSR"}
+{"id":1562345,"jp":"チュートリアル - リリィSR","fr":"Tutoriel - Lily SR"}
+{"id":1562346,"jp":"チュートリアル - ポンポンSR","fr":"Tutoriel - Pengpeng SR"}
+{"id":1562347,"jp":"チュートリアル - キャスベルSR","fr":"Tutoriel - Cathbelle SR"}
+{"id":1562348,"jp":"チュートリアル - 星臨者SR","fr":"Tutoriel - Enfant des étoiles SR"}
+{"id":1562349,"jp":"チュートリアル - シンフォーリアSR","fr":"Tutoriel - Symphoria SR"}
+{"id":1562350,"jp":"チュートリアル - 塗山小玉SSR","fr":"Tutoriel - Tushan Xiaoyu SSR"}
+{"id":1562351,"jp":"チュートリアル - モーレンSSR","fr":"Tutoriel - Morwyn SSR"}
+{"id":1562352,"jp":"チュートリアル - カタルSR","fr":"Tutoriel - Katalua SR"}
+{"id":1562353,"jp":"チュートリアル - テララSR","fr":"Tutoriel - Terara SR"}
+{"id":1562354,"jp":"チュートリアル - 寒悠悠SR","fr":"Tutoriel - Han Youyou SR"}
+{"id":1562355,"jp":"チュートリアル - ファランタSSR","fr":"Tutoriel - Faridah SSR"}
+{"id":1562356,"jp":"チュートリアル - ルビーナSSR","fr":"Tutoriel - Ruby SSR"}
+{"id":1562357,"jp":"チュートリアル - ルルカSSR","fr":"Tutoriel - Luruka SSR"}
+{"id":1562358,"jp":"チュートリアル - アニスSR","fr":"Tutoriel - Anais SR"}
+{"id":1562359,"jp":"チュートリアル - ミィティSR","fr":"Tutoriel - Mitty SR"}
+{"id":1562360,"jp":"チュートリアル - ノノSR","fr":"Tutoriel - Nono SR"}
+{"id":1562361,"jp":"チュートリアル - シャルSSR","fr":"Tutoriel - Shalle SSR"}
+{"id":1562362,"jp":"チュートリアル - 星臨者SSR","fr":"Tutoriel - Enfant des étoiles SSR"}
+{"id":1562363,"jp":"チュートリアル - メイプルSR","fr":"Tutoriel - Maple SR"}
+{"id":1562364,"jp":"チュートリアル - 蘭香子SR","fr":"Tutoriel - Lan Xiangzi SR"}
+{"id":1562365,"jp":"チュートリアル - ペイペイSSR1","fr":"Tutoriel - Peipei SSR 1"}
 {"id":1562366,"jp":"寮‐メーツァ‐夜","fr":"Dortoir - Metsa - Nuit"}
 {"id":1562367,"jp":"寮‐フリス共通‐夜","fr":"Dortoir - Fleece commun - Nuit"}
 {"id":1562368,"jp":"農園の部屋1","fr":"Pièce de la ferme 1"}
@@ -38156,6 +38445,7 @@
 {"id":1562370,"jp":"農園寮エリア3","fr":"Zone dortoir de la ferme 3"}
 {"id":1562371,"jp":"ルビーナの塔","fr":"Tour de Ruby"}
 {"id":1562372,"jp":"箱庭謎解き1","fr":"Énigme du jardin miniature 1"}
+{"id":1562373,"jp":"芽吹の谷謎解き部屋02","fr":"Vallée des Bourgeons - Salle d'énigmes 02"}
 {"id":1562374,"jp":"寮‐フリス共通‐昼","fr":"Dortoir - Fleece commun - Jour"}
 {"id":1562375,"jp":"寮-フリス共通-夜","fr":"Dortoir - Fleece commun - Nuit"}
 {"id":1562376,"jp":"寮‐鏡花州共通‐昼","fr":"Dortoir - Cap Jinghua commun - Jour"}
@@ -38167,16 +38457,90 @@
 {"id":1562382,"jp":"寮-塗山小玉-夜","fr":"Dortoir - Tushan Xiaoyu - Nuit"}
 {"id":1562383,"jp":"寮-千代-昼","fr":"Dortoir - Chiyo - Jour"}
 {"id":1562384,"jp":"寮-千代-夜","fr":"Dortoir - Chiyo - Nuit"}
+{"id":1562385,"jp":"装備ダンジョン――蒼雷の加護難易度1","fr":"Donjon d'équipement - Bénédiction du tonnerre azur - Difficulté 1"}
+{"id":1562386,"jp":"装備ダンジョン――蒼雷の加護難易度2","fr":"Donjon d'équipement - Bénédiction du tonnerre azur - Difficulté 2"}
+{"id":1562387,"jp":"装備ダンジョン――蒼雷の加護難易度3","fr":"Donjon d'équipement - Bénédiction du tonnerre azur - Difficulté 3"}
+{"id":1562388,"jp":"装備ダンジョン――蒼雷の加護難易度4","fr":"Donjon d'équipement - Bénédiction du tonnerre azur - Difficulté 4"}
+{"id":1562389,"jp":"装備ダンジョン――蒼雷の加護難易度5","fr":"Donjon d'équipement - Bénédiction du tonnerre azur - Difficulté 5"}
+{"id":1562390,"jp":"装備ダンジョン――常青の庇護難易度1","fr":"Donjon d'équipement - Protection de la verdure éternelle - Difficulté 1"}
+{"id":1562391,"jp":"装備ダンジョン――常青の庇護難易度2","fr":"Donjon d'équipement - Protection de la verdure éternelle - Difficulté 2"}
+{"id":1562392,"jp":"装備ダンジョン――常青の庇護難易度3","fr":"Donjon d'équipement - Protection de la verdure éternelle - Difficulté 3"}
+{"id":1562393,"jp":"装備ダンジョン――常青の庇護難易度4","fr":"Donjon d'équipement - Protection de la verdure éternelle - Difficulté 4"}
+{"id":1562394,"jp":"装備ダンジョン――常青の庇護難易度5","fr":"Donjon d'équipement - Protection de la verdure éternelle - Difficulté 5"}
+{"id":1562395,"jp":"装備ダンジョン――大気の護り難易度1","fr":"Donjon d'équipement - Protection des vents - Difficulté 1"}
+{"id":1562396,"jp":"装備ダンジョン――大気の護り難易度2","fr":"Donjon d'équipement - Protection des vents - Difficulté 2"}
+{"id":1562397,"jp":"装備ダンジョン――大気の護り難易度3","fr":"Donjon d'équipement - Protection des vents - Difficulté 3"}
+{"id":1562398,"jp":"装備ダンジョン――大気の護り難易度4","fr":"Donjon d'équipement - Protection des vents - Difficulté 4"}
+{"id":1562399,"jp":"装備ダンジョン――大気の護り難易度5","fr":"Donjon d'équipement - Protection des vents - Difficulté 5"}
+{"id":1562400,"jp":"装備ダンジョン――未定難易度1","fr":"Donjon d'équipement - À définir - Difficulté 1"}
+{"id":1562401,"jp":"装備ダンジョン――未定難易度2","fr":"Donjon d'équipement - À définir - Difficulté 2"}
+{"id":1562402,"jp":"装備ダンジョン――未定難易度3","fr":"Donjon d'équipement - À définir - Difficulté 3"}
+{"id":1562403,"jp":"装備ダンジョン――未定難易度4","fr":"Donjon d'équipement - À définir - Difficulté 4"}
+{"id":1562404,"jp":"装備ダンジョン――未定難易度5","fr":"Donjon d'équipement - À définir - Difficulté 5"}
+{"id":1562405,"jp":"装備ダンジョン――厚岩の重盾難易度1","fr":"Donjon d'équipement - Bouclier de roche massive - Difficulté 1"}
+{"id":1562406,"jp":"装備ダンジョン――厚岩の重盾難易度2","fr":"Donjon d'équipement - Bouclier de roche massive - Difficulté 2"}
+{"id":1562407,"jp":"装備ダンジョン――厚岩の重盾難易度3","fr":"Donjon d'équipement - Bouclier de roche massive - Difficulté 3"}
+{"id":1562408,"jp":"装備ダンジョン――厚岩の重盾難易度4","fr":"Donjon d'équipement - Bouclier de roche massive - Difficulté 4"}
+{"id":1562409,"jp":"装備ダンジョン――厚岩の重盾難易度5","fr":"Donjon d'équipement - Bouclier de roche massive - Difficulté 5"}
+{"id":1562410,"jp":"装備ダンジョン――烈炎の護り難易度1","fr":"Donjon d'équipement - Protection des flammes ardentes - Difficulté 1"}
+{"id":1562411,"jp":"装備ダンジョン――烈炎の護り難易度2","fr":"Donjon d'équipement - Protection des flammes ardentes - Difficulté 2"}
+{"id":1562412,"jp":"装備ダンジョン――烈炎の護り難易度3","fr":"Donjon d'équipement - Protection des flammes ardentes - Difficulté 3"}
+{"id":1562413,"jp":"装備ダンジョン――烈炎の護り難易度4","fr":"Donjon d'équipement - Protection des flammes ardentes - Difficulté 4"}
+{"id":1562414,"jp":"装備ダンジョン――烈炎の護り難易度5","fr":"Donjon d'équipement - Protection des flammes ardentes - Difficulté 5"}
+{"id":1562415,"jp":"装備ダンジョン――急流の護り難易度1","fr":"Donjon d'équipement - Protection des torrents - Difficulté 1"}
+{"id":1562416,"jp":"装備ダンジョン――急流の護り難易度2","fr":"Donjon d'équipement - Protection des torrents - Difficulté 2"}
+{"id":1562417,"jp":"装備ダンジョン――急流の護り難易度3","fr":"Donjon d'équipement - Protection des torrents - Difficulté 3"}
+{"id":1562418,"jp":"装備ダンジョン――急流の護り難易度4","fr":"Donjon d'équipement - Protection des torrents - Difficulté 4"}
+{"id":1562419,"jp":"装備ダンジョン――急流の護り難易度5","fr":"Donjon d'équipement - Protection des torrents - Difficulté 5"}
+{"id":1562420,"jp":"装備ダンジョン――厳寒の壁難易度1","fr":"Donjon d'équipement - Rempart du froid glacial - Difficulté 1"}
+{"id":1562421,"jp":"装備ダンジョン――厳寒の壁難易度2","fr":"Donjon d'équipement - Rempart du froid glacial - Difficulté 2"}
+{"id":1562422,"jp":"装備ダンジョン――厳寒の壁難易度3","fr":"Donjon d'équipement - Rempart du froid glacial - Difficulté 3"}
+{"id":1562423,"jp":"装備ダンジョン――厳寒の壁難易度4","fr":"Donjon d'équipement - Rempart du froid glacial - Difficulté 4"}
+{"id":1562424,"jp":"装備ダンジョン――厳寒の壁難易度5","fr":"Donjon d'équipement - Rempart du froid glacial - Difficulté 5"}
+{"id":1562425,"jp":"装備ダンジョン――未定1難易度1","fr":"Donjon d'équipement - À définir 1 - Difficulté 1"}
+{"id":1562426,"jp":"装備ダンジョン――未定1難易度2","fr":"Donjon d'équipement - À définir 1 - Difficulté 2"}
+{"id":1562427,"jp":"装備ダンジョン――未定1難易度3","fr":"Donjon d'équipement - À définir 1 - Difficulté 3"}
+{"id":1562428,"jp":"装備ダンジョン――未定1難易度4","fr":"Donjon d'équipement - À définir 1 - Difficulté 4"}
+{"id":1562429,"jp":"装備ダンジョン――未定1難易度5","fr":"Donjon d'équipement - À définir 1 - Difficulté 5"}
+{"id":1562430,"jp":"装備ダンジョン――未定2難易度1","fr":"Donjon d'équipement - À définir 2 - Difficulté 1"}
+{"id":1562431,"jp":"装備ダンジョン――未定2難易度2","fr":"Donjon d'équipement - À définir 2 - Difficulté 2"}
+{"id":1562432,"jp":"装備ダンジョン――未定2難易度3","fr":"Donjon d'équipement - À définir 2 - Difficulté 3"}
+{"id":1562433,"jp":"装備ダンジョン――未定2難易度4","fr":"Donjon d'équipement - À définir 2 - Difficulté 4"}
+{"id":1562434,"jp":"装備ダンジョン――未定2難易度5","fr":"Donjon d'équipement - À définir 2 - Difficulté 5"}
+{"id":1562435,"jp":"チュートリアル - ペイペイSSR2","fr":"Tutoriel - Peipei SSR 2"}
+{"id":1562436,"jp":"チュートリアル - 源千代SSR1","fr":"Tutoriel - Minamoto Chiyo SSR 1"}
+{"id":1562437,"jp":"チュートリアル - 源千代SSR2","fr":"Tutoriel - Minamoto Chiyo SSR 2"}
+{"id":1562438,"jp":"小玉大型イベント展示再利用シーン","fr":"Scène réutilisée de présentation du grand événement de Xiaoyu"}
+{"id":1562439,"jp":"小玉大型イベントクエスト再利用シーン","fr":"Scène réutilisée de quête du grand événement de Xiaoyu"}
 {"id":1562440,"jp":"居峡関-現在","fr":"Col de Juxia - Présent"}
 {"id":1562441,"jp":"居峡関-過去の春","fr":"Col de Juxia - Printemps passé"}
 {"id":1562442,"jp":"居峡関-過去の冬","fr":"Col de Juxia - Hiver passé"}
 {"id":1562443,"jp":"居峡関-戦場","fr":"Col de Juxia - Champ de bataille"}
 {"id":1562444,"jp":"小玉-演出ステージ","fr":"Xiaoyu - Scène de représentation"}
 {"id":1562445,"jp":"源千代の葦原","fr":"Roselière de Minamoto Chiyo"}
+{"id":1562446,"jp":"源千代葦原展示再利用シーン","fr":"Scène réutilisée de présentation de Minamoto Chiyo à Ashihara"}
+{"id":1562447,"jp":"-ドタバタ配送の旅 ダンジョン1-1","fr":"- Tournée de livraison mouvementée - Donjon 1-1"}
+{"id":1562448,"jp":"-ドタバタ配送の旅 ダンジョン1-2","fr":"- Tournée de livraison mouvementée - Donjon 1-2"}
+{"id":1562449,"jp":"-ドタバタ配送の旅 ダンジョン2","fr":"- Tournée de livraison mouvementée - Donjon 2"}
 {"id":1562450,"jp":"源千代の試練1","fr":"Épreuve de Minamoto Chiyo 1"}
 {"id":1562451,"jp":"源千代の試練2","fr":"Épreuve de Minamoto Chiyo 2"}
 {"id":1562452,"jp":"千秋鏡ダンジョン","fr":"Donjon du miroir des mille automnes"}
+{"id":1562453,"jp":"敖彦ドッグファイトシーン","fr":"Scène de combat aérien d'Aoyan"}
+{"id":1562454,"jp":"フリスキボ道場メインシーン","fr":"Dojo de Kibo de Fleece - Scène principale"}
+{"id":1562455,"jp":"フリスキボ道場（ファイトシーン）","fr":"Dojo de Kibo de Fleece (scène de combat)"}
+{"id":1562456,"jp":"塗山小玉の絆探索-迷津の戦場","fr":"Exploration du Lien de Tushan Xiaoyu - Champ de bataille du gué perdu"}
+{"id":1562457,"jp":"塗山小玉の絆探索-現在","fr":"Exploration du Lien de Tushan Xiaoyu - Présent"}
+{"id":1562458,"jp":"塗山小玉の絆探索-過去の春","fr":"Exploration du Lien de Tushan Xiaoyu - Printemps d'antan"}
+{"id":1562459,"jp":"塗山小玉の絆探索-過去の冬","fr":"Exploration du Lien de Tushan Xiaoyu - Hiver d'antan"}
+{"id":1562460,"jp":"【ドッグファイト専用】都市国家フリス","fr":"【Combat aérien uniquement】Cité-État de Fleece"}
+{"id":1562461,"jp":"鉱洞上層-エディターマップ探索","fr":"Mine souterraine - Niveau supérieur - Exploration de la carte de l'éditeur"}
 {"id":1562462,"jp":"共通洞窟の正式シーン","fr":"Scène définitive de la grotte commune"}
+{"id":1562463,"jp":"竜人遺跡-ランダムボス01","fr":"Ruines des Draconiens - Boss aléatoire 01"}
+{"id":1562464,"jp":"竜人遺跡-ランダムボス02","fr":"Ruines des Draconiens - Boss aléatoire 02"}
+{"id":1562465,"jp":"竜人遺跡-ランダムボス03","fr":"Ruines des Draconiens - Boss aléatoire 03"}
+{"id":1562466,"jp":"竜人遺跡-ランダムボス04","fr":"Ruines des Draconiens - Boss aléatoire 04"}
+{"id":1562467,"jp":"竜人遺跡-ランダムボス05","fr":"Ruines des Draconiens - Boss aléatoire 05"}
+{"id":1562468,"jp":"竜人遺跡-ランダムボス06","fr":"Ruines des Draconiens - Boss aléatoire 06"}
 {"id":1562469,"jp":"普通のタカ豆","fr":"Haricot de faucon ordinaire"}
 {"id":1562470,"jp":"ベリー","fr":"Baies"}
 {"id":1562471,"jp":"草花","fr":"Fleurs et herbes"}
@@ -38205,17 +38569,28 @@
 {"id":1562514,"jp":"スーニヤダンジョン","fr":"Donjons de Sunya"}
 {"id":1562515,"jp":"手動マーカー","fr":"Marqueurs manuels"}
 {"id":1562516,"jp":"ボス戦ダンジョン","fr":"Donjons de boss"}
+{"id":1562517,"jp":"マップ横断ワープポイント","fr":"Points de téléportation intercartes"}
 {"id":1562518,"jp":"農園エリア","fr":"Zone de la ferme"}
 {"id":1562519,"jp":"フィールドバフ設備","fr":"Installations de renforcement du terrain"}
 {"id":1562520,"jp":"未知の気配・ボス","fr":"Présence inconnue : Boss"}
 {"id":1562521,"jp":"未知の気配・影","fr":"Présence inconnue : Ombre"}
 {"id":1562522,"jp":"クエストNPC","fr":"PNJ de quête"}
 {"id":1562523,"jp":"クエスト目標地点","fr":"Objectifs de quête"}
+{"id":1562524,"jp":"キボファイト・ファイトセンター（廃棄）","fr":"Duel de Kibo - Centre de combat (obsolète)"}
 {"id":1562525,"jp":"幻域獣チャレンジ","fr":"Défi des Bêtes du domaine illusoire"}
+{"id":1562526,"jp":"天道の余塵・天道の塔の遺跡","fr":"Poussières de la voie céleste - Ruines de la tour de la voie céleste"}
+{"id":1562527,"jp":"遠吠え平原・星脈ノード","fr":"Plaines hurlantes - Nœud de veine stellaire"}
 {"id":1562529,"jp":"風導の森・星脈ノード","fr":"Forêt du Vent-Guide : Nœud de veine stellaire"}
+{"id":1562531,"jp":"霧隠れの森・星脈ノード","fr":"Forêt des Brumes - Nœud de veine stellaire"}
 {"id":1562533,"jp":"鷹の連峰・星脈ノード","fr":"Monts du Faucon : Nœud de veine stellaire"}
 {"id":1562535,"jp":"影蝕の崖・星脈ノード","fr":"Falaise rongée par l'ombre : Nœud de veine stellaire"}
 {"id":1562537,"jp":"灰石遺跡・簡易ノード","fr":"Ruines de pierre cendrée : Nœud simplifié"}
+{"id":1562539,"jp":"遺構の渓流・簡易ノード","fr":"Torrent des vestiges - Nœud simple"}
+{"id":1562540,"jp":"風浴び小道・簡易ノード","fr":"Sentier des Brises - Nœud simple"}
+{"id":1562541,"jp":"風障りの山砦・簡易ノード","fr":"Forteresse du mont Coupe-Vent - Nœud simple"}
+{"id":1562542,"jp":"招雷の遺跡・簡易ノード","fr":"Ruines de l'Appel du tonnerre - Nœud simple"}
+{"id":1562543,"jp":"ティナトゥム・簡易ノード","fr":"Tinatum - Nœud simple"}
+{"id":1562544,"jp":"幽湾の白き洞・簡易ノード","fr":"Grotte blanche de la baie des Ombres - Nœud simple"}
 {"id":1562549,"jp":"遠吠え平原の伐木場","fr":"Camp de bûcherons des Plaines hurlantes"}
 {"id":1562551,"jp":"霧隠れの森の伐木場","fr":"Camp de bûcherons de la Forêt Voile-Brume"}
 {"id":1562552,"jp":"遠吠え平原の採鉱場","fr":"Mine des Plaines hurlantes"}
@@ -38244,35 +38619,64 @@
 {"id":1562588,"jp":"オタタ釣具店","fr":"Boutique de pêche d'Otata"}
 {"id":1562590,"jp":"風導の森の星輝採鉱場","fr":"Mine d'éclat stellaire de la Forêt du Vent-Guide"}
 {"id":1562592,"jp":"鷹の連峰の星輝採鉱場","fr":"Mine d'éclat stellaire des Monts du Faucon"}
+{"id":1562593,"jp":"第2エリア謎解きダンジョン","fr":"Donjon d'énigmes de la zone 2"}
 {"id":1562594,"jp":"謎解きダンジョン","fr":"Donjon d'énigmes"}
+{"id":1562595,"jp":"第4エリア謎解きダンジョン","fr":"Donjon d'énigmes de la zone 4"}
 {"id":1562596,"jp":"メムメム商店","fr":"Boutique de Memumemu"}
+{"id":1562598,"jp":"ティティの掘り出しもの","fr":"Les trouvailles de Tiffy"}
+{"id":1562601,"jp":"シャルル村・星脈ノード","fr":"Village de Charlulu - Nœud de veine stellaire"}
 {"id":1562602,"jp":"漁場・プーカ桟橋","fr":"Lieu de pêche : ponton de Puuka"}
 {"id":1562604,"jp":"ティナナの果物屋","fr":"Étal de fruits de Tinana"}
 {"id":1562606,"jp":"村長のよいもの","fr":"Les bonnes choses du chef du village"}
 {"id":1562608,"jp":"依頼・シャルル村","fr":"Missions : village de Charlulu"}
+{"id":1562611,"jp":"フリス市街・星脈ノード","fr":"Ville de Fleece - Nœud de veine stellaire"}
+{"id":1562612,"jp":"メルトレイク・星脈ノード","fr":"Lac Melt - Nœud de veine stellaire"}
+{"id":1562614,"jp":"ゴンドーロ・簡易ノード","fr":"Gondolo - Nœud simple"}
 {"id":1562615,"jp":"迷跡の森・星脈ノード","fr":"Forêt aux Traces perdues : Nœud de veine stellaire"}
 {"id":1562617,"jp":"戦禍の痕・星脈ノード","fr":"Cicatrices de la guerre : Nœud de veine stellaire"}
 {"id":1562619,"jp":"森番の家・簡易ノード","fr":"Maison du gardien de la forêt : Nœud simplifié"}
+{"id":1562620,"jp":"カラフルパレード団・簡易ノード","fr":"Troupe de la parade multicolore - Nœud simple"}
+{"id":1562621,"jp":"花林の幽境・簡易ノード","fr":"Sanctuaire du bois fleuri - Nœud simple"}
 {"id":1562622,"jp":"壬陽関・簡易ノード","fr":"Col de Renyang : Nœud simplifié"}
+{"id":1562623,"jp":"託言の祭壇・簡易ノード","fr":"Autel des Oracles - Nœud simple"}
+{"id":1562624,"jp":"メルトレイクの瀑布・簡易ノード","fr":"Cascades du lac Melt - Nœud simple"}
+{"id":1562625,"jp":"カスカード湖・簡易ノード","fr":"Lac Cascade - Nœud simple"}
+{"id":1562626,"jp":"ハーベストバレー・簡易ノード","fr":"Vallée des Récoltes - Nœud simple"}
 {"id":1562627,"jp":"依頼・都市国家フリス","fr":"Missions : Cité-État de Fleece"}
 {"id":1562631,"jp":"幻域獣・アマルテイア","fr":"Bêtes du domaine illusoire : Amalthea"}
+{"id":1562634,"jp":"ハーベストバレーの伐木場","fr":"Site de Bûcheronnage de la Vallée des Récoltes"}
 {"id":1562635,"jp":"メルトレイクの採石場","fr":"Carrière de Melt Lake"}
 {"id":1562637,"jp":"メルトレイクの採鉱場","fr":"Mine de Melt Lake"}
+{"id":1562639,"jp":"メルトレイクの元素祭壇","fr":"Autel élémentaire du lac Melt"}
+{"id":1562640,"jp":"ハーベストバレーの餌やり場","fr":"Aire de nourrissage de la Vallée des Récoltes"}
+{"id":1562641,"jp":"ハーベストバレーの採集小屋","fr":"Cabane de collecte de la Vallée des Récoltes"}
+{"id":1562642,"jp":"漁場・ハーベストレイク","fr":"Zone de pêche - Lac des Récoltes"}
 {"id":1562644,"jp":"漁場・メルトレイク","fr":"Lieu de pêche : Melt Lake"}
 {"id":1562646,"jp":"漁場・カスカード湖","fr":"Lieu de pêche : lac Cascade"}
+{"id":1562648,"jp":"漁場・メルトレイク支流","fr":"Zone de pêche - Affluent du lac Melt"}
+{"id":1562650,"jp":"ハーベストバレーの元素祭壇","fr":"Autel élémentaire de la Vallée des Récoltes"}
 {"id":1562651,"jp":"迷跡の森の伐木場","fr":"Camp de bûcherons de la Forêt aux Traces perdues"}
+{"id":1562652,"jp":"ハーベストバレーの採鉱場","fr":"Mine de la Vallée des Récoltes"}
 {"id":1562653,"jp":"迷跡の森の採鉱場","fr":"Mine de la Forêt aux Traces perdues"}
 {"id":1562655,"jp":"戦禍の痕の採鉱場","fr":"Mine des Cicatrices de la guerre"}
 {"id":1562656,"jp":"迷跡の森の餌やり場","fr":"Aire de nourrissage de la Forêt aux Traces perdues"}
 {"id":1562657,"jp":"戦禍の痕の餌やり場","fr":"Aire de nourrissage des Cicatrices de la guerre"}
 {"id":1562658,"jp":"戦禍の痕の採石場","fr":"Carrière des Cicatrices de la guerre"}
+{"id":1562660,"jp":"メルトレイクの星輝採鉱場","fr":"Mine d'éclat stellaire du lac Melt"}
 {"id":1562661,"jp":"迷跡の森の星輝採鉱場","fr":"Mine d'éclat stellaire de la Forêt aux Traces perdues"}
+{"id":1562662,"jp":"リュドミラ厳選イトーン作品","fr":"Sélection d'œuvres Iton de Lyudmila"}
 {"id":1562666,"jp":"フィールドのキボ卵","fr":"Œuf de Kibo du terrain"}
+{"id":1562668,"jp":"フィールドのレアなキボ卵","fr":"Œuf Rare de Kibo sauvage"}
+{"id":1562669,"jp":"未知の強力なボスが、星臨者の挑戦を待っている。","fr":"Un puissant boss inconnu attend que l'Enfant des étoiles vienne le défier."}
 {"id":1562671,"jp":"ウミィウミィ～","fr":"Umii, Umii～"}
+{"id":1562673,"jp":"未知の宝物が、星臨者の発見を待っている。","fr":"Un trésor inconnu attend d'être découvert par l'Enfant des étoiles."}
 {"id":1562674,"jp":"未知の反響・特異個体","fr":"Écho inconnu : individu singulier"}
+{"id":1562675,"jp":"未知の強力な特異個体が、星臨者の挑戦を待っている。","fr":"Un puissant Kibo anormal inconnu attend que l'Enfant des étoiles vienne le défier."}
 {"id":1562676,"jp":"未知の予兆","fr":"Présage inconnu"}
+{"id":1562677,"jp":"未知の強敵が、星臨者の挑戦を待っている。","fr":"Un redoutable adversaire inconnu attend que l'Enfant des étoiles vienne le défier."}
 {"id":1562678,"jp":"未知の足跡・ボス","fr":"Traces inconnues : Boss"}
 {"id":1562679,"jp":"星脈の渦・キボ大集結","fr":"Vortex de veines stellaires : rassemblement de Kibo"}
+{"id":1562680,"jp":"キボが大量に集まっています。すぐ見に行きましょう。","fr":"De nombreux Kibo se sont rassemblés. Allons vite voir !"}
 {"id":1562681,"jp":"異彩の星の明滅地点","fr":"Point de scintillement : étoile Variante"}
 {"id":1562683,"jp":"煌めく星の明滅地点","fr":"Point de scintillement : étoile brillante"}
 {"id":1562685,"jp":"吉兆の星の明滅地点","fr":"Point de scintillement : étoile de bon augure"}
@@ -38296,6 +38700,7 @@
 {"id":1562709,"jp":"御霊の試練を開始","fr":"Commencer l'épreuve des Esprits anciens"}
 {"id":1562710,"jp":"依頼を確認","fr":"Consulter les missions"}
 {"id":1562711,"jp":"前進する","fr":"Avancer"}
+{"id":1562712,"jp":"彼女にほかのことをお願いする","fr":"Lui demander autre chose"}
 {"id":1562713,"jp":"ふたりでインタラクト","fr":"Interagir à deux"}
 {"id":1562714,"jp":"なでる","fr":"Caresser"}
 {"id":1562715,"jp":"星輝霊木成長","fr":"Croissance de l'arbre spirituel d'éclat stellaire"}
@@ -38322,6 +38727,7 @@
 {"id":1562736,"jp":"チルルのメロウミー","fr":"Mellowmee de Chilul"}
 {"id":1562737,"jp":"密猟団のメンバー","fr":"Membre de la bande de braconniers"}
 {"id":1562738,"jp":"密猟団の首領","fr":"Chef de la bande de braconniers"}
+{"id":1562739,"jp":"新しい服のオータミット","fr":"Otamit dans sa nouvelle tenue"}
 {"id":1562740,"jp":"エンカクのアイロ","fr":"Airo d'Enkaku"}
 {"id":1562741,"jp":"モモのフラーメ","fr":"Flame de Momo"}
 {"id":1562742,"jp":"村長のアルマロ","fr":"Armaro du chef du village"}
@@ -38355,6 +38761,9 @@
 {"id":1562770,"jp":"巨大な金麦","fr":"Blé doré géant"}
 {"id":1562771,"jp":"訓練用の草巻き","fr":"Botte de paille d'entraînement"}
 {"id":1562772,"jp":"木の宝箱","fr":"Coffre en bois"}
+{"id":1562773,"jp":"銀の宝箱 ミミック_芽吹の谷1-4エリア","fr":"Mimikku - Coffre d'argent (Vallée des Bourgeons, zones 1-4)"}
+{"id":1562774,"jp":"銀の宝箱 ミミック_芽吹の谷5エリア","fr":"Mimikku - Coffre d'argent (Vallée des Bourgeons, zone 5)"}
+{"id":1562775,"jp":"銀の宝箱 ミミック_フリス","fr":"Mimikku - Coffre d'argent (Fleece)"}
 {"id":1562776,"jp":"星脈の渦","fr":"Vortex de veines stellaires"}
 {"id":1562777,"jp":"釣りスポット","fr":"Lieu de pêche"}
 {"id":1562778,"jp":"転送ポイント","fr":"Point de téléportation"}
@@ -38363,6 +38772,7 @@
 {"id":1562781,"jp":"懐中時計","fr":"Montre à gousset"}
 {"id":1562782,"jp":"ノワルタケ","fr":"Noirtake"}
 {"id":1562783,"jp":"飛空船の帆の残骸","fr":"Débris de voile du dirigeable"}
+{"id":1562784,"jp":"『ドゥルに注意』の看板","fr":"Panneau « Attention aux Dur »"}
 {"id":1562785,"jp":"フリスの掲示板","fr":"Panneau d'affichage de Fleece"}
 {"id":1562786,"jp":"フェザーリーフ風車塔","fr":"Tour du moulin Featherleaf"}
 {"id":1562787,"jp":"ガイド曲線","fr":"Courbe guide"}
@@ -38374,6 +38784,7 @@
 {"id":1562793,"jp":"花の生長01速","fr":"Croissance de fleur 01 rapide"}
 {"id":1562794,"jp":"花の生長02遅","fr":"Croissance de fleur 02 lente"}
 {"id":1562795,"jp":"花の生長02速","fr":"Croissance de fleur 02 rapide"}
+{"id":1562796,"jp":"地面に埋まったキャベッコ","fr":"Cabbeco enfoui dans le sol"}
 {"id":1562797,"jp":"柵","fr":"Barrière"}
 {"id":1562798,"jp":"果樹園の入口","fr":"Entrée du verger"}
 {"id":1562799,"jp":"獣の巣","fr":"Tanière de bête"}
@@ -38389,6 +38800,7 @@
 {"id":1562809,"jp":"園芸展","fr":"Exposition d'horticulture"}
 {"id":1562810,"jp":"星輝の種","fr":"Graine d'éclat stellaire"}
 {"id":1562811,"jp":"トロッコ","fr":"Wagonnet"}
+{"id":1562812,"jp":"住宅オークションの看板","fr":"Panneau de vente immobilière aux enchères"}
 {"id":1562813,"jp":"恩恵石","fr":"Pierre de bienfait"}
 {"id":1562814,"jp":"ウィスパーリーフ","fr":"Feuille-murmure"}
 {"id":1562815,"jp":"粘土板","fr":"Tablette d'argile"}
@@ -38504,12 +38916,67 @@
 {"id":1562925,"jp":"進化教団の祭壇","fr":"Autel du Culte de l'Évolution"}
 {"id":1562926,"jp":"メムメム","fr":"Memumemu"}
 {"id":1562927,"jp":"装飾用のタマゴ","fr":"Œuf décoratif"}
+{"id":1562928,"jp":"独特な恩恵のキボのタマゴ","fr":"Œuf de Kibo à la bénédiction singulière"}
+{"id":1562929,"jp":"独特な豊穣のキボのタマゴ","fr":"Œuf de Kibo à la prospérité singulière"}
+{"id":1562930,"jp":"普通のキボのタマゴ-キャベッコ","fr":"Œuf ordinaire de Kibo - Cabbeco"}
+{"id":1562931,"jp":"普通のキボのタマゴ-ウィンディ","fr":"Œuf ordinaire de Kibo - Windy"}
+{"id":1562932,"jp":"普通のキボのタマゴ-アイシィ","fr":"Œuf ordinaire de Kibo - Icy"}
+{"id":1562933,"jp":"普通のキボのタマゴ-ウッディ","fr":"Œuf ordinaire de Kibo - Woody"}
+{"id":1562934,"jp":"普通のキボのタマゴ-ハルウ","fr":"Œuf ordinaire de Kibo - Haru"}
+{"id":1562935,"jp":"普通のキボのタマゴ-ドロゲコ","fr":"Œuf ordinaire de Kibo - Drogeko"}
+{"id":1562936,"jp":"普通のキボのタマゴ-ピーチィ","fr":"Œuf ordinaire de Kibo - Peachy"}
+{"id":1562937,"jp":"普通のキボのタマゴ-ルビッツ","fr":"Œuf ordinaire de Kibo - Rubbits"}
+{"id":1562938,"jp":"普通のキボのタマゴ-ロッコロ","fr":"Œuf ordinaire de Kibo - Rokkoro"}
+{"id":1562939,"jp":"普通のキボのタマゴ-グルル","fr":"Œuf ordinaire de Kibo - Gururu"}
+{"id":1562940,"jp":"普通のキボのタマゴ-モフンガ","fr":"Œuf ordinaire de Kibo - Mohunga"}
+{"id":1562941,"jp":"普通のキボのタマゴ-フーモ","fr":"Œuf ordinaire de Kibo - Fumo"}
+{"id":1562942,"jp":"普通のキボのタマゴ-ホークル","fr":"Œuf ordinaire de Kibo - Hawkle"}
+{"id":1562943,"jp":"普通のキボのタマゴ-メロウミー","fr":"Œuf ordinaire de Kibo - Mellowmee"}
+{"id":1562944,"jp":"普通のキボのタマゴ-フィフィ","fr":"Œuf ordinaire de Kibo - Fifi"}
+{"id":1562945,"jp":"普通のキボのタマゴ-フラーメ","fr":"Œuf ordinaire de Kibo - Flame"}
+{"id":1562946,"jp":"普通のキボのタマゴ-グラゴ","fr":"Œuf ordinaire de Kibo - Grago"}
+{"id":1562947,"jp":"普通のキボのタマゴ-サラマンド","fr":"Œuf ordinaire de Kibo - Salamand"}
+{"id":1562948,"jp":"普通のキボのタマゴ-サンディ","fr":"Œuf ordinaire de Kibo - Sandy"}
+{"id":1562949,"jp":"普通のキボのタマゴ-リーモ","fr":"Œuf ordinaire de Kibo - Leemo"}
+{"id":1562950,"jp":"普通のキボのタマゴ-ツーモ","fr":"Œuf ordinaire de Kibo - Tsumo"}
+{"id":1562951,"jp":"普通のキボのタマゴ-レイニィ","fr":"Œuf ordinaire de Kibo - Rainy"}
+{"id":1562952,"jp":"普通のキボのタマゴ-シードロ","fr":"Œuf ordinaire de Kibo - Seedro"}
+{"id":1562953,"jp":"普通のキボのタマゴ-ピョンルー","fr":"Œuf ordinaire de Kibo - Pyonloo"}
+{"id":1562954,"jp":"普通のキボのタマゴ-ブルーダ","fr":"Œuf ordinaire de Kibo - Bluda"}
+{"id":1562955,"jp":"普通のキボのタマゴ-クック","fr":"Œuf ordinaire de Kibo - Cook"}
+{"id":1562956,"jp":"普通のキボのタマゴ-アイロ","fr":"Œuf ordinaire de Kibo - Airo"}
 {"id":1562957,"jp":"普通のキボのタマゴ-ガドリ","fr":"Œuf de Kibo ordinaire - Gadori"}
+{"id":1562958,"jp":"普通のキボのタマゴ-ホーミィ","fr":"Œuf ordinaire de Kibo - Homy"}
+{"id":1562959,"jp":"普通のキボのタマゴ-チョノコ","fr":"Œuf ordinaire de Kibo - Chonoko"}
+{"id":1562960,"jp":"普通のキボのタマゴ-チーキィ","fr":"Œuf ordinaire de Kibo - Cheeky"}
+{"id":1562961,"jp":"普通のキボのタマゴ-ニャアホ","fr":"Œuf ordinaire de Kibo - Nyaho"}
+{"id":1562962,"jp":"普通のキボのタマゴ-ハーチャ","fr":"Œuf ordinaire de Kibo - Harcha"}
+{"id":1562963,"jp":"普通のキボのタマゴ-カメレウス","fr":"Œuf ordinaire de Kibo - Chameleus"}
+{"id":1562964,"jp":"普通のキボのタマゴ-ドゥル","fr":"Œuf ordinaire de Kibo - Dur"}
+{"id":1562965,"jp":"普通のキボのタマゴ-トランゴ","fr":"Œuf ordinaire de Kibo - Trango"}
 {"id":1562966,"jp":"クエスト-プレート1","fr":"Quête - Plaque 1"}
 {"id":1562967,"jp":"クエスト-プレート2","fr":"Quête - Plaque 2"}
 {"id":1562968,"jp":"クエスト-プレート3","fr":"Quête - Plaque 3"}
 {"id":1562969,"jp":"クエスト-プレート4","fr":"Quête - Plaque 4"}
+{"id":1562970,"jp":"クエスト-食物：肉食1","fr":"Quête - Nourriture : viande 1"}
+{"id":1562971,"jp":"クエスト-食物：コーン","fr":"Quête - Nourriture : maïs"}
+{"id":1562972,"jp":"クエスト-食物：チーズ2","fr":"Quête - Nourriture : fromage 2"}
+{"id":1562973,"jp":"クエスト-食物：パン皿","fr":"Quête - Nourriture : assiette de pain"}
+{"id":1562974,"jp":"クエスト-食物：ケーキ","fr":"Quête - Nourriture : gâteau"}
+{"id":1562975,"jp":"クエスト-食物：チーズ1","fr":"Quête - Nourriture : fromage 1"}
+{"id":1562976,"jp":"クエスト-食物：大きなパン","fr":"Quête - Nourriture : gros pain"}
+{"id":1562977,"jp":"クエスト-食物：テーブル1","fr":"Quête - Nourriture : table 1"}
+{"id":1562978,"jp":"クエスト-食物：テーブル2","fr":"Quête - Nourriture : table 2"}
 {"id":1562979,"jp":"謎のキボのタマゴ","fr":"Œuf de Kibo mystérieux"}
+{"id":1562980,"jp":"普通のキボのタマゴ-火","fr":"Œuf ordinaire de Kibo - Feu"}
+{"id":1562981,"jp":"普通のキボのタマゴ-水","fr":"Œuf ordinaire de Kibo - Eau"}
+{"id":1562982,"jp":"普通のキボのタマゴ-氷","fr":"Œuf ordinaire de Kibo - Glace"}
+{"id":1562983,"jp":"普通のキボのタマゴ-風","fr":"Œuf ordinaire de Kibo - Vent"}
+{"id":1562984,"jp":"普通のキボのタマゴ-草","fr":"Œuf ordinaire de Kibo - Bois"}
+{"id":1562985,"jp":"普通のキボのタマゴ-土","fr":"Œuf ordinaire de Kibo - Terre"}
+{"id":1562986,"jp":"普通のキボのタマゴ-雷","fr":"Œuf ordinaire de Kibo - Foudre"}
+{"id":1562987,"jp":"普通のキボのタマゴ-光","fr":"Œuf ordinaire de Kibo - Lumière"}
+{"id":1562988,"jp":"普通のキボのタマゴ-闇","fr":"Œuf ordinaire de Kibo - Ténèbres"}
 {"id":1562991,"jp":"ピィピィ","fr":"Peepee"}
 {"id":1562992,"jp":"ハンナ","fr":"Hanna"}
 {"id":1562993,"jp":"ケリー","fr":"Kelly"}
@@ -38574,6 +39041,7 @@
 {"id":1563052,"jp":"草巻きの台座","fr":"Socle enveloppé d'herbe"}
 {"id":1563053,"jp":"元素の渦","fr":"Vortex élémentaire"}
 {"id":1563054,"jp":"ミミック・銀","fr":"Mimikku d'argent"}
+{"id":1563055,"jp":"立ち止まって辺りを見回している者","fr":"Personne qui s'arrête pour observer les alentours"}
 {"id":1563056,"jp":"集められた観客","fr":"Public rassemblé"}
 {"id":1563057,"jp":"ジェノラ","fr":"Genora"}
 {"id":1563058,"jp":"パチ","fr":"Pachi"}
@@ -38588,31 +39056,163 @@
 {"id":1563067,"jp":"シラヴィ","fr":"Siravi"}
 {"id":1563068,"jp":"ティラ","fr":"Tira"}
 {"id":1563069,"jp":"ペラキ","fr":"Peraki"}
+{"id":1563070,"jp":"シャルル村一番のハンターの号令訓練だ","fr":"C'est l'heure de l'entraînement sous les ordres de la meilleure chasseuse du Village de Charlulu !"}
 {"id":1563071,"jp":"試してみるぞ。1！","fr":"Essayons. Un !"}
 {"id":1563072,"jp":"続けて、2！","fr":"Ensuite, deux !"}
 {"id":1563073,"jp":"続けて、3！","fr":"Ensuite, trois !"}
+{"id":1563074,"jp":"外から来る者は警戒しなければ……","fr":"Il faut se méfier des étrangers…"}
 {"id":1563075,"jp":"鷹主のように……","fr":"Comme le Seigneur Faucon…"}
 {"id":1563076,"jp":"具合の悪いところはないかしら？","fr":"Pas de douleur quelque part ?"}
+{"id":1563077,"jp":"よく来たな！ここにあるのはどれも一級品だ！","fr":"Bienvenue ! Tout ce que vous trouverez ici est de première qualité !"}
 {"id":1563078,"jp":"高く飛ぶコツは……","fr":"Le secret pour voler haut, c'est…"}
+{"id":1563079,"jp":"ここから遠くまで見渡せるんだ。","fr":"D'ici, on peut voir à perte de vue."}
+{"id":1563080,"jp":"なにを準備しておこうかな……","fr":"Qu'est-ce que je pourrais bien préparer…"}
+{"id":1563081,"jp":"うーん、ちょっと退屈だなあ。","fr":"Hmm, je m'ennuie un peu."}
 {"id":1563082,"jp":"いよいよ本番だな。","fr":"Voici enfin le grand moment."}
 {"id":1563083,"jp":"お客さんだ……","fr":"On a de la visite…"}
+{"id":1563085,"jp":"だんだん連携がとれてきたわね。","fr":"Notre Coordination s'améliore peu à peu."}
+{"id":1563086,"jp":"おや、どうやら天気が崩れるようだ。","fr":"Tiens, on dirait que le temps va se gâter."}
+{"id":1563087,"jp":"できあがったら、少し届けてやろう。","fr":"Quand ce sera prêt, j'en apporterai un peu."}
 {"id":1563088,"jp":"だれと遊ぼうかな？","fr":"Avec qui jouer ?"}
+{"id":1563089,"jp":"どうやら、もっと練習が必要なようだ。","fr":"On dirait qu'il nous faut encore de l'entraînement."}
+{"id":1563090,"jp":"弓矢を放つときは、角度がとても重要なんだ。","fr":"L'angle de tir est très important lorsqu'on décoche une flèche."}
+{"id":1563091,"jp":"本当？それはありがとう。","fr":"Vraiment ? Merci beaucoup."}
+{"id":1563092,"jp":"私たちはみんな自由なのよ。","fr":"Nous sommes tous libres."}
+{"id":1563093,"jp":"すー……はー……すー……","fr":"Inspire… expire… inspire…"}
+{"id":1563094,"jp":"お兄ちゃんはどこ……？","fr":"Où est mon grand frère… ?"}
 {"id":1563095,"jp":"風の音が聞こえたか？","fr":"Le son du vent, entendu ?"}
+{"id":1563096,"jp":"鷹神さま、どうかご加護を……","fr":"Ô dieu Faucon, accordez-nous votre protection…"}
 {"id":1563097,"jp":"もうすぐ完成ね。","fr":"C'est bientôt terminé."}
+{"id":1563098,"jp":"谷の向こうにはなにが……","fr":"Qu'y a-t-il au-delà de la vallée…"}
+{"id":1563099,"jp":"日々の見回りを怠らないようにしないと。","fr":"Il ne faut pas négliger les rondes quotidiennes."}
+{"id":1563100,"jp":"ボネイになにを持っていこうかな？","fr":"Qu'est-ce que je pourrais bien apporter à Bonei ?"}
+{"id":1563101,"jp":"食料をちゃんと蓄えておかないと。","fr":"Il faut faire suffisamment de réserves de nourriture."}
 {"id":1563102,"jp":"ウォーン","fr":"Aouuuh"}
 {"id":1563103,"jp":"ウォ～～～","fr":"Aouuu~~~"}
 {"id":1563104,"jp":"ふぅ、ふぅ～","fr":"Ouf, ouf~"}
+{"id":1563107,"jp":"迷うな！どれも同じだ、まずは砕いてみろ！","fr":"N'hésite pas ! Ils sont tous pareils, commence par en briser un !"}
+{"id":1563108,"jp":"お婆さん、大丈夫？すこし休んだら？","fr":"Mamie, ça va ? Tu ne veux pas te reposer un peu ?"}
+{"id":1563109,"jp":"ふふ、まだはじまったばかりだ、ここから……","fr":"Héhé, ce n'est que le début, à partir de maintenant…"}
+{"id":1563110,"jp":"……なにをしようとしていたんだっけ？","fr":"… Qu'est-ce que j'allais faire, déjà ?"}
+{"id":1563111,"jp":"うぅ……スパイトホーンに勝てるのかな？","fr":"Ouh… Est-ce qu'on peut vraiment vaincre Spitehorn ?"}
+{"id":1563112,"jp":"いや！駄目だ！怯んではいけない！","fr":"Non ! Ressaisis-toi ! Il ne faut pas faiblir !"}
+{"id":1563113,"jp":"鷹主なら必ず凶神を追い払えると信じている。","fr":"Je suis convaincu que le Seigneur Faucon saura repousser le dieu maléfique."}
+{"id":1563114,"jp":"今度こそ、我々は退いたりしない。","fr":"Cette fois, nous ne reculerons pas."}
+{"id":1563116,"jp":"凶神……すこし怖いよ、うぅ……","fr":"Le dieu maléfique… Il me fait un peu peur, ouh…"}
+{"id":1563117,"jp":"なんの役にも立てないとは……本当、恥ずかしい！","fr":"Ne servir absolument à rien… Quelle honte !"}
+{"id":1563118,"jp":"今日は盛大にお祝いしましょう！","fr":"Aujourd'hui, faisons la fête en grande pompe !"}
+{"id":1563121,"jp":"イェクウ、すごい！本当にありがとう！","fr":"Yekuu, c'est incroyable ! Merci infiniment !"}
+{"id":1563122,"jp":"本当にいい知らせだ！傷も痛まなくなった気がするよ！","fr":"Quelle merveilleuse nouvelle ! J'ai l'impression que mes blessures ne me font même plus mal !"}
+{"id":1563124,"jp":"師匠……鍛冶屋がめちゃくちゃにされちゃったよ。","fr":"Maître… La forge a été complètement saccagée."}
 {"id":1563125,"jp":"シュッ……","fr":"Fshh…"}
 {"id":1563127,"jp":"師匠、私は……","fr":"Maître, moi…"}
 {"id":1563129,"jp":"うん……","fr":"Oui…"}
+{"id":1563132,"jp":"ノノもぎょうしょう、つらいの、わかる。","fr":"Nono aussi, marchande ambulante. Nono comprend, c'est dur."}
+{"id":1563133,"jp":"ノノ、私たちも一緒に後片付けを手伝おう。","fr":"Nono, aidons aussi à tout remettre en ordre."}
+{"id":1563134,"jp":"ふたりとも……本当にありがとう。","fr":"Merci à vous deux… Vraiment."}
 {"id":1563135,"jp":"気にしないで。","fr":"Pas de souci."}
+{"id":1563136,"jp":"ルマおばあさん、大丈夫？","fr":"Mamie Ruma, tout va bien ?"}
+{"id":1563138,"jp":"釣り具が壊れていなくてよかったです……","fr":"Heureusement que mon matériel de pêche n'a pas été abîmé…"}
+{"id":1563139,"jp":"これらは私が苦労して作りあげたものですから。","fr":"Il m'a fallu tant d'efforts pour fabriquer tout cela."}
+{"id":1563140,"jp":"村のみんなは元気かな……","fr":"J'espère que tout le monde au village va bien…"}
+{"id":1563141,"jp":"ううっ、キボたちが驚いて逃げちゃったよ。","fr":"Ouh… Les Kibo ont pris peur et se sont enfuis."}
+{"id":1563142,"jp":"はやく探そう。あと一匹はどの子なんだ？","fr":"Cherchons vite. Quel est le dernier Kibo manquant ?"}
+{"id":1563143,"jp":"うぅ……もうすこしで死ぬところだった……","fr":"Ouh… J'ai bien failli y rester…"}
+{"id":1563145,"jp":"監視塔はすべて破壊されてしまった……","fr":"Toutes les tours de guet ont été détruites…"}
+{"id":1563146,"jp":"フレイム、アヒを見なかったか？","fr":"Flame, tu n'aurais pas vu Ahi ?"}
+{"id":1563149,"jp":"師匠……私たち、本当にシャルル村を出ていくの？","fr":"Maître… On va vraiment quitter le Village de Charlulu ?"}
+{"id":1563151,"jp":"私たち……また帰ってこられるのかな？","fr":"Est-ce qu'on pourra… revenir un jour ?"}
+{"id":1563155,"jp":"ティナナ、手伝おうか？","fr":"Tinana, un coup de main ?"}
+{"id":1563156,"jp":"まずは自分のものをなんとかしなさいよ！","fr":"Occupe-toi d'abord de tes propres affaires !"}
+{"id":1563160,"jp":"ちがう、ただ思い出を残しておきたいだけだよ……","fr":"Non, je veux simplement garder quelques souvenirs…"}
+{"id":1563164,"jp":"はぁ……なんだか名残惜しいな。","fr":"Haa… Ça me fait vraiment de la peine de partir."}
+{"id":1563165,"jp":"なにがあろうと、我々は最後まで持ち場を守り抜く。","fr":"Quoi qu'il arrive, nous tiendrons nos positions jusqu'au bout."}
+{"id":1563168,"jp":"ラル隊長！俺たちは村を離れたくない！","fr":"Capitaine Ral ! Nous ne voulons pas quitter le village !"}
 {"id":1563171,"jp":"隊長、それって……","fr":"Capitaine, ça veut dire que…"}
+{"id":1563174,"jp":"ジュリリ、手伝いに来てくれてありがとう。","fr":"Juriri, merci d'être venu nous aider."}
+{"id":1563179,"jp":"まさか、村を離れる日が来るとは思いもしなかった。","fr":"Jamais je n'aurais imaginé devoir un jour quitter le village."}
+{"id":1563181,"jp":"だが、心が落ち着かない、","fr":"Pourtant, je n'arrive pas à trouver la paix…"}
+{"id":1563184,"jp":"お父さん……私たち、どこへ行くの？","fr":"Papa… Où est-ce qu'on va ?"}
+{"id":1563185,"jp":"わからない。あまり遠い場所ではないといいが。","fr":"Je ne sais pas. J'espère que ce ne sera pas trop loin."}
+{"id":1563186,"jp":"はぁ……このかまども運ぶのか？","fr":"Haa… Il faut aussi transporter ce fourneau ?"}
+{"id":1563187,"jp":"魚も持って帰れない……いっそ逃がしてやるか……","fr":"On ne peut pas non plus emporter les poissons… Autant les relâcher…"}
 {"id":1563189,"jp":"ルマおばあちゃん……","fr":"Mamie Ruma…"}
+{"id":1563191,"jp":"キボたちも一緒に行くの？","fr":"Les Kibo viennent avec nous aussi ?"}
+{"id":1563193,"jp":"みんな村を出ていくのか？","fr":"Tout le monde va quitter le village ?"}
+{"id":1563195,"jp":"もっと食べろ、食べものはいくらでもあるぞ！","fr":"Mangez encore ! Il y a de la nourriture à volonté !"}
+{"id":1563196,"jp":"民兵団！明日の準備はできているか！","fr":"Milice ! Êtes-vous prêts pour demain ?"}
 {"id":1563197,"jp":"野営みたいだね！","fr":"On dirait un campement !"}
+{"id":1563198,"jp":"緊張感がなさすぎる……","fr":"Vous manquez vraiment de vigilance…"}
+{"id":1563199,"jp":"モモ、しっかり休めよ。明日は忙しくなるぞ！","fr":"Momo, repose-toi bien. Demain, on aura beaucoup de travail !"}
 {"id":1563200,"jp":"うん、師匠！","fr":"Oui, maître !"}
+{"id":1563201,"jp":"平穏な日常を守ることこそ、我々の職務だ。","fr":"Notre devoir est de préserver la tranquillité du quotidien."}
+{"id":1563202,"jp":"任務が終わったら、皆で一杯やろう！","fr":"Une fois la mission terminée, allons tous boire un verre !"}
+{"id":1563204,"jp":"やっぱり仕事を変えたほうがいいかな……","fr":"Je devrais peut-être changer de métier, finalement…"}
+{"id":1563205,"jp":"やれやれ、本当に手間がかかるわね。","fr":"Eh bien, quelle corvée."}
+{"id":1563206,"jp":"だいたいこんなもんか……","fr":"Ça devrait suffire, je pense…"}
+{"id":1563207,"jp":"まだ油断はできないわ。","fr":"On ne peut pas encore baisser la garde."}
+{"id":1563209,"jp":"心を健やかに保つことも、回復には大事なことよ。","fr":"Prendre soin de son esprit est aussi essentiel à la guérison."}
+{"id":1563210,"jp":"無理な要求には応えられないよ。","fr":"Je ne peux pas satisfaire des demandes déraisonnables."}
+{"id":1563211,"jp":"皆さまがはやく元気になりますように！","fr":"Puissiez-vous tous vous rétablir rapidement !"}
 {"id":1563212,"jp":"役に立てるかな……","fr":"Je pourrai être utile… ?"}
+{"id":1563213,"jp":"これくらいの痛み、なんてことないよ！","fr":"Ce n'est pas une petite douleur comme celle-là qui va m'arrêter !"}
+{"id":1563214,"jp":"知りたいこと、まだまだたくさんあるの……","fr":"Il y a encore tant de choses que j'aimerais découvrir…"}
+{"id":1563215,"jp":"歳は取りたくないものね……","fr":"Ah, ce n'est pas drôle de vieillir…"}
+{"id":1563216,"jp":"おもしろい話こそ、料理をおいしくする最高の魔法ね。","fr":"Une bonne histoire est la plus belle des magies pour rendre un plat délicieux."}
+{"id":1563217,"jp":"僕の料理……お客さんは満足してくれるかな？","fr":"Ma cuisine… J'espère qu'elle plaira aux clients."}
+{"id":1563218,"jp":"美食のためなら、どんな手間も惜しまないわ。","fr":"Pour la gastronomie, aucun effort n'est de trop."}
+{"id":1563221,"jp":"平民と付き合うのは面倒だ……","fr":"Fréquenter les gens du peuple est tellement fastidieux…"}
+{"id":1563222,"jp":"ふむ……どうしたものか……","fr":"Hmm… Que faire…"}
+{"id":1563223,"jp":"えっと……なんだったかしら？","fr":"Euh… Qu'est-ce que c'était, déjà ?"}
+{"id":1563226,"jp":"片手で金を受け取り、片手で剣を抜くってな。","fr":"D'une main, on prend l'argent. De l'autre, on dégaine l'épée."}
+{"id":1563227,"jp":"兄貴についていけば、損はしねぇよ。","fr":"Tant qu'on suit le grand frère, on n'a rien à perdre."}
+{"id":1563228,"jp":"この世はすべてビジネスさ。","fr":"Dans ce monde, tout est affaire de commerce."}
+{"id":1563229,"jp":"だれのために戦うかは私が決める。","fr":"C'est à moi de décider pour qui je me bats."}
+{"id":1563230,"jp":"遠慮しないで、味見していってくれよ！","fr":"N'hésitez pas, venez goûter !"}
+{"id":1563231,"jp":"豊朔も錦朔も、いつだって花はそばにあるわ。","fr":"Que ce soit la lune des Récoltes ou la lune de Brocart, les fleurs sont toujours à nos côtés."}
 {"id":1563232,"jp":"まずは一杯どうだい？","fr":"Un verre pour commencer ?"}
+{"id":1563233,"jp":"お客さまのオーダー、書き漏らしてないですよね……","fr":"Je n'ai oublié de noter aucune commande, n'est-ce pas…"}
+{"id":1563234,"jp":"納品書をもう一回見てみるよ……","fr":"Je vais vérifier encore une fois le bon de livraison…"}
+{"id":1563235,"jp":"まったく、薄っぺらい味だ！","fr":"Quelle fadeur ! Ce plat manque vraiment de saveur !"}
+{"id":1563238,"jp":"いいか、採掘に油断は禁物だぞ！","fr":"Écoute bien, la vigilance est essentielle pendant le Minage !"}
+{"id":1563239,"jp":"俺以上に鉱石を理解している者なんていないさ！","fr":"Personne ne connaît mieux les minerais que moi !"}
+{"id":1563240,"jp":"坑道に入れば、すべては腕っ節次第よ。","fr":"Une fois dans les galeries, tout dépend de la force de tes bras."}
+{"id":1563241,"jp":"友よ、時はユニゴールドなり、です。","fr":"Mon ami, le temps, c'est de l'Uni d'or."}
+{"id":1563242,"jp":"闇市に来たからには、手ぶらで帰っちゃだめだよ。","fr":"Puisque vous êtes au marché noir, ne repartez pas les mains vides."}
+{"id":1563244,"jp":"疲れたと思ったら、いつでも休んでいいんですポ。","fr":"Si la fatigue se fait sentir, vous pouvez vous reposer à tout moment, po."}
+{"id":1563245,"jp":"お客さん、お客さん！なにかお探しですか？","fr":"Hé, par ici ! Vous cherchez quelque chose ?"}
+{"id":1563246,"jp":"んん……ベッド、ふかふかで気持ちいい……","fr":"Mmm… Ce lit est si moelleux, on y est tellement bien…"}
+{"id":1563248,"jp":"研究者たるもの、みずから限界を設けるべきではない。","fr":"Quiconque se consacre à la recherche ne devrait jamais s'imposer de limites."}
+{"id":1563249,"jp":"わ、私みたいな才能のない人間は……","fr":"Q-quelqu'un sans talent comme moi…"}
+{"id":1563250,"jp":"血統や肩書きは、私の研究テーマには値しない。","fr":"Les lignées et les titres ne méritent pas que j'y consacre mes recherches."}
+{"id":1563253,"jp":"ユニがどうしたと言うんだ。そんなものは眼中にない。","fr":"Les Uni ? Et alors ? Ces choses-là ne m'intéressent pas."}
+{"id":1563254,"jp":"南の橘、北の枳、どちらにも使い道はあるものさ。","fr":"L'orange du sud comme l'orange amère du nord ont chacune leur utilité."}
+{"id":1563255,"jp":"平穏な日々が長すぎて、体がなまってしまったな……","fr":"Ces longues années de paix ont fini par me ramollir…"}
+{"id":1563257,"jp":"娘たちは立派に育った、だが……","fr":"Mes filles ont grandi et sont devenues remarquables, mais…"}
+{"id":1563260,"jp":"おなかいっぱい食べてこそ、力仕事もできるんだよ！","fr":"C'est le ventre bien rempli qu'on peut accomplir les travaux de force !"}
+{"id":1563261,"jp":"咲き誇る花や果実も、いずれは枯れ落ちる日が来る……","fr":"Même les fleurs épanouies et les fruits mûrs finiront un jour par se flétrir et tomber…"}
+{"id":1563262,"jp":"老いには勝てんもんだな……","fr":"On ne peut rien contre le poids des années…"}
+{"id":1563263,"jp":"うちの孫娘は、まったく大したもんさ。","fr":"Ma petite-fille est vraiment extraordinaire."}
+{"id":1563264,"jp":"過ぎたことは、酒の肴にでもしてしまえばいいんだ。","fr":"Autant faire des histoires du passé de bonnes anecdotes à raconter autour d'un verre."}
+{"id":1563265,"jp":"俺にはいい考えがある……","fr":"J'ai une bonne idée…"}
+{"id":1563266,"jp":"ほんとの居場所って、どこにあるんだろう……","fr":"Je me demande où se trouve ma véritable place…"}
+{"id":1563267,"jp":"外の世界って、そんなにいいものなの？","fr":"Le monde extérieur est-il vraiment si merveilleux ?"}
+{"id":1563268,"jp":"フィミーのお手本にならなきゃね。","fr":"Il faut que je montre le bon exemple à Fimy."}
+{"id":1563269,"jp":"おっきくなったら、ママに楽させてあげたいな。","fr":"Quand je serai plus grande, j'aimerais que maman puisse se reposer."}
+{"id":1563270,"jp":"肉を食べるユースベリー、爆発するリッチモモ……","fr":"Des baies de jouvence carnivores, des pêches savoureuses explosives…"}
+{"id":1563275,"jp":"このレシピ、いったいどうなってるの……","fr":"Mais qu'est-ce que c'est que cette recette…"}
+{"id":1563279,"jp":"子どもたちは本当に元気ねぇ……","fr":"Les enfants débordent vraiment d'énergie…"}
+{"id":1563280,"jp":"蜜を作るキボって、どんなのがいるのかな？","fr":"Je me demande quels Kibo produisent du miel."}
 {"id":1563281,"jp":"誉れこそ命！","fr":"L'honneur, c'est la vie !"}
+{"id":1563282,"jp":"一日中釣りばっかり。大したユニにもならないのに……","fr":"Pêcher toute la journée, alors que ça ne rapporte même pas beaucoup d'Uni…"}
+{"id":1563283,"jp":"ごちゃごちゃ考えるまえに、川岸で竿でも垂らそう。","fr":"Plutôt que de me compliquer la vie, je vais lancer ma ligne au bord de la rivière."}
+{"id":1563284,"jp":"食にはこだわらないと。人生を損してしまうよ。","fr":"Il faut savoir apprécier la bonne cuisine, sinon on passe à côté de la vie."}
+{"id":1563286,"jp":"いまの暮らしだって、別に悪くないよ。","fr":"Notre vie actuelle n'est pas si mal, après tout."}
+{"id":1563287,"jp":"アメを受け取ったら、わたしの子分だよ！","fr":"Si tu acceptes ce bonbon, tu deviens mon acolyte !"}
+{"id":1563288,"jp":"ずっと一緒に遊んでくれる友達なんて、いないんだ……","fr":"Je n'ai pas d'amis qui voudraient jouer avec moi pour toujours…"}
+{"id":1563289,"jp":"はぁ……どうしてこんなことに……","fr":"Haa… Comment en est-on arrivé là…"}
+{"id":1563290,"jp":"あの人は私を置いていってしまった……","fr":"Cette personne est partie en me laissant derrière…"}
+{"id":1563294,"jp":"はぁ、いつになったら家に帰れるんだか……","fr":"Haa… Quand pourrai-je enfin rentrer chez moi…"}
 {"id":1563305,"jp":"豊穣に感謝を……","fr":"Merci pour cette abondance…"}
 {"id":1563341,"jp":"怖いよ……","fr":"J'ai peur…"}
 {"id":1563342,"jp":"ええ、ゴロゴロと……","fr":"Oui, à paresser…"}
