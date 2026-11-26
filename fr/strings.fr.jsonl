@@ -9086,7 +9086,7 @@
 {"id":1504881,"jp":"ラーガの王座争い","fr":"La lutte pour le trône des Raga"}
 {"id":1504882,"jp":"ソール","fr":"Sol"}
 {"id":1504884,"jp":"絶好のチャンス","fr":"Une occasion en or"}
-{"id":1504885,"jp":"サトゥル","fr":"Satur"}
+{"id":1504885,"jp":"サトゥル","fr":"Saturn"}
 {"id":1504886,"jp":"竜人遺跡の奥にめずらしいキボが現れたらしいの。これって、薬の素材を集める絶好の機会よね？\nすこし危険だとは思うけど、あなたならどうにかできるはずよ。","fr":"Il paraît qu'un Kibo Rare est apparu dans les profondeurs des ruines des Draconiens. N'est-ce pas l'occasion idéale de collecter des ingrédients médicinaux ?\nCela risque d'être un peu dangereux, mais je suis certaine que tu sauras t'en sortir."}
 {"id":1504887,"jp":"うっかり迷い込んで","fr":"Un détour malencontreux"}
 {"id":1504888,"jp":"クオウ","fr":"Kuo"}
@@ -34683,62 +34683,718 @@
 {"id":1534984,"jp":"私の魚をドゥルから取り返したんですか？","fr":"Vous avez repris mes poissons aux Dur ?"}
 {"id":1534985,"jp":"ははは！！ありがとうございます、星臨者さん！","fr":"Hahaha !! Merci beaucoup, Enfant des étoiles !"}
 {"id":1534986,"jp":"ドゥルから魚を取り返せる奴なんて、あなたがはじめてだ！","fr":"Personne n'avait jamais réussi à reprendre du poisson aux Dur avant vous !"}
+{"id":1534987,"jp":"一匹しか残ってないけど……平気？","fr":"Il n'en reste plus qu'un… Ça ira ?"}
+{"id":1534988,"jp":"構いませんよ。一番大事なのは、あいつらに一泡吹かせてやれたことですから、ははは！","fr":"Peu importe. Le plus important, c'est qu'on leur ait joué un bon tour, hahaha !"}
+{"id":1534989,"jp":"さぁ、これはお礼です。遠慮なく受け取ってください。","fr":"Tenez, voici pour vous remercier. Acceptez-le sans façon."}
 {"id":1534990,"jp":"か、返せぇ！","fr":"R-rends-le-moi !"}
+{"id":1534992,"jp":"逃げるな、この泥棒め！","fr":"Ne t'enfuis pas, sale voleur !"}
+{"id":1534993,"jp":"くっ……ウィンデルなんて捕まえられるわけがないよ……\nうう、このままじゃボクの荷物が……","fr":"Argh… Jamais je n'arriverai à attraper un Windel…\nAïe aïe aïe, à ce rythme, mes bagages vont…"}
+{"id":1534994,"jp":"うぅ……星臨者、助けて！頼れるのはキミだけなんだ！","fr":"Ugh… Enfant des étoiles, à l'aide ! Il n'y a que toi sur qui je puisse compter !"}
+{"id":1534995,"jp":"なんだか重たい依頼だな……|これは……ずいぶん重たいお願いだね……","fr":"Une mission qui pèse lourd, on dirait…|Voilà… une demande qui pèse bien lourd…"}
+{"id":1534996,"jp":"やっと取り戻せた。はやくカークに返してあげよう。","fr":"Enfin récupéré. Rendons-le vite à Kirk."}
+{"id":1534997,"jp":"戻った……ほんとうに戻ってきた……","fr":"Il est revenu… Il est vraiment revenu…"}
+{"id":1534998,"jp":"もう二度と離さないぞ、ボクの宝物！","fr":"Je ne te lâcherai plus jamais, mon trésor !"}
+{"id":1534999,"jp":"（凄い熱量……相手は荷物なのに）|（すごい熱量……相手は荷物なのに）","fr":"(Quelle passion… Pour des bagages, en plus.)|(Quelle passion… Pour des bagages, en plus.)"}
+{"id":1535000,"jp":"本当にありがとう、星臨者！","fr":"Merci mille fois, Enfant des étoiles !"}
+{"id":1535001,"jp":"それと……もう二度と、この道は通らないと誓うよ……","fr":"Et… je jure de ne plus jamais prendre cette route…"}
+{"id":1535002,"jp":"あなたの行動が、近くのボアラーガを刺激してしまったようだ……","fr":"Vos actions semblent avoir agité les Boaraga des environs…"}
+{"id":1535003,"jp":"【実装対象外／新芽山谷随机任务CBS031-CBS040.xlsx】","fr":"【Non implémenté／新芽山谷随机任务CBS031-CBS040.xlsx】"}
+{"id":1535004,"jp":"返してやろう。|返してあげなきゃ。","fr":"Rendons-le-lui.|Il faut le lui rendre."}
+{"id":1535005,"jp":"これって……僕の特注の木彫り！？ありがとう、星臨者！！！","fr":"C'est… ma sculpture sur mesure !? Merci, Enfant des étoiles !!!"}
+{"id":1535006,"jp":"まさか見つかるなんて思わなかったよ！","fr":"Je n'aurais jamais cru qu'on la retrouverait !"}
+{"id":1535007,"jp":"それにしても……完璧な木彫りだな。\nキボの毛並みまでしっかりあるんだから……","fr":"Quand même… quelle sculpture parfaite.\nMême le pelage du Kibo est rendu à la perfection…"}
+{"id":1535008,"jp":"（……ボアラーガの毛がついただけだと思うが……）|（……ただボアラーガの毛がついてるだけだと思うんだけど……）","fr":"(… Je crois que ce sont juste des poils de Boaraga collés dessus…)|(… Je crois que ce sont juste des poils de Boaraga qui se sont collés dessus…)"}
+{"id":1535009,"jp":"とにかく、本当にありがとう！","fr":"En tout cas, merci beaucoup !"}
+{"id":1535010,"jp":"あなたは不吉な気配を感じ取った……","fr":"Vous percevez une présence menaçante…"}
+{"id":1535011,"jp":"カークの積み荷……なぜこんなところに？とにかく届けてやるか。|カークの積み荷……どうしてここに？とにかく届けてあげよう。","fr":"La cargaison de Kirk… Qu'est-ce qu'elle fait là ? Bon, allons la lui livrer.|La cargaison de Kirk… Pourquoi est-elle ici ? Bref, allons la lui apporter."}
+{"id":1535012,"jp":"こ、これは……まさか生きてるうちに、もう一度キミに会えたね……ボクの荷物よ……","fr":"C-ce sont… Jamais je n'aurais cru vous revoir de mon vivant… mes bagages chéris…"}
+{"id":1535013,"jp":"（また荷物に向かって妙なことを言ってる……）","fr":"(Le voilà encore qui dit des choses bizarres à ses bagages…)"}
+{"id":1535014,"jp":"星臨者、キミのおかげでボクたちは再び巡り会えたんだ！","fr":"Enfant des étoiles, grâce à toi, nous voilà réunis !"}
 {"id":1535015,"jp":"おおげさだよ……","fr":"Tu exagères…"}
+{"id":1535016,"jp":"これはお礼だから。受け取ってよ！","fr":"C'est pour te remercier. Prends-le !"}
+{"id":1535017,"jp":"やあ、星臨者！ちょっとお願いがあるんだ。","fr":"Salut, Enfant des étoiles ! J'ai un petit service à te demander."}
+{"id":1535018,"jp":"僕の腕、すこし上がってきたみたいなんだ。\nそれで、ラニさんから新しいウキを作ってみろって言われたんだ。","fr":"Je crois que j'ai fait quelques progrès.\nDu coup, Rani m'a dit d'essayer de fabriquer un nouveau flotteur."}
+{"id":1535019,"jp":"でさ、ドゥルの羽なんかがちょうど材料によさそうなんだ。","fr":"Et justement, des plumes de Dur, ça ferait un matériau parfait."}
+{"id":1535020,"jp":"ふぅ……ドゥル、足が速すぎるな。やっと集まった。|はぁ……ドゥル、ほんとに走るの速い。やっと揃ったよ。","fr":"Pfiou… Ces Dur courent bien trop vite. Enfin, j'en ai assez.|Haa… Les Dur courent vraiment vite. J'ai enfin tout ce qu'il faut."}
+{"id":1535021,"jp":"よし！これで昨日の魚泥棒の借りを返せるぞ。","fr":"Parfait ! Je vais pouvoir me venger du vol de poisson d'hier."}
+{"id":1535022,"jp":"……ウキを作るんじゃなくて、ドゥルへの仕返しが目的だったのか！","fr":"… Ton but, ce n'était pas le flotteur, c'était de te venger des Dur !"}
+{"id":1535023,"jp":"仕返しもできて、新しいウキも作れる。一石二鳥だろ？","fr":"Je me venge et je me fais un nouveau flotteur. D'une pierre deux coups, non ?"}
 {"id":1535024,"jp":"ありがとな、星臨者。","fr":"Merci, Enfant des étoiles."}
+{"id":1535025,"jp":"最近、色々な原料を探しているんですよ。","fr":"Ces temps-ci, je cherche toutes sortes de matières premières."}
 {"id":1535026,"jp":"たとえば……毛とか。","fr":"Par exemple… du poil."}
+{"id":1535027,"jp":"僕の髪をじっと見るなよ！|ちょっと、私の髪を見ないでよ！","fr":"Ne regarde pas mes cheveux comme ça !|Hé, arrête de fixer mes cheveux !"}
+{"id":1535028,"jp":"ご安心ください。星臨者さまにそんな失礼なお願いをするつもりはありませんので。","fr":"Rassurez-vous. Je n'aurais jamais l'impolitesse de vous demander une chose pareille, Enfant des étoiles."}
+{"id":1535029,"jp":"実は、シュネルフの毛で糸を紡いでみたいんです。\nよければ、集めてきてもらえないでしょうか……","fr":"En fait, j'aimerais essayer de filer de la fourrure de Schnelf.\nSi cela ne vous ennuie pas, pourriez-vous m'en rapporter…"}
+{"id":1535030,"jp":"僕の髪さえ狙わなければ、引き受けるよ！|私の髪さえ狙わなければ、いいよ！","fr":"Du moment que tu ne vises pas mes cheveux, je m'en charge !|Tant que tu ne vises pas mes cheveux, d'accord !"}
+{"id":1535031,"jp":"これだけあれば十分だろう。ジュリリに届けに行こう。","fr":"Ça devrait suffire. Allons l'apporter à Juriri."}
+{"id":1535032,"jp":"まあ、なんて柔らかいんでしょう……\nこれは、きっとシュネルフのおなかの毛ですね。","fr":"Oh, comme c'est doux…\nC'est sûrement le duvet du ventre d'un Schnelf."}
+{"id":1535033,"jp":"ありがとうございます、星臨者さま。","fr":"Merci beaucoup, Enfant des étoiles."}
+{"id":1535034,"jp":"ところで、星臨者さま。\n話は変わるのですが、もし髪を切る予定があるなら……","fr":"D'ailleurs, Enfant des étoiles…\nRien à voir, mais si jamais vous comptez vous faire couper les cheveux…"}
 {"id":1535035,"jp":"やっぱり狙われた！？","fr":"Je le savais, on me visait !?"}
+{"id":1535036,"jp":"飼料も食べないし、草の葉も口にしない……\nいったいなにが食べたいんだろう？","fr":"Il ne mange ni le fourrage ni les feuilles d'herbe…\nQu'est-ce qu'il veut manger, à la fin ?"}
+{"id":1535037,"jp":"『ピピ』っていう村のフラーメがいるんだけど、すごく好き嫌いが激しいみたいなの。","fr":"Il y a un Flame au village qui s'appelle « Pipi », et il est très difficile, apparemment."}
+{"id":1535038,"jp":"普通のキボ用の餌は一通り試したんだけど、どれも反応がいまいちで……","fr":"J'ai essayé toute la nourriture ordinaire pour Kibo, mais rien ne lui fait vraiment envie…"}
+{"id":1535039,"jp":"だから、もしかしたらすごく特別な味じゃないとダメなんじゃないかと思って。\nたとえば、『激辛エイプル』みたいな辛い料理なら、気に入るかもしれない！","fr":"Alors je me suis dit qu'il lui fallait peut-être un goût vraiment particulier.\nPar exemple, un plat épicé comme l'« Aple ultra épicé », ça pourrait lui plaire !"}
+{"id":1535040,"jp":"お客さん、『激辛エイプル』を作ってきてもらえない？","fr":"Dis, tu pourrais me préparer un « Aple ultra épicé » ?"}
+{"id":1535041,"jp":"わぁ……このレッチルフ、見ただけで食欲をそそるね！\n思わず自分で全部食べちゃいたいよ！","fr":"Waouh… Rien qu'à voir ce Retchilf, j'en ai l'eau à la bouche !\nJ'aurais presque envie de tout manger moi-même !"}
+{"id":1535042,"jp":"……なんてうそうそ。ちゃんとピピに食べさせてみる。ありがとう、星臨者！","fr":"… Je rigole, je rigole. Je vais bien le faire goûter à Pipi. Merci, Enfant des étoiles !"}
+{"id":1535043,"jp":"タタの激辛焼き魚、清草ソース、シャルル流串焼き……\nそれにがっつり炭火炙り肉。","fr":"Le poisson grillé extra-pimenté façon Tata, la sauce à l'herbe limpide, les brochettes à la mode de Charlulu…\nEt la viande copieuse grillée au charbon."}
+{"id":1535044,"jp":"宴会に必要な料理なのに、準備がちっとも進んでないんだよ。\nシャフィもいないし、本当に手が足りないんだ……","fr":"Il nous faut tous ces plats pour le banquet, et les préparatifs n'avancent pas du tout.\nShafi n'est pas là non plus, on manque vraiment de bras…"}
+{"id":1535045,"jp":"ルマ婆さん、手伝うよ。なにをすればいい？","fr":"Mamie Ruma, je vais t'aider. Qu'est-ce que je peux faire ?"}
+{"id":1535046,"jp":"優しいね、星臨者さん。できればなんだがね……\nがっつり炭火炙り肉を三つ、用意してくれるかい？","fr":"C'est gentil à toi, Enfant des étoiles. Si tu pouvais…\nme préparer trois viandes copieuses grillées au charbon ?"}
+{"id":1535047,"jp":"星臨者さんの料理の腕は、村のみんなが認めてるんだからね。","fr":"Tout le village sait que tu te débrouilles très bien en cuisine, après tout."}
 {"id":1535048,"jp":"本当に助かったよ。","fr":"Tu m'as vraiment été d'une grande aide."}
+{"id":1535049,"jp":"焼き加減も完璧だし、宴会に来るみんなはきっと喜ぶさ。","fr":"La cuisson est parfaite, en plus. Tous ceux qui viendront au banquet vont se régaler."}
+{"id":1535050,"jp":"さあ、これは私からのお礼だよ。","fr":"Tiens, voilà pour te remercier."}
+{"id":1535051,"jp":"ほっほ……星臨者よ、タタの激辛焼き魚の由来を知っておるか？","fr":"Ho ho… Enfant des étoiles, connais-tu l'origine du poisson grillé extra-pimenté façon Tata ?"}
+{"id":1535052,"jp":"もともとシャルル村でタナの火祭りを祝う料理だったんでしょ？","fr":"À l'origine, c'était un plat pour célébrer la fête du feu de Tana au Village de Charlulu, non ?"}
+{"id":1535053,"jp":"ほっほ……たしかにそういう話も存在するが、それだけではないんじゃ。","fr":"Ho ho… Il est vrai qu'on raconte cela, mais ce n'est pas tout."}
+{"id":1535054,"jp":"……と、話していたら、腹が減ってきたわい。","fr":"… Ah, à force d'en parler, voilà que j'ai faim."}
+{"id":1535055,"jp":"タタの激辛焼き魚の味……もうしばらく口にしておらんのう。","fr":"Le goût du poisson grillé extra-pimenté façon Tata… Cela fait bien longtemps que je n'en ai pas mangé."}
+{"id":1535056,"jp":"しょうがない。じゃあひとつ作ってあげるよ。","fr":"Bon, d'accord. Je vais t'en préparer un."}
+{"id":1535057,"jp":"ほっほ……星臨者、なかなかの腕前じゃな。","fr":"Ho ho… Enfant des étoiles, tu as un sacré coup de main."}
+{"id":1535058,"jp":"この匂い……昔のことを思い出すのう。\nあの宴の前までは、タタという名はまだ付いていなかった。","fr":"Cette odeur… Elle me rappelle le temps jadis.\nAvant ce banquet-là, le plat ne portait pas encore le nom de Tata."}
+{"id":1535059,"jp":"宴では、毎回豪華な料理を用意するのが習わしでな。","fr":"À chaque banquet, la coutume voulait qu'on prépare un repas somptueux."}
+{"id":1535060,"jp":"その最後を飾る主菜が、一匹の巨大な焼き魚だったんじゃ。\nその魚は実に旨く、皆が夢中で食べ続けた。","fr":"Et pour couronner le festin, le plat principal était un énorme poisson grillé.\nIl était si délicieux que tout le monde n'arrêtait plus d'en manger."}
+{"id":1535061,"jp":"……ところが、顔を上げてみると、出席者全員の顔が腫れ上がっていてのう。\nまるで天に輝くタナのように丸くなっておった。","fr":"… Mais quand j'ai relevé la tête, tous les convives avaient le visage enflé.\nIls étaient tout ronds, comme Tana qui brille dans le ciel."}
+{"id":1535062,"jp":"……かなり壮観な光景だったんだろうね。","fr":"… Ça devait être un sacré spectacle."}
+{"id":1535063,"jp":"あの場面をいまでもはっきり覚えておる。\nそれ以来、この焼き魚料理は『タタの激辛焼き魚』と呼ばれるようになったんじゃ。","fr":"Je me souviens encore très bien de cette scène.\nDepuis, ce poisson grillé s'appelle le « poisson grillé extra-pimenté façon Tata »."}
+{"id":1535064,"jp":"ほっほっほ……星臨者。\n神秘なるものに対しては、常に畏敬の念を抱くべきじゃぞ。","fr":"Ho ho ho… Enfant des étoiles.\nDevant les mystères, il faut toujours garder une crainte respectueuse."}
+{"id":1535065,"jp":"ヤアル、なんだか様子が変だな。体調でも悪いのか？|ヤアル、なんだか調子悪そう。どこか具合でも悪いの？","fr":"Yaal, tu as l'air bizarre. Tu ne te sens pas bien ?|Yaal, tu n'as pas l'air en forme. Tu es malade ?"}
+{"id":1535066,"jp":"星臨者……なの？……わ、私……すごくおなかが空いて……","fr":"Enfant des étoiles… c'est toi ? … J-j'ai… tellement faim…"}
+{"id":1535067,"jp":"も、もうダメ……立っていられない……","fr":"J-je n'en peux plus… Je ne tiens plus debout…"}
 {"id":1535068,"jp":"大丈夫！？","fr":"Ça va !?"}
+{"id":1535069,"jp":"星臨者……なにか食べものを……なんでもいいから……お願い……","fr":"Enfant des étoiles… quelque chose à manger… n'importe quoi… s'il te plaît…"}
+{"id":1535070,"jp":"……げふっ……はぁ……ありがとう、星臨者。助かったよ。","fr":"… Burp… Haa… Merci, Enfant des étoiles. Tu m'as sauvé la mise."}
+{"id":1535071,"jp":"朝はやくに家を出たから朝ごはんを食べる暇がなかったの……\nおやつも忘れてたから……危うく倒れるところだったわ。","fr":"Je suis partie de chez moi tôt ce matin, je n'ai pas eu le temps de prendre mon petit-déjeuner…\nEt j'avais oublié mon goûter… J'ai bien failli m'effondrer."}
+{"id":1535072,"jp":"でも本当に助かった！\n星臨者の料理はただ腹を満たすだけじゃなく、すごく美味しかったわ。\nなんというか、むしろ得した気分ね！これ、お礼だから。ぜひ受け取ってね！","fr":"Mais tu m'as vraiment tirée d'affaire !\nTa cuisine, Enfant des étoiles, ne fait pas que remplir l'estomac : elle était délicieuse.\nAu fond, j'ai même l'impression d'y avoir gagné ! Tiens, pour te remercier. Prends-le, j'insiste !"}
+{"id":1535073,"jp":"最近ね、家の料理がどれもへんなの……ノーマの口が楽しくないの……","fr":"Ces temps-ci, tout ce qu'on mange à la maison est bizarre… La bouche de Norma n'est pas contente…"}
+{"id":1535074,"jp":"星臨者って、お料理すっごい上手なんでしょ？","fr":"Enfant des étoiles, tu cuisines super bien, hein ?"}
+{"id":1535075,"jp":"ノーマにごはん作ってくれない？","fr":"Tu veux bien faire à manger pour Norma ?"}
+{"id":1535076,"jp":"いいよ、なにが食べたい？","fr":"D'accord, qu'est-ce que tu veux manger ?"}
+{"id":1535077,"jp":"ありがとう！ノーマね、辛いのが好き！辛いのだったらなんでもいいの！","fr":"Merci ! Norma aime quand ça pique ! Du moment que ça pique, Norma mange tout !"}
+{"id":1535078,"jp":"わぁ！ありがとう！ノーマ、いただきまーす！","fr":"Waouh ! Merci ! Norma attaque, bon appétit !"}
+{"id":1535079,"jp":"ふぅ……ふぅ……舌がヒリヒリする……","fr":"Fiou… fiou… Ma langue me brûle…"}
+{"id":1535080,"jp":"落ち着いて、ゆっくり食べて……","fr":"Doucement, mange lentement…"}
+{"id":1535081,"jp":"でもね、星臨者の料理、すっごくおいしいから……\nノーマ、全部食べちゃうんだもん……！","fr":"Mais la cuisine de l'Enfant des étoiles est trop bonne…\nNorma va tout manger… !"}
+{"id":1535082,"jp":"あ、これ、あげる！おいしいごはんをごちそうしてくれてありがとう！","fr":"Ah, tiens, c'est pour toi ! Merci pour ce bon repas !"}
 {"id":1535083,"jp":"は……はくしょん！","fr":"A-atchoum !"}
 {"id":1535084,"jp":"風邪ひいちゃった？","fr":"Tu as pris froid ?"}
+{"id":1535085,"jp":"たぶん急に天気が変わったから、体の具合がわるくなっちゃったのかも……\nあ、そういえば防寒用の服をまだ作ってなかった……！","fr":"C'est sûrement le brusque changement de temps qui m'a fait attraper froid…\nAh, au fait, je n'ai toujours pas fait mes vêtements d'hiver… !"}
+{"id":1535086,"jp":"前からブレイオスの毛を集めて服を作ろうと思ってたんだ。\n絶対あったかいもん！","fr":"Ça fait longtemps que je veux récolter de la fourrure de Breios pour me faire des vêtements.\nÇa tiendrait super chaud !"}
+{"id":1535087,"jp":"でも、まだぜんぜん集められてないの……","fr":"Mais je n'en ai encore presque pas…"}
+{"id":1535088,"jp":"これだけあれば十分。リアンに届けよう。","fr":"Ça suffira largement. Allons l'apporter à Lian."}
+{"id":1535089,"jp":"わぁ――！やっぱりすごく暖かそうな毛だね！","fr":"Waouh ! Elle a vraiment l'air bien chaude, cette fourrure !"}
+{"id":1535090,"jp":"服になっても、あったかいといいなぁ。","fr":"J'espère qu'elle tiendra aussi chaud une fois en vêtement."}
+{"id":1535091,"jp":"本当にありがとう、星臨者さん。\n服が完成したら、あなたの分も作るからね！","fr":"Merci beaucoup, Enfant des étoiles.\nQuand les vêtements seront finis, je t'en ferai aussi !"}
+{"id":1535092,"jp":"さっきの話ですが、こっそり気流をいじりませんでした？","fr":"À propos de tout à l'heure… Vous n'auriez pas trafiqué les courants d'air en douce ?"}
+{"id":1535093,"jp":"何言ってるんだよ。そんなことしてないってば。","fr":"Qu'est-ce que tu racontes ? Je te dis que j'ai rien fait."}
+{"id":1535094,"jp":"競争しようって言い出したのはリンカでしょ？\n勝負するなら堂々とやればいいんです！あんな突然の上昇気流、自然に起こるわけありません。","fr":"C'est bien vous, Rinka, qui avez proposé la course, non ?\nSi vous voulez vous mesurer à moi, faites-le loyalement ! Un courant ascendant aussi soudain, ça ne peut pas être naturel."}
+{"id":1535095,"jp":"だから違うって！正式な競争じゃないとしても、\nそこまで言われるなんて納得できない！","fr":"Puisque je te dis que non ! Même si c'était pas une vraie course,\nje n'accepte pas qu'on m'accuse comme ça !"}
+{"id":1535096,"jp":"（あの上昇気流って……まさかウィンデルのイタズラ？\n写真を撮って見せてあげよう）","fr":"(Ce courant ascendant… Ce ne serait pas une farce d'un Windel ?\nJe vais prendre une photo pour la leur montrer.)"}
+{"id":1535097,"jp":"ふん、何度言われてもオレじゃないからな。","fr":"Hmph, tu peux le répéter tant que tu veux, c'était pas moi."}
+{"id":1535098,"jp":"まだ言い争ってるみたいだな。これを見てくれ。|まだ言い合ってるみたいだね。これを見て。","fr":"On dirait que vous vous disputez encore. Regardez ça.|On dirait que vous vous chamaillez toujours. Regardez ça."}
+{"id":1535099,"jp":"これは……ウィンデルですか？\nつまり、あの上昇気流はウィンデルのいたずらだったと？","fr":"C'est… un Windel ?\nAlors ce courant ascendant, c'était une farce de Windel ?"}
+{"id":1535100,"jp":"ほらな！オレじゃないって言ったのに、ノオミが信じなかったんだ！","fr":"Tu vois ! Je lui avais dit que c'était pas moi, mais Noomi ne voulait pas me croire !"}
+{"id":1535101,"jp":"……ご、ごめんなさい！たしかに私の勘違いだった。謝ります！","fr":"… P-pardon ! C'était bel et bien une erreur de ma part. Je vous présente mes excuses !"}
+{"id":1535102,"jp":"あっ、うん……すごいあっさり謝るんだな？","fr":"Ah, euh… ouais… Tu t'excuses drôlement vite, dis donc ?"}
+{"id":1535103,"jp":"だって、悪いのは私なんですから謝るのは当然です。","fr":"Eh bien, puisque c'est moi qui étais dans l'erreur, il est normal que je m'excuse."}
+{"id":1535104,"jp":"うっ……ま、まあいいさ！また今度、一緒に飛ぼう！","fr":"Ugh… B-bon, ça va ! On volera encore ensemble, une prochaine fois !"}
+{"id":1535105,"jp":"（これならふたりの仲は壊れなさそうだ。本当に僕は影の功労者だな……）|（これならふたりの仲は壊れなさそうね。ふふ、本当に私は影の功労者ね……）","fr":"(Leur amitié n'a pas l'air menacée. Décidément, j'œuvre dans l'ombre…)|(Leur amitié n'a pas l'air menacée. Hihi, décidément, j'œuvre dans l'ombre…)"}
+{"id":1535106,"jp":"星臨者、霧隠れの森に行ったことある？","fr":"Enfant des étoiles, tu connais la Forêt Voile-Brume ?"}
+{"id":1535107,"jp":"霧隠れの森ってさ、すごく綺麗なキボがいて、\nしかも羽まで生えてるんだってね！本当、見てみたいなぁ。","fr":"Il paraît que dans la Forêt Voile-Brume, il y a des Kibo magnifiques,\net qu'ils ont même des ailes ! J'aimerais tellement les voir."}
+{"id":1535108,"jp":"でも、おとなたちは絶対に村から出るなって言うんだ……","fr":"Mais les grands me disent de ne jamais quitter le village…"}
+{"id":1535109,"jp":"ありがとう。星臨者がそう言うなら、待ってるね！","fr":"Merci. Si tu le dis, Enfant des étoiles, je t'attends !"}
+{"id":1535110,"jp":"わぁぁ、本当に綺麗！まるで光ってるみたいだね！","fr":"Waouh, ils sont vraiment magnifiques ! On dirait qu'ils brillent !"}
+{"id":1535111,"jp":"はやく大きくなって、霧隠れの森に行って自分の目で見てみたいな。","fr":"J'ai hâte de grandir pour aller dans la Forêt Voile-Brume et les voir de mes propres yeux."}
+{"id":1535112,"jp":"できることなら、あの子たちと友達になりたい……","fr":"Si je pouvais, j'aimerais tellement qu'on devienne amis…"}
+{"id":1535113,"jp":"えっ……こ、これって……？","fr":"Hein… C-c'est… ?"}
+{"id":1535114,"jp":"羽が生えてる、綺麗なキボ……？","fr":"Un Kibo magnifique, avec des ailes… ?"}
+{"id":1535115,"jp":"たしかに羽は生えてる。","fr":"Il a des ailes, ça, c'est sûr."}
+{"id":1535116,"jp":"僕は結構綺麗だと思うけどな。|私は結構綺麗だと思うけどな。","fr":"Moi, je le trouve plutôt joli.|Moi, je le trouve plutôt joli."}
+{"id":1535117,"jp":"うっ……なんか、ちょっと違う気がするかも……","fr":"Ugh… J'ai l'impression que ce n'est pas tout à fait ça…"}
+{"id":1535118,"jp":"やっぱり村のなかにいる方がいいかもしれない……","fr":"Je ferais peut-être mieux de rester au village, finalement…"}
+{"id":1535119,"jp":"と、とにかくありがとう、星臨者！","fr":"E-en tout cas, merci, Enfant des étoiles !"}
+{"id":1535120,"jp":"こんにちは！今日はどんなご用件ですか？","fr":"Bonjour ! Que puis-je faire pour vous aujourd'hui ?"}
+{"id":1535121,"jp":"コロコロの調査募集に参加したい。この写真をコロコロに送って。|コロコロの調査募集に参加したい。この写真をコロコロに送ってほしいの。","fr":"Je voudrais participer à l'enquête de Korokoro. Envoie cette photo à Korokoro.|Je voudrais participer à l'enquête de Korokoro. Tu peux envoyer cette photo à Korokoro ?"}
+{"id":1535122,"jp":"ふむふむ……メテオールですね！問題ありません！\nコロコロからの報酬はもう預かってます。受け取ってください！","fr":"Voyons voir… Un Staray ! Pas de problème !\nJ'ai déjà la récompense de Korokoro. Tenez, prenez-la !"}
+{"id":1535123,"jp":"ふむふむ……スカイホークですね！問題ありません！\nコロコロからの報酬はもう預かってます。受け取ってください！","fr":"Voyons voir… Un Skyhawk ! Pas de problème !\nJ'ai déjà la récompense de Korokoro. Tenez, prenez-la !"}
+{"id":1535124,"jp":"星臨者、見てごらん。スカイホークがあんな高く飛んでる。","fr":"Enfant des étoiles, regarde. Il y a un Skyhawk qui vole tout là-haut."}
+{"id":1535125,"jp":"スカイホークは特別な骨格と羽毛を持っていて、ほかの翼形族キボよりもずっと軽いんだ。","fr":"Les Skyhawk ont un squelette et un plumage particuliers : ils sont bien plus légers que les autres Kibo de la Famille ailée."}
+{"id":1535126,"jp":"……もしその羽根で矢を作ったら、すごい矢になるかもしれない。","fr":"… Si je faisais des flèches avec leurs plumes, elles seraient peut-être extraordinaires."}
 {"id":1535127,"jp":"一度試してみたいな。","fr":"J'aimerais essayer une fois."}
+{"id":1535128,"jp":"なるほど……やはりこの羽根の構造はとても特別だ。","fr":"Je vois… Comme je le pensais, cette plume a une structure vraiment particulière."}
+{"id":1535129,"jp":"矢にしたとき、この特性を残せるかどうか……気になるな。","fr":"Une flèche pourrait-elle garder cette propriété… ? Ça m'intrigue."}
+{"id":1535130,"jp":"ああ、そうだ。ありがとう、星臨者。","fr":"Ah, c'est vrai. Merci, Enfant des étoiles."}
+{"id":1535131,"jp":"もし本当にすごい矢を作れたら、その矢に星臨者の名前をつけるよ。","fr":"Si j'arrive vraiment à fabriquer une flèche extraordinaire, je lui donnerai ton nom."}
+{"id":1535132,"jp":"ずいぶん大げさだな……|ずいぶん大げさだね……","fr":"Tu en fais un peu trop…|Tu exagères un peu…"}
+{"id":1535133,"jp":"グランザロスのやつ……\n一日中穴を掘りまくって……もううんざりだよ！","fr":"Ces satanés Granzaros…\nIls creusent des trous toute la journée… J'en ai ras le bol !"}
+{"id":1535134,"jp":"見てみろよ、あのグランザロス！\n朝から晩まで掘りっぱなし、このままじゃ山全体が空っぽになるぞ！","fr":"Regarde-moi ces Granzaros !\nIls creusent du matin au soir. À ce rythme, toute la montagne va finir creuse !"}
+{"id":1535135,"jp":"山ごと掘り尽くすなんて、ちょっと大げさじゃないか？|山ごと掘り尽くすなんて、ちょっと大げさじゃない？","fr":"Vider toute la montagne ? Tu n'exagères pas un peu ?|Vider toute la montagne ? Tu n'exagères pas un peu ?"}
+{"id":1535136,"jp":"全然大げさなんかじゃない！頼む、あいつらを追い払ってくれ！","fr":"J'exagère pas du tout ! Je t'en prie, chasse-les !"}
+{"id":1535137,"jp":"グランザロス追い払ったよ。","fr":"J'ai chassé les Granzaros."}
+{"id":1535138,"jp":"助かったよ……！オレひとりじゃ追い払えなかっただろうな……","fr":"Tu me sauves… ! Tout seul, je n'aurais jamais réussi à les faire fuir…"}
+{"id":1535139,"jp":"でも、別の場所に行っても結局は穴掘りを続けるんじゃないか？|でも、別の場所に行ってもまた穴掘りをするんじゃない？","fr":"Mais ils vont sûrement continuer à creuser ailleurs, non ?|Mais ils vont recommencer à creuser ailleurs, non ?"}
+{"id":1535140,"jp":"まあ、それはそうだな……\nでもよ、それはその土地のやつらが悩めばいいことさ！","fr":"Bon, c'est pas faux…\nMais tu sais, ça, c'est aux gens de là-bas de s'en soucier !"}
+{"id":1535141,"jp":"一度グランザロスを見てからというもの、ずっと気になっていてな……","fr":"Depuis que j'ai vu un Granzaros, ça ne me sort plus de la tête…"}
+{"id":1535142,"jp":"もしかして、仲間にしたいの？","fr":"Tu voudrais en faire ton compagnon ?"}
+{"id":1535143,"jp":"……いや、そうじゃなくて鱗のことだ。見ただろう？\nグランザロスは一日中、穴を掘ってる。だからあの鱗はきっとものすごく丈夫なんだ。","fr":"… Non, ce n'est pas ça, je parle de ses écailles. Tu les as vues ?\nLes Granzaros creusent toute la journée. Leurs écailles doivent être incroyablement solides."}
+{"id":1535144,"jp":"もしあれが手に入れば、すごい装備を作れるかもしれない。","fr":"Si je pouvais m'en procurer, je pourrais peut-être fabriquer un équipement extraordinaire."}
+{"id":1535145,"jp":"でも店をほったらかして探しに行くわけにもいかなくてな……","fr":"Mais je ne peux pas laisser ma boutique pour aller en chercher…"}
+{"id":1535146,"jp":"大丈夫、僕が探してきてあげる！|大丈夫、私が集めてきてあげる！","fr":"Pas de souci, je vais t'en trouver !|Pas de souci, je vais t'en récolter !"}
+{"id":1535147,"jp":"これだけあれば十分だ。エンカクに届けよう。|これだけ集まれば十分だね。エンカクに届けよう。","fr":"Ça suffira largement. Allons les apporter à Enkaku.|Avec tout ça, ça devrait suffire. Allons les apporter à Enkaku."}
+{"id":1535148,"jp":"おお……この鱗を見ていると素晴らしいひらめきが湧いてくるぞ！","fr":"Oh… Rien qu'à regarder ces écailles, l'inspiration me vient !"}
+{"id":1535149,"jp":"本当に助かった、星臨者！","fr":"Tu m'as vraiment rendu service, Enfant des étoiles !"}
+{"id":1535150,"jp":"星臨者、あなただったのね！","fr":"Enfant des étoiles, c'était donc toi !"}
 {"id":1535151,"jp":"なにをしてるの？","fr":"Qu'est-ce que tu fais ?"}
+{"id":1535152,"jp":"【実装対象外／新芽山谷随机任务CBS041-CBS050.xlsx】","fr":"【Non implémenté／新芽山谷随机任务CBS041-CBS050.xlsx】"}
+{"id":1535153,"jp":"サララ、なんだか悩んでるように見えるけど？","fr":"Sarara, on dirait que quelque chose te tracasse ?"}
+{"id":1535154,"jp":"ああ、ごめんなさい、星臨者さん。\n実はタペストリーを作ることを考えているのです……","fr":"Ah, pardon, Enfant des étoiles.\nEn fait, je songe à faire une tapisserie…"}
+{"id":1535155,"jp":"炎のような赤い羽根で飾りたいと思っているのですが、\n星臨者さん、なにか良い案はございますか？","fr":"J'aimerais la décorer de plumes rouges comme des flammes.\nEnfant des étoiles, auriez-vous une bonne idée ?"}
+{"id":1535156,"jp":"炎のような羽根？それならピーチィの羽が良いかもしれないよ。","fr":"Des plumes comme des flammes ? Alors des plumes de Peachy, peut-être."}
+{"id":1535157,"jp":"ピーチィの羽ですか？それはたしかによい考えですね！\n以前、鷹の連峰で飛んでいるのを見ましたが、本当に綺麗なキボでした。","fr":"Des plumes de Peachy ? Voilà en effet une bonne idée !\nJ'en ai vu voler un jour dans les Monts du Faucon, ce sont vraiment de beaux Kibo."}
+{"id":1535158,"jp":"でも私は飛べませんし……\nどうやって羽根を手に入れれば良いのでしょうか……","fr":"Mais je ne sais pas voler…\nComment pourrais-je me procurer ces plumes…"}
+{"id":1535159,"jp":"わかったわかった、そんなに期待した目で見るな。\n僕が探してきてあげるから。|はいはい、そんなに期待した目で見ないで。\n私が探してきてあげるから。","fr":"Bon, bon, ne me regarde pas avec ces yeux pleins d'espoir.\nJe vais t'en chercher.|C'est bon, c'est bon, arrête de me regarder comme ça.\nJe vais t'en trouver."}
+{"id":1535160,"jp":"本当に助かります！必要なのは羽根3本だけですから！","fr":"Vous me sauvez ! Il ne me faut que 3 plumes !"}
+{"id":1535161,"jp":"やはりピーチィの羽ですね！この炎のような色合い……\n私のタペストリーにぴったりです！","fr":"Ce sont bien des plumes de Peachy ! Cette couleur de flamme…\nParfait pour ma tapisserie !"}
+{"id":1535162,"jp":"本当にありがとうございます、星臨者さん。","fr":"Merci infiniment, Enfant des étoiles."}
+{"id":1535163,"jp":"僕もルルカに用事があるから。|私もルルカに用事があるから。","fr":"J'ai à faire avec Luruka, moi aussi.|J'ai à faire avec Luruka, moi aussi."}
+{"id":1535164,"jp":"タペストリーが完成しましたら、ぜひうちに遊びに来てくださいませ！","fr":"Une fois la tapisserie terminée, venez donc me rendre visite !"}
+{"id":1535165,"jp":"ザニア、鷹の連峰でスカイホークを追い払っていたとき、きみ宛の手紙を見つけた。","fr":"Zania, en chassant les Skyhawk des Monts du Faucon, j'ai trouvé une lettre qui t'est adressée."}
+{"id":1535166,"jp":"えっ？見せて……ああ、この手紙だったのね！","fr":"Hein ? Montre… Ah, c'était donc cette lettre !"}
+{"id":1535167,"jp":"開けてもいないのに、もうわかるのか？","fr":"Tu sais déjà ce que c'est sans l'avoir ouverte ?"}
+{"id":1535168,"jp":"前に妹のオミが私のネックレスを壊しちゃって……\nでも謝る勇気がなかったみたい。それで、この手紙を書いたの。","fr":"Il y a quelque temps, ma petite sœur Omi a cassé mon collier…\nMais elle n'a pas osé s'excuser. Alors elle m'a écrit cette lettre."}
+{"id":1535169,"jp":"でも私はこの手紙を読んでなくて……\nきっとオミは「お姉ちゃん、まだ怒ってるのかな」って思って、直接会いに来て謝ってくれたのよ。","fr":"Seulement, je ne l'ai jamais lue…\nOmi a dû se dire « Ma grande sœur m'en veut encore ? », et elle est venue s'excuser en personne."}
+{"id":1535170,"jp":"どうやらこの手紙は、窓辺に置いてあったときにスカイホークに持って行かれちゃったみたいね。","fr":"On dirait que cette lettre, posée sur le rebord de la fenêtre, s'est fait emporter par un Skyhawk."}
+{"id":1535171,"jp":"もう妹とは仲直りできてるから、安心して！\nあ、もちろん、この手紙も大切にとっておくわよ。妹が成長した証だからね。","fr":"Ma sœur et moi, on s'est déjà réconciliées, alors ne t'en fais pas !\nAh, et bien sûr, je garde précieusement cette lettre. C'est la preuve que ma sœur a grandi."}
+{"id":1535172,"jp":"ダルク……再び出現、村の入口に。","fr":"Darc… revenus, à l'entrée du village."}
 {"id":1535173,"jp":"……討伐を、頼む。","fr":"… Éliminez-les, je vous prie."}
 {"id":1535174,"jp":"了解、任せて。","fr":"Compris, compte sur moi."}
+{"id":1535175,"jp":"ダルクはすべて片付けたよ。","fr":"J'ai éliminé tous les Darc."}
 {"id":1535176,"jp":"感謝……これ、報酬。","fr":"Merci… Voici la récompense."}
+{"id":1535177,"jp":"ボアラーガ……畑、柵、壊す。","fr":"Boaraga… champs, clôtures, détruire."}
+{"id":1535178,"jp":"場所……霧隠れの森。討伐を、頼む。","fr":"Lieu… Forêt Voile-Brume. Éliminez-les, je vous prie."}
+{"id":1535179,"jp":"まいったね、野生のガヤックたちが村の群れに紛れ込んで、\n貯めておいた穀草を全部食べ尽くしてしまったんだ……","fr":"Quelle misère : des Gayak sauvages se sont mêlés au troupeau du village\net ils ont dévoré tout le fourrage que j'avais mis de côté…"}
+{"id":1535180,"jp":"私が来るとすぐ平原に逃げ戻るけど、私ももう歳だし、\nいつまでも穀草のそばを見張っているわけにもいかないんだよ……","fr":"Dès que j'arrive, ils filent vers la plaine, mais je ne suis plus toute jeune,\net je ne peux pas surveiller le fourrage indéfiniment…"}
+{"id":1535181,"jp":"大丈夫。僕が追い払ってくるよ。|大丈夫。私が追い払ってくるね。","fr":"Pas de souci. Je vais les chasser.|Pas de souci. Je vais les chasser, d'accord ?"}
+{"id":1535182,"jp":"食いしん坊のガヤックは全部追い払ったよ。当分は戻ってこないはず。","fr":"J'ai chassé tous ces gloutons de Gayak. Ils ne devraient pas revenir de sitôt."}
+{"id":1535183,"jp":"なんて行動力のある若者なんだい……！ありがとう、本当にありがとう……","fr":"Quel dynamisme, jeune pousse… ! Merci, merci mille fois…"}
+{"id":1535184,"jp":"うわっ、なんで森のなかで雷が！？","fr":"Waouh, pourquoi y a-t-il de la foudre en pleine forêt !?"}
+{"id":1535185,"jp":"実はいま、翼人の民兵は人手不足でして……\n星臨者さま、あなたの力をお借りできないでしょうか？","fr":"En fait, la milice des Ailés manque de bras en ce moment…\nEnfant des étoiles, pourrions-nous compter sur votre force ?"}
 {"id":1535186,"jp":"詳しく聞かせて。","fr":"Dis-m'en plus."}
+{"id":1535187,"jp":"鷹の連峰の近くに、イグネストが群れを成しています。\nしかも、ちょっとした不注意で火災を引き起こしかねない状況なのです。","fr":"Une nuée d'Ignest s'est rassemblée près des Monts du Faucon.\nPire, la moindre imprudence pourrait déclencher un incendie."}
+{"id":1535188,"jp":"周囲の安全を守るため、どうか彼らを討伐していただきたいのです。","fr":"Pour la sécurité des environs, je vous demande de bien vouloir les éliminer."}
 {"id":1535189,"jp":"任せて。","fr":"Compte sur moi."}
+{"id":1535190,"jp":"ありがとうございます！\n風隠れ岩の住民たちを代表して、心から感謝します！","fr":"Merci beaucoup !\nAu nom des habitants du Roc Coupe-Vent, je vous remercie du fond du cœur !"}
+{"id":1535191,"jp":"星臨者さん、ひとつお願いしたいことがあります。","fr":"Enfant des étoiles, j'aurais un service à vous demander."}
+{"id":1535192,"jp":"グーグが新しい釣り餌を試したいと言ってまして。\nエサはもう準備したんですが、いまは店番で手が離せないんです。そこで、代わりに届けてもらえないでしょうか？","fr":"Guug voudrait essayer un nouvel appât.\nJe l'ai déjà préparé, mais je ne peux pas quitter la boutique. Pourriez-vous le lui apporter à ma place ?"}
+{"id":1535193,"jp":"彼は訓練場のほうにいるはずです。お願いしますね！","fr":"Il devrait être du côté du terrain d'entraînement. Je compte sur vous !"}
+{"id":1535194,"jp":"グーグ、これはラニから預かった釣り餌だ。|グーグ、ラニに頼まれて釣り餌を持ってきたよ。","fr":"Guug, voici l'appât que Rani m'a confié pour toi.|Guug, Rani m'a demandé de t'apporter cet appât."}
+{"id":1535195,"jp":"ありがとう、星臨者！それにしても、ラニさんは本当にすぐに餌を用意できるんだな！","fr":"Merci, Enfant des étoiles ! Rani prépare vraiment ses appâts en un clin d'œil !"}
+{"id":1535196,"jp":"実は最近、釣れる魚の数が減ってて、違う餌を試してみようと思ってたんだ。\nそしたらラニさんがちょうど新しい釣り餌を作っているところでさ。","fr":"En fait, ces derniers temps, je prends de moins en moins de poissons, alors je voulais essayer un autre appât.\nEt justement, Rani était en train d'en fabriquer un nouveau."}
+{"id":1535197,"jp":"よし、さっそくこの新しい餌で実験してみよう。ありがとう、星臨者！","fr":"Bon, je vais tout de suite tester ce nouvel appât. Merci, Enfant des étoiles !"}
+{"id":1535198,"jp":"この木彫り、本当に精巧でかわいいな。僕も彫刻のやり方を学んでみたくなったよ。|この木彫り、とても精巧でかわいいね。私も彫刻を習ってみたくなったよ。","fr":"Cette sculpture est vraiment fine et adorable. Ça me donne envie d'apprendre à sculpter, moi aussi.|Cette sculpture est si fine et si mignonne. Ça me donne envie d'apprendre la sculpture, moi aussi."}
+{"id":1535199,"jp":"そういってもらえてうれしいです！ただ、それで思い出したことがあるんですが……","fr":"Ça me fait plaisir ! Mais ça me rappelle quelque chose…"}
+{"id":1535200,"jp":"実は以前、ネールさんも木彫りをやりたいと言ってたんです。\nそれで初心者向けの木材を用意するって約束したんですが、忙しさのあまり渡すのを忘れてしまったのです。","fr":"En fait, Nell m'avait dit qu'elle voulait s'essayer à la sculpture, elle aussi.\nJe lui avais promis du bois pour débutants, mais j'étais si occupée que j'ai oublié de le lui donner."}
+{"id":1535201,"jp":"星臨者さん、よかったら代わりに届けてもらえないでしょうか？","fr":"Enfant des étoiles, si cela ne vous dérange pas, pourriez-vous le lui apporter à ma place ?"}
+{"id":1535202,"jp":"いいよ。その代わり、つぎは彫刻を教えて。|いいよ。その代わり、今度は木彫りを教えてね。","fr":"D'accord. En échange, la prochaine fois, tu m'apprendras à sculpter.|D'accord. En échange, la prochaine fois, apprends-moi la sculpture sur bois, hein ?"}
+{"id":1535203,"jp":"もちろんです！それでは、よろしくお願いしますね。","fr":"Bien sûr ! Je compte sur vous, alors."}
+{"id":1535204,"jp":"ネール、チルルに頼まれて木材を持ってきたよ。","fr":"Nell, Chilul m'a demandé de t'apporter du bois."}
+{"id":1535205,"jp":"木材……あっ！これ、チルルが木彫りの初心者用にって言っていたやつだね！","fr":"Du bois… Ah ! C'est celui que Chilul destinait aux débutants en sculpture !"}
+{"id":1535206,"jp":"チルルって本当にやさしいよね。\n木彫りをやってみたいって言ったら、すぐに材料をくれたの。\nしかもね、なんでも教えてくれるんだよ。","fr":"Chilul est vraiment gentille.\nQuand j'ai dit que je voulais essayer la sculpture, elle m'a tout de suite donné de quoi travailler.\nEt en plus, elle m'apprend tout !"}
+{"id":1535207,"jp":"星臨者、届けてくれてありがとう！今度彫ったやつ、星臨者にあげるからね！","fr":"Merci de me l'avoir apporté, Enfant des étoiles ! La prochaine chose que je sculpterai, elle sera pour toi !"}
+{"id":1535208,"jp":"ふむふむ……ハルシヨンですね！問題ありません！\nコロコロからの報酬はもう預かってます。受け取ってください！","fr":"Voyons voir… Un Halcyon ! Pas de problème !\nJ'ai déjà la récompense de Korokoro. Tenez, prenez-la !"}
+{"id":1535209,"jp":"ふむふむ……ルビッツですね！問題ありません！\nコロコロからの報酬はもう預かってます。受け取ってください！","fr":"Voyons voir… Un Rubbits ! Pas de problème !\nJ'ai déjà la récompense de Korokoro. Tenez, prenez-la !"}
+{"id":1535210,"jp":"そんなに急いでどこへ行くんだ？|そんなに急いでどこに行くの？","fr":"Où tu vas si vite ?|Où cours-tu comme ça ?"}
+{"id":1535211,"jp":"あっ、星臨者……あたしのキボ、最近めまいが続いてるの。\nで、サトゥルに相談したら、いくつかの食材を混ぜて餌にすればいいって言われたの。","fr":"Ah, Enfant des étoiles… Mon Kibo a des vertiges depuis quelque temps.\nAlors j'ai demandé conseil à Saturn, et elle m'a dit de mélanger quelques ingrédients à sa nourriture."}
+{"id":1535212,"jp":"リッチモモとシーリリィはもう用意できたの。\nただ、レッチルフとムーンベリーが足りなくて……今日中に集まらないかもしれないの。","fr":"J'ai déjà la pêche gourmande et le lys de mer.\nMais il me manque du Retchilf et des baies de lune… Je n'arriverai peut-être pas à tout réunir aujourd'hui."}
+{"id":1535213,"jp":"ムーンベリーだな？僕が探してこよう。|ムーンベリーだね？私が探してくるよ。","fr":"Des baies de lune, c'est ça ? Je vais en chercher.|Des baies de lune, c'est ça ? Je vais t'en trouver."}
+{"id":1535214,"jp":"ほんと！？助かる、ありがとう！","fr":"C'est vrai !? Tu me sauves, merci !"}
+{"id":1535215,"jp":"新鮮なムーンベリーを持ってきたよ。","fr":"Je t'apporte des baies de lune toutes fraîches."}
+{"id":1535216,"jp":"すごい、まだ露がついてる……本当に新鮮ね！\nこれで材料がそろったからキボの餌を作れるよ。","fr":"Génial, il y a encore de la rosée dessus… Elles sont vraiment fraîches !\nAvec ça, j'ai tout ce qu'il faut pour la nourriture de mon Kibo."}
+{"id":1535217,"jp":"星臨者、ほんとうにありがとう。ささやかだけど、お礼受け取ってね！","fr":"Enfant des étoiles, merci beaucoup. Ce n'est pas grand-chose, mais accepte ce petit cadeau !"}
+{"id":1535218,"jp":"ああ……憎たらしいドゥルめ、干し魚を盗むなんて……","fr":"Ah… Ces maudits Dur, me voler mon poisson séché…"}
+{"id":1535219,"jp":"……星臨者さん、いきなりで申し訳ありません……\nドゥルに盗まれた干し魚を取り返してくれませんか？","fr":"… Enfant des étoiles, pardon de vous prendre au dépourvu…\nPourriez-vous reprendre le poisson séché que les Dur m'ont volé ?"}
+{"id":1535220,"jp":"私は南のほうに逃げたドゥルを追いかけます。\n星臨者さんは北に逃げたドゥルをお願いします！ちなみに、盗まれた干し魚は全部で3本ありますので……！","fr":"Je poursuis les Dur qui ont filé vers le sud.\nOccupez-vous de ceux qui sont partis vers le nord ! Au fait, on m'a volé 3 poissons séchés en tout… !"}
+{"id":1535221,"jp":"干し魚は全部取り戻したよ。","fr":"J'ai récupéré tout le poisson séché."}
+{"id":1535222,"jp":"さすが星臨者さん、こんなにはやく取り戻せるなんて！","fr":"Je n'en attendais pas moins de vous, Enfant des étoiles ! Les récupérer aussi vite !"}
+{"id":1535223,"jp":"あの泥棒たちには痛い目を見せないといけませんからね……！","fr":"Ces voleurs méritent une bonne leçon… !"}
+{"id":1535224,"jp":"それにしても、アヒって監視塔でやることがたくさんあるんだね……","fr":"Dis donc, Ahi, tu as beaucoup à faire à la tour de guet…"}
+{"id":1535225,"jp":"いやいや、薬草採りも釣りもあくまで暇つぶしです。本職は見張りですから！","fr":"Oh, non, la cueillette des herbes et la pêche, ce n'est que pour passer le temps. Mon vrai métier, c'est de monter la garde !"}
+{"id":1535226,"jp":"あれはいったいなんだったんだろう……","fr":"Qu'est-ce que c'était, au juste…"}
+{"id":1535227,"jp":"なにをそんなに考え込んでるんだ？|なにをそんなに考え込んでるの？","fr":"À quoi tu réfléchis comme ça ?|Qu'est-ce qui te rend si pensif ?"}
+{"id":1535228,"jp":"さっき、イグニープの角にぼくのお守りがぶら下がっているように見えたんだ……\nでも、もう一度見たら消えてて……","fr":"Tout à l'heure, j'ai cru voir mon porte-bonheur accroché à la corne d'un Igneep…\nMais quand j'ai regardé de nouveau, il avait disparu…"}
+{"id":1535229,"jp":"見間違いだったのかな……ねえ星臨者、ちょっとたしかめてきてくれない……？","fr":"J'ai dû me tromper… Dis, Enfant des étoiles, tu pourrais aller vérifier… ?"}
+{"id":1535230,"jp":"わかった、見てくるよ。|わかった、見てくるね。","fr":"D'accord, je vais voir.|D'accord, je vais jeter un œil."}
+{"id":1535231,"jp":"これってエルネストのお守り？","fr":"Ernest, c'est bien ton porte-bonheur ?"}
+{"id":1535232,"jp":"ああ……間違いない、ぼくのお守りだ……！","fr":"Ah… Aucun doute, c'est mon porte-bonheur… !"}
+{"id":1535233,"jp":"でも、どうしてイグニープの角にかかっていたのかな？","fr":"Mais pourquoi il était accroché à la corne d'un Igneep ?"}
+{"id":1535234,"jp":"そうだね……どうしてあんなところにかかってたんだろう……","fr":"Oui… Comment il a pu se retrouver là-haut…"}
+{"id":1535235,"jp":"星臨者、来てくれたのか！\nだがすまない、いまは在庫の確認で手が離せなくてな……","fr":"Ah, te voilà, Enfant des étoiles !\nMais désolé, je suis pris par l'inventaire en ce moment…"}
+{"id":1535236,"jp":"寒い季節がもうすぐやって来るからな。\n防寒用の防具を備えておかないといけない。\nそれに、シャルル村の冬は雨が降ることもあるからな。防水性も大事なんだ。","fr":"La saison froide arrive bientôt.\nIl faut faire des réserves d'armures contre le froid.\nEt puis, au Village de Charlulu, il arrive qu'il pleuve en hiver. L'imperméabilité compte aussi."}
+{"id":1535237,"jp":"そう考えるとやっぱり……ガヤックの毛の備蓄がまだ足りないな……","fr":"Quand j'y pense… on n'a toujours pas assez de fourrure de Gayak en réserve…"}
+{"id":1535238,"jp":"なあ星臨者、ガヤックの腹部の柔らかい毛を集めてきてくれないか？\nあの毛は防寒具を作るのに最適なんだ！","fr":"Dis, Enfant des étoiles, tu pourrais me rapporter le duvet du ventre des Gayak ?\nIl n'y a rien de mieux pour fabriquer des équipements contre le froid !"}
+{"id":1535239,"jp":"ガヤックの毛を持ってきたぞ。どうだ、使えそうか？|ガヤックの毛を持ってきたよ。どう、使えそう？","fr":"Voilà la fourrure de Gayak. Alors, ça fera l'affaire ?|Voilà la fourrure de Gayak. Alors, tu pourras t'en servir ?"}
+{"id":1535240,"jp":"さすが星臨者だ！……どれ、品質も申し分ないな。\nこれで防寒具が作れるぞ……！","fr":"Je n'en attendais pas moins de toi ! … Voyons, la qualité est irréprochable.\nAvec ça, je vais pouvoir fabriquer des équipements contre le froid… !"}
+{"id":1535241,"jp":"これは礼だ。受け取ってくれ。","fr":"Voici pour te remercier. Prends-le."}
+{"id":1535242,"jp":"やあ星臨者。ちょっとお小遣い稼ぎしない……？","fr":"Salut, Enfant des étoiles. Ça te dirait de gagner un peu d'argent de poche… ?"}
+{"id":1535243,"jp":"最近、店の在庫を確認したんだけど……\n風元素の結晶が足りないことに気づいてさ。","fr":"J'ai vérifié le stock de la boutique récemment…\net je me suis aperçu qu'il manquait des cristaux d'élément Vent."}
+{"id":1535244,"jp":"知ってると思うけど、ボクは戦う力がほとんどない。\nだから、キボから素材を取るんじゃなくて、だれかから買い取るしかないんだ。","fr":"Tu le sais sûrement, je ne sais presque pas me battre.\nAlors, au lieu de prélever des matériaux sur les Kibo, je dois les racheter à quelqu'un."}
+{"id":1535245,"jp":"ということだからさ……\nもし、いい風元素の結晶を持ってきてくれたら、報酬を払うよ！","fr":"Bref…\nsi tu m'apportes de bons cristaux d'élément Vent, je te paierai !"}
 {"id":1535246,"jp":"了解、やるよ。","fr":"Compris, je m'en occupe."}
 {"id":1535247,"jp":"はい、風元素の結晶。","fr":"Tiens, des cristaux d'élément Vent."}
+{"id":1535248,"jp":"おっ、この結晶……すごくいいね！キラキラ光ってる！\nこれは全部買い取らせてもらうよ。","fr":"Oh, ces cristaux… Ils sont superbes ! Ils scintillent !\nJe te les rachète tous."}
+{"id":1535249,"jp":"これは報酬だ。またお願いね！","fr":"Voilà ta récompense. Reviens me voir !"}
+{"id":1535250,"jp":"ねえ星臨者、ちょっと助けてくれない？","fr":"Dis, Enfant des étoiles, tu pourrais m'aider un peu ?"}
+{"id":1535251,"jp":"ルルカから新しい薬の調合を教わったの。\nだけど、ハルシヨンの鱗粉が足りなくて……","fr":"Luruka m'a appris la recette d'un nouveau remède.\nMais il me manque de la poudre d'écailles de Halcyon…"}
+{"id":1535252,"jp":"霧隠れの森にいるハルシヨンが落とすらしいんだけど、\n私じゃ怖くてとても行けないの。","fr":"Il paraît que les Halcyon de la Forêt Voile-Brume en laissent tomber,\nmais j'ai bien trop peur pour y aller."}
+{"id":1535253,"jp":"だからお願い。私の代わりにハルシヨンの鱗粉を集めてきてもらえないかな？\nもちろんお礼はちゃんとするから！","fr":"Alors s'il te plaît. Tu ne pourrais pas aller en récolter à ma place ?\nJe te remercierai comme il se doit, bien sûr !"}
+{"id":1535254,"jp":"星臨者、戻ってきたんだね！ハルシヨンの鱗粉は見つかった？","fr":"Enfant des étoiles, te revoilà ! Tu as trouvé de la poudre d'écailles de Halcyon ?"}
+{"id":1535255,"jp":"はい、これ。足りるかな？","fr":"Tiens, voilà. Ça suffira ?"}
+{"id":1535256,"jp":"じゅうぶん足りるよ！しかもすごくいい品質だ……\n本当にありがとう、星臨者！","fr":"Largement ! Et elle est d'excellente qualité…\nMerci beaucoup, Enfant des étoiles !"}
+{"id":1535257,"jp":"さっきからなにを言っているの？","fr":"Qu'est-ce que tu racontes depuis tout à l'heure ?"}
+{"id":1535258,"jp":"星臨者さま、すこし良いでしょうか？","fr":"Enfant des étoiles, auriez-vous un instant ?"}
+{"id":1535259,"jp":"いま、翼人民兵団の胸当てを作る素材を集めているのですが、\n相当な数のグランザロスの鱗が必要でして……","fr":"Nous rassemblons en ce moment des matériaux pour fabriquer les plastrons de la milice des Ailés,\net il nous faut un bon nombre d'écailles de Granzaros…"}
+{"id":1535260,"jp":"どうか、星臨者さまにも鱗集めをお願いできないでしょうか。\nもちろん、お礼は用意いたします。","fr":"Pourriez-vous, vous aussi, nous aider à en récolter ?\nBien entendu, une récompense vous attend."}
+{"id":1535261,"jp":"グランザロスの鱗を持ってきたぞ。|グランザロスの鱗を持ってきたよ。","fr":"Voilà les écailles de Granzaros.|Tiens, voilà les écailles de Granzaros."}
+{"id":1535262,"jp":"すごく質のいい鱗です……翼人に力添えいただき感謝いたします。","fr":"Ces écailles sont d'excellente qualité… Merci de prêter main-forte aux Ailés."}
+{"id":1535263,"jp":"これは約束の報酬です。受け取ってください。","fr":"Voici la récompense promise. Je vous en prie, acceptez-la."}
+{"id":1535264,"jp":"あ、火打石が切れちゃいました……","fr":"Ah, je n'ai plus de silex…"}
+{"id":1535265,"jp":"あっ、星臨者さん！ちょっとお願いを聞いてもらえませんか？\nもし急ぎの用事がないのなら、でいいのですが。","fr":"Ah, Enfant des étoiles ! Pourriez-vous me rendre un service ?\nSeulement si vous n'avez rien d'urgent, bien sûr."}
+{"id":1535266,"jp":"実は火打石がなくなってしまったのです。\nただ、私は持ち場を勝手に離れられないので、代わりにメルッポの羽根を集めてきてもらえませんか？","fr":"En fait, je n'ai plus de silex.\nMais je ne peux pas quitter mon poste comme ça. Pourriez-vous aller me chercher des plumes de Meluppo à la place ?"}
+{"id":1535267,"jp":"あの炎みたいな羽、火打石の代わりとしてちょうどいいんですよ！","fr":"Ces plumes couleur de flamme remplacent parfaitement le silex !"}
+{"id":1535268,"jp":"わかった、探してみるよ。","fr":"D'accord, je vais en chercher."}
+{"id":1535269,"jp":"メルッポの羽根を持ってきたぞ。|メルッポの羽根を持ってきたよ。","fr":"Voilà les plumes de Meluppo.|Tiens, voilà les plumes de Meluppo."}
+{"id":1535270,"jp":"ああ、これで暗くなっても火を起こせます。","fr":"Ah, comme ça, je pourrai faire du feu même à la nuit tombée."}
+{"id":1535271,"jp":"ありがとうございます、星臨者さん！","fr":"Merci beaucoup, Enfant des étoiles !"}
+{"id":1535272,"jp":"ねえ、星臨者さん。ポカポカポトフを作ってくれないかな？","fr":"Dis, Enfant des étoiles. Tu ne voudrais pas me préparer un pot-au-feu réconfortant ?"}
+{"id":1535273,"jp":"今日は自分で料理を作らないの？","fr":"Tu ne cuisines pas toi-même, aujourd'hui ?"}
+{"id":1535274,"jp":"たまには人が作った料理も食べてみたいんだ……\nそれに、テララお姉ちゃんから聞いたの。星臨者さんの料理はすっごくおいしいって！","fr":"De temps en temps, j'ai envie de goûter la cuisine des autres…\nEt puis, Terara me l'a dit : ta cuisine est super bonne !"}
+{"id":1535275,"jp":"ねぇ、いいでしょ？料理を作ってくれない？","fr":"Allez, s'il te plaît ? Tu veux bien me faire à manger ?"}
 {"id":1535276,"jp":"しょうがないな。","fr":"Bon, d'accord."}
+{"id":1535277,"jp":"熱いから気をつけてね。","fr":"C'est chaud, fais attention."}
+{"id":1535278,"jp":"やったぁ！ついに星臨者さんのポカポカポトフが食べられるなんて！\nつぎの新作料理は、ポカポカポトフからインスピレーションをもらっちゃおうかな〜♪","fr":"Youpi ! Je vais enfin goûter le pot-au-feu réconfortant de l'Enfant des étoiles !\nMon prochain plat, je vais peut-être m'en inspirer~♪"}
+{"id":1535279,"jp":"……それが目的だったのか。|……それが目的だったのね。","fr":"… C'était donc ça, ton but.|… C'était donc ça, ton but."}
+{"id":1535280,"jp":"なんだか悩んでいるみたいだな。|なんだか悩んでいるみたいね。","fr":"On dirait que quelque chose te tracasse.|On dirait que quelque chose te tracasse."}
+{"id":1535281,"jp":"実はね、今日は私が当番だったのに、携帯食を忘れちゃったの……\n今さら持ち場を離れて狩りに行くわけにもいかないし、どうしようかなって……","fr":"En fait, c'était mon tour de garde aujourd'hui, et j'ai oublié mes rations…\nJe ne peux pas quitter mon poste pour aller chasser maintenant, alors je ne sais pas quoi faire…"}
+{"id":1535282,"jp":"せめて金麦パンがひとつでもあればなぁ……\nはあ……今日は空腹で耐えるしかないわね……","fr":"Si seulement j'avais ne serait-ce qu'un pain de blé doré…\nPff… Je vais devoir tenir le ventre vide aujourd'hui…"}
+{"id":1535283,"jp":"金麦パンを焼いてきたぞ。|金麦パンを焼いてきたよ。","fr":"Je t'ai fait cuire du pain de blé doré.|Tiens, je t'ai fait cuire du pain de blé doré."}
+{"id":1535284,"jp":"星臨者さん、優しい！本当にありがとう！","fr":"Enfant des étoiles, tu es un amour ! Merci mille fois !"}
+{"id":1535285,"jp":"んん……いい香り……これから当番がある日は毎回これが食べたい……","fr":"Mmm… Ça sent bon… J'en voudrais un à chaque jour de garde…"}
+{"id":1535286,"jp":"あっ、ずっと星臨者さんにパンを作ってほしいって意味じゃないからね！\n……そうだ、今度はこのパンの作り方を私に教えてくれない？","fr":"Ah, je ne veux pas dire que tu dois me faire du pain pour toujours !\n… Tiens, la prochaine fois, tu pourrais m'apprendre à le faire ?"}
+{"id":1535287,"jp":"星臨者、頼みたいことがある。","fr":"Enfant des étoiles, j'ai un service à te demander."}
+{"id":1535288,"jp":"今日の民兵小隊の昼食にすこし手違いがあってな。\n通常通り配給することができなくなった。今みな腹を空かせて持ち場についている。","fr":"Il y a eu un contretemps avec le déjeuner de la section de la milice aujourd'hui.\nImpossible de distribuer les rations comme d'habitude. Tout le monde tient son poste le ventre vide."}
+{"id":1535289,"jp":"テララから君は料理が得意だと聞いた。\n隊員たちの昼食として、三名分用意してもらうことはできないだろうか？","fr":"Terara m'a dit que tu t'y connaissais en cuisine.\nPourrais-tu préparer le déjeuner de trois de mes hommes ?"}
+{"id":1535290,"jp":"食べられるものであればなんでもいい、みな好き嫌いはない。\n無論、報酬はこちらで支払う。","fr":"N'importe quoi, du moment que ça se mange : personne n'est difficile.\nBien entendu, nous te paierons."}
 {"id":1535291,"jp":"いいよ、任せて。","fr":"D'accord, compte sur moi."}
+{"id":1535292,"jp":"ありがとう、協力に感謝する。","fr":"Merci. Ton aide est précieuse."}
+{"id":1535293,"jp":"それにしても……皆の期待を大いに上回る料理の数々だ。実に旨そう。","fr":"Tout de même… Ces plats dépassent de loin ce que tout le monde espérait. Ils ont l'air délicieux."}
+{"id":1535294,"jp":"我々も己の責務を全うし、シャルル村の安全を守ってみせる！","fr":"Nous aussi, nous remplirons notre devoir et veillerons sur la sécurité du Village de Charlulu !"}
+{"id":1535295,"jp":"あー……炙り肉が食いてぇ……","fr":"Ahh… J'me ferais bien une grillade…"}
+{"id":1535296,"jp":"なら食べればいいんじゃない？","fr":"Eh bien, mange-en une, non ?"}
+{"id":1535297,"jp":"あ、星臨者！独り言を聞かせちまって悪いな。","fr":"Ah, Enfant des étoiles ! Désolé, tu m'as entendu parler tout seul."}
+{"id":1535298,"jp":"おれは料理がそんなに得意じゃねぇから、肉を焼いてもどこか味が足りなくて……\nそういえば、星臨者は料理が得意だったよな？","fr":"Je suis pas très doué en cuisine, alors même quand je grille de la viande, il manque toujours un truc…\nAu fait, tu te débrouilles bien en cuisine, toi, non ?"}
+{"id":1535299,"jp":"時間があるなら、おれに炙り肉を作ってくれねぇか？\n報酬は出すよ！がっつり炭火炙り肉でもシャルル流串焼きでもいい！","fr":"Si t'as le temps, tu pourrais me préparer de la viande grillée ?\nJe te paierai ! Viande copieuse grillée au charbon ou brochettes à la mode de Charlulu, comme tu veux !"}
+{"id":1535300,"jp":"わーーーなんていい匂いなんだ。さすが星臨者！","fr":"Waouh, ça sent trop bon ! L'Enfant des étoiles, c'est quelqu'un !"}
+{"id":1535301,"jp":"さあ、報酬を受け取ってくれ。これで心おきなくこの肉たちを楽しめるぞ！","fr":"Tiens, ta récompense. Maintenant, je vais pouvoir savourer toute cette viande l'esprit tranquille !"}
+{"id":1535302,"jp":"チャタ、なにを考えてるんだ？|チャタ、なにを考えてるの？","fr":"Chata, à quoi tu penses ?|Chata, à quoi tu penses ?"}
+{"id":1535303,"jp":"あっ、星臨者さんか。いや、大したことじゃないんだ。\n毎日この時間になると夜なにを食べるか悩んじゃうんだよね。","fr":"Ah, c'est toi, Enfant des étoiles. Non, rien de grave.\nTous les jours à cette heure-ci, je me casse la tête pour savoir ce que je vais manger ce soir."}
+{"id":1535304,"jp":"よくわかるよ。僕も優柔不断になって「だれかが食べるものを決めてくれればいいのに」って思う時があるんだ。|わかるなぁ。私も優柔不断になって「だれかが食べるものを決めてくれればいいのに」って思う時があるよ。","fr":"Je vois tout à fait. Moi aussi, il m'arrive d'hésiter et de me dire « si seulement quelqu'un pouvait choisir mon repas à ma place ».|Je comprends. Moi aussi, il m'arrive d'hésiter et de me dire « si seulement quelqu'un pouvait décider de ce que je mange »."}
+{"id":1535305,"jp":"そうそう！まさにそれ！","fr":"Oui, voilà ! C'est exactement ça !"}
+{"id":1535306,"jp":"じゃあさ、星臨者さん、今日の夜食べるもの決めてくれない？","fr":"Alors dis, Enfant des étoiles, tu veux bien décider de ce que je mange ce soir ?"}
+{"id":1535307,"jp":"もちろんお礼はちゃんと用意するからさ！","fr":"Je te remercierai comme il se doit, bien sûr !"}
+{"id":1535308,"jp":"いいよ、すぐに準備してくる。|いいよ、すぐに準備してくるね。","fr":"D'accord, je vais préparer ça tout de suite.|D'accord, je te prépare ça tout de suite."}
+{"id":1535309,"jp":"わぁ、この香り……すごい！","fr":"Waouh, cette odeur… Incroyable !"}
+{"id":1535310,"jp":"星臨者さん、どうやったの？これ、いままで食べたことないくらいおいしい！","fr":"Enfant des étoiles, comment tu as fait ? C'est le meilleur plat que j'aie jamais mangé !"}
+{"id":1535311,"jp":"褒めすぎだよ。気に入ってくれたなら、それで十分。","fr":"Tu exagères. Si ça te plaît, ça me suffit."}
+{"id":1535312,"jp":"もしまたなにを食べるかで悩んだら、頼っていい？","fr":"Si je n'arrive encore pas à choisir quoi manger, je pourrai compter sur toi ?"}
+{"id":1535313,"jp":"もちろん、いつでも声をかけて。","fr":"Bien sûr, fais-moi signe quand tu veux."}
+{"id":1535314,"jp":"うわぁ……どうしよう……！","fr":"Waaah… Qu'est-ce que je vais faire… !"}
+{"id":1535315,"jp":"このまえ、テララ姉さんに風導の森へ連れて行ってもらったときに、\n僕……大事な木彫りのおもちゃを森のなかで落としちゃったんだ……","fr":"L'autre jour, quand Terara m'a emmené dans la Forêt du Vent-Guide,\nj'ai… j'ai fait tomber mon précieux jouet en bois sculpté dans la forêt…"}
+{"id":1535316,"jp":"あそこは暗くて、すごく怖いんだ。\nでも……あのおもちゃが恋しくて……だってあれは、チルル姉さんがくれた最初のプレゼントなんだ……","fr":"Là-bas, il fait sombre et ça fait très peur.\nMais… ce jouet me manque… C'est le tout premier cadeau que Chilul m'a fait…"}
 {"id":1535317,"jp":"探してきてあげるよ。","fr":"Je vais aller le chercher pour toi."}
+{"id":1535318,"jp":"トビ、これ……きみのおもちゃかな？","fr":"Tobi, c'est… ton jouet ?"}
+{"id":1535319,"jp":"そう！それだよ！星臨者って本当にすごい……","fr":"Oui ! C'est lui ! Tu es vraiment incroyable, Enfant des étoiles…"}
+{"id":1535320,"jp":"ありがとう。僕、もう二度と、失くしたりしないよ！","fr":"Merci. Je ne le perdrai plus jamais !"}
 {"id":1535321,"jp":"リーチ","fr":"Reach"}
+{"id":1535322,"jp":"星臨者！お願いがあるの！","fr":"Enfant des étoiles ! J'ai un service à te demander !"}
+{"id":1535323,"jp":"（ずいぶん率直な子だな……）それで、なんの用だ？|（ずいぶんストレートな子だね……）それで、なんのお願い？","fr":"(Elle ne tourne pas autour du pot, celle-là…) Alors, qu'est-ce que tu veux ?|(Quelle franchise, cette petite…) Alors, c'est quoi, ce service ?"}
+{"id":1535324,"jp":"私ね、この近くに秘密基地があるんだ。\nそこだとおいしい魚が簡単に釣れるんだけど……最近はアイシエルに占領されちゃって、ほんと腹立つの！","fr":"J'ai une base secrète pas loin d'ici.\nLà-bas, on attrape facilement de bons poissons, mais… depuis quelque temps, des Iciel l'ont envahie, et ça m'énerve trop !"}
+{"id":1535325,"jp":"村のみんなが言ってたよ、星臨者はすごく強いって！\nなら絶対に追い払えるでしょ？","fr":"Tout le monde au village le dit : l'Enfant des étoiles a une force incroyable !\nAlors tu peux les chasser, forcément !"}
+{"id":1535326,"jp":"しょうがない、一度だけ手を貸すよ。|仕方ないなぁ、今回だけ手伝ってあげる。","fr":"Bon, je te donne un coup de main, mais juste cette fois.|Bon, d'accord, je t'aide, mais rien que cette fois."}
+{"id":1535327,"jp":"アイシエルは全部追い払ったよ。","fr":"J'ai chassé tous les Iciel."}
+{"id":1535328,"jp":"わぁ！さすが星臨者！ははっ、これでまたベシー姉さんに魚を釣ってもらえる！","fr":"Waouh ! L'Enfant des étoiles, c'est quelqu'un ! Haha, Bessie va de nouveau pouvoir me pêcher du poisson !"}
+{"id":1535329,"jp":"（……魚を釣るのは自分じゃないのか！）|（……自分で釣るんじゃないのね！）","fr":"(… Ce n'est même pas elle qui pêche !)|(… Elle ne pêche même pas elle-même !)"}
+{"id":1535330,"jp":"いま、鷹の連峰の近くに、グラゴが群れを成しているのです。\nしかもそれは凶暴化しており、多くの風隠れ岩の翼人たちが襲われている状況です。","fr":"En ce moment, une nuée de Grago s'est formée près des Monts du Faucon.\nPire, ils sont devenus agressifs, et de nombreux Ailés du Roc Coupe-Vent ont été attaqués."}
+{"id":1535331,"jp":"民兵はすでに出動しているのですが、星臨者さまにも討伐をお願いしたく……","fr":"La milice est déjà déployée, mais nous aimerions vous demander de participer à la traque, vous aussi…"}
+{"id":1535332,"jp":"星臨者さん……この釣具屋って、なにか欠けてると思いませんか？","fr":"Enfant des étoiles… Vous ne trouvez pas qu'il manque quelque chose à cette boutique de pêche ?"}
+{"id":1535333,"jp":"欠けてる？なにが？|欠けてるって？なにがかな？","fr":"Il manque quelque chose ? Quoi donc ?|Il manque quelque chose ? Quoi donc ?"}
+{"id":1535334,"jp":"私、釣りにかなり自信があります。ですが、そんな私を引き立てるものがないんです！","fr":"J'ai une grande confiance en mes talents de pêche. Mais rien ici ne les met en valeur !"}
+{"id":1535335,"jp":"星臨者さんにお願いです。釣りをしている私の勇姿を記録してくれませんか？\nこの前あなたが使っていたあの妙な道具を使えば、可能なはずです。","fr":"J'ai une faveur à vous demander. Pourriez-vous immortaliser ma noble silhouette en pleine pêche ?\nAvec cet étrange appareil que vous utilisiez l'autre jour, ça devrait être possible."}
+{"id":1535336,"jp":"いまは店の用事があるので、夜に川辺で会いましょう！","fr":"J'ai à faire à la boutique pour l'instant, alors retrouvons-nous ce soir au bord de la rivière !"}
+{"id":1535337,"jp":"（写真を撮るってことか……）わかった、夜に会おう。|（写真を撮るってことだよね……）うん、夜にね。","fr":"(Il s'agit de prendre une photo…) D'accord, à ce soir.|(Une photo, donc…) Oui, à ce soir."}
+{"id":1535338,"jp":"ラニ、頼まれていた写真だよ。","fr":"Rani, voilà la photo que tu m'avais demandée."}
+{"id":1535339,"jp":"おお……いいですね！一目で熟練の釣り師とわかりますね！","fr":"Oh… Superbe ! Au premier coup d'œil, on voit des années de pêche derrière cette pose !"}
+{"id":1535340,"jp":"ありがとうございます、星臨者さん。お礼に今度釣りをしましょう！","fr":"Merci beaucoup, Enfant des étoiles. Pour vous remercier, allons pêcher ensemble un de ces jours !"}
+{"id":1535341,"jp":"お客さまたちの熱気に応えるために、今夜はどんな舞を捧げようかしらね。","fr":"Pour répondre à l'enthousiasme de nos invités, quelle danse vais-je offrir ce soir…"}
+{"id":1535342,"jp":"アヴァリアンからはるばる来たあのエルフのお嬢さん、楽器の腕前がたいそう見事だったわ。","fr":"Cette jeune Elfe venue tout droit d'Avalian jouait de son instrument à merveille."}
+{"id":1535343,"jp":"もしあの子が加わってくれれば、今夜の演舞はもっと華やかになるはず。","fr":"Si elle se joignait à nous, le spectacle de ce soir n'en serait que plus éclatant."}
+{"id":1535344,"jp":"ねえ、あなた。彼女を招待してくれない？\nお礼に、一番いい席を用意してあげるわ。","fr":"Dis-moi, toi. Tu voudrais bien l'inviter ?\nEn remerciement, je te réserverai la meilleure place."}
+{"id":1535345,"jp":"わかった、試してみよう。","fr":"D'accord, je vais essayer."}
+{"id":1535346,"jp":"ロクサーナさんの舞に伴奏を？\nええ、もちろん喜んでやらせてもらうわ。","fr":"Accompagner la danse de Roxana ?\nOui, bien sûr, avec plaisir."}
+{"id":1535347,"jp":"音楽を通じて友達が増えるなんて、願ってもないことだし。","fr":"Me faire des amis grâce à la musique, je ne pouvais rêver mieux."}
+{"id":1535348,"jp":"いろんな方と交流してこそ、新しい考えや知識を手に入れられるものだと思うの。","fr":"Je crois que c'est en échangeant avec toutes sortes de gens qu'on acquiert de nouvelles idées et de nouvelles connaissances."}
+{"id":1535349,"jp":"うーん……本が一冊足りないみたいね。貸出名簿を確認してみよう……","fr":"Hmm… On dirait qu'il manque un livre. Vérifions le registre des prêts…"}
+{"id":1535350,"jp":"ああ！プロスペロさんに貸してたんだった。\nまさか彼がイトーンの歴史に興味を持つなんて……","fr":"Ah ! Je l'avais prêté à M. Prospero.\nQui aurait cru qu'il s'intéresserait à l'histoire d'Iton…"}
+{"id":1535351,"jp":"でも、返却日が記されていないのはどうしてかしら。","fr":"Mais pourquoi la date de retour n'est-elle pas notée ?"}
+{"id":1535352,"jp":"ごめんなさい、彼に確認してもらえないかしら？\n市庁舎のあたりにいるはずだわ。","fr":"Pardon, pourriez-vous aller lui poser la question ?\nIl doit être du côté de l'hôtel de ville."}
 {"id":1535353,"jp":"プロスペロ","fr":"Prospero"}
+{"id":1535354,"jp":"イトーンの歴史の書籍のことですか？\n……ああ、思い出しました。","fr":"Le livre sur l'histoire d'Iton ?\n… Ah, oui, je m'en souviens."}
+{"id":1535355,"jp":"先日リュドミラさんのところで本を借りたときに、\n急いでいて返却日を入れ忘れてしまったのです。","fr":"L'autre jour, quand j'ai emprunté ce livre chez Mme Lyudmila,\nj'étais pressé et j'ai oublié d'inscrire la date de retour."}
+{"id":1535356,"jp":"その本はもうすぐ読み終わりますので、明日には私自身が直接返却いたします。","fr":"J'ai presque fini de le lire : je le lui rapporterai moi-même demain."}
+{"id":1535357,"jp":"ご指摘いただき、ありがとうございます。","fr":"Merci de me l'avoir signalé."}
 {"id":1535358,"jp":"リィン","fr":"Lynn"}
+{"id":1535359,"jp":"エーファ、新しい料理の開発はしないの？","fr":"Eva, tu ne crées pas de nouveau plat ?"}
+{"id":1535360,"jp":"……えっ、どうしてわかったの？実はちょうどいま、新しい料理を考えてるところなんだ。","fr":"… Hein, comment tu as deviné ? Justement, je suis en train d'imaginer un nouveau plat."}
+{"id":1535361,"jp":"エーファ、新しい料理を発明するの？","fr":"Eva, tu vas inventer un nouveau plat ?"}
+{"id":1535362,"jp":"フェデリカ店長に「自分の可能性を突破してみろ」って言われてね……\nそれで新しい食材を注文してくれたんだけど、その食材がまだ届いてないんだ。","fr":"Federica, la gérante, m'a dit de « repousser mes limites »…\nAlors elle m'a commandé de nouveaux ingrédients, mais ils ne sont toujours pas arrivés."}
+{"id":1535363,"jp":"星臨者さん、あなたは辰の商人に詳しいって聞いたことがあるんだけど。\nよかったら璇璣商会に行って、注文した食材がいつ届くか聞いてきてもらえないかな？","fr":"Enfant des étoiles, il paraît que tu connais bien les marchands de Chen.\nTu pourrais aller à la Compagnie Xuanji demander quand arriveront les ingrédients commandés ?"}
+{"id":1535364,"jp":"いらっしゃいませ！お客さん、なにをお求めですか？","fr":"Bienvenue ! Que désirez-vous ?"}
+{"id":1535365,"jp":"メイメイハウスが注文した食材が、まだ届いていないみたいなんだけど？","fr":"Les ingrédients commandés par la Maison Meimei ne sont toujours pas arrivés, on dirait ?"}
+{"id":1535366,"jp":"ああ、それは辰から運んできた上等な乾物のことですね。\nちょうどさっき届いたところなので、すぐに届けさせますよ。","fr":"Ah, vous parlez des produits secs de qualité venus de Chen.\nIls viennent tout juste d'arriver, je les fais livrer tout de suite."}
+{"id":1535367,"jp":"あの乾燥春雨とシイタケを弱火で一緒に煮込むと、なにを加えてもすっごく美味しくなるんですよ！","fr":"Ces vermicelles séchés et ces shiitakés, mijotés ensemble à feu doux, rendent délicieux tout ce qu'on y ajoute !"}
+{"id":1535368,"jp":"聞いてるだけでよだれが出そう……","fr":"Rien qu'à t'entendre, j'en salive…"}
+{"id":1535369,"jp":"ふふ、辰の美食はまだまだこんなものではありませんよ！\nもし機会があったら、辰で思う存分味わってみてください。","fr":"Hé hé, la gastronomie de Chen ne s'arrête pas là !\nSi vous en avez l'occasion, allez donc vous régaler à Chen."}
+{"id":1535370,"jp":"あそこには、現地でしか食べられない特別なものがいっぱいあるんですから！","fr":"Il y a là-bas plein de spécialités qu'on ne mange que sur place !"}
+{"id":1535371,"jp":"ありがとう、星臨者さん。さっき璇璣商会の人がちゃんと届けてくれたよ。\n遠路はるばる運ばれてきた食材だから、絶対に無駄にはしないからね！","fr":"Merci, Enfant des étoiles. Quelqu'un de la Compagnie Xuanji vient de me livrer le tout.\nCes ingrédients ont fait un long voyage, je ne vais surtout pas les gâcher !"}
 {"id":1535372,"jp":"黒画面文字","fr":"Texte d'écran noir"}
+{"id":1535373,"jp":"エーファは一心に料理へ取りかかる……","fr":"Eva se plonge corps et âme dans la cuisine…"}
+{"id":1535374,"jp":"できた！『山鳥と干しキノコの煮込み』だよ！","fr":"Et voilà ! « Ragoût de volaille des montagnes aux champignons séchés » !"}
+{"id":1535375,"jp":"うわぁ、すごくおいしい香り！するするとした舌触りと繊細な食感……\n乾物で煮込んでるのに、山の幸の香りが鶏肉の旨味を引き立ててる！","fr":"Waouh, ça sent délicieusement bon ! Une texture soyeuse, une mâche délicate…\nC'est mijoté avec des produits secs, et pourtant le parfum des sous-bois relève toute la saveur du poulet !"}
+{"id":1535376,"jp":"辰の濃厚な風味と、フリスの清らかな甘さが見事に合わさってるよ。","fr":"Les saveurs riches de Chen et la douceur pure de Fleece s'accordent à merveille."}
+{"id":1535377,"jp":"エーファの腕前はやっぱりすごいね。","fr":"Tu es vraiment douée, Eva."}
+{"id":1535378,"jp":"ありがとう……食べてくれる人が満足してくれるのが、料理人にとって一番の誇りだよ。","fr":"Merci… Quand on cuisine, rien ne rend plus fier que de voir satisfaits ceux qui mangent."}
+{"id":1535379,"jp":"でも最近、料理の世界って果てしなく広いって実感してるんだ。\nもし各地の料理を味わうことができたら……いつか、もっとおいしい料理を作れるかもしれないね。","fr":"Mais ces derniers temps, je mesure à quel point le monde de la cuisine est immense.\nSi je pouvais goûter les plats de partout… un jour, je pourrais peut-être cuisiner encore mieux."}
+{"id":1535380,"jp":"お客さん、鉱員長のウォリックをご存じですか？","fr":"Dites-moi, connaissez-vous Warwick, le chef des mineurs ?"}
+{"id":1535381,"jp":"知ってる。けっこう仲よくしてるよ。","fr":"Oui. On s'entend plutôt bien."}
+{"id":1535382,"jp":"それは助かります。ひとつお願いできませんか。","fr":"Voilà qui m'arrange. Puis-je vous demander un service ?"}
+{"id":1535383,"jp":"このまえ、ウォリックが仲間の鉱員たちと一緒に、\n城外に散らばってしまったわたくしの荷を運び戻してくれたんです。本当に助かりました。","fr":"L'autre jour, Warwick et ses compagnons mineurs\nont rapporté mes marchandises éparpillées hors des murs de la ville. Ils m'ont été d'un grand secours."}
+{"id":1535384,"jp":"本来なら謝礼を渡すべきなのに、ウォリックは「たいしたことじゃない」と\n受け取ってくれなくて……","fr":"J'aurais dû les récompenser, mais Warwick m'a dit que « ce n'était rien »\net il a refusé…"}
+{"id":1535385,"jp":"鉱員たちはみんな気のいい若者です。\n最近寒くなってきたから、坑道のなかはきっと冷えるはず。","fr":"Les mineurs sont tous de braves garçons.\nAvec le froid qui arrive, il doit faire glacial dans les galeries."}
+{"id":1535386,"jp":"なので、この毛布をウォリックたちに届けてもらえませんか？","fr":"Alors, pourriez-vous apporter ces couvertures à Warwick et aux autres ?"}
+{"id":1535387,"jp":"わたくしが直接持っていくと、きっとまた断られてしまいますから……","fr":"Si je les leur apporte moi-même, ils refuseront encore, à coup sûr…"}
+{"id":1535388,"jp":"なるほど、そういうことなら任せて。","fr":"Je vois. Dans ce cas, compte sur moi."}
+{"id":1535389,"jp":"ありがとうございます。ささやかですが、どうかこれを受け取ってください。","fr":"Merci beaucoup. Ce n'est pas grand-chose, mais je vous en prie, acceptez ceci."}
+{"id":1535390,"jp":"おう！{playerName}！久しぶりだな。なにか新しい話でも持ってきたか、ハハ！","fr":"Hé ! {playerName} ! Ça fait un bail ! T'as des nouvelles à me raconter ? Haha !"}
+{"id":1535391,"jp":"ちょうど渡したいものがあってね。","fr":"J'ai justement quelque chose à te donner."}
+{"id":1535392,"jp":"これは……フランシスコのか？","fr":"C'est… de la part de Francisco, ça ?"}
+{"id":1535393,"jp":"そうだよ。彼に頼まれて持ってきたんだ。最近冷えるからって。\nもし本人が来たら、また断るって言ってたよ。|そうだよ。彼に頼まれて持ってきたの。最近冷えるからって。\nもし本人が来たら、また断るって言ってたよ。","fr":"Oui. Il m'a demandé de te l'apporter, vu qu'il fait froid ces temps-ci.\nIl a dit que s'il venait lui-même, tu refuserais encore.|Oui. Il m'a demandé de te l'apporter, vu qu'il fait froid ces temps-ci.\nIl a dit que s'il venait lui-même, tu refuserais encore."}
+{"id":1535394,"jp":"はは、あいつはほんと律儀すぎるんだよな。\nちょっと手を貸しただけで、ずっと気にしてやがる。","fr":"Ha, ce type est bien trop scrupuleux.\nJe lui ai juste donné un petit coup de main, et il n'arrête pas d'y penser."}
+{"id":1535395,"jp":"まぁいい、せっかくだし受け取らせてもらうよ。すぐみんなに配ってくる。","fr":"Bon, d'accord, puisqu'il s'est donné la peine, j'accepte. Je vais les distribuer à tout le monde."}
+{"id":1535396,"jp":"つぎ会ったら、俺も礼を言うさ！","fr":"La prochaine fois que je le vois, je le remercierai moi aussi !"}
+{"id":1535397,"jp":"はぁ……また花たちがしおれてしまったの……","fr":"Pff… Mes fleurs se sont encore fanées…"}
+{"id":1535398,"jp":"やっぱりお天気のせいかな？","fr":"C'est à cause du temps ?"}
+{"id":1535399,"jp":"ええ……ここ数日ずっと大雨が続いて、新しく咲いたばかりのお花には厳しすぎたみたい。残念だわ……","fr":"Oui… Il a plu à verse ces derniers jours, c'était trop rude pour les fleurs à peine écloses. Quel dommage…"}
+{"id":1535400,"jp":"本当は何人かの常連さんに予約をいただいていたんだけど……\nしばらくはお届けできそうにないの。","fr":"Plusieurs habitués m'en avaient réservé…\nmais je ne pourrai pas les livrer avant un moment."}
+{"id":1535401,"jp":"星臨者さん、ごめんなさい……代わりにみんなへ伝えていただけるかしら？","fr":"Enfant des étoiles, je suis désolée… Tu pourrais les prévenir à ma place ?"}
+{"id":1535402,"jp":"そうだったのね……あの大雨のあと、もしかしたらと思っていたの。","fr":"Je vois… Après ces grosses pluies, je m'en doutais un peu."}
+{"id":1535403,"jp":"大丈夫よ。花は私の生活を彩る楽しみのひとつ、急ぐものじゃないわ。","fr":"Ce n'est rien. Les fleurs font partie des petits plaisirs qui égaient ma vie, rien ne presse."}
+{"id":1535404,"jp":"ジョイに伝えて。心配しないでって。","fr":"Dis à Joy de ne pas s'en faire."}
+{"id":1535405,"jp":"そういうことだったんですポ。\n新しい花が咲くまで待ってるよってジョイに伝えてくださいポ。","fr":"C'est donc ça, po.\nDites à Joy que j'attendrai que les nouvelles fleurs éclosent, po."}
+{"id":1535406,"jp":"天気はなかなか読めないもの……\nもし困ったら、宿屋を雨宿りの場所にしてくれてもいいんですポ。","fr":"Le temps est bien difficile à prévoir…\nSi elle a des soucis, elle peut venir s'abriter de la pluie à l'auberge, po."}
+{"id":1535407,"jp":"本当に良かった……伝えてくれてありがとう。\nみんながそう言ってくれて、私も救われるわ。","fr":"Quel soulagement… Merci d'avoir fait passer le message.\nQu'ils me disent ça, ça me fait du bien à moi aussi."}
+{"id":1535408,"jp":"また新しい花が咲いたときに、星臨者さんの分も必ず用意しておくわね。","fr":"Quand de nouvelles fleurs écloront, je t'en mettrai de côté, Enfant des étoiles, c'est promis."}
+{"id":1535409,"jp":"花の香りが、これからもあなたと共にありますように……","fr":"Que le parfum des fleurs t'accompagne toujours…"}
+{"id":1535410,"jp":"どこかに手伝ってくれる人はいないかしら……","fr":"N'y aurait-il pas quelqu'un pour m'aider…"}
 {"id":1535411,"jp":"手伝いが必要なの？","fr":"Tu as besoin d'aide ?"}
+{"id":1535412,"jp":"ええ、そうなの。ここの看護師のひとりが怪我をしてしまって、\n『看護される側』になってしまったのよ……","fr":"Oui, c'est ça. L'une des infirmières d'ici s'est blessée,\net la voilà passée « du côté des patients »…"}
+{"id":1535413,"jp":"いまは私ともうひとりで仕事を回しているけど、さすがに手が足りなくて……困ったわ。","fr":"Pour l'instant, on fait tourner le service à deux, mais on manque vraiment de bras… Quel embarras."}
+{"id":1535414,"jp":"もしよければ、星臨者さまにもお手伝いいただけないかしら？","fr":"Si cela ne vous dérange pas, Enfant des étoiles, pourriez-vous nous aider, vous aussi ?"}
+{"id":1535415,"jp":"それはいいけど、療養している人の世話なんて慣れてないよ……","fr":"D'accord, mais je n'ai pas l'habitude de m'occuper de convalescents…"}
+{"id":1535416,"jp":"心配いらないわ。できるだけ簡単なお仕事をお願いするから！\nもし引き受けてくれるなら、ちゃんと報酬も渡すわ。","fr":"Ne vous inquiétez pas. Je vous confierai les tâches les plus simples possible !\nSi vous acceptez, je vous paierai comme il se doit."}
+{"id":1535417,"jp":"わかった、やってみるね。","fr":"D'accord, je vais essayer."}
+{"id":1535418,"jp":"助かるわ！では、さっそくお願いね。","fr":"Vous me sauvez ! Alors, commençons tout de suite."}
+{"id":1535419,"jp":"ちょうどお昼の時間だから、療養者の皆に食事を届けてもらえる？","fr":"C'est justement l'heure du déjeuner : pourriez-vous apporter leur repas à tous les patients ?"}
+{"id":1535420,"jp":"こんにちは。本日、臨時でお手伝いしてるんだ。\n……で、これが今日のお食事だよ。|こんにちは。本日、臨時でお手伝いしてるの。\n……で、これが今日のお食事だよ。","fr":"Bonjour. Je donne un coup de main aujourd'hui, en renfort.\n… Et voici ton repas du jour.|Bonjour. Je viens en renfort aujourd'hui.\n… Et voici ton repas du jour."}
 {"id":1535421,"jp":"オージー","fr":"Ozzie"}
+{"id":1535422,"jp":"きみ、新入り？じゃあこれからもっと賑やかになるのかな！","fr":"Toi, tu viens d'arriver ? Alors ça va devenir plus animé, ici !"}
+{"id":1535423,"jp":"どのベッドに入るんだ？","fr":"Tu prends quel lit ?"}
+{"id":1535424,"jp":"いや、あくまで手伝いに来ただけ。入院はしないよ。","fr":"Non, je viens juste aider. Je ne suis pas là pour me faire soigner."}
 {"id":1535425,"jp":"なーんだ、そうか。","fr":"Ah bon, c'est donc ça."}
+{"id":1535426,"jp":"こんにちは。今日の料理だよ。","fr":"Bonjour. Voici le repas du jour."}
+{"id":1535427,"jp":"見なれない顔ですね……","fr":"Votre visage ne me dit rien…"}
+{"id":1535428,"jp":"今日は臨時で手伝ってるの。","fr":"Je donne un coup de main aujourd'hui."}
+{"id":1535429,"jp":"そうなんですか、ありがとうございます。","fr":"Ah, je vois. Merci beaucoup."}
+{"id":1535430,"jp":"食事はみなさんに行き渡った？\n……さすが、本当に手際がいいわね。いっそ、このまま働かない？","fr":"Tout le monde a eu son repas ?\n… Vous êtes vraiment efficace. Et si vous restiez travailler ici ?"}
+{"id":1535431,"jp":"誘ってくれてありがたいけど、まだやることがあるから、長くは居られないんだ。|誘ってくれてありがたいけど、まだやることがあるから、長くは居られないの。","fr":"Merci de l'invitation, mais j'ai encore à faire, je ne peux pas rester longtemps.|Merci de l'invitation, mais j'ai encore des choses à faire, je ne peux pas rester longtemps."}
+{"id":1535432,"jp":"そうなのね……もし、気が変わったらいつでも歓迎するわよ。","fr":"Je vois… Si jamais vous changez d'avis, notre porte vous sera toujours ouverte."}
+{"id":1535433,"jp":"今日は本当にありがとう。","fr":"Merci infiniment pour aujourd'hui."}
 {"id":1535434,"jp":"ハモン","fr":"Hamon"}
+{"id":1535435,"jp":"ああ――！僕のエサはどこだ！？","fr":"Aaah ! Où est mon appât !?"}
+{"id":1535436,"jp":"えっと……なにがあったの？","fr":"Euh… Qu'est-ce qui se passe ?"}
+{"id":1535437,"jp":"エサをもってくるのを忘れてきちゃったんだ……","fr":"J'ai oublié d'apporter mon appât…"}
+{"id":1535438,"jp":"これじゃ釣りができない……","fr":"Impossible de pêcher comme ça…"}
+{"id":1535439,"jp":"エサなしで釣ってみたら？","fr":"Et si tu pêchais sans appât ?"}
+{"id":1535440,"jp":"川に下りて掬って捕ったら？","fr":"Et si tu descendais à la rivière les attraper à l'épuisette ?"}
 {"id":1535441,"jp":"それは無理だろ。","fr":"Ça ne marchera jamais."}
+{"id":1535442,"jp":"いや、掬って捕るなんて絶対ダメだ！釣り師は釣りにこだわってるんだ！","fr":"Non, à l'épuisette, hors de question ! Un pêcheur, ça pêche à la ligne !"}
+{"id":1535443,"jp":"そうだ、今からエサを作ればいい！\nあ、でもエイプルがいるんだ……","fr":"Je sais, je n'ai qu'à fabriquer de l'appât maintenant !\nAh, mais il me faut des Aple…"}
+{"id":1535444,"jp":"なあ、頼むからエイプルを取ってきてくれないか？","fr":"Dis, je t'en prie, tu pourrais aller me chercher des Aple ?"}
+{"id":1535445,"jp":"お、助かった！でもさ、さっき試しにエサなしで釣ってみたんだよ。そしたら――","fr":"Oh, tu me sauves ! Mais tu sais quoi ? Tout à l'heure, j'ai essayé de pêcher sans appât. Et là…"}
+{"id":1535446,"jp":"本当に魚がかかったんだ、ハハ！","fr":"Ça a vraiment mordu, haha !"}
+{"id":1535447,"jp":"エサなしで釣れるんだ！|エサなしで釣れるの！","fr":"On peut pêcher sans appât !|On peut pêcher sans appât, alors !"}
+{"id":1535448,"jp":"まあ運がよかっただけかもね。でも毎回そううまくはいかねえし、\nやっぱりちゃんとエサ作るに限るよ。","fr":"Bon, j'ai peut-être juste eu de la chance. Mais ça ne marche pas à tous les coups,\nalors rien ne vaut un bon appât fait maison."}
+{"id":1535449,"jp":"とにかくエイプルありがと！これでたくさんエサが作れる。","fr":"En tout cas, merci pour les Aple ! Je vais pouvoir faire plein d'appâts."}
+{"id":1535450,"jp":"ほら、これがお礼！魚を釣った運も一緒にあげるよ！","fr":"Tiens, pour te remercier ! Et je te donne aussi la chance qui m'a fait attraper ce poisson !"}
+{"id":1535451,"jp":"おお、星臨者！ちょっと聞いてくれよ。\n俺、また新しいアイデアが浮かんじまったんだ！","fr":"Oh, Enfant des étoiles ! Écoute un peu ça.\nJ'ai encore eu une nouvelle idée !"}
+{"id":1535452,"jp":"花や草って見てくれにこだわってるだろ。\nそれより、食えるうえに屋敷の護衛にもなるほうがいいとおもうんだよ。\nそうだ、豆だ！豆はどうだ！？最強の作物にできないかな？","fr":"Les fleurs et les herbes, ça ne compte que pour l'apparence, pas vrai ?\nMoi, je trouve qu'il vaudrait mieux une plante qui se mange et qui protège le manoir.\nJe sais, des haricots ! Qu'est-ce que tu dis des haricots !? On ne pourrait pas en faire la culture ultime ?"}
 {"id":1535453,"jp":"ほんとに育つの……？","fr":"Ils vont vraiment pousser… ?"}
+{"id":1535454,"jp":"試してみなきゃわかんねぇだろ？","fr":"On ne le saura pas sans essayer, hein ?"}
+{"id":1535455,"jp":"なあ、豆だけじゃつまんないから、新鮮な作物を集めてきてくれないか？\n集まったら俺に任せてくれ！","fr":"Dis, les haricots tout seuls, c'est ennuyeux, alors tu pourrais me rapporter des récoltes fraîches ?\nUne fois que tu les auras, laisse-moi faire !"}
 {"id":1535456,"jp":"持ってきたよ。","fr":"Je les ai apportés."}
+{"id":1535457,"jp":"はは、見てくれよ、このふっくらした宝の山！\n俺の頭にはもうアイデアが湧きまくってるぞ！","fr":"Haha, regarde-moi cette montagne de trésors bien dodus !\nJ'ai déjà la tête qui déborde d'idées !"}
+{"id":1535458,"jp":"ほら、前金だ。発明が大成功したら、あらためてたっぷり礼をするぜ！","fr":"Tiens, un acompte. Si mon invention fait un tabac, je te remercierai généreusement !"}
+{"id":1535459,"jp":"この陶磁の彫刻……前回のオークションで流れたはずなのに、\nどうして今回のリストに載っているのかしら？","fr":"Cette sculpture en céramique… Elle n'avait pas trouvé preneur à la dernière vente,\nalors pourquoi figure-t-elle sur la liste de cette fois ?"}
+{"id":1535460,"jp":"流札になった品は、もう一度出品できないの？","fr":"Un objet invendu ne peut pas être remis en vente ?"}
+{"id":1535461,"jp":"【実装対象外／弗利斯随机任务OBS041-OBS050.xlsx】\n","fr":"【Non implémenté／弗利斯随机任务OBS041-OBS050.xlsx】\n"}
+{"id":1535462,"jp":"きっとお忙しくて受け取りに来られなかったのね……\nねえ、よかったらゴヤード商会まで届けていただけないかしら？","fr":"L'acheteur a dû être trop occupé pour venir la récupérer…\nDites, pourriez-vous la porter à la Compagnie Goyard ?"}
+{"id":1535463,"jp":"たしかに、これは私がオークションで購入した品です。\nここ数日、多忙で取りに行くことができず……わざわざ届けていただき感謝します。","fr":"En effet, c'est la pièce que j'ai achetée aux enchères.\nCes derniers jours, je n'avais pas le temps de venir la chercher… Merci d'avoir pris la peine de me l'apporter."}
+{"id":1535464,"jp":"……なるほど、色合いは温かみがあり、仕上げも精緻。\nまさに優れたコレクションですな。","fr":"… Je vois, des teintes chaleureuses, une finition raffinée.\nUne vraie pièce de collection."}
+{"id":1535465,"jp":"なのに、どうして流札になったの？","fr":"Alors pourquoi elle n'a pas trouvé preneur ?"}
+{"id":1535466,"jp":"理由は単純で、この出品の価格が非常に高額だったからです。\n価値に見合うとはいえ、毎回必ず買い手が現れるとは限りません。","fr":"La raison est simple : son prix était extrêmement élevé.\nMême si elle les vaut, il n'y a pas toujours un acheteur au rendez-vous."}
+{"id":1535467,"jp":"ですが、私にとっては好都合でした……\nこの逸品は、ゴヤード商会のコレクションとして大切にさせていただきますよ。","fr":"Mais pour moi, c'était une aubaine…\nCette pièce de choix rejoindra précieusement la collection de la Compagnie Goyard."}
+{"id":1535468,"jp":"これは新作のアメだよ。ひとつ試してみるかね？","fr":"C'est un nouveau bonbon. Tu veux goûter ?"}
 {"id":1535469,"jp":"ほのかな花の香りがして、おいしいね。","fr":"Il y a un léger parfum de fleur, c'est délicieux."}
+{"id":1535470,"jp":"それはよかった。ラリンや子どもたちにも、気に入ってもらえるといいんだが……","fr":"Tant mieux. J'espère que Larin et les enfants l'aimeront aussi…"}
+{"id":1535471,"jp":"すまん、このアメをラリンに届けてもらえるかな。頼んだぞ。","fr":"Désolé, tu pourrais apporter ces bonbons à Larin ? Je compte sur toi."}
+{"id":1535472,"jp":"数日前にアメ店でアメを予約して、子どもたちに分けてあげようと思っていたの。","fr":"Il y a quelques jours, j'ai réservé des bonbons à la confiserie pour les partager avec les enfants."}
+{"id":1535473,"jp":"まさかこんなにはやく届けてもらえるなんて……\nふふ、爽やかで甘い香りね。","fr":"Je ne pensais pas qu'on me les livrerait si vite…\nHihi, quel parfum frais et sucré."}
+{"id":1535474,"jp":"子どもたち、きっと喜ぶわ。","fr":"Les enfants vont être ravis."}
+{"id":1535475,"jp":"はぁ……眠いなぁ。昨日も夜更かししちゃったし、そのまえの日も、そのまたまえの日も……","fr":"Haaa… J'ai sommeil. Hier encore, j'ai veillé tard, et la veille aussi, et l'avant-veille…"}
+{"id":1535476,"jp":"もうずっとまともに寝てないんだ……仕事が全然終わらなくて！","fr":"Ça fait une éternité que je n'ai pas dormi correctement… Mon travail n'en finit pas !"}
+{"id":1535477,"jp":"すぐ立ったまま寝そう……","fr":"Tu vas finir par t'endormir debout…"}
+{"id":1535478,"jp":"だ、だめだ！しっかりしないと。楚期姉に見つかったら……","fr":"N-non ! Je dois me ressaisir. Si Chu Qi me surprend…"}
+{"id":1535479,"jp":"うぅ……ムーンベリーがあればなぁ。\nあれを食べればシャキッと目が覚めるのに……","fr":"Ugh… Si seulement j'avais une baie de lune.\nUne seule, et le sommeil s'envolerait d'un coup…"}
+{"id":1535480,"jp":"それなら、探してきてあげるよ。","fr":"Dans ce cas, je vais t'en chercher."}
+{"id":1535481,"jp":"ありがとう！これが欲しかったんだ！んー、このムーンベリーの味……","fr":"Merci ! C'est exactement ce qu'il me fallait ! Mmm, ce goût de baie de lune…"}
+{"id":1535482,"jp":"やっぱり食べると体がすごくすっきりする！眠気も吹き飛んだよ！","fr":"Comme toujours, ça me remet d'aplomb ! Plus la moindre trace de sommeil !"}
+{"id":1535483,"jp":"じゃあまた仕事続けられるね。","fr":"Tu vas pouvoir te remettre au travail, alors."}
 {"id":1535484,"jp":"え……？えぇ――！？","fr":"Hein… ? Quoooi ?!"}
 {"id":1535485,"jp":"リグビー","fr":"Rigby"}
+{"id":1535486,"jp":"大事なのは、努力よりもやっぱり選択だ。\nつまり、前の季節において、収穫が悪かった理由というのは……","fr":"Ce qui compte, plus que l'effort, c'est le choix.\nAutrement dit, si la récolte de la saison dernière a été mauvaise…"}
+{"id":1535487,"jp":"きっと道具が悪かったせいだ！","fr":"C'est sûrement la faute des outils !"}
+{"id":1535488,"jp":"そこでだ、星臨者。オータミットって知ってるだろ？","fr":"Alors voilà, Enfant des étoiles. Tu connais les Otamit, non ?"}
 {"id":1535489,"jp":"知ってるけど……","fr":"Je sais, mais…"}
+{"id":1535490,"jp":"あいつが持ってる鎌は立派だし、きっと普通のものより\nずっと使いやすいはずだ。","fr":"La faucille qu'il porte est superbe, elle doit être bien plus maniable\nqu'une faucille ordinaire."}
+{"id":1535491,"jp":"頼むよ、星臨者。あれを手に入れてきてくれないか？","fr":"S'il te plaît, Enfant des étoiles. Tu ne pourrais pas m'en rapporter une ?"}
+{"id":1535492,"jp":"これが要望のあった『新しい農具』だよ。","fr":"Voilà le « nouvel outil agricole » que tu voulais."}
+{"id":1535493,"jp":"なに？もう錆びてるのか？……磨いた方がいいのかな……","fr":"Quoi ? Elle est déjà rouillée ? … Je devrais peut-être la polir…"}
+{"id":1535494,"jp":"いや、別にそこまでする必要もないか。錆落としなんて面倒だしな。","fr":"Non, pas la peine d'aller jusque-là. Enlever la rouille, c'est trop de travail."}
+{"id":1535495,"jp":"私、もう『錬金秘術』に載ってるレシピは完全にマスターしたわ！\n今度こそ『ぐーぐー安眠ポーション』、絶対に成功させてみるんだから！","fr":"J'ai parfaitement maîtrisé toutes les recettes des « Arcanes de l'alchimie » !\nCette fois, la « potion du dodo ronflant », je vais la réussir, c'est certain !"}
+{"id":1535496,"jp":"『ぐーぐー安眠ポーション』？","fr":"La « potion du dodo ronflant » ?"}
+{"id":1535497,"jp":"そうよ。これを飲めば安心して眠れて、ぐーぐー寝息まで出ちゃうって噂なの。\n楽しみで仕方ないわ。","fr":"Oui. On dit qu'en la buvant, on dort sur ses deux oreilles, au point de ronfler.\nJ'ai trop hâte."}
+{"id":1535498,"jp":"さてと……ちょっと確認してみるわね……\nえ？地元素の微粒子が必要？","fr":"Bon… Vérifions un peu…\nHein ? Il faut des particules élémentaires de Terre ?"}
+{"id":1535499,"jp":"星臨者さん、お願いきいてくれない？\n私はこの大釜から離れられないの。だから、あなたが集めてきてもらえる？","fr":"Enfant des étoiles, tu veux bien me rendre un service ?\nJe ne peux pas m'éloigner de ce chaudron. Alors, tu pourrais aller les récolter pour moi ?"}
+{"id":1535500,"jp":"へっもう集めたの？ずいぶん早いわね！","fr":"Hein, tu les as déjà ? Tu as fait vite !"}
+{"id":1535501,"jp":"よし！それじゃあ奇跡の誕生を目に焼き付けておきなさい――","fr":"Bien ! Alors grave bien dans ta mémoire la naissance d'un miracle…"}
+{"id":1535502,"jp":"……ん？反応がない？どうして？","fr":"… Hm ? Rien ne se passe ? Pourquoi ?"}
+{"id":1535503,"jp":"きっと大釜の調子が悪いのね……うーん、もう一度ちゃんと点検してみるわ。","fr":"Ça doit être le chaudron qui fait des siennes… Hmm, je vais le réviser comme il faut."}
+{"id":1535504,"jp":"とにかく、今回は助けてもらったし、約束通り報酬はちゃんと渡すからね。ありがと。","fr":"En tout cas, tu m'as aidée cette fois, alors je te donne la récompense promise. Merci."}
+{"id":1535505,"jp":"私、もう『錬金秘術』に載ってるレシピは完全にマスターしたわ！\n今度こそ『変形ポーション』、絶対に成功するんだから！","fr":"J'ai parfaitement maîtrisé toutes les recettes des « Arcanes de l'alchimie » !\nCette fois, la « potion de métamorphose », je vais la réussir, c'est sûr !"}
 {"id":1535506,"jp":"『変形ポーション』？","fr":"La « potion de métamorphose » ?"}
+{"id":1535507,"jp":"そうよ。どうやら、この変形ポーションを使えばある物を別の物に変えられるんだって！\nワクワクするわよね。","fr":"Oui. Apparemment, avec cette potion de métamorphose, on peut changer une chose en une autre !\nC'est excitant, non ?"}
+{"id":1535508,"jp":"さてと……ちょっと確認してみるわね……え？幽光の鱗が必要？","fr":"Bon… Vérifions un peu… Hein ? Il faut des écailles à la lueur spectrale ?"}
+{"id":1535509,"jp":"星臨者さん、お願いきいてくれない？私はこの大釜から離れられないの。\nだから、あなたが集めてきてもらえる？","fr":"Enfant des étoiles, tu veux bien me rendre un service ? Je ne peux pas m'éloigner de ce chaudron.\nAlors, tu pourrais aller les récolter pour moi ?"}
+{"id":1535510,"jp":"早いじゃない！さすがね！","fr":"Déjà ? Bravo !"}
+{"id":1535511,"jp":"さあ、これからが奇跡の瞬間よ――","fr":"Et maintenant, voici l'instant du miracle…"}
+{"id":1535512,"jp":"……ん？な、なんで反応しないのよ？","fr":"… Hm ? P-pourquoi ça ne réagit pas ?"}
+{"id":1535513,"jp":"きっと瓶の方に問題があるんだわ。もう一度点検してみるしかないわね。","fr":"Le problème doit venir de la fiole. Je n'ai plus qu'à la vérifier encore une fois."}
+{"id":1535514,"jp":"星臨者！やっと見つけたぞ！","fr":"Enfant des étoiles ! Enfin, je te trouve !"}
 {"id":1535515,"jp":"さては、また頼み事？","fr":"Ne me dis pas que c'est encore une demande ?"}
+{"id":1535516,"jp":"いや、その……ちょっと言いづらいんだけどさ、最近街にワオッキーの群れが現れてな。\n食べものを盗むだけならまだしも、観光客の記念品まで盗んでいくんだ。","fr":"Non, enfin… c'est un peu gênant à dire, mais ces derniers temps, une bande de Waokki traîne en ville.\nQu'ils volent de la nourriture, passe encore, mais ils dérobent aussi les souvenirs des touristes."}
+{"id":1535517,"jp":"これで俺が担当したワオッキーによる盗難被害はもう六件目だ。\n以前、奴らの巣は突き止めていたんだが、すでに別の場所に移ったらしい。","fr":"C'est déjà le sixième vol de Waokki dont je m'occupe.\nJ'avais localisé leur repaire, mais on dirait qu'ils ont déménagé."}
+{"id":1535518,"jp":"はは、話がはやくて助かるよ！あいつらを捕まえられれば、\n領主様からも厚く報奨が出るはずだ！","fr":"Haha, tu comprends vite, ça m'arrange ! Si on attrape ces bestioles,\nle seigneur devrait nous récompenser généreusement !"}
+{"id":1535519,"jp":"なんだこの量は！まさか巣ごと潰してきたのか！？","fr":"C'est quoi, cette quantité !? Ne me dis pas que tu as démoli leur repaire tout entier !?"}
+{"id":1535520,"jp":"もちろん。それに、こいつらも捕まえてきた！","fr":"Bien sûr. Et j'ai aussi attrapé ces bestioles !"}
+{"id":1535521,"jp":"さすがだな、星臨者！ほんと頼りになる！","fr":"Je n'en attendais pas moins de toi, Enfant des étoiles ! On peut vraiment compter sur toi !"}
+{"id":1535522,"jp":"これは依頼の報酬だ、受け取ってくれ。","fr":"Voici la récompense de la mission, prends-la."}
+{"id":1535523,"jp":"同じような事件があれば、また真っ先にあんたに頼むからな！はははは！","fr":"S'il y a une autre affaire de ce genre, c'est à toi que je ferai appel en premier ! Hahahaha !"}
+{"id":1535524,"jp":"収穫とは感謝すべき恵みであり、喜びに溺れて所有を当然と考えてはならないのです。","fr":"La récolte est une grâce dont il faut être reconnaissant ; on ne doit pas se griser de joie au point de croire qu'elle nous revient de droit."}
+{"id":1535525,"jp":"迷える仔羊たちには、正しき導きが与えられるべきでしょう……","fr":"Aux agneaux égarés, il faut montrer la juste voie…"}
+{"id":1535526,"jp":"シアさん、それはどういう意味？","fr":"Shia, qu'est-ce que tu veux dire ?"}
+{"id":1535527,"jp":"食糧を粗末にしている者たちを見れば、おわかりになるでしょう。","fr":"Regardez ceux qui gaspillent la nourriture, et vous comprendrez."}
+{"id":1535528,"jp":"おや……星臨者ではありませんか。","fr":"Oh… Mais c'est l'Enfant des étoiles."}
+{"id":1535529,"jp":"物を荒らしていたキボは懲りたみたい、もう二度としないと思う。","fr":"Les Kibo qui saccageaient tout ont l'air d'avoir retenu la leçon. Je ne pense pas qu'ils recommenceront."}
+{"id":1535530,"jp":"そうですか……あなたは間違っていません。","fr":"Je vois… Vous n'avez pas eu tort."}
+{"id":1535531,"jp":"たしかに痛みを与えることは好ましいことではありません。\nですが、それによってキボたちが習慣を改め、真の飢饉に直面したときに悔やむことがなくなるのです。","fr":"Certes, infliger de la douleur n'a rien de souhaitable.\nMais grâce à cela, les Kibo changeront leurs habitudes, et ils n'auront rien à regretter le jour où viendra une véritable famine."}
+{"id":1535532,"jp":"あなたの行いは収穫の教えに即する善き導きでした。\nこの褒美をどうか受け取ってください。","fr":"Vous les avez guidés sur la juste voie, selon l'enseignement de la Récolte.\nJe vous en prie, acceptez cette récompense."}
+{"id":1535533,"jp":"いい匂い……ここで宴会でもしてるの？","fr":"Ça sent bon… Il y a un festin, ici ?"}
+{"id":1535534,"jp":"あはは、ただのあたしの手料理だよ。褒めてくれてありがとねえ、若いの。\nよかったらすこし食べていくかい？","fr":"Ahaha, ce n'est que ma petite cuisine. Merci du compliment, jeune pousse.\nTu en veux un peu ?"}
+{"id":1535535,"jp":"ええっ、そんな、悪いよ。","fr":"Oh, non, je ne voudrais pas abuser."}
+{"id":1535536,"jp":"気にしなくていいんだよ。ちょうど孫が育てた穀物が豊作でね、\n簡単なお祝いするつもりだったのに、作ってたらこんなに増えちゃって。","fr":"Ne t'en fais pas. Les céréales de mon petit-fils ont donné une belle récolte, figure-toi,\nje voulais juste fêter ça simplement, mais à force de cuisiner, j'en ai fait tout ça."}
+{"id":1535537,"jp":"だったらいっそ、ご近所さんも呼んでみんなで食べようと思ってさ。\nにぎやかな方がいいだろう？","fr":"Alors je me suis dit : autant inviter les voisins et manger tous ensemble.\nC'est plus gai quand il y a du monde, pas vrai ?"}
+{"id":1535538,"jp":"若いの、悪いけど近くの人たちを呼んできてくれないかねえ？","fr":"Jeune pousse, désolée de te demander ça, mais tu pourrais aller chercher les gens du coin ?"}
+{"id":1535539,"jp":"なるほどね、そういうことなら任せて！みんなを呼んでくる。","fr":"Je vois. Dans ce cas, compte sur moi ! Je vais chercher tout le monde."}
 {"id":1535540,"jp":"ウォリス","fr":"Wallis"}
+{"id":1535541,"jp":"リサばあちゃんの料理だろ？\nさっき通ったときにいい匂いがしてたんだ。うまそうだな！","fr":"C'est la cuisine de mamie Lisa, hein ?\nÇa sentait bon quand je suis passé tout à l'heure. Ça a l'air délicieux !"}
 {"id":1535542,"jp":"すぐに行くよ！","fr":"J'arrive tout de suite !"}
 {"id":1535543,"jp":"カミリ","fr":"Kamili"}
+{"id":1535544,"jp":"あら、リサおばあちゃんの誘いなら断れないわ。","fr":"Oh, une invitation de mamie Lisa, ça ne se refuse pas."}
+{"id":1535545,"jp":"でも……ラニーとレニーも連れていったら食べすぎちゃわないかしら。ゴホンゴホン。","fr":"Mais… si j'emmène Lanny et Lenny, ils ne vont pas trop manger ? Kof, kof."}
+{"id":1535546,"jp":"おやおや、こんなに大勢でご飯を食べるのは久しぶりだねえ。懐かしいもんだよ。","fr":"Eh bien, ça fait longtemps que je n'avais pas mangé avec autant de monde. Ça me rappelle le bon vieux temps."}
+{"id":1535547,"jp":"若いの、あんたも残っていきなさい。\nあたしの料理が、口に合うといいけどねえ。","fr":"Jeune pousse, reste manger avec nous, toi aussi.\nJ'espère que ma cuisine sera à ton goût."}
 {"id":1535548,"jp":"リード","fr":"Reed"}
+{"id":1535549,"jp":"いったいなにが鳴いているんだ……","fr":"Mais qu'est-ce qui crie comme ça…"}
+{"id":1535550,"jp":"ああ……ここ数日、夜になると眠れないんだ。","fr":"Ah… Ces derniers jours, je n'arrive pas à dormir la nuit."}
+{"id":1535551,"jp":"いつも窓の外で、ウグウグって声がするんだが、外に出てもなにも見つからなくて……","fr":"Il y a toujours un « ougou-ougou » sous ma fenêtre, mais quand je sors, je ne trouve rien…"}
+{"id":1535552,"jp":"星臨者、悪いが夜になにが鳴いているか一度見てきてくれないか……？","fr":"Enfant des étoiles, désolé de te demander ça, mais tu pourrais aller voir ce qui crie la nuit… ?"}
+{"id":1535553,"jp":"なんでずっと鳴いてたってわかる？","fr":"Comment tu sais qu'il criait sans arrêt ?"}
+{"id":1535554,"jp":"あいつは普段、屋根の上にいて周りの様子を見張ってるんだ。\nまさか……危険でも近づいてきたのか！？","fr":"D'habitude, il reste sur le toit pour surveiller les environs.\nNe me dis pas… qu'un danger approche !?"}
+{"id":1535555,"jp":"いや、周りには危険そうなものはなかったけど……","fr":"Non, je n'ai rien vu de dangereux dans le coin, mais…"}
+{"id":1535556,"jp":"太りすぎてたからダイエットさせようと思ってたんだが……\nまさか、腹をすかせて鳴いていたのか！？","fr":"Il était devenu trop gros, alors je l'avais mis au régime…\nNe me dis pas qu'il criait parce qu'il avait faim !?"}
+{"id":1535557,"jp":"こほん……すまない、すぐに餌をやってくるよ。\n手伝ってくれてありがとう、星臨者。","fr":"Hum hum… Désolé, je vais tout de suite lui donner à manger.\nMerci de ton aide, Enfant des étoiles."}
+{"id":1535558,"jp":"うぅ……困ったなぁ……","fr":"Ugh… Qu'est-ce que je vais faire…"}
+{"id":1535559,"jp":"ぼく、どうしても知りたいんだ。\nメイメイハウスのまえには、いったい何匹のメイメイが隠れているのかって。","fr":"Je voudrais vraiment savoir\ncombien de Meimei se cachent devant la Maison Meimei."}
+{"id":1535560,"jp":"数えればいいんじゃないか？|数えればいいんじゃない？","fr":"Tu n'as qu'à les compter, non ?|Tu n'as qu'à les compter, non ?"}
+{"id":1535561,"jp":"それはそうなんだけど……","fr":"Oui, mais…"}
+{"id":1535562,"jp":"じゃあ、僕が数えてあげる！|じゃあ、私が数えてあげる！","fr":"Alors je vais les compter pour toi !|Alors je vais les compter pour toi !"}
+{"id":1535563,"jp":"（4匹目のメイメイ……）","fr":"(Quatrième Meimei…)"}
+{"id":1535564,"jp":"強烈な眠気が押し寄せ、メイメイが何匹いたのかもう考えることはできなかった。","fr":"Une irrésistible somnolence déferle, impossible de penser encore au nombre de Meimei."}
+{"id":1535565,"jp":"それで、何匹のメイメイを数えられたの？","fr":"Alors, tu en as compté combien, de Meimei ?"}
 {"id":1535566,"jp":"4匹……","fr":"Quatre…"}
+{"id":1535567,"jp":"わぁ！ぼくより1匹多い！ぼくはいつも3匹目まで数えると眠たくなっちゃうんだ。\nやっぱりメイメイを数えるのって難しいね。","fr":"Waouh ! Un de plus que moi ! Moi, je m'endors toujours au troisième.\nC'est vraiment dur de compter les Meimei, hein."}
+{"id":1535568,"jp":"メイメイハウスのまえには、いったい何匹のメイメイが隠れているんだろうねぇ……","fr":"Combien de Meimei peuvent bien se cacher devant la Maison Meimei…"}
+{"id":1535569,"jp":"……最近、どうにも違和感がするんだ……まあ、気のせいかもしれないが。","fr":"… Ces derniers temps, j'ai une drôle d'impression… Bon, je me fais peut-être des idées."}
+{"id":1535570,"jp":"違和感？巡回のときに異常を見つけたの？","fr":"Une drôle d'impression ? Tu as remarqué quelque chose d'anormal pendant ta ronde ?"}
+{"id":1535571,"jp":"ああ、妙な気配を感じるんだが、周りを見てもなにも見当たらないんだ……","fr":"Oui, je sens une présence étrange, mais quand je regarde autour de moi, je ne vois rien…"}
+{"id":1535572,"jp":"勘違いではないかたしかめたい。星臨者殿、どうか一緒に巡回してくれないか？","fr":"Je veux m'assurer que je ne me trompe pas. Enfant des étoiles, accepterais-tu de faire la ronde avec moi ?"}
+{"id":1535573,"jp":"坑道なら、この道を出て西へ進めば着くぞ。","fr":"Si c'est la mine que tu cherches, prends ce chemin et va vers l'ouest."}
+{"id":1535574,"jp":"シードろのやつ、どうやらもう戻ってはこなさそうだな……\nとにかく、これで怪しい影の件は解決だ。","fr":"Ce Seedro ne reviendra sans doute pas…\nEn tout cas, l'affaire de l'ombre suspecte est réglée."}
+{"id":1535575,"jp":"星臨者殿、助けてくれて感謝するよ。これは礼だ、受け取ってくれ。\nそれじゃ私は引き続き巡回に戻るとしよう。","fr":"Enfant des étoiles, merci de ton aide. Voici pour toi, accepte-le.\nBon, je retourne à ma ronde."}
 {"id":1535576,"jp":"マーティン","fr":"Martin"}
+{"id":1535577,"jp":"も、もう……ダメだ……","fr":"J-je… n'en peux plus…"}
+{"id":1535578,"jp":"……どうした？もしかして病気かなにか？","fr":"… Qu'est-ce qui t'arrive ? Tu es malade ?"}
+{"id":1535579,"jp":"ち、違う……ただ……腹が減りすぎて……","fr":"N-non… C'est juste que… j'ai trop faim…"}
+{"id":1535580,"jp":"ここに……シンゲツイモがあるんだが……","fr":"J'ai… une patate Nouvelle-Lune ici…"}
+{"id":1535581,"jp":"頼む……料理してくれないか……","fr":"S'il te plaît… cuisine-la-moi…"}
+{"id":1535582,"jp":"ふぅ……うまい！やっと生き返った……\nこれでまた釣りに精が出せるぞ！","fr":"Ouf… Délicieux ! Je revis enfin…\nJe vais pouvoir me remettre à pêcher de plus belle !"}
+{"id":1535583,"jp":"そういえば、おなかすいたなら魚を焼けばよかったんじゃない？","fr":"Au fait, si tu avais faim, tu n'avais qu'à griller un poisson, non ?"}
+{"id":1535584,"jp":"釣り上げた魚は宝物だぞ！そんな簡単に焼けるわけないだろう！","fr":"Un poisson que j'ai pêché, c'est un trésor ! Je ne vais pas le griller comme ça !"}
+{"id":1535585,"jp":"魚を釣るってのがどれほど大変なことだと思ってるんだ……","fr":"Tu n'as pas idée du mal qu'on a à attraper un poisson…"}
+{"id":1535586,"jp":"とにかく助かった、星臨者！\n今日は絶対にバケツいっぱい釣り上げてみせるぞ、はっはっは！","fr":"En tout cas, tu m'as sauvé, Enfant des étoiles !\nAujourd'hui, je vais remplir un seau entier, c'est sûr, hahaha !"}
 {"id":1535587,"jp":"掲示板","fr":"Panneau d'affichage"}
+{"id":1535588,"jp":"最近、森は乾燥しており、山火事の危険が高まっています。\n火気の持ち込みは禁止されています。","fr":"La forêt est sèche ces derniers temps, et le risque d'incendie augmente.\nIl est interdit d'y apporter du feu."}
+{"id":1535589,"jp":"火の不始末や、森に侵入した火属性キボを見かけた場合は、\nただちに制止してください。","fr":"Si vous voyez un feu mal éteint ou un Kibo de Feu entré dans la forêt,\narrêtez-le immédiatement."}
+{"id":1535590,"jp":"森林保護に貢献した市民には、賞金が支給されます。","fr":"Les citoyens qui contribuent à la protection de la forêt recevront une prime."}
+{"id":1535591,"jp":"なるほど……人手が本当に足りていないみたいね。なら手伝おう。","fr":"Je vois… Ils manquent vraiment de bras. Alors je vais aider."}
+{"id":1535592,"jp":"うぅ……このままじゃ点検に間に合わないよ！\nどこ、どこにあるの……？","fr":"Ugh… À ce rythme, je ne serai jamais prête pour l'inspection !\nOù, où est-ce que ça peut être… ?"}
+{"id":1535593,"jp":"ずいぶん焦ってるみたいだね。なにかあったの？","fr":"Tu as l'air dans tous tes états. Qu'est-ce qui se passe ?"}
+{"id":1535594,"jp":"今朝フリスに戻ってきた飛空船を点検しなきゃいけないんだけど、\n整備に使うスパナとペンチが見当たらないんだ……","fr":"Je dois inspecter le dirigeable rentré à Fleece ce matin,\nmais je ne trouve plus la clé à molette ni la pince dont je me sers pour l'entretien…"}
+{"id":1535595,"jp":"たぶん、近くのどこかに置きっぱなしにしちゃったんだと思う……はやく探し出さないと！","fr":"Je les ai sûrement laissées traîner quelque part par ici… Il faut vite que je les retrouve !"}
+{"id":1535596,"jp":"すごい！全部見つけてくれたんだね！\nえっ……なんでハンマーまで……？","fr":"Génial ! Tu as tout retrouvé !\nHein… Pourquoi il y a aussi un marteau… ?"}
+{"id":1535597,"jp":"いや、このハンマーも……あたしのだったみたい……あはは……","fr":"Ah, ce marteau aussi… était à moi, on dirait… Ahaha…"}
+{"id":1535598,"jp":"とにかく、助かったよ！じゃあ整備に行ってくるね。\n点検が終わったら、ぜひうちの飛空船に乗ってみてよ！","fr":"En tout cas, tu me sauves ! Je vais faire l'entretien.\nUne fois l'inspection finie, viens absolument faire un tour dans notre dirigeable !"}
 {"id":1535599,"jp":"ミリー","fr":"Millie"}
+{"id":1535600,"jp":"いらっしゃいませ！ご注文ですか？\nすみません、少々お待ちください。今ちょっと手が離せなくて……","fr":"Bienvenue ! Vous voulez commander ?\nDésolée, un petit instant, s'il vous plaît. Je suis un peu débordée…"}
+{"id":1535601,"jp":"困ってるなら手伝うよ。","fr":"Si tu as un souci, je peux t'aider."}
+{"id":1535602,"jp":"本当ですか？助かります！さっきお客さまが会計に来たんですが、\n伝票が見当たらなくなってしまって……","fr":"C'est vrai ? Vous me sauvez ! Un client vient de se présenter pour payer,\nmais je ne retrouve plus son addition…"}
+{"id":1535603,"jp":"たしかにカウンターの上に置いたはずなのに、\nすこし目を離した隙に消えてしまったんです。","fr":"Je suis sûre de l'avoir posée sur le comptoir,\nmais elle a disparu dès que j'ai eu le dos tourné."}
+{"id":1535604,"jp":"お客さまは正しい伝票がなければ支払いはしないって言っていて……\nどうか見つけてください！","fr":"Le client refuse de payer sans la bonne addition…\nJe vous en prie, retrouvez-la !"}
+{"id":1535605,"jp":"（見つけた……でも半分しかないな。わざと破かれたみたいだ……）","fr":"(Trouvée… Mais il n'y en a que la moitié. On dirait qu'elle a été déchirée exprès…)"}
+{"id":1535606,"jp":"アイテム入手【破れた伝票】：破かれた伝票。いくつかのお酒の名前が記されている。","fr":"Objet obtenu【Addition déchirée】 : Une addition déchirée. On y lit les noms de plusieurs alcools."}
+{"id":1535607,"jp":"（これは……残りの半分か。合わせれば一枚の伝票になる）","fr":"(Ça… c'est l'autre moitié. En les assemblant, on obtient une addition entière.)"}
+{"id":1535608,"jp":"アイテム入手【完全な伝票】：ふたつに分かれていた伝票。合わせると一枚の明細になる。","fr":"Objet obtenu【Addition complète】 : Une addition qui avait été coupée en deux. Assemblée, elle forme un relevé détaillé."}
+{"id":1535609,"jp":"間違いありません！これがあのお客さまの伝票です！","fr":"Aucun doute ! C'est bien l'addition de ce client !"}
+{"id":1535610,"jp":"ふう……これで支払い拒否はもうできませんよ……！","fr":"Ouf… Il ne pourra plus refuser de payer… !"}
+{"id":1535611,"jp":"私、もう『錬金秘術』に載ってるレシピは完全にマスターしたわ！\n今度こそ『宝箱ポーション』、絶対に成功するんだから！","fr":"J'ai parfaitement maîtrisé toutes les recettes des « Arcanes de l'alchimie » !\nCette fois, la « potion du coffre au trésor », je vais la réussir, c'est sûr !"}
 {"id":1535612,"jp":"『宝箱ポーション』？","fr":"La « potion du coffre au trésor » ?"}
+{"id":1535613,"jp":"そうよ。どうやら、このポーションを使えば、なんでも宝箱に変わるんだって！\n開ければ中身はぜーんぶお宝なんだわ……ふふ、楽しみ！","fr":"Oui. Apparemment, avec cette potion, n'importe quoi se change en coffre au trésor !\nEt quand on l'ouvre, il n'y a que des trésors dedans… Hihi, j'ai hâte !"}
+{"id":1535614,"jp":"そんなうまい話があるの？楽しみになってきたね！","fr":"Ce serait aussi beau que ça ? Ça me donne hâte, à moi aussi !"}
+{"id":1535615,"jp":"さてと……ちょっと確認してみるわね……\nえ？在りし日の抜け殻が必要？","fr":"Bon… Vérifions un peu…\nHein ? Il faut des mues d'antan ?"}
+{"id":1535616,"jp":"星臨者さん、お願いきいてくれない？\n私はこの大釜から離れられないの。だから、あなたに集めてきてもらえる？","fr":"Enfant des étoiles, tu veux bien me rendre un service ?\nJe ne peux pas m'éloigner de ce chaudron. Alors, tu pourrais aller les récolter pour moi ?"}
+{"id":1535617,"jp":"よし！これで全部そろったわ。\nこれからはお金――じゃなくて、奇跡の瞬間を見せてあげる！","fr":"Bien ! J'ai tout ce qu'il faut.\nJe vais te montrer l'instant de la fortune… euh, non, du miracle !"}
+{"id":1535618,"jp":"……え？な、なんで反応しないのよ？うそでしょ……？","fr":"… Hein ? P-pourquoi ça ne réagit pas ? C'est pas vrai… ?"}
+{"id":1535619,"jp":"もしかして、注ぎ込んだ分量が間違ってた？\n……くっ、もう一度確認するしかないわね。","fr":"J'ai peut-être mis les mauvaises doses ?\n… Tch, il va falloir tout revérifier."}
+{"id":1535620,"jp":"ごめん……あたしの不注意で……","fr":"Pardon… C'est à cause de mon étourderie…"}
+{"id":1535621,"jp":"まあ、今さらそれを言っても仕方ないよ……\nでも、この材木の不足をどうしよう……","fr":"Bon, ça ne sert à rien de le dire maintenant…\nMais qu'est-ce qu'on va faire, avec ce manque de bois…"}
 {"id":1535622,"jp":"困ってるみたいだね？","fr":"Tu as l'air en difficulté."}
+{"id":1535623,"jp":"あっ、星臨者さん！実はさ、『バルニ号』の修理に資材が必要なのに、\n業者に出す注文書をなくしちゃって……","fr":"Ah, Enfant des étoiles ! En fait, il nous faut des matériaux pour réparer le « Barni »,\nmais j'ai perdu le bon de commande pour le fournisseur…"}
+{"id":1535624,"jp":"頼むよ、星臨者さん。\nもし資材を用意できるのなら、僕は何だってする！","fr":"Je t'en prie, Enfant des étoiles.\nSi tu peux nous trouver ces matériaux, je ferai n'importe quoi !"}
+{"id":1535625,"jp":"その言葉を待ってたよ。","fr":"C'est ce que je voulais entendre."}
+{"id":1535626,"jp":"木材の数を確認してみて。","fr":"Vérifie la quantité de bois."}
+{"id":1535627,"jp":"いち、にー、さん……うん、これで足りるよ！","fr":"Un, deux, trois… Oui, ça suffit !"}
+{"id":1535628,"jp":"やった……これで助かった！\n星臨者さん、あなたは『バルニ号』の救世主だよ！","fr":"Ouais… On est sauvés !\nEnfant des étoiles, tu as sauvé le « Barni » !"}
+{"id":1535629,"jp":"これはお礼だよ。もし不足があれば、遠慮なく僕のところへ来てくれ！","fr":"Voilà pour te remercier. S'il te manque quoi que ce soit, n'hésite pas à venir me voir !"}
 {"id":1535630,"jp":"アーチ","fr":"Archie"}
+{"id":1535631,"jp":"うーん……なにを贈ればいいんでしょう……","fr":"Hmm… Qu'est-ce que je pourrais bien lui offrir…"}
+{"id":1535632,"jp":"贈りもののことで悩んでるの？","fr":"C'est un cadeau qui te tracasse ?"}
+{"id":1535633,"jp":"そ、そうなんです。実はこのまえ、体調を崩して何回か授業を休んでしまって……\nでも、リードがノートを取ってくれてたおかげで、困らずにすんだのです。","fr":"O-oui. En fait, l'autre jour, j'ai eu des ennuis de santé et j'ai manqué plusieurs cours…\nMais grâce à Reed, qui a pris des notes pour moi, je n'ai pas pris de retard."}
+{"id":1535634,"jp":"ですので、そのお礼にプレゼントを贈りたいと思ってるんですが……","fr":"Alors je voudrais lui offrir un cadeau pour le remercier, mais…"}
+{"id":1535635,"jp":"彼に趣味とかないの？そこから考えればいいんじゃない？","fr":"Il n'a pas de passe-temps ? Tu pourrais partir de là, non ?"}
+{"id":1535636,"jp":"リードは園芸が好きなんです。\nそれじゃ、植物標本を作って贈ったら喜んでくれるかもしれません。","fr":"Reed adore le jardinage.\nDans ce cas, un herbier lui ferait peut-être plaisir."}
+{"id":1535637,"jp":"それでは、ゴールドロップをいくつか集めてもらえないでしょうか？\nわたしは標本を作る道具を準備しておきますので！","fr":"Alors, pourriez-vous me rapporter quelques Goldrop ?\nJe vais préparer les outils pour faire l'herbier !"}
+{"id":1535638,"jp":"うわぁ、きれいなゴールドロップです！ありがとう！","fr":"Oh, quels jolis Goldrop ! Merci !"}
+{"id":1535639,"jp":"よし、これで標本が作れます。\nリード、きっと喜んでくれるはずです！","fr":"Bien, je vais pouvoir faire l'herbier.\nReed sera sûrement content !"}
+{"id":1535640,"jp":"「こんにちは、僕のクッキー食べてみる？」……だめだ、堅苦しすぎる…… \n「クッキーいる？これ、僕が焼いたんだ」……これじゃあ馴れ馴れしすぎる……","fr":"« Bonjour, voudrais-tu goûter mes biscuits ? »… Non, trop guindé…\n« Un biscuit ? C'est moi qui les ai faits. »… Là, c'est trop familier…"}
+{"id":1535641,"jp":"きみ、空気としゃべってるの？","fr":"Tu parles au vide ?"}
+{"id":1535642,"jp":"うわあっ！？び、びっくりした……！\nち、ちがうよ、空気となんか話してない！","fr":"Waah !? Tu m'as fait peur… !\nN-non, je ne parlais pas au vide !"}
+{"id":1535643,"jp":"……と、友達を作りたくて、このクッキーを焼いてみたんだ……\nそれでみんなに渡そうと思って、声のかけ方を練習してただけで……","fr":"… J-je voulais me faire des amis, alors j'ai fait ces biscuits…\nJe voulais les distribuer à tout le monde, et je m'entraînais juste à aborder les gens…"}
+{"id":1535644,"jp":"この黒っぽくてゴツゴツした塊が、実は食べられるクッキーなの？","fr":"Ces morceaux noirâtres et tout bosselés, ce sont des biscuits comestibles ?"}
+{"id":1535645,"jp":"そうだよ……見た目はよくないってわかってるけど、一生懸命作ったんだ……","fr":"Oui… Je sais qu'ils ne sont pas très beaux, mais je me suis donné du mal…"}
+{"id":1535646,"jp":"赤い果物を飾りに添えれば、すこしは見栄えがよくなるかも。","fr":"Avec un fruit rouge pour décorer, ils auraient peut-être meilleure allure."}
+{"id":1535647,"jp":"ほんとに？それじゃ、新鮮なエイプルをいくつか摘んできてもらえる？お願い！","fr":"C'est vrai ? Alors tu pourrais aller me cueillir quelques Aple bien frais ? S'il te plaît !"}
+{"id":1535648,"jp":"こんな感じかな？エイプルをスライスしてクッキーにのせたら、すこしは良くなった？","fr":"Comme ça ? J'ai mis des tranches d'Aple sur les biscuits. C'est un peu mieux ?"}
+{"id":1535649,"jp":"……すくなくとも食べものには見えるようになったね。","fr":"… Au moins, on voit que ça se mange, maintenant."}
+{"id":1535650,"jp":"よかった……！じゃあ、これをみんなに配ってくるよ！ありがとう！","fr":"Ouf… ! Alors je vais les distribuer à tout le monde ! Merci !"}
+{"id":1535651,"jp":"（これですこしは友達ができるといいんだけど……）","fr":"(J'espère que ça l'aidera à se faire quelques amis…)"}
+{"id":1535652,"jp":"こんにちは。もし凶暴化したファウンディを見かけたら、すぐに知らせてほしい。","fr":"Bonjour. Si tu croises un Foundy devenu agressif, préviens-moi tout de suite."}
+{"id":1535653,"jp":"ああ、神殿近くの郊外に、異常に凶暴なファウンディがいて、\n通りかかる旅人を襲うことがあるんだ。","fr":"Oui. Dans les faubourgs près du temple, il y a un Foundy d'une agressivité anormale,\nqui s'en prend parfois aux voyageurs de passage."}
+{"id":1535654,"jp":"私たちもどうにか追い払おうと考えているが……","fr":"Nous cherchons un moyen de le chasser, mais…"}
+{"id":1535655,"jp":"星臨者、なにかいい考えはないか？","fr":"Enfant des étoiles, tu as une idée ?"}
+{"id":1535656,"jp":"そんなに荒れてるのなら、なにか理由があるんだろうね。ちょっと見てくるよ。","fr":"S'il est si agité, il doit y avoir une raison. Je vais aller voir."}
 {"id":1535657,"jp":"気が荒いファウンディ","fr":"Foundy irritable"}
+{"id":1535658,"jp":"（やっぱりかなり凶暴……近寄るのは危ない……\nん？背中に矢が刺さってる！？）","fr":"(Il est vraiment très agressif… S'approcher est dangereux…\nHein ? Il a une flèche plantée dans le dos !?)"}
 {"id":1535659,"jp":"メェェェ！！！！","fr":"Bêêêê !!!!"}
+{"id":1535660,"jp":"（まずは落ち着かせないと！）","fr":"(Il faut d'abord le calmer !)"}
 {"id":1535661,"jp":"星臨者！どうだった？","fr":"Enfant des étoiles ! Comment ça s'est passé ?"}
+{"id":1535662,"jp":"暴れていたシルウァディは追い払った。でも、その背にこんなものが刺さっていたよ。","fr":"J'ai chassé le Silvadi déchaîné. Mais il avait ça planté dans le dos."}
+{"id":1535663,"jp":"……矢？やはり、またあいつらか。","fr":"… Une flèche ? Encore eux, évidemment."}
+{"id":1535664,"jp":"赤蠍団め……キャラバンを襲うだけじゃなく、キボまで乱獲するなんて。","fr":"Ces maudits Scorpions rouges… Non contents d'attaquer les caravanes, voilà qu'ils braconnent les Kibo."}
+{"id":1535665,"jp":"だからあのファウンディは、無差別に旅人を襲うようになってしまったんだ。","fr":"Voilà pourquoi ce Foundy s'est mis à attaquer les voyageurs sans distinction."}
+{"id":1535666,"jp":"この件は隊長に報告する。本当に助かった、星臨者。","fr":"Je vais faire mon rapport au capitaine. Tu m'as été d'une grande aide, Enfant des étoiles."}
+{"id":1535667,"jp":"星臨者さま、ちょっと待ってください……取引の話をしたいんです。","fr":"Enfant des étoiles, un instant, je vous prie… J'aimerais vous parler affaires."}
 {"id":1535668,"jp":"どんな取引？","fr":"Quel genre d'échange ?"}
+{"id":1535669,"jp":"私にとってほかの傭兵団の依頼はあくまで副業みたいなもの、\n稼げればいいのですが……","fr":"Pour moi, les missions des autres compagnies de mercenaires ne sont qu'une activité d'appoint,\ndu moment que ça rapporte… Seulement…"}
+{"id":1535670,"jp":"もし仲間に知られたら、すこし面倒になるかもしれません。","fr":"Si mes compagnons l'apprenaient, ça pourrait devenir un peu gênant."}
 {"id":1535671,"jp":"これで足りる？","fr":"Ça suffit ?"}
+{"id":1535672,"jp":"はい、十分です。さすが星臨者ですね、想像以上の速さでした。","fr":"Oui, c'est largement suffisant. Je n'en attendais pas moins de l'Enfant des étoiles : plus rapide que je ne l'imaginais."}
+{"id":1535673,"jp":"良い取引相手を選んだようです。助かりました。","fr":"J'ai bien choisi mon partenaire, semble-t-il. Merci."}
+{"id":1535674,"jp":"その結果、次々と依頼が舞い込んできて、副業の方がどんどん忙しくなってきました……","fr":"Résultat, les demandes affluent, et mon activité d'appoint m'occupe de plus en plus…"}
+{"id":1535675,"jp":"もちろん、稼ぎが増えるのは良いことですが、\nさすがに私ひとりでは手が回らなくなってきましてね。","fr":"Gagner davantage, c'est une bonne chose, bien sûr,\nmais je commence à ne plus pouvoir m'en sortir sans aide."}
+{"id":1535676,"jp":"ちょうどいまも処理しきれない依頼がひとつあるんです。\nあなたも参加して、一緒に稼いでみませんか？","fr":"Justement, j'ai en ce moment une mission que je n'arrive pas à traiter.\nPourquoi ne pas vous joindre à moi, pour gagner de l'argent ensemble ?"}
+{"id":1535677,"jp":"今回の仕事はなんなの？","fr":"Et cette fois, c'est quoi, le travail ?"}
+{"id":1535678,"jp":"ふふ、そう言ってくれると思いましたよ。\n今回の依頼は幽光の鱗の収集です。あなたにとっては簡単な仕事でしょう？","fr":"Hé hé, je savais que vous diriez ça.\nCette fois, il s'agit de récolter des écailles à la lueur spectrale. Un jeu d'enfant pour vous, non ?"}
 {"id":1535679,"jp":"ああ、楽勝だね。","fr":"Oui, du gâteau."}
+{"id":1535680,"jp":"ほう、品質も申し分ない。依頼主もきっと満足してくれるでしょう。","fr":"Oh, la qualité est irréprochable. Le commanditaire sera sûrement satisfait."}
+{"id":1535681,"jp":"では、これが報酬です。ぜんぶ揃っています。","fr":"Voici votre récompense. Le compte y est."}
+{"id":1535682,"jp":"また機会があれば協力しましょう。お互いに利益になるはずですから。","fr":"Si l'occasion se représente, retravaillons ensemble. Nous y gagnerons tous les deux."}
+{"id":1535683,"jp":"ふう……大体は片付いたが、残りの依頼は……いっそ、あの人に任せるべきでしょうか……","fr":"Ouf… J'ai réglé l'essentiel, mais la dernière mission… Je devrais peut-être la confier à cette personne…"}
+{"id":1535684,"jp":"僕のことを考えていたの？|私のことを考えていたの？","fr":"Tu pensais à moi ?|Tu pensais à moi ?"}
+{"id":1535685,"jp":"……こうもあっさり心中を見抜かれると、少々居心地が悪いですね。\nおっしゃるとおり、あなたに頼みたいことがあるんです。","fr":"… Qu'on lise aussi facilement dans mes pensées, voilà qui me met un peu mal à l'aise.\nVous avez raison, j'ai quelque chose à vous demander."}
+{"id":1535686,"jp":"最近は依頼を受けすぎてしまい、同業者たちの目に留まってしまった。","fr":"Ces derniers temps, j'ai accepté trop de missions, et j'ai fini par attirer l'attention de mes confrères."}
+{"id":1535687,"jp":"もし私が裏で請けていた副業をアルバートに告げられれば面倒なことになります。\n表向きは、まだ彼に雇われている身ですからね。","fr":"Si quelqu'un parlait à Albert de ces petites affaires que je mène en douce, j'aurais des ennuis.\nOfficiellement, je suis toujours à son service."}
+{"id":1535688,"jp":"そこで、しばらく身を潜めて様子をうかがうつもりです。","fr":"Alors je compte me mettre au vert quelque temps et voir comment tournent les choses."}
+{"id":1535689,"jp":"ですが――そのまえに、最後に残っている依頼を処理しておきたい。\nこれをあなたに譲ろうと思うのですが、どうです？","fr":"Mais avant ça, je voudrais régler la dernière mission qui reste.\nJ'ai pensé vous la céder. Qu'en dites-vous ?"}
+{"id":1535690,"jp":"必要なのは鋭いくちばしを集めること。それだけで十分です。\n報酬はきっとご満足いただけますよ。","fr":"Il suffit de récolter des becs acérés. Rien de plus.\nLa récompense vous satisfera, je vous le garantis."}
+{"id":1535691,"jp":"……これで依頼は完了。\n仕事も重荷も一度に消えて、実に気分がいいですね。","fr":"… Voilà, la mission est terminée.\nLe travail et le fardeau envolés d'un coup, quel soulagement."}
+{"id":1535692,"jp":"これで当面、私たちの協力関係もいったんおしまいですね。","fr":"Notre collaboration s'arrête donc ici pour le moment."}
+{"id":1535693,"jp":"約束していた報酬に加え、あなたの労をねぎらう心付けも用意しました。\nどうぞ受け取ってください。","fr":"En plus de la récompense promise, j'ai ajouté une petite gratification pour votre peine.\nJe vous en prie, acceptez-la."}
+{"id":1535694,"jp":"いつの日か、また手を組む時が来るでしょうからね……","fr":"Un jour viendra sûrement où nous ferons de nouveau équipe…"}
+{"id":1535695,"jp":"なにっ！注文の締め切りが今日だと！？","fr":"Quoi ! La date limite de la commande, c'est aujourd'hui !?"}
 {"id":1535696,"jp":"ヤニック","fr":"Yannick"}
+{"id":1535697,"jp":"このままじゃ間に合わない！急いで手伝いを探さないと！","fr":"À ce rythme, on n'y arrivera jamais ! Il faut vite que je trouve de l'aide !"}
+{"id":1535698,"jp":"ん？手伝いを探してるの？","fr":"Hm ? Tu cherches de l'aide ?"}
+{"id":1535699,"jp":"{playerName}、手を貸してくれるか？報酬はちゃんと払う！","fr":"{playerName}, tu veux bien me donner un coup de main ? Je te paierai comme il se doit !"}
 {"id":1535708,"jp":"パン","fr":"Pan"}
 {"id":1535709,"jp":"この石、どう思う？","fr":"Que penses-tu de cette pierre ?"}
 {"id":1535716,"jp":"これが本当の姿だよ。","fr":"Voici sa vraie forme."}

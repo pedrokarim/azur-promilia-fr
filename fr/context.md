@@ -78,6 +78,7 @@ Relevés dans les dialogues déjà traduits. Un traducteur les applique tels que
 - Vouvoient aussi : Juriri (couturière, appelle Lumi « Dame Fée »), Regera (envers le capitaine Ral). Tutoient aussi : Katalua, la femme en noir (« Évêque » pour le Culte), le spectre de Veka Shulaga (ton archaïque et hautain).
 - Symphoria vouvoie Metsa (« Sœur Metsa ») ; Luruka tutoie Terara (« grande sœur ») et vouvoie « Dame Lumi ».
 - Tana, la lune, est au féminin.
+- Vouvoient aussi : Sarara, Ahi, Kiara et la milice des Ailés, Prospero, Shia, Millie, Noomi. Tutoient aussi : Kirk, Guug, Nell, Lian, Ernest, Eva, Warwick, Roxana, Mamie Lisa (« jeune pousse »). Norma parle d'elle à la troisième personne.
 
 ## Règles d'écriture
 
