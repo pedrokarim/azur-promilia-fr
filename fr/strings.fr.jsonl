@@ -41682,16 +41682,49 @@
 {"id":1658319,"jp":"逸品のあまキャベツの種。農地で育てると逸品のあまキャベツを収穫できる。\n成熟まで60分。","fr":"Une graine d'exception de chou sucré. Cultivez-la sur une parcelle agricole pour récolter du chou sucré d'exception.\nMaturation : 60 min."}
 {"id":1658320,"jp":"至高のあまキャベツの種。農地で育てると至高のあまキャベツを収穫できる。\n成熟まで60分。","fr":"Une graine suprême de chou sucré. Cultivez-la sur une parcelle agricole pour récolter du chou sucré suprême.\nMaturation : 60 min."}
 {"id":1658321,"jp":"特殊な金麦。偶然にも、過剰なカルマを吸収して育った。心を弾ませるようなまばゆい光に染まっており、非常に貴重だ。","fr":"Un blé doré particulier qui, par hasard, a absorbé un excès de Karma durant sa croissance. Baigné d'une lumière éblouissante qui réjouit le cœur, il est extrêmement précieux."}
+{"id":1658322,"jp":"特殊なまんぷくコーン。偶然にも、過剰なカルマを吸収して育った。心を弾ませるようなまばゆい光に染まっており、非常に貴重だ。","fr":"Un maïs généreux particulier qui, par hasard, a absorbé un excès de Karma durant sa croissance. Baigné d'une lumière éblouissante qui réjouit le cœur, il est extrêmement précieux."}
+{"id":1658323,"jp":"特殊な紅あまダイコン。偶然にも、過剰なカルマを吸収して育った。心を弾ませるようなまばゆい光に染まっており、非常に貴重だ。","fr":"Un radis rouge sucré particulier qui, par hasard, a absorbé un excès de Karma durant sa croissance. Baigné d'une lumière éblouissante qui réjouit le cœur, il est extrêmement précieux."}
+{"id":1658324,"jp":"特殊な潤いトマト。偶然にも、過剰なカルマを吸収して育った。心を弾ませるようなまばゆい光に染まっており、非常に貴重だ。","fr":"Une tomate juteuse particulière qui, par hasard, a absorbé un excès de Karma durant sa croissance. Baignée d'une lumière éblouissante qui réjouit le cœur, elle est extrêmement précieuse."}
+{"id":1658325,"jp":"特殊なあまキャベツ。偶然にも、過剰なカルマを吸収して育った。心を弾ませるようなまばゆい光に染まっており、非常に貴重だ。","fr":"Un chou sucré particulier qui, par hasard, a absorbé un excès de Karma durant sa croissance. Baigné d'une lumière éblouissante qui réjouit le cœur, il est extrêmement précieux."}
+{"id":1658326,"jp":"特殊なレッチルフ。偶然にも、過剰なカルマを吸収して育った。心を弾ませるようなまばゆい光に染まっており、非常に貴重だ。","fr":"Un Retchilf particulier qui, par hasard, a absorbé un excès de Karma durant sa croissance. Baigné d'une lumière éblouissante qui réjouit le cœur, il est extrêmement précieux."}
+{"id":1658327,"jp":"特殊なスイミツカ。偶然にも、過剰なカルマを吸収して育った。心を弾ませるようなまばゆい光に染まっており、非常に貴重だ。","fr":"Un Suimitsuka particulier qui, par hasard, a absorbé un excès de Karma durant sa croissance. Baigné d'une lumière éblouissante qui réjouit le cœur, il est extrêmement précieux."}
+{"id":1658328,"jp":"特殊なキンサカボチャ。偶然にも、過剰なカルマを吸収して育った。心を弾ませるようなまばゆい光に染まっており、非常に貴重だ。","fr":"Une citrouille Kinsa particulière qui, par hasard, a absorbé un excès de Karma durant sa croissance. Baignée d'une lumière éblouissante qui réjouit le cœur, elle est extrêmement précieuse."}
+{"id":1658329,"jp":"特殊なペペ。偶然にも、過剰なカルマを吸収して育った。心を弾ませるようなまばゆい光に染まっており、非常に貴重だ。","fr":"Un Pepe particulier qui, par hasard, a absorbé un excès de Karma durant sa croissance. Baigné d'une lumière éblouissante qui réjouit le cœur, il est extrêmement précieux."}
 {"id":1658330,"jp":"星旅の記録ポイント","fr":"Points de chronique du voyage stellaire"}
+{"id":1658331,"jp":"芽吹の谷マップ内で、現在地から最も近い未完了の探索挑戦ポイントを追跡する。","fr":"Localise le défi d'exploration non terminé le plus proche de votre position sur la carte de la Vallée des Bourgeons."}
+{"id":1658332,"jp":"芽吹の谷マップ内で、現在地から最も近い未完了のキボの謎解きポイントまたはウミィポイントを追跡する。","fr":"Localise le point d'énigme de Kibo ou d'Umii non terminé le plus proche de votre position sur la carte de la Vallée des Bourgeons."}
+{"id":1658333,"jp":"使用すると、フリスマップ内で、現在地から最も近い未完了の探索挑戦ポイントを追跡する。","fr":"À l'utilisation, localise le défi d'exploration non terminé le plus proche de votre position sur la carte de Fleece."}
+{"id":1658334,"jp":"使用すると、フリスマップ内で、現在地から最も近い未完了のキボの謎解きポイントまたはウミィポイントを追跡する。","fr":"À l'utilisation, localise le point d'énigme de Kibo ou d'Umii non terminé le plus proche de votre position sur la carte de Fleece."}
+{"id":1658335,"jp":"チーム全体のブレイク値60増加（効果時間：300秒）","fr":"Augmente de 60 la Valeur de brise de toute l'équipe (durée : 300 s)"}
+{"id":1658337,"jp":"チーム全体のブレイク値60増加（効果時間：325秒）","fr":"Augmente de 60 la Valeur de brise de toute l'équipe (durée : 325 s)"}
+{"id":1658338,"jp":"チーム全体のブレイク値60増加（効果時間：350秒）","fr":"Augmente de 60 la Valeur de brise de toute l'équipe (durée : 350 s)"}
+{"id":1658339,"jp":"チーム全体のブレイク値60増加（効果時間：375秒）","fr":"Augmente de 60 la Valeur de brise de toute l'équipe (durée : 375 s)"}
+{"id":1658340,"jp":"チーム全体のブレイク値60増加（効果時間：400秒）","fr":"Augmente de 60 la Valeur de brise de toute l'équipe (durée : 400 s)"}
+{"id":1658341,"jp":"ナナチャ特製の朝食。濃厚なミルクと麦の香りに、シンゲツイモの甘みがほどよく溶け込む。なめらかな口当たりが後を引く。","fr":"Un petit déjeuner préparé spécialement par Nanacha. La douceur de la patate Nouvelle-Lune se mêle harmonieusement au lait onctueux et au parfum du blé. Sa texture fondante laisse une agréable sensation en bouche."}
+{"id":1658342,"jp":"キボの現在のHPが高すぎるためスターリンクできません。","fr":"Impossible de former un Lien stellaire : les PV actuels du Kibo sont trop élevés."}
+{"id":1658343,"jp":"クールタイム中に同じ機能を使用し通報したため、却下されました。","fr":"Signalement rejeté : la même fonctionnalité a été utilisée pour effectuer un signalement pendant le temps de recharge."}
 {"id":1658344,"jp":"輝くキボの出現確率上昇","fr":"Hausse du taux d'apparition des Kibo brillants"}
 {"id":1658345,"jp":"星彩キボの出現確率上昇","fr":"Hausse du taux d'apparition des Kibo étoilés"}
 {"id":1658346,"jp":"スターリンク成功率が上昇","fr":"Hausse du taux de réussite du Lien stellaire"}
 {"id":1658347,"jp":"チーム全体の攻撃力が30増加する（300秒間）。","fr":"Augmente de 30 l'ATQ de toute l'équipe (durée : 300 s)."}
+{"id":1658348,"jp":"チーム全体のブレイク効率が10%増加する（300秒間）。","fr":"Augmente de 10 % l'Efficacité de brise de toute l'équipe (durée : 300 s)."}
+{"id":1658349,"jp":"チーム全体のダメージ増幅が8%増加する（300秒間）。","fr":"Augmente de 8 % l'Amplification des DGT de toute l'équipe (durée : 300 s)."}
 {"id":1658350,"jp":"チーム全体の攻撃力が10%増加する（300秒間）。","fr":"Augmente de 10 % l'ATQ de toute l'équipe (durée : 300 s)."}
 {"id":1658351,"jp":"チーム全体のEX強度が80増加する（300秒間）。","fr":"Augmente de 80 la Puissance EX de toute l'équipe (durée : 300 s)."}
 {"id":1658352,"jp":"チーム全体の防御貫通が6%増加する（300秒間）。","fr":"Augmente de 6 % la Pénétration de DÉF de toute l'équipe (durée : 300 s)."}
+{"id":1658353,"jp":"チーム全体の会心率が4%増加し、会心ダメージが8%増加する（300秒間）。","fr":"Augmente de 4 % le Taux CRIT et de 8 % les DGT CRIT de toute l'équipe (durée : 300 s)."}
+{"id":1658354,"jp":"チーム全体のEX会心率が6%増加する（300秒間）。","fr":"Augmente de 6 % le Taux CRIT EX de toute l'équipe (durée : 300 s)."}
+{"id":1658355,"jp":"チーム全体の攻撃力が50増加し、防御力が50増加する（300秒間）。","fr":"Augmente de 50 l'ATQ et de 50 la DÉF de toute l'équipe (durée : 300 s)."}
+{"id":1658356,"jp":"チーム全体の全属性ダメージが8%増加する（300秒間）。","fr":"Augmente de 8 % les DGT de tous les éléments de toute l'équipe (durée : 300 s)."}
+{"id":1658357,"jp":"チーム全体のブレイク効率が15%増加する（350秒間）。","fr":"Augmente de 15 % l'Efficacité de brise de toute l'équipe (durée : 350 s)."}
+{"id":1658358,"jp":"チーム全体のダメージ増幅が12%増加する（350秒間）。","fr":"Augmente de 12 % l'Amplification des DGT de toute l'équipe (durée : 350 s)."}
 {"id":1658359,"jp":"チーム全体の攻撃力が15%増加する（350秒間）。","fr":"Augmente de 15 % l'ATQ de toute l'équipe (durée : 350 s)."}
+{"id":1658360,"jp":"チーム全体のEX強度が120増加する（350秒間）。","fr":"Augmente de 120 la Puissance EX de toute l'équipe (durée : 350 s)."}
 {"id":1658361,"jp":"チーム全体の防御貫通が9%増加する（350秒間）。","fr":"Augmente de 9 % la Pénétration de DÉF de toute l'équipe (durée : 350 s)."}
+{"id":1658362,"jp":"チーム全体の会心率が6%増加し、会心ダメージが12%増加する（350秒間）。","fr":"Augmente de 6 % le Taux CRIT et de 12 % les DGT CRIT de toute l'équipe (durée : 350 s)."}
+{"id":1658363,"jp":"チーム全体のEX会心率が9%増加する（350秒間）。","fr":"Augmente de 9 % le Taux CRIT EX de toute l'équipe (durée : 350 s)."}
+{"id":1658364,"jp":"チーム全体の攻撃力が75増加し、防御力が75増加する（350秒間）。","fr":"Augmente de 75 l'ATQ et de 75 la DÉF de toute l'équipe (durée : 350 s)."}
+{"id":1658365,"jp":"チーム全体の全属性ダメージが12%増加する（350秒間）。","fr":"Augmente de 12 % les DGT de tous les éléments de toute l'équipe (durée : 350 s)."}
 {"id":1658366,"jp":"チーム全体の防御力が40増加する（300秒間）。","fr":"Augmente de 40 la DÉF de toute l'équipe (durée : 300 s)."}
 {"id":1658367,"jp":"チーム全体の防御力が40増加する（325秒間）。","fr":"Augmente de 40 la DÉF de toute l'équipe (durée : 325 s)."}
 {"id":1658368,"jp":"チーム全体の防御力が40増加する（350秒間）。","fr":"Augmente de 40 la DÉF de toute l'équipe (durée : 350 s)."}
@@ -41722,11 +41755,36 @@
 {"id":1658393,"jp":"チーム全体の防御力が50増加する（350秒間）。","fr":"Augmente de 50 la DÉF de toute l'équipe (durée : 350 s)."}
 {"id":1658394,"jp":"チーム全体の防御力が50増加する（375秒間）。","fr":"Augmente de 50 la DÉF de toute l'équipe (durée : 375 s)."}
 {"id":1658395,"jp":"チーム全体の防御力が50増加する（400秒間）。","fr":"Augmente de 50 la DÉF de toute l'équipe (durée : 400 s)."}
+{"id":1658396,"jp":"チーム全体の木属性ダメージが10%増加する（300秒間）。","fr":"Augmente de 10 % les DGT de Bois de toute l'équipe (durée : 300 s)."}
+{"id":1658397,"jp":"チーム全体の木属性ダメージが10%増加する（325秒間）。","fr":"Augmente de 10 % les DGT de Bois de toute l'équipe (durée : 325 s)."}
+{"id":1658398,"jp":"チーム全体の木属性ダメージが10%増加する（350秒間）。","fr":"Augmente de 10 % les DGT de Bois de toute l'équipe (durée : 350 s)."}
+{"id":1658399,"jp":"チーム全体の木属性ダメージが10%増加する（375秒間）。","fr":"Augmente de 10 % les DGT de Bois de toute l'équipe (durée : 375 s)."}
+{"id":1658400,"jp":"チーム全体の木属性ダメージが10%増加する（400秒間）。","fr":"Augmente de 10 % les DGT de Bois de toute l'équipe (durée : 400 s)."}
+{"id":1658401,"jp":"チーム全体の攻撃力が250増加し、攻撃力が5%増加する（300秒間）。","fr":"Augmente de 250 et de 5 % l'ATQ de toute l'équipe (durée : 300 s)."}
+{"id":1658402,"jp":"チーム全体の攻撃力が250増加し、攻撃力が5%増加する（325秒間）。","fr":"Augmente de 250 et de 5 % l'ATQ de toute l'équipe (durée : 325 s)."}
+{"id":1658403,"jp":"チーム全体の攻撃力が250増加し、攻撃力が5%増加する（350秒間）。","fr":"Augmente de 250 et de 5 % l'ATQ de toute l'équipe (durée : 350 s)."}
+{"id":1658404,"jp":"チーム全体の攻撃力が250増加し、攻撃力が5%増加する（375秒間）。","fr":"Augmente de 250 et de 5 % l'ATQ de toute l'équipe (durée : 375 s)."}
+{"id":1658405,"jp":"チーム全体の攻撃力が250増加し、攻撃力が5%増加する（400秒間）。","fr":"Augmente de 250 et de 5 % l'ATQ de toute l'équipe (durée : 400 s)."}
+{"id":1658406,"jp":"チーム全体のEX強度が50増加し、EX会心率が4%増加する（300秒間）。","fr":"Augmente de 50 la Puissance EX et de 4 % le Taux CRIT EX de toute l'équipe (durée : 300 s)."}
+{"id":1658407,"jp":"チーム全体のEX強度が50増加し、EX会心率が4%増加する（325秒間）。","fr":"Augmente de 50 la Puissance EX et de 4 % le Taux CRIT EX de toute l'équipe (durée : 325 s)."}
+{"id":1658408,"jp":"チーム全体のEX強度が50増加し、EX会心率が4%増加する（350秒間）。","fr":"Augmente de 50 la Puissance EX et de 4 % le Taux CRIT EX de toute l'équipe (durée : 350 s)."}
+{"id":1658409,"jp":"チーム全体のEX強度が50増加し、EX会心率が4%増加する（375秒間）。","fr":"Augmente de 50 la Puissance EX et de 4 % le Taux CRIT EX de toute l'équipe (durée : 375 s)."}
+{"id":1658410,"jp":"チーム全体のEX強度が50増加し、EX会心率が4%増加する（400秒間）。","fr":"Augmente de 50 la Puissance EX et de 4 % le Taux CRIT EX de toute l'équipe (durée : 400 s)."}
+{"id":1658411,"jp":"チーム全体の会心率が10%増加し、会心ダメージが20%増加する（300秒間）。","fr":"Augmente de 10 % le Taux CRIT et de 20 % les DGT CRIT de toute l'équipe (durée : 300 s)."}
+{"id":1658412,"jp":"チーム全体の会心率が10%増加し、会心ダメージが20%増加する（325秒間）。","fr":"Augmente de 10 % le Taux CRIT et de 20 % les DGT CRIT de toute l'équipe (durée : 325 s)."}
+{"id":1658413,"jp":"チーム全体の会心率が10%増加し、会心ダメージが20%増加する（350秒間）。","fr":"Augmente de 10 % le Taux CRIT et de 20 % les DGT CRIT de toute l'équipe (durée : 350 s)."}
+{"id":1658414,"jp":"チーム全体の会心率が10%増加し、会心ダメージが20%増加する（375秒間）。","fr":"Augmente de 10 % le Taux CRIT et de 20 % les DGT CRIT de toute l'équipe (durée : 375 s)."}
+{"id":1658415,"jp":"チーム全体の会心率が10%増加し、会心ダメージが20%増加する（400秒間）。","fr":"Augmente de 10 % le Taux CRIT et de 20 % les DGT CRIT de toute l'équipe (durée : 400 s)."}
 {"id":1658416,"jp":"チーム全体の会心率が6%増加する（300秒間）。","fr":"Augmente de 6 % le Taux CRIT de toute l'équipe (durée : 300 s)."}
 {"id":1658417,"jp":"チーム全体の会心率が6%増加する（325秒間）。","fr":"Augmente de 6 % le Taux CRIT de toute l'équipe (durée : 325 s)."}
 {"id":1658418,"jp":"チーム全体の会心率が6%増加する（350秒間）。","fr":"Augmente de 6 % le Taux CRIT de toute l'équipe (durée : 350 s)."}
 {"id":1658419,"jp":"チーム全体の会心率が6%増加する（375秒間）。","fr":"Augmente de 6 % le Taux CRIT de toute l'équipe (durée : 375 s)."}
 {"id":1658420,"jp":"チーム全体の会心率が6%増加する（400秒間）。","fr":"Augmente de 6 % le Taux CRIT de toute l'équipe (durée : 400 s)."}
+{"id":1658421,"jp":"チーム全体の闇属性ダメージが10%増加する（300秒間）。","fr":"Augmente de 10 % les DGT de Ténèbres de toute l'équipe (durée : 300 s)."}
+{"id":1658422,"jp":"チーム全体の闇属性ダメージが10%増加する（325秒間）。","fr":"Augmente de 10 % les DGT de Ténèbres de toute l'équipe (durée : 325 s)."}
+{"id":1658423,"jp":"チーム全体の闇属性ダメージが10%増加する（350秒間）。","fr":"Augmente de 10 % les DGT de Ténèbres de toute l'équipe (durée : 350 s)."}
+{"id":1658424,"jp":"チーム全体の闇属性ダメージが10%増加する（375秒間）。","fr":"Augmente de 10 % les DGT de Ténèbres de toute l'équipe (durée : 375 s)."}
+{"id":1658425,"jp":"チーム全体の闇属性ダメージが10%増加する（400秒間）。","fr":"Augmente de 10 % les DGT de Ténèbres de toute l'équipe (durée : 400 s)."}
 {"id":1658426,"jp":"チーム全体のEX強度が72増加する（300秒間）。","fr":"Augmente de 72 la Puissance EX de toute l'équipe (durée : 300 s)."}
 {"id":1658427,"jp":"チーム全体のEX強度が72増加する（325秒間）。","fr":"Augmente de 72 la Puissance EX de toute l'équipe (durée : 325 s)."}
 {"id":1658428,"jp":"チーム全体のEX強度が72増加する（350秒間）。","fr":"Augmente de 72 la Puissance EX de toute l'équipe (durée : 350 s)."}
@@ -41736,17 +41794,109 @@
 {"id":1658432,"jp":"チーム全体の攻撃力が10%増加する（350秒間）。","fr":"Augmente de 10 % l'ATQ de toute l'équipe (durée : 350 s)."}
 {"id":1658433,"jp":"チーム全体の攻撃力が10%増加する（375秒間）。","fr":"Augmente de 10 % l'ATQ de toute l'équipe (durée : 375 s)."}
 {"id":1658434,"jp":"チーム全体の攻撃力が10%増加する（400秒間）。","fr":"Augmente de 10 % l'ATQ de toute l'équipe (durée : 400 s)."}
+{"id":1658435,"jp":"チーム全体のHP回復効率が8%増加する（300秒間）。","fr":"Augmente de 8 % l'efficacité des soins de toute l'équipe (durée : 300 s)."}
+{"id":1658436,"jp":"チーム全体のHP回復効率が8%増加する（325秒間）。","fr":"Augmente de 8 % l'efficacité des soins de toute l'équipe (durée : 325 s)."}
+{"id":1658437,"jp":"チーム全体のHP回復効率が8%増加する（350秒間）。","fr":"Augmente de 8 % l'efficacité des soins de toute l'équipe (durée : 350 s)."}
+{"id":1658438,"jp":"チーム全体のHP回復効率が8%増加する（375秒間）。","fr":"Augmente de 8 % l'efficacité des soins de toute l'équipe (durée : 375 s)."}
+{"id":1658439,"jp":"チーム全体のHP回復効率が8%増加する（400秒間）。","fr":"Augmente de 8 % l'efficacité des soins de toute l'équipe (durée : 400 s)."}
+{"id":1658440,"jp":"チーム全体の防御力が40増加し、防御力が20%増加する（300秒間）。","fr":"Augmente de 40 et de 20 % la DÉF de toute l'équipe (durée : 300 s)."}
+{"id":1658441,"jp":"チーム全体の防御力が40増加し、防御力が20%増加する（325秒間）。","fr":"Augmente de 40 et de 20 % la DÉF de toute l'équipe (durée : 325 s)."}
+{"id":1658442,"jp":"チーム全体の防御力が40増加し、防御力が20%増加する（350秒間）。","fr":"Augmente de 40 et de 20 % la DÉF de toute l'équipe (durée : 350 s)."}
+{"id":1658443,"jp":"チーム全体の防御力が40増加し、防御力が20%増加する（375秒間）。","fr":"Augmente de 40 et de 20 % la DÉF de toute l'équipe (durée : 375 s)."}
+{"id":1658444,"jp":"チーム全体の防御力が40増加し、防御力が20%増加する（400秒間）。","fr":"Augmente de 40 et de 20 % la DÉF de toute l'équipe (durée : 400 s)."}
 {"id":1658445,"jp":"チーム全体の会心率が4%増加する（300秒間）。","fr":"Augmente de 4 % le Taux CRIT de toute l'équipe (durée : 300 s)."}
 {"id":1658446,"jp":"チーム全体の会心率が4%増加する（325秒間）。","fr":"Augmente de 4 % le Taux CRIT de toute l'équipe (durée : 325 s)."}
 {"id":1658447,"jp":"チーム全体の会心率が4%増加する（350秒間）。","fr":"Augmente de 4 % le Taux CRIT de toute l'équipe (durée : 350 s)."}
 {"id":1658448,"jp":"チーム全体の会心率が4%増加する（375秒間）。","fr":"Augmente de 4 % le Taux CRIT de toute l'équipe (durée : 375 s)."}
 {"id":1658449,"jp":"チーム全体の会心率が4%増加する（400秒間）。","fr":"Augmente de 4 % le Taux CRIT de toute l'équipe (durée : 400 s)."}
+{"id":1658450,"jp":"チーム全体のEX強度が100増加し、EX会心率が8%増加する（300秒間）。","fr":"Augmente de 100 la Puissance EX et de 8 % le Taux CRIT EX de toute l'équipe (durée : 300 s)."}
+{"id":1658451,"jp":"チーム全体のEX強度が100増加し、EX会心率が8%増加する（325秒間）。","fr":"Augmente de 100 la Puissance EX et de 8 % le Taux CRIT EX de toute l'équipe (durée : 325 s)."}
+{"id":1658452,"jp":"チーム全体のEX強度が100増加し、EX会心率が8%増加する（350秒間）。","fr":"Augmente de 100 la Puissance EX et de 8 % le Taux CRIT EX de toute l'équipe (durée : 350 s)."}
+{"id":1658453,"jp":"チーム全体のEX強度が100増加し、EX会心率が8%増加する（375秒間）。","fr":"Augmente de 100 la Puissance EX et de 8 % le Taux CRIT EX de toute l'équipe (durée : 375 s)."}
+{"id":1658454,"jp":"チーム全体のEX強度が100増加し、EX会心率が8%増加する（400秒間）。","fr":"Augmente de 100 la Puissance EX et de 8 % le Taux CRIT EX de toute l'équipe (durée : 400 s)."}
+{"id":1658455,"jp":"チーム全体の風属性ダメージが10%増加する（300秒間）。","fr":"Augmente de 10 % les DGT de Vent de toute l'équipe (durée : 300 s)."}
+{"id":1658456,"jp":"チーム全体の風属性ダメージが10%増加する（325秒間）。","fr":"Augmente de 10 % les DGT de Vent de toute l'équipe (durée : 325 s)."}
+{"id":1658457,"jp":"チーム全体の風属性ダメージが10%増加する（350秒間）。","fr":"Augmente de 10 % les DGT de Vent de toute l'équipe (durée : 350 s)."}
+{"id":1658458,"jp":"チーム全体の風属性ダメージが10%増加する（375秒間）。","fr":"Augmente de 10 % les DGT de Vent de toute l'équipe (durée : 375 s)."}
+{"id":1658459,"jp":"チーム全体の風属性ダメージが10%増加する（400秒間）。","fr":"Augmente de 10 % les DGT de Vent de toute l'équipe (durée : 400 s)."}
+{"id":1658460,"jp":"チーム全体のHP回復効率が3%増加する（300秒間）。","fr":"Augmente de 3 % l'efficacité des soins de toute l'équipe (durée : 300 s)."}
+{"id":1658461,"jp":"チーム全体のHP回復効率が3%増加する（325秒間）。","fr":"Augmente de 3 % l'efficacité des soins de toute l'équipe (durée : 325 s)."}
+{"id":1658462,"jp":"チーム全体のHP回復効率が3%増加する（350秒間）。","fr":"Augmente de 3 % l'efficacité des soins de toute l'équipe (durée : 350 s)."}
+{"id":1658463,"jp":"チーム全体のHP回復効率が3%増加する（375秒間）。","fr":"Augmente de 3 % l'efficacité des soins de toute l'équipe (durée : 375 s)."}
+{"id":1658464,"jp":"チーム全体のHP回復効率が3%増加する（400秒間）。","fr":"Augmente de 3 % l'efficacité des soins de toute l'équipe (durée : 400 s)."}
+{"id":1658465,"jp":"チーム全体のEX会心率が5%増加する（300秒間）。","fr":"Augmente de 5 % le Taux CRIT EX de toute l'équipe (durée : 300 s)."}
+{"id":1658466,"jp":"チーム全体のEX会心率が5%増加する（325秒間）。","fr":"Augmente de 5 % le Taux CRIT EX de toute l'équipe (durée : 325 s)."}
+{"id":1658467,"jp":"チーム全体のEX会心率が5%増加する（350秒間）。","fr":"Augmente de 5 % le Taux CRIT EX de toute l'équipe (durée : 350 s)."}
+{"id":1658468,"jp":"チーム全体のEX会心率が5%増加する（375秒間）。","fr":"Augmente de 5 % le Taux CRIT EX de toute l'équipe (durée : 375 s)."}
+{"id":1658469,"jp":"チーム全体のEX会心率が5%増加する（400秒間）。","fr":"Augmente de 5 % le Taux CRIT EX de toute l'équipe (durée : 400 s)."}
+{"id":1658470,"jp":"チーム全体の会心率が5%増加し、会心ダメージが10%増加する（300秒間）。","fr":"Augmente de 5 % le Taux CRIT et de 10 % les DGT CRIT de toute l'équipe (durée : 300 s)."}
+{"id":1658471,"jp":"チーム全体の会心率が5%増加し、会心ダメージが10%増加する（325秒間）。","fr":"Augmente de 5 % le Taux CRIT et de 10 % les DGT CRIT de toute l'équipe (durée : 325 s)."}
+{"id":1658472,"jp":"チーム全体の会心率が5%増加し、会心ダメージが10%増加する（350秒間）。","fr":"Augmente de 5 % le Taux CRIT et de 10 % les DGT CRIT de toute l'équipe (durée : 350 s)."}
+{"id":1658473,"jp":"チーム全体の会心率が5%増加し、会心ダメージが10%増加する（375秒間）。","fr":"Augmente de 5 % le Taux CRIT et de 10 % les DGT CRIT de toute l'équipe (durée : 375 s)."}
+{"id":1658474,"jp":"チーム全体の会心率が5%増加し、会心ダメージが10%増加する（400秒間）。","fr":"Augmente de 5 % le Taux CRIT et de 10 % les DGT CRIT de toute l'équipe (durée : 400 s)."}
+{"id":1658475,"jp":"チーム全体の防御力が30増加し、HP回復効率が25%増加する（300秒間）。","fr":"Augmente de 30 la DÉF et de 25 % l'efficacité des soins de toute l'équipe (durée : 300 s)."}
+{"id":1658476,"jp":"チーム全体の防御力が30増加し、HP回復効率が25%増加する（325秒間）。","fr":"Augmente de 30 la DÉF et de 25 % l'efficacité des soins de toute l'équipe (durée : 325 s)."}
+{"id":1658477,"jp":"チーム全体の防御力が30増加し、HP回復効率が25%増加する（350秒間）。","fr":"Augmente de 30 la DÉF et de 25 % l'efficacité des soins de toute l'équipe (durée : 350 s)."}
+{"id":1658478,"jp":"チーム全体の防御力が30増加し、HP回復効率が25%増加する（375秒間）。","fr":"Augmente de 30 la DÉF et de 25 % l'efficacité des soins de toute l'équipe (durée : 375 s)."}
+{"id":1658479,"jp":"チーム全体の防御力が30増加し、HP回復効率が25%増加する（400秒間）。","fr":"Augmente de 30 la DÉF et de 25 % l'efficacité des soins de toute l'équipe (durée : 400 s)."}
+{"id":1658480,"jp":"チーム全体のHP回復効率が10%増加する（300秒間）。","fr":"Augmente de 10 % l'efficacité des soins de toute l'équipe (durée : 300 s)."}
+{"id":1658481,"jp":"チーム全体のHP回復効率が10%増加する（325秒間）。","fr":"Augmente de 10 % l'efficacité des soins de toute l'équipe (durée : 325 s)."}
+{"id":1658482,"jp":"チーム全体のHP回復効率が10%増加する（350秒間）。","fr":"Augmente de 10 % l'efficacité des soins de toute l'équipe (durée : 350 s)."}
+{"id":1658483,"jp":"チーム全体のHP回復効率が10%増加する（375秒間）。","fr":"Augmente de 10 % l'efficacité des soins de toute l'équipe (durée : 375 s)."}
+{"id":1658484,"jp":"チーム全体のHP回復効率が10%増加する（400秒間）。","fr":"Augmente de 10 % l'efficacité des soins de toute l'équipe (durée : 400 s)."}
+{"id":1658485,"jp":"チーム全体の氷属性ダメージが10%増加する（300秒間）。","fr":"Augmente de 10 % les DGT de Glace de toute l'équipe (durée : 300 s)."}
+{"id":1658486,"jp":"チーム全体の氷属性ダメージが10%増加する（325秒間）。","fr":"Augmente de 10 % les DGT de Glace de toute l'équipe (durée : 325 s)."}
+{"id":1658487,"jp":"チーム全体の氷属性ダメージが10%増加する（350秒間）。","fr":"Augmente de 10 % les DGT de Glace de toute l'équipe (durée : 350 s)."}
+{"id":1658488,"jp":"チーム全体の氷属性ダメージが10%増加する（375秒間）。","fr":"Augmente de 10 % les DGT de Glace de toute l'équipe (durée : 375 s)."}
+{"id":1658489,"jp":"チーム全体の氷属性ダメージが10%増加する（400秒間）。","fr":"Augmente de 10 % les DGT de Glace de toute l'équipe (durée : 400 s)."}
+{"id":1658490,"jp":"チーム全体の会心ダメージが12%増加する（300秒間）。","fr":"Augmente de 12 % les DGT CRIT de toute l'équipe (durée : 300 s)."}
+{"id":1658491,"jp":"チーム全体の会心ダメージが12%増加する（325秒間）。","fr":"Augmente de 12 % les DGT CRIT de toute l'équipe (durée : 325 s)."}
+{"id":1658492,"jp":"チーム全体の会心ダメージが12%増加する（350秒間）。","fr":"Augmente de 12 % les DGT CRIT de toute l'équipe (durée : 350 s)."}
+{"id":1658493,"jp":"チーム全体の会心ダメージが12%増加する（375秒間）。","fr":"Augmente de 12 % les DGT CRIT de toute l'équipe (durée : 375 s)."}
+{"id":1658494,"jp":"チーム全体の会心ダメージが12%増加する（400秒間）。","fr":"Augmente de 12 % les DGT CRIT de toute l'équipe (durée : 400 s)."}
+{"id":1658495,"jp":"チーム全体のHP回復効率が4%増加する（300秒間）。","fr":"Augmente de 4 % l'efficacité des soins de toute l'équipe (durée : 300 s)."}
+{"id":1658496,"jp":"チーム全体のHP回復効率が6%増加する（300秒間）。","fr":"Augmente de 6 % l'efficacité des soins de toute l'équipe (durée : 300 s)."}
+{"id":1658497,"jp":"チーム全体のHP回復効率が6%増加する（325秒間）。","fr":"Augmente de 6 % l'efficacité des soins de toute l'équipe (durée : 325 s)."}
+{"id":1658498,"jp":"チーム全体のHP回復効率が6%増加する（350秒間）。","fr":"Augmente de 6 % l'efficacité des soins de toute l'équipe (durée : 350 s)."}
+{"id":1658499,"jp":"チーム全体のHP回復効率が6%増加する（375秒間）。","fr":"Augmente de 6 % l'efficacité des soins de toute l'équipe (durée : 375 s)."}
+{"id":1658500,"jp":"チーム全体のHP回復効率が6%増加する（400秒間）。","fr":"Augmente de 6 % l'efficacité des soins de toute l'équipe (durée : 400 s)."}
 {"id":1658501,"jp":"チーム全体の攻撃力が90増加する（300秒間）。","fr":"Augmente de 90 l'ATQ de toute l'équipe (durée : 300 s)."}
 {"id":1658502,"jp":"チーム全体の攻撃力が90増加する（325秒間）。","fr":"Augmente de 90 l'ATQ de toute l'équipe (durée : 325 s)."}
 {"id":1658503,"jp":"チーム全体の攻撃力が90増加する（350秒間）。","fr":"Augmente de 90 l'ATQ de toute l'équipe (durée : 350 s)."}
 {"id":1658504,"jp":"チーム全体の攻撃力が90増加する（375秒間）。","fr":"Augmente de 90 l'ATQ de toute l'équipe (durée : 375 s)."}
 {"id":1658505,"jp":"チーム全体の攻撃力が90増加する（400秒間）。","fr":"Augmente de 90 l'ATQ de toute l'équipe (durée : 400 s)."}
+{"id":1658506,"jp":"チーム全体の火属性ダメージが10%増加する（300秒間）。","fr":"Augmente de 10 % les DGT de Feu de toute l'équipe (durée : 300 s)."}
+{"id":1658507,"jp":"チーム全体の火属性ダメージが10%増加する（325秒間）。","fr":"Augmente de 10 % les DGT de Feu de toute l'équipe (durée : 325 s)."}
+{"id":1658508,"jp":"チーム全体の火属性ダメージが10%増加する（350秒間）。","fr":"Augmente de 10 % les DGT de Feu de toute l'équipe (durée : 350 s)."}
+{"id":1658509,"jp":"チーム全体の火属性ダメージが10%増加する（375秒間）。","fr":"Augmente de 10 % les DGT de Feu de toute l'équipe (durée : 375 s)."}
+{"id":1658510,"jp":"チーム全体の火属性ダメージが10%増加する（400秒間）。","fr":"Augmente de 10 % les DGT de Feu de toute l'équipe (durée : 400 s)."}
 {"id":1658511,"jp":"チーム全体の防御力が25増加する（300秒間）。","fr":"Augmente de 25 la DÉF de toute l'équipe (durée : 300 s)."}
+{"id":1658512,"jp":"チーム全体の光属性ダメージが10%増加する（300秒間）。","fr":"Augmente de 10 % les DGT de Lumière de toute l'équipe (durée : 300 s)."}
+{"id":1658513,"jp":"チーム全体の光属性ダメージが10%増加する（325秒間）。","fr":"Augmente de 10 % les DGT de Lumière de toute l'équipe (durée : 325 s)."}
+{"id":1658514,"jp":"チーム全体の光属性ダメージが10%増加する（350秒間）。","fr":"Augmente de 10 % les DGT de Lumière de toute l'équipe (durée : 350 s)."}
+{"id":1658515,"jp":"チーム全体の光属性ダメージが10%増加する（375秒間）。","fr":"Augmente de 10 % les DGT de Lumière de toute l'équipe (durée : 375 s)."}
+{"id":1658516,"jp":"チーム全体の光属性ダメージが10%増加する（400秒間）。","fr":"Augmente de 10 % les DGT de Lumière de toute l'équipe (durée : 400 s)."}
+{"id":1658517,"jp":"チーム全体の攻撃力が350増加し、防御力が100増加する（300秒間）。","fr":"Augmente de 350 l'ATQ et de 100 la DÉF de toute l'équipe (durée : 300 s)."}
+{"id":1658518,"jp":"チーム全体の攻撃力が350増加し、防御力が100増加する（325秒間）。","fr":"Augmente de 350 l'ATQ et de 100 la DÉF de toute l'équipe (durée : 325 s)."}
+{"id":1658519,"jp":"チーム全体の攻撃力が350増加し、防御力が100増加する（350秒間）。","fr":"Augmente de 350 l'ATQ et de 100 la DÉF de toute l'équipe (durée : 350 s)."}
+{"id":1658520,"jp":"チーム全体の攻撃力が350増加し、防御力が100増加する（375秒間）。","fr":"Augmente de 350 l'ATQ et de 100 la DÉF de toute l'équipe (durée : 375 s)."}
+{"id":1658521,"jp":"チーム全体の攻撃力が350増加し、防御力が100増加する（400秒間）。","fr":"Augmente de 350 l'ATQ et de 100 la DÉF de toute l'équipe (durée : 400 s)."}
+{"id":1658522,"jp":"チーム全体の雷属性ダメージが10%増加する（300秒間）。","fr":"Augmente de 10 % les DGT de Foudre de toute l'équipe (durée : 300 s)."}
+{"id":1658523,"jp":"チーム全体の雷属性ダメージが10%増加する（325秒間）。","fr":"Augmente de 10 % les DGT de Foudre de toute l'équipe (durée : 325 s)."}
+{"id":1658524,"jp":"チーム全体の雷属性ダメージが10%増加する（350秒間）。","fr":"Augmente de 10 % les DGT de Foudre de toute l'équipe (durée : 350 s)."}
+{"id":1658525,"jp":"チーム全体の雷属性ダメージが10%増加する（375秒間）。","fr":"Augmente de 10 % les DGT de Foudre de toute l'équipe (durée : 375 s)."}
+{"id":1658526,"jp":"チーム全体の雷属性ダメージが10%増加する（400秒間）。","fr":"Augmente de 10 % les DGT de Foudre de toute l'équipe (durée : 400 s)."}
+{"id":1658527,"jp":"チーム全体のHP回復効率が15%増加する（300秒間）。","fr":"Augmente de 15 % l'efficacité des soins de toute l'équipe (durée : 300 s)."}
+{"id":1658528,"jp":"チーム全体の地属性ダメージが10%増加する（300秒間）。","fr":"Augmente de 10 % les DGT de Terre de toute l'équipe (durée : 300 s)."}
+{"id":1658529,"jp":"チーム全体の地属性ダメージが10%増加する（325秒間）。","fr":"Augmente de 10 % les DGT de Terre de toute l'équipe (durée : 325 s)."}
+{"id":1658530,"jp":"チーム全体の地属性ダメージが10%増加する（350秒間）。","fr":"Augmente de 10 % les DGT de Terre de toute l'équipe (durée : 350 s)."}
+{"id":1658531,"jp":"チーム全体の地属性ダメージが10%増加する（375秒間）。","fr":"Augmente de 10 % les DGT de Terre de toute l'équipe (durée : 375 s)."}
+{"id":1658532,"jp":"チーム全体の地属性ダメージが10%増加する（400秒間）。","fr":"Augmente de 10 % les DGT de Terre de toute l'équipe (durée : 400 s)."}
+{"id":1658533,"jp":"チーム全体のブレイク値が60増加する（300秒間）。","fr":"Augmente de 60 la Valeur de brise de toute l'équipe (durée : 300 s)."}
+{"id":1658534,"jp":"チーム全体のブレイク値が60増加する（325秒間）。","fr":"Augmente de 60 la Valeur de brise de toute l'équipe (durée : 325 s)."}
+{"id":1658535,"jp":"チーム全体のブレイク値が60増加する（350秒間）。","fr":"Augmente de 60 la Valeur de brise de toute l'équipe (durée : 350 s)."}
+{"id":1658536,"jp":"チーム全体のブレイク値が60増加する（375秒間）。","fr":"Augmente de 60 la Valeur de brise de toute l'équipe (durée : 375 s)."}
+{"id":1658537,"jp":"チーム全体のブレイク値が60増加する（400秒間）。","fr":"Augmente de 60 la Valeur de brise de toute l'équipe (durée : 400 s)."}
 {"id":1658538,"jp":"チーム全体の攻撃力が110増加する（300秒間）。","fr":"Augmente de 110 l'ATQ de toute l'équipe (durée : 300 s)."}
 {"id":1658539,"jp":"野生のキボのHPが1%未満にならない（30秒間）。","fr":"Les PV des Kibo sauvages ne peuvent pas descendre sous 1 % (durée : 30 s)."}
 {"id":1658540,"jp":"野生のキボのHPが1%未満にならない（35秒間）。","fr":"Les PV des Kibo sauvages ne peuvent pas descendre sous 1 % (durée : 35 s)."}
@@ -41759,49 +41909,168 @@
 {"id":1658547,"jp":"スターリンク成功率がわずかに上がる（75秒間）。","fr":"Augmente légèrement le taux de réussite du Lien stellaire (durée : 75 s)."}
 {"id":1658548,"jp":"スターリンク成功率がわずかに上がる（80秒間）。","fr":"Augmente légèrement le taux de réussite du Lien stellaire (durée : 80 s)."}
 {"id":1658549,"jp":"チーム全体の水・光属性ダメージが10%増加する（300秒間）。","fr":"Augmente de 10 % les DGT d'Eau et de Lumière de toute l'équipe (pendant 300 s)."}
+{"id":1658550,"jp":"チーム全体の水・光属性ダメージが10%増加する（325秒間）。","fr":"Augmente de 10 % les DGT d'Eau et de Lumière de toute l'équipe (durée : 325 s)."}
+{"id":1658551,"jp":"チーム全体の水・光属性ダメージが10%増加する（350秒間）。","fr":"Augmente de 10 % les DGT d'Eau et de Lumière de toute l'équipe (durée : 350 s)."}
+{"id":1658552,"jp":"チーム全体の水・光属性ダメージが10%増加する（375秒間）。","fr":"Augmente de 10 % les DGT d'Eau et de Lumière de toute l'équipe (durée : 375 s)."}
+{"id":1658553,"jp":"チーム全体の水・光属性ダメージが10%増加する（400秒間）。","fr":"Augmente de 10 % les DGT d'Eau et de Lumière de toute l'équipe (durée : 400 s)."}
 {"id":1658554,"jp":"チーム全体の防御力が5%増加する（300秒間）。","fr":"Augmente de 5 % la DÉF de toute l'équipe (durée : 300 s)."}
 {"id":1658555,"jp":"チーム全体の防御力が5増加する（325秒間）。","fr":"Augmente de 5 la DÉF de toute l'équipe (durée : 325 s)."}
 {"id":1658556,"jp":"チーム全体の防御力が5%増加する（301秒間）。","fr":"Augmente de 5 % la DÉF de toute l'équipe (durée : 301 s)."}
 {"id":1658557,"jp":"チーム全体の防御力が5増加する（326秒間）。","fr":"Augmente de 5 la DÉF de toute l'équipe (durée : 326 s)."}
 {"id":1658558,"jp":"チーム全体の防御力が5%増加する（302秒間）。","fr":"Augmente de 5 % la DÉF de toute l'équipe (durée : 302 s)."}
+{"id":1658559,"jp":"チーム全体のHP回復効率が15%増加する（325秒間）。","fr":"Augmente de 15 % l'efficacité des soins de toute l'équipe (durée : 325 s)."}
+{"id":1658560,"jp":"チーム全体のHP回復効率が15%増加する（350秒間）。","fr":"Augmente de 15 % l'efficacité des soins de toute l'équipe (durée : 350 s)."}
+{"id":1658561,"jp":"チーム全体のHP回復効率が15%増加する（375秒間）。","fr":"Augmente de 15 % l'efficacité des soins de toute l'équipe (durée : 375 s)."}
+{"id":1658562,"jp":"チーム全体のHP回復効率が15%増加する（400秒間）。","fr":"Augmente de 15 % l'efficacité des soins de toute l'équipe (durée : 400 s)."}
+{"id":1658563,"jp":"メインストーリークエスト「宝を守る少女と泥棒ネズミ」をクリア","fr":"Terminer la quête principale « La gardienne du trésor et la souris voleuse »"}
+{"id":1658571,"jp":"困っているモフリーネを見て、小玉は助けてあげることにした。","fr":"En voyant le Downybrinny en difficulté, Xiaoyu décida de lui venir en aide."}
+{"id":1658572,"jp":"難を逃れたモフリーネは小玉の目の前に浮かび上がると、その手に親しげに体をすり寄せて感謝を示した……","fr":"Hors de danger, le Downybrinny s'éleva devant Xiaoyu et se frotta affectueusement contre sa main pour lui témoigner sa gratitude…"}
+{"id":1658573,"jp":"小玉は法力を練り、手をかざして術を放とうとしたが……法術を繰り出すまえに、強烈な目まいに襲われた……","fr":"Xiaoyu concentra sa puissance magique et tendit la main pour lancer un sort… Mais avant même de pouvoir le libérer, elle fut prise d'un violent vertige…"}
+{"id":1658574,"jp":"どうやら法力が足りず、狐の姿に戻ってしまったようだ。その上、しっぽが路傍の石の隙間に挟まっている！","fr":"Il semblerait que sa puissance magique ait été insuffisante, la contraignant à reprendre sa forme de renard. Et pour couronner le tout, sa queue est coincée entre des pierres au bord du chemin !"}
+{"id":1658575,"jp":"こうなってはモフリーネを助けるどころか、小玉自身も星臨者が助けに来るのを待つしかないようだ……","fr":"Dans ces conditions, non seulement Xiaoyu ne peut plus secourir le Downybrinny, mais elle doit elle-même attendre que l'Enfant des étoiles vienne à son secours…"}
 {"id":1658576,"jp":"小玉は手足を使って、木のてっぺんへ登っていった……","fr":"Xiaoyu grimpa jusqu'à la cime de l'arbre en s'aidant de ses mains et de ses pieds…"}
+{"id":1658577,"jp":"手がモフリーネに届くまえに、小玉の体重で枝が折れ、そのまま地面に落下した。","fr":"Avant que Xiaoyu puisse atteindre le Downybrinny, la branche céda sous son poids et elle tomba au sol."}
+{"id":1658579,"jp":"午後いっぱい思いっきり遊んだことで、小玉は身も心もリフレッシュした。それどころか、術の腕もすこし向上したようだ……","fr":"Après avoir joué de tout son cœur pendant tout l'après-midi, Xiaoyu retrouva toute sa fraîcheur, tant physique que mentale. Il semblerait même que sa maîtrise des sorts se soit légèrement améliorée…"}
+{"id":1658581,"jp":"日が沈むころには空腹で目が回っていた……ようやく法力が尽きて、姿を現すことができた。","fr":"Au coucher du soleil, la faim lui donnait le vertige… Sa puissance magique finit par s'épuiser, lui permettant de redevenir visible."}
+{"id":1658582,"jp":"小玉は機転を利かせて、子狐に姿を変えると、そのまま木の洞へと飛び込んだ。","fr":"Faisant preuve de vivacité d'esprit, Xiaoyu se transforma en renardeau et se précipita dans le creux d'un arbre."}
+{"id":1658583,"jp":"完璧に隠れられたと思って喜んでいると、しっぽをモフリーネにがっちりと掴まれてしまった！","fr":"Alors qu'elle se réjouissait d'avoir trouvé une cachette parfaite, le Downybrinny lui attrapa fermement la queue !"}
+{"id":1658584,"jp":"なんと、小玉は太ってしまったせいで、狐の体が半分ほど外にはみ出たままになっていたのだ！","fr":"Incroyable ! Xiaoyu avait tellement grossi que la moitié de son corps de renard dépassait encore de sa cachette !"}
 {"id":1658585,"jp":"それだけではない、小玉の法力は大幅に上昇していた！","fr":"Et ce n'est pas tout, la puissance magique de Xiaoyu avait considérablement augmenté !"}
 {"id":1658587,"jp":"どうして……体重がまた増えてるのおおおおお！！！","fr":"Mais pourquoi… J'ai encore pris du poiiiiiids !!!"}
+{"id":1658588,"jp":"なんだ、ほかの人に飼われているモーニャか。なのに路傍でかわいらしく振る舞って、おやつをねだっていただけだったんだね！","fr":"Ah, c'était donc un Monya appartenant à quelqu'un d'autre ! Il faisait simplement le mignon au bord du chemin pour quémander des friandises !"}
+{"id":1658590,"jp":"捕まりそうになったその瞬間、ワオッキーは逃げ出すどころか、イザベラに向かってかわいらしいダンスを踊りはじめた。","fr":"Au moment où il allait se faire attraper, le Waokki, loin de prendre la fuite, se mit à exécuter une adorable danse devant Isabella."}
+{"id":1658591,"jp":"酔っ払った傭兵がブルーダにしがみつき、どうしても離そうとしない……","fr":"Un mercenaire ivre s'accroche à Bluda et refuse obstinément de le lâcher…"}
+{"id":1658592,"jp":"なんと。痩せたカラベッコが列のなかに紛れ込んでしまった！大変だ……グレナードがカラベッコに対して攻撃の構えを見せている！","fr":"Incroyable ! Un Carabecco maigre s'est glissé dans les rangs ! Catastrophe… Grenade semble se préparer à attaquer le Carabecco !"}
+{"id":1658596,"jp":"たかがキボ1体、小玉は軽々と対戦相手を倒してみせた！","fr":"Un seul petit Kibo ? Xiaoyu triompha de son adversaire sans la moindre difficulté !"}
 {"id":1658597,"jp":"心得交流・澄んだ心","fr":"Échange de savoir-faire : esprit limpide"}
 {"id":1658598,"jp":"法力の修行","fr":"Entraînement de puissance magique"}
 {"id":1658599,"jp":"縁結の修行","fr":"Entraînement de l'art de nouer les liens"}
+{"id":1658600,"jp":"あまキャベツの種。農地で育てると対応する品質のあまキャベツを収穫できる。\n成熟まで60分。","fr":"Une graine de chou sucré. Cultivez-la sur une parcelle agricole pour récolter du chou sucré de qualité correspondante.\nMaturation : 60 min."}
 {"id":1658602,"jp":"購入制限（通算）：{0}/{1}","fr":"Limite totale d'achat : {0}/{1}"}
 {"id":1658603,"jp":"凪いだ一日","fr":"Une journée paisible"}
+{"id":1658604,"jp":"都市国家フリスの風は、今日も凪いでいる。\n陰の功労者たちの束の間の休息がいよいよはじまった。思いっきり楽しもう！","fr":"Les vents de la Cité-État de Fleece sont paisibles aujourd'hui encore.\nLe bref répit des héros de l'ombre commence enfin. Profitons-en pleinement !"}
+{"id":1658606,"jp":"シャドウブレイズは一部の強力なスキルを発動する際、過剰なスーニヤを吸収してシールドを生成します。","fr":"Lorsqu'il déclenche certaines de ses compétences puissantes, Shadowblaze absorbe un excès de Sunya pour générer un Bouclier."}
+{"id":1658609,"jp":"手持ちのカードから最初のキボを選んで、出撃させてみろ！","fr":"Choisis ton premier Kibo parmi tes cartes et déploie-le !"}
+{"id":1658610,"jp":"キボが<color={highlight}>戦闘不能になる</color>と、ファイトポイントが引かれていく。","fr":"Lorsqu'un Kibo est <color={highlight}>mis K.O.</color>, des points de duel sont déduits."}
 {"id":1658613,"jp":"それから、キボファイトには制限時間もあるんだ。","fr":"Le Duel de Kibo est également limité dans le temps."}
+{"id":1658615,"jp":"よし、じゃあアタシは<color={highlight}>氷属性のウル</color>を出すぞ。ウルはすっごく強いんだ！","fr":"Très bien, je vais déployer <color={highlight}>Uru de type Glace</color>. Uru est vraiment très fort !"}
+{"id":1658616,"jp":"<color=#91fff9>キボをドラッグ</color>して配置エリアに配置してください","fr":"<color=#91fff9>Faites glisser un Kibo</color> pour le placer dans la zone de déploiement"}
+{"id":1658617,"jp":"<color={highlight}>視点切り替え</color>を押す","fr":"Appuyer sur <color={highlight}>Changer de point de vue</color>"}
+{"id":1658618,"jp":"ほら、<color={highlight}>つぎのキボ</color>も呼んでみろ！","fr":"Allez, essaie aussi d'invoquer <color={highlight}>le Kibo suivant</color> !"}
 {"id":1658619,"jp":"同時に出撃できるキボの数には、限りがあるんだ。","fr":"Le nombre de Kibo pouvant combattre simultanément est limité."}
+{"id":1658620,"jp":"フィールドのキボが上限に達した場合、呼び出すには一体を選んで入れ替える必要があるぞ。","fr":"Lorsque le nombre maximal de Kibo sur le terrain est atteint, il faut en choisir un à remplacer pour en invoquer un autre."}
 {"id":1658621,"jp":"ほら、試してみろ！","fr":"Allez, un essai !"}
 {"id":1658622,"jp":"こっからさきは、自由にやってみろ！","fr":"À partir de maintenant, fais comme bon te semble !"}
+{"id":1658623,"jp":"ここを押すと、<color={highlight}>レベルアップ</color>できるぞ！試してみるのだ！","fr":"En appuyant ici, tu peux <color={highlight}>augmenter le niveau</color> ! Essaie donc !"}
 {"id":1658624,"jp":"ここ、ここ！","fr":"Ici, ici !"}
 {"id":1658626,"jp":"キャラクターに必要な星祝は、ここで確認できるぞ。","fr":"Tu peux consulter ici les Bénédictions stellaires nécessaires à chaque personnage."}
 {"id":1658627,"jp":"星祝には、それぞれ異なる力が秘められてるのだ。","fr":"Chaque Bénédiction stellaire renferme un pouvoir différent !"}
+{"id":1658629,"jp":"キボが所持できる<color={highlight}>因子の数には上限がある</color>。","fr":"Le <color={highlight}>nombre de facteurs qu'un Kibo peut posséder est limité</color>."}
 {"id":1658630,"jp":"上限に達していない時に変異が発生すると、<color={highlight}>因子はそのまま追加される</color>だけだけど……","fr":"Si une mutation se produit sous la limite, <color={highlight}>le facteur est simplement ajouté</color>, mais…"}
 {"id":1658633,"jp":"経験値をいっぱい溜めると、農園レベルが上がる。","fr":"En accumulant suffisamment d'EXP, tu augmenteras le niveau de ta ferme."}
+{"id":1658634,"jp":"農園レベルが上がると、農園建設に役立つボーナスが手に入るぞ！","fr":"En augmentant le niveau de ta ferme, tu obtiendras des bonus qui faciliteront sa construction !"}
+{"id":1658635,"jp":"それに、報酬として農園の建設素材も獲得できちゃうのだ！","fr":"Et tu pourras même obtenir des matériaux de construction pour ta ferme en récompense !"}
+{"id":1658636,"jp":"<color={highlight}>装備獲得</color>依頼を達成すると、キャラクター装備を獲得できるぞ！","fr":"Termine des missions d'<color={highlight}>obtention d'équipements</color> pour obtenir des équipements de personnage !"}
+{"id":1658637,"jp":"ここを押すと、キボに<color={highlight}>餌やり</color>できるのだ〜さっそく試してみよう！","fr":"En appuyant ici, tu peux <color={highlight}>nourrir</color> tes Kibo ! Essayons tout de suite !"}
 {"id":1658638,"jp":"ひとつの小屋には30体まで住めるぞ。","fr":"Chaque enclos peut accueillir jusqu'à 30 Kibo."}
 {"id":1658639,"jp":"キミはいま、キボ小屋を20個持ってるのだ！","fr":"Tu possèdes actuellement 20 Enclos à Kibo !"}
 {"id":1658640,"jp":"矢印ボタンで小屋を切り替えることもできるのだ！","fr":"Tu peux aussi passer d'un enclos à l'autre avec les boutons fléchés !"}
+{"id":1658641,"jp":"キボ小屋をロックすると、その小屋には新しいキボが自動で入らなくなるのだ。","fr":"Lorsque tu verrouilles un Enclos à Kibo, aucun nouveau Kibo ne peut s'y installer automatiquement."}
 {"id":1658642,"jp":"キボが入る小屋は自由に決められるぞ。","fr":"Tu peux choisir librement l'enclos dans lequel placer chaque Kibo."}
 {"id":1658643,"jp":"小屋では選んだキボのレベルも確認できる！","fr":"Dans l'enclos, tu peux aussi consulter le niveau du Kibo sélectionné !"}
 {"id":1658644,"jp":"キボの元素属性、戦闘での役割、特性も確認できるぞ！","fr":"Tu peux également consulter l'élément, le rôle en combat et les caractéristiques du Kibo !"}
+{"id":1658645,"jp":"戦闘タイプを見れば、キボの役割をすぐに見分けられる。","fr":"Le type de combat permet d'identifier immédiatement le rôle d'un Kibo."}
+{"id":1658646,"jp":"キボのステータスと潜在能力評価もここを見ればわかるのだ。","fr":"Tu peux aussi consulter ici les statistiques du Kibo et l'évaluation de ses potentiels."}
 {"id":1658647,"jp":"それから、キボのスキル！","fr":"Et puis, les compétences du Kibo !"}
+{"id":1658648,"jp":"選択すると、それぞれのスキルの詳細を確認できるのだ。","fr":"Sélectionne une compétence pour en consulter les détails."}
 {"id":1658649,"jp":"ここにはキボが持ってる因子がまとまってるぞ。","fr":"Tous les facteurs que possède le Kibo sont regroupés ici."}
+{"id":1658650,"jp":"各因子はそのキボの持ってる特殊な能力を表してるのだ。","fr":"Chaque facteur représente une capacité particulière que possède le Kibo."}
 {"id":1658651,"jp":"キボはそれぞれ固有の先天因子を持ってるものなのだ。","fr":"Chaque Kibo possède ses propres facteurs innés !"}
+{"id":1658652,"jp":"よーし、それじゃ！いろんなキボとスターリンクして、ぴったりのパートナーを見つけよう！","fr":"Très bien, c'est parti ! Formons des Liens stellaires avec toutes sortes de Kibo pour trouver le compagnon idéal !"}
+{"id":1658653,"jp":"ステータスはここでチェック！みんな唯一無二の能力を持ってるのだ。","fr":"Les statistiques sont ici ! Chaque Kibo possède des capacités qui lui sont propres !"}
+{"id":1658654,"jp":"キボの因子はここ！キボの能力の高さは、因子で決まると言っても過言じゃない！","fr":"Et voici les facteurs des Kibo ! Ce n'est pas exagéré de dire que les capacités d'un Kibo dépendent de ses facteurs !"}
 {"id":1658655,"jp":"なにもない場所を押して、さきに進むのだ！","fr":"Appuie sur un espace vide pour continuer !"}
+{"id":1658657,"jp":"霧の下にはおもしろいものがたくさん隠されてるぞ。\n冒険を楽しもう！","fr":"Plein de choses intéressantes se cachent sous la brume.\nProfite bien de l'aventure !"}
+{"id":1658658,"jp":"ここを押して、\n<color={highlight}>エリア探索度</color>を確認しよう！","fr":"Appuie ici pour\nconsulter la <color={highlight}>progression de l'exploration de la zone</color> !"}
+{"id":1658659,"jp":"各エリアには、<color={highlight}>探索度</color>が設定されてるのだ。","fr":"Chaque zone possède sa propre <color={highlight}>progression d'exploration</color>."}
+{"id":1658660,"jp":"探索コンテンツをクリアすると、対応するエリアの探索度が上がるぞ！","fr":"Termine les activités d'exploration pour augmenter la progression d'exploration de la zone correspondante !"}
+{"id":1658661,"jp":"押して、<color={highlight}>探索度報酬</color>も確認してみよう！","fr":"Appuie ici pour consulter aussi les <color={highlight}>récompenses d'exploration</color> !"}
+{"id":1658662,"jp":"各エリアの探索を完了させると、<color={highlight}>マップ探索レベル経験値</color>を貯められる！","fr":"En terminant l'exploration de chaque zone, tu peux accumuler de l'<color={highlight}>EXP de niveau d'exploration de la carte</color> !"}
+{"id":1658667,"jp":"好きなゲームモードを選んで、自分だけの旅に出るのだ！","fr":"Choisis le mode de jeu qui te plaît et pars pour une aventure qui n'appartient qu'à toi !"}
+{"id":1658668,"jp":"タブごとに分類されるから、\n知りたい情報もすぐに見つかるぞ。","fr":"Les informations sont classées par onglet,\ntu trouveras donc facilement ce que tu cherches."}
+{"id":1658669,"jp":"<color={highlight}>天道の余塵</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Poussières de la voie céleste</color>"}
 {"id":1658670,"jp":"デイリークエスト……\nクリアすると、報酬もらえる。","fr":"Quêtes quotidiennes…\nTerminer, recevoir des récompenses."}
 {"id":1658671,"jp":"ウィークリークエスト、報酬もっと豪華になる……","fr":"Quêtes hebdomadaires, récompenses encore plus belles…"}
+{"id":1658676,"jp":"リストの左で難易度を選ぶと、いろんな難易度の依頼クエストを受けられるぞ！","fr":"Sélectionne une difficulté à gauche de la liste pour accepter des Missions de différents niveaux de difficulté !"}
+{"id":1658679,"jp":"ここには各エリアから集められた注文があるんです。注文された商品を用意できれば、いつもより高い報酬がもらえますよ。","fr":"Vous trouverez ici des commandes provenant de différentes zones. Si vous fournissez les marchandises demandées, vous obtiendrez des récompenses plus généreuses que d'habitude."}
+{"id":1658680,"jp":"今回はただで商品をあげちゃいます。エリアオーダーをひとつ達成してみましょう！","fr":"Cette fois, je vous offre les marchandises gratuitement. Essayons de terminer une commande régionale !"}
+{"id":1658681,"jp":"つぎは<color={highlight}>出荷箱</color>を見てみましょう！","fr":"Voyons maintenant la <color={highlight}>caisse d'expédition</color> !"}
+{"id":1658682,"jp":"星旅の記録クエストをクリアすると、この世界についてもっと深く知ることができるぞ！","fr":"En terminant les quêtes de la Chronique du voyage stellaire, tu en apprendras davantage sur ce monde !"}
+{"id":1658684,"jp":"星旅の記録ポイントが一定以上になると、豪華な報酬をもらえるぞ！","fr":"Accumule suffisamment de points dans la Chronique du voyage stellaire pour obtenir de magnifiques récompenses !"}
+{"id":1658685,"jp":"編成したあとに<color={highlight}>キボを押す</color>と、そのまま謎解きを手伝ってもらえるのだ。","fr":"Après avoir composé ton équipe, <color={highlight}>appuie sur un Kibo</color> pour qu'il t'aide directement à résoudre l'énigme."}
+{"id":1658686,"jp":"ここに<color={highlight}>現在の時刻</color>が表示されてるのだ。","fr":"L'<color={highlight}>heure actuelle</color> est affichée ici."}
 {"id":1658687,"jp":"ここを押すと、時間をさっと進められるぞ。","fr":"Appuie ici pour faire avancer rapidement le temps."}
 {"id":1658688,"jp":"調整して確定すれば、指定した時刻まで時間が進む！","fr":"Règle l'heure et confirme pour avancer jusqu'au moment souhaité !"}
 {"id":1658689,"jp":"どーだ、便利だろう。試してみるといい！","fr":"Alors, pratique, non ? Essaie donc !"}
+{"id":1658690,"jp":"ここには、星臨者さまに必要なお宝がたくさんありますよ！\n見ていってくださいね～！","fr":"Vous trouverez ici plein de trésors utiles à l'Enfant des étoiles !\nN'hésitez pas à regarder !"}
+{"id":1658692,"jp":"ここにあるお宝は、どんぐりお宝探検隊がプロミリア各地を冒険して手に入れたものです。\n品揃えも豊富ですよ。","fr":"Ces trésors ont été découverts par la brigade des trésors des glands au cours de ses aventures à travers Promilia.\nNous avons un grand choix de marchandises !"}
+{"id":1658693,"jp":"私の商品はどれも本物のお宝！\nとってもお得ですから、ぜひまた来てくださいね。","fr":"Tous mes articles sont d'authentiques trésors !\nLes prix sont très avantageux, alors revenez me voir !"}
+{"id":1658696,"jp":"「修行」で、小玉さんのステータスと<color={highlight}>「修行段階」</color>を高められるにゃ。","fr":"L'Entraînement permet d'améliorer les statistiques de Xiaoyu et son <color={highlight}>« rang d'Entraînement »</color>, nya."}
+{"id":1658697,"jp":"修行方針ごとに、対応する修行ステータスが<color={highlight}>上昇</color>するの。","fr":"Chaque orientation d'Entraînement <color={highlight}>augmente</color> la statistique d'Entraînement correspondante."}
+{"id":1658698,"jp":"修行方針を選ぶと、右側で今回の修行で上昇する予定のステータスと、修行効果全体のボーナス倍率を確認できるにゃ。","fr":"Après avoir choisi une orientation d'Entraînement, tu peux consulter à droite les gains de statistiques prévus pour cette séance ainsi que le multiplicateur de bonus global de l'Entraînement, nya."}
+{"id":1658699,"jp":"修行中は、縁を結んだキャラクターやキボも小玉さんに手を貸して、修行を助けてくれるからね！","fr":"Pendant l'Entraînement, les personnages et les Kibo avec lesquels Xiaoyu a tissé des liens lui viendront aussi en aide !"}
+{"id":1658700,"jp":"遊歴でたくさんのキャラクターやキボと縁を結んで、修行が順調に進むように力を貸してもらおう！","fr":"Tisse des liens avec de nombreux personnages et Kibo au cours de tes voyages pour bénéficier de leur soutien pendant l'Entraînement !"}
+{"id":1658701,"jp":"法力は塗山一族の修行の基礎。法力の修行をすると、小玉さんの総合戦闘力が上昇するから、序盤の修行に適してるよ。","fr":"La puissance magique est le fondement de l'Entraînement du clan Tushan. La développer augmente la puissance de combat globale de Xiaoyu, ce qui en fait un excellent choix pour commencer."}
+{"id":1658702,"jp":"最初の修行は<color={highlight}>法力</color>からはじめよう！","fr":"Commençons le premier Entraînement par la <color={highlight}>puissance magique</color> !"}
+{"id":1658704,"jp":"俗世を遊歴してよい縁を結ぶことも、塗山一族の修行試練では重要なことなんだって。","fr":"Il paraît que parcourir le monde des mortels et y tisser de bons liens est également essentiel à l'épreuve d'Entraînement du clan Tushan."}
+{"id":1658707,"jp":"ボタンを押して<color={highlight}>「巡り合わせ」に入って</color>みるにゃ！","fr":"Appuie sur le bouton pour <color={highlight}>accéder aux « Rencontres du destin »</color>, nya !"}
+{"id":1658709,"jp":"<color={highlight}>「行動力」</color>を消費して、巡り合わせをはじめよう！","fr":"Dépense des <color={highlight}>« Points d'action »</color> pour commencer les Rencontres du destin !"}
+{"id":1658711,"jp":"判定の成否には、小玉さんの現在の修行ステータスが関係するの。","fr":"La réussite ou l'échec d'une épreuve dépend des statistiques d'Entraînement actuelles de Xiaoyu."}
+{"id":1658712,"jp":"法力の修行をしたいまの小玉さんなら、この状況にも簡単に対処できるよ。判定選択肢を押してモフリーネを助けてあげよう！","fr":"Maintenant que Xiaoyu a développé sa puissance magique, elle peut facilement surmonter cette difficulté. Sélectionne l'option d'épreuve pour venir en aide au Downybrinny !"}
+{"id":1658713,"jp":"巡り合わせイベントでは、新しい仲間と出会って修行ステータスを高め、いろんな「奇縁」を獲得できるにゃ。","fr":"Les événements des Rencontres du destin permettent de rencontrer de nouveaux compagnons, d'améliorer les statistiques d'Entraînement et d'obtenir toutes sortes de « liens du destin », nya."}
+{"id":1658714,"jp":"小玉さんのステータスを戦略的に高めて、試験に合格できるよう手助けしよう！","fr":"Améliore judicieusement les statistiques de Xiaoyu pour l'aider à réussir son examen !"}
+{"id":1658715,"jp":"<color={highlight}>縁起</color>を押して、小玉さんの修行の旅をはじめよう！","fr":"Appuie sur <color={highlight}>Origine des liens</color> pour commencer le voyage d'Entraînement de Xiaoyu !"}
+{"id":1658716,"jp":"修行方針を選ぶと、いろんな修行効果や物語を体験できるんだにゃ。","fr":"Chaque orientation d'Entraînement permet de découvrir différents effets d'Entraînement et de nouvelles histoires, nya."}
+{"id":1658717,"jp":"最初の旅は<color={highlight}>「俗世に身を投じる」</color>からはじめよう！","fr":"Commençons ce premier voyage avec <color={highlight}>« Se jeter dans le monde »</color> !"}
+{"id":1658718,"jp":"<color={highlight}>確認</color>を押して、修行開始！","fr":"Appuie sur <color={highlight}>Confirmer</color> pour commencer l'Entraînement !"}
+{"id":1658720,"jp":"スタミナが低いと、修行で「あまり効果がない」が発生する確率が上昇しちゃうの。","fr":"Lorsque l'endurance est faible, la probabilité d'obtenir un résultat « Peu efficace » à l'Entraînement augmente."}
+{"id":1658721,"jp":"そんな時は、小玉さんにしっかり<color={highlight}>休憩</color>してもらうといいにゃ！","fr":"Dans ce cas, mieux vaut laisser Xiaoyu prendre un bon <color={highlight}>repos</color>, nya !"}
+{"id":1658722,"jp":"<color={highlight}>「休憩」</color>ボタンを押して、小玉さんを休ませてスタミナを回復しよう！","fr":"Appuie sur le bouton <color={highlight}>« Se reposer »</color> pour permettre à Xiaoyu de récupérer son endurance !"}
 {"id":1658723,"jp":"いつの間にか、試験の日がきてたにゃ！","fr":"Le jour de l'examen est déjà arrivé sans qu'on s'en aperçoive, nya !"}
+{"id":1658724,"jp":"小玉さんは今日、縁結びの試験という大きな挑戦をするんだよ！","fr":"Aujourd'hui, Xiaoyu va relever un grand défi : l'examen « Nouer les liens » !"}
+{"id":1658725,"jp":"まずはここを押して、小玉さんがこれまで習得した新しい能力を確認しよう！","fr":"Appuie d'abord ici pour consulter les nouvelles capacités acquises par Xiaoyu jusqu'à présent !"}
+{"id":1658726,"jp":"修行ステータスが上がっていくと、小玉さんは新しい能力を次々に習得するの。ここで詳細を確認できるにゃ！","fr":"À mesure que ses statistiques d'Entraînement augmentent, Xiaoyu acquiert de nouvelles capacités. Tu peux consulter leurs détails ici, nya !"}
 {"id":1658727,"jp":"準備は整ったね。勇気を出して、試験に挑もう！","fr":"Tout est prêt. Prenons notre courage à deux mains et passons l'examen !"}
+{"id":1658729,"jp":"今回は、<color={highlight}>『敵の退治』</color>エンディングを見てみよう！","fr":"Cette fois, découvrons le dénouement <color={highlight}>« Vaincre l'ennemi »</color> !"}
+{"id":1658730,"jp":"ここを押して、小玉さんがみんなと結んだ縁を確認しよう！","fr":"Appuie ici pour consulter les liens que Xiaoyu a tissés avec ses compagnons !"}
+{"id":1658732,"jp":"なんどもプレイして、小玉さんにたくさんの仲間と縁を結んでもらおう！","fr":"Recommence plusieurs fois pour permettre à Xiaoyu de tisser des liens avec de nombreux compagnons !"}
+{"id":1658733,"jp":"栄光の証！<color={highlight}>「試練」</color>も解放されたよ。","fr":"Une preuve de gloire ! Le mode <color={highlight}>« Épreuves »</color> est également débloqué."}
+{"id":1658734,"jp":"「試練」では、達成済みエンディングのデータを使って、より強い敵に挑戦できるの！","fr":"Dans le mode « Épreuves », tu peux utiliser les données des dénouements déjà atteints pour affronter des ennemis plus puissants !"}
+{"id":1658735,"jp":"<color={highlight}>エンディングを適用</color>を押してみて。","fr":"Essaie d'appuyer sur <color={highlight}>Appliquer le dénouement</color>."}
+{"id":1658736,"jp":"最終的な試練のポイントはランキングに記録されるよ。最終順位も忘れずに確認してね！","fr":"Ton score final d'épreuve sera enregistré dans le classement. N'oublie pas de consulter ton rang final !"}
+{"id":1658737,"jp":"今回は、<color={highlight}>『勇をもちて敵を退く』</color>を選択するにゃ！","fr":"Cette fois, sélectionne <color={highlight}>« Repousser l'ennemi par le courage »</color>, nya !"}
 {"id":1658738,"jp":"縁を結んだ仲間も増えてるからね！","fr":"Et puis, tu as tissé des liens avec encore plus de compagnons !"}
+{"id":1658739,"jp":"出発前に、忘れずに仲間を呼んで、手伝ってもらうにゃ！","fr":"Avant de partir, n'oublie pas de faire appel à tes compagnons pour obtenir leur soutien, nya !"}
+{"id":1658742,"jp":"仲間のサポートで、小玉さんがどんな修行成果を得られるか見てみよう！","fr":"Voyons quels résultats Xiaoyu peut obtenir à l'Entraînement grâce au soutien de ses compagnons !"}
+{"id":1658743,"jp":"ステージをクリアすると報酬を獲得できて、より難易度の高いステージが解放される。","fr":"Terminer un niveau permet d'obtenir des récompenses et de débloquer un niveau de difficulté supérieure."}
+{"id":1658744,"jp":"『悠久の円環』のステージをすべてクリアすると、『潮汐の円環』も解放される。","fr":"Terminer tous les niveaux du « Cercle de l'éternité » permet également de débloquer le « Cercle des marées »."}
+{"id":1658745,"jp":"『潮汐の円環』は常時解放されて、一定の周期でステージと報酬が入れ替わるのだ！","fr":"Le « Cercle des marées » est accessible en permanence. Ses niveaux et ses récompenses sont renouvelés à intervalles réguliers !"}
 {"id":1658746,"jp":"周期ごとに、ステージの環境も変化するぞ。","fr":"L'environnement des niveaux change également à chaque cycle."}
+{"id":1658747,"jp":"それじゃ！『創流の円環』で、最初の挑戦をはじめよう！","fr":"C'est parti ! Relève ton premier défi dans le « Cercle de la genèse » !"}
+{"id":1658748,"jp":"<color={highlight}>マウント</color>を獲得しました。さっそく試してみましょう！","fr":"Vous avez obtenu une <color={highlight}>monture</color>. Essayez-la dès maintenant !"}
+{"id":1658750,"jp":"このファイターを<color={highlight}>選択</color>してください。","fr":"Veuillez <color={highlight}>sélectionner</color> ce combattant."}
+{"id":1658753,"jp":"<color={highlight}>推奨属性</color>のキボを使えば、楽に勝負を進められるはずだぞ。","fr":"Utiliser des Kibo de l'<color={highlight}>élément recommandé</color> devrait grandement faciliter le combat."}
+{"id":1658754,"jp":"ここを押すと、現在のエリアの<color={highlight}>エリアレベル</color>を確認できます。","fr":"Appuyez ici pour consulter le <color={highlight}>niveau de zone</color> actuel."}
+{"id":1658755,"jp":"ファイターに勝利すると、\n<color={highlight}>エリアレベル経験値</color>を獲得できるのだ！","fr":"En remportant un duel contre un combattant,\ntu obtiendras de l'<color={highlight}>EXP de niveau de zone</color> !"}
+{"id":1658756,"jp":"エリアレベルを上げると、\n<color={highlight}>レベル報酬</color>を獲得できる。","fr":"En augmentant ton niveau de zone,\ntu obtiendras des <color={highlight}>récompenses de niveau</color>."}
+{"id":1658757,"jp":"今後、ほかのプレイヤーと対戦するモードも解放される予定だぞ。","fr":"Un mode permettant d'affronter d'autres joueurs sera également disponible à l'avenir !"}
+{"id":1658758,"jp":"はじめてクリアした時は、\n初回クリア報酬を受け取ることができるぞ。","fr":"Lorsque tu termines un niveau pour la première fois,\ntu peux récupérer une récompense de première réussite."}
+{"id":1658759,"jp":"達成したチャレンジ目標に応じた数の星を獲得できて……","fr":"Tu obtiendras un nombre d'étoiles correspondant aux objectifs de défi accomplis…"}
+{"id":1658760,"jp":"指定された数まで星を貯めると、追加報酬ももらえちゃうのだ！","fr":"Accumule le nombre d'étoiles requis pour obtenir des récompenses supplémentaires !"}
+{"id":1658761,"jp":"さらに獲得した晦冥の星砂は、\nショップで報酬と交換できる！","fr":"De plus, le sable stellaire obscur obtenu\npeut être échangé contre des récompenses dans la boutique !"}
 {"id":1658764,"jp":"空を舞う誓い","fr":"Serment dans le ciel"}
 {"id":1658767,"jp":"し～っ……芽吹いたばかりの子が眠っているの。","fr":"Chut… Une petite pousse qui vient de naître est en train de dormir."}
+{"id":1658773,"jp":"「農園本部」-「煌めく珍品」で、輝くコインを使用して必要な商品を購入しよう","fr":"Utilisez vos pièces scintillantes pour acheter les articles nécessaires dans « Quartier général de la ferme » - « Curiosités scintillantes »"}
 {"id":1658775,"jp":"煌めく珍品の解放後に利用可能","fr":"Disponible après le déblocage des Curiosités scintillantes"}
 {"id":1658776,"jp":"天道の余塵・創流の円環Iをクリアする","fr":"Terminer Poussières de la voie céleste - Cercle de la genèse I"}
 {"id":1658777,"jp":"煌めく珍品ショップでキボのタマゴを1回購入する","fr":"Acheter 1 œuf de Kibo à la boutique des Curiosités scintillantes"}
@@ -41818,8 +42087,11 @@
 {"id":1658791,"jp":"フリス保安官 ジルス","fr":"Jils, shérif de Fleece"}
 {"id":1658792,"jp":"Yostar ID 連携特典","fr":"Bonus de Coordination du compte Yostar ID"}
 {"id":1658793,"jp":"デイリーパック","fr":"Pack quotidien"}
+{"id":1658794,"jp":"複数の素材から霊液を抽出して作られたシャーマンの霊薬。行動不能状態の仲間ひとりを完全に回復させる。","fr":"Un élixir de chamane préparé à partir d'essences spirituelles extraites de divers matériaux. Rétablit entièrement un allié K.O."}
+{"id":1658795,"jp":"お疲れさま、メイプル。これからは冒険者ギルドとキボファイト協会によく顔を出すと思うから、どうぞよろしくね！","fr":"Merci pour ton travail, Maple. Je pense passer souvent à la Guilde des aventuriers et à l'Association de Duel de Kibo désormais, alors je compte sur toi !"}
 {"id":1658800,"jp":"あざとかわいい","fr":"Mignon et calculateur"}
 {"id":1658801,"jp":"ひとつ、ふたつ、みっつ……うーん、耳がいっぱい。","fr":"Une, deux, trois… Hmm, beaucoup d'oreilles."}
+{"id":1658802,"jp":"ひとつ、ふたつ、みっつ……うーん、耳がいっぱい。\n「塗山小玉・桃色うさぎの宴」を獲得すると解放","fr":"Une, deux, trois… Mmm, que d'oreilles !\nSe débloque à l'obtention de « Tushan Xiaoyu - Le banquet des lapins roses »"}
 {"id":1658803,"jp":"寒悠悠の調律「宝物発見！」を解放で獲得","fr":"À obtenir en débloquant l'Accordage « Trésor trouvé ! » de Han Youyou"}
 {"id":1658805,"jp":"ポンポンの調律「陰陽調和」を解放で獲得","fr":"À obtenir en débloquant l'Accordage « Équilibre du yin et du yang » de Pengpeng"}
 {"id":1658807,"jp":"ペイペイの調律「光陰一体」を解放で獲得","fr":"À obtenir en débloquant l'Accordage « Unité de la lumière et de l'ombre » de Peipei"}
@@ -41835,13 +42107,22 @@
 {"id":1658827,"jp":"ミィティの調律「空の彼方へ」を解放で獲得","fr":"À obtenir en débloquant l'Accordage « Par-delà le ciel » de Mitty"}
 {"id":1658829,"jp":"カタルの調律「きらめく瞳」を解放で獲得","fr":"À obtenir en débloquant l'Accordage « Des yeux pétillants » de Katalua"}
 {"id":1658831,"jp":"モーレンの調律「幻惑」を解放で獲得","fr":"À obtenir en débloquant l'Accordage « Éblouissement » de Morwyn"}
+{"id":1658832,"jp":"「一緒にいると、いつも自然と気が緩んでしまうの。これは……どうしてなのかしら？」\nモーレンの調律「幻惑」を解放すると獲得","fr":"« Chaque fois que nous sommes ensemble, je me détends tout naturellement. Je me demande… pourquoi ? »\nÀ obtenir en débloquant l'Accordage « Envoûtement » de Morwyn"}
 {"id":1658833,"jp":"シャルの調律「栄光の名を戴く」を解放で獲得","fr":"À obtenir en débloquant l'Accordage « Porter un nom glorieux » de Shalle"}
 {"id":1658835,"jp":"ファランタの調律「鷹主の決意」を解放で獲得","fr":"À obtenir en débloquant l'Accordage « La résolution du Seigneur des faucons » de Faridah"}
 {"id":1658837,"jp":"キャスベルの調律「めしあがれ」を解放で獲得","fr":"À obtenir en débloquant l'Accordage « Bon appétit » de Cathbelle"}
 {"id":1658839,"jp":"アニスの調律「チッチのお母さん探し」を解放で獲得","fr":"À obtenir en débloquant l'Accordage « Chicchi cherche sa maman » d'Anais"}
+{"id":1658840,"jp":"そこは、星臨者が思わず安心と不安を同時に感じてしまう場所だ。\nアニスの調律「チッチのお母さん探し」を解放すると獲得","fr":"Un endroit où l'Enfant des étoiles ne peut s'empêcher de ressentir à la fois du réconfort et de l'inquiétude.\nÀ obtenir en débloquant l'Accordage « Chicchi cherche sa maman » d'Anais"}
 {"id":1658841,"jp":"星臨者の調律「薄明の星灯り」を解放で獲得","fr":"À obtenir en débloquant l'Accordage « Lueur d'étoile au crépuscule » de l'Enfant des étoiles"}
 {"id":1658844,"jp":"ノノの調律「キラキラの黄金」を解放で獲得","fr":"À obtenir en débloquant l'Accordage « Or étincelant » de Nono"}
+{"id":1658845,"jp":"彼女はずっと、宝物の方から自分の懐に飛び込んでくると信じていた。\nノノの調律「黄金色」を解放すると獲得","fr":"Elle a toujours cru que les trésors finiraient par lui tomber directement dans les bras.\nÀ obtenir en débloquant l'Accordage « Or doré » de Nono"}
 {"id":1658846,"jp":"メイプルの調律「繋がれ！星々の絆」を解放で獲得","fr":"À obtenir en débloquant l'Accordage « Connexion ! Lien des étoiles » de Maple"}
+{"id":1658848,"jp":"ひとつ、ふたつ、みっつ……うーん、耳がいっぱい。\n「桃色うさぎの宴」を獲得すると解放","fr":"Une, deux, trois… Mmm, que d'oreilles !\nSe débloque à l'obtention du « Festin du lapin rose »"}
+{"id":1658849,"jp":"普通の豊作の悦びを使用しました。チーム全員のブレイク値が60アップし、300秒間継続します。","fr":"Joie des récoltes ordinaire utilisée. Hausse de 60 de la Valeur de brise de toute l'équipe pendant 300 s."}
+{"id":1658850,"jp":"上質な豊作の悦びを使用しました。チーム全員のブレイク値が60アップし、325秒間継続します。","fr":"Joie des récoltes de qualité utilisée. Hausse de 60 de la Valeur de brise de toute l'équipe pendant 325 s."}
+{"id":1658851,"jp":"極上の豊作の悦びを使用しました。チーム全員のブレイク値が60アップし、350秒間継続します。","fr":"Joie des récoltes supérieure utilisée. Hausse de 60 de la Valeur de brise de toute l'équipe pendant 350 s."}
+{"id":1658852,"jp":"特上の豊作の悦びを使用しました。チーム全員のブレイク値が60アップし、375秒間継続します。","fr":"Joie des récoltes de premier choix utilisée. Hausse de 60 de la Valeur de brise de toute l'équipe pendant 375 s."}
+{"id":1658853,"jp":"逸品の豊作の悦びを使用しました。チーム全員のブレイク値が60アップし、400秒間継続します。","fr":"Joie des récoltes d'exception utilisée. Hausse de 60 de la Valeur de brise de toute l'équipe pendant 400 s."}
 {"id":1658854,"jp":"シエル","fr":"Ciel"}
 {"id":1658855,"jp":"ノエル","fr":"Noel"}
 {"id":1658856,"jp":"フィア","fr":"Fia"}
@@ -41947,34 +42228,93 @@
 {"id":1658956,"jp":"自身の攻撃力が75上昇し、防御力が20上昇する。","fr":"Augmente l'ATQ de 75 et la DÉF de 20."}
 {"id":1658957,"jp":"自身の攻撃力が110上昇し、防御力が30上昇する。","fr":"Augmente l'ATQ de 110 et la DÉF de 30."}
 {"id":1658958,"jp":"自身の攻撃力が150上昇し、防御力が40上昇する。","fr":"Augmente l'ATQ de 150 et la DÉF de 40."}
+{"id":1658960,"jp":"エネミーを追尾する小型ファイアボールを放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lance une petite boule de feu à tête chercheuse vers l'ennemi, infligeant des <color=#d25556>DGT de Feu</color>."}
+{"id":1658962,"jp":"エネミーに大型ファイアボールを放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lance une grosse boule de feu vers l'ennemi, infligeant des <color=#d25556>DGT de Feu</color>."}
+{"id":1658971,"jp":"対象範囲の周囲へ小型ファイアボールを複数放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lance plusieurs petites boules de feu autour de la zone ciblée, infligeant des <color=#d25556>DGT de Feu</color>."}
+{"id":1658973,"jp":"対象範囲の周囲へ大量の小型ファイアボールを放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lance un grand nombre de petites boules de feu autour de la zone ciblée, infligeant des <color=#d25556>DGT de Feu</color>."}
+{"id":1658980,"jp":"前方へ光線を放ち続け、最大で攻撃力の{0}分の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Projette continuellement un rayon vers l'avant, infligeant des <color=#d25556>DGT de Feu</color> pouvant atteindre {0} de l'ATQ."}
+{"id":1659079,"jp":"地属性の味方の攻撃力を増幅する。増幅量はこのキボの基礎防御力の30%分となる。","fr":"Amplifie l'ATQ des alliés de Terre. L'Amplification équivaut à 30 % de la DÉF de base de ce Kibo."}
+{"id":1659080,"jp":"風属性の味方の攻撃力を増幅する。増幅量はこのキボの基礎攻撃力の10%分となる。","fr":"Amplifie l'ATQ des alliés de Vent. L'Amplification équivaut à 10 % de l'ATQ de base de ce Kibo."}
+{"id":1659139,"jp":"周囲のエネミーに<color=#d58a6c>闇属性ダメージ</color>を与える。","fr":"Inflige des <color=#d58a6c>DGT de Ténèbres</color> aux ennemis alentour."}
 {"id":1659144,"jp":"ファイアボールを放ってエネミーを攻撃する。さらに、自身もファイアボールに変わってエネミーへ突進し、<color=#d25556>火属性ダメージ</color>を与える。自身のHPが高い時は会心率が上昇する。","fr":"Lance une boule de feu sur les ennemis, puis se transforme à son tour en boule de feu pour foncer sur eux et leur infliger des <color=#d25556>DGT de Feu</color>. Le Taux CRIT augmente quand les PV sont élevés."}
+{"id":1659146,"jp":"ファイアボールを放った後、エネミーに突進し、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Après avoir lancé une boule de feu, effectue une ruée vers l'ennemi et inflige des <color=#d25556>DGT de Feu</color>."}
 {"id":1659177,"jp":"強化チャージ攻撃・地","fr":"Attaque chargée renforcée : Terre"}
 {"id":1659178,"jp":"強化チャージ攻撃・光","fr":"Attaque chargée renforcée : Lumière"}
 {"id":1659179,"jp":"ダメージ増加","fr":"Hausse des DGT"}
 {"id":1659190,"jp":"チャージ攻撃ダメージ増加","fr":"Hausse des DGT d'Attaque chargée"}
 {"id":1659193,"jp":"星響スキルの説明","fr":"Description de la compétence Écho stellaire"}
+{"id":1659196,"jp":"優雅、成熟、そしてそこに隠された、\nほんのすこしの挑発的な甘さ。","fr":"Élégance, maturité, et dissimulée derrière elles,\nune subtile douceur teintée de provocation."}
+{"id":1659197,"jp":"シャルル村の門に猛攻を仕掛けるボアラーガ。\nだが、それ以上に猛威を振るうのは、\nシャルル村で一番のハンターとその相棒だ！","fr":"Un Boaraga lance un assaut féroce contre les portes du Village de Charlulu.\nMais plus redoutables encore sont\nla meilleure chasseuse du Village de Charlulu et son fidèle compagnon !"}
+{"id":1659198,"jp":"生命は土より芽吹き、\nそして土より生まれたものがまた生命を救う。","fr":"La vie germe de la terre,\net ce qui naît de la terre sauve à son tour la vie."}
+{"id":1659202,"jp":"湖畔で夢を見よう！\n夢のなかには海が広がるんだって？すっげーっ！\n――不思議な霊体","fr":"Rêvons au bord du lac !\nIl paraît qu'un océan s'étend dans nos rêves ? Trop génial !\nUne mystérieuse entité spirituelle"}
+{"id":1659203,"jp":"群狼の意志はこの地に根づき、守護神となった。\n其は揺るがぬ信仰を持つ者に加護を与えるだろう。","fr":"La volonté de la meute prit racine en ces terres et devint leur divinité protectrice.\nElle accordera sa protection à ceux dont la foi demeure inébranlable."}
+{"id":1659204,"jp":"夜の神よ。我らに暗夜の瞳を授け、\n闇の中にかすかなる帰路を示したまえ。","fr":"Ô dieu de la nuit, accorde-nous des yeux capables de percer l'obscurité,\net révèle-nous le faible chemin du retour au cœur des ténèbres."}
+{"id":1659205,"jp":"星空の下、凛として美しい少女の姿。\nしかし、その背中には小さな悩みが秘められている。","fr":"Sous le ciel étoilé se tient une jeune fille à la beauté digne et raffinée.\nPourtant, derrière cette allure se dissimule une petite inquiétude."}
 {"id":1659207,"jp":"絆心の観測 - 花霞を胸に","fr":"Observation des Liens - Brume de fleurs au cœur"}
+{"id":1659208,"jp":"魅了されてしまいそうなほど美しい桃海月。\nそこに、彼女が探し求める『縁』を見出せるだろうか。","fr":"Une méduse de pêche à la beauté presque envoûtante.\nPourra-t-elle y découvrir le « lien » qu'elle recherche ?"}
+{"id":1659209,"jp":"枝葉のあいだから覗く、好奇心に満ちた瞳。\n『森の女神』と呼ばれるウッドエルフが、\n森を訪れる者たちをそっと観察している。","fr":"Des yeux pleins de curiosité se dévoilent entre les branches et les feuilles.\nL'Elfe des bois surnommée « déesse de la forêt »\nobserve discrètement les visiteurs de ces bois."}
+{"id":1659212,"jp":"闇に堕ちたとしても、微かな光があるかぎり――\nひたむきな種は成長する希望を捨てない。","fr":"Même plongée dans les ténèbres, tant qu'il subsiste une faible lueur…\nUne graine persévérante n'abandonne jamais l'espoir de grandir."}
+{"id":1659213,"jp":"最高の戦士になるために、彼女は絶えず己を磨き続けている。\n放たれた矢の一本一本が、その成長を物語る。","fr":"Pour devenir la plus grande des guerrières, elle perfectionne inlassablement ses compétences.\nChaque flèche décochée témoigne de ses progrès."}
+{"id":1659214,"jp":"ペガサスナイトの休日。風に乗り、波を蹴って――蒼穹と海潮の果てへ！\n存分に駆け回ったあとの食事にも、期待に胸が膨らむ。","fr":"Un jour de repos pour une chevalière pégase. Chevaucher le vent, fendre les vagues, jusqu'aux confins du ciel azur et des océans !\nAprès s'être dépensée sans compter, elle attend également son repas avec impatience."}
+{"id":1659215,"jp":"見よ！烈焔と黄金の角、だれもが空想したベストバウトよ！\nああ……インスピレーションが泉のように湧いてきたわ！","fr":"Contemplez ! Flammes ardentes contre corne dorée, le duel ultime dont tout le monde a rêvé !\nAh… L'inspiration jaillit en moi comme une source !"}
+{"id":1659216,"jp":"エルフが優しく詠唱し、蝶の羽がひらひらと舞う。\n夜の帳が下りた森に足を踏み入れれば、広がるのは、夢幻の優雅な舞踏会――","fr":"Une Elfe entonne doucement son incantation tandis que les ailes des papillons virevoltent.\nPénétrez dans la forêt enveloppée par le voile de la nuit, et un bal onirique d'une grande élégance s'offrira à vous…"}
+{"id":1659220,"jp":"眠りにつくと、夢の中に謎の少女が現れた。彼女の誘いを受け、一行はともにフリスの夜へと足を踏み入れていくのだった……","fr":"Une fois endormis, une mystérieuse jeune fille apparut dans leurs rêves. Acceptant son invitation, les compagnons s'aventurèrent ensemble dans la nuit de Fleece…"}
+{"id":1659221,"jp":"キボファイト組合の脇の路地で、一行は赤蠍団と、彼らにいじめられているパミーに遭遇した……","fr":"Dans une ruelle près de l'Association de Duel de Kibo, le groupe croisa les Scorpions rouges, qui malmenaient un Pammy…"}
 {"id":1659223,"jp":"やるな！","fr":"Pas mal !"}
 {"id":1659224,"jp":"鷹主さま……アタシも戦います！","fr":"Seigneur Faucon… Je vais me battre, moi aussi !"}
 {"id":1659225,"jp":"アタシ……\nもう、逃げたくない……","fr":"Je…\nJe ne veux plus fuir…"}
 {"id":1659226,"jp":"凶獣だぞ！","fr":"Une Bête maudite !"}
+{"id":1659227,"jp":"じっちゃんの若いころの話\nほんとのことだったりしてな。","fr":"Les histoires de jeunesse de grand-père\nétaient peut-être vraies, finalement."}
 {"id":1659228,"jp":"へ、平気よ！","fr":"Ç-ça va !"}
 {"id":1659229,"jp":"アタシも行くわ！","fr":"J'y vais aussi !"}
 {"id":1659230,"jp":"狼の群れはもう逃げません――","fr":"La meute de loups ne fuira plus !"}
 {"id":1659231,"jp":"いいタイミングだったな！\nふっ――はっ！","fr":"Tu arrives à point nommé !\nHah ! Yah !"}
 {"id":1659232,"jp":"はっ――この一撃で貴様らを殲滅してやる！","fr":"Hah ! Je vais tous vous anéantir d'un seul coup !"}
 {"id":1659233,"jp":"……ティティ。","fr":"…Tiffy."}
+{"id":1659234,"jp":"この痕跡を見ると……村の入口へ向かってるみたいだぞ。\nちゃんと門を通るなんて……このクワ、礼儀正しいんだな。","fr":"À en juger par ces Traces… elle semble se diriger vers l'entrée du village.\nElle passe même par la porte… Quelle houe bien élevée !"}
 {"id":1659235,"jp":"どうして……どうしてこんなことに……","fr":"Pourquoi… Comment a-t-on pu en arriver là…"}
 {"id":1659237,"jp":"あそこなのだ！","fr":"C'est par là !"}
 {"id":1659238,"jp":"もうすぐそこだ！","fr":"On y est presque !"}
 {"id":1659239,"jp":"そうだよな……","fr":"C'est vrai…"}
+{"id":1659240,"jp":"罠を仕掛けるのは、僕に任せて！|罠を仕掛けるのは、私に任せて！","fr":"Laissez-moi installer les pièges !|Laissez-moi installer les pièges !"}
+{"id":1659241,"jp":"カタルさん、もうすこし下がって。\n敵に包囲されてしまいます！","fr":"Katalua, reculez encore un peu.\nLes ennemis risquent de vous encercler !"}
 {"id":1659242,"jp":"思いっきり叫んじゃって。","fr":"Quel cri tu as poussé !"}
+{"id":1659243,"jp":"まだ戦いは終わってないんだけど？\n勝ったみたいに喜んじゃってさ……","fr":"Le combat n'est pas encore terminé, vous savez ?\nVous vous réjouissez comme si nous avions déjà gagné…"}
 {"id":1659244,"jp":"もちろん、アタシも行くわ！","fr":"Évidemment, je viens aussi !"}
 {"id":1659245,"jp":"きっと、気持ちが通じ合ってるから。","fr":"C'est sûrement parce que nos cœurs sont liés."}
+{"id":1659246,"jp":"――鷹神の末裔として誓おう。\n風隠れ岩の第17代<ruby=ホークガル>鷹主</ruby>、君に命を預ける。","fr":"En tant que descendante du dieu Faucon, j'en fais le serment.\nMoi, 17e <ruby=Hawkgar>Seigneur Faucon</ruby> du Roc Coupe-Vent, je te confie ma vie."}
 {"id":1659247,"jp":"たしかに、ラルがいないと士気に響く。","fr":"C'est vrai, l'absence de Ral affecterait le moral des troupes."}
 {"id":1659249,"jp":"フルーツとデザート大好き、ルミィさま？","fr":"Lumi, la grande amatrice de fruits et de desserts ?"}
+{"id":1659250,"jp":"その……みんなが、無事に帰ってきてくれて、村も無事だったから、\nちょっと浮かれちゃって。","fr":"Eh bien… Tout le monde est revenu sain et sauf, et le village est intact,\nalors je me suis un peu laissé emporter par la joie."}
+{"id":1659251,"jp":"チルル、気にしないでください。\nわたしたちは勝利したのですから、喜ぶのは当たり前のことですよ。","fr":"Ne vous en faites pas, Chilul.\nNous avons remporté la victoire, il est tout naturel de s'en réjouir."}
+{"id":1659252,"jp":"わたしはもう大丈夫です。ありがとう、チルル。\n意識がないあいだ、あなたが見ていてくれたと聞きました。","fr":"Je vais bien maintenant. Merci, Chilul.\nOn m'a dit que vous aviez veillé sur moi pendant que j'étais inconsciente."}
+{"id":1659253,"jp":"う、ううん……わたしはちょっと手伝っただけ。\nほとんどの時間は森の女神さまが見てくれてたの。","fr":"N-non… Je n'ai fait qu'aider un peu.\nC'est surtout la déesse de la forêt qui a veillé sur toi."}
+{"id":1659254,"jp":"今朔のタナの火祭りはもう開けないんじゃないかって、ずっと心配してた……\nこの光景、なんだか夢みたい。","fr":"J'avais tellement peur que la fête du feu de Tana ne puisse pas avoir lieu cette lune…\nCe spectacle ressemble vraiment à un rêve."}
+{"id":1659255,"jp":"ふふっ、わたしも同じです。\nチルルのお祭りの木彫りを見ると、とても安心できますから。","fr":"Héhé, je ressens la même chose.\nLes sculptures en bois de Chilul pour la fête me procurent une grande sérénité."}
+{"id":1659256,"jp":"これくらいの傷、なんてことはない！\nこのあとの火祭りの宴では、私の特技を披露しよう！","fr":"Une blessure pareille, ce n'est rien !\nJe vous montrerai mon talent caché lors du banquet de la fête du feu !"}
+{"id":1659257,"jp":"ラル隊長、ちゃんと休んでください！\nそんなことしてたら、治るものも治りませんよ！","fr":"Capitaine Ral, reposez-vous convenablement !\nÀ ce rythme, même les blessures les plus bénignes ne guériront pas !"}
+{"id":1659258,"jp":"心配はいりませんよ。\nあとで何杯かお薬を作りますから、きっとすぐによくなります。","fr":"Il n'y a pas lieu de s'inquiéter.\nJe préparerai quelques tasses de remède plus tard, et vous irez rapidement mieux."}
+{"id":1659259,"jp":"わあぁ！これがシャルル村のタナの火祭り！\n独特な雰囲気がありますね！","fr":"Waouh ! C'est donc la fête du feu de Tana du Village de Charlulu !\nQuelle ambiance unique !"}
+{"id":1659260,"jp":"えへへっ、たしかにいろいろと見てきましたけど、\nその土地の風習にはいつも驚きがありますよ。","fr":"Héhé, j'ai effectivement vu beaucoup de choses au cours de mes voyages,\nmais les coutumes locales ne cessent de me surprendre."}
+{"id":1659261,"jp":"とくにシャルル村のような辺境の地には、\n私たちが見たこともない文化や風習がたくさんありますから！","fr":"Surtout dans les contrées reculées comme le Village de Charlulu,\noù il existe tant de cultures et de traditions que nous n'avons jamais découvertes !"}
+{"id":1659262,"jp":"喜んでもらえてよかったです。おふたりにもいろいろと助けていただきました。\n今日は遠慮しないで、楽しんでいってください。","fr":"Je suis ravie que cela vous plaise. Vous nous avez également beaucoup aidés tous les deux.\nAujourd'hui, profitez de la fête sans aucune retenue."}
+{"id":1659263,"jp":"なんだと～！そりゃ戦いは得意じゃないけどさ。\n陣地の設営を手伝ったし、凶獣だって一匹倒したって！","fr":"Comment ça ?! D'accord, le combat n'est pas mon point fort.\nMais j'ai aidé à installer le campement et j'ai même vaincu une Bête maudite !"}
+{"id":1659264,"jp":"はいはい。ケガをしなかっただけでも大助かりよ。\nだれかが面倒見なくて済むからね。","fr":"Oui, oui. Le simple fait que tu ne te sois pas blessé nous a déjà beaucoup aidés.\nAu moins, personne n'a eu à s'occuper de toi."}
+{"id":1659265,"jp":"ふふっ、そうですね。あのふたりを見てると、\n村が昔となにも変わっていないような気がしてきます。","fr":"Héhé, c'est vrai. En les regardant tous les deux,\nj'ai l'impression que le village n'a pas changé depuis autrefois."}
+{"id":1659266,"jp":"ありがとうございます。\nどうかここを自分の家だと思って、気楽に過ごしてくださいね。","fr":"Merci beaucoup.\nConsidérez cet endroit comme votre propre maison et installez-vous à votre aise."}
+{"id":1659267,"jp":"ああ。子どものころ、師の付き添いで一度来たことがあるが。\nそれもずいぶん昔の話だ。","fr":"Oui. J'y suis venu une fois dans mon enfance, en accompagnant mon maître.\nMais cela remonte à bien longtemps."}
+{"id":1659268,"jp":"シャルル村に来るのははじめてだけど、崖や峰がない平らな土地で、\nちょっと慣れないわ。","fr":"C'est ma première visite au Village de Charlulu, mais ces terres plates, sans falaises ni sommets,\nme semblent un peu inhabituelles."}
+{"id":1659269,"jp":"そうですね。いまはまだすれ違うこともありますが、\nきっと仲よくやっていけるはずです。","fr":"C'est vrai. Il nous arrive encore de ne pas nous comprendre,\nmais je suis certaine que nous finirons par bien nous entendre."}
+{"id":1659270,"jp":"ふふっ、シャルル村のシャーマンはお薬を作るのが得意だと聞いていたから、\nずっと会いたかったの。","fr":"Héhé, j'avais entendu dire que la chamane du Village de Charlulu excellait dans la préparation de remèdes,\nalors je souhaitais te rencontrer depuis longtemps."}
+{"id":1659271,"jp":"薬草についてなら、私もすこし心得があるわ。\nいろいろ教えてもらえるかしら。","fr":"Je possède également un peu de savoir-faire en matière de plantes médicinales.\nPourrais-tu m'en apprendre davantage ?"}
+{"id":1659272,"jp":"もちろんです！あっ……でも、これから火祭りの準備もあって、\nすぐには時間が取れないかもしれません。","fr":"Bien sûr ! Ah… Mais il reste encore les préparatifs de la fête du feu,\n alors je risque de ne pas être disponible tout de suite."}
+{"id":1659273,"jp":"時間があるときに風隠れ岩に遊びに来てね。\nそのときは私が集めた薬草を見せてあげる！","fr":"Viens me rendre visite au Roc Coupe-Vent quand tu auras du temps.\nJe te montrerai les plantes médicinales que j'ai récoltées !"}
+{"id":1659274,"jp":"ハハハ！カタル、ゆっくり食べろ！\n火祭りはまだはじまってもないんだぞ。本番はこれからだ。","fr":"Hahaha ! Katalua, mange doucement !\nLa fête du feu n'a même pas encore commencé. Le meilleur reste à venir !"}
+{"id":1659275,"jp":"今日はシャルル村で最も重要な日――\nタナの火祭りじゃ。","fr":"Aujourd'hui est le jour le plus important du Village de Charlulu :\nla fête du feu de Tana."}
 {"id":1659276,"jp":"うわぁ！","fr":"Waah !"}
 {"id":1659277,"jp":"うん、そうするよ。","fr":"Oui, je vais faire ça."}
+{"id":1659278,"jp":"よし、空港の視察はこれで終わり。\nあとは街の治安を見て回るだけだよ。","fr":"Bien, l'inspection de l'aéroport est terminée.\nIl ne reste plus qu'à faire le tour de la ville pour vérifier que tout est en ordre."}
+{"id":1659279,"jp":"うん、僕らの仲間で、獣人の友達なんだ。|うん、私たちの仲間で、獣人の友達なの。","fr":"Oui, c'est une de nos compagnons, une amie Furrienne.|Oui, c'est une de nos compagnons, une amie Furrienne."}
 {"id":1659280,"jp":"こら～！逃げるな！","fr":"Hé ! Pas question de fuir !"}
 {"id":1659281,"jp":"心も体も癒やされるね。","fr":"Ça apaise aussi bien le corps que l'esprit."}
 {"id":1659282,"jp":"ご期待に沿えるよう、努めます。","fr":"Je m'efforcerai d'être à la hauteur de vos attentes."}
@@ -41983,37 +42323,97 @@
 {"id":1659285,"jp":"よくやったのだ！","fr":"Bien joué !"}
 {"id":1659286,"jp":"ここだよ！","fr":"C'est ici !"}
 {"id":1659287,"jp":"やったね！","fr":"On a réussi !"}
+{"id":1659288,"jp":"ふふーん、こんな薄気味悪い場所まで来るのは\nこれのためと言っても過言じゃない！","fr":"Héhé, ce n'est pas exagéré de dire que c'est pour ça\nqu'on est venus jusqu'à cet endroit lugubre !"}
+{"id":1659289,"jp":"そうじゃなきゃ、だれも好き好んで\nこんなとこに来たりしないのだ！","fr":"Sinon, personne ne viendrait de son plein gré\ndans un endroit pareil !"}
+{"id":1659290,"jp":"たしかにそうだね……でも、例の冒険者たちが\n中身を持って行っちゃってないかな？","fr":"C'est vrai… Mais si les aventuriers de tout à l'heure\navaient déjà emporté ce qu'il y avait à l'intérieur ?"}
 {"id":1659291,"jp":"ん？大きな宝箱？","fr":"Hm ? Un gros coffre au trésor ?"}
 {"id":1659292,"jp":"そう、これよこれ。","fr":"Oui, c'est ça, c'est bien ça."}
 {"id":1659293,"jp":"これで、門の仕掛けを解けるね！","fr":"Avec ça, on pourra résoudre l'énigme du portail !"}
+{"id":1659294,"jp":"おばあちゃんが話してくれた<ruby=きせつろ>鬼截路</ruby>みたい……","fr":"Ça ressemble au <ruby=Kisetsuro>chemin pourfendeur de démons</ruby> dont grand-mère m'avait parlé…"}
+{"id":1659295,"jp":"謎には解が用意されているもの。\nこの手の迷宮は通常、味方のために正しい道を示してあるの。","fr":"Toute énigme possède une solution.\nDans ce genre de labyrinthe, le bon chemin est généralement indiqué à l'intention des alliés."}
+{"id":1659296,"jp":"うう……もうダメだ。\nぐるぐるしてばっかりで、まったく手がかりがないのだ。","fr":"Ouh… J'abandonne.\nOn ne fait que tourner en rond, sans trouver le moindre indice !"}
+{"id":1659297,"jp":"まったく！私まで焦ってきちゃったよ！\nこうなったらもう、私に任せてみない？","fr":"Enfin ! Même moi, je commence à perdre patience !\nPuisqu'on en est là, pourquoi ne pas me laisser faire ?"}
+{"id":1659299,"jp":"ここの幽霊たちって、ずっとわたしたちを\nおどかそうとしてるだけみたい……だよね？","fr":"Les fantômes d'ici semblent simplement chercher\nà nous effrayer depuis le début… non ?"}
+{"id":1659300,"jp":"あの女の子とお話できたらいいな。\nもしかしたら、それで誤解が解けるかも！","fr":"J'aimerais pouvoir parler à cette jeune fille.\nCela permettrait peut-être de dissiper le malentendu !"}
+{"id":1659301,"jp":"機関術でその6つの部屋を繋げれば、堂々巡りの空間ができあがっている。","fr":"En reliant ces six pièces à l'aide de l'art des mécanismes, un espace formant une boucle sans fin a été créé."}
 {"id":1659302,"jp":"ここでは、なにをもって『生』とするのだろう？","fr":"Qu'est-ce qui définit la « vie » en ces lieux ?"}
+{"id":1659303,"jp":"もしかして、進化教団のヤツらが\nアタシたちよりさきに動いてたのか？","fr":"Est-ce que ces types du Culte de l'Évolution\nnous auraient devancés ?"}
+{"id":1659304,"jp":"でも、スーニヤの気配は感じない……\n進化教団じゃないのかも。","fr":"Mais je ne ressens aucune présence de Sunya…\nCe n'est peut-être pas le Culte de l'Évolution."}
+{"id":1659305,"jp":"助けを求めている方がいることには変わりありません。\n急ぎましょう！","fr":"Quoi qu'il en soit, quelqu'un appelle à l'aide.\nDépêchons-nous !"}
 {"id":1659306,"jp":"まずは声の主を助けてやらないと！\nはやく行こう！","fr":"Il faut d'abord secourir la personne qui appelle !\nAllons-y, vite !"}
 {"id":1659307,"jp":"話はあとで！\nまずは敵を倒そう。","fr":"On parlera plus tard !\nOccupons-nous d'abord des ennemis."}
+{"id":1659308,"jp":"一緒に戦ってくれるんだね！\nみんなのこと、絶対に守るから！","fr":"Vous allez combattre à mes côtés !\nJe protégerai tout le monde, c'est promis !"}
+{"id":1659309,"jp":"最近いろんな村民から、遠吠え平原でキャバードに追いかけられて、\nつつかれたとか聞いてさあ。","fr":"Dernièrement, plusieurs villageois m'ont raconté avoir été poursuivis\net picorés par des Cabbird dans les Plaines hurlantes."}
+{"id":1659310,"jp":"星臨者、最近フィルがいつもこそこそ鷹の連峰に出かけて、\n夜遅くにしか帰ってくるの。","fr":"Enfant des étoiles, ces derniers temps, Fil se rend constamment en cachette dans la chaîne montagneuse du Faucon,\net ne rentre que tard dans la nuit."}
+{"id":1659311,"jp":"今度は昨日出かけたきり、まったく連絡がなくて……\n悪いけれど、探すのを手伝ってもらえない？","fr":"Cette fois, Fil est parti hier et je n'ai reçu aucune nouvelle…\nPourrais-tu m'aider à le retrouver ?"}
 {"id":1659313,"jp":"チルルって、すごいね。","fr":"Tu es vraiment formidable, Chilul."}
+{"id":1659314,"jp":"だけど、この部屋は……\n展示のためだけにあるんじゃなさそう――","fr":"Mais cette pièce…\nne semble pas uniquement destinée à l'exposition…"}
+{"id":1659315,"jp":"完全に浄化されてる。\nさすがは星臨者なのだ！よーし――","fr":"Tout a été purifié.\nDigne de l'Enfant des étoiles ! Bon, alors…"}
 {"id":1659316,"jp":"おぉ――回りだしたぞ！","fr":"Oh ! Ça commence à tourner !"}
+{"id":1659317,"jp":"おぉ――この制御台、上にある石の輪を回せるみたいだな！","fr":"Oh ! Cette console de commande semble permettre de faire tourner l'anneau de pierre qui se trouve au-dessus !"}
+{"id":1659320,"jp":"せーりんしゃ、もうかくれた？\n……98、99、100！","fr":"Enfant des étoiles, t'es déjà dans ta cachette ?\n…98, 99, 100 !"}
+{"id":1659321,"jp":"（不純物の多い鉱石だったみたいだ）|（不純物の多い鉱石だったみたい）","fr":"(Il semblerait que ce minerai contienne beaucoup d'impuretés.)|(Il semblerait que ce minerai contienne beaucoup d'impuretés.)"}
+{"id":1659323,"jp":"それは……すくなくとも、僕は聞いたことがありません。","fr":"Eh bien… Pour ma part, je n'en ai jamais entendu parler."}
+{"id":1659324,"jp":"ナナチャを探しに行こうか。|ナナチャを探しに行こう。","fr":"Et si nous allions chercher Nanacha ?|Allons chercher Nanacha."}
+{"id":1659325,"jp":"いや、蘭香子のことを思い出してたんだ。|いや、蘭香子のことを思い出してたの。","fr":"Non, je repensais simplement à Lan Xiangzi.|Non, je repensais simplement à Lan Xiangzi."}
+{"id":1659327,"jp":"……なあ、鏡花州の厄除けの小物、つけるか？\n天江商会でいくつか仕入れたんだ。","fr":"… Dis, ça te dirait de porter un porte-bonheur du Cap Jinghua pour éloigner le mauvais sort ?\nJ'en ai acheté quelques-uns auprès de la Compagnie Tianjiang."}
+{"id":1659328,"jp":"いつもはわたくしのために開けてくださるのですが、\n来ないので閉めたのでしょうね。","fr":"D'habitude, on m'ouvre la porte,\nmais elle a sans doute été fermée en mon absence."}
+{"id":1659329,"jp":"どうしてそんなふうに僕を見てるの？|どうしてそんなふうに私を見てるの？","fr":"Pourquoi me regardes-tu comme ça ?|Pourquoi me regardes-tu comme ça ?"}
 {"id":1659330,"jp":"わ、わたし……がんばります！","fr":"J-je ferai de mon mieux !"}
+{"id":1659331,"jp":"き、緊張しますが、お教えください……\nどなたにお話を伺えばよいのでしょう……！","fr":"J-je suis un peu nerveuse, mais pourriez-vous me renseigner…\nÀ qui devrais-je m'adresser ?"}
+{"id":1659333,"jp":"挑戦する準備はできたか？\n言っておくが、俺はさっきの姉ちゃんよりずっと強いぞ。","fr":"Tout est prêt pour relever le défi ?\nJe te préviens, je suis bien plus fort que la fille de tout à l'heure."}
+{"id":1659334,"jp":"激しい戦いはキボの潜在能力を引き出す。\nじゃが、キボを強くする近道は、日々の鍛錬にある。","fr":"Les combats acharnés révèlent les capacités latentes des Kibo.\nMais le meilleur moyen de les rendre plus forts reste un entraînement quotidien."}
 {"id":1659335,"jp":"お主とキボが積み重ねてきたものを、見せてもらおう。","fr":"Montre-moi le fruit de tout ce que tes Kibo et toi avez accompli ensemble."}
+{"id":1659336,"jp":"灶娘のほうは小玉に任せるね。\n僕は軍営に戻るよ。|灶娘のほうは小玉に任せるね。\n私は軍営に戻るよ。","fr":"Xiaoyu, je te laisse t'occuper de Zao Niang.\nJe retourne au camp militaire.|Xiaoyu, je te laisse t'occuper de Zao Niang.\nJe retourne au camp militaire."}
 {"id":1659337,"jp":"おや、今日遅刻したやつじゃないか？\nすごかったな！","fr":"Tiens, mais c'est la personne qui est arrivée en retard aujourd'hui !\nC'était impressionnant !"}
+{"id":1659338,"jp":"（路地裏のほうに向かったみたいだ……）|（路地裏のほうに向かったみたいね……）","fr":"(On dirait que la personne s'est dirigée vers la ruelle…)|(On dirait que la personne s'est dirigée vers la ruelle…)"}
+{"id":1659340,"jp":"うーん……気になるところは特に無かったですね……\n僕の考えすぎだったんでしょうか……？","fr":"Mmm… Je n'ai rien remarqué de particulier…\nPeut-être que je me faisais simplement des idées ?"}
+{"id":1659341,"jp":"きっと、僕たちが思いつかないような方法で乱獲しているに違いありません……","fr":"Ils doivent certainement pratiquer la chasse excessive à l'aide d'une méthode à laquelle nous n'avons pas pensé…"}
 {"id":1659342,"jp":"まあ、俺を信じろって。","fr":"Allez, fais-moi confiance."}
 {"id":1659343,"jp":"『鉄輪の貴婦人』がいる限り、できるさ。","fr":"Tant que la Dame aux roues de fer sera là, on y arrivera."}
+{"id":1659344,"jp":"あのかわいい子たちと、触れ合ってみたい？\nいいですね～とても素敵です……","fr":"Vous aimeriez passer un moment avec ces adorables petites créatures ?\nQuelle bonne idée ! C'est vraiment merveilleux…"}
+{"id":1659345,"jp":"ふふーん……新しく作った機関にね、\nちょっとした『工夫』をしてみたの。","fr":"Héhé… J'ai apporté une petite « amélioration »\nau nouveau mécanisme que j'ai fabriqué."}
+{"id":1659346,"jp":"いまや空を飛べるだけじゃなく、宙でくるんと回って\n色とりどりの煙を出すこともできるんだから。","fr":"Non seulement il peut maintenant voler, mais il peut aussi tournoyer dans les airs\net libérer de la fumée multicolore !"}
+{"id":1659347,"jp":"探検のとき、合図に使えばぜーったいに役立つはずだよ！","fr":"Je suis certaine que ce sera super utile pour envoyer des signaux pendant nos expéditions !"}
 {"id":1659348,"jp":"また爆発して自分が黒焦げになったりして？","fr":"Et si ça explosait encore et te laissait complètement carbonisée ?"}
 {"id":1659349,"jp":"そのインスピレーションはどこから来たの？","fr":"D'où t'est venue cette inspiration ?"}
 {"id":1659350,"jp":"ちょっとちょっと～「また」ってどういう意味？","fr":"Attends, attends ! Comment ça, « encore » ?"}
+{"id":1659351,"jp":"まあ……一度くらいはあったかもしれないけど、\n安全対策はもうばっちりなんだから！","fr":"Bon… C'est peut-être arrivé une fois,\nmais maintenant, toutes mes mesures de sécurité sont irréprochables !"}
 {"id":1659352,"jp":"でもさ、冒険心はやっぱり必要だよね！","fr":"Mais bon, il faut quand même avoir l'esprit d'aventure, non ?"}
+{"id":1659353,"jp":"このまえ、すごく綺麗な花火を見たでしょ？\nそれで、あの瞬くまに消える美しさを残せたらって思ったの。","fr":"On a vu de magnifiques feux d'artifice l'autre jour, tu te souviens ?\nJe me suis demandé si je pouvais préserver cette beauté qui disparaît en un clin d'œil."}
+{"id":1659354,"jp":"いまはまだ、すこし火花を散らすくらいしかできないけど……\nいつか絶対に完成させてみせるよ！","fr":"Pour l'instant, mon invention ne peut produire que quelques étincelles…\nMais un jour, je réussirai à la perfectionner !"}
+{"id":1659355,"jp":"はぁ、家じゃこんなふうに試行錯誤できないよ。\nいつもだれかが『邪魔』しに来るし……","fr":"Ah… À la maison, impossible de faire autant d'expériences.\nIl y a toujours quelqu'un qui vient me « déranger »…"}
+{"id":1659356,"jp":"やっぱりここのほうが自由でいいよね。好きなようにいじり回せるし。\nねえ、私の最高の『共犯者』さん？","fr":"C'est quand même mieux ici, on est bien plus libres. Je peux bricoler comme bon me semble.\nN'est-ce pas, mon plus fidèle « complice » ?"}
 {"id":1659357,"jp":"『仲間』って言われるほうが好きだな。","fr":"Je préfère qu'on me considère comme un compagnon de route."}
 {"id":1659358,"jp":"ふふっ、どっちでも同じことだよ！","fr":"Héhé, ça revient au même !"}
+{"id":1659359,"jp":"君のおかげで、完璧な工房が手に入ったんだから、感謝しないとね。","fr":"C'est grâce à toi que j'ai obtenu l'atelier idéal. Je dois vraiment t'en remercier."}
+{"id":1659360,"jp":"ざっくり計算してみたんだけど、まだ中型の機関を12個と、\n小型の機関を34個作る必要があるんだ。","fr":"J'ai fait un rapide calcul, et il me reste encore 12 mécanismes de taille moyenne\net 34 petits mécanismes à fabriquer."}
+{"id":1659361,"jp":"君も時々見に来てよね？\nついでに機関の効果を調整するのも手伝ってよ！","fr":"Viens voir mes progrès de temps en temps, d'accord ?\nEt profites-en pour m'aider à ajuster les effets de mes mécanismes !"}
+{"id":1659362,"jp":"谷の北のほうにね？忘れられた祭壇があって、\nなかに古代文明の機関の欠片が隠されているかもしれないんだって！","fr":"Tu sais, au nord de la vallée, il y a un autel oublié.\nIl paraît que des fragments de mécanismes d'une ancienne civilisation pourraient y être cachés !"}
 {"id":1659363,"jp":"どう、一緒に掘り出しに行かない？","fr":"Alors, on va déterrer tout ça ensemble ?"}
 {"id":1659364,"jp":"それがつぎの探検の目的？","fr":"C'est l'objectif de notre prochaine exploration ?"}
+{"id":1659365,"jp":"そのとおり！ここでしばらく休んだおかげで、\n活力がみなぎっているの。そろそろ探検に出る時だよ！","fr":"Exactement ! Grâce au repos que j'ai pris ici,\nje déborde de vitalité. Il est grand temps de repartir à l'aventure !"}
+{"id":1659366,"jp":"埃をかぶった歴史、解き明かされるのを待っている謎……\n考えただけでいても立ってもいられなくなっちゃう！","fr":"Une histoire recouverte de poussière, des mystères qui n'attendent que d'être élucidés…\nRien que d'y penser, je ne tiens plus en place !"}
+{"id":1659367,"jp":"そのときは、厄介なガーディアンの機関を止めるのを手伝ってよね？","fr":"Une fois sur place, tu m'aideras à désactiver cet encombrant mécanisme gardien, d'accord ?"}
 {"id":1659368,"jp":"いつも通り、見つけたお宝は半分こだよ！","fr":"Comme toujours, on partagera les trésors équitablement !"}
+{"id":1659369,"jp":"ねえ、新しく作った『雲霄のブランコ』、試してみない？","fr":"Dis, ça te dirait d'essayer la nouvelle « Balançoire des nuages » que j'ai fabriquée ?"}
+{"id":1659370,"jp":"すこし仕掛けを追加したんだ。\n一番高いところまで行ったら、きっと君も驚くと思うよ！","fr":"J'y ai ajouté quelques mécanismes.\nUne fois au point le plus haut, je suis certaine que tu n'en croiras pas tes yeux !"}
 {"id":1659371,"jp":"とりあえず……悠悠が遊んでいるとこを見せてよ。","fr":"Pour commencer… Montre-moi comment tu t'amuses avec ça, Youyou."}
 {"id":1659372,"jp":"悠悠はいつも、生活をおもしろくしてくれるよね。","fr":"Avec toi, Youyou, la vie est toujours plus amusante."}
 {"id":1659373,"jp":"ふふーん、臆病なんだから～！","fr":"Héhé, quelle mauviette !"}
+{"id":1659374,"jp":"安心して！今回は絶対に火を噴いたり、フックを発射したりしないから。\n安全性はこの天才機関師のお墨付きだよ！","fr":"Rassure-toi ! Cette fois, elle ne crachera certainement pas de feu et ne lancera aucun grappin.\nSa sécurité est garantie par cette mécanicienne de génie !"}
 {"id":1659375,"jp":"だって、生活はおもしろいものであるべきでしょ！","fr":"Après tout, la vie est faite pour s'amuser, non ?"}
+{"id":1659376,"jp":"私はね、あんなふうに大きな屋敷のなかに閉じこもって、\n退屈な礼儀作法を学ぶなんてごめんなの……","fr":"Très peu pour moi, rester enfermée dans un immense manoir comme celui-là,\nà apprendre d'ennuyeuses règles de savoir-vivre…"}
 {"id":1659378,"jp":"どういうことだ？この本、難しいぞ……","fr":"Qu'est-ce que ça veut dire ? Ce livre est vraiment compliqué…"}
 {"id":1659379,"jp":"なにを読んでいるの？","fr":"C'est quoi, cette lecture ?"}
+{"id":1659380,"jp":"な、なんでもない！それはそうと……\nもしよくわからない本に出会ったら、おまえならどうする？","fr":"R-rien du tout ! Mais dis-moi…\nQue ferais-tu si tu tombais sur un livre que tu n'arrivais pas à comprendre ?"}
 {"id":1659381,"jp":"わからないなら読まないよ。","fr":"Si je ne comprenais pas, je ne le lirais pas."}
 {"id":1659382,"jp":"だれかに助けを求めるかな。","fr":"Je demanderais probablement de l'aide à quelqu'un."}
 {"id":1659383,"jp":"むむっ、なんか余裕があっておとなっぽいな！","fr":"Hmm ! Quelle assurance, on dirait une vraie grande personne !"}
+{"id":1659384,"jp":"うむ！このマスターも、もうこの本と張り合うのはやめにするぞ。","fr":"Très bien ! Ce grand maître va lui aussi cesser de se battre contre ce livre."}
+{"id":1659385,"jp":"それじゃ、このマスターがすごく弱く見えないか？\nでも……たしかに一理あるな。","fr":"Mais ce grand maître ne passerait-il pas pour quelqu'un de faible ?\nCela dit… ce n'est pas faux."}
+{"id":1659386,"jp":"もうすこし研究してみて、それでもわからなかったら\nおまえに聞いてみることにするぞっ。","fr":"Je vais encore étudier un peu ce livre, et si je ne comprends toujours pas,\nje viendrai te demander de l'aide !"}
+{"id":1659387,"jp":"今日の晩ごはんはなににしようかな……\nなにかおすすめはあるか？","fr":"Qu'est-ce que je pourrais bien manger ce soir…\nUne suggestion ?"}
 {"id":1659388,"jp":"いつもみたいに、吉逸楼に食べに行こう。","fr":"Allons manger à la maison Jiyi, comme d'habitude."}
 {"id":1659389,"jp":"たまには会仙閣へ行って気分を変えよう。","fr":"Pour changer un peu, allons au pavillon Huixian."}
 {"id":1659391,"jp":"ふふん……なにを食べるかはもう決めてあるぞ。","fr":"Héhé… J'ai déjà décidé ce que j'allais manger."}
