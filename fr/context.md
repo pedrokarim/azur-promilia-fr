@@ -71,6 +71,7 @@ Relevés dans les dialogues déjà traduits. Un traducteur les applique tels que
 - Ning Lang : tic « aru » en fin de phrase (アル) ; tutoie le joueur, vouvoie Jiang Li et Leon.
 - Vouvoient aussi : Jiang Li, Polly, Francisco, Lulu, le marchand de Pat. Tutoient aussi : Rosa, Larin, Kirk, Wright, Kiri, Fajeto, Barrett, Penny, Ral, Ronald.
 - L'aide de la ferme (オイラ) appelle le joueur « Chef » (ボス).
+- Faridah est une femme (la plus jeune Seigneur Faucon de l'histoire) : accords au féminin.
 
 ## Règles d'écriture
 
