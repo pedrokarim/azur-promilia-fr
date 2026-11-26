@@ -10,20 +10,21 @@ Le ton général est doux et lumineux, proche d'un conte : on soigne, on cultiv
 
 ## Le monde
 
-- Promilia est le continent où tout se passe. Plusieurs peuples y vivent : Elfes (dont les Elfes des bois), Ailés (翼人, qui ont des ailes), Peuple-bête (獣人, dont le clan des Loups), Pammy, dragons.
+- Promilia est le continent où tout se passe. Plusieurs peuples y vivent : Elfes (dont les Elfes des bois), Furriens (獣人, « Furrian » en anglais officiel), dont les Ailés (翼人) sont une branche, Draconiens (竜人, « Dragonborn »), Pammy. Les clans de Furriens portent des noms d'animaux : clan des Loups, et Terara hurle comme un loup.
 - Le Karma (カルマ) est la force de vie qui traverse le monde. Les plantes qui en absorbent trop deviennent rares et lumineuses ; les adeptes du Culte font apparaître des cercles de Karma autour de leurs poignets.
 - La Sunya (スーニヤ) est la force du néant, opposée au Karma. L'Érosion de Sunya ronge les êtres vivants et les blessures.
 - Les Kibo (キボ) sont les créatures natives de Promilia. Ils transportent les marchandises entre les villages, vivent dans les forêts, deviennent des compagnons. Le Lien stellaire (スターリンク) permet de s'attacher un Kibo.
 - Les Bêtes maudites (凶獣, « Fiend » en anglais) sont des monstres hostiles. Un tournoi de chasse aux Bêtes maudites a lieu à Fleece.
-- Le Culte de l'Évolution (進化教団) est l'adversaire : il capture des Kibo et se sert de Bêtes maudites. Ses fidèles portent des masques d'animaux. Les Ailés et le Peuple-bête s'allient contre lui.
+- Le Culte de l'Évolution (進化教団) est l'adversaire : il capture des Kibo et se sert de Bêtes maudites. Ses fidèles portent des masques d'animaux. Les Ailés et les autres Furriens s'allient contre lui.
 - Yggdrasil est l'arbre sacré. Les Elfes le prient (« Mère Yggdrasil »), ses jeunes pousses grandissent au Jardin d'Evergreen, que garde la jardinière Metsa.
+- Les Esprits anciens (御霊さま, « Elder Spirits » en anglais officiel) veillent sur le village de Charlulu ; les Furriens les prient et invoquent leur protection.
 - Les lieux du début : la Vallée des Bourgeons (芽吹の谷), le Village de Charlulu, puis la ville de Fleece, où un seigneur tient son manoir. L'Empire de Rosia est un pays plus lointain.
 - La monnaie s'appelle Uni (ユニ). Le tirage se dit Observation (観測).
 - Neuf éléments : Feu, Eau, Vent, Foudre, Terre, Bois, Glace, Lumière, Ténèbres.
 
 ## Le personnage du joueur
 
-Le joueur est 星臨者 (« Starborn » en anglais), un être venu des étoiles, attendu par une prophétie. Le jeu ne fixe pas son genre : l'anglais emploie « they ». En français, il faut des tournures épicènes. Aucun mot qui le concerne ne s'accorde en genre : au lieu de « merci d'être venu », on écrit « merci de ta venue », et on évite le point médian. La variable `{playerName}` donne son nom ; elle reste telle quelle.
+Le joueur est 星臨者 (« Starborn » en anglais officiel), un être venu des étoiles, attendu par une prophétie. On le joue en version masculine ou féminine, mais le texte japonais est le même pour les deux, et le patcher ne remplace qu'un texte par un autre : une seule traduction doit convenir aux deux. En français, on traduit donc par « Enfant des étoiles » (épicène) et rien de ce qui le désigne ne s'accorde en genre : on écrit « merci de ta venue » et non « merci d'être venu », sans point médian. La variable `{playerName}` donne son nom ; elle reste telle quelle.
 
 Les personnages l'appellent de différentes façons, et le français doit garder la nuance :
 - 星臨者さま : respectueux (Symphoria) ;
@@ -39,8 +40,11 @@ Seuls les traits relevés dans le texte du jeu sont notés ici. Un personnage ga
 - Peipei : une Pammy, traitée comme une enfant par les autres. Elle parle d'elle à la troisième personne (« Peipei est contente »).
 - Chiyo : finit ses phrases par un tic félin (にゃ). On garde « nya ».
 - Anais : infirmière au sanatorium Carnon, très formelle au point de s'en excuser.
-- Mitty : une Ailée qui a peur de voler ; ses ailes trahissent ce qu'elle ressent.
-- Luruka, Terara, Abby (qui a aussi une forme de dragon), Metsa, Shal, Maple (réceptionniste de la Guilde des aventuriers), Tushan Xiaoyu : voir le glossaire.
+- Mitty : une Ailée qui a peur de voler ; ses ailes trahissent ce qu'elle ressent. Elle vit mal d'apprendre que les Ailés sont, au fond, des Furriens.
+- Luruka : Furrienne douce, guérisseuse autodidacte du village de Charlulu, dont les remèdes ont un goût terrible.
+- Terara : Furrienne du clan des Loups, la meilleure chasseuse de Charlulu, qui ne s'impressionne de rien.
+- Abby : jeune Draconienne qui peut passer de la forme humaine à la forme de dragon ; elle parle d'elle à la troisième personne et veut être « une gentille fille ».
+- Metsa, Shalle, Maple (réceptionniste de la Guilde des aventuriers), Tushan Xiaoyu : voir le glossaire.
 
 ## Le registre : tu ou vous
 
@@ -57,11 +61,17 @@ Une fois choisi pour un personnage, le registre ne change plus, sauf si l'histoi
 - Les variables (`{0}`, `{playerName}`, `%s`) et les balises (`<color=…>`, `<b>`, `<actionkey>`…) restent identiques et à la même place logique dans la phrase. L'outil refuse la ligne sinon.
 - Les menus sont étroits : le français est en général plus long que l'anglais. Pour les statistiques, les abréviations habituelles des jeux en français : ATQ, DÉF, PV, Taux CRIT, DGT CRIT.
 - Les répliques gardent les hésitations et onomatopées du japonais sous une forme française naturelle (うっ, rendu « Ugh » en anglais, devient « Aïe » ou « Argh » selon le contexte).
-- Les noms propres officiels restent ceux du glossaire. Un terme marqué `proposed` peut encore changer : l'employer quand même, pour pouvoir tout remplacer d'un coup s'il change.
+- Les noms propres restent ceux du glossaire. Quand l'anglais officiel (site, X @AzurPromilia_EN) et l'anglais des fans diffèrent, l'officiel l'emporte : il est noté dans la colonne `en` du glossaire.
 - La typographie française (« », espaces insécables, apostrophe ’) dépend du test de la police du jeu, pas encore fait. D'ici là : guillemets « » sans espace insécable, apostrophe droite '.
 
-## Décisions à prendre
+## Décisions prises
 
-- Le nom du joueur (星臨者) : « Enfant des étoiles » est proposé, à valider.
-- Shal ou Shalle, Ailés, Peuple-bête, Bêtes maudites : propositions à valider.
-- La typographie, après le test des accents en jeu.
+Arrêtées le 26/11/2026, faute de version française officielle, à partir de l'anglais officiel quand il existe.
+
+- Le joueur (星臨者) : « Enfant des étoiles », épicène.
+- Les peuples : Furriens (獣人), Ailés (翼人), Draconiens (竜人), d'après les noms officiels anglais Furrian et Dragonborn.
+- Shalle, et non Shal : c'est le nom officiel (Shalle Ensys).
+- Les monstres (凶獣) : Bêtes maudites.
+- Les Esprits anciens (御霊さま).
+
+Reste ouvert : le sens exact de 精鬼族, et la typographie, qui attend le test des accents en jeu.
