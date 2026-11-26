@@ -18774,22 +18774,334 @@
 {"id":1516867,"jp":"ウルのレベルを70にする","fr":"Monter Uru au niveau 70"}
 {"id":1516868,"jp":"ウルのレベルを80にする","fr":"Monter Uru au niveau 80"}
 {"id":1516869,"jp":"ウルのレベルを90にする","fr":"Monter Uru au niveau 90"}
+{"id":1516870,"jp":"ウルのレベルを100にする","fr":"Monter Uru au niveau 100"}
+{"id":1516871,"jp":"ウルの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Uru"}
+{"id":1516872,"jp":"ウルの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Uru"}
+{"id":1516873,"jp":"ウルの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Uru"}
+{"id":1516874,"jp":"ウルの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Uru"}
+{"id":1516875,"jp":"ウルの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Uru"}
+{"id":1516876,"jp":"ウルの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Uru"}
+{"id":1516877,"jp":"ブルルのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Bururu"}
+{"id":1516878,"jp":"ブルルのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Bururu"}
+{"id":1516879,"jp":"ブルルのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Bururu"}
+{"id":1516880,"jp":"ブルルのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Bururu"}
+{"id":1516881,"jp":"ブルルのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Bururu"}
+{"id":1516882,"jp":"ブルルのレベルを30にする","fr":"Monter Bururu au niveau 30"}
+{"id":1516883,"jp":"ブルルのレベルを50にする","fr":"Monter Bururu au niveau 50"}
+{"id":1516884,"jp":"ブルルのレベルを60にする","fr":"Monter Bururu au niveau 60"}
+{"id":1516885,"jp":"ブルルのレベルを70にする","fr":"Monter Bururu au niveau 70"}
+{"id":1516886,"jp":"ブルルのレベルを80にする","fr":"Monter Bururu au niveau 80"}
+{"id":1516887,"jp":"ブルルのレベルを90にする","fr":"Monter Bururu au niveau 90"}
+{"id":1516888,"jp":"ブルルのレベルを100にする","fr":"Monter Bururu au niveau 100"}
+{"id":1516889,"jp":"ブルルの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Bururu"}
+{"id":1516890,"jp":"ブルルの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Bururu"}
+{"id":1516891,"jp":"ブルルの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Bururu"}
+{"id":1516892,"jp":"ブルルの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Bururu"}
+{"id":1516893,"jp":"ブルルの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Bururu"}
+{"id":1516894,"jp":"ブルルの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Bururu"}
+{"id":1516895,"jp":"パモーラのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Pamora"}
+{"id":1516896,"jp":"パモーラのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Pamora"}
+{"id":1516897,"jp":"パモーラのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Pamora"}
+{"id":1516898,"jp":"パモーラのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Pamora"}
+{"id":1516899,"jp":"パモーラのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Pamora"}
+{"id":1516900,"jp":"パモーラのレベルを30にする","fr":"Monter Pamora au niveau 30"}
+{"id":1516901,"jp":"パモーラのレベルを50にする","fr":"Monter Pamora au niveau 50"}
+{"id":1516902,"jp":"パモーラのレベルを60にする","fr":"Monter Pamora au niveau 60"}
+{"id":1516903,"jp":"パモーラのレベルを70にする","fr":"Monter Pamora au niveau 70"}
+{"id":1516904,"jp":"パモーラのレベルを80にする","fr":"Monter Pamora au niveau 80"}
+{"id":1516905,"jp":"パモーラのレベルを90にする","fr":"Monter Pamora au niveau 90"}
+{"id":1516906,"jp":"パモーラのレベルを100にする","fr":"Monter Pamora au niveau 100"}
+{"id":1516907,"jp":"パモーラの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Pamora"}
+{"id":1516908,"jp":"パモーラの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Pamora"}
+{"id":1516909,"jp":"パモーラの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Pamora"}
+{"id":1516910,"jp":"パモーラの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Pamora"}
+{"id":1516911,"jp":"パモーラの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Pamora"}
+{"id":1516912,"jp":"パモーラの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Pamora"}
+{"id":1516913,"jp":"ロイレーのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Roiree"}
+{"id":1516914,"jp":"ロイレーのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Roiree"}
+{"id":1516915,"jp":"ロイレーのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Roiree"}
+{"id":1516916,"jp":"ロイレーのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Roiree"}
+{"id":1516917,"jp":"ロイレーのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Roiree"}
+{"id":1516918,"jp":"ロイレーのレベルを30にする","fr":"Monter Roiree au niveau 30"}
+{"id":1516919,"jp":"ロイレーのレベルを50にする","fr":"Monter Roiree au niveau 50"}
+{"id":1516920,"jp":"ロイレーのレベルを60にする","fr":"Monter Roiree au niveau 60"}
+{"id":1516921,"jp":"ロイレーのレベルを70にする","fr":"Monter Roiree au niveau 70"}
+{"id":1516922,"jp":"ロイレーのレベルを80にする","fr":"Monter Roiree au niveau 80"}
+{"id":1516923,"jp":"ロイレーのレベルを90にする","fr":"Monter Roiree au niveau 90"}
+{"id":1516924,"jp":"ロイレーのレベルを100にする","fr":"Monter Roiree au niveau 100"}
+{"id":1516925,"jp":"ロイレーの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Roiree"}
+{"id":1516926,"jp":"ロイレーの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Roiree"}
+{"id":1516927,"jp":"ロイレーの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Roiree"}
+{"id":1516928,"jp":"ロイレーの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Roiree"}
+{"id":1516929,"jp":"ロイレーの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Roiree"}
+{"id":1516930,"jp":"ロイレーの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Roiree"}
+{"id":1516931,"jp":"大狼ウルのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active du Grand Loup Uru"}
+{"id":1516932,"jp":"大狼ウルのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active du Grand Loup Uru"}
+{"id":1516933,"jp":"大狼ウルのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active du Grand Loup Uru"}
+{"id":1516934,"jp":"大狼ウルのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active du Grand Loup Uru"}
+{"id":1516935,"jp":"大狼ウルのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active du Grand Loup Uru"}
+{"id":1516936,"jp":"大狼ウルのレベルを30にする","fr":"Monter le Grand Loup Uru au niveau 30"}
+{"id":1516937,"jp":"大狼ウルのレベルを50にする","fr":"Monter le Grand Loup Uru au niveau 50"}
+{"id":1516938,"jp":"大狼ウルのレベルを60にする","fr":"Monter le Grand Loup Uru au niveau 60"}
+{"id":1516939,"jp":"大狼ウルのレベルを70にする","fr":"Monter le Grand Loup Uru au niveau 70"}
+{"id":1516940,"jp":"大狼ウルのレベルを80にする","fr":"Monter le Grand Loup Uru au niveau 80"}
+{"id":1516941,"jp":"大狼ウルのレベルを90にする","fr":"Monter le Grand Loup Uru au niveau 90"}
+{"id":1516942,"jp":"大狼ウルのレベルを100にする","fr":"Monter le Grand Loup Uru au niveau 100"}
+{"id":1516943,"jp":"大狼ウルの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec le Grand Loup Uru"}
+{"id":1516944,"jp":"大狼ウルの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec le Grand Loup Uru"}
+{"id":1516945,"jp":"大狼ウルの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec le Grand Loup Uru"}
+{"id":1516946,"jp":"大狼ウルの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec le Grand Loup Uru"}
+{"id":1516947,"jp":"大狼ウルの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec le Grand Loup Uru"}
+{"id":1516948,"jp":"大狼ウルの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec le Grand Loup Uru"}
+{"id":1516949,"jp":"アザレイのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active d'Azarei"}
+{"id":1516950,"jp":"アザレイのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active d'Azarei"}
+{"id":1516951,"jp":"アザレイのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active d'Azarei"}
+{"id":1516952,"jp":"アザレイのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active d'Azarei"}
+{"id":1516953,"jp":"アザレイのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active d'Azarei"}
+{"id":1516954,"jp":"アザレイのレベルを30にする","fr":"Monter Azarei au niveau 30"}
+{"id":1516955,"jp":"アザレイのレベルを50にする","fr":"Monter Azarei au niveau 50"}
+{"id":1516956,"jp":"アザレイのレベルを60にする","fr":"Monter Azarei au niveau 60"}
+{"id":1516957,"jp":"アザレイのレベルを70にする","fr":"Monter Azarei au niveau 70"}
+{"id":1516958,"jp":"アザレイのレベルを80にする","fr":"Monter Azarei au niveau 80"}
+{"id":1516959,"jp":"アザレイのレベルを90にする","fr":"Monter Azarei au niveau 90"}
+{"id":1516960,"jp":"アザレイのレベルを100にする","fr":"Monter Azarei au niveau 100"}
+{"id":1516961,"jp":"アザレイの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Azarei"}
+{"id":1516962,"jp":"アザレイの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Azarei"}
+{"id":1516963,"jp":"アザレイの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Azarei"}
+{"id":1516964,"jp":"アザレイの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Azarei"}
+{"id":1516965,"jp":"アザレイの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Azarei"}
+{"id":1516966,"jp":"アザレイの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Azarei"}
+{"id":1516967,"jp":"ハイディのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Heidi"}
+{"id":1516968,"jp":"ハイディのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Heidi"}
+{"id":1516969,"jp":"ハイディのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Heidi"}
+{"id":1516970,"jp":"ハイディのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Heidi"}
+{"id":1516971,"jp":"ハイディのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Heidi"}
+{"id":1516972,"jp":"ハイディのレベルを30にする","fr":"Monter Heidi au niveau 30"}
+{"id":1516973,"jp":"ハイディのレベルを50にする","fr":"Monter Heidi au niveau 50"}
+{"id":1516974,"jp":"ハイディのレベルを60にする","fr":"Monter Heidi au niveau 60"}
+{"id":1516975,"jp":"ハイディのレベルを70にする","fr":"Monter Heidi au niveau 70"}
+{"id":1516976,"jp":"ハイディのレベルを80にする","fr":"Monter Heidi au niveau 80"}
+{"id":1516977,"jp":"ハイディのレベルを90にする","fr":"Monter Heidi au niveau 90"}
+{"id":1516978,"jp":"ハイディのレベルを100にする","fr":"Monter Heidi au niveau 100"}
+{"id":1516979,"jp":"ハイディの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Heidi"}
+{"id":1516980,"jp":"ハイディの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Heidi"}
+{"id":1516981,"jp":"ハイディの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Heidi"}
+{"id":1516982,"jp":"ハイディの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Heidi"}
+{"id":1516983,"jp":"ハイディの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Heidi"}
+{"id":1516984,"jp":"ハイディの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Heidi"}
+{"id":1516985,"jp":"薄金鬼のアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de l'Oni d'or pâle"}
+{"id":1516986,"jp":"薄金鬼のアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de l'Oni d'or pâle"}
+{"id":1516987,"jp":"薄金鬼のアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de l'Oni d'or pâle"}
+{"id":1516988,"jp":"薄金鬼のアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de l'Oni d'or pâle"}
+{"id":1516989,"jp":"薄金鬼のアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de l'Oni d'or pâle"}
+{"id":1516990,"jp":"薄金鬼のレベルを30にする","fr":"Monter l'Oni d'or pâle au niveau 30"}
+{"id":1516991,"jp":"薄金鬼のレベルを50にする","fr":"Monter l'Oni d'or pâle au niveau 50"}
+{"id":1516992,"jp":"薄金鬼のレベルを60にする","fr":"Monter l'Oni d'or pâle au niveau 60"}
+{"id":1516993,"jp":"薄金鬼のレベルを70にする","fr":"Monter l'Oni d'or pâle au niveau 70"}
+{"id":1516994,"jp":"薄金鬼のレベルを80にする","fr":"Monter l'Oni d'or pâle au niveau 80"}
+{"id":1516995,"jp":"薄金鬼のレベルを90にする","fr":"Monter l'Oni d'or pâle au niveau 90"}
+{"id":1516996,"jp":"薄金鬼のレベルを100にする","fr":"Monter l'Oni d'or pâle au niveau 100"}
+{"id":1516997,"jp":"薄金鬼の絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec l'Oni d'or pâle"}
+{"id":1516998,"jp":"薄金鬼の絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec l'Oni d'or pâle"}
+{"id":1516999,"jp":"薄金鬼の絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec l'Oni d'or pâle"}
+{"id":1517000,"jp":"薄金鬼の絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec l'Oni d'or pâle"}
+{"id":1517001,"jp":"薄金鬼の絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec l'Oni d'or pâle"}
+{"id":1517002,"jp":"薄金鬼の絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec l'Oni d'or pâle"}
+{"id":1517003,"jp":"フラミーのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Flammy"}
+{"id":1517004,"jp":"フラミーのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Flammy"}
+{"id":1517005,"jp":"フラミーのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Flammy"}
+{"id":1517006,"jp":"フラミーのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Flammy"}
+{"id":1517007,"jp":"フラミーのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Flammy"}
+{"id":1517008,"jp":"フラミーのレベルを30にする","fr":"Monter Flammy au niveau 30"}
+{"id":1517009,"jp":"フラミーのレベルを50にする","fr":"Monter Flammy au niveau 50"}
+{"id":1517010,"jp":"フラミーのレベルを60にする","fr":"Monter Flammy au niveau 60"}
+{"id":1517011,"jp":"フラミーのレベルを70にする","fr":"Monter Flammy au niveau 70"}
+{"id":1517012,"jp":"フラミーのレベルを80にする","fr":"Monter Flammy au niveau 80"}
+{"id":1517013,"jp":"フラミーのレベルを90にする","fr":"Monter Flammy au niveau 90"}
+{"id":1517014,"jp":"フラミーのレベルを100にする","fr":"Monter Flammy au niveau 100"}
+{"id":1517015,"jp":"フラミーの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Flammy"}
+{"id":1517016,"jp":"フラミーの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Flammy"}
+{"id":1517017,"jp":"フラミーの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Flammy"}
+{"id":1517018,"jp":"フラミーの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Flammy"}
+{"id":1517019,"jp":"フラミーの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Flammy"}
+{"id":1517020,"jp":"フラミーの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Flammy"}
+{"id":1517021,"jp":"糖啾のアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Tangjiu"}
+{"id":1517022,"jp":"糖啾のアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Tangjiu"}
+{"id":1517023,"jp":"糖啾のアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Tangjiu"}
+{"id":1517024,"jp":"糖啾のアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Tangjiu"}
+{"id":1517025,"jp":"糖啾のアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Tangjiu"}
+{"id":1517026,"jp":"糖啾のレベルを30にする","fr":"Monter Tangjiu au niveau 30"}
+{"id":1517027,"jp":"糖啾のレベルを50にする","fr":"Monter Tangjiu au niveau 50"}
+{"id":1517028,"jp":"糖啾のレベルを60にする","fr":"Monter Tangjiu au niveau 60"}
+{"id":1517029,"jp":"糖啾のレベルを70にする","fr":"Monter Tangjiu au niveau 70"}
+{"id":1517030,"jp":"糖啾のレベルを80にする","fr":"Monter Tangjiu au niveau 80"}
+{"id":1517031,"jp":"糖啾のレベルを90にする","fr":"Monter Tangjiu au niveau 90"}
+{"id":1517032,"jp":"糖啾のレベルを100にする","fr":"Monter Tangjiu au niveau 100"}
+{"id":1517033,"jp":"糖啾の絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Tangjiu"}
+{"id":1517034,"jp":"糖啾の絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Tangjiu"}
+{"id":1517035,"jp":"糖啾の絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Tangjiu"}
+{"id":1517036,"jp":"糖啾の絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Tangjiu"}
+{"id":1517037,"jp":"糖啾の絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Tangjiu"}
+{"id":1517038,"jp":"糖啾の絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Tangjiu"}
+{"id":1517039,"jp":"大白大黒のアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Dabai Dahei"}
+{"id":1517040,"jp":"大白大黒のアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Dabai Dahei"}
+{"id":1517041,"jp":"大白大黒のアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Dabai Dahei"}
+{"id":1517042,"jp":"大白大黒のアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Dabai Dahei"}
+{"id":1517043,"jp":"大白大黒のアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Dabai Dahei"}
+{"id":1517044,"jp":"大白大黒のレベルを30にする","fr":"Monter Dabai Dahei au niveau 30"}
+{"id":1517045,"jp":"大白大黒のレベルを50にする","fr":"Monter Dabai Dahei au niveau 50"}
+{"id":1517046,"jp":"大白大黒のレベルを60にする","fr":"Monter Dabai Dahei au niveau 60"}
+{"id":1517047,"jp":"大白大黒のレベルを70にする","fr":"Monter Dabai Dahei au niveau 70"}
+{"id":1517048,"jp":"大白大黒のレベルを80にする","fr":"Monter Dabai Dahei au niveau 80"}
+{"id":1517049,"jp":"大白大黒のレベルを90にする","fr":"Monter Dabai Dahei au niveau 90"}
+{"id":1517050,"jp":"大白大黒のレベルを100にする","fr":"Monter Dabai Dahei au niveau 100"}
+{"id":1517051,"jp":"大白大黒の絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Dabai Dahei"}
+{"id":1517052,"jp":"大白大黒の絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Dabai Dahei"}
+{"id":1517053,"jp":"大白大黒の絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Dabai Dahei"}
+{"id":1517054,"jp":"大白大黒の絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Dabai Dahei"}
+{"id":1517055,"jp":"大白大黒の絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Dabai Dahei"}
+{"id":1517056,"jp":"大白大黒の絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Dabai Dahei"}
+{"id":1517057,"jp":"レイドスのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Reidosu"}
+{"id":1517058,"jp":"レイドスのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Reidosu"}
+{"id":1517059,"jp":"レイドスのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Reidosu"}
+{"id":1517060,"jp":"レイドスのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Reidosu"}
+{"id":1517061,"jp":"レイドスのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Reidosu"}
+{"id":1517062,"jp":"レイドスのレベルを30にする","fr":"Monter Reidosu au niveau 30"}
+{"id":1517063,"jp":"レイドスのレベルを50にする","fr":"Monter Reidosu au niveau 50"}
+{"id":1517064,"jp":"レイドスのレベルを60にする","fr":"Monter Reidosu au niveau 60"}
+{"id":1517065,"jp":"レイドスのレベルを70にする","fr":"Monter Reidosu au niveau 70"}
+{"id":1517066,"jp":"レイドスのレベルを80にする","fr":"Monter Reidosu au niveau 80"}
+{"id":1517067,"jp":"レイドスのレベルを90にする","fr":"Monter Reidosu au niveau 90"}
+{"id":1517068,"jp":"レイドスのレベルを100にする","fr":"Monter Reidosu au niveau 100"}
+{"id":1517069,"jp":"レイドスの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Reidosu"}
+{"id":1517070,"jp":"レイドスの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Reidosu"}
+{"id":1517071,"jp":"レイドスの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Reidosu"}
+{"id":1517072,"jp":"レイドスの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Reidosu"}
+{"id":1517073,"jp":"レイドスの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Reidosu"}
+{"id":1517074,"jp":"レイドスの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Reidosu"}
 {"id":1517075,"jp":"カエアのアクティブスキルを3回発動する","fr":"Utiliser 3 fois la compétence active de Kaea"}
+{"id":1517076,"jp":"カエアのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Kaea"}
+{"id":1517077,"jp":"カエアのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Kaea"}
+{"id":1517078,"jp":"カエアのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Kaea"}
+{"id":1517079,"jp":"カエアのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Kaea"}
+{"id":1517080,"jp":"カエアのレベルを30にする","fr":"Monter Kaea au niveau 30"}
+{"id":1517081,"jp":"カエアのレベルを50にする","fr":"Monter Kaea au niveau 50"}
+{"id":1517082,"jp":"カエアのレベルを60にする","fr":"Monter Kaea au niveau 60"}
+{"id":1517083,"jp":"カエアのレベルを70にする","fr":"Monter Kaea au niveau 70"}
+{"id":1517084,"jp":"カエアのレベルを80にする","fr":"Monter Kaea au niveau 80"}
+{"id":1517085,"jp":"カエアのレベルを90にする","fr":"Monter Kaea au niveau 90"}
+{"id":1517086,"jp":"カエアのレベルを100にする","fr":"Monter Kaea au niveau 100"}
+{"id":1517087,"jp":"カエアの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Kaea"}
+{"id":1517088,"jp":"カエアの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Kaea"}
+{"id":1517089,"jp":"カエアの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Kaea"}
+{"id":1517090,"jp":"カエアの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Kaea"}
+{"id":1517091,"jp":"カエアの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Kaea"}
+{"id":1517092,"jp":"カエアの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Kaea"}
 {"id":1517093,"jp":"滅びゆく光のスターミィのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Starmy à la lumière déclinante"}
 {"id":1517094,"jp":"滅びゆく光のスターミィのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Starmy à la lumière déclinante"}
 {"id":1517095,"jp":"滅びゆく光のスターミィのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Starmy à la lumière déclinante"}
 {"id":1517096,"jp":"滅びゆく光のスターミィのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Starmy à la lumière déclinante"}
 {"id":1517097,"jp":"滅びゆく光のスターミィのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Starmy à la lumière déclinante"}
+{"id":1517098,"jp":"滅びゆく光のスターミィのレベルを30にする","fr":"Monter Starmy à la lumière déclinante au niveau 30"}
+{"id":1517099,"jp":"滅びゆく光のスターミィのレベルを50にする","fr":"Monter Starmy à la lumière déclinante au niveau 50"}
+{"id":1517100,"jp":"滅びゆく光のスターミィのレベルを60にする","fr":"Monter Starmy à la lumière déclinante au niveau 60"}
+{"id":1517101,"jp":"滅びゆく光のスターミィのレベルを70にする","fr":"Monter Starmy à la lumière déclinante au niveau 70"}
+{"id":1517102,"jp":"滅びゆく光のスターミィのレベルを80にする","fr":"Monter Starmy à la lumière déclinante au niveau 80"}
+{"id":1517103,"jp":"滅びゆく光のスターミィのレベルを90にする","fr":"Monter Starmy à la lumière déclinante au niveau 90"}
+{"id":1517104,"jp":"滅びゆく光のスターミィのレベルを100にする","fr":"Monter Starmy à la lumière déclinante au niveau 100"}
+{"id":1517105,"jp":"滅びゆく光のスターミィの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Starmy à la lumière déclinante"}
+{"id":1517106,"jp":"滅びゆく光のスターミィの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Starmy à la lumière déclinante"}
+{"id":1517107,"jp":"滅びゆく光のスターミィの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Starmy à la lumière déclinante"}
+{"id":1517108,"jp":"滅びゆく光のスターミィの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Starmy à la lumière déclinante"}
+{"id":1517109,"jp":"滅びゆく光のスターミィの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Starmy à la lumière déclinante"}
+{"id":1517110,"jp":"滅びゆく光のスターミィの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Starmy à la lumière déclinante"}
+{"id":1517111,"jp":"キクギのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Kikugi"}
+{"id":1517112,"jp":"キクギのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Kikugi"}
+{"id":1517113,"jp":"キクギのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Kikugi"}
+{"id":1517114,"jp":"キクギのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Kikugi"}
+{"id":1517115,"jp":"キクギのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Kikugi"}
+{"id":1517116,"jp":"キクギのレベルを30にする","fr":"Monter Kikugi au niveau 30"}
+{"id":1517117,"jp":"キクギのレベルを50にする","fr":"Monter Kikugi au niveau 50"}
+{"id":1517118,"jp":"キクギのレベルを60にする","fr":"Monter Kikugi au niveau 60"}
+{"id":1517119,"jp":"キクギのレベルを70にする","fr":"Monter Kikugi au niveau 70"}
+{"id":1517120,"jp":"キクギのレベルを80にする","fr":"Monter Kikugi au niveau 80"}
+{"id":1517121,"jp":"キクギのレベルを90にする","fr":"Monter Kikugi au niveau 90"}
+{"id":1517122,"jp":"キクギのレベルを100にする","fr":"Monter Kikugi au niveau 100"}
+{"id":1517123,"jp":"キクギの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Kikugi"}
+{"id":1517124,"jp":"キクギの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Kikugi"}
+{"id":1517125,"jp":"キクギの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Kikugi"}
+{"id":1517126,"jp":"キクギの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Kikugi"}
+{"id":1517127,"jp":"キクギの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Kikugi"}
+{"id":1517128,"jp":"キクギの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Kikugi"}
+{"id":1517129,"jp":"ベルベットのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Velvet"}
+{"id":1517130,"jp":"ベルベットのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Velvet"}
+{"id":1517131,"jp":"ベルベットのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Velvet"}
+{"id":1517132,"jp":"ベルベットのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Velvet"}
+{"id":1517133,"jp":"ベルベットのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Velvet"}
+{"id":1517134,"jp":"ベルベットのレベルを30にする","fr":"Monter Velvet au niveau 30"}
+{"id":1517135,"jp":"ベルベットのレベルを50にする","fr":"Monter Velvet au niveau 50"}
+{"id":1517136,"jp":"ベルベットのレベルを60にする","fr":"Monter Velvet au niveau 60"}
+{"id":1517137,"jp":"ベルベットのレベルを70にする","fr":"Monter Velvet au niveau 70"}
+{"id":1517138,"jp":"ベルベットのレベルを80にする","fr":"Monter Velvet au niveau 80"}
+{"id":1517139,"jp":"ベルベットのレベルを90にする","fr":"Monter Velvet au niveau 90"}
+{"id":1517140,"jp":"ベルベットのレベルを100にする","fr":"Monter Velvet au niveau 100"}
+{"id":1517141,"jp":"ベルベットの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Velvet"}
+{"id":1517142,"jp":"ベルベットの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Velvet"}
+{"id":1517143,"jp":"ベルベットの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Velvet"}
+{"id":1517144,"jp":"ベルベットの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Velvet"}
+{"id":1517145,"jp":"ベルベットの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Velvet"}
+{"id":1517146,"jp":"ベルベットの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Velvet"}
+{"id":1517147,"jp":"キャベッコの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Cabbeco"}
+{"id":1517148,"jp":"キャベッコの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Cabbeco"}
+{"id":1517149,"jp":"キャベッコの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Cabbeco"}
+{"id":1517150,"jp":"キャベッコの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Cabbeco"}
+{"id":1517151,"jp":"キャベッコの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Cabbeco"}
+{"id":1517152,"jp":"キャベッコの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Cabbeco"}
+{"id":1517153,"jp":"キャバードの絆レベルを2にする","fr":"Atteindre le niveau de Lien 2 avec Cabbird"}
+{"id":1517154,"jp":"キャバードの絆レベルを4にする","fr":"Atteindre le niveau de Lien 4 avec Cabbird"}
+{"id":1517155,"jp":"キャバードの絆レベルを6にする","fr":"Atteindre le niveau de Lien 6 avec Cabbird"}
+{"id":1517156,"jp":"キャバードの絆レベルを8にする","fr":"Atteindre le niveau de Lien 8 avec Cabbird"}
+{"id":1517157,"jp":"キャバードの絆レベルを9にする","fr":"Atteindre le niveau de Lien 9 avec Cabbird"}
+{"id":1517158,"jp":"キャバードの絆レベルを10にする","fr":"Atteindre le niveau de Lien 10 avec Cabbird"}
 {"id":1517159,"jp":"進化教団アーチャー","fr":"Archer du Culte de l'Évolution"}
+{"id":1517160,"jp":"スーニヤに侵蝕されたディーガルム","fr":"Deegarm corrompu par Sunya"}
 {"id":1517161,"jp":"書籍","fr":"Livres"}
 {"id":1517162,"jp":"マウント","fr":"Montures"}
 {"id":1517163,"jp":"敵対ユニット","fr":"Unités hostiles"}
 {"id":1517164,"jp":"物産","fr":"Produits locaux"}
+{"id":1517165,"jp":"「星海の贈りもの」ログインボーナス説明","fr":"Présentation du bonus de connexion « Présents de la mer d'étoiles »"}
+{"id":1517167,"jp":"「豪快な協定」イベント説明","fr":"Présentation de l'événement « Pacte audacieux »"}
+{"id":1517169,"jp":"「特殊確率UP」イベント説明","fr":"Présentation de l'événement « Hausse spéciale des probabilités »"}
+{"id":1517171,"jp":"「夕霞を追いかけて」イベント説明","fr":"Présentation de l'événement « À la poursuite de la brume du soir »"}
+{"id":1517173,"jp":"「星砂の刻印」の遊び方","fr":"Guide du « Sceau de sable stellaire »"}
+{"id":1517176,"jp":"「美しき秘宝」イベント説明","fr":"Présentation de l'événement « Un trésor magnifique »"}
+{"id":1517178,"jp":"「千糸で繋ぐ桃縁」イベント説明","fr":"Présentation de l'événement « Mille fils pour nouer les amours en fleur »"}
+{"id":1517180,"jp":"「キボ因子の実」システム説明","fr":"Guide du système « Fruit à facteur de Kibo »"}
+{"id":1517182,"jp":"「縁は桃の香とともに」イベント説明","fr":"Présentation de l'événement « Liens au parfum de pêche »"}
+{"id":1517184,"jp":"「花逢ひの縁契りて」イベント説明","fr":"Présentation de l'événement « Liens scellés sous les fleurs »"}
+{"id":1517186,"jp":"「初見の贈りもの」システム説明","fr":"Présentation du système « Cadeau de bienvenue »"}
+{"id":1517188,"jp":"「星灯り交換所」イベント説明","fr":"Présentation de l'événement « Comptoir Lumière des étoiles »"}
+{"id":1517190,"jp":"「原初の星灯り」イベント説明","fr":"Présentation de l'événement « Première lumière des étoiles »"}
+{"id":1517192,"jp":"「芽吹きの旅路」イベント説明","fr":"Présentation de l'événement « Le voyage des bourgeons »"}
+{"id":1517194,"jp":"「小さな侠客育成」イベント説明","fr":"Présentation de l'événement « Petit héros en formation »"}
+{"id":1517196,"jp":"「星旅の記録・旅立ち」イベント説明","fr":"Présentation de l'événement « Chronique du voyage stellaire : le départ »"}
+{"id":1517198,"jp":"「星影の予兆」イベント説明","fr":"Présentation de l'événement « Présage de l'ombre stellaire »"}
+{"id":1517200,"jp":"「天道の余塵」システム説明","fr":"Présentation du système « Poussière de la Voie céleste »"}
+{"id":1517202,"jp":"「伝書契約」システム説明","fr":"Présentation du système « Contrat de messagerie »"}
+{"id":1517204,"jp":"「プロミリア漫遊記」システム説明","fr":"Présentation du système « Carnet de voyage de Promilia »"}
+{"id":1517206,"jp":"「御霊の戦歌」イベント説明","fr":"Présentation de l'événement « Chant de guerre des Esprits anciens »"}
 {"id":1517208,"jp":"早期体験","fr":"Accès anticipé"}
+{"id":1517210,"jp":"「星降る旅行記」キャンペーン説明","fr":"Présentation de la campagne « Récit d'une pluie d'étoiles »"}
+{"id":1517213,"jp":"「旅立ちの特典ガイド」説明","fr":"Présentation du « Guide des bonus de départ »"}
 {"id":1517215,"jp":"「ショップ」説明","fr":"Infos « Boutique »"}
 {"id":1517216,"jp":"重複購入が発生した場合は、カスタマーサポートまでお問い合わせください。","fr":"En cas d'achat en double, veuillez contacter l'assistance clientèle."}
+{"id":1517217,"jp":"「浮遊する夢幻」イベント説明","fr":"Présentation de l'événement « Rêves flottants »"}
+{"id":1517219,"jp":"「危機討伐」ルール説明","fr":"Règles de la « Traque des menaces »"}
 {"id":1517222,"jp":"買いものの極意","fr":"L'art de bien acheter"}
+{"id":1517224,"jp":"「潜在能力訓練」機能説明","fr":"Présentation de la fonctionnalité « Entraînement du potentiel »"}
+{"id":1517226,"jp":"「キボファイトセンター」遊び方説明","fr":"Guide du centre de Duel de Kibo"}
 {"id":1517228,"jp":"「装備精錬」機能説明","fr":"Infos « Raffinage d'équipement »"}
+{"id":1517230,"jp":"「朝露の贈りもの」イベント説明","fr":"Présentation de l'événement « Présents de la rosée du matin »"}
 {"id":1517232,"jp":"星辿る旅路・序","fr":"Sur la route des étoiles : prologue"}
 {"id":1517233,"jp":"星辿る旅路・1","fr":"Sur la route des étoiles 1"}
 {"id":1517234,"jp":"星辿る旅路・2","fr":"Sur la route des étoiles 2"}
@@ -18801,14 +19113,19 @@
 {"id":1517240,"jp":"旅仲間の手記","fr":"Notes des compagnons de voyage"}
 {"id":1517241,"jp":"試練の道","fr":"La voie des épreuves"}
 {"id":1517242,"jp":"星識レベルを上げる","fr":"Augmenter le niveau de Savoir stellaire"}
+{"id":1517243,"jp":"キャラクターの能力を強化する","fr":"Renforcer les capacités des personnages"}
 {"id":1517244,"jp":"キボと星絆を結ぶ","fr":"Nouer un Lien stellaire avec un Kibo"}
 {"id":1517245,"jp":"農園を建設する","fr":"Construire la ferme"}
 {"id":1517246,"jp":"キボの能力を強化する","fr":"Renforcer les capacités des Kibo"}
+{"id":1517247,"jp":"メインクエスト／サブクエストをクリアする","fr":"Terminer des quêtes principales ou secondaires"}
 {"id":1517248,"jp":"メインクエストまたはサブクエストをクリアすると、星啓経験値を獲得できます","fr":"Terminer une quête principale ou une quête secondaire permet d'obtenir de l'EXP de Révélation stellaire"}
 {"id":1517249,"jp":"各キボの最初の5回のスターリンクでは、星啓経験値を獲得できます","fr":"Les 5 premiers Liens stellaires établis avec chaque Kibo rapportent de l'EXP de Révélation stellaire"}
+{"id":1517250,"jp":"「星旅の記録」クエストをクリアする","fr":"Terminer les quêtes de la « Chronique du voyage stellaire »"}
 {"id":1517251,"jp":"「星旅の記録」クエストをクリアすると、星啓経験値を獲得できます","fr":"Terminer les quêtes de la « Chronique du voyage stellaire » permet d'obtenir de l'EXP de Révélation stellaire"}
+{"id":1517252,"jp":"デイリークエストをクリアする","fr":"Terminer des quêtes quotidiennes"}
 {"id":1517253,"jp":"デイリークエストをクリアすると、星啓経験値を獲得できます","fr":"Terminer les quêtes quotidiennes permet d'obtenir de l'EXP de Révélation stellaire"}
 {"id":1517254,"jp":"原初の潮を消費する","fr":"Dépenser de la Marée originelle"}
+{"id":1517256,"jp":"キャラクターレベルアップ","fr":"Hausse de niveau de personnage"}
 {"id":1517257,"jp":"「キャラクター」-「詳細」-「レベルアップ」機能でキャラクターレベルを上げると、キャラクターのステータスを強化できます","fr":"Monter le niveau d'un personnage avec la fonction « Personnage » - « Détails » - « Monter de niveau » renforce ses statistiques"}
 {"id":1517258,"jp":"アニマレベルアップ","fr":"Montée de niveau d'Anima"}
 {"id":1517260,"jp":"星祝昇臨度をアップ","fr":"Augmenter l'ascension de Bénédiction stellaire"}
@@ -18824,8 +19141,10 @@
 {"id":1517274,"jp":"フィールド探索の過程で、ステラカードを使用してキボとスターリンクし、新しい仲間を獲得しよう","fr":"Au fil de l'exploration du terrain, utilisez des cartes Stella pour établir un Lien stellaire avec des Kibo et accueillir de nouveaux compagnons"}
 {"id":1517275,"jp":"キボを追跡","fr":"Pister un Kibo"}
 {"id":1517276,"jp":"「キボ図鑑」でキボの生息地を確認し、キボが出没する時間と場所を把握しましょう","fr":"Consultez l'habitat des Kibo dans l'« Encyclopédie des Kibo » pour savoir quand et où ils apparaissent"}
+{"id":1517277,"jp":"上級ステラカードを使用","fr":"Utiliser des cartes Stella avancées"}
 {"id":1517278,"jp":"農園に共鳴の石台を建設後、素材を消費してさまざまな品質のステラカードを製作し、キボとのスターリンク成功率をアップさせよう","fr":"Une fois le socle de résonance construit à la ferme, dépensez des matériaux pour fabriquer des cartes Stella de différentes qualités et augmenter vos chances de réussir le Lien stellaire avec les Kibo"}
 {"id":1517279,"jp":"輝くコインの獲得","fr":"Obtenir des pièces étincelantes"}
+{"id":1517280,"jp":"取引所にアイテムを納品して、輝くコインと交換しよう","fr":"Livrez des objets au Comptoir d'échange pour obtenir des pièces scintillantes !"}
 {"id":1517281,"jp":"輝くコインを使用","fr":"Utiliser des pièces étincelantes"}
 {"id":1517282,"jp":"「農園本部」-「キラキラ珍品」で、輝くコインを使用して必要な商品を購入しよう","fr":"Dans « QG de la ferme » - « Curiosités scintillantes », utilisez des pièces scintillantes pour acheter les articles dont vous avez besoin"}
 {"id":1517283,"jp":"採集施設","fr":"Installations de collecte"}
@@ -18843,28 +19162,52 @@
 {"id":1517300,"jp":"キボ因子を育成する","fr":"Développer les facteurs des Kibo"}
 {"id":1517302,"jp":"キボ進化","fr":"Évolution des Kibo"}
 {"id":1517303,"jp":"一部のキボは進化可能です。該当するキボが進化レベルに達した際、「キボ」画面で進化を行うと、キボの能力が大幅にアップします","fr":"Certains Kibo peuvent évoluer. Quand un Kibo concerné atteint son niveau d'évolution, le faire évoluer dans l'écran « Kibo » augmente nettement ses capacités"}
+{"id":1517304,"jp":"キボ源脈のレベルアップ","fr":"Hausse de niveau de la veine source des Kibo"}
 {"id":1517305,"jp":"「キボ」-「源脈」画面でキボの源脈レベルを上げると、キボの戦闘ステータスとスキルを強化できます","fr":"Monter le niveau de veine source d'un Kibo dans l'écran « Kibo » - « Veine source » renforce ses statistiques de combat et ses compétences"}
 {"id":1517306,"jp":"キボの潜在能力を強化","fr":"Renforcer le potentiel des Kibo"}
 {"id":1517308,"jp":"星辿る旅路","fr":"Sur la route des étoiles"}
+{"id":1517309,"jp":"さらに星識レベルを上げましょう。","fr":"Augmentez davantage votre niveau de Savoir stellaire."}
 {"id":1517310,"jp":"「星旅の記録」クエスト「星辿る旅路・序」をクリアする","fr":"Terminer la quête « Sur la route des étoiles : prologue » de la « Chronique du voyage stellaire »"}
+{"id":1517311,"jp":"星識レベルが{0}になると解放","fr":"Débloqué au niveau de Savoir stellaire {0}"}
+{"id":1517312,"jp":"旅路クエスト「{0}」をクリアで解放","fr":"Débloqué après avoir terminé la quête de voyage « {0} »"}
 {"id":1517313,"jp":"採鉱効率の向上・1","fr":"Meilleur rendement minier 1"}
 {"id":1517314,"jp":"農園の増築・溶鉱炉","fr":"Agrandir la ferme : haut fourneau"}
+{"id":1517315,"jp":"青銅のインゴットを精錬する","fr":"Raffiner des lingots de bronze"}
 {"id":1517316,"jp":"栽培と収穫・月光麻","fr":"Culture et récolte : chanvre lunaire"}
 {"id":1517317,"jp":"農園の増築・紡ぎ車","fr":"Agrandir la ferme : rouet"}
+{"id":1517318,"jp":"月光麻の布地を製作する","fr":"Fabriquer du tissu de chanvre lunaire"}
+{"id":1517319,"jp":"青銅のインゴットの精錬と月光麻の布地の製作","fr":"Raffinage de lingots de bronze et fabrication de tissu de chanvre lunaire"}
+{"id":1517320,"jp":"希少なステラカードを製作する","fr":"Fabriquer une carte Stella rare"}
 {"id":1517321,"jp":"農園の増築・工房","fr":"Agrandir la ferme : atelier"}
 {"id":1517322,"jp":"採鉱効率の向上・2","fr":"Meilleur rendement minier 2"}
 {"id":1517323,"jp":"農園の増築・精錬所","fr":"Agrandir la ferme : fonderie"}
+{"id":1517324,"jp":"栽培と収穫・クモノワタ","fr":"Culture et récolte - Coton nuageux"}
 {"id":1517325,"jp":"農園の増築・織物工房","fr":"Agrandir la ferme : atelier de tissage"}
+{"id":1517326,"jp":"クモノワタの布地を製作する","fr":"Fabriquer du tissu de coton nuageux"}
+{"id":1517327,"jp":"鏡鉄のインゴットを精錬する","fr":"Raffiner des lingots de fer miroir"}
 {"id":1517328,"jp":"農園の増築・寮","fr":"Agrandir la ferme : dortoir"}
 {"id":1517329,"jp":"寮に入居","fr":"S'installer au dortoir"}
 {"id":1517330,"jp":"農園の増築・元素炉","fr":"Agrandir la ferme : four élémentaire"}
 {"id":1517331,"jp":"元素の微粒子変換","fr":"Conversion en particules élémentaires"}
+{"id":1517332,"jp":"農園レベルが{0}に到達すると解放","fr":"Débloqué lorsque la ferme atteint le niveau {0}"}
 {"id":1517333,"jp":"畑の開墾・2","fr":"Défrichage des champs 2"}
 {"id":1517334,"jp":"畑の開墾・3","fr":"Défrichage des champs 3"}
 {"id":1517335,"jp":"キボの孵化・1","fr":"Éclosion de Kibo 1"}
 {"id":1517336,"jp":"キボの孵化・2","fr":"Éclosion de Kibo 2"}
 {"id":1517337,"jp":"牧場用のキボを派遣","fr":"Envoyer des Kibo aux pâturages"}
+{"id":1517338,"jp":"農園本部が解放されると利用可能になります","fr":"Disponible après le déblocage du quartier général de la ferme"}
+{"id":1517339,"jp":"農園の産出物を収穫する","fr":"Récolter les produits de la ferme"}
 {"id":1517340,"jp":"キボの鞍を製作する","fr":"Fabriquer une selle de Kibo"}
+{"id":1517341,"jp":"作業用のキボを派遣・2","fr":"Affectation de Kibo au travail II"}
+{"id":1517342,"jp":"作業用のキボを派遣・3","fr":"Affectation de Kibo au travail III"}
+{"id":1517343,"jp":"点火用のキボを派遣する","fr":"Affecter un Kibo à l'Allumage"}
+{"id":1517344,"jp":"伐採用のキボを派遣する","fr":"Affecter un Kibo au Bûcheronnage"}
+{"id":1517345,"jp":"元素用のキボを派遣する","fr":"Affecter un Kibo à la production élémentaire"}
+{"id":1517346,"jp":"畑仕事用のキボを派遣する","fr":"Affecter un Kibo aux Travaux des champs"}
+{"id":1517347,"jp":"水やり用のキボを派遣する","fr":"Affecter un Kibo à l'Arrosage"}
+{"id":1517348,"jp":"採鉱用のキボを派遣する","fr":"Affecter un Kibo au Minage"}
+{"id":1517349,"jp":"世話用のキボを派遣する","fr":"Affecter un Kibo aux soins"}
+{"id":1517350,"jp":"鍛造用のキボを派遣する","fr":"Affecter un Kibo à la Forge"}
 {"id":1517351,"jp":"手作業キボの派遣","fr":"Envoyer des Kibo artisans"}
 {"id":1517352,"jp":"沃土の開墾・1","fr":"Défrichage des terres fertiles 1"}
 {"id":1517353,"jp":"沃土の開墾・2","fr":"Défrichage des terres fertiles 2"}
@@ -18878,10 +19221,13 @@
 {"id":1517361,"jp":"星満の果樹の栽培・1","fr":"Culture d'arbres fruitiers étoilés 1"}
 {"id":1517362,"jp":"星満の果樹の栽培・2","fr":"Culture d'arbres fruitiers étoilés 2"}
 {"id":1517363,"jp":"友愛団子を製作する","fr":"Préparer des dango de l'amitié"}
+{"id":1517364,"jp":"幸運の蒸しパンを製作する","fr":"Préparer des petits pains vapeur porte-bonheur"}
 {"id":1517365,"jp":"御霊の雫を製作する","fr":"Fabriquer une goutte des Esprits anciens"}
 {"id":1517366,"jp":"御霊の雨を製作する","fr":"Fabriquer une pluie des Esprits anciens"}
 {"id":1517367,"jp":"農園の増築・餌やり場","fr":"Agrandir la ferme : aire de nourrissage"}
 {"id":1517368,"jp":"生産力アップ施設","fr":"Installations de productivité"}
+{"id":1517369,"jp":"芽吹の谷の生産強化・1","fr":"Amélioration de la production de la Vallée des Bourgeons I"}
+{"id":1517370,"jp":"芽吹の谷の生産強化・2","fr":"Amélioration de la production de la Vallée des Bourgeons II"}
 {"id":1517371,"jp":"フリスの生産強化・1","fr":"Production renforcée à Fleece 1"}
 {"id":1517372,"jp":"フリスの生産強化・2","fr":"Production renforcée à Fleece 2"}
 {"id":1517373,"jp":"装備製造・1","fr":"Fabrication d'équipement 1"}
@@ -18891,11 +19237,17 @@
 {"id":1517377,"jp":"農園の増築・武器工房","fr":"Agrandir la ferme : atelier d'armes"}
 {"id":1517378,"jp":"装備製造・3","fr":"Fabrication d'équipement 3"}
 {"id":1517379,"jp":"装備製造・4","fr":"Fabrication d'équipement 4"}
+{"id":1517380,"jp":"取引注文を完了する・3","fr":"Terminer des commandes commerciales III"}
+{"id":1517381,"jp":"取引注文を完了する・4","fr":"Terminer des commandes commerciales IV"}
+{"id":1517382,"jp":"取引注文を完了する・5","fr":"Terminer des commandes commerciales V"}
 {"id":1517383,"jp":"取引の収益・1","fr":"Bénéfices commerciaux 1"}
 {"id":1517384,"jp":"取引の収益・2","fr":"Bénéfices commerciaux 2"}
+{"id":1517385,"jp":"キラキラ珍品の解放後に利用可能","fr":"Disponible après le déblocage des Curiosités scintillantes"}
+{"id":1517386,"jp":"キボのタマゴを購入する","fr":"Acheter un œuf de Kibo"}
 {"id":1517387,"jp":"合理的な出費・1","fr":"Dépenses raisonnables 1"}
 {"id":1517388,"jp":"合理的な出費・2","fr":"Dépenses raisonnables 2"}
 {"id":1517389,"jp":"合理的な出費・3","fr":"Dépenses raisonnables 3"}
+{"id":1517390,"jp":"メインクエスト「{0}」をクリアすると解放","fr":"Débloqué après avoir terminé la quête principale « {0} »"}
 {"id":1517391,"jp":"迫り来る影","fr":"L'ombre qui approche"}
 {"id":1517392,"jp":"貝殻怪談","fr":"Le conte effrayant des coquillages"}
 {"id":1517393,"jp":"美食は言葉に勝る","fr":"Un bon repas vaut mieux que des mots"}
@@ -18906,11 +19258,20 @@
 {"id":1517398,"jp":"夢を捕らえる者","fr":"L'attrape-rêves"}
 {"id":1517399,"jp":"あなたに星の輝きを","fr":"Un éclat d'étoiles en cadeau"}
 {"id":1517400,"jp":"寄り添う絆・アビィ","fr":"Lien complice : Abby"}
+{"id":1517401,"jp":"宝を守る少女と泥棒ネズミ","fr":"La gardienne du trésor et la souris voleuse"}
 {"id":1517402,"jp":"寄り添う絆・塗山小玉","fr":"Lien complice : Tushan Xiaoyu"}
 {"id":1517403,"jp":"約束された願いの星","fr":"L'étoile des vœux promise"}
 {"id":1517404,"jp":"ヤルハドーム","fr":"Dôme de Yarha"}
 {"id":1517405,"jp":"洋館の怪影","fr":"L'ombre mystérieuse du manoir"}
 {"id":1517406,"jp":"狼の導き","fr":"Le loup pour guide"}
+{"id":1517407,"jp":"メインストーリー依頼・1","fr":"Mission principale I"}
+{"id":1517408,"jp":"メインストーリー依頼・2","fr":"Mission principale II"}
+{"id":1517409,"jp":"メインストーリー依頼・3","fr":"Mission principale III"}
+{"id":1517410,"jp":"メインストーリー依頼・4","fr":"Mission principale IV"}
+{"id":1517411,"jp":"メインストーリー依頼・5","fr":"Mission principale V"}
+{"id":1517412,"jp":"メインストーリー依頼・6","fr":"Mission principale VI"}
+{"id":1517413,"jp":"メインストーリー依頼・7","fr":"Mission principale VII"}
+{"id":1517414,"jp":"メインストーリー依頼・8","fr":"Mission principale VIII"}
 {"id":1517415,"jp":"ボス挑戦Ⅰ","fr":"Défi de boss Ⅰ"}
 {"id":1517416,"jp":"ボス挑戦Ⅱ","fr":"Défi de boss Ⅱ"}
 {"id":1517417,"jp":"ボス挑戦Ⅲ","fr":"Défi de boss Ⅲ"}
@@ -18920,12 +19281,15 @@
 {"id":1517421,"jp":"装備品の獲得・5","fr":"Obtention d'équipement 5"}
 {"id":1517422,"jp":"危機討伐・2","fr":"Traque des menaces 2"}
 {"id":1517423,"jp":"危機討伐・3","fr":"Traque des menaces 3"}
+{"id":1517424,"jp":"緊急討伐・マルチプレイ","fr":"Traque d'urgence - Multijoueur"}
 {"id":1517425,"jp":"危機討伐・2のクリア","fr":"Traque des menaces 2 réussie"}
 {"id":1517426,"jp":"危機討伐・3のクリア","fr":"Traque des menaces 3 réussie"}
 {"id":1517427,"jp":"危機討伐・4のクリア","fr":"Traque des menaces 4 réussie"}
 {"id":1517428,"jp":"称賛を惜しまない","fr":"Jamais avare de compliments"}
 {"id":1517429,"jp":"サボらない","fr":"Pas de flemme"}
 {"id":1517430,"jp":"仲間を見捨てない","fr":"Ne jamais abandonner ses alliés"}
+{"id":1517431,"jp":"創流の円環挑戦・入門編","fr":"Défi du Cercle de la genèse - Initiation"}
+{"id":1517432,"jp":"創流の円環挑戦・完全攻略","fr":"Défi du Cercle de la genèse - Réussite totale"}
 {"id":1517433,"jp":"悠久の円環挑戦・1","fr":"Défi du Cercle de l'éternité 1"}
 {"id":1517434,"jp":"悠久の円環挑戦・2","fr":"Défi du Cercle de l'éternité 2"}
 {"id":1517435,"jp":"潮汐の円環挑戦・1","fr":"Défi du Cercle des marées 1"}
@@ -18933,6 +19297,10 @@
 {"id":1517437,"jp":"潮汐の円環挑戦・3","fr":"Défi du Cercle des marées 3"}
 {"id":1517438,"jp":"キボファイト・初陣","fr":"Duel de Kibo : premier combat"}
 {"id":1517439,"jp":"芽吹の谷との出会い","fr":"Découverte de la Vallée des Bourgeons"}
+{"id":1517440,"jp":"ファイト 芽吹の谷・1","fr":"Duel - Vallée des Bourgeons I"}
+{"id":1517441,"jp":"ファイト 芽吹の谷・2","fr":"Duel - Vallée des Bourgeons II"}
+{"id":1517442,"jp":"ファイト 芽吹の谷・3","fr":"Duel - Vallée des Bourgeons III"}
+{"id":1517443,"jp":"ファイト 芽吹の谷・4","fr":"Duel - Vallée des Bourgeons IV"}
 {"id":1517444,"jp":"ファイト フリス・1","fr":"Duel à Fleece 1"}
 {"id":1517445,"jp":"ファイト フリス・2","fr":"Duel à Fleece 2"}
 {"id":1517446,"jp":"ファイト フリス・3","fr":"Duel à Fleece 3"}
@@ -18960,6 +19328,7 @@
 {"id":1517468,"jp":"想いを伝える・2","fr":"Dire ses sentiments 2"}
 {"id":1517469,"jp":"心を通わせる・1","fr":"Cœurs à l'unisson 1"}
 {"id":1517470,"jp":"心を通わせる・2","fr":"Cœurs à l'unisson 2"}
+{"id":1517471,"jp":"メインストーリー依頼「{0}」をクリア","fr":"Terminer la mission principale « {0} »"}
 {"id":1517472,"jp":"1-1 故郷を離れて","fr":"1-1 Quitter sa terre natale"}
 {"id":1517473,"jp":"星祝の階段・1","fr":"Marches de la Bénédiction stellaire 1"}
 {"id":1517474,"jp":"星祝の階段・2","fr":"Marches de la Bénédiction stellaire 2"}
@@ -19006,6 +19375,7 @@
 {"id":1517515,"jp":"絆を育む・5","fr":"Renforcer le Lien 5"}
 {"id":1517516,"jp":"キボを育てる・4","fr":"Élever des Kibo 4"}
 {"id":1517517,"jp":"絆を育む・6","fr":"Renforcer le Lien 6"}
+{"id":1517518,"jp":"メインストーリーを進めてください","fr":"Veuillez progresser dans l'histoire principale."}
 {"id":1517519,"jp":"キボを鍛える・1","fr":"Entraîner des Kibo 1"}
 {"id":1517520,"jp":"源脈を高める","fr":"Élever la veine source"}
 {"id":1517521,"jp":"キボを鍛える・2","fr":"Entraîner des Kibo 2"}
@@ -19021,12 +19391,29 @@
 {"id":1517531,"jp":"因子の実を与える・1","fr":"Donner un fruit à facteurs 1"}
 {"id":1517532,"jp":"キボの因子変異・1","fr":"Mutation de facteurs des Kibo 1"}
 {"id":1517533,"jp":"キボの因子変異・2","fr":"Mutation de facteurs des Kibo 2"}
+{"id":1517534,"jp":"因子の果実をあげる・2","fr":"Donner des fruits de facteurs II"}
 {"id":1517535,"jp":"因子の実をあげる・3","fr":"Donner un fruit à facteurs 3"}
 {"id":1517536,"jp":"因子が整ったキボ","fr":"Kibo aux facteurs équilibrés"}
+{"id":1517537,"jp":"上質な因子を持つキボ・1","fr":"Kibo aux facteurs de qualité I"}
+{"id":1517538,"jp":"上質な因子を持つキボ・2","fr":"Kibo aux facteurs de qualité II"}
+{"id":1517539,"jp":"ボス・フログレーミを倒す","fr":"Vaincre le boss Frogremi"}
 {"id":1517540,"jp":"ボス・グルルを倒す","fr":"Vaincre le boss Gururu"}
+{"id":1517541,"jp":"ボス・クリムゾルを倒す","fr":"Vaincre le boss Crimzol"}
+{"id":1517542,"jp":"ボス・グランザロスを倒す","fr":"Vaincre le boss Granzaros"}
+{"id":1517543,"jp":"ボス・フィーロックを倒す","fr":"Vaincre le boss Fyrock"}
 {"id":1517544,"jp":"ボス・シィグナを倒す","fr":"Vaincre le boss Cygna"}
+{"id":1517545,"jp":"ボス・ニィトールを倒す","fr":"Vaincre le boss Neetor"}
+{"id":1517546,"jp":"ボス・メーガルムを倒す","fr":"Vaincre le boss Maegalum"}
+{"id":1517547,"jp":"ボス・メイルジャークを倒す","fr":"Vaincre le boss Mailjark"}
+{"id":1517548,"jp":"ボス・ガルティガーを倒す","fr":"Vaincre le boss Galtiger"}
+{"id":1517549,"jp":"ボス・グルマンクを倒す","fr":"Vaincre le boss Gourmank"}
+{"id":1517550,"jp":"ボス・スピークルを倒す","fr":"Vaincre le boss Speakle"}
+{"id":1517551,"jp":"ギガンシャウラに勝利する","fr":"Vaincre Giganshaura"}
+{"id":1517552,"jp":"ナイトフォールに勝利する","fr":"Vaincre Vespervamp"}
 {"id":1517553,"jp":"ライカウモに勝利する","fr":"Battre Raikaumo"}
+{"id":1517554,"jp":"フレイムラーガに勝利する","fr":"Vaincre Flameraga"}
 {"id":1517555,"jp":"セレーシャに勝利する","fr":"Battre Celesha"}
+{"id":1517556,"jp":"アマルテイアに勝利する","fr":"Vaincre Amalthea"}
 {"id":1517557,"jp":"超えるべき壁・1","fr":"Un mur à franchir 1"}
 {"id":1517558,"jp":"超えるべき壁・2","fr":"Un mur à franchir 2"}
 {"id":1517559,"jp":"超えるべき壁・3","fr":"Un mur à franchir 3"}
@@ -19038,6 +19425,15 @@
 {"id":1517565,"jp":"開拓の道・1","fr":"La voie des pionniers 1"}
 {"id":1517566,"jp":"開拓の道・2","fr":"La voie des pionniers 2"}
 {"id":1517567,"jp":"開拓の道・3","fr":"La voie des pionniers 3"}
+{"id":1517568,"jp":"パーフェクト・ごろごろグラゴ","fr":"Réussite parfaite - Grago en roulade"}
+{"id":1517569,"jp":"パーフェクト・キャバードに変身","fr":"Réussite parfaite - Transformation en Cabbird"}
+{"id":1517570,"jp":"パーフェクト・巣に帰るドゥル","fr":"Réussite parfaite - Le retour de Dur au nid"}
+{"id":1517571,"jp":"パーフェクト・マウントの試練","fr":"Réussite parfaite - Épreuve de monture"}
+{"id":1517572,"jp":"パーフェクト・リィフの演奏","fr":"Réussite parfaite - Mélodie de Riif"}
+{"id":1517573,"jp":"パーフェクト・輝印の祭壇","fr":"Réussite parfaite - Autel du Sceau rayonnant"}
+{"id":1517574,"jp":"パーフェクト・ソザンカのはしご","fr":"Réussite parfaite - Échelle de Sozanka"}
+{"id":1517575,"jp":"パーフェクト・湧き出るアウラ","fr":"Réussite parfaite - Jaillissement des Aura"}
+{"id":1517576,"jp":"パーフェクト・キボの相棒","fr":"Réussite parfaite - Compagnon Kibo"}
 {"id":1517577,"jp":"キボについていく・1","fr":"Suivre le Kibo 1"}
 {"id":1517578,"jp":"キボについていく・2","fr":"Suivre le Kibo 2"}
 {"id":1517579,"jp":"キボについていく・3","fr":"Suivre le Kibo 3"}
@@ -19054,129 +19450,307 @@
 {"id":1517590,"jp":"星律の収集・芽吹の谷","fr":"Collecte de mélodies stellaires : Vallée des Bourgeons"}
 {"id":1517591,"jp":"星律の収集・フリス","fr":"Collecte de mélodies stellaires : Fleece"}
 {"id":1517592,"jp":"共に旅した一瞬","fr":"Un instant de voyage partagé"}
+{"id":1517593,"jp":"ステラカードを制作する","fr":"Fabriquer des cartes Stella"}
+{"id":1517594,"jp":"簡易クラフトでステラカードを5枚製作する","fr":"Fabriquer 5 cartes Stella via l'Artisanat simplifié"}
 {"id":1517596,"jp":"星絆の道のり・序","fr":"Chemin du Lien stellaire : prologue"}
+{"id":1517597,"jp":"キャラクター1体のレベルを20にする","fr":"Monter 1 personnage au niveau 20"}
 {"id":1517598,"jp":"星々と共に歩み、戦闘と星脈の鍛錬を経て、さらなる高みへ。","fr":"Cheminez avec les étoiles et, par le combat et l'entraînement de la veine stellaire, atteignez des sommets plus hauts encore."}
+{"id":1517599,"jp":"キボのレベルアップ・序","fr":"Hausse de niveau des Kibo - Prélude"}
+{"id":1517600,"jp":"レベル10のキボを1匹所持する","fr":"Posséder 1 Kibo de niveau 10"}
 {"id":1517601,"jp":"キボはそれぞれ個性や得意なことがある。根気強く育成して、キボたちのことをもっと知っていこう。","fr":"Chaque Kibo a sa personnalité et ses points forts. Formez-les avec patience pour apprendre à mieux les connaître."}
 {"id":1517602,"jp":"スターリンク・一","fr":"Lien stellaire I"}
+{"id":1517603,"jp":"キボ5匹とスターリンクする","fr":"Former un Lien stellaire avec 5 Kibo"}
+{"id":1517604,"jp":"キボの相棒は、多ければ多いほどいいんだから！","fr":"Plus on a de compagnons Kibo, mieux c'est !"}
 {"id":1517605,"jp":"アニマを装備","fr":"Équiper une Anima"}
+{"id":1517606,"jp":"任意のキャラクターにアニマを装備する","fr":"Équiper un Anima sur un personnage au choix"}
 {"id":1517607,"jp":"波長が合うアニマと共鳴させることで、内に秘められた力が引き出される。","fr":"En faisant résonner un Anima dont la longueur d'onde s'accorde, on libère la force qui sommeille en lui."}
 {"id":1517608,"jp":"マウントの試練・入門","fr":"Épreuve de monture : initiation"}
+{"id":1517609,"jp":"任意のマウントの試練を1回クリアする","fr":"Terminer 1 fois une épreuve de monture au choix"}
 {"id":1517610,"jp":"マウントの試練にかけては、誰にも負けない自信がある！","fr":"Personne ne me bat à l'épreuve de la monture, j'en ai la certitude !"}
 {"id":1517611,"jp":"星臨者の新生活","fr":"La nouvelle vie de l'Enfant des étoiles"}
 {"id":1517612,"jp":"「はじめての芽吹の谷」クエストの「農園を贈られる」パートをクリアする","fr":"Terminer la partie « Recevoir la ferme en cadeau » de la quête « Premier passage dans la Vallée des Bourgeons »"}
 {"id":1517614,"jp":"スターリンク・二","fr":"Lien stellaire II"}
 {"id":1517615,"jp":"星絆の道のり・一","fr":"Chemin du Lien stellaire I"}
+{"id":1517616,"jp":"キャラクター1体のレベルを30にする","fr":"Monter 1 personnage au niveau 30"}
 {"id":1517617,"jp":"輝かしい記憶・一","fr":"Souvenirs radieux I"}
+{"id":1517618,"jp":"アニマ1枚のレベルを30にする","fr":"Monter 1 Anima au niveau 30"}
 {"id":1517619,"jp":"記憶の弦の響きは、満ちあふれる星脈の力によって、ますます高まっていく。","fr":"L'écho de la corde des souvenirs s'amplifie de plus en plus sous la puissance de la veine stellaire qui déborde."}
 {"id":1517620,"jp":"キボを育てる・一","fr":"Élever des Kibo I"}
+{"id":1517621,"jp":"レベル20のキボを1匹所持する","fr":"Posséder 1 Kibo de niveau 20"}
 {"id":1517622,"jp":"風銅採鉱場を建設する","fr":"Construire une mine de cuivre du vent"}
+{"id":1517623,"jp":"農園に風銅採鉱場を建設して配置する","fr":"Construire et placer une mine de cuivre du vent dans la ferme"}
+{"id":1517625,"jp":"農園に作業台がありません","fr":"Votre ferme ne dispose pas d'établi."}
 {"id":1517626,"jp":"元素祭壇を建設する","fr":"Construire un autel élémentaire"}
+{"id":1517627,"jp":"農園で元素祭壇を建設し、配置する","fr":"Construire et placer un autel élémentaire dans la ferme"}
+{"id":1517629,"jp":"ボス・キャバードを倒す","fr":"Vaincre le boss Cabbird"}
+{"id":1517630,"jp":"芽吹の谷のボス・キャバードを倒す","fr":"Vaincre Cabbird, boss de la Vallée des Bourgeons"}
+{"id":1517631,"jp":"キャバード、わたしと勝負だ！","fr":"Cabbird, je te défie !"}
 {"id":1517632,"jp":"多種多様なキボの相棒","fr":"Des partenaires Kibo de toutes sortes"}
+{"id":1517633,"jp":"異なる20種類のキボとスターリンクする","fr":"Former un Lien stellaire avec 20 espèces différentes de Kibo"}
 {"id":1517634,"jp":"お気に入りのキボとスターリンクして仲間にし、広い世界を見せに行こう！","fr":"Nouez un Lien stellaire avec votre Kibo préféré, faites-en un compagnon et emmenez-le voir le vaste monde !"}
 {"id":1517635,"jp":"キボを育てる・二","fr":"Élever des Kibo II"}
+{"id":1517636,"jp":"レベル30のキボを1匹所持する","fr":"Posséder 1 Kibo de niveau 30"}
+{"id":1517637,"jp":"作業用のキボを派遣・一","fr":"Affectation de Kibo au travail I"}
+{"id":1517638,"jp":"農園本部に作業のキボを7匹派遣する","fr":"Affecter 7 Kibo au travail dans le quartier général de la ferme"}
+{"id":1517639,"jp":"キボが一体に穴がひとつ。7つの穴に、7匹のキボ。","fr":"Un trou pour chaque Kibo. Sept trous, sept Kibo."}
+{"id":1517640,"jp":"取引注文を完了する・一","fr":"Terminer des commandes commerciales I"}
+{"id":1517641,"jp":"クエスト「金持ちへの第一歩！」を完了する","fr":"Terminer la quête « Premier pas vers la richesse ! »"}
 {"id":1517642,"jp":"農園を盛り上げるには、注文の引き受けは欠かせないぞ！","fr":"Pour faire prospérer la ferme, il est indispensable d'accepter des commandes !"}
+{"id":1517643,"jp":"ボス・イエローアルビを倒す","fr":"Vaincre le boss Yellowalbi"}
+{"id":1517644,"jp":"芽吹の谷のボス・イエローアルビを倒す","fr":"Vaincre Yellowalbi, boss de la Vallée des Bourgeons"}
+{"id":1517645,"jp":"イエローアルビ、勝負だ！","fr":"Yellowalbi, je te défie !"}
+{"id":1517646,"jp":"ボス・ルミナスホタルを倒す","fr":"Vaincre le boss Luciole lumineuse"}
+{"id":1517647,"jp":"芽吹の谷のボス・ルミナスホタルを倒す","fr":"Vaincre la Luciole lumineuse, boss de la Vallée des Bourgeons"}
+{"id":1517648,"jp":"ルミナスホタル、勝負だ！","fr":"Luciole lumineuse, je te défie !"}
+{"id":1517649,"jp":"生産効率アップ施設・一","fr":"Installations d'amélioration de la production I"}
+{"id":1517650,"jp":"フィールドの採集設備を1か所修復する","fr":"Réparer 1 installation de collecte dans le monde"}
+{"id":1517651,"jp":"フィールドの採集設備を修復して、生産を効率アップ！","fr":"Réparez les installations de collecte pour augmenter l'efficacité de la production !"}
 {"id":1517652,"jp":"星祝の階段・一","fr":"Marches de la Bénédiction stellaire I"}
+{"id":1517653,"jp":"任意のキャラクターの星祝昇臨を1回する","fr":"Effectuer 1 Ascension de Bénédiction stellaire sur un personnage au choix"}
+{"id":1517654,"jp":"耳を澄ませて。魂に刻まれし、星の奏鳴に。","fr":"Tendez l'oreille à la mélodie des étoiles gravée dans votre âme."}
+{"id":1517655,"jp":"キボファイト・チュートリアル","fr":"Duel de Kibo - Tutoriel"}
+{"id":1517656,"jp":"クエスト「キボファイトをしよう！」をクリアする","fr":"Terminer la quête « Place au Duel de Kibo ! »"}
 {"id":1517657,"jp":"プロミリア各地のファイターたちと、ともにキボファイトの頂点を目指そう！","fr":"Visez le sommet du Duel de Kibo avec les duellistes de tout Promilia !"}
 {"id":1517658,"jp":"基本素材を集める","fr":"Récolter des matériaux de base"}
+{"id":1517659,"jp":"デイリー依頼-基本素材を1回完了する","fr":"Terminer 1 fois une mission quotidienne - Matériaux de base"}
 {"id":1517660,"jp":"強くなるための道に、一歩一歩の積み重ねは欠かせない。","fr":"Sur la voie qui mène à la force, accumuler les efforts pas à pas est indispensable."}
 {"id":1517661,"jp":"ボス挑戦をクリアする","fr":"Réussir un défi de boss"}
+{"id":1517662,"jp":"デイリー依頼-ボス挑戦を1回完了する","fr":"Terminer 1 fois une mission quotidienne - Défi de boss"}
 {"id":1517663,"jp":"強敵を恐れるな！","fr":"Aucune peur face aux ennemis redoutables !"}
 {"id":1517664,"jp":"危機討伐・一","fr":"Traque des menaces I"}
+{"id":1517665,"jp":"任意の難易度の危機討伐を2回クリアする","fr":"Terminer 2 fois une Traque des menaces, toutes difficultés confondues"}
 {"id":1517666,"jp":"星々の輝きはいつだって危機の暗がりを打ち破り、大空を澄み渡らせる！","fr":"L'éclat des étoiles brise toujours les ténèbres du danger et rend le ciel limpide !"}
 {"id":1517667,"jp":"キングラーガを倒す","fr":"Vaincre Kingraga"}
+{"id":1517668,"jp":"芽吹の谷のキングラーガを倒す","fr":"Vaincre Kingraga dans la Vallée des Bourgeons"}
+{"id":1517669,"jp":"キングラーガと勝負だ！","fr":"Kingraga, je te défie !"}
 {"id":1517670,"jp":"取引注文を完了する・二","fr":"Terminer des commandes commerciales II"}
+{"id":1517671,"jp":"農園の交易所での注文を2件完了する","fr":"Terminer 2 commandes au Comptoir d'échange de la ferme"}
+{"id":1517672,"jp":"農園に取引所がありません","fr":"Votre ferme ne dispose pas de Comptoir d'échange."}
 {"id":1517673,"jp":"星絆の道のり・三","fr":"Chemin du Lien stellaire III"}
+{"id":1517674,"jp":"キャラクター2体のレベルを50にする","fr":"Monter 2 personnages au niveau 50"}
 {"id":1517675,"jp":"星祝の階段・三","fr":"Marches de la Bénédiction stellaire III"}
+{"id":1517676,"jp":"キャラクター3体の星祝を昇臨度IVにする","fr":"Porter la Bénédiction stellaire de 3 personnages au rang d'Ascension IV"}
 {"id":1517677,"jp":"アニマレベルアップⅡ","fr":"Montée de niveau d'Anima Ⅱ"}
+{"id":1517678,"jp":"アニマ2枚のレベルを50にする","fr":"Monter 2 Anima au niveau 50"}
 {"id":1517679,"jp":"キボ因子変異を選択","fr":"Choisir une mutation de facteurs de Kibo"}
+{"id":1517680,"jp":"キボ因子変異時に選択を1回する","fr":"Effectuer 1 choix lors d'une mutation de facteur de Kibo"}
 {"id":1517681,"jp":"選択、選択。","fr":"Choisir, encore choisir."}
 {"id":1517682,"jp":"農園レベルアップ・一","fr":"Montée de niveau de la ferme I"}
+{"id":1517683,"jp":"農園レベルを20にする","fr":"Monter la ferme au niveau 20"}
 {"id":1517684,"jp":"農園の仕事は、適当にこなせばいいというものじゃないぞ。頼りになる戦力として育て上げるには、もうひと頑張りが必要だ！","fr":"Les travaux de la ferme ne se font pas à la va-vite. Pour en faire une force fiable, il faudra encore un petit effort !"}
 {"id":1517685,"jp":"孵化ポストを建設する","fr":"Construire un poste d'éclosion"}
+{"id":1517686,"jp":"農園で孵化ポストを建設し、配置する","fr":"Construire et placer un incubateur dans la ferme"}
 {"id":1517687,"jp":"孵化ポストは農園の重要な施設だ。もしかしたら、次のサプライズがここから誕生するかもしれないぞ！","fr":"Le poste d'éclosion est une installation clé de la ferme. La prochaine surprise en sortira peut-être !"}
 {"id":1517688,"jp":"ボス・ララッポを倒す","fr":"Vaincre le boss Rarappo"}
+{"id":1517689,"jp":"芽吹の谷のボス・ララッポを倒す","fr":"Vaincre Rarappo, boss de la Vallée des Bourgeons"}
 {"id":1517690,"jp":"ララッポ、勝負だ！","fr":"Rarappo, à nous deux !"}
 {"id":1517691,"jp":"絆を育む・一","fr":"Renforcer le Lien I"}
+{"id":1517692,"jp":"チーム編成にレベル50のキボを3匹入れる","fr":"Inclure 3 Kibo de niveau 50 dans l'équipe"}
 {"id":1517693,"jp":"装備品の獲得・一","fr":"Obtention d'équipement I"}
+{"id":1517694,"jp":"デイリー依頼-装備品の獲得を1回完了する","fr":"Terminer 1 fois une mission quotidienne - Obtention d'équipements"}
 {"id":1517695,"jp":"完全武装！","fr":"Armement complet !"}
 {"id":1517696,"jp":"装備強化・一","fr":"Amélioration d'équipement I"}
 {"id":1517697,"jp":"装備を1回強化する","fr":"Améliorer un équipement 1 fois"}
+{"id":1517698,"jp":"装備を鍛え上げ、より硬く、より強く！","fr":"Forgez vos équipements pour les rendre plus résistants et plus puissants !"}
 {"id":1517699,"jp":"モルフォーレを倒す","fr":"Vaincre Morphore"}
+{"id":1517700,"jp":"芽吹の谷のモルフォーレを倒す","fr":"Vaincre Morphore dans la Vallée des Bourgeons"}
+{"id":1517701,"jp":"モルフォーレ、勝負だ！","fr":"Morphore, je te défie !"}
 {"id":1517702,"jp":"芽吹の谷の探索・一","fr":"Exploration de la Vallée des Bourgeons I"}
+{"id":1517703,"jp":"芽吹の谷の探索レベルを3にする","fr":"Atteindre le niveau d'exploration 3 dans la Vallée des Bourgeons"}
 {"id":1517704,"jp":"星辰の行跡は、芽吹の谷の至る所へと刻まれていくことだろう。","fr":"Les traces des astres seront gravées partout dans la Vallée des Bourgeons."}
 {"id":1517705,"jp":"天道の余塵を初探索","fr":"Première exploration des Vestiges de la Voie céleste"}
+{"id":1517706,"jp":"天道の余塵・塑流圜影Iをクリアする","fr":"Terminer Poussières de la voie céleste - Suliu Yuanying I"}
+{"id":1517707,"jp":"かつての面影が、天道の塔の光に照らされ、姿を現す。","fr":"Les vestiges du passé se révèlent sous la lumière de la tour de la voie céleste."}
 {"id":1517708,"jp":"キボファイト・入門","fr":"Duel de Kibo : initiation"}
 {"id":1517709,"jp":"いずれかのエリアのファイターとのキボファイトで2勝する","fr":"Remporter 2 Duels de Kibo contre des duellistes d'une zone au choix"}
 {"id":1517710,"jp":"採鉱効率の向上・一","fr":"Meilleur rendement minier I"}
+{"id":1517711,"jp":"農園に閃錫採鉱場を建設して配置する","fr":"Construire et placer une mine d'étain scintillant dans la ferme"}
 {"id":1517712,"jp":"貴重なステラカードを製作するには、星輝鉱に加えて月光麻の布地と青銅のインゴットも必要だ。試しに作ってみよう。","fr":"Fabriquer une carte Stella précieuse demande, en plus du minerai d'éclat stellaire, du tissu de chanvre lunaire et un lingot de bronze. Essayez d'en fabriquer une."}
+{"id":1517713,"jp":"農園で溶鉱炉を建設し、配置する","fr":"Construire et placer un haut fourneau dans la ferme"}
+{"id":1517714,"jp":"溶鉱炉で青銅のインゴットを精錬する","fr":"Raffiner un lingot de bronze dans le haut fourneau"}
+{"id":1517715,"jp":"農園に溶鉱炉がありません","fr":"Votre ferme ne dispose pas de haut fourneau."}
+{"id":1517716,"jp":"農園で月光麻を栽培して収穫する","fr":"Cultiver et récolter du chanvre lunaire dans la ferme"}
+{"id":1517717,"jp":"農園で紡ぎ車を建設し、配置する","fr":"Construire et placer un rouet dans la ferme"}
+{"id":1517718,"jp":"紡ぎ車で月光麻の布地を織る","fr":"Tisser du tissu de chanvre lunaire à l'aide du rouet"}
+{"id":1517719,"jp":"農園に紡ぎ車がありません","fr":"Votre ferme ne dispose pas de rouet."}
+{"id":1517720,"jp":"共鳴の石台で希少なステラカードを製作する","fr":"Fabriquer une carte Stella rare au socle de résonance"}
+{"id":1517721,"jp":"農園に共鳴の石台がありません","fr":"Votre ferme ne dispose pas de socle de résonance."}
+{"id":1517722,"jp":"農園で工作工房を建設し、配置する","fr":"Construire et placer un atelier de fabrication dans la ferme"}
 {"id":1517723,"jp":"閃耀のステラカードを製作するには、星輝鉱に加えてクモノワタの布地と鏡鉄インゴットも必要だ。試しに作ってみよう。","fr":"Fabriquer une carte Stella resplendissante demande, en plus du minerai d'éclat stellaire, du tissu de Kumonowata et un lingot de fer miroir. Essayez d'en fabriquer une."}
 {"id":1517724,"jp":"採鉱効率の向上・二","fr":"Meilleur rendement minier II"}
+{"id":1517725,"jp":"農園に鏡鉄採鉱場を建設して配置する","fr":"Construire et placer une mine de fer miroir dans la ferme"}
+{"id":1517726,"jp":"農園に工房がありません","fr":"Votre ferme ne dispose pas d'atelier."}
+{"id":1517727,"jp":"農園で精錬所を建設し、配置する","fr":"Construire et placer une raffinerie dans la ferme"}
+{"id":1517728,"jp":"精錬所で鏡鉄のインゴットを精錬する","fr":"Raffiner un lingot de fer miroir dans la raffinerie"}
+{"id":1517729,"jp":"農園に精錬所がありません","fr":"Votre ferme ne dispose pas de raffinerie."}
+{"id":1517730,"jp":"共鳴の石台で上質なステラカードを製作する","fr":"Fabriquer une carte Stella de qualité au socle de résonance"}
 {"id":1517731,"jp":"上質なステラカードを製作するには、星輝鉱に加えて月光麻の布地と青銅のインゴットも必要だ。試しに作ってみよう。","fr":"Fabriquer une carte Stella de qualité demande, en plus du minerai d'éclat stellaire, du tissu de chanvre lunaire et un lingot de bronze. Essayez d'en fabriquer une."}
+{"id":1517732,"jp":"農園でクモノワタを栽培して収穫する","fr":"Cultiver et récolter du coton nuageux dans la ferme"}
+{"id":1517733,"jp":"農園で織物工房を建設し、配置する","fr":"Construire et placer un atelier de tissage dans la ferme"}
+{"id":1517734,"jp":"織物工房でクモノワタの布地を織る","fr":"Tisser du tissu de coton nuageux à l'atelier de tissage"}
+{"id":1517735,"jp":"農園に織物工房がありません","fr":"Votre ferme ne dispose pas d'atelier de tissage."}
+{"id":1517736,"jp":"共鳴の石台で閃耀のステラカードを製作する","fr":"Fabriquer une carte Stella rayonnante au socle de résonance"}
+{"id":1517737,"jp":"農園でシャルル風の寮を1部屋建設する","fr":"Construire 1 chambre de dortoir de style Charlulu dans la ferme"}
 {"id":1517738,"jp":"農園には時折、お客さんが訪れることもある。彼らのために心地よい休息の場所を準備しよう。","fr":"Il arrive que des visiteurs viennent à la ferme. Préparez-leur un endroit confortable où se reposer."}
+{"id":1517739,"jp":"任意のキャラクターをシャルル風の寮に入居させる","fr":"Installer un personnage au choix dans un dortoir de style Charlulu"}
+{"id":1517740,"jp":"農園にシャルル風の寮がありません","fr":"Votre ferme ne dispose pas de dortoir de style Charlulu."}
+{"id":1517741,"jp":"農園で元素石炉を建設し、配置する","fr":"Construire et placer un four à pierres élémentaires dans la ferme"}
 {"id":1517742,"jp":"元素炉をうまく活用しよう。強くなるための大きな助けとなるはずだ！","fr":"Tirez bien parti du four élémentaire. Il vous aidera grandement à devenir plus fort !"}
+{"id":1517743,"jp":"元素石炉で元素の微粒子変換を1回行う","fr":"Effectuer 1 conversion de particules élémentaires dans le four à pierres élémentaires"}
+{"id":1517744,"jp":"農園に元素石炉がありません","fr":"Votre ferme ne dispose pas de four à pierres élémentaires."}
 {"id":1517745,"jp":"畑の開墾・一","fr":"Défrichage des champs I"}
+{"id":1517746,"jp":"農園で畑を20区画開墾する","fr":"Défricher 20 parcelles agricoles dans la ferme"}
 {"id":1517748,"jp":"畑の開墾・二","fr":"Défrichage des champs II"}
+{"id":1517749,"jp":"農園で畑を50区画開墾する","fr":"Défricher 50 parcelles agricoles dans la ferme"}
 {"id":1517750,"jp":"キボの孵化・一","fr":"Éclosion de Kibo I"}
+{"id":1517751,"jp":"孵化ポストでキボのタマゴを1回孵化させる","fr":"Faire éclore 1 œuf de Kibo dans l'incubateur"}
+{"id":1517752,"jp":"孵化ポストは驚きが誕生する場所だからね！","fr":"C'est dans l'incubateur que naissent les surprises !"}
+{"id":1517753,"jp":"農園に孵化ポストがありません","fr":"Votre ferme ne dispose pas d'incubateur."}
 {"id":1517754,"jp":"キボの孵化・二","fr":"Éclosion de Kibo II"}
+{"id":1517755,"jp":"孵化ポストでキボのタマゴを10回孵化させる","fr":"Faire éclore 10 œufs de Kibo dans l'incubateur"}
 {"id":1517756,"jp":"牧場にキボを配置する","fr":"Placer des Kibo aux pâturages"}
+{"id":1517757,"jp":"牧場にキボを10匹配置する","fr":"Placer 10 Kibo dans le pâturage"}
 {"id":1517758,"jp":"キボの仲間たちよ、牧場を心ゆくまで駆け回り、楽しんでおくれ！","fr":"Chers compagnons Kibo, courez dans le pâturage et amusez-vous autant qu'il vous plaira !"}
+{"id":1517759,"jp":"農園本部で産出物の一括受取を10回する","fr":"Effectuer 10 collectes groupées des produits au quartier général de la ferme"}
 {"id":1517760,"jp":"簡単なことだ。","fr":"C'est simple."}
+{"id":1517761,"jp":"任意のキボの鞍を製作する","fr":"Fabriquer une selle de Kibo au choix"}
 {"id":1517762,"jp":"よいキボにはよい鞍。","fr":"À bon Kibo, bonne selle."}
+{"id":1517763,"jp":"農園本部に作業のキボを12匹派遣する","fr":"Affecter 12 Kibo au travail dans le quartier général de la ferme"}
+{"id":1517764,"jp":"キボは、農園を運営するうえで心強い相棒だ。","fr":"Les Kibo sont de précieux compagnons pour gérer la ferme."}
+{"id":1517765,"jp":"作業用のキボを派遣・三","fr":"Affectation de Kibo au travail III"}
+{"id":1517766,"jp":"農園本部に作業のキボを20匹派遣する","fr":"Affecter 20 Kibo au travail dans le quartier général de la ferme"}
+{"id":1517767,"jp":"農園に職種【点火】のキボを1匹派遣する","fr":"Affecter 1 Kibo spécialisé en 【Allumage】 à la ferme"}
 {"id":1517768,"jp":"キボにも得意分野がある。専門の仕事は、その道のキボに任せよう！","fr":"Chaque Kibo a son domaine de prédilection. Confiez les tâches spécialisées au Kibo de la partie !"}
+{"id":1517769,"jp":"農園に職種【伐採】のキボを1匹派遣する","fr":"Affecter 1 Kibo spécialisé en 【Bûcheronnage】 à la ferme"}
+{"id":1517770,"jp":"農園に職種【元素】のキボを1匹派遣する","fr":"Affecter 1 Kibo spécialisé en 【Éléments】 à la ferme"}
+{"id":1517771,"jp":"農園に職種【畑仕事】のキボを1匹派遣する","fr":"Affecter 1 Kibo spécialisé en 【Travaux des champs】 à la ferme"}
+{"id":1517772,"jp":"農園に職種【水やり】のキボを1匹派遣する","fr":"Affecter 1 Kibo spécialisé en 【Arrosage】 à la ferme"}
+{"id":1517773,"jp":"農園に職種【採鉱】のキボを1匹派遣する","fr":"Affecter 1 Kibo spécialisé en 【Minage】 à la ferme"}
+{"id":1517774,"jp":"農園に職種【世話】のキボを1匹派遣する","fr":"Affecter 1 Kibo spécialisé en 【Soins】 à la ferme"}
+{"id":1517775,"jp":"農園に職種【鍛造】のキボを1匹派遣する","fr":"Affecter 1 Kibo spécialisé en 【Forge】 à la ferme"}
+{"id":1517776,"jp":"農園に職種【手作業】のキボを1匹派遣する","fr":"Affecter 1 Kibo spécialisé en 【Travail manuel】 à la ferme"}
 {"id":1517777,"jp":"沃土の開墾・一","fr":"Défrichage des terres fertiles I"}
+{"id":1517778,"jp":"農園で沃土を4区画開墾する","fr":"Défricher 4 parcelles de terre fertile dans la ferme"}
 {"id":1517780,"jp":"沃土の開墾・二","fr":"Défrichage des terres fertiles II"}
+{"id":1517781,"jp":"農園で沃土を8区画開墾する","fr":"Défricher 8 parcelles de terre fertile dans la ferme"}
 {"id":1517782,"jp":"沃土の開墾・三","fr":"Défrichage des terres fertiles III"}
+{"id":1517783,"jp":"農園で沃土を12区画開墾する","fr":"Défricher 12 parcelles de terre fertile dans la ferme"}
 {"id":1517784,"jp":"沃土の開墾・四","fr":"Défrichage des terres fertiles IV"}
+{"id":1517785,"jp":"農園で沃土を16区画開墾する","fr":"Défricher 16 parcelles de terre fertile dans la ferme"}
 {"id":1517786,"jp":"沃土の開墾・五","fr":"Défrichage des terres fertiles V"}
+{"id":1517787,"jp":"農園で沃土を20区画開墾する","fr":"Défricher 20 parcelles de terre fertile dans la ferme"}
 {"id":1517788,"jp":"因子の果樹の栽培・一","fr":"Culture d'arbres fruitiers à facteurs I"}
+{"id":1517789,"jp":"農園で因子の果樹を1本植える","fr":"Planter 1 arbre à fruits de facteurs dans la ferme"}
 {"id":1517790,"jp":"因子の果樹から収穫できる因子の果実を使えば、キボの因子変異を完了させることができる。さあ、沃土で栽培しよう。","fr":"Les fruits de facteur récoltés sur l'arbre fruitier à facteurs permettent d'achever la mutation de facteurs d'un Kibo. Allez, cultivez-le dans une terre fertile."}
+{"id":1517791,"jp":"農園に沃土がありません","fr":"Votre ferme ne dispose pas de terre fertile."}
 {"id":1517792,"jp":"因子の果樹の栽培・二","fr":"Culture d'arbres fruitiers à facteurs II"}
+{"id":1517793,"jp":"農園で因子の果樹を2本植える","fr":"Planter 2 arbres à fruits de facteurs dans la ferme"}
 {"id":1517794,"jp":"源脈の果樹の栽培・一","fr":"Culture d'arbres fruitiers de veine source I"}
+{"id":1517795,"jp":"農園で源脈の果樹を1本植える","fr":"Planter 1 arbre à fruits de veine source dans la ferme"}
 {"id":1517796,"jp":"源脈の果樹から収穫できる源脈の果実があれば、キボの源脈のレベルを上げることができる。さあ、沃土で栽培しよう。","fr":"Les fruits de veine source récoltés sur l'arbre fruitier de veine source permettent de monter le niveau de veine source d'un Kibo. Allez, cultivez-le dans une terre fertile."}
 {"id":1517797,"jp":"源脈の果樹の栽培・二","fr":"Culture d'arbres fruitiers de veine source II"}
+{"id":1517798,"jp":"農園で源脈の果樹を2本植える","fr":"Planter 2 arbres à fruits de veine source dans la ferme"}
 {"id":1517799,"jp":"星満の果樹の栽培・一","fr":"Culture d'arbres fruitiers étoilés I"}
+{"id":1517800,"jp":"農園で星満の果樹を1本植える","fr":"Planter 1 arbre fruitier étoilé dans la ferme"}
 {"id":1517801,"jp":"星満の果樹から採れる星満の果実は、キボをレベルアップさせることができる。さあ、沃土で栽培しよう。","fr":"Les fruits étoilés cueillis sur l'arbre fruitier étoilé permettent de faire monter un Kibo de niveau. Allez, cultivez-le dans une terre fertile."}
 {"id":1517802,"jp":"星満の果樹の栽培・二","fr":"Culture d'arbres fruitiers étoilés II"}
+{"id":1517803,"jp":"農園で星満の果樹を2本植える","fr":"Planter 2 arbres fruitiers étoilés dans la ferme"}
+{"id":1517804,"jp":"農園で普通の友愛団子を1回製作する","fr":"Préparer 1 fois des boulettes de l'amitié ordinaires dans la ferme"}
 {"id":1517805,"jp":"熟練の製作経験は、繰り返しの試行錯誤の中で積み重ねられるものだ。友愛団子の製作を試してみよう。","fr":"Une longue expérience de fabrication se construit au fil d'innombrables essais et erreurs. Essayez de fabriquer un Dango de l'amitié."}
+{"id":1517806,"jp":"農園に調理鍋がありません","fr":"Votre ferme ne dispose pas de marmite."}
+{"id":1517807,"jp":"農園で普通の幸運の蒸しパンを1回製作する","fr":"Préparer 1 fois un petit pain vapeur porte-bonheur ordinaire dans la ferme"}
 {"id":1517808,"jp":"熟練の製作経験は、繰り返しの試行錯誤の中で積み重ねられるものだ。幸運の蒸しパンの製作を試してみよう。","fr":"Une longue expérience de fabrication se construit au fil d'innombrables essais et erreurs. Essayez de fabriquer une Brioche vapeur porte-bonheur."}
+{"id":1517809,"jp":"農園で御霊の雫を1回製作する","fr":"Fabriquer 1 fois une Goutte des Esprits anciens dans la ferme"}
 {"id":1517810,"jp":"熟練の製作経験は、繰り返しの試行錯誤の中で積み重ねられるものだ。御霊の雫の製作を試してみよう。","fr":"Une longue expérience de fabrication se construit au fil d'innombrables essais et erreurs. Essayez de fabriquer une Goutte des Esprits anciens."}
+{"id":1517811,"jp":"農園に錬金台がありません","fr":"Votre ferme ne dispose pas de table d'alchimie."}
+{"id":1517812,"jp":"農園で御霊の雨を1回製作する","fr":"Fabriquer 1 fois une Pluie des Esprits anciens dans la ferme"}
 {"id":1517813,"jp":"熟練の製作経験は、繰り返しの試行錯誤の中で積み重ねられるものだ。御霊の雨の製作を試してみよう。","fr":"Une longue expérience de fabrication se construit au fil d'innombrables essais et erreurs. Essayez de fabriquer une Pluie des Esprits anciens."}
+{"id":1517814,"jp":"農園で餌やり場を建設し、配置する","fr":"Construire et placer une aire de nourrissage dans la ferme"}
+{"id":1517815,"jp":"餌やり場を設置して、農園を大きくしよう！","fr":"Installez une aire de nourrissage pour agrandir votre ferme !"}
+{"id":1517816,"jp":"生産効率アップ施設・二","fr":"Installations d'amélioration de la production II"}
+{"id":1517817,"jp":"フィールドの採集設備を2か所修復する","fr":"Réparer 2 installations de collecte dans le monde"}
+{"id":1517818,"jp":"芽吹の谷の生産強化・一","fr":"Amélioration de la production de la Vallée des Bourgeons I"}
+{"id":1517819,"jp":"芽吹の谷でフィールド採集設備を5か所修復する","fr":"Réparer 5 installations de collecte dans la Vallée des Bourgeons"}
+{"id":1517820,"jp":"芽吹の谷の生産強化・二","fr":"Amélioration de la production de la Vallée des Bourgeons II"}
+{"id":1517821,"jp":"芽吹の谷でフィールド採集設備を10か所修復する","fr":"Réparer 10 installations de collecte dans la Vallée des Bourgeons"}
 {"id":1517822,"jp":"フリスの生産強化・一","fr":"Production renforcée à Fleece I"}
+{"id":1517823,"jp":"フリスでフィールド採集設備を5か所修復する","fr":"Réparer 5 installations de collecte à Fleece"}
 {"id":1517824,"jp":"フリスの生産強化・二","fr":"Production renforcée à Fleece II"}
+{"id":1517825,"jp":"フリスでフィールド採集設備を10か所修復する","fr":"Réparer 10 installations de collecte à Fleece"}
 {"id":1517826,"jp":"装備製造・一","fr":"Fabrication d'équipement I"}
+{"id":1517827,"jp":"農園で装備の製造を1回する","fr":"Fabriquer 1 fois un équipement dans la ferme"}
 {"id":1517828,"jp":"ハンマーを打ち込み、また打ち込み――装備はそうやって作られるのだ！","fr":"Frapper au marteau, frapper encore : c'est ainsi que l'on fabrique l'équipement !"}
+{"id":1517829,"jp":"農園に武器工房がありません","fr":"Votre ferme ne dispose pas d'atelier d'armes."}
 {"id":1517830,"jp":"装備製造・二","fr":"Fabrication d'équipement II"}
+{"id":1517831,"jp":"農園で装備の指定製造を1回する","fr":"Effectuer 1 fabrication ciblée d'équipement dans la ferme"}
+{"id":1517832,"jp":"農園で製革台を建設し、配置する","fr":"Construire et placer une table de tannage dans la ferme"}
 {"id":1517833,"jp":"装備を製造に役立つ製革台を設置して、戦力を上げよう！","fr":"Installez une table de tannage, utile à la fabrication d'équipements, pour renforcer votre puissance !"}
+{"id":1517834,"jp":"農園で製革所を建設し、配置する","fr":"Construire et placer une tannerie dans la ferme"}
 {"id":1517835,"jp":"装備を製造に役立つ製革所を設置して、戦力を上げよう！","fr":"Installez une tannerie, utile à la fabrication d'équipements, pour renforcer votre puissance !"}
+{"id":1517836,"jp":"農園で武器工房を建設し、配置する","fr":"Construire et placer un atelier d'armes dans la ferme"}
 {"id":1517837,"jp":"装備を製造に役立つ武器工房を設置して、戦力を上げよう！","fr":"Installez un atelier d'armes, utile à la fabrication d'équipements, pour renforcer votre puissance !"}
 {"id":1517838,"jp":"装備製造・三","fr":"Fabrication d'équipement III"}
+{"id":1517839,"jp":"難易度IVの素材を使用して装備の指定製造を1回する","fr":"Effectuer 1 fabrication ciblée d'équipement avec des matériaux de difficulté IV"}
 {"id":1517840,"jp":"装備製造・四","fr":"Fabrication d'équipement IV"}
 {"id":1517841,"jp":"難易度IVの素材を使用して装備の指定製造を10回する","fr":"Fabriquer 10 fois des équipements sur mesure avec des matériaux de difficulté IV"}
+{"id":1517842,"jp":"取引注文を完了する・三","fr":"Terminer des commandes commerciales III"}
+{"id":1517843,"jp":"農園の交易所での注文を3件完了する","fr":"Terminer 3 commandes au Comptoir d'échange de la ferme"}
+{"id":1517844,"jp":"取引注文を完了する・四","fr":"Terminer des commandes commerciales IV"}
+{"id":1517845,"jp":"中級レアリティの注文を1件完了する","fr":"Terminer 1 commande de rareté intermédiaire"}
+{"id":1517846,"jp":"取引注文を完了する・五","fr":"Terminer des commandes commerciales V"}
+{"id":1517847,"jp":"上級レアリティの注文を1件完了する","fr":"Terminer 1 commande de rareté avancée"}
 {"id":1517848,"jp":"取引の収益・一","fr":"Bénéfices commerciaux I"}
 {"id":1517849,"jp":"商品の売却で、輝くコインを累計10,000枚獲得する","fr":"Obtenir 10 000 pièces scintillantes au total en vendant des marchandises"}
+{"id":1517850,"jp":"稼いで、稼いで、農園を大きくしよう！","fr":"Gagnez toujours plus pour agrandir votre ferme !"}
 {"id":1517851,"jp":"取引の収益・二","fr":"Bénéfices commerciaux II"}
 {"id":1517852,"jp":"商品の売却で、輝くコインを累計100,000枚獲得する","fr":"Obtenir 100 000 pièces scintillantes au total en vendant des marchandises"}
+{"id":1517853,"jp":"きらめき珍品ショップでキボのタマゴを1回購入する","fr":"Acheter 1 œuf de Kibo à la boutique des Curiosités scintillantes"}
 {"id":1517854,"jp":"一部のキボのタマゴは農園のショップにこっそり現れます。ひとつ抱えて持ち帰りましょう～","fr":"Certains œufs de Kibo se glissent discrètement dans la boutique de la ferme. Emportez-en un dans vos bras~"}
 {"id":1517855,"jp":"合理的な出費・一","fr":"Dépenses raisonnables I"}
+{"id":1517856,"jp":"輝くコインを50,000枚消費する","fr":"Dépenser 50 000 pièces scintillantes"}
+{"id":1517857,"jp":"あらゆる消費が、合理的な出費である！","fr":"Toute dépense est une dépense raisonnable !"}
 {"id":1517858,"jp":"合理的な出費・二","fr":"Dépenses raisonnables II"}
+{"id":1517859,"jp":"輝くコインを500,000枚消費する","fr":"Dépenser 500 000 pièces scintillantes"}
 {"id":1517860,"jp":"合理的な出費・三","fr":"Dépenses raisonnables III"}
+{"id":1517861,"jp":"輝くコインを5,000,000枚消費する","fr":"Dépenser 5 000 000 de pièces scintillantes"}
 {"id":1517862,"jp":"プロミリアでのささやかな思い出はすべて、永遠の星辰の印となる。","fr":"Chaque petit souvenir de Promilia devient à jamais une marque des astres."}
 {"id":1517863,"jp":"ミィティの成人式","fr":"Le passage à l'âge adulte de Mitty"}
+{"id":1517864,"jp":"サブストーリー「ミィティの成人式」をクリアする","fr":"Terminer l'histoire secondaire « Le passage à l'âge adulte de Mitty »"}
 {"id":1517865,"jp":"共にある絆・アビィ","fr":"Lien partagé : Abby"}
+{"id":1517866,"jp":"キャラクエスト「夢とお宝」をクリアする","fr":"Terminer la quête de personnage « Rêves et trésors »"}
+{"id":1517867,"jp":"共にある絆と歩み、一編の物語のページをめくる。","fr":"Avançons au fil des Liens qui nous unissent et tournons une nouvelle page de cette histoire."}
 {"id":1517868,"jp":"共にある絆・塗山小玉","fr":"Lien partagé : Tushan Xiaoyu"}
+{"id":1517869,"jp":"キャラクエスト「千糸で繋ぐ桃の縁」をクリアする","fr":"Terminer la quête de personnage « Liens des pêchers tissés de mille fils »"}
 {"id":1517870,"jp":"新たな芽吹きを願う歌","fr":"Chant pour de nouveaux bourgeons"}
 {"id":1517871,"jp":"サブストーリー「『ヤルハドーム』の修復」をクリアする","fr":"Terminer la quête secondaire « Réparer le Dôme de Yarha »"}
+{"id":1517872,"jp":"生まれたばかりの若芽に、癒やしの歌を捧げよう。","fr":"Offrons un chant de guérison aux jeunes pousses qui viennent de naître."}
+{"id":1517873,"jp":"サブストーリー「洋館の怪影」をクリアする","fr":"Terminer l'histoire secondaire « L'ombre mystérieuse du manoir »"}
 {"id":1517874,"jp":"不気味な影がうごめく洋館。そこには一体、どんな秘密が隠されているのだろうか。","fr":"Un manoir où s'agitent d'inquiétantes ombres. Quels secrets peut-il bien cacher ?"}
+{"id":1517875,"jp":"メインストーリー依頼・一","fr":"Mission principale I"}
 {"id":1517876,"jp":"メインストーリー依頼「1-1 故郷を離れて」をクリアする","fr":"Terminer la mission de l'histoire principale « 1-1 Quitter sa terre natale »"}
+{"id":1517877,"jp":"依頼に挑み、先へ進もう！","fr":"Relevez les défis des missions et poursuivez votre chemin !"}
+{"id":1517878,"jp":"メインストーリー依頼・二","fr":"Mission principale II"}
 {"id":1517879,"jp":"メインストーリー依頼「1-4 未知の谷」をクリアする","fr":"Terminer la mission de l'histoire principale « 1-4 La vallée inconnue »"}
+{"id":1517880,"jp":"メインストーリー依頼・三","fr":"Mission principale III"}
 {"id":1517881,"jp":"メインストーリー依頼「1-8 星の導き」をクリアする","fr":"Terminer la mission de l'histoire principale « 1-8 Les étoiles pour guide »"}
+{"id":1517882,"jp":"メインストーリー依頼・四","fr":"Mission principale IV"}
 {"id":1517883,"jp":"メインストーリー依頼「2-4 万霊黎明」をクリアする","fr":"Terminer la mission de l'histoire principale « 2-4 L'aube des mille esprits »"}
+{"id":1517884,"jp":"メインストーリー依頼・五","fr":"Mission principale V"}
 {"id":1517885,"jp":"メインストーリー依頼「2-7 継承の紋章」をクリアする","fr":"Terminer la mission de l'histoire principale « 2-7 L'emblème de l'héritage »"}
+{"id":1517886,"jp":"メインストーリー依頼・六","fr":"Mission principale VI"}
 {"id":1517887,"jp":"メインストーリー依頼「3-4 前途ははるか」をクリアする","fr":"Terminer la mission de l'histoire principale « 3-4 Un long chemin devant soi »"}
+{"id":1517888,"jp":"メインストーリー依頼・七","fr":"Mission principale VII"}
 {"id":1517889,"jp":"メインストーリー依頼「3-7 大狼の守護」をクリアする","fr":"Terminer la mission de l'histoire principale « 3-7 La protection du Grand Loup »"}
+{"id":1517890,"jp":"メインストーリー依頼・八","fr":"Mission principale VIII"}
 {"id":1517891,"jp":"メインストーリー依頼「4-10 狂厄討滅」をクリアする","fr":"Terminer la mission de l'histoire principale « 4-10 Anéantir le fléau enragé »"}
 {"id":1517892,"jp":"銀色に輝く","fr":"Éclat argenté"}
+{"id":1517893,"jp":"デイリー依頼-基本素材-銀色に輝くを1回クリアする","fr":"Terminer 1 fois la mission quotidienne - Matériaux de base - Éclat d'argent"}
 {"id":1517894,"jp":"鍛え抜かれし証","fr":"Preuve d'un long entraînement"}
+{"id":1517895,"jp":"デイリー依頼-基本素材-千錘百錬を1回クリアする","fr":"Terminer 1 fois la mission quotidienne - Matériaux de base - Forge aux mille coups"}
+{"id":1517896,"jp":"デイリー依頼-基本素材-結晶抽出を1回クリアする","fr":"Terminer 1 fois la mission quotidienne - Matériaux de base - Extraction de cristaux"}
+{"id":1517897,"jp":"難易度IIのデイリー依頼-ボス挑戦を1回クリアする","fr":"Terminer 1 fois une mission quotidienne - Défi de boss de difficulté II"}
+{"id":1517898,"jp":"難易度IVのデイリー依頼-ボス挑戦を1回クリアする","fr":"Terminer 1 fois une mission quotidienne - Défi de boss de difficulté IV"}
+{"id":1517899,"jp":"難易度VIのデイリー依頼-ボス挑戦を1回クリアする","fr":"Terminer 1 fois une mission quotidienne - Défi de boss de difficulté VI"}
 {"id":1517900,"jp":"装備品の獲得・二","fr":"Obtention d'équipement II"}
 {"id":1517901,"jp":"難易度IIIのデイリー依頼-装備品の獲得を1回クリアする","fr":"Terminer 1 fois la Mission quotidienne de difficulté III - Obtention d'équipement"}
 {"id":1517902,"jp":"装備品の獲得・三","fr":"Obtention d'équipement III"}
@@ -19186,21 +19760,47 @@
 {"id":1517906,"jp":"装備品の獲得・五","fr":"Obtention d'équipement V"}
 {"id":1517907,"jp":"難易度Vのデイリー依頼-装備品の獲得を20回クリアする","fr":"Terminer 20 fois la Mission quotidienne de difficulté V - Obtention d'équipement"}
 {"id":1517908,"jp":"危機討伐・二","fr":"Traque des menaces II"}
+{"id":1517909,"jp":"危機討伐を5回クリアする","fr":"Terminer 5 fois une Traque des menaces"}
 {"id":1517910,"jp":"危機討伐・三","fr":"Traque des menaces III"}
+{"id":1517911,"jp":"危機討伐を10回クリアする","fr":"Terminer 10 fois une Traque des menaces"}
+{"id":1517912,"jp":"危機討伐・マルチプレイ","fr":"Traque des menaces - Multijoueur"}
+{"id":1517913,"jp":"パーティで危機討伐を1回クリアする","fr":"Terminer 1 fois une Traque des menaces en équipe"}
+{"id":1517914,"jp":"群星の光が陰りを払い、世界を照らす！","fr":"La lumière des étoiles dissipe les ténèbres et illumine le monde !"}
 {"id":1517915,"jp":"危機討伐・二のクリア","fr":"Traque des menaces II réussie"}
+{"id":1517916,"jp":"難易度IIの任意の危機討伐をクリアする","fr":"Terminer une Traque des menaces de difficulté II au choix"}
 {"id":1517917,"jp":"危機討伐・三のクリア","fr":"Traque des menaces III réussie"}
+{"id":1517918,"jp":"難易度IIIの任意の危機討伐をクリアする","fr":"Terminer une Traque des menaces de difficulté III au choix"}
 {"id":1517919,"jp":"危機討伐・四のクリア","fr":"Traque des menaces IV réussie"}
+{"id":1517920,"jp":"難易度IVの任意の危機討伐をクリアする","fr":"Terminer une Traque des menaces de difficulté IV au choix"}
 {"id":1517921,"jp":"危機討伐終了後、チームメイトから「いいね」を10回もらう","fr":"Recevoir 10 mentions « Pouce levé » de coéquipiers à la fin d'une Traque des menaces"}
 {"id":1517922,"jp":"チームのひとりひとりがとても重要だ。称賛を惜しまないようにしよう。","fr":"Chaque membre de l'équipe est très important. Ne ménagez pas les compliments."}
+{"id":1517923,"jp":"危機討伐のマルチプレイモードでMVPを1回獲得する","fr":"Obtenir 1 fois le titre de MVP en mode multijoueur de la Traque des menaces"}
+{"id":1517924,"jp":"チームの模範を目指し、奮闘する姿を示そう。","fr":"Montrez votre détermination et devenez un exemple pour votre équipe."}
 {"id":1517925,"jp":"危機討伐終了後、チームメイトからフレンド申請をもらう","fr":"Recevoir une demande d'ami d'un coéquipier à la fin d'une Traque des menaces"}
 {"id":1517926,"jp":"仲間はとても大切だ。なるべく協力できる可能性を作ろう！","fr":"Les compagnons sont très précieux. Créez autant que possible l'occasion de coopérer !"}
 {"id":1517927,"jp":"塑流圜影挑戦・入門編","fr":"Défi Suliu Yuanying : initiation"}
+{"id":1517928,"jp":"天道の余塵・塑流圜影IIIをクリアする","fr":"Terminer Poussières de la voie céleste - Suliu Yuanying III"}
+{"id":1517929,"jp":"塑流圜影挑戦・完全攻略","fr":"Défi de Suliu Yuanying - Réussite totale"}
+{"id":1517930,"jp":"日渡の塵影・塑流圜影で★21を獲得する","fr":"Obtenir ★21 dans Ombres de poussière du soleil traversant - Suliu Yuanying"}
 {"id":1517931,"jp":"恒溯圜影挑戦・一","fr":"Défi Hengsu Yuanying I"}
+{"id":1517932,"jp":"日渡の塵影・恒溯圜影で★12を獲得する","fr":"Obtenir ★12 dans Ombres de poussière du soleil traversant - Hengsu Yuanying"}
 {"id":1517933,"jp":"恒溯圜影挑戦・二","fr":"Défi Hengsu Yuanying II"}
+{"id":1517934,"jp":"日渡の塵影・恒溯圜影で★21を獲得する","fr":"Obtenir ★21 dans Ombres de poussière du soleil traversant - Hengsu Yuanying"}
 {"id":1517935,"jp":"汐変圜影挑戦・一","fr":"Défi Xibian Yuanying I"}
+{"id":1517936,"jp":"日渡の塵影・汐変圜影で★12を獲得する","fr":"Obtenir ★12 dans Ombres de poussière du soleil traversant - Xibian Yuanying"}
 {"id":1517937,"jp":"汐変圜影挑戦・二","fr":"Défi Xibian Yuanying II"}
+{"id":1517938,"jp":"日渡の塵影・汐変圜影で★15を獲得する","fr":"Obtenir ★15 dans Ombres de poussière du soleil traversant - Xibian Yuanying"}
 {"id":1517939,"jp":"汐変圜影挑戦・三","fr":"Défi Xibian Yuanying III"}
+{"id":1517940,"jp":"日渡の塵影・汐変圜影で★18を獲得する","fr":"Obtenir ★18 dans Ombres de poussière du soleil traversant - Xibian Yuanying"}
 {"id":1517941,"jp":"キボファイトのすべてのチュートリアルステージをクリアする","fr":"Terminer toutes les étapes de tutoriel du Duel de Kibo"}
+{"id":1517942,"jp":"ファイト・芽吹の谷・一","fr":"Duel - Vallée des Bourgeons I"}
+{"id":1517943,"jp":"芽吹の谷のキボファイト・エリアレベルを3にする","fr":"Atteindre le niveau de zone 3 du Duel de Kibo dans la Vallée des Bourgeons"}
+{"id":1517944,"jp":"ファイト・芽吹の谷・二","fr":"Duel - Vallée des Bourgeons II"}
+{"id":1517945,"jp":"芽吹の谷のキボファイト・エリアレベルを5にする","fr":"Atteindre le niveau de zone 5 du Duel de Kibo dans la Vallée des Bourgeons"}
+{"id":1517946,"jp":"ファイト・芽吹の谷・三","fr":"Duel - Vallée des Bourgeons III"}
+{"id":1517947,"jp":"芽吹の谷のキボファイト・エリアレベルを8にする","fr":"Atteindre le niveau de zone 8 du Duel de Kibo dans la Vallée des Bourgeons"}
+{"id":1517948,"jp":"ファイト・芽吹の谷・四","fr":"Duel - Vallée des Bourgeons IV"}
+{"id":1517949,"jp":"芽吹の谷のキボファイト・エリアレベルを10にする","fr":"Atteindre le niveau de zone 10 du Duel de Kibo dans la Vallée des Bourgeons"}
 {"id":1517950,"jp":"ファイト・フリス・一","fr":"Duel à Fleece I"}
 {"id":1517952,"jp":"ファイト・フリス・二","fr":"Duel à Fleece II"}
 {"id":1517954,"jp":"ファイト・フリス・三","fr":"Duel à Fleece III"}
