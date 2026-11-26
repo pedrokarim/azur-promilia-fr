@@ -1,0 +1,80 @@
+jp	en	fr	kind	status	note
+星臨者	Starborn	Enfant des étoiles	title	proposed	Le personnage du joueur. Genre non fixé par le jeu (l’anglais dit « they ») : « enfant » est épicène. Variantes : 星臨者さま, 星臨者さん, せーりんしゃ (prononciation d’enfant).
+プロミリア	Promilia	Promilia	place	official	Le continent du jeu.
+アズールプロミリア	Azur Promilia	Azur Promilia	title	official	Nom du jeu, jamais traduit.
+キボ	Kibo	Kibo	creature	official	Créatures natives de Promilia. Invariable : un Kibo, des Kibo.
+カルマ	Karma	Karma	lore	official	La force de vie. Masculin : « le Karma ». Le jeu corrige カマル en カ・ル・マ.
+スーニヤ	Sunya	Sunya	lore	official	La force du néant, opposée au Karma. Féminin : « la Sunya ».
+スーニヤの侵蝕	Sunya Erosion	Érosion de Sunya	lore	proposed	Corruption qui ronge les êtres et les Kibo.
+凶獣	Fiend	Bête maudite	creature	proposed	Monstres hostiles, souvent des Kibo corrompus.
+精鬼族	Fiend	Démon	creature	proposed	Second mot japonais rendu par « Fiend » en anglais : vérifier le contexte.
+進化教団	Evolution Cult	Culte de l’Évolution	faction	proposed	Les antagonistes.
+スターリンク	Star Link	Lien stellaire	mechanic	proposed	Lien que le joueur noue avec un Kibo pour l’apprivoiser.
+大妖精	Great Fairy	Grande Fée	title	proposed	Titre que Lumi se donne sans cesse.
+ルミィ	Lumi	Lumi	character	official	Fée qui guide le joueur. Parle d’elle à la troisième personne (« la grande Lumi »).
+シンフォーリア	Symphoria	Symphoria	character	official	Archère elfe. Polie avec le joueur (星臨者さま).
+メーツァ	Metsa	Metsa	character	official	Jardinière d’Yggdrasil, au Jardin d’Evergreen.
+キャスベル	Cathbelle	Cathbelle	character	official	
+アニス	Anais	Anais	character	official	Infirmière du sanatorium Carnon, très formelle. Sans tréma.
+塗山小玉	Tushan Xiaoyu	Tushan Xiaoyu	character	official	Forme courte : 小玉 = Xiaoyu.
+アビィ	Abby	Abby	character	official	Même nom pour la personne et sa forme de dragon.
+テララ	Terara	Terara	character	official	
+ルルカ	Luruka	Luruka	character	official	
+ノノ	Nono	Nono	character	official	
+ティティ	Tiffy	Tiffy	character	official	
+ペイペイ	Peipei	Peipei	character	client	Une Pammy. Parle d’elle à la troisième personne, comme une enfant.
+ミィティ	Mitty	Mitty	character	client	Wingfolk, apprend à voler.
+千代	Chiyo	Chiyo	character	proposed	Tic verbal félin (にゃ) : garder « nya ».
+シャル	Shalle	Shal	character	proposed	Nom client « Shalle », mais l’anglais amont écrit « Shal » 193 fois. À trancher. Ne pas confondre avec シャルル (village).
+メイプル	Maple	Maple	character	client	Réceptionniste de la Guilde des aventuriers.
+ルビーナ	Ruby	Ruby	character	client	Nom d’affichage officiel « Ruby » ; « Rubina » dans certains textes.
+寒悠悠	Han Youyou	Han Youyou	character	client	
+ポンポン	Pengpeng	Pengpeng	character	client	Lecture chinoise retenue par le client.
+蘭香子	Lan Xiangzi	Lan Xiangzi	character	client	
+リリィ	Lily	Lily	character	client	Ne pas confondre avec シーリリィ, une plante médicinale.
+モーレン	Morwyn	Morwyn	character	client	
+ファランタ	Faridah	Faridah	character	client	
+カタル	Katalua	Katalua	character	client	
+イグドラシル	Yggdrasil	Yggdrasil	lore	official	L’arbre sacré. « Mère Yggdrasil » dans les prières elfes.
+エヴァーガーデン	Garden of Evergreen	Jardin d’Evergreen	place	proposed	Jardin des jeunes pousses d’Yggdrasil.
+芽吹の谷	Sprout Valley	Vallée des Bourgeons	place	proposed	Région de départ.
+シャルル村	Charlulu Village	Village de Charlulu	place	proposed	
+フリス	Fleece	Fleece	place	proposed	La grande ville, siège du seigneur (manoir).
+鏡花州	Jinghua Cape	Cap Jinghua	place	proposed	Nom officiel anglais Jinghua Cape.
+ロージア帝国	Rosia Empire	Empire de Rosia	place	proposed	
+翼人	Wingfolk	Ailés	people	proposed	Peuple ailé. « un Ailé, une Ailée ».
+翼人の里	Wingfolk Village	Village des Ailés	place	proposed	
+獣人	Beastfolk	Peuple-bête	people	proposed	« homme-bête » est genré : « Peuple-bête » pour le peuple, « un membre du Peuple-bête » pour une personne. À valider.
+エルフ	Elf	Elfe	people	proposed	
+ウッドエルフ	Wood Elf	Elfe des bois	people	proposed	
+パミー	Pammy	Pammy	people	proposed	Le peuple de Peipei.
+竜族	Dragon Clan	Clan des dragons	people	proposed	
+冒険者ギルド	Adventurers' Guild	Guilde des aventuriers	faction	proposed	
+村長	Village Chief	Chef du village	role	proposed	
+ユニ	Uni	Uni	resource	proposed	La monnaie. Invariable.
+観測	Observation	Observation	mechanic	proposed	Le tirage (gacha).
+漫遊記	Travelogue	Carnet de voyage	mechanic	proposed	Le passe de saison.
+絆	Bond	Lien	mechanic	proposed	Affinité avec un personnage.
+星祝	Star Blessing	Bénédiction stellaire	mechanic	proposed	
+キボファイト	Kibo Duel	Duel de Kibo	mechanic	proposed	
+刻印	Sigil	Sceau	mechanic	proposed	
+星響スキル	Star Echo Skill	Compétence Écho stellaire	mechanic	proposed	
+星極スキル	Star Zenith Skill	Compétence Zénith stellaire	mechanic	proposed	
+洞察	Insight	Perspicacité	stat	proposed	
+攻撃力	ATK	ATQ	stat	proposed	Abréviation habituelle des jeux en français.
+防御力	DEF	DÉF	stat	proposed	
+会心率	CRIT Rate	Taux CRIT	stat	proposed	
+会心ダメージ	CRIT DMG	DGT CRIT	stat	proposed	
+ブレイク効率	Break Efficiency	Efficacité de brise	stat	proposed	
+エネルギー	Energy	Énergie	stat	proposed	
+通常攻撃	Normal Attack	Attaque normale	mechanic	proposed	
+チャージ攻撃	Charged Attack	Attaque chargée	mechanic	proposed	
+火属性	Fire	Feu	element	proposed	Les neuf éléments, en nom : « DGT de Feu ».
+水属性	Water	Eau	element	proposed	
+風属性	Wind	Vent	element	proposed	
+雷属性	Thunder	Foudre	element	proposed	
+地属性	Earth	Terre	element	proposed	
+木属性	Wood	Bois	element	proposed	
+氷属性	Ice	Glace	element	proposed	
+光属性	Light	Lumière	element	proposed	
+闇属性	Dark	Ténèbres	element	proposed	

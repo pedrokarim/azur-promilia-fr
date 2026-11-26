@@ -25,6 +25,7 @@ const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const UPSTREAM_FILE = join(ROOT, 'strings.translatable.jsonl');
 const FRENCH_FILE = join(ROOT, 'fr', 'strings.fr.jsonl');
 const ORPHANS_FILE = join(ROOT, 'fr', 'orphans.jsonl');
+const GLOSSARY_FILE = join(ROOT, 'fr', 'glossary.tsv');
 const DIST_DIR = join(ROOT, 'dist');
 const WORK_DIR = join(ROOT, 'work');
 
@@ -104,6 +105,29 @@ function loadFrench() {
   return { rows, byJp, problems };
 }
 
+/** Le glossaire (fr/glossary.tsv), trié du terme japonais le plus long au plus court. */
+function loadGlossary() {
+  if (!existsSync(GLOSSARY_FILE)) return [];
+  const [header, ...lines] = readFileSync(GLOSSARY_FILE, 'utf8').split('\n').filter((line) => line.trim());
+  const columns = header.split('\t');
+  return lines
+    .map((line) => Object.fromEntries(line.split('\t').map((cell, i) => [columns[i], cell.trim()])))
+    .filter((term) => term.jp && term.fr)
+    .sort((a, b) => b.jp.length - a.jp.length);
+}
+
+/** Termes du glossaire présents dans un texte japonais, sans ceux inclus dans un terme plus long. */
+function termsIn(jp, glossary) {
+  const found = [];
+  let rest = jp;
+  for (const term of glossary) {
+    if (!rest.includes(term.jp)) continue;
+    found.push(term);
+    rest = rest.split(term.jp).join('\u0000');
+  }
+  return found;
+}
+
 // --- vérifications ------------------------------------------------------------------------
 
 function protectedTokens(text) {
@@ -170,8 +194,20 @@ function check() {
   for (const row of french.byJp.values()) {
     for (const error of validate(row.jp, row.fr)) errors.push(`id ${row.id ?? '?'} « ${row.jp.slice(0, 40)} » : ${error}`);
   }
+  // Un terme validé du glossaire doit se retrouver dans la traduction : simple avertissement,
+  // la phrase peut avoir une bonne raison de s'en écarter (pluriel, élision, accord).
+  const glossary = loadGlossary().filter((term) => term.status === 'approved');
+  const glossaryWarnings = [];
+  for (const row of french.byJp.values()) {
+    for (const term of termsIn(row.jp, glossary)) {
+      if (!row.fr.toLowerCase().includes(term.fr.toLowerCase())) {
+        glossaryWarnings.push(`id ${row.id ?? '?'} : « ${term.jp} » devrait donner « ${term.fr} »`);
+      }
+    }
+  }
   const orphans = [...french.byJp.keys()].filter((jp) => !upstream.byJp.has(jp));
   for (const problem of upstream.problems) console.log(`avertissement : ${problem}`);
+  for (const warning of glossaryWarnings) console.log(`glossaire : ${warning}`);
   if (orphans.length) console.log(`avertissement : ${orphans.length} ligne(s) orpheline(s), voir « orphans »`);
   for (const error of errors) console.log(`erreur : ${error}`);
   console.log(errors.length ? `${errors.length} erreur(s).` : `Aucune erreur sur ${french.byJp.size} ligne(s).`);
@@ -184,6 +220,7 @@ function todo(options) {
   const limit = Number(options.limit ?? 200);
   const pattern = options.grep ? new RegExp(options.grep, 'u') : null;
   const maxLength = options['max-length'] ? Number(options['max-length']) : Infinity;
+  const glossary = loadGlossary();
   const picked = [];
   for (const row of upstream.rows) {
     if (picked.length >= limit) break;
@@ -191,7 +228,9 @@ function todo(options) {
     if (options.src && row.src !== options.src) continue;
     if (row.jp.length > maxLength) continue;
     if (pattern && !pattern.test(row.jp) && !pattern.test(row.en ?? '')) continue;
-    picked.push({ id: row.id, jp: row.jp, en: row.en, fr: '' });
+    // Les termes du glossaire présents dans la ligne, pour traduire sans chercher ailleurs.
+    const terms = termsIn(row.jp, glossary).map((term) => `${term.jp} = ${term.fr} (${term.status})`);
+    picked.push({ id: row.id, jp: row.jp, en: row.en, ...(terms.length ? { terms } : {}), fr: '' });
   }
   const out = options.out ? resolve(options.out) : join(WORK_DIR, `todo-${Date.now()}.jsonl`);
   writeJsonl(out, picked);

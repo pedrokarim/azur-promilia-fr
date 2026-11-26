@@ -10,6 +10,9 @@ Ce projet n'est ni affilié à Manjuu ni approuvé par l'éditeur. Un patch de t
 |---|---|
 | `strings.translatable.jsonl` | Le japonais et l'anglais de l'amont. On ne le modifie jamais à la main : il se met à jour depuis promiliafans/i18n. |
 | `fr/strings.fr.jsonl` | Le français, une ligne `{"id", "jp", "fr"}` par texte traduit, triée par `id`. |
+| `fr/context.md` | L'univers, le personnage du joueur, les personnages et leur registre, les règles d'écriture. À lire avant de traduire. |
+| `fr/glossary.tsv` | Noms et termes, avec leur traduction et leur statut (`official`, `client`, `proposed`, `approved`). |
+| `AGENTS.md` | Le brief des agents qui traduisent. |
 | `fr/orphans.jsonl` | Les traductions dont le japonais a disparu du jeu après une mise à jour. Elles servent de modèle pour retraduire. |
 | `scripts/fr.mjs` | L'outil : avancement, vérification, lots de travail, fabrication du fichier du patcher. |
 
