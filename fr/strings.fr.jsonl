@@ -14135,67 +14135,97 @@
 {"id":1512049,"jp":"期待でいっぱいの表情","fr":"Un visage plein d'attente"}
 {"id":1512050,"jp":"後始末はわたしが","fr":"Je me charge du rangement"}
 {"id":1512052,"jp":"あなたの望むままに","fr":"Comme vous le souhaitez"}
+{"id":1512053,"jp":"攻撃力が50上昇する。\n被ダメージが5%減少する。\n雷属性ダメージ増幅が8%上昇する。","fr":"Augmente l'ATQ de 50.\nRéduit de 5 % les DGT subis.\nAugmente de 8 % l'Amplification des DGT de Foudre."}
 {"id":1512054,"jp":"まさかの毒舌？","fr":"Une langue acérée, vraiment ?"}
 {"id":1512055,"jp":"無礼な客人への眼差し","fr":"Un regard pour les invités impolis"}
+{"id":1512056,"jp":"客が主人に無礼を働けば、キャスベルは言葉で客の痛いところを突き、そしてまたナナチャに説教されるのだった。","fr":"Quand un invité manque de respect à sa maîtresse, Cathbelle le touche là où ça fait mal, avec des mots bien sentis, et se fait de nouveau sermonner par Nanacha."}
 {"id":1512057,"jp":"メイドの矜持","fr":"La fierté d'une domestique"}
 {"id":1512059,"jp":"9足目の白いストッキング","fr":"La neuvième paire de bas blancs"}
+{"id":1512060,"jp":"失礼かもしれませんが、すこし手伝っていただけますか？私にとってはあまりにも脆すぎて……","fr":"Je vous demande pardon si c'est impoli, mais pourriez-vous m'aider un peu ? C'est bien trop fragile pour moi…"}
 {"id":1512061,"jp":"悪霊退散","fr":"Esprits mauvais, dehors !"}
+{"id":1512062,"jp":"木棺が衝撃波を放つたび、チーム全体の星極チャージを2回復する。\n蘭香子の星響スキルのダメージ倍率が10%上昇する。","fr":"Chaque fois que le cercueil en bois libère une onde de choc, restaure 2 points de charge Zénith stellaire de toute l'équipe.\nAugmente de 10 % le multiplicateur de DGT de la Compétence Écho stellaire de Lan Xiangzi."}
 {"id":1512063,"jp":"か、過負荷だ……","fr":"S-surcharge…"}
+{"id":1512064,"jp":"たくさんのひと……たくさんのキボ……たくさんの声……どうしたらいいんでしょう……","fr":"Tant de gens… tant de Kibo… tant de voix… Que dois-je faire…"}
 {"id":1512065,"jp":"やっぱりここにいるのが一番ほっとします……","fr":"C'est vraiment ici que je me sens le mieux…"}
 {"id":1512067,"jp":"天地正気","fr":"Le souffle juste du ciel et de la terre"}
+{"id":1512068,"jp":"攻撃力が50上昇する。\nエネルギー回復増幅が5%上昇する。\n氷属性ダメージ増幅が8%上昇する。","fr":"Augmente l'ATQ de 50.\nAugmente de 5 % l'Amplification de récupération d'Énergie.\nAugmente de 8 % l'Amplification des DGT de Glace."}
 {"id":1512069,"jp":"こ、こうやって描くんでしょうか……","fr":"C-c'est comme ça qu'il faut dessiner… ?"}
+{"id":1512070,"jp":"蘭香子は様々な護符に精通しており、不安を感じると周囲にぐるりと貼り付けるが……かえって周囲の注目を集めてしまっている。","fr":"Lan Xiangzi connaît une foule de talismans. Quand l'angoisse la gagne, elle en colle tout autour d'elle… mais cela ne fait qu'attirer encore plus les regards."}
 {"id":1512071,"jp":"邪を払い魔を封じ、気を静め心を清める。","fr":"Chasse le mal, scelle les démons, apaise le qi et purifie le cœur."}
 {"id":1512072,"jp":"霊光護体","fr":"Protection de lumière spirituelle"}
+{"id":1512073,"jp":"蘭香子が星響スキルを発動した時、木棺の第二形態を直接召喚し、氷の刻印をさらに1つ獲得する。","fr":"Quand Lan Xiangzi utilise sa Compétence Écho stellaire, invoque directement la deuxième forme du cercueil en bois et obtient 1 Sceau de Glace supplémentaire."}
 {"id":1512074,"jp":"清浄帰位","fr":"Retour à la pureté"}
+{"id":1512075,"jp":"防御力が60上昇する。\nHPが800増加する。\n氷属性ダメージ増幅が8%上昇する。","fr":"Augmente la DÉF de 60.\nAugmente les PV de 800.\nAugmente de 8 % l'Amplification des DGT de Glace."}
 {"id":1512076,"jp":"も、もう休みたい……","fr":"J-je voudrais déjà me reposer…"}
+{"id":1512077,"jp":"お、おはようございます。ゆっくり休めましたか？もしよければ、わたくしのところでもうすこし横になっていても……その……","fr":"B-bonjour. Avez-vous pu vous reposer à votre aise ? Si vous le souhaitez, vous pouvez encore vous étendre un peu chez moi… c'est-à-dire… enfin…"}
 {"id":1512079,"jp":"停滞の者","fr":"L'être figé"}
 {"id":1512080,"jp":"魂魄安寧","fr":"Âmes en paix"}
 {"id":1512082,"jp":"奥深き鼓動","fr":"Un battement profond"}
+{"id":1512083,"jp":"じ、自分の気持ち、忘れたことはありません……あなたにも隠したりはしませんから。","fr":"J-je n'ai jamais oublié ce que je ressens… et je ne vous le cacherai pas non plus."}
+{"id":1512084,"jp":"アニスの星響スキルのクールタイムを16%短縮する。同スキルによるチーム全体の攻撃力増幅が16%になる。","fr":"Réduit de 16 % le temps de recharge de la Compétence Écho stellaire d'Anais. L'Amplification d'ATQ de toute l'équipe conférée par cette compétence passe à 16 %."}
 {"id":1512085,"jp":"『慈愛の微笑み』","fr":"« Le sourire bienveillant »"}
 {"id":1512087,"jp":"痛くてもリハビリ","fr":"La rééducation, même si ça fait mal"}
 {"id":1512089,"jp":"3匹のピアッド","fr":"Trois Piad"}
+{"id":1512090,"jp":"回復効果が10%上昇する。\nエネルギー回復増幅が4%上昇する。","fr":"Augmente l'effet de soin de 10 %.\nAugmente de 4 % l'Amplification de récupération d'Énergie."}
 {"id":1512091,"jp":"世界を柔らかさで満たす","fr":"Emplir le monde de douceur"}
 {"id":1512092,"jp":"抱っこすれば痛くないわ。","fr":"Dans mes bras, la douleur disparaîtra."}
 {"id":1512093,"jp":"距離感がない","fr":"Aucun sens des distances"}
+{"id":1512094,"jp":"アニスのスキルによる回復が発動した時、チーム全体のチャージ攻撃ダメージが10%増加する（効果時間：24秒）。","fr":"Quand le soin de la compétence d'Anais se déclenche, augmente de 10 % les DGT d'Attaque chargée de toute l'équipe (durée : 24 s)."}
 {"id":1512095,"jp":"ペペアメはどこへ？","fr":"Où sont passés les bonbons Pepe ?"}
 {"id":1512096,"jp":"HPが600増加する。\n回復効果が10%上昇する。","fr":"Augmente les PV de 600.\nAugmente l'effet de soin de 10 %."}
 {"id":1512097,"jp":"ひとときの休息","fr":"Un moment de repos"}
 {"id":1512098,"jp":"1日の中で唯一の休憩時間","fr":"L'unique moment de repos de la journée"}
+{"id":1512099,"jp":"療養院のみんなの世話をするため、アニスはよく深夜まで働いていた。","fr":"Pour prendre soin de tout le monde au sanatorium, Anais travaillait souvent jusque tard dans la nuit."}
 {"id":1512100,"jp":"みんなのお母さん","fr":"La maman de tout le monde"}
 {"id":1512102,"jp":"純白の夢","fr":"Un rêve d'un blanc pur"}
+{"id":1512103,"jp":"そこは、星臨者が思わず安心と不安を同時に感じてしまう場所だ。","fr":"Un lieu où l'Enfant des étoiles ressent, malgré soi, apaisement et inquiétude à la fois."}
 {"id":1512104,"jp":"星の川に映るふたつの影","fr":"Deux silhouettes reflétées dans la rivière des étoiles"}
 {"id":1512106,"jp":"縁結びの小仙狐","fr":"La petite renarde céleste qui noue les destins"}
 {"id":1512108,"jp":"心に千の結び目あり","fr":"Mille nœuds dans le cœur"}
 {"id":1512110,"jp":"花薫る紅袖","fr":"Manches pourpres parfumées de fleurs"}
+{"id":1512111,"jp":"EX強度が50上昇する。\n与ダメージが3%増加する。\n風属性ダメージ増幅が8%上昇する。","fr":"Augmente la Puissance EX de 50.\nAugmente de 3 % les DGT infligés.\nAugmente de 8 % l'Amplification des DGT de Vent."}
 {"id":1512112,"jp":"本当に泣けちゃうね……","fr":"Ça donne vraiment envie de pleurer…"}
+{"id":1512113,"jp":"この本はもうなんどもなんども読んだはずなのに、読むとすごく感動しちゃうんだよね。","fr":"Je l'ai lu et relu tant de fois, ce livre, et pourtant chaque lecture me bouleverse, tu sais."}
 {"id":1512114,"jp":"もう一度読んでみようかな？","fr":"Et si je le relisais encore une fois ?"}
 {"id":1512115,"jp":"浮世の夢のなかのひと","fr":"Une âme dans le rêve d'un monde éphémère"}
+{"id":1512116,"jp":"「縁結び」がある間、塗山小玉の星極チャージを1秒ごとに3回復する。\n星極スキルを発動した時、光の刻印を1つ獲得する。","fr":"Tant que « Nouer les liens » est actif, restaure 3 points de charge Zénith stellaire de Xiaoyu chaque seconde.\nQuand elle utilise une Compétence Zénith stellaire, obtient 1 Sceau de Lumière."}
 {"id":1512117,"jp":"運命の赤い糸","fr":"Le fil rouge du destin"}
+{"id":1512118,"jp":"EX強度が50上昇する。\nEX会心率が5%上昇する。\n光属性ダメージ増幅が8%上昇する。","fr":"Augmente la Puissance EX de 50.\nAugmente de 5 % le Taux CRIT EX.\nAugmente de 8 % l'Amplification des DGT de Lumière."}
 {"id":1512119,"jp":"重なる喜び","fr":"Des joies qui se superposent"}
+{"id":1512120,"jp":"架空の物語であれ、真実の良縁であれ、それを目の当たりにするたびに、顔を赤らめ、胸をときめかせてしまうのだった。","fr":"Qu'il s'agisse d'une histoire inventée ou d'une véritable belle rencontre, chaque fois qu'elle en est témoin, elle rougit et sent son cœur s'emballer."}
 {"id":1512121,"jp":"この縁は解く必要、ないよね。","fr":"Il n'est pas nécessaire de défaire ce lien, n'est-ce pas ?"}
 {"id":1512122,"jp":"素敵な結末","fr":"Une jolie fin"}
 {"id":1512123,"jp":"千里の彼方に想い寄せ","fr":"Des pensées par-delà mille lieues"}
 {"id":1512125,"jp":"良き縁と美しき夢","fr":"Belles rencontres et beaux rêves"}
+{"id":1512126,"jp":"縁に導かれて、またあんたはうちのそばに来てくれた。じゃあこの小さな仙狐が、あんたにできることってなにかな？","fr":"Te revoilà près de moi, grâce au destin. Alors, que peut bien faire pour toi cette petite renarde céleste ?"}
 {"id":1512127,"jp":"炎は夜明けまえに囁く","fr":"Les flammes murmurent avant l'aube"}
 {"id":1512129,"jp":"アーティスト","fr":"Artiste"}
+{"id":1512130,"jp":"ロジニア連邦にその名を轟かせる武器アーティスト、『紅き炎雷』参上！","fr":"Artiste des armes dont le nom résonne dans toute la Fédération de Roginia, « Foudre de flammes écarlates » fait son entrée !"}
 {"id":1512131,"jp":"光と影が交錯する誓い","fr":"Un serment où se croisent l'ombre et la lumière"}
 {"id":1512133,"jp":"夢を貫く弾丸","fr":"La balle qui perce les rêves"}
+{"id":1512134,"jp":"攻撃力が50上昇する。\n会心ダメージが8%増加する。\n火属性ダメージ増幅が8%上昇する。","fr":"Augmente l'ATQ de 50.\nAugmente de 8 % les DGT CRIT.\nAugmente de 8 % l'Amplification des DGT de Feu."}
 {"id":1512135,"jp":"大芸術家","fr":"Grande artiste"}
 {"id":1512137,"jp":"夜の帳に杯を","fr":"Trinquer sous le voile de la nuit"}
 {"id":1512139,"jp":"硝子の森を疾る流星","fr":"Un météore filant à travers la forêt de verre"}
+{"id":1512140,"jp":"攻撃力が50上昇する。\n防御貫通が4%上昇する。\n与ダメージが3%増加する。","fr":"Augmente l'ATQ de 50.\nAugmente de 4 % la Pénétration de DÉF.\nAugmente de 3 % les DGT infligés."}
 {"id":1512141,"jp":"スーパーアーティスト","fr":"Super artiste"}
+{"id":1512142,"jp":"魔導と魔法の狭間で、未来への号令を詠唱する『連邦のレジェンド級武器アーティスト』。きらめく光が世界を照らす――ルビーナ！","fr":"Entre magie technique et sortilèges, elle lance le cri de ralliement vers l'avenir : l'« artiste des armes légendaire de la Fédération ». Une lumière scintillante éclaire le monde : voici Ruby !"}
 {"id":1512144,"jp":"未完のオレンジの詩篇","fr":"Poème orange inachevé"}
 {"id":1512146,"jp":"工房でのひととき","fr":"Un moment à l'atelier"}
 {"id":1512148,"jp":"芽吹きの角","fr":"Cornes bourgeonnantes"}
+{"id":1512149,"jp":"カタルのスキルで得たシールドが永続する。\nそのシールドがある時、ブレイク効率が10%上昇する。","fr":"Le bouclier obtenu grâce à la compétence de Katalua devient permanent.\nTant que ce bouclier est actif, augmente de 10 % l'Efficacité de brise."}
 {"id":1512150,"jp":"勇敢なウシさん","fr":"Courageuse petite vache"}
 {"id":1512151,"jp":"わ、わたし、できるよ！安心して任せてね！","fr":"J-je peux le faire ! Tout ira bien, compte sur moi !"}
 {"id":1512152,"jp":"自分に気合いを入れる","fr":"Se donner du courage"}
 {"id":1512153,"jp":"軽やかな蹄の跡","fr":"Traces de sabots légers"}
+{"id":1512154,"jp":"カタルのスキルで得たシールドがある時、操作キャラクターの与ダメージが10%増加する。","fr":"Tant que le bouclier obtenu grâce à la compétence de Katalua est actif, augmente de 10 % les DGT infligés par le personnage contrôlé."}
 {"id":1512155,"jp":"しっぽのメロディ","fr":"La mélodie de la queue"}
+{"id":1512156,"jp":"防御力が50上昇する。\nエネルギー回復増幅が4%上昇する。","fr":"Augmente la DÉF de 50.\nAugmente de 4 % l'Amplification de récupération d'Énergie."}
 {"id":1512157,"jp":"隠し下手","fr":"Incapable de cacher ses émotions"}
 {"id":1512158,"jp":"一目でわかる心の内","fr":"Ses sentiments se lisent d'un coup d'œil."}
 {"id":1512159,"jp":"すっごく照れちゃうよぉ……うぅ……","fr":"C'est tellement embarrassant… Ouh…"}
 {"id":1512160,"jp":"耳のぴくぴく","fr":"Oreilles qui frémissent"}
+{"id":1512161,"jp":"カタルのスキルで得たシールドがある時、操作キャラクターの被ダメージが20%減少する。","fr":"Tant que le bouclier obtenu grâce à la compétence de Katalua est actif, réduit de 20 % les DGT subis par le personnage contrôlé."}
 {"id":1512162,"jp":"伸びた背筋","fr":"Le dos bien droit"}
 {"id":1512163,"jp":"揺れても落ちない","fr":"Secouée, mais jamais à terre"}
 {"id":1512164,"jp":"わたしは絶対に……うぅ……引き下がらない！","fr":"Je ne reculerai… Ouh… jamais !"}
@@ -14205,26 +14235,37 @@
 {"id":1512169,"jp":"堅盾の背後","fr":"Derrière le bouclier solide"}
 {"id":1512171,"jp":"歓声！旅のはじまり","fr":"Hourra ! Le voyage commence"}
 {"id":1512173,"jp":"元気な案内娘","fr":"Une guide pleine d'entrain"}
+{"id":1512174,"jp":"『冒険者協会の受付』と『キボファイト組合の案内人』を兼任している。","fr":"Elle est à la fois « l'accueil de la Guilde des aventuriers » et « le guide de l'Association de Duel de Kibo »."}
 {"id":1512175,"jp":"お役に立ててうれしいなぁ～","fr":"Ça me fait tellement plaisir d'avoir pu aider ~"}
 {"id":1512176,"jp":"躍動！夢幻の舞台","fr":"En avant ! La scène des rêves"}
 {"id":1512178,"jp":"回れ！ファイトのリボン","fr":"Tourne, ruban du combat !"}
 {"id":1512179,"jp":"優しい子猫","fr":"Un chaton tout gentil"}
 {"id":1512180,"jp":"つらいときは、ひとりで無理しちゃ駄目だよ！","fr":"Quand ça devient difficile, il ne faut pas tout affronter sans aide !"}
 {"id":1512181,"jp":"メイプルは冒険者さんをすっごく心配してるからね！","fr":"Maple s'inquiète énormément pour son compagnon d'aventure !"}
+{"id":1512182,"jp":"メイプルの星閃スキルがエネミーに命中した後、対象の光属性被ダメージが8%増加する（効果時間：24秒）。","fr":"Après que la Compétence Éclair stellaire de Maple a touché un ennemi, augmente de 8 % les DGT de Lumière subis par la cible (durée : 24 s)."}
 {"id":1512183,"jp":"きらめけ！瞳の躍動","fr":"Brille, regard pétillant !"}
+{"id":1512184,"jp":"だが、作業時の彼女の態度は非常にプロフェッショナルだ。","fr":"Mais au travail, son attitude est on ne peut plus professionnelle."}
+{"id":1512185,"jp":"太陽のように明るく活発な性格から、メイプルはみんなに愛されている。些細な問題に対しては、たまに『愛嬌でごまかす』ことも。","fr":"Avec son caractère lumineux et vif comme le soleil, Maple est aimée de tous. Face aux petits soucis, il lui arrive de « s'en tirer par le charme »."}
 {"id":1512186,"jp":"だってあたし、かわいいからにゃ～","fr":"C'est parce que je suis adorable, nya ~"}
 {"id":1512187,"jp":"公私はきっちり分けるにゃ！","fr":"Je sépare toujours le travail de ma vie privée, nya !"}
+{"id":1512188,"jp":"メイプルが星響スキルを発動した後は毎回、チーム全体のEX強度が6%上昇する（最大2スタック、効果時間：20秒）。","fr":"Chaque fois que Maple utilise sa Compétence Écho stellaire, augmente de 6 % la Puissance EX de toute l'équipe (2 cumuls max., durée : 20 s)."}
 {"id":1512189,"jp":"甘い愛","fr":"Un amour tout doux"}
+{"id":1512190,"jp":"もう、すっごーい！こんなに胸が高鳴るひと、初めて出会ったよ。冒険者さん、だ〜い好きだよ！","fr":"Oh là là, c'est génial ! C'est la première fois que je rencontre quelqu'un qui me fait battre le cœur comme ça. Partenaire d'aventure, je t'adore !"}
 {"id":1512191,"jp":"暗中に蓄えし根の力","fr":"La force des racines amassée dans l'ombre"}
 {"id":1512193,"jp":"翠緑の英冠","fr":"La couronne vert émeraude"}
+{"id":1512194,"jp":"長い旅になるけれど、花々が美しく咲き誇るそのときまで、あなたとともに歩めることを願うわ。","fr":"Ce sera un long voyage, mais j'espère marcher à tes côtés jusqu'au moment où les fleurs s'épanouiront dans toute leur beauté."}
 {"id":1512195,"jp":"エヴァーガーデンのガーデナー","fr":"Jardinier du Jardin d'Evergreen"}
 {"id":1512197,"jp":"光のなか芽吹く新芽","fr":"Une pousse qui germe dans la lumière"}
 {"id":1512198,"jp":"ときを超える価値","fr":"Une valeur qui traverse le temps"}
+{"id":1512199,"jp":"こうしてイグドラシルの一枝を守ることは、私の使命であり、この上ない栄誉なの。","fr":"Veiller ainsi sur une branche d'Yggdrasil est ma mission, et le plus grand des honneurs."}
 {"id":1512200,"jp":"風と語らう樹冠","fr":"La cime qui parle au vent"}
 {"id":1512202,"jp":"静寂に咲き誇る花","fr":"Une fleur éclose dans le silence"}
 {"id":1512203,"jp":"キボの友","fr":"L'amie des Kibo"}
+{"id":1512204,"jp":"この子たちはね、私の目の届かない場所を歩きまわって、帰ってくるとおもしろいお話をたくさん聞かせてくれるの。","fr":"Ces petits compagnons parcourent des endroits que mon regard n'atteint pas, et à leur retour, ils me racontent plein d'histoires amusantes."}
+{"id":1512205,"jp":"彼女のために、花の枝や木の種をくわえてきたり、おとなしく撫でさせてくれたり、一緒に森の小川を渡ったり……","fr":"Pour elle, ils rapportent des brindilles fleuries ou des graines d'arbres, se laissent caresser sagement, traversent avec elle les ruisseaux de la forêt…"}
 {"id":1512206,"jp":"数多の生命","fr":"Des vies innombrables"}
 {"id":1512208,"jp":"午後","fr":"Après-midi"}
+{"id":1512209,"jp":"ごきげんよう。いいお天気で、風も心地よくて……こんな日は、一緒に過ごすのにちょうどいいわね。","fr":"Bien le bonjour. Il fait beau, le vent est agréable… Par une journée pareille, il fait bon la passer ensemble."}
 {"id":1512211,"jp":"千代","fr":"Chiyo"}
 {"id":1512212,"jp":"キャラ説明の設定待ち","fr":"Description du personnage à venir"}
 {"id":1512213,"jp":"散策エリア1","fr":"Zone de promenade 1"}
@@ -14234,25 +14275,57 @@
 {"id":1512217,"jp":"平らな空き地。様々な建物を設置できます。","fr":"Un terrain plat et vacant. Vous pouvez y installer divers bâtiments."}
 {"id":1512218,"jp":"2号建築エリア","fr":"Zone de construction 2"}
 {"id":1512219,"jp":"Lv.1牧場","fr":"Pâturage Nv. 1"}
+{"id":1512220,"jp":"緑豊かな牧場。キボを配置すると、対応するドロップアイテムを獲得できます。","fr":"Un pâturage verdoyant. Placer des Kibo permet d'obtenir les objets correspondants."}
 {"id":1512221,"jp":"2号建築エリア-2段階拡張","fr":"Zone de construction 2 - Extension 2"}
 {"id":1512222,"jp":"1号建築エリア-2段階拡張","fr":"Zone de construction 1 - Extension 2"}
 {"id":1512223,"jp":"牧場の産出時間-{value}される。","fr":"Temps de production du pâturage réduit de {value}."}
+{"id":1512224,"jp":"牧場の産出量が2倍になる確率が+{value}される。","fr":"Augmente de {value} la chance de doubler la production du pâturage."}
+{"id":1512225,"jp":"{name}系作物は{value}の確率で種を消費しなくなる。","fr":"Les cultures de type {name} ont {value} de chances de ne pas consommer de graine."}
+{"id":1512226,"jp":"{name}系作物は{value}の確率で種子のレベルが上昇する。","fr":"Les cultures de type {name} ont {value} de chances d'augmenter le niveau de leur graine."}
+{"id":1512227,"jp":"{name}系作物の収穫までの時間が{value}短縮される。","fr":"Réduit de {value} le délai de récolte des cultures de type {name}."}
 {"id":1512228,"jp":"畑の最大貯水容量が{value}増加する。","fr":"Augmente la capacité maximale de stockage d'eau des champs de {value}."}
+{"id":1512229,"jp":"作物の収穫時{value}の確率で収穫量が2倍になる。","fr":"À la récolte, {value} de chances de doubler la quantité récoltée."}
+{"id":1512230,"jp":"{name}で、すべてのアイテムの生産時間がx%短縮される。","fr":"À {name}, réduit de x % le temps de production de tous les objets."}
+{"id":1512231,"jp":"{name}で、生産完成後、生産量が2倍になる確率+{value}される。","fr":"À {name}, augmente de {value} la chance de doubler la quantité produite une fois la production terminée."}
+{"id":1512232,"jp":"{name}で、すべてのアイテムの加工時間が{value}短縮される。","fr":"À {name}, réduit de {value} le temps de transformation de tous les objets."}
+{"id":1512233,"jp":"{name}で、加工完了後{value}の確率で素材が返却される。","fr":"À {name}, {value} de chances de récupérer les matériaux une fois la transformation terminée."}
+{"id":1512234,"jp":"{name}で、生産時に{value}の確率で生産量が2倍になる。","fr":"À {name}, {value} de chances de doubler la quantité produite lors de la production."}
+{"id":1512235,"jp":"{name}属性のタマゴの孵化時間が{value}秒短縮される。","fr":"Réduit de {value} secondes le temps d'éclosion des œufs d'élément {name}."}
+{"id":1512236,"jp":"{name}属性のタマゴの孵化時間が-{value}される。","fr":"Temps d'éclosion des œufs d'élément {name} : -{value}."}
+{"id":1512237,"jp":"{name}属性のタマゴから孵化したキボが【Yレアリティ遺伝子】を持つ確率が+{value}される。","fr":"Augmente de {value} la probabilité que les Kibo éclos d'œufs d'élément {name} possèdent un 【gène de rareté Y】."}
+{"id":1512238,"jp":"{name}属性のタマゴから孵化したキボがより多くの遺伝子を持つようになる。","fr":"Les Kibo éclos d'œufs d'élément {name} possèdent davantage de gènes."}
+{"id":1512239,"jp":"{name}で、特殊採集物のドロップ量が2倍になる確率が+{value}される。","fr":"À {name}, augmente de {value} la chance de doubler la quantité d'objets de collecte spéciaux obtenus."}
+{"id":1512240,"jp":"{name2011}で、{name2024}元素のアイテムの生産量が2倍になる確率が+{value}される。","fr":"À {name2011}, augmente de {value} la chance de doubler la quantité d'objets de l'élément {name2024} produits."}
+{"id":1512241,"jp":"牧場で{name}系のアイテムの追加ドロップの確率が+{value}される。","fr":"Au pâturage, augmente de {value} la chance d'obtenir en plus des objets de type {name}."}
+{"id":1512242,"jp":"{name2021}で、{name2026}元素のアイテムの生産量が2倍になる確率が+{value}される。","fr":"À {name2021}, augmente de {value} la chance de doubler la quantité d'objets de l'élément {name2026} produits."}
+{"id":1512243,"jp":"{name}で、全レシピの所要時間は{value}まで短縮される。","fr":"À {name}, le temps requis pour toutes les recettes peut être réduit jusqu'à {value}."}
+{"id":1512270,"jp":"元素微粒子の保管上限が<color=#ef903d>{0}</color>増加する","fr":"Augmente de <color=#ef903d>{0}</color> la capacité de stockage des particules élémentaires"}
+{"id":1512280,"jp":"餌場で産出されるキボの卵に<color=#ef903d>高個体値</color>の特性が付く確率が上昇する","fr":"Augmente la chance que les œufs de Kibo produits à l'aire de nourrissage aient le trait <color=#ef903d>haut potentiel</color>"}
 {"id":1512281,"jp":"低確率でレアなキボの卵を産出する","fr":"Faible probabilité de produire un œuf de Kibo Rare"}
+{"id":1512282,"jp":"餌場で産出されるキボの卵に<color=#ef903d>輝く</color>の特性が付く確率が上昇する","fr":"Augmente la chance que les œufs de Kibo produits à l'aire de nourrissage aient le trait <color=#ef903d>brillant</color>"}
+{"id":1512285,"jp":"餌場で産出されるキボの卵に<color=#ef903d>星彩</color>の特性が付く確率が上昇する","fr":"Augmente la chance que les œufs de Kibo produits à l'aire de nourrissage aient le trait <color=#ef903d>étoilé</color>"}
 {"id":1512287,"jp":"<color=#ef903d>完全な獣皮</color>の1日あたりの産出量<color=#ef903d>+72</color>","fr":"Production quotidienne de <color=#ef903d>peau de bête intacte</color> <color=#ef903d>+72</color>"}
 {"id":1512288,"jp":"作業台","fr":"Établi"}
+{"id":1512289,"jp":"設備、装飾物、道具、鞍を製造できる素朴で頑丈な作業台。農園内の適切なエリアに設置可能。","fr":"Un établi simple et robuste, qui permet de fabriquer installations, décorations, outils et selles. Peut être installé dans une zone adaptée de la ferme."}
 {"id":1512290,"jp":"キボの食堂","fr":"Cantine des Kibo"}
 {"id":1512292,"jp":"溶鉱炉","fr":"Fonderie"}
+{"id":1512293,"jp":"インゴット、木炭、炎核を焼成できる溶鉱炉。農園内の適切なエリアに設置可能。","fr":"Une fonderie qui permet de produire des lingots, du charbon de bois et des noyaux de flamme. Peut être installé dans une zone adaptée de la ferme."}
 {"id":1512294,"jp":"武器製作台","fr":"Établi d'armes"}
+{"id":1512295,"jp":"シンプルで実用的な装備品を製造できる簡素な装備台。農園内の適切なエリアに設置可能。","fr":"Un établi d'équipement sobre, qui permet de fabriquer des équipements simples et pratiques. Peut être installé dans une zone adaptée de la ferme."}
 {"id":1512296,"jp":"製革台","fr":"Table de tannage"}
+{"id":1512297,"jp":"皮革を製造できる製革台。農園内の適切なエリアに設置可能。","fr":"Une table de tannage qui permet de fabriquer des cuirs. Peut être installé dans une zone adaptée de la ferme."}
 {"id":1512298,"jp":"紡ぎ車","fr":"Rouet"}
+{"id":1512299,"jp":"編み物を製造できる紡ぎ車。農園内の適切なエリアに設置可能。","fr":"Un rouet qui permet de fabriquer des tricots. Peut être installé dans une zone adaptée de la ferme."}
 {"id":1512300,"jp":"元素石炉","fr":"Four de pierre élémentaire"}
 {"id":1512302,"jp":"錬金台","fr":"Table d'alchimie"}
 {"id":1512304,"jp":"調理鍋","fr":"Marmite"}
+{"id":1512305,"jp":"様々な料理を作れる、石でできたシンプルな調理鍋。農園内の適切なエリアに設置可能。","fr":"Une marmite en pierre, toute simple, pour préparer toutes sortes de plats. Peut être installé dans une zone adaptée de la ferme."}
+{"id":1512306,"jp":"ステラカードとアニマを製造できる石台。農園内の適切なエリアに設置可能。","fr":"Un socle en pierre qui permet de fabriquer des cartes Stella et des Anima. Peut être installé dans une zone adaptée de la ferme."}
 {"id":1512307,"jp":"チシキの丸木舟","fr":"Pirogue de Chishiki"}
 {"id":1512309,"jp":"かがり火の柱","fr":"Pilier de feu de joie"}
 {"id":1512311,"jp":"火鉢","fr":"Brasero"}
 {"id":1512313,"jp":"板台車","fr":"Chariot à planches"}
+{"id":1512314,"jp":"シャルル村風の装飾設備。農園内の適したエリアに設置可能。\n荷物を運ぶための板台車。ときにはキボが動かすこともある。","fr":"Un équipement décoratif dans le style du Village de Charlulu. Peut être installé dans une zone adaptée de la ferme.\nUn chariot à planches pour transporter des charges. Parfois, ce sont des Kibo qui le font avancer."}
 {"id":1512315,"jp":"祭霊の神鼓","fr":"Tambour sacré des rites spirituels"}
 {"id":1512317,"jp":"シャルル村の魚屋台","fr":"Étal de poisson du Village de Charlulu"}
 {"id":1512319,"jp":"ライラックの鉢植え","fr":"Lilas en pot"}
@@ -14271,19 +14344,35 @@
 {"id":1512346,"jp":"フィールド採集派遣","fr":"Affectation à la collecte sur le terrain"}
 {"id":1512347,"jp":"キボを派遣できるフィールド採集設備の数を増やす","fr":"Augmente le nombre d'installations de collecte en extérieur disponibles pour l'Affectation de Kibo"}
 {"id":1512348,"jp":"防具製作台","fr":"Établi d'armures"}
+{"id":1512349,"jp":"シンプルで実用的な装備品を製造できる簡素な防具製作台。農園内の適切なエリアに設置可能。","fr":"Un établi d'armures sobre, qui permet de fabriquer des équipements simples et pratiques. Peut être installé dans une zone adaptée de la ferme."}
 {"id":1512350,"jp":"製粉所","fr":"Moulin à farine"}
+{"id":1512352,"jp":"各種食材を加工できる製粉所。農園内の適切なエリアに設置可能。","fr":"Un moulin à farine qui permet de transformer toutes sortes d'ingrédients. Peut être installé dans une zone adaptée de la ferme."}
 {"id":1512354,"jp":"精錬所","fr":"Raffinerie"}
+{"id":1512355,"jp":"より上級の鉱石インゴット、木炭、炎核を焼成できる溶鉱炉。農園内の適切なエリアに設置可能。","fr":"Une fonderie qui permet de produire des lingots de minerai plus avancés, du charbon de bois et des noyaux de flamme. Peut être installé dans une zone adaptée de la ferme."}
 {"id":1512356,"jp":"製革所","fr":"Tannerie"}
+{"id":1512357,"jp":"高級皮革を製造できるなめし革工房。農園内の適切なエリアに設置可能。","fr":"Une tannerie qui permet de fabriquer des cuirs de grande qualité. Peut être installé dans une zone adaptée de la ferme."}
 {"id":1512358,"jp":"織物工房","fr":"Atelier de tissage"}
+{"id":1512359,"jp":"高級の織物を製造できる紡績機。農園内の適切なエリアに設置可能。","fr":"Une machine de filature qui permet de fabriquer des tissus de grande qualité. Peut être installé dans une zone adaptée de la ferme."}
 {"id":1512360,"jp":"工作工房","fr":"Atelier d'artisanat"}
+{"id":1512361,"jp":"より高度な設備、装飾物、道具や鞍を製造できる精密作業台。農園内の適切なエリアに設置可能。","fr":"Un établi de précision qui permet de fabriquer des installations, des décorations, des outils et des selles plus évolués. Peut être installé dans une zone adaptée de la ferme."}
+{"id":1512362,"jp":"研磨・精密鍛造に使うさまざまな道具が備わっており、より上級の武器を製造できる鍛造旋盤。農園内の適切なエリアに設置可能。","fr":"Un tour de forge équipé de divers outils de polissage et de forge de précision, qui permet de fabriquer des armes de rang supérieur. Peut être installé dans une zone adaptée de la ferme."}
 {"id":1512363,"jp":"防具工房","fr":"Atelier d'armures"}
+{"id":1512364,"jp":"防具製作台をもとに小屋を増築した設備で、より上級の防具を製造できる防具工房。農園内の適切なエリアに設置可能。","fr":"Un atelier d'armures, bâti en agrandissant l'établi d'armures d'une cabane, qui permet de fabriquer des armures de rang supérieur. Peut être installé dans une zone adaptée de la ferme."}
 {"id":1512365,"jp":"調理場","fr":"Cuisine"}
+{"id":1512366,"jp":"高級料理を製作できる調理場。農園内の適切なエリアに設置可能。","fr":"Une cuisine qui permet de préparer des plats raffinés. Peut être installé dans une zone adaptée de la ferme."}
+{"id":1512367,"jp":"小さな畑。農園内の適したエリアに設置可能。\n肥沃な大地に眠る生命力が、種に息吹を与えてくれる。","fr":"Un petit champ. Peut être installé dans une zone adaptée de la ferme.\nLa vie qui dort dans la terre fertile insuffle son souffle aux graines."}
 {"id":1512368,"jp":"シャルル風の寮","fr":"Dortoir façon Charlulu"}
+{"id":1512369,"jp":"仲間のために建設した住居。農園内の適したエリアに設置可能。\n設置後、仲間を誘って入居してもらおう。","fr":"Une habitation bâtie pour les compagnons. Peut être installé dans une zone adaptée de la ferme.\nUne fois installée, invitez vos compagnons à y emménager."}
 {"id":1512370,"jp":"フリス風の寮","fr":"Dortoir façon Fleece"}
 {"id":1512372,"jp":"そのほかの注文種別","fr":"Autres types de commandes"}
 {"id":1512373,"jp":"元素の星楔","fr":"Coin d'étoile élémentaire"}
 {"id":1512375,"jp":"果樹園","fr":"Verger"}
+{"id":1512376,"jp":"木材と果物を産出する小さな庭園。農園内の適切な場所に配置できる。小さな木ほど、大切に育てる必要がある。","fr":"Un petit jardin qui produit du bois et des fruits. Peut être placé à un endroit adapté de la ferme. Plus un arbre est petit, plus il faut en prendre soin."}
 {"id":1512377,"jp":"風銅採鉱場","fr":"Mine de cuivre du vent"}
+{"id":1512378,"jp":"キボを派遣すると鉱物や石材を産出する重要な設備。農園内の適切な場所に配置できる。","fr":"Une installation importante qui produit minerais et pierres lorsqu'on y envoie des Kibo en Affectation. Peut être placé à un endroit adapté de la ferme."}
+{"id":1512379,"jp":"キボを派遣すると星輝鉱を産出する重要な設備。農園内の適切な場所に配置できる。","fr":"Une installation importante qui produit du minerai d'éclat stellaire lorsqu'on y envoie des Kibo en Affectation. Peut être placé à un endroit adapté de la ferme."}
+{"id":1512380,"jp":"キボを派遣すると各属性の元素の微粒子を産出する重要な設備。農園内の適切な場所に配置できる。","fr":"Une installation importante qui produit des particules élémentaires de chaque élément lorsqu'on y envoie des Kibo en Affectation. Peut être placé à un endroit adapté de la ferme."}
+{"id":1512381,"jp":"キボを派遣するとキボのタマゴ、獣肉、獣皮を産出する重要な設備。農園内の適切な場所に配置できる。","fr":"Une installation importante qui produit des œufs de Kibo, de la viande de bête et des peaux de bête lorsqu'on y envoie des Kibo en Affectation. Peut être placé à un endroit adapté de la ferme."}
 {"id":1512382,"jp":"キボ展示台","fr":"Présentoir à Kibo"}
 {"id":1512383,"jp":"スターリンクしたキボたちの展示ステージ","fr":"Espace d'exposition des Kibo obtenus par Lien stellaire"}
 {"id":1512384,"jp":"閃錫採鉱場","fr":"Mine d'étain scintillant"}
@@ -14365,8 +14454,11 @@
 {"id":1512471,"jp":"おもちゃの木馬","fr":"Cheval à bascule"}
 {"id":1512472,"jp":"掛け軸の棚","fr":"Étagère à rouleaux"}
 {"id":1512473,"jp":"メーツァ・翠緑の秘苑","fr":"Metsa : Jardin secret émeraude"}
+{"id":1512474,"jp":"木陰に抱かれた静かな秘密の庭。選ばれた者にのみ開かれる密やかな夢が隠されている。","fr":"Un jardin secret et paisible, blotti à l'ombre des arbres. Il cache un rêve discret, ouvert aux seuls élus."}
 {"id":1512475,"jp":"塗山小玉・春還る花亭","fr":"Tushan Xiaoyu : Pavillon du printemps revenu"}
+{"id":1512476,"jp":"「去りゆく春はどこにもないと嘆いていたが、まさかここにあったとは」","fr":"« Je pleurais le printemps qui s'en va, introuvable, et il était là depuis le début. »"}
 {"id":1512477,"jp":"ペイペイ・聴竹の庵","fr":"Peipei : Ermitage du bambou qui écoute"}
+{"id":1512478,"jp":"竹の影が揺れる小さな住処。ここでは快適さと楽しさがもっとも重要。\n獲得するとペイペイ専用の寮とパジャマ姿が解放されます。","fr":"Une petite demeure où dansent les ombres du bambou. Ici, le confort et le plaisir passent avant tout.\nL'obtenir débloque le dortoir exclusif de Peipei et sa tenue en pyjama."}
 {"id":1512482,"jp":"メーツァ・青陰の秘苑","fr":"Metsa : Jardin secret de l'ombre bleue"}
 {"id":1512483,"jp":"フリス・暖陽の間","fr":"Fleece : Salle du soleil tiède"}
 {"id":1512484,"jp":"きゃっ、もう……イタズラはだめよ。","fr":"Ah ! Enfin… Pas de petites farces."}
@@ -14381,6 +14473,7 @@
 {"id":1512493,"jp":"はっ――やっ！","fr":"Ha… yah !"}
 {"id":1512494,"jp":"もう一回？","fr":"Encore une fois ?"}
 {"id":1512495,"jp":"ふっ、やっ、そぉれ！どう？えへっ！","fr":"Hop, yah, et voilà ! Alors ? Hé hé !"}
+{"id":1512496,"jp":"うちはまだまだ、こんなもんじゃないよ～\nほら、続けよ！","fr":"Moi, je suis loin d'avoir tout donné~\nAllez, on continue !"}
 {"id":1512497,"jp":"あれ？どっか行っちゃった？","fr":"Hein ? Elle a roulé quelque part ?"}
 {"id":1512498,"jp":"うー、あんな奥に……","fr":"Oh, c'est parti tout au fond…"}
 {"id":1512499,"jp":"ふふっ、よーし！いくよっ！","fr":"Hé hé, très bien ! C'est parti !"}
@@ -14566,6 +14659,7 @@
 {"id":1512692,"jp":"木材と鉱石の特級依頼","fr":"Commande spéciale de bois et minerais"}
 {"id":1512693,"jp":"花火工房の大量仕入れ","fr":"Achat en gros de l'atelier de feux d'artifice"}
 {"id":1512694,"jp":"鉱","fr":"Minerai"}
+{"id":1512695,"jp":"本日の追加価格上昇分。詳細は取引所の商品売却にてにて確認可能です。","fr":"Hausse de prix supplémentaire du jour. Les détails sont consultables dans la vente de marchandises du Comptoir d'échange."}
 {"id":1512696,"jp":"石","fr":"Pierre"}
 {"id":1512697,"jp":"動物素材","fr":"Matériaux animaux"}
 {"id":1512698,"jp":"革","fr":"Cuir"}
@@ -14589,22 +14683,30 @@
 {"id":1512716,"jp":"野外採掘","fr":"Minage sur le terrain"}
 {"id":1512717,"jp":"点火","fr":"Allumage"}
 {"id":1512718,"jp":"農園の生産効率が{0}上昇する","fr":"Augmente l'efficacité de production de la ferme de {0}"}
+{"id":1512719,"jp":"対応する生産設備に派遣すると、レシピの生産効率が<color=#767770>{0}</color>上昇する。","fr":"Lors d'une Affectation à l'installation de production correspondante, augmente de <color=#767770>{0}</color> l'efficacité de production des recettes."}
 {"id":1512720,"jp":"生産効率","fr":"Efficacité de production"}
 {"id":1512721,"jp":"効率+{0}","fr":"Efficacité +{0}"}
 {"id":1512722,"jp":"手作業","fr":"Travail manuel"}
 {"id":1512723,"jp":"採集効率が{0}上昇する。","fr":"Augmente l'efficacité de collecte de {0}."}
+{"id":1512724,"jp":"対応する採集設備に派遣すると、産物の採集効率が<color=#767770>{0}</color>上昇する。","fr":"Lors d'une Affectation à l'installation de collecte correspondante, augmente de <color=#767770>{0}</color> l'efficacité de collecte des produits."}
 {"id":1512725,"jp":"採集効率","fr":"Efficacité de cueillette"}
 {"id":1512726,"jp":"畑仕事","fr":"Travaux des champs"}
+{"id":1512727,"jp":"種まき時に果樹以外の種を消費しない確率が{0}上昇する","fr":"Augmente de {0} la probabilité de ne pas consommer de graines (hors arbres fruitiers) lors du semis"}
+{"id":1512728,"jp":"収穫時に追加で果樹以外の種を獲得する確率が{0}上昇する","fr":"Augmente de {0} la probabilité d'obtenir en plus des graines (hors arbres fruitiers) lors de la récolte"}
+{"id":1512729,"jp":"畑小屋に派遣すると種まきを手伝い、<color=#767770>{0}</color>の確率で果樹以外の種を消費しない","fr":"Lors d'une Affectation à la cabane des champs, aide à semer et a <color=#767770>{0}</color> de chances de ne pas consommer de graines (hors arbres fruitiers)"}
+{"id":1512730,"jp":"収穫を手伝う際、追加で果樹以外の種を獲得する確率が<color=#767770>{0}</color>上昇する","fr":"Quand il aide à la récolte, augmente de <color=#767770>{0}</color> la probabilité d'obtenir en plus des graines (hors arbres fruitiers)"}
 {"id":1512731,"jp":"種の回収","fr":"Récupération des graines"}
 {"id":1512732,"jp":"種の収穫","fr":"Récolte des graines"}
 {"id":1512733,"jp":"回収確率+{0}","fr":"Chance de récupération +{0}"}
 {"id":1512734,"jp":"種獲得確率+{0}","fr":"Chance d'obtenir des graines +{0}"}
 {"id":1512735,"jp":"作物の成長速度が{0}上昇する。","fr":"Augmente la vitesse de croissance des cultures de {0}."}
+{"id":1512736,"jp":"畑小屋に派遣すると、水やりを手伝い、作物の成長速度が<color=#767770>{0}</color>上昇する。","fr":"Lors d'une Affectation à la cabane des champs, aide à l'arrosage et augmente de <color=#767770>{0}</color> la vitesse de croissance des cultures."}
 {"id":1512737,"jp":"作物への水やり","fr":"Arrosage des cultures"}
 {"id":1512738,"jp":"成長速度+{0}","fr":"Vitesse de croissance +{0}"}
 {"id":1512739,"jp":"世話","fr":"Entretien"}
 {"id":1512740,"jp":"農園内の孵化効率が{0}上昇する。","fr":"Augmente l'efficacité d'incubation de la ferme de {0}."}
 {"id":1512741,"jp":"牧場内の産出効率が{0}上昇する。","fr":"Augmente l'efficacité de production du pâturage de {0}."}
+{"id":1512742,"jp":"孵化ポストに派遣すると、キボのタマゴの孵化効率が<color=#767770>{0}</color>上昇する。","fr":"Lors d'une Affectation au poste d'éclosion, augmente de <color=#767770>{0}</color> l'efficacité d'éclosion des œufs de Kibo."}
 {"id":1512744,"jp":"孵化効率","fr":"Efficacité d'éclosion"}
 {"id":1512745,"jp":"牧場の収穫","fr":"Récolte du pâturage"}
 {"id":1512746,"jp":"鍛造","fr":"Forge"}
@@ -14844,6 +14946,9 @@
 {"id":1512981,"jp":"採鉱場に派遣時、採掘間隔-10%。","fr":"Lors d'une Affectation à la mine, intervalle de Minage -10 %."}
 {"id":1512982,"jp":"採鉱の直感","fr":"Intuition minière"}
 {"id":1512983,"jp":"直感","fr":"Intuition"}
+{"id":1512984,"jp":"採鉱場に派遣時、採掘成功時に3%の確率で産出量2倍。","fr":"Lors d'une Affectation à la mine, 3 % de chances de doubler la production à chaque minage réussi."}
+{"id":1512985,"jp":"採鉱場に派遣時、採掘成功時に5%の確率で産出量2倍。","fr":"Lors d'une Affectation à la mine, 5 % de chances de doubler la production à chaque minage réussi."}
+{"id":1512986,"jp":"採鉱場に派遣時、採掘成功時に10%の確率で産出量2倍。","fr":"Lors d'une Affectation à la mine, 10 % de chances de doubler la production à chaque minage réussi."}
 {"id":1512987,"jp":"小食の頼れる味方","fr":"Allié fiable au petit appétit"}
 {"id":1512988,"jp":"小食","fr":"Petit appétit"}
 {"id":1512989,"jp":"採鉱場に派遣時、満腹度の消費-3%。","fr":"Lors d'une Affectation à la mine, consommation de satiété -3 %."}
@@ -14854,8 +14959,14 @@
 {"id":1512994,"jp":"果樹園に派遣時、伐採間隔-5%。","fr":"Lors d'une Affectation au verger, intervalle de Bûcheronnage -5 %."}
 {"id":1512995,"jp":"果樹園に派遣時、伐採間隔-10%。","fr":"Lors d'une Affectation au verger, intervalle de Bûcheronnage -10 %."}
 {"id":1512996,"jp":"伐採の直感","fr":"Intuition du bûcheronnage"}
+{"id":1512997,"jp":"果樹園に派遣時、伐採成功時に3%の確率で産出量2倍。","fr":"Lors d'une Affectation au verger, 3 % de chances de doubler la production à chaque bûcheronnage réussi."}
+{"id":1512998,"jp":"果樹園に派遣時、伐採成功時に5%の確率で産出量2倍。","fr":"Lors d'une Affectation au verger, 5 % de chances de doubler la production à chaque bûcheronnage réussi."}
+{"id":1512999,"jp":"果樹園に派遣時、伐採成功時に10%の確率で産出量2倍。","fr":"Lors d'une Affectation au verger, 10 % de chances de doubler la production à chaque bûcheronnage réussi."}
 {"id":1513000,"jp":"紡績の天性","fr":"Don du filage"}
 {"id":1513001,"jp":"天性","fr":"Don"}
+{"id":1513002,"jp":"紡ぎ車、織物工房に派遣時、加工完了後に1%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation au rouet ou à l'atelier de tissage, 1 % de chances de récupérer 1 matériau de base après la transformation."}
+{"id":1513003,"jp":"紡ぎ車、織物工房に派遣時、加工完了後に1.5%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation au rouet ou à l'atelier de tissage, 1,5 % de chances de récupérer 1 matériau de base après la transformation."}
+{"id":1513004,"jp":"紡ぎ車、織物工房に派遣時、加工完了後に2%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation au rouet ou à l'atelier de tissage, 2 % de chances de récupérer 1 matériau de base après la transformation."}
 {"id":1513005,"jp":"紡績パイオニア","fr":"Pionnier du filage"}
 {"id":1513006,"jp":"紡ぎ車、織物工房に派遣時、加工の所要時間-3%。","fr":"Lors d'une Affectation au rouet ou à l'atelier de tissage, temps de transformation -3 %."}
 {"id":1513007,"jp":"紡ぎ車、織物工房に派遣時、加工の所要時間-5%。","fr":"Lors d'une Affectation au rouet ou à l'atelier de tissage, temps de transformation -5 %."}
@@ -14869,27 +14980,48 @@
 {"id":1513015,"jp":"餌やり場に派遣時、産出間隔-5%。","fr":"Lors d'une Affectation à l'aire de nourrissage, intervalle de production -5 %."}
 {"id":1513016,"jp":"餌やり場に派遣時、産出間隔-10%。","fr":"Lors d'une Affectation à l'aire de nourrissage, intervalle de production -10 %."}
 {"id":1513017,"jp":"狩猟の直感","fr":"Intuition de chasse"}
+{"id":1513018,"jp":"餌やり場に派遣時、狩猟成功時に3%の確率で産出量2倍。","fr":"Lors d'une Affectation à l'aire de nourrissage, 3 % de chances de doubler la production à chaque chasse réussie."}
+{"id":1513019,"jp":"餌やり場に派遣時、狩猟成功時に5%の確率で産出量2倍。","fr":"Lors d'une Affectation à l'aire de nourrissage, 5 % de chances de doubler la production à chaque chasse réussie."}
+{"id":1513020,"jp":"餌やり場に派遣すると、狩猟に成功するたびに10%の確率で産出量が2倍になる。","fr":"Lors d'une Affectation à l'aire de nourrissage, 10 % de chances de doubler la production à chaque chasse réussie."}
 {"id":1513021,"jp":"元素パイオニア","fr":"Pionnier des éléments"}
 {"id":1513022,"jp":"元素石炉に派遣時、加工の所要時間-3%。","fr":"Lors d'une Affectation au four à pierres élémentaires, temps de transformation -3 %."}
 {"id":1513023,"jp":"元素石炉に派遣時、加工の所要時間-5%。","fr":"Lors d'une Affectation au four à pierres élémentaires, temps de transformation -5 %."}
 {"id":1513024,"jp":"元素石炉に派遣時、加工の所要時間-10%。","fr":"Lors d'une Affectation au four à pierres élémentaires, temps de transformation -10 %."}
 {"id":1513025,"jp":"製革の天性","fr":"Don du tannage"}
+{"id":1513026,"jp":"製革台、製革所に派遣時、加工完了後に1%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation à la table de tannage ou à la tannerie, 1 % de chances de récupérer 1 matériau de base après la transformation."}
+{"id":1513027,"jp":"製革台、製革所に派遣時、加工完了後に1.5%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation à la table de tannage ou à la tannerie, 1,5 % de chances de récupérer 1 matériau de base après la transformation."}
+{"id":1513028,"jp":"製革台、製革所に派遣時、加工完了後に2%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation à la table de tannage ou à la tannerie, 2 % de chances de récupérer 1 matériau de base après la transformation."}
 {"id":1513029,"jp":"製革パイオニア","fr":"Pionnier du tannage"}
 {"id":1513030,"jp":"製革台、製革所に派遣時、加工の所要時間-3%。","fr":"Lors d'une Affectation à la table de tannage ou à la tannerie, temps de transformation -3 %."}
 {"id":1513031,"jp":"製革台、製革所に派遣時、加工の所要時間-5%。","fr":"Lors d'une Affectation à la table de tannage ou à la tannerie, temps de transformation -5 %."}
 {"id":1513032,"jp":"製革台、製革所に派遣時、加工の所要時間-10%。","fr":"Lors d'une Affectation à la table de tannage ou à la tannerie, temps de transformation -10 %."}
 {"id":1513033,"jp":"畑仕事パイオニア","fr":"Pionnier des travaux des champs"}
+{"id":1513034,"jp":"作物を栽培する際、作物が成熟するまでの時間が3%短縮される。","fr":"Lors de la culture, réduit de 3 % le temps de maturation des cultures."}
+{"id":1513035,"jp":"作物を栽培する際、作物が成熟するまでの時間が5%短縮される。","fr":"Lors de la culture, réduit de 5 % le temps de maturation des cultures."}
+{"id":1513036,"jp":"作物を栽培する際、作物が成熟するまでの時間が10%短縮される。","fr":"Lors de la culture, réduit de 10 % le temps de maturation des cultures."}
 {"id":1513037,"jp":"水やりパイオニア","fr":"Pionnier de l'arrosage"}
+{"id":1513038,"jp":"作物に水やりをした後、作物が成熟するまでの時間が3%短縮される。","fr":"Après l'arrosage d'une culture, réduit de 3 % le temps de maturation."}
+{"id":1513039,"jp":"作物に水やりをした後、作物が成熟するまでの時間が5%短縮される。","fr":"Après l'arrosage d'une culture, réduit de 5 % le temps de maturation."}
+{"id":1513040,"jp":"作物に水やりをした後、作物が成熟するまでの時間が10%短縮される。","fr":"Après l'arrosage d'une culture, réduit de 10 % le temps de maturation."}
 {"id":1513041,"jp":"精錬の天性","fr":"Don de la fonte"}
+{"id":1513042,"jp":"溶鉱炉、精錬所に派遣時、加工完了後に1%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation au haut fourneau ou à la raffinerie, 1 % de chances de récupérer 1 matériau de base après la transformation."}
+{"id":1513043,"jp":"溶鉱炉、精錬所に派遣時、加工完了後に1.5%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation au haut fourneau ou à la raffinerie, 1,5 % de chances de récupérer 1 matériau de base après la transformation."}
+{"id":1513044,"jp":"溶鉱炉、精錬所に派遣時、加工完了後に2%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation au haut fourneau ou à la raffinerie, 2 % de chances de récupérer 1 matériau de base après la transformation."}
 {"id":1513045,"jp":"溶鉱炉、精錬所に派遣時、満腹度の消費-3%。","fr":"Lors d'une Affectation au haut fourneau ou à la raffinerie, consommation de satiété -3 %."}
 {"id":1513046,"jp":"溶鉱炉、精錬所に派遣時、満腹度の消費-5%。","fr":"Lors d'une Affectation au haut fourneau ou à la raffinerie, consommation de satiété -5 %."}
 {"id":1513047,"jp":"溶鉱炉、精錬所に派遣時、満腹度の消費-10%。","fr":"Lors d'une Affectation au haut fourneau ou à la raffinerie, consommation de satiété -10 %."}
 {"id":1513048,"jp":"製粉の天性","fr":"Don de la mouture"}
+{"id":1513049,"jp":"製粉所に派遣時、加工完了後に1%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation au moulin à farine, 1 % de chances de récupérer 1 matériau de base après la transformation."}
+{"id":1513050,"jp":"製粉所に派遣時、加工完了後に1.5%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation au moulin à farine, 1,5 % de chances de récupérer 1 matériau de base après la transformation."}
+{"id":1513051,"jp":"製粉所に派遣時、加工完了後に2%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation au moulin à farine, 2 % de chances de récupérer 1 matériau de base après la transformation."}
 {"id":1513052,"jp":"研磨パイオニア","fr":"Pionnier du polissage"}
 {"id":1513053,"jp":"製粉所に派遣時、加工の所要時間-3%。","fr":"Lors d'une Affectation au moulin à farine, temps de transformation -3 %."}
 {"id":1513054,"jp":"製粉所に派遣時、加工の所要時間-5%。","fr":"Lors d'une Affectation au moulin à farine, temps de transformation -5 %."}
 {"id":1513055,"jp":"製粉所に派遣時、加工の所要時間-10%。","fr":"Lors d'une Affectation au moulin à farine, temps de transformation -10 %."}
 {"id":1513056,"jp":"精製の天性","fr":"Don du raffinage"}
+{"id":1513057,"jp":"元素石炉に派遣時、加工完了後に1%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation au four à pierres élémentaires, 1 % de chances de récupérer 1 matériau de base après la transformation."}
+{"id":1513058,"jp":"元素石炉に派遣時、加工完了後に1.5%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation au four à pierres élémentaires, 1,5 % de chances de récupérer 1 matériau de base après la transformation."}
+{"id":1513059,"jp":"元素石炉に派遣時、加工完了後に2%の確率で基本素材を1つ返還。","fr":"Lors d'une Affectation au four à pierres élémentaires, 2 % de chances de récupérer 1 matériau de base après la transformation."}
 {"id":1513060,"jp":"孵化促進","fr":"Éclosion accélérée"}
 {"id":1513061,"jp":"促進","fr":"Accélération"}
 {"id":1513062,"jp":"すべてのキボのタマゴの孵化時間-900秒。","fr":"Temps d'incubation de tous les œufs de Kibo -900 s."}
@@ -14940,6 +15072,9 @@
 {"id":1513107,"jp":"武器工房に派遣時、加工の所要時間-5%。","fr":"Lors d'une Affectation à l'atelier d'armes, temps de transformation -5 %."}
 {"id":1513108,"jp":"武器工房に派遣時、加工の所要時間-10%。","fr":"Lors d'une Affectation à l'atelier d'armes, temps de transformation -10 %."}
 {"id":1513109,"jp":"鍛造の天性","fr":"Don de la forge"}
+{"id":1513110,"jp":"武器工房に派遣時、加工完了後に3%の確率で基本素材を返還。","fr":"Lors d'une Affectation à l'atelier d'armes, 3 % de chances de récupérer des matériaux de base après la transformation."}
+{"id":1513111,"jp":"武器工房に派遣時、加工完了後に5%の確率で基本素材を返還。","fr":"Lors d'une Affectation à l'atelier d'armes, 5 % de chances de récupérer des matériaux de base après la transformation."}
+{"id":1513112,"jp":"武器工房に派遣時、加工完了後に10%の確率で基本素材を返還。","fr":"Lors d'une Affectation à l'atelier d'armes, 10 % de chances de récupérer des matériaux de base après la transformation."}
 {"id":1513113,"jp":"武器工房に派遣時、満腹度の消費-3%。","fr":"Lors d'une Affectation à l'atelier d'armes, consommation de satiété -3 %."}
 {"id":1513114,"jp":"武器工房に派遣時、満腹度の消費-5%。","fr":"Lors d'une Affectation à l'atelier d'armes, consommation de satiété -5 %."}
 {"id":1513115,"jp":"武器工房に派遣時、満腹度の消費-10%。","fr":"Lors d'une Affectation à l'atelier d'armes, consommation de satiété -10 %."}
@@ -14948,6 +15083,7 @@
 {"id":1513119,"jp":"採鉱道具の改良I","fr":"Outils de minage améliorés I"}
 {"id":1513121,"jp":"精錬工芸","fr":"Art de la fonte"}
 {"id":1513123,"jp":"工房増産I","fr":"Production d'atelier accrue I"}
+{"id":1513124,"jp":"すべての採集設備の産出効率<color=#ef903d>+5%</color>","fr":"Efficacité de production de toutes les installations de collecte <color=#ef903d>+5 %</color>"}
 {"id":1513125,"jp":"手工芸の改良I","fr":"Artisanat amélioré I"}
 {"id":1513127,"jp":"素材回収I","fr":"Récupération de matériaux I"}
 {"id":1513129,"jp":"果物鑑別","fr":"Tri des fruits"}
@@ -14977,10 +15113,12 @@
 {"id":1513170,"jp":"牧野の軽息I","fr":"Répit des pâturages I"}
 {"id":1513172,"jp":"採取コスト軽減","fr":"Coût de récolte réduit"}
 {"id":1513174,"jp":"土壌活性化II","fr":"Sol revitalisé II"}
+{"id":1513175,"jp":"成熟した農作物を収穫時、追加で獲得する農作物の数が<color=#ef903d>2個</color>にアップ","fr":"À la récolte de cultures mûres, le nombre de cultures supplémentaires obtenues passe à <color=#ef903d>2</color>"}
 {"id":1513176,"jp":"高エネルギー食事法","fr":"Régime riche en Énergie"}
 {"id":1513178,"jp":"高効率養殖法I","fr":"Élevage à haut rendement I"}
 {"id":1513180,"jp":"調理器具の改良I","fr":"Ustensiles de cuisine améliorés I"}
 {"id":1513182,"jp":"農具の改良I","fr":"Outils agricoles améliorés I"}
+{"id":1513183,"jp":"栽培した農作物が成熟するまでの時間<color=#ef903d>-5%</color>","fr":"Temps de maturation des cultures <color=#ef903d>-5 %</color>"}
 {"id":1513184,"jp":"意外な収穫I","fr":"Récolte inattendue I"}
 {"id":1513186,"jp":"軽やかな竃火","fr":"Feu de foyer léger"}
 {"id":1513188,"jp":"養殖の熟練者","fr":"Expertise de l'élevage"}
@@ -15006,10 +15144,12 @@
 {"id":1513219,"jp":"カード回収I","fr":"Récupération de cartes I"}
 {"id":1513221,"jp":"スターリンクのコツ","fr":"Savoir-faire du Lien stellaire"}
 {"id":1513223,"jp":"風乗り","fr":"Chevaucher le vent"}
+{"id":1513224,"jp":"キボに騎乗時、キボの満腹度の消費<color=#ef903d>-10%</color>","fr":"En selle sur un Kibo, consommation de satiété du Kibo <color=#ef903d>-10 %</color>"}
 {"id":1513225,"jp":"スターリンクの力V","fr":"Puissance du Lien stellaire V"}
 {"id":1513227,"jp":"元素マスターI","fr":"Maîtrise élémentaire I"}
 {"id":1513229,"jp":"星輝凝集強化I","fr":"Condensation d'éclat stellaire renforcée I"}
 {"id":1513231,"jp":"騎乗の訓練II","fr":"Entraînement à la monte II"}
+{"id":1513232,"jp":"キボに乗っている時、速度が<color=#ef903d>5%</color>上昇する","fr":"En selle sur un Kibo, augmente la vitesse de <color=#ef903d>5 %</color>"}
 {"id":1513233,"jp":"騎乗の訓練I","fr":"Entraînement à la monte I"}
 {"id":1513234,"jp":"元素マスターⅡ","fr":"Maîtrise élémentaire Ⅱ"}
 {"id":1513235,"jp":"星輝採掘改良I","fr":"Minage d'éclat stellaire amélioré I"}
@@ -15030,14 +15170,25 @@
 {"id":1513260,"jp":"御霊の匠X","fr":"Art des Esprits anciens X"}
 {"id":1513261,"jp":"御霊の匠XI・星契","fr":"Art des Esprits anciens XI : Pacte stellaire"}
 {"id":1513263,"jp":"開拓の良具I","fr":"Bons outils de défrichage I"}
+{"id":1513264,"jp":"採集道具が強化され、フィールドでの素材採集効率<color=#ef903d>+20%</color>","fr":"Outils de collecte renforcés : efficacité de collecte de matériaux sur le terrain <color=#ef903d>+20 %</color>"}
 {"id":1513265,"jp":"開拓の良具Ⅱ","fr":"Bons outils de défrichage Ⅱ"}
+{"id":1513266,"jp":"採集道具が強化され、フィールドでの素材採集効率<color=#ef903d>+30%</color>","fr":"Outils de collecte renforcés : efficacité de collecte de matériaux sur le terrain <color=#ef903d>+30 %</color>"}
 {"id":1513267,"jp":"カード回収Ⅱ","fr":"Récupération de cartes Ⅱ"}
 {"id":1513269,"jp":"思いがけない縁","fr":"Rencontre inattendue"}
 {"id":1513271,"jp":"星輝凝集強化II","fr":"Condensation d'éclat stellaire renforcée II"}
 {"id":1513272,"jp":"御霊の匠XII・星契","fr":"Art des Esprits anciens XII : Pacte stellaire"}
 {"id":1513273,"jp":"農業","fr":"Agriculture"}
 {"id":1513274,"jp":"太古の炎が立ち上り、熱気のなかで勇気が燃え盛る。","fr":"Les flammes ancestrales s'élèvent, et le courage s'embrase dans leur chaleur."}
+{"id":1513275,"jp":"そよ風が吹き抜け、自由は旅路に乗って遠くへ運ばれていく。","fr":"Une brise souffle, et la liberté, portée par la route du voyage, s'en va au loin."}
+{"id":1513276,"jp":"足元の大地が揺れ、太古から続く地脈が呼びかけに応える。","fr":"La terre tremble sous les pas, et les veines ancestrales du sol répondent à l'appel."}
+{"id":1513277,"jp":"地を破った若緑が這い上がり、希望と情熱が芽吹いて伸びていく。","fr":"De jeunes pousses vertes percent le sol et s'élèvent, tandis que l'espoir et la passion bourgeonnent et grandissent."}
+{"id":1513278,"jp":"霜の花が結び、理性は意志とともに静かに深まっていく……","fr":"Des fleurs de givre se forment, et la raison s'approfondit en silence aux côtés de la volonté…"}
+{"id":1513279,"jp":"潮騒がかすかに響き続ける。いつまでも絶えることなく……","fr":"Le murmure de la marée résonne doucement, sans jamais cesser…"}
+{"id":1513280,"jp":"指先に稲光が集まり、胸に秘めた決意が静かに目を覚ます……","fr":"Des éclairs se rassemblent au bout des doigts, et la détermination cachée dans le cœur s'éveille en silence…"}
+{"id":1513281,"jp":"柱を照らす光が燃え広がり、信念は輝きのなかで進む道を示す。","fr":"La lumière qui éclaire le pilier se répand comme un feu, et la conviction montre, dans son éclat, la voie à suivre."}
+{"id":1513282,"jp":"夜の静けさには、守護と未知の可能性が秘められている。","fr":"Le calme de la nuit renferme protection et possibilités inconnues."}
 {"id":1513283,"jp":"HP上限が上昇する。","fr":"Augmente les PV max."}
+{"id":1513284,"jp":"活力が四肢に満ち、体がいっそうたくましくなったようだ……","fr":"La vitalité envahit les membres, et le corps semble encore plus robuste…"}
 {"id":1513285,"jp":"星の芽Ⅰ","fr":"Bourgeon stellaire Ⅰ"}
 {"id":1513286,"jp":"星の芽Ⅱ","fr":"Bourgeon stellaire Ⅱ"}
 {"id":1513287,"jp":"星の芽Ⅲ","fr":"Bourgeon stellaire Ⅲ"}
@@ -15222,6 +15373,12 @@
 {"id":1513466,"jp":"フィンヴォルフのレベルを80にする","fr":"Monter Finwolf au niveau 80"}
 {"id":1513467,"jp":"フィンヴォルフのレベルを90にする","fr":"Monter Finwolf au niveau 90"}
 {"id":1513468,"jp":"フィンヴォルフのレベルを100にする","fr":"Monter Finwolf au niveau 100"}
+{"id":1513469,"jp":"フィンヴォルフの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Finwolf au rang E"}
+{"id":1513470,"jp":"フィンヴォルフの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Finwolf au rang D"}
+{"id":1513471,"jp":"フィンヴォルフの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Finwolf au rang C"}
+{"id":1513472,"jp":"フィンヴォルフの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Finwolf au rang B"}
+{"id":1513473,"jp":"フィンヴォルフの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Finwolf au rang A"}
+{"id":1513474,"jp":"フィンヴォルフの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Finwolf au rang S"}
 {"id":1513475,"jp":"キャベッコのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Cabbeco"}
 {"id":1513476,"jp":"キャベッコのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Cabbeco"}
 {"id":1513477,"jp":"キャベッコのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Cabbeco"}
@@ -15414,6 +15571,12 @@
 {"id":1513664,"jp":"ギガンシャウラのレベルを80にする","fr":"Monter Giganshaura au niveau 80"}
 {"id":1513665,"jp":"ギガンシャウラのレベルを90にする","fr":"Monter Giganshaura au niveau 90"}
 {"id":1513666,"jp":"ギガンシャウラのレベルを100にする","fr":"Monter Giganshaura au niveau 100"}
+{"id":1513667,"jp":"ギガンシャウラの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Giganshaura au rang E"}
+{"id":1513668,"jp":"ギガンシャウラの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Giganshaura au rang D"}
+{"id":1513669,"jp":"ギガンシャウラの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Giganshaura au rang C"}
+{"id":1513670,"jp":"ギガンシャウラの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Giganshaura au rang B"}
+{"id":1513671,"jp":"ギガンシャウラの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Giganshaura au rang A"}
+{"id":1513672,"jp":"ギガンシャウラの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Giganshaura au rang S"}
 {"id":1513673,"jp":"ハルウのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Haru"}
 {"id":1513674,"jp":"ハルウのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Haru"}
 {"id":1513675,"jp":"ハルウのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Haru"}
@@ -16776,6 +16939,12 @@
 {"id":1515032,"jp":"チェシャバットのレベルを80にする","fr":"Monter Cheshabat au niveau 80"}
 {"id":1515033,"jp":"チェシャバットのレベルを90にする","fr":"Monter Cheshabat au niveau 90"}
 {"id":1515034,"jp":"チェシャバットのレベルを100にする","fr":"Monter Cheshabat au niveau 100"}
+{"id":1515035,"jp":"チェシャバットの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Cheshabat au rang E"}
+{"id":1515036,"jp":"チェシャバットの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Cheshabat au rang D"}
+{"id":1515037,"jp":"チェシャバットの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Cheshabat au rang C"}
+{"id":1515038,"jp":"チェシャバットの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Cheshabat au rang B"}
+{"id":1515039,"jp":"チェシャバットの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Cheshabat au rang A"}
+{"id":1515040,"jp":"チェシャバットの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Cheshabat au rang S"}
 {"id":1515041,"jp":"ブルーダのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Bluda"}
 {"id":1515042,"jp":"ブルーダのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Bluda"}
 {"id":1515043,"jp":"ブルーダのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Bluda"}
@@ -16806,6 +16975,12 @@
 {"id":1515068,"jp":"ブルーシィグナのレベルを80にする","fr":"Monter Blue Cygna au niveau 80"}
 {"id":1515069,"jp":"ブルーシィグナのレベルを90にする","fr":"Monter Blue Cygna au niveau 90"}
 {"id":1515070,"jp":"ブルーシィグナのレベルを100にする","fr":"Monter Blue Cygna au niveau 100"}
+{"id":1515071,"jp":"ブルーシィグナの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Blue Cygna au rang E"}
+{"id":1515072,"jp":"ブルーシィグナの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Blue Cygna au rang D"}
+{"id":1515073,"jp":"ブルーシィグナの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Blue Cygna au rang C"}
+{"id":1515074,"jp":"ブルーシィグナの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Blue Cygna au rang B"}
+{"id":1515075,"jp":"ブルーシィグナの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Blue Cygna au rang A"}
+{"id":1515076,"jp":"ブルーシィグナの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Blue Cygna au rang S"}
 {"id":1515077,"jp":"トランゴのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Trango"}
 {"id":1515078,"jp":"トランゴのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Trango"}
 {"id":1515079,"jp":"トランゴのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Trango"}
@@ -16962,6 +17137,12 @@
 {"id":1515230,"jp":"ナイトフォールのレベルを80にする","fr":"Monter Vespervamp au niveau 80"}
 {"id":1515231,"jp":"ナイトフォールのレベルを90にする","fr":"Monter Vespervamp au niveau 90"}
 {"id":1515232,"jp":"ナイトフォールのレベルを100にする","fr":"Monter Vespervamp au niveau 100"}
+{"id":1515233,"jp":"ナイトフォールの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Vespervamp au rang E"}
+{"id":1515234,"jp":"ナイトフォールの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Vespervamp au rang D"}
+{"id":1515235,"jp":"ナイトフォールの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Vespervamp au rang C"}
+{"id":1515236,"jp":"ナイトフォールの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Vespervamp au rang B"}
+{"id":1515237,"jp":"ナイトフォールの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Vespervamp au rang A"}
+{"id":1515238,"jp":"ナイトフォールの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Vespervamp au rang S"}
 {"id":1515239,"jp":"ヘヴィーロのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Heavyro"}
 {"id":1515240,"jp":"ヘヴィーロのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Heavyro"}
 {"id":1515241,"jp":"ヘヴィーロのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Heavyro"}
@@ -17244,6 +17425,12 @@
 {"id":1515518,"jp":"メイルジャークのレベルを80にする","fr":"Monter Mailjark au niveau 80"}
 {"id":1515519,"jp":"メイルジャークのレベルを90にする","fr":"Monter Mailjark au niveau 90"}
 {"id":1515520,"jp":"メイルジャークのレベルを100にする","fr":"Monter Mailjark au niveau 100"}
+{"id":1515521,"jp":"メイルジャークの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Mailjark au rang E"}
+{"id":1515522,"jp":"メイルジャークの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Mailjark au rang D"}
+{"id":1515523,"jp":"メイルジャークの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Mailjark au rang C"}
+{"id":1515524,"jp":"メイルジャークの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Mailjark au rang B"}
+{"id":1515525,"jp":"メイルジャークの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Mailjark au rang A"}
+{"id":1515526,"jp":"メイルジャークの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Mailjark au rang S"}
 {"id":1515527,"jp":"キノカのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Kinoka"}
 {"id":1515528,"jp":"キノカのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Kinoka"}
 {"id":1515529,"jp":"キノカのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Kinoka"}
@@ -17742,6 +17929,12 @@
 {"id":1516022,"jp":"フルーフォウスのレベルを80にする","fr":"Monter Furuufousu au niveau 80"}
 {"id":1516023,"jp":"フルーフォウスのレベルを90にする","fr":"Monter Furuufousu au niveau 90"}
 {"id":1516024,"jp":"フルーフォウスのレベルを100にする","fr":"Monter Furuufousu au niveau 100"}
+{"id":1516025,"jp":"フルーフォウスの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Furuufousu au rang E"}
+{"id":1516026,"jp":"フルーフォウスの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Furuufousu au rang D"}
+{"id":1516027,"jp":"フルーフォウスの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Furuufousu au rang C"}
+{"id":1516028,"jp":"フルーフォウスの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Furuufousu au rang B"}
+{"id":1516029,"jp":"フルーフォウスの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Furuufousu au rang A"}
+{"id":1516030,"jp":"フルーフォウスの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Furuufousu au rang S"}
 {"id":1516031,"jp":"エレキリーのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active d'Electrilly"}
 {"id":1516032,"jp":"エレキリーのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active d'Electrilly"}
 {"id":1516033,"jp":"エレキリーのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active d'Electrilly"}
@@ -17772,6 +17965,12 @@
 {"id":1516058,"jp":"エレキカッターのレベルを80にする","fr":"Monter Elekicutter au niveau 80"}
 {"id":1516059,"jp":"エレキカッターのレベルを90にする","fr":"Monter Elekicutter au niveau 90"}
 {"id":1516060,"jp":"エレキカッターのレベルを100にする","fr":"Monter Elekicutter au niveau 100"}
+{"id":1516061,"jp":"エレキカッターの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels d'Elekicutter au rang E"}
+{"id":1516062,"jp":"エレキカッターの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels d'Elekicutter au rang D"}
+{"id":1516063,"jp":"エレキカッターの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels d'Elekicutter au rang C"}
+{"id":1516064,"jp":"エレキカッターの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels d'Elekicutter au rang B"}
+{"id":1516065,"jp":"エレキカッターの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels d'Elekicutter au rang A"}
+{"id":1516066,"jp":"エレキカッターの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels d'Elekicutter au rang S"}
 {"id":1516067,"jp":"グレイニーのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Greyny"}
 {"id":1516068,"jp":"グレイニーのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Greyny"}
 {"id":1516069,"jp":"グレイニーのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Greyny"}
@@ -18216,6 +18415,12 @@
 {"id":1516508,"jp":"ドラグブレイズのレベルを80にする","fr":"Monter Dragblaze au niveau 80"}
 {"id":1516509,"jp":"ドラグブレイズのレベルを90にする","fr":"Monter Dragblaze au niveau 90"}
 {"id":1516510,"jp":"ドラグブレイズのレベルを100にする","fr":"Monter Dragblaze au niveau 100"}
+{"id":1516511,"jp":"ドラグブレイズの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Dragblaze au rang E"}
+{"id":1516512,"jp":"ドラグブレイズの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Dragblaze au rang D"}
+{"id":1516513,"jp":"ドラグブレイズの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Dragblaze au rang C"}
+{"id":1516514,"jp":"ドラグブレイズの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Dragblaze au rang B"}
+{"id":1516515,"jp":"ドラグブレイズの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Dragblaze au rang A"}
+{"id":1516516,"jp":"ドラグブレイズの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Dragblaze au rang S"}
 {"id":1516517,"jp":"チョフコのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Chofuko"}
 {"id":1516518,"jp":"チョフコのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Chofuko"}
 {"id":1516519,"jp":"チョフコのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Chofuko"}
@@ -18249,9 +18454,332 @@
 {"id":1516547,"jp":"フィアラーガの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Fiaraaga au rang E"}
 {"id":1516548,"jp":"フィアラーガの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Fiaraaga au rang D"}
 {"id":1516549,"jp":"フィアラーガの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Fiaraaga au rang C"}
+{"id":1516550,"jp":"フィアラーガの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Fiaraaga au rang B"}
+{"id":1516551,"jp":"フィアラーガの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Fiaraaga au rang A"}
+{"id":1516552,"jp":"フィアラーガの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Fiaraaga au rang S"}
+{"id":1516553,"jp":"フレイムラーガのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Flameraga"}
+{"id":1516554,"jp":"フレイムラーガのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Flameraga"}
+{"id":1516555,"jp":"フレイムラーガのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Flameraga"}
+{"id":1516556,"jp":"フレイムラーガのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Flameraga"}
+{"id":1516557,"jp":"フレイムラーガのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Flameraga"}
+{"id":1516558,"jp":"フレイムラーガのレベルを30にする","fr":"Monter Flameraga au niveau 30"}
+{"id":1516559,"jp":"フレイムラーガのレベルを50にする","fr":"Monter Flameraga au niveau 50"}
+{"id":1516560,"jp":"フレイムラーガのレベルを60にする","fr":"Monter Flameraga au niveau 60"}
+{"id":1516561,"jp":"フレイムラーガのレベルを70にする","fr":"Monter Flameraga au niveau 70"}
+{"id":1516562,"jp":"フレイムラーガのレベルを80にする","fr":"Monter Flameraga au niveau 80"}
+{"id":1516563,"jp":"フレイムラーガのレベルを90にする","fr":"Monter Flameraga au niveau 90"}
+{"id":1516564,"jp":"フレイムラーガのレベルを100にする","fr":"Monter Flameraga au niveau 100"}
+{"id":1516565,"jp":"フレイムラーガの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Flameraga au rang E"}
+{"id":1516566,"jp":"フレイムラーガの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Flameraga au rang D"}
+{"id":1516567,"jp":"フレイムラーガの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Flameraga au rang C"}
+{"id":1516568,"jp":"フレイムラーガの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Flameraga au rang B"}
+{"id":1516569,"jp":"フレイムラーガの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Flameraga au rang A"}
+{"id":1516570,"jp":"フレイムラーガの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Flameraga au rang S"}
+{"id":1516571,"jp":"笑般若のアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active du Hannya rieur"}
+{"id":1516572,"jp":"笑般若のアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active du Hannya rieur"}
+{"id":1516573,"jp":"笑般若のアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active du Hannya rieur"}
+{"id":1516574,"jp":"笑般若のアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active du Hannya rieur"}
+{"id":1516575,"jp":"笑般若のアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active du Hannya rieur"}
+{"id":1516576,"jp":"笑般若のレベルを30にする","fr":"Monter le Hannya rieur au niveau 30"}
+{"id":1516577,"jp":"笑般若のレベルを50にする","fr":"Monter le Hannya rieur au niveau 50"}
+{"id":1516578,"jp":"笑般若のレベルを60にする","fr":"Monter le Hannya rieur au niveau 60"}
+{"id":1516579,"jp":"笑般若のレベルを70にする","fr":"Monter le Hannya rieur au niveau 70"}
+{"id":1516580,"jp":"笑般若のレベルを80にする","fr":"Monter le Hannya rieur au niveau 80"}
+{"id":1516581,"jp":"笑般若のレベルを90にする","fr":"Monter le Hannya rieur au niveau 90"}
+{"id":1516582,"jp":"笑般若のレベルを100にする","fr":"Monter le Hannya rieur au niveau 100"}
+{"id":1516583,"jp":"笑般若の6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels du Hannya rieur au rang E"}
+{"id":1516584,"jp":"笑般若の6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels du Hannya rieur au rang D"}
+{"id":1516585,"jp":"笑般若の6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels du Hannya rieur au rang C"}
+{"id":1516586,"jp":"笑般若の6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels du Hannya rieur au rang B"}
+{"id":1516587,"jp":"笑般若の6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels du Hannya rieur au rang A"}
+{"id":1516588,"jp":"笑般若の6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels du Hannya rieur au rang S"}
+{"id":1516589,"jp":"憤怨坊のアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active du Moine rancunier"}
+{"id":1516590,"jp":"憤怨坊のアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active du Moine rancunier"}
+{"id":1516591,"jp":"憤怨坊のアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active du Moine rancunier"}
+{"id":1516592,"jp":"憤怨坊のアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active du Moine rancunier"}
+{"id":1516593,"jp":"憤怨坊のアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active du Moine rancunier"}
+{"id":1516594,"jp":"憤怨坊のレベルを30にする","fr":"Monter le Moine rancunier au niveau 30"}
+{"id":1516595,"jp":"憤怨坊のレベルを50にする","fr":"Monter le Moine rancunier au niveau 50"}
+{"id":1516596,"jp":"憤怨坊のレベルを60にする","fr":"Monter le Moine rancunier au niveau 60"}
+{"id":1516597,"jp":"憤怨坊のレベルを70にする","fr":"Monter le Moine rancunier au niveau 70"}
+{"id":1516598,"jp":"憤怨坊のレベルを80にする","fr":"Monter le Moine rancunier au niveau 80"}
+{"id":1516599,"jp":"憤怨坊のレベルを90にする","fr":"Monter le Moine rancunier au niveau 90"}
+{"id":1516600,"jp":"憤怨坊のレベルを100にする","fr":"Monter le Moine rancunier au niveau 100"}
+{"id":1516601,"jp":"憤怨坊の6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels du Moine rancunier au rang E"}
+{"id":1516602,"jp":"憤怨坊の6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels du Moine rancunier au rang D"}
+{"id":1516603,"jp":"憤怨坊の6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels du Moine rancunier au rang C"}
+{"id":1516604,"jp":"憤怨坊の6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels du Moine rancunier au rang B"}
+{"id":1516605,"jp":"憤怨坊の6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels du Moine rancunier au rang A"}
+{"id":1516606,"jp":"憤怨坊の6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels du Moine rancunier au rang S"}
+{"id":1516607,"jp":"獄鬼面のアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active du Masque d'oni infernal"}
+{"id":1516608,"jp":"獄鬼面のアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active du Masque d'oni infernal"}
+{"id":1516609,"jp":"獄鬼面のアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active du Masque d'oni infernal"}
+{"id":1516610,"jp":"獄鬼面のアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active du Masque d'oni infernal"}
 {"id":1516611,"jp":"獄鬼面のアクティブスキルを50回発動する","fr":"Utiliser 50 fois la compétence active du Masque d'oni infernal"}
+{"id":1516612,"jp":"獄鬼面のレベルを30にする","fr":"Monter le Masque d'oni infernal au niveau 30"}
+{"id":1516613,"jp":"獄鬼面のレベルを50にする","fr":"Monter le Masque d'oni infernal au niveau 50"}
+{"id":1516614,"jp":"獄鬼面のレベルを60にする","fr":"Monter le Masque d'oni infernal au niveau 60"}
+{"id":1516615,"jp":"獄鬼面のレベルを70にする","fr":"Monter le Masque d'oni infernal au niveau 70"}
+{"id":1516616,"jp":"獄鬼面のレベルを80にする","fr":"Monter le Masque d'oni infernal au niveau 80"}
+{"id":1516617,"jp":"獄鬼面のレベルを90にする","fr":"Monter le Masque d'oni infernal au niveau 90"}
+{"id":1516618,"jp":"獄鬼面のレベルを100にする","fr":"Monter le Masque d'oni infernal au niveau 100"}
+{"id":1516619,"jp":"獄鬼面の6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels du Masque d'oni infernal au rang E"}
+{"id":1516620,"jp":"獄鬼面の6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels du Masque d'oni infernal au rang D"}
+{"id":1516621,"jp":"獄鬼面の6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels du Masque d'oni infernal au rang C"}
+{"id":1516622,"jp":"獄鬼面の6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels du Masque d'oni infernal au rang B"}
+{"id":1516623,"jp":"獄鬼面の6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels du Masque d'oni infernal au rang A"}
+{"id":1516624,"jp":"獄鬼面の6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels du Masque d'oni infernal au rang S"}
+{"id":1516625,"jp":"カラベッコのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Carabecco"}
+{"id":1516626,"jp":"カラベッコのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Carabecco"}
+{"id":1516627,"jp":"カラベッコのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Carabecco"}
+{"id":1516628,"jp":"カラベッコのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Carabecco"}
+{"id":1516629,"jp":"カラベッコのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Carabecco"}
+{"id":1516630,"jp":"カラベッコのレベルを30にする","fr":"Monter Carabecco au niveau 30"}
+{"id":1516631,"jp":"カラベッコのレベルを50にする","fr":"Monter Carabecco au niveau 50"}
+{"id":1516632,"jp":"カラベッコのレベルを60にする","fr":"Monter Carabecco au niveau 60"}
+{"id":1516633,"jp":"カラベッコのレベルを70にする","fr":"Monter Carabecco au niveau 70"}
+{"id":1516634,"jp":"カラベッコのレベルを80にする","fr":"Monter Carabecco au niveau 80"}
+{"id":1516635,"jp":"カラベッコのレベルを90にする","fr":"Monter Carabecco au niveau 90"}
+{"id":1516636,"jp":"カラベッコのレベルを100にする","fr":"Monter Carabecco au niveau 100"}
+{"id":1516637,"jp":"カラベッコの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Carabecco au rang E"}
+{"id":1516638,"jp":"カラベッコの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Carabecco au rang D"}
+{"id":1516639,"jp":"カラベッコの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Carabecco au rang C"}
+{"id":1516640,"jp":"カラベッコの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Carabecco au rang B"}
+{"id":1516641,"jp":"カラベッコの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Carabecco au rang A"}
+{"id":1516642,"jp":"カラベッコの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Carabecco au rang S"}
+{"id":1516643,"jp":"カラバードのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Carabird"}
+{"id":1516644,"jp":"カラバードのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Carabird"}
+{"id":1516645,"jp":"カラバードのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Carabird"}
+{"id":1516646,"jp":"カラバードのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Carabird"}
+{"id":1516647,"jp":"カラバードのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Carabird"}
+{"id":1516648,"jp":"カラバードのレベルを30にする","fr":"Monter Carabird au niveau 30"}
+{"id":1516649,"jp":"カラバードのレベルを50にする","fr":"Monter Carabird au niveau 50"}
+{"id":1516650,"jp":"カラバードのレベルを60にする","fr":"Monter Carabird au niveau 60"}
+{"id":1516651,"jp":"カラバードのレベルを70にする","fr":"Monter Carabird au niveau 70"}
+{"id":1516652,"jp":"カラバードのレベルを80にする","fr":"Monter Carabird au niveau 80"}
+{"id":1516653,"jp":"カラバードのレベルを90にする","fr":"Monter Carabird au niveau 90"}
+{"id":1516654,"jp":"カラバードのレベルを100にする","fr":"Monter Carabird au niveau 100"}
+{"id":1516655,"jp":"カラバードの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Carabird au rang E"}
+{"id":1516656,"jp":"カラバードの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Carabird au rang D"}
+{"id":1516657,"jp":"カラバードの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Carabird au rang C"}
+{"id":1516658,"jp":"カラバードの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Carabird au rang B"}
+{"id":1516659,"jp":"カラバードの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Carabird au rang A"}
+{"id":1516660,"jp":"カラバードの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Carabird au rang S"}
+{"id":1516661,"jp":"フィアークのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Fearc"}
+{"id":1516662,"jp":"フィアークのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Fearc"}
+{"id":1516663,"jp":"フィアークのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Fearc"}
+{"id":1516664,"jp":"フィアークのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Fearc"}
+{"id":1516665,"jp":"フィアークのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Fearc"}
+{"id":1516666,"jp":"フィアークのレベルを30にする","fr":"Monter Fearc au niveau 30"}
+{"id":1516667,"jp":"フィアークのレベルを50にする","fr":"Monter Fearc au niveau 50"}
+{"id":1516668,"jp":"フィアークのレベルを60にする","fr":"Monter Fearc au niveau 60"}
+{"id":1516669,"jp":"フィアークのレベルを70にする","fr":"Monter Fearc au niveau 70"}
+{"id":1516670,"jp":"フィアークのレベルを80にする","fr":"Monter Fearc au niveau 80"}
+{"id":1516671,"jp":"フィアークのレベルを90にする","fr":"Monter Fearc au niveau 90"}
+{"id":1516672,"jp":"フィアークのレベルを100にする","fr":"Monter Fearc au niveau 100"}
+{"id":1516673,"jp":"フィアークの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Fearc au rang E"}
+{"id":1516674,"jp":"フィアークの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Fearc au rang D"}
+{"id":1516675,"jp":"フィアークの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Fearc au rang C"}
+{"id":1516676,"jp":"フィアークの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Fearc au rang B"}
+{"id":1516677,"jp":"フィアークの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Fearc au rang A"}
+{"id":1516678,"jp":"フィアークの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Fearc au rang S"}
+{"id":1516679,"jp":"ニートミットのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Niitomitto"}
+{"id":1516680,"jp":"ニートミットのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Niitomitto"}
+{"id":1516681,"jp":"ニートミットのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Niitomitto"}
+{"id":1516682,"jp":"ニートミットのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Niitomitto"}
+{"id":1516683,"jp":"ニートミットのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Niitomitto"}
+{"id":1516684,"jp":"ニートミットのレベルを30にする","fr":"Monter Niitomitto au niveau 30"}
+{"id":1516685,"jp":"ニートミットのレベルを50にする","fr":"Monter Niitomitto au niveau 50"}
+{"id":1516686,"jp":"ニートミットのレベルを60にする","fr":"Monter Niitomitto au niveau 60"}
+{"id":1516687,"jp":"ニートミットのレベルを70にする","fr":"Monter Niitomitto au niveau 70"}
+{"id":1516688,"jp":"ニートミットのレベルを80にする","fr":"Monter Niitomitto au niveau 80"}
+{"id":1516689,"jp":"ニートミットのレベルを90にする","fr":"Monter Niitomitto au niveau 90"}
+{"id":1516690,"jp":"ニートミットのレベルを100にする","fr":"Monter Niitomitto au niveau 100"}
+{"id":1516691,"jp":"ニートミットの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Niitomitto au rang E"}
+{"id":1516692,"jp":"ニートミットの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Niitomitto au rang D"}
+{"id":1516693,"jp":"ニートミットの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Niitomitto au rang C"}
+{"id":1516694,"jp":"ニートミットの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Niitomitto au rang B"}
+{"id":1516695,"jp":"ニートミットの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Niitomitto au rang A"}
+{"id":1516696,"jp":"ニートミットの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Niitomitto au rang S"}
+{"id":1516697,"jp":"メーフィのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Meafy"}
+{"id":1516698,"jp":"メーフィのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Meafy"}
+{"id":1516699,"jp":"メーフィのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Meafy"}
+{"id":1516700,"jp":"メーフィのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Meafy"}
+{"id":1516701,"jp":"メーフィのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Meafy"}
+{"id":1516702,"jp":"メーフィのレベルを30にする","fr":"Monter Meafy au niveau 30"}
+{"id":1516703,"jp":"メーフィのレベルを50にする","fr":"Monter Meafy au niveau 50"}
+{"id":1516704,"jp":"メーフィのレベルを60にする","fr":"Monter Meafy au niveau 60"}
+{"id":1516705,"jp":"メーフィのレベルを70にする","fr":"Monter Meafy au niveau 70"}
+{"id":1516706,"jp":"メーフィのレベルを80にする","fr":"Monter Meafy au niveau 80"}
+{"id":1516707,"jp":"メーフィのレベルを90にする","fr":"Monter Meafy au niveau 90"}
+{"id":1516708,"jp":"メーフィのレベルを100にする","fr":"Monter Meafy au niveau 100"}
+{"id":1516709,"jp":"メーフィの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Meafy au rang E"}
+{"id":1516710,"jp":"メーフィの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Meafy au rang D"}
+{"id":1516711,"jp":"メーフィの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Meafy au rang C"}
+{"id":1516712,"jp":"メーフィの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Meafy au rang B"}
+{"id":1516713,"jp":"メーフィの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Meafy au rang A"}
+{"id":1516714,"jp":"メーフィの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Meafy au rang S"}
+{"id":1516715,"jp":"サピッツのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Sapittsu"}
+{"id":1516716,"jp":"サピッツのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Sapittsu"}
+{"id":1516717,"jp":"サピッツのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Sapittsu"}
+{"id":1516718,"jp":"サピッツのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Sapittsu"}
+{"id":1516719,"jp":"サピッツのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Sapittsu"}
+{"id":1516720,"jp":"サピッツのレベルを30にする","fr":"Monter Sapittsu au niveau 30"}
+{"id":1516721,"jp":"サピッツのレベルを50にする","fr":"Monter Sapittsu au niveau 50"}
+{"id":1516722,"jp":"サピッツのレベルを60にする","fr":"Monter Sapittsu au niveau 60"}
+{"id":1516723,"jp":"サピッツのレベルを70にする","fr":"Monter Sapittsu au niveau 70"}
+{"id":1516724,"jp":"サピッツのレベルを80にする","fr":"Monter Sapittsu au niveau 80"}
+{"id":1516725,"jp":"サピッツのレベルを90にする","fr":"Monter Sapittsu au niveau 90"}
+{"id":1516726,"jp":"サピッツのレベルを100にする","fr":"Monter Sapittsu au niveau 100"}
+{"id":1516727,"jp":"サピッツの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Sapittsu au rang E"}
+{"id":1516728,"jp":"サピッツの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Sapittsu au rang D"}
+{"id":1516729,"jp":"サピッツの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Sapittsu au rang C"}
+{"id":1516730,"jp":"サピッツの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Sapittsu au rang B"}
+{"id":1516731,"jp":"サピッツの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Sapittsu au rang A"}
+{"id":1516732,"jp":"サピッツの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Sapittsu au rang S"}
+{"id":1516733,"jp":"サピーラスのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Sapiirasu"}
+{"id":1516734,"jp":"サピーラスのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Sapiirasu"}
+{"id":1516735,"jp":"サピーラスのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Sapiirasu"}
+{"id":1516736,"jp":"サピーラスのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Sapiirasu"}
+{"id":1516737,"jp":"サピーラスのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Sapiirasu"}
+{"id":1516738,"jp":"サピーラスのレベルを30にする","fr":"Monter Sapiirasu au niveau 30"}
+{"id":1516739,"jp":"サピーラスのレベルを50にする","fr":"Monter Sapiirasu au niveau 50"}
+{"id":1516740,"jp":"サピーラスのレベルを60にする","fr":"Monter Sapiirasu au niveau 60"}
+{"id":1516741,"jp":"サピーラスのレベルを70にする","fr":"Monter Sapiirasu au niveau 70"}
+{"id":1516742,"jp":"サピーラスのレベルを80にする","fr":"Monter Sapiirasu au niveau 80"}
+{"id":1516743,"jp":"サピーラスのレベルを90にする","fr":"Monter Sapiirasu au niveau 90"}
+{"id":1516744,"jp":"サピーラスのレベルを100にする","fr":"Monter Sapiirasu au niveau 100"}
+{"id":1516745,"jp":"サピーラスの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Sapiirasu au rang E"}
+{"id":1516746,"jp":"サピーラスの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Sapiirasu au rang D"}
+{"id":1516747,"jp":"サピーラスの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Sapiirasu au rang C"}
+{"id":1516748,"jp":"サピーラスの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Sapiirasu au rang B"}
+{"id":1516749,"jp":"サピーラスの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Sapiirasu au rang A"}
+{"id":1516750,"jp":"サピーラスの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Sapiirasu au rang S"}
+{"id":1516751,"jp":"コボルターグのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Koborutaagu"}
+{"id":1516752,"jp":"コボルターグのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Koborutaagu"}
+{"id":1516753,"jp":"コボルターグのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Koborutaagu"}
+{"id":1516754,"jp":"コボルターグのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Koborutaagu"}
+{"id":1516755,"jp":"コボルターグのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Koborutaagu"}
+{"id":1516756,"jp":"コボルターグのレベルを30にする","fr":"Monter Koborutaagu au niveau 30"}
+{"id":1516757,"jp":"コボルターグのレベルを50にする","fr":"Monter Koborutaagu au niveau 50"}
+{"id":1516758,"jp":"コボルターグのレベルを60にする","fr":"Monter Koborutaagu au niveau 60"}
+{"id":1516759,"jp":"コボルターグのレベルを70にする","fr":"Monter Koborutaagu au niveau 70"}
+{"id":1516760,"jp":"コボルターグのレベルを80にする","fr":"Monter Koborutaagu au niveau 80"}
+{"id":1516761,"jp":"コボルターグのレベルを90にする","fr":"Monter Koborutaagu au niveau 90"}
+{"id":1516762,"jp":"コボルターグのレベルを100にする","fr":"Monter Koborutaagu au niveau 100"}
+{"id":1516763,"jp":"コボルターグの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Koborutaagu au rang E"}
+{"id":1516764,"jp":"コボルターグの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Koborutaagu au rang D"}
+{"id":1516765,"jp":"コボルターグの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Koborutaagu au rang C"}
+{"id":1516766,"jp":"コボルターグの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Koborutaagu au rang B"}
+{"id":1516767,"jp":"コボルターグの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Koborutaagu au rang A"}
+{"id":1516768,"jp":"コボルターグの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Koborutaagu au rang S"}
+{"id":1516769,"jp":"ジェイディオンのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Jeidion"}
+{"id":1516770,"jp":"ジェイディオンのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Jeidion"}
+{"id":1516771,"jp":"ジェイディオンのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Jeidion"}
+{"id":1516772,"jp":"ジェイディオンのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Jeidion"}
+{"id":1516773,"jp":"ジェイディオンのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Jeidion"}
+{"id":1516774,"jp":"ジェイディオンのレベルを30にする","fr":"Monter Jeidion au niveau 30"}
+{"id":1516775,"jp":"ジェイディオンのレベルを50にする","fr":"Monter Jeidion au niveau 50"}
+{"id":1516776,"jp":"ジェイディオンのレベルを60にする","fr":"Monter Jeidion au niveau 60"}
+{"id":1516777,"jp":"ジェイディオンのレベルを70にする","fr":"Monter Jeidion au niveau 70"}
+{"id":1516778,"jp":"ジェイディオンのレベルを80にする","fr":"Monter Jeidion au niveau 80"}
+{"id":1516779,"jp":"ジェイディオンのレベルを90にする","fr":"Monter Jeidion au niveau 90"}
+{"id":1516780,"jp":"ジェイディオンのレベルを100にする","fr":"Monter Jeidion au niveau 100"}
+{"id":1516781,"jp":"ジェイディオンの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Jeidion au rang E"}
+{"id":1516782,"jp":"ジェイディオンの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Jeidion au rang D"}
+{"id":1516783,"jp":"ジェイディオンの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Jeidion au rang C"}
+{"id":1516784,"jp":"ジェイディオンの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Jeidion au rang B"}
+{"id":1516785,"jp":"ジェイディオンの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Jeidion au rang A"}
+{"id":1516786,"jp":"ジェイディオンの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Jeidion au rang S"}
+{"id":1516787,"jp":"蒜絨のアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Suanrong"}
+{"id":1516788,"jp":"蒜絨のアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Suanrong"}
+{"id":1516789,"jp":"蒜絨のアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Suanrong"}
+{"id":1516790,"jp":"蒜絨のアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Suanrong"}
+{"id":1516791,"jp":"蒜絨のアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Suanrong"}
+{"id":1516792,"jp":"蒜絨のレベルを30にする","fr":"Monter Suanrong au niveau 30"}
+{"id":1516793,"jp":"蒜絨のレベルを50にする","fr":"Monter Suanrong au niveau 50"}
+{"id":1516794,"jp":"蒜絨のレベルを60にする","fr":"Monter Suanrong au niveau 60"}
+{"id":1516795,"jp":"蒜絨のレベルを70にする","fr":"Monter Suanrong au niveau 70"}
+{"id":1516796,"jp":"蒜絨のレベルを80にする","fr":"Monter Suanrong au niveau 80"}
+{"id":1516797,"jp":"蒜絨のレベルを90にする","fr":"Monter Suanrong au niveau 90"}
+{"id":1516798,"jp":"蒜絨のレベルを100にする","fr":"Monter Suanrong au niveau 100"}
+{"id":1516799,"jp":"蒜絨の6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Suanrong au rang E"}
+{"id":1516800,"jp":"蒜絨の6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Suanrong au rang D"}
+{"id":1516801,"jp":"蒜絨の6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Suanrong au rang C"}
+{"id":1516802,"jp":"蒜絨の6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Suanrong au rang B"}
+{"id":1516803,"jp":"蒜絨の6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Suanrong au rang A"}
+{"id":1516804,"jp":"蒜絨の6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Suanrong au rang S"}
+{"id":1516805,"jp":"蒜鳥のアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Suanniao"}
+{"id":1516806,"jp":"蒜鳥のアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Suanniao"}
+{"id":1516807,"jp":"蒜鳥のアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Suanniao"}
+{"id":1516808,"jp":"蒜鳥のアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Suanniao"}
+{"id":1516809,"jp":"蒜鳥のアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Suanniao"}
+{"id":1516810,"jp":"蒜鳥のレベルを30にする","fr":"Monter Suanniao au niveau 30"}
+{"id":1516811,"jp":"蒜鳥のレベルを50にする","fr":"Monter Suanniao au niveau 50"}
+{"id":1516812,"jp":"蒜鳥のレベルを60にする","fr":"Monter Suanniao au niveau 60"}
+{"id":1516813,"jp":"蒜鳥のレベルを70にする","fr":"Monter Suanniao au niveau 70"}
+{"id":1516814,"jp":"蒜鳥のレベルを80にする","fr":"Monter Suanniao au niveau 80"}
+{"id":1516815,"jp":"蒜鳥のレベルを90にする","fr":"Monter Suanniao au niveau 90"}
+{"id":1516816,"jp":"蒜鳥のレベルを100にする","fr":"Monter Suanniao au niveau 100"}
+{"id":1516817,"jp":"蒜鳥の6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Suanniao au rang E"}
+{"id":1516818,"jp":"蒜鳥の6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Suanniao au rang D"}
+{"id":1516819,"jp":"蒜鳥の6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Suanniao au rang C"}
+{"id":1516820,"jp":"蒜鳥の6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Suanniao au rang B"}
+{"id":1516821,"jp":"蒜鳥の6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Suanniao au rang A"}
+{"id":1516822,"jp":"蒜鳥の6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Suanniao au rang S"}
+{"id":1516823,"jp":"イエローダのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Yellowda"}
+{"id":1516824,"jp":"イエローダのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Yellowda"}
+{"id":1516825,"jp":"イエローダのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Yellowda"}
+{"id":1516826,"jp":"イエローダのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Yellowda"}
+{"id":1516827,"jp":"イエローダのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Yellowda"}
+{"id":1516828,"jp":"イエローダのレベルを30にする","fr":"Monter Yellowda au niveau 30"}
+{"id":1516829,"jp":"イエローダのレベルを50にする","fr":"Monter Yellowda au niveau 50"}
+{"id":1516830,"jp":"イエローダのレベルを60にする","fr":"Monter Yellowda au niveau 60"}
+{"id":1516831,"jp":"イエローダのレベルを70にする","fr":"Monter Yellowda au niveau 70"}
+{"id":1516832,"jp":"イエローダのレベルを80にする","fr":"Monter Yellowda au niveau 80"}
+{"id":1516833,"jp":"イエローダのレベルを90にする","fr":"Monter Yellowda au niveau 90"}
+{"id":1516834,"jp":"イエローダのレベルを100にする","fr":"Monter Yellowda au niveau 100"}
+{"id":1516835,"jp":"イエローダの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Yellowda au rang E"}
+{"id":1516836,"jp":"イエローダの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Yellowda au rang D"}
+{"id":1516837,"jp":"イエローダの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Yellowda au rang C"}
+{"id":1516838,"jp":"イエローダの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Yellowda au rang B"}
+{"id":1516839,"jp":"イエローダの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Yellowda au rang A"}
+{"id":1516840,"jp":"イエローダの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Yellowda au rang S"}
+{"id":1516841,"jp":"イエローアルビのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Yellowalbi"}
+{"id":1516842,"jp":"イエローアルビのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Yellowalbi"}
 {"id":1516843,"jp":"イエローアルビのアクティブスキルを15回発動する","fr":"Utiliser 15 fois la compétence active de Yellowalbi"}
+{"id":1516844,"jp":"イエローアルビのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Yellowalbi"}
+{"id":1516845,"jp":"イエローアルビのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Yellowalbi"}
+{"id":1516846,"jp":"イエローアルビのレベルを30にする","fr":"Monter Yellowalbi au niveau 30"}
+{"id":1516847,"jp":"イエローアルビのレベルを50にする","fr":"Monter Yellowalbi au niveau 50"}
+{"id":1516848,"jp":"イエローアルビのレベルを60にする","fr":"Monter Yellowalbi au niveau 60"}
+{"id":1516849,"jp":"イエローアルビのレベルを70にする","fr":"Monter Yellowalbi au niveau 70"}
+{"id":1516850,"jp":"イエローアルビのレベルを80にする","fr":"Monter Yellowalbi au niveau 80"}
+{"id":1516851,"jp":"イエローアルビのレベルを90にする","fr":"Monter Yellowalbi au niveau 90"}
+{"id":1516852,"jp":"イエローアルビのレベルを100にする","fr":"Monter Yellowalbi au niveau 100"}
+{"id":1516853,"jp":"イエローアルビの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Yellowalbi au rang E"}
+{"id":1516854,"jp":"イエローアルビの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Yellowalbi au rang D"}
+{"id":1516855,"jp":"イエローアルビの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Yellowalbi au rang C"}
+{"id":1516856,"jp":"イエローアルビの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Yellowalbi au rang B"}
+{"id":1516857,"jp":"イエローアルビの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Yellowalbi au rang A"}
+{"id":1516858,"jp":"イエローアルビの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Yellowalbi au rang S"}
+{"id":1516859,"jp":"ウルのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active d'Uru"}
+{"id":1516860,"jp":"ウルのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active d'Uru"}
+{"id":1516861,"jp":"ウルのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active d'Uru"}
+{"id":1516862,"jp":"ウルのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active d'Uru"}
+{"id":1516863,"jp":"ウルのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active d'Uru"}
+{"id":1516864,"jp":"ウルのレベルを30にする","fr":"Monter Uru au niveau 30"}
+{"id":1516865,"jp":"ウルのレベルを50にする","fr":"Monter Uru au niveau 50"}
+{"id":1516866,"jp":"ウルのレベルを60にする","fr":"Monter Uru au niveau 60"}
+{"id":1516867,"jp":"ウルのレベルを70にする","fr":"Monter Uru au niveau 70"}
+{"id":1516868,"jp":"ウルのレベルを80にする","fr":"Monter Uru au niveau 80"}
+{"id":1516869,"jp":"ウルのレベルを90にする","fr":"Monter Uru au niveau 90"}
 {"id":1517075,"jp":"カエアのアクティブスキルを3回発動する","fr":"Utiliser 3 fois la compétence active de Kaea"}
+{"id":1517093,"jp":"滅びゆく光のスターミィのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Starmy à la lumière déclinante"}
+{"id":1517094,"jp":"滅びゆく光のスターミィのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Starmy à la lumière déclinante"}
+{"id":1517095,"jp":"滅びゆく光のスターミィのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Starmy à la lumière déclinante"}
+{"id":1517096,"jp":"滅びゆく光のスターミィのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Starmy à la lumière déclinante"}
+{"id":1517097,"jp":"滅びゆく光のスターミィのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Starmy à la lumière déclinante"}
 {"id":1517159,"jp":"進化教団アーチャー","fr":"Archer du Culte de l'Évolution"}
 {"id":1517161,"jp":"書籍","fr":"Livres"}
 {"id":1517162,"jp":"マウント","fr":"Montures"}
@@ -18259,6 +18787,7 @@
 {"id":1517164,"jp":"物産","fr":"Produits locaux"}
 {"id":1517208,"jp":"早期体験","fr":"Accès anticipé"}
 {"id":1517215,"jp":"「ショップ」説明","fr":"Infos « Boutique »"}
+{"id":1517216,"jp":"重複購入が発生した場合は、カスタマーサポートまでお問い合わせください。","fr":"En cas d'achat en double, veuillez contacter l'assistance clientèle."}
 {"id":1517222,"jp":"買いものの極意","fr":"L'art de bien acheter"}
 {"id":1517228,"jp":"「装備精錬」機能説明","fr":"Infos « Raffinage d'équipement »"}
 {"id":1517232,"jp":"星辿る旅路・序","fr":"Sur la route des étoiles : prologue"}
@@ -18275,30 +18804,49 @@
 {"id":1517244,"jp":"キボと星絆を結ぶ","fr":"Nouer un Lien stellaire avec un Kibo"}
 {"id":1517245,"jp":"農園を建設する","fr":"Construire la ferme"}
 {"id":1517246,"jp":"キボの能力を強化する","fr":"Renforcer les capacités des Kibo"}
+{"id":1517248,"jp":"メインクエストまたはサブクエストをクリアすると、星啓経験値を獲得できます","fr":"Terminer une quête principale ou une quête secondaire permet d'obtenir de l'EXP de Révélation stellaire"}
+{"id":1517249,"jp":"各キボの最初の5回のスターリンクでは、星啓経験値を獲得できます","fr":"Les 5 premiers Liens stellaires établis avec chaque Kibo rapportent de l'EXP de Révélation stellaire"}
+{"id":1517251,"jp":"「星旅の記録」クエストをクリアすると、星啓経験値を獲得できます","fr":"Terminer les quêtes de la « Chronique du voyage stellaire » permet d'obtenir de l'EXP de Révélation stellaire"}
+{"id":1517253,"jp":"デイリークエストをクリアすると、星啓経験値を獲得できます","fr":"Terminer les quêtes quotidiennes permet d'obtenir de l'EXP de Révélation stellaire"}
 {"id":1517254,"jp":"原初の潮を消費する","fr":"Dépenser de la Marée originelle"}
+{"id":1517257,"jp":"「キャラクター」-「詳細」-「レベルアップ」機能でキャラクターレベルを上げると、キャラクターのステータスを強化できます","fr":"Monter le niveau d'un personnage avec la fonction « Personnage » - « Détails » - « Monter de niveau » renforce ses statistiques"}
 {"id":1517258,"jp":"アニマレベルアップ","fr":"Montée de niveau d'Anima"}
 {"id":1517260,"jp":"星祝昇臨度をアップ","fr":"Augmenter l'ascension de Bénédiction stellaire"}
 {"id":1517262,"jp":"より強力な装備を獲得","fr":"Obtenir un meilleur équipement"}
+{"id":1517264,"jp":"「キャラクター」-「装備」-「装備変更」-「強化」機能で装備を強化すると、装備の属性ボーナスを強化できます","fr":"Renforcer un équipement avec la fonction « Personnage » - « Équipement » - « Changer d'équipement » - « Renforcer » augmente ses bonus d'attributs"}
 {"id":1517265,"jp":"装備ランクアップ","fr":"Rang d'équipement supérieur"}
+{"id":1517266,"jp":"「キャラクター」-「装備」-「装備変更」-「強化」機能で装備をランクアップさせると、装備のオプションを解放できます","fr":"Monter un équipement de rang avec la fonction « Personnage » - « Équipement » - « Changer d'équipement » - « Renforcer » débloque ses options"}
 {"id":1517267,"jp":"幻域チャレンジ","fr":"Défi du Domaine fantôme"}
 {"id":1517269,"jp":"珍跡キボの獲得","fr":"Obtenir des Kibo insolites"}
 {"id":1517271,"jp":"キボの孵化","fr":"Éclosion de Kibo"}
+{"id":1517272,"jp":"フィールドで拾ったり、農園の餌やり場や危機討伐ショップで入手したりしたキボのタマゴは、農園で孵化させることができます。","fr":"Les œufs de Kibo trouvés sur le terrain, ou obtenus à l'aire de nourrissage de la ferme ou à la boutique de la Traque des menaces, peuvent être couvés à la ferme."}
 {"id":1517273,"jp":"キボとのスターリンク","fr":"Lien stellaire avec un Kibo"}
+{"id":1517274,"jp":"フィールド探索の過程で、ステラカードを使用してキボとスターリンクし、新しい仲間を獲得しよう","fr":"Au fil de l'exploration du terrain, utilisez des cartes Stella pour établir un Lien stellaire avec des Kibo et accueillir de nouveaux compagnons"}
 {"id":1517275,"jp":"キボを追跡","fr":"Pister un Kibo"}
+{"id":1517276,"jp":"「キボ図鑑」でキボの生息地を確認し、キボが出没する時間と場所を把握しましょう","fr":"Consultez l'habitat des Kibo dans l'« Encyclopédie des Kibo » pour savoir quand et où ils apparaissent"}
+{"id":1517278,"jp":"農園に共鳴の石台を建設後、素材を消費してさまざまな品質のステラカードを製作し、キボとのスターリンク成功率をアップさせよう","fr":"Une fois le socle de résonance construit à la ferme, dépensez des matériaux pour fabriquer des cartes Stella de différentes qualités et augmenter vos chances de réussir le Lien stellaire avec les Kibo"}
 {"id":1517279,"jp":"輝くコインの獲得","fr":"Obtenir des pièces étincelantes"}
 {"id":1517281,"jp":"輝くコインを使用","fr":"Utiliser des pièces étincelantes"}
+{"id":1517282,"jp":"「農園本部」-「キラキラ珍品」で、輝くコインを使用して必要な商品を購入しよう","fr":"Dans « QG de la ferme » - « Curiosités scintillantes », utilisez des pièces scintillantes pour acheter les articles dont vous avez besoin"}
 {"id":1517283,"jp":"採集施設","fr":"Installations de collecte"}
 {"id":1517285,"jp":"作物の栽培","fr":"Culture des plantes"}
+{"id":1517286,"jp":"農園で畑を開墾し作物を栽培すると、製作や料理に使用する素材を獲得できます","fr":"Défricher des champs à la ferme et y cultiver des plantes permet d'obtenir des matériaux pour la fabrication et la cuisine"}
 {"id":1517287,"jp":"果樹の植え付け","fr":"Planter des arbres fruitiers"}
+{"id":1517289,"jp":"キボを牧場に配置すると、様々な素材が継続的に産出されます。","fr":"Placer des Kibo au pâturage permet d'obtenir en continu des matériaux variés."}
 {"id":1517290,"jp":"装備の鍛造","fr":"Forger de l'équipement"}
+{"id":1517291,"jp":"対応する依頼クエストを完了すると装備の鍛造レシピが解放され、農園で素材を消費して装備を製作できます。","fr":"Terminer la mission correspondante débloque la recette de forge d'un équipement, que l'on peut ensuite fabriquer à la ferme en dépensant des matériaux."}
 {"id":1517292,"jp":"農園レベルアップ","fr":"Montée de niveau de la ferme"}
 {"id":1517294,"jp":"トーテムを建設","fr":"Construire des totems"}
 {"id":1517296,"jp":"各種レシピを解放","fr":"Débloquer des recettes"}
+{"id":1517297,"jp":"星識レベルを上げたりしてレシピを解放すると、農園の施設で対応するアイテムを製造できるようになります。","fr":"Monter le niveau de Savoir stellaire ou débloquer des recettes permet de fabriquer les objets correspondants dans les installations de la ferme."}
 {"id":1517298,"jp":"キボレベルアップ","fr":"Montée de niveau des Kibo"}
 {"id":1517300,"jp":"キボ因子を育成する","fr":"Développer les facteurs des Kibo"}
 {"id":1517302,"jp":"キボ進化","fr":"Évolution des Kibo"}
+{"id":1517303,"jp":"一部のキボは進化可能です。該当するキボが進化レベルに達した際、「キボ」画面で進化を行うと、キボの能力が大幅にアップします","fr":"Certains Kibo peuvent évoluer. Quand un Kibo concerné atteint son niveau d'évolution, le faire évoluer dans l'écran « Kibo » augmente nettement ses capacités"}
+{"id":1517305,"jp":"「キボ」-「源脈」画面でキボの源脈レベルを上げると、キボの戦闘ステータスとスキルを強化できます","fr":"Monter le niveau de veine source d'un Kibo dans l'écran « Kibo » - « Veine source » renforce ses statistiques de combat et ses compétences"}
 {"id":1517306,"jp":"キボの潜在能力を強化","fr":"Renforcer le potentiel des Kibo"}
 {"id":1517308,"jp":"星辿る旅路","fr":"Sur la route des étoiles"}
+{"id":1517310,"jp":"「星旅の記録」クエスト「星辿る旅路・序」をクリアする","fr":"Terminer la quête « Sur la route des étoiles : prologue » de la « Chronique du voyage stellaire »"}
 {"id":1517313,"jp":"採鉱効率の向上・1","fr":"Meilleur rendement minier 1"}
 {"id":1517314,"jp":"農園の増築・溶鉱炉","fr":"Agrandir la ferme : haut fourneau"}
 {"id":1517316,"jp":"栽培と収穫・月光麻","fr":"Culture et récolte : chanvre lunaire"}
@@ -18507,23 +19055,34 @@
 {"id":1517591,"jp":"星律の収集・フリス","fr":"Collecte de mélodies stellaires : Fleece"}
 {"id":1517592,"jp":"共に旅した一瞬","fr":"Un instant de voyage partagé"}
 {"id":1517596,"jp":"星絆の道のり・序","fr":"Chemin du Lien stellaire : prologue"}
+{"id":1517598,"jp":"星々と共に歩み、戦闘と星脈の鍛錬を経て、さらなる高みへ。","fr":"Cheminez avec les étoiles et, par le combat et l'entraînement de la veine stellaire, atteignez des sommets plus hauts encore."}
+{"id":1517601,"jp":"キボはそれぞれ個性や得意なことがある。根気強く育成して、キボたちのことをもっと知っていこう。","fr":"Chaque Kibo a sa personnalité et ses points forts. Formez-les avec patience pour apprendre à mieux les connaître."}
 {"id":1517602,"jp":"スターリンク・一","fr":"Lien stellaire I"}
 {"id":1517605,"jp":"アニマを装備","fr":"Équiper une Anima"}
+{"id":1517607,"jp":"波長が合うアニマと共鳴させることで、内に秘められた力が引き出される。","fr":"En faisant résonner un Anima dont la longueur d'onde s'accorde, on libère la force qui sommeille en lui."}
 {"id":1517608,"jp":"マウントの試練・入門","fr":"Épreuve de monture : initiation"}
+{"id":1517610,"jp":"マウントの試練にかけては、誰にも負けない自信がある！","fr":"Personne ne me bat à l'épreuve de la monture, j'en ai la certitude !"}
 {"id":1517611,"jp":"星臨者の新生活","fr":"La nouvelle vie de l'Enfant des étoiles"}
+{"id":1517612,"jp":"「はじめての芽吹の谷」クエストの「農園を贈られる」パートをクリアする","fr":"Terminer la partie « Recevoir la ferme en cadeau » de la quête « Premier passage dans la Vallée des Bourgeons »"}
 {"id":1517614,"jp":"スターリンク・二","fr":"Lien stellaire II"}
 {"id":1517615,"jp":"星絆の道のり・一","fr":"Chemin du Lien stellaire I"}
 {"id":1517617,"jp":"輝かしい記憶・一","fr":"Souvenirs radieux I"}
+{"id":1517619,"jp":"記憶の弦の響きは、満ちあふれる星脈の力によって、ますます高まっていく。","fr":"L'écho de la corde des souvenirs s'amplifie de plus en plus sous la puissance de la veine stellaire qui déborde."}
 {"id":1517620,"jp":"キボを育てる・一","fr":"Élever des Kibo I"}
 {"id":1517622,"jp":"風銅採鉱場を建設する","fr":"Construire une mine de cuivre du vent"}
 {"id":1517626,"jp":"元素祭壇を建設する","fr":"Construire un autel élémentaire"}
 {"id":1517632,"jp":"多種多様なキボの相棒","fr":"Des partenaires Kibo de toutes sortes"}
+{"id":1517634,"jp":"お気に入りのキボとスターリンクして仲間にし、広い世界を見せに行こう！","fr":"Nouez un Lien stellaire avec votre Kibo préféré, faites-en un compagnon et emmenez-le voir le vaste monde !"}
 {"id":1517635,"jp":"キボを育てる・二","fr":"Élever des Kibo II"}
+{"id":1517642,"jp":"農園を盛り上げるには、注文の引き受けは欠かせないぞ！","fr":"Pour faire prospérer la ferme, il est indispensable d'accepter des commandes !"}
 {"id":1517652,"jp":"星祝の階段・一","fr":"Marches de la Bénédiction stellaire I"}
+{"id":1517657,"jp":"プロミリア各地のファイターたちと、ともにキボファイトの頂点を目指そう！","fr":"Visez le sommet du Duel de Kibo avec les duellistes de tout Promilia !"}
 {"id":1517658,"jp":"基本素材を集める","fr":"Récolter des matériaux de base"}
+{"id":1517660,"jp":"強くなるための道に、一歩一歩の積み重ねは欠かせない。","fr":"Sur la voie qui mène à la force, accumuler les efforts pas à pas est indispensable."}
 {"id":1517661,"jp":"ボス挑戦をクリアする","fr":"Réussir un défi de boss"}
 {"id":1517663,"jp":"強敵を恐れるな！","fr":"Aucune peur face aux ennemis redoutables !"}
 {"id":1517664,"jp":"危機討伐・一","fr":"Traque des menaces I"}
+{"id":1517666,"jp":"星々の輝きはいつだって危機の暗がりを打ち破り、大空を澄み渡らせる！","fr":"L'éclat des étoiles brise toujours les ténèbres du danger et rend le ciel limpide !"}
 {"id":1517667,"jp":"キングラーガを倒す","fr":"Vaincre Kingraga"}
 {"id":1517670,"jp":"取引注文を完了する・二","fr":"Terminer des commandes commerciales II"}
 {"id":1517673,"jp":"星絆の道のり・三","fr":"Chemin du Lien stellaire III"}
@@ -18532,7 +19091,9 @@
 {"id":1517679,"jp":"キボ因子変異を選択","fr":"Choisir une mutation de facteurs de Kibo"}
 {"id":1517681,"jp":"選択、選択。","fr":"Choisir, encore choisir."}
 {"id":1517682,"jp":"農園レベルアップ・一","fr":"Montée de niveau de la ferme I"}
+{"id":1517684,"jp":"農園の仕事は、適当にこなせばいいというものじゃないぞ。頼りになる戦力として育て上げるには、もうひと頑張りが必要だ！","fr":"Les travaux de la ferme ne se font pas à la va-vite. Pour en faire une force fiable, il faudra encore un petit effort !"}
 {"id":1517685,"jp":"孵化ポストを建設する","fr":"Construire un poste d'éclosion"}
+{"id":1517687,"jp":"孵化ポストは農園の重要な施設だ。もしかしたら、次のサプライズがここから誕生するかもしれないぞ！","fr":"Le poste d'éclosion est une installation clé de la ferme. La prochaine surprise en sortira peut-être !"}
 {"id":1517688,"jp":"ボス・ララッポを倒す","fr":"Vaincre le boss Rarappo"}
 {"id":1517690,"jp":"ララッポ、勝負だ！","fr":"Rarappo, à nous deux !"}
 {"id":1517691,"jp":"絆を育む・一","fr":"Renforcer le Lien I"}
@@ -18542,60 +19103,104 @@
 {"id":1517697,"jp":"装備を1回強化する","fr":"Améliorer un équipement 1 fois"}
 {"id":1517699,"jp":"モルフォーレを倒す","fr":"Vaincre Morphore"}
 {"id":1517702,"jp":"芽吹の谷の探索・一","fr":"Exploration de la Vallée des Bourgeons I"}
+{"id":1517704,"jp":"星辰の行跡は、芽吹の谷の至る所へと刻まれていくことだろう。","fr":"Les traces des astres seront gravées partout dans la Vallée des Bourgeons."}
 {"id":1517705,"jp":"天道の余塵を初探索","fr":"Première exploration des Vestiges de la Voie céleste"}
 {"id":1517708,"jp":"キボファイト・入門","fr":"Duel de Kibo : initiation"}
+{"id":1517709,"jp":"いずれかのエリアのファイターとのキボファイトで2勝する","fr":"Remporter 2 Duels de Kibo contre des duellistes d'une zone au choix"}
 {"id":1517710,"jp":"採鉱効率の向上・一","fr":"Meilleur rendement minier I"}
+{"id":1517712,"jp":"貴重なステラカードを製作するには、星輝鉱に加えて月光麻の布地と青銅のインゴットも必要だ。試しに作ってみよう。","fr":"Fabriquer une carte Stella précieuse demande, en plus du minerai d'éclat stellaire, du tissu de chanvre lunaire et un lingot de bronze. Essayez d'en fabriquer une."}
+{"id":1517723,"jp":"閃耀のステラカードを製作するには、星輝鉱に加えてクモノワタの布地と鏡鉄インゴットも必要だ。試しに作ってみよう。","fr":"Fabriquer une carte Stella resplendissante demande, en plus du minerai d'éclat stellaire, du tissu de Kumonowata et un lingot de fer miroir. Essayez d'en fabriquer une."}
 {"id":1517724,"jp":"採鉱効率の向上・二","fr":"Meilleur rendement minier II"}
+{"id":1517731,"jp":"上質なステラカードを製作するには、星輝鉱に加えて月光麻の布地と青銅のインゴットも必要だ。試しに作ってみよう。","fr":"Fabriquer une carte Stella de qualité demande, en plus du minerai d'éclat stellaire, du tissu de chanvre lunaire et un lingot de bronze. Essayez d'en fabriquer une."}
+{"id":1517738,"jp":"農園には時折、お客さんが訪れることもある。彼らのために心地よい休息の場所を準備しよう。","fr":"Il arrive que des visiteurs viennent à la ferme. Préparez-leur un endroit confortable où se reposer."}
+{"id":1517742,"jp":"元素炉をうまく活用しよう。強くなるための大きな助けとなるはずだ！","fr":"Tirez bien parti du four élémentaire. Il vous aidera grandement à devenir plus fort !"}
 {"id":1517745,"jp":"畑の開墾・一","fr":"Défrichage des champs I"}
 {"id":1517748,"jp":"畑の開墾・二","fr":"Défrichage des champs II"}
 {"id":1517750,"jp":"キボの孵化・一","fr":"Éclosion de Kibo I"}
 {"id":1517754,"jp":"キボの孵化・二","fr":"Éclosion de Kibo II"}
 {"id":1517756,"jp":"牧場にキボを配置する","fr":"Placer des Kibo aux pâturages"}
+{"id":1517758,"jp":"キボの仲間たちよ、牧場を心ゆくまで駆け回り、楽しんでおくれ！","fr":"Chers compagnons Kibo, courez dans le pâturage et amusez-vous autant qu'il vous plaira !"}
 {"id":1517760,"jp":"簡単なことだ。","fr":"C'est simple."}
 {"id":1517762,"jp":"よいキボにはよい鞍。","fr":"À bon Kibo, bonne selle."}
+{"id":1517768,"jp":"キボにも得意分野がある。専門の仕事は、その道のキボに任せよう！","fr":"Chaque Kibo a son domaine de prédilection. Confiez les tâches spécialisées au Kibo de la partie !"}
 {"id":1517777,"jp":"沃土の開墾・一","fr":"Défrichage des terres fertiles I"}
 {"id":1517780,"jp":"沃土の開墾・二","fr":"Défrichage des terres fertiles II"}
 {"id":1517782,"jp":"沃土の開墾・三","fr":"Défrichage des terres fertiles III"}
 {"id":1517784,"jp":"沃土の開墾・四","fr":"Défrichage des terres fertiles IV"}
 {"id":1517786,"jp":"沃土の開墾・五","fr":"Défrichage des terres fertiles V"}
 {"id":1517788,"jp":"因子の果樹の栽培・一","fr":"Culture d'arbres fruitiers à facteurs I"}
+{"id":1517790,"jp":"因子の果樹から収穫できる因子の果実を使えば、キボの因子変異を完了させることができる。さあ、沃土で栽培しよう。","fr":"Les fruits de facteur récoltés sur l'arbre fruitier à facteurs permettent d'achever la mutation de facteurs d'un Kibo. Allez, cultivez-le dans une terre fertile."}
 {"id":1517792,"jp":"因子の果樹の栽培・二","fr":"Culture d'arbres fruitiers à facteurs II"}
 {"id":1517794,"jp":"源脈の果樹の栽培・一","fr":"Culture d'arbres fruitiers de veine source I"}
+{"id":1517796,"jp":"源脈の果樹から収穫できる源脈の果実があれば、キボの源脈のレベルを上げることができる。さあ、沃土で栽培しよう。","fr":"Les fruits de veine source récoltés sur l'arbre fruitier de veine source permettent de monter le niveau de veine source d'un Kibo. Allez, cultivez-le dans une terre fertile."}
 {"id":1517797,"jp":"源脈の果樹の栽培・二","fr":"Culture d'arbres fruitiers de veine source II"}
 {"id":1517799,"jp":"星満の果樹の栽培・一","fr":"Culture d'arbres fruitiers étoilés I"}
+{"id":1517801,"jp":"星満の果樹から採れる星満の果実は、キボをレベルアップさせることができる。さあ、沃土で栽培しよう。","fr":"Les fruits étoilés cueillis sur l'arbre fruitier étoilé permettent de faire monter un Kibo de niveau. Allez, cultivez-le dans une terre fertile."}
 {"id":1517802,"jp":"星満の果樹の栽培・二","fr":"Culture d'arbres fruitiers étoilés II"}
+{"id":1517805,"jp":"熟練の製作経験は、繰り返しの試行錯誤の中で積み重ねられるものだ。友愛団子の製作を試してみよう。","fr":"Une longue expérience de fabrication se construit au fil d'innombrables essais et erreurs. Essayez de fabriquer un Dango de l'amitié."}
+{"id":1517808,"jp":"熟練の製作経験は、繰り返しの試行錯誤の中で積み重ねられるものだ。幸運の蒸しパンの製作を試してみよう。","fr":"Une longue expérience de fabrication se construit au fil d'innombrables essais et erreurs. Essayez de fabriquer une Brioche vapeur porte-bonheur."}
+{"id":1517810,"jp":"熟練の製作経験は、繰り返しの試行錯誤の中で積み重ねられるものだ。御霊の雫の製作を試してみよう。","fr":"Une longue expérience de fabrication se construit au fil d'innombrables essais et erreurs. Essayez de fabriquer une Goutte des Esprits anciens."}
+{"id":1517813,"jp":"熟練の製作経験は、繰り返しの試行錯誤の中で積み重ねられるものだ。御霊の雨の製作を試してみよう。","fr":"Une longue expérience de fabrication se construit au fil d'innombrables essais et erreurs. Essayez de fabriquer une Pluie des Esprits anciens."}
 {"id":1517822,"jp":"フリスの生産強化・一","fr":"Production renforcée à Fleece I"}
 {"id":1517824,"jp":"フリスの生産強化・二","fr":"Production renforcée à Fleece II"}
 {"id":1517826,"jp":"装備製造・一","fr":"Fabrication d'équipement I"}
+{"id":1517828,"jp":"ハンマーを打ち込み、また打ち込み――装備はそうやって作られるのだ！","fr":"Frapper au marteau, frapper encore : c'est ainsi que l'on fabrique l'équipement !"}
 {"id":1517830,"jp":"装備製造・二","fr":"Fabrication d'équipement II"}
+{"id":1517833,"jp":"装備を製造に役立つ製革台を設置して、戦力を上げよう！","fr":"Installez une table de tannage, utile à la fabrication d'équipements, pour renforcer votre puissance !"}
+{"id":1517835,"jp":"装備を製造に役立つ製革所を設置して、戦力を上げよう！","fr":"Installez une tannerie, utile à la fabrication d'équipements, pour renforcer votre puissance !"}
+{"id":1517837,"jp":"装備を製造に役立つ武器工房を設置して、戦力を上げよう！","fr":"Installez un atelier d'armes, utile à la fabrication d'équipements, pour renforcer votre puissance !"}
 {"id":1517838,"jp":"装備製造・三","fr":"Fabrication d'équipement III"}
 {"id":1517840,"jp":"装備製造・四","fr":"Fabrication d'équipement IV"}
+{"id":1517841,"jp":"難易度IVの素材を使用して装備の指定製造を10回する","fr":"Fabriquer 10 fois des équipements sur mesure avec des matériaux de difficulté IV"}
 {"id":1517848,"jp":"取引の収益・一","fr":"Bénéfices commerciaux I"}
+{"id":1517849,"jp":"商品の売却で、輝くコインを累計10,000枚獲得する","fr":"Obtenir 10 000 pièces scintillantes au total en vendant des marchandises"}
 {"id":1517851,"jp":"取引の収益・二","fr":"Bénéfices commerciaux II"}
+{"id":1517852,"jp":"商品の売却で、輝くコインを累計100,000枚獲得する","fr":"Obtenir 100 000 pièces scintillantes au total en vendant des marchandises"}
+{"id":1517854,"jp":"一部のキボのタマゴは農園のショップにこっそり現れます。ひとつ抱えて持ち帰りましょう～","fr":"Certains œufs de Kibo se glissent discrètement dans la boutique de la ferme. Emportez-en un dans vos bras~"}
 {"id":1517855,"jp":"合理的な出費・一","fr":"Dépenses raisonnables I"}
 {"id":1517858,"jp":"合理的な出費・二","fr":"Dépenses raisonnables II"}
 {"id":1517860,"jp":"合理的な出費・三","fr":"Dépenses raisonnables III"}
+{"id":1517862,"jp":"プロミリアでのささやかな思い出はすべて、永遠の星辰の印となる。","fr":"Chaque petit souvenir de Promilia devient à jamais une marque des astres."}
 {"id":1517863,"jp":"ミィティの成人式","fr":"Le passage à l'âge adulte de Mitty"}
 {"id":1517865,"jp":"共にある絆・アビィ","fr":"Lien partagé : Abby"}
 {"id":1517868,"jp":"共にある絆・塗山小玉","fr":"Lien partagé : Tushan Xiaoyu"}
 {"id":1517870,"jp":"新たな芽吹きを願う歌","fr":"Chant pour de nouveaux bourgeons"}
+{"id":1517871,"jp":"サブストーリー「『ヤルハドーム』の修復」をクリアする","fr":"Terminer la quête secondaire « Réparer le Dôme de Yarha »"}
+{"id":1517874,"jp":"不気味な影がうごめく洋館。そこには一体、どんな秘密が隠されているのだろうか。","fr":"Un manoir où s'agitent d'inquiétantes ombres. Quels secrets peut-il bien cacher ?"}
+{"id":1517876,"jp":"メインストーリー依頼「1-1 故郷を離れて」をクリアする","fr":"Terminer la mission de l'histoire principale « 1-1 Quitter sa terre natale »"}
+{"id":1517879,"jp":"メインストーリー依頼「1-4 未知の谷」をクリアする","fr":"Terminer la mission de l'histoire principale « 1-4 La vallée inconnue »"}
+{"id":1517881,"jp":"メインストーリー依頼「1-8 星の導き」をクリアする","fr":"Terminer la mission de l'histoire principale « 1-8 Les étoiles pour guide »"}
+{"id":1517883,"jp":"メインストーリー依頼「2-4 万霊黎明」をクリアする","fr":"Terminer la mission de l'histoire principale « 2-4 L'aube des mille esprits »"}
+{"id":1517885,"jp":"メインストーリー依頼「2-7 継承の紋章」をクリアする","fr":"Terminer la mission de l'histoire principale « 2-7 L'emblème de l'héritage »"}
+{"id":1517887,"jp":"メインストーリー依頼「3-4 前途ははるか」をクリアする","fr":"Terminer la mission de l'histoire principale « 3-4 Un long chemin devant soi »"}
+{"id":1517889,"jp":"メインストーリー依頼「3-7 大狼の守護」をクリアする","fr":"Terminer la mission de l'histoire principale « 3-7 La protection du Grand Loup »"}
+{"id":1517891,"jp":"メインストーリー依頼「4-10 狂厄討滅」をクリアする","fr":"Terminer la mission de l'histoire principale « 4-10 Anéantir le fléau enragé »"}
 {"id":1517892,"jp":"銀色に輝く","fr":"Éclat argenté"}
 {"id":1517894,"jp":"鍛え抜かれし証","fr":"Preuve d'un long entraînement"}
 {"id":1517900,"jp":"装備品の獲得・二","fr":"Obtention d'équipement II"}
+{"id":1517901,"jp":"難易度IIIのデイリー依頼-装備品の獲得を1回クリアする","fr":"Terminer 1 fois la Mission quotidienne de difficulté III - Obtention d'équipement"}
 {"id":1517902,"jp":"装備品の獲得・三","fr":"Obtention d'équipement III"}
+{"id":1517903,"jp":"難易度Vのデイリー依頼-装備品の獲得を1回クリアする","fr":"Terminer 1 fois la Mission quotidienne de difficulté V - Obtention d'équipement"}
 {"id":1517904,"jp":"装備品の獲得・四","fr":"Obtention d'équipement IV"}
+{"id":1517905,"jp":"難易度Vのデイリー依頼-装備品の獲得を10回クリアする","fr":"Terminer 10 fois la Mission quotidienne de difficulté V - Obtention d'équipement"}
 {"id":1517906,"jp":"装備品の獲得・五","fr":"Obtention d'équipement V"}
+{"id":1517907,"jp":"難易度Vのデイリー依頼-装備品の獲得を20回クリアする","fr":"Terminer 20 fois la Mission quotidienne de difficulté V - Obtention d'équipement"}
 {"id":1517908,"jp":"危機討伐・二","fr":"Traque des menaces II"}
 {"id":1517910,"jp":"危機討伐・三","fr":"Traque des menaces III"}
 {"id":1517915,"jp":"危機討伐・二のクリア","fr":"Traque des menaces II réussie"}
 {"id":1517917,"jp":"危機討伐・三のクリア","fr":"Traque des menaces III réussie"}
 {"id":1517919,"jp":"危機討伐・四のクリア","fr":"Traque des menaces IV réussie"}
+{"id":1517921,"jp":"危機討伐終了後、チームメイトから「いいね」を10回もらう","fr":"Recevoir 10 mentions « Pouce levé » de coéquipiers à la fin d'une Traque des menaces"}
+{"id":1517922,"jp":"チームのひとりひとりがとても重要だ。称賛を惜しまないようにしよう。","fr":"Chaque membre de l'équipe est très important. Ne ménagez pas les compliments."}
+{"id":1517925,"jp":"危機討伐終了後、チームメイトからフレンド申請をもらう","fr":"Recevoir une demande d'ami d'un coéquipier à la fin d'une Traque des menaces"}
+{"id":1517926,"jp":"仲間はとても大切だ。なるべく協力できる可能性を作ろう！","fr":"Les compagnons sont très précieux. Créez autant que possible l'occasion de coopérer !"}
 {"id":1517927,"jp":"塑流圜影挑戦・入門編","fr":"Défi Suliu Yuanying : initiation"}
 {"id":1517931,"jp":"恒溯圜影挑戦・一","fr":"Défi Hengsu Yuanying I"}
 {"id":1517933,"jp":"恒溯圜影挑戦・二","fr":"Défi Hengsu Yuanying II"}
 {"id":1517935,"jp":"汐変圜影挑戦・一","fr":"Défi Xibian Yuanying I"}
 {"id":1517937,"jp":"汐変圜影挑戦・二","fr":"Défi Xibian Yuanying II"}
 {"id":1517939,"jp":"汐変圜影挑戦・三","fr":"Défi Xibian Yuanying III"}
+{"id":1517941,"jp":"キボファイトのすべてのチュートリアルステージをクリアする","fr":"Terminer toutes les étapes de tutoriel du Duel de Kibo"}
 {"id":1517950,"jp":"ファイト・フリス・一","fr":"Duel à Fleece I"}
 {"id":1517952,"jp":"ファイト・フリス・二","fr":"Duel à Fleece II"}
 {"id":1517954,"jp":"ファイト・フリス・三","fr":"Duel à Fleece III"}
@@ -18615,16 +19220,21 @@
 {"id":1517987,"jp":"輝かしい記憶・六","fr":"Souvenirs radieux VI"}
 {"id":1517989,"jp":"輝かしい記憶・七","fr":"Souvenirs radieux VII"}
 {"id":1517992,"jp":"想いを伝える・一","fr":"Dire ses sentiments I"}
+{"id":1517994,"jp":"二人の関係は、少しずつ築いていくものよ。だから……ちゃんとプレゼントを選んで、渡してみなさい。","fr":"Une relation se construit petit à petit. Alors… choisis bien un cadeau et essaie de l'offrir."}
 {"id":1517995,"jp":"想いを伝える・二","fr":"Dire ses sentiments II"}
 {"id":1517997,"jp":"心を通わせる・一","fr":"Cœurs à l'unisson I"}
+{"id":1517999,"jp":"互いを知ろうとする意志さえあれば、心を通わせることなんて自然と叶うものさ！","fr":"Pourvu qu'on ait la volonté de se connaître, se rapprocher vient tout seul, tu sais !"}
 {"id":1518000,"jp":"心を通わせる・二","fr":"Cœurs à l'unisson II"}
 {"id":1518004,"jp":"星祝の階段・五","fr":"Marches de la Bénédiction stellaire V"}
 {"id":1518006,"jp":"星祝の階段・六","fr":"Marches de la Bénédiction stellaire VI"}
 {"id":1518008,"jp":"星祝の階段・七","fr":"Marches de la Bénédiction stellaire VII"}
 {"id":1518010,"jp":"星祝の階段・八","fr":"Marches de la Bénédiction stellaire VIII"}
 {"id":1518014,"jp":"準備万端・一","fr":"Tout est prêt I"}
+{"id":1518015,"jp":"キャラクターに青色レアリティ以上の装備を5つ装備する","fr":"Équiper 5 pièces d'équipement de rareté bleue ou supérieure sur un personnage"}
 {"id":1518017,"jp":"準備万端・二","fr":"Tout est prêt II"}
+{"id":1518018,"jp":"キャラクターに紫色レアリティ以上の装備を5つ装備する","fr":"Équiper 5 pièces d'équipement de rareté violette ou supérieure sur un personnage"}
 {"id":1518019,"jp":"準備万端・三","fr":"Tout est prêt III"}
+{"id":1518020,"jp":"キャラクターに金色レアリティ以上の装備を5つ装備する","fr":"Équiper 5 pièces d'équipement de rareté dorée ou supérieure sur un personnage"}
 {"id":1518021,"jp":"装備強化・二","fr":"Amélioration d'équipement II"}
 {"id":1518023,"jp":"装備強化・三","fr":"Amélioration d'équipement III"}
 {"id":1518025,"jp":"装備強化・四","fr":"Amélioration d'équipement IV"}
@@ -18632,6 +19242,7 @@
 {"id":1518029,"jp":"強者には鋭き刃を！","fr":"Aux forts, une lame acérée !"}
 {"id":1518030,"jp":"全身武装・二","fr":"Équipement de pied en cap II"}
 {"id":1518032,"jp":"全身武装・三","fr":"Équipement de pied en cap III"}
+{"id":1518033,"jp":"任意のキャラクターのすべての装備を+12まで強化する","fr":"Renforcer tous les équipements d'un personnage au choix jusqu'à +12"}
 {"id":1518034,"jp":"装備強化・五","fr":"Amélioration d'équipement V"}
 {"id":1518036,"jp":"入魂研磨・一","fr":"Polissage inspiré I"}
 {"id":1518037,"jp":"装備の★を1回増やす","fr":"Ajouter 1 ★ à un équipement"}
@@ -18658,6 +19269,7 @@
 {"id":1518089,"jp":"キボを育てる・四","fr":"Élever des Kibo IV"}
 {"id":1518091,"jp":"キボとともに成長・六","fr":"Grandir avec les Kibo VI"}
 {"id":1518095,"jp":"キボを鍛える・一","fr":"Entraîner des Kibo I"}
+{"id":1518097,"jp":"キボの源脈をレベルアップさせることで、より強力な味方になってくれるはずだ。","fr":"Monter la veine source d'un Kibo en fera sans doute un allié encore plus puissant."}
 {"id":1518098,"jp":"キボを鍛える・二","fr":"Entraîner des Kibo II"}
 {"id":1518100,"jp":"キボを鍛える・三","fr":"Entraîner des Kibo III"}
 {"id":1518102,"jp":"キボを鍛える・四","fr":"Entraîner des Kibo IV"}
@@ -18668,7 +19280,10 @@
 {"id":1518111,"jp":"3匹のキボの源脈を最大まで強化する","fr":"Renforcer au maximum la veine source de 3 Kibo"}
 {"id":1518112,"jp":"秀才の資質を持つキボ","fr":"Kibo aux aptitudes brillantes"}
 {"id":1518115,"jp":"逸才の資質を持つキボ","fr":"Kibo aux aptitudes hors du commun"}
+{"id":1518118,"jp":"潜在能力の実を使用して、キボの潜在能力を1回強化する","fr":"Utiliser un fruit de potentiel pour renforcer 1 fois le potentiel d'un Kibo"}
+{"id":1518119,"jp":"潜在能力の実、キボの潜在能力を伸ばすのにうってつけのアイテムだ！","fr":"Le fruit de potentiel est l'objet idéal pour développer le potentiel d'un Kibo !"}
 {"id":1518120,"jp":"因子の実を与える・一","fr":"Donner un fruit à facteurs I"}
+{"id":1518122,"jp":"お連れのキボの因子に納得がいかない？そんなときは因子の実に頼ろう！","fr":"Les facteurs du Kibo qui vous accompagne ne vous satisfont pas ? Dans ce cas, comptez sur le fruit à facteurs !"}
 {"id":1518123,"jp":"キボ因子変異・一","fr":"Mutation de facteurs des Kibo I"}
 {"id":1518125,"jp":"キボ因子変異・二","fr":"Mutation de facteurs des Kibo II"}
 {"id":1518127,"jp":"因子の実を与える・二","fr":"Donner un fruit à facteurs II"}
@@ -18690,11 +19305,17 @@
 {"id":1518192,"jp":"芽吹の谷の探索・二","fr":"Exploration de la Vallée des Bourgeons II"}
 {"id":1518194,"jp":"芽吹の谷の探索・三","fr":"Exploration de la Vallée des Bourgeons III"}
 {"id":1518196,"jp":"フリスの探索・一","fr":"Exploration de Fleece I"}
+{"id":1518198,"jp":"星の軌跡はやがて、フリスの地に遍く刻まれることだろう。","fr":"Le Sillage stellaire finira par être gravé partout sur les terres de Fleece."}
 {"id":1518199,"jp":"フリスの探索・二","fr":"Exploration de Fleece II"}
 {"id":1518201,"jp":"フリスの探索・三","fr":"Exploration de Fleece III"}
 {"id":1518203,"jp":"開拓の道・一","fr":"La voie des pionniers I"}
 {"id":1518206,"jp":"開拓の道・二","fr":"La voie des pionniers II"}
 {"id":1518208,"jp":"開拓の道・三","fr":"La voie des pionniers III"}
+{"id":1518211,"jp":"ごろごろグラゴにかけては、誰にも負けない自信がある！","fr":"Personne ne me bat quand il s'agit de Grago qui roule, j'en ai la certitude !"}
+{"id":1518213,"jp":"キャバードに変身することにかけては、誰にも負けない自信がある！","fr":"Personne ne me bat quand il s'agit de se transformer en Cabbird, j'en ai la certitude !"}
+{"id":1518215,"jp":"巣に帰るドゥルにかけては、誰にも負けない自信がある！","fr":"Personne ne me bat quand il s'agit de Dur qui rentre au nid, j'en ai la certitude !"}
+{"id":1518222,"jp":"ソザンカのはしごにかけては、誰にも負けない自信がある！","fr":"Personne ne me bat quand il s'agit de l'échelle de Sozanka, j'en ai la certitude !"}
+{"id":1518224,"jp":"湧き出るアウラにかけては、誰にも負けない自信がある！","fr":"Personne ne me bat quand il s'agit de l'Aura qui jaillit, j'en ai la certitude !"}
 {"id":1518227,"jp":"キボについていく・一","fr":"Suivre le Kibo I"}
 {"id":1518230,"jp":"キボについていく・二","fr":"Suivre le Kibo II"}
 {"id":1518232,"jp":"キボについていく・三","fr":"Suivre le Kibo III"}
@@ -18703,10 +19324,14 @@
 {"id":1518238,"jp":"旅のサプライズ・二","fr":"Surprises de voyage II"}
 {"id":1518240,"jp":"旅のサプライズ・三","fr":"Surprises de voyage III"}
 {"id":1518242,"jp":"希望の孵化・一","fr":"Éclosion d'espoir I"}
+{"id":1518244,"jp":"謎のキボのタマゴからは、一体どんなキボが生まれるのかしら～","fr":"Quel genre de Kibo naîtra de cet œuf mystérieux, je me demande~"}
 {"id":1518245,"jp":"希望の孵化・二","fr":"Éclosion d'espoir II"}
 {"id":1518247,"jp":"希望の孵化・三","fr":"Éclosion d'espoir III"}
 {"id":1518249,"jp":"星脈貫通、芽吹の谷！","fr":"Veines stellaires, percez la Vallée des Bourgeons !"}
 {"id":1518251,"jp":"星脈貫通、フリス！","fr":"Veines stellaires, percez Fleece !"}
+{"id":1518255,"jp":"星が初めて降り立った芽吹の谷で、星々の調べが次第に響き渡るのだった。","fr":"Dans la Vallée des Bourgeons, où les étoiles sont descendues pour la première fois, leur mélodie se met peu à peu à résonner."}
+{"id":1518257,"jp":"星が初めて降り立ったフリスで、星々の調べが次第に響き渡るのだった。","fr":"À Fleece, où les étoiles sont descendues pour la première fois, leur mélodie se met peu à peu à résonner."}
+{"id":1518259,"jp":"旅路での出会いはすべて縁。この瞬間を写真に残しておこう。","fr":"Chaque rencontre du voyage est un fruit du destin. Immortalisez cet instant en photo."}
 {"id":1518260,"jp":"なし","fr":"Aucun"}
 {"id":1518262,"jp":"Deleteキー","fr":"Touche Suppr"}
 {"id":1518263,"jp":"Tabキー","fr":"Touche Tab"}
@@ -18776,31 +19401,62 @@
 {"id":1518328,"jp":"NumLockキー","fr":"Touche Verr. Num"}
 {"id":1518330,"jp":"芽吹の谷・Ⅰ","fr":"Vallée des Bourgeons Ⅰ"}
 {"id":1518331,"jp":"難易度：簡単","fr":"Difficulté : facile"}
+{"id":1518335,"jp":"……わかった。どっちの戦術がより上か……勝負しよう。","fr":"… Entendu. Voyons laquelle de nos deux tactiques est la meilleure… Battons-nous."}
 {"id":1518337,"jp":"芽吹の谷・Ⅲ","fr":"Vallée des Bourgeons Ⅲ"}
 {"id":1518339,"jp":"芽吹の谷・Ⅳ","fr":"Vallée des Bourgeons Ⅳ"}
 {"id":1518343,"jp":"芽吹の谷・Ⅱ","fr":"Vallée des Bourgeons Ⅱ"}
+{"id":1518344,"jp":"負けたほうがミドゥの作ったパイをぜんぶ食べるんだぞ！","fr":"Celui qui perd mange toutes les tartes que Midu a préparées !"}
 {"id":1518347,"jp":"芽吹の谷・Ⅴ","fr":"Vallée des Bourgeons Ⅴ"}
+{"id":1518352,"jp":"わたしに対決を挑んでくるなんてめずらしいね。じゃあ、はやくはじめよう！","fr":"C'est rare que tu me lances un défi. Alors, commençons vite !"}
+{"id":1518353,"jp":"本気でいかせてもらう。そちらもそうであることを願う。","fr":"Je vais y mettre toute ma force. J'espère que c'est aussi ton cas."}
+{"id":1518355,"jp":"あまり本気を出さないでくれ……わたしのキボたちが怪我をしないか心配なんだ……","fr":"Ne mets pas toute ta force… j'ai peur que mes Kibo soient blessés…"}
 {"id":1518358,"jp":"芽吹の谷・Ⅵ","fr":"Vallée des Bourgeons Ⅵ"}
+{"id":1518359,"jp":"ははは、よし！ぐずぐずしてないで、思いっきり勝負しよう！","fr":"Ha ha, parfait ! Ne traînons pas, battons-nous de toutes nos forces !"}
+{"id":1518360,"jp":"こちらは迷うことなんてなにもないよ。さっそくはじめよう！","fr":"De mon côté, je n'ai aucune hésitation. Commençons tout de suite !"}
+{"id":1518362,"jp":"いざという時に怯んではだめだぞ。それじゃ面白くないからな。","fr":"Il ne faut pas faiblir au moment décisif. Sinon, ce ne serait pas amusant."}
+{"id":1518363,"jp":"あなたとキボのコンビネーションが一体どれほどのものか、見せてもらおう。","fr":"Voyons ce que vaut le duo que tu formes avec ton Kibo."}
 {"id":1518364,"jp":"芽吹の谷・Ⅸ","fr":"Vallée des Bourgeons Ⅸ"}
+{"id":1518365,"jp":"さあ来い、こんな機会をみすみす無駄にするつもりはないぞ。","fr":"Viens ! Je ne compte pas laisser filer une telle occasion."}
+{"id":1518366,"jp":"そこまであなたが戦いたいのなら、こちらも無下にはできないな。","fr":"Si tu tiens tant à te battre, je ne peux pas te refuser."}
+{"id":1518367,"jp":"ちょっといまは用があるからな……さっさと終わらせよう！","fr":"J'ai un peu à faire en ce moment… finissons-en vite !"}
+{"id":1518368,"jp":"見回りというのはすこしの気の緩みも許されないが、あなたの誘いとあらば……","fr":"Une ronde ne tolère pas le moindre relâchement, mais si c'est toi qui m'invites…"}
 {"id":1518370,"jp":"芽吹の谷・Ⅶ","fr":"Vallée des Bourgeons Ⅶ"}
+{"id":1518372,"jp":"キノコがひとつ、キノコがふたつ……キボファイト？問題ない。この場所にはすっかり慣れている。","fr":"Un champignon, deux champignons… Un Duel de Kibo ? Aucun problème. Je connais parfaitement cet endroit."}
+{"id":1518375,"jp":"そのキボファイト、本気で受けて立とう。よろしく頼む。","fr":"Ce Duel de Kibo, je l'accepte de tout cœur. Je compte sur toi."}
+{"id":1518376,"jp":"わたしと勝負する気か？だったら安心して。退屈なんてさせないから。","fr":"Tu veux te battre contre moi ? Alors rassure-toi. Tu ne vas pas t'ennuyer."}
+{"id":1518377,"jp":"君も私と同じくらいやる気満々みたいだな。なら、思いきり勝負しよう！","fr":"Ta motivation vaut la mienne, on dirait. Alors, battons-nous de toutes nos forces !"}
+{"id":1518379,"jp":"ちょうどいい、日頃の観察の成果を試させてもらうとするか。","fr":"Parfait, voyons ce que donnent mes observations de tous les jours."}
 {"id":1518380,"jp":"フリス・Ⅱ","fr":"Fleece Ⅱ"}
+{"id":1518382,"jp":"キボファイトはあまり得意ではないが、真剣にやるよ……","fr":"Le Duel de Kibo n'est pas mon fort, mais je m'y mets sérieusement…"}
 {"id":1518385,"jp":"正々堂々と勝負だ！","fr":"Un duel loyal, à la régulière !"}
 {"id":1518386,"jp":"フリス・Ⅲ","fr":"Fleece Ⅲ"}
 {"id":1518387,"jp":"フリス・Ⅳ","fr":"Fleece Ⅳ"}
 {"id":1518392,"jp":"フリス・Ⅴ","fr":"Fleece Ⅴ"}
+{"id":1518394,"jp":"緊迫した冒険をしてる間には、こんな機会はそうそうないよね……","fr":"Pendant une aventure aussi tendue, de telles occasions sont rares, n'est-ce pas…"}
 {"id":1518395,"jp":"フリス・Ⅶ","fr":"Fleece Ⅶ"}
+{"id":1518396,"jp":"私とキボたちが農場で鍛え上げたすごい技を見せてやろう！","fr":"Je vais te montrer les techniques extraordinaires que mes Kibo et moi avons affûtées à l'exploitation !"}
 {"id":1518399,"jp":"フリス・Ⅷ","fr":"Fleece Ⅷ"}
+{"id":1518401,"jp":"もしかしたら、キボファイトの最中に幸運が訪れるかもしれないね！","fr":"La chance viendra peut-être en plein Duel de Kibo !"}
+{"id":1518402,"jp":"すくなくとも、水面を眺めてぼーっとしているよりはマシだ……","fr":"Au moins, c'est mieux que de regarder l'eau dans le vide…"}
+{"id":1518403,"jp":"すこし音を出せば、魚たちが寄ってくるかもしれないね。","fr":"Si l'on fait un peu de bruit, les poissons viendront peut-être."}
+{"id":1518404,"jp":"お前との対決も、時間の無駄というわけではなさそうだ。","fr":"Se battre contre toi ne sera peut-être pas une perte de temps."}
+{"id":1518407,"jp":"うーん……この勝負、つまらない展開にならないことを願う。","fr":"Hum… j'espère que ce combat ne tournera pas à l'ennui."}
 {"id":1518409,"jp":"フリス・Ⅸ","fr":"Fleece Ⅸ"}
+{"id":1518411,"jp":"ここの風はとても心地いい。こんなところでするファイトはきっと楽しいだろう。","fr":"Le vent est très agréable ici. Un duel dans un tel endroit sera sûrement amusant."}
 {"id":1518413,"jp":"フリス・Ⅰ","fr":"Fleece Ⅰ"}
 {"id":1518422,"jp":"フリス・Ⅵ","fr":"Fleece Ⅵ"}
+{"id":1518424,"jp":"いまからファイトをはじめるの？\nなんだかわくわくしてきたわね！","fr":"Tu vas commencer le duel maintenant ?\nÇa me met en joie !"}
 {"id":1518425,"jp":"難易度：普通","fr":"Difficulté : normale"}
 {"id":1518427,"jp":"芽吹の谷・Ⅷ","fr":"Vallée des Bourgeons Ⅷ"}
 {"id":1518433,"jp":"今回は、準備万端だ。","fr":"Cette fois, tout est prêt."}
 {"id":1518437,"jp":"全力で勝負だ！","fr":"Un duel à fond !"}
 {"id":1518438,"jp":"はやく、はやく！","fr":"Vite, vite !"}
+{"id":1518444,"jp":"ちょうど他に用もないし、もう一勝負付き合ってやろう。","fr":"Je n'ai rien d'autre à faire, alors je veux bien faire un autre duel avec toi."}
+{"id":1518445,"jp":"もしかして、またファイトのコツをつかんだのか？だったら、早く見せてみろ！","fr":"Tu aurais encore saisi le truc du duel ? Alors montre-le vite !"}
 {"id":1518448,"jp":"芽吹の谷・Ⅹ","fr":"Vallée des Bourgeons Ⅹ"}
 {"id":1518449,"jp":"フリス・Ⅹ","fr":"Fleece Ⅹ"}
 {"id":1518454,"jp":"見習いⅤ","fr":"Apprentissage Ⅴ"}
+{"id":1518455,"jp":"ルーキーⅠ以下のランクで敗北しても、ポイントは減少しません。","fr":"Aux rangs inférieurs ou égaux à Recrue Ⅰ, une défaite ne fait pas perdre de points."}
 {"id":1518456,"jp":"見習いⅣ","fr":"Apprentissage Ⅳ"}
 {"id":1518457,"jp":"見習いⅢ","fr":"Apprentissage Ⅲ"}
 {"id":1518458,"jp":"見習いⅡ","fr":"Apprentissage Ⅱ"}
@@ -18811,6 +19467,7 @@
 {"id":1518463,"jp":"ルーキーⅡ","fr":"Recrue Ⅱ"}
 {"id":1518464,"jp":"ルーキーⅠ","fr":"Recrue Ⅰ"}
 {"id":1518465,"jp":"エリートⅤ","fr":"Élite Ⅴ"}
+{"id":1518466,"jp":"エリートⅠ以下のランクでは、敗北してもランクが下がりません。","fr":"Aux rangs inférieurs ou égaux à Élite Ⅰ, une défaite ne fait pas baisser votre rang."}
 {"id":1518467,"jp":"エリートⅣ","fr":"Élite Ⅳ"}
 {"id":1518468,"jp":"エリートⅢ","fr":"Élite Ⅲ"}
 {"id":1518469,"jp":"エリートⅡ","fr":"Élite Ⅱ"}
@@ -18825,6 +19482,7 @@
 {"id":1518478,"jp":"マスターⅢ","fr":"Maîtrise Ⅲ"}
 {"id":1518479,"jp":"マスターⅡ","fr":"Maîtrise Ⅱ"}
 {"id":1518480,"jp":"マスターⅠ","fr":"Maîtrise Ⅰ"}
+{"id":1518481,"jp":"レジェンドランクでは、敗北してもポイントやランクは下がりません。","fr":"Au rang Légende, une défaite ne fait baisser ni les points ni le rang."}
 {"id":1518482,"jp":"見習い","fr":"Apprentissage"}
 {"id":1518483,"jp":"ルーキー","fr":"Recrue"}
 {"id":1518484,"jp":"エリート","fr":"Élite"}
@@ -18832,6 +19490,7 @@
 {"id":1518486,"jp":"マスター","fr":"Maîtrise"}
 {"id":1518487,"jp":"向こうもルーキー","fr":"L'adversaire aussi est une recrue"}
 {"id":1518488,"jp":"フレイム","fr":"Flame"}
+{"id":1518489,"jp":"グランドマスターへの道、大いなる志を胸に、これからも鍛錬を続けよう！","fr":"Sur la route du Grand Maître, grande ambition au cœur, continuons de nous entraîner !"}
 {"id":1518491,"jp":"真剣な見習い","fr":"Apprentissage sérieux"}
 {"id":1518493,"jp":"まだ肩慣らし","fr":"Simple échauffement"}
 {"id":1518494,"jp":"エンカク","fr":"Enkaku"}
@@ -18977,7 +19636,9 @@
 {"id":1518661,"jp":"遠隔","fr":"Distance"}
 {"id":1518663,"jp":"生存能力が高いキボ。","fr":"Kibo à forte capacité de survie."}
 {"id":1518666,"jp":"持続","fr":"Persistance"}
+{"id":1518667,"jp":"フィールド上で継続的にダメージを与えたり、回復できるキボ。","fr":"Un Kibo capable d'infliger des DGT ou de soigner en continu sur le terrain."}
 {"id":1518668,"jp":"爆発","fr":"Explosion"}
+{"id":1518669,"jp":"フィールド上で瞬間的に大ダメージを与えたり、回復できるキボ。","fr":"Un Kibo capable d'infliger de lourds DGT ou de soigner instantanément sur le terrain."}
 {"id":1518670,"jp":"成長","fr":"Croissance"}
 {"id":1518672,"jp":"操作","fr":"Commandes"}
 {"id":1518675,"jp":"弱体化","fr":"Affaiblissement"}
@@ -19017,6 +19678,7 @@
 {"id":1518740,"jp":"周遊紀行出版社","fr":"Éditions Récits de voyage"}
 {"id":1518742,"jp":"パルカとその祖父","fr":"Parka et son grand-père"}
 {"id":1518745,"jp":"名もなき竜人","fr":"Draconien anonyme"}
+{"id":1518749,"jp":"竜人語：\nこの聖所にて、竜の姿を収めよ。首を垂れ翼を畳み、鱗を剥ぎて念を断て。","fr":"Langue draconienne :\nDans ce sanctuaire, dépose ta forme de dragon. Incline la tête, replie tes ailes, arrache tes écailles et tranche tes pensées."}
 {"id":1518757,"jp":"ハイガーデン議会","fr":"Conseil de High Garden"}
 {"id":1518759,"jp":"童言童心出版社","fr":"Éditions Cœur d'enfant"}
 {"id":1518761,"jp":"ロンリーランド編集部","fr":"Rédaction de Lonely Land"}
@@ -19035,48 +19697,78 @@
 {"id":1518815,"jp":"アヴァリアン万識書庫","fr":"Bibliothèque universelle d'Avalian"}
 {"id":1518817,"jp":"フリス鉱業協会","fr":"Association minière de Fleece"}
 {"id":1518820,"jp":"アビィ？","fr":"Abby ?"}
+{"id":1518822,"jp":"絶え間ない嵐を辿って旅立ち、\n門冠の頂に触れた痕を残し、\n3つ目の足跡は渓流に抱かれ、\n終着地で見守るは永遠の白き頂。","fr":"Sur la piste de la tempête sans fin, partir,\nlaisser la trace d'un toucher au sommet de la couronne des portes,\nla troisième empreinte est bercée par le torrent,\net au terme du chemin veille l'éternel sommet blanc."}
 {"id":1518826,"jp":"ハーヴェイ","fr":"Harvey"}
 {"id":1518828,"jp":"フリスの住民","fr":"Habitant de Fleece"}
 {"id":1518832,"jp":"レナ","fr":"Lena"}
 {"id":1518835,"jp":"トシュア","fr":"Toshua"}
 {"id":1518837,"jp":"フリス保安官 ギルス","fr":"Gilles, shérif de Fleece"}
+{"id":1518871,"jp":"大狼の物語はいまもシャルル村で語り継がれている。しかし、大狼とその末裔である白い狼たちの姿は谷から消えてしまったようだ。","fr":"L'histoire du Grand Loup se raconte encore au Village de Charlulu. Pourtant, le Grand Loup et ses descendants, les loups blancs, semblent avoir disparu de la vallée."}
+{"id":1518873,"jp":"匿名の何者かによる、フリスの学者の文体を模したキボの特殊個体に関する『論文』。","fr":"Un « article » anonyme sur les individus spéciaux de Kibo, imitant le style d'un érudit de Fleece."}
 {"id":1518874,"jp":"スノーガ観察日記","fr":"Journal d'observation des Snowga"}
+{"id":1518875,"jp":"バルプが記したモフンガの観察日記。絆を結ばなくても、ふたつの星のような心はすでに寄り添いあっている。","fr":"Le journal d'observation des Mohunga tenu par Barp. Même sans avoir noué de Lien, leurs deux cœurs, pareils à deux étoiles, sont déjà proches l'un de l'autre."}
 {"id":1518876,"jp":"おどし祭りの招待状","fr":"Invitation à la fête de l'Épouvante"}
+{"id":1518877,"jp":"シャルル村の住民が偉大なる森の女神へ送ったおどし祭りの招待状。まさか……あの森の守護者から本当に返事が届くとは。","fr":"Une invitation à la fête de l'Épouvante, envoyée par des habitants du Village de Charlulu à la grande déesse de la forêt. Qui aurait cru que le gardien de la forêt répondrait pour de bon…"}
 {"id":1518878,"jp":"ゾーラの手紙","fr":"Lettre de Zola"}
 {"id":1518882,"jp":"今日食べたもの","fr":"Ce que j'ai mangé aujourd'hui"}
+{"id":1518883,"jp":"名もなき古代の獣人の手記。古びた粘土板に刻まれた数日分の食事記録から、当時の獣人たちの食習慣が垣間見える。","fr":"Le carnet d'un ancien Furrien anonyme. Quelques jours de repas gravés sur une vieille tablette d'argile laissent entrevoir les habitudes alimentaires des Furriens d'alors."}
 {"id":1518884,"jp":"大地はチーズである","fr":"La terre est un fromage"}
+{"id":1518885,"jp":"古代の獣人の世界観を語った詩。素朴なおとぎ話のようだ。","fr":"Un poème sur la vision du monde des anciens Furriens. On dirait un conte simple."}
+{"id":1518887,"jp":"獣人らしい熱さが感じられる勧誘の皮製巻物。呼びかけに応えれば、シャーマンを保護する集会に参加できる。","fr":"Un parchemin de cuir de recrutement, plein de la ferveur propre aux Furriens. Y répondre permet de rejoindre une assemblée qui protège les chamanes."}
 {"id":1518888,"jp":"監視塔の伝言板","fr":"Tableau de messages de la tour de guet"}
+{"id":1518889,"jp":"シャルル村監視塔の依頼板に張られたメモ。監視塔の戦士たちの日常が記録されている。","fr":"Une note affichée sur le panneau de missions de la tour de guet du Village de Charlulu. Elle consigne le quotidien des guerriers de la tour de guet."}
 {"id":1518892,"jp":"シャルル村の掟","fr":"Les règles du Village de Charlulu"}
 {"id":1518895,"jp":"鷹匠の手記","fr":"Notes d'un fauconnier"}
 {"id":1518897,"jp":"シャルル村の貝殻伝説","fr":"La légende des coquillages du Village de Charlulu"}
 {"id":1518899,"jp":"淬沙の衍化石書","fr":"Livre de pierre de l'évolution du sable trempé"}
+{"id":1518900,"jp":"とある実験の過程が断続的に記録されている。知られざる天道の塔で、竜王時代のキボはいったいなにを経験したのだろうか……","fr":"Le déroulement d'une expérience est consigné par fragments. Qu'ont donc vécu les Kibo de l'ère du roi dragon dans la mystérieuse tour de la Voie céleste…"}
 {"id":1518901,"jp":"聚沙授儀の石書","fr":"Livre de pierre du rite du sable rassemblé"}
+{"id":1518902,"jp":"天道の塔3階の大砂時計エリアに関する情報が記されている。文中に秘められた謎を読み解けば、からくりを解けるかもしれない。","fr":"Il contient des informations sur la zone du grand sablier, au 3e étage de la tour de la Voie céleste. En déchiffrant le mystère caché dans le texte, on pourrait percer le mécanisme."}
 {"id":1518903,"jp":"天道の塔の祈り","fr":"Prière de la tour de la Voie céleste"}
 {"id":1518905,"jp":"巡行の手記","fr":"Notes de patrouille"}
+{"id":1518906,"jp":"ある竜人兵の巡回日記。ただの短い手記だが、行間には喜びと誇りが満ちている。","fr":"Le journal de ronde d'un soldat draconien. Un simple petit carnet, mais entre les lignes règnent joie et fierté."}
 {"id":1518907,"jp":"進入区の掟","fr":"Règlement de la zone d'accès"}
+{"id":1518908,"jp":"ひとが定めた行動規範。厳しく、厳格で、議論の余地はない。","fr":"Un code de conduite établi par les hommes. Sévère, strict, sans place pour la discussion."}
 {"id":1518909,"jp":"風化して剥がれた石碑","fr":"Stèle érodée et écaillée"}
 {"id":1518910,"jp":"欠けた典籍","fr":"Ouvrage incomplet"}
 {"id":1518911,"jp":"落ちていた断片","fr":"Fragment trouvé par terre"}
 {"id":1518913,"jp":"竜王時代の遺跡の碑文","fr":"Inscription des ruines de l'ère du Roi dragon"}
 {"id":1518914,"jp":"遺跡に残された瓦","fr":"Tuile restée dans les ruines"}
+{"id":1518916,"jp":"ハイガーデン議会からガーデナー・メーツァに宛てられた正式な返書。","fr":"La réponse officielle du Conseil de High Garden à la jardinière Metsa."}
 {"id":1518923,"jp":"金穂の家　来訪者記録","fr":"Maison des Épis d'or : registre des visiteurs"}
 {"id":1518925,"jp":"魔法の鍬物語集","fr":"Contes de la houe magique"}
+{"id":1518926,"jp":"フリス地方に伝わる童話集。地元の風習をテーマとした物語が多い。","fr":"Un recueil de contes de la région de Fleece. Beaucoup d'histoires ont pour thème les coutumes locales."}
 {"id":1518927,"jp":"学者エイダの手帳","fr":"Carnet de recherche d'Ada"}
 {"id":1518931,"jp":"秦時の手紙","fr":"Lettre de Qin Shi"}
+{"id":1518932,"jp":"だれかが置き忘れた手紙。 \n文章からすると、恋文のようだが……想いを寄せる相手は意外な存在のようだ。","fr":"Une lettre oubliée par quelqu'un.\nD'après le texte, on dirait une lettre d'amour… mais la personne visée semble être une présence inattendue."}
 {"id":1518933,"jp":"モレの日記","fr":"Journal de Morre"}
+{"id":1518934,"jp":"だれかが置き去りにした日記。 \n日記や記録だけでなく、単純なメモ書きも含まれている――父親たちがよく使う手帳のようだ。","fr":"Un journal laissé là par quelqu'un.\nIl ne contient pas que des entrées de journal et des relevés, mais aussi de simples notes griffonnées : on dirait le genre de carnet que les pères utilisent souvent."}
 {"id":1518935,"jp":"錬金秘術","fr":"Arcanes de l'alchimie"}
 {"id":1518937,"jp":"ボロボロの薬レシピ","fr":"Recette de remède en lambeaux"}
 {"id":1518939,"jp":"切り取られた新聞記事","fr":"Article de journal découpé"}
+{"id":1518944,"jp":"【フリスハーベストホールオークションハウス】辰王朝玉石器特集に出品される競売品の紹介文。","fr":"【Maison de ventes de la Halle des Moissons de Fleece】 Présentation des lots de la vente spéciale d'objets de jade de la dynastie Chen."}
 {"id":1518947,"jp":"葡萄栽培の手引き","fr":"Guide de la culture de la vigne"}
+{"id":1518950,"jp":"カルノン療養院メッセージ帳の1ページ。来訪者からの意見収集用で、来訪者のメッセージと施設側の返答が含まれている。","fr":"Une page du livre d'or du sanatorium de Carnon. Destiné à recueillir les avis des visiteurs, il contient leurs messages et les réponses de l'établissement."}
+{"id":1518952,"jp":"シャインキャンディショップの創業記念セールのお知らせ。各種のお得なセットの詳細を紹介している。","fr":"Un avis de soldes pour l'anniversaire de la fondation de la Confiserie Shine. Il détaille divers lots avantageux."}
+{"id":1518954,"jp":"プロミリア大陸各地の異聞を集めた冊子。シリーズ化されているようだ。","fr":"Un fascicule qui rassemble des récits insolites de toutes les régions du continent de Promilia. Il semble faire partie d'une série."}
+{"id":1518958,"jp":"【フリスハーベストホールオークションハウス】奇物価値保証付き特集オークションに出品される競売品の紹介文。","fr":"【Maison de ventes de la Halle des Moissons de Fleece】 Présentation des lots de la vente spéciale d'objets rares à valeur garantie."}
 {"id":1518959,"jp":"森番日誌","fr":"Journal du garde forestier"}
+{"id":1518962,"jp":"エリック・モンクェットは祖父の死後、ついにゴンドーロを離れる決心をした。出発前、彼はこの別れの手紙を残した。","fr":"À la mort de son grand-père, Eric Monquet s'est enfin décidé à quitter Gondolo. Avant son départ, il a laissé cette lettre d'adieu."}
 {"id":1518965,"jp":"領主邸の今日の出来事","fr":"Aujourd'hui au manoir du seigneur"}
+{"id":1518966,"jp":"ナナチャに焦点を当てた特集記事。領主邸でメイド長として忙しく働くナナチャの一日が書かれている。","fr":"Un article spécial consacré à Nanacha. Il raconte une journée de Nanacha, cheffe des domestiques très occupée au manoir du seigneur."}
 {"id":1518967,"jp":"麦畑の風と歌","fr":"Le vent et le chant des champs de blé"}
 {"id":1518969,"jp":"雷嵐と消滅しない心","fr":"L'orage et le cœur qui ne s'éteint pas"}
+{"id":1518970,"jp":"『アヴァリアン寓話集』より、最初のラディーバがハイエルフとどう仲間になったのかを描く心温まる物語。","fr":"Une histoire touchante tirée du « Recueil de fables d'Avalian », qui raconte comment le premier Radiiba est devenu le compagnon des Hauts Elfes."}
 {"id":1518971,"jp":"青夜影談","fr":"Contes d'ombres de la nuit bleue"}
+{"id":1518972,"jp":"祈雲に伝わる民間伝承のひとつ。かつて栄華を極め、いまは失意のなかにある武士が謎の渡り影と出会う物語。","fr":"Un récit populaire de Qiyun. L'histoire d'un samouraï, jadis au sommet de la gloire et aujourd'hui abattu, qui rencontre une mystérieuse ombre voyageuse."}
 {"id":1518973,"jp":"眠れるぬいぐるみ","fr":"La peluche endormie"}
+{"id":1518974,"jp":"子どもたちに愛されるかわいらしい童話。モフリーネがこっそりおもちゃ屋にやって来て、ぬいぐるみのふりをする物語。","fr":"Un joli conte aimé des enfants. Downybrinny se glisse en cachette dans un magasin de jouets et se fait passer pour une peluche."}
+{"id":1518977,"jp":"『キボファイト地区選抜大会』を告知する宣伝ポスター。","fr":"Une affiche annonçant le « Tournoi de sélection de district du Duel de Kibo »."}
 {"id":1518980,"jp":"フリス歴史書","fr":"Histoire de Fleece"}
+{"id":1518981,"jp":"エルフたちの言葉で、フリスが発展する歴史の一部を記している。","fr":"Il consigne, dans la langue des elfes, une partie de l'histoire du développement de Fleece."}
 {"id":1518982,"jp":"坑道作業安全心得","fr":"Consignes de sécurité dans les galeries"}
 {"id":1518984,"jp":"グルルに関する手紙","fr":"Lettre au sujet de Gururu"}
+{"id":1518985,"jp":"寒悠悠が機関鳶で至急届けさせた短い手紙。非常に慌ただしい筆跡で書かれている。","fr":"Une courte lettre que Han Youyou a fait livrer en urgence par un milan mécanique. Elle est écrite d'une main très fébrile."}
 {"id":1518986,"jp":"『いい子の悪い夢』","fr":"« Le cauchemar de l'enfant sage »"}
 {"id":1518989,"jp":"『フリス建国史考』","fr":"« Étude sur la fondation de Fleece »"}
 {"id":1518991,"jp":"『フリス民話集』","fr":"« Contes populaires de Fleece »"}
@@ -19103,14 +19795,20 @@
 {"id":1519035,"jp":"確認","fr":"Confirmer"}
 {"id":1519036,"jp":"報酬の一時保管","fr":"Récompenses en attente"}
 {"id":1519037,"jp":"辰藍第三星","fr":"Troisième étoile de Chenlan"}
+{"id":1519038,"jp":"バッグの容量がいっぱいのため、報酬を一時的にメールでお送りしました。バッグの空きを確保してからお受け取りください。","fr":"Votre sac est plein : les récompenses vous ont été envoyées provisoirement par courrier. Libérez de la place dans votre sac avant de les récupérer."}
 {"id":1519042,"jp":"キボの一時保管通知","fr":"Avis : Kibo en garde temporaire"}
 {"id":1519046,"jp":"――パミー郵便局","fr":"– La Poste des Pammy"}
+{"id":1519053,"jp":"親愛なる星臨者様：\n現在ご購入いただいている{0} は、あと {1} で終了となります。漫遊記レベルにご注意ください。","fr":"À l'Enfant des étoiles :\nVotre achat actuel, {0}, prendra fin dans {1}. Faites attention à votre niveau de Carnet de voyage."}
 {"id":1519056,"jp":"――夢からの伝言","fr":"– Un message venu du rêve"}
 {"id":1519058,"jp":"システム通知","fr":"Avis système"}
+{"id":1519059,"jp":"{0}、チャット機能の利用が制限されました。{1}後に復旧予定です。","fr":"{0}, l'accès à la fonction de discussion est restreint. Rétablissement prévu dans {1}."}
+{"id":1519061,"jp":"{0}、あなたの{1}はリセットされました。ご理解とご支援に感謝いたします。","fr":"{0}, la réinitialisation de votre {1} a été effectuée. Merci de votre compréhension et de votre soutien."}
+{"id":1519063,"jp":"{0}、ゲーム内のカスタムテキストの内容がすべてリセットされました。ご理解とご支援に感謝いたします。","fr":"{0}, tous les textes personnalisés du jeu ont été réinitialisés. Merci de votre compréhension et de votre soutien."}
 {"id":1519067,"jp":"親愛なる星臨者様：\nイベント「御霊の戦歌」はまもなく終了します。プレイ時間を適切に管理し、期間中にイベントへご参加のうえ、報酬をお受け取りください。\n\nこれからの旅も順調でありますように。","fr":"À l'Enfant des étoiles :\nL'événement « Chant de guerre des Esprits anciens » touche bientôt à sa fin. Veillez à bien gérer votre temps de jeu, participez à l'événement tant qu'il dure et récupérez vos récompenses.\n\nQue la suite de votre voyage se passe sans encombre."}
 {"id":1519071,"jp":"――星冠杯運営委員会","fr":"– Comité d'organisation de la Coupe de la couronne stellaire"}
 {"id":1519073,"jp":"誕生日のお祝い","fr":"Vœux d'anniversaire"}
 {"id":1519074,"jp":"匿名","fr":"Anonyme"}
+{"id":1519079,"jp":"星臨者様、\nYostar ID連携のお礼として、ささやかなプレゼントをご用意しました。\nぜひお受け取りください！","fr":"À l'Enfant des étoiles,\nPour vous remercier d'avoir lié votre Yostar ID, nous avons préparé un petit cadeau.\nRécupérez-le sans attendre !"}
 {"id":1519084,"jp":"農園から出る","fr":"Quitter la ferme"}
 {"id":1519085,"jp":"デイリー","fr":"Quotidien"}
 {"id":1519086,"jp":"パーティ募集","fr":"Recherche d'équipe"}
@@ -19180,12 +19878,17 @@
 {"id":1519172,"jp":"星軌交換","fr":"Échange d'orbites stellaires"}
 {"id":1519173,"jp":"資源交換","fr":"Échange de ressources"}
 {"id":1519174,"jp":"専用演出","fr":"Effet exclusif"}
+{"id":1519175,"jp":"静かな夜が琴の弦をそっと撫で、霧の森に浸るような深い夢へただひとりの聴衆を優しく誘う。","fr":"La nuit tranquille effleure doucement les cordes de la cithare, et invite l'unique auditeur vers un rêve profond, comme plongé dans la forêt de brume."}
+{"id":1519176,"jp":"森は夜の新たな装いに身を包み、星々を待っている。鏡の向こう側では、夜の静けさがそっとほどけてゆく。","fr":"La forêt a revêtu sa nouvelle parure nocturne et attend les étoiles. De l'autre côté du miroir, le silence de la nuit se dénoue doucement."}
 {"id":1519178,"jp":"青華の幻鏡","fr":"Miroir illusoire de Qinghua"}
+{"id":1519179,"jp":"若い桃は春に映えて玉を照らし、薄紅の粉が枝に連なる。柔らかな手で紅霞をかき分ければ、玉脂はいずこに染まるや。","fr":"Les jeunes pêches, rehaussées par le printemps, font briller le jade ; une poudre rose pâle s'égrène de branche en branche. Si l'on écarte d'une main douce les brumes pourpres, où donc se teinte la graisse de jade ?"}
 {"id":1519180,"jp":"芸帙の小座","fr":"Le coin des livres"}
 {"id":1519182,"jp":"絆紡ぐ日々","fr":"Des jours à tisser le Lien"}
+{"id":1519184,"jp":"春の帰りゆく先がどこにもないと嘆いていたが、まさかここにあったとは。","fr":"Je me lamentais que le printemps n'ait nulle part où retourner, et il était là depuis le début."}
 {"id":1519185,"jp":"剣心一如","fr":"Le cœur et l'épée ne font qu'un"}
 {"id":1519187,"jp":"数寄清席","fr":"Place de thé sereine"}
 {"id":1519189,"jp":"百磨千錬","fr":"Mille fois sur le métier"}
+{"id":1519190,"jp":"修行の道とは、けっして一瞬のひらめきなどではなく、幾千もの試練のなかで、ひとつの心を澄み切るまで鍛え上げることなのだ。","fr":"La voie de l'entraînement n'est jamais un éclair de génie : c'est forger un seul cœur au fil de milliers d'épreuves, jusqu'à ce qu'il devienne limpide."}
 {"id":1519191,"jp":"伝書契約","fr":"Contrat de messagerie"}
 {"id":1519192,"jp":"漫遊記追憶","fr":"Souvenirs du Carnet de voyage"}
 {"id":1519193,"jp":"期間限定コレクション","fr":"Collection à durée limitée"}
@@ -19197,10 +19900,13 @@
 {"id":1519201,"jp":"採集地点2","fr":"Point de cueillette 2"}
 {"id":1519202,"jp":"目標地点2","fr":"Objectif 2"}
 {"id":1519203,"jp":"目標地点3","fr":"Objectif 3"}
+{"id":1519204,"jp":"複数の素材から霊液を抽出して作られたシャーマンの霊薬。\n行動不能状態の仲間ひとりを完全に回復させる。","fr":"Une potion de chamane, élaborée en extrayant l'élixir spirituel de plusieurs matériaux.\nSoigne entièrement un allié hors de combat."}
+{"id":1519205,"jp":"複数の素材から霊液を抽出して作られた大容量のシャーマンの霊薬。\n行動不能状態の仲間全員を完全に回復させる。","fr":"Une potion de chamane de grande capacité, élaborée en extrayant l'élixir spirituel de plusieurs matériaux.\nSoigne entièrement tous les alliés hors de combat."}
 {"id":1519207,"jp":"爆笑","fr":"Mort de rire"}
 {"id":1519208,"jp":"フンっ","fr":"Hmpf"}
 {"id":1519209,"jp":"怒り","fr":"Colère"}
 {"id":1519210,"jp":"陸上","fr":"Terrestre"}
+{"id":1519211,"jp":"懐きやすい一部の野生のキボは、今後の探索でともに道を歩んでくれるかもしれない。","fr":"Certains Kibo sauvages, qui s'attachent facilement, accepteront peut-être de faire route avec vous lors de vos futures explorations."}
 {"id":1519212,"jp":"飛行/陸上","fr":"Aérien/Terrestre"}
 {"id":1519213,"jp":"飛行","fr":"Aérien"}
 {"id":1519214,"jp":"飛行/遊泳","fr":"Vol / Nage"}
@@ -19323,6 +20029,7 @@
 {"id":1519447,"jp":"メールボックス","fr":"Boîte aux lettres"}
 {"id":1519448,"jp":"敵のマーク","fr":"Marqueurs ennemis"}
 {"id":1519449,"jp":"垂直同期","fr":"Synchronisation verticale"}
+{"id":1519458,"jp":"『アズールプロミリア』お子様向けプライバシーポリシー","fr":"Politique de confidentialité d'« Azur Promilia » pour les enfants"}
 {"id":1519461,"jp":"マウントを召喚","fr":"Invoquer la monture"}
 {"id":1519462,"jp":"キボを召喚／呼び戻す","fr":"Invoquer / Rappeler le Kibo"}
 {"id":1519464,"jp":"アカウント削除","fr":"Supprimer le compte"}
@@ -19385,6 +20092,7 @@
 {"id":1519552,"jp":"移動方向優先","fr":"Priorité à la direction du déplacement"}
 {"id":1519553,"jp":"カメラ方向優先","fr":"Priorité à la direction de la caméra"}
 {"id":1519554,"jp":"距離優先","fr":"Priorité à la distance"}
+{"id":1519555,"jp":"夜間プッシュ通知（原初の潮プッシュ通知オン時に有効）","fr":"Notification push nocturne (active lorsque les notifications push de la Marée originelle sont activées)"}
 {"id":1519557,"jp":"連続ジャンプ","fr":"Sauts consécutifs"}
 {"id":1519558,"jp":"長押しジャンプ","fr":"Maintenir pour sauter"}
 {"id":1519560,"jp":"1倍で受取","fr":"Recevoir x1"}
@@ -19549,61 +20257,137 @@
 {"id":1519758,"jp":"決戦の刻","fr":"L'heure du combat final"}
 {"id":1519770,"jp":"メルトレイク畔の誘い","fr":"Invitation au bord du lac Melt"}
 {"id":1519772,"jp":"やめておこう……","fr":"Mieux vaut éviter……"}
+{"id":1519773,"jp":"もしかして、試してみようとしてる……？きみの才能なら、とんでもない大惨事を引き起こせそうだよ。","fr":"Tu comptes peut-être l'essayer… ? Avec ton talent, tu pourrais provoquer une catastrophe monumentale."}
 {"id":1519775,"jp":"それも一種の木偶……","fr":"Une sorte de pantin, donc……"}
+{"id":1519776,"jp":"辰王朝には『朴念仁』とかいう人種がいるらしいよ。これも考えようによっては木の人形と言えるよね？","fr":"Il paraît qu'à la dynastie Chen, on trouve des gens qu'on appelle des « blocs de bois ». Vu sous un certain angle, on peut dire que ce sont des pantins en bois, non ?"}
 {"id":1519777,"jp":"もし会えたら……","fr":"Si cette rencontre a lieu……"}
 {"id":1519781,"jp":"長々と説明して……","fr":"Après toutes ces explications……"}
+{"id":1519782,"jp":"長々と説明してたけど、結局やったのは『丸める』部分だけだったんだね……","fr":"Tu as fait de longues explications, mais au final, tu n'as fait que la partie « rouler en boule »…"}
 {"id":1519783,"jp":"今度一緒に作ろう！","fr":"La prochaine fois, faisons-le ensemble !"}
 {"id":1519784,"jp":"ポンポンマスター","fr":"Maître Pengpeng"}
+{"id":1519785,"jp":"今度一緒に作ろう。丸めるとこを担当するから、あとはポンポンマスターに任せるよ。","fr":"Faisons-le ensemble la prochaine fois. Je m'occuperai de rouler les boules, et pour le reste, je m'en remets au Maître Pengpeng."}
+{"id":1519787,"jp":"桃林ではいつもおもしろいことが起こるね。その子のことは、なんだかこっちまでうれしくなるよ。","fr":"Il se passe toujours des choses amusantes au bois des pêchers. Cette petite, rien que d'y penser, ça me met en joie."}
 {"id":1519788,"jp":"そのとおりだね","fr":"C'est bien ça"}
+{"id":1519789,"jp":"小玉の言うとおりだと思う。一枚目の花びらをちぎったとき、もう答えは決まってたんだね。","fr":"Xiaoyu a raison, je crois. Quand tu as arraché le premier pétale, la réponse était déjà décidée."}
+{"id":1519791,"jp":"縁って本当に不思議だね。小玉が待ち続けてたことに、意味があったんだ。","fr":"Le destin est vraiment mystérieux. Que Xiaoyu ait continué d'attendre avait un sens."}
 {"id":1519792,"jp":"ルーツは同じなのかも","fr":"Peut-être avons-nous les mêmes racines"}
+{"id":1519793,"jp":"もしかしたらすべての生命がひとつの海のひと雫で、最後は同じ海に帰っていくのかもしれないね。","fr":"Peut-être que toutes les vies sont des gouttes d'une même mer, et qu'elles retournent à la fin dans cette même mer."}
 {"id":1519794,"jp":"ルミィはなんて？","fr":"Qu'en dirait Lumi ?"}
+{"id":1519795,"jp":"ルミィはなんて言うかな？自分の『遠縁』を認めるようには思えないけど……","fr":"Que dira Lumi ? J'ai du mal à croire qu'elle reconnaîtrait sa « parenté lointaine »…"}
 {"id":1519796,"jp":"そのほかにも……","fr":"Et bien d'autres……"}
+{"id":1519797,"jp":"この大陸にはまだ知らない『遠縁』の存在が、もっとたくさんいるのかもしれない。","fr":"Il y a peut-être encore bien d'autres « parents éloignés » inconnus sur ce continent."}
 {"id":1519798,"jp":"きっとおいしいね！","fr":"Ce sera sûrement délicieux !"}
+{"id":1519799,"jp":"どんなブレンドでも、メーツァが作るものなら、きっとおいしいと信じてるよ！","fr":"Quel que soit le mélange, s'il vient de Metsa, ce sera forcément délicieux, j'y crois !"}
 {"id":1519800,"jp":"お願いしてもいいかな","fr":"Je peux demander un service ?"}
+{"id":1519801,"jp":"毎日、外で探検して髪が乱れて困ってたんだ。整えてもらえたらうれしいな。","fr":"À force d'explorer dehors chaque jour, mes cheveux sont tout ébouriffés. Ça me ferait plaisir que tu les arranges."}
 {"id":1519802,"jp":"温かい森の日常だね","fr":"Quelle douce vie en forêt"}
+{"id":1519803,"jp":"それが森の日常なのか……とても温かいね。読むだけで心が穏やかになる……","fr":"Alors voilà le quotidien de la forêt… Il est tout chaleureux. Rien qu'en le lisant, le cœur s'apaise…"}
+{"id":1519805,"jp":"炙り肉を食べてたときに、うっかり鼻にソースをつけちゃったかな？だからずっとにおいがするのかも。","fr":"Quand tu mangeais de la viande grillée, tu as peut-être mis de la sauce sur ton nez sans le faire exprès ? C'est sûrement pour ça que ça sent tout le temps."}
 {"id":1519806,"jp":"大丈夫、手伝うよ！","fr":"Pas de souci, je vais aider !"}
+{"id":1519809,"jp":"そんな症状はじめて聞いた。病気とは思えないよ……とにかく落ち着いて、戻るまで待っててね！","fr":"Je n'ai jamais entendu parler de tels symptômes. Ça ne ressemble pas à une maladie… En tout cas, reste calme et patiente jusqu'au retour !"}
 {"id":1519811,"jp":"もっとたくさん食べて","fr":"Mange encore"}
+{"id":1519812,"jp":"テララは成長期なんだからさ、気にしないでたくさん食べて。","fr":"Terara est en pleine croissance, alors ne t'en fais pas et mange à ta faim."}
 {"id":1519813,"jp":"一緒に狩りに行こうか","fr":"Une partie de chasse ensemble ?"}
+{"id":1519814,"jp":"肉を焼くより、テララと一緒に狩りに行くことのほうが楽しみだよ。","fr":"Plutôt que de faire griller de la viande, ce que j'attends avec impatience, c'est d'aller chasser avec Terara."}
+{"id":1519816,"jp":"シャーマンの舞にそんな深い意味があるなんて……まだまだシャルル村について知らないことがたくさんあるね。","fr":"Les danses des chamanes ont une signification aussi profonde… Il y a encore bien des choses que j'ignore sur le Village de Charlulu."}
 {"id":1519817,"jp":"教えてほしい！","fr":"Apprends-moi !"}
+{"id":1519818,"jp":"うん、いいよ！でも、まだシャルル村の舞に慣れてないんだ。そのうち、教えてもらえないかな？","fr":"Oui, d'accord ! Mais je n'ai pas encore l'habitude des danses du Village de Charlulu. Tu pourras me les apprendre un jour ?"}
 {"id":1519819,"jp":"観る専門でいいかな！","fr":"Je peux me contenter de regarder !"}
+{"id":1519820,"jp":"ルルカが舞うときはいつも真剣に見てるんだ！ルルカの舞う姿のほうが綺麗だから、観ることに徹するよ！","fr":"Quand Luruka danse, je la regarde toujours avec attention ! Sa danse est plus belle, alors je me contente de regarder !"}
+{"id":1519822,"jp":"ミィティ、実は返事が届くのを楽しみにしてるよね？がっかりさせないよ。ほら、届いた。","fr":"Mitty, en fait, tu attends avec impatience que la réponse arrive, non ? Je ne vais pas te décevoir. Tiens, elle est arrivée."}
 {"id":1519823,"jp":"きみの努力は見てるよ","fr":"Je vois tous tes efforts"}
+{"id":1519828,"jp":"果汁が乾いてしまうと、綺麗にするのが大変だと聞いたよ。戻って正解だったね。","fr":"J'ai entendu dire que quand le jus de fruit sèche, c'est difficile à nettoyer. Tu as bien fait de rentrer."}
 {"id":1519829,"jp":"明日また続ければいい","fr":"Tu pourras continuer demain"}
+{"id":1519830,"jp":"大丈夫。鍛錬は長い道のりだからね。明日、また頑張ろう！","fr":"Ça va aller. L'entraînement est un long chemin. Reprenons demain avec courage !"}
+{"id":1519832,"jp":"そんなに自分にプレッシャーをかけないで。どんなときも、カタルの味方だよ。","fr":"Ne te mets pas autant la pression. Quoi qu'il arrive, je suis de ton côté, Katalua."}
 {"id":1519834,"jp":"モーレンお嬢さま","fr":"Dame Morwyn"}
+{"id":1519835,"jp":"実は、時間が取れなかった客のために、特別に追加公演があるんだ。ちょうどチケットを2枚持ってるよ。","fr":"En fait, il y a une représentation supplémentaire spéciale pour les clients qui n'avaient pas pu venir. J'ai justement deux billets."}
+{"id":1519837,"jp":"きみが聞きたいこと、公演の話題とはすこしズレてるかな……直接質問したら、きっとパミーたちは嫌がるよ。","fr":"Ce que tu veux savoir s'éloigne un peu du sujet du spectacle… Si tu leur poses directement la question, les Pammy n'apprécieront sûrement pas."}
+{"id":1519838,"jp":"お疲れさま！落ちついたら、一緒にほかの公演を観に行って、気分転換しようよ。","fr":"Bon travail ! Quand les choses seront retombées, allons voir d'autres spectacles ensemble pour nous changer les idées."}
+{"id":1519840,"jp":"チャレンジするのが好きなんだ。もちろん、サウナに一番興味があるよ！","fr":"J'aime relever des défis. Bien sûr, c'est le sauna qui m'intéresse le plus !"}
+{"id":1519842,"jp":"一日の疲れを癒やすには、アロマオイルとハーブをいれたお風呂が一番だよね。","fr":"Pour effacer la fatigue d'une journée, rien ne vaut un bain avec de l'huile aromatique et des herbes, non ?"}
+{"id":1519846,"jp":"飛空船は大きいから、空中の障害物みたいで飛行を妨げると感じたのかもしれないね。","fr":"Le dirigeable est grand : il a peut-être eu l'air d'un obstacle en plein ciel qui gêne le vol."}
+{"id":1519848,"jp":"どんな種族にも、大地の束縛から逃れたいと願う者はいるものだよ。","fr":"Quelle que soit l'espèce, il y en a toujours qui rêvent d'échapper à l'emprise de la terre."}
+{"id":1519850,"jp":"いつか、飛空船よりも高く、はやく……それに、いろんな空の飛び方を見つけだすかもしれないね。そんな予感がするよ。","fr":"Un jour, on trouvera peut-être des façons de voler plus haut et plus vite que les dirigeables… et de bien d'autres manières. J'ai un pressentiment."}
 {"id":1519851,"jp":"同じく眠い……","fr":"Moi aussi, j'ai sommeil……"}
+{"id":1519852,"jp":"そうだね。いくら眠っても足りないような気がする。そろそろしっかり休むべきかも。","fr":"C'est vrai. J'ai l'impression que même en dormant beaucoup, ce n'est jamais assez. Il serait temps de bien me reposer."}
 {"id":1519853,"jp":"不思議だね！","fr":"C'est étrange !"}
+{"id":1519854,"jp":"不思議だね！ノノが夢で見た場所を一緒に探検するのが楽しみだよ。","fr":"C'est étrange ! J'ai hâte d'explorer avec Nono les lieux qu'elle a vus en rêve."}
 {"id":1519855,"jp":"プロ意識が高いね！","fr":"Quel professionnalisme !"}
+{"id":1519856,"jp":"夢のなかでも探検してるんだ？ノノは本当にプロ意識が高いね！","fr":"Tu explores même dans tes rêves ? Nono, quel professionnalisme !"}
+{"id":1519858,"jp":"ちょっと待ってね。グランザロスを捕まえて、秘密通路を掘ってあげるよ。","fr":"Attends un peu. Je vais attraper un Granzaros et te creuser un passage secret."}
+{"id":1519860,"jp":"花火で秘密通路を爆破したって……『ちょっと』火薬を増やしただけって言わなかった！？","fr":"Tu as fait sauter le passage secret avec des feux d'artifice ?… Tu n'avais pas dit que tu avais seulement mis « un peu » plus de poudre ?!"}
+{"id":1519862,"jp":"急いでても名前くらい書かなきゃ、助けられないよ。寒悠悠だってことは察しがついたけどさ。","fr":"Même pressé, il faut au moins écrire son nom, sinon je ne peux pas aider. J'avais bien deviné que c'était Han Youyou, cela dit."}
+{"id":1519864,"jp":"さきに確認しておくけど、人形のなかに変なものは入っていないよね？たとえば火薬とか。","fr":"Je vérifie d'abord : il n'y a rien de bizarre dans la poupée, n'est-ce pas ? De la poudre, par exemple."}
 {"id":1519865,"jp":"報酬はどれくらい？","fr":"Quelle est la récompense ?"}
+{"id":1519866,"jp":"星臨者は清廉潔白、歳上の方に対してはなおさら。騙すなんてできると思う？……もっと報酬を上乗せしてくれなきゃ。","fr":"Un Enfant des étoiles est irréprochable, surtout envers les personnes plus âgées. Tu crois vraiment que je pourrais les tromper ?… Il faudra augmenter la récompense."}
+{"id":1519868,"jp":"なんだかおもしろそうだけど……そんな手口で本当に騙せるのかな？","fr":"Ça a l'air amusant, mais… est-ce qu'une ruse pareille pourrait vraiment tromper quelqu'un ?"}
 {"id":1519869,"jp":"だまされないぞ！","fr":"Je ne me ferai pas avoir !"}
 {"id":1519871,"jp":"どこに天才機関師が？","fr":"Où est le mécanicien de génie ?"}
+{"id":1519872,"jp":"うんうん、そのとおりだね。でも、きみの言う『腕がよくて頼りになる機関師』って、どこにいるの？まったく見あたらないけど……","fr":"Oui, oui, c'est ça. Mais où est-il, ton « mécanicien habile et fiable » ? Je n'en vois aucun…"}
 {"id":1519873,"jp":"やめておくよ……","fr":"Je vais m'abstenir……"}
+{"id":1519874,"jp":"ここは安全第一だよ。どうして、あんな暗器の罠をわざわざ仕掛けたりするんだろう？","fr":"Ici, la sécurité d'abord. Pourquoi aller installer exprès des pièges à armes dissimulées comme ça ?"}
+{"id":1519880,"jp":"こんなふうに描いてくれたなんて……正直、美化されすぎてて、だれかわからなかったよ。","fr":"Tu m'as dessiné comme ça… Franchement, c'était tellement embelli que je n'ai pas reconnu la personne."}
+{"id":1519882,"jp":"鏡花州のみんなが、花火で打ち上げられる肖像画を囲んで見物するなんて……そんな芸術はあまりに斬新すぎるよ！やめておこう！","fr":"Tous les habitants du Cap Jinghua qui se rassemblent autour d'un portrait lancé en feu d'artifice… Un art aussi novateur, c'est trop ! Mieux vaut y renoncer !"}
 {"id":1519883,"jp":"緊急事態、緊急事態！","fr":"Urgence, urgence !"}
 {"id":1519887,"jp":"正しくは……","fr":"Le mot juste est……"}
 {"id":1519888,"jp":"『グルメ』だよ。","fr":"« Gourmet »."}
 {"id":1519889,"jp":"サインください！","fr":"Un autographe, s'il vous plaît !"}
+{"id":1519890,"jp":"ポンポンマスター、サインをいただけますか？お願いします！","fr":"Maître Pengpeng, pourriez-vous me donner un autographe ? S'il vous plaît !"}
 {"id":1519891,"jp":"大切にするね","fr":"J'en prendrai grand soin"}
+{"id":1519892,"jp":"ポンポンのサイン、将来プレミアがつくかな？がんばって！","fr":"L'autographe de Pengpeng, il vaudra peut-être cher plus tard ? Courage !"}
 {"id":1519893,"jp":"本当に招待されたの？","fr":"Cette invitation est bien réelle ?"}
 {"id":1519895,"jp":"賢くなったね","fr":"Tu as gagné en sagesse"}
 {"id":1519897,"jp":"綱引きとは……？","fr":"Un tir à la corde…… ?"}
+{"id":1519898,"jp":"ポンポンの名前で、料理の会計が割引になるの？それとも綱引きする羽目になったりする？","fr":"Au nom de Pengpeng, l'addition du repas est réduite ? Ou bien on risque de finir à jouer à la corde ?"}
 {"id":1519899,"jp":"うんうん、がんばるよ","fr":"Oui, oui, je vais faire de mon mieux"}
+{"id":1519900,"jp":"ポンポンマスター、お墨つきありがとうございます。一生懸命がんばります！","fr":"Maître Pengpeng, merci pour votre aval. Je ferai de mon mieux !"}
 {"id":1519901,"jp":"ペイペイと戦うって？","fr":"Combattre Peipei ?"}
+{"id":1519902,"jp":"えっ？ペイペイと戦わなくちゃいけないの？……本当に？","fr":"Hein ? Il faut que je me batte contre Peipei ?… Vraiment ?"}
+{"id":1519904,"jp":"引き分けになったら、吉逸楼で卓を囲んで、握手して仲直りするのかな？","fr":"En cas de match nul, est-ce qu'on s'attablera à la maison Jiyi pour se serrer la main et se réconcilier ?"}
 {"id":1519905,"jp":"昼まで眠ってない？","fr":"Tu ne dors pas jusqu'à midi ?"}
+{"id":1519906,"jp":"陽が高く昇ってから、一日がはじまるなんてことはないよね？","fr":"La journée ne commence pas seulement quand le soleil est déjà haut, hein ?"}
+{"id":1519908,"jp":"あの……入門と秘伝って言葉が並んでるのは矛盾してないかな？","fr":"Euh… ça ne fait pas contradiction de mettre côte à côte les mots « initiation » et « technique secrète » ?"}
+{"id":1519910,"jp":"そいつらはポンポンの弟子になりたくて、こっそり技を盗みに来たんだね。きっとそうだよ！","fr":"Ces gens-là voulaient devenir disciples de Pengpeng et sont venus voler ses techniques en cachette. Ça ne peut être que ça !"}
 {"id":1519911,"jp":"成長したね、ポンポン","fr":"Tu as bien grandi, Pengpeng"}
+{"id":1519912,"jp":"おお、ポンポンに成長のときが！？悩むのは自然なことだよ、乗り越えたら新たな境地に達することができるはず。","fr":"Oh, l'heure de grandir est venue pour Pengpeng ?! C'est naturel de se tourmenter, et une fois surmonté, on atteindra un nouveau stade."}
 {"id":1519913,"jp":"もう十分すごいよ","fr":"Tu es déjà formidable"}
+{"id":1519914,"jp":"上に突き進んでいく勇気があるだけで、ポンポンはもう十分すごいんだよ。","fr":"Rien que le courage de foncer vers le haut, Pengpeng est déjà formidable comme ça."}
 {"id":1519915,"jp":"天下一のはじまりだね","fr":"Le début de la conquête du monde"}
+{"id":1519916,"jp":"そう思えただけで、もう天下一のスタート地点に立ってるんだよ！","fr":"Rien que d'avoir pensé ça, tu es déjà sur la ligne de départ du meilleur du monde !"}
 {"id":1519917,"jp":"これも料理だよ","fr":"Ça aussi, c'est de la cuisine"}
+{"id":1519918,"jp":"これも野菜で作る肉料理のひとつだよ。ほら、シャルル村にいたときに作ったことがある！","fr":"C'est aussi un plat de viande fait avec des légumes. Tiens, j'en ai déjà préparé quand j'étais au Village de Charlulu !"}
+{"id":1519920,"jp":"食べたことはないけど、人の種族のポテンシャルは果てしないね……新しい料理を開発する能力も含めて。","fr":"Je n'en ai jamais mangé, mais le potentiel des humains est sans limites… y compris la capacité d'inventer de nouveaux plats."}
 {"id":1519921,"jp":"ちょっと気になる……","fr":"Ça m'intrigue un peu……"}
+{"id":1519922,"jp":"どこにあるの？つぎは一緒に連れて行って。食べてみるよ。","fr":"C'est où ? La prochaine fois, emmène-moi avec toi. J'en goûterai."}
 {"id":1519923,"jp":"安全第一だよ","fr":"La sécurité avant tout"}
+{"id":1519926,"jp":"そんな言葉を真に受ける必要はないよ。シンフォーリアはもう十分すごいんだから。","fr":"Inutile de prendre ces paroles au sérieux. Symphoria est déjà formidable."}
 {"id":1519929,"jp":"安心して","fr":"Pas d'inquiétude"}
+{"id":1519930,"jp":"安心して。預かっておくよ。郵便局よりずっと信用できるよね。","fr":"Rassure-toi. Je le garde. C'est bien plus fiable que la poste, non ?"}
+{"id":1519932,"jp":"しっかり者のシンフォーリアがそんなミスをするなんて、めずらしいね。","fr":"Que Symphoria, si méticuleuse, commette une telle erreur : c'est rare."}
 {"id":1519933,"jp":"遠慮なくいただくよ！","fr":"J'accepte avec plaisir !"}
+{"id":1519934,"jp":"ありがとう、遠慮なくいただくね！シンフォーリアの故郷の果物がおいしいって、ずっと聞いてたから！","fr":"Merci, j'accepte sans façon ! On m'a toujours dit que les fruits du pays de Symphoria étaient délicieux !"}
+{"id":1519936,"jp":"そんなに心配しないで、連載中なんだから、物語はまだ終わってないよ――もしかしたら、大団円が待ってるかも？","fr":"Ne t'inquiète pas autant, c'est un feuilleton en cours : l'histoire n'est pas terminée. Peut-être qu'un heureux dénouement nous attend ?"}
 {"id":1519937,"jp":"いまを生きよう","fr":"Vivons le moment présent"}
+{"id":1519938,"jp":"わからないけど……だからこそ、後悔のないように精一杯生きよう。","fr":"Je ne sais pas… mais justement, vivons à fond, pour ne rien regretter."}
 {"id":1519941,"jp":"仲間なんだから","fr":"Entre compagnons"}
 {"id":1519943,"jp":"別れの手紙かと！","fr":"J'ai cru à une lettre d'adieu !"}
+{"id":1519946,"jp":"直接言ってくれたらよかったのに。もしかして、はずかしい？なんてね、冗談。同じ気持ちだよ……大切な思い出だからね。","fr":"Tu aurais pu me le dire directement. Un peu de gêne, peut-être ? Je plaisante. Moi aussi, je ressens la même chose… ce sont des souvenirs précieux."}
+{"id":1519948,"jp":"ありがとう！たしかに置き忘れたよ。戦うとき持ち歩くのに不便だから、置いておいたらそのまま忘れちゃって。","fr":"Merci ! Oui, je l'avais oublié. C'était gênant de le porter au combat, alors je l'ai posé et je l'ai laissé là."}
+{"id":1519950,"jp":"いやいや、十分だよ！むしろあの補修が綺麗すぎて、ただの袋がグレードアップしたと言ってもいいくらい……","fr":"Mais non, c'est largement suffisant ! Cette réparation est même si propre qu'on pourrait dire que ce simple sac a été amélioré…"}
+{"id":1519952,"jp":"ありがとう。このフルーツ、とてもおいしいよね。きみの子鹿も気に入るかも。今度たくさん採ってくるよ。","fr":"Merci. Ce fruit est délicieux, n'est-ce pas ? Ton faon l'aimera sûrement aussi. J'irai en cueillir plein la prochaine fois."}
+{"id":1519954,"jp":"最近すごくおいしいフルーツを食べたから、だれかにあげたいと思ったんだ。気楽に受け取って。","fr":"J'ai mangé récemment un fruit très bon, et j'ai voulu en donner à quelqu'un. Prends-le sans cérémonie."}
 {"id":1519955,"jp":"フルーツの捧げもの！","fr":"Une offrande de fruits !"}
 {"id":1519957,"jp":"メーツァのおかげだね","fr":"C'est grâce à toi, Metsa"}
 {"id":1519959,"jp":"穏やかな日常だね","fr":"Quelle vie paisible"}
+{"id":1519962,"jp":"メーツァの話を聞いてると、その美しい夢のなかに入りたくなっちゃうよ。","fr":"En écoutant Metsa, on a envie d'entrer dans ce beau rêve."}
 {"id":1519963,"jp":"よろこんで！","fr":"Avec plaisir !"}
 {"id":1519965,"jp":"照れるよ……","fr":"Tu vas me faire rougir……"}
+{"id":1519966,"jp":"ただの散歩なのに、そんなふうに言われるとすこし恥ずかしいな……でも、あんなデートなら、これからもたくさんしたいよ。","fr":"Ce n'était qu'une promenade, mais si tu le dis comme ça, ça me met un peu mal à l'aise… Pourtant, des rendez-vous comme celui-là, j'en veux encore plein à l'avenir."}
+{"id":1519970,"jp":"わかるよ！どの森にもそれぞれの個性があるよね。そんなふうに森を区別する『印』が、きっと『家のような感覚』なんだろうね！","fr":"Je comprends ! Chaque forêt a sa personnalité. Ce « repère » qui distingue une forêt, c'est sûrement ça, « se sentir chez soi » !"}
+{"id":1519972,"jp":"いつでも行くからね！お菓子まで用意してもらったのに、メーツァに足を運ばせるわけにはいかないよ。","fr":"J'irai quand tu veux ! Tu m'as même préparé des gâteaux, je ne vais pas laisser Metsa se déplacer."}
 {"id":1519973,"jp":"すごく楽しみ！","fr":"J'ai tellement hâte !"}
+{"id":1519976,"jp":"ごめんね、とても乱暴な形で森に踏み込んでしまったけど……受け入れてもらえたこと、すごくうれしく思ってるよ。","fr":"Pardon pour mon entrée si brutale dans la forêt… mais ça me fait vraiment plaisir que tu m'aies accepté."}
 {"id":1519977,"jp":"だれからの手紙かな？","fr":"De qui vient cette lettre ?"}
 {"id":1519978,"jp":"名もなき送り主","fr":"Expéditeur sans nom"}
 {"id":1519980,"jp":"当ててみようかな……","fr":"Je vais essayer de deviner……"}
@@ -19612,88 +20396,190 @@
 {"id":1519983,"jp":"奇跡だね","fr":"C'est un miracle"}
 {"id":1519984,"jp":"なんて自由なんだ","fr":"Quelle liberté !"}
 {"id":1519986,"jp":"字を教えてあげるよ","fr":"Je vais t'apprendre à écrire"}
+{"id":1519987,"jp":"『星臨者』だよ……帰ったら書き方を教えてあげるね。あと、署名のしかたも。","fr":"C'est « Enfant des étoiles »… Je t'apprendrai à l'écrire en rentrant. Et à signer aussi."}
 {"id":1519988,"jp":"戻るまで待っててね！","fr":"Attends mon retour !"}
 {"id":1519990,"jp":"つぎはもっと作るよ","fr":"J'en ferai davantage la prochaine fois"}
+{"id":1519991,"jp":"つぎに出かけるまえは、もっとたくさんの料理を用意しておくよ。","fr":"Avant notre prochaine sortie, je préparerai beaucoup plus de plats."}
 {"id":1519992,"jp":"ごめん、つぎは必ず","fr":"Pardon, la prochaine fois, promis"}
+{"id":1519993,"jp":"ごめんね、最近ちょっと忙しくて……帰ったら絶対、一緒に遊ぶから。約束するよ。","fr":"Pardon, ces derniers temps, j'ai eu un peu trop à faire… Dès notre retour, on jouera ensemble, c'est promis."}
 {"id":1519994,"jp":"運動するのはどう？","fr":"Et si tu faisais de l'exercice ?"}
+{"id":1519995,"jp":"運動してみるのはどうかな？時間つぶしになるし、体も鍛えられる！それに運動したあとは、気分もよくなるよ。","fr":"Et si tu faisais un peu d'exercice ? Ça fait passer le temps, et ça muscle ! En plus, après le sport, on se sent mieux."}
 {"id":1519998,"jp":"いや！大丈夫……","fr":"Non ! Ça va……"}
 {"id":1520000,"jp":"ちょっとした問題","fr":"Un petit problème"}
+{"id":1520001,"jp":"日々の暮らしに失敗はつきもの。ちゃんと謝って、同じことを繰り返さなければ『いい子』だよ。","fr":"Les échecs font partie du quotidien. Si tu t'excuses bien et que tu ne recommences pas, tu es un « gentil enfant »."}
 {"id":1520002,"jp":"それは危ないよ","fr":"C'est dangereux"}
 {"id":1520004,"jp":"し、刺激的すぎる……","fr":"C-c'est trop intense……"}
+{"id":1520005,"jp":"楽しかったけど、つぎ空中で連続3回転するときは、やるまえに教えてね？本当に星になっちゃいそうだったよ……","fr":"C'était amusant, mais la prochaine fois que tu fais trois tours d'affilée en l'air, préviens-moi avant ! J'ai cru que j'allais vraiment devenir une étoile…"}
 {"id":1520006,"jp":"おなかは空いてる？","fr":"Tu as faim ?"}
 {"id":1520008,"jp":"考えてることは……","fr":"Ce que j'ai en tête……"}
+{"id":1520009,"jp":"これからもずっと一緒に、いろんな場所に遊びに行って、たくさんおいしいものを食べて、ずっと楽しく過ごせたらって考えてるよ！","fr":"Je pense qu'on pourrait continuer à aller ensemble dans plein d'endroits, manger plein de bonnes choses, et passer de bons moments pour toujours !"}
 {"id":1520010,"jp":"頼りになるね","fr":"On peut compter sur toi"}
+{"id":1520015,"jp":"代わりに書いてくれただれかに、「テララだぞ！」って言ったの？律儀なひとだったんだね。","fr":"Tu as dit « C'est Terara ! » à la personne qui a écrit à ta place ? Quelle personne consciencieuse."}
 {"id":1520017,"jp":"手紙を書くのも話すのも、意味がちゃんと伝わればそれでいいんだよ。","fr":"Qu'on écrive une lettre ou qu'on parle, l'important, c'est que le sens passe."}
 {"id":1520018,"jp":"別に下手じゃないよ","fr":"Ce n'est pas si mauvais"}
+{"id":1520019,"jp":"テララの字、別に下手じゃないよ。ひとつひとつの線をきちっと丁寧に書いてる。","fr":"L'écriture de Terara n'est pas mauvaise. Chaque trait est tracé avec soin."}
+{"id":1520021,"jp":"わかった。じゃあ、つぎ見回りするときは、テララが獣を追い払ってるあいだ、隣で鍛錬してるよ。","fr":"D'accord. Alors, à ta prochaine ronde, pendant que Terara chasse les bêtes, je m'entraînerai à côté."}
 {"id":1520022,"jp":"歯茎の問題かも","fr":"Ça vient peut-être des gencives"}
+{"id":1520023,"jp":"歯に問題があるとはかぎらないよ。歯茎が炎症を起こしてる可能性もある。","fr":"Ce n'est pas forcément un problème de dents. Les gencives sont peut-être enflammées."}
 {"id":1520024,"jp":"まずは診てもらおう","fr":"Fais-toi d'abord examiner"}
+{"id":1520025,"jp":"肉をガツガツ食べられるかどうかで悩むより、まずはルルカに診てもらおう！","fr":"Plutôt que de t'inquiéter de pouvoir dévorer de la viande, va d'abord te faire examiner par Luruka !"}
 {"id":1520028,"jp":"素敵な場所だよ","fr":"C'est un endroit merveilleux"}
+{"id":1520029,"jp":"シャルル村は本当にすばらしい場所だよ。たくさんの温もりを感じた。あのとき、手を差し伸べてくれたテララのおかげだよ。","fr":"Le Village de Charlulu est vraiment un endroit merveilleux. J'y ai senti beaucoup de chaleur. C'est grâce à Terara, qui m'a tendu la main à ce moment-là."}
 {"id":1520030,"jp":"テララらしいね","fr":"Tout à fait Terara"}
+{"id":1520031,"jp":"『あちこち駆け回る』って……テララらしい！けど、たしかにいつもあちこち駆け回ってるよね。","fr":"« Courir partout »… c'est bien du Terara ! Et c'est vrai qu'elle court toujours partout."}
+{"id":1520033,"jp":"そうだね、この世界にはまだまだ探検すべきところがたくさんあると思うよ。一緒にもっと遠い場所まで見に行こう。","fr":"Oui, il y a encore plein d'endroits à explorer dans ce monde. Allons voir plus loin ensemble."}
+{"id":1520037,"jp":"うん、直接話すほうがいいと思う！返事を待つ時間は、長く感じるからね。","fr":"Oui, je pense qu'il vaut mieux se parler directement ! Le temps d'attente d'une réponse paraît long."}
 {"id":1520038,"jp":"これが以心伝心……","fr":"Voilà ce qu'on appelle communiquer sans mots……"}
+{"id":1520041,"jp":"親を呼ぶのは？絶対に効くはずだよ。子どもたちが一番恐れてることだからね。","fr":"Et si tu appelais leurs parents ? Ça marchera à coup sûr. C'est ce que les enfants craignent le plus."}
 {"id":1520044,"jp":"リラックスしよう","fr":"Détendons-nous"}
+{"id":1520047,"jp":"ふたりにじゃんけんをしてもらって、勝ったほうのものにすればいいと思うよ。","fr":"Je pense que tu devrais leur faire jouer à pierre-feuille-ciseaux, et choisir celui du gagnant."}
+{"id":1520049,"jp":"そういう問題を解決するのは、きみの責任じゃないと思う。すべてを抱え込まないほうがいいよ。","fr":"Résoudre ce genre de problèmes n'est pas ta responsabilité, je crois. Ne porte pas tout sur tes épaules."}
 {"id":1520050,"jp":"村長はどうしてる？","fr":"Que fait le chef du village ?"}
 {"id":1520052,"jp":"本当に気になる……","fr":"Ça m'intrigue vraiment……"}
 {"id":1520054,"jp":"調合が知りたいな","fr":"J'aimerais connaître la préparation"}
 {"id":1520058,"jp":"実はわからないんだ","fr":"En fait, je ne sais pas"}
 {"id":1520060,"jp":"文字どおりの意味かな","fr":"C'est sans doute au sens littéral"}
+{"id":1520061,"jp":"文字どおりに解釈すれば、『星から降りてきた者』っていう意味だよね。ルルカはどういう意味だと思う？教えてほしいな。","fr":"Pris au pied de la lettre, ça veut dire « celui qui est descendu des étoiles », non ? Qu'en penses-tu, Luruka ? J'aimerais le savoir."}
+{"id":1520063,"jp":"伝承って、おもしろいね。もしも自分が『最も輝く星』なら、ルルカはきっと星雲だね。星の輝きを静かに守り続けているから。","fr":"Les légendes sont intéressantes. Si je suis « l'étoile la plus brillante », alors Luruka est sûrement la nébuleuse, car elle protège en silence l'éclat des étoiles."}
+{"id":1520071,"jp":"よくわからないけど……気にかけてくれてるのかな？気のせいでなければいいけど。","fr":"Je ne comprends pas bien… mais tu te soucies de moi ? J'espère ne pas me tromper."}
+{"id":1520073,"jp":"えっと、怪我をしたグラゴを探してるところなんだ。見かけたら連絡して。あの子に薬を塗ってあげないと。","fr":"Euh, je cherche un Grago blessé. Si tu le vois, préviens-moi. Je dois lui mettre de l'onguent."}
 {"id":1520074,"jp":"きっと忙しいよね？","fr":"Tu dois être bien occupé, non ?"}
+{"id":1520075,"jp":"見回り？きっと忙しくしてるんだろうね。手が空いたら、手伝いに行くよ。","fr":"Une ronde ? Tu dois être très occupée. Quand j'aurai du temps libre, je viendrai t'aider."}
 {"id":1520076,"jp":"ミィティはすごいな！","fr":"Mitty est formidable !"}
+{"id":1520077,"jp":"すごいすごい、さすがミィティ！\n何日か会わないあいだにまた上達したんだね。うれしいよ。","fr":"Génial, génial, bravo Mitty !\nTu as encore progressé en quelques jours sans te voir. Ça me fait plaisir."}
 {"id":1520078,"jp":"もっと詳しく教えて","fr":"Raconte-m'en davantage"}
+{"id":1520079,"jp":"電で気絶させた？きみは怪我してないんだよね？どういう技なんだろう。すごく気になる！","fr":"Tu l'as assommé avec de la foudre ? Tu n'as pas été blessée, au moins ? Quelle technique ! Ça m'intrigue énormément !"}
+{"id":1520081,"jp":"話を聞いた感じ、そいつが例のグラゴを傷つけた元凶だったんだろうね。あのかわいそうな子のために怒ってくれて、ありがとう！","fr":"D'après ce que tu racontes, c'était sans doute lui, le responsable qui a blessé ce Grago. Merci de t'être mise en colère pour ce pauvre petit !"}
 {"id":1520082,"jp":"自分を信じて！","fr":"Crois en toi !"}
+{"id":1520083,"jp":"ミィティの能力を疑ったことなんて一度もないよ！だからミィティも自信を持って。きみにできないことなんてないんだから。","fr":"Je n'ai jamais douté des capacités de Mitty ! Alors aie confiance toi aussi. Il n'y a rien que tu ne puisses faire."}
+{"id":1520085,"jp":"ミィティから手紙が届くたび、いい知らせを聞けて嬉しいよ。成長の証としてぜんぶ保管しておかなくちゃ！","fr":"Chaque lettre de Mitty m'apporte de bonnes nouvelles, ça me fait plaisir. Je dois toutes les garder comme preuve de ta croissance !"}
 {"id":1520086,"jp":"武器を作ってほしい！","fr":"Fabrique-moi une arme !"}
+{"id":1520089,"jp":"要するにさみしいんだよね？明日、おいしいものを持って、お茶を飲みに行くよ。","fr":"En résumé, tu te sens seule, n'est-ce pas ? Demain, j'apporterai de bonnes choses et on prendra le thé ensemble."}
+{"id":1520091,"jp":"ごめんごめん、最近やることが本当にたくさんあって……でも、安心して。きみを忘れてなんかいないからね！","fr":"Pardon, pardon, j'ai vraiment eu beaucoup à faire ces derniers temps… mais rassure-toi, je ne t'ai pas oubliée !"}
 {"id":1520094,"jp":"だれだってそうだよ","fr":"C'est pareil pour tout le monde"}
 {"id":1520096,"jp":"成長した証だと思うよ","fr":"C'est la preuve que tu as grandi"}
+{"id":1520097,"jp":"すこしずつ自分の心に打ち勝って、過去の影を恐れなくなったんだね。いいことだよ。","fr":"Peu à peu, tu as vaincu ton propre cœur et tu ne crains plus l'ombre du passé. C'est bien."}
+{"id":1520099,"jp":"空はとても広いものだよ。もしかしたら、ミィティに必要なのは、なにもかもが新しい景色なのかもしれないね。","fr":"Le ciel est immense. Peut-être que ce dont Mitty a besoin, c'est d'un paysage entièrement nouveau."}
 {"id":1520100,"jp":"後半は日記みたいだね","fr":"La seconde moitié ressemble à un journal"}
+{"id":1520101,"jp":"手紙の書き方、すごく斬新だね。うしろのほうは日記みたいになってる。","fr":"Ta façon d'écrire des lettres est très originale. La fin ressemble à un journal."}
+{"id":1520107,"jp":"この手紙も、子どもたちに手伝ってもらって書いたのかな？","fr":"Cette lettre aussi, tu l'as écrite avec l'aide des enfants ?"}
 {"id":1520110,"jp":"本当に毎日届くの？","fr":"Ça arrive vraiment tous les jours ?"}
+{"id":1520111,"jp":"この量だと、一通一通に返事をするのはかなり難しいよ……うれしいけどね。","fr":"Avec une telle quantité, répondre à chaque lettre est très difficile… même si ça me fait plaisir."}
 {"id":1520114,"jp":"手合わせしてみる？","fr":"On s'affronte ?"}
+{"id":1520115,"jp":"そんなに気になるなら、訓練場で思いっきり勝負しようよ。","fr":"Si ça t'intéresse tant, affrontons-nous à fond sur le terrain d'entraînement."}
+{"id":1520117,"jp":"ついにバレたか……そう、実は伝説で語られている負け知らずの戦士なんだ……","fr":"Ça y est, ça se sait… oui, en réalité, je suis le guerrier invaincu dont parle la légende…"}
 {"id":1520120,"jp":"守ってくれる？","fr":"Tu me protégeras ?"}
+{"id":1520127,"jp":"これから泊まる宿屋に、きみが来たら半値にするように言っておくよ。名前を伝えてみて。","fr":"Je dirai à l'auberge où je vais loger de te faire un tarif demi-prix quand tu viendras. Dis mon nom."}
 {"id":1520128,"jp":"ずっと住みたいくらい","fr":"J'aimerais presque vivre ici pour toujours"}
+{"id":1520129,"jp":"もう頑張りたくない、冒険なんてどうでもいい……シャルル村にずっと住みたい。いいかな？","fr":"Je n'ai plus envie de me donner du mal, l'aventure, je m'en fiche… Je veux vivre au Village de Charlulu pour toujours. Je peux ?"}
 {"id":1520130,"jp":"喜んで手伝うよ","fr":"Je t'aide avec plaisir"}
 {"id":1520131,"jp":"ハクオンさま","fr":"Seigneur Hakuon"}
 {"id":1520133,"jp":"報酬について……","fr":"À propos de la récompense……"}
 {"id":1520135,"jp":"お断りするよ……","fr":"Je préfère refuser……"}
+{"id":1520136,"jp":"悪いけど、お断りするよ。目指しているのは星の海だからね。","fr":"Je regrette, mais c'est non. Ce que je vise, c'est la mer d'étoiles."}
 {"id":1520137,"jp":"モーレンらしいね","fr":"C'est bien Morwyn"}
+{"id":1520138,"jp":"とてもモーレンらしいスタイルだね。楽しみにしてるよ。","fr":"C'est un style très Morwyn. J'ai hâte."}
 {"id":1520139,"jp":"一緒にやるのはどう？","fr":"Pourquoi ne pas le faire ensemble ?"}
 {"id":1520141,"jp":"失敗した……","fr":"J'ai échoué……"}
+{"id":1520142,"jp":"えっ？しまった……きみに楽器を贈ろうと思ってたんだけど……","fr":"Hein ? Zut… je comptais t'offrir un instrument…"}
+{"id":1520148,"jp":"どっちも完璧じゃないかもしれない、まだまだ鍛錬が必要だね。一緒に強くなろう！","fr":"Ni l'un ni l'autre n'est peut-être parfait, il faut s'entraîner encore. Devenons plus forts ensemble !"}
+{"id":1520150,"jp":"きみの代わりに『アフターミッドナイト』を味見したよ。すこし変わった味わいだった。きっと気に入ると思うよ。","fr":"J'ai goûté l'« Après minuit » à ta place. Il a une saveur un peu particulière. Je pense qu'il te plaira."}
 {"id":1520153,"jp":"ふたりきりで？","fr":"Rien que nous deux ?"}
+{"id":1520154,"jp":"それって、一日中ずっと一緒ってことかな？楽しみだよ。","fr":"Tu veux dire qu'on serait ensemble toute la journée ? J'ai hâte."}
 {"id":1520155,"jp":"いまから楽しみだよ。","fr":"J'ai déjà hâte"}
+{"id":1520156,"jp":"いまから楽しみだよ。スキーも、雪のなかのモーレンも。","fr":"J'ai déjà hâte. Du ski, et de Morwyn dans la neige."}
 {"id":1520157,"jp":"さすがモーレン","fr":"On reconnaît bien Morwyn"}
+{"id":1520158,"jp":"さすがモーレン。有無を言わせない実行力、称賛に値するよ。","fr":"Bien du Morwyn. Une force d'exécution sans appel, digne d'éloges."}
 {"id":1520159,"jp":"きみはきみだよ","fr":"Reste toi-même"}
+{"id":1520160,"jp":"「{playerName}」にとって、きみはもうとっくに「モーレン」――唯一無二の存在だよ。","fr":"Pour « {playerName} », tu es depuis longtemps « Morwyn », un être unique au monde."}
 {"id":1520161,"jp":"光栄だよ","fr":"C'est un honneur"}
 {"id":1520162,"jp":"シャルへ","fr":"À Shalle"}
 {"id":1520164,"jp":"頑張るね","fr":"Je vais faire de mon mieux"}
+{"id":1520167,"jp":"信じたのが悪人じゃなくてよかったね。そうでなければ、ロイレーを連れ去られてたかもしれないよ。","fr":"Heureusement que celui en qui tu as eu confiance n'était pas un méchant. Sinon, on aurait peut-être emporté Roiree."}
+{"id":1520168,"jp":"気をつけて。きみたちどちらも、その……怪我しないように……","fr":"Fais attention. Vous deux, enfin… ne vous blessez pas…"}
 {"id":1520169,"jp":"演武の場所はどこ？","fr":"Où aura lieu la démonstration ?"}
+{"id":1520170,"jp":"演武の場所はどこかな？剣術も槍術もまったくわからないけど……喜んで見させてもらうよ！","fr":"Où a lieu la démonstration martiale ? Je n'y connais rien en escrime ni en lance… mais je regarderai avec plaisir !"}
 {"id":1520171,"jp":"もちろんいいよ","fr":"Bien sûr"}
+{"id":1520172,"jp":"もちろんいいよ。ただ、こちらに向かってくるのは勘弁してね！","fr":"Bien sûr. Mais évite de te diriger vers moi !"}
 {"id":1520173,"jp":"すごくおいしい！","fr":"C'est délicieux !"}
+{"id":1520174,"jp":"すごくおいしいよ！おいしすぎて、持ち歩いたらすぐにぜんぶ食べちゃいそうで心配だね。","fr":"C'est délicieux ! Si bon que si je l'emporte avec moi, je risque de tout manger aussitôt."}
 {"id":1520175,"jp":"もっとほしいな","fr":"J'en veux encore"}
+{"id":1520176,"jp":"サンプルがすくなくて、正しい判断ができないかも……もうすこし送ってくれない？","fr":"L'échantillon est trop petit, je ne peux peut-être pas juger correctement… Tu peux m'en envoyer un peu plus ?"}
 {"id":1520177,"jp":"これが携行食？","fr":"Ce sont des rations de campagne ?"}
+{"id":1520178,"jp":"これ、戦闘の携行食なの？てっきりどこかの高級レストランが作った料理かと思ったよ！","fr":"C'est une ration de combat ? J'aurais cru un plat d'un grand restaurant !"}
 {"id":1520179,"jp":"模範的存在だね！","fr":"Un vrai modèle !"}
+{"id":1520180,"jp":"どこから見ても、シャルはペガサスナイトの模範的存在だね！","fr":"Sous tous les angles, Shalle est le modèle même du chevalier pégase !"}
+{"id":1520184,"jp":"じゃあ、きみとともに歩む者の称号は『ツインフェザーの対になる者』なんてどう？","fr":"Alors, que dirais-tu, comme titre pour qui marche à tes côtés : « Le pendant des Plumes jumelles » ?"}
+{"id":1520186,"jp":"夢のために……それからシャルのために、これからも頑張るよ！","fr":"Pour mon rêve… et pour Shalle, je continuerai à faire de mon mieux !"}
 {"id":1520187,"jp":"遠慮なく頼って","fr":"Tu peux compter sur moi"}
 {"id":1520191,"jp":"いいかんじだね","fr":"Ça me paraît bien"}
 {"id":1520192,"jp":"鷹主さま","fr":"Seigneur Faucon"}
+{"id":1520193,"jp":"ファランタの言葉はすごく丁寧だし、不適切なところなんかまったくないよ！","fr":"Faridah s'exprime avec beaucoup de politesse, il n'y a rien d'inapproprié !"}
 {"id":1520194,"jp":"かしこまりすぎかな！","fr":"C'est peut-être trop formel !"}
+{"id":1520195,"jp":"ちょっとかしこまりすぎて、公式発表みたいになってるよ！面と向かって話すみたいに書いてくれればいいから。","fr":"C'est un peu trop guindé, on dirait un communiqué officiel ! Écris comme si tu me parlais en face."}
 {"id":1520196,"jp":"もっと手紙を送って！","fr":"Envoie-moi davantage de lettres !"}
+{"id":1520197,"jp":"どんな内容が正解かとか考えなくていいから、どんどん書いて送ってよ。ファランタから手紙をもらえて、すごくうれしい！","fr":"Pas besoin de chercher le bon contenu, écris et envoie sans te poser de questions. Ça me fait très plaisir de recevoir une lettre de Faridah !"}
 {"id":1520198,"jp":"きみはどう？","fr":"Et toi ?"}
+{"id":1520199,"jp":"普通は自分のことを話すものだよ。いつもなにをして、なにを考えてるかな？","fr":"D'habitude, on parle de soi. Qu'est-ce que tu fais en général, à quoi tu penses ?"}
 {"id":1520200,"jp":"赤辛子の話はどう？","fr":"Et si on parlait de sauce au piment rouge ?"}
+{"id":1520201,"jp":"ファランタは赤辛子がすごく好きみたいだから、赤辛子の話をしてみるのはどうかな。","fr":"Faridah a l'air d'adorer la sauce au piment rouge, alors pourquoi ne pas parler de sauce au piment rouge ?"}
 {"id":1520202,"jp":"わからない……","fr":"Je ne sais pas……"}
+{"id":1520203,"jp":"うーん……わからない。いつも思いついたことを書いてるだけだから。","fr":"Hum… je ne sais pas. J'écris toujours ce qui me passe par la tête."}
 {"id":1520206,"jp":"出た！感嘆符！","fr":"Le voilà ! Un point d'exclamation !"}
+{"id":1520207,"jp":"ファランタが『！』を使うの、はじめて見た。記念すべき一回目が赤辛子に対してだなんて……","fr":"C'est la première fois que je vois Faridah utiliser un « ! ». Et pour sa toute première fois, c'est pour la sauce au piment rouge…"}
 {"id":1520208,"jp":"胃腸に注意して","fr":"Ménage ton estomac"}
 {"id":1520210,"jp":"赤辛子のにおいが！","fr":"Ça sent la sauce au piment rouge !"}
+{"id":1520211,"jp":"今日も赤辛子を食べたよね！手紙から赤辛子のにおいがするよ！","fr":"Tu as encore mangé de la sauce au piment rouge aujourd'hui ! La lettre sent la sauce au piment rouge !"}
+{"id":1520213,"jp":"昨日は食べなかったってことは、ほかの日は毎日食べてるってこと……？","fr":"Si tu n'en as pas mangé hier, ça veut dire que tu en manges tous les autres jours… ?"}
+{"id":1520215,"jp":"シャーマンの手際のよさからすると、胃が痛くなったのははじめてじゃなさそうだね……よくやった、シャーマン。","fr":"Vu l'habileté du chamane, ce n'est sans doute pas la première fois que son estomac lui joue des tours… Bien joué, chamane."}
 {"id":1520216,"jp":"その感じはまさか……","fr":"Cette sensation, ce serait……"}
+{"id":1520217,"jp":"勘違いじゃなければ、その感覚は『期待』と呼べるもの、かな。","fr":"Si je ne me trompe pas, cette sensation s'appelle de l'« attente », non ?"}
+{"id":1520219,"jp":"どうしても一緒に食べなきゃいけないなら……レッチルフにしてもいいかな？","fr":"S'il faut vraiment manger ensemble… on peut choisir le Retchilf ?"}
 {"id":1520220,"jp":"忙しくないよ！","fr":"Je ne suis pas occupé !"}
+{"id":1520221,"jp":"返事はすぐに書けるし、いつでも一緒に行けるよ！待ってて！","fr":"Je peux répondre tout de suite et je peux venir quand tu veux ! Attends-moi !"}
 {"id":1520222,"jp":"受け取ったよ","fr":"Bien reçu"}
 {"id":1520223,"jp":"ノノへ","fr":"À Nono"}
+{"id":1520224,"jp":"ちゃんと届いたよ。ほら、届いてなかったら返事なんて書けないからね……","fr":"La lettre est bien arrivée. Tiens, si elle n'était pas arrivée, je n'aurais pas pu répondre…"}
+{"id":1520226,"jp":"ノノが書いた宛名はちょっと曖昧だけど……信頼できる郵便局のおかげでちゃんと届いたよ！","fr":"L'adresse écrite par Nono est un peu vague… mais grâce à la poste, en qui on peut avoir confiance, elle est bien arrivée !"}
+{"id":1520228,"jp":"結果から見ると、宝探しと手紙を送るのは似たようなものだね。宝の地図をだれかに託して届けてもらってるようなものだし！","fr":"En fin de compte, chasser les trésors et envoyer des lettres, c'est à peu près pareil. C'est comme confier une carte au trésor à quelqu'un pour qu'il la livre !"}
 {"id":1520229,"jp":"宝の隠し場所は……","fr":"La cachette du trésor est……"}
+{"id":1520230,"jp":"安全のために、宝の隠し場所はむやみに教えないほうがいいんじゃないかな？信頼してもらえてうれしいけど！","fr":"Par sécurité, il vaudrait mieux ne pas dévoiler à tout va les cachettes des trésors, non ? Ça me touche que tu me fasses confiance, ceci dit !"}
+{"id":1520232,"jp":"届ける相手の名前を書くところに『宛名』って書いちゃダメだよ。面倒なら「星臨者へ」って書くだけでいいから。","fr":"Dans la case du destinataire, il ne faut pas écrire « destinataire ». Si c'est trop pénible, écris simplement « À l'Enfant des étoiles »."}
 {"id":1520233,"jp":"大切に保管するよ……","fr":"Je vais le garder précieusement……"}
+{"id":1520234,"jp":"ありがとう、もらった手紙は大切に保管しておくよ。手紙を読むと、そのときの気持ちを思い出せるから。","fr":"Merci, je garderai précieusement les lettres que tu m'envoies. En les lisant, je retrouve ce que je ressentais à ce moment-là."}
+{"id":1520236,"jp":"よくわからないけど、この道はなんだか懐かしい感じがする……もしかしたら、本当になにか見つかるかもね！","fr":"Je ne sais pas trop, mais ce chemin me paraît étrangement familier… peut-être qu'on va vraiment trouver quelque chose !"}
+{"id":1520238,"jp":"今回は宛名を正しく書けたね。ごほうびにバターシュガーパンを――と思ったけど、渡すのは雨が止んだあとになるかな。残念。","fr":"Cette fois, tu as bien écrit l'adresse. En récompense, un pain beurre-sucre… enfin, c'était mon idée, mais je ne pourrai te le remettre qu'une fois la pluie arrêtée. Dommage."}
+{"id":1520242,"jp":"宝の隠し場所を隠せるようになるのはすばらしいけど……辰王朝には「ここに銀三百両なし」っていう、古い格言があってね……","fr":"Savoir cacher la cachette du trésor est admirable… mais à la dynastie Chen, il existe un vieil adage : « Ici, il n'y a pas trois cents taels d'argent »…"}
+{"id":1520244,"jp":"ノノは宝の価値を『キラキラ』で判断するんだね！つぎ、なにを贈るべきかわかったよ。","fr":"Nono juge la valeur d'un trésor à son « éclat » ! Je sais maintenant quoi offrir la prochaine fois."}
+{"id":1520246,"jp":"封筒に入らないものは、小包で郵送すればいいんだよ。今度、一緒に郵便局に行こう。やり方を教えてあげる。","fr":"Ce qui ne tient pas dans une enveloppe, on peut l'envoyer par colis. La prochaine fois, allons ensemble à la poste. Je t'expliquerai comment faire."}
 {"id":1520249,"jp":"諦めちゃダメ！","fr":"N'abandonne pas !"}
+{"id":1520250,"jp":"探検への情熱をずっと持ち続けてるノノはすごく偉いよ。ノノが続けたいと願う限り、いつだって応援するからね。","fr":"Nono garde toujours sa passion pour l'exploration, c'est admirable. Tant que Nono voudra continuer, je la soutiendrai."}
+{"id":1520252,"jp":"『結構』って言い方はちょっとあれだけど……言いたいことはわかるよ！探検はたしかにやめられないね。","fr":"Dire « pas mal » est un peu bizarre… mais je comprends ce que tu veux dire ! L'exploration, impossible d'arrêter, en effet."}
+{"id":1520254,"jp":"手紙をもらえて、すごくうれしかったよ。別れたあとも、ずっと気にかけてくれていたなんて、思ってもみなかった。","fr":"Ta lettre m'a fait très plaisir. Je n'aurais jamais imaginé que tu penserais encore à moi après notre séparation."}
 {"id":1520255,"jp":"特別な縁？","fr":"Un destin particulier ?"}
+{"id":1520256,"jp":"『特別な縁』？なんだか謎めいてるね……楽しみにしてるよ。","fr":"Un « lien particulier » ? Voilà qui est mystérieux… j'ai hâte."}
+{"id":1520258,"jp":"つぎに助けが必要なときは、まっさきに小玉にお願いするよ。もちろん、なんの面倒にも遭わないことを願っているけど。","fr":"La prochaine fois que j'aurai besoin d'aide, je demanderai d'abord à Xiaoyu. En espérant, bien sûr, ne pas avoir d'ennuis."}
+{"id":1520260,"jp":"だれかの縁を守るのを助けたあと、いつも幸せそうな顔をしてる。本当はきみも楽しんでるんじゃない……？","fr":"Après avoir aidé à protéger le destin de quelqu'un, tu as toujours l'air heureuse. Au fond, tu t'amuses aussi, non… ?"}
+{"id":1520262,"jp":"「助けが必要なら声かけて」って言ってたのに、今度はこっちに助けを求めるなんて。持ちつ持たれつだね！","fr":"Tu disais « si tu as besoin d'aide, dis-le », et maintenant c'est toi qui me demandes de l'aide. Un échange de bons procédés !"}
 {"id":1520263,"jp":"すぐ行くよ！","fr":"J'arrive tout de suite !"}
+{"id":1520264,"jp":"なになに？噂話が聞けるって？待ってて、すぐ行くから！","fr":"Quoi, quoi ? On peut entendre des ragots ? Attends, j'arrive tout de suite !"}
+{"id":1520266,"jp":"小玉の手紙を受け取ってから食べに行ってみたよ。たしかにおいしいね！これからは、きみと一緒に食べることにするよ。","fr":"Après avoir reçu la lettre de Xiaoyu, j'ai essayé d'aller y manger. C'est vraiment délicieux ! Désormais, ce sera avec toi."}
+{"id":1520268,"jp":"もしかしたら、悲しい出来事も貴重な経験なのかもしれないよ。それに未来には、たくさんの素敵な出来事が待ってるんだから。","fr":"Peut-être que les événements tristes sont aussi des expériences précieuses. Et l'avenir nous réserve plein de belles choses."}
 {"id":1520269,"jp":"同じ気持ちだよ","fr":"Je ressens la même chose"}
+{"id":1520270,"jp":"小玉と仲間になれたことは、これ以上ないくらい素敵な縁だったよ。","fr":"Faire équipe avec Xiaoyu a été une rencontre merveilleuse, on ne peut rêver mieux."}
 {"id":1520271,"jp":"見せて見せて","fr":"Montre-moi, montre-moi"}
+{"id":1520272,"jp":"そんなに生き生きと書かれてる物語なんて、気になっちゃうな。今度、青華郷に行ったとき、見せてくれない？","fr":"Une histoire racontée de façon si vivante, ça me donne envie de la lire. La prochaine fois que j'irai au village de Qinghua, tu me la montreras ?"}
 {"id":1520273,"jp":"初心をずっと大切にね","fr":"N'oublie jamais tes débuts"}
+{"id":1520274,"jp":"小玉が初心を忘れなかったから、みんな幸せを見つけられたんだ。「狐の力、天にも勝る」ってやつだね！","fr":"C'est parce que Xiaoyu n'a pas oublié son intention première que tout le monde a trouvé le bonheur. « Le pouvoir du renard surpasse le ciel », comme on dit !"}
+{"id":1520276,"jp":"想いは世界に影響を与えるって聞いたよ……信じる気持ちが十分に強ければ、きっと幸せな結末にたどり着ける。","fr":"On dit que les sentiments influencent le monde… si la foi est assez forte, on atteindra sûrement une fin heureuse."}
+{"id":1520278,"jp":"きみがそこまで言うなら、答えは会ったときに聞くことにするね。やっぱり、面と向かって話したほうがいいこともあるから。","fr":"Si tu y tiens tant, j'entendrai la réponse quand on se verra. Il y a des choses qui valent mieux d'être dites en face."}
+{"id":1520280,"jp":"いいね、また綺麗な桃の花が楽しめる！お気に入りのお菓子も用意したから、あとは会いに行くだけ！","fr":"Super, on va encore profiter des belles fleurs de pêcher ! J'ai aussi préparé tes friandises préférées, il ne reste qu'à aller te voir !"}
 {"id":1520281,"jp":"どんなお話なのかな？","fr":"Quel genre d'histoire est-ce ?"}
 {"id":1520287,"jp":"大儲け！","fr":"Le gros lot !"}
+{"id":1520288,"jp":"ユニがいっぱい！大儲けだね！\n冗談だよ。リリィ、もう一度お知らせをよく見て。騙されないように気をつけてね……","fr":"Plein d'Uni ! Quel gros lot !\nJe plaisante. Lily, relis bien l'annonce. Fais attention à ne pas te faire avoir…"}
+{"id":1520290,"jp":"リリィ、よくやったね！楽して手に入れようとするなんてひどい連中だね！ユニは大事だけど、正しい方法で手に入れないとね。","fr":"Bien joué, Lily ! Quelles crapules, vouloir se procurer ça sans effort ! Les Uni sont importants, mais il faut les obtenir de la bonne façon."}
 {"id":1520291,"jp":"詐欺集団といえば……","fr":"À propos des escrocs……"}
+{"id":1520294,"jp":"なんといってもリリィにとってひとりでのお出かけははじめてだしね。失敗から学ぶこともあるよ。","fr":"Après tout, c'est la première fois que Lily sort seule. On peut aussi apprendre de ses échecs."}
 {"id":1520297,"jp":"あなたのフレンド","fr":"Ton amie"}
 {"id":1520300,"jp":"リラックスしよう！","fr":"Détends-toi !"}
 {"id":1520304,"jp":"親友、星臨者","fr":"Amitiés, l'Enfant des étoiles"}
