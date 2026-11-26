@@ -6857,6 +6857,7 @@
 {"id":1502833,"jp":"光と影が収束してできた記憶の痕跡。絆心の観測の触媒として用いることができる。","fr":"Une trace de souvenir née de la convergence de la lumière et de l'ombre. Elle peut servir de catalyseur pour l'Observation du Lien des cœurs."}
 {"id":1502834,"jp":"光輝がそのなかに留まり、光と影を映し出している。それは、手を伸ばせば届きそうにもみえる。","fr":"Le rayonnement y demeure, reflétant lumière et ombre. On dirait qu'il suffirait de tendre la main pour l'atteindre."}
 {"id":1502835,"jp":"遊離する星の軌跡","fr":"Sillage stellaire vagabond"}
+{"id":1502836,"jp":"ショップで貴重なアイテムと交換できる通貨。","fr":"Une monnaie échangeable contre des objets précieux en boutique."}
 {"id":1502837,"jp":"運命が交錯したときに生まれた波動が周囲に漂っている。","fr":"Des ondes nées du croisement des destins flottent alentour."}
 {"id":1502838,"jp":"通貨","fr":"Monnaie"}
 {"id":1502839,"jp":"観測で獲得","fr":"Obtenu par Observation"}
@@ -6865,6 +6866,7 @@
 {"id":1502842,"jp":"精巧な貝殻","fr":"Coquillage ouvragé"}
 {"id":1502843,"jp":"精巧な貝殻。シャルル村ではアイテム交換の証として使用されている。","fr":"Un coquillage ouvragé. Au Village de Charlulu, il sert de preuve d'échange d'objets."}
 {"id":1502844,"jp":"本来は海辺にあるはずの貝殻だが、青々とした谷に点々と散らばっている。その美しい姿はシャルル村の村民に愛されている。","fr":"Ces coquillages devraient se trouver au bord de la mer, pourtant ils sont éparpillés dans la vallée verdoyante. Leur beauté est chérie des habitants du Village de Charlulu."}
+{"id":1502845,"jp":"シャルル村の探索で獲得","fr":"À obtenir en explorant le Village de Charlulu"}
 {"id":1502846,"jp":"ミッシュルーム","fr":"Mishroom"}
 {"id":1502848,"jp":"赤チシキ","fr":"Chishiki rouge"}
 {"id":1502850,"jp":"アウラルベリー","fr":"Baie aurale"}
@@ -6876,23 +6878,29 @@
 {"id":1502858,"jp":"装備素材","fr":"Matériau d'équipement"}
 {"id":1502859,"jp":"星輝の再会","fr":"Retrouvailles stellaires"}
 {"id":1502860,"jp":"製作素材","fr":"Matériau d'artisanat"}
+{"id":1502861,"jp":"農園の武器工房で使用可能。装備の鍛造に使用できる。","fr":"Utilisable à l'atelier d'armes de la ferme pour la Forge d'équipements."}
 {"id":1502862,"jp":"一次処理済みの共通ベース素材。可塑性が非常に高く、各種装備を合成する際に欠かせない基本素材。","fr":"Un matériau de base commun ayant subi un premier traitement. Très malléable, c'est un matériau de base indispensable pour synthétiser toutes sortes d'équipements."}
 {"id":1502863,"jp":"皮革の宝の地図","fr":"Carte au trésor en cuir"}
 {"id":1502864,"jp":"「宝物はここ！」という印がかろうじて見える宝の地図。","fr":"Une carte au trésor où l'on distingue tout juste la marque « Le trésor est ici ! »."}
 {"id":1502865,"jp":"ほとんど文字が消えてしまった宝の地図。風化したぼろきれでしかない。","fr":"Une carte au trésor dont l'écriture a presque entièrement disparu. Ce n'est plus qu'un chiffon usé par le temps."}
 {"id":1502866,"jp":"ゴミ","fr":"Déchet"}
 {"id":1502867,"jp":"水生サボテン","fr":"Cactus aquatique"}
+{"id":1502868,"jp":"釣り針だらけの水生サボテン。","fr":"Un cactus aquatique couvert d'hameçons."}
 {"id":1502869,"jp":"水底に生えるサボテン。びっしりと刺さった釣り針には、数えきれない物語が宿っているかのようである。","fr":"Un cactus qui pousse au fond de l'eau. Les hameçons plantés partout semblent receler d'innombrables histoires."}
 {"id":1502870,"jp":"尾ビレのサンダル","fr":"Sandales à nageoire"}
 {"id":1502871,"jp":"魚の尾びれの形をした古いサンダル。履くとすこし足が疲れる。","fr":"De vieilles sandales en forme de nageoire caudale de poisson. Les porter fatigue un peu les pieds."}
 {"id":1502872,"jp":"どこで流行ったものだろうか。センスに疑問を感じてしまう。","fr":"Où est-ce que ça a pu faire fureur ? On ne peut s'empêcher de douter du goût."}
 {"id":1502873,"jp":"手作りの泥人形","fr":"Poupée d'argile faite main"}
+{"id":1502874,"jp":"手でこねて作られた泥人形。美しいとは言いがたい。","fr":"Une poupée d'argile modelée à la main. Difficile de la qualifier de belle."}
 {"id":1502875,"jp":"これを製作した者の技術はあまり熟練していないようだ。それが捨てられた理由なのだろう。","fr":"Celui qui a fabriqué ceci ne semble pas très habile. C'est sans doute pour cela qu'on l'a jeté."}
 {"id":1502876,"jp":"チシキの殻の片割れ","fr":"Moitié de coque de Chishiki"}
+{"id":1502877,"jp":"半分だけ残されたチシキの殻。","fr":"La moitié restante d'une coquille de Chishiki."}
 {"id":1502878,"jp":"新鮮なチシキの果汁を飲み終えたあと、殻をポイ捨てするのはマナー違反だ！","fr":"Après avoir fini de boire le jus frais d'un Chishiki, jeter la coque par terre est une entorse aux bonnes manières !"}
+{"id":1502879,"jp":"デイリーギフト（農園）","fr":"Cadeau quotidien (ferme)"}
 {"id":1502880,"jp":"デイリーランダムクエストを完了すると獲得できる。ランダムで農園用の素材をいくつか入手できる。","fr":"S'obtient en terminant une quête aléatoire quotidienne. Donne au hasard quelques matériaux pour la ferme."}
 {"id":1502881,"jp":"よく使う素材が入っている袋。勇敢で勤勉な者に贈られる最上級の贈りもの。","fr":"Un sac contenant des matériaux d'usage courant. C'est le plus beau des cadeaux, offert aux braves et aux assidus."}
 {"id":1502882,"jp":"オルゴール","fr":"Boîte à musique"}
+{"id":1502883,"jp":"雑貨の露店から持ち帰ったオルゴール。","fr":"Une boîte à musique rapportée d'un étal de marchandises diverses."}
 {"id":1502884,"jp":"遥か遠くからきたオルゴール。表面の模様はすり減っているが、その精巧さと優雅さまでは色あせていない。","fr":"Une boîte à musique venue de très loin. Les motifs de sa surface sont usés, mais son raffinement et son élégance n'ont pas pâli."}
 {"id":1502885,"jp":"コレクション","fr":"Collection"}
 {"id":1502886,"jp":"約束の石","fr":"Pierre de la promesse"}
@@ -6900,9 +6908,16 @@
 {"id":1502888,"jp":"ポリーの感謝の手紙","fr":"Lettre de remerciement de Polly"}
 {"id":1502890,"jp":"村長の探検手引き書","fr":"Guide d'exploration du Chef du village"}
 {"id":1502892,"jp":"星臨者に捧げる甘い夢","fr":"Doux rêves pour l'Enfant des étoiles"}
+{"id":1502893,"jp":"大切な者に贈るプレゼント。","fr":"Un cadeau destiné à un être cher."}
+{"id":1502895,"jp":"星臨者に捧げる長き祈り","fr":"Longue prière pour l'Enfant des étoiles"}
 {"id":1502897,"jp":"活躍度","fr":"Activité"}
+{"id":1502898,"jp":"活躍度クエストを完了すると獲得できるポイント。","fr":"Points obtenus en terminant les quêtes d'activité."}
+{"id":1502899,"jp":"プロミリアでの星臨者の活躍度合いを記録したもの。","fr":"Un registre de l'activité de l'Enfant des étoiles à travers Promilia."}
 {"id":1502900,"jp":"記録ポイント","fr":"Points de chronique"}
+{"id":1502901,"jp":"星旅の記録クエストを完了すると獲得できるポイント。","fr":"Points obtenus en terminant les quêtes de la Chronique du voyage stellaire."}
+{"id":1502902,"jp":"星臨者の星旅の記録の進行度を記したもの。","fr":"Un registre de la progression de l'Enfant des étoiles dans la Chronique du voyage stellaire."}
 {"id":1502903,"jp":"ステラカード","fr":"Carte Stella"}
+{"id":1502904,"jp":"キボとスターリンクするための証。","fr":"Un insigne permettant de former un Lien stellaire avec un Kibo."}
 {"id":1502905,"jp":"スターリンクの輝きを宿したカード。光は弱々しいが、魂を通わせることはできる。","fr":"Une carte qui renferme l'éclat du Lien stellaire. Sa lumière est faible, mais elle peut encore unir les âmes."}
 {"id":1502906,"jp":"農園-共鳴の石台","fr":"Ferme - Socle de résonance"}
 {"id":1502907,"jp":"特殊なステラカード","fr":"Carte Stella spéciale"}
@@ -6920,32 +6935,56 @@
 {"id":1502921,"jp":"無垢なステラカード","fr":"Carte Stella immaculée"}
 {"id":1502923,"jp":"幻彩のステラカード","fr":"Carte Stella irisée"}
 {"id":1502924,"jp":"キボとスターリンクするための証。使用するとスターリンクは必ず成功し、そのキボが星彩または異彩のキボとなる。","fr":"Une preuve pour établir un Lien stellaire avec un Kibo. Une fois utilisée, le Lien stellaire réussit à coup sûr, et ce Kibo devient un Kibo étoilé ou Variante."}
+{"id":1502926,"jp":"集会所マルチクエストチケット","fr":"Ticket de quête multijoueur du hall de rassemblement"}
 {"id":1502927,"jp":"チケット","fr":"Ticket"}
 {"id":1502928,"jp":"寒悠悠の弦音","fr":"Note de corde de Han Youyou"}
+{"id":1502929,"jp":"寒悠悠の調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Han Youyou."}
 {"id":1502930,"jp":"同じ音色が星脈のなかで再び確認されたとき、その共振は調律に用いる弦の響きへと凝結し、運命を調律するために必要な証となる。","fr":"Quand le même timbre est de nouveau perçu dans les veines stellaires, sa résonance se condense en le son d'une corde servant à l'Accordage et devient le gage nécessaire pour accorder le destin."}
 {"id":1502931,"jp":"調律","fr":"Accordage"}
 {"id":1502932,"jp":"ポンポンの弦音","fr":"Note de corde de Pengpeng"}
+{"id":1502933,"jp":"ポンポンの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Pengpeng."}
 {"id":1502934,"jp":"ペイペイの弦音","fr":"Note de corde de Peipei"}
+{"id":1502935,"jp":"ペイペイの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Peipei."}
 {"id":1502936,"jp":"塗山小玉の弦音","fr":"Note de corde de Tushan Xiaoyu"}
+{"id":1502937,"jp":"塗山小玉の調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Tushan Xiaoyu."}
 {"id":1502938,"jp":"蘭香子の弦音","fr":"Note de corde de Lan Xiangzi"}
+{"id":1502939,"jp":"蘭香子の調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Lan Xiangzi."}
 {"id":1502940,"jp":"リリィの弦音","fr":"Note de corde de Lily"}
+{"id":1502941,"jp":"リリィの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Lily."}
 {"id":1502942,"jp":"ルビーナの弦音","fr":"Note de corde de Ruby"}
+{"id":1502943,"jp":"ルビーナの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Ruby."}
 {"id":1502944,"jp":"源千代の弦音","fr":"Note de corde de Minamoto Chiyo"}
+{"id":1502945,"jp":"源千代の調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Minamoto Chiyo."}
 {"id":1502946,"jp":"シンフォーリアの弦音","fr":"Note de corde de Symphoria"}
+{"id":1502947,"jp":"シンフォーリアの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Symphoria."}
 {"id":1502948,"jp":"メーツァの弦音","fr":"Note de corde de Metsa"}
+{"id":1502949,"jp":"メーツァの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Metsa."}
 {"id":1502950,"jp":"アビィの弦音","fr":"Note de corde d'Abby"}
+{"id":1502951,"jp":"アビィの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage d'Abby."}
 {"id":1502952,"jp":"テララの弦音","fr":"Note de corde de Terara"}
+{"id":1502953,"jp":"テララの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Terara."}
 {"id":1502954,"jp":"ルルカの弦音","fr":"Note de corde de Luruka"}
+{"id":1502955,"jp":"ルルカの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Luruka."}
 {"id":1502956,"jp":"ミィティの弦音","fr":"Note de corde de Mitty"}
+{"id":1502957,"jp":"ミィティの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Mitty."}
 {"id":1502958,"jp":"カタルの弦音","fr":"Note de corde de Katalua"}
+{"id":1502959,"jp":"カタルの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Katalua."}
 {"id":1502960,"jp":"モーレンの弦音","fr":"Note de corde de Morwyn"}
+{"id":1502961,"jp":"モーレンの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Morwyn."}
 {"id":1502962,"jp":"シャルの弦音","fr":"Note de corde de Shalle"}
+{"id":1502963,"jp":"シャルの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Shalle."}
 {"id":1502964,"jp":"ファランタの弦音","fr":"Note de corde de Faridah"}
+{"id":1502965,"jp":"ファランタの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Faridah."}
 {"id":1502966,"jp":"キャスベルの弦音","fr":"Note de corde de Cathbelle"}
+{"id":1502967,"jp":"キャスベルの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Cathbelle."}
 {"id":1502968,"jp":"アニスの弦音","fr":"Note de corde d'Anais"}
+{"id":1502969,"jp":"アニスの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage d'Anais."}
 {"id":1502970,"jp":"星臨の弦音","fr":"Note de corde de l'Enfant des étoiles"}
+{"id":1502971,"jp":"星臨者の調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de l'Enfant des étoiles."}
 {"id":1502972,"jp":"ノノの弦音","fr":"Note de corde de Nono"}
+{"id":1502973,"jp":"ノノの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Nono."}
 {"id":1502974,"jp":"メイプルの弦音","fr":"Note de corde de Maple"}
+{"id":1502975,"jp":"メイプルの調律を上げることができる。","fr":"Permet d'augmenter l'Accordage de Maple."}
 {"id":1502976,"jp":"キャベッコの木彫り","fr":"Cabbeco en bois sculpté"}
 {"id":1502977,"jp":"手作りの工芸品。農園の<color=#D6854B>取引所</color>にて、高値で売却できる。","fr":"Un objet artisanal fait main. Se vend à bon prix au <color=#D6854B>comptoir d'échange</color> de la ferme."}
 {"id":1502979,"jp":"工芸品","fr":"Objet d'artisanat"}
@@ -6955,6 +6994,7 @@
 {"id":1502986,"jp":"皮革の風景画","fr":"Paysage sur cuir"}
 {"id":1502987,"jp":"革を貼り合わせて作られた風景画。フリスならではの風景が描かれている。","fr":"Un paysage fait de morceaux de cuir collés. Il représente une scène propre à Fleece."}
 {"id":1502988,"jp":"鉄製の花園の彫像","fr":"Statue de jardin en fer"}
+{"id":1502989,"jp":"鋳鉄製のグルルの像。庭園に飾る小型の装飾品。","fr":"Une statue de Gururu en fonte. Une petite décoration pour le jardin."}
 {"id":1502990,"jp":"森鏡の木鼓","fr":"Tambour en bois du miroir sylvestre"}
 {"id":1502992,"jp":"チョノコ炉","fr":"Brûleur Chonoko"}
 {"id":1502994,"jp":"浮音の風鈴","fr":"Carillon aux notes flottantes"}
@@ -6983,10 +7023,13 @@
 {"id":1503022,"jp":"伝書契約の証","fr":"Bon de contrat postal"}
 {"id":1503024,"jp":"交換アイテム","fr":"Objet d'échange"}
 {"id":1503025,"jp":"プレミアム漫遊記","fr":"Carnet de voyage premium"}
+{"id":1503026,"jp":"今シーズンのプレミアム漫遊記と交換できる。","fr":"Échangeable contre le Carnet de voyage premium de cette saison."}
 {"id":1503027,"jp":"すべての別れは、新たな再会のためにある。星臨者よ、おかえり！","fr":"Toute séparation existe pour de nouvelles retrouvailles. Enfant des étoiles, bon retour !"}
 {"id":1503028,"jp":"漫遊記復刻の証","fr":"Jeton de réédition du Carnet de voyage"}
+{"id":1503029,"jp":"今シーズンの漫遊記追憶と交換できる。","fr":"Échangeable contre les Souvenirs du Carnet de voyage de cette saison."}
 {"id":1503030,"jp":"星臨者よ、完全なる旅路もまた、紐解かれるときを待っている。さあ、出発せよ！","fr":"Enfant des étoiles, le voyage complet attend lui aussi d'être déroulé. Allez, en route !"}
 {"id":1503031,"jp":"普通の金麦粉","fr":"Farine de blé doré ordinaire"}
+{"id":1503032,"jp":"一般的な食材。料理に使用できる。","fr":"Un ingrédient commun pouvant être utilisé en cuisine."}
 {"id":1503033,"jp":"普通の金麦をひいてできた真っ白な麦粉。さまざまなパンや麺類を作ることができる。","fr":"Farine d'un blanc pur obtenue en moulant du blé doré ordinaire. Elle permet de préparer toutes sortes de pains et de nouilles."}
 {"id":1503034,"jp":"農園-製粉所","fr":"Ferme - Moulin"}
 {"id":1503035,"jp":"上質な金麦粉","fr":"Farine de blé doré de qualité"}
@@ -7017,10 +7060,15 @@
 {"id":1503060,"jp":"逸品のレッチルフをすりつぶして作られた辛みのある粉末。料理に加えると非常に独特な風味を生み出すことができる。","fr":"Une poudre piquante obtenue en broyant du Retchilf d'exception. Ajoutée à un plat, elle lui donne une saveur singulière."}
 {"id":1503061,"jp":"至高のレッチルフの粉","fr":"Poudre de Retchilf suprême"}
 {"id":1503062,"jp":"至高のレッチルフをすりつぶして作られた辛みのある粉末。料理に加えると非常に独特な風味が得られる。","fr":"Une poudre piquante obtenue en broyant du Retchilf suprême. Ajoutée à un plat, elle lui donne une saveur singulière."}
+{"id":1503063,"jp":"普通の潤いトマトソース","fr":"Sauce ordinaire de tomates juteuses"}
 {"id":1503064,"jp":"普通の潤いトマトを潰してできた甘酸っぱいソース。多くの料理に使うことができる。","fr":"Une sauce aigre-douce obtenue en écrasant de la tomate juteuse ordinaire. Elle s'emploie dans de nombreux plats."}
+{"id":1503065,"jp":"上質な潤いトマトソース","fr":"Sauce de qualité de tomates juteuses"}
 {"id":1503066,"jp":"上質な潤いトマトを潰してできた甘酸っぱいソース。多くの料理に使うことができる。","fr":"Une sauce aigre-douce obtenue en écrasant de la tomate juteuse de qualité. Elle s'emploie dans de nombreux plats."}
+{"id":1503067,"jp":"極上の潤いトマトソース","fr":"Sauce supérieure de tomates juteuses"}
 {"id":1503068,"jp":"極上の潤いトマトを潰してできた甘酸っぱいソース。多くの料理に使うことができる。","fr":"Une sauce aigre-douce obtenue en écrasant de la tomate juteuse supérieur. Elle s'emploie dans de nombreux plats."}
+{"id":1503069,"jp":"逸品の潤いトマトソース","fr":"Sauce d'exception de tomates juteuses"}
 {"id":1503070,"jp":"逸品の潤いトマトをすりつぶして作られた、酸味と甘みのあるソース。多くの料理に使われる。","fr":"Une sauce aigre-douce obtenue en écrasant de la tomate juteuse d'exception. Elle s'emploie dans de nombreux plats."}
+{"id":1503071,"jp":"至高の潤いトマトソース","fr":"Sauce suprême de tomates juteuses"}
 {"id":1503072,"jp":"至高の潤いトマトをすりつぶして作られた、酸味と甘みのあるソース。多くの料理に使われる。","fr":"Une sauce aigre-douce obtenue en écrasant de la tomate juteuse suprême. Elle s'emploie dans de nombreux plats."}
 {"id":1503073,"jp":"普通のコーンミール","fr":"Semoule de maïs ordinaire"}
 {"id":1503074,"jp":"普通のまんぷくコーンをひいてできた粉末。コーンの甘味と豊富な栄養はそのまま。多くの料理に使うことができる。","fr":"Une poudre obtenue en moulant du maïs copieux ordinaire. Elle garde la douceur du maïs et ses riches nutriments. Elle s'emploie dans de nombreux plats."}
@@ -7041,13 +7089,16 @@
 {"id":1503091,"jp":"至高のペペパウダー","fr":"Poudre de Pepe suprême"}
 {"id":1503092,"jp":"至高のペペをすりつぶして作られた粉末。ペペの香りと豊富な栄養を含んでおり、多くの料理に使われる。","fr":"Une poudre obtenue en broyant du Pepe suprême. Elle garde l'arôme du Pepe et ses riches nutriments, et s'emploie dans de nombreux plats."}
 {"id":1503093,"jp":"異端の爪","fr":"Griffe hérétique"}
+{"id":1503094,"jp":"星祝の昇臨レベルを上げる際に必要な素材。","fr":"Un matériau nécessaire pour augmenter le niveau d'ascension d'une Bénédiction stellaire."}
 {"id":1503096,"jp":"昇臨素材","fr":"Matériau d'ascension"}
+{"id":1503097,"jp":"災厄の残影-シャドウブレイズ","fr":"Ombre persistante du fléau - Shadowblaze"}
 {"id":1503098,"jp":"森の迷夢","fr":"Songe de la forêt"}
 {"id":1503100,"jp":"災厄の残影-双翼の舞","fr":"Ombre du fléau - Danse des ailes jumelles"}
 {"id":1503101,"jp":"狂潮のエコー","fr":"Écho de la marée furieuse"}
 {"id":1503102,"jp":"狂潮はとうに収まったが、漆黒の残骸が低い声でこだましている。まるで災厄がまだ終わっていないと証を立てるように。","fr":"La marée furieuse s'est apaisée depuis longtemps, mais des restes d'un noir de jais résonnent encore à voix basse, comme pour prouver que le fléau n'est pas fini."}
 {"id":1503103,"jp":"災厄の残影-ルダリス","fr":"Ombre du fléau - Rudalis"}
 {"id":1503104,"jp":"星祝ボックス・初級","fr":"Boîte de Bénédiction stellaire : débutant"}
+{"id":1503105,"jp":"指定の星祝アイテムを選択して獲得できる。","fr":"Permet de choisir et d'obtenir un objet de Bénédiction stellaire parmi ceux proposés."}
 {"id":1503106,"jp":"囁くような微かな輝きが、眠れる力をそっと呼び覚ます。","fr":"Une faible lueur, comme un murmure, éveille doucement la force qui sommeille."}
 {"id":1503107,"jp":"星祝ボックス・中級","fr":"Boîte de Bénédiction stellaire : intermédiaire"}
 {"id":1503108,"jp":"降り注ぐ星の輝きが印を刻み、勇気が静かに芽吹き出す。","fr":"L'éclat des étoiles qui tombent grave une marque, et le courage commence à bourgeonner en silence."}
@@ -7056,8 +7107,13 @@
 {"id":1503111,"jp":"星祝ボックス・特級","fr":"Boîte de Bénédiction stellaire : spécial"}
 {"id":1503112,"jp":"甘露のごとく貴重な輝きが、あらゆる希望と夢を潤していく。","fr":"Un éclat précieux comme le nectar vient irriguer tous les espoirs et tous les rêves."}
 {"id":1503113,"jp":"伝説の星祝ボックス","fr":"Boîte de Bénédiction stellaire légendaire"}
+{"id":1503114,"jp":"遥かなる伝説の物語は、いまはもう遠くはない。","fr":"Le récit d'une légende lointaine est désormais à portée de main."}
 {"id":1503115,"jp":"基本装備パック","fr":"Pack d'équipement de base"}
+{"id":1503116,"jp":"実用的な基本装備一式を獲得できる。","fr":"Permet d'obtenir un ensemble d'équipements de base pratiques."}
+{"id":1503117,"jp":"旅立ちのときの助けとなるかもしれない。","fr":"Pourrait se révéler utile au début du voyage."}
 {"id":1503118,"jp":"信頼の装備パック","fr":"Pack d'équipement fiable"}
+{"id":1503119,"jp":"質がよく扱いやすい装備一式を獲得できる。","fr":"Permet d'obtenir un ensemble d'équipements de qualité et faciles à manier."}
+{"id":1503120,"jp":"冒険の途上では、頼れる装備が心強い味方になる！","fr":"Au cours d'une aventure, un équipement fiable est un allié précieux !"}
 {"id":1503121,"jp":"清光の霊精ボックス","fr":"Boîte d'essence spirituelle de lumière pure"}
 {"id":1503122,"jp":"開けると、指定の装備強化アイテムを選んで獲得できる。","fr":"Une fois ouvert, permet de choisir et d'obtenir l'objet d'amélioration d'équipement indiqué."}
 {"id":1503123,"jp":"霊精の輝きが流転し、星臨者のためにより強い力を生み出す。","fr":"L'éclat de l'essence spirituelle circule et se transforme, créant une force plus grande pour l'Enfant des étoiles."}
@@ -7066,54 +7122,71 @@
 {"id":1503126,"jp":"珍しい星祝が収められた精巧なギフトボックス。指定のボス星祝アイテムを選択して獲得できる。","fr":"Un coffret-cadeau soigné contenant de rares Bénédictions stellaires. Permet de choisir et d'obtenir l'objet de Bénédiction stellaire de boss indiqué."}
 {"id":1503127,"jp":"ボス星祝の秘礼・上級","fr":"Rite de Bénédiction stellaire de boss : avancé"}
 {"id":1503128,"jp":"行商パック","fr":"Pack du colporteur"}
+{"id":1503129,"jp":"開封すると、ランダムでアイテムを獲得できる。","fr":"Ouvrez cette boîte pour obtenir des objets aléatoires."}
 {"id":1503130,"jp":"行商に出かけたティティが、追加のプレゼントをいくつか持ち帰ってきた。","fr":"Tiffy est partie en tournée de colportage et a rapporté quelques cadeaux supplémentaires."}
+{"id":1503131,"jp":"特別記憶ギフトボックス","fr":"Coffret cadeau de souvenirs spéciaux"}
 {"id":1503132,"jp":"ボックス内の★5アニマの中から、1枚を選択して獲得できる。","fr":"Permet de choisir et d'obtenir 1 Anima ★5 parmi ceux de la boîte."}
 {"id":1503134,"jp":"時を紡ぐ誓い","fr":"Serment qui tisse le temps"}
 {"id":1503136,"jp":"旅仲間の誘い・星冠","fr":"Invitation au voyage : Couronne stellaire"}
+{"id":1503137,"jp":"任意のキャラクターに旅路の招待を送ることができる。","fr":"Permet d'envoyer une invitation au voyage à un personnage de votre choix."}
 {"id":1503138,"jp":"これはまだ未完成の招待状だ。あなたが彼女の名前を書き記すのを待っている。","fr":"Cette invitation est encore inachevée. Elle attend qu'on y écrive son nom."}
 {"id":1503139,"jp":"旅仲間の誘い・星輝","fr":"Invitation au voyage : Éclat stellaire"}
 {"id":1503140,"jp":"原初の星灯り・蛍","fr":"Première lumière des étoiles : Lueur"}
 {"id":1503141,"jp":"星祝で授与すると、以下のステータスが上昇する。\nHP+40","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nPV +40"}
 {"id":1503142,"jp":"星の海から零れ落ちた最初の一筋の微かな光が、覚醒の道のはじまりを照らす。","fr":"Le premier mince filet de lumière tombé de la mer d'étoiles éclaire le début du chemin de l'éveil."}
 {"id":1503143,"jp":"星祝","fr":"Bénédiction stellaire"}
+{"id":1503144,"jp":"メインストーリー依頼第一章 1-5","fr":"Mission principale - Chapitre 1 : 1-5"}
+{"id":1503145,"jp":"メインストーリー依頼第一章 1-8","fr":"Mission principale - Chapitre 1 : 1-8"}
 {"id":1503146,"jp":"芽吹の谷の探索で獲得","fr":"Obtenu en explorant la Vallée des Bourgeons"}
 {"id":1503147,"jp":"フリスの探索で獲得","fr":"Obtenu en explorant Fleece"}
 {"id":1503148,"jp":"星祝ボックスを開ける","fr":"Ouvrir des boîtes de Bénédiction stellaire"}
 {"id":1503149,"jp":"高らかな勝利・蛍","fr":"Victoire retentissante : Lueur"}
 {"id":1503150,"jp":"星祝で授与すると、以下のステータスが上昇する。\n攻撃力+8","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nATQ +8"}
 {"id":1503151,"jp":"凱歌が荒野に響き渡り、困難を打ち破った栄光をひとつひとつ刻み込む。","fr":"Un chant de victoire résonne dans les terres sauvages et grave une à une les gloires d'avoir vaincu l'adversité."}
+{"id":1503152,"jp":"メインストーリー依頼第一章 1-1","fr":"Mission principale - Chapitre 1 : 1-1"}
 {"id":1503153,"jp":"断空の翼・蛍","fr":"Ailes fend-ciel : Lueur"}
 {"id":1503154,"jp":"星祝で授与すると、以下のステータスが上昇する。\n防御力+2","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nDÉF +2"}
 {"id":1503155,"jp":"大空を切り裂く軽やかな羽根は鋭く自由で、さらなる高みを目指す意志を宿している。","fr":"De légères plumes fendant le vaste ciel, vives et libres, portent la volonté d'atteindre des hauteurs toujours plus grandes."}
+{"id":1503156,"jp":"メインストーリー依頼第一章 1-6","fr":"Mission principale - Chapitre 1 : 1-6"}
 {"id":1503157,"jp":"天光の凝華・蛍","fr":"Cristal de lumière céleste : Lueur"}
 {"id":1503158,"jp":"星祝で授与すると、以下のステータスが上昇する。\n通常攻撃レベル+1\n攻撃力+4","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. d'Attaque normale +1\nATQ +4"}
 {"id":1503159,"jp":"澄みわたり、一点の曇りもなく、神秘的で奥深い。まるで一片の空が固まったかのようだ。","fr":"Limpide, sans le moindre nuage, mystérieux et profond. On dirait un morceau de ciel solidifié."}
 {"id":1503160,"jp":"メインストーリー依頼第一章 1-2","fr":"Mission principale, chapitre 1 : 1-2"}
+{"id":1503161,"jp":"メインストーリー依頼第一章 1-4","fr":"Mission principale - Chapitre 1 : 1-4"}
 {"id":1503162,"jp":"大狼の影・蛍","fr":"Ombre du Grand Loup : Lueur"}
 {"id":1503163,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星閃スキルレベル+1\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Éclair stellaire +1\nDÉF +1"}
 {"id":1503164,"jp":"大狼の眼差しは長き夜を貫き、すべてを見定める。その意志を理解する者だけが、その目に留まるのだろう。","fr":"Le regard du Grand Loup perce la longue nuit et discerne tout. Seul celui qui comprend sa volonté peut sans doute attirer son attention."}
+{"id":1503165,"jp":"メインストーリー依頼第一章 1-7","fr":"Mission principale - Chapitre 1 : 1-7"}
 {"id":1503166,"jp":"潮水のエコー・蛍","fr":"Écho de la marée : Lueur"}
 {"id":1503167,"jp":"星祝で授与すると、以下のステータスが上昇する。\n攻撃力+4\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nATQ +4\nDÉF +1"}
 {"id":1503168,"jp":"潮の満ち引きの間に残された古の残響は、世が移り変わるまで続く……","fr":"Un écho ancien laissé entre le flux et le reflux de la marée perdure jusqu'à ce que le monde change…"}
+{"id":1503169,"jp":"メインストーリー依頼第一章 1-3","fr":"Mission principale - Chapitre 1 : 1-3"}
 {"id":1503170,"jp":"荊棘を破る者・蛍","fr":"Brise-ronces : Lueur"}
 {"id":1503171,"jp":"星祝で授与すると、以下のステータスが上昇する。\nHP+20\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nPV +20\nDÉF +1"}
 {"id":1503172,"jp":"茨が服や鎧を切り裂き、ぬかるみが足取りを鈍らせようとも、真の旅人は決して振り返ることはない。","fr":"Même si les ronces déchirent les vêtements et les armures, et si la boue ralentit les pas, le vrai voyageur ne se retourne jamais."}
 {"id":1503173,"jp":"高らかな勝利・爍","fr":"Victoire retentissante : Étincelle"}
 {"id":1503174,"jp":"星祝で授与すると、以下のステータスが上昇する。\n通常攻撃レベル+1\nEX強度+13\nHP+20","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. d'Attaque normale +1\nPuissance EX +13\nPV +20"}
+{"id":1503175,"jp":"メインストーリー依頼第二章 2-1","fr":"Mission principale - Chapitre 2 : 2-1"}
+{"id":1503176,"jp":"メインストーリー依頼第二章 2-5","fr":"Mission principale - Chapitre 2 : 2-5"}
 {"id":1503177,"jp":"星祝の合成","fr":"Synthèse de Bénédiction stellaire"}
 {"id":1503178,"jp":"断空の翼・爍","fr":"Ailes fend-ciel : Étincelle"}
 {"id":1503179,"jp":"星祝で授与すると、以下のステータスが上昇する。\n通常攻撃レベル+1\n攻撃力+8\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. d'Attaque normale +1\nATQ +8\nDÉF +1"}
+{"id":1503180,"jp":"メインストーリー依頼第二章 2-6","fr":"Mission principale - Chapitre 2 : 2-6"}
 {"id":1503181,"jp":"天光の凝華・爍","fr":"Cristal de lumière céleste : Étincelle"}
 {"id":1503182,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星響スキルレベル+1\n攻撃力+8\nHP+20","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Écho stellaire +1\nATQ +8\nPV +20"}
+{"id":1503183,"jp":"メインストーリー依頼第二章 2-2","fr":"Mission principale - Chapitre 2 : 2-2"}
 {"id":1503184,"jp":"大狼の影・爍","fr":"Ombre du Grand Loup : Étincelle"}
 {"id":1503185,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星響スキルレベル+1\nEX強度+13\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Écho stellaire +1\nPuissance EX +13\nDÉF +1"}
 {"id":1503186,"jp":"潮水のエコー・爍","fr":"Écho de la marée : Étincelle"}
 {"id":1503187,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星閃スキルレベル+1\nHP+40\n攻撃力+4","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Éclair stellaire +1\nPV +40\nATQ +4"}
+{"id":1503188,"jp":"メインストーリー依頼第二章 2-3","fr":"Mission principale - Chapitre 2 : 2-3"}
 {"id":1503189,"jp":"荊棘を破る者・爍","fr":"Brise-ronces : Étincelle"}
 {"id":1503190,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星閃スキルレベル+1\nHP+40\nEX強度+6","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Éclair stellaire +1\nPV +40\nPuissance EX +6"}
+{"id":1503191,"jp":"メインストーリー依頼第二章 2-7","fr":"Mission principale - Chapitre 2 : 2-7"}
 {"id":1503192,"jp":"金穂満ちて・爍","fr":"Épis d'or à foison : Étincelle"}
 {"id":1503193,"jp":"星祝で授与すると、以下のステータスが上昇する。\n攻撃力+8\nHP+20\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nATQ +8\nPV +20\nDÉF +1"}
 {"id":1503194,"jp":"長い耕作の日々は一瞬の贈りものへと凝縮されて、成長の力を豊作の穀倉のごとく満ちあふれさせる。","fr":"De longs jours de labour se condensent en un cadeau fugace, et la force de croissance déborde comme un grenier plein d'une récolte abondante."}
+{"id":1503195,"jp":"メインストーリー依頼第二章 2-4","fr":"Mission principale - Chapitre 2 : 2-4"}
 {"id":1503196,"jp":"風の言葉と嵐の歌・爍","fr":"Paroles du vent, chant de l'orage : Étincelle"}
 {"id":1503197,"jp":"星祝で授与すると、以下のステータスが上昇する。\n攻撃力+8\n防御力+1\nHP+20","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nATQ +8\nDÉF +1\nPV +20"}
 {"id":1503198,"jp":"風が吹き抜けると山々がそれに応え、雲や霞もそれに合わせて波打ち、歌となる。旅人よ、足どりは軽やかになっただろうか？","fr":"Quand le vent passe, les montagnes répondent, et les nuages et la brume ondulent à l'unisson pour devenir un chant. En route, les pas se font-ils plus légers ?"}
@@ -7123,22 +7196,30 @@
 {"id":1503202,"jp":"猛角の棘・爍","fr":"Épine de corne féroce : Étincelle"}
 {"id":1503203,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\n攻撃力+8\nHP+20","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nATQ +8\nPV +20"}
 {"id":1503204,"jp":"戦え！ひたすら戦い続けろ！戦うことは争いを解決する手段であるだけでなく、コミュニケーションや遊びでもあるのだ。","fr":"Battons-nous ! Combattons sans relâche ! Le combat n'est pas seulement un moyen de régler un différend, c'est aussi de la communication et un jeu."}
+{"id":1503205,"jp":"ボス挑戦-恐れなき戦場I","fr":"Défi de boss - Champ de bataille sans peur I"}
 {"id":1503206,"jp":"断空の凶翼・爍","fr":"Ailes funestes fend-ciel : Étincelle"}
 {"id":1503207,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\n攻撃力+8\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nATQ +8\nDÉF +1"}
 {"id":1503208,"jp":"漆黒の凶翼が大空を引き裂き、大地をなぎ払い、威圧的で鋭い気配をもたらした。","fr":"Des ailes funestes d'un noir de jais ont déchiré le ciel et balayé la terre, apportant une présence menaçante et tranchante."}
+{"id":1503209,"jp":"ボス挑戦-凋落の挽歌I","fr":"Défi de boss - Élégie du déclin I"}
 {"id":1503210,"jp":"轟く雷霆・爍","fr":"Tonnerre grondant : Étincelle"}
 {"id":1503211,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\n攻撃力+8\nEX強度+6","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nATQ +8\nPuissance EX +6"}
 {"id":1503212,"jp":"重々しい蹄の音は轟く雷鳴をまとい、いかなる障害にも果敢に突進する。","fr":"Le pas lourd des sabots, chargé d'un tonnerre grondant, se rue sans peur sur tout obstacle."}
+{"id":1503213,"jp":"ボス挑戦-穏やかな雷鳴I","fr":"Défi de boss - Doux tonnerre I"}
 {"id":1503214,"jp":"緋色の幽霊・爍","fr":"Spectre écarlate : Étincelle"}
 {"id":1503215,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\nEX強度+13\nHP+20","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nPuissance EX +13\nPV +20"}
+{"id":1503217,"jp":"ボス挑戦-深巣の悪夢I","fr":"Défi de boss - Cauchemar du nid profond I"}
 {"id":1503218,"jp":"蝶影の幻夢・爍","fr":"Songe du papillon : Étincelle"}
 {"id":1503219,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\nEX強度+13\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nPuissance EX +13\nDÉF +1"}
 {"id":1503220,"jp":"蝶が軽く羽ばたくと、幻夢が幾重にも広がっていく。一見するとか弱く見えるが、現実と虚妄の境界をかき乱す力を持っている。","fr":"Quand le papillon bat légèrement des ailes, des rêves illusoires se déploient en couches. Il paraît fragile à première vue, mais il a le pouvoir de brouiller la frontière entre réalité et chimère."}
+{"id":1503221,"jp":"ボス挑戦-森に舞う幻夢I","fr":"Défi de boss - Danse des songes sylvestres I"}
 {"id":1503222,"jp":"ラーガの統御・爍","fr":"Maîtrise des Raga : Étincelle"}
 {"id":1503223,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\nEX強度+13\n攻撃力+4","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nPuissance EX +13\nATQ +4"}
 {"id":1503224,"jp":"たてがみを戦旗のようになびかせ、重厚で威厳ある気配を漂わせた。そのまま、ターゲットに向かって一直線に突き進む。","fr":"Sa crinière flotte comme un étendard de guerre, et il dégage une présence imposante et digne. Puis il fonce droit sur sa cible."}
+{"id":1503225,"jp":"ボス挑戦-貪食の深淵I","fr":"Défi de boss - Abysse de la voracité I"}
+{"id":1503226,"jp":"フレイムラーガの燃魂・爍","fr":"Âme ardente de Flameraga : Étincelle"}
 {"id":1503227,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\nHP+20\n攻撃力+4\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nPV +20\nATQ +4\nDÉF +1"}
 {"id":1503228,"jp":"たてがみに絡みつくフレイムは燃え続ける。それはまるで、魂の奥底にある決して消えることのない戦火のようだ。","fr":"La flamme enroulée dans sa crinière brûle sans cesse. On dirait un feu de guerre au fond de l'âme qui ne s'éteint jamais."}
+{"id":1503229,"jp":"ボス挑戦-灼熱の領域I","fr":"Défi de boss - Domaine brûlant I"}
 {"id":1503230,"jp":"高らかな勝利・輝","fr":"Victoire retentissante : Éclat"}
 {"id":1503231,"jp":"星祝で授与すると、以下のステータスが上昇する。\n通常攻撃レベル+1\nEX強度+13\nHP+40","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. d'Attaque normale +1\nPuissance EX +13\nPV +40"}
 {"id":1503232,"jp":"断空の翼・輝","fr":"Ailes fend-ciel : Éclat"}
@@ -7172,67 +7253,122 @@
 {"id":1503262,"jp":"桃の花が舞い散り、心地よく酔いしれる夢の世界。かすかに見える過去の幻影は、いったいだれの夢なのだろうか？","fr":"Des fleurs de pêcher tournoient dans un monde de rêve d'une ivresse agréable. À qui est ce rêve, ce vague fantôme du passé ?"}
 {"id":1503263,"jp":"猛角の棘・輝","fr":"Épine de corne féroce : Éclat"}
 {"id":1503264,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\n攻撃力+8\nHP+40","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nATQ +8\nPV +40"}
+{"id":1503265,"jp":"ボス挑戦-恐れなき戦場II","fr":"Défi de boss - Champ de bataille sans peur II"}
+{"id":1503266,"jp":"ボス挑戦-恐れなき戦場III","fr":"Défi de boss - Champ de bataille sans peur III"}
+{"id":1503267,"jp":"ボス挑戦-恐れなき戦場IV","fr":"Défi de boss - Champ de bataille sans peur IV"}
 {"id":1503268,"jp":"断空の凶翼・輝","fr":"Ailes funestes fend-ciel : Éclat"}
 {"id":1503269,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\n攻撃力+8\n防御力+2","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nATQ +8\nDÉF +2"}
+{"id":1503270,"jp":"ボス挑戦-凋落の挽歌II","fr":"Défi de boss - Élégie du déclin II"}
+{"id":1503271,"jp":"ボス挑戦-凋落の挽歌III","fr":"Défi de boss - Élégie du déclin III"}
+{"id":1503272,"jp":"ボス挑戦-凋落の挽歌IV","fr":"Défi de boss - Élégie du déclin IV"}
 {"id":1503273,"jp":"轟く雷霆・輝","fr":"Tonnerre grondant : Éclat"}
 {"id":1503274,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\n攻撃力+12\nEX強度+6","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nATQ +12\nPuissance EX +6"}
+{"id":1503275,"jp":"ボス挑戦-穏やかな雷鳴II","fr":"Défi de boss - Doux tonnerre II"}
+{"id":1503276,"jp":"ボス挑戦-穏やかな雷鳴III","fr":"Défi de boss - Doux tonnerre III"}
+{"id":1503277,"jp":"ボス挑戦-穏やかな雷鳴IV","fr":"Défi de boss - Doux tonnerre IV"}
 {"id":1503278,"jp":"緋色の幽霊・輝","fr":"Spectre écarlate : Éclat"}
 {"id":1503279,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\nEX強度+13\nHP+40","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nPuissance EX +13\nPV +40"}
+{"id":1503280,"jp":"ボス挑戦-深巣の悪夢II","fr":"Défi de boss - Cauchemar du nid profond II"}
+{"id":1503281,"jp":"ボス挑戦-深巣の悪夢III","fr":"Défi de boss - Cauchemar du nid profond III"}
+{"id":1503282,"jp":"ボス挑戦-深巣の悪夢IV","fr":"Défi de boss - Cauchemar du nid profond IV"}
 {"id":1503283,"jp":"蝶影の幻夢・輝","fr":"Songe du papillon : Éclat"}
 {"id":1503284,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\nEX強度+13\n防御力+2","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nPuissance EX +13\nDÉF +2"}
+{"id":1503285,"jp":"ボス挑戦-森に舞う幻夢II","fr":"Défi de boss - Danse des songes sylvestres II"}
+{"id":1503286,"jp":"ボス挑戦-森に舞う幻夢III","fr":"Défi de boss - Danse des songes sylvestres III"}
+{"id":1503287,"jp":"ボス挑戦-森に舞う幻夢IV","fr":"Défi de boss - Danse des songes sylvestres IV"}
 {"id":1503288,"jp":"ラーガの統御・輝","fr":"Maîtrise des Raga : Éclat"}
 {"id":1503289,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\nEX強度+13\n攻撃力+8","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nPuissance EX +13\nATQ +8"}
+{"id":1503290,"jp":"ボス挑戦-貪食の深淵II","fr":"Défi de boss - Abysse de la voracité II"}
+{"id":1503291,"jp":"ボス挑戦-貪食の深淵III","fr":"Défi de boss - Abysse de la voracité III"}
+{"id":1503292,"jp":"ボス挑戦-貪食の深淵IV","fr":"Défi de boss - Abysse de la voracité IV"}
+{"id":1503293,"jp":"フレイムラーガの燃魂・輝","fr":"Âme ardente de Flameraga : Éclat"}
 {"id":1503294,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\nHP+40\n攻撃力+4\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nPV +40\nATQ +4\nDÉF +1"}
+{"id":1503295,"jp":"ボス挑戦-灼熱の領域II","fr":"Défi de boss - Domaine brûlant II"}
+{"id":1503296,"jp":"ボス挑戦-灼熱の領域III","fr":"Défi de boss - Domaine brûlant III"}
+{"id":1503297,"jp":"ボス挑戦-灼熱の領域IV","fr":"Défi de boss - Domaine brûlant IV"}
 {"id":1503298,"jp":"金穂満ちて・耀","fr":"Épis d'or à foison : Splendeur"}
 {"id":1503299,"jp":"星祝で授与すると、以下のステータスが上昇する。\n通常攻撃レベル+2\nEX強度+13\nHP+40","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. d'Attaque normale +2\nPuissance EX +13\nPV +40"}
+{"id":1503300,"jp":"メインストーリー依頼第三章 3-1","fr":"Mission principale - Chapitre 3 : 3-1"}
 {"id":1503301,"jp":"風の言葉と嵐の歌・耀","fr":"Paroles du vent, chant de l'orage : Splendeur"}
 {"id":1503302,"jp":"星祝で授与すると、以下のステータスが上昇する。\n通常攻撃レベル+2\n攻撃力+8\n防御力+2","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. d'Attaque normale +2\nATQ +8\nDÉF +2"}
+{"id":1503303,"jp":"メインストーリー依頼第三章 3-2","fr":"Mission principale - Chapitre 3 : 3-2"}
 {"id":1503304,"jp":"花の冠・耀","fr":"Couronne de fleurs : Splendeur"}
 {"id":1503305,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星響スキルレベル+2\n攻撃力+8\nHP+40","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Écho stellaire +2\nATQ +8\nPV +40"}
+{"id":1503306,"jp":"メインストーリー依頼第三章 3-3","fr":"Mission principale - Chapitre 3 : 3-3"}
 {"id":1503307,"jp":"長河懸空・耀","fr":"Fleuve suspendu au ciel : Splendeur"}
 {"id":1503308,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星響スキルレベル+2\nEX強度+13\n防御力+2","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Écho stellaire +2\nPuissance EX +13\nDÉF +2"}
+{"id":1503309,"jp":"メインストーリー依頼第三章 3-4","fr":"Mission principale - Chapitre 3 : 3-4"}
 {"id":1503310,"jp":"霧月の心・耀","fr":"Cœur de la lune brumeuse : Splendeur"}
 {"id":1503311,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星閃スキルレベル+2\nHP+40\n攻撃力+8","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Éclair stellaire +2\nPV +40\nATQ +8"}
+{"id":1503312,"jp":"メインストーリー依頼第三章 3-5","fr":"Mission principale - Chapitre 3 : 3-5"}
 {"id":1503314,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星閃スキルレベル+2\nHP+40\nEX強度+13","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Éclair stellaire +2\nPV +40\nPuissance EX +13"}
+{"id":1503315,"jp":"メインストーリー依頼第三章 3-6","fr":"Mission principale - Chapitre 3 : 3-6"}
 {"id":1503316,"jp":"妙筆丹青・耀","fr":"Pinceau prodigieux : Splendeur"}
 {"id":1503317,"jp":"星祝で授与すると、以下のステータスが上昇する。\nHP+40\n攻撃力+12\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nPV +40\nATQ +12\nDÉF +1"}
+{"id":1503318,"jp":"メインストーリー依頼第三章 3-7","fr":"Mission principale - Chapitre 3 : 3-7"}
 {"id":1503319,"jp":"桃華の迷夢・耀","fr":"Songe des fleurs de pêcher : Splendeur"}
 {"id":1503320,"jp":"星祝で授与すると、以下のステータスが上昇する。\n攻撃力+8\nHP+40\n防御力+2","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nATQ +8\nPV +40\nDÉF +2"}
+{"id":1503321,"jp":"メインストーリー依頼第四章 4-1","fr":"Mission principale - Chapitre 4 : 4-1"}
 {"id":1503322,"jp":"龍行九天・耀","fr":"Dragon des neuf cieux : Splendeur"}
 {"id":1503323,"jp":"星祝で授与すると、以下のステータスが上昇する。\n防御力+2\n攻撃力+8\nEX強度+13","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nDÉF +2\nATQ +8\nPuissance EX +13"}
 {"id":1503324,"jp":"竜の王者は神威で世を覆い、生きとし生けるものを庇護した。だがいまとなっては、それもはるか昔の物語だ。","fr":"Le roi des dragons couvrit le monde de sa puissance divine et protégea tous les êtres vivants. Mais aujourd'hui, ce n'est plus qu'une histoire d'un passé lointain."}
+{"id":1503325,"jp":"メインストーリー依頼第四章 4-2","fr":"Mission principale - Chapitre 4 : 4-2"}
 {"id":1503326,"jp":"猛角の棘・耀","fr":"Épine de corne féroce : Splendeur"}
 {"id":1503327,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\n攻撃力+12\nHP+40","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nATQ +12\nPV +40"}
+{"id":1503328,"jp":"ボス挑戦-恐れなき戦場V","fr":"Défi de boss - Champ de bataille sans peur V"}
+{"id":1503329,"jp":"ボス挑戦-恐れなき戦場VI","fr":"Défi de boss - Champ de bataille sans peur VI"}
 {"id":1503330,"jp":"断空の凶翼・耀","fr":"Ailes funestes fend-ciel : Splendeur"}
 {"id":1503331,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\n攻撃力+12\n防御力+2","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nATQ +12\nDÉF +2"}
+{"id":1503332,"jp":"ボス挑戦-凋落の挽歌V","fr":"Défi de boss - Élégie du déclin V"}
+{"id":1503333,"jp":"ボス挑戦-凋落の挽歌VI","fr":"Défi de boss - Élégie du déclin VI"}
 {"id":1503334,"jp":"轟く雷霆・耀","fr":"Tonnerre grondant : Splendeur"}
 {"id":1503335,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\n攻撃力+12\nHP+20\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nATQ +12\nPV +20\nDÉF +1"}
+{"id":1503336,"jp":"ボス挑戦-穏やかな雷鳴V","fr":"Défi de boss - Doux tonnerre V"}
+{"id":1503337,"jp":"ボス挑戦-穏やかな雷鳴VI","fr":"Défi de boss - Doux tonnerre VI"}
 {"id":1503338,"jp":"緋色の幽霊・耀","fr":"Spectre écarlate : Splendeur"}
 {"id":1503339,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\nEX強度+19\nHP+40","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nPuissance EX +19\nPV +40"}
+{"id":1503340,"jp":"ボス挑戦-深巣の悪夢V","fr":"Défi de boss - Cauchemar du nid profond V"}
+{"id":1503341,"jp":"ボス挑戦-深巣の悪夢VI","fr":"Défi de boss - Cauchemar du nid profond VI"}
 {"id":1503342,"jp":"蝶影の幻夢・耀","fr":"Songe du papillon : Splendeur"}
 {"id":1503343,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\nEX強度+19\n防御力+2","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nPuissance EX +19\nDÉF +2"}
+{"id":1503344,"jp":"ボス挑戦-森に舞う幻夢V","fr":"Défi de boss - Danse des songes sylvestres V"}
+{"id":1503345,"jp":"ボス挑戦-森に舞う幻夢VI","fr":"Défi de boss - Danse des songes sylvestres VI"}
 {"id":1503346,"jp":"ラーガの統御・耀","fr":"Maîtrise des Raga : Splendeur"}
 {"id":1503347,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\nEX強度+19\n攻撃力+8","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nPuissance EX +19\nATQ +8"}
+{"id":1503348,"jp":"ボス挑戦-貪食の深淵V","fr":"Défi de boss - Abysse de la voracité V"}
+{"id":1503349,"jp":"ボス挑戦-貪食の深淵VI","fr":"Défi de boss - Abysse de la voracité VI"}
+{"id":1503350,"jp":"フレイムラーガの燃魂・耀","fr":"Âme ardente de Flameraga : Rayonnement"}
 {"id":1503351,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星極スキルレベル+1\nHP+60\n攻撃力+4\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Zénith stellaire +1\nPV +60\nATQ +4\nDÉF +1"}
+{"id":1503352,"jp":"ボス挑戦-灼熱の領域V","fr":"Défi de boss - Domaine brûlant V"}
+{"id":1503353,"jp":"ボス挑戦-灼熱の領域VI","fr":"Défi de boss - Domaine brûlant VI"}
 {"id":1503354,"jp":"永耀の星辰・煌","fr":"Astres d'éternelle splendeur : Fulgurance"}
 {"id":1503355,"jp":"星祝で授与すると、以下のステータスが上昇する。\n攻撃力+12\n防御力+3\nHP+60","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nATQ +12\nDÉF +3\nPV +60"}
 {"id":1503356,"jp":"蒼穹の彼方、決して墜ちることのない輝かしい星が、運命のように進むべき方向を指し示している。","fr":"Au-delà du firmament, une étoile resplendissante qui ne tombera jamais indique la direction à suivre, comme le destin."}
+{"id":1503357,"jp":"天道の余塵・交換ショップ","fr":"Boutique d'échange des poussières de la voie céleste"}
 {"id":1503358,"jp":"星軌の帰還","fr":"Retour des trajectoires stellaires"}
 {"id":1503359,"jp":"金穂満ちて・煌","fr":"Épis d'or à foison : Fulgurance"}
 {"id":1503360,"jp":"星祝で授与すると、以下のステータスが上昇する。\n通常攻撃レベル+2\nHP+60\n攻撃力+8","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. d'Attaque normale +2\nPV +60\nATQ +8"}
+{"id":1503361,"jp":"メインストーリー依頼第四章 4-3","fr":"Mission principale - Chapitre 4 : 4-3"}
 {"id":1503362,"jp":"風の言葉と嵐の歌・煌","fr":"Paroles du vent, chant de l'orage : Fulgurance"}
 {"id":1503363,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星響スキルレベル+2\n防御力+3\n攻撃力+8","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Écho stellaire +2\nDÉF +3\nATQ +8"}
+{"id":1503364,"jp":"メインストーリー依頼第四章 4-4","fr":"Mission principale - Chapitre 4 : 4-4"}
 {"id":1503365,"jp":"長河懸空・煌","fr":"Fleuve suspendu au ciel : Fulgurance"}
 {"id":1503366,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星閃スキルレベル+2\nHP+40\n防御力+2\n攻撃力+4","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Éclair stellaire +2\nPV +40\nDÉF +2\nATQ +4"}
+{"id":1503367,"jp":"メインストーリー依頼第四章 4-5","fr":"Mission principale - Chapitre 4 : 4-5"}
 {"id":1503368,"jp":"霧月の心・煌","fr":"Cœur de la lune brumeuse : Fulgurance"}
 {"id":1503369,"jp":"星祝で授与すると、以下のステータスが上昇する。\nEX強度+19\n防御力+2\nHP+40","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nPuissance EX +19\nDÉF +2\nPV +40"}
+{"id":1503370,"jp":"メインストーリー依頼第四章 4-6","fr":"Mission principale - Chapitre 4 : 4-6"}
 {"id":1503372,"jp":"星祝で授与すると、以下のステータスが上昇する。\n攻撃力+12\n防御力+2\nHP+40","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nATQ +12\nDÉF +2\nPV +40"}
+{"id":1503373,"jp":"メインストーリー依頼第四章 4-7","fr":"Mission principale - Chapitre 4 : 4-7"}
 {"id":1503374,"jp":"妙筆丹青・煌","fr":"Pinceau prodigieux : Fulgurance"}
 {"id":1503375,"jp":"星祝で授与すると、以下のステータスが上昇する。\n防御力+4\nHP+60","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nDÉF +4\nPV +60"}
+{"id":1503376,"jp":"メインストーリー依頼第四章 4-8","fr":"Mission principale - Chapitre 4 : 4-8"}
 {"id":1503377,"jp":"桃華の迷夢・煌","fr":"Songe des fleurs de pêcher : Fulgurance"}
 {"id":1503378,"jp":"星祝で授与すると、以下のステータスが上昇する。\nHP+60\n攻撃力+12\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nPV +60\nATQ +12\nDÉF +1"}
+{"id":1503379,"jp":"メインストーリー依頼第四章 4-9","fr":"Mission principale - Chapitre 4 : 4-9"}
 {"id":1503380,"jp":"龍行九天・煌","fr":"Dragon des neuf cieux : Fulgurance"}
 {"id":1503381,"jp":"星祝で授与すると、以下のステータスが上昇する。\nHP+60\n攻撃力+8\nEX強度+13","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nPV +60\nATQ +8\nPuissance EX +13"}
+{"id":1503382,"jp":"メインストーリー依頼第四章 4-10","fr":"Mission principale - Chapitre 4 : 4-10"}
 {"id":1503383,"jp":"猛角の棘・煌","fr":"Épine de corne féroce : Fulgurance"}
 {"id":1503384,"jp":"星祝で授与すると、以下のステータスが上昇する。\n通常攻撃レベル+2\n攻撃力+12\nHP+20\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. d'Attaque normale +2\nATQ +12\nPV +20\nDÉF +1"}
 {"id":1503385,"jp":"断空の凶翼・煌","fr":"Ailes funestes fend-ciel : Fulgurance"}
@@ -7244,61 +7380,205 @@
 {"id":1503391,"jp":"蝶影の幻夢・煌","fr":"Songe du papillon : Fulgurance"}
 {"id":1503392,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星響スキルレベル+2\nEX強度+19\n防御力+2","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Écho stellaire +2\nPuissance EX +19\nDÉF +2"}
 {"id":1503393,"jp":"ラーガの統御・煌","fr":"Maîtrise des Raga : Fulgurance"}
+{"id":1503395,"jp":"フレイムラーガの燃魂・煌","fr":"Âme ardente de Flameraga : Fulgurance"}
 {"id":1503397,"jp":"普通の霊精","fr":"Essence spirituelle ordinaire"}
+{"id":1503398,"jp":"普通のアウラのエッセンス。装備強化に使用できる。","fr":"Une essence ordinaire d'Aura. Sert à renforcer les équipements."}
+{"id":1503400,"jp":"デイリー依頼-千錘百錬Ⅰ","fr":"Mission quotidienne - Forge aux mille coups I"}
+{"id":1503401,"jp":"デイリー依頼-千錘百錬Ⅱ","fr":"Mission quotidienne - Forge aux mille coups II"}
 {"id":1503402,"jp":"結晶の霊精","fr":"Essence spirituelle cristalline"}
+{"id":1503403,"jp":"凝集したアウラのエッセンス。装備強化に使用できる。","fr":"Une essence condensée d'Aura. Sert à renforcer les équipements."}
+{"id":1503405,"jp":"デイリー依頼-千錘百錬Ⅲ","fr":"Mission quotidienne - Forge aux mille coups III"}
+{"id":1503406,"jp":"デイリー依頼-千錘百錬Ⅳ","fr":"Mission quotidienne - Forge aux mille coups IV"}
 {"id":1503407,"jp":"湧動の霊精","fr":"Essence spirituelle jaillissante"}
+{"id":1503408,"jp":"うねるアウラのエッセンス。装備強化に使用できる。","fr":"Une essence tourbillonnante d'Aura. Sert à renforcer les équipements."}
+{"id":1503410,"jp":"デイリー依頼-千錘百錬Ⅴ","fr":"Mission quotidienne - Forge aux mille coups V"}
 {"id":1503411,"jp":"燐光の霊精","fr":"Essence spirituelle phosphorescente"}
+{"id":1503414,"jp":"デイリー依頼-千錘百錬Ⅵ","fr":"Mission quotidienne - Forge aux mille coups VI"}
 {"id":1503415,"jp":"幻彩の霊精","fr":"Essence spirituelle prismatique"}
+{"id":1503416,"jp":"彩るアウラのエッセンス。装備強化に使用できる。","fr":"Une essence chatoyante d'Aura. Sert à renforcer les équipements."}
+{"id":1503418,"jp":"『大空の調べ』セレクトボックス","fr":"Coffret de sélection « Mélodie des cieux »"}
+{"id":1503421,"jp":"『秘刃の破勢』選択ボックス","fr":"Coffret de sélection « Force de brise de la lame secrète »"}
+{"id":1503422,"jp":"蔵鋒破勢セットの中から、1つを選択して獲得できる。","fr":"Permet de choisir et d'obtenir 1 pièce de l'ensemble « Force de brise de la lame secrète »."}
 {"id":1503423,"jp":"恒光のタマゴ・選択","fr":"Œuf de lumière éternelle : au choix"}
 {"id":1503426,"jp":"波動の果実","fr":"Fruit des ondes"}
+{"id":1503427,"jp":"キボの攻撃潜在能力が上昇する。","fr":"Augmente le potentiel d'ATQ d'un Kibo."}
 {"id":1503429,"jp":"キボの潜在能力の実","fr":"Fruit de potentiel de Kibo"}
+{"id":1503430,"jp":"農園で果樹を収穫すると、一定確率で獲得","fr":"Peut être obtenu en récoltant des arbres fruitiers à la ferme"}
 {"id":1503431,"jp":"命のランタン","fr":"Lanterne de vie"}
+{"id":1503432,"jp":"キボのHP潜在能力が上昇する。","fr":"Augmente le potentiel de PV d'un Kibo."}
 {"id":1503434,"jp":"鱗殻の果実","fr":"Fruit à écailles"}
+{"id":1503435,"jp":"キボの防御潜在能力が上昇する。","fr":"Augmente le potentiel de DÉF d'un Kibo."}
 {"id":1503437,"jp":"とんがりの実","fr":"Fruit pointu"}
+{"id":1503438,"jp":"キボのブレイク潜在能力が上昇する。","fr":"Augmente le potentiel de brise d'un Kibo."}
 {"id":1503440,"jp":"とんがり玉の実","fr":"Fruit à boule pointue"}
+{"id":1503441,"jp":"キボの会心率潜在能力が上昇する。","fr":"Augmente le potentiel de Taux CRIT d'un Kibo."}
 {"id":1503443,"jp":"霊晶の実","fr":"Fruit de cristal spirituel"}
+{"id":1503444,"jp":"キボの同調強度潜在能力が上昇する。","fr":"Augmente le potentiel de Puissance de Synchronie d'un Kibo."}
 {"id":1503446,"jp":"未熟な源脈の実","fr":"Fruit de veine source pas mûr"}
+{"id":1503447,"jp":"キボの源脈ランクが上昇する。","fr":"Augmente le rang de la veine source d'un Kibo."}
 {"id":1503449,"jp":"キボ源脈の実","fr":"Fruit de veine source de Kibo"}
+{"id":1503450,"jp":"農園で源脈果樹を収穫すると獲得","fr":"À obtenir en récoltant les arbres fruitiers de veine source à la ferme"}
 {"id":1503451,"jp":"熟した源脈の実","fr":"Fruit de veine source mûr"}
 {"id":1503453,"jp":"大粒の源脈の実","fr":"Gros fruit de veine source"}
 {"id":1503455,"jp":"逸品の源脈の実","fr":"Fruit de veine source d'exception"}
 {"id":1503457,"jp":"機敏の実","fr":"Fruit de vivacité"}
+{"id":1503458,"jp":"キボが因子【機敏・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Agilité - ordinaire】."}
 {"id":1503460,"jp":"キボ因子の実","fr":"Fruit à facteur de Kibo"}
+{"id":1503461,"jp":"農園で因子果樹を収穫するすると獲得","fr":"À obtenir en récoltant les arbres fruitiers de facteurs à la ferme"}
 {"id":1503462,"jp":"剛胆の実","fr":"Fruit d'audace"}
+{"id":1503463,"jp":"キボが因子【恐れ知らず・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Intrépidité - ordinaire】."}
 {"id":1503465,"jp":"冷静の実","fr":"Fruit de calme"}
+{"id":1503466,"jp":"キボが因子【冷静・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Sang-froid - ordinaire】."}
+{"id":1503467,"jp":"静謐でひんやりとした気配をまとっている。","fr":"Dégage une aura paisible et rafraîchissante."}
 {"id":1503468,"jp":"闘志の実","fr":"Fruit de combativité"}
+{"id":1503469,"jp":"キボが因子【負けず嫌い・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Esprit de compétition - ordinaire】."}
 {"id":1503471,"jp":"慎重の実","fr":"Fruit de prudence"}
+{"id":1503472,"jp":"キボが因子【貫禄・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Prestance - ordinaire】."}
 {"id":1503474,"jp":"勤勉の実","fr":"Fruit d'assiduité"}
+{"id":1503475,"jp":"キボが因子【やり手・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Esprit d'entreprise - ordinaire】."}
+{"id":1503476,"jp":"物静かだが、しっかりとした手応えがある。","fr":"D'apparence discrète, mais étonnamment ferme au toucher."}
 {"id":1503477,"jp":"誠実の実","fr":"Fruit de sincérité"}
+{"id":1503478,"jp":"キボが因子【誠実・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Sincérité - ordinaire】."}
+{"id":1503479,"jp":"すっきりとした香りで、形もきちんと整っている。","fr":"Dégage un parfum frais et présente une forme parfaitement régulière."}
 {"id":1503480,"jp":"孤高の実","fr":"Fruit d'indépendance"}
+{"id":1503481,"jp":"キボが因子【孤高・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Solitaire - ordinaire】."}
+{"id":1503482,"jp":"近寄りがたい雰囲気を全体から漂わせている。","fr":"Dégage une aura qui décourage toute tentative d'approche."}
 {"id":1503483,"jp":"泰然の実","fr":"Fruit de sérénité"}
+{"id":1503484,"jp":"キボが因子【慎重・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Prudence - ordinaire】."}
 {"id":1503486,"jp":"興奮の実","fr":"Fruit d'excitation"}
+{"id":1503487,"jp":"キボが因子【興奮・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Exaltation - ordinaire】."}
 {"id":1503489,"jp":"軽妙の実","fr":"Fruit de légèreté"}
+{"id":1503490,"jp":"キボが因子【飄々・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Désinvolture - ordinaire】."}
+{"id":1503491,"jp":"ふわりと軽く、いまにも風に乗って飛んでいきそうだ。","fr":"Si léger et duveteux qu'il semble prêt à s'envoler au moindre souffle de vent."}
 {"id":1503492,"jp":"ファイターの実","fr":"Fruit du combattant"}
+{"id":1503493,"jp":"キボが因子【猛者・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Combattant - ordinaire】."}
+{"id":1503494,"jp":"攻撃的な実。顔にぶつけられないよう気をつけよう。","fr":"Un fruit agressif. Attention à ne pas le recevoir en pleine figure."}
 {"id":1503495,"jp":"爽やかな実","fr":"Fruit rafraîchissant"}
+{"id":1503496,"jp":"キボが因子【陽気・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Jovialité - ordinaire】."}
+{"id":1503497,"jp":"笑い声が聞こえてきそうで、まわりまで明るくなる。","fr":"On croirait presque entendre son rire, qui illumine tout ce qui l'entoure."}
 {"id":1503498,"jp":"敏捷の実","fr":"Fruit d'agilité"}
+{"id":1503499,"jp":"キボが因子【器用・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Dextérité - ordinaire】."}
 {"id":1503501,"jp":"情熱の実","fr":"Fruit de passion"}
+{"id":1503502,"jp":"キボが因子【情熱・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Passion - ordinaire】."}
 {"id":1503504,"jp":"温和の実","fr":"Fruit de douceur"}
+{"id":1503505,"jp":"キボが因子【柔和・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Douceur - ordinaire】."}
 {"id":1503507,"jp":"沈着の実","fr":"Fruit de sang-froid"}
+{"id":1503508,"jp":"キボが因子【泰然・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Sérénité - ordinaire】."}
 {"id":1503509,"jp":"焦らない、焦らない。","fr":"Doucement, rien ne presse."}
 {"id":1503510,"jp":"武勇の実","fr":"Fruit de bravoure"}
+{"id":1503511,"jp":"キボが因子【精悍・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Férocité - ordinaire】."}
+{"id":1503512,"jp":"気迫は十分！ただし、実である。","fr":"Un esprit combatif à toute épreuve ! Mais cela reste un fruit."}
 {"id":1503513,"jp":"不屈の実","fr":"Fruit de ténacité"}
+{"id":1503514,"jp":"キボが因子【堅毅・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Détermination - ordinaire】."}
 {"id":1503516,"jp":"健やかな実","fr":"Fruit sain"}
+{"id":1503517,"jp":"キボが因子【健やか・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Bonne santé - ordinaire】."}
+{"id":1503518,"jp":"生命力にあふれ、まだまだ大きく育ちそうだ。","fr":"Débordant de vitalité, il semble avoir encore beaucoup à grandir."}
 {"id":1503519,"jp":"素朴な実","fr":"Fruit rustique"}
+{"id":1503520,"jp":"キボが因子【素朴・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Simplicité - ordinaire】."}
+{"id":1503521,"jp":"飾り気のない見た目なのに、不思議と安心感がある。","fr":"Malgré son apparence sans prétention, il inspire un étrange sentiment de sécurité."}
 {"id":1503522,"jp":"頑強の実","fr":"Fruit de robustesse"}
+{"id":1503523,"jp":"キボが因子【頑強・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Robustesse - ordinaire】."}
+{"id":1503524,"jp":"まっすぐ立ち、いくら押しても倒れない。","fr":"Se tient bien droit et ne tombe jamais, quelle que soit la force exercée."}
 {"id":1503525,"jp":"執着の実","fr":"Fruit d'obsession"}
+{"id":1503526,"jp":"キボが因子【執着・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Obstination - ordinaire】."}
+{"id":1503527,"jp":"ひたすら、ひたすら続けていけば──","fr":"En persévérant encore et encore, sans jamais s'arrêter…"}
 {"id":1503528,"jp":"調和の実","fr":"Fruit d'équilibre"}
+{"id":1503529,"jp":"キボが因子【円満・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Harmonie - ordinaire】."}
 {"id":1503531,"jp":"友好の実","fr":"Fruit d'amitié"}
+{"id":1503532,"jp":"キボが因子【友好的・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Amabilité - ordinaire】."}
+{"id":1503533,"jp":"なんてことだ……すっかり癒やされてしまった。","fr":"Incroyable… Toute inquiétude s'est envolée."}
 {"id":1503534,"jp":"鋭敏の実","fr":"Fruit d'acuité"}
+{"id":1503535,"jp":"キボが因子【鋭敏・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Vivacité - ordinaire】."}
 {"id":1503537,"jp":"強勢の実","fr":"Fruit de domination"}
+{"id":1503538,"jp":"キボが因子【強気・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Assurance - ordinaire】."}
 {"id":1503540,"jp":"温厚の実","fr":"Fruit de bonté"}
+{"id":1503541,"jp":"キボが因子【人情・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Bienveillance - ordinaire】."}
+{"id":1503542,"jp":"ずっしりと重みがある実で、頼もしさを感じる。","fr":"Un fruit bien lourd et imposant qui inspire confiance."}
 {"id":1503543,"jp":"強壮の実","fr":"Fruit de vigueur"}
+{"id":1503544,"jp":"キボが因子【強壮・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Vigueur - ordinaire】."}
+{"id":1503545,"jp":"果肉はしっかりとしていて、健やかで美しい。","fr":"Sa chair est ferme, saine et belle."}
 {"id":1503546,"jp":"悠閑の実","fr":"Fruit de nonchalance"}
+{"id":1503547,"jp":"キボが因子【気楽・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Insouciance - ordinaire】."}
 {"id":1503549,"jp":"頑固の実","fr":"Fruit d'entêtement"}
+{"id":1503550,"jp":"キボが因子【頑固・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Entêtement - ordinaire】."}
+{"id":1503551,"jp":"なにかと張り合っているかのように硬い。","fr":"Si dur qu'il semble vouloir rivaliser avec tout ce qui l'entoure."}
 {"id":1503552,"jp":"好戦の実","fr":"Fruit belliqueux"}
+{"id":1503553,"jp":"キボが因子【好戦的・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Combativité - ordinaire】."}
+{"id":1503554,"jp":"果汁が飛び散る！勝利のためなら手段は選ばない！","fr":"Son jus éclabousse partout ! Tous les moyens sont bons pour remporter la victoire !"}
 {"id":1503555,"jp":"洞察の実","fr":"Fruit de Perspicacité"}
+{"id":1503556,"jp":"キボが因子【洞察力・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Perspicacité - ordinaire】."}
 {"id":1503558,"jp":"本気の実","fr":"Fruit de sérieux"}
+{"id":1503559,"jp":"キボが因子【真面目・普通】を獲得する。","fr":"Confère à un Kibo le facteur 【Sérieux - ordinaire】."}
+{"id":1503561,"jp":"キボが因子【機敏・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Agilité - supérieur】."}
+{"id":1503562,"jp":"キボが因子【恐れ知らず・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Intrépidité - supérieur】."}
+{"id":1503563,"jp":"キボが因子【冷静・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Sang-froid - supérieur】."}
+{"id":1503564,"jp":"キボが因子【負けず嫌い・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Esprit de compétition - supérieur】."}
+{"id":1503565,"jp":"キボが因子【貫禄・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Prestance - supérieur】."}
+{"id":1503566,"jp":"キボが因子【やり手・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Esprit d'entreprise - supérieur】."}
+{"id":1503567,"jp":"キボが因子【誠実・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Sincérité - supérieur】."}
+{"id":1503568,"jp":"キボが因子【孤高・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Solitaire - supérieur】."}
+{"id":1503569,"jp":"キボが因子【慎重・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Prudence - supérieur】."}
+{"id":1503570,"jp":"キボが因子【興奮・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Exaltation - supérieur】."}
+{"id":1503571,"jp":"キボが因子【飄々・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Désinvolture - supérieur】."}
+{"id":1503572,"jp":"キボが因子【猛者・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Combattant - supérieur】."}
+{"id":1503573,"jp":"キボが因子【陽気・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Jovialité - supérieur】."}
+{"id":1503574,"jp":"キボが因子【器用・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Dextérité - supérieur】."}
+{"id":1503575,"jp":"キボが因子【情熱・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Passion - supérieur】."}
+{"id":1503576,"jp":"キボが因子【柔和・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Douceur - supérieur】."}
+{"id":1503577,"jp":"キボが因子【泰然・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Sérénité - supérieur】."}
+{"id":1503578,"jp":"キボが因子【精悍・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Férocité - supérieur】."}
+{"id":1503579,"jp":"キボが因子【堅毅・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Détermination - supérieur】."}
+{"id":1503580,"jp":"キボが因子【健やか・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Bonne santé - supérieur】."}
+{"id":1503581,"jp":"キボが因子【素朴・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Simplicité - supérieur】."}
+{"id":1503582,"jp":"キボが因子【頑強・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Robustesse - supérieur】."}
+{"id":1503583,"jp":"キボが因子【執着・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Obstination - supérieur】."}
+{"id":1503584,"jp":"キボが因子【円満・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Harmonie - supérieur】."}
+{"id":1503585,"jp":"キボが因子【友好的・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Amabilité - supérieur】."}
+{"id":1503586,"jp":"キボが因子【鋭敏・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Vivacité - supérieur】."}
+{"id":1503587,"jp":"キボが因子【強気・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Assurance - supérieur】."}
+{"id":1503588,"jp":"キボが因子【人情・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Bienveillance - supérieur】."}
+{"id":1503589,"jp":"キボが因子【強壮・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Vigueur - supérieur】."}
+{"id":1503590,"jp":"キボが因子【気楽・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Insouciance - supérieur】."}
+{"id":1503591,"jp":"キボが因子【頑固・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Entêtement - supérieur】."}
+{"id":1503592,"jp":"キボが因子【好戦的・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Combativité - supérieur】."}
+{"id":1503593,"jp":"キボが因子【洞察力・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Perspicacité - supérieur】."}
+{"id":1503594,"jp":"キボが因子【真面目・優良】を獲得する。","fr":"Confère à un Kibo le facteur 【Sérieux - supérieur】."}
+{"id":1503595,"jp":"キボが因子【機敏・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Agilité - d'exception】."}
+{"id":1503596,"jp":"キボが因子【恐れ知らず・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Intrépidité - d'exception】."}
+{"id":1503597,"jp":"キボが因子【冷静・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Sang-froid - d'exception】."}
+{"id":1503598,"jp":"キボが因子【負けず嫌い・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Esprit de compétition - d'exception】."}
+{"id":1503599,"jp":"キボが因子【貫禄・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Prestance - d'exception】."}
+{"id":1503600,"jp":"キボが因子【やり手・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Esprit d'entreprise - d'exception】."}
+{"id":1503601,"jp":"キボが因子【誠実・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Sincérité - d'exception】."}
+{"id":1503602,"jp":"キボが因子【孤高・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Solitaire - d'exception】."}
+{"id":1503603,"jp":"キボが因子【慎重・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Prudence - d'exception】."}
+{"id":1503604,"jp":"キボが因子【興奮・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Exaltation - d'exception】."}
+{"id":1503605,"jp":"キボが因子【飄々・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Désinvolture - d'exception】."}
+{"id":1503606,"jp":"キボが因子【猛者・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Combattant - d'exception】."}
+{"id":1503607,"jp":"キボが因子【陽気・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Jovialité - d'exception】."}
+{"id":1503608,"jp":"キボが因子【器用・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Dextérité - d'exception】."}
+{"id":1503609,"jp":"キボが因子【情熱・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Passion - d'exception】."}
+{"id":1503610,"jp":"キボが因子【柔和・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Douceur - d'exception】."}
+{"id":1503611,"jp":"キボが因子【泰然・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Sérénité - d'exception】."}
+{"id":1503612,"jp":"キボが因子【精悍・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Férocité - d'exception】."}
+{"id":1503613,"jp":"キボが因子【堅毅・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Détermination - d'exception】."}
+{"id":1503614,"jp":"キボが因子【健やか・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Bonne santé - d'exception】."}
+{"id":1503615,"jp":"キボが因子【素朴・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Simplicité - d'exception】."}
+{"id":1503616,"jp":"キボが因子【頑強・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Robustesse - d'exception】."}
+{"id":1503617,"jp":"キボが因子【執着・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Obstination - d'exception】."}
+{"id":1503618,"jp":"キボが因子【円満・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Harmonie - d'exception】."}
+{"id":1503619,"jp":"キボが因子【友好的・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Amabilité - d'exception】."}
+{"id":1503620,"jp":"キボが因子【鋭敏・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Vivacité - d'exception】."}
+{"id":1503621,"jp":"キボが因子【強気・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Assurance - d'exception】."}
+{"id":1503622,"jp":"キボが因子【人情・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Bienveillance - d'exception】."}
+{"id":1503623,"jp":"キボが因子【強壮・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Vigueur - d'exception】."}
+{"id":1503624,"jp":"キボが因子【気楽・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Insouciance - d'exception】."}
+{"id":1503625,"jp":"キボが因子【頑固・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Entêtement - d'exception】."}
+{"id":1503626,"jp":"キボが因子【好戦的・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Combativité - d'exception】."}
+{"id":1503627,"jp":"キボが因子【洞察力・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Perspicacité - d'exception】."}
+{"id":1503628,"jp":"キボが因子【真面目・卓越】を獲得する。","fr":"Confère à un Kibo le facteur 【Sérieux - d'exception】."}
 {"id":1503629,"jp":"潜在能力訓練の補給","fr":"Provisions d'entraînement du potentiel"}
+{"id":1503630,"jp":"キボの潜在能力訓練で使用する専用アイテム。","fr":"Un objet réservé à l'entraînement du potentiel des Kibo."}
 {"id":1503632,"jp":"潜在能力訓練素材","fr":"Matériau d'entraînement du potentiel"}
 {"id":1503633,"jp":"源金の実","fr":"Fruit d'or source"}
 {"id":1503636,"jp":"キボの果実","fr":"Fruit de Kibo"}
@@ -7307,6 +7587,8 @@
 {"id":1503641,"jp":"探索のトーテム（小）","fr":"Totem d'exploration (petit)"}
 {"id":1503644,"jp":"感応のランタン（大）","fr":"Lanterne de perception (grande)"}
 {"id":1503647,"jp":"感応のランタン（小）","fr":"Lanterne de perception (petite)"}
+{"id":1503650,"jp":"未開封のありふれた記憶","fr":"Souvenir commun non ouvert"}
+{"id":1503653,"jp":"ランダムアニマアイテム","fr":"Objet Anima aléatoire"}
 {"id":1503654,"jp":"未開封の特別な記憶","fr":"Souvenir spécial scellé"}
 {"id":1503657,"jp":"未開封の貴重な記憶","fr":"Souvenir précieux scellé"}
 {"id":1503660,"jp":"平凡な記憶","fr":"Souvenir ordinaire"}
@@ -7325,52 +7607,73 @@
 {"id":1503687,"jp":"御霊の雨","fr":"Pluie des Esprits anciens"}
 {"id":1503690,"jp":"レイニィの反響","fr":"Écho de Rainy"}
 {"id":1503693,"jp":"キボの回響素材","fr":"Matériau d'Écho de Kibo"}
+{"id":1503694,"jp":"キボとスターリンクすると、一定確率で獲得","fr":"Peut être obtenu en formant un Lien stellaire avec un Kibo"}
 {"id":1503695,"jp":"農園-孵化杭","fr":"Ferme - Poteau d'éclosion"}
+{"id":1503696,"jp":"キボ図鑑の調査任務を達成で獲得","fr":"À obtenir en terminant une mission de recherche de l'encyclopédie des Kibo"}
 {"id":1503697,"jp":"フィフィの反響","fr":"Écho de Fifi"}
 {"id":1503699,"jp":"モフンガの反響","fr":"Écho de Mohunga"}
 {"id":1503701,"jp":"キャベッコの反響","fr":"Écho de Cabbeco"}
+{"id":1503702,"jp":"キャベッコ、キャバードの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Cabbeco et Cabbird."}
 {"id":1503703,"jp":"カメレウスの反響","fr":"Écho de Chameleus"}
+{"id":1503704,"jp":"カメレウスの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Chameleus."}
 {"id":1503705,"jp":"フラーメの反響","fr":"Écho de Flame"}
 {"id":1503707,"jp":"アイロの反響","fr":"Écho d'Airo"}
 {"id":1503709,"jp":"ハルウの反響","fr":"Écho de Haru"}
 {"id":1503711,"jp":"ツーモの反響","fr":"Écho de Tsumo"}
 {"id":1503713,"jp":"ロッコロの反響","fr":"Écho de Rokkoro"}
 {"id":1503715,"jp":"グリファの反響","fr":"Écho de Griffa"}
+{"id":1503717,"jp":"曙光の回響ギフトボックスを開けると獲得","fr":"À obtenir en ouvrant le coffret cadeau des échos de l'aube"}
 {"id":1503718,"jp":"チョノコの反響","fr":"Écho de Chonoko"}
 {"id":1503720,"jp":"サラマンドの反響","fr":"Écho de Salamand"}
+{"id":1503721,"jp":"サラマンドの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Salamand."}
 {"id":1503722,"jp":"ホークルの反響","fr":"Écho de Hawkle"}
 {"id":1503724,"jp":"ピョンルーの反響","fr":"Écho de Pyonloo"}
 {"id":1503726,"jp":"エレキリーの反響","fr":"Écho d'Electrilly"}
 {"id":1503728,"jp":"スノボウの反響","fr":"Écho de Snobow"}
 {"id":1503730,"jp":"グラゴの反響","fr":"Écho de Grago"}
 {"id":1503732,"jp":"スウィーガの反響","fr":"Écho de Sweega"}
+{"id":1503733,"jp":"スウィーガ、シュネルフの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Sweega et Schnelf."}
 {"id":1503734,"jp":"メロウミーの反響","fr":"Écho de Mellowmee"}
+{"id":1503735,"jp":"メロウミーの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Mellowmee."}
 {"id":1503736,"jp":"ドロゲコの反響","fr":"Écho de Drogeko"}
+{"id":1503737,"jp":"ドロゲコ、フォローグの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Drogeko et Follog."}
 {"id":1503738,"jp":"シードロの反響","fr":"Écho de Seedro"}
+{"id":1503739,"jp":"シードロ、シーロックの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Seedro et Searock."}
 {"id":1503740,"jp":"ラズリンの反響","fr":"Écho de Lazurin"}
 {"id":1503742,"jp":"アイシィの反響","fr":"Écho d'Icy"}
 {"id":1503744,"jp":"キラミィの反響","fr":"Écho de Kiramy"}
+{"id":1503745,"jp":"キラミィ、スターミィの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Kiramy et Starmy."}
 {"id":1503746,"jp":"ハーチャの反響","fr":"Écho de Harcha"}
+{"id":1503747,"jp":"ハーチャの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Harcha."}
 {"id":1503748,"jp":"フーモの反響","fr":"Écho de Fumo"}
 {"id":1503750,"jp":"ウィンディの反響","fr":"Écho de Windy"}
 {"id":1503752,"jp":"ホーミィの反響","fr":"Écho de Homy"}
 {"id":1503754,"jp":"ドゥルの反響","fr":"Écho de Dur"}
+{"id":1503755,"jp":"ドゥルの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Dur."}
 {"id":1503756,"jp":"ガドリの反響","fr":"Écho de Gadori"}
+{"id":1503757,"jp":"ガドリ、ガヤックの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Gadori et Gayak."}
 {"id":1503758,"jp":"ブロンの反響","fr":"Écho de Bron"}
+{"id":1503759,"jp":"ブロン、ブローモルの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Bron et Brawmoll."}
 {"id":1503760,"jp":"ルビッツの反響","fr":"Écho de Rubbits"}
 {"id":1503762,"jp":"ウッディの反響","fr":"Écho de Woody"}
 {"id":1503764,"jp":"ピーチィの反響","fr":"Écho de Peachy"}
 {"id":1503766,"jp":"リーモの反響","fr":"Écho de Leemo"}
 {"id":1503768,"jp":"ラファウの反響","fr":"Écho de Rafau"}
+{"id":1503769,"jp":"ラファウ、ラディーバの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Rafau et Radiiba."}
 {"id":1503770,"jp":"サンディの反響","fr":"Écho de Sandy"}
 {"id":1503772,"jp":"チーキィの反響","fr":"Écho de Cheeky"}
 {"id":1503774,"jp":"ブルーダの反響","fr":"Écho de Bluda"}
+{"id":1503775,"jp":"ブルーダ、ブルーシィグナの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Bluda et Blue Cygna."}
 {"id":1503776,"jp":"トランゴの反響","fr":"Écho de Trango"}
+{"id":1503777,"jp":"トランゴの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Trango."}
 {"id":1503778,"jp":"キノカの反響","fr":"Écho de Kinoka"}
 {"id":1503780,"jp":"フィドロの反響","fr":"Écho de Fidoro"}
+{"id":1503781,"jp":"フィドロ、フィーロックの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Fidoro et Fyrock."}
 {"id":1503782,"jp":"グルルの反響","fr":"Écho de Gururu"}
+{"id":1503783,"jp":"グルルの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Gururu."}
 {"id":1503784,"jp":"モーニャの反響","fr":"Écho de Monya"}
 {"id":1503786,"jp":"ネビュリオンの反響","fr":"Écho de Nebulion"}
+{"id":1503787,"jp":"ネビュリオンの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Nebulion."}
 {"id":1503788,"jp":"モーモの反響","fr":"Écho de Momo"}
 {"id":1503790,"jp":"フラウの反響","fr":"Écho de Furau"}
 {"id":1503792,"jp":"チーコの反響","fr":"Écho de Chico"}
@@ -7379,74 +7682,124 @@
 {"id":1503798,"jp":"ボマークの反響","fr":"Écho de Bomark"}
 {"id":1503800,"jp":"クックの反響","fr":"Écho de Cook"}
 {"id":1503802,"jp":"モフリーネの反響","fr":"Écho de Downybrinny"}
+{"id":1503803,"jp":"モフリーネの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Downybrinny."}
 {"id":1503804,"jp":"笑般若の反響","fr":"Écho du Hannya rieur"}
+{"id":1503805,"jp":"笑般若、憤怨坊、獄鬼面の源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Hannya rieur, du Moine rancunier et du Masque d'oni infernal."}
 {"id":1503806,"jp":"ニャアホの反響","fr":"Écho de Nyaho"}
+{"id":1503807,"jp":"ニャアホ、ニィトールの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Nyaho et Neetor."}
 {"id":1503808,"jp":"ポポティの反響","fr":"Écho de Popoty"}
+{"id":1503809,"jp":"ポポティ、ホワッポの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Popoty et Howapo."}
 {"id":1503810,"jp":"アマルテイアの反響","fr":"Écho d'Amalthea"}
+{"id":1503811,"jp":"アマルテイアの源脈の育成に使用できる。","fr":"Sert à développer la veine source d'Amalthea."}
 {"id":1503812,"jp":"ピカリンの反響","fr":"Écho de Pikarin"}
 {"id":1503814,"jp":"ピアッドの反響","fr":"Écho de Piad"}
 {"id":1503816,"jp":"モーキュンの反響","fr":"Écho de Mokyun"}
+{"id":1503817,"jp":"モーキュンの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Mokyun."}
 {"id":1503818,"jp":"クロディーメの反響","fr":"Écho de Clodime"}
+{"id":1503819,"jp":"クロディーメの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Clodime."}
 {"id":1503820,"jp":"グレイニーの反響","fr":"Écho de Greyny"}
 {"id":1503822,"jp":"ポニーロの反響","fr":"Écho de Poniro"}
+{"id":1503823,"jp":"ポニーロ、ヘヴィーロの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Poniro et Heavyro."}
 {"id":1503824,"jp":"スキャークの反響","fr":"Écho de Scark"}
+{"id":1503825,"jp":"スキャーク、オータミットの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Scark et Otamit."}
 {"id":1503826,"jp":"ウッダの反響","fr":"Écho de Woodda"}
 {"id":1503828,"jp":"セレーシャの反響","fr":"Écho de Celesha"}
+{"id":1503829,"jp":"セレーシャの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Celesha."}
 {"id":1503830,"jp":"小黒小白の反響","fr":"Écho de Xiaohei Xiaobai"}
+{"id":1503831,"jp":"小黒小白、黒白無安の源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Xiaohei Xiaobai et Heibai Wu'an."}
 {"id":1503832,"jp":"バッティの反響","fr":"Écho de Batty"}
 {"id":1503834,"jp":"ライドンの反響","fr":"Écho de Rydon"}
+{"id":1503835,"jp":"ライドン、ライカウモの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Rydon et Raikaumo."}
 {"id":1503836,"jp":"メーフィの反響","fr":"Écho de Meafy"}
 {"id":1503838,"jp":"ミミックの反響","fr":"Écho de Mimikku"}
+{"id":1503839,"jp":"ミミックの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Mimikku."}
 {"id":1503840,"jp":"ツイーチの反響","fr":"Écho de Tweech"}
+{"id":1503841,"jp":"ツイーチ、ホーミーロウの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Tweech et Homilow."}
 {"id":1503842,"jp":"青華の幼狐の反響","fr":"Écho du Renardeau de Qinghua"}
 {"id":1503844,"jp":"サピッツの反響","fr":"Écho de Sapittsu"}
 {"id":1503846,"jp":"ドラフィの反響","fr":"Écho de Dorafi"}
 {"id":1503848,"jp":"チョフコの反響","fr":"Écho de Chofuko"}
 {"id":1503850,"jp":"フィアークの反響","fr":"Écho de Fearc"}
+{"id":1503851,"jp":"フィアーク、ニートミットの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Fearc et Niitomitto."}
 {"id":1503852,"jp":"カラベッコの反響","fr":"Écho de Carabecco"}
+{"id":1503853,"jp":"カラベッコ、カラバードの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Carabecco et Carabird."}
 {"id":1503854,"jp":"ララティの反響","fr":"Écho de Laratee"}
+{"id":1503855,"jp":"ララティ、ララッポの源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Laratee et Rarappo."}
 {"id":1503856,"jp":"ジェイディオンの反響","fr":"Écho de Jeidion"}
+{"id":1503857,"jp":"ジェイディオンの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Jeidion."}
 {"id":1503858,"jp":"蒜絨の反響","fr":"Écho de Suanrong"}
+{"id":1503859,"jp":"蒜絨、蒜鳥の源脈の育成に使用できる。","fr":"Sert à développer les veines sources de Suanrong et Suanniao."}
 {"id":1503860,"jp":"イエローダの反響","fr":"Écho de Yellowda"}
 {"id":1503861,"jp":"イエローダ、イエローアルビの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Yellowda et de Yellowalbi."}
 {"id":1503862,"jp":"ウルの反響","fr":"Écho d'Uru"}
+{"id":1503863,"jp":"ウルの源脈の育成に使用できる。","fr":"Sert à développer la veine source d'Uru."}
 {"id":1503864,"jp":"ブルルの反響","fr":"Écho de Bururu"}
+{"id":1503865,"jp":"ブルルの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Bururu."}
 {"id":1503866,"jp":"パモーラの反響","fr":"Écho de Pamora"}
+{"id":1503867,"jp":"パモーラの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Pamora."}
+{"id":1503868,"jp":"キャベッコの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Cabbeco."}
 {"id":1503869,"jp":"ロイレーの反響","fr":"Écho de Roiree"}
+{"id":1503870,"jp":"ロイレーの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Roiree."}
 {"id":1503871,"jp":"大狼ウルの反響","fr":"Écho du Grand Loup Uru"}
+{"id":1503872,"jp":"大狼ウルの源脈の育成に使用できる。","fr":"Sert à développer la veine source du Grand Loup Uru."}
 {"id":1503873,"jp":"アザレイの反響","fr":"Écho d'Azarei"}
+{"id":1503874,"jp":"アザレイの源脈の育成に使用できる。","fr":"Sert à développer la veine source d'Azarei."}
 {"id":1503875,"jp":"ハイディの反響","fr":"Écho de Heidi"}
+{"id":1503876,"jp":"ハイディの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Heidi."}
 {"id":1503877,"jp":"薄金鬼の反響","fr":"Écho de l'Oni d'or pâle"}
+{"id":1503878,"jp":"薄金鬼の源脈の育成に使用できる。","fr":"Sert à développer la veine source de l'Oni d'or pâle."}
 {"id":1503879,"jp":"フラミーの反響","fr":"Écho de Flammy"}
+{"id":1503880,"jp":"フラミーの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Flammy."}
 {"id":1503881,"jp":"糖啾の反響","fr":"Écho de Tangjiu"}
+{"id":1503882,"jp":"糖啾の源脈の育成に使用できる。","fr":"Sert à développer la veine source de Tangjiu."}
 {"id":1503883,"jp":"大白大黒の反響","fr":"Écho de Dabai Dahei"}
+{"id":1503884,"jp":"大白大黒の源脈の育成に使用できる。","fr":"Sert à développer la veine source de Dabai Dahei."}
 {"id":1503885,"jp":"レイドスの反響","fr":"Écho de Reidosu"}
+{"id":1503886,"jp":"ラティアの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Latia."}
 {"id":1503887,"jp":"カエアの反響","fr":"Écho de Kaea"}
+{"id":1503888,"jp":"カエアの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Kaea."}
+{"id":1503889,"jp":"滅びゆく光のスターミィの反響","fr":"Écho de Starmy à la lumière déclinante"}
+{"id":1503890,"jp":"滅びゆく光のスターミィの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Starmy à la lumière déclinante."}
 {"id":1503891,"jp":"キクギの反響","fr":"Écho de Kikugi"}
+{"id":1503892,"jp":"キクギの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Kikugi."}
 {"id":1503893,"jp":"ベルベットの反響","fr":"Écho de Velvet"}
+{"id":1503894,"jp":"ベルベットの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Velvet."}
 {"id":1503895,"jp":"暁光の反響ボックス","fr":"Boîte d'Écho de l'aube"}
+{"id":1503896,"jp":"開けると、指定の反響アイテムを選んで獲得できる。","fr":"Ouvrez pour choisir et obtenir un objet d'Écho parmi ceux proposés."}
 {"id":1503898,"jp":"星灯り交換所","fr":"Comptoir Lumière des étoiles"}
 {"id":1503899,"jp":"ガラスのレンズ","fr":"Lentille de verre"}
+{"id":1503900,"jp":"望遠鏡を作るためのレンズ。","fr":"Une lentille servant à fabriquer un télescope."}
 {"id":1503902,"jp":"クエスト","fr":"Quêtes"}
 {"id":1503903,"jp":"棘付きの防衛柵","fr":"Palissade à pointes"}
 {"id":1503904,"jp":"棘の付いた柵。","fr":"Une palissade hérissée de pointes."}
 {"id":1503906,"jp":"目覚めの薬","fr":"Potion d'éveil"}
+{"id":1503907,"jp":"ルミィ特製『目覚めの薬』。","fr":"La « Potion d'éveil » spécialement préparée par Lumi."}
 {"id":1503909,"jp":"『胞子解毒剤』","fr":"« Antidote aux spores »"}
+{"id":1503910,"jp":"ルルカが丹念に精製した特効解毒薬。","fr":"Un antidote particulièrement efficace, soigneusement préparé par Luruka."}
 {"id":1503912,"jp":"ベタベタ弾","fr":"Projectile collant"}
+{"id":1503913,"jp":"麻の縄とマムベリーから作られた球状の投擲弾。","fr":"Un projectile sphérique fabriqué à partir de corde de chanvre et de baies Mum."}
 {"id":1503915,"jp":"シャルル村の祭祀武器","fr":"Arme rituelle du Village de Charlulu"}
+{"id":1503918,"jp":"シャルル村の儀式用のかがり火","fr":"Feu rituel du Village de Charlulu"}
 {"id":1503921,"jp":"イグドラシルのお守り","fr":"Amulette d'Yggdrasil"}
 {"id":1503924,"jp":"聖樹の楔","fr":"Coin de l'arbre sacré"}
+{"id":1503925,"jp":"エルフが作ったイグドラシルの楔。","fr":"Un coin d'Yggdrasil fabriqué par les Elfes."}
 {"id":1503927,"jp":"テララのしっぽの毛","fr":"Poil de queue de Terara"}
+{"id":1503928,"jp":"テララが『厳選』した一握りのしっぽの毛。","fr":"Une poignée de poils de queue « soigneusement sélectionnés » par Terara."}
+{"id":1503930,"jp":"ルルカのしっぽの毛のお守り","fr":"Talisman en poils de queue de Luruka"}
+{"id":1503931,"jp":"シャーマンに祝福され授けられたしっぽの毛のお守り。","fr":"Un talisman en poils de queue béni et offert par la chamane."}
 {"id":1503933,"jp":"マムベリー","fr":"Baie mum"}
 {"id":1503934,"jp":"マムベリーの果実。","fr":"Le fruit de la baie mum."}
 {"id":1503936,"jp":"エトワリーの木材","fr":"Bois d'étoilier"}
+{"id":1503937,"jp":"一般的な木材。加工することで役立つ素材になる。","fr":"Du bois commun pouvant être transformé en matériaux utiles."}
 {"id":1503939,"jp":"フレイザーの葉","fr":"Feuille de fraser"}
 {"id":1503940,"jp":"フレイザーの葉。","fr":"Une feuille de fraser."}
 {"id":1503942,"jp":"イグドラシルの枝","fr":"Branche d'Yggdrasil"}
 {"id":1503943,"jp":"イグドラシルの枝。","fr":"Une branche d'Yggdrasil."}
 {"id":1503945,"jp":"純粋な水晶","fr":"Cristal pur"}
+{"id":1503946,"jp":"星脈エネルギーに満ちたクリスタル。","fr":"Un cristal gorgé d'Énergie des veines stellaires."}
 {"id":1503948,"jp":"朧月夜のベール","fr":"Voile de lune brumeuse"}
 {"id":1503951,"jp":"パジャマ","fr":"Pyjama"}
+{"id":1503952,"jp":"星願家具ショップで購入","fr":"À acheter dans la boutique de meubles des vœux stellaires"}
 {"id":1503953,"jp":"月に宿る流虹","fr":"Arc-en-ciel niché dans la lune"}
 {"id":1503956,"jp":"すやすや竹の夢","fr":"Rêve paisible de bambou"}
 {"id":1503959,"jp":"イベントで獲得","fr":"Obtenu lors d'événements"}
@@ -7454,57 +7807,265 @@
 {"id":1503963,"jp":"神秘のステラカード","fr":"Carte Stella mystérieuse"}
 {"id":1503964,"jp":"キボを獲得できる。","fr":"Permet d'obtenir un Kibo."}
 {"id":1503966,"jp":"農園拡張許可","fr":"Permis d'agrandissement de la ferme"}
+{"id":1503967,"jp":"リリカに渡すと、農園拡張ができる。","fr":"Remettez ce document à Lyrica pour agrandir votre ferme."}
+{"id":1503968,"jp":"調査の結果、星臨者の農園拡張を承認する！","fr":"À la suite de notre enquête, l'agrandissement de la ferme de l'Enfant des étoiles est approuvé !"}
 {"id":1503969,"jp":"普通の金麦パン","fr":"Pain de blé doré ordinaire"}
+{"id":1503970,"jp":"チーム全体の防御力40上昇（効果時間：300秒）","fr":"Augmente de 40 la DÉF de toute l'équipe (durée : 300 s)"}
 {"id":1503972,"jp":"料理","fr":"Cuisine"}
 {"id":1503973,"jp":"農園-調理鍋","fr":"Ferme - Marmite"}
 {"id":1503974,"jp":"農園-調理場","fr":"Ferme - Cuisine"}
 {"id":1503975,"jp":"上質な金麦パン","fr":"Pain de blé doré de qualité"}
+{"id":1503976,"jp":"チーム全体の防御力40上昇（効果時間：325秒）","fr":"Augmente de 40 la DÉF de toute l'équipe (durée : 325 s)"}
 {"id":1503977,"jp":"極上の金麦パン","fr":"Pain de blé doré supérieur"}
+{"id":1503978,"jp":"チーム全体の防御力40上昇（効果時間：350秒）","fr":"Augmente de 40 la DÉF de toute l'équipe (durée : 350 s)"}
 {"id":1503979,"jp":"逸品の金麦パン","fr":"Pain de blé doré d'exception"}
+{"id":1503980,"jp":"チーム全体の防御力40上昇（効果時間：375秒）","fr":"Augmente de 40 la DÉF de toute l'équipe (durée : 375 s)"}
 {"id":1503981,"jp":"至高の金麦パン","fr":"Pain de blé doré suprême"}
+{"id":1503982,"jp":"チーム全体の防御力40上昇（効果時間：400秒）","fr":"Augmente de 40 la DÉF de toute l'équipe (durée : 400 s)"}
+{"id":1503983,"jp":"普通のコーンクラッカー","fr":"Biscuit croustillant au maïs ordinaire"}
+{"id":1503984,"jp":"チーム全体の防御力30上昇（効果時間：300秒）","fr":"Augmente de 30 la DÉF de toute l'équipe (durée : 300 s)"}
+{"id":1503986,"jp":"上質なコーンクラッカー","fr":"Biscuit croustillant au maïs de qualité"}
+{"id":1503987,"jp":"チーム全体の防御力30上昇（効果時間：325秒）","fr":"Augmente de 30 la DÉF de toute l'équipe (durée : 325 s)"}
+{"id":1503988,"jp":"極上のコーンクラッカー","fr":"Biscuit croustillant au maïs supérieur"}
+{"id":1503989,"jp":"チーム全体の防御力30上昇（効果時間：350秒）","fr":"Augmente de 30 la DÉF de toute l'équipe (durée : 350 s)"}
+{"id":1503990,"jp":"逸品のコーンクラッカー","fr":"Biscuit croustillant au maïs d'exception"}
+{"id":1503991,"jp":"チーム全体の防御力30上昇（効果時間：375秒）","fr":"Augmente de 30 la DÉF de toute l'équipe (durée : 375 s)"}
+{"id":1503992,"jp":"至高のコーンクラッカー","fr":"Biscuit croustillant au maïs suprême"}
+{"id":1503993,"jp":"チーム全体の防御力30上昇（効果時間：400秒）","fr":"Augmente de 30 la DÉF de toute l'équipe (durée : 400 s)"}
+{"id":1503994,"jp":"普通の弾けるどっきりコーン","fr":"Pop-corn surprise ordinaire"}
+{"id":1503995,"jp":"チーム全体の防御力20上昇（効果時間：300秒）","fr":"Augmente de 20 la DÉF de toute l'équipe (durée : 300 s)"}
+{"id":1503997,"jp":"上質な弾けるどっきりコーン","fr":"Pop-corn surprise de qualité"}
+{"id":1503998,"jp":"チーム全体の防御力20上昇（効果時間：325秒）","fr":"Augmente de 20 la DÉF de toute l'équipe (durée : 325 s)"}
+{"id":1503999,"jp":"極上の弾けるどっきりコーン","fr":"Pop-corn surprise supérieur"}
+{"id":1504000,"jp":"チーム全体の防御力20上昇（効果時間：350秒）","fr":"Augmente de 20 la DÉF de toute l'équipe (durée : 350 s)"}
+{"id":1504001,"jp":"逸品の弾けるどっきりコーン","fr":"Pop-corn surprise d'exception"}
+{"id":1504002,"jp":"チーム全体の防御力20上昇（効果時間：375秒）","fr":"Augmente de 20 la DÉF de toute l'équipe (durée : 375 s)"}
+{"id":1504003,"jp":"至高の弾けるどっきりコーン","fr":"Pop-corn surprise suprême"}
+{"id":1504004,"jp":"チーム全体の防御力20上昇（効果時間：400秒）","fr":"Augmente de 20 la DÉF de toute l'équipe (durée : 400 s)"}
 {"id":1504005,"jp":"普通の若鳥のブリトー","fr":"Burrito de poulet ordinaire"}
+{"id":1504006,"jp":"チーム全体の攻撃力70上昇（効果時間：300秒）","fr":"Augmente de 70 l'ATQ de toute l'équipe (durée : 300 s)"}
 {"id":1504008,"jp":"上質な若鳥のブリトー","fr":"Burrito de poulet de qualité"}
+{"id":1504009,"jp":"チーム全体の攻撃力70上昇（効果時間：325秒）","fr":"Augmente de 70 l'ATQ de toute l'équipe (durée : 325 s)"}
 {"id":1504010,"jp":"極上の若鳥のブリトー","fr":"Burrito de poulet supérieur"}
+{"id":1504011,"jp":"チーム全体の攻撃力70上昇（効果時間：350秒）","fr":"Augmente de 70 l'ATQ de toute l'équipe (durée : 350 s)"}
 {"id":1504012,"jp":"逸品の若鳥のブリトー","fr":"Burrito de poulet d'exception"}
+{"id":1504013,"jp":"チーム全体の攻撃力70上昇（効果時間：375秒）","fr":"Augmente de 70 l'ATQ de toute l'équipe (durée : 375 s)"}
 {"id":1504014,"jp":"至高の若鳥のブリトー","fr":"Burrito de poulet suprême"}
+{"id":1504015,"jp":"チーム全体の攻撃力70上昇（効果時間：400秒）","fr":"Augmente de 70 l'ATQ de toute l'équipe (durée : 400 s)"}
+{"id":1504016,"jp":"普通のがっつり炭火炙り肉","fr":"Copieuse grillade au charbon ordinaire"}
+{"id":1504017,"jp":"チーム全体の攻撃力80上昇（効果時間：300秒）","fr":"Augmente de 80 l'ATQ de toute l'équipe (durée : 300 s)"}
+{"id":1504019,"jp":"上質ながっつり炭火炙り肉","fr":"Copieuse grillade au charbon de qualité"}
+{"id":1504020,"jp":"チーム全体の攻撃力80上昇（効果時間：325秒）","fr":"Augmente de 80 l'ATQ de toute l'équipe (durée : 325 s)"}
+{"id":1504021,"jp":"極上のがっつり炭火炙り肉","fr":"Copieuse grillade au charbon supérieure"}
+{"id":1504022,"jp":"チーム全体の攻撃力80上昇（効果時間：350秒）","fr":"Augmente de 80 l'ATQ de toute l'équipe (durée : 350 s)"}
+{"id":1504023,"jp":"逸品のがっつり炭火炙り肉","fr":"Copieuse grillade au charbon d'exception"}
+{"id":1504024,"jp":"チーム全体の攻撃力80上昇（効果時間：375秒）","fr":"Augmente de 80 l'ATQ de toute l'équipe (durée : 375 s)"}
+{"id":1504025,"jp":"至高のがっつり炭火炙り肉","fr":"Copieuse grillade au charbon suprême"}
+{"id":1504026,"jp":"チーム全体の攻撃力80上昇（効果時間：400秒）","fr":"Augmente de 80 l'ATQ de toute l'équipe (durée : 400 s)"}
 {"id":1504027,"jp":"普通の卵くるくる巻き","fr":"Omelette roulée ordinaire"}
+{"id":1504028,"jp":"チーム全体の防御力50上昇（効果時間：300秒）","fr":"Augmente de 50 la DÉF de toute l'équipe (durée : 300 s)"}
 {"id":1504030,"jp":"上質な卵くるくる巻き","fr":"Omelette roulée de qualité"}
+{"id":1504031,"jp":"チーム全体の防御力50上昇（効果時間：325秒）","fr":"Augmente de 50 la DÉF de toute l'équipe (durée : 325 s)"}
 {"id":1504032,"jp":"極上の卵くるくる巻き","fr":"Omelette roulée supérieure"}
+{"id":1504033,"jp":"チーム全体の防御力50上昇（効果時間：350秒）","fr":"Augmente de 50 la DÉF de toute l'équipe (durée : 350 s)"}
 {"id":1504034,"jp":"逸品の卵くるくる巻き","fr":"Omelette roulée d'exception"}
+{"id":1504035,"jp":"チーム全体の防御力50上昇（効果時間：375秒）","fr":"Augmente de 50 la DÉF de toute l'équipe (durée : 375 s)"}
 {"id":1504036,"jp":"至高の卵くるくる巻き","fr":"Omelette roulée suprême"}
+{"id":1504037,"jp":"チーム全体の防御力50上昇（効果時間：400秒）","fr":"Augmente de 50 la DÉF de toute l'équipe (durée : 400 s)"}
+{"id":1504038,"jp":"普通のクリーミーポテト","fr":"Patate crémeuse ordinaire"}
+{"id":1504041,"jp":"上質なクリーミーポテト","fr":"Patate crémeuse de qualité"}
+{"id":1504043,"jp":"極上のクリーミーポテト","fr":"Patate crémeuse supérieure"}
+{"id":1504045,"jp":"逸品のクリーミーポテト","fr":"Patate crémeuse d'exception"}
+{"id":1504047,"jp":"至高のクリーミーポテト","fr":"Patate crémeuse suprême"}
+{"id":1504049,"jp":"普通の潤いトマトジュース","fr":"Jus de tomates juteuses ordinaire"}
+{"id":1504052,"jp":"上質な潤いトマトジュース","fr":"Jus de tomates juteuses de qualité"}
+{"id":1504054,"jp":"極上の潤いトマトジュース","fr":"Jus de tomates juteuses supérieur"}
+{"id":1504056,"jp":"逸品の潤いトマトジュース","fr":"Jus de tomates juteuses d'exception"}
+{"id":1504058,"jp":"至高の潤いトマトジュース","fr":"Jus de tomates juteuses suprême"}
+{"id":1504060,"jp":"普通のトマトミートボール","fr":"Boulettes de viande à la tomate ordinaires"}
+{"id":1504063,"jp":"上質なトマトミートボール","fr":"Boulettes de viande à la tomate de qualité"}
+{"id":1504065,"jp":"極上のトマトミートボール","fr":"Boulettes de viande à la tomate supérieures"}
+{"id":1504067,"jp":"逸品のトマトミートボール","fr":"Boulettes de viande à la tomate d'exception"}
+{"id":1504069,"jp":"至高のトマトミートボール","fr":"Boulettes de viande à la tomate suprêmes"}
 {"id":1504071,"jp":"普通のポカポカポトフ","fr":"Pot-au-feu réconfortant ordinaire"}
 {"id":1504074,"jp":"上質なポカポカポトフ","fr":"Pot-au-feu réconfortant de qualité"}
 {"id":1504076,"jp":"極上のポカポカポトフ","fr":"Pot-au-feu réconfortant supérieur"}
 {"id":1504078,"jp":"逸品のポカポカポトフ","fr":"Pot-au-feu réconfortant d'exception"}
 {"id":1504080,"jp":"至高のポカポカポトフ","fr":"Pot-au-feu réconfortant suprême"}
+{"id":1504082,"jp":"普通のトマトと肉のシチュー","fr":"Ragoût de viande à la tomate ordinaire"}
+{"id":1504083,"jp":"チーム全体の会心率6%上昇（効果時間：300秒）","fr":"Augmente de 6 % le Taux CRIT de toute l'équipe (durée : 300 s)"}
+{"id":1504085,"jp":"上質なトマトと肉のシチュー","fr":"Ragoût de viande à la tomate de qualité"}
+{"id":1504086,"jp":"チーム全体の会心率6%上昇（効果時間：325秒）","fr":"Augmente de 6 % le Taux CRIT de toute l'équipe (durée : 325 s)"}
+{"id":1504087,"jp":"極上のトマトと肉のシチュー","fr":"Ragoût de viande à la tomate supérieur"}
+{"id":1504088,"jp":"チーム全体の会心率6%上昇（効果時間：350秒）","fr":"Augmente de 6 % le Taux CRIT de toute l'équipe (durée : 350 s)"}
+{"id":1504089,"jp":"逸品のトマトと肉のシチュー","fr":"Ragoût de viande à la tomate d'exception"}
+{"id":1504090,"jp":"チーム全体の会心率6%上昇（効果時間：375秒）","fr":"Augmente de 6 % le Taux CRIT de toute l'équipe (durée : 375 s)"}
+{"id":1504091,"jp":"至高のトマトと肉のシチュー","fr":"Ragoût de viande à la tomate suprême"}
+{"id":1504092,"jp":"チーム全体の会心率6%上昇（効果時間：400秒）","fr":"Augmente de 6 % le Taux CRIT de toute l'équipe (durée : 400 s)"}
+{"id":1504093,"jp":"普通のシンゲツイモの煮込み","fr":"Ragoût de patates Nouvelle-Lune ordinaire"}
+{"id":1504096,"jp":"上質なシンゲツイモの煮込み","fr":"Ragoût de patates Nouvelle-Lune de qualité"}
+{"id":1504098,"jp":"極上のシンゲツイモの煮込み","fr":"Ragoût de patates Nouvelle-Lune supérieur"}
+{"id":1504100,"jp":"逸品のシンゲツイモの煮込み","fr":"Ragoût de patates Nouvelle-Lune d'exception"}
+{"id":1504102,"jp":"至高のシンゲツイモの煮込み","fr":"Ragoût de patates Nouvelle-Lune suprême"}
 {"id":1504104,"jp":"普通のウルフリット","fr":"Frites de loup ordinaires"}
+{"id":1504105,"jp":"チーム全体のEX強度72上昇（効果時間：300秒）","fr":"Augmente de 72 la Puissance EX de toute l'équipe (durée : 300 s)"}
 {"id":1504107,"jp":"上質なウルフリット","fr":"Frites de loup de qualité"}
+{"id":1504108,"jp":"チーム全体のEX強度72上昇（効果時間：325秒）","fr":"Augmente de 72 la Puissance EX de toute l'équipe (durée : 325 s)"}
 {"id":1504109,"jp":"極上のウルフリット","fr":"Frites de loup supérieures"}
+{"id":1504110,"jp":"チーム全体のEX強度72上昇（効果時間：350秒）","fr":"Augmente de 72 la Puissance EX de toute l'équipe (durée : 350 s)"}
 {"id":1504111,"jp":"逸品のウルフリット","fr":"Frites de loup d'exception"}
+{"id":1504112,"jp":"チーム全体のEX強度72上昇（効果時間：375秒）","fr":"Augmente de 72 la Puissance EX de toute l'équipe (durée : 375 s)"}
 {"id":1504113,"jp":"至高のウルフリット","fr":"Frites de loup suprêmes"}
+{"id":1504114,"jp":"チーム全体のEX強度72上昇（効果時間：400秒）","fr":"Augmente de 72 la Puissance EX de toute l'équipe (durée : 400 s)"}
+{"id":1504115,"jp":"普通のシャルル流串焼き","fr":"Brochettes façon Charlulu ordinaires"}
+{"id":1504117,"jp":"上質なシャルル流串焼き","fr":"Brochettes façon Charlulu de qualité"}
+{"id":1504118,"jp":"チーム全体の攻撃力10%上昇（効果時間：325秒）","fr":"Augmente de 10 % l'ATQ de toute l'équipe (durée : 325 s)"}
+{"id":1504119,"jp":"極上のシャルル流串焼き","fr":"Brochettes façon Charlulu supérieures"}
+{"id":1504120,"jp":"チーム全体の攻撃力10%上昇（効果時間：350秒）","fr":"Augmente de 10 % l'ATQ de toute l'équipe (durée : 350 s)"}
+{"id":1504121,"jp":"逸品のシャルル流串焼き","fr":"Brochettes façon Charlulu d'exception"}
+{"id":1504122,"jp":"チーム全体の攻撃力10%上昇（効果時間：375秒）","fr":"Augmente de 10 % l'ATQ de toute l'équipe (durée : 375 s)"}
+{"id":1504123,"jp":"至高のシャルル流串焼き","fr":"Brochettes façon Charlulu suprêmes"}
+{"id":1504124,"jp":"チーム全体の攻撃力10%上昇（効果時間：400秒）","fr":"Augmente de 10 % l'ATQ de toute l'équipe (durée : 400 s)"}
 {"id":1504125,"jp":"普通の蜜漬けピクルス","fr":"Pickles au miel ordinaires"}
+{"id":1504126,"jp":"チーム全体の回復効果8%上昇（効果時間：300秒）","fr":"Augmente de 8 % l'efficacité des soins de toute l'équipe (durée : 300 s)"}
 {"id":1504128,"jp":"上質な蜜漬けピクルス","fr":"Pickles au miel de qualité"}
+{"id":1504129,"jp":"チーム全体の回復効果8%上昇（効果時間：325秒）","fr":"Augmente de 8 % l'efficacité des soins de toute l'équipe (durée : 325 s)"}
 {"id":1504130,"jp":"極上の蜜漬けピクルス","fr":"Pickles au miel supérieurs"}
+{"id":1504131,"jp":"チーム全体の回復効果8%上昇（効果時間：350秒）","fr":"Augmente de 8 % l'efficacité des soins de toute l'équipe (durée : 350 s)"}
 {"id":1504132,"jp":"逸品の蜜漬けピクルス","fr":"Pickles au miel d'exception"}
+{"id":1504133,"jp":"チーム全体の回復効果8%上昇（効果時間：375秒）","fr":"Augmente de 8 % l'efficacité des soins de toute l'équipe (durée : 375 s)"}
 {"id":1504134,"jp":"至高の蜜漬けピクルス","fr":"Pickles au miel suprêmes"}
+{"id":1504135,"jp":"チーム全体の回復効果8%上昇（効果時間：400秒）","fr":"Augmente de 8 % l'efficacité des soins de toute l'équipe (durée : 400 s)"}
+{"id":1504136,"jp":"普通の濃厚トマトパスタ","fr":"Pâtes à la sauce tomate onctueuse ordinaires"}
+{"id":1504139,"jp":"上質な濃厚トマトパスタ","fr":"Pâtes à la sauce tomate onctueuse de qualité"}
+{"id":1504141,"jp":"極上の濃厚トマトパスタ","fr":"Pâtes à la sauce tomate onctueuse supérieures"}
+{"id":1504143,"jp":"逸品の濃厚トマトパスタ","fr":"Pâtes à la sauce tomate onctueuse d'exception"}
+{"id":1504145,"jp":"至高の濃厚トマトパスタ","fr":"Pâtes à la sauce tomate onctueuse suprêmes"}
+{"id":1504147,"jp":"普通の紅あまコンソメスープ","fr":"Consommé de radis rouge sucré ordinaire"}
+{"id":1504148,"jp":"チーム全体の会心率4%上昇（効果時間：300秒）","fr":"Augmente de 4 % le Taux CRIT de toute l'équipe (durée : 300 s)"}
+{"id":1504150,"jp":"上質な紅あまコンソメスープ","fr":"Consommé de radis rouge sucré de qualité"}
+{"id":1504151,"jp":"チーム全体の会心率4%上昇（効果時間：325秒）","fr":"Augmente de 4 % le Taux CRIT de toute l'équipe (durée : 325 s)"}
+{"id":1504152,"jp":"極上の紅あまコンソメスープ","fr":"Consommé de radis rouge sucré supérieur"}
+{"id":1504153,"jp":"チーム全体の会心率4%上昇（効果時間：350秒）","fr":"Augmente de 4 % le Taux CRIT de toute l'équipe (durée : 350 s)"}
+{"id":1504154,"jp":"逸品の紅あまコンソメスープ","fr":"Consommé de radis rouge sucré d'exception"}
+{"id":1504155,"jp":"チーム全体の会心率4%上昇（効果時間：375秒）","fr":"Augmente de 4 % le Taux CRIT de toute l'équipe (durée : 375 s)"}
+{"id":1504156,"jp":"至高の紅あまコンソメスープ","fr":"Consommé de radis rouge sucré suprême"}
+{"id":1504157,"jp":"チーム全体の会心率4%上昇（効果時間：400秒）","fr":"Augmente de 4 % le Taux CRIT de toute l'équipe (durée : 400 s)"}
+{"id":1504158,"jp":"普通の金麦とハムのサンド","fr":"Sandwich au blé doré et au jambon ordinaire"}
+{"id":1504161,"jp":"上質な金麦とハムのサンド","fr":"Sandwich au blé doré et au jambon de qualité"}
+{"id":1504163,"jp":"極上の金麦とハムのサンド","fr":"Sandwich au blé doré et au jambon supérieur"}
+{"id":1504165,"jp":"逸品の金麦とハムのサンド","fr":"Sandwich au blé doré et au jambon d'exception"}
+{"id":1504167,"jp":"至高の金麦とハムのサンド","fr":"Sandwich au blé doré et au jambon suprême"}
+{"id":1504169,"jp":"普通のたっぷり卵トースト","fr":"Tartine généreuse aux œufs ordinaire"}
+{"id":1504172,"jp":"上質なたっぷり卵トースト","fr":"Tartine généreuse aux œufs de qualité"}
+{"id":1504174,"jp":"極上のたっぷり卵トースト","fr":"Tartine généreuse aux œufs supérieure"}
+{"id":1504176,"jp":"逸品のたっぷり卵トースト","fr":"Tartine généreuse aux œufs d'exception"}
+{"id":1504178,"jp":"至高のたっぷり卵トースト","fr":"Tartine généreuse aux œufs suprême"}
+{"id":1504180,"jp":"普通のポポクッキー（小）","fr":"Biscuit Popo ordinaire (petit)"}
+{"id":1504181,"jp":"チーム全体の回復効果3%上昇（効果時間：300秒）","fr":"Augmente de 3 % l'efficacité des soins de toute l'équipe (durée : 300 s)"}
+{"id":1504183,"jp":"上質なポポクッキー（小）","fr":"Biscuit Popo de qualité (petit)"}
+{"id":1504184,"jp":"チーム全体の回復効果3%上昇（効果時間：325秒）","fr":"Augmente de 3 % l'efficacité des soins de toute l'équipe (durée : 325 s)"}
+{"id":1504185,"jp":"極上のポポクッキー（小）","fr":"Biscuit Popo supérieur (petit)"}
+{"id":1504186,"jp":"チーム全体の回復効果3%上昇（効果時間：350秒）","fr":"Augmente de 3 % l'efficacité des soins de toute l'équipe (durée : 350 s)"}
+{"id":1504187,"jp":"逸品のポポクッキー（小）","fr":"Biscuit Popo d'exception (petit)"}
+{"id":1504188,"jp":"チーム全体の回復効果3%上昇（効果時間：375秒）","fr":"Augmente de 3 % l'efficacité des soins de toute l'équipe (durée : 375 s)"}
+{"id":1504189,"jp":"至高のポポクッキー（小）","fr":"Biscuit Popo suprême (petit)"}
+{"id":1504190,"jp":"チーム全体の回復効果3%上昇（効果時間：400秒）","fr":"Augmente de 3 % l'efficacité des soins de toute l'équipe (durée : 400 s)"}
+{"id":1504191,"jp":"普通のさっぱりリーフサラダ","fr":"Salade de feuilles rafraîchissante ordinaire"}
 {"id":1504193,"jp":"上質なさっぱりリーフサラダ","fr":"Salade de feuilles rafraîchissante de qualité"}
+{"id":1504194,"jp":"極上のさっぱりリーフサラダ","fr":"Salade de feuilles rafraîchissante supérieure"}
+{"id":1504195,"jp":"逸品のさっぱりリーフサラダ","fr":"Salade de feuilles rafraîchissante d'exception"}
+{"id":1504196,"jp":"至高のさっぱりリーフサラダ","fr":"Salade de feuilles rafraîchissante suprême"}
+{"id":1504197,"jp":"普通のウィンドフィールパイ","fr":"Tourte des champs venteux ordinaire"}
+{"id":1504200,"jp":"上質なウィンドフィールパイ","fr":"Tourte des champs venteux de qualité"}
+{"id":1504202,"jp":"極上のウィンドフィールパイ","fr":"Tourte des champs venteux supérieure"}
+{"id":1504204,"jp":"逸品のウィンドフィールパイ","fr":"Tourte des champs venteux d'exception"}
+{"id":1504206,"jp":"至高のウィンドフィールパイ","fr":"Tourte des champs venteux suprême"}
+{"id":1504208,"jp":"普通のハーベストグリル","fr":"Grillade des récoltes ordinaire"}
+{"id":1504211,"jp":"上質なハーベストグリル","fr":"Grillade des récoltes de qualité"}
+{"id":1504213,"jp":"極上のハーベストグリル","fr":"Grillade des récoltes supérieure"}
+{"id":1504215,"jp":"逸品のハーベストグリル","fr":"Grillade des récoltes d'exception"}
+{"id":1504217,"jp":"至高のハーベストグリル","fr":"Grillade des récoltes suprême"}
+{"id":1504219,"jp":"普通のカボチャ霊のケーキ","fr":"Gâteau de l'esprit citrouille ordinaire"}
+{"id":1504222,"jp":"上質なカボチャ霊のケーキ","fr":"Gâteau de l'esprit citrouille de qualité"}
+{"id":1504224,"jp":"極上のカボチャ霊のケーキ","fr":"Gâteau de l'esprit citrouille supérieur"}
+{"id":1504226,"jp":"逸品のカボチャ霊のケーキ","fr":"Gâteau de l'esprit citrouille d'exception"}
+{"id":1504228,"jp":"至高のカボチャ霊のケーキ","fr":"Gâteau de l'esprit citrouille suprême"}
+{"id":1504230,"jp":"普通のクロディキャンディ","fr":"Bonbon Clodi ordinaire"}
+{"id":1504233,"jp":"上質なクロディキャンディ","fr":"Bonbon Clodi de qualité"}
+{"id":1504235,"jp":"極上のクロディキャンディ","fr":"Bonbon Clodi supérieur"}
+{"id":1504237,"jp":"逸品のクロディキャンディ","fr":"Bonbon Clodi d'exception"}
+{"id":1504239,"jp":"至高のクロディキャンディ","fr":"Bonbon Clodi suprême"}
+{"id":1504241,"jp":"普通のハニーハーベスト","fr":"Récolte de miel ordinaire"}
+{"id":1504244,"jp":"上質なハニーハーベスト","fr":"Récolte de miel de qualité"}
+{"id":1504246,"jp":"極上のハニーハーベスト","fr":"Récolte de miel supérieure"}
+{"id":1504248,"jp":"逸品のハニーハーベスト","fr":"Récolte de miel d'exception"}
+{"id":1504250,"jp":"至高のハニーハーベスト","fr":"Récolte de miel suprême"}
+{"id":1504252,"jp":"普通のうっとりカボチャパン","fr":"Pain à la citrouille enchanteur ordinaire"}
+{"id":1504255,"jp":"上質なうっとりカボチャパン","fr":"Pain à la citrouille enchanteur de qualité"}
+{"id":1504257,"jp":"極上のうっとりカボチャパン","fr":"Pain à la citrouille enchanteur supérieur"}
+{"id":1504259,"jp":"逸品のうっとりカボチャパン","fr":"Pain à la citrouille enchanteur d'exception"}
+{"id":1504261,"jp":"至高のうっとりカボチャパン","fr":"Pain à la citrouille enchanteur suprême"}
 {"id":1504263,"jp":"普通の二色のペペアメ","fr":"Bonbon bicolore au Pepe ordinaire"}
 {"id":1504265,"jp":"上質な二色のペペアメ","fr":"Bonbon bicolore au Pepe de qualité"}
 {"id":1504266,"jp":"極上の二色のペペアメ","fr":"Bonbon bicolore au Pepe supérieur"}
 {"id":1504267,"jp":"逸品の二色のペペアメ","fr":"Bonbon bicolore au Pepe d'exception"}
 {"id":1504268,"jp":"至高の二色のペペアメ","fr":"Bonbon bicolore au Pepe suprême"}
+{"id":1504269,"jp":"ルルカの真心薬膳（改）","fr":"Plat médicinal de Luruka préparé avec amour (amélioré)"}
+{"id":1504270,"jp":"チーム全体の回復効果4%上昇（効果時間：300秒）","fr":"Augmente de 4 % l'efficacité des soins de toute l'équipe (durée : 300 s)"}
+{"id":1504272,"jp":"普通のルルカの特製料理","fr":"Plat spécial de Luruka ordinaire"}
+{"id":1504273,"jp":"チーム全体の回復効果6%上昇（効果時間：300秒）","fr":"Augmente de 6 % l'efficacité des soins de toute l'équipe (durée : 300 s)"}
+{"id":1504275,"jp":"上質なルルカの特製料理","fr":"Plat spécial de Luruka de qualité"}
+{"id":1504276,"jp":"チーム全体の回復効果6%上昇（効果時間：325秒）","fr":"Augmente de 6 % l'efficacité des soins de toute l'équipe (durée : 325 s)"}
+{"id":1504277,"jp":"極上のルルカの特製料理","fr":"Plat spécial de Luruka supérieur"}
+{"id":1504278,"jp":"チーム全体の回復効果6%上昇（効果時間：350秒）","fr":"Augmente de 6 % l'efficacité des soins de toute l'équipe (durée : 350 s)"}
+{"id":1504279,"jp":"逸品のルルカの特製料理","fr":"Plat spécial de Luruka d'exception"}
+{"id":1504280,"jp":"チーム全体の回復効果6%上昇（効果時間：375秒）","fr":"Augmente de 6 % l'efficacité des soins de toute l'équipe (durée : 375 s)"}
+{"id":1504281,"jp":"至高のルルカの特製料理","fr":"Plat spécial de Luruka suprême"}
+{"id":1504282,"jp":"チーム全体の回復効果6%上昇（効果時間：400秒）","fr":"Augmente de 6 % l'efficacité des soins de toute l'équipe (durée : 400 s)"}
+{"id":1504283,"jp":"普通の星臨者の野菜肉団子","fr":"Boulettes de viande aux légumes de l'Enfant des étoiles ordinaires"}
+{"id":1504285,"jp":"上質な星臨者の野菜肉団子","fr":"Boulettes de viande aux légumes de l'Enfant des étoiles de qualité"}
+{"id":1504286,"jp":"極上の星臨者の野菜肉団子","fr":"Boulettes de viande aux légumes de l'Enfant des étoiles supérieures"}
+{"id":1504287,"jp":"逸品の星臨者の野菜肉団子","fr":"Boulettes de viande aux légumes de l'Enfant des étoiles d'exception"}
+{"id":1504288,"jp":"至高の星臨者の野菜肉団子","fr":"Boulettes de viande aux légumes de l'Enfant des étoiles suprêmes"}
+{"id":1504289,"jp":"普通の蜜焼き潤いトマト","fr":"Tomate juteuse rôtie au miel ordinaire"}
+{"id":1504290,"jp":"チーム全体の攻撃力90上昇（効果時間：300秒）","fr":"Augmente de 90 l'ATQ de toute l'équipe (durée : 300 s)"}
+{"id":1504292,"jp":"上質な蜜焼き潤いトマト","fr":"Tomate juteuse rôtie au miel de qualité"}
+{"id":1504293,"jp":"チーム全体の攻撃力90上昇（効果時間：325秒）","fr":"Augmente de 90 l'ATQ de toute l'équipe (durée : 325 s)"}
+{"id":1504294,"jp":"極上の蜜焼き潤いトマト","fr":"Tomate juteuse rôtie au miel supérieure"}
+{"id":1504295,"jp":"チーム全体の攻撃力90上昇（効果時間：350秒）","fr":"Augmente de 90 l'ATQ de toute l'équipe (durée : 350 s)"}
+{"id":1504296,"jp":"逸品の蜜焼き潤いトマト","fr":"Tomate juteuse rôtie au miel d'exception"}
+{"id":1504297,"jp":"チーム全体の攻撃力90上昇（効果時間：375秒）","fr":"Augmente de 90 l'ATQ de toute l'équipe (durée : 375 s)"}
+{"id":1504298,"jp":"至高の蜜焼き潤いトマト","fr":"Tomate juteuse rôtie au miel suprême"}
+{"id":1504299,"jp":"チーム全体の攻撃力90上昇（効果時間：400秒）","fr":"Augmente de 90 l'ATQ de toute l'équipe (durée : 400 s)"}
 {"id":1504300,"jp":"金紅のスウィーティ","fr":"Douceur or et rouge"}
+{"id":1504302,"jp":"普通のホロホロ肉煮込み","fr":"Ragoût de viande fondante ordinaire"}
+{"id":1504305,"jp":"上質なホロホロ肉煮込み","fr":"Ragoût de viande fondante de qualité"}
+{"id":1504307,"jp":"極上のホロホロ肉煮込み","fr":"Ragoût de viande fondante supérieur"}
+{"id":1504309,"jp":"逸品のホロホロ肉煮込み","fr":"Ragoût de viande fondante d'exception"}
+{"id":1504311,"jp":"至高のホロホロ肉煮込み","fr":"Ragoût de viande fondante suprême"}
 {"id":1504313,"jp":"スイフトスフレ","fr":"Soufflé véloce"}
+{"id":1504314,"jp":"チーム全体の防御力25上昇（効果時間：300秒）","fr":"Augmente de 25 la DÉF de toute l'équipe (durée : 300 s)"}
 {"id":1504316,"jp":"普通のペペパイ","fr":"Tourte au Pepe ordinaire"}
 {"id":1504319,"jp":"上質なペペパイ","fr":"Tourte au Pepe de qualité"}
 {"id":1504321,"jp":"極上のペペパイ","fr":"Tourte au Pepe supérieure"}
 {"id":1504323,"jp":"逸品のペペパイ","fr":"Tourte au Pepe d'exception"}
 {"id":1504325,"jp":"至高のペペパイ","fr":"Tourte au Pepe suprême"}
+{"id":1504327,"jp":"普通の真珠ポテトピュレ","fr":"Purée de patates perlées ordinaire"}
+{"id":1504330,"jp":"上質な真珠ポテトピュレ","fr":"Purée de patates perlées de qualité"}
+{"id":1504332,"jp":"極上の真珠ポテトピュレ","fr":"Purée de patates perlées supérieure"}
+{"id":1504334,"jp":"逸品の真珠ポテトピュレ","fr":"Purée de patates perlées d'exception"}
+{"id":1504336,"jp":"至高の真珠ポテトピュレ","fr":"Purée de patates perlées suprême"}
 {"id":1504338,"jp":"普通の俊足焼き","fr":"Grillade véloce ordinaire"}
 {"id":1504341,"jp":"上質な俊足焼き","fr":"Grillade véloce de qualité"}
 {"id":1504343,"jp":"極上の俊足焼き","fr":"Grillade véloce supérieure"}
 {"id":1504345,"jp":"逸品の俊足焼き","fr":"Grillade véloce d'exception"}
 {"id":1504347,"jp":"至高の俊足焼き","fr":"Grillade véloce suprême"}
+{"id":1504349,"jp":"普通の蜜がけシンゲツイモ","fr":"Patate Nouvelle-Lune nappée de miel ordinaire"}
+{"id":1504351,"jp":"上質な蜜がけシンゲツイモ","fr":"Patate Nouvelle-Lune nappée de miel de qualité"}
+{"id":1504352,"jp":"極上の蜜がけシンゲツイモ","fr":"Patate Nouvelle-Lune nappée de miel supérieure"}
+{"id":1504353,"jp":"逸品の蜜がけシンゲツイモ","fr":"Patate Nouvelle-Lune nappée de miel d'exception"}
+{"id":1504354,"jp":"至高の蜜がけシンゲツイモ","fr":"Patate Nouvelle-Lune nappée de miel suprême"}
 {"id":1504355,"jp":"スリーフラワーデュー","fr":"Rosée aux trois fleurs"}
 {"id":1504358,"jp":"普通の宵越しの金麦","fr":"Blé doré de la veille ordinaire"}
 {"id":1504361,"jp":"上質な宵越しの金麦","fr":"Blé doré de la veille de qualité"}
@@ -7522,22 +8083,52 @@
 {"id":1504387,"jp":"逸品の豊作の悦び","fr":"Joie des récoltes d'exception"}
 {"id":1504389,"jp":"至高の豊作の悦び","fr":"Joie des récoltes suprême"}
 {"id":1504391,"jp":"ジュージュー塩焼き肉","fr":"Viande grillée au sel grésillante"}
+{"id":1504392,"jp":"チーム全体の攻撃力110上昇（効果時間：300秒）","fr":"Augmente de 110 l'ATQ de toute l'équipe (durée : 300 s)"}
 {"id":1504394,"jp":"普通の友愛団子","fr":"Dango de l'amitié ordinaire"}
 {"id":1504397,"jp":"上質な友愛団子","fr":"Dango de l'amitié de qualité"}
 {"id":1504399,"jp":"極上の友愛団子","fr":"Dango de l'amitié supérieur"}
 {"id":1504401,"jp":"逸品の友愛団子","fr":"Dango de l'amitié d'exception"}
 {"id":1504403,"jp":"至高の友愛団子","fr":"Dango de l'amitié suprême"}
 {"id":1504405,"jp":"普通の幸運の蒸しパン","fr":"Brioche vapeur porte-bonheur ordinaire"}
+{"id":1504406,"jp":"スターリンク成功率が少し上昇（効果時間：60秒）","fr":"Augmente légèrement le taux de réussite du Lien stellaire (durée : 60 s)"}
+{"id":1504407,"jp":"甘美な香りを放つお菓子。幸運を呼ぶと言われている。","fr":"Une confiserie au parfum délicieux. On raconte qu'elle porte bonheur."}
 {"id":1504408,"jp":"上質な幸運の蒸しパン","fr":"Brioche vapeur porte-bonheur de qualité"}
+{"id":1504409,"jp":"スターリンク成功率が少し上昇（効果時間：65秒）","fr":"Augmente légèrement le taux de réussite du Lien stellaire (durée : 65 s)"}
 {"id":1504410,"jp":"極上の幸運の蒸しパン","fr":"Brioche vapeur porte-bonheur supérieure"}
+{"id":1504411,"jp":"スターリンク成功率が少し上昇（効果時間：70秒）","fr":"Augmente légèrement le taux de réussite du Lien stellaire (durée : 70 s)"}
 {"id":1504412,"jp":"逸品の幸運の蒸しパン","fr":"Brioche vapeur porte-bonheur d'exception"}
+{"id":1504413,"jp":"スターリンク成功率が少し上昇（効果時間：75秒）","fr":"Augmente légèrement le taux de réussite du Lien stellaire (durée : 75 s)"}
 {"id":1504414,"jp":"至高の幸運の蒸しパン","fr":"Brioche vapeur porte-bonheur suprême"}
+{"id":1504415,"jp":"スターリンク成功率が少し上昇（効果時間：80秒）","fr":"Augmente légèrement le taux de réussite du Lien stellaire (durée : 80 s)"}
+{"id":1504416,"jp":"普通の潤いトマトのオムレツ","fr":"Omelette aux tomates juteuses ordinaire"}
+{"id":1504419,"jp":"上質な潤いトマトのオムレツ","fr":"Omelette aux tomates juteuses de qualité"}
+{"id":1504421,"jp":"極上の潤いトマトのオムレツ","fr":"Omelette aux tomates juteuses supérieure"}
+{"id":1504423,"jp":"逸品の潤いトマトのオムレツ","fr":"Omelette aux tomates juteuses d'exception"}
+{"id":1504425,"jp":"至高の潤いトマトのオムレツ","fr":"Omelette aux tomates juteuses suprême"}
+{"id":1504427,"jp":"普通のハチミツパンケーキ","fr":"Pancakes au miel ordinaires"}
+{"id":1504428,"jp":"チーム全体の防御力5%上昇（効果時間：300秒）","fr":"Augmente de 5 % la DÉF de toute l'équipe (durée : 300 s)"}
+{"id":1504430,"jp":"上質なハチミツパンケーキ","fr":"Pancakes au miel de qualité"}
+{"id":1504431,"jp":"チーム全体の防御力5%上昇（効果時間：325秒）","fr":"Augmente de 5 % la DÉF de toute l'équipe (durée : 325 s)"}
+{"id":1504432,"jp":"極上のハチミツパンケーキ","fr":"Pancakes au miel supérieurs"}
+{"id":1504433,"jp":"チーム全体の防御力5%上昇（効果時間：350秒）","fr":"Augmente de 5 % la DÉF de toute l'équipe (durée : 350 s)"}
+{"id":1504434,"jp":"逸品のハチミツパンケーキ","fr":"Pancakes au miel d'exception"}
+{"id":1504435,"jp":"チーム全体の防御力5%上昇（効果時間：375秒）","fr":"Augmente de 5 % la DÉF de toute l'équipe (durée : 375 s)"}
+{"id":1504436,"jp":"至高のハチミツパンケーキ","fr":"Pancakes au miel suprêmes"}
+{"id":1504437,"jp":"チーム全体の防御力5%上昇（効果時間：400秒）","fr":"Augmente de 5 % la DÉF de toute l'équipe (durée : 400 s)"}
+{"id":1504438,"jp":"普通の金麦ミルクの朝食","fr":"Petit déjeuner au blé doré et au lait ordinaire"}
+{"id":1504440,"jp":"上質な金麦ミルクの朝食","fr":"Petit déjeuner au blé doré et au lait de qualité"}
+{"id":1504442,"jp":"極上の金麦ミルクの朝食","fr":"Petit déjeuner au blé doré et au lait supérieur"}
+{"id":1504444,"jp":"逸品の金麦ミルクの朝食","fr":"Petit déjeuner au blé doré et au lait d'exception"}
+{"id":1504446,"jp":"至高の金麦ミルクの朝食","fr":"Petit déjeuner au blé doré et au lait suprême"}
 {"id":1504448,"jp":"アニマ","fr":"Anima"}
 {"id":1504449,"jp":"装備","fr":"Équipement"}
 {"id":1504450,"jp":"アイテム","fr":"Objets"}
 {"id":1504451,"jp":"クエストアイテム","fr":"Objet de quête"}
 {"id":1504452,"jp":"キボのタマゴ","fr":"Œuf de Kibo"}
 {"id":1504453,"jp":"星虹 交換","fr":"Échange Arc-en-ciel stellaire"}
+{"id":1504454,"jp":"無垢なる記憶の痕跡 交換","fr":"Échange de Traces de souvenirs immaculés"}
+{"id":1504455,"jp":"煌めく記憶の痕跡 交換","fr":"Échange de Traces de souvenirs scintillants"}
+{"id":1504456,"jp":"析光の記憶の痕跡 交換","fr":"Échange de Traces de souvenirs prismatiques"}
 {"id":1504457,"jp":"ランダムギフトパック","fr":"Pack cadeau aléatoire"}
 {"id":1504458,"jp":"選択式ギフトパック","fr":"Pack cadeau au choix"}
 {"id":1504459,"jp":"固定ギフトパック","fr":"Pack cadeau fixe"}
@@ -7561,6 +8152,7 @@
 {"id":1504477,"jp":"インゴット","fr":"Lingots"}
 {"id":1504478,"jp":"黄金作物","fr":"Récoltes dorées"}
 {"id":1504479,"jp":"料理素材","fr":"Ingrédients"}
+{"id":1504480,"jp":"キャラクター経験値素材","fr":"Matériaux d'EXP de personnage"}
 {"id":1504481,"jp":"霊子経験値素材","fr":"Matériau d'EXP de particules spirituelles"}
 {"id":1504482,"jp":"農園ペット関連","fr":"Animaux de la ferme"}
 {"id":1504483,"jp":"釣り竿","fr":"Canne à pêche"}
@@ -7568,21 +8160,31 @@
 {"id":1504485,"jp":"星賜","fr":"Don stellaire"}
 {"id":1504486,"jp":"除去符","fr":"Talisman de retrait"}
 {"id":1504487,"jp":"交換符","fr":"Talisman d'échange"}
+{"id":1504488,"jp":"キャラクターの調律アイテム","fr":"Objets d'Accordage de personnage"}
+{"id":1504489,"jp":"初期3体キボ成長素材特別入手","fr":"Obtention spéciale de matériaux d'évolution des 3 Kibo de départ"}
 {"id":1504490,"jp":"キボ育成アイテム","fr":"Objets d'élevage de Kibo"}
 {"id":1504491,"jp":"ガチャチケット","fr":"Ticket de tirage"}
+{"id":1504492,"jp":"緑チケット・黄チケット","fr":"Tickets verts et jaunes"}
 {"id":1504493,"jp":"セット共通素材","fr":"Matériaux de set communs"}
 {"id":1504494,"jp":"セット専用素材","fr":"Matériaux de set dédiés"}
 {"id":1504495,"jp":"指定素材","fr":"Matériaux désignés"}
+{"id":1504496,"jp":"キャラクター突破｜アニマ突破｜スキルレベルアップ","fr":"Percée de personnage｜Percée d'Anima｜Hausse de niveau de compétence"}
 {"id":1504497,"jp":"キャラクター突破素材","fr":"Matériaux de percée de personnage"}
+{"id":1504498,"jp":"スキルレベルアップ素材","fr":"Matériaux de hausse de niveau de compétence"}
 {"id":1504499,"jp":"アニマ突破素材","fr":"Matériaux de percée d'Anima"}
+{"id":1504500,"jp":"スキルレベルアップ素材2","fr":"Matériaux de hausse de niveau de compétence 2"}
 {"id":1504501,"jp":"星祝ランク突破素材","fr":"Matériaux de percée de rang de Bénédiction stellaire"}
 {"id":1504502,"jp":"薬剤","fr":"Remèdes"}
 {"id":1504503,"jp":"廃止された料理レシピ","fr":"Recettes abandonnées"}
 {"id":1504504,"jp":"その他","fr":"Autres"}
 {"id":1504505,"jp":"旅路のポイント","fr":"Points de voyage"}
+{"id":1504506,"jp":"アニマ共通星アップ素材","fr":"Matériaux universels de hausse du nombre d'étoiles des Anima"}
 {"id":1504507,"jp":"装備製作素材","fr":"Matériaux de fabrication d'équipement"}
 {"id":1504508,"jp":"ダンジョン入場券","fr":"Billet d'entrée de donjon"}
 {"id":1504509,"jp":"心得アイテム","fr":"Objets de savoir-faire"}
+{"id":1504510,"jp":"月額パス交換アイテム（専用アイテム）","fr":"Objet d'échange du pass mensuel (objet exclusif)"}
+{"id":1504511,"jp":"上級パス交換アイテム（専用アイテム）","fr":"Objet d'échange du pass avancé (objet exclusif)"}
+{"id":1504512,"jp":"豪華パス交換アイテム（専用アイテム）","fr":"Objet d'échange du pass deluxe (objet exclusif)"}
 {"id":1504513,"jp":"共通","fr":"Général"}
 {"id":1504514,"jp":"食物","fr":"Nourriture"}
 {"id":1504515,"jp":"開く","fr":"Ouvrir"}
@@ -7592,17 +8194,45 @@
 {"id":1504519,"jp":"強化","fr":"Améliorer"}
 {"id":1504520,"jp":"孵化","fr":"Faire éclore"}
 {"id":1504521,"jp":"お別れ","fr":"Dire au revoir"}
+{"id":1504522,"jp":"メインストーリーを進めてください。","fr":"Veuillez progresser dans l'histoire principale."}
+{"id":1504523,"jp":"この機能は未解放です。","fr":"Cette fonctionnalité n'est pas encore débloquée."}
+{"id":1504524,"jp":"現在この商品は購入できません。","fr":"Cet article ne peut pas être acheté actuellement."}
+{"id":1504525,"jp":"このイベントは開催されていません。","fr":"Cet événement n'est pas en cours."}
+{"id":1504526,"jp":"このクエストは受注していません。","fr":"Vous n'avez pas accepté cette quête."}
+{"id":1504527,"jp":"メインストーリークエストを進めてください。","fr":"Veuillez progresser dans les quêtes de l'histoire principale."}
+{"id":1504528,"jp":"建築条件が解除されていません。","fr":"Les conditions de construction ne sont pas remplies."}
+{"id":1504529,"jp":"ステージは解放されていません。","fr":"Ce niveau n'est pas encore débloqué."}
+{"id":1504530,"jp":"指定の星識レベルに到達すると解放","fr":"Se débloque au niveau de Savoir stellaire requis"}
 {"id":1504532,"jp":"畑","fr":"Champ"}
 {"id":1504534,"jp":"農園に畑がありません","fr":"La ferme n'a aucun champ"}
+{"id":1504535,"jp":"メインストーリー第一章クリア後に解放","fr":"Se débloque après avoir terminé le chapitre 1 de l'histoire principale"}
 {"id":1504536,"jp":"レベル40で解放","fr":"Débloqué au niveau 40"}
+{"id":1504537,"jp":"農園心得レベルを上げると、この建物を解放できます。","fr":"Augmentez votre niveau de savoir-faire de la ferme pour débloquer ce bâtiment."}
+{"id":1504544,"jp":"農園に作業台がありません。","fr":"Votre ferme ne dispose pas d'établi."}
+{"id":1504545,"jp":"農園に共鳴の石台がありません。","fr":"Votre ferme ne dispose pas de socle de résonance."}
+{"id":1504546,"jp":"星識レベル10が必要です。","fr":"Niveau de Savoir stellaire 10 requis."}
+{"id":1504547,"jp":"星識レベル2が必要です。","fr":"Niveau de Savoir stellaire 2 requis."}
+{"id":1504549,"jp":"星識レベル15が必要です。","fr":"Niveau de Savoir stellaire 15 requis."}
+{"id":1504550,"jp":"農園に工作工房がありません。","fr":"Votre ferme ne dispose pas d'atelier de fabrication."}
+{"id":1504551,"jp":"農園に精錬所がありません。","fr":"Votre ferme ne dispose pas de raffinerie."}
+{"id":1504552,"jp":"農園に溶鉱炉がありません。","fr":"Votre ferme ne dispose pas de four de fusion."}
+{"id":1504553,"jp":"農園に紡ぎ車がありません。","fr":"Votre ferme ne dispose pas de rouet."}
+{"id":1504554,"jp":"農園に織物工房がありません。","fr":"Votre ferme ne dispose pas d'atelier de tissage."}
+{"id":1504555,"jp":"農園に錬金台がありません。","fr":"Votre ferme ne dispose pas de table d'alchimie."}
+{"id":1504556,"jp":"農園に調理鍋がありません。","fr":"Votre ferme ne dispose pas de marmite."}
+{"id":1504557,"jp":"農園に武器工房がありません。","fr":"Votre ferme ne dispose pas d'atelier d'armes."}
 {"id":1504558,"jp":"星識レベル20で解放","fr":"Débloqué au niveau 20 de Savoir stellaire"}
 {"id":1504559,"jp":"星識レベル45で解放","fr":"Débloqué au niveau 45 de Savoir stellaire"}
+{"id":1504560,"jp":"農園に調理場がありません。","fr":"Votre ferme ne dispose pas de cuisine."}
+{"id":1504561,"jp":"イベントは解放されていません。","fr":"Cet événement n'est pas encore débloqué."}
+{"id":1504562,"jp":"このキボはまだ発見されていません。","fr":"Ce Kibo n'a pas encore été découvert."}
 {"id":1504563,"jp":"情報確認","fr":"Voir le profil"}
 {"id":1504564,"jp":"メモ編集","fr":"Modifier la note"}
 {"id":1504565,"jp":"個人チャットブロック","fr":"Bloquer les messages privés"}
 {"id":1504566,"jp":"ブロックリスト追加","fr":"Ajouter aux bloqués"}
 {"id":1504567,"jp":"フレンド削除","fr":"Retirer des amis"}
 {"id":1504568,"jp":"通報","fr":"Signaler"}
+{"id":1504569,"jp":"他プレイヤーの農園を訪問する","fr":"Visiter la ferme d'un autre joueur"}
 {"id":1504570,"jp":"フレンド追加","fr":"Ajouter un ami"}
 {"id":1504571,"jp":"リーダー権限譲渡","fr":"Céder le rôle de chef"}
 {"id":1504572,"jp":"編成確認","fr":"Voir l'équipe"}
@@ -7703,33 +8333,57 @@
 {"id":1504668,"jp":"マスク","fr":"Masque"}
 {"id":1504669,"jp":"秘虹晶","fr":"Cristal d'arc-en-ciel secret"}
 {"id":1504671,"jp":"ユニ","fr":"Uni"}
+{"id":1504672,"jp":"プロミリアで流通している通貨。","fr":"Une monnaie en circulation à travers Promilia."}
+{"id":1504674,"jp":"デイリー依頼-銀の輝きⅠ","fr":"Mission quotidienne - Éclat d'argent I"}
+{"id":1504675,"jp":"デイリー依頼-銀の輝きⅡ","fr":"Mission quotidienne - Éclat d'argent II"}
+{"id":1504676,"jp":"デイリー依頼-銀の輝きⅢ","fr":"Mission quotidienne - Éclat d'argent III"}
+{"id":1504677,"jp":"デイリー依頼-銀の輝きⅣ","fr":"Mission quotidienne - Éclat d'argent IV"}
+{"id":1504678,"jp":"デイリー依頼-銀の輝きⅤ","fr":"Mission quotidienne - Éclat d'argent V"}
+{"id":1504679,"jp":"デイリー依頼-銀の輝きⅥ","fr":"Mission quotidienne - Éclat d'argent VI"}
+{"id":1504681,"jp":"はじまりは海であり、すべての生命はここで育まれた。","fr":"Au commencement était la mer, berceau de toute vie."}
 {"id":1504682,"jp":"好感度","fr":"Affinité"}
 {"id":1504686,"jp":"星啓経験値","fr":"EXP de Révélation stellaire"}
 {"id":1504690,"jp":"アニマ経験値","fr":"EXP d'Anima"}
 {"id":1504691,"jp":"キボ経験値","fr":"EXP de Kibo"}
+{"id":1504693,"jp":"汎用キャラクター経験値","fr":"EXP universelle de personnage"}
 {"id":1504694,"jp":"リンクの力","fr":"Force de liaison"}
+{"id":1504695,"jp":"星脈は繋がりの種をまく。","fr":"Les veines stellaires sèment les graines des liens qui nous unissent."}
 {"id":1504697,"jp":"パス経験値","fr":"EXP du passe"}
 {"id":1504698,"jp":"キボのネームタグ","fr":"Plaque nominative de Kibo"}
+{"id":1504701,"jp":"キボとお別れすることで入手","fr":"À obtenir en faisant ses adieux à un Kibo"}
 {"id":1504702,"jp":"輝くコイン","fr":"Pièce scintillante"}
 {"id":1504705,"jp":"農園の取引所で獲得","fr":"Obtenu au comptoir d'échange de la ferme"}
 {"id":1504706,"jp":"災厄の残影","fr":"Ombre du fléau"}
 {"id":1504708,"jp":"幻彩の流砂","fr":"Sable mouvant prismatique"}
+{"id":1504711,"jp":"星彩または異彩キボとお別れして獲得","fr":"À obtenir en faisant ses adieux à un Kibo étoilé ou Variante"}
 {"id":1504712,"jp":"星虹","fr":"Arc-en-ciel stellaire"}
 {"id":1504714,"jp":"工業ポイント","fr":"Points d'industrie"}
+{"id":1504716,"jp":"職工の心得の熟練度上昇で入手","fr":"À obtenir en améliorant la maîtrise du savoir-faire artisanal"}
 {"id":1504717,"jp":"農業ポイント","fr":"Points d'agriculture"}
+{"id":1504719,"jp":"畑仕事の心得の熟練度上昇で入手","fr":"À obtenir en améliorant la maîtrise du savoir-faire des Travaux des champs"}
 {"id":1504720,"jp":"採集ポイント","fr":"Points de cueillette"}
+{"id":1504722,"jp":"収穫の心得の熟練度上昇で入手","fr":"À obtenir en améliorant la maîtrise du savoir-faire de récolte"}
 {"id":1504723,"jp":"牧畜ポイント","fr":"Points d'élevage"}
+{"id":1504725,"jp":"牧畜の心得の熟練度上昇で入手","fr":"À obtenir en améliorant la maîtrise du savoir-faire d'élevage"}
 {"id":1504726,"jp":"心得ポイント","fr":"Points de savoir-faire"}
+{"id":1504728,"jp":"幾多の冒険、生産、修練のなかで得た様々な心得。","fr":"Divers savoir-faire acquis au fil d'innombrables aventures, travaux de production et entraînements."}
+{"id":1504729,"jp":"天賦の心得をアクティブにする","fr":"Activer les savoir-faire innés"}
 {"id":1504730,"jp":"晶鍵石","fr":"Pierre-clé de cristal"}
 {"id":1504733,"jp":"異彩の晶鍵石","fr":"Pierre-clé de cristal Variante"}
 {"id":1504736,"jp":"晶鍵石の欠片","fr":"Fragment de pierre-clé de cristal"}
 {"id":1504739,"jp":"危機討伐報酬","fr":"Récompense de Traque de crise"}
+{"id":1504740,"jp":"シャルル村の取引評判ポイント","fr":"Points de réputation commerciale du Village de Charlulu"}
+{"id":1504743,"jp":"都市国家フリスの取引評判ポイント","fr":"Points de réputation commerciale de la Cité-État de Fleece"}
 {"id":1504744,"jp":"晦冥の星砂","fr":"Sable stellaire des ténèbres"}
 {"id":1504747,"jp":"天道の余塵","fr":"Poussière de la Voie céleste"}
+{"id":1504748,"jp":"風隠れ岩の取引評判ポイント","fr":"Points de réputation commerciale du Roc Coupe-Vent"}
+{"id":1504749,"jp":"芽吹の谷のファイト経験","fr":"EXP de combat de la Vallée des Bourgeons"}
 {"id":1504750,"jp":"フリスのファイト経験","fr":"Expérience de duel de Fleece"}
 {"id":1504751,"jp":"形なき星屑","fr":"Poussière d'étoiles informe"}
+{"id":1504752,"jp":"武器に含まれる星屑。装備の鋳造と同調に用いられる。","fr":"De la poussière d'étoiles contenue dans les armes. Sert à la fabrication et à la Synchronie des équipements."}
 {"id":1504754,"jp":"装備分解","fr":"Démanteler l'équipement"}
 {"id":1504755,"jp":"地元素の微粒子","fr":"Particules élémentaires de Terre"}
+{"id":1504757,"jp":"大地の元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Terre."}
 {"id":1504758,"jp":"農園-元素祭壇","fr":"Ferme - Autel élémentaire"}
 {"id":1504759,"jp":"フィールド探索で入手","fr":"Obtenu en explorant les zones"}
 {"id":1504760,"jp":"農園-元素石炉","fr":"Ferme - Four de pierre élémentaire"}
@@ -7744,6 +8398,7 @@
 {"id":1504769,"jp":"メイン依頼4-9","fr":"Mission principale 4-9"}
 {"id":1504770,"jp":"メイン依頼4-10","fr":"Mission principale 4-10"}
 {"id":1504771,"jp":"水元素の微粒子","fr":"Particules élémentaires d'Eau"}
+{"id":1504773,"jp":"水元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Eau."}
 {"id":1504774,"jp":"メイン依頼1-2","fr":"Mission principale 1-2"}
 {"id":1504775,"jp":"メイン依頼1-5","fr":"Mission principale 1-5"}
 {"id":1504776,"jp":"メイン依頼2-3","fr":"Mission principale 2-3"}
@@ -7752,6 +8407,7 @@
 {"id":1504779,"jp":"メイン依頼4-1","fr":"Mission principale 4-1"}
 {"id":1504780,"jp":"メイン依頼4-7","fr":"Mission principale 4-7"}
 {"id":1504781,"jp":"火元素の微粒子","fr":"Particules élémentaires de Feu"}
+{"id":1504783,"jp":"火元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Feu."}
 {"id":1504784,"jp":"メイン依頼1-7","fr":"Mission principale 1-7"}
 {"id":1504785,"jp":"メイン依頼2-2","fr":"Mission principale 2-2"}
 {"id":1504786,"jp":"メイン依頼2-6","fr":"Mission principale 2-6"}
@@ -7759,26 +8415,40 @@
 {"id":1504788,"jp":"メイン依頼4-3","fr":"Mission principale 4-3"}
 {"id":1504789,"jp":"メイン依頼4-8","fr":"Mission principale 4-8"}
 {"id":1504790,"jp":"風元素の微粒子","fr":"Particules élémentaires de Vent"}
+{"id":1504792,"jp":"風元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Vent."}
 {"id":1504793,"jp":"メイン依頼1-4","fr":"Mission principale 1-4"}
 {"id":1504794,"jp":"メイン依頼1-8","fr":"Mission principale 1-8"}
 {"id":1504795,"jp":"メイン依頼2-5","fr":"Mission principale 2-5"}
 {"id":1504796,"jp":"氷元素の微粒子","fr":"Particules élémentaires de Glace"}
+{"id":1504798,"jp":"氷元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Glace."}
 {"id":1504799,"jp":"メイン依頼1-1","fr":"Mission principale 1-1"}
 {"id":1504800,"jp":"メイン依頼3-1","fr":"Mission principale 3-1"}
 {"id":1504801,"jp":"メイン依頼4-4","fr":"Mission principale 4-4"}
 {"id":1504802,"jp":"雷元素の微粒子","fr":"Particules élémentaires de Foudre"}
+{"id":1504804,"jp":"雷元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Foudre."}
 {"id":1504805,"jp":"木元素の微粒子","fr":"Particules élémentaires de Bois"}
+{"id":1504807,"jp":"木元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Bois."}
 {"id":1504808,"jp":"メイン依頼1-6","fr":"Mission principale 1-6"}
 {"id":1504809,"jp":"メイン依頼2-1","fr":"Mission principale 2-1"}
 {"id":1504810,"jp":"メイン依頼4-2","fr":"Mission principale 4-2"}
 {"id":1504811,"jp":"光元素の微粒子","fr":"Particules élémentaires de Lumière"}
+{"id":1504813,"jp":"光元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Lumière."}
 {"id":1504814,"jp":"闇元素の微粒子","fr":"Particules élémentaires de Ténèbres"}
+{"id":1504816,"jp":"闇元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Ténèbres."}
 {"id":1504817,"jp":"元素の微粒子","fr":"Particules élémentaires"}
+{"id":1504819,"jp":"元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance des éléments."}
 {"id":1504820,"jp":"縁の結び","fr":"Nœud du destin"}
 {"id":1504822,"jp":"狩猟ポイント","fr":"Points de chasse"}
+{"id":1504823,"jp":"エンディングを迎えると獲得できる。","fr":"À obtenir en atteignant le dénouement."}
 {"id":1504825,"jp":"流光の欠片","fr":"Fragment de lumière filante"}
+{"id":1504826,"jp":"「星灯り交換所」で報酬と交換できる。","fr":"Échangeable contre des récompenses au « Comptoir Lumière des étoiles »."}
+{"id":1504828,"jp":"イベント-花逢ひの縁契りて","fr":"Événement - Liens scellés sous les fleurs"}
+{"id":1504829,"jp":"イベント-刃鳴散る！狩猟の祭典","fr":"Événement - Que résonnent les lames ! Festival de la chasse"}
 {"id":1504830,"jp":"イベント-御霊の戦歌","fr":"Événement - Chant de guerre des Esprits anciens"}
 {"id":1504831,"jp":"農園経験値","fr":"EXP de la ferme"}
+{"id":1504832,"jp":"農園で作業することで得られる経験値","fr":"EXP obtenue en travaillant à la ferme"}
+{"id":1504833,"jp":"幻域獣スターリンクチケット","fr":"Ticket de Lien stellaire des bêtes du royaume illusoire"}
+{"id":1504834,"jp":"幻域獣のスターリンク回数を追加で1回獲得できる。","fr":"Accorde 1 tentative supplémentaire de Lien stellaire avec une bête du royaume illusoire."}
 {"id":1504835,"jp":"スキル","fr":"Compétence"}
 {"id":1504836,"jp":"遠吠え平原","fr":"Plaines hurlantes"}
 {"id":1504837,"jp":"風導の森","fr":"Forêt du Vent-Guide"}
@@ -7802,7 +8472,11 @@
 {"id":1504855,"jp":"スコア3000達成","fr":"Atteindre un score de 3000"}
 {"id":1504856,"jp":"スコア4500達成","fr":"Atteindre un score de 4500"}
 {"id":1504857,"jp":"スコア6000達成","fr":"Atteindre un score de 6000"}
+{"id":1504858,"jp":"守護対象のHPが50%を超えている","fr":"Les PV de la cible à protéger dépassent 50 %"}
+{"id":1504859,"jp":"守護対象のHPが70%を超えている","fr":"Les PV de la cible à protéger dépassent 70 %"}
+{"id":1504860,"jp":"守護対象のHPが90%を超えている","fr":"Les PV de la cible à protéger dépassent 90 %"}
 {"id":1504861,"jp":"うるさすぎる","fr":"Beaucoup trop bruyant"}
+{"id":1504862,"jp":"推奨レベル：Lv.20","fr":"Niveau recommandé : Niv. 20"}
 {"id":1504863,"jp":"トゥラゴ","fr":"Turago"}
 {"id":1504865,"jp":"すべての敵を倒す","fr":"Vaincre tous les ennemis"}
 {"id":1504866,"jp":"危険な輸送ルート","fr":"Une route de transport dangereuse"}
@@ -7836,6 +8510,7 @@
 {"id":1504907,"jp":"バルロン","fr":"Barlon"}
 {"id":1504909,"jp":"偵察","fr":"Reconnaissance"}
 {"id":1504910,"jp":"ロンク","fr":"Ronk"}
+{"id":1504912,"jp":"……何匹か残してくれない？","fr":"… On pourrait en laisser quelques-uns ?"}
 {"id":1504913,"jp":"タミ","fr":"Tami"}
 {"id":1504915,"jp":"訓練の邪魔","fr":"Entraînement perturbé"}
 {"id":1504916,"jp":"パルカ","fr":"Parka"}
@@ -7854,17 +8529,24 @@
 {"id":1504936,"jp":"ついでに香草を","fr":"Des herbes aromatiques en passant"}
 {"id":1504938,"jp":"蝶で肩慣らし","fr":"Échauffement avec des papillons"}
 {"id":1504939,"jp":"レイヴァ","fr":"Reiva"}
+{"id":1504941,"jp":"熱すぎる、でも食べたい","fr":"C'est trop chaud, mais j'ai envie d'y goûter"}
 {"id":1504942,"jp":"ミドゥ","fr":"Midu"}
+{"id":1504944,"jp":"海草を拾うつもりだったのに","fr":"Je voulais juste ramasser des algues"}
 {"id":1504946,"jp":"あとで恨むなよ！","fr":"Ne viens pas te plaindre après !"}
+{"id":1504948,"jp":"シャドウブレイズの悪影響","fr":"La mauvaise influence de Shadowblaze"}
+{"id":1504950,"jp":"せっかくの陽気が台無し","fr":"Quel gâchis par un si beau temps"}
 {"id":1504952,"jp":"なんどでも立ち上がる","fr":"Se relever encore et encore"}
 {"id":1504954,"jp":"あまり驚かせるな","fr":"Pas trop de frayeurs"}
 {"id":1504956,"jp":"桟橋が壊れた","fr":"La jetée est cassée"}
 {"id":1504958,"jp":"ピカピカ光る","fr":"Ça scintille"}
 {"id":1504959,"jp":"ウゾン","fr":"Uzon"}
 {"id":1504961,"jp":"ゴロゴロ響く","fr":"Ça gronde"}
+{"id":1504963,"jp":"ぶたさん、ぶつからないで","fr":"Petits cochons, ne me bousculez pas"}
 {"id":1504964,"jp":"リナ","fr":"Rina"}
+{"id":1504966,"jp":"実はこっちから手を出した","fr":"En fait, c'est moi qui ai commencé"}
 {"id":1504968,"jp":"こいつらで準備運動だ","fr":"Échauffement sur ces bestioles"}
 {"id":1504970,"jp":"緊急の懸賞","fr":"Prime urgente"}
+{"id":1504972,"jp":"まずは蝶の群れを追い払おう","fr":"Chassons d'abord les papillons"}
 {"id":1504973,"jp":"ラクシャ","fr":"Raksha"}
 {"id":1504975,"jp":"風と舞う","fr":"Danser avec le vent"}
 {"id":1504977,"jp":"光が集まっている","fr":"La lumière se rassemble"}
@@ -7943,14 +8625,25 @@
 {"id":1505058,"jp":"双翼の舞","fr":"Danse des ailes jumelles"}
 {"id":1505059,"jp":"ルダリス","fr":"Rudalis"}
 {"id":1505060,"jp":"高個体値確率+","fr":"Chance de haut potentiel +"}
+{"id":1505061,"jp":"<color=#62749d>資質</color>","fr":"<color=#62749d>Aptitude</color>"}
+{"id":1505062,"jp":"より資質の高い個体が孵化する確率がアップ。","fr":"Hausse de la probabilité d'éclosion d'un individu aux aptitudes supérieures."}
 {"id":1505063,"jp":"高個体値確定","fr":"Haut potentiel garanti"}
+{"id":1505064,"jp":"より資質の高い個体が孵化する。","fr":"Garantit l'éclosion d'un individu aux aptitudes supérieures."}
 {"id":1505065,"jp":"普通の異彩確率+","fr":"Chance de Variante ordinaire +"}
+{"id":1505066,"jp":"<color=#62749d>異彩</color>","fr":"<color=#62749d>Variante</color>"}
+{"id":1505067,"jp":"異彩の個体が孵化する確率がアップ。","fr":"Hausse de la probabilité d'éclosion d'un individu Variante."}
 {"id":1505068,"jp":"異彩確定","fr":"Variante garantie"}
+{"id":1505069,"jp":"異彩の個体が孵化する。","fr":"Garantit l'éclosion d'un individu Variante."}
 {"id":1505070,"jp":"輝く確率+","fr":"Chance de brillant +"}
+{"id":1505071,"jp":"<color=#6d5c4e>輝く</color>","fr":"<color=#6d5c4e>Scintillant</color>"}
+{"id":1505072,"jp":"輝く個体が孵化する確率がアップ。","fr":"Hausse de la probabilité d'éclosion d'un individu scintillant."}
 {"id":1505073,"jp":"輝く確定","fr":"Brillant garanti"}
 {"id":1505074,"jp":"輝く個体が孵化する。","fr":"Fait éclore un individu brillant."}
 {"id":1505075,"jp":"星彩確率+","fr":"Chance d'Étoilé +"}
+{"id":1505076,"jp":"<color=#615a7e>星彩</color>","fr":"<color=#615a7e>Étoilé</color>"}
+{"id":1505077,"jp":"星彩の個体が孵化する確率がアップ。","fr":"Hausse de la probabilité d'éclosion d'un individu étoilé."}
 {"id":1505078,"jp":"星彩確定","fr":"Étoilé garanti"}
+{"id":1505079,"jp":"星彩の個体が孵化する。","fr":"Garantit l'éclosion d'un individu étoilé."}
 {"id":1505080,"jp":"レア異彩確率+","fr":"Chance de Variante rare +"}
 {"id":1505081,"jp":"レア異彩確定","fr":"Variante rare garantie"}
 {"id":1505082,"jp":"レア星彩確率+","fr":"Chance d'Étoilé rare +"}
@@ -8021,6 +8714,9 @@
 {"id":1505376,"jp":"偽仙狐","fr":"Faux renard céleste"}
 {"id":1505377,"jp":"かかしを守る","fr":"Protéger l'épouvantail"}
 {"id":1505378,"jp":"怨念に満ちたボマーク","fr":"Bomark rancunier"}
+{"id":1505380,"jp":"怨念に満ちたボールモウ","fr":"Ballmow rancunier"}
+{"id":1505381,"jp":"怨念に満ちた赤蠍団の暴漢","fr":"Brute rancunière des Scorpions rouges"}
+{"id":1505382,"jp":"怨念に満ちた赤蠍団の戦士","fr":"Guerrier rancunier des Scorpions rouges"}
 {"id":1505383,"jp":"アクリ","fr":"Akuri"}
 {"id":1505384,"jp":"ヤアル","fr":"Yaal"}
 {"id":1505385,"jp":"グーグ","fr":"Guug"}
@@ -8035,6 +8731,8 @@
 {"id":1505394,"jp":"ザンク","fr":"Zank"}
 {"id":1505395,"jp":"ジュカ","fr":"Juka"}
 {"id":1505396,"jp":"リンカ","fr":"Rinka"}
+{"id":1505397,"jp":"臆病な赤蠍団のメンバー","fr":"Membre lâche des Scorpions rouges"}
+{"id":1505398,"jp":"そそっかしい赤蠍団のメンバー","fr":"Membre maladroit des Scorpions rouges"}
 {"id":1505399,"jp":"モール","fr":"Mole"}
 {"id":1505400,"jp":"キアラ","fr":"Kiara"}
 {"id":1505401,"jp":"星彩のガヤック","fr":"Gayak étoilé"}
@@ -8043,18 +8741,220 @@
 {"id":1505412,"jp":"フレイムラーガ","fr":"Flameraga"}
 {"id":1505414,"jp":"禍津丸","fr":"Magatsumaru"}
 {"id":1505416,"jp":"操作が完了しました。","fr":"Opération terminée."}
+{"id":1505417,"jp":"交代対象のキボは力尽きています。","fr":"Le Kibo de remplacement est K.O."}
 {"id":1505418,"jp":"不明なチャネルです。","fr":"Canal inconnu."}
 {"id":1505419,"jp":"認証に失敗しました。","fr":"Échec de l'authentification."}
+{"id":1505420,"jp":"タイムアウトしました。","fr":"Délai d'attente dépassé."}
+{"id":1505421,"jp":"利用が停止されています。","fr":"L'accès est suspendu."}
+{"id":1505422,"jp":"サーバーはメンテナンス中です。","fr":"Le serveur est en maintenance."}
+{"id":1505423,"jp":"リソースの更新が必要です。","fr":"Une mise à jour des ressources est nécessaire."}
+{"id":1505424,"jp":"登録が上限に達しています。","fr":"La limite d'inscriptions a été atteinte."}
+{"id":1505426,"jp":"セッションが無効になりました。","fr":"La session n'est plus valide."}
+{"id":1505427,"jp":"プラットフォームの応答エラーの解析に失敗しました。","fr":"Échec de l'analyse de la réponse d'erreur de la plateforme."}
+{"id":1505428,"jp":"サーバーメンテナンス中です。","fr":"Le serveur est en maintenance."}
+{"id":1505429,"jp":"データベースシステムにエラーが発生しました。","fr":"Une erreur est survenue dans le système de base de données."}
+{"id":1505430,"jp":"ゲームサーバーにシステムエラーが発生しました。","fr":"Une erreur système est survenue sur le serveur de jeu."}
+{"id":1505431,"jp":"対戦サーバーにシステムエラーが発生しました。","fr":"Une erreur système est survenue sur le serveur de combat."}
+{"id":1505432,"jp":"サーバー間連携システムでエラーが発生しました。","fr":"Une erreur est survenue dans le système de Coordination entre serveurs."}
+{"id":1505433,"jp":"システムが大変混み合っています。","fr":"Le système est actuellement surchargé."}
+{"id":1505434,"jp":"GMサーバーにシステムエラーが発生しました。","fr":"Une erreur système est survenue sur le serveur GM."}
+{"id":1505435,"jp":"ゲームサーバーの設定に誤りがあります。","fr":"La configuration du serveur de jeu est incorrecte."}
+{"id":1505436,"jp":"指定されたサーバーが見つかりません。","fr":"Le serveur indiqué est introuvable."}
+{"id":1505437,"jp":"チャットサーバーでシステムエラーが発生しました。","fr":"Une erreur système est survenue sur le serveur de chat."}
+{"id":1505438,"jp":"推奨サーバーにシステムエラーが発生しました。","fr":"Une erreur système est survenue sur le serveur recommandé."}
+{"id":1505439,"jp":"ただいまサーバーに接続できません。","fr":"Impossible de se connecter au serveur actuellement."}
+{"id":1505440,"jp":"データベースが見つかりません。","fr":"Base de données introuvable."}
+{"id":1505441,"jp":"プロトコル番号が存在しません。","fr":"Le numéro de protocole n'existe pas."}
+{"id":1505442,"jp":"プロトコルの形式が正しくありません。","fr":"Le format du protocole est invalide."}
+{"id":1505443,"jp":"応答パケットの生成に失敗しました。","fr":"Échec de la génération du paquet de réponse."}
+{"id":1505444,"jp":"リクエストパラメータに誤りがあります。","fr":"Les paramètres de la requête sont incorrects."}
+{"id":1505445,"jp":"不正なプレイヤーIDです。","fr":"ID de joueur invalide."}
+{"id":1505447,"jp":"指定されたニックネームのプレイヤーは存在しません。","fr":"Aucun joueur ne possède le pseudonyme indiqué."}
+{"id":1505448,"jp":"指定されたIDのプレイヤーが存在しません。","fr":"Aucun joueur ne correspond à l'ID indiqué."}
 {"id":1505449,"jp":"不正なロジックです。","fr":"Logique invalide."}
+{"id":1505450,"jp":"不正なターゲットです。","fr":"Cible invalide."}
+{"id":1505451,"jp":"指定されたチャンネルが存在しません。","fr":"Le canal indiqué n'existe pas."}
 {"id":1505452,"jp":"不正な時間です。","fr":"Heure invalide."}
+{"id":1505453,"jp":"不正なリクエストです。","fr":"Requête invalide."}
+{"id":1505454,"jp":"リクエストの有効期限が切れています。","fr":"La requête a expiré."}
+{"id":1505457,"jp":"リクエストの送信頻度が高すぎます。","fr":"Les requêtes sont envoyées trop fréquemment."}
+{"id":1505458,"jp":"クライアント側でログイン処理を再開してください。","fr":"Veuillez relancer le processus de connexion depuis le client."}
 {"id":1505459,"jp":"復号に失敗しました。","fr":"Échec du déchiffrement."}
+{"id":1505460,"jp":"メッセージのシーケンス番号に誤りがあります。","fr":"Le numéro de séquence du message est incorrect."}
+{"id":1505461,"jp":"プラットフォームの認証に失敗しました。","fr":"Échec de l'authentification auprès de la plateforme."}
 {"id":1505462,"jp":"廃棄済み","fr":"Jeté"}
+{"id":1505463,"jp":"古いサーバーバージョンです。","fr":"La version du serveur est obsolète."}
+{"id":1505464,"jp":"この機能は現在一時停止中です。","fr":"Cette fonctionnalité est temporairement indisponible."}
+{"id":1505465,"jp":"分岐に誤りがあります。","fr":"La branche est incorrecte."}
+{"id":1505466,"jp":"このアカウントは他のデバイスでログイン中です。","fr":"Ce compte est actuellement connecté sur un autre appareil."}
+{"id":1505467,"jp":"トークンの有効期限が切れています。","fr":"Le jeton a expiré."}
 {"id":1505468,"jp":"現在、順番待ちです。","fr":"En file d'attente."}
+{"id":1505469,"jp":"再接続に失敗しました。","fr":"Échec de la reconnexion."}
+{"id":1505470,"jp":"重複ログインが検出されました。","fr":"Connexion simultanée détectée."}
+{"id":1505473,"jp":"キャラクターは作成済みです。","fr":"Un personnage a déjà été créé."}
+{"id":1505474,"jp":"ゲームサーバーにログインしていません。","fr":"Vous n'avez pas de connexion active au serveur de jeu."}
+{"id":1505475,"jp":"トークン認証に失敗しました。","fr":"Échec de l'authentification par jeton."}
+{"id":1505476,"jp":"プレイヤーはログアウトしています。","fr":"Le joueur s'est déconnecté."}
+{"id":1505477,"jp":"その名前はすでに使用されています。","fr":"Ce nom est déjà utilisé."}
+{"id":1505478,"jp":"入力内容に使用できない文字が含まれています。","fr":"Le texte saisi contient des caractères non autorisés."}
+{"id":1505479,"jp":"使用できない文字が含まれています。","fr":"Contient des caractères non autorisés."}
+{"id":1505481,"jp":"初期データはカスタマイズ済みです。","fr":"Les données initiales ont déjà été personnalisées."}
+{"id":1505482,"jp":"無効なターゲットです。","fr":"Cible invalide."}
+{"id":1505483,"jp":"アクセサリー情報はリクエスト済みです。","fr":"Les informations de l'accessoire ont déjà été demandées."}
+{"id":1505484,"jp":"このアニマは装備済みです。","fr":"Cet Anima est déjà équipé."}
+{"id":1505485,"jp":"このアニマは最大レベルに達しています。","fr":"Cet Anima a atteint son niveau maximal."}
+{"id":1505486,"jp":"アイテムが不足しています。","fr":"Objets insuffisants."}
+{"id":1505487,"jp":"無効なパラメータです。","fr":"Paramètre invalide."}
+{"id":1505488,"jp":"このアクセサリーは装備されています。","fr":"Cet accessoire est équipé."}
+{"id":1505489,"jp":"このアクセサリーは最大レベルに達しています。","fr":"Cet accessoire a atteint son niveau maximal."}
+{"id":1505490,"jp":"この装備はロックされています。","fr":"Cet équipement est verrouillé."}
+{"id":1505491,"jp":"このアニマは最大ランクに達しています。","fr":"Cet Anima a atteint son rang maximal."}
+{"id":1505492,"jp":"このアニマはランクアップできません。","fr":"Impossible d'augmenter le rang de cet Anima."}
+{"id":1505493,"jp":"このアニマの最大ランクを超えています。","fr":"Le rang maximal de cet Anima est dépassé."}
+{"id":1505494,"jp":"このアニマは最大経験値に達しています。","fr":"Cet Anima a atteint son EXP maximale."}
+{"id":1505495,"jp":"存在しないアニマです。","fr":"Cet Anima n'existe pas."}
+{"id":1505496,"jp":"存在しないアクセサリーです。","fr":"Cet accessoire n'existe pas."}
+{"id":1505497,"jp":"該当するアクセサリーの設定が見つかりません。","fr":"La configuration de cet accessoire est introuvable."}
+{"id":1505498,"jp":"存在しないアクセサリープランです。","fr":"Cette configuration d'accessoires n'existe pas."}
+{"id":1505500,"jp":"このアニマに対応するランクが存在しません。","fr":"Aucun rang correspondant à cet Anima n'existe."}
+{"id":1505504,"jp":"このアニマはロックされています。","fr":"Cet Anima est verrouillé."}
+{"id":1505505,"jp":"このアニマは装備中です。","fr":"Cet Anima est actuellement équipé."}
+{"id":1505506,"jp":"このアニマの設定が見つかりません。","fr":"La configuration de cet Anima est introuvable."}
+{"id":1505507,"jp":"この通貨の設定が見つかりません。","fr":"La configuration de cette monnaie est introuvable."}
+{"id":1505508,"jp":"リクエストで指定されたアイテム数が0以下です。","fr":"La quantité d'objets indiquée dans la requête est inférieure ou égale à 0."}
+{"id":1505509,"jp":"存在しないアイテムタイプです。","fr":"Ce type d'objet n'existe pas."}
+{"id":1505510,"jp":"該当する装備レベルの設定が見つかりません。","fr":"La configuration du niveau de cet équipement est introuvable."}
+{"id":1505511,"jp":"消費対象のアニマはロックされています。","fr":"L'Anima à consommer est verrouillé."}
+{"id":1505512,"jp":"アニマ融合に必要なアニマの設定が見つかりません。","fr":"La configuration des Anima nécessaires à la fusion d'Anima est introuvable."}
+{"id":1505513,"jp":"消費するアニマが不足しています。","fr":"Nombre d'Anima à consommer insuffisant."}
+{"id":1505515,"jp":"該当する装備のレベルアップ設定が見つかりません。","fr":"La configuration de hausse de niveau de cet équipement est introuvable."}
+{"id":1505516,"jp":"該当する装備の破棄設定が見つかりません。","fr":"La configuration de destruction de cet équipement est introuvable."}
+{"id":1505517,"jp":"装備スコアが最大です。","fr":"Le score d'équipement a atteint son maximum."}
+{"id":1505518,"jp":"属性同調パラメータに誤りがあります。","fr":"Les paramètres de Synchronie élémentaire sont incorrects."}
+{"id":1505520,"jp":"文字数が上限を超えています。","fr":"La limite de caractères est dépassée."}
+{"id":1505523,"jp":"接続が切断されました。\n原因：{0}","fr":"Connexion interrompue.\nCause : {0}"}
+{"id":1505529,"jp":"このアイテムは1個しか所持できません。","fr":"Vous ne pouvez posséder qu'un seul exemplaire de cet objet."}
+{"id":1505530,"jp":"データがオーバーフローしました。","fr":"Débordement de données."}
+{"id":1505531,"jp":"このアニマは強化素材にできません。","fr":"Cet Anima ne peut pas servir de matériau de renforcement."}
+{"id":1505533,"jp":"数字は6桁以内にしてください。","fr":"Veuillez saisir un nombre de 6 chiffres maximum."}
+{"id":1505534,"jp":"スタミナ交換の回数が上限に達しました。","fr":"La limite d'échanges d'endurance a été atteinte."}
 {"id":1505535,"jp":"スタミナが最大です。","fr":"L'endurance est déjà au maximum."}
+{"id":1505536,"jp":"この共通アイテムの設定が見つかりません。","fr":"La configuration de cet objet commun est introuvable."}
+{"id":1505537,"jp":"消費する共通アイテムの数量が送信されていません。","fr":"La quantité d'objets communs à consommer n'a pas été transmise."}
+{"id":1505538,"jp":"消費する共通アイテムのIDが送信されていません。","fr":"L'ID de l'objet commun à consommer n'a pas été transmis."}
 {"id":1505539,"jp":"HPは最大です。","fr":"Les PV sont déjà au maximum."}
+{"id":1505540,"jp":"バッグがいっぱいです。","fr":"Votre sac est plein."}
+{"id":1505541,"jp":"共通アイテム使用のパラメータに誤りがあります。","fr":"Les paramètres d'utilisation de l'objet commun sont incorrects."}
+{"id":1505543,"jp":"セレクトパックのアイテムが選択されていません。","fr":"Aucun objet du coffret de sélection n'a été choisi."}
+{"id":1505544,"jp":"セレクトパックの中身が空です。","fr":"Le coffret de sélection est vide."}
+{"id":1505545,"jp":"交換するアイテムの数量が送信されていません。","fr":"La quantité d'objets à échanger n'a pas été transmise."}
+{"id":1505546,"jp":"回復に使う共通アイテムのIDが送信されていません。","fr":"L'ID de l'objet commun à utiliser pour la récupération n'a pas été transmis."}
+{"id":1505547,"jp":"HPの回復量が0です。","fr":"La quantité de PV restaurés est de 0."}
+{"id":1505548,"jp":"セレクトパックの送信パラメータに誤りがあります。","fr":"Les paramètres transmis pour le coffret de sélection sont incorrects."}
+{"id":1505549,"jp":"キャラクターの好感度が未解放です。","fr":"L'affinité de ce personnage n'est pas encore débloquée."}
+{"id":1505551,"jp":"アイテムショートカット欄の制限を超えました。","fr":"La limite d'emplacements de raccourcis d'objets est dépassée."}
+{"id":1505553,"jp":"装備の種類が違います。","fr":"Le type d'équipement ne correspond pas."}
+{"id":1505554,"jp":"メールを読み込み中です。","fr":"Chargement du courrier en cours."}
+{"id":1505555,"jp":"ダンジョン解放に必要なコンテンツが未解放です。","fr":"Le contenu nécessaire au déblocage de ce donjon n'est pas encore accessible."}
+{"id":1505556,"jp":"リクエストが頻繁過ぎます。","fr":"Trop de requêtes."}
+{"id":1505557,"jp":"通信がタイムアウトしました。","fr":"Le délai de connexion a expiré."}
+{"id":1505559,"jp":"再接続用トークンが無効です。","fr":"Le jeton de reconnexion est invalide."}
+{"id":1505561,"jp":"ログイン認証がタイムアウトしました。","fr":"Le délai d'authentification a expiré."}
+{"id":1505562,"jp":"プレイヤーIDの取得に失敗しました。","fr":"Échec de la récupération de l'ID du joueur."}
+{"id":1505563,"jp":"認証トークンの有効期限が切れています。","fr":"Le jeton d'authentification a expiré."}
+{"id":1505564,"jp":"アカウント制限の確認に失敗しました。","fr":"Échec de la vérification des restrictions du compte."}
+{"id":1505565,"jp":"アカウント制限情報の有効期限が切れています。","fr":"Les informations relatives aux restrictions du compte ont expiré."}
+{"id":1505566,"jp":"キボのレンタル期限が切れています。","fr":"La période de location du Kibo a expiré."}
+{"id":1505567,"jp":"キボが変異していません。","fr":"Ce Kibo n'a pas subi de mutation."}
+{"id":1505568,"jp":"ホワイトリスト検証に失敗しました。","fr":"Échec de la vérification de la liste blanche."}
+{"id":1505569,"jp":"メッセージの文字数がオーバーしています。","fr":"Le message dépasse la limite de caractères."}
+{"id":1505572,"jp":"該当する着せ替え設定が見つかりません。","fr":"La configuration de cette tenue est introuvable."}
+{"id":1505573,"jp":"対応する着せ替え部位が見つかりません。","fr":"L'emplacement de tenue correspondant est introuvable."}
+{"id":1505574,"jp":"装備部位IDが競合しています。","fr":"Les ID des emplacements d'équipement sont en conflit."}
+{"id":1505575,"jp":"該当するカラー設定が見つかりません。","fr":"La configuration de couleur correspondante est introuvable."}
+{"id":1505576,"jp":"衣装と武器のIDは0に設定できません。","fr":"Les ID des tenues et des armes ne peuvent pas être définis sur 0."}
+{"id":1505577,"jp":"着せ替え部位タイプに誤りがあります。","fr":"Le type d'emplacement de tenue est incorrect."}
+{"id":1505578,"jp":"着せ替えは未解放です。","fr":"La personnalisation des tenues n'est pas encore débloquée."}
+{"id":1505579,"jp":"ダンジョンは利用できません。","fr":"Ce donjon est indisponible."}
+{"id":1505580,"jp":"ダンジョンIDが存在しません。","fr":"L'ID du donjon n'existe pas."}
+{"id":1505581,"jp":"不正な編成が設定されています。","fr":"La composition d'équipe configurée est invalide."}
+{"id":1505582,"jp":"ダンジョンは未解放です。","fr":"Ce donjon n'est pas encore débloqué."}
+{"id":1505583,"jp":"ランダムダンジョンのIDが存在しません。","fr":"L'ID du donjon aléatoire n'existe pas."}
+{"id":1505584,"jp":"ダンジョンをクリアしていません。","fr":"Vous n'avez pas terminé ce donjon."}
+{"id":1505585,"jp":"ダンジョンへの移動に失敗しました。","fr":"Échec du déplacement vers le donjon."}
+{"id":1505586,"jp":"該当ダンジョンのシーン設定が見つかりません。","fr":"La configuration de la scène de ce donjon est introuvable."}
+{"id":1505587,"jp":"このダンジョンには該当するシーンがありません。","fr":"Ce donjon ne possède aucune scène correspondante."}
+{"id":1505588,"jp":"依頼ダンジョンの設定が存在しません。","fr":"La configuration du donjon de mission n'existe pas."}
+{"id":1505589,"jp":"依頼ダンジョンは未解放です。","fr":"Ce donjon de mission n'est pas encore débloqué."}
+{"id":1505590,"jp":"依頼ダンジョンのグループは未解放です。","fr":"Ce groupe de donjons de mission n'est pas encore débloqué."}
+{"id":1505591,"jp":"依頼ダンジョンの難易度は未解放です。","fr":"Cette difficulté du donjon de mission n'est pas encore débloquée."}
+{"id":1505592,"jp":"依頼ダンジョンの★獲得設定が存在しません。","fr":"La configuration d'obtention des ★ de ce donjon de mission n'existe pas."}
+{"id":1505593,"jp":"依頼ダンジョンの★獲得報酬は受け取り済みです。","fr":"Les récompenses de ★ de ce donjon de mission ont déjà été récupérées."}
+{"id":1505594,"jp":"依頼ダンジョンの★獲得条件を満たしていません。","fr":"Les conditions d'obtention des ★ de ce donjon de mission ne sont pas remplies."}
+{"id":1505595,"jp":"依頼機能は現在利用できません。","fr":"La fonctionnalité de missions est actuellement indisponible."}
+{"id":1505596,"jp":"ダンジョンの解放時間外です。","fr":"Ce donjon est actuellement en dehors de ses horaires d'ouverture."}
+{"id":1505597,"jp":"ダンジョンのタイプに誤りがあります。","fr":"Le type de donjon est incorrect."}
+{"id":1505598,"jp":"マルチダンジョンIDが存在しません。","fr":"L'ID du donjon multijoueur n'existe pas."}
+{"id":1505599,"jp":"ダンジョングループIDが存在しません。","fr":"L'ID du groupe de donjons n'existe pas."}
+{"id":1505602,"jp":"ダンジョンのランダムシーン設定が見つかりません。","fr":"La configuration des scènes aléatoires du donjon est introuvable."}
+{"id":1505603,"jp":"依頼IDが存在しません。","fr":"L'ID de la mission n'existe pas."}
 {"id":1505607,"jp":"無効なマップです。","fr":"Carte invalide."}
+{"id":1505608,"jp":"現在はダンジョンマップにいません。","fr":"Vous ne vous trouvez actuellement dans aucun donjon."}
+{"id":1505610,"jp":"超変異キボの解放条件を満たしていません。","fr":"Les conditions de déblocage des Kibo à mutation supérieure ne sont pas remplies."}
+{"id":1505611,"jp":"このチャンネルの参加人数は上限に達しています。","fr":"Ce canal a atteint sa capacité maximale de joueurs."}
+{"id":1505613,"jp":"召喚パラメータタイプにエラーが発生しました。","fr":"Une erreur est survenue dans le type de paramètre d'invocation."}
+{"id":1505614,"jp":"召喚ロジックにエラーが発生しました。","fr":"Une erreur est survenue dans la logique d'invocation."}
+{"id":1505615,"jp":"召喚できる数量を超えています。","fr":"La quantité maximale d'invocations est dépassée."}
+{"id":1505616,"jp":"召喚コストの上限を超えています。","fr":"Le coût maximal d'invocation est dépassé."}
+{"id":1505617,"jp":"召喚できる手札の順番制限を超えています。","fr":"L'ordre des cartes invocables ne respecte pas les restrictions."}
+{"id":1505618,"jp":"召喚できるターゲットの切替制限を超えています。","fr":"La limite de changements de cible d'invocation est dépassée."}
+{"id":1505619,"jp":"マップコンテンツ状態の制限を超えています。","fr":"L'état du contenu de la carte ne respecte pas les restrictions."}
+{"id":1505620,"jp":"召喚エリアの範囲外です。","fr":"Hors de la zone d'invocation."}
+{"id":1505621,"jp":"チームの人数制限を超えています。","fr":"La taille maximale de l'équipe est dépassée."}
+{"id":1505622,"jp":"星巣データの同期でエラーが発生しました。","fr":"Une erreur est survenue lors de la synchronisation des données du nid stellaire."}
+{"id":1505623,"jp":"星巣の挑戦は完了しています。","fr":"Le défi du nid stellaire est déjà terminé."}
+{"id":1505624,"jp":"星巣のチュートリアルステージでは制限されています。","fr":"Cette action est restreinte dans le niveau de tutoriel du nid stellaire."}
+{"id":1505625,"jp":"星巣の挑戦が進行中です。","fr":"Un défi du nid stellaire est en cours."}
+{"id":1505627,"jp":"この機能はまだ解放されていません。","fr":"Cette fonctionnalité n'est pas encore débloquée."}
+{"id":1505629,"jp":"試練中ではないため、やり直すことはできません。","fr":"Impossible de recommencer, aucune épreuve n'est en cours."}
+{"id":1505630,"jp":"ダンジョンの設定が無効です。","fr":"Configuration du donjon invalide."}
+{"id":1505631,"jp":"前提条件を満たしていません。","fr":"Conditions préalables non remplies."}
+{"id":1505632,"jp":"段階が一致していないため、調整できません。","fr":"Impossible d'effectuer l'ajustement, les étapes ne correspondent pas."}
+{"id":1505633,"jp":"選択していないため挑戦できません。","fr":"Impossible de lancer le défi sans effectuer de sélection."}
+{"id":1505634,"jp":"選択した試練が現在の挑戦と一致していません。","fr":"L'épreuve sélectionnée ne correspond pas au défi actuel."}
+{"id":1505635,"jp":"現在の段階では試練ステージに挑戦できません。","fr":"Impossible de participer aux épreuves à cette étape."}
+{"id":1505636,"jp":"この試練ステージは選択できません。","fr":"Ce niveau d'épreuve ne peut pas être sélectionné."}
+{"id":1505637,"jp":"試練ステージは選択済みです。","fr":"Ce niveau d'épreuve est déjà sélectionné."}
+{"id":1505638,"jp":"クリアしていないため掃討できません。","fr":"Impossible d'utiliser le nettoyage automatique avant d'avoir terminé ce niveau."}
+{"id":1505639,"jp":"掃討条件を満たしていません。","fr":"Les conditions de nettoyage automatique ne sont pas remplies."}
+{"id":1505640,"jp":"現在のダンジョンではウェーブを変更できません。","fr":"Impossible de modifier les vagues d'ennemis dans le donjon actuel."}
+{"id":1505642,"jp":"ウェーブの変更が無効です。","fr":"Modification de vague invalide."}
+{"id":1505643,"jp":"存在しない戦闘タイプです。","fr":"Ce type de combat n'existe pas."}
+{"id":1505644,"jp":"チームに加入済みです。","fr":"Vous avez déjà rejoint une équipe."}
+{"id":1505645,"jp":"チームに加入していません。","fr":"Vous n'avez rejoint aucune équipe."}
+{"id":1505646,"jp":"指定されたチームが存在しません。","fr":"L'équipe indiquée n'existe pas."}
 {"id":1505647,"jp":"チームが満員です。","fr":"L'équipe est complète."}
+{"id":1505648,"jp":"リーダーではありません。","fr":"Cette action est réservée au chef d'équipe."}
+{"id":1505649,"jp":"チーム全員の準備が揃っていません。","fr":"Tous les membres de l'équipe ne sont pas prêts."}
+{"id":1505650,"jp":"招待が拒否されました。","fr":"L'invitation a été refusée."}
+{"id":1505651,"jp":"現在ステージ内にいません。","fr":"Vous ne vous trouvez actuellement dans aucun niveau."}
+{"id":1505652,"jp":"戦闘を開始できません。","fr":"Impossible de lancer le combat."}
 {"id":1505653,"jp":"無効な戦闘です。","fr":"Combat invalide."}
+{"id":1505654,"jp":"プレイヤーがシーンの中にいません。","fr":"Le joueur ne se trouve pas dans la scène."}
+{"id":1505655,"jp":"プレイヤーが農園内にいません。","fr":"Le joueur ne se trouve pas dans la ferme."}
+{"id":1505656,"jp":"プレイヤーの農園シーンの管理対象が見つかりません。","fr":"Les objets gérés dans la scène de la ferme du joueur sont introuvables."}
+{"id":1505657,"jp":"該当する農園設備が見つかりません。","fr":"L'installation de ferme correspondante est introuvable."}
+{"id":1505658,"jp":"農園設備はレベルアップできません。","fr":"Cette installation de ferme ne peut pas être améliorée."}
+{"id":1505659,"jp":"農園設備は建設できません。","fr":"Cette installation de ferme ne peut pas être construite."}
+{"id":1505660,"jp":"農園設備の状態が一致しません。","fr":"L'état de l'installation de ferme ne correspond pas."}
+{"id":1505661,"jp":"農園設備は配置できません。","fr":"Cette installation de ferme ne peut pas être placée."}
+{"id":1505662,"jp":"農園の生産に関する設定の取得に失敗しました。","fr":"Échec de la récupération de la configuration de production de la ferme."}
+{"id":1505663,"jp":"農園の生産で完了済みのアイテムがありません。","fr":"Aucun objet produit à la ferme n'est terminé."}
+{"id":1505664,"jp":"農園の生産で受け取り可能なアイテムがあります。","fr":"Des objets produits à la ferme peuvent être récupérés."}
+{"id":1505665,"jp":"農園の生産開始には数量の指定が必要です。","fr":"Une quantité doit être indiquée pour lancer la production à la ferme."}
+{"id":1505666,"jp":"農園の食堂生産設定に誤りがあります。","fr":"La configuration de production du réfectoire de la ferme est incorrecte."}
+{"id":1505667,"jp":"農園の生産を行うにはキボの配置が必要です。","fr":"Des Kibo doivent être affectés pour lancer la production à la ferme."}
+{"id":1505668,"jp":"農園のショートカットバーの空き枠が不足しています。","fr":"Emplacements libres insuffisants dans la barre de raccourcis de la ferme."}
 {"id":1505674,"jp":"研究が進行中です。","fr":"Recherche en cours."}
 {"id":1505678,"jp":"研究が完了しました。","fr":"Recherche terminée."}
 {"id":1505686,"jp":"食堂は営業中です。","fr":"Le restaurant est ouvert."}
