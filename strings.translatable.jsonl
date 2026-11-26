@@ -1297,7 +1297,7 @@
 {"id": 1496490, "jp": "ハンターの魂は不滅", "en": "The Hunter's Soul Is Immortal", "src": "phist"}
 {"id": 1496491, "jp": "テララを使用して、派生チャージ攻撃でHPを200,000回復する", "en": "Restore 200,000 HP with follow-up Charged Attacks using Terara", "src": "acedy"}
 {"id": 1496492, "jp": "旋風乱舞", "en": "Whirlwind Frenzy", "src": "phist"}
-{"id": 1496493, "jp": "シンフォーリアを使用して、ルミィを通じて500,000ダメージを与える", "en": "Deal 500,000 damage through Lumie using Symphoria", "src": "acedy"}
+{"id": 1496493, "jp": "シンフォーリアを使用して、ルミィを通じて500,000ダメージを与える", "en": "Deal 500,000 damage through Lumi using Symphoria", "src": "acedy"}
 {"id": 1496494, "jp": "アウラとともに", "en": "Together with Aura", "src": "phist"}
 {"id": 1496495, "jp": "ルルカを使用して、召喚物で500,000ダメージを与える", "en": "Deal 500,000 damage with summons using Luruka", "src": "acedy"}
 {"id": 1496496, "jp": "飛炎と銀火の散花", "en": "Blossoms of Flying Flame and Silver Fire", "src": "phist"}
@@ -1878,7 +1878,7 @@
 {"id": 1497099, "jp": "風の如く", "en": "Like the Wind", "src": "phist"}
 {"id": 1497100, "jp": "雷の如く", "en": "Like Thunder", "src": "phist"}
 {"id": 1497101, "jp": "幻惑", "en": "Bewilder", "src": "phist"}
-{"id": 1497102, "jp": "勇毅", "en": "Valor", "src": "phist"}
+{"id": 1497102, "jp": "勇毅", "en": "Valor", "src": "phist"}Starborn
 {"id": 1497103, "jp": "よろけ耐性が上昇する。", "en": "Increases Stagger Resistance.", "src": "phist"}
 {"id": 1497104, "jp": "ペガサスナイト", "en": "Pegasus Knight", "src": "phist"}
 {"id": 1497105, "jp": "忠誠の冠を戴き", "en": "Crowned in Loyalty", "src": "phist"}
@@ -1919,7 +1919,7 @@
 {"id": 1497140, "jp": "星の鳴響", "en": "Starry Resonance", "src": "phist"}
 {"id": 1497141, "jp": "静かの海へ", "en": "To the Sea of Tranquility", "src": "phist"}
 {"id": 1497142, "jp": "5秒ごとに星極チャージを2回復する。", "en": "Restores 2 Star Zenith Charge every 5 seconds.", "src": "phist"}
-{"id": 1497143, "jp": "星臨の刻", "en": "Hour of the Starcomer", "src": "phist"}
+{"id": 1497143, "jp": "星臨の刻", "en": "Hour of the Starborn", "src": "phist"}
 {"id": 1497144, "jp": "全属性ダメージ増幅が上昇する。", "en": "Increases All-Element DMG Amplification.", "src": "phist"}
 {"id": 1497145, "jp": "残炎の痕跡", "en": "Trace of Lingering Flame", "src": "phist"}
 {"id": 1497146, "jp": "カンカンカン！", "en": "Clang, Clang, Clang!", "src": "acedy"}
@@ -3318,7 +3318,7 @@
 {"id": 1498583, "jp": "そろそろ出発しますか？", "en": "Shall we set out soon?", "src": "phist"}
 {"id": 1498584, "jp": "準備は万端です。", "en": "I'm all ready.", "src": "phist"}
 {"id": 1498585, "jp": "旅は、まだまだ続くのですね。", "en": "So our journey is far from over.", "src": "phist"}
-{"id": 1498586, "jp": "私の過去、ですか？\nほかのウッドエルフとそこまで変わらない気がしますが……\n\nえっ、ルミィからなにか聞いたんですか？\n彼女の話は少々大袈裟ですので、鵜呑みにはしないでくださいね。", "en": "My past, you say?\nI don't think I'm all that different from other Wood Elves...\n\nOh, did Lumie tell you something?\nHer stories are a bit exaggerated, so please don't take them at face value.", "src": "acedy"}
+{"id": 1498586, "jp": "私の過去、ですか？\nほかのウッドエルフとそこまで変わらない気がしますが……\n\nえっ、ルミィからなにか聞いたんですか？\n彼女の話は少々大袈裟ですので、鵜呑みにはしないでくださいね。", "en": "My past, you say?\nI don't think I'm all that different from other Wood Elves...\n\nOh, did Lumi tell you something?\nHer stories are a bit exaggerated, so please don't take them at face value.", "src": "acedy"}
 {"id": 1498587, "jp": "女王の命に従い、多くの任務に参加してきましたが、ロースランサをこんなに長く離れるのははじめてで……\n\nあ、すみません。こんなときだからこそ、私がしっかりしないと……いけませんよね。\n\n――えっ、気にしない……ですか？\nふふっ、それならよかったです。", "en": "I have taken part in many missions at the Queen's command, but this is my first time being away from Lors Lains for so long...\n\nAh, I'm sorry. At a time like this, I'm the one who has to... stay strong, aren't I.\n\n―Oh, you don't... mind?\nHehe, I'm glad to hear that.", "src": "acedy"}
 {"id": 1498588, "jp": "予言がついに実現すると聞いたときから、\n私の周りは星臨者さまの噂で持ち切りで……\n\nかく言う私も、どのような方なのだろうと、楽しみにしていましたが……\n……ふふっ。こんなに優しい方だったなんて。安心しました。", "en": "Ever since I heard the prophecy would finally come true,\neveryone around me talked of nothing but the Starborn...\n\nI, too, was looking forward to seeing what kind of person you would be...\n...Hehe. To think you'd be so kind. I'm relieved.", "src": "acedy"}
 {"id": 1498589, "jp": "星臨者さまは……頼れる仲間です。\n予言や使命とは関係なく、私自身がそう思っているのです。", "en": "Starborn, you are a companion I can rely on.\nPropheсy and duty aside, that is what I truly think.", "src": "phist"}
@@ -3344,7 +3344,7 @@
 {"id": 1498609, "jp": "アビィ、夢を見た……なんの夢だったっけ？", "en": "Abby had a dream... what was the dream about?", "src": "phist"}
 {"id": 1498610, "jp": "アビィ、木の上でぐーぐーするの好き。\nまえ住んでたところ、木がいっぱいあった。\n静かで気持ちよかった。\n\nでも、一回だけ、ぐーぐーしてたらいきなり枝が折れたことがあった……\nアビィ、なにか悪いことしちゃった？", "en": "Abby likes snoozing up in trees.\nWhere Abby lived before, there were lots of trees.\nIt was quiet and felt nice.\n\nBut just once, while snoozing, the branch suddenly broke...\nDid Abby do something bad?", "src": "acedy"}
 {"id": 1498611, "jp": "アビィは竜なの。もちろんパパもママも竜。\nでも、アビィはみんなと違うんだって、いつも言われてた……\nどこが違うんだろ？アビィの爪が、人の手になれるところ？\n\nたしか……えと、『さんさいかれー』？\nじゃなくて『せんぞがえり』って、言うんだって。\nそれって、どういう意味……？", "en": "Abby is a dragon. Of course Papa and Mama are dragons, too.\nBut Abby was always told she's different from everyone...\nWhat's different? That Abby's claws can turn into human hands?\n\nI think... um, \"wild veggie curry\"?\nNo, it's called \"atavism.\"\nWhat does that... mean?", "src": "acedy"}
-{"id": 1498612, "jp": "せーりんしゃ、やさしい。\nおいしいものをいっぱいくれる。いっしょに遊んでくれる。\nあとは……うーん……いいにおいがする！", "en": "Starcomer is kind.\nGives me lots of yummy things. Plays with me.\nAnd... hmm... smells nice!", "src": "phist"}
+{"id": 1498612, "jp": "せーりんしゃ、やさしい。\nおいしいものをいっぱいくれる。いっしょに遊んでくれる。\nあとは……うーん……いいにおいがする！", "en": "Starborn is kind.\nGives me lots of yummy things. Plays with me.\nAnd... hmm... smells nice!", "src": "phist"}
 {"id": 1498613, "jp": "いっしょに遊ぶって言ったのに、\nさいきん、ぜんぜんアビィのこと\nかまってくれない……\nでも、アビィはいい子だから、手伝いにいく！\nそうしたら、ずっといっしょ……それに、せーりんしゃを守れる。", "en": "Said we'd play together, but\nlately, doesn't pay attention\nto Abby at all...\nBut Abby is a good girl, so Abby will go help!\nThen, together forever... and Abby can protect Starborn.", "src": "acedy"}
 {"id": 1498614, "jp": "ふるさとのお姉ちゃんたち、フルーツが好き。お肉のほうがおいしいのに……なんでかな？\n\nうん？アビィ、大丈夫。ちゃんとはむはむしてたよ。\n\nあそこには……すごくすごく大きな木があった、上に住めるくらい……あの木から生える『食べもの』があれば、いつもおなかいっぱいだった。", "en": "My big sisters back home love fruit. Meat tastes better...\nwhy, I wonder?\nHm? Abby's fine. I was chomping properly.\nThere was a really, really huge tree there, big enough to live on top of...\nWith the \"food\" that grew from that tree, my tummy was always full.", "src": "phist"}
 {"id": 1498615, "jp": "メーツァお姉ちゃんのお庭、知らないお花、いっぱい。ここにきてから集めはじめて、長い長い時間をかけたんだって。\nだからもう『なくなった』お花もある。\nメーツァお姉ちゃんのガーデンにだけあって、ほかのどこにもない花が。", "en": "Big Sister Metsa's garden has so many flowers I don't know. She started collecting them after she came here, and it took a long, long time.\nSo some of them are \"gone\" now.\nFlowers that only grew in Big Sister Metsa's Garden and nowhere else.", "src": "phist"}
@@ -3417,7 +3417,7 @@
 {"id": 1498682, "jp": "私について知りたい、だと？\n\nそうだな、「鷹主」に選ばれたのは、高い戦闘力を持っていたから……\nそして決断を迫られる立場になって、ようやく理解したんだ。\n師が背負っていた責任の重さを……\n\nすまない。こんな話、つまらないだろう。", "en": "You want to know about me?\n\nWell, I was chosen as \"Hawk Lord\" because I had great combat ability...\nAnd only when I was put in a position that demands decisions did I finally understand.\nThe weight of the responsibility my master bore...\n\nSorry. A story like this must be boring.", "src": "acedy"}
 {"id": 1498683, "jp": "かつては弓で戦っていた時期もあった。\nだが私は、一族のなかでも機動力があるほうだったし、翼による動きの速さを最大限に活かすために、槍に武器を変えたんだ。\n\nまあ、接近戦はケガのリスクも高くなるが……\nそれは一族の長が気にすることではない。", "en": "There was a time when I fought with a bow.\nBut I was one of the more mobile in my clan, and to make the most of the speed my wings give me, I switched my weapon to the spear.\n\nWell, close combat does raise the risk of injury...\nbut that is not something the chief of a clan concerns herself with.", "src": "acedy"}
 {"id": 1498684, "jp": "あの者が谷に落ちてきたとき、いつもと違う風が吹きはじめた気がした。\n木々の揺れも、最初は偶然だと思っていたが……\nまさか星臨者が嵐のような激変をもたらすとは。\nその力には、敬服するばかりだ。", "en": "When that person fell into the valley, I felt a different wind begin to blow.\nI first thought the swaying of the trees was a coincidence, but...\nI never imagined a Starborn would bring change as violent as a storm.\nI can only admire that power.", "src": "phist"}
-{"id": 1498685, "jp": "星臨の者……その不思議な知識と能力は、空からの贈りものかもしれない。\nだが特別な力がなかったとしても、あの者はきっと翼を広げ、どこまでも高く遠くまで行けるのだろう。\n伝説の鷹神のように。", "en": "The Starcomer... that strange knowledge and ability may be a gift from the sky.\nBut even without any special power, I'm sure that person would spread their wings and go high and far, wherever they wished.\nLike the legendary Hawk God.", "src": "phist"}
+{"id": 1498685, "jp": "星臨の者……その不思議な知識と能力は、空からの贈りものかもしれない。\nだが特別な力がなかったとしても、あの者はきっと翼を広げ、どこまでも高く遠くまで行けるのだろう。\n伝説の鷹神のように。", "en": "The Starborn... that strange knowledge and ability may be a gift from the sky.\nBut even without any special power, I'm sure that person would spread their wings and go high and far, wherever they wished.\nLike the legendary Hawk God.", "src": "phist"}
 {"id": 1498686, "jp": "我々翼人の飛翔の儀について、君にも話しておきたい。まあ、谷の外にも似たような伝統はあるようだが。\n我々の『子ども』たちは崖から飛び降り……翼を広げて飛ぶことで『独り立ち』するんだ。", "en": "I want to tell you about the Rite of Flight of us Wingfolk. Though it seems there are similar traditions outside the valley.\nOur \"children\" leap from a cliff... and by spreading their wings and flying, they \"stand on their own.\"", "src": "phist"}
 {"id": 1498687, "jp": "翼人は皆、雲の上には鷹神が住むと信じ、空に憧れている。\nしかし……なぜかわからないが、落ちてきた君を見た瞬間……私は雲の上にも、暗雲が漂っていると感じたんだ。", "en": "All Wingfolk believe the Hawk God lives above the clouds, and we long for the sky.\nBut... I don't know why, the moment I saw you fall, I felt that dark clouds drift even above the clouds.", "src": "phist"}
 {"id": 1498688, "jp": "疑問に思ったことはなんでも聞いてくれ。\nなにも隠すつもりはない。", "en": "Ask me anything you wonder about.\nI have nothing to hide.", "src": "phist"}
@@ -6100,7 +6100,7 @@
 {"id": 1501369, "jp": "おなかペコペコだと、力が入らない、気持ちもだめになる。\nだから、はむはむして、遊んで、たのしくなる！", "en": "When my tummy's empty, I have no strength, and I feel bad inside.\nSo I chomp, and play, and then I feel happy!", "src": "phist"}
 {"id": 1501370, "jp": "フルーツはおいしいけど、おなかいっぱいになれない。\n野菜はおいしくない、おなかもいっぱいになれないから、好きじゃない。\n\nお肉、一番。おなかがいっぱいになるの。\nおいしくないお肉はない。\n生肉？うん……それも、おいしい。", "en": "Fruit is yummy, but it doesn't fill me up.\nVegetables aren't yummy and they don't fill me up either, so I don't like them.\nMeat is the best.\nIt fills my tummy. There's no meat that isn't yummy.\nRaw meat?\nYeah... that's yummy too.", "src": "phist"}
 {"id": 1501371, "jp": "森で遊ぶの、好き。\n新しい友だちができるから。\n\nみんな、竜、怖がる。だけどアビィ、いい子。\nちゃんと言うことを聞いて、やさしく、ゆっくり動く。\nそうすれば、みんなと遊べる。", "en": "Like playing in the forest.\n'Cause I make new friends.\n\nEveryone's scared of dragons. But Abby's a good girl.\nListen properly, move gently, slowly.\nThen, can play with everyone.", "src": "acedy"}
-{"id": 1501372, "jp": "竜は、強い。飛べる。\nだから、せーりんしゃを守れる……え？いらないの？\n\nでもアビィ、ずっとずっとせーりんしゃと遊びたい。\nちがう、取り引きじゃないの。せーりんしゃを傷つける悪いやつ、みんな消しちゃえ！", "en": "Dragons are strong. They can fly.\nSo I can protect Starcomer... Huh?\nYou don't need it?\nBut Abby wants to play with Starcomer forever and ever.\nNo, it's not a deal. Anyone bad who hurts Starcomer, I'll make them all disappear!", "src": "phist"}
+{"id": 1501372, "jp": "竜は、強い。飛べる。\nだから、せーりんしゃを守れる……え？いらないの？\n\nでもアビィ、ずっとずっとせーりんしゃと遊びたい。\nちがう、取り引きじゃないの。せーりんしゃを傷つける悪いやつ、みんな消しちゃえ！", "en": "Dragons are strong. They can fly.\nSo I can protect Starborn... Huh?\nYou don't need it?\nBut Abby wants to play with Starborn forever and ever.\nNo, it's not a deal. Anyone bad who hurts Starborn, I'll make them all disappear!", "src": "phist"}
 {"id": 1501373, "jp": "おなかすくの、いや。\nでも、ひとりはもっとだめ。つらい。\n言うことを聞いて、いい子になっても、ひとりになることがある。\nぐーぐーしても、はむはむしても、たのしくない。\n\n……え、ずっと遊んでくれる？\n……やった！じゃあ、アビィ、ずっといい子でいる。", "en": "Don't like being hungry.\nBut being alone is worse. It hurts.\nEven when I listen and be a good girl, sometimes I'm alone.\nSleeping, nomming, it's not fun.\n\n...Huh, you'll play with me forever?\n...Yay! Then Abby will be a good girl forever.", "src": "acedy"}
 {"id": 1501374, "jp": "おいしいものたくさん作れる！", "en": "I can make lots of yummy things!", "src": "phist"}
 {"id": 1501375, "jp": "これ、おいしいから、あげる。\n\n今日、どこ行く？\nアビィ、どこでもいっしょについてく！\n\n……なんでって？\nむうぅ……？あっ、そうだ……先に言わないといけなかった――お誕生日、おめでとう。", "en": "This is yummy, so, for you.\n\nWhere are we going today?\nAbby will come along anywhere!\n\n...Why?\nMmm...? Oh, right... was supposed to say it first: happy birthday.", "src": "acedy"}
@@ -6115,7 +6115,7 @@
 {"id": 1501384, "jp": "おもしろいもの、どこにあるの？", "en": "Where are the fun things?", "src": "phist"}
 {"id": 1501385, "jp": "アメとケーキも、おいしい。でも、お肉、一番。", "en": "Candy and cake are yummy too. But meat is the best.", "src": "phist"}
 {"id": 1501386, "jp": "空を飛びたいなら、手伝う。", "en": "If you want to fly in the sky, I'll help.", "src": "phist"}
-{"id": 1501387, "jp": "せーりんしゃといっしょにいると、いい夢をたくさん見る。", "en": "When I'm with Starcomer, I have lots of good dreams.", "src": "phist"}
+{"id": 1501387, "jp": "せーりんしゃといっしょにいると、いい夢をたくさん見る。", "en": "When I'm with Starborn, I have lots of good dreams.", "src": "phist"}
 {"id": 1501388, "jp": "ペコペコになると、たいへん。", "en": "When I get hungry, it's awful.", "src": "phist"}
 {"id": 1501389, "jp": "好きなキボか……\nうーん、すばしっこくて、元気いっぱいで、肉が好きで……\nあとは、おっきくてふわっふわのしっぽがあれば文句なし、だな！\n\n……え？アンタもそういうのが好き？ふ、ふーん？", "en": "My favorite kind of Kibo, huh...\nHmm, quick on its feet, full of energy, loves meat...\nAnd if it's got a big, super fluffy tail, that's perfect!\n\n...Huh? You like that kind too? O-Oh, really?", "src": "acedy"}
 {"id": 1501390, "jp": "はぁ……\n子どものころはちっちゃかったのに、\nこんなにでっかくなるなんてなぁ。\nそれに食べる量も……\n\nまぁいっか、健康が一番だし！\nこれからも頼むぞ、相棒！", "en": "Sigh...\nYou were so tiny as a kid,\nand now look how huge you've gotten.\nAnd how much you eat...\n\nEh, whatever, being healthy comes first!\nI'm counting on you from here on too, partner!", "src": "acedy"}
@@ -6560,7 +6560,7 @@
 {"id": 1501829, "jp": "キボは、みんな好き、だよ。\nで、でも、やっぱり……ガヤックとガドリが一番、かな？\n体つきがどっしりしてて、頼もしくて……みんなの信頼に応える背中、すごく安心できる。こっそりみんなの上着を噛んじゃうところも……かわいいよね……！\nわ、わたしはあの子たちが好き……だから、あの子たちに嫌われたくないなあ……", "en": "I like all Kibo, you know.\nB-but, still... Gayak and Gadori are my favorites, maybe?\nThey're sturdy, dependable... their backs, answering everyone's trust, feel so reassuring. And how they secretly nibble on everyone's jackets...\nis cute, too...! I-I like them... so I don't want them to dislike me...", "src": "phist"}
 {"id": 1501830, "jp": "わたしたちとキボとの星絆（スターリンク）は、御霊さまに見守られながら繋がりあい、全身全霊で信頼しあう関係。わたし、すごく憧れていたから、『星絆（スターリンク）の手引き』で勉強して、キクギに決闘を申し込んだんだ。\nでも……あの子、ずっと日向ほっこしてて、ぜんぜん戦おうとしてくれなくて。わたし、しかたないから隣に座って、ぼーっと空を眺めてて……\nそうやって一緒にぬくぬく過ごしてたら、いつのまにか絆で結ばれた仲間になってたんだ……\nむむぅ……？戦わなくても、絆って結べるんだね。", "en": "A Star Bond (Star Link) between us and Kibo is a relationship watched over by the Honored Spirits, where we connect and trust each other with all our hearts. I admired it so much that I studied the Star Bond (Star Link) Handbook and challenged Kikugi to a duel.\nBut… that little one just kept basking in the sun and wouldn't fight at all. So I sat down beside it and gazed vacantly at the sky…\nAnd as we spent that cozy time together, before I knew it we had become companions bound by a bond…\nHmm…? So you can form a bond even without fighting.", "src": "phist"}
 {"id": 1501831, "jp": "あっ、は、はい！おとも……します。", "en": "Oh, y-yes! I'll... go with you.", "src": "phist"}
-{"id": 1501832, "jp": "大いなる神霊よ……もしも……もしも星臨者さんがわたしのこと、選んでくれるなら、わたし――\nえ……？わ、わたしの願い……叶っちゃった？ゆ、夢、じゃないの？\nせ、星臨者さん……！わ、わたし……いまのこの気持ちを……ずっと大事にする、ね。", "en": "Great Spirits... if... if Starborn chooses me, then I— Huh...?\nM-my wish... came true? I-isn't this a dream?\nS-Starcomer...! I'll... always treasure the way I feel right now.", "src": "phist"}
+{"id": 1501832, "jp": "大いなる神霊よ……もしも……もしも星臨者さんがわたしのこと、選んでくれるなら、わたし――\nえ……？わ、わたしの願い……叶っちゃった？ゆ、夢、じゃないの？\nせ、星臨者さん……！わ、わたし……いまのこの気持ちを……ずっと大事にする、ね。", "en": "Great Spirits... if... if Starborn chooses me, then I— Huh...?\nM-my wish... came true? I-isn't this a dream?\nS-Starborn...! I'll... always treasure the way I feel right now.", "src": "phist"}
 {"id": 1501833, "jp": "が、頑張る！わ、わたしだって、できる……はず？むうぅ……", "en": "I-I'll do my best! I can do it too... I think? Hmmm...", "src": "phist"}
 {"id": 1501834, "jp": "これ……くれるの？", "en": "You're... giving me this?", "src": "phist"}
 {"id": 1501835, "jp": "曲がる角は……どこまでも堅く、鋭く！", "en": "My curved horns... will be hard and sharp, no matter what!", "src": "phist"}
@@ -6753,7 +6753,7 @@
 {"id": 1502024, "jp": "フレンド", "en": "Friends", "src": "phist"}
 {"id": 1502025, "jp": "さようなら", "en": "Goodbye", "src": "phist"}
 {"id": 1502026, "jp": "星臨者スキン-服飾", "en": "Starborn Skin - Outfit", "src": "phist"}
-{"id": 1502027, "jp": "星臨のはじまり", "en": "Dawn of the Starcomer", "src": "phist"}
+{"id": 1502027, "jp": "星臨のはじまり", "en": "Dawn of the Starborn", "src": "phist"}
 {"id": 1502028, "jp": "星臨者がこの世に降り立ったときの衣服", "en": "The clothes the Starborn wore when descending to this world.", "src": "phist"}
 {"id": 1502029, "jp": "星の輝きはあなたの来た道を照らし、未来へ向かうあなたに寄り添うだろう", "en": "The glow of the stars lights the path you came by and will stay with you as you head toward the future.", "src": "phist"}
 {"id": 1502030, "jp": "煌めく夜の誓い", "en": "Vow of the Glittering Night", "src": "phist"}
@@ -7691,7 +7691,7 @@
 {"id": 1502967, "jp": "キャスベルの調律を上げることができる。", "en": "Can be used to raise Cathbelle's Tuning.", "src": "phist"}
 {"id": 1502968, "jp": "アニスの弦音", "en": "Anais's String Tone", "src": "phist"}
 {"id": 1502969, "jp": "アニスの調律を上げることができる。", "en": "Can be used to raise Anais's Tuning.", "src": "phist"}
-{"id": 1502970, "jp": "星臨の弦音", "en": "Starcomer's String Tone", "src": "phist"}
+{"id": 1502970, "jp": "星臨の弦音", "en": "Starborn's String Tone", "src": "phist"}
 {"id": 1502971, "jp": "星臨者の調律を上げることができる。", "en": "Can be used to raise the Starborn's Tuning.", "src": "phist"}
 {"id": 1502972, "jp": "ノノの弦音", "en": "Nono's String Tone", "src": "phist"}
 {"id": 1502973, "jp": "ノノの調律を上げることができる。", "en": "Can be used to raise Nono's Tuning.", "src": "phist"}
@@ -11585,7 +11585,7 @@
 {"id": 1506888, "jp": "<color=#3f892e>空鉄採鉱場</color>で<color=#3f892e>堅岩石</color>と<color=#3f892e>白銀</color>の1日あたりの産出量アップ", "en": "Increases daily output of <color=#3f892e>Hardrock Stone</color> and <color=#3f892e>Silver</color> at the <color=#3f892e>Sky Iron Mine</color>", "src": "acedy"}
 {"id": 1506889, "jp": "谷の秘宝", "en": "Valley Treasures", "src": "phist"}
 {"id": 1506890, "jp": "芽吹の谷を探索し、探索レベルを上げると、星臨者の調律アイテムを入手できる。", "en": "Explore Sprout Valley and raise your Exploration Level to obtain Starborn Tuning items.", "src": "phist"}
-{"id": 1506891, "jp": "【星臨の弦響】アイテム", "en": "[Starcomer's String Echo] Item", "src": "phist"}
+{"id": 1506891, "jp": "【星臨の弦響】アイテム", "en": "[Starborn's String Echo] Item", "src": "phist"}
 {"id": 1506892, "jp": "都市の秘蔵品", "en": "City Treasures", "src": "phist"}
 {"id": 1506893, "jp": "フリスを探索して探索レベルを上げると、星臨者の調律アイテムを獲得できる。", "en": "Explore Fleece and raise your Exploration Level to obtain Starborn Tuning items.", "src": "phist"}
 {"id": 1506894, "jp": "芽吹の谷-飛行権限解放", "en": "Sprout Valley - Flight Permission Unlocked", "src": "phist"}
@@ -15241,7 +15241,7 @@
 {"id": 1510624, "jp": "キャラクター訓練【シンフォーリア：その3】", "en": "Character Training [Symphoria: Part 3]", "src": "phist"}
 {"id": 1510625, "jp": "<color={highlight}>「風息」</color>効果を獲得している間、チャージ攻撃が4回命中するたび、追加で1回の<color={highlight}>木属性範囲攻撃</color>を行います。", "en": "While the <color={highlight}>\"Wind Breath\"</color> effect is active, every 4 Charged Attack hits triggers 1 additional <color={highlight}>Wood area attack</color>.", "src": "acedy"}
 {"id": 1510626, "jp": "キャラクター訓練【シンフォーリア：その4】", "en": "Character Training [Symphoria: Part 4]", "src": "phist"}
-{"id": 1510627, "jp": "<color={highlight}>星響スキル</color>を発動すると、ルミィが強力なダメージを与えます。", "en": "When the <color={highlight}>Star Echo Skill</color> is activated, Lumie deals powerful damage.", "src": "acedy"}
+{"id": 1510627, "jp": "<color={highlight}>星響スキル</color>を発動すると、ルミィが強力なダメージを与えます。", "en": "When the <color={highlight}>Star Echo Skill</color> is activated, Lumi deals powerful damage.", "src": "acedy"}
 {"id": 1510628, "jp": "キャラクター訓練【寒悠悠：その1】", "en": "Character Training [Han Youyou: Part 1]", "src": "phist"}
 {"id": 1510629, "jp": "寒悠悠がチャージ攻撃を発動した後、<color={highlight}>もう一度攻撃ボタンを押す</color>と派生チャージ攻撃を発動できます。", "en": "After Han Youyou performs a Charged Attack, <color={highlight}>press the Attack button again</color> to perform a follow-up Charged Attack.", "src": "acedy"}
 {"id": 1510630, "jp": "キャラクター訓練【寒悠悠：その2】", "en": "Character Training [Han Youyou: Part 2]", "src": "phist"}
@@ -16572,7 +16572,7 @@
 {"id": 1511958, "jp": "生い立ちが謎の少年", "en": "The Boy of Mysterious Origins", "src": "phist"}
 {"id": 1511959, "jp": "すこし鈍感なところがあるが、非常に強い信念を持ち、それを曲げることは決してない。自分の生い立ちや生存の意義を見いだすために旅に出た。", "en": "He's a little dense, but holds extremely strong convictions and never bends them. He set out on a journey to discover his origins and the meaning of his existence.", "src": "phist"}
 {"id": 1511960, "jp": "空から落ちてきた……？", "en": "I fell from the sky...?", "src": "phist"}
-{"id": 1511961, "jp": "戦闘開始後、5秒ごとに星極チャージを2回復する。\n星響スキルを発動した後、自身は「星臨の刻」を獲得する。全属性ダメージが15%増加する（効果時間：24秒）。", "en": "After battle begins, restores 2 Star Zenith Charge every 5s.\nAfter using a Star Echo Skill, gains \"Hour of the Starcomer\". Increases all Element DMG by 15% (Duration: 24s).", "src": "phist"}
+{"id": 1511961, "jp": "戦闘開始後、5秒ごとに星極チャージを2回復する。\n星響スキルを発動した後、自身は「星臨の刻」を獲得する。全属性ダメージが15%増加する（効果時間：24秒）。", "en": "After battle begins, restores 2 Star Zenith Charge every 5s.\nAfter using a Star Echo Skill, gains \"Hour of the Starborn\". Increases all Element DMG by 15% (Duration: 24s).", "src": "phist"}
 {"id": 1511962, "jp": "銀輝の浮影", "en": "Silver Drifting Shadow", "src": "phist"}
 {"id": 1511963, "jp": "攻撃力が50上昇する。\n防御力が60上昇する。\nHPが800増加する。", "en": "ATK +50.\nDEF +60.\nHP +800.", "src": "phist"}
 {"id": 1511964, "jp": "予言の者", "en": "The Prophesied One", "src": "phist"}
@@ -16585,7 +16585,7 @@
 {"id": 1511971, "jp": "たたかうのが強くて、おいしいもの作ってくれて、アビィといっしょに遊んでくれる。それから……こっそり寝坊してもだいじょうぶなところ、すぐに見つける……え？それは言っちゃダメ？", "en": "Strong in a fight, makes yummy food, and plays with Abby. And... always finds spots where you can sneak in a sleep-in... Huh? I shouldn't say that?", "src": "phist"}
 {"id": 1511972, "jp": "いい考えがあるよ……", "en": "I've got a great idea...", "src": "phist"}
 {"id": 1511973, "jp": "薄明の星灯り", "en": "Starlight at Twilight", "src": "phist"}
-{"id": 1511974, "jp": "星極スキルを発動した後、チーム全体が「星臨の刻」を獲得する。全属性ダメージが15%増加する（効果時間：24秒）。\n星極スキルの最初の一撃がエネミーに命中した後、星極チャージを5回復する。\n星極スキルのダメージ倍率が15%上昇する。", "en": "After using the Star Zenith Skill, the whole team gains \"Hour of the Starcomer\", increasing all-Element DMG by 15% (Duration: 24s).\nAfter the first hit of the Star Zenith Skill lands on an enemy, restore 5 Star Zenith Charge.\nStar Zenith Skill DMG Multiplier increases by 15%.", "src": "phist"}
+{"id": 1511974, "jp": "星極スキルを発動した後、チーム全体が「星臨の刻」を獲得する。全属性ダメージが15%増加する（効果時間：24秒）。\n星極スキルの最初の一撃がエネミーに命中した後、星極チャージを5回復する。\n星極スキルのダメージ倍率が15%上昇する。", "en": "After using the Star Zenith Skill, the whole team gains \"Hour of the Starborn\", increasing all-Element DMG by 15% (Duration: 24s).\nAfter the first hit of the Star Zenith Skill lands on an enemy, restore 5 Star Zenith Charge.\nStar Zenith Skill DMG Multiplier increases by 15%.", "src": "phist"}
 {"id": 1511975, "jp": "星の旅路", "en": "A Starry Journey", "src": "phist"}
 {"id": 1511976, "jp": "予言の通り、流星はこの大地に降臨した。彼の行く先には、どのような結末が待っているのだろうか？", "en": "As prophesied, a shooting star has descended upon this land. What kind of end awaits him on his journey?", "src": "phist"}
 {"id": 1511977, "jp": "生い立ちが謎に包まれた少女", "en": "A Girl Shrouded in Mystery", "src": "phist"}
@@ -25059,11 +25059,11 @@
 {"id": 1520584, "jp": "かつてはエルフの女王の声、イグドラシルの声、そして森の声だけに耳を傾けていたの。その声のほかに、訪問者がガーデンの扉を叩く音が聞こえてくるなんて、夢にも思わなかった。もしかしたら、ガーデンの内と外を分けた結界が、いつしか心の壁になってしまっていたのかもしれないわ……\n話を聞いてくれてありがとう。お礼に新しいフルーツティーとロースランサ風のお菓子を用意したの。記憶のなかにある本場の味わいを再現できたかどうかはわからないけど、あなたの口にあったらうれしいわ。\nもしこちらを訪ねる時間がなければ、私が届けに行くわね。", "en": "I used to listen only to the voice of the Elf Queen, the voice of Yggdrasil, and the voice of the forest. I never dreamed that, besides those voices, I would hear a visitor knocking at the Garden's door. Perhaps the barrier dividing the Garden's inside from its outside had become a wall in my heart without my noticing...\nThank you for listening to me. As thanks, I've prepared a new fruit tea and some Lors Lains-style sweets. I don't know whether I've recreated the authentic flavor from my memories, but I hope it suits your taste.\nIf you don't have time to visit, I'll bring it to you myself.", "src": "phist"}
 {"id": 1520585, "jp": "星のひと", "en": "Star Person", "src": "phist"}
 {"id": 1520586, "jp": "こんにちは。\n手紙、かいたよ。\nお友だち、なって。", "en": "Hello.\nAbby wrote letter.\nBe friends.", "src": "phist"}
-{"id": 1520587, "jp": "せーりんしゃ", "en": "Starcomer", "src": "phist"}
+{"id": 1520587, "jp": "せーりんしゃ", "en": "Starborn", "src": "phist"}
 {"id": 1520588, "jp": "これ、アビィの手紙。\n食べもの、なくなった。おなかぺこぺこ、おいしいものはむはむしたいな。", "en": "This is Abby's letter.\nFood is all gone. Tummy rumbly. Abby wants to nom-nom something yummy.", "src": "phist"}
 {"id": 1520589, "jp": "いま、はむはむしたくない。\nぐーぐーも、いや。\nもっといっしょに遊びたい、ダメ？", "en": "Now, Abby doesn't want nom-nom.\nNo sleepy-sleepy either.\nWant to play more together. Is that bad?", "src": "phist"}
-{"id": 1520590, "jp": "このまえ、ボールぽんぽんしたの、楽しかった！\n今日ひとりで遊んでて、木のほうにボール打った。そしたら、キボたち、みんな逃げちゃった。\nいい子じゃなきゃ、みんなと遊べない。アビィ、ちゃんとわかってる。\nアビィ、悪いことしちゃった？せーりんしゃは、まだアビィと遊んでくれる？", "en": "Bouncing the ball last time was fun!\nToday I played alone and hit the ball toward the tree. Then the Kibo all ran away.\nIf I'm not a good kid, I can't play with everyone. Abby knows that.\nDid Abby do something bad? Will Starcomer still play with Abby?", "src": "phist"}
-{"id": 1520591, "jp": "空を飛んでるとき、すごく気持ちいい！\n風、涼しくて、空、広くて、どこにでも飛んでいける。\n空の雲、せーりんしゃがくれたわたあめに似てるけど、はむはむしても味しない。\nわたあめ、はむはむしたいな。せーりんしゃもいっしょに行こ？\n雲をくぐるとき、せーりんしゃはなに考えてるの？\n飛びたかったら、アビィのとこに来て！", "en": "Flying in the sky feels so good!\nThe wind is cool, the sky is wide, and I can fly anywhere.\nClouds in the sky look like the cotton candy Starcomer gave me, but when I nom-nom them, no taste.\nI want cotton candy nom-nom. Starcomer, come with me too?\nWhen we go through the clouds, what is Starcomer thinking?\nIf you want to fly, come to Abby!", "src": "phist"}
+{"id": 1520590, "jp": "このまえ、ボールぽんぽんしたの、楽しかった！\n今日ひとりで遊んでて、木のほうにボール打った。そしたら、キボたち、みんな逃げちゃった。\nいい子じゃなきゃ、みんなと遊べない。アビィ、ちゃんとわかってる。\nアビィ、悪いことしちゃった？せーりんしゃは、まだアビィと遊んでくれる？", "en": "Bouncing the ball last time was fun!\nToday I played alone and hit the ball toward the tree. Then the Kibo all ran away.\nIf I'm not a good kid, I can't play with everyone. Abby knows that.\nDid Abby do something bad? Will Starborn still play with Abby?", "src": "phist"}
+{"id": 1520591, "jp": "空を飛んでるとき、すごく気持ちいい！\n風、涼しくて、空、広くて、どこにでも飛んでいける。\n空の雲、せーりんしゃがくれたわたあめに似てるけど、はむはむしても味しない。\nわたあめ、はむはむしたいな。せーりんしゃもいっしょに行こ？\n雲をくぐるとき、せーりんしゃはなに考えてるの？\n飛びたかったら、アビィのとこに来て！", "en": "Flying in the sky feels so good!\nThe wind is cool, the sky is wide, and I can fly anywhere.\nClouds in the sky look like the cotton candy Starborn gave me, but when I nom-nom them, no taste.\nI want cotton candy nom-nom. Starborn, come with me too?\nWhen we go through the clouds, what is Starborn thinking?\nIf you want to fly, come to Abby!", "src": "phist"}
 {"id": 1520592, "jp": "いつもはいっぱい話してるけど、手紙ってなるとなにを書けばいいかわかんないな……とにかく！なにか困ったことがあったら、いつでもアタシを呼ぶんだぞ！", "en": "I talk a lot when we're together, but when it comes to a letter, I don't know what to write... Anyway! If you ever have any trouble, call me anytime!", "src": "phist"}
 {"id": 1520593, "jp": "テララだぞ！", "en": "It's me, Terara!", "src": "phist"}
 {"id": 1520594, "jp": "さっき気づいたんだけど、まえに手紙に書いた名前、間違ってたかも……まあいいや、たいしたことじゃないよな。今回は自分で書いたんだ。字が下手だとか言うなよ！\nそうそう、ここ数日ずっと、民兵隊のみんなの訓練の相手をしてたんだ。おかげで槍を扱うのがまたうまくなった気がする！約束するよ、つぎ一緒に見回りするときは、アンタは指一本動かす必要ない！アタシひとりでささっと片づけてみせるからな！\nでも、アタシが守ってやるって言っても、アンタもちゃんと鍛錬はするんだぞ！", "en": "I just realized I might have gotten a name wrong in my last letter... Oh well, no big deal. I wrote this one myself. Don't you dare say my handwriting is bad!\nOh, right, for the past few days I've been sparring with everyone in the Militia. I feel like I've gotten even better with my spear! I promise, next time we go on patrol together, you won't have to lift a finger! I'll take care of everything by myself in a flash!\nBut even if I say I'll protect you, you'd better keep training properly too!", "src": "phist"}
@@ -27083,7 +27083,7 @@
 {"id": 1522666, "jp": "ボスまたは特殊個体のキボを2匹、倒すかスターリンクする", "en": "Defeat or Star Link 2 boss or special Kibo", "src": "phist"}
 {"id": 1522667, "jp": "星旅の記録のポイントを150獲得する", "en": "Earn 150 points in the Star Journey Record.", "src": "phist"}
 {"id": 1522668, "jp": "15種類の異なるキボとスターリンクする", "en": "Star Link with 15 different kinds of Kibo.", "src": "phist"}
-{"id": 1522669, "jp": "メイン依頼「1-8 星臨との邂逅」を★3でクリアする", "en": "Clear Main Quest \"1-8 Encounter with the Starcomer\" with 3 stars", "src": "phist"}
+{"id": 1522669, "jp": "メイン依頼「1-8 星臨との邂逅」を★3でクリアする", "en": "Clear Main Quest \"1-8 Encounter with the Starborn\" with 3 stars", "src": "phist"}
 {"id": 1522670, "jp": "農園に星語の果樹を1本植える", "en": "Plant 1 Starlore fruit tree on your Farm", "src": "phist"}
 {"id": 1522671, "jp": "共鳴の石台で精緻なステラカードを10枚製作する", "en": "Craft 10 Refined Stella Cards at the Resonance Pedestal.", "src": "phist"}
 {"id": 1522672, "jp": "星旅の記録のポイントを180獲得する", "en": "Earn 180 points in the Star Journey Record.", "src": "phist"}
@@ -28549,7 +28549,7 @@
 {"id": 1524268, "jp": "ルルカフクロウ　死亡スキル", "en": "Luruka Owl Death Skill", "src": "phist"}
 {"id": 1524270, "jp": "設置アイテム", "en": "Placed Item", "src": "phist"}
 {"id": 1524271, "jp": "ファランタ 奥義 - 地面効果", "en": "Faridah Ultimate - Ground Effect", "src": "phist"}
-{"id": 1524272, "jp": "星臨者_スキル刀光", "en": "Starcomer_Skill Blade Light", "src": "phist"}
+{"id": 1524272, "jp": "星臨者_スキル刀光", "en": "Starborn_Skill Blade Light", "src": "phist"}
 {"id": 1524273, "jp": "共通戦闘勝利効果セット", "en": "Common Battle Victory Effect Set", "src": "phist"}
 {"id": 1524274, "jp": "共通戦闘開始効果セット", "en": "Common Battle Start Effect Set", "src": "phist"}
 {"id": 1524275, "jp": "浮遊砲連続射撃", "en": "Floating Cannon Rapid Fire", "src": "phist"}
@@ -30991,7 +30991,7 @@
 {"id": 1526899, "jp": "ジャストガード・反撃", "en": "Just Guard / Counter", "src": "phist"}
 {"id": 1526900, "jp": "姿はすでになくとも、別れを告げる声の残響が風のなかにある。", "en": "Though she is long gone, the echo of her farewell lingers in the wind.", "src": "phist"}
 {"id": 1526901, "jp": "星閃スキル・矢", "en": "Star Flash Skill: Arrow", "src": "phist"}
-{"id": 1526902, "jp": "「ルミィ」はシンフォーリアを追従し、行動に応じて異なるアクションを行う。\n通常攻撃、ダッシュ攻撃、カウンターで矢が敵に命中すると「風語」を1スタック獲得する。10スタックに達すると「風息」を獲得し、EXダメージが18%増加し（15秒間）、<img name=\"tex_icon_skilldesc_wind\" /><link=explain#1><color=#d2915d>風の印</color></link>を1つ獲得する。「風息」の持続中、「風語」をスタックすることはできない。", "en": "\"Lumie\" follows Symphoria and performs different actions depending on what she does.\nWhen an arrow from a Normal Attack, Dash Attack, or Counter hits an enemy, gains 1 stack of \"Wind Whisper\". Upon reaching 10 stacks, gains \"Wind Breath\", increasing EX DMG by 18% (for 15 sec) and granting 1 <img name=\"tex_icon_skilldesc_wind\" /><link=explain#1><color=#d2915d>Wind Sigil</color></link>. While \"Wind Breath\" is active, \"Wind Whisper\" cannot be stacked.", "src": "acedy"}
+{"id": 1526902, "jp": "「ルミィ」はシンフォーリアを追従し、行動に応じて異なるアクションを行う。\n通常攻撃、ダッシュ攻撃、カウンターで矢が敵に命中すると「風語」を1スタック獲得する。10スタックに達すると「風息」を獲得し、EXダメージが18%増加し（15秒間）、<img name=\"tex_icon_skilldesc_wind\" /><link=explain#1><color=#d2915d>風の印</color></link>を1つ獲得する。「風息」の持続中、「風語」をスタックすることはできない。", "en": "\"Lumi\" follows Symphoria and performs different actions depending on what she does.\nWhen an arrow from a Normal Attack, Dash Attack, or Counter hits an enemy, gains 1 stack of \"Wind Whisper\". Upon reaching 10 stacks, gains \"Wind Breath\", increasing EX DMG by 18% (for 15 sec) and granting 1 <img name=\"tex_icon_skilldesc_wind\" /><link=explain#1><color=#d2915d>Wind Sigil</color></link>. While \"Wind Breath\" is active, \"Wind Whisper\" cannot be stacked.", "src": "acedy"}
 {"id": 1526903, "jp": "EXダメージ", "en": "EX DMG", "src": "phist"}
 {"id": 1526904, "jp": "ルミ様は背中を預けられる仲間だね！", "en": "Lumi is a partner you can trust to have your back!", "src": "phist"}
 {"id": 1526905, "jp": "1スタックごとに攻撃力上昇", "en": "ATK Up per Stack", "src": "phist"}
@@ -31308,7 +31308,7 @@
 {"id": 1527218, "jp": "ノーマルガチャ", "en": "Normal Gacha", "src": "phist"}
 {"id": 1527219, "jp": "枝葉のあいだからわずかに覗く、好奇心に満ちた瞳。\n『森の女神』と呼ばれるウッドエルフが、\n森を訪れる者たちをそっと観察している。", "en": "Eyes full of curiosity, peeking out from between the branches and leaves.\nThe Wood Elf called the \"Goddess of the Forest\"\nquietly observes those who visit the woods.", "src": "acedy"}
 {"id": 1527220, "jp": "この谷の風景は、ガーデナーの故郷とはまるで違っていた。けれど、その緑を守り続ければ――この地とともに新生を迎えられる。彼女はそう信じている。", "en": "The scenery of this valley was nothing like the Gardener's homeland. But if she keeps protecting this greenery, she can welcome Rebirth together with this land. She believes that.", "src": "phist"}
-{"id": 1527221, "jp": "「つめたい石で、おなかいっぱい。\nきれいでおっきな木の下で、ひんやり。\nそれに、せーりんしゃ、約束してくれた。ずっといっしょだって……」", "en": "\"Cold stones, belly full.\nUnder the pretty big tree, nice and cool.\nAnd Starcomer promised me. Together forever...\"", "src": "phist"}
+{"id": 1527221, "jp": "「つめたい石で、おなかいっぱい。\nきれいでおっきな木の下で、ひんやり。\nそれに、せーりんしゃ、約束してくれた。ずっといっしょだって……」", "en": "\"Cold stones, belly full.\nUnder the pretty big tree, nice and cool.\nAnd Starborn promised me. Together forever...\"", "src": "phist"}
 {"id": 1527222, "jp": "天才機関師の自信作、火力倍増の高速機関鳶。\n試験飛行にただひとり招待された方へ、\n見学の際はくれぐれも安全にご注意を。", "en": "The genius mechanist's proud creation: a high-speed mechanical kite with double the firepower.\nTo the one and only person invited to the test flight:\nplease take the utmost care for your safety while observing.", "src": "acedy"}
 {"id": 1527223, "jp": "どんなに暗い闇に沈もうと、再び輝きを取り戻し、\nこの世のすべての影を照らす――\n少女にだけ許された魔法がいま明かされる。", "en": "However dark the darkness she sinks into, she regains her radiance\nand lights up every shadow in this world—\nthe magic permitted to the girl alone is now revealed.", "src": "acedy"}
 {"id": 1527224, "jp": "ただの簡単なイタズラ。\nこんなイタズラはもう散々試してきたけど……\n今回はいつにも増してドキドキしている。", "en": "Just a simple prank.\nI've tried plenty of pranks like this before...\nbut this time my heart is pounding more than ever.", "src": "phist"}
@@ -31351,7 +31351,7 @@
 {"id": 1527265, "jp": "ドロッププレビュー", "en": "Drop Preview", "src": "phist"}
 {"id": 1527266, "jp": "城門の行商に話を聞くと、相手は「通りすがりの行商で、手続きも全部済ませてある」と名乗り、逆に星臨者のほうが私服の保安官なのではないかと問い返してきた。", "en": "When asked, the peddler at the city gate said he was \"just a passing peddler with all the paperwork done,\" and asked in return whether the Starborn might be a plainclothes sheriff.", "src": "phist"}
 {"id": 1527267, "jp": "立ち止まって辺りを見回している者に尋ねてみたが、相手は見慣れない顔の星臨者を気に留める様子もなく、街の目新しいものに見入るばかりだった。", "en": "The Starborn asked someone who had stopped to look around, but the person paid no attention to the unfamiliar face and simply gazed at the novelties of the city.", "src": "phist"}
-{"id": 1527268, "jp": "怪しい行商に尋ねてみたが、相手は言葉を濁してごまかし、急いでこちらを追い払おうとするなど、その反応はますます不自然になっていった。", "en": "The Starcomer questioned a suspicious peddler, who dodged the question and tried to hurry them off, his reactions growing more and more unnatural.", "src": "phist"}
+{"id": 1527268, "jp": "怪しい行商に尋ねてみたが、相手は言葉を濁してごまかし、急いでこちらを追い払おうとするなど、その反応はますます不自然になっていった。", "en": "The Starborn questioned a suspicious peddler, who dodged the question and tried to hurry them off, his reactions growing more and more unnatural.", "src": "phist"}
 {"id": 1527269, "jp": "点将台の守衛が居峡関の鎮塞の宝『大寰鐘』を紹介すると、星臨者は、小玉が術を使ったときにもこの鐘が共鳴していたことを思い出した。", "en": "When the guard at the Martial Platform introduced the Great Huan Bell, the treasure that guards Juxia Pass, the Starborn remembered that this bell had also resounded in Resonance when Xiaoyu used her art.", "src": "phist"}
 {"id": 1527270, "jp": "休憩中の新兵たちは、教官が星臨者の目覚ましい活躍を受けて追加訓練を命じたと噂し、今後の訓練がさらに厳しくなるのではと心配していた。", "en": "The recruits on break were rumoring that the instructor had ordered extra training in response to the Starborn's remarkable performance, and worried that future training would get even harsher.", "src": "phist"}
 {"id": 1527271, "jp": "後方支援の兵士は戦熊キボを丹精込めて世話し、戦場でしっかり活躍してくれることを願っていた。", "en": "A rear-support soldier tended the War Bear Kibo with great care, hoping they would perform well on the battlefield.", "src": "phist"}
@@ -31731,7 +31731,7 @@
 {"id": 1527645, "jp": "宝箱の前にやって来たルミィは、それが一度も開けられていないことに気づいた。ところが、開けた瞬間に罠が作動するのだった。", "en": "Coming up to a treasure chest, Lumi noticed it had never been opened. But the moment she opened it, a trap went off.", "src": "phist"}
 {"id": 1527646, "jp": "石碑の奥で、一行は蘭家の村と呼ばれる古い村落を目にした。そのとき、謎の影が襲いかかってきた。幽霊のふりをして皆を驚かせ、追い払おうとしたようだが、リリィの聖光に倒された。その正体は、採鉱場での幽霊騒ぎを調べに来た冒険者、塗山小玉と寒悠悠だった。一行の実力を目の当たりにしたふたりは、一緒に蘭家の村へ入って幽霊退治をしようと、正式に誘ってきた。", "en": "Beyond the stone tablet, the party saw an old settlement called the Lan Family Village. Then a mysterious shadow attacked. It seemed to have been posing as a ghost to scare everyone off, but was defeated by Lily's holy light. Its true identity was the adventurers Tushan Xiaoyu and Han Youyou, who had come to investigate the ghost disturbances in the mine. Having witnessed the party's strength, the two formally invited them to enter the Lan Family Village together and exorcise the ghosts.", "src": "phist"}
 {"id": 1527647, "jp": "蘭家の村の入り口には大きな門がある。中に入るには、その仕掛けを解く方法を見つける必要がありそうだ。", "en": "There is a large gate at the entrance to the Lan Family Village. To get inside, they'll need to find a way to solve its mechanism.", "src": "phist"}
-{"id": 1527648, "jp": "蘭家の村には不気味な気配が満ちていた。そのとき、大狼ミネイヴァの声が響き、『輪廻』の力の使い方を告げたのだった。", "en": "Lan Family Village was filled with an eerie presence. Then the voice of Great Wolf Mineiva rang out, telling the Starcomer how to use the power of Samsara.", "src": "phist"}
+{"id": 1527648, "jp": "蘭家の村には不気味な気配が満ちていた。そのとき、大狼ミネイヴァの声が響き、『輪廻』の力の使い方を告げたのだった。", "en": "Lan Family Village was filled with an eerie presence. Then the voice of Great Wolf Mineiva rang out, telling the Starborn how to use the power of Samsara.", "src": "phist"}
 {"id": 1527649, "jp": "『輪廻』の力で、星臨者は揺れる柱の下にいる幽霊の姿をはっきりと捉えた。ところが、幽霊のほうが先に驚いて逃げ出してしまった。", "en": "Using the power of Samsara, the Starborn clearly made out the ghost beneath the swaying pillar. But the ghost was startled first and ran away.", "src": "phist"}
 {"id": 1527650, "jp": "井戸の下からなにか物音がするようだ……", "en": "There seems to be some kind of noise coming from the bottom of the well...", "src": "phist"}
 {"id": 1527651, "jp": "『輪廻』の力によって、星臨者は井戸の底の幽霊と言葉を交わすことに成功し、半分の玉のブレスレットを託された。\n 小玉はみずからの塗山一族の力を使い、玉のブレスレットに結ばれた『縁』の糸が、村のさらに奥深くへと繋がっているのを見た。", "en": "Through the power of Samsara, the Starborn managed to speak with the ghost at the bottom of the well and was entrusted with half of a jade bracelet.\nXiaoyu used the power of her Tushan Clan and saw the thread of \"fate\" tied to the Jade Bracelet leading deeper into the village.", "src": "phist"}
@@ -32318,7 +32318,7 @@
 {"id": 1528235, "jp": "ルミィさま、凶潮とはなんですか？", "en": "Lady Lumi, what is a Fiend Tide?", "src": "phist"}
 {"id": 1528236, "jp": "<color=#fed196>凶獣の大群</color>が来るときにだけ現れる災厄の兆しだ！", "en": "It's an omen of disaster that only appears when <color=#fed196>a horde of Fiend Beasts</color> is coming!", "src": "acedy"}
 {"id": 1528237, "jp": "そんな……！このままでは、村が危険です！", "en": "No way...! At this rate, the village is in danger!", "src": "phist"}
-{"id": 1528238, "jp": "ルミィ、さきに行って！シンフォーリアと合流して、村を守るんだ！|ルミィ、さきに行って！シンフォーリアと合流して、村を守って！", "en": "Lumie, go on ahead! Meet up with Symphoria and protect the village!|Lumie, go on ahead! Meet up with Symphoria and protect the village!", "src": "acedy"}
+{"id": 1528238, "jp": "ルミィ、さきに行って！シンフォーリアと合流して、村を守るんだ！|ルミィ、さきに行って！シンフォーリアと合流して、村を守って！", "en": "Lumi, go on ahead! Meet up with Symphoria and protect the village!|Lumi, go on ahead! Meet up with Symphoria and protect the village!", "src": "acedy"}
 {"id": 1528239, "jp": "わかったのだ！ふたりも無理はするんじゃないぞ！", "en": "Got it! You two don't overdo it, okay?", "src": "phist"}
 {"id": 1528240, "jp": "村のなかも、被害に遭ったんだね。", "en": "The village was hit too, huh.", "src": "phist"}
 {"id": 1528241, "jp": "ああ、奇襲を受けて、凶獣の一群に防衛線を突破されてしまってな……\nすべて私の責任だ。", "en": "Yes. We were caught in a surprise attack, and a band of Fiends broke through our defensive line...\nIt's all my responsibility.", "src": "phist"}
@@ -33733,7 +33733,7 @@
 {"id": 1529694, "jp": "じゃあどうする？", "en": "So what do we do?", "src": "phist"}
 {"id": 1529695, "jp": "ふふふ～ん♪", "en": "Hehe, hmm~ ♪", "src": "phist"}
 {"id": 1529696, "jp": "チルル、ご機嫌だね。", "en": "You're in a good mood, Chilul.", "src": "phist"}
-{"id": 1529697, "jp": "せ、星臨者さん！それにルルカも！", "en": "S-Starcomer! And Luruka too!", "src": "phist"}
+{"id": 1529697, "jp": "せ、星臨者さん！それにルルカも！", "en": "S-Starborn! And Luruka too!", "src": "phist"}
 {"id": 1529698, "jp": "その……みんなが、無事に帰ってきてくれて、村も無事だったから、ちょっと浮かれちゃって。", "en": "Well... everyone came back safe, and the village is safe too, so I got a little carried away.", "src": "phist"}
 {"id": 1529699, "jp": "チルル、気にしないでください。わたしたちは勝利したのですから、喜ぶのは当たり前のことですよ。", "en": "Don't worry about it, Chilul. We won, so it's only natural to be happy.", "src": "phist"}
 {"id": 1529700, "jp": "そうだよね！そうだ、ルルカ。体の調子はどうなの？", "en": "Right! Oh, Luruka, how are you feeling?", "src": "phist"}
@@ -34915,22 +34915,22 @@
 {"id": 1530876, "jp": "そうそう、なにに困ってるのか知らないけど、このルミィさまがいれば、どんなトラブルだって――", "en": "Right, right! I don't know what's troubling you, but with the great Lumi here, any trouble can be—", "src": "phist"}
 {"id": 1530877, "jp": "もう、かくれた？……98、99、100！", "en": "Have you hidden yet? ...98, 99, 100!", "src": "phist"}
 {"id": 1530878, "jp": "がおー！つかまえる！", "en": "Grrr! I'll catch you!", "src": "phist"}
-{"id": 1530879, "jp": "せーりんしゃ、どこ……かくれんぼ？", "en": "Starcomer, where are you... Hide-and-seek?", "src": "phist"}
+{"id": 1530879, "jp": "せーりんしゃ、どこ……かくれんぼ？", "en": "Starborn, where are you... Hide-and-seek?", "src": "phist"}
 {"id": 1530880, "jp": "いーち、にー、さーん……100！", "en": "One, two, three... 100!", "src": "phist"}
 {"id": 1530881, "jp": "もう……かくれた？アビィ、つかまえに行く！", "en": "Have you... hidden yet? Abby's going to catch you!", "src": "phist"}
-{"id": 1530882, "jp": "せーりんしゃ……いないの？", "en": "Starcomer... aren't you here?", "src": "phist"}
+{"id": 1530882, "jp": "せーりんしゃ……いないの？", "en": "Starborn... aren't you here?", "src": "phist"}
 {"id": 1530883, "jp": "どこにかくれてるの？", "en": "Where are you hiding?", "src": "phist"}
 {"id": 1530884, "jp": "アビィ……負けでいい。もう、かくれんぼしない。", "en": "Abby... loses. Abby won't play hide-and-seek anymore.", "src": "phist"}
-{"id": 1530885, "jp": "せーりんしゃ、出てきて……おねがい。", "en": "Starcomer, come out... please.", "src": "phist"}
+{"id": 1530885, "jp": "せーりんしゃ、出てきて……おねがい。", "en": "Starborn, come out... please.", "src": "phist"}
 {"id": 1530886, "jp": "ひとりぼっち……やだ。", "en": "All alone... I don't like it.", "src": "phist"}
 {"id": 1530887, "jp": "これ……村に帰るみち？", "en": "Is this... the way back to the village?", "src": "phist"}
-{"id": 1530888, "jp": "村のみんな、いる！せーりんしゃ、どこ？", "en": "Everyone in village is here! Starcomer, where?", "src": "phist"}
+{"id": 1530888, "jp": "村のみんな、いる！せーりんしゃ、どこ？", "en": "Everyone in village is here! Starborn, where?", "src": "phist"}
 {"id": 1530889, "jp": "アビィ、いい子にする！", "en": "Abby will be good!", "src": "phist"}
 {"id": 1530890, "jp": "だからアビィを、おいていかないで……", "en": "So don't leave Abby behind...", "src": "phist"}
-{"id": 1530891, "jp": "うぅ……アビィが悪い子だから、\nせーりんしゃ、出てきてくれないの？", "en": "Uu...\nis it because Abby is bad that Starcomer won't come out?", "src": "phist"}
+{"id": 1530891, "jp": "うぅ……アビィが悪い子だから、\nせーりんしゃ、出てきてくれないの？", "en": "Uu...\nis it because Abby is bad that Starborn won't come out?", "src": "phist"}
 {"id": 1530892, "jp": "アビィ、いい子になる。みんなの、おてつだいする！", "en": "Abby will be good. Abby will help everyone!", "src": "phist"}
-{"id": 1530893, "jp": "せーりんしゃ、おねがい！", "en": "Starcomer, please!", "src": "phist"}
-{"id": 1530894, "jp": "せーりんしゃ……行かないで。アビィ、いい子になる。", "en": "Starcomer... don't go. Abby will be good.", "src": "phist"}
+{"id": 1530893, "jp": "せーりんしゃ、おねがい！", "en": "Starborn, please!", "src": "phist"}
+{"id": 1530894, "jp": "せーりんしゃ……行かないで。アビィ、いい子になる。", "en": "Starborn... don't go. Abby will be good.", "src": "phist"}
 {"id": 1530895, "jp": "アビィ、みんなの、やくにたてる？", "en": "Can Abby be useful to everyone?", "src": "phist"}
 {"id": 1530896, "jp": "アビィ、悪い子、みんなアビィがきらい。", "en": "Abby, bad child. Everyone hates Abby.", "src": "phist"}
 {"id": 1530897, "jp": "アビィ、悪い子、やくにたたない。", "en": "Abby, bad child. Useless.", "src": "phist"}
@@ -37958,7 +37958,7 @@
 {"id": 1533972, "jp": "僕がついてるよ。|私がついてるよ。", "en": "I'm with you.|I'm with you.", "src": "acedy"}
 {"id": 1533973, "jp": "な、なによ、これはアンタのせい……じゃなくて！\nただちょっと……ちょっとだけ、慣れてないだけなんだから……！", "en": "W-what's this, it's your fault... no, that's not it!\nI'm just... just a little unused to this, that's all...!", "src": "phist"}
 {"id": 1533974, "jp": "うんうん、わかってるわかってる。\nじゃあ、行こうか。", "en": "Yeah, yeah, I know, I know.\nWell then, shall we go?", "src": "phist"}
-{"id": 1533975, "jp": "せーりんしゃ……ごめんなさい。\nアビィ、悪い子になっちゃった……", "en": "Starcomer... I'm sorry.\nAbby became a bad girl...", "src": "phist"}
+{"id": 1533975, "jp": "せーりんしゃ……ごめんなさい。\nアビィ、悪い子になっちゃった……", "en": "Starborn... I'm sorry.\nAbby became a bad girl...", "src": "phist"}
 {"id": 1533976, "jp": "なにかあったの？村は平和そうだけど……", "en": "What happened? The village looks peaceful...", "src": "phist"}
 {"id": 1533977, "jp": "さっきね、おなかぐーぐーして、ぼーっと座ってたの。", "en": "A while ago, my tummy was growly, and I was sitting there all spaced out.", "src": "phist"}
 {"id": 1533978, "jp": "そしたら、ウーチおじさんが、\n「食べものある、倉庫に」って……", "en": "And then Uncle Uchi said,\n\"There's food, in the storehouse\"...", "src": "acedy"}
@@ -37969,7 +37969,7 @@
 {"id": 1533983, "jp": "倉庫が空になったんなら、また補充すればいいんだよ。\nなにを食べたか、覚えてるかな？", "en": "If the storehouse is empty, we can just restock it.\nDo you remember what you ate?", "src": "phist"}
 {"id": 1533984, "jp": "うん！お魚、いっぱい……", "en": "Yeah! Fish, lots of fish...", "src": "phist"}
 {"id": 1533985, "jp": "魚か……うん、それじゃあ\n一緒に村の外へ釣りをしに行こう！", "en": "Fish, huh...\nOkay, then let's go fishing outside the village together!", "src": "phist"}
-{"id": 1533986, "jp": "せーりんしゃ、こっち。", "en": "Starcomer, over here.", "src": "phist"}
+{"id": 1533986, "jp": "せーりんしゃ、こっち。", "en": "Starborn, over here.", "src": "phist"}
 {"id": 1533987, "jp": "どこか遊びに行くの？", "en": "Are we going\nsomewhere to\nplay?", "src": "phist"}
 {"id": 1533988, "jp": "すごく真剣な顔だね……", "en": "You look really\nserious...", "src": "phist"}
 {"id": 1533989, "jp": "今日は、遊びにいかない。大事な用、あるから。", "en": "Today, not going to play. Have important thing to do.", "src": "phist"}
@@ -37982,13 +37982,13 @@
 {"id": 1533996, "jp": "獣人の経験って、竜人にも活かせるのかな……", "en": "I wonder if Beastfolk experience can help dragonkin too...", "src": "phist"}
 {"id": 1533997, "jp": "でも、村のみんなにアドバイスもらうのは悪くないね！", "en": "But asking the villagers for advice isn't a bad idea!", "src": "phist"}
 {"id": 1533998, "jp": "うん。まずは、あの鍛冶やのひと、\nキボと仲良し。だから、聞いてみたい。", "en": "Yeah.\nFirst, that blacksmith, is good friends with Kibo. So, want to ask.", "src": "phist"}
-{"id": 1533999, "jp": "せーりんしゃ――", "en": "Starcomer—", "src": "phist"}
+{"id": 1533999, "jp": "せーりんしゃ――", "en": "Starborn—", "src": "phist"}
 {"id": 1534000, "jp": "アビィ、いっしょに、おでかけしたい！", "en": "Abby wanna go out together!", "src": "phist"}
 {"id": 1534001, "jp": "ずっとここにいると、つまらない……", "en": "Staying here all the time is boring...", "src": "phist"}
 {"id": 1534002, "jp": "ちょっと気分転換しようか……\nうーん、でも、どこに行こうかな？", "en": "Maybe a change of pace would be nice...\nHmm, but where should we go?", "src": "phist"}
 {"id": 1534003, "jp": "アビィ、行きたいとこ、ある！\n今日は、アビィについてきて、ね？", "en": "Abby has a place she wants to go!\nToday, follow Abby, okay?", "src": "phist"}
 {"id": 1534004, "jp": "このまえ、村のみんなにキボと仲良くなる方法、教えてもらった。\nそのあと、新しい友だちできた！", "en": "The other day, everyone in the village taught Abby how to make friends with Kibo.\nAfter that, Abby made new friends!", "src": "phist"}
-{"id": 1534005, "jp": "せーりんしゃ連れてって、いっしょに遊びたい！", "en": "Abby wants to take Starcomer there and play together!", "src": "phist"}
+{"id": 1534005, "jp": "せーりんしゃ連れてって、いっしょに遊びたい！", "en": "Abby wants to take Starborn there and play together!", "src": "phist"}
 {"id": 1534006, "jp": "つきました！", "en": "We're here!", "src": "phist"}
 {"id": 1534007, "jp": "アビィの新しい友だちはここにいるの？", "en": "Are your new friends here, Abby?", "src": "phist"}
 {"id": 1534008, "jp": "うん！でも、なんか変……みんな、出てこない？", "en": "Yeah! But something's weird... Why isn't anybody coming out?", "src": "phist"}
@@ -38004,20 +38004,20 @@
 {"id": 1534018, "jp": "（取れたしっぽを返してもたぶんあまり意味はないけど、\n気持ちは伝わるかな）", "en": "(Returning a tail that's come off probably won't do much good,\nbut maybe the feeling will get across.)", "src": "acedy"}
 {"id": 1534019, "jp": "いち、にー、さん、し……うん、ぜんぶある！", "en": "One, two, three, four... Yep, they're all here!", "src": "phist"}
 {"id": 1534020, "jp": "じゃあ、まずはグルルたちに返しに行こう。", "en": "Then let's go return them to the Gururu first.", "src": "phist"}
-{"id": 1534021, "jp": "「せーりんしゃ！今日はキノコの森にある小川で\nいっしょに遊ぼ？」", "en": "\"Starcomer!\nToday, wanna play together at the stream in the Mushroom Forest?\"", "src": "phist"}
+{"id": 1534021, "jp": "「せーりんしゃ！今日はキノコの森にある小川で\nいっしょに遊ぼ？」", "en": "\"Starborn!\nToday, wanna play together at the stream in the Mushroom Forest?\"", "src": "phist"}
 {"id": 1534022, "jp": "（霧幻の幽境の近くか……\nこのまえ、凶獣に襲われたキボを見つけたのもあのあたりだった）|（霧幻の幽境の近く……\nこのまえ、凶獣に襲われたキボを見つけたのもあのあたりだったよね）", "en": "(Near the Misty Phantom Realm...\nThat's around where I found that Kibo attacked by a Fiend Beast the other day.)|(Near the Misty Phantom Realm...\nThat's around where I found that Kibo attacked by a Fiend Beast the other day, isn't it?)", "src": "acedy"}
 {"id": 1534023, "jp": "（あのときの凶獣はまだ見つかってないし、心配だ）|（あのときの凶獣はまだ見つかってないし、心配ね）", "en": "(That Fiend Beast still hasn't been found. I'm worried.)|(That Fiend Beast still hasn't been found. I'm worried.)", "src": "acedy"}
 {"id": 1534024, "jp": "（もしもまだ、あのあたりで暴れ続けていたら危険だ）|（もしもまだ、あのあたりで暴れ続けていたら危ない）", "en": "(If it's still rampaging around there, that's dangerous.)|(If it's still rampaging around there, that'd be dangerous.)", "src": "acedy"}
 {"id": 1534025, "jp": "（いい機会だし……アビィと合流するまえに、\n凶獣の残した痕跡を調べておこうかな）", "en": "(Since it's a good chance...\nmaybe I'll look into the traces the Fiend left before I meet up with Abby)", "src": "phist"}
 {"id": 1534026, "jp": "どうして魚を捕まえてたの？\nおなかが空いた？", "en": "Why were you catching fish?\nAre you hungry?", "src": "phist"}
 {"id": 1534027, "jp": "ううん。これ、ピクニックではむはむするやつ。\nでも……うー、アビィもう、おなかぐーぐーする。", "en": "Nuh-uh. These are for munching at the picnic.\nBut... ugh, Abby's tummy is already growling.", "src": "phist"}
-{"id": 1534028, "jp": "せーりんしゃはやく来てくれたから。\nいますぐ、ピクニック行こう。", "en": "Because Starcomer came early.\nLet's go on the picnic right now.", "src": "phist"}
+{"id": 1534028, "jp": "せーりんしゃはやく来てくれたから。\nいますぐ、ピクニック行こう。", "en": "Because Starborn came early.\nLet's go on the picnic right now.", "src": "phist"}
 {"id": 1534029, "jp": "今日誘ったのはそのため？", "en": "Is that why you invited me today?", "src": "phist"}
 {"id": 1534030, "jp": "うん！故郷のエルフのお姉さんたち、\nよく、森でおいしいもの、はむはむしながら遊んでる。", "en": "Yeah!\nThe elf sisters back home often play in the forest, munching on yummy things.", "src": "phist"}
 {"id": 1534031, "jp": "それが『ピクニック』。心が落ち着くんだって。", "en": "That's a \"picnic.\" They say it calms the heart.", "src": "phist"}
-{"id": 1534032, "jp": "せーりんしゃ、さいきん忙しくて、疲れてる……", "en": "Starcomer has been busy lately, and tired...", "src": "phist"}
+{"id": 1534032, "jp": "せーりんしゃ、さいきん忙しくて、疲れてる……", "en": "Starborn has been busy lately, and tired...", "src": "phist"}
 {"id": 1534033, "jp": "だから、アビィ、ピクニックして休ませる！", "en": "So Abby will have a picnic and make you rest!", "src": "phist"}
-{"id": 1534034, "jp": "せーりんしゃ驚かせるために、ひとりで準備した！", "en": "I got everything ready all by myself to surprise Starcomer!", "src": "phist"}
+{"id": 1534034, "jp": "せーりんしゃ驚かせるために、ひとりで準備した！", "en": "I got everything ready all by myself to surprise Starborn!", "src": "phist"}
 {"id": 1534035, "jp": "いっぱいたのしんで、アビィなでなでしてほしい！", "en": "Have lots of fun, and pat Abby, okay?", "src": "phist"}
 {"id": 1534036, "jp": "そうだったんだ。ありがとう、すごく楽しみだよ。\nそれじゃ、行こうか！", "en": "So that's why. Thank you, I'm really looking forward to it.\nAll right, let's go!", "src": "phist"}
 {"id": 1534037, "jp": "ここにする？", "en": "Should we pick here?", "src": "phist"}
@@ -38028,7 +38028,7 @@
 {"id": 1534042, "jp": "地面に散らばった花びら……それにこの爪痕からも\nスーニヤの気配がする――凶獣のしわざだ！", "en": "Petals scattered on the ground...\nand I sense Sunya from these claw marks too—a Fiend did this!", "src": "phist"}
 {"id": 1534043, "jp": "暴れるまえに捕まえないと……！", "en": "We have to catch it before it goes on a rampage...!", "src": "phist"}
 {"id": 1534044, "jp": "うー。ゆるせない……", "en": "Ugh. Abby can't forgive this...", "src": "phist"}
-{"id": 1534045, "jp": "せーりんしゃのためのピクニックが台なし……", "en": "The picnic for Starcomer is ruined...", "src": "phist"}
+{"id": 1534045, "jp": "せーりんしゃのためのピクニックが台なし……", "en": "The picnic for Starborn is ruined...", "src": "phist"}
 {"id": 1534046, "jp": "凶獣、ぜんぶ消す。", "en": "Abby will wipe out the Fiend. Every bit.", "src": "phist"}
 {"id": 1534047, "jp": "あっ、待って！", "en": "Ah, wait!", "src": "phist"}
 {"id": 1534048, "jp": "うぅ……ねむい……", "en": "Ugh... sleepy...", "src": "phist"}
@@ -38036,11 +38036,11 @@
 {"id": 1534050, "jp": "うん……今日……風、気持ちいい。\nつい、ぐーぐーしちゃった……", "en": "Yeah... today... the wind feels nice.\nI dozed off before I knew it...", "src": "phist"}
 {"id": 1534051, "jp": "故郷でも、よく枝のうえでぐーぐーしてた……\nでも、たまに枝、折れることある……", "en": "Back home, I often napped on branches too...\nBut sometimes, the branch breaks...", "src": "phist"}
 {"id": 1534052, "jp": "だから、太い木を選ぶように、してる……", "en": "So I try to pick thick trees...", "src": "phist"}
-{"id": 1534053, "jp": "せーりんしゃの邪魔だった？", "en": "Was I in Starcomer's way?", "src": "phist"}
+{"id": 1534053, "jp": "せーりんしゃの邪魔だった？", "en": "Was I in Starborn's way?", "src": "phist"}
 {"id": 1534054, "jp": "大丈夫だよ。木のうえで寝てもいいけど、\n今度はもっと太い枝を選ぶようにしてね。安全第一だよ。", "en": "It's fine.\nYou can sleep in trees, but next time, try to pick a thicker branch. Safety first.", "src": "phist"}
 {"id": 1534055, "jp": "うん！アビィ、木のうえでぐーぐーすると\nおうちにいる気分になる……", "en": "Okay!\nWhen Abby naps up in a tree, it feels like being at home...", "src": "phist"}
 {"id": 1534056, "jp": "そういえば、アビィは家を長く離れるのははじめて？", "en": "Come to think of it, is this your first time away from home for so long, Abby?", "src": "phist"}
-{"id": 1534057, "jp": "でも、ぜんぜん、さみしくない！\nせーりんしゃ、遊んでくれるから。", "en": "But I'm not lonely at all!\nBecause Starcomer plays with me.", "src": "phist"}
+{"id": 1534057, "jp": "でも、ぜんぜん、さみしくない！\nせーりんしゃ、遊んでくれるから。", "en": "But I'm not lonely at all!\nBecause Starborn plays with me.", "src": "phist"}
 {"id": 1534058, "jp": "ただ……森で飛んでたの、ちょっとなつかしい……", "en": "It's just... I kind of miss flying in the forest...", "src": "phist"}
 {"id": 1534059, "jp": "そっか……うーん、鷹の連峰なら、\nアビィも気持ちよく飛べそうだけど……", "en": "I see...\nHmm, at the Hawk Range, you could probably fly comfortably, Abby...", "src": "phist"}
 {"id": 1534060, "jp": "あっちに行って、飛んでみようか？", "en": "Shall we go there and try flying?", "src": "phist"}
@@ -39089,7 +39089,7 @@
 {"id": 1535109, "jp": "ありがとう。星臨者がそう言うなら、待ってるね！", "en": "Thank you. If you say so, Starborn, I'll wait!", "src": "phist"}
 {"id": 1535110, "jp": "わぁぁ、本当に綺麗！まるで光ってるみたいだね！", "en": "Wow, they're so beautiful! They look like they're glowing!", "src": "phist"}
 {"id": 1535111, "jp": "はやく大きくなって、霧隠れの森に行って自分の目で見てみたいな。", "en": "I want to grow up fast and go to the Mistleaf Forest to see them with my own eyes.", "src": "phist"}
-{"id": 1535112, "jp": "できることなら、あの子たちと友達になりたい……", "en": "If I could, I'd love to become friends with them... Thank you so much, Starcomer!", "src": "phist"}
+{"id": 1535112, "jp": "できることなら、あの子たちと友達になりたい……", "en": "If I could, I'd love to become friends with them... Thank you so much, Starborn!", "src": "phist"}
 {"id": 1535113, "jp": "えっ……こ、これって……？", "en": "Huh...? Th-this is...?", "src": "phist"}
 {"id": 1535114, "jp": "羽が生えてる、綺麗なキボ……？", "en": "A beautiful Kibo with wings...?", "src": "phist"}
 {"id": 1535115, "jp": "たしかに羽は生えてる。", "en": "It does have\nwings, that's\ntrue.", "src": "phist"}
@@ -40099,7 +40099,7 @@
 {"id": 1536124, "jp": "内部はどうなっているのでしょう。\n竜人文明の建築に興味はありますが……", "en": "I wonder what it's like inside.\nI'm interested in Dragonkin Civilization architecture, but...", "src": "phist"}
 {"id": 1536125, "jp": "今回の目的は、あくまで予言の<color=#fed196>ステラストーン</color>……\n遺跡探索はまたつぎの機会にしましょう。", "en": "Our goal this time is strictly the <color=#fed196>Stella Stone</color> of the prophecy...\nLet's save exploring the ruins for another time.", "src": "acedy"}
 {"id": 1536126, "jp": "ステラストーンかぁ……\n「<ruby=ロッテラン>雲海の国</ruby>」からはよく変なものが落ちてくるけど、\nシャラカ坊やの予言の水鏡に映ったのははじめてなのだ。", "en": "The Stella Stone, huh...\nWeird things fall from the \"<ruby=Rotteran>Land of the Sea of Clouds</ruby>\" all the time,\nbut this is the first one to show up in little Sharaka's prophetic water mirror.", "src": "acedy"}
-{"id": 1536127, "jp": "ハイガーデンの連中、普段はすっごいカタブツのくせに……\n今回の予言を知ったら急に大騒ぎ。\nのんび〜り隠居中だったこのルミィさままで呼び出して。", "en": "That High Garden bunch are usually such total sticks-in-the-mud...\nbut the moment they heard this prophecy, they went into an uproar.\nThey even called out the great Lumie from her nice, la~zy retirement.", "src": "acedy"}
+{"id": 1536127, "jp": "ハイガーデンの連中、普段はすっごいカタブツのくせに……\n今回の予言を知ったら急に大騒ぎ。\nのんび〜り隠居中だったこのルミィさままで呼び出して。", "en": "That High Garden bunch are usually such total sticks-in-the-mud...\nbut the moment they heard this prophecy, they went into an uproar.\nThey even called out the great Lumi from her nice, la~zy retirement.", "src": "acedy"}
 {"id": 1536128, "jp": "それにしても……ここにはもっと大勢で向かったはずなんだけど、\nまだだ〜れも来てないのだ……？", "en": "Still... a whole lot more people were supposed to be headed here,\nand nobo~dy else has shown up yet...?", "src": "acedy"}
 {"id": 1536129, "jp": "言われてみれば……\n大賢者シャラカの予言の地はこのあたりであっているはず、なのですが……", "en": "Now that you mention it...\nThe land of Great Sage Sharaka's prophecy should be around here, but...", "src": "phist"}
 {"id": 1536130, "jp": "しかし、予言の刻まで、まだ時間が――", "en": "But there's still time until the hour of the prophecy...", "src": "phist"}
@@ -40576,9 +40576,9 @@
 {"id": 1536623, "jp": "失礼しました、ルミィさま。\n子どもたちはただただ好奇心が強いだけで、悪気はないんです……", "en": "My apologies, Lumi-sama.\nThe children are just very curious, they meant no harm...", "src": "phist"}
 {"id": 1536624, "jp": "ふーん。今回は許してあげるのだ。", "en": "Hmph. I'll forgive them this time.", "src": "phist"}
 {"id": 1536625, "jp": "星臨者も世話になったことだしな。", "en": "After all, you looked after the Starborn, too.", "src": "phist"}
-{"id": 1536626, "jp": "せいりんしゃ……？", "en": "Starcomer...?", "src": "phist"}
+{"id": 1536626, "jp": "せいりんしゃ……？", "en": "Starborn...?", "src": "phist"}
 {"id": 1536627, "jp": "えっ？まさか言ってないのか？\nここにいるのは、予言された<color=#fed196>8番目の星臨者</color>なのだ！", "en": "Huh? Don't tell me you haven't told them?\nThis right here is the <color=#fed196>eighth Starborn</color> of the prophecy!", "src": "acedy"}
-{"id": 1536628, "jp": "8番目の……せいりんしゃ？", "en": "The Eighth... Starcomer?", "src": "phist"}
+{"id": 1536628, "jp": "8番目の……せいりんしゃ？", "en": "The Eighth... Starborn?", "src": "phist"}
 {"id": 1536629, "jp": "うむ！星臨者は予言に語られる、\n星とともに空から降臨する者のことなのだ。", "en": "Yes!\nA Starborn is one spoken of in the prophecy, a being who descends from the sky together with a star!", "src": "phist"}
 {"id": 1536630, "jp": "8番目と言うと……\nこの方のような存在は、ほかにも7人いるということですか？", "en": "If this is the eighth...\ndoes that mean there are seven others like them?", "src": "phist"}
 {"id": 1536631, "jp": "『世界の書』には、これまでに7人の星臨者がいたと記録されてるのだ。", "en": "The 'Book of the World' records that seven Starborns have existed so far.", "src": "phist"}
@@ -40594,8 +40594,8 @@
 {"id": 1536641, "jp": "それなら大狼さまの像んとこまで行こう！\nあそこで{playerName}を見つけたんだ。一緒に落ちたなら、近くにいるかもしれない！", "en": "Then let's head to the Great Wolf's statue!\nThat's where I found {playerName}. If they fell together, they might be nearby!", "src": "acedy"}
 {"id": 1536642, "jp": "うんうん、たしかにそのとーりなのだ。\n落ちたあとはキミたちを追うのに必死で、探しに戻る時間はなかったし……", "en": "Yeah, yeah, that's right.\nAfter we fell I was desperate to catch up with you, so I had no time to go back and search...", "src": "phist"}
 {"id": 1536643, "jp": "あっ、ウル！こら、待て！", "en": "Ah, Uru! Hey, wait!", "src": "phist"}
-{"id": 1536644, "jp": "せいりんしゃ……", "en": "Starcomer...", "src": "phist"}
-{"id": 1536645, "jp": "ルミィさま。星臨者さまは空から降臨する者と仰っていましたよね。\nそれはつまり……この方は「<ruby=雲海の国>ソガタール</ruby>」から来たということでしょうか？", "en": "Great Lumie, you said a Starborn is one who descends from the sky.\nDoes that mean... this person came from \"<ruby=Cloud Sea Realm>Sogatar</ruby>\"?", "src": "acedy"}
+{"id": 1536644, "jp": "せいりんしゃ……", "en": "Starborn...", "src": "phist"}
+{"id": 1536645, "jp": "ルミィさま。星臨者さまは空から降臨する者と仰っていましたよね。\nそれはつまり……この方は「<ruby=雲海の国>ソガタール</ruby>」から来たということでしょうか？", "en": "Great Lumi, you said a Starborn is one who descends from the sky.\nDoes that mean... this person came from \"<ruby=Cloud Sea Realm>Sogatar</ruby>\"?", "src": "acedy"}
 {"id": 1536646, "jp": "うーん……\nちょっとまえに大きい星が落ちてきたことは知ってるのだ？", "en": "Hmm...\nDo you know about the big star that fell a little while ago?", "src": "phist"}
 {"id": 1536647, "jp": "はい。あのときはお姉ちゃんが空を見上げて、\n夢中になって追いかけて行ってしまって。", "en": "Yes.\nBack then my sister looked up at the sky and ran off after it, completely absorbed.", "src": "phist"}
 {"id": 1536648, "jp": "へへっ……\nまぁ、ぜーんぜん追いつけなかったけど。", "en": "Heh heh...\nWell, I didn't come close to catching it.", "src": "phist"}
@@ -40698,7 +40698,7 @@
 {"id": 1536745, "jp": "フフーン、さてはエルフの彫刻を見たことないな？\nエルフが長い時間をかけて、命を吹き込んだ至高の芸術だぞ！", "en": "Hmph, I bet you've never seen elf carvings.\nThey're supreme art, breathed with life over a long, long time!", "src": "phist"}
 {"id": 1536746, "jp": "はあぁ？\nいやいや、ぜーったいにチルルのほうが上だって！", "en": "Huh?\nNo way, Chilul's are totally better!", "src": "phist"}
 {"id": 1536747, "jp": "まあまあ、ふたりともケンカしないで。\nはやく手がかりを探そう？", "en": "Now, now, you two, don't fight.\nLet's hurry up and look for clues, okay?", "src": "phist"}
-{"id": 1536748, "jp": "ルミィ＆テララ", "en": "Lumie & Terara", "src": "phist"}
+{"id": 1536748, "jp": "ルミィ＆テララ", "en": "Lumi & Terara", "src": "phist"}
 {"id": 1536749, "jp": "我が名はルルカ。\nシャルル村のシャーマンとして恐れ多くも……", "en": "I am Luruka.\nAs Shaman of Charlulu Village, I dare to...", "src": "phist"}
 {"id": 1536750, "jp": "森羅万象に宿りしアウラに深い敬意を捧げます……", "en": "I offer my deepest reverence to the Aura that dwells within all things...", "src": "phist"}
 {"id": 1536751, "jp": "御身をもって、我らを守りたもう森の命よ。", "en": "Spirit of the forest, you who protect us with your very being.", "src": "phist"}
@@ -41143,7 +41143,7 @@
 {"id": 1537190, "jp": "ふうぅ～ひと息ひと息。", "en": "Phew~ Finally, a breather.", "src": "phist"}
 {"id": 1537191, "jp": "あ、そうだ。たしか……思い出したぞ！", "en": "Oh, right. I'm pretty sure... I remember now!", "src": "phist"}
 {"id": 1537192, "jp": "じゃーん！ルルカの特製料理～！", "en": "Ta-da! Luruka's Special Dish~!", "src": "phist"}
-{"id": 1537193, "jp": "ルミィ＆{playerName}", "en": "Lumie & {playerName}", "src": "acedy"}
+{"id": 1537193, "jp": "ルミィ＆{playerName}", "en": "Lumi & {playerName}", "src": "acedy"}
 {"id": 1537194, "jp": "おいおい、なに怯えてるんだ？味の心配でもしてるのか？", "en": "Hey, hey, what are you so scared of? Worried about the taste or something?", "src": "phist"}
 {"id": 1537195, "jp": "とーぜんなのだ！このまえの『トキメク言霊ノ秘薬』だって、\n危うく星臨者が目覚めなくなるとこだったんだぞ！", "en": "Of course we are!\nEven that Heart-Fluttering Elixir of Word Spirits nearly kept the Starborn from ever waking up!", "src": "phist"}
 {"id": 1537196, "jp": "はは……いやぁ、それは薬だからだ。料理はべーつ！", "en": "Ha ha... Well, that's because it was medicine. Cooking is different!", "src": "phist"}
@@ -41451,7 +41451,7 @@
 {"id": 1537498, "jp": "弓を教えるかわりに、はぐれた仲間を探すのを \n手伝ってほしいと頼まれてるの。", "en": "In exchange for teaching me archery, she asked me to \nhelp her look for her lost companions.", "src": "acedy"}
 {"id": 1537499, "jp": "探してるのはたしか、人間と妖精だって言ってたけど……", "en": "If I remember right, she said she's looking for a human and a fairy, but...", "src": "phist"}
 {"id": 1537500, "jp": "それって――", "en": "That means—", "src": "phist"}
-{"id": 1537501, "jp": "ルミィ＆ミィティ", "en": "Lumie & Mitty", "src": "phist"}
+{"id": 1537501, "jp": "ルミィ＆ミィティ", "en": "Lumi & Mitty", "src": "phist"}
 {"id": 1537502, "jp": "あたしたちのことなのだ！\nアンタたちのことじゃん！", "en": "That's us!\nThat's you two!", "src": "phist"}
 {"id": 1537503, "jp": "アンタたちのことじゃん！", "en": "That's you two!", "src": "phist"}
 {"id": 1537504, "jp": "その先生の名前って、もしかしてシンフォーリア？", "en": "Is your teacher's name Symphoria, by any chance?", "src": "phist"}
@@ -41620,7 +41620,7 @@
 {"id": 1537667, "jp": "ア、アタシたちは翼人よ。飛んで行くに決まってるでしょ。\nもちろん……アタシだって、そうよ！", "en": "W-we're Wingfolk. Obviously we fly up.\nOf course... I can too, you know!", "src": "phist"}
 {"id": 1537669, "jp": "フフン、この程度の高さ、ルミィさまの強くてしなやかな羽根をもってすればなんてことない！\n木の実を摘むのとそう変わらないのだ！", "en": "Heh heh, a height like this is nothing for Lumi-sama's strong and supple wings!\nIt's hardly different from picking nuts!", "src": "phist"}
 {"id": 1537670, "jp": "なんで、みんなして疑いの目を向けるのだ？", "en": "Why is everyone looking at me so doubtfully?", "src": "phist"}
-{"id": 1537671, "jp": "まるで「不安だな、ルミィなんかちょっとした風で\nすぐ飛ばされそう」とでも言いたげだ！", "en": "It's like you're saying, \"I'm worried. A little breeze\nlooks like it would blow Lumie right away\"!", "src": "acedy"}
+{"id": 1537671, "jp": "まるで「不安だな、ルミィなんかちょっとした風で\nすぐ飛ばされそう」とでも言いたげだ！", "en": "It's like you're saying, \"I'm worried. A little breeze\nlooks like it would blow Lumi right away\"!", "src": "acedy"}
 {"id": 1537672, "jp": "いや、疑ってるわけじゃないって。", "en": "No, it's not that I doubt you.", "src": "phist"}
 {"id": 1537673, "jp": "ただ、ルミィだけ飛んでっても、ほかのメンツがさ。\nケガしてるヤツもいるし、星臨者も……\nそうだ、ルミィ、星臨者を連れて一緒に飛べないのか？", "en": "It's just, if only Lumi flies up, what about the rest of us?\nSome are hurt, and the Starborn too...\nHey, Lumi, can't you fly up together with the Starborn?", "src": "phist"}
 {"id": 1537674, "jp": "うーっ……", "en": "Mmgh...", "src": "phist"}
@@ -41720,7 +41720,7 @@
 {"id": 1537768, "jp": "やっぱり帰ろうか？", "en": "Maybe we\nshould just go\nhome?", "src": "phist"}
 {"id": 1537769, "jp": "アンタがそう言うなら、まあ……", "en": "If that's what you say, then, well...", "src": "phist"}
 {"id": 1537770, "jp": "こら！翼人たちの翼がしおれちゃったのだ！", "en": "Hey! Now the Wingfolk's wings have drooped!", "src": "phist"}
-{"id": 1537771, "jp": "星臨者、せっかくの厚意だぞ！\nそれにルミィさまは、なにか食べなきゃもう飛べないのだ〜！", "en": "Starborn, they're being so kind!\nBesides, the great Lumie can't fly anymore unless she eats something~!", "src": "acedy"}
+{"id": 1537771, "jp": "星臨者、せっかくの厚意だぞ！\nそれにルミィさまは、なにか食べなきゃもう飛べないのだ〜！", "en": "Starborn, they're being so kind!\nBesides, the great Lumi can't fly anymore unless she eats something~!", "src": "acedy"}
 {"id": 1537772, "jp": "ねえ、シンフォーリア先生、ほんとに帰っちゃうの？\nもう2、3日くらい泊まっていってもいいじゃない。", "en": "Hey, Teacher Symphoria, are you really leaving?\nWhy not stay two or three more days?", "src": "phist"}
 {"id": 1537773, "jp": "ミィティ……私には使命があるのです。\n星臨者さまを故郷、ロースランサに連れ帰らなくては。", "en": "Mitty... I have a mission.\nI must take the Starborn back to my homeland, Lors Lains.", "src": "phist"}
 {"id": 1537774, "jp": "星臨者さまの降臨は世界が変わる兆し。\n各地で凶獣の動きが活発になっている理由も……\n大賢者さまのもとに星臨者さまをお連れすれば、わかるかもしれません。", "en": "The Starborn's descent is a sign that the world is changing.\nThe reason Fiend Beasts are growing more active everywhere, too...\nWe may learn it if I bring the Starborn to the Great Sage.", "src": "acedy"}
@@ -42167,10 +42167,10 @@
 {"id": 1538215, "jp": "ん？探偵だと？", "en": "Hm? A detective?", "src": "phist"}
 {"id": 1538216, "jp": "そう、ルミィが助手だよ！\n一緒にユースベリー消失の謎を解き明かそう！", "en": "That's right, and Lumi is my assistant!\nLet's solve the mystery of the vanishing Youthberries together!", "src": "phist"}
 {"id": 1538217, "jp": "あたしが助手！？\nそれに解き明かすもなにも、ユースベリーを盗み食いしたのは――", "en": "Me, your assistant?!\nAnd there's nothing to solve, the one who snuck the Youthberries was—", "src": "phist"}
-{"id": 1538218, "jp": "ルミィ、この事件は見た目以上に複雑なんだ。\n調査には時間がかかる……覚悟はできてる？|ルミィ、この事件は見た目以上に複雑なの。\n調査には時間がかかる……覚悟はできてる？", "en": "Lumie, this case is more complicated than it looks.\nThe investigation will take time... Are you ready?|Lumie, this case is more complicated than it looks.\nThe investigation will take time... Are you ready?", "src": "acedy"}
+{"id": 1538218, "jp": "ルミィ、この事件は見た目以上に複雑なんだ。\n調査には時間がかかる……覚悟はできてる？|ルミィ、この事件は見た目以上に複雑なの。\n調査には時間がかかる……覚悟はできてる？", "en": "Lumi, this case is more complicated than it looks.\nThe investigation will take time... Are you ready?|Lumi, this case is more complicated than it looks.\nThe investigation will take time... Are you ready?", "src": "acedy"}
 {"id": 1538219, "jp": "はっ……！も、もちろんなのだ！\n名探偵、星臨者よ！この大妖精が、事件解決を完璧にサポートしてやる！", "en": "Oh...! O-Of course!\nGreat detective Starborn! This Great Fairy will support you perfectly in solving the case!", "src": "phist"}
 {"id": 1538220, "jp": "私はここに残ります。まだ村長さまのお話を聞きたいですから。\nシャルル村の伝承は本当に素敵ですね……", "en": "I'll stay here. I still want to hear more of the Village Chief's stories.\nThe legends of Charlulu Village are truly wonderful...", "src": "phist"}
-{"id": 1538221, "jp": "うん。僕たちに任せて。ルミィ、行こう！|うん。私たちに任せて。ルミィ、行くよ！", "en": "Okay. Leave it to us. Lumie, let's go!|Okay. Leave it to us. Lumie, let's go!", "src": "acedy"}
+{"id": 1538221, "jp": "うん。僕たちに任せて。ルミィ、行こう！|うん。私たちに任せて。ルミィ、行くよ！", "en": "Okay. Leave it to us. Lumi, let's go!|Okay. Leave it to us. Lumi, let's go!", "src": "acedy"}
 {"id": 1538222, "jp": "ガドリごとき、すぐ捕まえるのだ！", "en": "A mere Gadori, we'll catch it in no time!", "src": "phist"}
 {"id": 1538223, "jp": "あっ、あそこにいたぞ！", "en": "Ah, there it is!", "src": "phist"}
 {"id": 1538224, "jp": "おい、大丈夫か？気を強くもて！", "en": "Hey, are you okay? Hang in there!", "src": "phist"}
@@ -42642,7 +42642,7 @@
 {"id": 1538691, "jp": "これ……すごくおいしいです……！", "en": "This... is incredibly delicious...!", "src": "phist"}
 {"id": 1538692, "jp": "もぐもぐ……手が、止まらない！", "en": "Munch munch... I can't stop!", "src": "phist"}
 {"id": 1538693, "jp": "うん……うん！すっごく、おいしい！", "en": "Yeah... yeah! It's so, so delicious!", "src": "phist"}
-{"id": 1538694, "jp": "悪くない！こっちのも……\nこらぁ！ルミィさまにもひとくち残しておくのだ〜！", "en": "Not bad! This one too...\nHey! Leave a bite for the great Lumie~!", "src": "acedy"}
+{"id": 1538694, "jp": "悪くない！こっちのも……\nこらぁ！ルミィさまにもひとくち残しておくのだ〜！", "en": "Not bad! This one too...\nHey! Leave a bite for the great Lumi~!", "src": "acedy"}
 {"id": 1538695, "jp": "テララ？どうしたの？もしかして口に合わない？", "en": "Terara? What's wrong? Is it not to your taste?", "src": "phist"}
 {"id": 1538696, "jp": "うーん、いや……", "en": "Hmm, no...", "src": "phist"}
 {"id": 1538697, "jp": "なんていうか……食感はいいし、味も悪くないけど……", "en": "How should I put it... the texture is good, and the taste isn't bad either...", "src": "phist"}
@@ -42706,7 +42706,7 @@
 {"id": 1538755, "jp": "星臨者さまが新しい料理を研究していると聞いたの。\nそれで、わたしも『薬膳料理』というものを作ってみようかなって……", "en": "I heard Starborn was researching a new dish.\nSo I thought I'd try making some \"Medicinal Cuisine\" too...", "src": "phist"}
 {"id": 1538756, "jp": "そ、そうか。", "en": "I-I see.", "src": "phist"}
 {"id": 1538757, "jp": "ちょうど広場で薬草を買ったところだったの。\nどんな食材と合いそうか見てみるね。", "en": "I just bought some herbs at the plaza.\nLet me see what ingredients they'd go well with.", "src": "phist"}
-{"id": 1538758, "jp": "せ、星臨者……いま嫌な単語を聞いた気がするんだけど……\n『薬膳料理』ってなんなんだ？", "en": "S-Starcomer... I think I just heard a terrible word...\nWhat is \"Medicinal Cuisine\" anyway?", "src": "phist"}
+{"id": 1538758, "jp": "せ、星臨者……いま嫌な単語を聞いた気がするんだけど……\n『薬膳料理』ってなんなんだ？", "en": "S-Starborn... I think I just heard a terrible word...\nWhat is \"Medicinal Cuisine\" anyway?", "src": "phist"}
 {"id": 1538759, "jp": "薬の素材と食材を組み合わせた料理のことだよ。", "en": "It's cooking that combines medicinal ingredients with regular food.", "src": "phist"}
 {"id": 1538760, "jp": "おい、まずいぞ！ルルカが作った薬の味、もう忘れたのか！？", "en": "Hey, this is bad! Have you already forgotten how Luruka's medicine tasted?!", "src": "phist"}
 {"id": 1538761, "jp": "料理は結構おいしかったけど……", "en": "The food was\nactually pretty\ngood, though...", "src": "phist"}
@@ -42743,7 +42743,7 @@
 {"id": 1538792, "jp": "その場にいた者は顔を見合わせ、鍋のなかの料理を見つめて覚悟を決めた。\n「あーん……」", "en": "Everyone present exchanged glances, stared at the dish in the pot, and steeled themselves.\n\"Aaah...\"", "src": "phist"}
 {"id": 1538793, "jp": "とろみのある汁が得体のしれない菌糸をまとって口内にからみつき、\nベタつく舌触りのなにかが舌先でうごめく。\nその後、呪いのような味が味蕾に刻み込まれ、\n甘みと苦みが共存するこの混沌とした味のなかで、意識はぼやけ、\nゆっくりと混沌に落ちていく……", "en": "A thick broth laced with unidentifiable fungal threads clings to the inside of your mouth,\nand something sticky squirms on the tip of your tongue.\nThen a curse-like flavor is carved into your taste buds,\nand within this chaotic taste where sweet and bitter coexist, your mind blurs\nand slowly sinks into chaos...", "src": "acedy"}
 {"id": 1538794, "jp": "はっ。なんか……いま、記憶が飛んだような……", "en": "Huh? It feels like... I just blacked out for a moment...", "src": "phist"}
-{"id": 1538795, "jp": "せ、星臨者……あたしたち、どうなったのだ？", "en": "S-Starcomer... what happened to us?", "src": "phist"}
+{"id": 1538795, "jp": "せ、星臨者……あたしたち、どうなったのだ？", "en": "S-Starborn... what happened to us?", "src": "phist"}
 {"id": 1538796, "jp": "なんだか、ご先祖さまに、会えたような……", "en": "I feel like... I got to meet my ancestors...", "src": "phist"}
 {"id": 1538797, "jp": "うーん……味のほうはもうすこし調整が必要みたいですね。", "en": "Hmm... It seems the flavor still needs a bit of adjusting.", "src": "phist"}
 {"id": 1538798, "jp": "星臨者……頼む……はやく別のものを食べさせてくれ。全部忘れたいんだ……", "en": "Starborn... please... hurry and let me eat something else. I want to forget everything...", "src": "phist"}
@@ -43035,7 +43035,7 @@
 {"id": 1539084, "jp": "凶獣が嫌いだから。", "en": "Because I hate\nthe Fiends.", "src": "phist"}
 {"id": 1539085, "jp": "英雄に……？", "en": "A hero...?", "src": "phist"}
 {"id": 1539086, "jp": "うん。みんなは僕を星臨者って呼ぶけど……\n僕には記憶がなくて、星臨者がなんなのかずっとわかってない。|うん。みんなは私を星臨者って呼ぶけど……\n私には記憶がなくて、星臨者がなんなのかずっとわかってない。", "en": "Yes. Everyone calls me the Starborn, but...\nI have no memories, and I've never understood what a Starborn is.|Yes. Everyone calls me the Starborn, but...\nI have no memories, and I've never understood what a Starborn is.", "src": "acedy"}
-{"id": 1539087, "jp": "シンフォーリア、ルミィ……みんなに……\n『特別な存在』とか、『世界を変えられる』とか言われてるけど……", "en": "Symphoria, Lumie... everyone tells me...\nthat I'm 'special,' that I 'can change the world,' but...", "src": "acedy"}
+{"id": 1539087, "jp": "シンフォーリア、ルミィ……みんなに……\n『特別な存在』とか、『世界を変えられる』とか言われてるけど……", "en": "Symphoria, Lumi... everyone tells me...\nthat I'm 'special,' that I 'can change the world,' but...", "src": "acedy"}
 {"id": 1539088, "jp": "どうすればいいのかわからなかったし……その名にふさわしいのか、不安だった。", "en": "I didn't know what to do... and I was anxious about whether I deserved that name.", "src": "phist"}
 {"id": 1539089, "jp": "でも、みんなと過ごすうちにわかったことがある。\n僕はみんなが苦しむ姿を見たくない。|でも、みんなと過ごすうちにわかったことがある。\n私はみんなが苦しむ姿を見たくない。", "en": "But spending time with everyone, I realized something.\nI don't want to see any of you suffer.|But spending time with everyone, I realized something.\nI don't want to see any of you suffer.", "src": "acedy"}
 {"id": 1539090, "jp": "だから、みんなが望んでいる存在になって……星臨者として、みんなを助けたい。", "en": "So I want to become what everyone hopes for... and help everyone as the Starborn.", "src": "phist"}
@@ -43102,7 +43102,7 @@
 {"id": 1539151, "jp": "わかりました！ぷーちゃん、ブルル、散歩の時間だよ〜！", "en": "Got it! Puu-chan, Bururu, time for a walk~!", "src": "acedy"}
 {"id": 1539152, "jp": "ブー！", "en": "Boo!", "src": "phist"}
 {"id": 1539153, "jp": "ぶるる！", "en": "Bruru!", "src": "phist"}
-{"id": 1539154, "jp": "ふぅ〜よしよし！翼人の食料問題もこれでひと段落か！\nルミィさまはもうくたくたなのだ！", "en": "Phew~ there, there! So that settles the winged folk's food problem for now!\nThe great Lumie is worn out!", "src": "acedy"}
+{"id": 1539154, "jp": "ふぅ〜よしよし！翼人の食料問題もこれでひと段落か！\nルミィさまはもうくたくたなのだ！", "en": "Phew~ there, there! So that settles the winged folk's food problem for now!\nThe great Lumi is worn out!", "src": "acedy"}
 {"id": 1539155, "jp": "ルミィはなにもしてないような？", "en": "Didn't Lumi not\nreally do\nanything?", "src": "phist"}
 {"id": 1539156, "jp": "ルミィは食べてただけじゃ……", "en": "Lumi was just\neating, wasn't\nshe...", "src": "phist"}
 {"id": 1539157, "jp": "なんだと！妖精があちこち飛び回るのは、すっごく体力を使うことなんだぞ！", "en": "What?! Flying around all over the place takes a ton of stamina for a fairy!", "src": "phist"}
@@ -43435,7 +43435,7 @@
 {"id": 1539484, "jp": "……ごめん。実は――", "en": "...I'm sorry. Actually—", "src": "phist"}
 {"id": 1539485, "jp": "巨鳥のキボと遭遇した経緯をファランタに伝えた。", "en": "You told Faridah how you had come across the giant bird Kibo.", "src": "phist"}
 {"id": 1539486, "jp": "あの巨鳥はいまも北の山地で飛び回ってる。\nはやすぎて僕たちだけじゃ対処できそうにない。|あの巨鳥はいまも北の山地で飛び回ってる。\nはやすぎて私たちだけじゃ対処できそうにない。", "en": "That giant bird is still flying around the northern mountains.\nIt's too fast for us to deal with on our own.|That giant bird is still flying around the northern mountains.\nIt's too fast for us to deal with on our own.", "src": "acedy"}
-{"id": 1539487, "jp": "シンフォーリアとルミィは落ちたふたりを峡谷で探してる。\nだから、僕が助けを求めに戻ったんだ。|シンフォーリアとルミィは落ちたふたりを峡谷で探してる。\nだから、私が助けを求めに戻ったの。", "en": "Symphoria and Lumie are searching the gorge for the two who fell.\nSo I came back to ask for help.|Symphoria and Lumie are searching the gorge for the two who fell.\nSo I came back to ask for help.", "src": "acedy"}
+{"id": 1539487, "jp": "シンフォーリアとルミィは落ちたふたりを峡谷で探してる。\nだから、僕が助けを求めに戻ったんだ。|シンフォーリアとルミィは落ちたふたりを峡谷で探してる。\nだから、私が助けを求めに戻ったの。", "en": "Symphoria and Lumi are searching the gorge for the two who fell.\nSo I came back to ask for help.|Symphoria and Lumi are searching the gorge for the two who fell.\nSo I came back to ask for help.", "src": "acedy"}
 {"id": 1539488, "jp": "<ruby=ホークガル>鷹主</ruby>さま！\nイェクウが言う巨鳥とは、まさか……", "en": "Hawk Lord!\nThe giant bird the Yekuu speaks of, could it be...", "src": "acedy"}
 {"id": 1539489, "jp": "ああ、間違いない……スパイトホーンだろう。", "en": "Yes, there's no doubt... It must be Spitehorn.", "src": "phist"}
 {"id": 1539490, "jp": "3朔ぶりに……あの怪物が現れたか。", "en": "That monster has appeared again... for the first time in three moons.", "src": "phist"}
@@ -44197,7 +44197,7 @@
 {"id": 1540246, "jp": "まあ、ポポクッキーはおいしいけど……", "en": "Well, Popo Cookies are delicious, though...", "src": "phist"}
 {"id": 1540247, "jp": "ほんのり甘くて……フレッシュな野菜の味と花の香りがするし……", "en": "They're lightly sweet... with the taste of fresh vegetables and the scent of flowers...", "src": "phist"}
 {"id": 1540248, "jp": "自然の味そのままだから体にもいい……", "en": "And since they taste just like nature, they're good for you too...", "src": "phist"}
-{"id": 1540249, "jp": "（ルミィって、キボの食べものが好きだったのか……）|（ルミィって、キボの食べものが好きだったんだ……）", "en": "(So Lumie liked Kibo food...)|(So Lumie liked Kibo food...)", "src": "acedy"}
+{"id": 1540249, "jp": "（ルミィって、キボの食べものが好きだったのか……）|（ルミィって、キボの食べものが好きだったんだ……）", "en": "(So Lumi liked Kibo food...)|(So Lumi liked Kibo food...)", "src": "acedy"}
 {"id": 1540250, "jp": "シンフォーリア、カーク。そんな浮かない顔してどうしたの？", "en": "Symphoria, Kirk. Why the long faces?", "src": "phist"}
 {"id": 1540251, "jp": "星臨者に妖精さま！", "en": "Starborn and Lady Fairy!", "src": "phist"}
 {"id": 1540252, "jp": "村長の無茶振りに悩んでたんだ。\n消えないかがり火なんて、ただの薪じゃ無理じゃないか。", "en": "We were fretting over the chief's unreasonable request.\nAn undying bonfire just can't be done with plain firewood.", "src": "acedy"}
@@ -44366,7 +44366,7 @@
 {"id": 1540415, "jp": "フルーツジュース？言われるとたしかに……", "en": "Fruit juice? Now that you mention it, you're right...", "src": "phist"}
 {"id": 1540416, "jp": "だけど、これ……なんか酔いそうなのだ……空の……月がふたつに……", "en": "But this... I feel kind of drunk... The moon... in the sky... there are two of them...", "src": "phist"}
 {"id": 1540417, "jp": "えっ、星臨者も増えたのだ……いーち、にー、さ……ん……？", "en": "Huh, there are more Starborns now... One, two, thr... ee...?", "src": "phist"}
-{"id": 1540418, "jp": "おかしいぞぉ……予言されたせーりんしゃはひとりだけ、なのにぃ……？", "en": "That's weird... the prophesied Starcomer is only one, but...", "src": "phist"}
+{"id": 1540418, "jp": "おかしいぞぉ……予言されたせーりんしゃはひとりだけ、なのにぃ……？", "en": "That's weird... the prophesied Starborn is only one, but...", "src": "phist"}
 {"id": 1540419, "jp": "むむむむぅ～ぐぅーー！", "en": "Mmmmgh~ zzzz--!", "src": "acedy"}
 {"id": 1540420, "jp": "ルミィさま！？大丈夫ですか？", "en": "Lumi! Are you all right?", "src": "phist"}
 {"id": 1540421, "jp": "だ、大丈夫！ふう……この大妖精は……へへ……元気……いっぱいぃ……", "en": "I-I'm fine! Phew... This great fairy is... heheh... full of... energyyy...", "src": "acedy"}
@@ -44500,7 +44500,7 @@
 {"id": 1540549, "jp": "テララ、落ち着いてください。\n星臨者さまとルルカさんの状態は生死に関わるようなものでは……", "en": "Terara, please calm down.\nThe Starborn's and Luruka's conditions aren't life-threatening...", "src": "phist"}
 {"id": 1540550, "jp": "こんなときに落ち着けって！？\n村が襲われて、星臨者とルルカも意識が戻らないってのに……\nあの凶獣！絶対に許さない！", "en": "Calm down at a time like this!?\nThe village was attacked, and the Starborn and Luruka still haven't come to...\nThose Fiends! I'll never forgive them!", "src": "phist"}
 {"id": 1540551, "jp": "……テララ？", "en": "...Terara?", "src": "phist"}
-{"id": 1540552, "jp": "せ、星臨者！目が覚めたのか！？", "en": "S-Starcomer! You're awake!?", "src": "phist"}
+{"id": 1540552, "jp": "せ、星臨者！目が覚めたのか！？", "en": "S-Starborn! You're awake!?", "src": "phist"}
 {"id": 1540553, "jp": "大丈夫か！？まだ起き上がらなくていい！\nアタシがじっちゃんを呼んでくる！", "en": "Are you okay!? Don't get up yet!\nI'll go get Gramps!", "src": "phist"}
 {"id": 1540554, "jp": "じっちゃん！！星臨者が起きた！はやく来てくれ！", "en": "Gramps!! The Starborn's awake! Hurry up and come!", "src": "phist"}
 {"id": 1540555, "jp": "星臨者さま、お体の具合は……？", "en": "Starborn, how are you feeling...?", "src": "phist"}
@@ -44508,7 +44508,7 @@
 {"id": 1540557, "jp": "ぐっ……", "en": "Ugh...", "src": "phist"}
 {"id": 1540558, "jp": "ル……", "en": "Lu...", "src": "phist"}
 {"id": 1540559, "jp": "おお……ソザンカさまに感謝を。やっと目が覚めたのう。", "en": "Oh... Thanks be to Sozanka. You've finally awakened.", "src": "phist"}
-{"id": 1540560, "jp": "うぅ〜ルミィさまも、もうすこしで水の大妖精のとこに、行くとこだったのだぁ……", "en": "Uuu〜 the great Lumie almost went off to join the Great Water Fairy too...", "src": "acedy"}
+{"id": 1540560, "jp": "うぅ〜ルミィさまも、もうすこしで水の大妖精のとこに、行くとこだったのだぁ……", "en": "Uuu〜 the great Lumi almost went off to join the Great Water Fairy too...", "src": "acedy"}
 {"id": 1540561, "jp": "村長、シンフォーリア……ルミィ……", "en": "Village Chief, Symphoria... Lumi...", "src": "phist"}
 {"id": 1540562, "jp": "心配かけてごめん。もう大丈夫。", "en": "Sorry for worrying you. I'm fine now.", "src": "phist"}
 {"id": 1540563, "jp": "ルルカ……ルルカはどうなった？それに、村のみんなは？|ルルカ……ルルカはどうなったの？それに、村のみんなは？", "en": "Luruka... What happened to Luruka? And everyone in the village?|Luruka... What happened to Luruka? And everyone in the village?", "src": "acedy"}
@@ -44542,7 +44542,7 @@
 {"id": 1540591, "jp": "まだ、わからない。", "en": "I don't know yet.", "src": "phist"}
 {"id": 1540592, "jp": "僕のカルマを送ってみたけど、目を覚ます気配がないんだ。|私のカルマを送ってみたけど、目を覚ます気配がないの。", "en": "I tried sending her my Karma, but there's no sign of her waking.|I tried sending her my Karma, but there's no sign of her waking.", "src": "acedy"}
 {"id": 1540593, "jp": "でも、カルマを送ったとき、\nなんだかルルカが見てる悪夢を覗き込んだような感覚があって……", "en": "But when I sent the Karma,\nit felt like I peered into the nightmare Luruka is having...", "src": "acedy"}
-{"id": 1540594, "jp": "ふーむ、カルマを交わした者同士には、\nお互いの精神世界が見えるということか……？\nルミィさまも初耳なのだ。", "en": "Hmmm, so those who have exchanged Karma\ncan see each other's inner world...?\nThat's news even to the great Lumie.", "src": "acedy"}
+{"id": 1540594, "jp": "ふーむ、カルマを交わした者同士には、\nお互いの精神世界が見えるということか……？\nルミィさまも初耳なのだ。", "en": "Hmmm, so those who have exchanged Karma\ncan see each other's inner world...?\nThat's news even to the great Lumi.", "src": "acedy"}
 {"id": 1540595, "jp": "悪夢か……若者よ、なにを見たのか、わしに聞かせてもらえるかのう？", "en": "A nightmare, hm... Young one, would you tell me what you saw?", "src": "phist"}
 {"id": 1540596, "jp": "砕けた月と……泣いているルルカを見た。", "en": "A shattered moon... and Luruka, crying.", "src": "phist"}
 {"id": 1540597, "jp": "砕けたタナか……なるほどのう。それは、結界が壊れたときの記憶じゃな。", "en": "A shattered Tana... I see. That is the memory of when the barrier was destroyed.", "src": "phist"}
@@ -45298,7 +45298,7 @@
 {"id": 1541347, "jp": "いいえ、私のことならご心配なく。\n任務をこなすうちに多少経験を積んで、戦いにも慣れていますから。", "en": "No, please don't worry about me.\nI've gained some experience carrying out my missions, so I'm used to fighting.", "src": "phist"}
 {"id": 1541348, "jp": "ただ、ここまで複雑な事態になるとは思っていませんでした……\n何事もなければ、いまごろ私たちはロースランサに着いていて……\n蔦でできたベンチに腰かけていたはずでしたから。", "en": "It's just that I never imagined things would become this complicated…\nIf nothing had happened, we would have reached Lors Lains by now…\nand I would have been sitting on a bench made of vines.", "src": "phist"}
 {"id": 1541349, "jp": "まあまあ、何事も計画どおりにはいかないものなのだ。", "en": "Come on now, things never go according to plan.", "src": "phist"}
-{"id": 1541350, "jp": "それに、ハイガーデンで老いぼれどもに囲まれるより、\nここにいるほうがルミィさまはよっぽど楽しいぞ。", "en": "Besides, the great Lumie has way more fun here\nthan surrounded by old fogeys at High Garden.", "src": "acedy"}
+{"id": 1541350, "jp": "それに、ハイガーデンで老いぼれどもに囲まれるより、\nここにいるほうがルミィさまはよっぽど楽しいぞ。", "en": "Besides, the great Lumi has way more fun here\nthan surrounded by old fogeys at High Garden.", "src": "acedy"}
 {"id": 1541351, "jp": "皆さんと過ごした時間は、まだ長いとは言えません。\nですが、皆さんの『家』に対する愛着はひしひしと伝わってきました。\nその心は尊ぶべきものです。", "en": "The time I've spent with everyone can't yet be called long.\nBut I've keenly felt how attached you all are to your \"home.\"\nThat feeling deserves respect.", "src": "phist"}
 {"id": 1541352, "jp": "ですから、いまは目のまえの戦いに集中するつもりです……\nスーニヤを消し去り、この『家』を守り、旅に後悔を残さないようにしたい……", "en": "So for now, I intend to focus on the battle before us…\nI want to wipe out Sunya, protect this \"home,\" and leave no regrets from our journey…", "src": "phist"}
 {"id": 1541353, "jp": "あとのことは落ち着いてから、また考えればよいのです。", "en": "We can think about the rest once things have calmed down.", "src": "phist"}
@@ -46462,7 +46462,7 @@
 {"id": 1542513, "jp": "それか、あのおかしなキボたちをなんとかしてくれないかな。\nそうすれば、みんな安心して出かけられるようになる！", "en": "Or maybe you could do something about those strange Kibo.\nThen everyone could go out without worrying!", "src": "phist"}
 {"id": 1542514, "jp": "なるほど……おかしなキボですか。\nたしかに対処する必要がありますね。", "en": "I see... strange Kibo, you say.\nWe certainly need to deal with them.", "src": "phist"}
 {"id": 1542515, "jp": "ル、ルルカ……隣にいるのは……", "en": "L-Luruka... who's that next to you...?", "src": "phist"}
-{"id": 1542516, "jp": "大丈夫ですよ、チルル。\nこちらは{playerName}さまとルミィさま。シャルル村のお客さまです。", "en": "It's all right, Chilul.\nThese are {playerName} and Lumie. They are guests of Charlulu Village.", "src": "acedy"}
+{"id": 1542516, "jp": "大丈夫ですよ、チルル。\nこちらは{playerName}さまとルミィさま。シャルル村のお客さまです。", "en": "It's all right, Chilul.\nThese are {playerName} and Lumi. They are guests of Charlulu Village.", "src": "acedy"}
 {"id": 1542517, "jp": "その……お客さん、キボの木彫りはいかがですか？\n好きに見ていってください……", "en": "Um... customer, would you like a Kibo wood carving?\nPlease, take a look around...", "src": "phist"}
 {"id": 1542518, "jp": "おぉ〜どれもいい出来なのだ！すごい腕の持ち主みたいだぞ！", "en": "Ooh~ they're all really well made! You must be seriously skilled!", "src": "acedy"}
 {"id": 1542519, "jp": "そ……それほどでも……", "en": "N-not really...", "src": "phist"}
@@ -47054,8 +47054,8 @@
 {"id": 1543107, "jp": "よかった！その身のこなし、ただの旅の方じゃないみたい。\nなんて呼んだらいいのかな？", "en": "Good! The way you move, you're not just ordinary travelers.\nWhat should I call you?", "src": "phist"}
 {"id": 1543108, "jp": "あたしは大妖精、ルミィさま！\nこっちの頼れるウッドエルフはシンフォーリア。\nそれに狼しっぽ娘のテララとフィンヴォルフのウルなのだ！", "en": "I'm the Great Fairy, Lumi-sama!\nThis reliable Wood Elf is Symphoria.\nAnd the Wolf-Tail Girl Terara and the Finwolf Uru!", "src": "phist"}
 {"id": 1543109, "jp": "そして！ここにいるのは、\nなんとこの世界に降臨した8番目の星臨者、{playerName}なのだ！", "en": "And! The one standing here is none other than\n{playerName}, the eighth Starborn to descend upon this world!", "src": "acedy"}
-{"id": 1543110, "jp": "せ、星臨者……\nまさか！？あの伝説の星臨者なの！？", "en": "S-Starcomer...\nNo way?! The legendary Starborn?!", "src": "phist"}
-{"id": 1543111, "jp": "ルミィ……\n{playerName}さまの正体は隠したほうがよいのではないでしょうか？", "en": "Lumie...\nwouldn't it be better to keep {playerName}'s identity hidden?", "src": "acedy"}
+{"id": 1543110, "jp": "せ、星臨者……\nまさか！？あの伝説の星臨者なの！？", "en": "S-Starborn...\nNo way?! The legendary Starborn?!", "src": "phist"}
+{"id": 1543111, "jp": "ルミィ……\n{playerName}さまの正体は隠したほうがよいのではないでしょうか？", "en": "Lumi...\nwouldn't it be better to keep {playerName}'s identity hidden?", "src": "acedy"}
 {"id": 1543112, "jp": "うかつに明かせば、余計なトラブルを引き起こしてしまうかもしれません……", "en": "If we reveal it carelessly, it might cause needless trouble...", "src": "phist"}
 {"id": 1543113, "jp": "妖精にウッドエルフ、それに獣人と人間かぁ……\nなんだか、めずらしい組み合わせだね……", "en": "A fairy, a Wood Elf, and a Beastfolk and a human, huh...\nWhat an unusual combination...", "src": "phist"}
 {"id": 1543114, "jp": "テララ、どうしたの？", "en": "Terara, what's wrong?", "src": "phist"}
@@ -48070,9 +48070,9 @@
 {"id": 1544123, "jp": "リリィは冒険と聞くと、すぐ飛び込んでくるのだ。", "en": "Lily jumps right in the moment she hears \"adventure.\"", "src": "phist"}
 {"id": 1544124, "jp": "ルミィさま！わたしは修行のために来てるの！\nどんな機会だって見逃せないよ！", "en": "Lumi! I'm here for training!\nI can't pass up any opportunity!", "src": "phist"}
 {"id": 1544125, "jp": "シンフォーリア、ルミィ、鉱員とグランザロスを外まで連れていって。\n道中でまたキボに襲われたら大変だから。", "en": "Symphoria, Lumi, please take the miners and Granzaros outside.\nIt'd be terrible if Kibo attacked them again on the way.", "src": "phist"}
-{"id": 1544126, "jp": "いやだいやだ！ルミィさまも{playerName}と冒険に行くのだ～！\nこの下にある幽霊村がどうなってるのか気になって仕方ないぞ！", "en": "No, no! The great Lumie is going adventuring with {playerName} too~!\nI'm dying to know what's going on in the ghost village down there!", "src": "acedy"}
+{"id": 1544126, "jp": "いやだいやだ！ルミィさまも{playerName}と冒険に行くのだ～！\nこの下にある幽霊村がどうなってるのか気になって仕方ないぞ！", "en": "No, no! The great Lumi is going adventuring with {playerName} too~!\nI'm dying to know what's going on in the ghost village down there!", "src": "acedy"}
 {"id": 1544127, "jp": "ルミィ……まったく、しかたありませんね。", "en": "Lumi... honestly, there's no helping it.", "src": "phist"}
-{"id": 1544128, "jp": "それでは、{playerName}さま。\nルミィのこと、よろしくお願いします。", "en": "Well then, {playerName}.\nPlease take care of Lumie.", "src": "acedy"}
+{"id": 1544128, "jp": "それでは、{playerName}さま。\nルミィのこと、よろしくお願いします。", "en": "Well then, {playerName}.\nPlease take care of Lumi.", "src": "acedy"}
 {"id": 1544129, "jp": "しゅっぱーつ！", "en": "Let's gooo!", "src": "phist"}
 {"id": 1544130, "jp": "こんなに大きい空間があるなんて。", "en": "I never thought there'd be such a huge space.", "src": "phist"}
 {"id": 1544131, "jp": "うぅ！冷たい風がびゅーびゅー吹いてくるぞ！", "en": "Ugh! A cold wind is whooshing at us!", "src": "phist"}
@@ -48139,7 +48139,7 @@
 {"id": 1544192, "jp": "そうだね、もし本当に幽霊のしわざなら、\n地震の原因がこの村に隠されているかもしれない。\n調べてみる価値はあるね。", "en": "True. If ghosts really are behind this,\nthe cause of the earthquake may be hidden in this village.\nIt's worth investigating.", "src": "acedy"}
 {"id": 1544193, "jp": "賢い選択だね！\nそれじゃさっそく、行ってみよー！", "en": "A wise choice!\nThen let's go right away!", "src": "phist"}
 {"id": 1544194, "jp": "そうだ。まだ君たちの名前を聞いてなかったね。", "en": "Oh, right. We haven't asked your names yet.", "src": "phist"}
-{"id": 1544195, "jp": "僕は{playerName}、こっちはリリィとルミィ。|私は{playerName}、こっちはリリィとルミィだよ。", "en": "I'm {playerName}, and these are Lily and Lumie.|I'm {playerName}, and these are Lily and Lumie.", "src": "acedy"}
+{"id": 1544195, "jp": "僕は{playerName}、こっちはリリィとルミィ。|私は{playerName}、こっちはリリィとルミィだよ。", "en": "I'm {playerName}, and these are Lily and Lumi.|I'm {playerName}, and these are Lily and Lumi.", "src": "acedy"}
 {"id": 1544196, "jp": "よろしい！ちゃんと覚えたよ。\nこれからよろしくね～、{playerName}！", "en": "Very good! I've got them memorized.\nLooking forward to working with you~, {playerName}!", "src": "acedy"}
 {"id": 1544197, "jp": "このさきは門で塞がれちゃってるみたいだね……", "en": "Looks like a gate blocks the way ahead...", "src": "phist"}
 {"id": 1544198, "jp": "あれ……ねぇ、悠悠。\nこの門ってまえ来たとき開けなかったっけ？", "en": "Huh... hey, Youyou.\nDidn't we open this gate last time we came?", "src": "phist"}
@@ -48496,7 +48496,7 @@
 {"id": 1544550, "jp": "えっ！あの、ごめんなさい！", "en": "Eek! Um, I'm sorry!", "src": "phist"}
 {"id": 1544551, "jp": "あっ……すみません、怖がらせてしまったでしょうか。", "en": "Oh... I'm sorry, did I frighten you?", "src": "phist"}
 {"id": 1544552, "jp": "あとでちゃ～んと説明するのだ！\nもたもたしてると、追いつけなくなる！", "en": "I'll explain it all properly later!\nIf we dawdle, we won't catch up!", "src": "phist"}
-{"id": 1544553, "jp": "ルミィ……{playerName}さまを連れまわして、\n無茶をさせないようにしてくださいね。", "en": "Lumie... Please don't drag {playerName} around\nand make them do anything reckless.", "src": "acedy"}
+{"id": 1544553, "jp": "ルミィ……{playerName}さまを連れまわして、\n無茶をさせないようにしてくださいね。", "en": "Lumi... Please don't drag {playerName} around\nand make them do anything reckless.", "src": "acedy"}
 {"id": 1544554, "jp": "シンフォーリア、ランプブラックの被害はどう？", "en": "Symphoria, how bad is the damage to Lampblack?", "src": "phist"}
 {"id": 1544555, "jp": "さいわい、町の被害はそれほど大きくはありませんでした。\nただ、鉱員の方々に重傷者がいて……ひとまずフリスまでお連れして\n治療を受けていただこうと思っています。", "en": "Fortunately, the town wasn't damaged too badly.\nBut some of the miners are seriously hurt...\nI plan to take them to Fleece for treatment first.", "src": "phist"}
 {"id": 1544556, "jp": "わかった、それじゃあフリスで落ち合おう。", "en": "Got it. Then let's meet up in Fleece.", "src": "phist"}
@@ -48716,7 +48716,7 @@
 {"id": 1544770, "jp": "すっごく痛そうなのだ！", "en": "That sounds super painful!", "src": "phist"}
 {"id": 1544771, "jp": "よかった。テララも充実してたみたいだね。", "en": "Good. Looks like Terara had a fulfilling time too.", "src": "phist"}
 {"id": 1544772, "jp": "はぁーあ、でもさ。やっぱり一緒に冒険できないのは残念だったよ。\n屋根の上で飛んだり跳ねたり……見てるだけでわくわくした！", "en": "Haaah, but still. It was a shame I couldn't adventure with you.\nLeaping and jumping around on the rooftops... just watching was thrilling!", "src": "phist"}
-{"id": 1544773, "jp": "ルミィ……{playerName}さまを危険な目に遭わせてはならないとあれほど……\nいいですか、私たちの任務は星臨者さまを無事にロースランサまでお連れすること。\n忘れてはいけません！", "en": "Lumie... How many times have I told you not to put {playerName} in danger...\nListen, our mission is to bring the Starborn safely to Lors Lains.\nYou mustn't forget that!", "src": "acedy"}
+{"id": 1544773, "jp": "ルミィ……{playerName}さまを危険な目に遭わせてはならないとあれほど……\nいいですか、私たちの任務は星臨者さまを無事にロースランサまでお連れすること。\n忘れてはいけません！", "en": "Lumi... How many times have I told you not to put {playerName} in danger...\nListen, our mission is to bring the Starborn safely to Lors Lains.\nYou mustn't forget that!", "src": "acedy"}
 {"id": 1544774, "jp": "{playerName}さまになにかあったら、どうするんですか！", "en": "What would you do if something happened to {playerName}!", "src": "acedy"}
 {"id": 1544775, "jp": "いや～あれは泥棒を捕まえるためだったのだ……\nしかも、最後はちゃーんと丸く収まった！なっ、{playerName}！", "en": "Well~ that was to catch a thief...\nAnd in the end, it all worked out juuust fine! Right, {playerName}!", "src": "acedy"}
 {"id": 1544776, "jp": "そのとおり！", "en": "Exactly!", "src": "phist"}
@@ -48726,7 +48726,7 @@
 {"id": 1544780, "jp": "あの戦いは、あまりにも熾烈なものでした。\nだからこそ、もう危険な目に遭ってほしくないのです。", "en": "That battle was far too fierce.\nThat's exactly why I don't want you facing danger again.", "src": "phist"}
 {"id": 1544781, "jp": "はぁ、わかりました……\nどうせなにを言っても、あなたは迷わず飛び込んでいくでしょうから……", "en": "Sigh... I understand.\nNo matter what I say, you'll leap in without hesitation anyway...", "src": "phist"}
 {"id": 1544782, "jp": "でも、これからは自分の安全を最優先してください！\nよろしいですね？", "en": "But from now on, please put your own safety first!\nUnderstood?", "src": "phist"}
-{"id": 1544783, "jp": "{playerName}&ルミィ", "en": "{playerName} & Lumie", "src": "acedy"}
+{"id": 1544783, "jp": "{playerName}&ルミィ", "en": "{playerName} & Lumi", "src": "acedy"}
 {"id": 1544784, "jp": "それから、こちらの方は……", "en": "And this person here is...", "src": "phist"}
 {"id": 1544785, "jp": "ごめんなさい！ごめんなさい！ごめんなさい！", "en": "I'm sorry! I'm sorry! I'm sorry!", "src": "phist"}
 {"id": 1544786, "jp": "謝らないでください！責めるつもりはないのです。", "en": "Please don't apologize! I don't mean to blame you.", "src": "phist"}
@@ -48872,7 +48872,7 @@
 {"id": 1544926, "jp": "今日はなにか予定があるの？", "en": "Do we have any plans today?", "src": "phist"}
 {"id": 1544927, "jp": "昨日、アニスにも予定を聞かれたな。\n特に急ぎの用がなければ、アタシは今日も療養院を手伝うつもりだけど。", "en": "Anais asked me about my plans yesterday, too.\nUnless there's something urgent, I'm going to help out at the Sanatorium again today.", "src": "phist"}
 {"id": 1544928, "jp": "もちろん、『終刻の風塁』に入る方法を探すに決まってるのだ！\nこのままじゃ毎日、アイオリアンのことばっかり考えちゃって、\n金麦穂カーニバルだって思う存分楽しめないぞ！", "en": "Obviously, we look for a way into the 'Endtime Wind Bastion'!\nAt this rate, I'll be thinking about Aeolian every single day,\nand I won't even be able to enjoy the Golden Wheat Carnival to the fullest!", "src": "acedy"}
-{"id": 1544929, "jp": "ルミィ、領主さまのお話をもう忘れたんですか？\n金麦穂カーニバルの期間中は、余計なことをして問題を起こさないようにと\n言われたはずですよ。", "en": "Lumie, have you already forgotten what the Lord said?\nWe were told not to do anything unnecessary and cause trouble\nduring the Golden Wheat Carnival.", "src": "acedy"}
+{"id": 1544929, "jp": "ルミィ、領主さまのお話をもう忘れたんですか？\n金麦穂カーニバルの期間中は、余計なことをして問題を起こさないようにと\n言われたはずですよ。", "en": "Lumi, have you already forgotten what the Lord said?\nWe were told not to do anything unnecessary and cause trouble\nduring the Golden Wheat Carnival.", "src": "acedy"}
 {"id": 1544930, "jp": "大丈夫だいじょーぶ！\n見つからないようにこっそり動けば――", "en": "It's fine, it's fine!\nIf we sneak around so no one notices—", "src": "phist"}
 {"id": 1544931, "jp": "こっそり、なにをするつもりかな？", "en": "Sneak around and do what, exactly?", "src": "phist"}
 {"id": 1544932, "jp": "<quake>うわぁっ！こらこら、なんでいつもびっくりさせるような\n登場の仕方をするのだ！</quake>", "en": "<quake>Waah! Hey, hey, why do you always have to make\nsuch a startling entrance!</quake>", "src": "acedy"}
@@ -48938,7 +48938,7 @@
 {"id": 1544992, "jp": "ルミィは置いて行こう。", "en": "Let's leave\nLumi behind.", "src": "phist"}
 {"id": 1544993, "jp": "僕は飛空船にすごく興味がある！|私は飛空船にすごく興味がある！", "en": "I'm really interested in airships!|I'm really interested in airships!", "src": "acedy"}
 {"id": 1544994, "jp": "でも、せっかくだし……", "en": "But since we're\nhere...", "src": "phist"}
-{"id": 1544995, "jp": "ううっ……！ひどいぞ、{playerName}！\nルミィさまとの絆はこんな空に浮かぶガラクタにも\n勝てないくらい脆かったのか！？", "en": "Ugh...! How cruel, {playerName}!\nWas your bond with the great Lumie so fragile that it can't even beat\nsome junk floating in the sky!?", "src": "acedy"}
+{"id": 1544995, "jp": "ううっ……！ひどいぞ、{playerName}！\nルミィさまとの絆はこんな空に浮かぶガラクタにも\n勝てないくらい脆かったのか！？", "en": "Ugh...! How cruel, {playerName}!\nWas your bond with the great Lumi so fragile that it can't even beat\nsome junk floating in the sky!?", "src": "acedy"}
 {"id": 1544996, "jp": "いいか、ルミィさまの言うことをよーく聞くのだ。\n一度、飛空船に乗ったら、心も体も魔導技術に汚染される！\nそのうち、朽ち果てて歪んだモンスターになっちゃうのだ！", "en": "Listen well to what Lumi tells you.\nOnce you board an airship, your heart and body get polluted by Magitech!\nBefore long, you'll rot away into a twisted monster!", "src": "phist"}
 {"id": 1544997, "jp": "そんな大げさな……", "en": "That's a bit of an exaggeration...", "src": "phist"}
 {"id": 1544998, "jp": "そんなに心配する必要ないよ。\nシンフォーリアさんの言う通り、フリスの飛空船は魔力で駆動してるの。", "en": "There's no need to worry so much.\nLike Symphoria said, Fleece's airships are powered by magic.", "src": "phist"}
@@ -49365,7 +49365,7 @@
 {"id": 1545419, "jp": "訪問理由を知ったモーレンは\n私のことをハイガーデンがアヴァリアンを侮辱するために\n送り込んだ使者と見なし、決闘を申し込んできたのです。", "en": "Upon learning the reason for my visit, Moren\nregarded me as an envoy sent by High Garden\nto insult Avalian, and challenged me to a duel.", "src": "acedy"}
 {"id": 1545420, "jp": "エルフの王の仲裁が入って決着はつきませんでしたが、\nいまもわだかまりが残っているのです……", "en": "The Elven King intervened and it was never settled,\nbut the ill feeling lingers even now...", "src": "acedy"}
 {"id": 1545421, "jp": "まあ、どっちの考えも理解はできるのだ。", "en": "Well, I can understand both sides.", "src": "phist"}
-{"id": 1545422, "jp": "ウッドエルフはハイエルフが先祖や自然の法則を裏切ったと思ってる。\nだけど、このルミィさまだって、ハイガーデンのじじどもは\n保守的でつまらないって思うからな。", "en": "The Wood Elves think the High Elves betrayed their ancestors and the laws of nature.\nBut even the great Lumie thinks those old geezers in High Garden\nare conservative and boring.", "src": "acedy"}
+{"id": 1545422, "jp": "ウッドエルフはハイエルフが先祖や自然の法則を裏切ったと思ってる。\nだけど、このルミィさまだって、ハイガーデンのじじどもは\n保守的でつまらないって思うからな。", "en": "The Wood Elves think the High Elves betrayed their ancestors and the laws of nature.\nBut even the great Lumi thinks those old geezers in High Garden\nare conservative and boring.", "src": "acedy"}
 {"id": 1545423, "jp": "ルミィの言う通り、ウッドエルフの多くは\n生涯ロースランサから離れることがありません。\nですから、考えが凝り固まってしまっているのです。", "en": "Lumi is right.\nMost Wood Elves never leave Lors Lains in their entire lives.\nSo their thinking becomes rigid.", "src": "phist"}
 {"id": 1545424, "jp": "私も、かつてはそうでした……\nウィスパーとして大陸を巡り、任務を遂行するようになってはじめて、\n以前の考え方が、旧習に縛られていたことに気づいたのです。", "en": "I was once the same...\nOnly after I began traveling the continent on missions as a Whisper\ndid I realize my old way of thinking was bound by outdated customs.", "src": "acedy"}
 {"id": 1545425, "jp": "この機会に、モーレンと和解してみるのはどうかな？", "en": "Why not try making peace with Moren this time?", "src": "phist"}
@@ -49520,7 +49520,7 @@
 {"id": 1545575, "jp": "記憶がない……？", "en": "No memory...?", "src": "phist"}
 {"id": 1545576, "jp": "まさか……記憶喪失だとでも言うの？", "en": "Surely you don't mean... amnesia?", "src": "phist"}
 {"id": 1545577, "jp": "うん。目が覚めたら知らない森のなかにいて、自分がだれなのかまったく思い出せなかったんだ……|うん。目が覚めたら知らない森のなかにいて、自分がだれなのかまったく思い出せなかったの……", "en": "Yes. When I woke up I was in an unfamiliar forest, and I couldn't remember who I was at all...|Yes. When I woke up I was in an unfamiliar forest, and I couldn't remember who I was at all...", "src": "acedy"}
-{"id": 1545578, "jp": "運よく、任務中だったシンフォーリアとルミィが僕を見つけて、助けてくれたけど。|運よく、任務中だったシンフォーリアとルミィが私を見つけて、助けてくれたけど。", "en": "Luckily, Symphoria and Lumie were on a mission, found me, and helped me.|Luckily, Symphoria and Lumie were on a mission, found me, and helped me.", "src": "acedy"}
+{"id": 1545578, "jp": "運よく、任務中だったシンフォーリアとルミィが僕を見つけて、助けてくれたけど。|運よく、任務中だったシンフォーリアとルミィが私を見つけて、助けてくれたけど。", "en": "Luckily, Symphoria and Lumi were on a mission, found me, and helped me.|Luckily, Symphoria and Lumi were on a mission, found me, and helped me.", "src": "acedy"}
 {"id": 1545579, "jp": "状況を聞いたふたりは、ロースランサに連れて行ってくれると約束してくれた。\nハイガーデンなら、記憶を取り戻す方法があるって。", "en": "After hearing my situation, the two promised to take me to Lors Lains.\nThey said High Garden would have a way to restore my memory.", "src": "phist"}
 {"id": 1545580, "jp": "だから、記憶を取り戻すために、一緒に旅をしてるんだ。|だから、記憶を取り戻すために、一緒に旅をしてるの。", "en": "So we're traveling together to get my memories back.|So we're traveling together to get my memories back.", "src": "acedy"}
 {"id": 1545581, "jp": "ふむ……嘘はないでしょうね？", "en": "Hmm... you're not lying, are you?", "src": "phist"}
@@ -51446,7 +51446,7 @@
 {"id": 1547503, "jp": "い、いえ……その、なんでもありません！\nはやく食べましょう。温かいうちに……", "en": "N-no... it's nothing, really!\nLet's eat quickly. While it's still warm...", "src": "phist"}
 {"id": 1547504, "jp": "おくすり……にがいよう……", "en": "Medicine... it's bitter...", "src": "phist"}
 {"id": 1547505, "jp": "ピカピカの石……どこ？", "en": "Shiny Stone... where is it?", "src": "phist"}
-{"id": 1547506, "jp": "……せーりんしゃ！", "en": "...Starcomer!", "src": "phist"}
+{"id": 1547506, "jp": "……せーりんしゃ！", "en": "...Starborn!", "src": "phist"}
 {"id": 1547507, "jp": "アビィと、遊んで！", "en": "Play with Abby!", "src": "phist"}
 {"id": 1547508, "jp": "アビィ、駄目よ。\n今日のお薬をまだ飲んでいないでしょう？", "en": "Abby, no.\nYou haven't taken today's medicine yet, have you?", "src": "phist"}
 {"id": 1547509, "jp": "うぅ……でも、昨日飲んだ。", "en": "Uu... but I took it yesterday.", "src": "phist"}
@@ -51471,14 +51471,14 @@
 {"id": 1547528, "jp": "それが寂しいのかしら……アビィはときどき、\nぼんやり池を見つめていることがあって、心配しているの。", "en": "Maybe that's what makes her lonely...\nSometimes Abby stares blankly at the pond, and it worries me.", "src": "phist"}
 {"id": 1547529, "jp": "体は並外れて強いかもしれない。\nけれど、心は故郷を遠く離れたひとりの子どもだから。", "en": "Her body may be extraordinarily strong.\nBut her heart is that of a child far from her homeland.", "src": "phist"}
 {"id": 1547530, "jp": "できるだけ、そばにいることにするよ。\nさっき言ってた『リハビリ』って、具体的にはなにをするの？", "en": "I'll stay close to her as much as I can.\nWhat exactly does the \"rehab\" you mentioned involve?", "src": "phist"}
-{"id": 1547531, "jp": "せーりんしゃ、こっち！", "en": "Starcomer, this way!", "src": "phist"}
+{"id": 1547531, "jp": "せーりんしゃ、こっち！", "en": "Starborn, this way!", "src": "phist"}
 {"id": 1547532, "jp": "ふふ、もう待ちきれないみたいだわ。\nなにをするかは、アビィから聞いてちょうだい。", "en": "Hee hee, she can't wait any longer.\nPlease ask Abby what you'll be doing.", "src": "phist"}
 {"id": 1547533, "jp": "見て、キボ、ピカピカ！", "en": "Look, Kibo, shiny!", "src": "phist"}
 {"id": 1547534, "jp": "はむはむ……はむはむ。", "en": "Nom nom... nom nom.", "src": "phist"}
 {"id": 1547535, "jp": "ピィ……", "en": "Pii...", "src": "phist"}
 {"id": 1547536, "jp": "逃げちゃった……", "en": "It ran away...", "src": "phist"}
 {"id": 1547537, "jp": "（これがメーツァの言ってた、竜人の威圧感……？）", "en": "(Is this the dragonkin intimidation Metsa was talking about...?)", "src": "phist"}
-{"id": 1547538, "jp": "せーりんしゃ、『りはびり』ごっこ、してくれる？", "en": "Starcomer, will you play \"rehabiri\" with me?", "src": "phist"}
+{"id": 1547538, "jp": "せーりんしゃ、『りはびり』ごっこ、してくれる？", "en": "Starborn, will you play \"rehabiri\" with me?", "src": "phist"}
 {"id": 1547539, "jp": "メーツァお姉ちゃん、言ってた。\n『りはびり』したら、怖い夢見ない。\nにがいお薬も、のまなくていい。", "en": "Big Sis Metsa said it.\nIf I do \"rehabiri,\" no scary dreams.\nNo more bitter medicine, too.", "src": "phist"}
 {"id": 1547540, "jp": "メーツァは『リハビリ』でなにをすればいいか、\n教えてくれたかな？", "en": "Did Metsa tell you\nwhat to do for \"rehab\"?", "src": "acedy"}
 {"id": 1547541, "jp": "うん！ひとつ、いっぱいうんどう。\nふたつ、いっぱいはむはむ。", "en": "Yeah! One, lots of exercise.\nTwo, lots of nom nom.", "src": "phist"}
@@ -51505,7 +51505,7 @@
 {"id": 1547564, "jp": "シャルル村、第三の掟、『食料を粗末にするべからず』。\nおいしいがっつり炙り肉は、アビィの代わりにもらっておこう。", "en": "Charlulu Village, Third Rule: \"Thou shalt not waste food.\"\nI'll take that delicious Hearty Seared Meat in Abby's place.", "src": "phist"}
 {"id": 1547565, "jp": "（捕まえた）", "en": "(Caught you!)", "src": "phist"}
 {"id": 1547566, "jp": "アビィがどこに隠れても、必ず見つけるよ。", "en": "No matter where you hide, Abby, I'll always find you.", "src": "phist"}
-{"id": 1547567, "jp": "せーりんしゃ、すごい。", "en": "Starcomer, amazing.", "src": "phist"}
+{"id": 1547567, "jp": "せーりんしゃ、すごい。", "en": "Starborn, amazing.", "src": "phist"}
 {"id": 1547568, "jp": "準備運動はこれで終わり！リハビリをはじめよっか。\n……ん？アビィ、どうかした？", "en": "That's the end of warm-up! Let's start rehab.\n...Hm? Abby, what's wrong?", "src": "phist"}
 {"id": 1547569, "jp": "あっち、あたらしい友だち！", "en": "Over there, new friend!", "src": "phist"}
 {"id": 1547570, "jp": "コケッ？", "en": "Bawk?", "src": "phist"}
@@ -51591,7 +51591,7 @@
 {"id": 1547650, "jp": "お体によい薬膳料理を作ってきました。\n冷めないうちにどうぞ。", "en": "I made some Medicinal Cuisine that's good for your body.\nPlease have it before it gets cold.", "src": "phist"}
 {"id": 1547651, "jp": "秘伝の隠し味も入れてみたんですよ。\nきっと、甘い口当たりになっているはずです。", "en": "I added a secret family ingredient, too.\nIt should taste sweet, I'm sure.", "src": "phist"}
 {"id": 1547652, "jp": "えと？", "en": "Um?", "src": "phist"}
-{"id": 1547653, "jp": "うぅ……せーりんしゃ……これも、くんれん？", "en": "Ugh... Starcomer... is this training too?", "src": "phist"}
+{"id": 1547653, "jp": "うぅ……せーりんしゃ……これも、くんれん？", "en": "Ugh... Starborn... is this training too?", "src": "phist"}
 {"id": 1547654, "jp": "ルルカの注意を引きつける。", "en": "Distract\nLuruka.", "src": "phist"}
 {"id": 1547655, "jp": "アビィの代わりに薬を飲む。", "en": "Drink the\nmedicine in\nAbby's place.", "src": "phist"}
 {"id": 1547656, "jp": "{playerName}さま……手足をばたつかせて、どうかしたのですか？\n具合が悪いならお薬をお出しします。", "en": "{playerName}... why are you flailing your arms and legs?\nIf you're feeling unwell, I can give you some medicine.", "src": "acedy"}
@@ -51605,7 +51605,7 @@
 {"id": 1547664, "jp": "お肉、いいにおい。", "en": "Meat... smells good.", "src": "phist"}
 {"id": 1547665, "jp": "やった！今日はご馳走じゃないか！", "en": "Yes! It's a feast today!", "src": "phist"}
 {"id": 1547666, "jp": "ちょっと……わけてあげる。", "en": "I'll... share a little.", "src": "phist"}
-{"id": 1547667, "jp": "せーりんしゃ言ってた。\n「食べものは、わけあうと、もっとおいしい」って。", "en": "Starcomer said it.\n\"Food is tastier when you share it.\"", "src": "phist"}
+{"id": 1547667, "jp": "せーりんしゃ言ってた。\n「食べものは、わけあうと、もっとおいしい」って。", "en": "Starborn said it.\n\"Food is tastier when you share it.\"", "src": "phist"}
 {"id": 1547668, "jp": "そうそう！\nシャルル村、第五の掟！『狩りは仲間と協力して行うべし』！", "en": "That's right!\nCharlulu Village, Third Rule! \"Hunts shall be carried out together with your companions!\"", "src": "phist"}
 {"id": 1547669, "jp": "うまいもんは、みんなで分け合ったらもっとうまくなるからな！", "en": "Good food gets even better when everybody shares it!", "src": "phist"}
 {"id": 1547670, "jp": "じゃあ……あまいスープ……いっしょにのむ？", "en": "Then... do you want to drink the sweet soup... together?", "src": "phist"}
@@ -51618,7 +51618,7 @@
 {"id": 1547677, "jp": "だいじょーぶだいじょーぶ！\nまた狩りに行けばいいだけだからさ。肉なんていくらでもあるって！", "en": "It's fine, it's fine!\nWe'll just go hunting again. There's plenty of meat out there!", "src": "phist"}
 {"id": 1547678, "jp": "ええ、たくさん食べたほうが傷の治りもはやくなります。\nまだおなかは空いていますか？", "en": "Yes, eating plenty will help your wounds heal faster.\nAre you still hungry?", "src": "phist"}
 {"id": 1547679, "jp": "……アビィ、いっぱいおいしいもの見つける。みんなと『わけあう』。", "en": "...Abby will find lots of yummy things. And \"share\" them with everyone.", "src": "phist"}
-{"id": 1547680, "jp": "せーりんしゃ……てつだって。", "en": "Starcomer... help me.", "src": "phist"}
+{"id": 1547680, "jp": "せーりんしゃ……てつだって。", "en": "Starborn... help me.", "src": "phist"}
 {"id": 1547681, "jp": "ん？", "en": "Hm?", "src": "phist"}
 {"id": 1547682, "jp": "この石みたいに硬い殻を割ると、\nチシキの果肉が食べられるんだ。香りもさわやかだよ。", "en": "Crack open this rock-hard shell\nand you can eat the Chishiki's flesh. It has a refreshing scent, too.", "src": "acedy"}
 {"id": 1547683, "jp": "『ヤシ頭』っていうのは、融通がきかなくて、\nチシキの殻みたいに頭が硬いっていう意味なんだって。", "en": "They say \"coconut head\" means someone who's inflexible,\nwith a head as hard as a Chishiki shell.", "src": "acedy"}
@@ -51628,7 +51628,7 @@
 {"id": 1547687, "jp": "うぅ……ちょっとピリピリする。", "en": "Ugh... it tingles a little.", "src": "phist"}
 {"id": 1547688, "jp": "これはお薬になるんだ。\n食べすぎると舌がしびれちゃうよ。", "en": "This is used as medicine.\nIf you eat too much, your tongue goes numb.", "src": "phist"}
 {"id": 1547689, "jp": "……う。した、びりびり。", "en": "...Ugh. Tongue, tingly.", "src": "phist"}
-{"id": 1547690, "jp": "アビィ、おぼえた。\nへんなもの見たら、まずせーりんしゃにきく。", "en": "Abby remembers.\nIf I see a strange thing, I ask Starcomer first.", "src": "phist"}
+{"id": 1547690, "jp": "アビィ、おぼえた。\nへんなもの見たら、まずせーりんしゃにきく。", "en": "Abby remembers.\nIf I see a strange thing, I ask Starborn first.", "src": "phist"}
 {"id": 1547691, "jp": "火、みたい。あったかそう。おいしい？", "en": "Like fire. Looks warm. Is it yummy?", "src": "phist"}
 {"id": 1547692, "jp": "フラムールは食べちゃだめだよ。\n料理に使ったりしたら……", "en": "You must not eat Flamur.\nIf you cook with it...", "src": "phist"}
 {"id": 1547693, "jp": "だめなの？", "en": "No?", "src": "phist"}
@@ -51676,7 +51676,7 @@
 {"id": 1547735, "jp": "料理を習いたい？ああ、それなら……\n煮込み肉の作り方を教えてあげようかねえ。", "en": "You want to learn to cook? Well, in that case...\nI suppose I could teach you how to make a slow-simmered meat stew.", "src": "phist"}
 {"id": 1547736, "jp": "あんたたちは、村のためにずいぶんと力を貸してくれただろう？\nあたしには料理くらいしか、返せるものがないからねえ。", "en": "You've lent the village a great deal of help, haven't you?\nCooking is about all I have to give back.", "src": "phist"}
 {"id": 1547737, "jp": "時間をかけて煮込むだけでできる料理さ。\nはじめてでも肉をやわらかく、いい香りに仕上げられる。", "en": "It's a dish that only needs a long, slow simmer.\nEven a first-timer can make the meat tender and fragrant.", "src": "phist"}
-{"id": 1547738, "jp": "おいしそう。せーりんしゃに、おしえて？", "en": "Looks yummy. Teach Starcomer?", "src": "phist"}
+{"id": 1547738, "jp": "おいしそう。せーりんしゃに、おしえて？", "en": "Looks yummy. Teach Starborn?", "src": "phist"}
 {"id": 1547739, "jp": "僕は料理を習うとして、アビィは？|私は料理を習うとして、アビィは？", "en": "So I'll learn the cooking. What about you, Abby?|So I'll learn the cooking. What about you, Abby?", "src": "acedy"}
 {"id": 1547740, "jp": "いっぱいはむはむする！\nそれから、『りはびり』おわらせる。", "en": "Munch a lot!\nAnd then finish my \"rehabiri.\"", "src": "phist"}
 {"id": 1547741, "jp": "アビィちゃんはなにが好きなんだい？\n煮込みにはいろんな食材の味が溶け込むからねえ。\n種類が多いほど、味わいも豊かになるよ。", "en": "What do you like, Abby dear?\nA stew blends in the flavor of all sorts of ingredients.\nThe more kinds, the richer the taste.", "src": "phist"}
@@ -51715,7 +51715,7 @@
 {"id": 1547774, "jp": "それじゃ、『キャバードと7羽のキャベッコ』の話をしようか。", "en": "Then how about the story of 'The Cabbird and the Seven Cabbecos'?", "src": "phist"}
 {"id": 1547775, "jp": "アビィ……『ピカピカのぼうけん』、ききたい。", "en": "Abby... wants to hear 'The Shiny Adventure.'", "src": "phist"}
 {"id": 1547776, "jp": "それはどんなお話？", "en": "What kind of story is that?", "src": "phist"}
-{"id": 1547777, "jp": "パパとママ、まえに話してくれた。\nアビィ、せーりんしゃに、話してあげる。", "en": "Papa and Mama told it to me before.\nAbby will tell it to Starcomer.", "src": "phist"}
+{"id": 1547777, "jp": "パパとママ、まえに話してくれた。\nアビィ、せーりんしゃに、話してあげる。", "en": "Papa and Mama told it to me before.\nAbby will tell it to Starborn.", "src": "phist"}
 {"id": 1547778, "jp": "『むかしむかし、とくべつな小さな竜がいました。\nほかのみんなと、ちょっとちがう竜でした』", "en": "\"Once upon a time, there was a special little dragon.\nA dragon a little different from everyone else.\"", "src": "acedy"}
 {"id": 1547779, "jp": "『小さな竜は、じぶんを怖がらない友だちを、\nさがしていました』", "en": "\"The little dragon was looking\nfor a friend who wouldn't be scared.\"", "src": "acedy"}
 {"id": 1547780, "jp": "『パパとママは言いました。\nいちばんピカピカのものを見つけたら、ねがいがかなうよ』", "en": "\"Papa and Mama said:\nFind the shiniest thing of all, and your wish will come true.\"", "src": "acedy"}
@@ -51741,7 +51741,7 @@
 {"id": 1547800, "jp": "アビィ……へんなものばっかりはむはむする……\nみんなと、ちがう……", "en": "Abby... keeps munching on strange things...\nI'm different from everyone...", "src": "phist"}
 {"id": 1547801, "jp": "アビィ……悪い子。", "en": "Abby... bad child.", "src": "phist"}
 {"id": 1547802, "jp": "だれ？", "en": "Who's there?", "src": "phist"}
-{"id": 1547803, "jp": "ラルたいちょう、モフモフ、せーりんしゃ見なかった？", "en": "Captain Ral, Fluffy, have you seen Starcomer?", "src": "phist"}
+{"id": 1547803, "jp": "ラルたいちょう、モフモフ、せーりんしゃ見なかった？", "en": "Captain Ral, Fluffy, have you seen Starborn?", "src": "phist"}
 {"id": 1547804, "jp": "ふむ？星臨者はお前の療養に付き合っていたはずだが。", "en": "Hm? Starborn should be with you for your recovery.", "src": "phist"}
 {"id": 1547805, "jp": "さきに言っておくが、私も相棒も今日は調子が悪くてな……\n手合わせは勘弁してくれ。", "en": "I'll tell you now, my partner and I are both feeling unwell today...\nSo please spare us a sparring match.", "src": "phist"}
 {"id": 1547806, "jp": "クゥン……", "en": "Kyuun...", "src": "phist"}
@@ -51757,8 +51757,8 @@
 {"id": 1547816, "jp": "森でかくれんぼしてたら、\nせーりんしゃ、いなくなった。", "en": "Was playing hide-and-seek in forest,\nand Starbown disappeared.", "src": "acedy"}
 {"id": 1547817, "jp": "え？星臨者が？どこに行ったんだ？アタシたちは見てないけど。", "en": "Huh? Starborn did? Where'd they go? We haven't seen them.", "src": "phist"}
 {"id": 1547818, "jp": "はやく探さなくては。", "en": "We must find them quickly.", "src": "phist"}
-{"id": 1547819, "jp": "せーりんしゃ、どこ？", "en": "Starcomer, where are you?", "src": "phist"}
-{"id": 1547820, "jp": "せーりんしゃは村を出る。あなたから離れる。", "en": "Starcomer will leave the village. Will leave you.", "src": "phist"}
+{"id": 1547819, "jp": "せーりんしゃ、どこ？", "en": "Starborn, where are you?", "src": "phist"}
+{"id": 1547820, "jp": "せーりんしゃは村を出る。あなたから離れる。", "en": "Starborn will leave the village. Will leave you.", "src": "phist"}
 {"id": 1547821, "jp": "また、ひとりぼっちになる。", "en": "You'll be all alone again.", "src": "phist"}
 {"id": 1547822, "jp": "エヴァーガーデンでも……ロースランサでも……", "en": "Even in Garden of Evergreen... even in Lors Lains...", "src": "phist"}
 {"id": 1547823, "jp": "エルフ", "en": "Elf", "src": "phist"}
@@ -51805,25 +51805,25 @@
 {"id": 1547864, "jp": "アビィ……いい子にする。", "en": "Abby... will be good.", "src": "phist"}
 {"id": 1547865, "jp": "……ん？ピカピカ？", "en": "...Hm? Shiny?", "src": "phist"}
 {"id": 1547866, "jp": "アビィ……アビィ、起きて！", "en": "Abby... Abby, wake up!", "src": "phist"}
-{"id": 1547867, "jp": "せーりんしゃ……さがしに来てくれたの？", "en": "Starcomer... did you come looking for me?", "src": "phist"}
+{"id": 1547867, "jp": "せーりんしゃ……さがしに来てくれたの？", "en": "Starborn... did you come looking for me?", "src": "phist"}
 {"id": 1547868, "jp": "ほんとうにそうかな？", "en": "Is that really so?", "src": "phist"}
 {"id": 1547869, "jp": "パパとママの帰り、ずっと待ってたね。\nシンフォーリア……それに、メーツァのことも……", "en": "You waited and waited for Papa and Mama to come home.\nSymphoria... and Metsa, too...", "src": "acedy"}
 {"id": 1547870, "jp": "ほんとに、来てくれるかな？", "en": "Will they really come for you?", "src": "phist"}
 {"id": 1547871, "jp": "みんな、みんな……", "en": "Everyone, everyone...", "src": "phist"}
-{"id": 1547872, "jp": "せーりんしゃ、かくれんぼ、アビィと同じくらいすごい！", "en": "Starcomer is as great at hide-and-seek as Abby!", "src": "phist"}
-{"id": 1547873, "jp": "せーりんしゃなら、ぜったいにアビィを見つけてくれる！", "en": "Starcomer will definitely find Abby!", "src": "phist"}
+{"id": 1547872, "jp": "せーりんしゃ、かくれんぼ、アビィと同じくらいすごい！", "en": "Starborn is as great at hide-and-seek as Abby!", "src": "phist"}
+{"id": 1547873, "jp": "せーりんしゃなら、ぜったいにアビィを見つけてくれる！", "en": "Starborn will definitely find Abby!", "src": "phist"}
 {"id": 1547874, "jp": "アビィ、しってる。ひとりで待つのは、さみしい。", "en": "Abby knows. Waiting alone is lonely.", "src": "phist"}
 {"id": 1547875, "jp": "アビィ、怖い。だれも来てくれなかったら……ひとりぼっち。", "en": "Abby is scared. If nobody comes... I'll be all alone.", "src": "phist"}
 {"id": 1547876, "jp": "でもだいじょうぶ。\nアビィ、かくれんぼで、いいほうほう、見つけた。", "en": "But it's okay.\nAbby found a good way to play hide-and-seek.", "src": "phist"}
 {"id": 1547877, "jp": "いっしょに、目をつぶろう……\n100から1までかぞえたら、来てくれる。", "en": "Let's close our eyes together...\nIf I count from 100 to 1, you'll come.", "src": "phist"}
 {"id": 1547880, "jp": "バイバイ、いい子のアビィ。", "en": "Bye-bye, good Abby.", "src": "phist"}
-{"id": 1547881, "jp": "せーりんしゃ……うぅ……どこにいるの！", "en": "Starcomer... uuu... where are you?!", "src": "phist"}
+{"id": 1547881, "jp": "せーりんしゃ……うぅ……どこにいるの！", "en": "Starborn... uuu... where are you?!", "src": "phist"}
 {"id": 1547882, "jp": "怖い夢を見てるの？", "en": "Are you having a bad dream?", "src": "phist"}
 {"id": 1547883, "jp": "もう大丈夫だよ。", "en": "It's all right\nnow.", "src": "phist"}
 {"id": 1547884, "jp": "すごく怖い夢、見た。\n夢のなかで……アビィ、みんなにきらわれた。", "en": "I had a really scary dream.\nIn the dream... everyone disliked Abby.", "src": "phist"}
 {"id": 1547885, "jp": "どうやったら、いい子になれるの？\nシンフォーリアお姉ちゃんみたいになる？\nそれとも、ルルカお姉ちゃん？", "en": "How can I become a good girl?\nShould I be like big sister Symphoria?\nOr big sister Luruka?", "src": "phist"}
 {"id": 1547886, "jp": "アビィ、そんなふうに見つめられても……僕も正解は知らないんだ。|アビィ、そんなふうに見つめられても……私も正解は知らないの。", "en": "Abby, even if you look at me like that... I don't know the right answer either.|Abby, even if you look at me like that... I don't know the right answer either.", "src": "acedy"}
-{"id": 1547887, "jp": "せーりんしゃも知らない？", "en": "Starcomer doesn't know either?", "src": "phist"}
+{"id": 1547887, "jp": "せーりんしゃも知らない？", "en": "Starborn doesn't know either?", "src": "phist"}
 {"id": 1547888, "jp": "僕は記憶がないから……わからないことはたくさんあるよ。|私は記憶がないから……わからないことはたくさんあるよ。", "en": "I have no memories... so there's a lot I don't know.|I have no memories... so there's a lot I don't know.", "src": "acedy"}
 {"id": 1547889, "jp": "たとえば――自分がいったい何者なのか。", "en": "Like, for instance, who I really am.", "src": "phist"}
 {"id": 1547890, "jp": "それから、はじめて会ったとき、\nアビィはどうして助けてくれたのか、とかもね。", "en": "And also things like why you helped me\nwhen we first met, Abby.", "src": "acedy"}
@@ -51840,7 +51840,7 @@
 {"id": 1547901, "jp": "もし……アビィが、まちがえたら？", "en": "What if... Abby makes a mistake?", "src": "phist"}
 {"id": 1547902, "jp": "そのときは、一緒になんとかする方法を探すよ。", "en": "Then we'll look for a way to fix it together.", "src": "phist"}
 {"id": 1547903, "jp": "メーツァのドームも直す方法だって\nちゃんと考えるから、心配しなくていいよ。", "en": "I'll think up a proper way\nto repair Metsa's dome too, so don't you worry.", "src": "acedy"}
-{"id": 1547904, "jp": "うん！せーりんしゃがいれば、アビィ、なにも怖くない。", "en": "Yeah! With Starcomer here, Abby isn't scared of anything.", "src": "phist"}
+{"id": 1547904, "jp": "うん！せーりんしゃがいれば、アビィ、なにも怖くない。", "en": "Yeah! With Starborn here, Abby isn't scared of anything.", "src": "phist"}
 {"id": 1547905, "jp": "もう、怖い夢、見ない。", "en": "I won't have scary dreams anymore.", "src": "phist"}
 {"id": 1547906, "jp": "いっぱいぐーぐーして……いっぱいうんどうして、いっぱいはむはむする。\nアビィ、ぜんぶやった！", "en": "I slept lots... I exercised lots, and I munched lots.\nAbby did it all!", "src": "phist"}
 {"id": 1547907, "jp": "リハビリの内容、ちゃんと覚えてるんだね。", "en": "You remember everything in your Rehab, don't you.", "src": "phist"}
@@ -51862,7 +51862,7 @@
 {"id": 1547923, "jp": "いろんな相手との付き合い方がわかったみたいね。", "en": "It seems you've learned how to get along with all kinds of people.", "src": "phist"}
 {"id": 1547924, "jp": "アビィはみんなの好みを、よく知っているみたいだわ。", "en": "Abby seems to know everyone's tastes very well.", "src": "phist"}
 {"id": 1547925, "jp": "星臨者、これはきっと、あなたのおかげね。", "en": "Starborn, this is surely thanks to you.", "src": "phist"}
-{"id": 1547926, "jp": "えへへ、せーりんしゃ、おしえてくれた。\nみんなとちがっても、いっしょに遊べる。", "en": "Hehe, Starcomer taught me.\nEven if we're different from everyone, we can still play together.", "src": "phist"}
+{"id": 1547926, "jp": "えへへ、せーりんしゃ、おしえてくれた。\nみんなとちがっても、いっしょに遊べる。", "en": "Hehe, Starborn taught me.\nEven if we're different from everyone, we can still play together.", "src": "phist"}
 {"id": 1547927, "jp": "アビィ、そのままで、いちばんピカピカ。", "en": "Just as I am, Abby is the shiniest.", "src": "phist"}
 {"id": 1547928, "jp": "ええ、その通りだわ。\nたとえば、まったく同じ形をした木の葉の一枚一枚を\nアビィは好きになれるかしら。", "en": "Yes, exactly so.\nFor instance, could you come to love each and every leaf\nif they were all exactly the same shape, Abby?", "src": "acedy"}
 {"id": 1547929, "jp": "……ぜんぶいっしょだと、見わけつかない。", "en": "...If they're all the same, I can't tell them apart.", "src": "phist"}
@@ -51875,17 +51875,17 @@
 {"id": 1547936, "jp": "うん！アビィ、夢で見た。", "en": "Yeah! Abby saw it in a dream.", "src": "phist"}
 {"id": 1547937, "jp": "そうなのね。いつか、夢のお話、聞かせてもらえたらうれしいわ。", "en": "Is that so. Someday, I'd be happy if you told me about that dream.", "src": "phist"}
 {"id": 1547938, "jp": "さあ、もう遅い時間よ。おやすみできる場所に行きなさい。", "en": "Now, it's late. Go somewhere you can rest.", "src": "phist"}
-{"id": 1547939, "jp": "……せーりんしゃ、まだ行かないで。", "en": "...Starcomer, don't go yet.", "src": "phist"}
-{"id": 1547940, "jp": "せーりんしゃ、『りはびり』てつだってくれた。\nアビィ、ごほうびあげる。", "en": "Starcomer helped with my 'rehabiri'.\nAbby will give you a reward.", "src": "phist"}
+{"id": 1547939, "jp": "……せーりんしゃ、まだ行かないで。", "en": "...Starborn, don't go yet.", "src": "phist"}
+{"id": 1547940, "jp": "せーりんしゃ、『りはびり』てつだってくれた。\nアビィ、ごほうびあげる。", "en": "Starborn helped with my 'rehabiri'.\nAbby will give you a reward.", "src": "phist"}
 {"id": 1547941, "jp": "この夜景が、アビィのくれるご褒美？", "en": "So this night view is the reward Abby promised?", "src": "phist"}
 {"id": 1547942, "jp": "綺麗だね。", "en": "It's beautiful.", "src": "phist"}
-{"id": 1547943, "jp": "せーりんしゃ、目、つぶって。", "en": "Starcomer, close eyes.", "src": "phist"}
+{"id": 1547943, "jp": "せーりんしゃ、目、つぶって。", "en": "Starborn, close eyes.", "src": "phist"}
 {"id": 1547944, "jp": "ん……もう、あけていい。", "en": "Mm... okay, open now.", "src": "phist"}
 {"id": 1547945, "jp": "これ、あげる。", "en": "This, for you.", "src": "phist"}
 {"id": 1547946, "jp": "これは、ずっと探してたピカピカの石だよね？\nもらってもいいの？", "en": "This is the Shiny Stone we've been looking for all this time, right?\nAre you sure I can have it?", "src": "phist"}
-{"id": 1547947, "jp": "うん。アビィ、せーりんしゃのこと、よろこばせたい。", "en": "Mm-hm. Abby wants to make Starcomer happy.", "src": "phist"}
+{"id": 1547947, "jp": "うん。アビィ、せーりんしゃのこと、よろこばせたい。", "en": "Mm-hm. Abby wants to make Starborn happy.", "src": "phist"}
 {"id": 1547948, "jp": "この石、アビィの魔力入れた。こわれない。", "en": "Abby put her magic in this stone. It won't break.", "src": "phist"}
-{"id": 1547949, "jp": "ずっと、せーりんしゃといっしょ。", "en": "It's always together with Starcomer.", "src": "phist"}
+{"id": 1547949, "jp": "ずっと、せーりんしゃといっしょ。", "en": "It's always together with Starborn.", "src": "phist"}
 {"id": 1547950, "jp": "アビィが、そばにいるみたいに。", "en": "Like Abby is right by your side.", "src": "phist"}
 {"id": 1547951, "jp": "ありがとう、アビィ。\nお返しはなにが欲しいかな？", "en": "Thank you, Abby.\nWhat would you like in return?", "src": "phist"}
 {"id": 1547952, "jp": "アビィ、たからもの、もう見つけた。", "en": "Abby already found her treasure.", "src": "phist"}
@@ -51897,10 +51897,10 @@
 {"id": 1547958, "jp": "うぅ……逃げちゃった。", "en": "Aww... it got away.", "src": "phist"}
 {"id": 1547959, "jp": "変なものばっかり食べちゃだめだよ、アビィ。", "en": "Don't go eating strange things, Abby.", "src": "phist"}
 {"id": 1547960, "jp": "自分から、飛んできたもん……", "en": "It flew over by itself...", "src": "phist"}
-{"id": 1547961, "jp": "やっぱりアビィ、へん……？\nせーりんしゃも、アビィのこと、きらいになる？", "en": "Is Abby weird after all...?\nWill Starcomer start to dislike Abby too?", "src": "phist"}
+{"id": 1547961, "jp": "やっぱりアビィ、へん……？\nせーりんしゃも、アビィのこと、きらいになる？", "en": "Is Abby weird after all...?\nWill Starborn start to dislike Abby too?", "src": "phist"}
 {"id": 1547962, "jp": "ほんと？えへへ……", "en": "Really? Hehe...", "src": "phist"}
 {"id": 1547963, "jp": "それじゃ、これからも遊んでくれる？", "en": "Then will you keep playing with Abby?", "src": "phist"}
-{"id": 1547964, "jp": "せーりんしゃの手、ぽかぽか。気持ちいい。", "en": "Starcomer's hand is warm. Feels nice.", "src": "phist"}
+{"id": 1547964, "jp": "せーりんしゃの手、ぽかぽか。気持ちいい。", "en": "Starborn's hand is warm. Feels nice.", "src": "phist"}
 {"id": 1547965, "jp": "ねむい。アビィ、ぐーぐーする……", "en": "Sleepy. Abby's going nighty-night...", "src": "phist"}
 {"id": 1547966, "jp": "ん、もっとなでなでして。", "en": "Mm, pet more.", "src": "phist"}
 {"id": 1547967, "jp": "さあ、おやすみなさい。", "en": "Now, good night.", "src": "phist"}
@@ -51909,16 +51909,16 @@
 {"id": 1547970, "jp": "すー……すー……", "en": "Zzz... zzz...", "src": "phist"}
 {"id": 1547971, "jp": "すー……くぅー……", "en": "Zzz... mmm...", "src": "phist"}
 {"id": 1547972, "jp": "（やっと眠ったみたい……）", "en": "(She finally fell asleep...)", "src": "phist"}
-{"id": 1547973, "jp": "せーりんしゃ……", "en": "Starcomer...", "src": "phist"}
+{"id": 1547973, "jp": "せーりんしゃ……", "en": "Starborn...", "src": "phist"}
 {"id": 1547974, "jp": "アビィ……めーわくかけた……", "en": "Abby... made trouble...", "src": "phist"}
 {"id": 1547975, "jp": "（寝言を言ってるのかな？）", "en": "(Is she talking in her sleep?)", "src": "phist"}
-{"id": 1547976, "jp": "アビィ、みんなと遊びたい……せーりんしゃと遊びたい……", "en": "Abby wants to play with everyone... wants to play with Starcomer...", "src": "phist"}
+{"id": 1547976, "jp": "アビィ、みんなと遊びたい……せーりんしゃと遊びたい……", "en": "Abby wants to play with everyone... wants to play with Starborn...", "src": "phist"}
 {"id": 1547977, "jp": "アビィ、ひとりぼっち、やだ……", "en": "Abby doesn't want to be all alone...", "src": "phist"}
 {"id": 1547978, "jp": "大丈夫だよ、アビィ。", "en": "It's okay, Abby.", "src": "phist"}
 {"id": 1547979, "jp": "アビィがどこに隠れても、ちゃんと見つけてあげるから。", "en": "No matter where you hide, I'll find you.", "src": "phist"}
 {"id": 1547980, "jp": "もうさみしくないよ。", "en": "You're not lonely anymore.", "src": "phist"}
 {"id": 1547981, "jp": "やくそく……", "en": "Promise...", "src": "phist"}
-{"id": 1547982, "jp": "せーりんしゃ、ピカピカ。", "en": "Starcomer, shiny.", "src": "phist"}
+{"id": 1547982, "jp": "せーりんしゃ、ピカピカ。", "en": "Starborn, shiny.", "src": "phist"}
 {"id": 1547983, "jp": "今日もてんてこ舞いだね……", "en": "Another hectic day, huh...", "src": "phist"}
 {"id": 1547984, "jp": "にゃっ！？ごめんね、いまちょっと手が離せないの！", "en": "Nya!? Sorry, I can't spare a moment right now!", "src": "phist"}
 {"id": 1547985, "jp": "このところ依頼が爆増しちゃってて。\n掲示板に貼る時間もないんだにゃ！", "en": "Requests have just exploded lately.\nI don't even have time to put them on the board, nya!", "src": "phist"}
@@ -52878,7 +52878,7 @@
 {"id": 1548940, "jp": "いま、はむはむしたい……朝、たりなかった……", "en": "I want to hamu-hamu now... Wasn't enough this morning...", "src": "phist"}
 {"id": 1548941, "jp": "これ、おっきいから……お肉、いっぱいある。", "en": "These are big... so much meat.", "src": "phist"}
 {"id": 1548942, "jp": "皮、あつくて、邪魔。でも、アビィ、なんとかできる。", "en": "Skin is thick, in the way. But Abby can handle it.", "src": "phist"}
-{"id": 1548943, "jp": "せーりんしゃも、いっしょにはむはむする？", "en": "Starcomer, want to hamu-hamu together too?", "src": "phist"}
+{"id": 1548943, "jp": "せーりんしゃも、いっしょにはむはむする？", "en": "Starborn, want to hamu-hamu together too?", "src": "phist"}
 {"id": 1548944, "jp": "アビィは瞳をキラキラ輝かせ、いまにも飛びかからんばかり。\n立派な体つきのガヤックたちが冷や汗をかき、獣舎の隅で震えている。", "en": "Abby's eyes were sparkling, and she looked ready to pounce at any moment.\nThe sturdy-bodied Gayaks broke into a cold sweat, trembling in the corner of the Beast Pen.", "src": "phist"}
 {"id": 1548945, "jp": "キボの本能が、この小さな『大食い』を恐れているのだ。\nしかし、竜の血を引く少女はそのことに気づいていない。", "en": "The Kibo's instincts fear this little \"big eater.\"\nBut the girl with dragon blood has no idea.", "src": "phist"}
 {"id": 1548946, "jp": "怯えるガヤックたちのなか――、一頭の勇敢なガヤックがアビィの背後に回りこみ、注意を引こうとしていた……", "en": "Among the terrified Gayaks—one brave Gayak slipped around behind Abby, trying to get her attention...", "src": "phist"}
@@ -52893,7 +52893,7 @@
 {"id": 1548955, "jp": "でも、アビィ、おっきなお肉ないと、おなかいっぱいにならない。", "en": "But Abby can't get full without big meat.", "src": "phist"}
 {"id": 1548956, "jp": "炙ったお肉、食べたい？", "en": "Want to eat\nsome roasted\nmeat?", "src": "phist"}
 {"id": 1548957, "jp": "お肉、食べに行こうか！", "en": "Shall we go eat\nsome meat?", "src": "phist"}
-{"id": 1548958, "jp": "うん！アビィ、せーりんしゃとおっきなお肉、はむはむする！", "en": "Yeah! Abby will hamu-hamu big meat with Starcomer!", "src": "phist"}
+{"id": 1548958, "jp": "うん！アビィ、せーりんしゃとおっきなお肉、はむはむする！", "en": "Yeah! Abby will hamu-hamu big meat with Starborn!", "src": "phist"}
 {"id": 1548959, "jp": "でも、食べたらまた、遊びにきていい？", "en": "But after eating, can I come play again?", "src": "phist"}
 {"id": 1548960, "jp": "アビィは草むらから立ち上がると、背後に迫っていた勇敢なガヤックの頭を撫でた。\n……どうやら、『食べもの』と『友だち』の定義について、アビィなりの考えがあるようだ。", "en": "Abby stood up from the grass and patted the head of the brave Gayak that had crept up behind her.\n...It seems Abby has her own ideas about the difference between \"food\" and \"friends.\"", "src": "phist"}
 {"id": 1548961, "jp": "みてろっ！これはめったにひろーしない技だぞ！", "en": "Watch closely! You won't see this technique often!", "src": "phist"}
@@ -53169,7 +53169,7 @@
 {"id": 1549231, "jp": "いっそ、このまま、長い眠りについてしまえば……", "en": "Perhaps I should simply let myself fall into a long sleep...", "src": "phist"}
 {"id": 1549232, "jp": "香子！大丈夫！？", "en": "Xiangzi! Are\nyou okay?!", "src": "phist"}
 {"id": 1549233, "jp": "長い眠りって……どういうこと？", "en": "A long sleep...\nWhat do you\nmean?", "src": "phist"}
-{"id": 1549234, "jp": "せ、星臨大人！？", "en": "H-Honored Starcomer?!", "src": "phist"}
+{"id": 1549234, "jp": "せ、星臨大人！？", "en": "H-Honored Starborn?!", "src": "phist"}
 {"id": 1549235, "jp": "こ、これは、その……\nうっかり、昔敷いた法陣に踏み入ってしまったのです……", "en": "Th-this is, um...\nI carelessly stepped into a spell circle I laid long ago...", "src": "phist"}
 {"id": 1549236, "jp": "す、すみません……余計なことばかり考えていたせいで、\nこのような……", "en": "I-I'm sorry...\nI was thinking about needless things, and so this happened...", "src": "phist"}
 {"id": 1549237, "jp": "昔敷いた法陣？", "en": "A spell circle\nyou laid long\nago?", "src": "phist"}
@@ -53181,7 +53181,7 @@
 {"id": 1549243, "jp": "わたくしのような者が、独りこの世で生きながらえたとて、\nなんの意味があるでしょう……", "en": "What meaning could there be in someone like me\nlingering on alone in this world...?", "src": "acedy"}
 {"id": 1549244, "jp": "世界には美しいものがたくさんあるよ。", "en": "There are so\nmany beautiful\nthings in the\nworld.", "src": "phist"}
 {"id": 1549245, "jp": "一緒に探すから、いつかきっと見つけられるよ。", "en": "We'll search for\nthem together,\nso someday\nwe'll surely find\nthem.", "src": "phist"}
-{"id": 1549246, "jp": "せ、星臨大人……！", "en": "H-Honored Starcomer...!", "src": "phist"}
+{"id": 1549246, "jp": "せ、星臨大人……！", "en": "H-Honored Starborn...!", "src": "phist"}
 {"id": 1549247, "jp": "地上に来てからずっと、なにを成せばよいのかわからず……\n孤独に苛まれていたのです……", "en": "Ever since I came to the surface, I did not know what I should do...\nand I was tormented by loneliness...", "src": "phist"}
 {"id": 1549248, "jp": "ありがとうございます……\nあなたさまのおかげで、思い出すことができました。", "en": "Thank you...\nBecause of you, I was able to remember.", "src": "phist"}
 {"id": 1549249, "jp": "こんなにも、大切な方がそばにいてくださるのに、\nまだ足りないと思っていたなんて。", "en": "To think that with someone so dear by my side,\nI still felt it was not enough.", "src": "acedy"}
@@ -53558,7 +53558,7 @@
 {"id": 1549621, "jp": "うん、きっとそうだよ。", "en": "Yeah, I'm sure it is.", "src": "phist"}
 {"id": 1549622, "jp": "（うーん、でも……なにか忘れてる気が……）", "en": "(Hmm, but... I feel like I'm forgetting something...)", "src": "phist"}
 {"id": 1549623, "jp": "（あ……しまった！）", "en": "(Ah... oh no!)", "src": "phist"}
-{"id": 1549624, "jp": "買いものはなんとか済ませたが\nルミィにしばらく説教をされることになった……", "en": "You managed to finish the shopping,\nbut ended up getting lectured by Lumie for a while...", "src": "acedy"}
+{"id": 1549624, "jp": "買いものはなんとか済ませたが\nルミィにしばらく説教をされることになった……", "en": "You managed to finish the shopping,\nbut ended up getting lectured by Lumi for a while...", "src": "acedy"}
 {"id": 1549625, "jp": "ふふーん、このヒミツの桃の名所を知ってるの、\nうちらだけじゃないみたい。", "en": "Heheh, looks like we're not the only ones\nwho know about this secret peach blossom spot.", "src": "acedy"}
 {"id": 1549626, "jp": "ほら、鏡花州でしか見たことがない、桃花の御札がここにも！", "en": "Look, a Peach Blossom Talisman, the kind I've only ever seen in Jinghua Cape, is here too!", "src": "phist"}
 {"id": 1549627, "jp": "ふむふむ……これは、おもしろいかも！", "en": "Hmm hmm... this might be interesting!", "src": "phist"}
@@ -53753,14 +53753,14 @@
 {"id": 1549816, "jp": "はむはむすると、すーっていいにおいがする。", "en": "When I nom on it, it smells nice and fresh.", "src": "phist"}
 {"id": 1549817, "jp": "すごくきもちいい！", "en": "It feels so good!", "src": "phist"}
 {"id": 1549818, "jp": "おなかいっぱいになって、きもちわるくならない。\n体ぽかぽかして……いっぱい動ける。", "en": "My tummy gets full, and I don't feel sick.\nMy body gets all warm... and I can move a lot.", "src": "phist"}
-{"id": 1549819, "jp": "せーりんしゃも、いっしょにはむはむしよ？", "en": "Starcomer, nom with me too?", "src": "phist"}
+{"id": 1549819, "jp": "せーりんしゃも、いっしょにはむはむしよ？", "en": "Starborn, nom with me too?", "src": "phist"}
 {"id": 1549820, "jp": "ありがとう、でもおなかは空いてないんだ。", "en": "Thanks, but I'm\nnot hungry.", "src": "phist"}
 {"id": 1549821, "jp": "アビィがぜんぶ食べていいよ。", "en": "You can eat it\nall, Abby.", "src": "phist"}
-{"id": 1549822, "jp": "どうして？せーりんしゃ、さみしくないの？", "en": "Why? Starcomer, aren't you lonely?", "src": "phist"}
+{"id": 1549822, "jp": "どうして？せーりんしゃ、さみしくないの？", "en": "Why? Starborn, aren't you lonely?", "src": "phist"}
 {"id": 1549823, "jp": "さっき、森でおなかぺこぺこになって、うとうとして……\nひとりでさみしくぐーぐーするしかないと思った……", "en": "Earlier, in the forest, I was so hungry and got sleepy...\nI thought I'd just have to sleep all alone, feeling lonely...", "src": "phist"}
 {"id": 1549824, "jp": "でも、せーりんしゃ、アビィ見つけてくれた。\nいまもいっしょ……おなかいっぱいになるより、うれしい。", "en": "But Starbown found Abby.\nStill together now... That's happier than a full tummy.", "src": "acedy"}
 {"id": 1549825, "jp": "アビィひとりではむはむしたら、悪い子……おいていかれちゃう。", "en": "If Abby noms all by herself, I'm a bad kid... they'll leave me behind.", "src": "phist"}
-{"id": 1549826, "jp": "せーりんしゃに、笑ってほしい。いっしょに遊んで……\nずっといっしょじゃなきゃ、や……", "en": "I want Starcomer to smile. Play together...\nIf we're not together forever, no...", "src": "phist"}
+{"id": 1549826, "jp": "せーりんしゃに、笑ってほしい。いっしょに遊んで……\nずっといっしょじゃなきゃ、や……", "en": "I want Starborn to smile. Play together...\nIf we're not together forever, no...", "src": "phist"}
 {"id": 1549827, "jp": "アビィと離れたりしないよ。", "en": "I won't leave\nyou, Abby.", "src": "phist"}
 {"id": 1549828, "jp": "置き去りになんてしないよ。", "en": "I'd never\nabandon you.", "src": "phist"}
 {"id": 1549829, "jp": "ほんと……？アビィのこと、ひとりにしない……？", "en": "Really...? You won't leave Abby alone...?", "src": "phist"}
@@ -53820,10 +53820,10 @@
 {"id": 1549883, "jp": "テララから手作りの贈りものを受け取り、肌身離さず持っておくことにした。", "en": "I accepted the handmade gift from Terara and decided to keep it on me at all times.", "src": "phist"}
 {"id": 1549884, "jp": "触れた牙はほんのりと温かく……\nその温もりに守られているような気がした。", "en": "The fang felt faintly warm to the touch...\nIt felt as if that warmth were protecting me.", "src": "phist"}
 {"id": 1549885, "jp": "捕まえた――", "en": "Caught it!", "src": "phist"}
-{"id": 1549886, "jp": "せーりんしゃとピクニックではむはむするお魚。", "en": "Fish to munch on at the picnic with Starcomer.", "src": "phist"}
+{"id": 1549886, "jp": "せーりんしゃとピクニックではむはむするお魚。", "en": "Fish to munch on at the picnic with Starborn.", "src": "phist"}
 {"id": 1549887, "jp": "でかすぎない！？", "en": "Isn't that way\ntoo big!?", "src": "phist"}
 {"id": 1549888, "jp": "うん。川のなか、お魚いっぱいいた。これ、いちばんおっきいやつ。", "en": "Yeah. Lots of fish in the river. This one, the biggest one.", "src": "phist"}
-{"id": 1549889, "jp": "せーりんしゃとはむはむする。いっしょに、おなかいっぱいになる。", "en": "Gonna munch with Starcomer. Then we both get full tummies.", "src": "phist"}
+{"id": 1549889, "jp": "せーりんしゃとはむはむする。いっしょに、おなかいっぱいになる。", "en": "Gonna munch with Starborn. Then we both get full tummies.", "src": "phist"}
 {"id": 1549890, "jp": "だから、おまえ、放さない。", "en": "So, you, I won't let go.", "src": "phist"}
 {"id": 1549891, "jp": "むっ……逃げたい？", "en": "Hm... You wanna escape?", "src": "phist"}
 {"id": 1549892, "jp": "いい子に、するの！", "en": "Be a good fish!", "src": "phist"}
@@ -53836,12 +53836,12 @@
 {"id": 1549899, "jp": "待ったっ！それは駄目だよ！", "en": "Wait! You can't\ndo that!", "src": "phist"}
 {"id": 1549900, "jp": "もしかしたら毒があるかも？", "en": "It might be\npoisonous!", "src": "phist"}
 {"id": 1549901, "jp": "……わかった、いい子にする。", "en": "...Okay, I'll be good.", "src": "phist"}
-{"id": 1549902, "jp": "せーりんしゃ、『いい子のごほうび』、くれる？", "en": "Starcomer, will you give me a Good Child Reward?", "src": "phist"}
+{"id": 1549902, "jp": "せーりんしゃ、『いい子のごほうび』、くれる？", "en": "Starborn, will you give me a Good Child Reward?", "src": "phist"}
 {"id": 1549903, "jp": "なにが欲しいかな？", "en": "What would\nyou like?", "src": "phist"}
-{"id": 1549904, "jp": "アビィ、せーりんしゃにほめられて、いっしょに遊びたい！", "en": "Abby wants Starcomer to praise me, and play together!", "src": "phist"}
+{"id": 1549904, "jp": "アビィ、せーりんしゃにほめられて、いっしょに遊びたい！", "en": "Abby wants Starborn to praise me, and play together!", "src": "phist"}
 {"id": 1549905, "jp": "アビィは本当にすごいよ！", "en": "Abby, you're\nreally amazing!", "src": "phist"}
 {"id": 1549906, "jp": "アビィはとってもいい子！", "en": "Abby is such a\ngood girl!", "src": "phist"}
-{"id": 1549907, "jp": "えへへ……せーりんしゃ好き……やさしい。", "en": "Heehee... I like Starcomer... So kind.", "src": "phist"}
+{"id": 1549907, "jp": "えへへ……せーりんしゃ好き……やさしい。", "en": "Heehee... I like Starborn... So kind.", "src": "phist"}
 {"id": 1549908, "jp": "む……ちょっとおなか、ぐーぐーしてきた……", "en": "Mm... My tummy's starting to rumble a little...", "src": "phist"}
 {"id": 1549909, "jp": "じゃあ、ピクニックに行こっか！", "en": "Then let's go\non that picnic!", "src": "phist"}
 {"id": 1549910, "jp": "アビィの食欲があれば食料を無駄にする心配はまったくない。\nそのうえ、少女は『寛大』にも分け与える意思を示している。\nあとは、一緒にピクニックを楽しむだけだ。", "en": "With Abby's appetite, there's no worry at all about wasting food.\nOn top of that, the girl has \"generously\" shown she's willing to share.\nAll that's left is to enjoy the picnic together.", "src": "phist"}
@@ -53929,11 +53929,11 @@
 {"id": 1549992, "jp": "まさか、こんなにイタズラ上手だったなんて……！\nよ～し！キミはあたしの魂に火をつけた！いまから勝負よ！", "en": "I can't believe you're this good at pranks...!\nAll right! You've set my soul on fire! Let's have a contest, right now!", "src": "phist"}
 {"id": 1549993, "jp": "かくして――耳まで赤くなったルビーナに引き留められ、さまざまな『イタズラ』を試すことになった……", "en": "And so, held back by Rubina, whose ears had turned bright red, we ended up trying all sorts of \"pranks\"...", "src": "phist"}
 {"id": 1549994, "jp": "むぅ……またこんなぁ……", "en": "Mmm... It's like this again...", "src": "phist"}
-{"id": 1549995, "jp": "せ、星臨者さん、これ……見て……？", "en": "S-Starcomer, look at this... will you?", "src": "phist"}
+{"id": 1549995, "jp": "せ、星臨者さん、これ……見て……？", "en": "S-Starborn, look at this... will you?", "src": "phist"}
 {"id": 1549996, "jp": "ふわふわのクモノワタみたいで……\n気持ちいい、けど……", "en": "It's soft and fluffy like Kumonowata...\nIt feels nice, but...", "src": "phist"}
 {"id": 1549997, "jp": "でも……でも……", "en": "But... but...", "src": "phist"}
 {"id": 1549998, "jp": "食べすぎちゃったよう……！", "en": "I ate too much...!", "src": "phist"}
-{"id": 1549999, "jp": "せ、星臨者さん……黙ってるの、どうして……？", "en": "S-Starcomer... why are you so quiet...?", "src": "phist"}
+{"id": 1549999, "jp": "せ、星臨者さん……黙ってるの、どうして……？", "en": "S-Starborn... why are you so quiet...?", "src": "phist"}
 {"id": 1550000, "jp": "や、やっぱり……おかしい、よね……？", "en": "I-It's weird after all, isn't it...?", "src": "phist"}
 {"id": 1550001, "jp": "わたし、ちょっと食べすぎると、すぐこうなっちゃうの……", "en": "When I eat just a little too much, I get like this right away...", "src": "phist"}
 {"id": 1550002, "jp": "その、ちょっと……触って、みる？", "en": "Um, would you like to... touch it, just a little?", "src": "phist"}
@@ -54205,7 +54205,7 @@
 {"id": 1550268, "jp": "お姉ちゃん、わたしたちは反対側の家に配りに行こう。", "en": "Sis, let's deliver to the houses on the other side.", "src": "phist"}
 {"id": 1550269, "jp": "それと、みんなが夜に出歩く理由も調べるんだぞ！", "en": "And don't forget to find out why everyone's wandering out at night!", "src": "phist"}
 {"id": 1550270, "jp": "こんにちは、ヤアル。これを――", "en": "Hello, Yaal. Here, this is—", "src": "phist"}
-{"id": 1550271, "jp": "せ……星臨者さん……なにか、食べものは……", "en": "S-Starcomer... do you have any food...?", "src": "phist"}
+{"id": 1550271, "jp": "せ……星臨者さん……なにか、食べものは……", "en": "S-Starborn... do you have any food...?", "src": "phist"}
 {"id": 1550272, "jp": "――えっ、食べもの？", "en": "—Huh, food?", "src": "phist"}
 {"id": 1550273, "jp": "食事をとりそびれて、いまにも倒れそうで……", "en": "I missed my meal, and I'm about to collapse...", "src": "phist"}
 {"id": 1550274, "jp": "そ、それは大変だ……と、とりあえずこれを飲んで！|そ、それは大変ね……と、とりあえずこれを飲んで！", "en": "Th-That's terrible... F-For now, drink this!|Th-That's terrible... F-For now, drink this!", "src": "acedy"}
@@ -54772,7 +54772,7 @@
 {"id": 1550837, "jp": "ですので間違いありません。\nこの木片はきっとあのマスティーバの爪によるものです。\nあの、どこで見つけたのですか？", "en": "So there's no mistake.\nThis piece of wood must have been made by the claws of that Mustiva.\nUm, where did you find it?", "src": "phist"}
 {"id": 1550838, "jp": "ビリバーが湖のほとりで拾ったんだよ。", "en": "Biliver picked it up on the lakeshore.", "src": "phist"}
 {"id": 1550839, "jp": "そう……もし元々あった堤防の一部がそんな場所に流れ着いたのだとしたら、\nきっと完全に破壊されてしまったのでしょうね……本当に残念です。\n機会があれば、伝説のマスティーバ一族の偉大な作品をこの目で見てみたかったです……", "en": "I see... If part of the original dam washed up in a place like that,\nit must have been completely destroyed... What a shame.\nIf I ever had the chance, I wanted to see the legendary Mustiva clan's great work with my own eyes...", "src": "acedy"}
-{"id": 1550840, "jp": "ルミィ、お願い。タイダレストに僕たちを襲った理由を聞いてくれないか？|ルミィ、お願い。タイダレストに私たちを襲った理由を聞いてくれない？", "en": "Lumie, please. Could you ask the Tidalest why they attacked us?|Lumie, please. Could you ask the Tidalest why they attacked us?", "src": "acedy"}
+{"id": 1550840, "jp": "ルミィ、お願い。タイダレストに僕たちを襲った理由を聞いてくれないか？|ルミィ、お願い。タイダレストに私たちを襲った理由を聞いてくれない？", "en": "Lumi, please. Could you ask the Tidalest why they attacked us?|Lumi, please. Could you ask the Tidalest why they attacked us?", "src": "acedy"}
 {"id": 1550841, "jp": "「我々はマスティーバの偉業を見届け、みずからの意思でその守護者になった者……」", "en": "\"We witnessed Mustiva's great achievement and became its guardians of our own will...\"", "src": "phist"}
 {"id": 1550842, "jp": "「ビリバーの軽率な行動が、偉大なる先祖の傑作を破壊するのを心配し、\n阻止しようとした」と言ってるのだ。", "en": "They're saying, \"We feared Biliber's rash actions would destroy our great ancestor's masterpiece,\nand so we tried to stop it.\"", "src": "acedy"}
 {"id": 1550843, "jp": "……ねえ、タイダレスト。この子を甘く見すぎじゃないかな？", "en": "...Hey, Tidalest. Aren't you underestimating this little one?", "src": "phist"}
@@ -55467,7 +55467,7 @@
 {"id": 1551533, "jp": "（でも、翼人の里に行くなんて……ほんとにできるのかな？\n……護衛はわたしだけだし、テララがくれた地図もなにが書いてあるのかよくわからないし……ううっ……）", "en": "(But going to the Wingfolk Village... can I really do it?\n...I'm the only escort, and I can't make out what Terara's map says... uuu...)", "src": "phist"}
 {"id": 1551534, "jp": "（ううぅ……だれか、だれか助けて……！）", "en": "(Uuu... somebody, somebody help me...!)", "src": "phist"}
 {"id": 1551535, "jp": "それじゃ、準備はいい？", "en": "So, are you ready?", "src": "phist"}
-{"id": 1551536, "jp": "せ、星臨者さん！？どうしてあなたがここに……？", "en": "S-Starcomer!? Why are you here...?", "src": "phist"}
+{"id": 1551536, "jp": "せ、星臨者さん！？どうしてあなたがここに……？", "en": "S-Starborn!? Why are you here...?", "src": "phist"}
 {"id": 1551537, "jp": "あれ、村長から何も聞いてなかった？ティティとノノに、里まで案内すると約束してたんだ。\nあ、そういう話じゃなくて、もしかして……|あれ、村長から何も聞いてなかった？ティティとノノに、里まで案内すると約束してたの。\nあ、そういう話じゃなくて、もしかして……", "en": "Huh, didn't the chief tell you anything? I promised Titi and Nono I'd guide them to the village.\nOh, or is that not what you mean, and maybe...|Huh, didn't the chief tell you anything? I promised Titi and Nono I'd guide them to the village.\nOh, or is that not what you mean, and maybe...", "src": "acedy"}
 {"id": 1551538, "jp": "カタルは僕を歓迎してないとか？|カタルは私を歓迎してないとか？", "en": "Katal isn't happy to see me?|Katal isn't happy to see me?", "src": "acedy"}
 {"id": 1551539, "jp": "来たタイミングが悪かったかな？|来たタイミングが悪かったかな？", "en": "Did I come at a bad time?|Did I come at a bad time?", "src": "acedy"}
@@ -55752,7 +55752,7 @@
 {"id": 1551819, "jp": "ルミィも一緒に探そう。", "en": "Lumi, let's look together.", "src": "phist"}
 {"id": 1551820, "jp": "そうだよ。おいしい食べものを育てられるんだぞ！", "en": "Yeah! We get to grow tasty food!", "src": "phist"}
 {"id": 1551821, "jp": "わたしも頑張る……はやく拾い終わって、畑仕事の勉強をしたいから！", "en": "I'll do my best too... I want to finish picking these up quickly so I can study Farm Work!", "src": "phist"}
-{"id": 1551822, "jp": "僕も、もっとおいしい料理を作れるように研究するよ、ルミィ。|私も、もっとおいしい料理を作れるように研究するよ、ルミィ。", "en": "And I'll work on making even tastier dishes, Lumie.|And I'll work on making even tastier dishes, Lumie.", "src": "acedy"}
+{"id": 1551822, "jp": "僕も、もっとおいしい料理を作れるように研究するよ、ルミィ。|私も、もっとおいしい料理を作れるように研究するよ、ルミィ。", "en": "And I'll work on making even tastier dishes, Lumi.|And I'll work on making even tastier dishes, Lumi.", "src": "acedy"}
 {"id": 1551823, "jp": "……はあ、本当にしょうがないのだ……じゃあ、あたしは2個だけ探してやるのだ。", "en": "...Sigh, honestly, you lot are hopeless... Fine, I'll find just two.", "src": "phist"}
 {"id": 1551824, "jp": "もう帰ってこれたんだね、ボス。やっぱり人数が多いと早いんだ！", "en": "You're back already, Boss. Having lots of people really does make it faster!", "src": "phist"}
 {"id": 1551825, "jp": "なあリリカ、もう気になってしょうがないからさ、はやく教えてくれよ。\nこのきれいな石にどんな秘密があるんだ？", "en": "Hey, Lyrica, I can't stand the suspense anymore, so tell us already.\nWhat's the secret of these pretty stones?", "src": "phist"}
@@ -55769,7 +55769,7 @@
 {"id": 1551836, "jp": "ちょっと待てよ、リリカ……いまなんて言った？", "en": "Hold on, Lyrica... What did you just say?", "src": "phist"}
 {"id": 1551837, "jp": "『本来の匂い』ってなんなのだ……偉大なる妖精さまになにを触らせたのだ！", "en": "What is this \"original smell\"?... What did you make this great Lady Fairy touch?!", "src": "phist"}
 {"id": 1551838, "jp": "わあ！落ち着いて、妖精さん！", "en": "Whoa! Calm down, Lady Fairy!", "src": "phist"}
-{"id": 1551839, "jp": "せ、星臨者さん、みんなケンカしているのかな？", "en": "S-Starcomer, is everyone fighting?", "src": "phist"}
+{"id": 1551839, "jp": "せ、星臨者さん、みんなケンカしているのかな？", "en": "S-Starborn, is everyone fighting?", "src": "phist"}
 {"id": 1551840, "jp": "……手を洗いに行こう、カタル。", "en": "...Let's go wash our hands, Katal.", "src": "phist"}
 {"id": 1551841, "jp": "えっ！？星臨者さん、顔色悪いけど大丈夫！？", "en": "Huh?! Starborn, you look pale. Are you okay?!", "src": "phist"}
 {"id": 1551842, "jp": "みんな、そんなに興奮しないでよ……そういえば、オイラまだ言ってなかったんだね。\n『恩恵石』の原料がキボの排泄物だってことを。", "en": "Everyone, don't get so worked up... Come to think of it, I never told you, did I?\nThat Blessing Stones are made from Kibo waste.", "src": "phist"}
@@ -55887,7 +55887,7 @@
 {"id": 1551954, "jp": "……それに、これは翼人たちが空を取り戻して以来、はじめての飛翔の儀……\nだから……きっと……きっと……！", "en": "...Besides, this is the first Rite of Flight since the Wingfolk reclaimed the sky...\nSo... surely... surely...!", "src": "phist"}
 {"id": 1551955, "jp": "ピィ？", "en": "Pii?", "src": "phist"}
 {"id": 1551956, "jp": "……そう、三朔ぶりの飛翔の儀……絶対に失敗は許されない……絶対に……", "en": "...Right, the first Rite of Flight in three moons... I can't afford to fail... not ever...", "src": "phist"}
-{"id": 1551957, "jp": "えっ！せ、せせ、星臨者！？\nテララと一緒にシャルル村に戻ったんじゃなかったの？", "en": "Huh?! S-S-Starcomer?!\nDidn't you go back to Charlulu Village with Terara?", "src": "phist"}
+{"id": 1551957, "jp": "えっ！せ、せせ、星臨者！？\nテララと一緒にシャルル村に戻ったんじゃなかったの？", "en": "Huh?! S-S-Starborn?!\nDidn't you go back to Charlulu Village with Terara?", "src": "phist"}
 {"id": 1551958, "jp": "まだ気になることがあったから、しばらくは風隠れ岩に滞在することにしたんだ。|まだ気になることがあったから、しばらくは風隠れ岩に滞在することにしたの。", "en": "There was still something on my mind, so I decided to stay at Windhide Rock for a while.|There was still something on my mind, so I decided to stay at Windhide Rock for a while.", "src": "acedy"}
 {"id": 1551959, "jp": "本当に！？", "en": "Really?!", "src": "phist"}
 {"id": 1551960, "jp": "なんだか、すごく嬉しそうだね？", "en": "You look awfully happy about that, don't you?", "src": "phist"}
@@ -56217,7 +56217,7 @@
 {"id": 1552284, "jp": "この話、どこかで見てない？", "en": "Haven't we\nseen this story\nsomewhere?", "src": "phist"}
 {"id": 1552285, "jp": "一度に7つも怪異が起きたのなら、\nすぐにその屋敷から引っ越したほうがいいと思うよ……", "en": "If seven paranormal incidents happened at once,\nI think you should move out of that manor right away...", "src": "acedy"}
 {"id": 1552286, "jp": "そもそも、この『三大怪異事件』って、まえにも体験したような……", "en": "Actually, this \"Three Great Paranormal Incidents\" thing... feels like something I've experienced before...", "src": "phist"}
-{"id": 1552287, "jp": "ルミィはどこかでこの話を見たことない？\nみんなが『怪異事件』を話しているのを聞いていて、僕は既視感があったんだ……|ルミィはどこかでこの話を見たことない？\nみんなが『怪異事件』を話しているのを聞いていて、私は既視感があったの……", "en": "Lumie, haven't you seen this story somewhere?\nListening to everyone talk about the 'paranormal incidents', I got a sense of deja vu...|Lumie, haven't you seen this story somewhere?\nListening to everyone talk about the 'paranormal incidents', I got a sense of deja vu...", "src": "acedy"}
+{"id": 1552287, "jp": "ルミィはどこかでこの話を見たことない？\nみんなが『怪異事件』を話しているのを聞いていて、僕は既視感があったんだ……|ルミィはどこかでこの話を見たことない？\nみんなが『怪異事件』を話しているのを聞いていて、私は既視感があったの……", "en": "Lumi, haven't you seen this story somewhere?\nListening to everyone talk about the 'paranormal incidents', I got a sense of deja vu...|Lumi, haven't you seen this story somewhere?\nListening to everyone talk about the 'paranormal incidents', I got a sense of deja vu...", "src": "acedy"}
 {"id": 1552288, "jp": "んー、そう言われるとたしかに……どこかで体験したような気が……ん？", "en": "Hmm, now that you mention it... I feel like I've been through this somewhere... Hm?", "src": "phist"}
 {"id": 1552289, "jp": "うわっ！", "en": "Waah!", "src": "phist"}
 {"id": 1552290, "jp": "本当に足手まといでごめんなさい……！\nこんなに長くここに置いていただいているのに、道も覚えられないなんて……ごめんなさい！", "en": "I'm so sorry for being such a burden...!\nYou've let me stay here for so long, and I still can't even learn my way around... I'm sorry!", "src": "phist"}
@@ -56231,7 +56231,7 @@
 {"id": 1552298, "jp": "まさか、怪異事件の謎がこんなにはやく解けるとは思わなかったのだ……", "en": "I never thought the mystery of the strange incidents would be solved this quickly...", "src": "phist"}
 {"id": 1552299, "jp": "『命を奪う怨霊』は、香子が引きずっていた棺桶。\n『少女の怨霊』は、道を尋ねていた香子……\nそして『さまよう鬼影』は香子本人……っていうことだったんだね。", "en": "The 'Life-Stealing Wraith' was the coffin Xiangzi was dragging.\nThe 'Vengeful Girl Ghost' was Xiangzi asking for directions...\nAnd the 'Wandering Phantom' is Xiangzi herself... Is that how it goes?", "src": "phist"}
 {"id": 1552300, "jp": "つまらないのだ！結局ぜんぶこの子が原因だったのか……\n噂を聞いたときから、なんか聞いたことがあると思ったのだ！", "en": "How boring! So it was all this kid's fault in the end...\nI knew I'd heard something like this when I first heard the rumor!", "src": "phist"}
-{"id": 1552301, "jp": "あの、星臨大人……蘭香子、お尋ねしたいことがございます……あなたさまとルミィさまは、\n先ほどから『怪異事件』というものについてお話しされているようですが……", "en": "Um, Lord Starborn... I, Lan Xiangzi, have something I wish to ask... You and Lady Lumie\nseem to have been speaking of 'paranormal incidents' for some time now...", "src": "acedy"}
+{"id": 1552301, "jp": "あの、星臨大人……蘭香子、お尋ねしたいことがございます……あなたさまとルミィさまは、\n先ほどから『怪異事件』というものについてお話しされているようですが……", "en": "Um, Lord Starborn... I, Lan Xiangzi, have something I wish to ask... You and Lady Lumi\nseem to have been speaking of 'paranormal incidents' for some time now...", "src": "acedy"}
 {"id": 1552302, "jp": "その、つまり……『怪異事件』とは、いったい……", "en": "That is... what exactly are these 'strange incidents'...?", "src": "phist"}
 {"id": 1552303, "jp": "蘭香子に『三大怪異事件』の噂と、自分たちの推理を簡潔に話した。", "en": "I briefly told Lan Xiangzi about the rumor of the 'Three Great Paranormal Incidents' and our deductions.", "src": "phist"}
 {"id": 1552304, "jp": "わ、わたくしは……皆さまから、そのように見えていたのですか……！？\n恐ろしい怪異だと……？", "en": "Is th-that how I appeared to everyone...?!\nAs a terrifying apparition...?", "src": "phist"}
@@ -57926,7 +57926,7 @@
 {"id": 1553996, "jp": "ノノ、なにも……なにも、しらない。", "en": "Nono doesn't... doesn't know anything.", "src": "phist"}
 {"id": 1553997, "jp": "……ってそうそう、貝殻の話でしたよね。危うく忘れるところでした。\nそれで星臨者さま、貝殻の真相というのはいったい……", "en": "...Oh, right, we were talking about the Shells. I almost forgot.\nSo, Starborn, what is the truth about the Shells?", "src": "phist"}
 {"id": 1553998, "jp": "その、それについては……また今度……", "en": "Well, about that... another time...", "src": "phist"}
-{"id": 1553999, "jp": "せ、星臨者さま？ど、どこへ行くのですか！？", "en": "S-Starcomer? Where are you going!?", "src": "phist"}
+{"id": 1553999, "jp": "せ、星臨者さま？ど、どこへ行くのですか！？", "en": "S-Starborn? Where are you going!?", "src": "phist"}
 {"id": 1554000, "jp": "謎は解けたけど、謎は解けなかったのだ……", "en": "The mystery is solved, but it's not solved...", "src": "phist"}
 {"id": 1554001, "jp": "ほっほっほ～それで、おぬしたちはなにを知ってしまったんじゃ？", "en": "Hohoho~ So, what is it that you've gone and learned?", "src": "phist"}
 {"id": 1554002, "jp": "それはもちろん……", "en": "Well, of course...", "src": "phist"}
@@ -63373,7 +63373,7 @@
 {"id": 1559510, "jp": "生産一時停止中", "en": "Production Paused", "src": "phist"}
 {"id": 1559511, "jp": "キボの満腹度が不足しています。", "en": "The Kibo's Fullness is too low.", "src": "phist"}
 {"id": 1559512, "jp": "一時停止中", "en": "Paused", "src": "phist"}
-{"id": 1559513, "jp": "星臨の手紙", "en": "Starcomer's Letter", "src": "phist"}
+{"id": 1559513, "jp": "星臨の手紙", "en": "Starborn's Letter", "src": "phist"}
 {"id": 1559514, "jp": "監修中", "en": "Under Review", "src": "phist"}
 {"id": 1559515, "jp": "現在 {0}:{1}", "en": "Now {0}:{1}", "src": "acedy"}
 {"id": 1559516, "jp": "現在 {0}:0{1}", "en": "Now {0}:0{1}", "src": "acedy"}
@@ -63615,7 +63615,7 @@
 {"id": 1559761, "jp": "星脈活性度をレベルアップしますか？今回のレベルアップにはクールタイムが発生しません。", "en": "Level up the star vein activity? This level-up will not trigger a cooldown.", "src": "phist"}
 {"id": 1559762, "jp": "一覧", "en": "List", "src": "phist"}
 {"id": 1559763, "jp": "検索文字が入力されていません。", "en": "No search text entered.", "src": "phist"}
-{"id": 1559764, "jp": "星臨ガイド", "en": "Starcomer Guide", "src": "phist"}
+{"id": 1559764, "jp": "星臨ガイド", "en": "Starborn Guide", "src": "phist"}
 {"id": 1559765, "jp": "今週の報酬受取可能回数:{0}/{1}", "en": "Reward claims this week:{0}/{1}", "src": "acedy"}
 {"id": 1559766, "jp": "残り", "en": "Remaining", "src": "phist"}
 {"id": 1559767, "jp": "・未解放・", "en": "·Locked·", "src": "acedy"}
@@ -68376,7 +68376,7 @@
 {"id": 1659208, "jp": "魅了されてしまいそうなほど美しい桃海月。\nそこに、彼女が探し求める『縁』を見出せるだろうか。", "en": "A peach jelly so beautiful you could be enchanted.\nCould she find in it the \"bond\" she has been searching for?", "src": "phist"}
 {"id": 1659209, "jp": "枝葉のあいだから覗く、好奇心に満ちた瞳。\n『森の女神』と呼ばれるウッドエルフが、\n森を訪れる者たちをそっと観察している。", "en": "Eyes full of curiosity peek out from between the branches and leaves.\nThe wood elf known as the \"Goddess of the Forest\"\nquietly observes those who visit the woods.", "src": "acedy"}
 {"id": 1659210, "jp": "この谷の風景は、ガーデナーの故郷とはまるで違う。\nけれど、その緑を守り続ければ――\nこの地とともに新生を迎えられる。彼女はそう信じている。", "en": "The scenery of this valley is nothing like the gardener's homeland.\nBut if she keeps protecting its greenery--\nshe can greet a new life together with this land. That is what she believes.", "src": "acedy"}
-{"id": 1659211, "jp": "「つめたい石で、おなかいっぱい。\nきれいでおっきな木の下で、ひんやり。\nそれに、せーりんしゃ、約束してくれた。\nずっといっしょだって……」", "en": "\"Cold stones, belly full.\nUnder the pretty big tree, nice and cool.\nAnd Starcomer promised me.\nTogether forever...\"", "src": "phist"}
+{"id": 1659211, "jp": "「つめたい石で、おなかいっぱい。\nきれいでおっきな木の下で、ひんやり。\nそれに、せーりんしゃ、約束してくれた。\nずっといっしょだって……」", "en": "\"Cold stones, belly full.\nUnder the pretty big tree, nice and cool.\nAnd Starborn promised me.\nTogether forever...\"", "src": "phist"}
 {"id": 1659212, "jp": "闇に堕ちたとしても、微かな光があるかぎり――\nひたむきな種は成長する希望を捨てない。", "en": "Even if it falls into darkness, so long as a faint light remains—\na devoted seed never gives up hope of growing.", "src": "phist"}
 {"id": 1659213, "jp": "最高の戦士になるために、彼女は絶えず己を磨き続けている。\n放たれた矢の一本一本が、その成長を物語る。", "en": "To become the greatest warrior, she keeps honing herself without pause.\nEvery arrow she looses tells the story of her growth.", "src": "phist"}
 {"id": 1659214, "jp": "ペガサスナイトの休日。風に乗り、波を蹴って――蒼穹と海潮の果てへ！\n存分に駆け回ったあとの食事にも、期待に胸が膨らむ。", "en": "A Pegasus Knight's day off. Ride the wind, kick through the waves— to the ends of the azure sky and the tide!\nShe's also looking forward to the meal after running about to her heart's content.", "src": "phist"}
@@ -68485,7 +68485,7 @@
 {"id": 1659317, "jp": "おぉ――この制御台、上にある石の輪を回せるみたいだな！", "en": "Whoa, this control console, the stone ring above it looks like it can be turned!", "src": "phist"}
 {"id": 1659318, "jp": "そうそう。里に行くまえに、近くで収集している村民たちの様子を見てみるのだ。\nもしかしたら、手伝えることがあるかもしれないのだ。", "en": "Oh, right. Before we head to the village, let's check on the villagers gathering nearby.\nMaybe there's something we can help with!", "src": "phist"}
 {"id": 1659319, "jp": "どうして離れようとしてるのかはわからないけど、フリスを離れたくないのはわかるよ！\nフリスのみんなも、アマルテイアがいなくなるのは寂しいんだ！|どうして離れようとしてるのかはわからないけど、フリスを離れたくないのはわかるよ！\nフリスのみんなも、アマルテイアがいなくなるのは寂しいんだ！", "en": "I don't know why you're trying to leave, but I can tell you don't want to leave Fleece!\nEveryone in Fleece would miss you too, Amalthea!|I don't know why you're trying to leave, but I can tell you don't want to leave Fleece!\nEveryone in Fleece would miss you too, Amalthea!", "src": "acedy"}
-{"id": 1659320, "jp": "せーりんしゃ、もうかくれた？\n……98、99、100！", "en": "Starcomer, have you hidden yet?\n...98, 99, 100!", "src": "phist"}
+{"id": 1659320, "jp": "せーりんしゃ、もうかくれた？\n……98、99、100！", "en": "Starborn, have you hidden yet?\n...98, 99, 100!", "src": "phist"}
 {"id": 1659321, "jp": "（不純物の多い鉱石だったみたいだ）|（不純物の多い鉱石だったみたい）", "en": "(Looks like that ore had a lot of impurities.)|(Looks like that ore had a lot of impurities.)", "src": "acedy"}
 {"id": 1659322, "jp": "ちょっと怪しいな。\nまるで僕を追い払おうとしているみたいだ……|ちょっと怪しいかな。\nまるで私を追い払おうとしているみたい……", "en": "That's a bit suspicious.\nIt's almost like they're trying to get rid of me...|That's a bit suspicious.\nIt's almost like they're trying to get rid of me...", "src": "acedy"}
 {"id": 1659323, "jp": "それは……すくなくとも、僕は聞いたことがありません。", "en": "Well... At least, I've never heard of any.", "src": "phist"}
@@ -68575,14 +68575,14 @@
 {"id": 1659407, "jp": "ダメだ、ダメ！おまえはとっくにポンポンに気付いているからなっ！", "en": "No, no way! You noticed Pengpeng ages ago!", "src": "phist"}
 {"id": 1659408, "jp": "カンフーマスターは、そう簡単には諦めない！\n我慢……我慢……", "en": "A kung fu master doesn't give up that easily!\nPatience... patience...", "src": "phist"}
 {"id": 1659409, "jp": "ほかの部屋のお姉ちゃんたち、おやつくれた。", "en": "The big sisters in the other rooms gave me snacks.", "src": "phist"}
-{"id": 1659410, "jp": "せーりんしゃ……はむはむする？", "en": "Starcomer... want to munch some?", "src": "phist"}
+{"id": 1659410, "jp": "せーりんしゃ……はむはむする？", "en": "Starborn... want to munch some?", "src": "phist"}
 {"id": 1659411, "jp": "ありがとう、アビィ。でも、ぜんぶ食べていいよ。", "en": "Thanks, Abby.\nBut you can\neat them all.", "src": "phist"}
 {"id": 1659412, "jp": "一緒に食べよう。", "en": "Let's eat\ntogether.", "src": "phist"}
 {"id": 1659413, "jp": "シンフォーリアお姉ちゃんが言ってた。\n食べものを分け合うのは、いい子だって。", "en": "Big Sister Symphoria said so.\nSharing food makes a good child.", "src": "phist"}
 {"id": 1659414, "jp": "分け合おうとしてくれただけで、十分いい子だよ。", "en": "Just offering to share already makes you a good child.", "src": "phist"}
-{"id": 1659415, "jp": "うん……！せーりんしゃとおやつを一緒にはむはむしたい。", "en": "Yeah...! I want to munch snacks together with Starcomer.", "src": "phist"}
+{"id": 1659415, "jp": "うん……！せーりんしゃとおやつを一緒にはむはむしたい。", "en": "Yeah...! I want to munch snacks together with Starborn.", "src": "phist"}
 {"id": 1659416, "jp": "足りないなら……\nアビィ、まだあるから、ぜんぶあげる。", "en": "If it's not enough...\nAbby still has more, so I'll give you all of it.", "src": "phist"}
-{"id": 1659417, "jp": "せーりんしゃ、遊んで？", "en": "Starcomer, play with me?", "src": "phist"}
+{"id": 1659417, "jp": "せーりんしゃ、遊んで？", "en": "Starborn, play with me?", "src": "phist"}
 {"id": 1659418, "jp": "一緒に遊びたいのかな？", "en": "Do you want to play together?", "src": "phist"}
 {"id": 1659419, "jp": "うん……アビィ、遊んでくれるの待ってた。", "en": "Yeah... Abby waited for you to play.", "src": "phist"}
 {"id": 1659420, "jp": "せーりんしゃが来るまえ、アビィ、アメはむはむして、\nこのまえ持ってきてくれたおもちゃで遊んでた。", "en": "Before Stawborn came, Abby munch-munched candy\nand played with the toy you brought last time.", "src": "acedy"}
@@ -68594,9 +68594,9 @@
 {"id": 1659426, "jp": "そのうち雪が降るかもしれないね。", "en": "Maybe it'll\nsnow before\nlong.", "src": "phist"}
 {"id": 1659427, "jp": "アビィもすこし厚着しないと。", "en": "Abby should\ndress a bit\nwarmer, too.", "src": "phist"}
 {"id": 1659428, "jp": "雪……？雪、降ると、きっとすごくおもしろい。", "en": "Snow...? If it snows, it'll be really fun, I know it.", "src": "phist"}
-{"id": 1659429, "jp": "アビィ、せーりんしゃと、雪だるま作りたい。", "en": "Abby wants to build a snowman with Starcomer.", "src": "phist"}
+{"id": 1659429, "jp": "アビィ、せーりんしゃと、雪だるま作りたい。", "en": "Abby wants to build a snowman with Starborn.", "src": "phist"}
 {"id": 1659430, "jp": "アビィ、竜だから、寒くない。ガオーッ――", "en": "Abby's a dragon, so I don't get cold. Gaooo—", "src": "phist"}
-{"id": 1659431, "jp": "でも、せーりんしゃはあったかい格好しないと。\n病気にならないで。病気になったら、一緒に遊べなくなっちゃう。", "en": "But Starcomer has to dress warm.\nDon't get sick. If you get sick, we can't play together.", "src": "phist"}
+{"id": 1659431, "jp": "でも、せーりんしゃはあったかい格好しないと。\n病気にならないで。病気になったら、一緒に遊べなくなっちゃう。", "en": "But Starborn has to dress warm.\nDon't get sick. If you get sick, we can't play together.", "src": "phist"}
 {"id": 1659432, "jp": "農園のキボたち、アビィと一緒に遊びたくないって。", "en": "The Kibo on the Farm say they don't want to play with Abby.", "src": "phist"}
 {"id": 1659433, "jp": "アビィのこと、怖がってる？\nアビィ……一緒に遊びたいだけなのに。", "en": "Are they scared of Abby?\nAbby just wants to play together...", "src": "phist"}
 {"id": 1659434, "jp": "アビィは悪くないよ。ただ、アビィがすごすぎるから。", "en": "It's not your fault, Abby. It's just that you're so amazing.", "src": "phist"}
@@ -69344,7 +69344,7 @@
 {"id": 1660178, "jp": "リリカはこの農園の管理者だからね！\n食材のことなら、だれより詳しいんだ。|リリカはこの農園の管理者だからね！\n食材のことなら、だれより詳しいんだよ。", "en": "Lyrica is the manager of this Farm, after all!\nNo one knows more about ingredients than she does.|Lyrica is the manager of this Farm, after all!\nNo one knows more about ingredients than she does.", "src": "acedy"}
 {"id": 1660179, "jp": "それは、その……", "en": "Well, that is... um...", "src": "phist"}
 {"id": 1660180, "jp": "そういえば、シャルから\nすこしお願いしたいことがあるんだけど……", "en": "By the way, Shal has\na little favor to ask...", "src": "acedy"}
-{"id": 1660181, "jp": "せーりんしゃ、かくれて。\nアビィ、100数えたあと、つかまえる。", "en": "Starcomer, hide.\nAbby counts to 100, then catches you.", "src": "phist"}
+{"id": 1660181, "jp": "せーりんしゃ、かくれて。\nアビィ、100数えたあと、つかまえる。", "en": "Starborn, hide.\nAbby counts to 100, then catches you.", "src": "phist"}
 {"id": 1660182, "jp": "なるほど、そういうことか……|なるほど、そういうこと……", "en": "I see, so that's how it is...|I see, so that's how it is...", "src": "acedy"}
 {"id": 1660183, "jp": "じゃあ、つぎは交代しよう。アビィが隠れて。僕が捕まえるよ。|じゃあ、つぎは交代しよう。アビィが隠れて。私が捕まえるよ。", "en": "Then let's switch next. You hide, Abby. I'll catch you.|Then let's switch next. You hide, Abby. I'll catch you.", "src": "acedy"}
 {"id": 1660184, "jp": "（見つけた）", "en": "(Found her.)", "src": "phist"}
@@ -69526,7 +69526,7 @@
 {"id": 1660360, "jp": "ふふ、私たちがそんなことするわけないでしょう。\n……ただね、私たちも獣人はすこし変わった種族だと思っていたの。\nほかのひとのお尻を蹴る『タナの夜』っていうのがある――なんて話を聞いていたからね。", "en": "Hee hee, we would never do something like that.\n...But you know, we thought the Beastfolk were a rather odd people, too.\nWe'd heard there's something called 'Tana's Night' where you kick each other in the behind.", "src": "phist"}
 {"id": 1660361, "jp": "（それは……本当なんだけどね……）", "en": "(That one... is actually true, though...)", "src": "phist"}
 {"id": 1660362, "jp": "うん！キクギもすごく喜んでたよ！\nまた機会があったら……翼人の里に行きたいって！", "en": "Yeah! Kikugi was really happy too!\nShe said she wants to visit the Wingfolk Village again if there's a chance!", "src": "phist"}
-{"id": 1660363, "jp": "いや～やっぱり飛ぶのが一番なのだ～\nこの大妖精ルミィさまも、嬉しくて口ずさんじゃうのだ～", "en": "Aah~ flying really is the best~\nEven the great fairy Lady Lumie is so happy she's humming~", "src": "acedy"}
+{"id": 1660363, "jp": "いや～やっぱり飛ぶのが一番なのだ～\nこの大妖精ルミィさまも、嬉しくて口ずさんじゃうのだ～", "en": "Aah~ flying really is the best~\nEven the great fairy Lady Lumi is so happy she's humming~", "src": "acedy"}
 {"id": 1660364, "jp": "あのスカイホーク……わたしたち全員を乗せるのは、さすがにきつそうじゃない……？", "en": "That Skyhawk... Doesn't it look like it'd be a real stretch for it to carry all of us...?", "src": "phist"}
 {"id": 1660365, "jp": "ううん、そんなもんじゃないよ――\n実はね……オイラのクワが、夢遊病になったんだ！", "en": "No, nothing like that—\nThe thing is... my hoe has started sleepwalking!", "src": "phist"}
 {"id": 1660366, "jp": "だから言ったのだ。畑仕事にのめり込みすぎるなって。\nリリカのやつ、疲れすぎて幻覚が見えちゃってるのだ。", "en": "That's why I told you not to get so wrapped up in Farm Work.\nLyrica's just so tired she's seeing things!", "src": "phist"}
@@ -69625,9 +69625,9 @@
 {"id": 1660459, "jp": "つまらないのだ！結局ぜんぶ香子が原因だったのか……\n噂を聞いたときから、なんか聞いたことがあると思ったのだ！", "en": "How boring! So it was all Xiangzi's doing after all...\nI knew it sounded familiar from the moment I heard the rumors!", "src": "phist"}
 {"id": 1660460, "jp": "そうだよ。ちゃんとみんなに説明すれば、\n屋敷のみんなも気にしないんじゃないかな。", "en": "That's right.\nIf you explain it properly to everyone, I don't think anyone in the mansion will mind.", "src": "phist"}
 {"id": 1660461, "jp": "まさか「だれかに説明するくらいなら、追い出されたほうがまし」\nなんてことを思っているんじゃないだろうな？", "en": "Don't tell me you're thinking\n\"I'd rather be thrown out than explain to anyone\"?", "src": "acedy"}
-{"id": 1660462, "jp": "大人、教えてください……このフリスの街には――", "en": "Honored Starcomer, please tell me... In this city of Fleece...", "src": "phist"}
+{"id": 1660462, "jp": "大人、教えてください……このフリスの街には――", "en": "Honored Starborn, please tell me... In this city of Fleece...", "src": "phist"}
 {"id": 1660463, "jp": "雨風をしのげて、人目のすくない暗がりのようなところはありますか？\nあ、雨風をしのげなくても構いません。あるいは、街外れでも……", "en": "Is there somewhere dark, sheltered from the wind and rain, where few people go?\nO-or it doesn't have to be sheltered. Even the outskirts of the city would do...", "src": "phist"}
-{"id": 1660464, "jp": "大人のおっしゃる通りですね……\nわ、わ、わたくし、皆さまにきちんと説明いたします……！", "en": "You're right, Honored Starcomer...\nI-I-I will explain everything to everyone properly...!", "src": "phist"}
+{"id": 1660464, "jp": "大人のおっしゃる通りですね……\nわ、わ、わたくし、皆さまにきちんと説明いたします……！", "en": "You're right, Honored Starborn...\nI-I-I will explain everything to everyone properly...!", "src": "phist"}
 {"id": 1660465, "jp": "ねえ……僕たちが聞き込みに行くよりも……|ねえ……私たちが聞き込みに行くよりも……", "en": "Hey... Rather than us going around asking questions...|Hey... Rather than us going around asking questions...", "src": "acedy"}
 {"id": 1660466, "jp": "ほら、みんなに受け入れてもらった恩を返したいんだよね？\nだとしたら、いまがその時だと思う。", "en": "Come on, you want to repay everyone for accepting you, right?\nThen I think now is the time.", "src": "phist"}
 {"id": 1660467, "jp": "ねえ……もうすこしよく考えたほうがいいと思うわよ……\nってそういえば……いま女の子の声が聞こえなかった？", "en": "Hey... I think you should think about this a little more...\nOh, wait... Didn't I just hear a girl's voice?", "src": "phist"}
@@ -70878,7 +70878,7 @@
 {"id": 1662662, "jp": "守備兵たちは、教官の訓練を受ければ新兵たちも必ず成長すると噂しており、近ごろの郭小宝が熱心に訓練している姿も目にしていた。", "en": "The guards were saying that the recruits would surely grow under the instructor's training, and had also seen Guo Xiaobao training hard of late.", "src": "phist"}
 {"id": 1662663, "jp": "ふたりが農園に戻ると、リリカが出迎えて進み具合を尋ねてきた。シャルは、店主たちがみんな快くすべてを教えてくれたので、もう覚えたはずだと言った。善は急げだ。さっそく試してみよう。", "en": "When the two returned to the Farm, Lyrica greeted them and asked how things were going. Shal said all the shopkeepers had kindly taught her everything, so she must have it down by now. No time like the present. Let's try it right away.", "src": "phist"}
 {"id": 1662664, "jp": "外からの囁きが届き、ステラストーンのなかの生命は長い眠りから目覚めた。\n殻を破るときがきたようだ。\n『それ』はこの世界に降り立ち、最初の問いを口にした――「自分はだれか」と。", "en": "A whisper from outside reached it, and the life within the Stella Stone awoke from a long slumber.\nIt seemed the time had come to break its shell.\n\"It\" descended into this world and voiced its first question: \"Who am I?\"", "src": "phist"}
-{"id": 1662665, "jp": "奇妙な姿の小さな生きものが行く手を塞ぎ、シンフォーリアがとっさに攻撃から守ってくれる。\nなぜここに『キャベッコ』がいるのかと戸惑うシンフォーリア。\n一方、ルミィはまずはキャベッコをおとなしくさせるべきだと考えていた。", "en": "A small, strange-looking creature blocks the way, and Symphoria instinctively shields the Starcomer from its attack.\nSymphoria is bewildered as to why a Cabbeco is here.\nLumi, meanwhile, thinks they should calm the Cabbeco down first.", "src": "phist"}
+{"id": 1662665, "jp": "奇妙な姿の小さな生きものが行く手を塞ぎ、シンフォーリアがとっさに攻撃から守ってくれる。\nなぜここに『キャベッコ』がいるのかと戸惑うシンフォーリア。\n一方、ルミィはまずはキャベッコをおとなしくさせるべきだと考えていた。", "en": "A small, strange-looking creature blocks the way, and Symphoria instinctively shields the Starborn from its attack.\nSymphoria is bewildered as to why a Cabbeco is here.\nLumi, meanwhile, thinks they should calm the Cabbeco down first.", "src": "phist"}
 {"id": 1662666, "jp": "森でキボと呼ばれる不思議な生きものに出会った星臨者。\n気づけば『スターリンク』を結んでいた。", "en": "In the forest, the Starborn met a mysterious creature called a Kibo.\nBefore they knew it, they had formed a Star Link.", "src": "phist"}
 {"id": 1662667, "jp": "危険に満ちた森から、星臨者を連れ出そうとするシンフォーリア。\nだが、合流地点に来るはずだった仲間のアビィと落ち合うことができなかった。\nアビィの行方を追うため、一行は謎に包まれた竜王時代の遺跡に足を踏み入れることになるが……", "en": "Symphoria tries to lead the Starborn out of the perilous forest.\nBut they fail to meet up with their companion Abby, who was supposed to come to the rendezvous point.\nTo trace Abby's whereabouts, the party sets foot in the mysterious Dragon King Era ruins, but...", "src": "phist"}
 {"id": 1662668, "jp": "ロジニア連邦の飛空船の残骸を見て、ルミィは凶獣の襲撃で墜落したのだろうと推測する。\n幸い、魔導コアは現場に残されておらず、森への汚染もなかった。", "en": "Seeing the wreckage of a Roginia Federation airship, Lumi guesses it was brought down by a Fiend attack.\nFortunately, no Magitech Core was left at the scene, and the forest was not polluted.", "src": "phist"}
@@ -71232,7 +71232,7 @@
 {"id": 1663019, "jp": "いつもはこんなにくれないのになぁ～\nあーあ、アタシも伝説の人間サマになりたーい！", "en": "They never give me this much usually!\nAah, I wanna be a legendary human too!", "src": "phist"}
 {"id": 1663020, "jp": "なんだなんだ！\nこっちに来るな～っ！", "en": "What is it, what is it!\nDon't come this way~!", "src": "phist"}
 {"id": 1663021, "jp": "ご、ごめんなさい！\nその、古書に出てくる『<ruby=妖精>シャアモン</ruby>』にそっくりで……\nアウラも綺麗だったものでつい……", "en": "I-I'm sorry!\nUm, you look just like the \"<ruby=Fairy>Shaamon</ruby>\" in the old books...\nand your Aura was so pretty that I just...", "src": "acedy"}
-{"id": 1663022, "jp": "ルミィさま。星臨者さまは空から降臨する者と仰っていましたよね。\nそれはつまり……この方は『<ruby=雲海の国>ソガタール</ruby>』から来たということでしょうか？", "en": "Lady Lumie. You said the Starborn is one who descends from the sky, didn't you?\nDoes that mean... this person came from \"<ruby=Cloud Sea Realm>Sogatar</ruby>\"?", "src": "acedy"}
+{"id": 1663022, "jp": "ルミィさま。星臨者さまは空から降臨する者と仰っていましたよね。\nそれはつまり……この方は『<ruby=雲海の国>ソガタール</ruby>』から来たということでしょうか？", "en": "Lady Lumi. You said the Starborn is one who descends from the sky, didn't you?\nDoes that mean... this person came from \"<ruby=Cloud Sea Realm>Sogatar</ruby>\"?", "src": "acedy"}
 {"id": 1663023, "jp": "古書によれば谷の守護者のような存在だそうです。\n『<ruby=邪神>ファルマン・チャチャ</ruby>』から村を救ったとか。", "en": "According to the old books, they're something like guardians of the valley.\nThey say one saved the village from \"<ruby=Evil god>Farman Chacha</ruby>.\"", "src": "acedy"}
 {"id": 1663024, "jp": "大切な選択よ。じっくり考えて。", "en": "This is an important choice. Think carefully.", "src": "phist"}
 {"id": 1663025, "jp": "この<ruby=きずな>星絆</ruby>は、すべてを超越する――", "en": "This Star Link transcends everything--", "src": "acedy"}
@@ -72748,7 +72748,7 @@
 {"id": 1664541, "jp": "【通常攻撃】最大5段の連続攻撃で、エネミーに最大で攻撃力の{0}分の<color=#7d5bbc>闇属性ダメージ</color>を与える。\n3段目は攻撃ボタンを最大4回連打でき、「業火」を4スタックまで消費して「鬼手」に連携攻撃させる。\n4段目は「業火」を1スタック消費して「鬼手」に連携攻撃させられる。\n5段目も「業火」を1スタック消費して「鬼手」に連携攻撃させられる。\n「鬼手」の連携攻撃は攻撃力の{1}分の<color=#7d5bbc>闇属性ダメージ</color>を与える。\n5段目の後、次のチャージ攻撃に必要なチャージ時間が短縮される。\n5段目は操作キャラクターを切り替えた時も中断されない。\n\n【チャージ攻撃】その場で力をためて攻撃する。最大2段階までチャージできる。\n1段階では最大で攻撃力の{2}分の<color=#7d5bbc>闇属性ダメージ</color>を与える。\n2段階では最大で攻撃力の{3}分の<color=#7d5bbc>闇属性ダメージ</color>を与える。命中した後、「業火」を3スタック獲得する（最大6スタック）。\n通常攻撃の5段目、星響スキル、または星極スキルの後はチャージ時間が短縮される。チャージ中はよろけ耐性が上昇し、被ダメージが80%減少する。操作キャラクターを切り替えた時も発動は中断されない。\n\n【ダッシュ攻撃】攻撃力の{4}分の<color=#7d5bbc>闇属性ダメージ</color>を与える。\n\n【ジャンプ攻撃】攻撃力の{5}分の<color=#7d5bbc>闇属性ダメージ</color>を与える。カウンターから派生したジャンプ攻撃中、源千代は無敵になる。「業火」を1スタック消費して「鬼手」に連携攻撃させ、攻撃力の{6}分の<color=#7d5bbc>闇属性ダメージ</color>を与えられる。", "en": "[Normal Attack] A combo of up to 5 hits, dealing up to {0} of ATK as <color=#7d5bbc>Dark damage</color> to enemies.\nOn the 3rd hit, the attack button can be tapped repeatedly up to 4 times, consuming up to 4 stacks of \"Hellfire\" to have the \"Oni Hand\" perform linked attacks.\nOn the 4th hit, 1 stack of \"Hellfire\" can be consumed to have the \"Oni Hand\" perform a linked attack.\nOn the 5th hit, too, 1 stack of \"Hellfire\" can be consumed to have the \"Oni Hand\" perform a linked attack.\nThe \"Oni Hand\" linked attack deals <color=#7d5bbc>Dark damage</color> equal to {1} of ATK.\nAfter the 5th hit, the charge time needed for the next Charged Attack is shortened.\nThe 5th hit is not interrupted even when switching the controlled character.\n\n[Charged Attack] Gathers power on the spot and attacks. Can be charged up to 2 levels.\nLevel 1 deals up to {2} of ATK as <color=#7d5bbc>Dark damage</color>.\nLevel 2 deals up to {3} of ATK as <color=#7d5bbc>Dark damage</color>. After hitting, gain 3 stacks of \"Hellfire\" (max 6 stacks).\nCharge time is shortened after the 5th hit of the Normal Attack, a Star Echo Skill, or a Star Zenith Skill. While charging, stagger resistance increases and damage taken is reduced by 80%. Activation is not interrupted even when switching the controlled character.\n\n[Dash Attack] Deals <color=#7d5bbc>Dark damage</color> equal to {4} of ATK.\n\n[Jump Attack] Deals <color=#7d5bbc>Dark damage</color> equal to {5} of ATK. During a jump attack derived from a Counter, Minamoto Chiyo is invincible. 1 stack of \"Hellfire\" can be consumed to have the \"Oni Hand\" perform a linked attack, dealing <color=#7d5bbc>Dark damage</color> equal to {6} of ATK.", "src": "acedy"}
 {"id": 1664542, "jp": "邪を破り、悪を斬る――刀影繚乱。", "en": "Shatter the wicked, cut down evil—a whirl of blade shadows.", "src": "phist"}
 {"id": 1664543, "jp": "【星閃スキル】登場時に発動。\nエネミーに攻撃力の{0}分の<color=#7d5bbc>闇属性ダメージ</color>を与え、「業火」を2スタック獲得する。\n\n【カウンター】攻撃力の{1}分の<color=#7d5bbc>闇属性ダメージ</color>を与える。跳び上がる時に攻撃ボタンを押すと、派生ジャンプ攻撃を発動できる。派生ジャンプ攻撃中は無敵になる。\n\n【ジャストパリィ】この攻撃をガードして反撃できる。反撃で攻撃力の{2}分の<color=#7d5bbc>闇属性ダメージ</color>を与える。命中した後、「業火」を2スタック獲得する（最大6スタック）。この時に通常攻撃を行うと、3段目から始まる。", "en": "[Star Flash Skill] Activates upon entering the field.\nDeals <color=#7d5bbc>Dark damage</color> equal to {0} of ATK to enemies and grants 2 stacks of \"Hellfire\".\n\n[Counter] Deals <color=#7d5bbc>Dark damage</color> equal to {1} of ATK. Press the attack button while leaping up to trigger a derived jump attack. Invincible during the derived jump attack.\n\n[Perfect Parry] Can guard this attack and counterattack. The counterattack deals <color=#7d5bbc>Dark damage</color> equal to {2} of ATK. After hitting, gain 2 stacks of \"Hellfire\" (max 6 stacks). Performing a Normal Attack at this time starts from the 3rd hit.", "src": "acedy"}
-{"id": 1664544, "jp": "「ルミィ」はシンフォーリアを追従し、行動に応じて異なるアクションを行う。\n通常攻撃、ダッシュ攻撃、カウンターで矢が敵に命中すると「風語」を1スタック獲得する。10スタックに達すると「風の息吹」を獲得し、EXダメージが18%増加し（15秒間）、<img name=\"tex_icon_skilldesc_wind\" /><link=explain#1><color=#d2915d>風の印</color></link>を1つ獲得する。「風の息吹」の持続中、「風語」をスタックすることはできない。", "en": "\"Lumie\" follows Symphoria and performs different actions depending on her behavior.\nWhen an arrow from a Normal Attack, dash attack, or Counter hits an enemy, gain 1 stack of \"Wind Whisper\". Upon reaching 10 stacks, gain \"Breath of Wind\", increasing EX damage by 18% (15s), and gain 1 <img name=\"tex_icon_skilldesc_wind\" /><link=explain#1><color=#d2915d>Wind Mark</color></link>. While \"Breath of Wind\" lasts, \"Wind Whisper\" cannot be stacked.", "src": "acedy"}
+{"id": 1664544, "jp": "「ルミィ」はシンフォーリアを追従し、行動に応じて異なるアクションを行う。\n通常攻撃、ダッシュ攻撃、カウンターで矢が敵に命中すると「風語」を1スタック獲得する。10スタックに達すると「風の息吹」を獲得し、EXダメージが18%増加し（15秒間）、<img name=\"tex_icon_skilldesc_wind\" /><link=explain#1><color=#d2915d>風の印</color></link>を1つ獲得する。「風の息吹」の持続中、「風語」をスタックすることはできない。", "en": "\"Lumi\" follows Symphoria and performs different actions depending on her behavior.\nWhen an arrow from a Normal Attack, dash attack, or Counter hits an enemy, gain 1 stack of \"Wind Whisper\". Upon reaching 10 stacks, gain \"Breath of Wind\", increasing EX damage by 18% (15s), and gain 1 <img name=\"tex_icon_skilldesc_wind\" /><link=explain#1><color=#d2915d>Wind Mark</color></link>. While \"Breath of Wind\" lasts, \"Wind Whisper\" cannot be stacked.", "src": "acedy"}
 {"id": 1664545, "jp": "『悪い子』をやっつけよう！", "en": "Let's take down the \"Bad Child\"!", "src": "phist"}
 {"id": 1664546, "jp": "シャルル村の最強ハンター、登場！", "en": "Charlulu Village's Strongest Hunter has arrived!", "src": "phist"}
 {"id": 1664547, "jp": "【通常攻撃】最大3段の連続攻撃で、エネミーに最大で攻撃力の{0}分の<color=#02a0e9>水属性ダメージ</color>を与える。\n3段目の後に攻撃ボタンを長押しすると、チャージ攻撃のチャージ速度が上がる。チャージが2段階に達した状態で攻撃がエネミーに命中すると、<img name=\"tex_icon_skilldesc_water\" /><link=explain#2><color=#02a0e9>水の刻印</color></link>を1つ獲得し、エネミーに「流水のアウラ」効果を付与する。効果を付与されたエネミーの防御力が{1}低下する（効果時間：24秒）。\n\n【チャージ攻撃】エネミーに<color=#02a0e9>水属性ダメージ</color>を与える。最大3段階までチャージでき、チャージ中と攻撃中は自身のよろけ耐性が1段階上昇する。\n1段階に達した時、3回の攻撃で最大で攻撃力の{2}分の<color=#02a0e9>水属性ダメージ</color>を与える。\n2段階に達した時、4回の攻撃で最大で攻撃力の{3}分の<color=#02a0e9>水属性ダメージ</color>を与える。\n3段階に達した時、9回の攻撃で最大で攻撃力の{4}分の<color=#02a0e9>水属性ダメージ</color>を与える。3段階の5撃目が命中した時、<img name=\"tex_icon_skilldesc_water\" /><link=explain#2><color=#02a0e9>水の刻印</color></link>を1つ獲得し、エネミーに「流水のアウラ」効果を付与する。\n【ダッシュ攻撃】攻撃力の{5}分の<color=#02a0e9>水属性ダメージ</color>を与える。\n\n【ジャンプ攻撃】攻撃力の{6}分の<color=#02a0e9>水属性ダメージ</color>を与える。", "en": "[Normal Attack] A combo of up to 3 hits, dealing up to {0} of ATK as <color=#02a0e9>Water damage</color> to enemies.\nHolding the attack button after the 3rd hit increases the Charged Attack's charge speed. When an attack hits an enemy with the charge at level 2, gain 1 <img name=\"tex_icon_skilldesc_water\" /><link=explain#2><color=#02a0e9>Water Sigil</color></link> and inflict the \"Flowing Water Aura\" effect on the enemy. The affected enemy's DEF is reduced by {1} (Duration: 24s).\n\n[Charged Attack] Deals <color=#02a0e9>Water damage</color> to enemies. Can be charged up to 3 levels; while charging and attacking, own stagger resistance rises by 1 level.\nAt level 1, 3 attacks deal up to {2} of ATK as <color=#02a0e9>Water damage</color>.\nAt level 2, 4 attacks deal up to {3} of ATK as <color=#02a0e9>Water damage</color>.\nAt level 3, 9 attacks deal up to {4} of ATK as <color=#02a0e9>Water damage</color>. When the 5th strike of level 3 hits, gain 1 <img name=\"tex_icon_skilldesc_water\" /><link=explain#2><color=#02a0e9>Water Sigil</color></link> and inflict the \"Flowing Water Aura\" effect on the enemy.\n[Dash Attack] Deals <color=#02a0e9>Water damage</color> equal to {5} of ATK.\n\n[Jump Attack] Deals <color=#02a0e9>Water damage</color> equal to {6} of ATK.", "src": "acedy"}
@@ -73041,7 +73041,7 @@
 {"id": 1664834, "jp": "いいえ、謝るべきは私のほうです。\nケガをさせてしまって申し訳ありません……\nこちらをどうかお受け取りください。", "en": "No, I'm the one who should apologize.\nI'm sorry I got you hurt...\nPlease, accept this.", "src": "phist"}
 {"id": 1664835, "jp": "さすが妖精さま。キボとこれほど親しく交流できるなんて。", "en": "As expected of a Lady Fairy. To interact so closely with Kibo...", "src": "phist"}
 {"id": 1664836, "jp": "うん。目が覚めたら知らない森のなかにいて、\n自分がだれなのかまったく思い出せなかったんだ……|うん。目が覚めたら知らない森のなかにいて、\n自分がだれなのかまったく思い出せなかったの……", "en": "Yeah. When I woke up I was in an unfamiliar forest,\nand I couldn't remember who I was at all...|Yeah. When I woke up I was in an unfamiliar forest,\nand I couldn't remember who I was at all...", "src": "acedy"}
-{"id": 1664837, "jp": "運よく、任務中だったシンフォーリアとルミィが\n僕を見つけて、助けてくれた。|運よく、任務中だったシンフォーリアとルミィが\n私を見つけて助けてくれたの。", "en": "Luckily, Symphoria and Lumie, who were on a mission,\nfound me and helped me.|Luckily, Symphoria and Lumie, who were on a mission,\nfound me and helped me.", "src": "acedy"}
+{"id": 1664837, "jp": "運よく、任務中だったシンフォーリアとルミィが\n僕を見つけて、助けてくれた。|運よく、任務中だったシンフォーリアとルミィが\n私を見つけて助けてくれたの。", "en": "Luckily, Symphoria and Lumi, who were on a mission,\nfound me and helped me.|Luckily, Symphoria and Lumi, who were on a mission,\nfound me and helped me.", "src": "acedy"}
 {"id": 1664838, "jp": "おい！{playerName}！", "en": "Hey! {playerName}!", "src": "acedy"}
 {"id": 1664839, "jp": "いいわ！この天才の実力、見せてあげる！\n真紅の弾丸は、すべてを貫くのよ！", "en": "Fine! I'll show you the true power of this genius!\nThe Crimson Bullet pierces everything!", "src": "phist"}
 {"id": 1664840, "jp": "一千万……一千万……一千万……", "en": "Ten million... ten million... ten million...", "src": "phist"}
@@ -73165,7 +73165,7 @@
 {"id": 1664958, "jp": "ほっほ。それで、おぬしらはなにを知ってしまったのかのう？", "en": "Hohoho. So, what is it that you've come to know?", "src": "phist"}
 {"id": 1664959, "jp": "……じゃなくて……あ、あたしたちは……頑張って探した……けど……\nな、なにもわからなかったのだ～フンフフ～ン♪", "en": "...I mean... w-we... looked really hard... but...\nw-we didn't find out anything~ hm-hm-hmm~♪", "src": "acedy"}
 {"id": 1664960, "jp": "ほっほ。そうかのう？\nときには、なにも知らないほうがいいこともある。", "en": "Hohoho. Is that so?\nSometimes, it is better not to know.", "src": "phist"}
-{"id": 1664961, "jp": "それじゃ村長、ルミィさまはもう行くのだ！\n{playerName}のところに行かなきゃいけないからな！", "en": "Well then, Chief, the great Lumie will be going now!\nI've got to get over to {playerName}, after all!", "src": "acedy"}
+{"id": 1664961, "jp": "それじゃ村長、ルミィさまはもう行くのだ！\n{playerName}のところに行かなきゃいけないからな！", "en": "Well then, Chief, the great Lumi will be going now!\nI've got to get over to {playerName}, after all!", "src": "acedy"}
 {"id": 1664962, "jp": "ほっほ。うむ、またな。わかっているなら、それでよい。", "en": "Hohoho. Yes, see you later. If you understand, that is enough.", "src": "phist"}
 {"id": 1664963, "jp": "でも最近はね、『スマイルホラー』を体験しようって、\nニャバットやチェシャバットを探し回る若い子がいるらしいわ。\nいまどきの子は本当にわからないわね……", "en": "But lately, you know, I hear there are youngsters going around looking for\nTitterbat and Cheshire Bats to experience \"Smile Horror\".\nI really don't understand kids these days...", "src": "acedy"}
 {"id": 1664964, "jp": "実は、二日前にオージーくんとケリーちゃんが遊んでいたときにうっかり転んでしまったんです。\nいまは隔離されて、治療を受けています。", "en": "Two days ago, Ozzie and Kelly were playing and accidentally fell.\nThey're isolated now and receiving treatment.", "src": "phist"}
