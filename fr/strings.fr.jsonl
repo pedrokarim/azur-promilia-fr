@@ -14277,157 +14277,272 @@
 {"id":1510394,"jp":"異彩キボ","fr":"Variantes de Kibo"}
 {"id":1510395,"jp":"フィールドでは、まれに通常とは異なる色のキボが現れることがあります。それはとてもレアなキボです。","fr":"Sur le terrain, il arrive parfois qu'un Kibo d'une couleur inhabituelle apparaisse. C'est un Kibo très rare."}
 {"id":1510396,"jp":"異彩キボに近づくと、<color={highlight}>特別なヒント</color>が表示されます。\n見逃さないように注意してください。","fr":"Lorsque vous approchez d'un Kibo Variante, un <color={highlight}>indice spécial</color> apparaît.\nVeillez à ne pas le manquer."}
+{"id":1510397,"jp":"<actionkeyhold>MainInput/MainAttack</actionkeyhold>を長押しすると、強力な<color={highlight}>チャージ攻撃</color>を繰り出せます。","fr":"Maintenez <actionkeyhold>MainInput/MainAttack</actionkeyhold> pour effectuer une puissante <color={highlight}>Attaque chargée</color>."}
 {"id":1510398,"jp":"攻撃ボタンを長押しすると、強力な<color={highlight}>チャージ攻撃</color>を繰り出せます。","fr":"Maintenez le bouton d'attaque pour lancer une puissante <color={highlight}>Attaque chargée</color>."}
+{"id":1510399,"jp":"<actionkey>MainInput/MainAttack</actionkey> を長押しすると、強力な<color={highlight}>チャージ攻撃</color>を繰り出せます。","fr":"Maintenez <actionkey>MainInput/MainAttack</actionkey> pour effectuer une puissante <color={highlight}>Attaque chargée</color>."}
 {"id":1510400,"jp":"移動","fr":"Déplacement"}
+{"id":1510401,"jp":"<actionkey>MainInput/MainMovement</actionkey> で<color={highlight}>移動</color>できます。","fr":"Utilisez <actionkey>MainInput/MainMovement</actionkey> pour vous <color={highlight}>déplacer</color>."}
 {"id":1510402,"jp":"バーチャルスティックで<color={highlight}>移動</color>できます。","fr":"Vous pouvez vous <color={highlight}>déplacer</color> avec le stick virtuel."}
+{"id":1510403,"jp":"<actionkey>MainInput/MainMovement</actionkey> で<color={highlight}>移動</color>します","fr":"Utilisez <actionkey>MainInput/MainMovement</actionkey> pour vous <color={highlight}>déplacer</color>"}
 {"id":1510404,"jp":"ダッシュ","fr":"Sprint"}
+{"id":1510405,"jp":"移動中に<actionkey>MainInput/MainEvade</actionkey> を押すと、<color={highlight}>ダッシュ</color>状態になります。","fr":"Appuyez sur <actionkey>MainInput/MainEvade</actionkey> pendant un déplacement pour vous mettre en <color={highlight}>sprint</color>."}
 {"id":1510406,"jp":"移動中に回避ボタンを押すと、<color={highlight}>ダッシュ</color>状態になります。","fr":"Appuyez sur le bouton d'esquive en vous déplaçant pour passer en état de <color={highlight}>sprint</color>."}
+{"id":1510407,"jp":"<actionkey>MainInput/MainAttack</actionkey> で<color={highlight}>攻撃</color>できます。非戦闘時に敵に命中すると戦闘状態に入ります。","fr":"Utilisez <actionkey>MainInput/MainAttack</actionkey> pour <color={highlight}>attaquer</color>. Toucher un ennemi hors combat déclenche un combat."}
+{"id":1510408,"jp":"攻撃ボタンを押すと<color={highlight}>攻撃</color>できます。非戦闘時に敵に命中すると戦闘状態に入ります。","fr":"Appuyez sur le bouton d'attaque pour <color={highlight}>attaquer</color>. Toucher un ennemi hors combat déclenche un combat."}
 {"id":1510409,"jp":"スーニヤの浄化","fr":"Purification de la Sunya"}
+{"id":1510410,"jp":"スーニヤのエネルギーが蓄積・圧縮され空間の歪みを生み出し、周囲のエリアを侵蝕し、凶暴な凶獣を引き寄せています。\n敵を倒して、目前の脅威を排除しましょう。","fr":"L'Énergie de Sunya s'accumule et se comprime, provoquant une distorsion de l'espace, corrompant les environs et attirant de féroces Bêtes maudites.\nÉliminez les ennemis pour écarter cette menace."}
 {"id":1510411,"jp":"凶獣を討伐すると、スーニヤに侵蝕されたエリアの状態は一時的に安定します。\nこの隙にスーニヤのコアの浄化を急ぎましょう。","fr":"Vaincre les Bêtes maudites stabilise temporairement la zone touchée par l'Érosion de Sunya.\nProfitez de cette accalmie pour vous dépêcher de purifier le noyau de Sunya."}
 {"id":1510412,"jp":"マウントの試練","fr":"L'épreuve de la monture"}
 {"id":1510413,"jp":"未知の先人たちがこの世界に残した様々な試練が、星絆を結んだ知恵ある種族とキボが共に挑むのを待っています","fr":"Diverses épreuves laissées dans ce monde par de mystérieux prédécesseurs attendent que les êtres doués de sagesse et les Kibo liés par un Lien stellaire les relèvent ensemble"}
+{"id":1510414,"jp":"指定された<color={highlight}>制限時間内</color>に<color={highlight}>すべての加速の種</color>に触れると挑戦をクリアでき、報酬を獲得できます。","fr":"Touchez <color={highlight}>toutes les graines d'accélération</color> dans le <color={highlight}>temps imparti</color> pour réussir le défi et obtenir des récompenses."}
 {"id":1510415,"jp":"迷子のアウラ","fr":"Aura égarée"}
+{"id":1510416,"jp":"<color={highlight}>アウラ</color>は星脈エネルギーが地表の元素属性の影響を受けて誕生した存在ですが、たまにどこかで迷子になります","fr":"Les <color={highlight}>Aura</color> sont des êtres nés de l'interaction entre l'Énergie des veines stellaires et les éléments présents à la surface du monde. Il leur arrive cependant de se perdre."}
+{"id":1510417,"jp":"<color={highlight}>迷子のアウラ</color>を見つけて「家」へと導くと、<color={highlight}>アウラの贈りもの</color>を獲得できます！","fr":"Retrouvez un <color={highlight}>Aura égaré</color> et raccompagnez-le chez lui pour recevoir un <color={highlight}>Présent des Aura</color> !"}
 {"id":1510418,"jp":"待機中のキボ","fr":"Kibo en réserve"}
 {"id":1510419,"jp":"ファイト開始後、待機中のすべてのキボが表示されます。\n任意のキボを選んで配置することができます。","fr":"Une fois le duel lancé, tous vos Kibo en attente s'affichent.\nVous pouvez choisir n'importe quel Kibo et le placer."}
 {"id":1510420,"jp":"キボを配置","fr":"Placer des Kibo"}
+{"id":1510421,"jp":"キボの召喚には<color={highlight}>配置コスト</color>が必要です。\n配置コストはファイト中、時間の経過とともに<color={highlight}>徐々に増加</color>し、上限まで溜まります。","fr":"Invoquer un Kibo nécessite un <color={highlight}>coût de placement</color>.\nPendant un duel, la réserve de coût de placement <color={highlight}>augmente progressivement</color> jusqu'à sa limite maximale."}
 {"id":1510422,"jp":"属性相性","fr":"Affinités élémentaires"}
+{"id":1510423,"jp":"キボファイトでは、属性の相性も重要な要素です。\nキボを選択した後、敵の頭上に表示されるヒントで<color={highlight}>有利</color>か<color={highlight}>不利</color>かを確認できます。","fr":"Les affinités élémentaires jouent également un rôle important dans le Duel de Kibo.\nAprès avoir sélectionné un Kibo, consultez l'indicateur au-dessus des ennemis pour déterminer si vous avez un <color={highlight}>avantage</color> ou un <color={highlight}>désavantage</color>."}
 {"id":1510424,"jp":"畑小屋","fr":"Cabane des champs"}
+{"id":1510425,"jp":"畑小屋で、<color={highlight}>種まき、水やり、収穫の役割を持つキボ</color>を派遣しておくと、キボたちは自動的に作物の栽培を始めます。","fr":"Affectez à la cabane agricole des <color={highlight}>Kibo spécialisés dans les semis, l'Arrosage et la récolte</color> pour qu'ils cultivent automatiquement vos parcelles."}
 {"id":1510426,"jp":"種倉庫","fr":"Grenier à graines"}
+{"id":1510427,"jp":"キボに畑仕事を手伝ってもらうには、あらかじめ種を<color={highlight}>種倉庫</color>に入れておく必要があります。\nキボは<color={highlight}>種を配置した順</color>に種まきを行います。","fr":"Pour que les Kibo vous aident aux Travaux des champs, placez au préalable des graines dans l'<color={highlight}>entrepôt de graines</color>.\nLes Kibo sèment les graines <color={highlight}>dans leur ordre de placement</color>."}
 {"id":1510428,"jp":"自動栽培","fr":"Culture automatique"}
+{"id":1510429,"jp":"準備が整えば、あとは安心してフィールドを冒険しましょう。\n種と満腹度が十分にあれば、キボたちはどんどん作物を収穫して畑小屋に運んでくれます。","fr":"Une fois les préparatifs terminés, partez à l'aventure en toute tranquillité.\nTant qu'ils disposent de suffisamment de graines et de satiété, les Kibo continuent de récolter les cultures et de les rapporter à la cabane agricole."}
 {"id":1510430,"jp":"牧場配置","fr":"Placement au pâturage"}
 {"id":1510431,"jp":"キボを一定時間牧場に配置すると、それぞれに対応した生産物を生み出します。\nキボによって生産できるアイテムはさまざまです。","fr":"Si vous placez un Kibo au pâturage pendant un certain temps, il produit des objets qui lui sont propres.\nLes objets produits varient selon le Kibo."}
 {"id":1510432,"jp":"自動収集","fr":"Collecte automatique"}
 {"id":1510433,"jp":"収集作業が大変なら、キボを牧場に派遣しましょう。\n冒険中も、派遣したキボが代わりに生産物を集めてくれます。","fr":"Si la collecte vous pèse, affectez des Kibo au pâturage.\nMême pendant vos aventures, les Kibo affectés récoltent les produits à votre place."}
+{"id":1510434,"jp":"敵の体勢ゲージをブレイクすると、<color={highlight}>ブレイク</color>状態になります\nこの時に敵を攻撃すると、<color={highlight}>150%のダメージ</color>を与えられます！","fr":"Vider la Jauge de posture d'un ennemi le place en état de <color={highlight}>Brise</color>.\nAttaquer cet ennemi pendant cet état permet d'infliger <color={highlight}>150 % de DGT</color> !"}
 {"id":1510435,"jp":"体勢ゲージ","fr":"Jauge de posture"}
+{"id":1510436,"jp":"一部の強力な敵は<color={highlight}>体勢ゲージ</color>を持っています。\n敵にダメージを与えると、体勢ゲージを削ることができます。","fr":"Certains ennemis puissants possèdent une <color={highlight}>Jauge de posture</color>.\nLeur infliger des DGT réduit leur Jauge de posture."}
 {"id":1510437,"jp":"キボ小屋","fr":"Enclos à Kibo"}
+{"id":1510438,"jp":"入手したキボは<color={highlight}>キボ小屋</color>に保管され、いつでも確認や育成を行うことができます。","fr":"Les Kibo obtenus sont placés dans l'<color={highlight}>Enclos à Kibo</color>, où vous pouvez les consulter et les faire progresser à tout moment."}
 {"id":1510439,"jp":"位置の調整","fr":"Ajuster la position"}
 {"id":1510440,"jp":"<color={highlight}>長押し</color>するとキボを持ち上げて、位置を調整できます。","fr":"Un <color={highlight}>appui prolongé</color> permet de soulever un Kibo et d'ajuster sa position."}
 {"id":1510441,"jp":"移動と入れ替え","fr":"Déplacer et échanger"}
 {"id":1510443,"jp":"ページ切り替え","fr":"Changer de page"}
+{"id":1510444,"jp":"キボを持ち上げた状態で、キボを<color={highlight}>小屋のページ切り替え矢印へ移動させる</color>と、<color={highlight}>他の小屋へ切り替える</color>ことができます。","fr":"Lorsque vous maintenez un Kibo, <color={highlight}>déplacez-le sur la flèche de changement de page de l'enclos</color> pour <color={highlight}>passer à un autre enclos</color>."}
+{"id":1510445,"jp":"冒険の途中では、さまざまなクエストを受けることができます。その中には<color={highlight}>メインストーリークエスト</color>や<color={highlight}>サブストーリークエスト</color>などがあります。","fr":"Au cours de votre aventure, vous pouvez entreprendre diverses quêtes, notamment des <color={highlight}>quêtes principales</color> et des <color={highlight}>quêtes secondaires</color>."}
 {"id":1510446,"jp":"クエスト追跡","fr":"Suivi des quêtes"}
+{"id":1510447,"jp":"クエストを追跡状態にすると<color={highlight}>クエスト追跡マーク</color>が表示されます。マークに従って目的地へ向かえば、クエストを進行できます。","fr":"Suivre une quête fait apparaître un <color={highlight}>marqueur de suivi de quête</color>. Suivez ce marqueur jusqu'à votre destination pour progresser dans la quête."}
 {"id":1510450,"jp":"特異体","fr":"Anomalie"}
+{"id":1510451,"jp":"見た目からして只者ではないキボ、それが<color={highlight}>特異体</color>と呼ばれる存在です。\n自分の実力に絶対の自信があるなら、挑んでみましょう。","fr":"Certains Kibo se distinguent au premier regard par leur apparence extraordinaire. Ce sont les <color={highlight}>Kibo anormaux</color>.\nSi vous avez une confiance absolue en vos capacités, défiez-les."}
+{"id":1510452,"jp":"普通のキボに比べ、特異体のキボは能力がより強力で、<color={highlight}>スターリンクする価値があります。</color>\n特異体を初めて倒すと、初回クリア宝箱報酬も獲得できます。","fr":"Les Kibo anormaux possèdent des capacités supérieures à celles des Kibo ordinaires. <color={highlight}>Ils méritent que vous formiez un Lien stellaire avec eux.</color>\nVaincre un Kibo anormal pour la première fois permet également d'obtenir un coffre de récompense de première réussite."}
 {"id":1510453,"jp":"フィールド採集","fr":"Collecte sur le terrain"}
+{"id":1510454,"jp":"フィールドの採集所にキボを配置すると、採集を手伝ってくれます。\nフィールド採集には同時に採集できる<color={highlight}>数量上限</color>があるため、必要に応じて派遣しましょう。","fr":"Affectez des Kibo aux points de collecte du monde pour qu'ils vous aident à collecter des ressources.\nLa collecte dans le monde est soumise à une <color={highlight}>limite de quantité</color> simultanée. Affectez vos Kibo selon vos besoins."}
 {"id":1510455,"jp":"配置エリア","fr":"Zone de placement"}
+{"id":1510456,"jp":"戦場の青いエリアは<color={highlight}>配置エリア</color>と呼ばれます。\nキボはこの範囲内でのみ配置可能です。","fr":"La zone bleue du champ de bataille est appelée <color={highlight}>zone de placement</color>.\nLes Kibo ne peuvent être placés que dans cette zone."}
 {"id":1510457,"jp":"ファイトタグ","fr":"Badge de duel"}
+{"id":1510458,"jp":"キボにはそれぞれ異なる能力があり、ファイトタグによって分類されています。\n異なるタグをバランスよく組み合わせることで、勝率を大きく高めることができます。","fr":"Chaque Kibo possède des capacités différentes et est classé selon ses attributs de duel.\nCombiner judicieusement différents attributs augmente considérablement vos chances de victoire."}
 {"id":1510459,"jp":"時間経過","fr":"Le temps qui passe"}
+{"id":1510460,"jp":"ゲーム内の時間は現実の時間に合わせて進行します。時間帯によって<color={highlight}>出現するキャラクターやキボ</color>が異なるので、観察してみましょう。","fr":"Le temps en jeu s'écoule au rythme du temps réel. Les <color={highlight}>personnages et Kibo qui apparaissent</color> varient selon l'heure de la journée. Prenez le temps de les observer."}
 {"id":1510461,"jp":"ゲーム内時間設定","fr":"Réglage de l'heure du jeu"}
+{"id":1510462,"jp":"ゲーム内時間設定画面で、左右に<color={highlight}>スライダーをドラッグ</color>すると時間を調整できます。\n指定の時間でクリアする必要があるクエストに遭遇した場合は、時間を調整してみてください！","fr":"Dans les paramètres de l'heure en jeu, <color={highlight}>faites glisser le curseur</color> vers la gauche ou la droite pour ajuster l'heure.\nSi une quête doit être terminée à une heure précise, essayez de modifier l'heure !"}
 {"id":1510463,"jp":"孵化ポスト","fr":"Poste d'éclosion"}
 {"id":1510465,"jp":"星輝鉱","fr":"Minerai d'éclat stellaire"}
 {"id":1510466,"jp":"ステラカードの主な素材です。ステラカードを作るなら、見逃さないようにしてください。","fr":"Matériau principal des cartes Stella. Si vous voulez fabriquer des cartes Stella, ne le laissez pas filer."}
 {"id":1510467,"jp":"元素属性","fr":"Attribut élémentaire"}
+{"id":1510470,"jp":"元素属性が敵に対して<color={highlight}>有利</color>な場合、ダメージにアップマークが表示され、属性関係のない時より高いダメージを与えられます。","fr":"Lorsque votre élément est <color={highlight}>avantagé</color> face à celui de l'ennemi, un indicateur de hausse apparaît sur les DGT infligés, qui sont supérieurs à ceux d'une affinité neutre."}
 {"id":1510471,"jp":"属性バランス","fr":"Équilibre des éléments"}
+{"id":1510472,"jp":"敵と味方の属性が互いに有利・不利でない場合、敵に<color={highlight}>通常のダメージ</color>を与えます。","fr":"Lorsque les éléments des alliés et des ennemis ne présentent aucun avantage ni désavantage mutuel, vous infligez des <color={highlight}>DGT normaux</color>."}
+{"id":1510474,"jp":"味方の元素が<color={highlight}>不利な場合</color>、ダメージはグレーで表示され、通常よりもダメージが低くなります。","fr":"Lorsque l'élément allié est <color={highlight}>désavantagé</color>, les DGT s'affichent en gris et sont inférieurs à la normale."}
+{"id":1510476,"jp":"敵が<color={highlight}>複数の属性</color>を持つ場合、相性による与ダメージは<color={highlight}>総合的に計算</color>されます。","fr":"Lorsqu'un ennemi possède <color={highlight}>plusieurs éléments</color>, les DGT infligés selon les affinités élémentaires sont <color={highlight}>calculés conjointement</color>."}
 {"id":1510477,"jp":"キボの絆","fr":"Le Lien avec les Kibo"}
 {"id":1510479,"jp":"刻印・消費","fr":"Sceaux : consommation"}
+{"id":1510480,"jp":"キャラクターの特定スキルは、一定数の刻印を消費することで対応する属性の<color={highlight}>EXダメージ</color>を与え、さらに追加効果を獲得できます。","fr":"Certaines compétences de personnage consomment un nombre défini de Sceaux pour infliger des <color={highlight}>DGT EX</color> de l'élément correspondant et obtenir des effets supplémentaires."}
 {"id":1510481,"jp":"刻印・効果","fr":"Sceaux : effets"}
 {"id":1510482,"jp":"各属性には異なる追加効果があります。","fr":"Chaque élément possède un effet supplémentaire différent."}
+{"id":1510483,"jp":"一部のキャラクターやキボがスキルで敵にダメージを与える時、同時に対応する属性の<color={highlight}>刻印</color>効果を付与します。\n刻印の属性によって付与される効果が異なります。","fr":"Lorsque certains personnages ou Kibo infligent des DGT à un ennemi avec une compétence, ils appliquent également un effet de <color={highlight}>Sceau</color> de l'élément correspondant.\nLes effets appliqués varient selon l'élément du Sceau."}
 {"id":1510484,"jp":"刻印・獲得","fr":"Sceaux : obtention"}
+{"id":1510485,"jp":"キャラクターの一部のスキルで、<color={highlight}>チーム全体で共有される刻印</color>を獲得できます。刻印はキャラクターのHPバーの上に表示されます。","fr":"Certaines compétences de personnage permettent d'obtenir des <color={highlight}>Sceaux partagés par toute l'équipe</color>. Les Sceaux sont affichés au-dessus de la barre de PV du personnage."}
 {"id":1510486,"jp":"刻印・属性","fr":"Sceaux : éléments"}
 {"id":1510488,"jp":"刻印・キボ","fr":"Sceaux : Kibo"}
+{"id":1510489,"jp":"一部のキボはチーム全体に刻印を付与できます。キボの特殊スキルとキャラクターの攻撃をうまく組み合わせ、戦闘を有利に進めましょう。","fr":"Certains Kibo peuvent conférer des Sceaux à toute l'équipe. Combinez judicieusement les compétences spéciales des Kibo et les attaques de vos personnages pour prendre l'avantage au combat."}
 {"id":1510490,"jp":"火の刻印・熱狂","fr":"Sceau de Feu : Frénésie"}
+{"id":1510491,"jp":"チームが火の刻印を獲得すると、<color=#96f9ff>熱狂</color>状態になります\n熱狂状態では火の刻印の数に応じて、チームの<color=#96f9ff>攻撃力（%）が少し上昇</color>します","fr":"Lorsque l'équipe obtient un Sceau de Feu, elle entre en état de <color=#96f9ff>Ferveur</color>.\nDans cet état, l'<color=#96f9ff>ATQ (%) de l'équipe augmente légèrement</color> selon le nombre de Sceaux de Feu."}
 {"id":1510494,"jp":"水の刻印・泉涌","fr":"Sceau d'Eau : Source jaillissante"}
+{"id":1510495,"jp":"チームが水の刻印を獲得すると、<color=#96f9ff>泉涌</color>状態になります\n水の刻印の数に応じて、チームの<color=#96f9ff>ダメージ増幅が少し上昇</color>します","fr":"Lorsque l'équipe obtient un Sceau d'Eau, elle entre en état de <color=#96f9ff>Jaillissement</color>.\nL'<color=#96f9ff>Amplification des DGT de l'équipe augmente légèrement</color> selon le nombre de Sceaux d'Eau."}
 {"id":1510498,"jp":"氷の刻印・氷澈","fr":"Sceau de Glace : Limpidité"}
+{"id":1510499,"jp":"チームが氷の刻印を獲得すると、<color=#96f9ff>氷澈</color>状態になります\n氷の刻印の数に応じて、チームの<color=#96f9ff>防御貫通が少し上昇</color>します","fr":"Lorsque l'équipe obtient un Sceau de Glace, elle entre en état de <color=#96f9ff>Clarté glaciale</color>.\nLa <color=#96f9ff>Pénétration de DÉF de l'équipe augmente légèrement</color> selon le nombre de Sceaux de Glace."}
 {"id":1510500,"jp":"氷EX・脆化","fr":"EX de Glace : Fragilisation"}
 {"id":1510502,"jp":"風の刻印・疾風","fr":"Sceau de Vent : Bourrasque"}
+{"id":1510503,"jp":"チームが風の刻印を獲得すると、<color=#96f9ff>疾風</color>状態になります\n風の刻印の数に応じて、チームの<color=#96f9ff>星極チャージ効率が少し上昇</color>します","fr":"Lorsque l'équipe obtient un Sceau de Vent, elle entre en état de <color=#96f9ff>Rafale</color>.\nL'<color=#96f9ff>efficacité de charge du Zénith stellaire de l'équipe augmente légèrement</color> selon le nombre de Sceaux de Vent."}
 {"id":1510504,"jp":"風EX・竜巻","fr":"EX de Vent : Tornade"}
 {"id":1510506,"jp":"木の刻印・萌芽","fr":"Sceau de Bois : Bourgeon"}
+{"id":1510507,"jp":"チームが木の刻印を獲得すると、<color=#96f9ff>萌芽</color>状態になります\n木の刻印の数に応じて、チームの<color=#96f9ff>EX会心が少し上昇</color>します","fr":"Lorsque l'équipe obtient un Sceau de Bois, elle entre en état de <color=#96f9ff>Germination</color>.\nLe <color=#96f9ff>Taux CRIT EX de l'équipe augmente légèrement</color> selon le nombre de Sceaux de Bois."}
 {"id":1510510,"jp":"地の刻印・固守","fr":"Sceau de Terre : Inébranlable"}
+{"id":1510511,"jp":"チームが地の刻印を獲得すると、<color=#96f9ff>固守</color>状態になります\n地の刻印の数に応じて、チームの<color=#96f9ff>ブレイク効率が少し上昇</color>します","fr":"Lorsque l'équipe obtient un Sceau de Terre, elle entre en état de <color=#96f9ff>Fermeté</color>.\nL'<color=#96f9ff>Efficacité de brise de l'équipe augmente légèrement</color> selon le nombre de Sceaux de Terre."}
 {"id":1510512,"jp":"地EX・極圧","fr":"EX de Terre : Pression extrême"}
 {"id":1510514,"jp":"雷の刻印・充盈","fr":"Sceau de Foudre : Plénitude"}
+{"id":1510515,"jp":"チームが雷の刻印を獲得すると、<color=#96f9ff>充盈</color>状態になります\n雷の刻印の数に応じて、チームの<color=#96f9ff>会心率、会心ダメージが少し上昇</color>します","fr":"Lorsque l'équipe obtient un Sceau de Foudre, elle entre en état de <color=#96f9ff>Surcharge</color>.\nLe <color=#96f9ff>Taux CRIT et les DGT CRIT de l'équipe augmentent légèrement</color> selon le nombre de Sceaux de Foudre."}
 {"id":1510516,"jp":"雷EX・雷嵐","fr":"EX de Foudre : Orage"}
 {"id":1510518,"jp":"光の刻印・平和","fr":"Sceau de Lumière : Paix"}
+{"id":1510519,"jp":"チームが光の刻印を獲得すると、<color=#96f9ff>平和</color>状態になります\n光の刻印の数に応じて、5秒ごとに次の攻撃に<color=#96f9ff>少量の光属性EXダメージ</color>が1回追加されます","fr":"Lorsque l'équipe obtient un Sceau de Lumière, elle entre en état de <color=#96f9ff>Paix</color>.\nToutes les 5 s, la prochaine attaque inflige une fois de <color=#96f9ff>faibles DGT EX de Lumière supplémentaires</color>, selon le nombre de Sceaux de Lumière."}
 {"id":1510522,"jp":"闇の刻印・神秘","fr":"Sceau de Ténèbres : Mystère"}
+{"id":1510523,"jp":"チームが闇の刻印を獲得すると、<color=#96f9ff>神秘</color>状態になります\n闇の刻印の数に応じて、チームの<color=#96f9ff>全属性ダメージが少し上昇</color>します","fr":"Lorsque l'équipe obtient un Sceau de Ténèbres, elle entre en état de <color=#96f9ff>Mystère</color>.\nLes <color=#96f9ff>DGT de tous les éléments de l'équipe augmentent légèrement</color> selon le nombre de Sceaux de Ténèbres."}
 {"id":1510524,"jp":"闇EX・崩壊","fr":"EX de Ténèbres : Effondrement"}
 {"id":1510526,"jp":"アウラのゲーム","fr":"Le jeu de l'Aura"}
+{"id":1510527,"jp":"花や切り株……フィールドで時折、違和感がありながらも規則性を感じさせる風景に出会うことがあります。\nそれらに触れると、アウラが現れて、あなたを遊びに誘ってきます。","fr":"Des fleurs, des souches d'arbres… Au cours de votre exploration, vous rencontrerez parfois des éléments du paysage étranges, mais disposés selon un ordre particulier.\nTouchez-les pour faire apparaître un Aura qui vous invitera à jouer."}
+{"id":1510528,"jp":"アウラの足取りを追い、立ち止まった地点を順番に辿ると、アウラからプレゼントがもらえます。\n間違えてしまっても心配いりません。起点からもう一度やり直せば大丈夫です。","fr":"Suivez les pas de l'Aura et repassez dans l'ordre par les endroits où il s'est arrêté pour recevoir un présent.\nEn cas d'erreur, ne vous inquiétez pas. Il vous suffit de recommencer depuis le point de départ."}
 {"id":1510529,"jp":"キャバードに変身","fr":"Se transformer en Cabbird"}
+{"id":1510530,"jp":"キャバードたちがあなたに助けを求めています！\nキャバードに変身し、指定時間内にマップのあちこちに散らばった種を集めるのを手伝ってあげましょう。","fr":"Les Cabbird ont besoin de votre aide !\nTransformez-vous en Cabbird et aidez-les à collecter les graines dispersées sur la carte dans le temps imparti."}
+{"id":1510531,"jp":"収集の際は、<color={highlight}>キャバードの飛行能力</color>やマップ内の<color={highlight}>インタラクト可能な環境オブジェクト</color>をうまく活用し、\nより効率的に収集を完了させましょう。","fr":"Pendant la collecte, utilisez judicieusement la <color={highlight}>capacité de vol du Cabbird</color> et les <color={highlight}>objets interactifs de l'environnement</color> présents sur la carte\npour terminer la collecte plus efficacement."}
+{"id":1510532,"jp":"すべての種を集め終えると、<color={highlight}>キャバードキングからのご褒美</color>が手に入ります。","fr":"Une fois toutes les graines collectées, vous recevrez une <color={highlight}>récompense du roi des Cabbird</color>."}
 {"id":1510533,"jp":"火の祭壇","fr":"Autel du feu"}
+{"id":1510534,"jp":"探索の際、神秘的な火の祭壇を見つけることができます。その火は<color={highlight}>独自のルール</color>で灯ったり消えたりしています。\nすべての火を灯したとき、何かが良いことが起こるかもしれません。","fr":"Au cours de votre exploration, vous pourrez découvrir de mystérieux autels de Feu. Leurs flammes s'allument et s'éteignent selon des <color={highlight}>règles particulières</color>.\nLorsque toutes les flammes seront allumées, quelque chose de merveilleux pourrait se produire."}
+{"id":1510535,"jp":"火の祭壇の前に立って調べ、法則を見つけましょう。\n<color={highlight}>すべての火を灯す</color>と、報酬を獲得できます。","fr":"Examinez l'autel de Feu pour comprendre son fonctionnement.\n<color={highlight}>Allumez toutes les flammes</color> pour obtenir une récompense."}
 {"id":1510536,"jp":"巡霊プレート","fr":"Dalles des esprits errants"}
+{"id":1510537,"jp":"探索中、稀に神秘的な「巡霊プレート」に遭遇します。\n<color={highlight}>同じルートを通らずに</color>、すべてのプレートを踏破すると、報酬が手に入ります。","fr":"Au cours de votre exploration, vous rencontrerez parfois de mystérieuses « Dalles des esprits errants ».\nParcourez toutes les dalles <color={highlight}>sans emprunter deux fois le même chemin</color> pour obtenir une récompense."}
+{"id":1510538,"jp":"<color={highlight}>同じルートを通ったら</color>挑戦失敗となります。\nめげずに、起点からやり直しましょう。","fr":"<color={highlight}>Emprunter deux fois le même chemin</color> entraîne l'échec du défi.\nNe vous découragez pas et recommencez depuis le point de départ."}
 {"id":1510539,"jp":"石陣ギミック","fr":"Énigme du cercle de pierres"}
+{"id":1510540,"jp":"方陣を起動すると、その上に浮かぶ石碑を押せるようになります。\n石碑は押した方向へ滑り、<color={highlight}>方陣の端に着くか石柱に阻まれる</color>まで止まりません。","fr":"Activez la grille pour pouvoir pousser la stèle qui flotte au-dessus.\nLa stèle glisse dans la direction choisie jusqu'à <color={highlight}>atteindre le bord de la grille ou rencontrer un pilier de pierre</color>."}
+{"id":1510541,"jp":"一部のマスには昇降可能な石柱があります。\n石柱をうまく使い、石碑を方陣上の<color={highlight}>指定地点</color>まで押し動かすと、クリア報酬を解放できます。","fr":"Certaines cases comportent des piliers de pierre pouvant être élevés ou abaissés.\nUtilisez judicieusement ces piliers pour déplacer la stèle jusqu'à l'<color={highlight}>emplacement indiqué</color> sur la grille et débloquer la récompense de réussite."}
 {"id":1510542,"jp":"輝印の祭壇","fr":"Autel de l'empreinte radieuse"}
+{"id":1510543,"jp":"祭壇の封印から輝光を解放すると、<color={highlight}>3本の輝光</color>が道を示します。\n輝光の導きに従うと、<color={highlight}>損傷した石柱</color>へ向かえます。","fr":"Libérer la lumière du Sceau de l'autel fait apparaître <color={highlight}>3 rayons lumineux</color> qui vous indiquent le chemin.\nSuivez leur lumière pour atteindre les <color={highlight}>piliers de pierre endommagés</color>."}
+{"id":1510544,"jp":"石柱を修復する前に、<color={highlight}>モンスターの排除や謎解きの完了</color>など、各地の石柱の挑戦を完了する必要があります。","fr":"Avant de réparer les piliers de pierre, vous devez terminer les défis associés à chacun d'eux, notamment <color={highlight}>éliminer des monstres ou résoudre des énigmes</color>."}
 {"id":1510545,"jp":"石柱を修復してから祭壇に戻ると、封印されていた<color={highlight}>宝物</color>を獲得できます。","fr":"Une fois les piliers de pierre réparés, retournez à l'autel pour obtenir le <color={highlight}>trésor</color> qui y était scellé."}
 {"id":1510546,"jp":"星砂の刻印","fr":"Sceau de sable stellaire"}
+{"id":1510547,"jp":"刻印盤は3層に分かれています。ボタンを押すと、そのうちの1層を<color={highlight}>時計回りまたは反時計回り</color>に回転させることができます。\n刻印盤をクリックすると、回転させる層を切り替えられます。","fr":"Le disque de Sceaux comporte 3 anneaux. Appuyez sur les boutons pour faire pivoter l'un d'eux <color={highlight}>dans le sens horaire ou antihoraire</color>.\nCliquez sur le disque de Sceaux pour sélectionner l'anneau à faire pivoter."}
+{"id":1510548,"jp":"刻印盤を回転させて星砂の通路を繋ぎ、<color={highlight}>星砂を刻印盤の中央に導く</color>と、この刻印を再び点灯させることができます。","fr":"Faites pivoter le disque de Sceaux pour relier les conduits de sable stellaire et <color={highlight}>acheminer le sable stellaire jusqu'au centre du disque</color> afin de rallumer ce Sceau."}
+{"id":1510549,"jp":"<color={highlight}>刻印盤中央の刻印を点灯させる</color>と、挑戦をクリアし、ギミックを起動できます。","fr":"<color={highlight}>Allumez le Sceau au centre du disque</color> pour réussir le défi et activer le mécanisme."}
 {"id":1510550,"jp":"道しるべ草の導き","fr":"Le guide des herbes balises"}
 {"id":1510551,"jp":"道端には「道しるべ草」と呼ばれる特殊な植物が現れることがあります。\n触れると道を導いてくれます。","fr":"Une plante spéciale appelée « Herbe balise » peut apparaître au bord des chemins.\nIl suffit de la toucher pour qu'elle vous guide."}
+{"id":1510552,"jp":"<color={highlight}>それが示す方向に進む</color>と、マップに散らばった宝箱の場所を教えてくれます。","fr":"<color={highlight}>Suivez la direction indiquée</color> pour découvrir l'emplacement des coffres au trésor dispersés sur la carte."}
 {"id":1510553,"jp":"順列石柱","fr":"Piliers à permutation"}
+{"id":1510555,"jp":"模様を回転させて<color={highlight}>繋がった</color>状態にすれば、<color={highlight}>貴重な宝物</color>を獲得できます。","fr":"Faites pivoter les motifs jusqu'à ce qu'ils soient <color={highlight}>reliés</color> pour obtenir un <color={highlight}>précieux trésor</color>."}
 {"id":1510556,"jp":"ソザンカのはしご","fr":"L'échelle de Sozanka"}
+{"id":1510557,"jp":"「ソザンカのはしご」を構成するトーテムポールをうまく積み上げていきましょう。\nトーテムポールが落下する際、<color={highlight}>慣性</color>によってズレが生じます。","fr":"Empilez soigneusement les totems qui composent l'« L'échelle de Sozanka ».\nLorsqu'un totem tombe, son <color={highlight}>inertie</color> provoque un décalage."}
 {"id":1510558,"jp":"トーテムを<color={highlight}>正確に</color>積み上げるほど、スコアが高くなります。\n位置がズレると、トーテムポールは崩れ落ちてしまいます。","fr":"Plus vous empilez les totems avec <color={highlight}>précision</color>, plus votre score est élevé.\nUn totem mal placé fait s'écrouler le mât totémique."}
+{"id":1510559,"jp":"トーテムポールを一定の高さまで積み上げると、<color={highlight}>ソザンカさまからのご褒美</color>をもらえます。","fr":"Empilez les totems jusqu'à atteindre une certaine hauteur pour recevoir une <color={highlight}>récompense de dame Sozanka</color>."}
 {"id":1510560,"jp":"石像の修復","fr":"Restauration des statues"}
+{"id":1510561,"jp":"これらの壊れた石像には修復が必要です。<color={highlight}>適切な素材</color>を用意して、石像を元の姿に復元しましょう。","fr":"Ces statues de pierre endommagées doivent être réparées. Réunissez les <color={highlight}>matériaux appropriés</color> pour leur rendre leur apparence d'origine."}
 {"id":1510562,"jp":"石像を元通りに修復すると、<color={highlight}>貴重な宝物</color>を獲得できます。","fr":"Remettez la statue en état pour obtenir un <color={highlight}>précieux trésor</color>."}
 {"id":1510563,"jp":"自由作業","fr":"Travail libre"}
 {"id":1510565,"jp":"指定派遣","fr":"Affectation désignée"}
+{"id":1510566,"jp":"キボを特定の設備に固定派遣すると、そのキボは<color={highlight}>その設備でのみ作業</color>を行うようになります。\n固定派遣中のキボは、管理パネル上でロック状態として表示されます。","fr":"Lorsque vous attribuez une Affectation fixe à un Kibo dans une installation, celui-ci <color={highlight}>travaille exclusivement dans cette installation</color>.\nLes Kibo en Affectation fixe apparaissent comme verrouillés dans le panneau de gestion."}
 {"id":1510567,"jp":"ロックオン","fr":"Verrouillage"}
 {"id":1510571,"jp":"複数部位","fr":"Plusieurs parties"}
 {"id":1510572,"jp":"一部の敵は複数の部位を持ち、部位によって防御性能が異なります。\n脆い部位を攻撃すると、大ダメージを与えられます。","fr":"Certains ennemis ont plusieurs parties, dont la résistance diffère.\nAttaquer une partie fragile inflige de lourds DGT."}
 {"id":1510573,"jp":"2段ジャンプ","fr":"Double saut"}
+{"id":1510574,"jp":"ジャンプ中にもう一度<actionkey>MainInput/MainJump</actionkey> を押すと、<color={highlight}>2段ジャンプ</color>ができます。","fr":"Appuyez de nouveau sur <actionkey>MainInput/MainJump</actionkey> pendant un saut pour effectuer un <color={highlight}>double saut</color>."}
 {"id":1510575,"jp":"ジャンプ中にもう一度ジャンプボタンを押すと<color={highlight}>2段ジャンプ</color>できます。","fr":"Appuyez de nouveau sur le bouton de saut en plein saut pour effectuer un <color={highlight}>double saut</color>."}
 {"id":1510576,"jp":"ジャンプ","fr":"Saut"}
+{"id":1510577,"jp":"<actionkey>MainInput/MainJump</actionkey> を押すと<color={highlight}>ジャンプ</color>できます。","fr":"Appuyez sur <actionkey>MainInput/MainJump</actionkey> pour <color={highlight}>sauter</color>."}
+{"id":1510578,"jp":"<color={highlight}>ジャンプボタン</color>を押すと<color={highlight}>ジャンプ</color>できます。","fr":"Appuyez sur le <color={highlight}>bouton de saut</color> pour <color={highlight}>sauter</color>."}
 {"id":1510579,"jp":"農園の心得","fr":"Conseils pour la ferme"}
 {"id":1510580,"jp":"星識レベルを上げると、一定数の<color={highlight}>心得ポイント</color>を獲得できます。","fr":"Monter de niveau de Savoir stellaire donne un certain nombre de <color={highlight}>points de savoir-faire</color>."}
+{"id":1510581,"jp":"心得ポイントを消費することで、<color={highlight}>心得</color>を習得できます。心得により各種作業能力が強化され、農園での作業効率が大幅に上昇します。","fr":"Dépensez des points de savoir-faire pour acquérir de nouveaux <color={highlight}>savoir-faire</color>. Ils améliorent diverses aptitudes de travail et augmentent considérablement l'efficacité des travaux de la ferme."}
+{"id":1510582,"jp":"各主要都市には<color={highlight}>エリアクエストセンター</color>があり、各地の<color={highlight}>エリアクエスト</color>が記録されています。","fr":"Chaque grande ville dispose d'un <color={highlight}>centre de quêtes régionales</color> qui répertorie les <color={highlight}>quêtes régionales</color> des différentes régions."}
+{"id":1510583,"jp":"エリアクエストを完了すると<color={highlight}>豪華な報酬</color>を獲得でき、キャラクターやキボの成長をより効率的に進められます。","fr":"Terminez les quêtes régionales pour obtenir de <color={highlight}>généreuses récompenses</color> et faire progresser plus efficacement vos personnages et vos Kibo."}
+{"id":1510585,"jp":"<color={highlight}>簡易クラフト</color>を使用して各種初級アイテムを作成し、冒険をよりスムーズに進めましょう。","fr":"Utilisez l'<color={highlight}>Artisanat simplifié</color> pour fabriquer divers objets de base et faciliter votre aventure."}
 {"id":1510586,"jp":"キボ謎解きグリッド","fr":"Grille d'énigmes des Kibo"}
+{"id":1510587,"jp":"<actionkeyhold>MainInput/MainPetSkillRoulette</actionkeyhold>を長押しすると、<color={highlight}>キボ謎解きグリッド</color>を呼び出せます","fr":"Maintenez <actionkeyhold>MainInput/MainPetSkillRoulette</actionkeyhold> pour afficher la <color={highlight}>grille d'énigmes des Kibo</color>"}
+{"id":1510588,"jp":"<color={highlight}>キボスキル</color>ボタンを長押しすると、<color={highlight}>キボ謎解きグリッド</color>を表示できます。","fr":"Maintenez le bouton de <color={highlight}>compétence de Kibo</color> pour afficher la <color={highlight}>grille d'énigmes des Kibo</color>."}
+{"id":1510589,"jp":"<actionkey>MainInput/MainPetSkillRouletteHold</actionkey> を押すと、<color={highlight}>キボ謎解きグリッド</color>を呼び出せます","fr":"Appuyez sur <actionkey>MainInput/MainPetSkillRouletteHold</actionkey> pour afficher la <color={highlight}>grille d'énigmes des Kibo</color>"}
+{"id":1510590,"jp":"キボを謎解きグリッドに<color={highlight}>編成</color>すると、該当するキボを押すだけで<color={highlight}>そのキボを使って素早く謎解き</color>ができます。","fr":"Une fois un Kibo <color={highlight}>ajouté</color> à la grille d'énigmes, il suffit de le sélectionner pour <color={highlight}>résoudre rapidement les énigmes avec son aide</color>."}
 {"id":1510592,"jp":"冒険で獲得したキボは、すべて<color={highlight}>キボ図鑑</color>に記録されます。","fr":"Tous les Kibo obtenus en aventure sont enregistrés dans l'<color={highlight}>Encyclopédie des Kibo</color>."}
+{"id":1510594,"jp":"調査レベルを上げると追加で<color={highlight}>ステータスボーナス</color>を獲得できます。たくさんのキボを調査しましょう！","fr":"Augmenter le niveau de recherche permet d'obtenir des <color={highlight}>bonus de statistiques</color> supplémentaires. Étudiez autant de Kibo que possible !"}
+{"id":1510595,"jp":"<color={highlight}>キボの潜在能力の実</color>を食べさせると、対応するステータスの<color={highlight}>潜在能力レベル</color>を上げられます。","fr":"Donnez un <color={highlight}>fruit de potentiel de Kibo</color> à un Kibo pour augmenter le <color={highlight}>niveau de potentiel</color> de la statistique correspondante."}
 {"id":1510597,"jp":"集中","fr":"Concentration"}
+{"id":1510598,"jp":"深呼吸して、<actionkey>MainInput/MainScanning</actionkey> で<color={highlight}>精神を集中させる</color>と、近くにある特別なものを発見できます。","fr":"Prenez une profonde inspiration et utilisez <actionkey>MainInput/MainScanning</actionkey> pour <color={highlight}>concentrer votre esprit</color> et découvrir les éléments particuliers à proximité."}
 {"id":1510599,"jp":"深呼吸して、<color={highlight}>精神を集中させる</color>と、近くの特別なものを発見できます","fr":"Inspirez profondément et <color={highlight}>concentrez votre esprit</color> pour repérer les éléments particuliers à proximité"}
+{"id":1510600,"jp":"深呼吸して、<actionkey>MainInput/MainScanning</actionkey> で<color={highlight}>精神を集中する</color>と近くの特殊なものを発見できます","fr":"Prenez une profonde inspiration et utilisez <actionkey>MainInput/MainScanning</actionkey> pour <color={highlight}>concentrer votre esprit</color> et découvrir les éléments particuliers à proximité"}
 {"id":1510601,"jp":"装備アップグレード","fr":"Amélioration d'équipement"}
+{"id":1510602,"jp":"装備を入手すると、装備の<color={highlight}>強化</color>と<color={highlight}>同調</color>を行い、装備のステータスを高められます。","fr":"Après avoir obtenu un équipement, vous pouvez améliorer ses statistiques grâce au <color={highlight}>renforcement</color> et à la <color={highlight}>Synchronie</color>."}
 {"id":1510603,"jp":"装備強化","fr":"Renforcement d'équipement"}
 {"id":1510605,"jp":"装備同調","fr":"Synchronie d'équipement"}
 {"id":1510607,"jp":"因子変異","fr":"Mutation de facteurs"}
+{"id":1510609,"jp":"キボが所持できる<color={highlight}>因子の数には上限があります。</color>\n因子数が上限に達していない状態で変異が起きた場合、<color={highlight}>因子が1つ追加</color>されます。","fr":"Le <color={highlight}>nombre de facteurs qu'un Kibo peut posséder est limité.</color>\nSi une mutation survient avant que cette limite soit atteinte, <color={highlight}>1 facteur supplémentaire est ajouté</color>."}
 {"id":1510611,"jp":"キャラクター訓練【星臨者：その1】","fr":"Entraînement de personnage 【Enfant des étoiles : partie 1】"}
 {"id":1510613,"jp":"キャラクター訓練【星臨者：その2】","fr":"Entraînement de personnage 【Enfant des étoiles : partie 2】"}
 {"id":1510615,"jp":"キャラクター訓練【テララ：その1】","fr":"Entraînement de personnage 【Terara : partie 1】"}
+{"id":1510616,"jp":"テララが星閃スキル、星響スキルを発動すると、火の刻印を獲得できます。\n通常攻撃の5段目、派生チャージ攻撃、星極スキルを発動すると、火の刻印を消費し、火属性のEXダメージを与えます。","fr":"Lorsque Terara active une compétence d'Éclair stellaire ou une Compétence Écho stellaire, elle obtient un Sceau de Feu.\nLe 5e coup de son Attaque normale, son Attaque chargée dérivée ou sa Compétence Zénith stellaire consomme un Sceau de Feu pour infliger des DGT EX de Feu."}
 {"id":1510617,"jp":"キャラクター訓練【テララ：その2】","fr":"Entraînement de personnage 【Terara : partie 2】"}
 {"id":1510619,"jp":"キャラクター訓練【シンフォーリア：その1】","fr":"Entraînement de personnage 【Symphoria : partie 1】"}
+{"id":1510620,"jp":"シンフォーリアは通常攻撃、チャージ攻撃を行う際、方向キーを同時に入力することで、<color={highlight}>移動可能な攻撃</color>を1回派生できます。","fr":"Lorsque Symphoria effectue une Attaque normale ou une Attaque chargée, appuyez simultanément sur une touche directionnelle pour enchaîner une fois avec une <color={highlight}>attaque en mouvement</color>."}
+{"id":1510621,"jp":"シンフォーリアが通常攻撃、またはチャージ攻撃を行う際、同時にバーチャルスティックをドラッグすることで、<color={highlight}>移動可能な攻撃</color>を1回派生できます。","fr":"Lorsque Symphoria effectue une Attaque normale ou une Attaque chargée, faites simultanément glisser le joystick virtuel pour enchaîner une fois avec une <color={highlight}>attaque en mouvement</color>."}
 {"id":1510622,"jp":"キャラクター訓練【シンフォーリア：その2】","fr":"Entraînement de personnage 【Symphoria : partie 2】"}
+{"id":1510623,"jp":"通常攻撃またはダッシュ攻撃が敵に命中すると、<color={highlight}>「風語」</color>効果を1スタック獲得します。10スタックに達すると、<color={highlight}>「風息」</color>効果を獲得します。","fr":"Lorsqu'une Attaque normale ou une attaque de sprint touche un ennemi, obtient 1 cumul de l'effet <color={highlight}>« Murmure du vent »</color>. À 10 cumuls, obtient l'effet <color={highlight}>« Souffle du vent »</color>."}
 {"id":1510624,"jp":"キャラクター訓練【シンフォーリア：その3】","fr":"Entraînement de personnage 【Symphoria : partie 3】"}
+{"id":1510625,"jp":"<color={highlight}>「風息」</color>効果を獲得している間、チャージ攻撃が4回命中するたび、追加で1回の<color={highlight}>木属性範囲攻撃</color>を行います。","fr":"Tant que l'effet <color={highlight}>« Souffle du vent »</color> est actif, tous les 4 coups d'Attaque chargée réussis déclenchent une <color={highlight}>attaque de zone de Bois</color> supplémentaire."}
 {"id":1510626,"jp":"キャラクター訓練【シンフォーリア：その4】","fr":"Entraînement de personnage 【Symphoria : partie 4】"}
 {"id":1510627,"jp":"<color={highlight}>星響スキル</color>を発動すると、ルミィが強力なダメージを与えます。","fr":"Lancer une <color={highlight}>Compétence Écho stellaire</color> permet à Lumi d'infliger de puissants DGT."}
 {"id":1510628,"jp":"キャラクター訓練【寒悠悠：その1】","fr":"Entraînement de personnage 【Han Youyou : partie 1】"}
+{"id":1510629,"jp":"寒悠悠がチャージ攻撃を発動した後、<color={highlight}>もう一度攻撃ボタンを押す</color>と派生チャージ攻撃を発動できます。","fr":"Après que Han Youyou a effectué une Attaque chargée, <color={highlight}>appuyez de nouveau sur le bouton d'attaque</color> pour effectuer une Attaque chargée dérivée."}
 {"id":1510630,"jp":"キャラクター訓練【寒悠悠：その2】","fr":"Entraînement de personnage 【Han Youyou : partie 2】"}
 {"id":1510632,"jp":"キャラクター訓練【ポンポン：その1】","fr":"Entraînement de personnage 【Pengpeng : partie 1】"}
+{"id":1510633,"jp":"ポンポンが通常攻撃の最終段を発動した後、<color={highlight}>攻撃ボタンを連打</color>すると継続攻撃が発動します。","fr":"Après le dernier coup de l'Attaque normale de Pengpeng, <color={highlight}>appuyez rapidement et à plusieurs reprises sur le bouton d'attaque</color> pour déclencher une attaque continue."}
 {"id":1510634,"jp":"キャラクター訓練【ポンポン：その2】","fr":"Entraînement de personnage 【Pengpeng : partie 2】"}
+{"id":1510635,"jp":"継続攻撃中、<color={highlight}>攻撃ボタンを長押し</color>すると派生チャージ攻撃を発動できます。","fr":"Pendant une attaque continue, <color={highlight}>maintenez le bouton d'attaque</color> pour effectuer une Attaque chargée dérivée."}
 {"id":1510636,"jp":"キャラクター訓練【ポンポン：その3】","fr":"Entraînement de personnage 【Pengpeng : partie 3】"}
 {"id":1510637,"jp":"派生チャージ攻撃を発動した後、星響スキルが強化され、追加効果を得ます。","fr":"Après le déclenchement d'une Attaque chargée dérivée, la Compétence Écho stellaire est renforcée et gagne un effet supplémentaire."}
 {"id":1510638,"jp":"キャラクター訓練【リリィ：その1】","fr":"Entraînement de personnage 【Lily : partie 1】"}
 {"id":1510640,"jp":"キャラクター訓練【キャスベル：その1】","fr":"Entraînement de personnage 【Cathbelle : partie 1】"}
+{"id":1510641,"jp":"キャスベルには3種類のチャージ攻撃があり、<color={highlight}>攻撃ボタンを長押し</color>すると通常チャージ攻撃を発動できます。","fr":"Cathbelle possède 3 types d'Attaque chargée. <color={highlight}>Maintenez le bouton d'attaque</color> pour effectuer une Attaque chargée standard."}
 {"id":1510642,"jp":"キャラクター訓練【キャスベル：その2】","fr":"Entraînement de personnage 【Cathbelle : partie 2】"}
+{"id":1510643,"jp":"通常攻撃の第2/3段または星響スキル中に<color={highlight}>攻撃ボタンを長押し</color>すると、チャージ攻撃・第2型を発動します。\nチャージ攻撃・第2型は、自身の中断耐性とブレイク効率を高める追加効果を獲得します。","fr":"<color={highlight}>Maintenez le bouton d'attaque</color> pendant le 2e ou le 3e coup de l'Attaque normale, ou pendant la Compétence Écho stellaire, pour effectuer une Attaque chargée - type 2.\nL'Attaque chargée - type 2 confère un effet supplémentaire augmentant la résistance à l'interruption et l'Efficacité de brise de Cathbelle."}
 {"id":1510644,"jp":"キャラクター訓練【キャスベル：その3】","fr":"Entraînement de personnage 【Cathbelle : partie 3】"}
 {"id":1510645,"jp":"キャラクター訓練【キャスベル：その4】","fr":"Entraînement de personnage 【Cathbelle : partie 4】"}
 {"id":1510647,"jp":"キャラクター訓練【カタル：その1】","fr":"Entraînement de personnage 【Katalua : partie 1】"}
+{"id":1510648,"jp":"<color={highlight}>攻撃ボタンを長押し</color>すると、カタルは防御姿勢を維持し、その間に受けるダメージが大幅に減少します。","fr":"<color={highlight}>Maintenez le bouton d'attaque</color> pour que Katalua conserve une posture défensive, réduisant considérablement les DGT subis pendant cette période."}
 {"id":1510649,"jp":"キャラクター訓練【カタル：その2】","fr":"Entraînement de personnage 【Katalua : partie 2】"}
+{"id":1510650,"jp":"防御姿勢を3秒間維持するか攻撃を受けた後、<color={highlight}>攻撃ボタンを離す</color>と、カタルが反撃してシールドを獲得します。","fr":"Après avoir maintenu la posture défensive pendant 3 s ou subi une attaque, <color={highlight}>relâchez le bouton d'attaque</color> pour que Katalua contre-attaque et obtienne un Bouclier."}
 {"id":1510651,"jp":"キャラクター訓練【アニス：その1】","fr":"Entraînement de personnage 【Anais : partie 1】"}
+{"id":1510652,"jp":"通常攻撃の第3段で攻撃ボタンを長押しし続けると、アニスは<color={highlight}>チャージ攻撃・第2型</color>を発動できます。","fr":"Maintenez le bouton d'attaque pendant le 3e coup de l'Attaque normale pour qu'Anais effectue une <color={highlight}>Attaque chargée - type 2</color>."}
 {"id":1510653,"jp":"キャラクター訓練【ノノ：その1】","fr":"Entraînement de personnage 【Nono : partie 1】"}
+{"id":1510654,"jp":"<color={highlight}>攻撃ボタンを長押し</color>すると、ノノがチャージ攻撃を溜めます。威力はチャージ時間に応じて上昇し、最大<color={highlight}>3段階</color>までチャージできます。","fr":"<color={highlight}>Maintenez le bouton d'attaque</color> pour que Nono prépare son Attaque chargée. Sa puissance augmente selon la durée de charge, jusqu'à un maximum de <color={highlight}>3 paliers</color>."}
 {"id":1510655,"jp":"キャラクター訓練【ノノ：その2】","fr":"Entraînement de personnage 【Nono : partie 2】"}
+{"id":1510656,"jp":"星響スキルまたは星極スキルを発動した直後に<color={highlight}>攻撃ボタンを押す</color>と、チャージ攻撃の3段階チャージへ素早く移行します。","fr":"<color={highlight}>Appuyez sur le bouton d'attaque</color> immédiatement après avoir activé une Compétence Écho stellaire ou une Compétence Zénith stellaire pour passer rapidement à une Attaque chargée de palier 3."}
 {"id":1510657,"jp":"キャラクター訓練【ミィティ：その1】","fr":"Entraînement de personnage 【Mitty : partie 1】"}
 {"id":1510659,"jp":"キャラクター訓練【ミィティ：その2】","fr":"Entraînement de personnage 【Mitty : partie 2】"}
 {"id":1510661,"jp":"キャラクター訓練【ルルカ：その1】","fr":"Entraînement de personnage 【Luruka : partie 1】"}
+{"id":1510662,"jp":"<color={highlight}>攻撃ボタンを長押し</color>すると、ルルカがチャージ攻撃を溜めます。威力はチャージ時間に応じて上昇し、最大3段階までチャージできます。","fr":"<color={highlight}>Maintenez le bouton d'attaque</color> pour que Luruka prépare son Attaque chargée. Sa puissance augmente selon la durée de charge, jusqu'à un maximum de 3 paliers."}
 {"id":1510663,"jp":"キャラクター訓練【ルルカ：その2】","fr":"Entraînement de personnage 【Luruka : partie 2】"}
+{"id":1510664,"jp":"通常攻撃の第3段または星響スキルの直後に<color={highlight}>攻撃ボタンを長押し</color>すると、派生チャージ攻撃のチャージに入り、チャージ速度が上昇します。","fr":"<color={highlight}>Maintenez le bouton d'attaque</color> immédiatement après le 3e coup de l'Attaque normale ou une Compétence Écho stellaire pour préparer une Attaque chargée dérivée avec une vitesse de charge accrue."}
 {"id":1510665,"jp":"キャラクター訓練【ルルカ：その3】","fr":"Entraînement de personnage 【Luruka : partie 3】"}
 {"id":1510666,"jp":"星極スキルを発動すると、<color={highlight}>「勇気のアウラ」</color>を召喚して共に戦わせます。","fr":"Lancer une Compétence Zénith stellaire invoque l'<color={highlight}>« Aura du courage »</color>, qui combat à vos côtés."}
 {"id":1510667,"jp":"キャラクター訓練【ルルカ：その4】","fr":"Entraînement de personnage 【Luruka : partie 4】"}
+{"id":1510668,"jp":"<color={highlight}>「勇気のアウラ」</color>は召喚後、キャラクターを切り替えてもフィールドに残って戦い続けます。","fr":"Une fois invoqué, l'<color={highlight}>« Aura du courage »</color> reste sur le terrain et continue de combattre même si vous changez de personnage."}
 {"id":1510669,"jp":"キャラクター訓練【モーレン：その1】","fr":"Entraînement de personnage 【Morwyn : partie 1】"}
+{"id":1510670,"jp":"モーレンの星響スキルは<color={highlight}>チャージ</color>を2回分保持できます。星響スキル発動後に攻撃ボタンを押すと、追撃を発動できます。","fr":"La Compétence Écho stellaire de Morwyn peut conserver 2 <color={highlight}>charges</color>. Appuyez sur le bouton d'attaque après avoir activé la Compétence Écho stellaire pour effectuer une attaque de suivi."}
 {"id":1510671,"jp":"キャラクター訓練【モーレン：その2】","fr":"Entraînement de personnage 【Morwyn : partie 2】"}
 {"id":1510672,"jp":"追撃後、通常攻撃の第4段を発動可能です。","fr":"Après l'attaque de suivi, vous pouvez déclencher le 4e coup de l'Attaque normale."}
 {"id":1510673,"jp":"キャラクター訓練【ファランタ：その1】","fr":"Entraînement de personnage 【Faridah : partie 1】"}
 {"id":1510674,"jp":"特定の攻撃後、<color={highlight}>タイミングよく攻撃ボタンを押す</color>と追撃を発動できます。","fr":"Après certaines attaques, <color={highlight}>appuyez sur le bouton d'attaque au bon moment</color> pour déclencher une attaque de suivi."}
 {"id":1510675,"jp":"キャラクター訓練【ファランタ：その2】","fr":"Entraînement de personnage 【Faridah : partie 2】"}
+{"id":1510676,"jp":"追撃後、<color={highlight}>タイミングよく攻撃ボタンを連打</color>すると、最大3回まで連続追撃できます。","fr":"Après une attaque de suivi, <color={highlight}>appuyez plusieurs fois sur le bouton d'attaque au bon moment</color> pour enchaîner jusqu'à 3 attaques de suivi."}
 {"id":1510677,"jp":"キャラクター訓練【ファランタ：その3】","fr":"Entraînement de personnage 【Faridah : partie 3】"}
 {"id":1510678,"jp":"星響スキルを発動した後、攻撃ボタンを連打することで必ず追撃が発動します。追撃は最大3回まで発動できます。","fr":"Après avoir lancé une Compétence Écho stellaire, martelez le bouton d'attaque pour déclencher à coup sûr une attaque de suivi. Elle peut se déclencher jusqu'à 3 fois."}
 {"id":1510679,"jp":"キャラクター訓練【アビィ：その1】","fr":"Entraînement de personnage 【Abby : partie 1】"}
+{"id":1510680,"jp":"アビィが通常攻撃の第2段または星響スキル中に<color={highlight}>攻撃ボタンを長押し</color>すると、チャージ攻撃・第2型を発動できます。","fr":"<color={highlight}>Maintenez le bouton d'attaque</color> pendant le 2e coup de l'Attaque normale ou la Compétence Écho stellaire d'Abby pour effectuer une Attaque chargée - type 2."}
 {"id":1510681,"jp":"キャラクター訓練【アビィ：その2】","fr":"Entraînement de personnage 【Abby : partie 2】"}
 {"id":1510684,"jp":"キャラクター訓練【シャル：その1】","fr":"Entraînement de personnage 【Shalle : partie 1】"}
+{"id":1510685,"jp":"シャルは<color={highlight}>攻撃ボタンを長押し</color>するとチャージ攻撃を溜め、チャージ中も突進し続けます。長時間チャージすると刺突攻撃が発動します。","fr":"<color={highlight}>Maintenez le bouton d'attaque</color> pour que Shalle prépare son Attaque chargée tout en poursuivant sa ruée. Une charge prolongée déclenche une attaque d'estoc."}
 {"id":1510686,"jp":"キャラクター訓練【シャル：その2】","fr":"Entraînement de personnage 【Shalle : partie 2】"}
 {"id":1510688,"jp":"キャラクター訓練【メーツァ：その1】","fr":"Entraînement de personnage 【Metsa : partie 1】"}
 {"id":1510690,"jp":"キャラクター訓練【メーツァ：その2】","fr":"Entraînement de personnage 【Metsa : partie 2】"}
 {"id":1510692,"jp":"キャラクター訓練【メーツァ：その3】","fr":"Entraînement de personnage 【Metsa : partie 3】"}
+{"id":1510693,"jp":"星極スキルを発動すると、チーム全体のHPを回復し、同時に<color={highlight}>「蝶生の種」</color>と<color={highlight}>「霊木の種」</color>を生成します。","fr":"Activer la Compétence Zénith stellaire restaure les PV de toute l'équipe et génère simultanément une <color={highlight}>« Graine de papillon »</color> et une <color={highlight}>« Graine d'arbre spirituel »</color>."}
 {"id":1510694,"jp":"キャラクター訓練【メーツァ：その4】","fr":"Entraînement de personnage 【Metsa : partie 4】"}
+{"id":1510695,"jp":"チャージ攻撃を放つと敵を引き寄せ、ダメージを与えます。同時に「蝶生の種」と「霊木の種」を引き寄せて吸収し、HPと星極チャージを回復します。","fr":"L'Attaque chargée attire les ennemis et leur inflige des DGT. Elle attire et absorbe également les « Graines de papillon » et les « Graines d'arbre spirituel » pour restaurer les PV et la charge du Zénith stellaire."}
+{"id":1510696,"jp":"チャージ攻撃を発動すると敵と「蝶生の種」と「霊木の種」を引き寄せ、敵にダメージを与え、すべての召喚物を吸収してHPと星極チャージを回復します。","fr":"L'Attaque chargée attire les ennemis, les « Graines de papillon » et les « Graines d'arbre spirituel », inflige des DGT aux ennemis et absorbe toutes les invocations pour restaurer les PV et la charge du Zénith stellaire."}
 {"id":1510697,"jp":"キャラクター訓練【塗山小玉：その1】","fr":"Entraînement de personnage 【Tushan Xiaoyu : partie 1】"}
+{"id":1510698,"jp":"塗山小玉がチャージ攻撃を発動すると、<color={highlight}>「縁結び値」</color>を獲得します\n<color={highlight}>攻撃ボタンを長押し</color>すると、チャージ攻撃を自動で連続発動します。","fr":"Lorsque Tushan Xiaoyu effectue une Attaque chargée, elle obtient des <color={highlight}>points de « Nouer les liens »</color>.\n<color={highlight}>Maintenez le bouton d'attaque</color> pour enchaîner automatiquement les Attaques chargées."}
 {"id":1510699,"jp":"キャラクター訓練【塗山小玉：その2】","fr":"Entraînement de personnage 【Tushan Xiaoyu : partie 2】"}
+{"id":1510700,"jp":"「縁結び値」がMAXになると、チャージ攻撃が強化チャージ攻撃に変化し、<color={highlight}>「縁結び」</color>効果を獲得します。","fr":"Lorsque les points de « Nouer les liens » atteignent leur maximum, l'Attaque chargée devient une Attaque chargée renforcée et confère l'effet <color={highlight}>« Nouer les liens »</color>."}
 {"id":1510701,"jp":"キャラクター訓練【塗山小玉：その3】","fr":"Entraînement de personnage 【Tushan Xiaoyu : partie 3】"}
 {"id":1510703,"jp":"キャラクター訓練【塗山小玉：その4】","fr":"Entraînement de personnage 【Tushan Xiaoyu : partie 4】"}
+{"id":1510704,"jp":"通常攻撃の最終段、星響スキルまたは星極スキルの後、<color={highlight}>攻撃ボタンを長押し</color>すると特殊チャージ攻撃を発動できます。","fr":"Après le dernier coup de l'Attaque normale, une Compétence Écho stellaire ou une Compétence Zénith stellaire, <color={highlight}>maintenez le bouton d'attaque</color> pour effectuer une Attaque chargée spéciale."}
 {"id":1510705,"jp":"キャラクター訓練【塗山小玉：その5】","fr":"Entraînement de personnage 【Tushan Xiaoyu : partie 5】"}
 {"id":1510707,"jp":"キャラクター訓練【ルビーナ：その1】","fr":"Entraînement de personnage 【Ruby : partie 1】"}
 {"id":1510710,"jp":"キャラクター訓練【ルビーナ：その2】","fr":"Entraînement de personnage 【Ruby : partie 2】"}
 {"id":1510712,"jp":"キャラクター訓練【ルビーナ：その3】","fr":"Entraînement de personnage 【Ruby : partie 3】"}
+{"id":1510713,"jp":"強化通常攻撃1回につき弾薬を1発消費します。一定時間内に<color={highlight}>攻撃ボタンを押す</color>と、最大12発まで連射できます。","fr":"Chaque Attaque normale renforcée consomme 1 munition. <color={highlight}>Appuyez sur le bouton d'attaque</color> dans le temps imparti pour tirer jusqu'à 12 coups consécutifs."}
 {"id":1510714,"jp":"入れ替え","fr":"Échanger"}
 {"id":1510716,"jp":"寮","fr":"Dortoir"}
+{"id":1510717,"jp":"寮を建設すると、キャラクターを<color={highlight}>入居</color>させられます。\n入居後は、寮でキャラクターを<color={highlight}>訪問</color>できます。","fr":"Après avoir construit un dortoir, vous pouvez y <color={highlight}>installer</color> vos personnages.\nUne fois installés, vous pouvez leur <color={highlight}>rendre visite</color> dans le dortoir."}
 {"id":1510718,"jp":"家具の購入","fr":"Acheter des meubles"}
 {"id":1510719,"jp":"家具ショップでは、お気に入りのキャラクターのために家具を購入できます。","fr":"Dans la boutique de meubles, vous pouvez acheter des meubles pour vos personnages préférés."}
 {"id":1510720,"jp":"家具タイプ","fr":"Types de meubles"}
@@ -14435,78 +14550,147 @@
 {"id":1510722,"jp":"家具のプレゼント","fr":"Offrir des meubles"}
 {"id":1510723,"jp":"購入した家具は、贈りものとして対象のキャラクターに渡せます。","fr":"Les meubles achetés peuvent être offerts en cadeau au personnage concerné."}
 {"id":1510724,"jp":"家具の使用","fr":"Utiliser des meubles"}
+{"id":1510725,"jp":"キャラクターが家具を受け取ると、寮に配置されます。\n寮でキャラクターと会話し、該当する選択肢を選ぶと、キャラクターがランダムな家具を使用します。","fr":"Lorsqu'un personnage reçoit un meuble, celui-ci est placé dans son dortoir.\nDiscutez avec le personnage dans le dortoir et sélectionnez l'option correspondante pour qu'il utilise un meuble au hasard."}
 {"id":1510726,"jp":"緊急依頼","fr":"Commandes urgentes"}
 {"id":1510728,"jp":"星極連撃","fr":"Enchaînement Zénith stellaire"}
+{"id":1510729,"jp":"チームモードでは、メンバーの1人がボスをブレイクさせた後、他のメンバーが制限時間内に協力攻撃を発動すると、<color={highlight}>星極連撃</color>を発動でき、ボスに大ダメージを与えることができます。","fr":"En mode équipe, lorsqu'un membre place le boss en état de Brise, les autres membres peuvent effectuer des attaques coopératives dans le temps imparti pour déclencher un <color={highlight}>Enchaînement du Zénith stellaire</color> et infliger d'importants DGT au boss."}
 {"id":1510731,"jp":"取引所","fr":"Comptoir d'échange"}
+{"id":1510732,"jp":"<color={highlight}>農園の産物</color>をティティに売却することは、<color={highlight}>輝くコイン</color>を獲得する重要な手段です。","fr":"Vendre les <color={highlight}>produits de la ferme</color> à Tiffy est un moyen important d'obtenir des <color={highlight}>pièces scintillantes</color>."}
+{"id":1510733,"jp":"商品を売却するタイミングによって、<color={highlight}>価格が変動します</color>。行商手記からその日の商品の価格相場を確認できます。","fr":"Les <color={highlight}>prix fluctuent</color> selon le moment de la vente. Consultez le carnet du marchand ambulant pour connaître le cours des marchandises du jour."}
 {"id":1510734,"jp":"巣に帰るドゥル","fr":"Les Dur rentrent au nid"}
+{"id":1510735,"jp":"じっとしていられないドゥルたちは、いつもこっそり抜け出してうろついています。\nドゥルに近づくと<color={highlight}>反対方向に逃げていく</color>ので、近くのドゥルを見つけて、囲いの中に追い戻しましょう。","fr":"Les Dur ne tiennent pas en place et s'échappent constamment pour aller se promener.\nLorsque vous vous approchez d'un Dur, il <color={highlight}>s'enfuit dans la direction opposée</color>. Retrouvez les Dur des environs et ramenez-les dans leur enclos."}
 {"id":1510736,"jp":"湧き出るアウラ","fr":"Aura jaillissante"}
+{"id":1510737,"jp":"いたずら好きなアウラが地面の下から次々と這い出してくる……\nこのままでは、植物の根がダメになってしまいます！\n彼らを阻止しなければなりません。","fr":"Des Aura farceurs surgissent du sol les uns après les autres…\nÀ ce rythme, les racines des plantes seront endommagées !\nIl faut les arrêter."}
 {"id":1510739,"jp":"アウラの出現を阻止することに成功すると、報酬を獲得できます。","fr":"Si vous empêchez l'apparition d'une Aura, vous obtenez une récompense."}
 {"id":1510740,"jp":"星で描く麦畑","fr":"Champ de blé en étoiles"}
+{"id":1510741,"jp":"フリスの野外にある麦畑には、不思議な巨大模様が描かれています。高い場所からでないと全体像は見えませんが、そこで星光の導きを得られます。地上に戻ったら、星の線でつなぎ、隠された星図を描き出しましょう。","fr":"Un mystérieux motif gigantesque se dessine dans les champs de blé aux alentours de Fleece. Seul un point de vue en hauteur permet de l'observer dans son intégralité et de recevoir les indications de la lumière des étoiles. De retour au sol, reliez les étoiles pour révéler la carte céleste dissimulée."}
 {"id":1510742,"jp":"ごろごろグラゴ","fr":"Grago qui roule"}
 {"id":1510743,"jp":"グラゴは、障害物をすべて吹き飛ばす完璧なローリングを夢見ています。\nグラゴに変身して、最高のお手本を見せてあげましょう。","fr":"Grago rêve d'un roulé-boulé parfait qui balaie tous les obstacles.\nTransformez-vous en Grago et montrez-lui le meilleur exemple."}
+{"id":1510744,"jp":"照準状態に入った後、<color={highlight}>長押しでチャージ</color>できます。\n長押しを離すと、チャージ量に応じた勢いで転がり始めます！","fr":"Une fois en mode visée, <color={highlight}>maintenez le bouton pour charger</color>.\nRelâchez-le pour vous mettre à rouler avec une force proportionnelle à la charge accumulée !"}
+{"id":1510745,"jp":"<color={highlight}>すべての障害物を吹き飛ばす</color>ことに成功すると、グラゴからの贈りものを獲得できます。","fr":"Parvenez à <color={highlight}>renverser tous les obstacles</color> pour recevoir un présent de Grago."}
 {"id":1510746,"jp":"堅い志","fr":"Volonté inébranlable"}
 {"id":1510747,"jp":"守護の意志を貫きましょう！次々と襲い来る危険のなかで戦い抜き、最後の瞬間まで守りきってください！","fr":"Restez fidèle à votre volonté de protéger ! Combattez au milieu des dangers qui s'enchaînent et défendez jusqu'au dernier instant !"}
 {"id":1510748,"jp":"作物を守るために立てられたかかしが、すこし壊れてしまいました。かかしを修復し、危機が去るまで守り抜きましょう！","fr":"L'épouvantail dressé pour protéger les cultures est un peu abîmé. Réparez-le et défendez-le jusqu'à ce que le danger soit écarté !"}
+{"id":1510749,"jp":"かかしに引き寄せられたキボを追い払い、<color={highlight}>一定時間持ちこたえる</color>と報酬を獲得できます。","fr":"Repoussez les Kibo attirés par l'épouvantail et <color={highlight}>tenez bon pendant un certain temps</color> pour obtenir une récompense."}
+{"id":1510750,"jp":"一部の強敵は戦闘中に<color={highlight}>暴走</color>状態になります。\n暴走状態の敵は普段より強力なスキルを使用するため、注意してください。","fr":"Certains ennemis puissants entrent en état de <color={highlight}>frénésie</color> pendant le combat.\nLes ennemis en état de frénésie utilisent des compétences plus puissantes que d'habitude. Soyez prudents."}
 {"id":1510751,"jp":"リィフの演奏","fr":"Le concert de Riff"}
+{"id":1510752,"jp":"演奏を開始すると、右から左へ<color={highlight}>色の異なる</color>音符が流れてきます。\n音符が判定エリアに到達したタイミングで対応する色の音符を押すと、正しく演奏できます。","fr":"Lorsque la représentation commence, des notes de <color={highlight}>différentes couleurs</color> défilent de droite à gauche.\nAppuyez sur le bouton de la couleur correspondante lorsque la note atteint la zone de validation pour la jouer correctement."}
+{"id":1510753,"jp":"2種類の音符が重なった場合は、<color={highlight}>ボタンを同時に押す</color>ことで正しく演奏できます。","fr":"Lorsque deux types de notes se superposent, <color={highlight}>appuyez simultanément sur les boutons</color> pour les jouer correctement."}
+{"id":1510754,"jp":"長押しタイプの音符は、対応する色の音符ボタンを<color={highlight}>長押し</color>し、<color={highlight}>適切なタイミングで離す</color>ことで正しく演奏できます。","fr":"Pour jouer correctement les notes longues, <color={highlight}>maintenez</color> le bouton de la couleur correspondante, puis <color={highlight}>relâchez-le au bon moment</color>."}
 {"id":1510755,"jp":"朽ちた橋の修復","fr":"Réparer le pont vermoulu"}
+{"id":1510756,"jp":"冒険の途中で<color={highlight}>壊れた橋</color>を見つけたら、<color={highlight}>適切な素材</color>を使用して修復できます。","fr":"Si vous découvrez un <color={highlight}>pont endommagé</color> au cours de votre aventure, vous pouvez le réparer à l'aide des <color={highlight}>matériaux appropriés</color>."}
 {"id":1510757,"jp":"修復すれば、両岸の道がつながり、移動がもっと便利になります！","fr":"Une fois réparé, il relie les deux rives et facilite encore les déplacements !"}
 {"id":1510758,"jp":"昇降機の修復","fr":"Réparer l'élévateur"}
+{"id":1510759,"jp":"冒険の途中で<color={highlight}>壊れた昇降機</color>を見つけたら、<color={highlight}>適切な素材</color>を使用して修復できます。","fr":"Si vous découvrez un <color={highlight}>ascenseur endommagé</color> au cours de votre aventure, vous pouvez le réparer à l'aide des <color={highlight}>matériaux appropriés</color>."}
 {"id":1510760,"jp":"修復すれば、高速で昇降できるようになり、移動がもっと便利になります！","fr":"Une fois réparé, il permet de monter et de descendre rapidement, et facilite encore les déplacements !"}
+{"id":1510761,"jp":"星旅の記録には、この世界で生き抜くための知恵が記されています。星旅の記録を進めるほど、この世界への理解が深まっていきます。\n<color={highlight}>追跡ボタン</color>を押せば、指定項目を素早く追跡できます。","fr":"La Chronique du voyage stellaire rassemble les connaissances nécessaires pour survivre dans ce monde. Plus vous progressez dans cette chronique, plus votre compréhension du monde s'approfondit.\nAppuyez sur le <color={highlight}>bouton de suivi</color> pour suivre rapidement l'objectif sélectionné."}
 {"id":1510762,"jp":"強力な敵","fr":"Ennemis puissants"}
+{"id":1510763,"jp":"遭遇した敵と現在のキャラクターのレベル差が大きすぎる場合、敵に<color={highlight}>特殊な状態マーク</color>が表示されます。遭遇した時はなるべく避けましょう\nレベルアップすることで、戦闘力を素早く上げられます","fr":"Lorsque l'écart de niveau entre un ennemi et votre personnage actuel est trop important, un <color={highlight}>indicateur d'état spécial</color> apparaît sur l'ennemi. Évitez autant que possible ces ennemis.\nAugmenter votre niveau permet d'accroître rapidement votre puissance de combat."}
 {"id":1510764,"jp":"潜影探し","fr":"À la recherche des ombres tapies"}
+{"id":1510765,"jp":"ウミィが秘密の隅っこに隠れているようです。<color={highlight}>カメラを動かすか、視点を切り替えて</color>探し出しましょう！","fr":"Un Umii semble se cacher dans un recoin secret. <color={highlight}>Déplacez la caméra ou changez de point de vue</color> pour le retrouver !"}
+{"id":1510766,"jp":"ウミィが画面の中心にいる時、円形のアイコンが表示されます。この時にシャッターボタンを押せば、チャレンジ達成です！\n見つけ出すと、<color={highlight}>ウミィの贈りもの</color>を獲得できます！","fr":"Lorsque l'Umii se trouve au centre de l'écran, une icône circulaire apparaît. Appuyez alors sur le déclencheur pour réussir le défi !\nRetrouvez-le pour recevoir un <color={highlight}>Présent d'Umii</color> !"}
 {"id":1510767,"jp":"キボの群れ","fr":"Troupeau de Kibo"}
+{"id":1510768,"jp":"キボがフィールドで集まっていると、ちょっとした混乱と小さなサプライズをもたらします\n群れたキボを誘導すると、<color={highlight}>散らばった素材と宝物</color>を収集できます","fr":"Lorsque des Kibo se rassemblent dans le monde, ils provoquent un peu de désordre, mais réservent aussi de petites surprises.\nGuidez le troupeau de Kibo pour collecter les <color={highlight}>matériaux et trésors dispersés</color>."}
+{"id":1510769,"jp":"キボがフィールドで集まっていると、ちょっとした混乱と小さなサプライズをもたらします\nキボを誘導して片付けた後、散らばった素材と宝物を収集できます","fr":"Lorsque des Kibo se rassemblent dans le monde, ils provoquent un peu de désordre, mais réservent aussi de petites surprises.\nAprès avoir guidé les Kibo pour dégager les lieux, vous pouvez collecter les matériaux et trésors dispersés."}
 {"id":1510770,"jp":"キボを救出","fr":"Secourir des Kibo"}
+{"id":1510771,"jp":"大変です。キボたちが悪党によって拘束装置に閉じ込められています。\n<color={highlight}>敵を倒す</color>と、捕らわれたキボを救出できます。","fr":"Catastrophe ! Des malfaiteurs ont enfermé des Kibo dans des dispositifs de contention.\n<color={highlight}>Éliminez les ennemis</color> pour libérer les Kibo captifs."}
 {"id":1510772,"jp":"大変です。キボたちが悪党によって拘束装置に閉じ込められています。","fr":"Quelle catastrophe. Des Kibo ont été enfermés dans des dispositifs de contention par des malfrats."}
 {"id":1510773,"jp":"見張りの敵を倒して装置を破壊し、キボたちを解放してあげましょう！","fr":"Battez les ennemis de garde, détruisez les dispositifs et libérez les Kibo !"}
 {"id":1510774,"jp":"シリンダー調整","fr":"Réglage des cylindres"}
+{"id":1510775,"jp":"鍵付き宝箱にはきっと宝物が詰まっているはず！\n判定ラインとロック解除エリアが<color={highlight}>重なった</color>タイミングでインタラクトして宝箱を開けましょう！","fr":"Ce coffre verrouillé doit certainement regorger de trésors !\nInteragissez avec le coffre lorsque la ligne de validation et la zone de déverrouillage <color={highlight}>se superposent</color> pour l'ouvrir !"}
 {"id":1510776,"jp":"キャラクター訓練【ペイペイ：その1】","fr":"Entraînement de personnage 【Peipei : partie 1】"}
+{"id":1510777,"jp":"ペイペイが星響スキルまたは星極スキルを発動すると、<color={highlight}>「陰陽合一」</color>効果を獲得します。","fr":"Lorsque Peipei active sa Compétence Écho stellaire ou sa Compétence Zénith stellaire, elle obtient l'effet <color={highlight}>« Union du yin et du yang »</color>."}
 {"id":1510778,"jp":"キャラクター訓練【ペイペイ：その2】","fr":"Entraînement de personnage 【Peipei : partie 2】"}
+{"id":1510779,"jp":"「陰陽合一」効果中、<color={highlight}>攻撃ボタンを長押しし、光ったら離す</color>と強化チャージ攻撃を発動できます。この操作を連続して繰り返すと、最大4回連続で強化チャージ攻撃を発動できます。","fr":"Tant que l'effet « Union du yin et du yang » est actif, <color={highlight}>maintenez le bouton d'attaque et relâchez-le lorsqu'il s'illumine</color> pour effectuer une Attaque chargée renforcée. Répétez cette opération pour enchaîner jusqu'à 4 Attaques chargées renforcées."}
 {"id":1510780,"jp":"キャラクター訓練【蘭香子：その1】","fr":"Entraînement de personnage 【Lan Xiangzi : partie 1】"}
+{"id":1510781,"jp":"蘭香子が星響スキルまたは星極スキルを発動した後、<color={highlight}>棺</color>を召喚して継続的に攻撃を行うことができます。","fr":"Après avoir activé sa Compétence Écho stellaire ou sa Compétence Zénith stellaire, Lan Xiangzi peut invoquer un <color={highlight}>cercueil</color> qui effectue des attaques continues."}
 {"id":1510782,"jp":"キャラクター訓練【蘭香子：その2】","fr":"Entraînement de personnage 【Lan Xiangzi : partie 2】"}
 {"id":1510784,"jp":"キャラクター訓練【メイプル：その1】","fr":"Entraînement de personnage 【Maple : partie 1】"}
+{"id":1510785,"jp":"メイプルがチャージ攻撃を発動すると、<color={highlight}>「ニャンニャンラッシュ」</color>効果を獲得します。","fr":"Lorsque Maple effectue une Attaque chargée, elle obtient l'effet <color={highlight}>« Ruée nyan-nyan »</color>."}
 {"id":1510786,"jp":"キャラクター訓練【メイプル：その2】","fr":"Entraînement de personnage 【Maple : partie 2】"}
+{"id":1510787,"jp":"「ニャンニャンラッシュ」効果中、攻撃が敵に命中するたびに、追加で<color={highlight}>確定ダメージ</color>を1回与えます。","fr":"Tant que l'effet « Ruée nyan-nyan » est actif, chaque attaque touchant un ennemi inflige une fois des <color={highlight}>DGT bruts</color> supplémentaires."}
 {"id":1510788,"jp":"キャラクター訓練【メイプル：その3】","fr":"Entraînement de personnage 【Maple : partie 3】"}
+{"id":1510789,"jp":"星響スキル発動時、すでに「ニャンニャンラッシュ」効果を獲得している場合、<color={highlight}>星響スキル2段目の攻撃</color>を発動できます。","fr":"Si l'effet « Ruée nyan-nyan » est déjà actif lors de l'activation de la Compétence Écho stellaire, vous pouvez effectuer l'<color={highlight}>attaque du 2e palier de la Compétence Écho stellaire</color>."}
 {"id":1510790,"jp":"ジャスト回避：その1","fr":"Esquive parfaite : partie 1"}
+{"id":1510791,"jp":"敵が特定の強力な攻撃を繰り出す際、<color={highlight}>赤い光</color>のエフェクトが表示されます。","fr":"Lorsque les ennemis effectuent certaines attaques puissantes, un effet de <color={highlight}>lumière rouge</color> apparaît."}
 {"id":1510792,"jp":"ジャスト回避：その2","fr":"Esquive parfaite : partie 2"}
+{"id":1510793,"jp":"赤い光のエフェクトが出た時、<color={highlight}>タイミングよく回避する</color>と、ジャスト回避が発動し攻撃を避けることができます。","fr":"Lorsque la lumière rouge apparaît, <color={highlight}>effectuez une esquive au bon moment</color> pour déclencher une Esquive parfaite et éviter l'attaque."}
 {"id":1510794,"jp":"ジャスト回避：その3","fr":"Esquive parfaite : partie 3"}
+{"id":1510795,"jp":"ジャスト回避を発動後、<color={highlight}>攻撃ボタンを押す</color>と<color={highlight}>カウンター</color>を繰り出せます。","fr":"Après avoir déclenché une Esquive parfaite, <color={highlight}>appuyez sur le bouton d'attaque</color> pour effectuer une <color={highlight}>contre-attaque</color>."}
 {"id":1510796,"jp":"ジャストパリィ：その1","fr":"Parade parfaite : partie 1"}
+{"id":1510797,"jp":"敵が特定の強力な攻撃を繰り出す際、<color={highlight}>黄色い光</color>のエフェクトが表示されます。","fr":"Lorsque les ennemis effectuent certaines attaques puissantes, un effet de <color={highlight}>lumière jaune</color> apparaît."}
 {"id":1510798,"jp":"ジャストパリィ：その2","fr":"Parade parfaite : partie 2"}
+{"id":1510799,"jp":"黄色い光のエフェクトが出た時、<color={highlight}>タイミングよく防御する</color>と、ジャストガードまたはジャストパリィが発動し、その攻撃を弾くことができます。","fr":"Lorsque la lumière jaune apparaît, <color={highlight}>bloquez au bon moment</color> pour déclencher une Garde parfaite ou une Parade parfaite et repousser l'attaque."}
 {"id":1510800,"jp":"ジャストパリィ：その3","fr":"Parade parfaite : partie 3"}
+{"id":1510801,"jp":"ジャストガードまたはジャストパリィ成功後、<color={highlight}>攻撃ボタンを押す</color>と<color={highlight}>カウンター</color>を繰り出せます。","fr":"Après avoir réussi une Garde parfaite ou une Parade parfaite, <color={highlight}>appuyez sur le bouton d'attaque</color> pour effectuer une <color={highlight}>contre-attaque</color>."}
 {"id":1510802,"jp":"連続パリィ：その1","fr":"Parade en chaîne : partie 1"}
+{"id":1510803,"jp":"敵は連続して強力な攻撃を繰り出してきます。各攻撃前には<color={highlight}>黄色い光</color>のエフェクトが表示されます。","fr":"L'ennemi enchaîne plusieurs attaques puissantes. Un effet de <color={highlight}>lumière jaune</color> apparaît avant chaque attaque."}
 {"id":1510804,"jp":"連続パリィ：その2","fr":"Parade en chaîne : partie 2"}
+{"id":1510805,"jp":"<color={highlight}>ジャストガードまたはジャストパリィ</color>で、すべての攻撃を防ぐことができます。","fr":"Vous pouvez bloquer toutes ces attaques à l'aide d'une <color={highlight}>Garde parfaite ou d'une Parade parfaite</color>."}
 {"id":1510806,"jp":"遠隔パリィ：その1","fr":"Parade à distance : partie 1"}
+{"id":1510807,"jp":"敵が強力な弾丸を遠距離から放つ時、<color={highlight}>黄色い光</color>のエフェクトが表示されます。","fr":"Lorsqu'un ennemi tire un puissant projectile à distance, un effet de <color={highlight}>lumière jaune</color> apparaît."}
 {"id":1510808,"jp":"遠隔パリィ：その2","fr":"Parade à distance : partie 2"}
+{"id":1510809,"jp":"<color={highlight}>弾丸が命中する直前に防御する</color>と、ジャストガードまたはジャストパリィが発動し攻撃を跳ね返します。","fr":"<color={highlight}>Bloquez juste avant l'impact du projectile</color> pour déclencher une Garde parfaite ou une Parade parfaite et renvoyer l'attaque."}
 {"id":1510810,"jp":"体勢ゲージ：その1","fr":"Jauge de posture : partie 1"}
+{"id":1510811,"jp":"一部の強力な敵は<color={highlight}>体勢ゲージ</color>を持っており、敵にダメージを与えると同時に体勢ゲージを削ることができます。","fr":"Certains ennemis puissants possèdent une <color={highlight}>Jauge de posture</color>. Leur infliger des DGT permet également de réduire leur Jauge de posture."}
 {"id":1510812,"jp":"体勢ゲージ：その2","fr":"Jauge de posture : partie 2"}
 {"id":1510813,"jp":"キボを編成すると、敵の体勢ゲージに<color={highlight}>協力攻撃ポイント</color>が表示されます。","fr":"Quand vous composez une équipe de Kibo, des <color={highlight}>points d'attaque coopérative</color> s'affichent sur la Jauge de posture de l'ennemi."}
 {"id":1510814,"jp":"体勢ゲージ：その3","fr":"Jauge de posture : partie 3"}
+{"id":1510815,"jp":"体勢ゲージを協力攻撃ポイントまで削ると、カウントダウン終了前にキボと一緒に<color={highlight}>スターリンク攻撃</color>を発動できます。","fr":"Lorsque la Jauge de posture atteint un point d'attaque coopérative, vous pouvez effectuer une <color={highlight}>Attaque de Lien stellaire</color> avec votre Kibo avant la fin du compte à rebours."}
 {"id":1510816,"jp":"スターリンク攻撃：その1","fr":"Attaque de Lien stellaire : partie 1"}
+{"id":1510817,"jp":"最後の協力攻撃ポイントでスターリンク攻撃を発動すると、<color={highlight}>体勢ゲージをゼロにする</color>ことができます。","fr":"Effectuer une Attaque de Lien stellaire au dernier point d'attaque coopérative permet de <color={highlight}>vider entièrement la Jauge de posture</color>."}
 {"id":1510818,"jp":"スターリンク攻撃：その2","fr":"Attaque de Lien stellaire : partie 2"}
 {"id":1510819,"jp":"この時、敵はブレイク状態になって攻撃しなくなり、受けるダメージが150%になります。","fr":"À ce moment, l'ennemi passe en état de brise, cesse d'attaquer et subit 150 % de DGT."}
 {"id":1510820,"jp":"読みもの","fr":"Lectures"}
+{"id":1510821,"jp":"世界を探索していると、時折様々な読みものが見つかります。\n拾った読みものは星源の庭に収録され、異なる視点から各地の風土や人情を知ることができます。","fr":"Au cours de votre exploration du monde, vous découvrirez parfois divers ouvrages.\nLes ouvrages collectés sont archivés dans le Jardin des origines stellaires et vous permettent de découvrir les coutumes et les habitants des différentes régions sous de nouvelles perspectives."}
 {"id":1510822,"jp":"宝箱","fr":"Coffre au trésor"}
+{"id":1510823,"jp":"世界各地に宝箱が散らばっており、その出現位置は毎日変化します。\n宝箱を開けると、中に入っている<color={highlight}>貴重な宝物</color>を獲得できます。","fr":"Des coffres au trésor sont dispersés dans le monde entier et leurs emplacements changent chaque jour.\nOuvrez-les pour obtenir les <color={highlight}>précieux trésors</color> qu'ils renferment."}
+{"id":1510824,"jp":"たまに、世界のどこかでキボのタマゴを発見できます。\nそれを<color={highlight}>農園の孵化ポスト</color>に持ち帰って孵化させると、幼年期のキボを獲得できます。","fr":"Vous pouvez parfois découvrir des œufs de Kibo au cours de votre exploration du monde.\nRapportez-les à l'<color={highlight}>incubateur de la ferme</color> pour les faire éclore et obtenir de jeunes Kibo."}
+{"id":1510825,"jp":"キボが新しいタマゴを産むには少し時間がかかります。\n探索中にキボのタマゴが見つからない場合は、<color={highlight}>3日おいて</color>からまた確認してみましょう。","fr":"Les Kibo ont besoin d'un peu de temps pour pondre de nouveaux œufs.\nSi vous ne trouvez aucun œuf de Kibo pendant votre exploration, <color={highlight}>attendez 3 jours</color> avant de vérifier de nouveau."}
 {"id":1510826,"jp":"元素薬材","fr":"Plantes médicinales élémentaires"}
+{"id":1510827,"jp":"フィールドには多くの<color={highlight}>元素薬材</color>があり、それらは<color={highlight}>特定の元素</color>に対して様々な特殊な反応を示します。","fr":"Le monde regorge de <color={highlight}>plantes médicinales élémentaires</color> qui présentent diverses réactions particulières au contact de <color={highlight}>certains éléments</color>."}
 {"id":1510828,"jp":"<color={highlight}>適切な元素</color>で攻撃することで、より効率的に採取できます。","fr":"Attaquer avec l'<color={highlight}>élément approprié</color> permet de récolter plus efficacement."}
 {"id":1510829,"jp":"輝くキボ","fr":"Kibo brillant"}
+{"id":1510830,"jp":"フィールドには時折<color={highlight}>特殊な光</color>を放つキボが現れます。それは間違いなくレアなキボです。","fr":"Des Kibo émettant une <color={highlight}>lumière particulière</color> apparaissent parfois dans le monde. Il s'agit sans aucun doute de Kibo Rares."}
+{"id":1510831,"jp":"輝くキボが近くにいると、<color={highlight}>特別なヒント</color>が表示されます。\n見逃さないよう、注意しておきましょう。","fr":"Lorsqu'un Kibo brillant se trouve à proximité, un <color={highlight}>indicateur spécial</color> apparaît.\nVeillez à ne pas le manquer."}
+{"id":1510832,"jp":"アマルテイアやセレーシャなどの特別な存在は<color={highlight}>自然には輝く姿になりません</color>。星臨者さん、気をつけてくださいね。","fr":"Les êtres exceptionnels comme Amalthea et Celesha <color={highlight}>ne peuvent pas naturellement apparaître sous leur forme brillante</color>. Enfant des étoiles, gardez cela à l'esprit."}
 {"id":1510833,"jp":"星彩キボ","fr":"Kibo étoilés"}
+{"id":1510834,"jp":"フィールドには時折<color={highlight}>星彩</color>を放つキボが現れます。それは間違いなくレアなキボです。","fr":"Des Kibo émettant une <color={highlight}>lueur étoilée</color> apparaissent parfois dans le monde. Il s'agit sans aucun doute de Kibo Rares."}
+{"id":1510835,"jp":"星彩キボが近くにいると、<color={highlight}>特別なヒント</color>が表示されます。\n見逃さないよう、注意しておきましょう。","fr":"Lorsqu'un Kibo étoilé se trouve à proximité, un <color={highlight}>indicateur spécial</color> apparaît.\nVeillez à ne pas le manquer."}
+{"id":1510836,"jp":"フィールドを探索していると、時折散らばった<color={highlight}>星律</color>を見つけることがあります。","fr":"Au cours de votre exploration, vous découvrirez parfois des fragments du <color={highlight}>Rythme des étoiles</color> dispersés dans le monde."}
+{"id":1510837,"jp":"各地の星律を集めて<color={highlight}>融合</color>させると、<color={highlight}>星律レベルをアップ</color>させ、対応したレベルの報酬を受け取ることができます。","fr":"Collectez les fragments du Rythme des étoiles dans les différentes régions et <color={highlight}>fusionnez-les</color> pour <color={highlight}>augmenter le niveau du Rythme des étoiles</color> et récupérer les récompenses des niveaux correspondants."}
 {"id":1510838,"jp":"畑のマスを通過する時、そのマスにスタンシアの種を蒔きます。","fr":"En passant sur une case du champ, vous y semez des graines de Stancia."}
+{"id":1510839,"jp":"種を蒔く時、<color={highlight}>同じルートを通らずに</color>すべての畑を歩き回る必要があります。\n種まきをクリアすると、報酬をもらえます。","fr":"Lors des semis, vous devez parcourir toutes les cases du champ <color={highlight}>sans emprunter deux fois le même chemin</color>.\nTerminez les semis pour obtenir une récompense."}
+{"id":1510840,"jp":"<color={highlight}>一度通ったマス</color>を踏んでしまうと、蒔いた種がダメになってしまいます。\n諦めずに、スタート地点からやり直してみましょう。","fr":"Marcher sur <color={highlight}>une case déjà parcourue</color> endommage les graines semées.\nNe vous découragez pas et recommencez depuis le point de départ."}
 {"id":1510841,"jp":"ライドラン","fr":"Course à dos de Kibo"}
+{"id":1510842,"jp":"ライドランでは、キングラーガが自動で前進します。障害物にぶつかるとダメージを受けます。\n道を塞ぐ木を見つけたら、すぐに<color={highlight}>キボスキルを発動</color>して壊しましょう。","fr":"Pendant la course de monture, Kingraga avance automatiquement. Heurter un obstacle lui inflige des DGT.\nSi un arbre bloque le passage, <color={highlight}>activez immédiatement la compétence de Kibo</color> pour le détruire."}
+{"id":1510843,"jp":"<color={highlight}>壊せない岩塊</color>は、<color={highlight}>左右に移動</color>して避けられます。","fr":"Évitez les <color={highlight}>rochers indestructibles</color> en vous <color={highlight}>déplaçant vers la gauche ou la droite</color>."}
 {"id":1510844,"jp":"茨は<color={highlight}>ジャンプ</color>で飛び越えられます。","fr":"Les ronces peuvent être franchies d'un <color={highlight}>saut</color>."}
+{"id":1510845,"jp":"フィールドの宝箱には必ずしも宝物が入っているとは限りません。宝物を集めるのが好きなキボ――<color={highlight}>ミミック</color>が潜んでいるかもしれません。","fr":"Les coffres du monde ne contiennent pas toujours des trésors. Un Kibo passionné par les trésors, le <color={highlight}>Mimikku</color>, pourrait s'y dissimuler."}
+{"id":1510846,"jp":"<color={highlight}>ミミックを倒すか、スターリンクする</color>と、宝箱に本来入っていた宝物を獲得できます。","fr":"<color={highlight}>Vainquez le Mimikku ou formez un Lien stellaire avec lui</color> pour obtenir le trésor initialement contenu dans le coffre."}
 {"id":1510847,"jp":"回遊鳥","fr":"Oiseaux migrateurs"}
+{"id":1510848,"jp":"フィールドでは時折<color={highlight}>回遊鳥</color>に出会うことがあります。彼らは空中で道案内をし、知恵ある生き物を最寄りの元素の渦へ導いてくれます。","fr":"Vous rencontrerez parfois des <color={highlight}>oiseaux migrateurs</color> au cours de votre exploration. Ils indiquent le chemin depuis les airs et guident les êtres doués de raison vers le vortex élémentaire le plus proche."}
 {"id":1510849,"jp":"<color={highlight}>元素の渦に触れる</color>と、大量の元素の結晶を獲得できます。","fr":"<color={highlight}>Toucher un tourbillon élémentaire</color> donne de grandes quantités de cristaux élémentaires."}
 {"id":1510850,"jp":"鳴雷の門","fr":"La porte du tonnerre"}
+{"id":1510851,"jp":"世界の片隅に散らばる石門の残骸には、雷を導く古代の紋様が残されています。\n<color={highlight}>雷属性のキボの力</color>を借りて紋様に雷を流し込めば、石門を再び開くことができます。","fr":"Les vestiges de portes de pierre dispersés dans le monde portent encore d'anciens motifs conducteurs de foudre.\nUtilisez <color={highlight}>le pouvoir d'un Kibo de Foudre</color> pour faire circuler la foudre dans ces motifs et rouvrir la porte de pierre."}
+{"id":1510852,"jp":"開いた石門を通ると、通常は到達しにくい場所へ行き、<color={highlight}>報酬を獲得</color>できます。","fr":"Traversez la porte de pierre ouverte pour accéder à des lieux habituellement difficiles d'accès et <color={highlight}>obtenir des récompenses</color>."}
 {"id":1510853,"jp":"キボの相棒","fr":"Kibo partenaire"}
+{"id":1510854,"jp":"同族のキボ同士には不思議な絆があり、<color={highlight}>お互いが見える</color>と嬉しそうにくっつきます。","fr":"Les Kibo d'une même espèce partagent un mystérieux Lien. Lorsqu'ils <color={highlight}>s'aperçoivent mutuellement</color>, ils se blottissent joyeusement les uns contre les autres."}
 {"id":1510856,"jp":"ドッグファイト","fr":"Combat aérien"}
 {"id":1510857,"jp":"ドッグファイト中、パモーラは<color={highlight}>自動で前進</color>します。","fr":"Pendant le combat aérien, Pamora <color={highlight}>avance automatiquement</color>."}
 {"id":1510859,"jp":"凶鳥が攻撃してきた時は、<color={highlight}>ロール</color>で回避することができます。","fr":"Quand un oiseau maudit attaque, vous pouvez l'esquiver avec une <color={highlight}>roulade</color>."}
+{"id":1510860,"jp":"凶鳥の攻撃が来たら、ボタンのヒントが出現することがあります。<color={highlight}>タイミングよく対応するボタンを押し</color>、凶鳥の攻撃を避けましょう。","fr":"Lorsque l'oiseau maudit attaque, une indication de touche peut apparaître. <color={highlight}>Appuyez sur la touche correspondante au bon moment</color> pour éviter son attaque."}
 {"id":1510861,"jp":"簡易ノード","fr":"Nœud simplifié"}
 {"id":1510862,"jp":"星脈ノードの建設時に出た余り材料で作られた簡易ノード。ワープと回復機能のみ利用可能です。","fr":"Nœud simplifié fabriqué avec les matériaux restants de la construction d'un nœud de veine stellaire. Seules les fonctions de téléportation et de soins sont disponibles."}
 {"id":1510863,"jp":"フィールドバフ施設","fr":"Installation de soutien de terrain"}
 {"id":1510865,"jp":"複数体勢ゲージ：その1","fr":"Jauges de posture multiples : partie 1"}
 {"id":1510866,"jp":"一部の強力な敵の体勢ゲージには、追加の協力攻撃ポイントがあります。","fr":"La Jauge de posture de certains ennemis puissants possède des points d'attaque coopérative supplémentaires."}
 {"id":1510867,"jp":"複数体勢ゲージ：その2","fr":"Jauges de posture multiples : partie 2"}
+{"id":1510868,"jp":"敵の体勢ゲージが対応する協力攻撃ポイントに達すると、スターリンク攻撃を発動でき、敵に大量のダメージを与えることができます。","fr":"Lorsque la Jauge de posture d'un ennemi atteint le point d'attaque coopérative correspondant, vous pouvez effectuer une Attaque de Lien stellaire et lui infliger d'importants DGT."}
 {"id":1510869,"jp":"珍跡キボ","fr":"Kibo des vestiges"}
+{"id":1510870,"jp":"「珍種のキボ」は行動が予測できず、通常は毎週<color={highlight}>ランダムな場所に2回だけ現れます。</color>","fr":"Les « Kibo d'espèce rare » ont un comportement imprévisible et <color={highlight}>n'apparaissent généralement que 2 fois par semaine à des endroits aléatoires.</color>"}
 {"id":1510871,"jp":"幻域獣","fr":"Bêtes du domaine illusoire"}
+{"id":1510872,"jp":"プロミリア大陸の探索中、<color={highlight}>幻域チャレンジ</color>に挑み、強力な<color={highlight}>「幻域獣」</color>と戦えます。","fr":"Au cours de votre exploration du continent de Promilia, vous pouvez relever des <color={highlight}>défis du royaume illusoire</color> et affronter de puissantes <color={highlight}>« Bêtes du domaine illusoire »</color>."}
 {"id":1510874,"jp":"マウントおやつ袋","fr":"Sac de friandises pour monture"}
 {"id":1510875,"jp":"マウントおやつ袋に食物を補充しておけば、マウントの満腹度が足りなくなったとき、自動で食べてくれます。","fr":"Si vous approvisionnez le sac de friandises pour monture en nourriture, la monture mangera automatiquement quand sa satiété sera insuffisante."}
 {"id":1510876,"jp":"農園採集施設","fr":"Installation de collecte de la ferme"}
@@ -14514,9 +14698,13 @@
 {"id":1510878,"jp":"キャラクター訓練【源千代：その1】","fr":"Entraînement de personnage 【Minamoto Chiyo : partie 1】"}
 {"id":1510879,"jp":"源千代がチャージ攻撃/星響スキル/星閃スキル/星極スキルを発動すると、『業火』を獲得する（最大8スタック）。","fr":"Quand Minamoto Chiyo déclenche une Attaque chargée, une Compétence Écho stellaire, une Compétence Éclair stellaire ou une Compétence Zénith stellaire, obtient « Feu infernal » (8 cumuls max.)."}
 {"id":1510880,"jp":"キャラクター訓練【源千代：その2】","fr":"Entraînement de personnage 【Minamoto Chiyo : partie 2】"}
+{"id":1510881,"jp":"通常攻撃3段目以降のすべての通常攻撃で「業火」を消費可能です。\n「業火」を最大6スタック消費し、「鬼の手」に6回の協同攻撃を行わせます。","fr":"À partir du 3e coup de l'Attaque normale, chaque Attaque normale peut consommer l'effet « Flammes infernales ».\nConsommez jusqu'à 6 cumuls de « Flammes infernales » pour que la « Main de l'oni » effectue 6 attaques coopératives."}
 {"id":1510882,"jp":"キャラクター訓練【源千代：その3】","fr":"Entraînement de personnage【Minamoto Chiyo : partie 3】"}
+{"id":1510883,"jp":"回避は通常攻撃のコンボを中断しません。\n回避後、通常攻撃は回避前の段数を引き継ぎ、1段目から再計算されることはありません。","fr":"L'esquive n'interrompt pas l'enchaînement d'Attaques normales.\nAprès une esquive, l'enchaînement reprend au palier atteint avant l'esquive, sans recommencer au 1er coup."}
 {"id":1510884,"jp":"エネルギー裂隙と砕けた岩石","fr":"Faille d'Énergie et roches fragmentées"}
+{"id":1510885,"jp":"適切な破片を狙って射撃すると、破片が凝縮して<color={highlight}>通行可能</color>な岩塊になります。","fr":"Visez les fragments appropriés et tirez dessus pour qu'ils se condensent en un bloc rocheux <color={highlight}>franchissable</color>."}
 {"id":1510886,"jp":"レーザーギミック","fr":"Mécanisme laser"}
+{"id":1510888,"jp":"マップ上の<color={highlight}>エネルギー供給装置</color>にレーザーを当てると、対応するギミックを作動させることができます。","fr":"Dirigez le laser vers un <color={highlight}>dispositif d'alimentation en Énergie</color> sur la carte pour activer le mécanisme correspondant."}
 {"id":1510889,"jp":"造影儀","fr":"Imageur"}
 {"id":1510891,"jp":"回転足場","fr":"Plateformes rotatives"}
 {"id":1510892,"jp":"装置を操作すると、マップ上の足場を回転させて移動ルートを変更できます。\n足場を正しい位置まで回転させれば、<color={highlight}>次の地点へ進む</color>ことができます。","fr":"Actionnez le mécanisme pour faire pivoter les plateformes de la carte et modifier l'itinéraire.\nUne fois les plateformes tournées dans la bonne position, vous pourrez <color={highlight}>avancer jusqu'au point suivant</color>."}
@@ -14524,18 +14712,30 @@
 {"id":1510895,"jp":"シャドウブレイズは一部の強力なスキルを発動する際、3つのエネルギーボールからエネルギーを吸収してチャージを行います。","fr":"Quand Shadowblaze lance certaines compétences puissantes, il absorbe l'énergie de 3 boules d'énergie pour se charger."}
 {"id":1510897,"jp":"アマルテイアは一部の強力なスキルを発動する際、破壊可能な巨大水弾を召喚します。","fr":"Quand Amalthea lance certaines compétences puissantes, elle invoque un énorme projectile d'eau destructible."}
 {"id":1510899,"jp":"モルフォーレは一部の強力なスキルを発動する際、自身にダメージを防ぐシールドを展開します。","fr":"Quand Morphore lance certaines compétences puissantes, il déploie autour de lui un bouclier qui bloque les DGT."}
+{"id":1510900,"jp":"モルフォーレが召喚する竜巻は、自身が展開するシールドを<color={highlight}>効率的に破壊</color>します。\nモルフォーレを誘導して、自分で召喚した竜巻に触れさせてみましょう！","fr":"Les tornades invoquées par Morphore permettent de <color={highlight}>détruire efficacement</color> son propre Bouclier.\nAttirez Morphore vers les tornades qu'il a lui-même invoquées !"}
+{"id":1510901,"jp":"セレーシャは周期的に黄金の麦の穂を放ちます。\nキャラクターが麦の穂に触れると、徐々に黄金状態となり、<color={highlight}>行動とスキルの使用ができなくなります。</color>","fr":"Celesha libère périodiquement des épis de blé dorés.\nLorsqu'un personnage touche ces épis, il entre progressivement en état de Dorure et <color={highlight}>ne peut plus agir ni utiliser ses compétences.</color>"}
+{"id":1510902,"jp":"黄金状態になった場合、<color={highlight}>キャラクターを切り替える</color>ことでセレーシャの攻撃を避けるか、自然に解除されるまで待ちましょう。","fr":"En état de Dorure, <color={highlight}>changez de personnage</color> pour éviter les attaques de Celesha ou attendez que l'effet se dissipe naturellement."}
 {"id":1510903,"jp":"モルフォーレ＆ナイトフォール","fr":"Morphore et Vespervamp"}
+{"id":1510904,"jp":"モルフォーレとナイトフォールはペアで周期的にコンビネーション攻撃を仕掛けてきます。\n<color={highlight}>どちらか一方を倒す</color>と、もう一方は暴走状態となり、強力なスキルを放つようになります。","fr":"Morphore et Vespervamp effectuent périodiquement des attaques combinées.\n<color={highlight}>Vaincre l'un des deux</color> fait entrer l'autre en état de frénésie, lui permettant d'utiliser de puissantes compétences."}
 {"id":1510906,"jp":"沃土","fr":"Terre fertile"}
 {"id":1510908,"jp":"武器工房","fr":"Atelier d'armes"}
 {"id":1510910,"jp":"キボ源脈","fr":"Veine source des Kibo"}
 {"id":1510913,"jp":"天候","fr":"Météo"}
+{"id":1510914,"jp":"天候はフィールド上のすべてのキボに影響を与え、特定の属性を持つキボには追加のバフ効果を付与します。\n天候の継続時間は非常に長く、同時に存在できる天候は1種類のみです。","fr":"Les conditions météorologiques affectent tous les Kibo sur le terrain et confèrent des effets de Renforcement supplémentaires aux Kibo d'un élément particulier.\nLes conditions météorologiques durent très longtemps et un seul type de météo peut être actif à la fois."}
 {"id":1510915,"jp":"器に隠れる・ウミィ","fr":"Cachés dans un vase : Umii"}
+{"id":1510916,"jp":"ウミィはいつも器に隠れるのが大好き。器がシャッフルされるので、<color={highlight}>ウミィが隠れた器を覚えて</color>、見つけ出しましょう！","fr":"Les Umii adorent se cacher dans des pots. Les pots seront mélangés, alors <color={highlight}>mémorisez celui dans lequel l'Umii s'est caché</color> pour le retrouver !"}
 {"id":1510917,"jp":"マップレベル","fr":"Niveau de la carte"}
+{"id":1510918,"jp":"マップレベルが上がると、フィールドに<color={highlight}>よりさまざまな種類のキボ</color>が出現するようになります。","fr":"Lorsque le niveau de la carte augmente, <color={highlight}>une plus grande variété de Kibo</color> apparaît dans le monde."}
+{"id":1510919,"jp":"さらに、マップレベルが上昇すると、フィールドに<color={highlight}>ランダムなボスキボ</color>が出現するようになります。","fr":"De plus, lorsque le niveau de la carte augmente, des <color={highlight}>boss Kibo aléatoires</color> commencent à apparaître dans le monde."}
 {"id":1510920,"jp":"寮の装飾","fr":"Décoration du dortoir"}
 {"id":1510921,"jp":"寮の装飾を獲得すると、寮画面で変更できます。","fr":"Une fois les décorations du dortoir obtenues, vous pouvez les modifier depuis l'écran du dortoir."}
+{"id":1510922,"jp":"ただし、<color={highlight}>専用衣装</color>は<color={highlight}>指定されたキャラクターにのみ使用</color>できます。さっそく試してみましょう。","fr":"Cependant, les <color={highlight}>tenues exclusives</color> <color={highlight}>ne peuvent être utilisées que par les personnages désignés</color>. Essayez-les dès maintenant."}
 {"id":1510923,"jp":"エネルギーバリア","fr":"Barrière d'Énergie"}
+{"id":1510924,"jp":"周囲にある<color={highlight}>制御装置</color>を見つけると、エネルギーバリアを解除できます。\nバリアを解除して遺跡に入れば、思わぬ発見があるかもしれません。","fr":"Trouvez les <color={highlight}>dispositifs de contrôle</color> situés aux alentours pour désactiver la barrière d'Énergie.\nUne fois la barrière désactivée, pénétrez dans les ruines pour y faire d'éventuelles découvertes inattendues."}
 {"id":1510925,"jp":"アルマロに変身","fr":"Se transformer en Armaro"}
+{"id":1510926,"jp":"アルマロに変身し、<color={highlight}>長押しでチャージ</color>して道を塞ぐ鉱石を狙うと、体当たりで破壊できます。\n岩壁にぶつかると跳ね返ります。跳ね返りを利用すれば、直進では届かない鉱石も壊せます。","fr":"Transformez-vous en Armaro, <color={highlight}>maintenez le bouton pour charger</color> et visez les minerais qui obstruent le passage pour les détruire en les percutant.\nVous rebondissez lorsque vous heurtez une paroi rocheuse. Utilisez ces rebonds pour détruire les minerais inaccessibles en ligne droite."}
 {"id":1510927,"jp":"「輪廻」","fr":"« Réincarnation »"}
+{"id":1510928,"jp":"<color={highlight}>集中</color>することで、「大狼さま」ミネイヴァから与えられた輪廻の力を使用し、近くの強い執念を持つ魂を探知できます。","fr":"Grâce à la <color={highlight}>Concentration</color>, vous pouvez utiliser le pouvoir de réincarnation conféré par Mineiva, le « Seigneur Grand Loup », pour détecter les âmes proches encore animées par de puissants attachements."}
 {"id":1510929,"jp":"ターゲットに追いつく","fr":"Rattraper la cible"}
 {"id":1510931,"jp":"壁蹴り","fr":"Saut mural"}
 {"id":1510939,"jp":"封印コンソール","fr":"Console du sceau"}
