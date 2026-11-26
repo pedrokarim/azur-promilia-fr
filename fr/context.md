@@ -72,6 +72,8 @@ Relevés dans les dialogues déjà traduits. Un traducteur les applique tels que
 - Vouvoient aussi : Jiang Li, Polly, Francisco, Lulu, le marchand de Pat. Tutoient aussi : Rosa, Larin, Kirk, Wright, Kiri, Fajeto, Barrett, Penny, Ral, Ronald.
 - L'aide de la ferme (オイラ) appelle le joueur « Chef » (ボス).
 - Faridah est une femme (la plus jeune Seigneur Faucon de l'histoire) : accords au féminin.
+- Luruka vouvoie le joueur. Popoi, Francisco, Ariana, l'employé de la Compagnie Tianjiang vouvoient le joueur. Momo, Enkaku, le boucher, Joy, Elro, Tinana, Libby tutoient.
+- Abby dit « Enfant des étoiles » sans déformation (せーりんしゃ).
 
 ## Règles d'écriture
 
@@ -80,7 +82,7 @@ Relevés dans les dialogues déjà traduits. Un traducteur les applique tels que
 - Les menus sont étroits : le français est en général plus long que l'anglais. Pour les statistiques, les abréviations habituelles des jeux en français : ATQ, DÉF, PV, Taux CRIT, DGT CRIT.
 - Les répliques gardent les hésitations et onomatopées du japonais sous une forme française naturelle (うっ, rendu « Ugh » en anglais, devient « Aïe » ou « Argh » selon le contexte).
 - Les noms propres restent ceux du glossaire. Quand l'anglais officiel (site, X @AzurPromilia_EN) et l'anglais des fans diffèrent, l'officiel l'emporte : il est noté dans la colonne `en` du glossaire.
-- Typographie : on écrit des espaces ordinaires avant ! ? : ; et à l'intérieur des « », l'apostrophe droite ' et le caractère … (aussi pour ……). `build` les remplace par l'espace insécable U+00A0. Testé en jeu le 26/11/2026 : la police affiche les accents (É À Ç é è à ç œ), les « » et l'insécable U+00A0, mais pas l'espace fine U+202F, qui sort en carré : ne jamais l'employer.
+- Typographie : on écrit des espaces ordinaires avant ! ? : ; et à l'intérieur des « », l'apostrophe droite ' et le caractère … (aussi pour ……). `build` les remplace par l'espace insécable U+00A0. Testé en jeu le 26/11/2026 : la police affiche les accents (É À Ç é è à ç œ), les « » et l'insécable U+00A0, mais pas l'espace fine U+202F, qui sort en carré : ne jamais l'employer.
 - Titres de succès et de rang qui désignent le joueur : tournures sans accord (« As des combos », « Terreur des grottes »).
 - Noms de Kibo et de boss : ceux de l'anglais, invariables (Staray, Cabbird, Kingraga…). Plusieurs sont confirmés par le site officiel.
 
