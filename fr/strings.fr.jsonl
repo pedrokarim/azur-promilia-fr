@@ -48070,6 +48070,8 @@
 {"id":1543675,"jp":"そ……そうなの？","fr":"V-vraiment ?"}
 {"id":1543676,"jp":"ウォーン。","fr":"Wouuun."}
 {"id":1543677,"jp":"わあ、ふわふわ！おひさまの匂いがする！","fr":"Oh, hum hum !\nPardon, je me suis un peu emballée."}
+{"id":1543678,"jp":"あははっ、くすぐったいよう！","fr":"Ah ah ah, ça chatouille !"}
+{"id":1543679,"jp":"あ、コホン！\n失礼しました。つい夢中になっちゃって。","fr":"Oh, hum hum !\nPardon, je me suis un peu emballée."}
 {"id":1543680,"jp":"わたしはコムギ・ヘルウェン。\n領主の孫娘です。コムギって呼んでね！","fr":"Je m'appelle Komugi Helwen.\nJe suis la petite-fille du seigneur. Appelle-moi Komugi !"}
 {"id":1543681,"jp":"ヘルウェン……領主の家族だったのか。\nどーりで領主に似てるのだ。","fr":"Helwen… Ah, tu es de sa famille !\nLumi se disait bien que tu lui ressemblais."}
 {"id":1543682,"jp":"おばあさまとのお話は終わったんだよね？\nそれなら、わたしが街を案内するよ！","fr":"Vous avez fini de parler avec Grand-mère ?\nAlors je vais vous faire visiter la ville !"}
@@ -48164,25 +48166,143 @@
 {"id":1543771,"jp":"でも、カーニバルの治安を守って、みんなの問題を解決すれば、\n領主さまからたっぷり報酬をもらえるって約束なの！","fr":"Mais si on veille à ce que le Carnaval se passe sans accroc et qu'on règle les soucis des gens,\nle seigneur nous a promis une belle récompense !"}
 {"id":1543772,"jp":"うん！だってほら、街なかでファイトするわけにはいかないでしょ？\nファイト会場はギルドが押さえることになってるの。","fr":"Oui ! Tu imagines si on faisait des duels en pleine rue ?\nC'est la Guilde qui réserve les terrains pour les duels."}
 {"id":1543773,"jp":"それに、キボファイトだけじゃない。\n『キボを助ける』とか『キボに助けてもらう』依頼だってあるんだから！","fr":"Et puis, y a de quoi faire en dehors des Duels de Kibo.\nOn a aussi des missions pour filer un coup de patte aux Kibos ou leur demander de nous en filer un !"}
+{"id":1543774,"jp":"つ・ま・り～このフリスで一番キボに詳しいのはメイプルってことにゃ！","fr":"En clair, s'il y a quelqu'un qui s'y connaît en Kibo à Fleece, c'est Maple, nya !"}
+{"id":1543775,"jp":"この猫ニャン娘、あたしより大口を叩いてるのだ……","fr":"Elle se vante encore plus que Lumi, cette fille-chat…"}
+{"id":1543776,"jp":"リリィさんはフリスのギルドを探していると言っていましたね……\nきっともう、ここに来ているでしょう。","fr":"Lily nous a dit qu'elle cherchait la guilde de Fleece…\nElle a sûrement déjà dû passer par ici."}
 {"id":1543777,"jp":"リリィ？","fr":"Lily ?"}
+{"id":1543778,"jp":"騎士見習いを名乗る女の子。","fr":"Une fille qui dit être apprentie chevalière."}
+{"id":1543779,"jp":"グリファを連れた女の子。","fr":"Une fille avec un Griffa."}
+{"id":1543780,"jp":"うーん……そんな特徴的な子なら絶対覚えてるはずだけど、\nこのあたりでは見かけてないにゃあ？","fr":"Mmm… Une fille comme ça, je m'en souviendrais.\nJe l'ai pas vue dans le coin, nya."}
+{"id":1543781,"jp":"まさか道に迷ったのか？","fr":"Tu crois qu'elle s'est perdue ?"}
+{"id":1543782,"jp":"違うちがう、迷ってなんかないよ！\nちょっと寄り道してただけなの！","fr":"Mais non, je me suis pas perdue !\nJ'ai juste fait un petit détour !"}
+{"id":1543783,"jp":"ん～ならいいけど……って、こらこら！いつ来たのだ！","fr":"Mmm, tant mieux alors… Hé, attends ! T'es arrivée quand ?"}
+{"id":1543784,"jp":"えっと……ついさっき？\nこんなにすぐ再会できるなんて思ってなかったよ。","fr":"Euh… à l'instant ?\nJe pensais pas vous revoir si vite."}
+{"id":1543785,"jp":"いきなり現れるのは心臓に悪いのだ……","fr":"À surgir comme ça, tu vas donner une crise cardiaque à Lumi…"}
+{"id":1543786,"jp":"ごめんね、ルミィさん。","fr":"Pardon, Lumi."}
+{"id":1543787,"jp":"でも、フリスってとても学べることが多いね。\n住民の視点から見えてくることがたくさんあるよ。","fr":"J'ai déjà appris plein de choses à Fleece, tu sais.\nQuand tu vois la ville comme les gens d'ici, tu remarques plein de détails qui t'avaient échappé."}
+{"id":1543788,"jp":"リリィって、ハイガーデンのじじどもと\n考えることがそっくりなのだ……","fr":"Lily, tu parles exactement comme les vieux de Highgarden…"}
+{"id":1543789,"jp":"あ、もしかしてあなたが紹介状に書いてあった騎士さま？","fr":"Oh, c'est toi, la chevalière dont parle la lettre de recommandation ?"}
 {"id":1543790,"jp":"き、騎士さま！？","fr":"C-chevalier !?"}
+{"id":1543791,"jp":"違うの？手紙にそう書いてあったけど。\n赤蠍団をあっという間に倒して、親分を一撃で吹っ飛ばしたって！","fr":"C'est pas toi ? Pourtant, c'est écrit dans la lettre.\nTu as mis les Scorpions rouges en déroute en deux temps trois mouvements et envoyé leur chef valser d'un seul coup !"}
+{"id":1543792,"jp":"そ、それは行商さんが盛って書いただけで！\nわたし、そんなに強くないよ！","fr":"C-c'est le marchand qui a brodé !\nJe suis pas si forte que ça !"}
 {"id":1543793,"jp":"盛ってなんかない。","fr":"Ce n'est pas exagéré."}
+{"id":1543794,"jp":"僕が証明するよ。|私が証明するよ。","fr":"Je peux en témoigner.|Je peux en témoigner."}
+{"id":1543795,"jp":"そうなの？すごい！本当のことなんだ！","fr":"Pour de vrai ? Trop fort ! Alors c'est vrai, cette histoire !"}
+{"id":1543796,"jp":"この大妖精の活躍も、いっぱい書かれてたに違いないな。","fr":"La Grande Fée a sûrement droit à tout un paragraphe, elle aussi."}
+{"id":1543797,"jp":"んーと、それはぜんぜん。","fr":"Euh… pas un mot."}
+{"id":1543798,"jp":"なにぃ！？あの恩知らずめ！","fr":"Quoi ?! L'ingrat !"}
+{"id":1543799,"jp":"みんな、なかなか腕が立つんだね！","fr":"Vous vous débrouillez drôlement bien, tous !"}
+{"id":1543800,"jp":"ここの依頼は水やりみたいなちょっとしたものも多いけど、\n結構、難しい依頼もあるんだよ！","fr":"Ici, il y a plein de petites missions, comme l'Arrosage.\nMais il y en a aussi de sacrément corsées !"}
+{"id":1543801,"jp":"たとえば～幽霊鉱山の調査とかライカウモの討伐とか\nロジニア連邦の爆弾魔の追跡とか……！\n超ヤバい依頼もあるんだから。遊びじゃないんだよ。","fr":"Comme enquêter dans la mine hantée, abattre un Raikaumo,\nou traquer un poseur de bombes de la Fédération de Rojinia… !\nDes missions où tu risques ta peau, quoi. Faut prendre ça au sérieux."}
+{"id":1543802,"jp":"依頼を手伝うのはいいけど、あまり無理はしないでね。\nあなたたちはフリスの大切なお客さま。ケガしたらおばあさまに叱られちゃう。","fr":"Si vous voulez donner un coup de main, allez-y, mais faites attention à vous.\nVous êtes les hôtes de Fleece. Si l'un de vous se blesse, Grand-mère va me gronder."}
+{"id":1543803,"jp":"そうそう。\nアニスを困らせちゃダメだにゃん。","fr":"C'est ça.\nAllez pas causer d'ennuis à Anais, nya."}
+{"id":1543804,"jp":"じゃあ、まだ時間もあるし、つぎの場所に行こっか。","fr":"Bon, on a encore le temps. On passe à la suite de la visite ?"}
+{"id":1543805,"jp":"あれ？リリィもいっしょに行くのか？","fr":"Tiens ? Lily, tu viens avec nous aussi ?"}
+{"id":1543806,"jp":"はじめての土地だから、案内してもらえたら助かるなって……","fr":"C'est la première fois que je viens ici, alors je me disais qu'une visite guidée m'aiderait à me repérer…"}
+{"id":1543807,"jp":"そういうことか！この子はただの案内じゃないぞ！\nフリスの領主の孫娘なのだ！","fr":"Ah, d'accord ! Tu sais qui te fait la visite ?\nLa petite-fille du seigneur de Fleece !"}
+{"id":1543808,"jp":"そ、そうだったの！？ごめんなさい！\nお手数をおかけします！","fr":"A-ah bon ?! Pardon !\nMerci de prendre le temps de me faire visiter !"}
+{"id":1543809,"jp":"そんなに緊張しないで！\n騎士さまにフリスを紹介できるなんて、光栄だよ！","fr":"Détends-toi !\nC'est un honneur de faire découvrir Fleece à une chevalière !"}
+{"id":1543810,"jp":"ほらほら挨拶はそこまで！そろそろ行くのだ～！","fr":"Allez, assez bavardé ! On y va !"}
 {"id":1543811,"jp":"いってらっしゃ～い！","fr":"Bonne route~ !"}
+{"id":1543812,"jp":"あっ……その手首の枷は……","fr":"Oh… cette entrave à ton poignet…"}
+{"id":1543813,"jp":"う、ううん……！なんでもないの。","fr":"N-non, rien… ! Oublie."}
+{"id":1543814,"jp":"さあ、フリスで一番重要な施設――\n<color=#fed196>市庁舎</color>へようこそ！","fr":"Et voici le bâtiment le plus important de Fleece…\nBienvenue à l'<color=#fed196>hôtel de ville</color> !"}
+{"id":1543815,"jp":"すごく立派な建物だね……フリスじゅうの市民が入れそう。","fr":"C'est immense… Toute la population de Fleece pourrait tenir là-dedans."}
 {"id":1543816,"jp":"この像って……","fr":"Cette statue…"}
+{"id":1543817,"jp":"これは黄金と麦穂の化身であるキボ、<color=#fed196>『セレーシャ』</color>の像だよ。\nフリスではみんな<color=#fed196>『豊穣の女神』</color>って呼んでるの。","fr":"Voici la statue de <color=#fed196>« Celesha »</color>, la Kibo qui incarne l'or et les épis de blé.\nÀ Fleece, tout le monde l'appelle la <color=#fed196>« déesse de l'Abondance »</color>."}
+{"id":1543818,"jp":"黄金と麦穂はフリスのふたつの特色『貿易と農業』をも表してるんだよね。\nそれなら、セレーシャはフリスの象徴と言っても過言じゃないよね。","fr":"L'or et les épis représentent aussi ce qui fait vivre Fleece, le commerce et l'agriculture.\nDu coup, on peut dire que Celesha est le symbole de la ville."}
 {"id":1543819,"jp":"フリスの象徴……","fr":"Le symbole de Fleece…"}
+{"id":1543820,"jp":"だったらアイオリアンは？","fr":"Et l'Éolien, alors ?"}
+{"id":1543821,"jp":"伝説だと、フリスの象徴はアイオリアンじゃないの？","fr":"D'après la légende, c'est bien l'Éolien, le symbole de Fleece ?"}
+{"id":1543822,"jp":"そうだそうだ！フリスができたのはアイオリアンのおかげなのに\n功績が奪われてるのだ！","fr":"Mais oui ! Si Fleece existe, c'est grâce à l'Éolien !\nEt voilà qu'on lui vole tout le mérite !"}
 {"id":1543823,"jp":"フリスに来る旅行者さんはみんな疑問に思うみたいだけど。\n単純な理由でね……","fr":"Tous les voyageurs qui viennent à Fleece se posent la question, on dirait.\nLa raison est simple…"}
+{"id":1543824,"jp":"嵐のなかの謎の守護者よりも、豊穣と富のご利益をもたらしてくれる\nセレーシャのほうが信仰を集めやすいってだけなんだよ。\nセレーシャのほうがみんなの日常に近いから。","fr":"Les gens prient plus volontiers Celesha, qui leur apporte de bonnes récoltes et la prospérité,\nqu'un mystérieux gardien caché dans la tempête.\nIls voient tous les jours ce qu'ils doivent à Celesha."}
+{"id":1543825,"jp":"現金な住民たちなのだ……","fr":"Ils savent où est leur intérêt, les gens d'ici…"}
+{"id":1543826,"jp":"市庁舎はね、『豊穣の女神』にあやかって、\n『ハーベストホール』っていう別名もあるんだよ。","fr":"En l'honneur de la déesse de l'Abondance,\non appelle aussi l'hôtel de ville la Halle des Moissons."}
+{"id":1543827,"jp":"役所のお仕事ももちろんしてるけど。\nフリスで一番大きいホールもあるから、お祭りやイベントも全部ここでやるの。","fr":"C'est ici qu'on s'occupe des affaires de la ville, bien sûr.\nEt comme c'est la plus grande salle de Fleece, toutes les fêtes et les spectacles se passent ici."}
+{"id":1543828,"jp":"パーティーにオペラ、コンサート、そしてなんと言っても――","fr":"Des réceptions, des opéras, des concerts, et surtout…"}
+{"id":1543829,"jp":"スペシャルオークション！","fr":"La grande vente aux enchères !"}
+{"id":1543830,"jp":"そう！金麦穂カーニバルの最終日はここがオークション会場になるんだ。\n最近、おばあさまが忙しいのもその準備のため。","fr":"Oui ! Elle se tient ici le dernier jour du Carnaval de l'Épi doré.\nC'est pour ça que Grand-mère est si occupée en ce moment. Elle prépare la vente."}
+{"id":1543831,"jp":"どんなお宝が出るのか、ワクワクするのだ～","fr":"Quels trésors ils vont bien pouvoir vendre ? Lumi a trop hâte de voir ça…"}
+{"id":1543832,"jp":"目玉商品は当日まで秘密だけど\nおばあさまは毎朔、必ずラストを飾る品を用意してるよ。","fr":"Le clou de la vente reste secret jusqu'au jour même,\nmais à chaque lune, Grand-mère choisit une pièce qu'elle garde pour la fin."}
+{"id":1543833,"jp":"みんな口にはしないけど、なにより楽しみにしてるの。\n大当たりを引き当てるみたいなわくわくがあるよね！","fr":"Tout le monde attend ce moment-là, même si personne ne le dit.\nC'est comme quand tu te demandes si tu vas décrocher le gros lot !"}
+{"id":1543834,"jp":"うぅ～もうそわそわしてきたぞ！\n{playerName}、あたしたちも参加しよう！","fr":"Rien que d'y penser, Lumi ne tient plus en place !\n{playerName}, on participe, nous aussi !"}
+{"id":1543835,"jp":"ですが、オークションに使うようなお金は……\n参加されるのは皆さん、地位の高い方ばかりでしょうし。","fr":"Il faudrait déjà en avoir les moyens…\nJ'imagine que seuls les gens haut placés enchérissent à ce genre de vente."}
+{"id":1543836,"jp":"それもそうか……\nはぁ、外の世界はやっぱり金と権力か……","fr":"Oui, c'est vrai…\nPfff… Dans le monde extérieur, tout se joue encore à l'argent et au pouvoir…"}
+{"id":1543837,"jp":"ふふ、オークションに参加できなくても、\n雰囲気を味わうだけで十分楽しめるでしょう。","fr":"Hi hi, on peut très bien s'amuser à regarder la vente.\nRien que pour l'ambiance, ça vaut le détour."}
+{"id":1543838,"jp":"あはは……そうだね、実はオークションに出される品って、\nわたしも価値がよくわからなかったりするんだ。","fr":"Ah ah… oui, c'est vrai. Même moi, il m'arrive de me demander\nce que valent les objets qu'on met aux enchères."}
+{"id":1543839,"jp":"オークションよりも中央広場のマルシェの方がおすすめだよ。\nあそこに並ぶ商品はどれも独特で、しかも安く手に入るから。","fr":"Si vous voulez faire des trouvailles, je vous conseille le marché de la place centrale.\nOn y déniche des choses qu'on ne trouve nulle part ailleurs, et pour pas cher."}
+{"id":1543840,"jp":"それに、ロージア帝国のゴーヤ商会と辰王朝の天江商会のお店も\n近くにあるからね。","fr":"Les boutiques de la compagnie Goyard, de l'Empire de Rosia, et de la Compagnie Tianjiang, de la dynastie Chen,\nsont tout près, elles aussi."}
+{"id":1543841,"jp":"どちらもフリスと国境を接してる大国だから、商売も盛んなんだ。\n興味があったら行ってみてね。","fr":"Ce sont deux grandes puissances qui ont une frontière avec Fleece, alors les échanges vont bon train.\nSi ça te dit, va faire un tour dans leurs boutiques."}
+{"id":1543842,"jp":"ロージア帝国のお店は……\nわたしは、その……遠慮しておくね。故郷のものばかりだし。","fr":"La boutique de l'Empire de Rosia…\nJe vais, euh… passer mon tour. Ils ne vendent que des choses de chez moi."}
+{"id":1543843,"jp":"でも、広場のほうはおもしろそう。行ってみたいな……","fr":"Mais la place a l'air sympa. J'aimerais bien y faire un tour…"}
+{"id":1543844,"jp":"そうだね……市庁舎はいまは閑散としてるし、\n案内することもそんなにないから、広場に行こう。","fr":"Oui… L'hôtel de ville est plutôt calme en ce moment,\net il ne reste pas grand-chose à te montrer. Allons sur la place."}
+{"id":1543845,"jp":"どうかしたのか？さっきからきょろきょろして。","fr":"Qu'est-ce qu'il y a ? Tu regardes partout depuis tout à l'heure."}
+{"id":1543846,"jp":"なんか……だれかに見られてるような……","fr":"J'ai comme l'impression… que quelqu'un nous observe…"}
+{"id":1543847,"jp":"ええっ！？つけられてるってことか！？","fr":"Hein ?! Tu veux dire qu'on nous suit ?!"}
+{"id":1543848,"jp":"うん、そんな気がする。どうにかしておびき出そう。","fr":"Ouais, j'en ai l'impression. Faut trouver un moyen de faire sortir cette personne de sa cachette."}
+{"id":1543849,"jp":"わかりました。不審者に目を光らせておきます。","fr":"Entendu. J'ouvrirai l'œil au cas où quelqu'un aurait un comportement suspect."}
+{"id":1543850,"jp":"ありがとう。シンフォーリア。","fr":"Merci, Symphoria."}
+{"id":1543851,"jp":"ここがフリスの中央広場だよ。\n大陸中からいろんな商品が集まってくるの。","fr":"Voilà la place centrale de Fleece.\nOn y trouve des marchandises de tout le continent."}
+{"id":1543852,"jp":"野菜に日用品、武器に防具まで。\nこの広場のマルシェになんでも揃ってるよ。","fr":"Des légumes, de quoi équiper la maison, et même des armes et des armures.\nAu marché de la place, tu trouves de tout."}
+{"id":1543853,"jp":"それに買いものが終わったら食事もできるの。\n周りにはレストランやお菓子屋さんも……","fr":"Et après les courses, tu peux manger un morceau.\nTout autour de la place, il y a des restaurants et des boutiques de friandises…"}
 {"id":1543854,"jp":"ついてきてるね……","fr":"Ils nous suivent encore…"}
+{"id":1543855,"jp":"だれだっていい。ぶっ飛ばしてやるのだ！","fr":"Peu importe qui c'est. La grande Lumi va l'envoyer valser !"}
 {"id":1543856,"jp":"アビィ！？","fr":"Abby !?"}
+{"id":1543857,"jp":"なーんだ、尾行してたのはアビィだったのか……","fr":"Ah, c'était Abby qui nous suivait…"}
 {"id":1543858,"jp":"びこう……？","fr":"Bi… kou… ?"}
+{"id":1543859,"jp":"アビィ、どうして隠れていたのですか？\n普通に声をかけてくれればよかったのに。","fr":"Abby, pourquoi vous cachiez-vous ?\nVous pouviez tout simplement nous appeler."}
+{"id":1543860,"jp":"どーしたのだ？もしかして、なにか悪いことでもしたのか？\n大丈夫だぞ、怒ったりしないのだ。","fr":"Qu'est-ce qu'il y a ? T'as fait une bêtise ?\nTu peux le dire à Lumi, elle ne te grondera pas."}
+{"id":1543861,"jp":"もしかして、おなかがすいてるの？","fr":"Tu aurais pas faim, par hasard ?"}
+{"id":1543862,"jp":"この子はアビィ。僕たちの仲間だよ。|この子はアビィ。私たちの仲間だよ。","fr":"Je te présente Abby. Elle est avec nous.|Je te présente Abby. Elle est avec nous."}
+{"id":1543863,"jp":"アビィ……この子って、もしかして竜人！？","fr":"Abby… Attends, c'est une Draconienne ?!"}
+{"id":1543864,"jp":"アビィ、おなかぐーぐーする。","fr":"Le ventre d'Abby fait grou grou."}
+{"id":1543865,"jp":"わかったわかった。食べものを買いに行こっか。","fr":"D'accord, d'accord. On va t'acheter à manger."}
 {"id":1543866,"jp":"お菓子屋さんはどう？","fr":"Et la pâtisserie, ça te dit ?"}
+{"id":1543867,"jp":"あ、でも、お菓子じゃおなかいっぱいにならないかな……","fr":"Ah, mais avec des bonbons, elle risque d'avoir encore faim…"}
+{"id":1543868,"jp":"あっちにパン屋さんがあるから、見てみようか。","fr":"Il y a une boulangerie là-bas. On va voir ?"}
+{"id":1543869,"jp":"うぅ、相手にしてくれない！","fr":"Pfff… Personne m'écoute !"}
+{"id":1543870,"jp":"わあ！ここ、いろんな種類のパンがあるね！","fr":"Waouh ! Y a plein de sortes de pain ici !"}
+{"id":1543871,"jp":"ぜんぶ、おいしそう……","fr":"Tout a l'air trop bon…"}
+{"id":1543872,"jp":"いらっしゃいませ。なにをお求めですか？","fr":"Bonjour ! Qu'est-ce que je te sers ?"}
+{"id":1543873,"jp":"いちばん、おっきいの。","fr":"Le plus gros."}
+{"id":1543874,"jp":"ホールケーキは900ユニですが……\nひと切れ250ユニで販売しています。","fr":"Le gâteau entier coûte 900 Uni…\nJe le vends aussi à la part, à 250 Uni."}
 {"id":1543875,"jp":"ユニ……？","fr":"Uni… ?"}
+{"id":1543876,"jp":"えっと……お客さま、ユニはご存じですよね？","fr":"Euh… tu sais ce que c'est, les Uni, hein ?"}
 {"id":1543877,"jp":"取引に使う通貨。","fr":"La monnaie des échanges."}
+{"id":1543878,"jp":"貝殻しか持ってない……","fr":"J'ai que des coquillages…"}
+{"id":1543879,"jp":"ははは、よかった！\n知らないはずがありませんよね。","fr":"Ah ah, tant mieux !\nÉvidemment que tu connais les Uni."}
+{"id":1543880,"jp":"まあ、ユニを別の名前で呼ぶお客さまも、よく見かけますよ。","fr":"Cela dit, j'ai souvent des clients qui donnent un autre nom aux Uni."}
+{"id":1543881,"jp":"すみません。貝殻しか持ってなくて……","fr":"Pardon, j'ai que des coquillages…"}
+{"id":1543882,"jp":"貝殻、ですか？\n当店は物々交換はしていませんので、お支払いはユニでお願いします。","fr":"Des coquillages ?\nJe ne fais pas de troc ici. Il faut payer en Uni."}
+{"id":1543883,"jp":"ここは私が。{playerName}さまは芽吹の谷から出たばかりですから、\nユニを持っていないのは当然のことです。","fr":"Je vais payer. Vous venez tout juste de quitter la Vallée des Bourgeons, {playerName}.\nC'est normal que vous n'ayez pas encore d'Uni."}
+{"id":1543884,"jp":"ヒモにはなりたくない！","fr":"Je veux pas vivre à tes crochets !"}
+{"id":1543885,"jp":"アビィは僕が幸せにしたい！|アビィは私が幸せにしたいの！","fr":"C'est moi qui veux faire plaisir à Abby !|C'est moi qui veux faire plaisir à Abby !"}
+{"id":1543886,"jp":"ひも？なんだそれは？\n買うのはひもじゃなくてケーキだぞ……","fr":"À ses crochets ? C'est quoi, ça ?\nOn est venus acheter un gâteau, pas des crochets…"}
+{"id":1543887,"jp":"その執念、なんか怖いのだ……","fr":"Tu fais un peu peur à Lumi, à t'acharner comme ça…"}
+{"id":1543888,"jp":"店主！この貝殻はすごく由緒正しいものなんだ！ほら、キラキラしていて形も一級品じゃない？|店主！この貝殻はすごく由緒正しいものなの！ほら、キラキラしていて形も一級品でしょ？","fr":"Patron ! Ce coquillage a toute une histoire ! Regarde comme il brille. Et cette forme, tu trouves pas qu'elle est parfaite ?|Patron ! Ce coquillage a toute une histoire ! Regarde comme il brille. Et cette forme, elle est parfaite, tu trouves pas ?"}
+{"id":1543889,"jp":"たしかに綺麗ですが……\n現金以外のお支払いは受け付けていなくて……","fr":"C'est vrai qu'il est beau…\nMais je prends seulement les espèces…"}
+{"id":1543890,"jp":"ルミィ！この貝殻に風の大妖精の加護をつけて。\nレアものにしよう！","fr":"Lumi ! Donne à ce coquillage la bénédiction de la Grande Fée du vent.\nOn va en faire un objet Rare !"}
+{"id":1543891,"jp":"妖精の力をそんなことに使わせるんじゃなーい！","fr":"Les pouvoirs de la grande Lumi servent pas à ça !"}
+{"id":1543892,"jp":"あはは、フリスの大切なお客さまに支払わせるわけにいかないよ！","fr":"Ah ah ! Tu es l'hôte de Fleece, je vais quand même pas te laisser payer !"}
+{"id":1543893,"jp":"ほら、アビィちゃん。お姉ちゃんが買ってあげるね。","fr":"Allez, Abby. Ta grande sœur va te l'acheter."}
+{"id":1543894,"jp":"お姉ちゃん……？待てまて、竜人は見た目よりも……","fr":"Ta grande sœur… ? Attends un peu, les Draconiens sont plus âgés qu'ils en ont l'air…"}
+{"id":1543895,"jp":"細かいことはいいの！\nアビィちゃん、お姉ちゃんって呼んでくれれば、なんでも買ってあげるからね！","fr":"Oh, tu chipotes !\nAbby, appelle-moi « grande sœur » et je t'achète tout ce que tu veux !"}
+{"id":1543896,"jp":"うん、お姉ちゃん、いちばんおっきいの、ほしい。","fr":"Oui, grande sœur. Abby veut le plus gros."}
+{"id":1543897,"jp":"はい！毎度ありがとうございます！","fr":"Tout de suite ! Merci beaucoup !"}
 {"id":1543898,"jp":"どうかな？おいしい？","fr":"Alors, c'est bon ? Délicieux ?"}
 {"id":1543899,"jp":"おいひい！","fr":"Mmm, délicieux !"}
+{"id":1543900,"jp":"アビィ……流されやすすぎるのだ。","fr":"Abby… Il suffit de te promettre un gâteau et tu dis oui à tout."}
+{"id":1543901,"jp":"でも、たしかにいいにおいがするな！こっちまで食べたくなってくるのだ……","fr":"Cela dit, qu'est-ce que ça sent bon ! Ça donne envie à Lumi aussi…"}
 {"id":1543902,"jp":"ルミィさんもどうぞ！","fr":"Lumi, prenez-en aussi !"}
 {"id":1543903,"jp":"じゃあ遠慮なく……","fr":"Alors sans façon…"}
+{"id":1543904,"jp":"こらこら、アビィ！ひと口で食べるんじゃない！","fr":"Hé, doucement, Abby ! Avale pas tout d'un coup !"}
 {"id":1543905,"jp":"おなかいっぱい。","fr":"Le ventre plein."}
 {"id":1543906,"jp":"うとうとする……","fr":"J'ai sommeil…"}
+{"id":1543907,"jp":"うぅ……ひと口くらい残してほしかったのだ……\nそれに、街なかで眠るのはだーめ！","fr":"Oh… T'aurais pu laisser au moins une bouchée à Lumi…\nEt on dort pas en pleine rue !"}
+{"id":1543908,"jp":"みんな、遠慮しないで。もうすこし買おうか？","fr":"Si vous en voulez, dites-le ! On en reprend un peu ?"}
+{"id":1543909,"jp":"うぅ……お金がなくてつらい。なんとかして稼がないと……","fr":"Pfff… C'est dur d'avoir les poches vides. Faut que je trouve un moyen de gagner de l'argent…"}
+{"id":1543910,"jp":"うーん、フリスでお金を稼ぐ方法はいろいろあるけど……\n商売したいならまずは許可証がないとね。","fr":"Hm… À Fleece, il y a plein de façons de gagner de l'argent…\nMais si tu veux faire du commerce, il te faut d'abord un permis."}
 {"id":1543919,"jp":"コムギさん！","fr":"Komugi !"}
 {"id":1543922,"jp":"じ……実は……","fr":"E-en fait…"}
 {"id":1543956,"jp":"坑道の警備員","fr":"Garde de la galerie de mine"}
@@ -50051,24 +50171,124 @@
 {"id":1551093,"jp":"ここで死ぬか、運よくだれかに助けられるか。\nでも仮に助かったとしても、チームから追い出される運命からは逃れられない……","fr":"Soit je meurs ici, soit quelqu'un vient me sauver par miracle.\nMais même si je m'en sors, je n'échapperai pas à mon exclusion de l'équipe…"}
 {"id":1551094,"jp":"僕の人生、もう全部台無しだ……","fr":"Ma vie est complètement fichue…"}
 {"id":1551095,"jp":"君たちには僕の気持ちなんて絶対に理解できないだろうね……\n君たちのせいで、僕の人生はこんなことになったんだ。","fr":"Vous ne pourrez jamais comprendre ce que je ressens…\nC'est à cause de vous que ma vie a pris cette tournure."}
+{"id":1551096,"jp":"君たち……本当に楽しそうに飛んでるね。","fr":"Vous avez vraiment l'air de vous amuser là-haut…"}
+{"id":1551097,"jp":"はやく諦めたほうがいいよ、君にはまだ早いんだから。\nっていうか、そんなに空に飛びたいの？","fr":"Tu ferais mieux d'abandonner, il est encore trop tôt pour toi.\nDis-moi, tu as vraiment envie de voler à ce point ?"}
+{"id":1551098,"jp":"そういえば、僕も昔は……","fr":"Maintenant que j'y pense, autrefois, moi aussi…"}
+{"id":1551099,"jp":"「やった！採用だ、採用されたんだ！\nずっと憧れてた飛空船開発チームに採用されたんだ！」","fr":"« Génial ! Ils m'ont pris, ils m'ont vraiment pris !\nJe vais enfin intégrer cette équipe de conception de dirigeables dont je rêvais depuis si longtemps ! »"}
+{"id":1551100,"jp":"「なんでもいい、とにかくなにかを成し遂げる！成果を出すんだ！\n見たことのないようなものを造り上げてみせる！」","fr":"« Peu importe ce que je ferai, il faut que j'accomplisse quelque chose de grand ! Je vais leur montrer de quoi je suis capable !\nJe construirai quelque chose que personne n'a jamais vu ! »"}
+{"id":1551101,"jp":"「空を自由に飛び回る、見たことのない飛空船を造り上げるんだ！」","fr":"« Je vais construire un dirigeable comme il n'en existe aucun autre, capable de parcourir librement le ciel ! »"}
+{"id":1551102,"jp":"チームに加わったばかりのころは、あんなに楽しかったのに。","fr":"J'étais pourtant tellement heureux quand j'ai rejoint cette équipe."}
+{"id":1551103,"jp":"いつから、空を見上げるのがめちゃくちゃ憂鬱なことになったんだろう……","fr":"Depuis quand est-ce que lever les yeux vers le ciel me déprime autant… ?"}
 {"id":1551104,"jp":"僕もまた、一から……","fr":"Moi aussi, je repars de zéro…"}
+{"id":1551105,"jp":"やっと目を覚ましたね、{playerName}。","fr":"Ah, vous ouvrez enfin les yeux, {playerName}."}
+{"id":1551106,"jp":"僕たちはどうやって……|私たちはどうやって……","fr":"Comment est-ce qu'on a pu… ?|Comment est-ce qu'on a pu… ?"}
 {"id":1551107,"jp":"ここは風隠れ岩だ。","fr":"Ici, c'est le Roc Coupe-Vent."}
+{"id":1551108,"jp":"スカイホークがふたりをここに連れてきたんだ。","fr":"C'est un Skyhawk qui vous a amenés ici, tous les deux."}
+{"id":1551109,"jp":"私はキアラ、翼衛戦士隊の隊長だ。","fr":"Je suis Kiara, capitaine des guerriers de la Garde ailée."}
+{"id":1551110,"jp":"規則では領地内への部外者の立ち入りは禁じられている。\nだが、おまえたちはスカイホークに認められた。\nよって、我々が止めることはない。","fr":"Notre règlement interdit aux étrangers de pénétrer sur notre territoire.\nCependant, le Skyhawk vous a accordé sa confiance.\nNous ne nous opposerons donc pas à votre présence."}
+{"id":1551111,"jp":"スカイホークに認められ……あの子が助けてくれたんだ。|スカイホークに認められ……あの子が助けてくれたの。","fr":"Il nous a accordé sa confiance… Alors, c'est lui qui nous a sauvés.|Il nous a accordé sa confiance… Alors, c'est lui qui nous a sauvés."}
+{"id":1551112,"jp":"どうやらそうみたい。僕たちを連れ去っておいて、また助けてくれるなんて……\nいったいなにを考えてるのか、さっぱりわからないよ。","fr":"On dirait bien. D'abord, il nous enlève, et ensuite, il vient à notre secours…\nJe n'arrive vraiment pas à comprendre ce qui lui passe par la tête."}
+{"id":1551113,"jp":"スカイホークは考えもせずに動くようなキボではない。\nきっと彼らなりの考えがあるはずだ。","fr":"Les Skyhawks ne sont pas des Kibo qui agissent sans réfléchir.\nIls ont certainement leurs propres raisons d'agir ainsi."}
+{"id":1551114,"jp":"それで、どうしてここへ来たの？\nシャルル村の住民でもなさそうだけど。","fr":"D'ailleurs, qu'est-ce qui vous amène ici ?\nVous ne semblez pas être originaires du Village de Charlulu."}
+{"id":1551115,"jp":"スカイホークを観察しに来たんだ。\n彼らを参考に、飛空船の装置を作りたいと思って。","fr":"Je suis venu observer les Skyhawks.\nJ'aimerais m'inspirer d'eux pour concevoir un dispositif destiné à un dirigeable."}
+{"id":1551116,"jp":"「ひくうせん」というのは……なんだ？","fr":"Un « dirigeable »… De quoi s'agit-il ?"}
+{"id":1551117,"jp":"僕たちが大空を飛ぶための道具だよ。\nほら、君たちのような翼を僕たちは持ってないだろ？","fr":"C'est une machine qui nous permet de parcourir le ciel.\nTu vois, contrairement à vous, nous n'avons pas d'ailes."}
+{"id":1551118,"jp":"でも、この空を飛びたいという願いは、制限されるべきではないはずだ。\n空っていうのは、そうやって人々を惹きつけ、夢を羽ばたかせる場所なんだから。","fr":"Mais ce n'est pas une raison pour renoncer au rêve de voler.\nAprès tout, le ciel est fait pour nous émerveiller et donner des ailes à nos rêves."}
+{"id":1551119,"jp":"ここでスカイホークと出会ったことで、僕はやりたかったことを思い出したよ。","fr":"Ma rencontre avec les Skyhawks m'a rappelé ce que je voulais vraiment accomplir."}
+{"id":1551120,"jp":"そうか……\nふっ、だとしたらスカイホークはおそらくそのことを見抜いたのだろう。","fr":"Je vois…\nHéhé, dans ce cas, le Skyhawk a probablement su voir cette aspiration en vous."}
+{"id":1551121,"jp":"スカイホークは空を愛し、同じく空を愛する者から敬愛されている。","fr":"Les Skyhawks aiment le ciel et sont vénérés par ceux qui partagent cet amour."}
+{"id":1551122,"jp":"おまえは飛ぶことに憧れ、空を愛している。\n彼らはおそらく、その情熱に心を動かされ、手を差し伸べてくれたのだろう。","fr":"Vous rêvez de voler et vous aimez profondément le ciel.\nVotre passion les a probablement touchés, et c'est pourquoi ils vous sont venus en aide."}
+{"id":1551123,"jp":"つまりスカイホークは……","fr":"Alors, le Skyhawk…"}
+{"id":1551124,"jp":"たしかに、巣のなかでの経験があったからこそ、ライトは情熱を取り戻せた。さっきだって……","fr":"C'est vrai que cette expérience dans le nid a permis à Wright de retrouver sa passion. Même tout à l'heure…"}
+{"id":1551125,"jp":"おまえは認められたんだ――空を愛する仲間として、な。","fr":"À leurs yeux, vous faites désormais partie de ceux qui partagent leur amour du ciel."}
+{"id":1551126,"jp":"スカイホークが、僕を仲間として見てくれた……","fr":"Les Skyhawks me considèrent comme l'un des leurs…"}
+{"id":1551127,"jp":"よかったな、ライト。スカイホークもきみを助けてくれたんだ。\nきっと素晴らしい飛空船を作れるはずだよ。|よかったね、ライト。スカイホークもきみを助けてくれたんだし。\nきっと素晴らしい飛空船を作れるはずだよ。","fr":"C'est une excellente nouvelle, Wright ! Tu as même reçu l'aide des Skyhawks.\nTu vas certainement réussir à construire un dirigeable extraordinaire.|Je suis vraiment de tout cœur avec toi, Wright ! Les Skyhawks eux-mêmes t'ont apporté leur aide.\nTu vas certainement réussir à construire un dirigeable extraordinaire."}
+{"id":1551128,"jp":"そうだな、ありがとう！それじゃ、急いでフリスに戻らないとね！\nこの気持ちが冷めないうちに、設計図をつかって飛空船を作らないと！","fr":"Tu as raison, merci ! Il faut que je retourne à Fleece au plus vite !\nTant que cette passion brûle encore en moi, il faut que je donne vie à mes plans et que je construise ce dirigeable !"}
+{"id":1551129,"jp":"領地の出口を案内しよう。ついてくるんだ。","fr":"Je vais vous montrer la sortie de notre territoire. Suivez-moi."}
+{"id":1551130,"jp":"じゃあ、ここでお別れだね。","fr":"Eh bien, c'est ici que nos chemins se séparent."}
+{"id":1551131,"jp":"フリスに戻ったら、飛空船を完成させてみせるよ。へへっ、楽しみだ。","fr":"Dès mon retour à Fleece, je terminerai mon dirigeable, tu verras ! Héhé, j'ai tellement hâte !"}
+{"id":1551132,"jp":"はじめて会ったときとぜんぜん違うね。まるで別人みたいだよ。","fr":"Tu as tellement changé depuis notre première rencontre. On dirait une autre personne."}
+{"id":1551133,"jp":"ま、前の僕はかなり辛い状況だったからさ。ほら、いろんな意味で……","fr":"E-En même temps, je traversais une période assez difficile. À bien des égards, tu vois…"}
+{"id":1551134,"jp":"もしフリスに来る機会があったら、必ず僕のところに来てよ。\nお礼として、僕の飛空船に乗せてあげるから！","fr":"Si tu as un jour l'occasion de venir à Fleece, surtout, passe me voir !\nPour te remercier, je t'emmènerai faire un tour à bord de mon dirigeable !"}
+{"id":1551135,"jp":"ああ、楽しみにしてるよ。|うん、楽しみにしてるよ。","fr":"Oui, j'ai hâte de voir ça.|Oui, j'ai hâte de voir ça."}
 {"id":1551136,"jp":"白いスカイホーク","fr":"Skyhawk blanc"}
+{"id":1551137,"jp":"見て！白いスカイホーク！","fr":"Regarde ! Un Skyhawk blanc !"}
 {"id":1551138,"jp":"やっぱり吉兆だよね！","fr":"C'est vraiment de bon augure !"}
 {"id":1551139,"jp":"スカイホーク……","fr":"Skyhawk…"}
+{"id":1551140,"jp":"また君に会いに来るよ！\nそのときは、いっしょにこの空を飛び回ろう！","fr":"Je reviendrai te voir !\nEt cette fois, on parcourra le ciel ensemble !"}
+{"id":1551141,"jp":"同じ空を愛する仲間としてね！","fr":"En amis qui partagent le même amour du ciel !"}
+{"id":1551142,"jp":"ライトはあなたとともに飛び降り、絶妙なタイミングでパラシュートを開いた。","fr":"Vous avez sauté dans le vide avec Wright, qui a déployé son parachute au moment idéal."}
+{"id":1551143,"jp":"だが、思うようにはいかなかった。\nパラシュートの布がすこしずつ裂け、ついに穴が開くと、\nふたりは一気に落下した。","fr":"Mais les choses ne se sont pas déroulées comme prévu.\nLa toile du parachute s'est peu à peu déchirée, jusqu'à ce qu'un trou se forme.\nVous avez alors tous les deux chuté à toute vitesse."}
+{"id":1551144,"jp":"命の危機が迫るなか、スカイホークがふたりを掴んだ。\n突然の危険と救出に、ふたりは気を失った。","fr":"Alors que vos vies étaient en danger, un Skyhawk vous a rattrapés.\nSous le choc de cette chute et de ce sauvetage soudain, vous avez tous les deux perdu connaissance."}
+{"id":1551145,"jp":"スカイホークはふたりを連れて、安全な地上に向かった……","fr":"Le Skyhawk vous a alors transportés jusqu'à la terre ferme, à l'abri du danger…"}
 {"id":1551146,"jp":"ちっ、いい度胸だ。","fr":"Tss, tu as du cran."}
 {"id":1551147,"jp":"ガル……","fr":"Garr…"}
+{"id":1551148,"jp":"来るのか？なら相手をしよう。","fr":"Tu veux te mesurer à moi ? Très bien, allons-y."}
+{"id":1551149,"jp":"（あのひと……ガルティガーに襲われている？）","fr":"(Cette personne… Elle se fait attaquer par un Galtiger ?)"}
 {"id":1551150,"jp":"ガウ？","fr":"Gau ?"}
+{"id":1551151,"jp":"ああ、すみません。きっと誤解されたのですね。\nこの子が私を攻撃していると思ったのでしょう？","fr":"Oh, veuillez m'excuser. Il y a certainement eu un malentendu.\nVous avez cru que ce petit m'attaquait, n'est-ce pas ?"}
+{"id":1551152,"jp":"自己紹介します。私はスーザン、森番です。","fr":"Permettez-moi de me présenter. Je m'appelle Susan, je suis garde forestière."}
+{"id":1551153,"jp":"いまはこの子の放帰前のリハビリ訓練に付き添っているところです。","fr":"J'accompagne actuellement ce petit dans ses exercices de réadaptation, avant sa remise en liberté."}
 {"id":1551154,"jp":"放帰？","fr":"Remis en liberté ?"}
 {"id":1551155,"jp":"リハビリ？","fr":"Rééducation ?"}
+{"id":1551156,"jp":"はい。以前、罠にかかってしまい、私たちが連れ帰って治療しました。\n回復が順調なら、山林へ帰すことができます。","fr":"Oui. Il était tombé dans un piège il y a quelque temps, alors nous l'avons recueilli pour le soigner.\nSi sa guérison se poursuit normalement, nous pourrons le relâcher dans la forêt."}
 {"id":1551157,"jp":"ガルゥ……","fr":"Garuu…"}
+{"id":1551158,"jp":"なるほど、それで攻撃動作をたしかめていたんだね……","fr":"Je comprends mieux. C'est pour ça que tu vérifiais ses mouvements d'attaque…"}
+{"id":1551159,"jp":"よろしければ、ご一緒しませんか？私の勘が告げています。\nあなたは戦いの道にかなり精通した方だと！","fr":"Si cela vous tente, pourquoi ne pas vous joindre à nous ? Mon instinct me dit\nque vous maîtrisez particulièrement bien l'art du combat !"}
+{"id":1551160,"jp":"見事な戦いでした……\nこの子も多くの戦闘技術を学べたはずです。","fr":"Quel magnifique combat…\nCe petit a certainement appris beaucoup de techniques en vous affrontant."}
+{"id":1551161,"jp":"うん、あなたをあそこまで追い込めるなら、\n回復具合はよさそうですね。","fr":"Oui, s'il est capable de vous mettre autant en difficulté,\nc'est que sa guérison progresse bien."}
+{"id":1551162,"jp":"ただ……もうひとつ問題があります。","fr":"Seulement… Il reste encore un problème."}
+{"id":1551163,"jp":"回復ははやいのですが……\n備蓄していた傷薬ももうすぐ尽きてしまいそうなんです。","fr":"Il se rétablit rapidement, mais…\nNos réserves de remèdes pour soigner ses blessures sont presque épuisées."}
+{"id":1551164,"jp":"「XX草」をいくつか採集してきてもらえませんか？","fr":"Pourriez-vous aller me cueillir quelques « herbes XX » ?"}
+{"id":1551165,"jp":"もちろん、私たち森番は、ただ働きなど絶対にさせません！","fr":"Bien entendu, nous autres, gardes forestiers, ne vous demanderons jamais de travailler gratuitement !"}
 {"id":1551166,"jp":"ユニに免じて。","fr":"En faveur des Uni."}
+{"id":1551167,"jp":"ガルティガーに免じて。","fr":"C'est bien pour le Galtiger."}
+{"id":1551168,"jp":"本当にありがとうございます！では、ご武運を。","fr":"Merci infiniment ! Je vous souhaite bonne chance."}
+{"id":1551169,"jp":"これだけ採集すれば十分かな……\n待って、あそこになにか痕跡がある？","fr":"Ça devrait suffire…\nAttends, il y a une Trace là-bas ?"}
+{"id":1551170,"jp":"長靴の足跡、犬のような爪跡、それから……灰。","fr":"Des empreintes de bottes, des marques de griffes semblables à celles d'un chien, et puis… des cendres."}
+{"id":1551171,"jp":"いったいどんな者が、こんな場所で勝手に火を焚くんだ？","fr":"Qui irait allumer un feu sans autorisation dans un endroit pareil ?"}
+{"id":1551172,"jp":"顔色があまりよくありませんね。猛獣にでも遭いましたか？","fr":"Vous n'avez pas très bonne mine. Avez-vous croisé une bête sauvage ?"}
 {"id":1551173,"jp":"実は、状況は……","fr":"En fait, la situation est…"}
+{"id":1551174,"jp":"ふむ……つまり、不法者らしき痕跡を見つけたが、正面から遭遇はしていない、ということですね？","fr":"Hmm… Vous avez donc découvert des Traces probablement laissées par des malfaiteurs, sans toutefois les rencontrer directement, c'est bien cela ?"}
 {"id":1551175,"jp":"そのとおり。","fr":"C'est exact."}
+{"id":1551176,"jp":"はあ、ある意味では不幸中の幸いとも言えます。","fr":"Ouf… On peut dire que c'est un mal pour un bien."}
+{"id":1551177,"jp":"ご存じないかもしれませんが、密猟者のなかには凶悪で残忍な者もいて、\n私たち森番のことさえ眼中にありません。","fr":"Vous l'ignorez peut-être, mais certains braconniers sont particulièrement cruels et violents.\nIls ne craignent même pas les gardes forestiers."}
+{"id":1551178,"jp":"僕は星臨者だよ。|私は星臨者だよ。","fr":"Je suis l'Enfant des étoiles, tu sais.|Je suis l'Enfant des étoiles, tu sais."}
+{"id":1551179,"jp":"僕は{playerName}だよ。|私は{playerName}だよ。","fr":"C'est moi, {playerName}, tu sais.|C'est moi, {playerName}, tu sais."}
+{"id":1551180,"jp":"えっ？ええ……あなたの実力はもちろん信じていますが、\nそれでも用心するに越したことはありません。","fr":"Hein ? Oui, bien sûr… Je ne doute absolument pas de vos capacités,\nmais on n'est jamais trop prudent."}
+{"id":1551181,"jp":"とにかく、つぎに彼らの痕跡を見つけても、直接ぶつかる必要はありません。\n私たち森番か、街の保安官に報告してください。","fr":"Quoi qu'il en soit, si vous découvrez de nouvelles Traces de leur passage, inutile de les affronter directement.\nSignalez-les aux gardes forestiers ou au shérif de la ville."}
+{"id":1551182,"jp":"たとえいま人手が足りなくても、あなたを危険にさらす理由にはなりません。","fr":"Même si nous manquons actuellement de personnel, ce n'est pas une raison pour vous exposer au danger."}
+{"id":1551183,"jp":"（どうやら状況は本当に深刻みたいだ……注意しておこう）","fr":"(La situation semble vraiment sérieuse… Je ferai attention.)"}
 {"id":1551184,"jp":"（灯りが、消えた？）","fr":"(Les lumières se sont éteintes ?)"}
+{"id":1551185,"jp":"み、みんな怖がるな。一緒にかかれ！","fr":"N-N'ayez pas peur, les gars ! Attaquons tous ensemble !"}
+{"id":1551186,"jp":"相手はひとりだけだ。俺たちは勝てる！","fr":"On est plusieurs contre un seul adversaire ! On peut gagner !"}
 {"id":1551187,"jp":"うう、負けた……","fr":"Ugh, on a perdu…"}
 {"id":1551188,"jp":"赤蠍団の幹部","fr":"Cadre des Scorpions rouges"}
+{"id":1551189,"jp":"【実装対象外／【P3】弗利斯_长支线_林中歧途 拆分迭代.xlsx】\n","fr":"【Non destiné à être implémenté／【P3】弗利斯_长支线_林中歧途 拆分迭代.xlsx】\n"}
+{"id":1551190,"jp":"いや、だれを悪党って言ってるの？","fr":"Attends, qui est-ce que tu traites de bandit, là ?"}
+{"id":1551191,"jp":"ほかにだれがいるってんだ！？もちろん――","fr":"Qui d'autre, à ton avis !? Évidemment que…"}
+{"id":1551192,"jp":"親分、俺たちの負けってことでいいだろ？","fr":"Chef, on peut reconnaître notre défaite, non ?"}
+{"id":1551193,"jp":"あんたはこんなに強いし、手口もえげつない。\n罠を仕掛ける、挟み罠を置く、煙でいぶす、火で焼く、なんでもありだ。\n俺たちみたいなのから飯の種を奪う必要はないだろ……","fr":"Avec toute ta force et tes méthodes impitoyables…\nLes pièges, les mâchoires de fer, la fumée, le feu, tous les coups sont permis avec toi.\nTu n'as quand même pas besoin de priver des types comme nous de leur gagne-pain…"}
+{"id":1551194,"jp":"密猟者のお前たちは、いったいなにを言いたいんだ？","fr":"Vous êtes des braconniers, non ? Où voulez-vous en venir, exactement ?"}
 {"id":1551195,"jp":"密猟者……俺たちが？","fr":"Des braconniers… nous ?"}
+{"id":1551196,"jp":"あれをやったのは、お前たちじゃないの？","fr":"Ce n'est pas vous qui avez fait tout ça ?"}
+{"id":1551197,"jp":"いやいや、濡れ衣だ！俺たちにそんな腕はない。","fr":"Mais non, on nous accuse à tort ! On n'a pas les compétences pour faire des trucs pareils."}
+{"id":1551198,"jp":"正直に言うと、俺たちはよく林区で薬草を集めているが、\nキボを密猟したことなんて一度もない。","fr":"Pour tout te dire, on va souvent ramasser des plantes médicinales dans le secteur forestier,\nmais on n'a jamais braconné le moindre Kibo."}
+{"id":1551199,"jp":"それに、最近キボの動きがかなりおかしいんだ。\nずっとあっちへこっちへ走り回って、まるで足が地につかないみたいで、\n俺たちじゃ全然追いつけない！","fr":"Et puis, ces derniers temps, les Kibo se comportent vraiment bizarrement.\nIls courent sans arrêt dans tous les sens, comme s'ils étaient incapables de tenir en place.\nImpossible pour nous de les suivre !"}
+{"id":1551200,"jp":"（たしかに、それも一理ある……）","fr":"(Ce n'est pas faux…)"}
+{"id":1551201,"jp":"（それに、彼らは火種も灯りも持っていない……）","fr":"(Et puis, ils n'ont ni de quoi allumer un feu ni de quoi s'éclairer…)"}
+{"id":1551202,"jp":"（あとで街でキボの生態に詳しいひとに聞いてみよう）","fr":"(Je devrais aller interroger quelqu'un qui connaît bien le comportement des Kibo, en ville.)"}
+{"id":1551203,"jp":"あっ、星臨者じゃないか。摘みたてのブルーヴィン、食べてみる？","fr":"Oh, mais c'est l'Enfant des étoiles ! Tu veux goûter des Bluevine fraîchement cueillies ?"}
+{"id":1551204,"jp":"実は、メルトレイクのキボについて聞きたいことがあって。最近……","fr":"En fait, j'aimerais te poser quelques questions sur les Kibo du lac Melt. Ces derniers temps…"}
+{"id":1551205,"jp":"ふむ、だいたいわかったよ。","fr":"Hmm, je crois avoir compris l'essentiel."}
+{"id":1551206,"jp":"聞いた話からすると、キボたちは生息地を破壊されたときの反応にかなり似ている。","fr":"D'après ce que tu me racontes, leur comportement ressemble beaucoup à celui des Kibo dont l'habitat a été détruit."}
+{"id":1551207,"jp":"特に穴居性、あるいは巣作りの習性を持つキボは、\n慣れた「避難場所」を失うと、ストレスのせいで\n目的もなく逃げ回るような常同行動を見せることが多いんだ……","fr":"C'est particulièrement vrai chez les Kibo qui vivent dans des terriers ou qui construisent des nids.\nLorsqu'ils perdent leur refuge habituel, le stress provoque souvent des comportements répétitifs,\ncomme le fait de courir sans but dans tous les sens…"}
+{"id":1551208,"jp":"こほん、ごめん、話がそれたね。\nただ、巣穴を塞ぐにしても、高いところに登って巣を壊すにしても、\nかなりの手間がかかる。","fr":"Hum, pardon, je m'égare un peu.\nCela dit, qu'il s'agisse de boucher des terriers ou de grimper en hauteur pour détruire des nids,\nça demande énormément d'efforts."}
+{"id":1551209,"jp":"利益目的の密猟者にとっては、割に合わないはずだよ。","fr":"Pour des braconniers qui cherchent uniquement à gagner de l'argent, ça ne serait pas rentable."}
+{"id":1551210,"jp":"（利益目的じゃない……\nつまり、興味本位の犯罪の可能性があるってことだ）","fr":"(Ce ne serait donc pas motivé par l'appât du gain…\nAutrement dit, quelqu'un pourrait avoir commis ces actes par simple curiosité.)"}
+{"id":1551211,"jp":"考えがまとまった。ありがとう、コリン。","fr":"J'y vois beaucoup plus clair maintenant. Merci, Colin."}
+{"id":1551212,"jp":"どういたしまして。つぎに来たときは、調合したブルーヴィンジュースをごちそうするよ！","fr":"Avec plaisir ! La prochaine fois que tu passeras, je te ferai goûter mon jus de Bluevine maison !"}
+{"id":1551213,"jp":"スーザン、手がかりを見つけ――","fr":"Susan, j'ai trouvé un indice…"}
 {"id":1551215,"jp":"ホルン","fr":"Horn"}
 {"id":1551217,"jp":"ウンディーネ","fr":"Ondine"}
 {"id":1551218,"jp":"こ、こんにちは……","fr":"B-bonjour…"}
