@@ -67,6 +67,10 @@ Relevés dans les dialogues déjà traduits. Un traducteur les applique tels que
 - Lan Xiangzi enfant et son père, Abby (phrases d'enfant), Peipei : parlent d'eux à la troisième personne.
 - Chiyo : « Dame Chiyo », finit ses phrases par « nya ».
 - Le joueur est appelé « Âme chevaleresque » (侠客さん), « duelliste » (ファイターさん), « jeune pousse » par les anciens : jamais une forme accordée.
+- Le Renard céleste à neuf queues (妾 / 汝) : une femme hautaine au ton archaïque, qui tutoie ; accords au féminin.
+- Ning Lang : tic « aru » en fin de phrase (アル) ; tutoie le joueur, vouvoie Jiang Li et Leon.
+- Vouvoient aussi : Jiang Li, Polly, Francisco, Lulu, le marchand de Pat. Tutoient aussi : Rosa, Larin, Kirk, Wright, Kiri, Fajeto, Barrett, Penny, Ral, Ronald.
+- L'aide de la ferme (オイラ) appelle le joueur « Chef » (ボス).
 
 ## Règles d'écriture
 
