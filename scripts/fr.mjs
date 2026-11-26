@@ -215,7 +215,11 @@ function check() {
   const glossaryWarnings = [];
   for (const row of french.byJp.values()) {
     for (const term of termsIn(row.jp, glossary)) {
-      if (!row.fr.toLowerCase().includes(term.fr.toLowerCase())) {
+      // La colonne fr peut lister des variantes acceptées : « Amplification | Amplif. ».
+      // Apostrophe droite ou courbe : même mot.
+      const fold = (text) => text.toLowerCase().replace(/’/g, "'");
+      const variants = term.fr.split('|').map((v) => fold(v.trim()));
+      if (!variants.some((variant) => fold(row.fr).includes(variant))) {
         glossaryWarnings.push(`id ${row.id ?? '?'} : « ${term.jp} » devrait donner « ${term.fr} »`);
       }
     }
@@ -244,7 +248,7 @@ function todo(options) {
     if (row.jp.length > maxLength) continue;
     if (pattern && !pattern.test(row.jp) && !pattern.test(row.en ?? '')) continue;
     // Les termes du glossaire présents dans la ligne, pour traduire sans chercher ailleurs.
-    const terms = termsIn(row.jp, glossary).map((term) => `${term.jp} = ${term.fr} (${term.status})`);
+    const terms = termsIn(row.jp, glossary).map((term) => `${term.jp} = ${term.fr.replace(/ | /g, ' ou ')} (${term.status})`);
     picked.push({ id: row.id, jp: row.jp, en: row.en, ...(terms.length ? { terms } : {}), fr: '' });
   }
   const out = options.out ? resolve(options.out) : join(WORK_DIR, `todo-${Date.now()}.jsonl`);

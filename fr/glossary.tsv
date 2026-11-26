@@ -82,7 +82,7 @@ jp	en	fr	kind	status	note
 御霊さま	Elder Spirits	Esprits anciens	lore	approved	Nom officiel anglais « Elder Spirits » ; l’anglais des fans dit « Honored Spirits ». Les esprits que prient les Furriens de Charlulu.
 ダメージ	DMG	DGT	stat	approved	Abréviation dans les libellés et descriptions : « DGT de Feu », « DGT neutres ».
 ダメージ軽減	DMG Reduction	Réduction des DGT	stat	approved	
-増幅	Boost	Amplification	stat	approved	« Amplif. » dans les libellés de statistiques (« Amplif. DGT de Feu », « Amplif. recharge d’Énergie % ») ; « Amplification » en entier dans les noms d’effets. Distinct de 増加 (hausse, augmentation).
+増幅	Boost	Amplification | Amplif.	stat	approved	« Amplif. » dans les libellés de statistiques (« Amplif. DGT de Feu », « Amplif. recharge d’Énergie % ») ; « Amplification » en entier dans les noms d’effets. Distinct de 増加 (hausse, augmentation).
 無属性	Neutral	neutre	element	approved	« DGT neutres ».
 シールド	Shield	Bouclier	mechanic	approved	
 奥義	Ultimate	Technique ultime	mechanic	approved	
@@ -130,3 +130,59 @@ EX強度	EX Intensity	Puissance EX	stat	approved
 見習いハンター	Apprentice Hunter	apprenti chasseur	equipment	approved	Nom de set.
 森の守り手	Forest Guardian	gardien sylvestre	equipment	approved	Nom de set.
 アマルテイア	Amalthea	Amalthea	creature	approved	Forme anglaise gardée, pas « Amalthée ».
+縁の糸	Threads of Fate	fils du destin	lore	approved	縁 seul : « destin » ou « rencontre » selon la phrase, jamais « Lien » (réservé à 絆).
+悪縁	Ill Fate	liens funestes	lore	approved	
+霊符	Talisman	talisman	item	approved	霊符連環 = Chaîne de talismans.
+竹宝	Bamboo Treasure	Trésor de bambou	character	approved	Le compagnon de Peipei.
+お宝探検隊	Treasure Hunters	brigade des trésors	faction	approved	どんぐりお宝探検隊 = brigade des trésors du Gland.
+鷹神	Hawk God	dieu Faucon	lore	approved	Le dieu des Ailés.
+功徳	Merit	mérites	lore	approved	Jamais « karma » : カルマ est la force de vie.
+ハイディ	Heidi	Heidi	creature	approved	La Griffa de Lily.
+朧影	Oborokage	Oborokage	character	approved	
+普通の	Common	ordinaire	rarity	approved	Paliers de la ferme, placés après le nom et accordés : ordinaire, de qualité (上質な), supérieur (極上の), d’exception (逸品の), suprême (至高の), étincelant (輝く). « Graine de blé doré supérieure ».
+上質な	Fine	de qualité	rarity	approved	
+極上の	Superior	supérieur	rarity	approved	
+逸品の	Exquisite	d’exception	rarity	approved	
+至高の	Supreme	suprême	rarity	approved	
+星脈	Star Vein	veine stellaire	lore	approved	
+源脈	Source Vein	veine source	lore	approved	
+星輝	Starshine	éclat stellaire	lore	approved	
+原初	Primordial	originel	lore	approved	« Goutte originelle ».
+反響	Echo	Écho	mechanic	approved	
+星旅の記録	Starjourney Record	Chronique du voyage stellaire	mechanic	approved	記録ポイント = Points de chronique.
+弦音	String Note	Note de corde	mechanic	approved	
+調律	Tuning	Accordage	mechanic	approved	
+大狼	Great Wolf	Grand Loup	creature	approved	大狼ウル = Grand Loup Uru.
+風銅	Windcopper	cuivre du vent	resource	approved	Matières : 閃錫 étain scintillant, 鏡鉄 fer miroir, 空鉄 fer céleste, 片塵石 pierre friable, 堅岩石 roche dure.
+閃錫	Flashtin	étain scintillant	resource	approved	
+鏡鉄	Mirror Iron	fer miroir	resource	approved	
+空鉄	Sky Iron	fer céleste	resource	approved	
+金麦	Golden Wheat	blé doré	resource	approved	
+シンゲツイモ	New Moon Potato	patate Nouvelle-Lune	resource	approved	
+星満の果実	Starfull Fruit	fruit étoilé	resource	approved	
+痕跡	Trace	Trace	mechanic	approved	
+星の軌跡	Star Trail	Sillage stellaire	mechanic	approved	
+笑般若	Laughing Hannya	Hannya rieur	creature	approved	Noms de Kibo en kanji : on traduit le sens. Noms en katakana : forme anglaise, invariable.
+アップ	Up	Hausse de	stat	approved	アップ, 上昇, 増加 = « Hausse de… » ; ダウン, 低下 = « Baisse de… ». ・小/・中/・大 = Légère / modérée / Forte hausse (ou baisse). Descriptions : « Augmente… », « Réduit… ».
+ダウン	Down	Baisse de	stat	approved	
+被ダメージ	DMG Taken	DGT subis	stat	approved	
+全属性耐性	All Element RES	résistances élémentaires	stat	approved	〜属性耐性ダウン = « Baisse de résistance au Vent ».
+よろけ	Stagger	déséquilibre	status	approved	
+燃焼	Burn	Brûlure	status	approved	
+出血	Bleed	Saignement	status	approved	
+裂傷	Laceration	Lacération	status	approved	
+呪い	Curse	Malédiction	status	approved	
+凍結	Freeze	Gel	status	approved	
+同調強度	Sync Intensity	Puissance de Synchronie	stat	approved	
+星識レベル	Star Insight Level	niveau de Savoir stellaire	stat	approved	
+絆レベル	Bond Level	niveau de Lien	stat	approved	
+異彩	Variant	Variante	creature	approved	輝く異彩 = Variante brillante.
+虚金	Void Gold	Or du vide	resource	approved	
+インフォストリーム	Infostream	Infoflux	ui	approved	
+アサルト	Assault	Assaut	role	approved	Rôles (noms de fonction, sans genre) : Assaut, Défense, Garde, Synchro, Affaiblissement, Renforcement, Tank, Perturbation, Soins, Attaque, Assassin, Assistance, Soutien.
+ヒーラー	Healer	Soins	role	approved	
+アタッカー	Attacker	Attaque	role	approved	
+タンク	Tank	Tank	role	approved	
+デバフ	Debuff	Affaiblissement	role	approved	
+バフ	Buff	Renforcement	role	approved	
+シャーマン	Shaman	chamane	people	approved	Épicène.

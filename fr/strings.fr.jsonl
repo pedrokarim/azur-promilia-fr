@@ -748,3 +748,2403 @@
 {"id":1496857,"jp":"落下攻撃ダメージ増幅","fr":"Amplification des DGT d'attaque plongeante"}
 {"id":1496861,"jp":"急速エネルギー","fr":"Énergie rapide"}
 {"id":1496862,"jp":"急速エネルギー上限","fr":"Énergie rapide max"}
+{"id":1496864,"jp":"ブレイク値上限","fr":"Valeur de brise max"}
+{"id":1496865,"jp":"ブレイクダメージ倍率","fr":"Multiplicateur de DGT de brise"}
+{"id":1496879,"jp":"ブレイク復元遅延","fr":"Délai de récupération de brise"}
+{"id":1496880,"jp":"ブレイク復元速度","fr":"Vitesse de récupération de brise"}
+{"id":1496881,"jp":"ブレイク持続時間","fr":"Durée de brise"}
+{"id":1496882,"jp":"ブレイク終了持続時間","fr":"Durée de fin de brise"}
+{"id":1496885,"jp":"ブレイク耐久性","fr":"Résistance à la brise"}
+{"id":1496886,"jp":"全回避","fr":"Esquive totale"}
+{"id":1496890,"jp":"属性有利ダメージ倍率","fr":"Multiplicateur de DGT (avantage élémentaire)"}
+{"id":1496891,"jp":"属性不利ダメージ倍率","fr":"Multiplicateur de DGT (désavantage élémentaire)"}
+{"id":1496893,"jp":"通常攻撃間隔","fr":"Intervalle d'Attaque normale"}
+{"id":1496894,"jp":"キボ再起時間","fr":"Délai de réanimation du Kibo"}
+{"id":1496895,"jp":"キボの謎解き属性","fr":"Élément d'énigme du Kibo"}
+{"id":1496896,"jp":"コスト値","fr":"Coût"}
+{"id":1496897,"jp":"コスト最大値","fr":"Coût max"}
+{"id":1496899,"jp":"ステージ初期コスト値","fr":"Coût initial de l'étape"}
+{"id":1496901,"jp":"カウンター値維持時間","fr":"Durée de maintien de la valeur de contre"}
+{"id":1496902,"jp":"カウンター値減少速度","fr":"Vitesse de baisse de la valeur de contre"}
+{"id":1496904,"jp":"実行","fr":"Exécuter"}
+{"id":1496905,"jp":"洞察","fr":"Perspicacité"}
+{"id":1496906,"jp":"知覚","fr":"Perception"}
+{"id":1496909,"jp":"アイテム購入割引","fr":"Réduction sur les achats d'objets"}
+{"id":1496911,"jp":"再ロール回数","fr":"Nombre de relances"}
+{"id":1496913,"jp":"虚金量","fr":"Quantité d'Or du vide"}
+{"id":1496914,"jp":"インフォストリーム量","fr":"Quantité d'Infoflux"}
+{"id":1496918,"jp":"キボ攻撃力","fr":"ATQ du Kibo"}
+{"id":1496919,"jp":"キボ最大HP","fr":"PV max du Kibo"}
+{"id":1496920,"jp":"キボ会心率","fr":"Taux CRIT du Kibo"}
+{"id":1496921,"jp":"キボ会心ダメージ","fr":"DGT CRIT du Kibo"}
+{"id":1496927,"jp":"輝く異彩","fr":"Variante brillante"}
+{"id":1496928,"jp":"ノックバックレベル","fr":"Niveau de recul"}
+{"id":1496929,"jp":"耐衝撃性","fr":"Résistance aux chocs"}
+{"id":1496930,"jp":"ベーシック","fr":"Basique"}
+{"id":1496931,"jp":"プレミアム","fr":"Premium"}
+{"id":1496932,"jp":"漫遊記拾遺","fr":"Extras du Carnet de voyage"}
+{"id":1496950,"jp":"観測を40回行う","fr":"Effectuer 40 Observations"}
+{"id":1496954,"jp":"アサルト","fr":"Assaut"}
+{"id":1496955,"jp":"ディフェンス","fr":"Défense"}
+{"id":1496956,"jp":"ガード","fr":"Garde"}
+{"id":1496957,"jp":"シンクロ","fr":"Synchro"}
+{"id":1496958,"jp":"デバフ","fr":"Affaiblissement"}
+{"id":1496960,"jp":"タンク","fr":"Tank"}
+{"id":1496962,"jp":"ジャマー","fr":"Perturbation"}
+{"id":1496964,"jp":"バフ","fr":"Renforcement"}
+{"id":1496966,"jp":"ヒーラー","fr":"Soins"}
+{"id":1496968,"jp":"アタッカー","fr":"Attaque"}
+{"id":1496970,"jp":"アサシン","fr":"Assassin"}
+{"id":1496972,"jp":"アシスト","fr":"Assistance"}
+{"id":1496974,"jp":"刻印追加","fr":"Gain de Sceau"}
+{"id":1496976,"jp":"刻印消費","fr":"Dépense de Sceau"}
+{"id":1496978,"jp":"通常攻撃","fr":"Attaque normale"}
+{"id":1496980,"jp":"チャージ攻撃","fr":"Attaque chargée"}
+{"id":1496982,"jp":"刻印EX","fr":"Sceau EX"}
+{"id":1496984,"jp":"ブレイク","fr":"Brise"}
+{"id":1496986,"jp":"一撃","fr":"Coup unique"}
+{"id":1496987,"jp":"支援","fr":"Soutien"}
+{"id":1496988,"jp":"回復","fr":"Récupération"}
+{"id":1496990,"jp":"攻撃力アップ","fr":"Hausse d'ATQ"}
+{"id":1496992,"jp":"浄化","fr":"Purification"}
+{"id":1496993,"jp":"防御力アップ","fr":"Hausse de DÉF"}
+{"id":1496996,"jp":"沐星雨","fr":"Bain de pluie stellaire"}
+{"id":1496997,"jp":"EX強度が上昇する。","fr":"Augmente la Puissance EX."}
+{"id":1496998,"jp":"灼炎","fr":"Flamme brûlante"}
+{"id":1496999,"jp":"風縛の煙","fr":"Fumée du vent entravant"}
+{"id":1497000,"jp":"防御力が低下する。","fr":"Réduit la DÉF."}
+{"id":1497001,"jp":"遊んじゃおうよ！","fr":"Allez, on joue !"}
+{"id":1497003,"jp":"秘宝の道標","fr":"Jalon du trésor"}
+{"id":1497005,"jp":"宝物発見！","fr":"Trésor trouvé !"}
+{"id":1497006,"jp":"連珠拳！","fr":"Chapelet de poings !"}
+{"id":1497008,"jp":"左右往来","fr":"Va-et-vient"}
+{"id":1497009,"jp":"蛟龍戯珠","fr":"Le dragon joue avec la perle"}
+{"id":1497011,"jp":"剛に柔あり","fr":"La souplesse dans la force"}
+{"id":1497012,"jp":"攻めと引き","fr":"Attaque et repli"}
+{"id":1497014,"jp":"陰陽調和","fr":"Équilibre du yin et du yang"}
+{"id":1497015,"jp":"地属性ダメージアップ","fr":"Hausse des DGT de Terre"}
+{"id":1497016,"jp":"陰陽合一","fr":"Union du yin et du yang"}
+{"id":1497018,"jp":"侠気充溢","fr":"Chevalerie débordante"}
+{"id":1497019,"jp":"防御貫通が上昇する。","fr":"Augmente la Pénétration de DÉF."}
+{"id":1497020,"jp":"竹の呼吸","fr":"Souffle du bambou"}
+{"id":1497021,"jp":"気よ、巡れ！","fr":"Que le qi circule !"}
+{"id":1497022,"jp":"会心率が上昇する。","fr":"Augmente le Taux CRIT."}
+{"id":1497023,"jp":"元気満タン！","fr":"Pleine forme !"}
+{"id":1497024,"jp":"調律1・防御力ダウン","fr":"Accord 1 : baisse de DÉF"}
+{"id":1497027,"jp":"玉光尽きず","fr":"Lueur de jade inépuisable"}
+{"id":1497028,"jp":"深窟の幽蘭","fr":"Orchidée des grottes profondes"}
+{"id":1497031,"jp":"勇気を出す","fr":"Rassembler son courage"}
+{"id":1497034,"jp":"意志","fr":"Volonté"}
+{"id":1497035,"jp":"オートガード","fr":"Garde automatique"}
+{"id":1497036,"jp":"不屈の心","fr":"Cœur indomptable"}
+{"id":1497038,"jp":"よろけ耐性アップ","fr":"Hausse de résistance au déséquilibre"}
+{"id":1497039,"jp":"風属性耐性ダウン","fr":"Baisse de résistance au Vent"}
+{"id":1497041,"jp":"被ダメージダウン","fr":"Baisse des DGT subis"}
+{"id":1497045,"jp":"闇属性ダメージアップ","fr":"Hausse des DGT de Ténèbres"}
+{"id":1497046,"jp":"被ダメージアップ","fr":"Hausse des DGT subis"}
+{"id":1497047,"jp":"風語","fr":"Parole du vent"}
+{"id":1497049,"jp":"風の息吹","fr":"Souffle du vent"}
+{"id":1497050,"jp":"交錯する枝葉","fr":"Ramures entrelacées"}
+{"id":1497051,"jp":"風の囁き","fr":"Murmure du vent"}
+{"id":1497052,"jp":"茨","fr":"Ronces"}
+{"id":1497053,"jp":"翠緑の祈り","fr":"Prière émeraude"}
+{"id":1497055,"jp":"ガーデンの風","fr":"Vent du Jardin"}
+{"id":1497056,"jp":"渇望に伸びゆく枝葉","fr":"Ramures avides"}
+{"id":1497060,"jp":"歳月が運ぶ果実","fr":"Fruit des années"}
+{"id":1497061,"jp":"餓竜のブレス","fr":"Haleine du dragon affamé"}
+{"id":1497062,"jp":"霊竜の息吹","fr":"Souffle du dragon spirituel"}
+{"id":1497064,"jp":"アビィぐるぐる","fr":"Tourbillon d'Abby"}
+{"id":1497065,"jp":"アビィの飛びかかり","fr":"Bond d'Abby"}
+{"id":1497066,"jp":"大食いアビィ","fr":"Abby la gloutonne"}
+{"id":1497067,"jp":"燃焼","fr":"Brûlure"}
+{"id":1497069,"jp":"最強のハンター","fr":"Chasseuse hors pair"}
+{"id":1497070,"jp":"平原の風","fr":"Vent des plaines"}
+{"id":1497071,"jp":"森の息吹","fr":"Souffle de la forêt"}
+{"id":1497072,"jp":"山地の地勢","fr":"Relief montagneux"}
+{"id":1497073,"jp":"シャルルの牙","fr":"Croc de Charlulu"}
+{"id":1497074,"jp":"さざなみの舞","fr":"Danse des vaguelettes"}
+{"id":1497075,"jp":"秘流の源","fr":"Source du courant secret"}
+{"id":1497076,"jp":"シャーマンの祈り","fr":"Prière chamanique"}
+{"id":1497077,"jp":"万霊の誓約","fr":"Serment des mille esprits"}
+{"id":1497078,"jp":"水属性耐性ダウン","fr":"Baisse de résistance à l'Eau"}
+{"id":1497080,"jp":"蓄電","fr":"Charge accumulée"}
+{"id":1497082,"jp":"破穹の翼","fr":"Ailes perce-ciel"}
+{"id":1497083,"jp":"雷属性ダメージアップ","fr":"Hausse des DGT de Foudre"}
+{"id":1497085,"jp":"ドキドキ","fr":"Cœur battant"}
+{"id":1497087,"jp":"迷霧を抜ける疾風","fr":"Rafale à travers la brume"}
+{"id":1497089,"jp":"迷霧を抜けて","fr":"À travers la brume"}
+{"id":1497091,"jp":"空の彼方へ","fr":"Par-delà le ciel"}
+{"id":1497092,"jp":"追猟","fr":"Traque"}
+{"id":1497093,"jp":"隠れ身の猛攻","fr":"Assaut embusqué"}
+{"id":1497095,"jp":"煌めき","fr":"Scintillement"}
+{"id":1497097,"jp":"袈裟斬り","fr":"Coupe diagonale"}
+{"id":1497099,"jp":"風の如く","fr":"Tel le vent"}
+{"id":1497100,"jp":"雷の如く","fr":"Telle la foudre"}
+{"id":1497101,"jp":"幻惑","fr":"Éblouissement"}
+{"id":1497102,"jp":"勇毅","fr":"Bravoure"}
+{"id":1497104,"jp":"ペガサスナイト","fr":"Chevalier pégase"}
+{"id":1497105,"jp":"忠誠の冠を戴き","fr":"Sous la couronne de la loyauté"}
+{"id":1497106,"jp":"飛翔","fr":"Envol"}
+{"id":1497107,"jp":"刻印","fr":"Sceau"}
+{"id":1497109,"jp":"被ダメージ増幅","fr":"Amplification des DGT subis"}
+{"id":1497110,"jp":"風に研がれし刃","fr":"Lame aiguisée par le vent"}
+{"id":1497111,"jp":"雷属性耐性ダウン","fr":"Baisse de résistance à la Foudre"}
+{"id":1497113,"jp":"怪力","fr":"Force colossale"}
+{"id":1497114,"jp":"メイドのお見送り","fr":"Adieux de la domestique"}
+{"id":1497118,"jp":"めしあがれ","fr":"Bon appétit"}
+{"id":1497120,"jp":"ご挨拶いたします","fr":"Permettez-moi de me présenter"}
+{"id":1497121,"jp":"被ブレイク効率アップ","fr":"Hausse de l'Efficacité de brise subie"}
+{"id":1497122,"jp":"邪魔しちゃメッ！","fr":"Pas le droit de déranger !"}
+{"id":1497125,"jp":"治療の時間","fr":"L'heure des soins"}
+{"id":1497126,"jp":"チッチのお母さん探し","fr":"Chicchi cherche sa maman"}
+{"id":1497127,"jp":"後方支援","fr":"Soutien à l'arrière"}
+{"id":1497128,"jp":"怖くな～い","fr":"Même pas peur~"}
+{"id":1497130,"jp":"シィグナ探偵","fr":"Détective Cygna"}
+{"id":1497133,"jp":"大草原のルビッツ","fr":"Les Rubbit de la grande prairie"}
+{"id":1497134,"jp":"鼓舞","fr":"Encouragement"}
+{"id":1497135,"jp":"星輝の環","fr":"Anneau stellaire"}
+{"id":1497136,"jp":"防御力貫通","fr":"Pénétration de DÉF"}
+{"id":1497137,"jp":"輝映","fr":"Rayonnement"}
+{"id":1497138,"jp":"ブレイク状態","fr":"État de brise"}
+{"id":1497139,"jp":"全属性耐性ダウン","fr":"Baisse des résistances élémentaires"}
+{"id":1497140,"jp":"星の鳴響","fr":"Résonance des étoiles"}
+{"id":1497141,"jp":"静かの海へ","fr":"Vers la mer de la Tranquillité"}
+{"id":1497143,"jp":"星臨の刻","fr":"L'heure de la venue stellaire"}
+{"id":1497145,"jp":"残炎の痕跡","fr":"Traces de braises"}
+{"id":1497146,"jp":"カンカンカン！","fr":"Clang, clang, clang !"}
+{"id":1497147,"jp":"ずっしり","fr":"Poids lourd"}
+{"id":1497148,"jp":"キラキラの黄金","fr":"Or étincelant"}
+{"id":1497149,"jp":"キラキラ旋風","fr":"Tourbillon scintillant"}
+{"id":1497150,"jp":"ニャンニャンラッシュ","fr":"Ruée nyan-nyan"}
+{"id":1497151,"jp":"専用の追加攻撃","fr":"Attaque supplémentaire exclusive"}
+{"id":1497152,"jp":"ニャオの闘志","fr":"Combativité de Nyao"}
+{"id":1497153,"jp":"肉球インパクト","fr":"Impact coussinet"}
+{"id":1497154,"jp":"同調強度が上昇する。","fr":"Augmente la Puissance de Synchronie."}
+{"id":1497156,"jp":"繋がれ！星々の絆","fr":"Connexion ! Lien des étoiles"}
+{"id":1497157,"jp":"風の浸食","fr":"Érosion du vent"}
+{"id":1497158,"jp":"継続的な燃焼ダメージ","fr":"DGT de brûlure continus"}
+{"id":1497160,"jp":"地の棘・防御ダウン","fr":"Épine de terre : baisse de DÉF"}
+{"id":1497164,"jp":"ダメージ増幅アップ","fr":"Hausse de l'Amplification des DGT"}
+{"id":1497165,"jp":"全属性ダメージアップ","fr":"Hausse des DGT de tous éléments"}
+{"id":1497166,"jp":"属性ダメージ増加","fr":"Hausse des DGT élémentaires"}
+{"id":1497170,"jp":"HP回復","fr":"Récupération de PV"}
+{"id":1497179,"jp":"明鏡止水","fr":"Miroir clair, eau dormante"}
+{"id":1497180,"jp":"溢れる鋒芒","fr":"Tranchant débordant"}
+{"id":1497181,"jp":"破竹の勢い","fr":"Élan irrésistible"}
+{"id":1497182,"jp":"シールド獲得","fr":"Gain de Bouclier"}
+{"id":1497183,"jp":"無事の帰還","fr":"Retour sans encombre"}
+{"id":1497184,"jp":"一歩ずつ高みへ","fr":"Toujours plus haut, pas à pas"}
+{"id":1497186,"jp":"追撃を重ねる","fr":"Poursuites en chaîne"}
+{"id":1497187,"jp":"納刀","fr":"Rengainer"}
+{"id":1497188,"jp":"最大HPアップ","fr":"Hausse des PV max"}
+{"id":1497189,"jp":"ブレイク効率アップ","fr":"Hausse de l'Efficacité de brise"}
+{"id":1497192,"jp":"プレースホルダー","fr":"Espace réservé"}
+{"id":1497200,"jp":"無効","fr":"Invalide"}
+{"id":1497204,"jp":"氷属性ダメージアップ","fr":"Hausse des DGT de Glace"}
+{"id":1497205,"jp":"水属性ダメージアップ","fr":"Hausse des DGT d'Eau"}
+{"id":1497212,"jp":"無","fr":"Aucun"}
+{"id":1497220,"jp":"鋭刃","fr":"Lame acérée"}
+{"id":1497221,"jp":"累勢","fr":"Élan cumulé"}
+{"id":1497222,"jp":"壁立","fr":"Mur dressé"}
+{"id":1497223,"jp":"生息","fr":"Répit"}
+{"id":1497225,"jp":"HPシールド","fr":"Bouclier de PV"}
+{"id":1497226,"jp":"貫撃・ダメージアップ","fr":"Frappe perçante : hausse des DGT"}
+{"id":1497228,"jp":"強襲・ダメージアップ","fr":"Assaut : hausse des DGT"}
+{"id":1497230,"jp":"絶地","fr":"Terrain sans issue"}
+{"id":1497234,"jp":"星移・EX・強度","fr":"Glissement stellaire - EX - Puissance"}
+{"id":1497236,"jp":"EX・重鋒・強度","fr":"EX - Tranchant lourd - Puissance"}
+{"id":1497238,"jp":"剛貫・累勢・攻撃力","fr":"Perforation - Élan cumulé - ATQ"}
+{"id":1497240,"jp":"EXダメージ上昇","fr":"Hausse des DGT EX"}
+{"id":1497241,"jp":"星月の和音・強度","fr":"Accord des étoiles et de la lune : Puissance"}
+{"id":1497242,"jp":"星月の和音・貫通","fr":"Accord des étoiles et de la lune : Pénétration"}
+{"id":1497243,"jp":"反復の楽章・攻撃力","fr":"Mouvement en reprise : ATQ"}
+{"id":1497249,"jp":"感電","fr":"Électrocution"}
+{"id":1497252,"jp":"寒冷","fr":"Froid"}
+{"id":1497253,"jp":"氷の刻印・防御貫通","fr":"Sceau de Glace : Pénétration de DÉF"}
+{"id":1497254,"jp":"侵蝕","fr":"Érosion"}
+{"id":1497257,"jp":"寄生","fr":"Parasite"}
+{"id":1497259,"jp":"大地","fr":"Terre"}
+{"id":1497260,"jp":"超重量","fr":"Poids écrasant"}
+{"id":1497262,"jp":"風切","fr":"Tranche-vent"}
+{"id":1497263,"jp":"乱気流","fr":"Turbulences"}
+{"id":1497265,"jp":"風精の烈風","fr":"Bourrasque de l'esprit du vent"}
+{"id":1497266,"jp":"湧出","fr":"Jaillissement"}
+{"id":1497269,"jp":"水EX・防御力ダウン","fr":"EX d'Eau : baisse de DÉF"}
+{"id":1497270,"jp":"炎天下","fr":"Soleil de plomb"}
+{"id":1497271,"jp":"奇襲","fr":"Attaque surprise"}
+{"id":1497273,"jp":"攻撃強化","fr":"Attaque renforcée"}
+{"id":1497275,"jp":"攻撃力上昇","fr":"Hausse d'ATQ"}
+{"id":1497276,"jp":"鉄壁","fr":"Rempart de fer"}
+{"id":1497277,"jp":"物理防御上昇","fr":"Hausse de DÉF physique"}
+{"id":1497278,"jp":"出血","fr":"Saignement"}
+{"id":1497280,"jp":"腐食","fr":"Corrosion"}
+{"id":1497281,"jp":"モフンガの掃討","fr":"Balayage de Mohunga"}
+{"id":1497283,"jp":"防御力低下","fr":"Baisse de DÉF"}
+{"id":1497284,"jp":"イースガルの斬撃","fr":"Taillade d'Isgar"}
+{"id":1497286,"jp":"フィンヴォルフの斬撃","fr":"Taillade de Finwolf"}
+{"id":1497288,"jp":"ラーガアタック","fr":"Attaque de Raga"}
+{"id":1497289,"jp":"猪突猛進","fr":"Charge tête baissée"}
+{"id":1497290,"jp":"猪王の猛進撃","fr":"Charge furieuse du roi sanglier"}
+{"id":1497291,"jp":"永霜の呪い","fr":"Malédiction du givre éternel"}
+{"id":1497293,"jp":"蝶舞の風","fr":"Vent de la danse des papillons"}
+{"id":1497294,"jp":"凜冬の槍撃","fr":"Coup de lance de l'hiver mordant"}
+{"id":1497296,"jp":"雷鳴","fr":"Coup de tonnerre"}
+{"id":1497297,"jp":"攻撃力が上昇する。","fr":"Augmente l'ATQ."}
+{"id":1497298,"jp":"会心ダメージ増加","fr":"Hausse des DGT CRIT"}
+{"id":1497299,"jp":"雷の旋律","fr":"Mélodie du tonnerre"}
+{"id":1497300,"jp":"雷鳴組曲","fr":"Suite du tonnerre"}
+{"id":1497301,"jp":"タンポポ","fr":"Pissenlit"}
+{"id":1497302,"jp":"風属性ダメージ増加","fr":"Hausse des DGT de Vent"}
+{"id":1497303,"jp":"癒しの守り","fr":"Protection guérisseuse"}
+{"id":1497304,"jp":"防御力が上昇する。","fr":"Augmente la DÉF."}
+{"id":1497305,"jp":"防御力上昇","fr":"Hausse de DÉF"}
+{"id":1497306,"jp":"火精の炎環","fr":"Anneau de flammes de l'esprit du feu"}
+{"id":1497307,"jp":"フルパワー","fr":"Pleine puissance"}
+{"id":1497308,"jp":"灼熱の火輪","fr":"Roue de feu ardente"}
+{"id":1497309,"jp":"蝶の燐粉","fr":"Poussière de papillon"}
+{"id":1497310,"jp":"煌めく燐粉","fr":"Poussière scintillante"}
+{"id":1497311,"jp":"幻夢の燐粉","fr":"Poussière onirique"}
+{"id":1497313,"jp":"雷落の力","fr":"Puissance de la foudre"}
+{"id":1497314,"jp":"岩流旋風","fr":"Tourbillon de roche"}
+{"id":1497317,"jp":"岩流ハリケーン","fr":"Ouragan de roche"}
+{"id":1497318,"jp":"森の守護者の拘束","fr":"Entrave du gardien de la forêt"}
+{"id":1497319,"jp":"移動速度が低下する。","fr":"Réduit la vitesse de déplacement."}
+{"id":1497320,"jp":"移動速度低下","fr":"Baisse de vitesse de déplacement"}
+{"id":1497321,"jp":"グルルガス","fr":"Gaz Gururu"}
+{"id":1497323,"jp":"物理防御低下","fr":"Baisse de DÉF physique"}
+{"id":1497325,"jp":"魔法防御低下","fr":"Baisse de DÉF magique"}
+{"id":1497326,"jp":"ダークギャラクシー","fr":"Galaxie obscure"}
+{"id":1497329,"jp":"ダークファング","fr":"Croc obscur"}
+{"id":1497330,"jp":"ダークスラッシュ","fr":"Taillade obscure"}
+{"id":1497331,"jp":"胞子拡散","fr":"Dispersion de spores"}
+{"id":1497332,"jp":"移動速度が上昇する。","fr":"Augmente la vitesse de déplacement."}
+{"id":1497333,"jp":"わた毛の守り","fr":"Protection duveteuse"}
+{"id":1497334,"jp":"重量軽減","fr":"Réduction du poids"}
+{"id":1497335,"jp":"豊穣の祝福","fr":"Bénédiction de l'abondance"}
+{"id":1497337,"jp":"陣符の呪詛","fr":"Malédiction du talisman de cercle"}
+{"id":1497339,"jp":"退場・ジャンプ不可","fr":"Sortie : saut impossible"}
+{"id":1497340,"jp":"崩勢","fr":"Posture brisée"}
+{"id":1497341,"jp":"仄暗い霧","fr":"Brume sombre"}
+{"id":1497342,"jp":"目まい","fr":"Vertige"}
+{"id":1497343,"jp":"雷チャージ","fr":"Charge de foudre"}
+{"id":1497344,"jp":"レイドスの加護","fr":"Protection de Reidosu"}
+{"id":1497346,"jp":"錬金術","fr":"Alchimie"}
+{"id":1497348,"jp":"黄金化","fr":"Transmutation en or"}
+{"id":1497350,"jp":"黄金の豊穂","fr":"Épis d'or abondants"}
+{"id":1497352,"jp":"虹の加護","fr":"Protection de l'arc-en-ciel"}
+{"id":1497353,"jp":"物理防御力上昇・小","fr":"Légère hausse de DÉF physique"}
+{"id":1497354,"jp":"物理防御上昇・小","fr":"Légère hausse de DÉF physique"}
+{"id":1497355,"jp":"被回復効果上昇・小","fr":"Légère hausse des soins reçus"}
+{"id":1497360,"jp":"ピカリンの舞・盾","fr":"Danse de Pikarin : bouclier"}
+{"id":1497361,"jp":"フィアールの舞・盾","fr":"Danse de Fiaaru : bouclier"}
+{"id":1497362,"jp":"スピークルの舞・盾","fr":"Danse de Speakle : bouclier"}
+{"id":1497363,"jp":"クロス爪撃","fr":"Griffes croisées"}
+{"id":1497364,"jp":"継続的な出血","fr":"Saignement continu"}
+{"id":1497365,"jp":"クロスブレード","fr":"Lames croisées"}
+{"id":1497366,"jp":"クロスペイン","fr":"Douleur croisée"}
+{"id":1497367,"jp":"ブルークリスタル","fr":"Cristal bleu"}
+{"id":1497368,"jp":"攻撃が低下する。","fr":"Réduit l'ATQ."}
+{"id":1497369,"jp":"10辛グライド","fr":"Plané piquant 10"}
+{"id":1497371,"jp":"5辛フライト","fr":"Vol piquant 5"}
+{"id":1497372,"jp":"ララティの種","fr":"Graine de Laratee"}
+{"id":1497373,"jp":"ララッポの種","fr":"Graine de Larappo"}
+{"id":1497374,"jp":"湿気","fr":"Humidité"}
+{"id":1497375,"jp":"木属性ダメージアップ","fr":"Hausse des DGT de Bois"}
+{"id":1497376,"jp":"竜の怒り","fr":"Colère du dragon"}
+{"id":1497377,"jp":"HP上限アップ","fr":"Hausse des PV max"}
+{"id":1497378,"jp":"止まぬ狂風","fr":"Bourrasque sans fin"}
+{"id":1497380,"jp":"蓄風","fr":"Vent accumulé"}
+{"id":1497381,"jp":"砕氷","fr":"Brise-glace"}
+{"id":1497382,"jp":"縁結び","fr":"Nouer les liens"}
+{"id":1497383,"jp":"フィンヴォルフの慟哭","fr":"Lamentation de Finwolf"}
+{"id":1497384,"jp":"毒","fr":"Poison"}
+{"id":1497385,"jp":"裂傷","fr":"Lacération"}
+{"id":1497386,"jp":"呪い","fr":"Malédiction"}
+{"id":1497387,"jp":"HP上限アップ・小","fr":"Légère hausse des PV max"}
+{"id":1497388,"jp":"HP上限アップ・大","fr":"Forte hausse des PV max"}
+{"id":1497389,"jp":"攻撃力アップ・小","fr":"Légère hausse d'ATQ"}
+{"id":1497390,"jp":"攻撃力アップ・大","fr":"Forte hausse d'ATQ"}
+{"id":1497391,"jp":"物理防御力アップ・大","fr":"Forte hausse de DÉF physique"}
+{"id":1497392,"jp":"魔法防御力アップ・小","fr":"Légère hausse de DÉF magique"}
+{"id":1497393,"jp":"魔法防御力アップ・大","fr":"Forte hausse de DÉF magique"}
+{"id":1497394,"jp":"会心率アップ・小","fr":"Légère hausse du Taux CRIT"}
+{"id":1497395,"jp":"会心率アップ・大","fr":"Forte hausse du Taux CRIT"}
+{"id":1497420,"jp":"回復効果アップ・小","fr":"Légère hausse de l'effet de soin"}
+{"id":1497421,"jp":"回復効果アップ・大","fr":"Forte hausse de l'effet de soin"}
+{"id":1497424,"jp":"攻撃力ダウン・小","fr":"Légère baisse d'ATQ"}
+{"id":1497425,"jp":"攻撃力ダウン・大","fr":"Forte baisse d'ATQ"}
+{"id":1497426,"jp":"物理防御ダウン・小","fr":"Légère baisse de DÉF physique"}
+{"id":1497427,"jp":"物理防御ダウン・大","fr":"Forte baisse de DÉF physique"}
+{"id":1497428,"jp":"魔法防御ダウン・小","fr":"Légère baisse de DÉF magique"}
+{"id":1497429,"jp":"魔法防御ダウン・大","fr":"Forte baisse de DÉF magique"}
+{"id":1497448,"jp":"被ダメージアップ・小","fr":"Légère hausse des DGT subis"}
+{"id":1497449,"jp":"被ダメージ増加・小","fr":"Légère hausse des DGT subis"}
+{"id":1497450,"jp":"被ダメージアップ・大","fr":"Forte hausse des DGT subis"}
+{"id":1497451,"jp":"被ダメージ増加・大","fr":"Forte hausse des DGT subis"}
+{"id":1497454,"jp":"EX強度アップ・小","fr":"Légère hausse de la Puissance EX"}
+{"id":1497455,"jp":"EX強度アップ・大","fr":"Forte hausse de la Puissance EX"}
+{"id":1497456,"jp":"全属性耐性ダウン・小","fr":"Légère baisse des résistances élémentaires"}
+{"id":1497462,"jp":"被回復効果アップ・小","fr":"Légère hausse des soins reçus"}
+{"id":1497463,"jp":"被回復効果アップ・中","fr":"Hausse modérée des soins reçus"}
+{"id":1497464,"jp":"被回復効果アップ・大","fr":"Forte hausse des soins reçus"}
+{"id":1497465,"jp":"移動速度アップ・小","fr":"Légère hausse de vitesse de déplacement"}
+{"id":1497466,"jp":"移動速度アップ・中","fr":"Hausse modérée de vitesse de déplacement"}
+{"id":1497467,"jp":"移動速度アップ・大","fr":"Forte hausse de vitesse de déplacement"}
+{"id":1497468,"jp":"防御貫通アップ・小","fr":"Légère hausse de la Pénétration de DÉF"}
+{"id":1497469,"jp":"防御貫通アップ・中","fr":"Hausse modérée de la Pénétration de DÉF"}
+{"id":1497470,"jp":"防御貫通アップ・大","fr":"Forte hausse de la Pénétration de DÉF"}
+{"id":1497471,"jp":"会心率アップ・中","fr":"Hausse modérée du Taux CRIT"}
+{"id":1497473,"jp":"麻痺","fr":"Paralysie"}
+{"id":1497474,"jp":"地属性耐性ダウン","fr":"Baisse de résistance à la Terre"}
+{"id":1497476,"jp":"会心ダメージアップ","fr":"Hausse des DGT CRIT"}
+{"id":1497477,"jp":"全焼","fr":"Embrasement total"}
+{"id":1497478,"jp":"物理防御が低下する。","fr":"Réduit la DÉF physique."}
+{"id":1497479,"jp":"凍結異常","fr":"Gel progressif"}
+{"id":1497481,"jp":"凍結","fr":"Gel"}
+{"id":1497482,"jp":"霊木の星屑","fr":"Poussière d'étoiles de l'arbre sacré"}
+{"id":1497483,"jp":"深緑の斬撃","fr":"Taillade sylvestre"}
+{"id":1497484,"jp":"ロックロール","fr":"Roulade de roc"}
+{"id":1497485,"jp":"岩錐の散弾","fr":"Mitraille de pics rocheux"}
+{"id":1497486,"jp":"怒雷の閃撃","fr":"Éclair de la foudre furieuse"}
+{"id":1497487,"jp":"雷球の散弾","fr":"Mitraille d'orbes de foudre"}
+{"id":1497488,"jp":"レーザー光線","fr":"Rayon laser"}
+{"id":1497489,"jp":"雷の罠","fr":"Piège de foudre"}
+{"id":1497490,"jp":"輝光斬り","fr":"Taillade radieuse"}
+{"id":1497492,"jp":"シャドウスラッシュ","fr":"Taillade d'ombre"}
+{"id":1497493,"jp":"暗影連陣","fr":"Formation des ombres"}
+{"id":1497496,"jp":"防御力ダウン・小","fr":"Légère baisse de DÉF"}
+{"id":1497497,"jp":"氷属性耐性ダウン","fr":"Baisse de résistance à la Glace"}
+{"id":1497498,"jp":"木属性耐性ダウン","fr":"Baisse de résistance au Bois"}
+{"id":1497499,"jp":"虚無","fr":"Néant"}
+{"id":1497500,"jp":"回避率が上昇する。","fr":"Augmente le taux d'esquive."}
+{"id":1497501,"jp":"浮遊","fr":"Lévitation"}
+{"id":1497502,"jp":"バリア","fr":"Barrière"}
+{"id":1497505,"jp":"燃える甲殻","fr":"Carapace ardente"}
+{"id":1497506,"jp":"防御が上昇する。","fr":"Augmente la DÉF."}
+{"id":1497507,"jp":"粘着","fr":"Collant"}
+{"id":1497508,"jp":"活力活性化","fr":"Regain de vitalité"}
+{"id":1497509,"jp":"厚い毛皮","fr":"Fourrure épaisse"}
+{"id":1497511,"jp":"堅盾堅甲","fr":"Bouclier et cuirasse solides"}
+{"id":1497513,"jp":"苗","fr":"Pousse"}
+{"id":1497515,"jp":"無暇","fr":"Sans faille"}
+{"id":1497516,"jp":"耐性が上昇する。","fr":"Augmente la résistance."}
+{"id":1497517,"jp":"慎重","fr":"Prudence"}
+{"id":1497518,"jp":"不屈の闘志","fr":"Volonté indomptable"}
+{"id":1497519,"jp":"無エネミー","fr":"Aucun ennemi"}
+{"id":1497520,"jp":"高速飛行","fr":"Vol rapide"}
+{"id":1497521,"jp":"機敏","fr":"Agilité"}
+{"id":1497522,"jp":"防御が低下する。","fr":"Réduit la DÉF."}
+{"id":1497523,"jp":"予知","fr":"Prescience"}
+{"id":1497525,"jp":"火の感応","fr":"Affinité au Feu"}
+{"id":1497529,"jp":"水の感応","fr":"Affinité à l'Eau"}
+{"id":1497533,"jp":"氷の感応","fr":"Affinité à la Glace"}
+{"id":1497535,"jp":"風の感応","fr":"Affinité au Vent"}
+{"id":1497536,"jp":"木の感応","fr":"Affinité au Bois"}
+{"id":1497540,"jp":"地の感応","fr":"Affinité à la Terre"}
+{"id":1497541,"jp":"雷の感応","fr":"Affinité à la Foudre"}
+{"id":1497542,"jp":"光の感応","fr":"Affinité à la Lumière"}
+{"id":1497544,"jp":"闇の感応","fr":"Affinité aux Ténèbres"}
+{"id":1497545,"jp":"ダメージが増加する。","fr":"Augmente les DGT."}
+{"id":1497546,"jp":"継戦の決意","fr":"Détermination à poursuivre le combat"}
+{"id":1497547,"jp":"急激燃焼","fr":"Brûlure fulgurante"}
+{"id":1497548,"jp":"灼熱","fr":"Fournaise"}
+{"id":1497549,"jp":"ダメージ転移","fr":"Transfert de DGT"}
+{"id":1497550,"jp":"耐性が低下する。","fr":"Réduit la résistance."}
+{"id":1497551,"jp":"健やか","fr":"Bonne santé"}
+{"id":1497552,"jp":"最大HPが上昇する。","fr":"Augmente les PV max."}
+{"id":1497553,"jp":"反動","fr":"Contrecoup"}
+{"id":1497555,"jp":"流水掌握","fr":"Maîtrise de l'eau vive"}
+{"id":1497558,"jp":"歴戦の強者","fr":"Vétéran aguerri"}
+{"id":1497559,"jp":"迅速な爪","fr":"Griffes rapides"}
+{"id":1497560,"jp":"エネルギー供給","fr":"Apport d'Énergie"}
+{"id":1497562,"jp":"霊風流転","fr":"Cycle du vent spirituel"}
+{"id":1497564,"jp":"敏感","fr":"Sensibilité"}
+{"id":1497565,"jp":"スローペース","fr":"Rythme lent"}
+{"id":1497567,"jp":"冷笑","fr":"Ricanement"}
+{"id":1497568,"jp":"繁茂","fr":"Prolifération"}
+{"id":1497569,"jp":"自然の寵児","fr":"Enfant de la nature"}
+{"id":1497570,"jp":"守護","fr":"Protection"}
+{"id":1497571,"jp":"自己回復","fr":"Autoguérison"}
+{"id":1497573,"jp":"岩化","fr":"Pétrification"}
+{"id":1497574,"jp":"堅固","fr":"Robustesse"}
+{"id":1497577,"jp":"雷電激動","fr":"Déchaînement électrique"}
+{"id":1497578,"jp":"治癒","fr":"Guérison"}
+{"id":1497580,"jp":"適応","fr":"Adaptation"}
+{"id":1497581,"jp":"膨張","fr":"Gonflement"}
+{"id":1497582,"jp":"激燃","fr":"Brasier"}
+{"id":1497583,"jp":"早熟","fr":"Précocité"}
+{"id":1497584,"jp":"激戦態勢","fr":"Posture de combat acharné"}
+{"id":1497585,"jp":"水潮侵食","fr":"Érosion des marées"}
+{"id":1497586,"jp":"構造破壊","fr":"Destruction structurelle"}
+{"id":1497587,"jp":"優位確保","fr":"Avantage assuré"}
+{"id":1497588,"jp":"戦狂","fr":"Frénésie guerrière"}
+{"id":1497589,"jp":"狂潮","fr":"Marée furieuse"}
+{"id":1497590,"jp":"鋭気上昇","fr":"Hausse de vigueur"}
+{"id":1497591,"jp":"窮地回復","fr":"Sursaut de survie"}
+{"id":1497592,"jp":"ライフドレイン","fr":"Drain de vie"}
+{"id":1497593,"jp":"継続ダメージ","fr":"DGT sur la durée"}
+{"id":1497595,"jp":"迅速","fr":"Célérité"}
+{"id":1497596,"jp":"感応電場","fr":"Champ électrique réactif"}
+{"id":1497597,"jp":"瞬間庇護","fr":"Protection instantanée"}
+{"id":1497598,"jp":"興奮","fr":"Excitation"}
+{"id":1497599,"jp":"攻勢如潮","fr":"Offensive déferlante"}
+{"id":1497601,"jp":"危機潜在能力","fr":"Ressources du désespoir"}
+{"id":1497602,"jp":"防護束縛","fr":"Entrave défensive"}
+{"id":1497603,"jp":"意気盛ん","fr":"Grand entrain"}
+{"id":1497604,"jp":"迅撃","fr":"Frappe éclair"}
+{"id":1497606,"jp":"防御破壊一撃","fr":"Coup brise-défense"}
+{"id":1497607,"jp":"堅実","fr":"Constance"}
+{"id":1497608,"jp":"大胆不敵","fr":"Audace"}
+{"id":1497609,"jp":"水の庇護","fr":"Protection de l'eau"}
+{"id":1497610,"jp":"熱烈","fr":"Ferveur"}
+{"id":1497611,"jp":"動揺","fr":"Trouble"}
+{"id":1497613,"jp":"火の発揮","fr":"Manifestation du Feu"}
+{"id":1497614,"jp":"水の発揮","fr":"Manifestation de l'Eau"}
+{"id":1497615,"jp":"氷の発揮","fr":"Manifestation de la Glace"}
+{"id":1497616,"jp":"風の発揮","fr":"Manifestation du Vent"}
+{"id":1497617,"jp":"木の発揮","fr":"Manifestation du Bois"}
+{"id":1497618,"jp":"地の発揮","fr":"Manifestation de la Terre"}
+{"id":1497619,"jp":"雷の発揮","fr":"Manifestation de la Foudre"}
+{"id":1497620,"jp":"光の発揮","fr":"Manifestation de la Lumière"}
+{"id":1497621,"jp":"闇の発揮","fr":"Manifestation des Ténèbres"}
+{"id":1497622,"jp":"火の抵抗","fr":"Résistance au Feu"}
+{"id":1497623,"jp":"水の抵抗","fr":"Résistance à l'Eau"}
+{"id":1497624,"jp":"氷の抵抗","fr":"Résistance à la Glace"}
+{"id":1497625,"jp":"風の抵抗","fr":"Résistance au Vent"}
+{"id":1497627,"jp":"木の抵抗","fr":"Résistance au Bois"}
+{"id":1497628,"jp":"地の抵抗","fr":"Résistance à la Terre"}
+{"id":1497629,"jp":"雷の抵抗","fr":"Résistance à la Foudre"}
+{"id":1497630,"jp":"光の抵抗","fr":"Résistance à la Lumière"}
+{"id":1497632,"jp":"闇の抵抗","fr":"Résistance aux Ténèbres"}
+{"id":1497634,"jp":"鋭気","fr":"Vigueur"}
+{"id":1497635,"jp":"療養","fr":"Convalescence"}
+{"id":1497637,"jp":"縁","fr":"Lien du destin"}
+{"id":1497638,"jp":"繋がる縁","fr":"Destins liés"}
+{"id":1497639,"jp":"炎の足跡","fr":"Empreintes de flammes"}
+{"id":1497641,"jp":"火の玉爆発","fr":"Explosion de boule de feu"}
+{"id":1497643,"jp":"不滅の灼火","fr":"Flamme immortelle"}
+{"id":1497645,"jp":"火の盾","fr":"Bouclier de feu"}
+{"id":1497647,"jp":"烈焔柱","fr":"Piliers de flammes"}
+{"id":1497649,"jp":"灼熱火の玉","fr":"Boules de feu ardentes"}
+{"id":1497651,"jp":"ポイズントレイル","fr":"Traînée de poison"}
+{"id":1497655,"jp":"激浪","fr":"Vagues déchaînées"}
+{"id":1497657,"jp":"水の盾","fr":"Bouclier d'eau"}
+{"id":1497658,"jp":"氷の棘・射出","fr":"Épines de glace : tir"}
+{"id":1497660,"jp":"氷結シールド","fr":"Bouclier gelé"}
+{"id":1497661,"jp":"氷竜巻","fr":"Tornade de glace"}
+{"id":1497663,"jp":"氷霧の軌跡","fr":"Sillage de brume glacée"}
+{"id":1497665,"jp":"三重の嵐","fr":"Triple tempête"}
+{"id":1497667,"jp":"暴走","fr":"Déchaînement"}
+{"id":1497669,"jp":"旋風球","fr":"Orbe tourbillon"}
+{"id":1497671,"jp":"風刃連撃","fr":"Lames de vent en rafale"}
+{"id":1497673,"jp":"風の盾","fr":"Bouclier de vent"}
+{"id":1497674,"jp":"暴風領域","fr":"Zone de tempête"}
+{"id":1497676,"jp":"ソーンエリア","fr":"Zone de ronces"}
+{"id":1497678,"jp":"追跡の棘","fr":"Épines traqueuses"}
+{"id":1497680,"jp":"木の盾","fr":"Bouclier de bois"}
+{"id":1497681,"jp":"岩柱密布","fr":"Forêt de piliers rocheux"}
+{"id":1497683,"jp":"大地のシールド","fr":"Bouclier de la terre"}
+{"id":1497684,"jp":"岩錐スプラッシュ","fr":"Gerbe de pics rocheux"}
+{"id":1497686,"jp":"三重電球","fr":"Triple orbe de foudre"}
+{"id":1497688,"jp":"連鎖雷撃","fr":"Foudre en chaîne"}
+{"id":1497690,"jp":"不息の落雷","fr":"Foudre incessante"}
+{"id":1497692,"jp":"雷の盾","fr":"Bouclier de foudre"}
+{"id":1497693,"jp":"光の槍","fr":"Lance de lumière"}
+{"id":1497695,"jp":"行動妨害無効","fr":"Immunité aux entraves"}
+{"id":1497697,"jp":"ポテンシャル","fr":"Potentiel"}
+{"id":1497699,"jp":"追尾オーブ","fr":"Orbe à tête chercheuse"}
+{"id":1497701,"jp":"光の盾","fr":"Bouclier de lumière"}
+{"id":1497702,"jp":"呪いの暗球","fr":"Orbe sombre maudit"}
+{"id":1497704,"jp":"暗黒の牽引","fr":"Attraction ténébreuse"}
+{"id":1497706,"jp":"闇の盾","fr":"Bouclier des ténèbres"}
+{"id":1497710,"jp":"耐氷","fr":"Protection contre la Glace"}
+{"id":1497714,"jp":"耐風","fr":"Protection contre le Vent"}
+{"id":1497718,"jp":"耐闇","fr":"Protection contre les Ténèbres"}
+{"id":1497720,"jp":"火の怒り","fr":"Courroux du Feu"}
+{"id":1497722,"jp":"水の怒り","fr":"Courroux de l'Eau"}
+{"id":1497724,"jp":"氷の怒り","fr":"Courroux de la Glace"}
+{"id":1497726,"jp":"木の怒り","fr":"Courroux du Bois"}
+{"id":1497728,"jp":"地の怒り","fr":"Courroux de la Terre"}
+{"id":1497730,"jp":"風の怒り","fr":"Courroux du Vent"}
+{"id":1497732,"jp":"雷の怒り","fr":"Courroux de la Foudre"}
+{"id":1497734,"jp":"光の怒り","fr":"Courroux de la Lumière"}
+{"id":1497736,"jp":"闇の怒り","fr":"Courroux des Ténèbres"}
+{"id":1497738,"jp":"攻撃態勢","fr":"Posture offensive"}
+{"id":1497740,"jp":"防御力破壊","fr":"Destruction de DÉF"}
+{"id":1497744,"jp":"反撃","fr":"Contre-attaque"}
+{"id":1497746,"jp":"沼地-移動スキル禁止","fr":"Marais - compétences de déplacement interdites"}
+{"id":1497747,"jp":"移動スキル使用不可","fr":"Compétences de déplacement indisponibles"}
+{"id":1497748,"jp":"アシッドレイン","fr":"Pluie acide"}
+{"id":1497749,"jp":"氷霜領域","fr":"Zone de givre"}
+{"id":1497751,"jp":"防御リンク","fr":"Lien défensif"}
+{"id":1497754,"jp":"ポテンシャルバースト","fr":"Explosion de potentiel"}
+{"id":1497758,"jp":"スーパーアーマー","fr":"Super armure"}
+{"id":1497759,"jp":"復讐者","fr":"Vengeance"}
+{"id":1497762,"jp":"アーマーブレイク","fr":"Brise-armure"}
+{"id":1497763,"jp":"チャージ禁止","fr":"Charge interdite"}
+{"id":1497764,"jp":"無属性耐性アップ","fr":"Hausse de résistance neutre"}
+{"id":1497765,"jp":"戦闘前ウォームアップ","fr":"Échauffement d'avant-combat"}
+{"id":1497767,"jp":"背水の陣","fr":"Dos au mur"}
+{"id":1497768,"jp":"オーバードライブ","fr":"Surrégime"}
+{"id":1497770,"jp":"短気","fr":"Impatience"}
+{"id":1497773,"jp":"生命流転","fr":"Cycle de la vie"}
+{"id":1497776,"jp":"ループ加速","fr":"Boucle accélérée"}
+{"id":1497778,"jp":"士気減退","fr":"Moral en berne"}
+{"id":1497780,"jp":"攻撃力低下","fr":"Baisse d'ATQ"}
+{"id":1497781,"jp":"鉄壁強化","fr":"Rempart de fer renforcé"}
+{"id":1497783,"jp":"耐性値が40になる。","fr":"La résistance passe à 40."}
+{"id":1497784,"jp":"耐性値が上昇する。","fr":"Augmente la valeur de résistance."}
+{"id":1498077,"jp":"友愛団子","fr":"Dango de l'amitié"}
+{"id":1498079,"jp":"幸運の蒸しパン","fr":"Brioche vapeur porte-bonheur"}
+{"id":1498106,"jp":"料理効果：攻撃+5%","fr":"Effet du plat : ATQ +5%"}
+{"id":1498142,"jp":"豪奢な毛皮","fr":"Fourrure luxueuse"}
+{"id":1498145,"jp":"厚葉の植物","fr":"Plante à feuilles épaisses"}
+{"id":1498147,"jp":"蓄水の喉","fr":"Gorge-réservoir"}
+{"id":1498149,"jp":"鉄の蹄","fr":"Sabots de fer"}
+{"id":1498151,"jp":"チャージ結晶","fr":"Cristal de charge"}
+{"id":1498153,"jp":"熱々のお茶","fr":"Thé brûlant"}
+{"id":1498155,"jp":"先制の牙","fr":"Crocs de l'initiative"}
+{"id":1498157,"jp":"森の祝福","fr":"Bénédiction de la forêt"}
+{"id":1498158,"jp":"幽闇のオーラ","fr":"Aura ténébreuse"}
+{"id":1498159,"jp":"逆変換","fr":"Conversion inverse"}
+{"id":1498160,"jp":"風圧","fr":"Pression du vent"}
+{"id":1498163,"jp":"鼓舞の穀粒","fr":"Graines revigorantes"}
+{"id":1498164,"jp":"利発でかわいい","fr":"Vif et mignon"}
+{"id":1498165,"jp":"水を操る才能","fr":"Don pour l'eau"}
+{"id":1498166,"jp":"蓄電する芯","fr":"Noyau chargé"}
+{"id":1498167,"jp":"活性燐粉","fr":"Poussière revigorante"}
+{"id":1498168,"jp":"光の剣","fr":"Épée de lumière"}
+{"id":1498169,"jp":"重波","fr":"Vague lourde"}
+{"id":1498170,"jp":"闇炎の侵蝕","fr":"Érosion de flamme sombre"}
+{"id":1498171,"jp":"聖なる懲戒","fr":"Châtiment sacré"}
+{"id":1498172,"jp":"天空の領主","fr":"Seigneur des cieux"}
+{"id":1498173,"jp":"弾ける甘さ","fr":"Douceur pétillante"}
+{"id":1498174,"jp":"燐炎の迅刃","fr":"Lame vive de la flamme pâle"}
+{"id":1498175,"jp":"クイックチャージ","fr":"Charge rapide"}
+{"id":1498176,"jp":"大蒜の香り","fr":"Parfum d'ail"}
+{"id":1498177,"jp":"大狼降臨","fr":"Descente du grand loup"}
+{"id":1498178,"jp":"超幸運","fr":"Chance extrême"}
+{"id":1498179,"jp":"閃きが止まらない","fr":"Inspiration intarissable"}
+{"id":1498180,"jp":"驚異の知性","fr":"Intelligence prodigieuse"}
+{"id":1498181,"jp":"極寒の王威","fr":"Majesté du grand froid"}
+{"id":1498183,"jp":"寒悠悠","fr":"Han Youyou"}
+{"id":1498184,"jp":"12月15日","fr":"15 décembre"}
+{"id":1498187,"jp":"ポンポン","fr":"Pengpeng"}
+{"id":1498188,"jp":"3月12日","fr":"12 mars"}
+{"id":1498190,"jp":"ペイペイ","fr":"Peipei"}
+{"id":1498191,"jp":"8月30日","fr":"30 août"}
+{"id":1498193,"jp":"塗山小玉","fr":"Tushan Xiaoyu"}
+{"id":1498194,"jp":"3月17日","fr":"17 mars"}
+{"id":1498196,"jp":"リリィ","fr":"Lily"}
+{"id":1498197,"jp":"6月26日","fr":"26 juin"}
+{"id":1498199,"jp":"ルビーナ","fr":"Ruby"}
+{"id":1498200,"jp":"5月21日","fr":"21 mai"}
+{"id":1498203,"jp":"7月19日","fr":"19 juillet"}
+{"id":1498205,"jp":"シンフォーリア","fr":"Symphoria"}
+{"id":1498206,"jp":"4月11日","fr":"11 avril"}
+{"id":1498208,"jp":"メーツァ","fr":"Metsa"}
+{"id":1498209,"jp":"2月25日","fr":"25 février"}
+{"id":1498211,"jp":"アビィ","fr":"Abby"}
+{"id":1498212,"jp":"5月3日","fr":"3 mai"}
+{"id":1498214,"jp":"テララ","fr":"Terara"}
+{"id":1498215,"jp":"8月2日","fr":"2 août"}
+{"id":1498217,"jp":"ルルカ","fr":"Luruka"}
+{"id":1498218,"jp":"9月15日","fr":"15 septembre"}
+{"id":1498220,"jp":"ミィティ","fr":"Mitty"}
+{"id":1498221,"jp":"10月7日","fr":"7 octobre"}
+{"id":1498223,"jp":"カタル","fr":"Katalua"}
+{"id":1498224,"jp":"6月1日","fr":"1er juin"}
+{"id":1498226,"jp":"モーレン","fr":"Morwyn"}
+{"id":1498227,"jp":"2月15日","fr":"15 février"}
+{"id":1498229,"jp":"シャル","fr":"Shalle"}
+{"id":1498230,"jp":"1月6日","fr":"6 janvier"}
+{"id":1498232,"jp":"ファランタ","fr":"Faridah"}
+{"id":1498233,"jp":"5月10日","fr":"10 mai"}
+{"id":1498235,"jp":"キャスベル","fr":"Cathbelle"}
+{"id":1498236,"jp":"6月10日","fr":"10 juin"}
+{"id":1498238,"jp":"アニス","fr":"Anais"}
+{"id":1498239,"jp":"7月3日","fr":"3 juillet"}
+{"id":1498241,"jp":"？月？日","fr":"?/?"}
+{"id":1498244,"jp":"ノノ","fr":"Nono"}
+{"id":1498245,"jp":"11月25日","fr":"25 novembre"}
+{"id":1498247,"jp":"蘭香子","fr":"Lan Xiangzi"}
+{"id":1498248,"jp":"5月23日","fr":"23 mai"}
+{"id":1498250,"jp":"メイプル","fr":"Maple"}
+{"id":1498251,"jp":"8月8日","fr":"8 août"}
+{"id":1498253,"jp":"絆レベル6で受取可能","fr":"Disponible au niveau de Lien 6"}
+{"id":1498254,"jp":"メインクエストで獲得","fr":"Obtenu dans la quête principale"}
+{"id":1498257,"jp":"一期の縁結び・1","fr":"Liens d'une rencontre unique 1"}
+{"id":1498260,"jp":"星識レベル25で解放","fr":"Débloqué au niveau 25 de Savoir stellaire"}
+{"id":1498261,"jp":"一期の縁結び・2","fr":"Liens d'une rencontre unique 2"}
+{"id":1498265,"jp":"一期の縁結び・3","fr":"Liens d'une rencontre unique 3"}
+{"id":1498268,"jp":"騎士の宴・1","fr":"Festin de chevalerie 1"}
+{"id":1498271,"jp":"星識レベル30で解放","fr":"Débloqué au niveau 30 de Savoir stellaire"}
+{"id":1498272,"jp":"騎士の宴・2","fr":"Festin de chevalerie 2"}
+{"id":1498275,"jp":"騎士の宴・3","fr":"Festin de chevalerie 3"}
+{"id":1498278,"jp":"修行の道・1","fr":"La voie de l'entraînement 1"}
+{"id":1498281,"jp":"修行の道・2","fr":"La voie de l'entraînement 2"}
+{"id":1498284,"jp":"修行の道・3","fr":"La voie de l'entraînement 3"}
+{"id":1498287,"jp":"落ち着きのない小悪魔","fr":"Petite diablesse turbulente"}
+{"id":1498289,"jp":"絆レベル2で解放","fr":"Débloqué au niveau de Lien 2"}
+{"id":1498290,"jp":"修行は自分次第","fr":"L'entraînement ne dépend que de soi"}
+{"id":1498292,"jp":"絆レベル4で解放","fr":"Débloqué au niveau de Lien 4"}
+{"id":1498293,"jp":"壁登りの名人","fr":"As de l'escalade"}
+{"id":1498295,"jp":"絆レベル6で解放","fr":"Débloqué au niveau de Lien 6"}
+{"id":1498296,"jp":"千変万化の機関術","fr":"Mécanismes aux mille formes"}
+{"id":1498298,"jp":"絆レベル8で解放","fr":"Débloqué au niveau de Lien 8"}
+{"id":1498299,"jp":"お宝のありか","fr":"Là où dort le trésor"}
+{"id":1498301,"jp":"絆レベル10で解放","fr":"Débloqué au niveau de Lien 10"}
+{"id":1498302,"jp":"悪戯","fr":"Espièglerie"}
+{"id":1498304,"jp":"食べられる幸せ","fr":"Le bonheur de manger"}
+{"id":1498306,"jp":"『蛟龍戯珠』","fr":"« Le dragon joue avec la perle »"}
+{"id":1498308,"jp":"カンフー小熊猫","fr":"Panda roux kung-fu"}
+{"id":1498310,"jp":"マスターの修行","fr":"L'entraînement du maître"}
+{"id":1498312,"jp":"武への一途な思い","fr":"Dévotion aux arts martiaux"}
+{"id":1498314,"jp":"武侠活劇","fr":"Épopée wuxia"}
+{"id":1498316,"jp":"新しい修行","fr":"Nouvel entraînement"}
+{"id":1498320,"jp":"警戒態勢……","fr":"En alerte…"}
+{"id":1498322,"jp":"修行の真意","fr":"Le vrai sens de l'entraînement"}
+{"id":1498324,"jp":"これぞ因縁","fr":"C'était écrit"}
+{"id":1498326,"jp":"手放す知恵","fr":"La sagesse de lâcher prise"}
+{"id":1498328,"jp":"縁結びの乙女","fr":"La demoiselle qui noue les destins"}
+{"id":1498330,"jp":"場を温める芸技","fr":"L'art de briser la glace"}
+{"id":1498332,"jp":"見習いの少女","fr":"L'apprentie"}
+{"id":1498334,"jp":"騎士の心得","fr":"Le code de chevalerie"}
+{"id":1498336,"jp":"道中の幸運","fr":"La chance du voyage"}
+{"id":1498338,"jp":"ポケットいっぱいの","fr":"Plein les poches"}
+{"id":1498340,"jp":"ゆっくり成長中","fr":"Lente croissance"}
+{"id":1498342,"jp":"幼少期の贈りもの","fr":"Un cadeau d'enfance"}
+{"id":1498344,"jp":"啓蒙のパフォーマンス","fr":"Le spectacle révélateur"}
+{"id":1498346,"jp":"失敗と再構築","fr":"Échecs et reconstruction"}
+{"id":1498348,"jp":"忘れられない","fr":"Inoubliable"}
+{"id":1498352,"jp":"完全無欠","fr":"Irréprochable"}
+{"id":1498354,"jp":"予定表","fr":"Emploi du temps"}
+{"id":1498356,"jp":"姉妹","fr":"Sœurs"}
+{"id":1498360,"jp":"『源家』の娘","fr":"La fille de la « maison Minamoto »"}
+{"id":1498362,"jp":"長期菜食主義者","fr":"Végétarienne de longue date"}
+{"id":1498364,"jp":"ただの冗談","fr":"Juste une blague"}
+{"id":1498366,"jp":"ウィスパーフラワー","fr":"Fleur-murmure"}
+{"id":1498368,"jp":"風変わりな仲間","fr":"Une drôle de compagne"}
+{"id":1498370,"jp":"遥かなる故郷","fr":"Le pays natal lointain"}
+{"id":1498372,"jp":"森が語る物語","fr":"Ce que raconte la forêt"}
+{"id":1498374,"jp":"『翠緑の英冠』","fr":"« Couronne verdoyante »"}
+{"id":1498376,"jp":"ある晩のこと","fr":"Un soir"}
+{"id":1498378,"jp":"ウッドエルフの天賦","fr":"Le don des Elfes des bois"}
+{"id":1498380,"jp":"ガーデンの守護者","fr":"Gardienne du Jardin"}
+{"id":1498382,"jp":"好奇心","fr":"Curiosité"}
+{"id":1498384,"jp":"『栄養剤』","fr":"« Fortifiant »"}
+{"id":1498386,"jp":"変わった味覚","fr":"Des goûts étranges"}
+{"id":1498388,"jp":"要注意監視ターゲット","fr":"Sous haute surveillance"}
+{"id":1498390,"jp":"先祖返り","fr":"Atavisme"}
+{"id":1498392,"jp":"ガキ大将","fr":"Cheffe de bande"}
+{"id":1498394,"jp":"腰に下げた角笛","fr":"Le cor à la ceinture"}
+{"id":1498396,"jp":"ウルの虫歯","fr":"La carie d'Uru"}
+{"id":1498398,"jp":"馬鹿は風邪を引かない","fr":"Les idiots ne s'enrhument jamais"}
+{"id":1498404,"jp":"ルルカ特製薬湯","fr":"La décoction spéciale de Luruka"}
+{"id":1498406,"jp":"頼られたい","fr":"Qu'on puisse compter sur moi"}
+{"id":1498408,"jp":"万物のアウラの足音","fr":"Les pas de l'aura de toute chose"}
+{"id":1498410,"jp":"大切な家族","fr":"Une famille précieuse"}
+{"id":1498412,"jp":"手作りの武器","fr":"Une arme faite main"}
+{"id":1498414,"jp":"考えすぎ","fr":"Trop réfléchir"}
+{"id":1498416,"jp":"素直じゃない","fr":"Jamais franche"}
+{"id":1498420,"jp":"獣人なんかじゃない","fr":"Pas une Furrienne"}
+{"id":1498422,"jp":"磨かれるまえの原木","fr":"Du bois brut"}
+{"id":1498424,"jp":"害のない嘘","fr":"Un mensonge sans conséquence"}
+{"id":1498426,"jp":"先祖の歩み","fr":"Sur les pas des ancêtres"}
+{"id":1498428,"jp":"特別あつかい","fr":"Traitement de faveur"}
+{"id":1498430,"jp":"綿のようにふくらむ","fr":"Gonfler comme du coton"}
+{"id":1498432,"jp":"風とともに","fr":"Avec le vent"}
+{"id":1498434,"jp":"すべて買い","fr":"Tout acheter"}
+{"id":1498436,"jp":"悪意なき横暴","fr":"Tyrannie sans malice"}
+{"id":1498438,"jp":"無駄遣い厳禁","fr":"Gaspillage interdit"}
+{"id":1498440,"jp":"ティータイム愛好家","fr":"Passion de l'heure du thé"}
+{"id":1498442,"jp":"種族違い","fr":"Erreur sur le peuple"}
+{"id":1498444,"jp":"栄養補給","fr":"Ravitaillement"}
+{"id":1498446,"jp":"一直線に","fr":"Tout droit"}
+{"id":1498448,"jp":"悪意の感知","fr":"Flairer la malveillance"}
+{"id":1498450,"jp":"天の果てまで","fr":"Jusqu'au bout du ciel"}
+{"id":1498452,"jp":"実力至上主義","fr":"Seule compte la force"}
+{"id":1498454,"jp":"受け継がれたもの","fr":"Ce qui se transmet"}
+{"id":1498456,"jp":"換羽の最中","fr":"En pleine mue"}
+{"id":1498458,"jp":"赤辛子！赤辛子！","fr":"Piment rouge ! Piment rouge !"}
+{"id":1498460,"jp":"シャーマンの気苦労","fr":"Les soucis de la chamane"}
+{"id":1498462,"jp":"メイド修行、休止中","fr":"Formation de domestique en pause"}
+{"id":1498464,"jp":"雷霆万鈞の力","fr":"La force du tonnerre"}
+{"id":1498466,"jp":"これこそ浪費！","fr":"Ça, c'est du gaspillage !"}
+{"id":1498468,"jp":"みずからを主とする","fr":"Sa propre maîtresse"}
+{"id":1498470,"jp":"信頼の証","fr":"Une preuve de confiance"}
+{"id":1498472,"jp":"甘党","fr":"Bec sucré"}
+{"id":1498474,"jp":"絶対にダメよ！","fr":"Pas question !"}
+{"id":1498476,"jp":"そう呼ばれると……","fr":"Quand on m'appelle comme ça…"}
+{"id":1498478,"jp":"メリーちゃん","fr":"Petite Mary"}
+{"id":1498480,"jp":"どこに隠したの？","fr":"Caché où ?"}
+{"id":1498482,"jp":"狼少女かく語りき","fr":"Ainsi parlait la louve"}
+{"id":1498484,"jp":"ウッドエルフの好奇心","fr":"Curiosité d'Elfe des bois"}
+{"id":1498486,"jp":"ガーデナーの箴言","fr":"Les maximes de la jardinière"}
+{"id":1498488,"jp":"シャーマンの霊魂論","fr":"Théorie chamanique des âmes"}
+{"id":1498490,"jp":"無邪気な言葉","fr":"Paroles innocentes"}
+{"id":1498492,"jp":"頼れるハンマー","fr":"Un marteau fiable"}
+{"id":1498494,"jp":"友情が長続きする秘訣","fr":"Le secret d'une amitié durable"}
+{"id":1498496,"jp":"ブルルちゃんのこと","fr":"À propos de la petite Bururu"}
+{"id":1498498,"jp":"夢中の宝探し","fr":"Chasse au trésor en rêve"}
+{"id":1498500,"jp":"一緒に旅しよう","fr":"Voyageons ensemble"}
+{"id":1498502,"jp":"隔世も昨日のごとく","fr":"Des siècles, comme hier"}
+{"id":1498504,"jp":"同じ選択","fr":"Le même choix"}
+{"id":1498506,"jp":"人見知り","fr":"Timidité"}
+{"id":1498508,"jp":"奇妙な呪符","fr":"D'étranges talismans"}
+{"id":1498510,"jp":"食の好み","fr":"Goûts culinaires"}
+{"id":1498512,"jp":"ラッキーカラーは青","fr":"Couleur porte-bonheur : bleu"}
+{"id":1498514,"jp":"ふわふわになあれ","fr":"Doux comme un nuage"}
+{"id":1498516,"jp":"お姉さんとしての一面","fr":"Son côté grande sœur"}
+{"id":1498518,"jp":"秘密のノート","fr":"Le carnet secret"}
+{"id":1498520,"jp":"優秀すぎる職業病","fr":"Déformation professionnelle"}
+{"id":1498522,"jp":"自己紹介","fr":"Présentation"}
+{"id":1498524,"jp":"詳細・1","fr":"Détails 1"}
+{"id":1498526,"jp":"詳細・2","fr":"Détails 2"}
+{"id":1498528,"jp":"詳細・3","fr":"Détails 3"}
+{"id":1498530,"jp":"自分について・1","fr":"À mon sujet 1"}
+{"id":1498532,"jp":"自分について・2","fr":"À mon sujet 2"}
+{"id":1498534,"jp":"星臨者について・1","fr":"À propos de l'Enfant des étoiles 1"}
+{"id":1498536,"jp":"星臨者について・2","fr":"À propos de l'Enfant des étoiles 2"}
+{"id":1498542,"jp":"エピソード","fr":"Épisodes"}
+{"id":1498584,"jp":"準備は万端です。","fr":"Tout est prêt."}
+{"id":1498608,"jp":"いっしょに遊びたい？","fr":"On joue ensemble ?"}
+{"id":1498620,"jp":"また会えて嬉しいぞ！","fr":"Quel plaisir de se revoir !"}
+{"id":1498680,"jp":"ここにいる。","fr":"Je suis là."}
+{"id":1498693,"jp":"お宝？どこ？","fr":"Un trésor ? Où ça ?"}
+{"id":1498700,"jp":"うん？","fr":"Hm ?"}
+{"id":1498702,"jp":"気楽にいこ。","fr":"On y va tranquille."}
+{"id":1498703,"jp":"『星』を降らせよう。","fr":"Faisons tomber les « étoiles »."}
+{"id":1498708,"jp":"気楽にいこう。","fr":"Allons-y tranquillement."}
+{"id":1498808,"jp":"うっ、悔しい……","fr":"Argh, c'est rageant…"}
+{"id":1498809,"jp":"うん、いい気持ち！","fr":"Mmh, ça fait du bien !"}
+{"id":1498810,"jp":"テンポあげるよ！","fr":"On accélère le tempo !"}
+{"id":1498811,"jp":"いまだ！","fr":"Maintenant !"}
+{"id":1498812,"jp":"た～まや～～～！","fr":"Ta~ma~ya~~~ !"}
+{"id":1498814,"jp":"やったね、すごい！","fr":"Bravo, génial !"}
+{"id":1498816,"jp":"やっと私の番だね！","fr":"Enfin mon tour !"}
+{"id":1498819,"jp":"手加減はしないよ！","fr":"Pas de quartier !"}
+{"id":1498821,"jp":"罠だったの？","fr":"C'était un piège ?"}
+{"id":1498823,"jp":"ね、まだ行ける？","fr":"Hé, on tient encore ?"}
+{"id":1498824,"jp":"うんうん、いい感じ！","fr":"Oui, oui, ça se présente bien !"}
+{"id":1498836,"jp":"あとひと押しだねっ！","fr":"Encore un petit effort !"}
+{"id":1498837,"jp":"うわっ～痛そう～","fr":"Ouh~ ça doit faire mal~"}
+{"id":1498843,"jp":"軽く運動しよう！","fr":"Un peu d'exercice !"}
+{"id":1498848,"jp":"天下一の……夢が……","fr":"Mon rêve… de n'avoir… aucun égal…"}
+{"id":1498849,"jp":"さ、作戦のうちだっ！","fr":"C-c'était prévu !"}
+{"id":1498850,"jp":"これが内功だっ！","fr":"Voilà la force intérieure !"}
+{"id":1498852,"jp":"手を、はやくっ！","fr":"La main, vite !"}
+{"id":1498853,"jp":"隙だらけだっ！","fr":"Que d'ouvertures !"}
+{"id":1498856,"jp":"かかってこい！","fr":"En garde !"}
+{"id":1498857,"jp":"ポンポンも――！","fr":"Pengpeng en est aussi !"}
+{"id":1498861,"jp":"だ、大丈夫かっ！？","fr":"Ç-ça va ?!"}
+{"id":1498862,"jp":"なにか食べてー！","fr":"Il faut manger !"}
+{"id":1498864,"jp":"剛よく柔を断つ！","fr":"La force brise la souplesse !"}
+{"id":1498865,"jp":"柔よく剛を制す！","fr":"La souplesse dompte la force !"}
+{"id":1498873,"jp":"お？怒っちゃった？","fr":"Oh ? On se fâche ?"}
+{"id":1498876,"jp":"一気にいくぞっ！","fr":"On donne tout !"}
+{"id":1498878,"jp":"く、来るなぁっ！","fr":"N-non, pas plus près !"}
+{"id":1498884,"jp":"真の力を見せてやれ！","fr":"Place à la vraie puissance !"}
+{"id":1498890,"jp":"元気になりました！","fr":"La forme est revenue !"}
+{"id":1498892,"jp":"はやくはやく！","fr":"Vite, vite !"}
+{"id":1498893,"jp":"一気に決めましょう！","fr":"Finissons-en d'un coup !"}
+{"id":1498894,"jp":"弱点が見えました！","fr":"Je vois son point faible !"}
+{"id":1498899,"jp":"いつでもいけます！","fr":"J'attends le signal !"}
+{"id":1498903,"jp":"なにかあったの？","fr":"Il s'est passé quelque chose ?"}
+{"id":1498905,"jp":"止まっちゃだめです！","fr":"Pas question de s'arrêter !"}
+{"id":1498918,"jp":"そ、そんな！","fr":"C-ce n'est pas possible !"}
+{"id":1498919,"jp":"気を引き締めて……！","fr":"Concentration… !"}
+{"id":1498920,"jp":"金城鉄壁の守りです！","fr":"Une défense imprenable !"}
+{"id":1498924,"jp":"行きますよ、構えて！","fr":"C'est parti, en garde !"}
+{"id":1498925,"jp":"竹宝、手伝って！","fr":"Trésor de bambou, aide-moi !"}
+{"id":1498932,"jp":"ありがとう！","fr":"Merci !"}
+{"id":1498933,"jp":"すごいよ！","fr":"Génial !"}
+{"id":1498934,"jp":"この感じは……","fr":"Cette sensation…"}
+{"id":1498935,"jp":"えいやあぁっ！","fr":"Hiyaaah !"}
+{"id":1498936,"jp":"倒してみせる！","fr":"Je vais en venir à bout !"}
+{"id":1498939,"jp":"いまは任せて！","fr":"Pour l'instant, je m'en charge !"}
+{"id":1498940,"jp":"わたしも手伝わせて！","fr":"Moi aussi, je veux aider !"}
+{"id":1498942,"jp":"侮らないでよね……","fr":"Faut pas me sous-estimer…"}
+{"id":1498944,"jp":"えええ？なに！？","fr":"Eeeh ? Quoi ?!"}
+{"id":1498948,"jp":"息が、詰まりそう！","fr":"Je vais étouffer !"}
+{"id":1498952,"jp":"間一髪！","fr":"De justesse !"}
+{"id":1498955,"jp":"悔しそうだね……","fr":"Ça vexe, hein…"}
+{"id":1498960,"jp":"うっ、油断した……","fr":"Aïe, j'ai baissé ma garde…"}
+{"id":1498967,"jp":"ハイディ、お願い！","fr":"Heidi, à toi !"}
+{"id":1498971,"jp":"戦況、不利……","fr":"La bataille tourne mal…"}
+{"id":1498974,"jp":"決断のとき！","fr":"L'heure de trancher !"}
+{"id":1498975,"jp":"好機です！","fr":"C'est le moment !"}
+{"id":1498976,"jp":"いまです！","fr":"Maintenant !"}
+{"id":1498977,"jp":"露と消えなさい。","fr":"Disparais comme la rosée."}
+{"id":1498980,"jp":"影より、討たん。","fr":"Depuis l'ombre, je frappe."}
+{"id":1498981,"jp":"塵へと、還れ！","fr":"Retourne à la poussière !"}
+{"id":1498982,"jp":"冷静かつ、迅速に。","fr":"Avec calme et rapidité."}
+{"id":1498983,"jp":"源の名において。","fr":"Au nom des Minamoto."}
+{"id":1498985,"jp":"気をつけて。","fr":"Prudence."}
+{"id":1498988,"jp":"月を喰め、朧影……","fr":"Dévore la lune, Oborokage…"}
+{"id":1498989,"jp":"百代の刃。","fr":"La lame des cent générations."}
+{"id":1498990,"jp":"一刀両断！","fr":"Tranché net !"}
+{"id":1498993,"jp":"正確な判断ですね。","fr":"Un jugement juste."}
+{"id":1498994,"jp":"嵐が近いようです。","fr":"Une tempête approche, on dirait."}
+{"id":1498995,"jp":"いざ……参る。","fr":"Allons… j'y vais."}
+{"id":1498996,"jp":"怨嗟が満ち溢れて……","fr":"Tant de rancœur dans l'air…"}
+{"id":1498997,"jp":"落ち着いて、冷静に。","fr":"Du calme, gardons la tête froide."}
+{"id":1499007,"jp":"戦闘の準備を！","fr":"En position de combat !"}
+{"id":1499010,"jp":"まだ……いけます……","fr":"Je peux… encore continuer…"}
+{"id":1499011,"jp":"体が……重い……","fr":"Mon corps… est si lourd…"}
+{"id":1499012,"jp":"助かりました。","fr":"Merci pour l'aide."}
+{"id":1499013,"jp":"的を絞って……","fr":"Je vise…"}
+{"id":1499014,"jp":"時は満ちました。","fr":"L'heure est venue."}
+{"id":1499016,"jp":"的中です！","fr":"En plein dans le mille !"}
+{"id":1499018,"jp":"ふぅ……やりました！","fr":"Ouf… on a réussi !"}
+{"id":1499019,"jp":"ここは私が！","fr":"Je m'en occupe !"}
+{"id":1499021,"jp":"準備はできています！","fr":"Tout est prêt !"}
+{"id":1499025,"jp":"危険な状態です……","fr":"La situation est dangereuse…"}
+{"id":1499026,"jp":"気に乱れが……","fr":"Mon qi se trouble…"}
+{"id":1499027,"jp":"もっとはやく。","fr":"Plus vite."}
+{"id":1499028,"jp":"この風に乗って！","fr":"Au gré de ce vent !"}
+{"id":1499029,"jp":"嵐のように！","fr":"Comme une tempête !"}
+{"id":1499040,"jp":"大丈夫ですか！？","fr":"Tout va bien ?!"}
+{"id":1499043,"jp":"不穏な気配です……","fr":"Je sens une présence inquiétante…"}
+{"id":1499051,"jp":"まだ平気よ。","fr":"Ça va encore."}
+{"id":1499052,"jp":"ああ……私は……","fr":"Ah… je…"}
+{"id":1499053,"jp":"命はなんどでも……","fr":"La vie renaît toujours…"}
+{"id":1499056,"jp":"青く萌ゆる命よ！","fr":"Ô vie qui verdoie !"}
+{"id":1499057,"jp":"ここまでよ！","fr":"Ça s'arrête ici !"}
+{"id":1499058,"jp":"さすがね。","fr":"Chapeau."}
+{"id":1499059,"jp":"手強い相手だったわ。","fr":"C'était un adversaire coriace."}
+{"id":1499060,"jp":"いつもそばにいるわ。","fr":"Je suis toujours là."}
+{"id":1499061,"jp":"最後の戒めよ――","fr":"Dernier avertissement…"}
+{"id":1499063,"jp":"剪定の時間ね。","fr":"C'est l'heure de la taille."}
+{"id":1499064,"jp":"草を摘まなくては。","fr":"Il faut arracher les mauvaises herbes."}
+{"id":1499068,"jp":"大地に根ざし。","fr":"Prendre racine dans la terre."}
+{"id":1499069,"jp":"野に芽生え。","fr":"Germer dans les champs."}
+{"id":1499070,"jp":"満開に花開く！","fr":"Et s'épanouir en pleine floraison !"}
+{"id":1499079,"jp":"葉はやがて落ちる……","fr":"Les feuilles finissent par tomber…"}
+{"id":1499080,"jp":"木はいつか枯れる……","fr":"Un jour, l'arbre se fane…"}
+{"id":1499088,"jp":"優しくしてあげてね。","fr":"Avec douceur, d'accord ?"}
+{"id":1499089,"jp":"そんな……","fr":"Ce n'est pas possible…"}
+{"id":1499093,"jp":"がまん、泣かない……","fr":"Tenir bon, pas pleurer…"}
+{"id":1499096,"jp":"竜の、力を……！","fr":"La force… du dragon… !"}
+{"id":1499097,"jp":"アビィは、負けない。","fr":"Abby va pas perdre."}
+{"id":1499098,"jp":"すごい！","fr":"Trop fort !"}
+{"id":1499099,"jp":"もうあそばない！","fr":"Fini de jouer !"}
+{"id":1499100,"jp":"うん、ぜんぶたおす。","fr":"Oui, je les bats tous."}
+{"id":1499101,"jp":"きゅうけい。","fr":"Pause."}
+{"id":1499103,"jp":"みんなであそぶ！","fr":"On joue ensemble !"}
+{"id":1499104,"jp":"ぜったい勝つ。","fr":"Je vais gagner, c'est sûr."}
+{"id":1499105,"jp":"だいじょうぶ？","fr":"Ça va ?"}
+{"id":1499106,"jp":"ちょっと心配……","fr":"Ça m'inquiète un peu…"}
+{"id":1499107,"jp":"なにかはむはむする？","fr":"On grignote quelque chose ?"}
+{"id":1499108,"jp":"たのしい。","fr":"C'est amusant."}
+{"id":1499109,"jp":"敵、たおす！","fr":"Battre l'ennemi !"}
+{"id":1499110,"jp":"ぎゃおぉぉー！","fr":"Graaaoh !"}
+{"id":1499111,"jp":"すごいね、よしよし。","fr":"Bravo, c'est bien, c'est bien."}
+{"id":1499112,"jp":"うん、やっちゃえ。","fr":"Oui, à l'attaque."}
+{"id":1499113,"jp":"はやい！すごい！","fr":"Rapide ! Trop fort !"}
+{"id":1499114,"jp":"みんな、そろってる？","fr":"Tout le monde est là ?"}
+{"id":1499115,"jp":"うるさい。","fr":"Trop de bruit."}
+{"id":1499116,"jp":"めんどくさい。","fr":"Quelle corvée."}
+{"id":1499118,"jp":"おまえ、悪い子。","fr":"Toi, pas gentil."}
+{"id":1499119,"jp":"はやく、敵、たおす。","fr":"Vite, battre l'ennemi."}
+{"id":1499120,"jp":"もう終わり？","fr":"C'est déjà fini ?"}
+{"id":1499121,"jp":"この……！","fr":"Espèce de… !"}
+{"id":1499127,"jp":"こわくないよ。","fr":"Ça fait pas peur."}
+{"id":1499128,"jp":"ん……ふん！","fr":"Mmh… hmpf !"}
+{"id":1499134,"jp":"燃えてきた！","fr":"Je m'enflamme !"}
+{"id":1499135,"jp":"まだ使わないのか？","fr":"On l'utilise pas encore ?"}
+{"id":1499136,"jp":"力が湧いてきたぞっ！","fr":"Je sens la force monter !"}
+{"id":1499137,"jp":"た～お～れ～ろ～！！","fr":"À teeeerre !!"}
+{"id":1499140,"jp":"行くぞっ！","fr":"J'y vais !"}
+{"id":1499141,"jp":"もうちょい……はっ！","fr":"Encore un peu… hah !"}
+{"id":1499143,"jp":"遊びじゃないぞ！","fr":"C'est pas un jeu !"}
+{"id":1499145,"jp":"ど、どうした？","fr":"Q-qu'est-ce qui se passe ?"}
+{"id":1499146,"jp":"おいおい〜！？","fr":"Hé, hé, hé ?!"}
+{"id":1499148,"jp":"まだまだ行けるぞっ！","fr":"J'en ai encore sous le pied !"}
+{"id":1499149,"jp":"止まったりしない！","fr":"Pas question de m'arrêter !"}
+{"id":1499150,"jp":"みんなのおかげだ！","fr":"C'est grâce à tout le monde !"}
+{"id":1499151,"jp":"よくやったな、相棒！","fr":"Bien joué, partenaire !"}
+{"id":1499153,"jp":"ハンターみたいだな！","fr":"Un vrai talent de chasse !"}
+{"id":1499156,"jp":"うっ、強くなった！？","fr":"Argh, il est devenu plus fort ?!"}
+{"id":1499157,"jp":"しつこいな……","fr":"Quel acharnement…"}
+{"id":1499158,"jp":"本気で行くぞ！","fr":"Je passe aux choses sérieuses !"}
+{"id":1499165,"jp":"な、なんだこれ……","fr":"Q-qu'est-ce que c'est que ça…"}
+{"id":1499167,"jp":"行くぞ、相棒！","fr":"On y va, partenaire !"}
+{"id":1499168,"jp":"ウル、任せたぞ！","fr":"Uru, je compte sur toi !"}
+{"id":1499170,"jp":"違う違う！","fr":"Non, non, pas comme ça !"}
+{"id":1499175,"jp":"新しい力を……","fr":"Une nouvelle force…"}
+{"id":1499178,"jp":"やりましたね！","fr":"On a réussi !"}
+{"id":1499179,"jp":"上手くいきましたね！","fr":"Ça a marché !"}
+{"id":1499181,"jp":"援護します！","fr":"Je couvre !"}
+{"id":1499184,"jp":"森羅万象の祝福を……","fr":"Que toute la création nous bénisse…"}
+{"id":1499185,"jp":"気をつけてください！","fr":"Attention !"}
+{"id":1499188,"jp":"潮満ちて。","fr":"La marée monte."}
+{"id":1499189,"jp":"流れは川に。","fr":"Le courant rejoint la rivière."}
+{"id":1499190,"jp":"高波に乗って！","fr":"Sur la crête de la vague !"}
+{"id":1499207,"jp":"行くよ！","fr":"C'est parti !"}
+{"id":1499208,"jp":"わたしの声に応えて！","fr":"Réponds à mon appel !"}
+{"id":1499214,"jp":"侮らないでよね！","fr":"Faut pas me sous-estimer !"}
+{"id":1499216,"jp":"雷轟電撃！","fr":"Fracas du tonnerre !"}
+{"id":1499218,"jp":"よし！","fr":"Bien !"}
+{"id":1499220,"jp":"アタシならできる。","fr":"Je peux le faire."}
+{"id":1499228,"jp":"ざっとこんなものよ。","fr":"Voilà, c'était pas plus dur que ça."}
+{"id":1499231,"jp":"助かったわ！","fr":"Merci, ça m'a sauvé la mise !"}
+{"id":1499233,"jp":"なかなかいい動きね。","fr":"Pas mal, ces mouvements."}
+{"id":1499237,"jp":"めんどうね……","fr":"Quelle plaie…"}
+{"id":1499238,"jp":"むかつくわね……","fr":"Ça m'énerve…"}
+{"id":1499242,"jp":"あれは……避けて！","fr":"Ça… à esquiver !"}
+{"id":1499243,"jp":"攻撃が……効かない！","fr":"Les attaques… ne font rien !"}
+{"id":1499251,"jp":"なかなかやるようね！","fr":"Pas mal du tout !"}
+{"id":1499252,"jp":"こんな……嘘よ……","fr":"Non… c'est impossible…"}
+{"id":1499253,"jp":"いいタイミングよ！","fr":"Pile au bon moment !"}
+{"id":1499255,"jp":"フィナーレよ！","fr":"Place au final !"}
+{"id":1499256,"jp":"雷爆！","fr":"Explosion de foudre !"}
+{"id":1499257,"jp":"隙あり！","fr":"Une faille !"}
+{"id":1499261,"jp":"鳴り響いて。","fr":"Que ça résonne."}
+{"id":1499265,"jp":"この不穏な気配は……","fr":"Cette présence inquiétante…"}
+{"id":1499267,"jp":"嫌な匂いね……","fr":"Ça sent mauvais…"}
+{"id":1499271,"jp":"やったわね！","fr":"Bien joué !"}
+{"id":1499273,"jp":"雷の合図で、攻勢よ！","fr":"Au signal du tonnerre, on attaque !"}
+{"id":1499279,"jp":"勝機が見えたわ！","fr":"La victoire est à portée !"}
+{"id":1499280,"jp":"これにて、終幕よ。","fr":"Et le rideau tombe."}
+{"id":1499281,"jp":"回避に専念なさい。","fr":"Priorité à l'esquive."}
+{"id":1499287,"jp":"一緒に行きましょう。","fr":"Allons-y ensemble."}
+{"id":1499288,"jp":"跪かせてあげなさい！","fr":"Mettons-le à genoux !"}
+{"id":1499291,"jp":"ね、心を開いて？","fr":"Dis, ouvre-moi ton cœur ?"}
+{"id":1499292,"jp":"いけません……","fr":"Non, il ne faut pas…"}
+{"id":1499294,"jp":"ふぅ、助かりました。","fr":"Ouf, merci pour l'aide."}
+{"id":1499295,"jp":"いいリズムです。","fr":"Bon rythme."}
+{"id":1499297,"jp":"突き破れ！","fr":"Perce leur garde !"}
+{"id":1499298,"jp":"素晴らしい狙いです。","fr":"Superbe visée."}
+{"id":1499300,"jp":"ここに。","fr":"Me voici."}
+{"id":1499308,"jp":"続けましょう。","fr":"Continuons."}
+{"id":1499310,"jp":"この命、尽きるまで！","fr":"Jusqu'à mon dernier souffle !"}
+{"id":1499315,"jp":"まだ抗うのですか？","fr":"Encore de la résistance ?"}
+{"id":1499316,"jp":"無駄な抵抗です。","fr":"Toute résistance est inutile."}
+{"id":1499320,"jp":"危ない！避けて！","fr":"Attention ! Il faut esquiver !"}
+{"id":1499325,"jp":"私についてきて！","fr":"Par ici, avec moi !"}
+{"id":1499331,"jp":"ここ、までか……","fr":"C'est donc… la fin…"}
+{"id":1499333,"jp":"風に包まれて。","fr":"Dans les bras du vent."}
+{"id":1499334,"jp":"強き風を放て。","fr":"Que souffle un vent puissant."}
+{"id":1499335,"jp":"時は来た！","fr":"L'heure est venue !"}
+{"id":1499336,"jp":"逃がすか！","fr":"Pas d'échappatoire !"}
+{"id":1499337,"jp":"好機だ。","fr":"C'est l'occasion."}
+{"id":1499338,"jp":"静まれ！","fr":"Du calme !"}
+{"id":1499342,"jp":"私の槍は、折れない。","fr":"Ma lance ne rompra pas."}
+{"id":1499343,"jp":"鷹神とともに。","fr":"Avec le dieu Faucon."}
+{"id":1499344,"jp":"注意するんだ。","fr":"Vigilance."}
+{"id":1499345,"jp":"油断するな。","fr":"Pas de relâchement."}
+{"id":1499346,"jp":"なにをしている。","fr":"Que fais-tu ?"}
+{"id":1499347,"jp":"気流が上昇している。","fr":"Un courant ascendant."}
+{"id":1499348,"jp":"この風を捕えて……","fr":"Saisir ce vent…"}
+{"id":1499349,"jp":"嵐のなかへ！","fr":"Dans la tempête !"}
+{"id":1499350,"jp":"元気そうだ。","fr":"Ça a l'air d'aller."}
+{"id":1499352,"jp":"危なかったな。","fr":"C'était moins une."}
+{"id":1499353,"jp":"ここが、狩場だ。","fr":"Voici le terrain de chasse."}
+{"id":1499355,"jp":"まだ動けるのか。","fr":"Ça bouge encore ?"}
+{"id":1499356,"jp":"無駄な抵抗はよせ。","fr":"Inutile de résister."}
+{"id":1499357,"jp":"抗う強さは認めよう。","fr":"Ta résistance force le respect."}
+{"id":1499358,"jp":"もう終わりだ。","fr":"C'est terminé."}
+{"id":1499360,"jp":"ケガは？","fr":"Pas de blessure ?"}
+{"id":1499361,"jp":"危険だ、避けろ！","fr":"Danger, on esquive !"}
+{"id":1499362,"jp":"獲物が守りを固めた。","fr":"La proie renforce sa défense."}
+{"id":1499366,"jp":"ともに狩ろう。","fr":"Chassons ensemble."}
+{"id":1499369,"jp":"手ごわい獲物だっ……","fr":"Une proie coriace…"}
+{"id":1499372,"jp":"危ない……","fr":"Ça sent le roussi…"}
+{"id":1499373,"jp":"まさか、こんな……","fr":"Non, pas comme ça…"}
+{"id":1499375,"jp":"いいタイミング！","fr":"Pile au bon moment !"}
+{"id":1499376,"jp":"こっちが有利だよ！","fr":"L'avantage est à nous !"}
+{"id":1499377,"jp":"さすが！","fr":"Bravo !"}
+{"id":1499378,"jp":"邪魔しないで！","fr":"Hors de mon chemin !"}
+{"id":1499379,"jp":"私の番だね！","fr":"À mon tour !"}
+{"id":1499381,"jp":"はじまるよ！","fr":"Ça commence !"}
+{"id":1499382,"jp":"出番ね。","fr":"À moi de jouer."}
+{"id":1499383,"jp":"後悔させてあげる。","fr":"Tu vas le regretter."}
+{"id":1499384,"jp":"ようすが変だよ……","fr":"Il y a quelque chose de bizarre…"}
+{"id":1499385,"jp":"大丈夫？","fr":"Ça va ?"}
+{"id":1499387,"jp":"この調子で！","fr":"Continuons comme ça !"}
+{"id":1499388,"jp":"続けて！","fr":"On continue !"}
+{"id":1499389,"jp":"最後まで！","fr":"Jusqu'au bout !"}
+{"id":1499390,"jp":"思い切りやってね！","fr":"À fond, d'accord !"}
+{"id":1499392,"jp":"的確な判断ね！","fr":"Bien vu !"}
+{"id":1499393,"jp":"空気が重い……","fr":"L'air est lourd…"}
+{"id":1499394,"jp":"待ってました！","fr":"Enfin !"}
+{"id":1499395,"jp":"集中して。","fr":"Concentration."}
+{"id":1499396,"jp":"気を抜かないで。","fr":"Garde haute."}
+{"id":1499397,"jp":"きっとあとすこし。","fr":"Ça doit bientôt finir."}
+{"id":1499398,"jp":"急いで。","fr":"Vite."}
+{"id":1499399,"jp":"迷わないで。","fr":"Pas d'hésitation."}
+{"id":1499400,"jp":"まだ負けてない……！","fr":"Ce n'est pas encore perdu… !"}
+{"id":1499402,"jp":"にぎやかだね！","fr":"Quelle animation !"}
+{"id":1499405,"jp":"手加減はいらないよ！","fr":"Pas besoin de retenue !"}
+{"id":1499409,"jp":"どんどんいくよ！","fr":"On enchaîne !"}
+{"id":1499410,"jp":"いい調子だ！","fr":"Ça roule !"}
+{"id":1499411,"jp":"思いっきりやろう！","fr":"Allons-y à fond !"}
+{"id":1499412,"jp":"嫌な予感がする。","fr":"J'ai un mauvais pressentiment."}
+{"id":1499420,"jp":"お宝探検隊、入る？","fr":"Envie d'entrer dans la brigade des trésors ?"}
+{"id":1499421,"jp":"たいへん。","fr":"Oh là là."}
+{"id":1499422,"jp":"むー、もう、だめ……","fr":"Mmh… plus… possible…"}
+{"id":1499423,"jp":"力、入った。","fr":"Force, chargée."}
+{"id":1499424,"jp":"力、出す！","fr":"Force, à fond !"}
+{"id":1499427,"jp":"うん、グッジョブ。","fr":"Oui. Bon boulot."}
+{"id":1499429,"jp":"もういっかい？うん。","fr":"Encore une fois ? D'accord."}
+{"id":1499430,"jp":"うん。","fr":"Oui."}
+{"id":1499431,"jp":"ノノ、がんばる。","fr":"Nono va faire de son mieux."}
+{"id":1499434,"jp":"まずいまずい。","fr":"Aïe aïe aïe."}
+{"id":1499435,"jp":"なんか、大変かも……","fr":"Ça a l'air… un peu grave…"}
+{"id":1499436,"jp":"どんどんどん！","fr":"Boum, boum, boum !"}
+{"id":1499437,"jp":"打ち続ける！","fr":"On cogne, on cogne !"}
+{"id":1499438,"jp":"とめられなーい。","fr":"Impossible d'arrêteeer."}
+{"id":1499439,"jp":"かっこいい！","fr":"Trop classe !"}
+{"id":1499440,"jp":"その子の、でばん！","fr":"C'est son tour !"}
+{"id":1499441,"jp":"とつげきとつげきー！","fr":"À l'assaut, à l'assaut !"}
+{"id":1499443,"jp":"いやな……感じ。","fr":"Mauvais… pressentiment."}
+{"id":1499444,"jp":"あいつ、怒ってる？","fr":"Il est en colère, celui-là ?"}
+{"id":1499445,"jp":"ノノ、しんけん。","fr":"Nono est sérieuse."}
+{"id":1499447,"jp":"ぜんぶ、ぶっ潰すー。","fr":"On écrase tout."}
+{"id":1499448,"jp":"わあ、いたそう。","fr":"Ouh, ça doit faire mal."}
+{"id":1499449,"jp":"大変、逃げる。","fr":"Oh là, on fuit."}
+{"id":1499452,"jp":"うわ、変わった。","fr":"Oh, il a changé."}
+{"id":1499453,"jp":"割れた！","fr":"Cassé !"}
+{"id":1499454,"jp":"ぶっ飛ばすー。","fr":"Je l'envoie valser."}
+{"id":1499455,"jp":"ブルルちゃん、ゴー！","fr":"Bururu, en avant !"}
+{"id":1499456,"jp":"あ、これ、よくない。","fr":"Ah, ça, c'est pas bon."}
+{"id":1499457,"jp":"ノノ……だめだった？","fr":"Nono… a raté ?"}
+{"id":1499459,"jp":"ううっ、痛いにゃ……","fr":"Aïe, ça fait mal, nya…"}
+{"id":1499461,"jp":"負けないもん！","fr":"Je perdrai pas, na !"}
+{"id":1499462,"jp":"チャンス到来！","fr":"Voilà notre chance !"}
+{"id":1499464,"jp":"パーフェクトな戦術！","fr":"Une stratégie parfaite !"}
+{"id":1499465,"jp":"勝利への近道！","fr":"Le raccourci vers la victoire !"}
+{"id":1499466,"jp":"すっご～い！","fr":"Trop génial !"}
+{"id":1499467,"jp":"さすがね！","fr":"Bravo, comme toujours !"}
+{"id":1499468,"jp":"メイプルのターン！","fr":"Au tour de Maple !"}
+{"id":1499473,"jp":"気を抜いちゃダメ～！","fr":"On ne relâche pas sa garde !"}
+{"id":1499475,"jp":"も～しつこいなぁ！","fr":"Rooh, quel pot de colle !"}
+{"id":1499476,"jp":"まだまだ行くよ～！","fr":"Et c'est pas fini !"}
+{"id":1499478,"jp":"パーフェクトコンボ！","fr":"Combo parfait !"}
+{"id":1499484,"jp":"ど、どういうこと？","fr":"C-comment ça ?"}
+{"id":1499485,"jp":"なんだか変にゃ！","fr":"C'est bizarre, nya !"}
+{"id":1499487,"jp":"もうひと押しだにゃ！","fr":"Encore un petit effort, nya !"}
+{"id":1499488,"jp":"あとちょっと！","fr":"Presque !"}
+{"id":1499490,"jp":"危ない、避けて！","fr":"Attention, il faut esquiver !"}
+{"id":1499493,"jp":"この変化は……","fr":"Ce changement…"}
+{"id":1499499,"jp":"もう休みたい……","fr":"J'ai envie de me reposer…"}
+{"id":1499501,"jp":"ぽかぽかしてきた！","fr":"Ça me réchauffe !"}
+{"id":1499503,"jp":"花がもう開くよ！","fr":"Les fleurs vont éclore !"}
+{"id":1499504,"jp":"芳しき花、枝に満つ！","fr":"Fleurs parfumées, couvrez les branches !"}
+{"id":1499505,"jp":"来たれ、花吹雪！","fr":"Viens, tempête de pétales !"}
+{"id":1499506,"jp":"神兵、天より来たる！","fr":"Soldats divins, descendez des cieux !"}
+{"id":1499507,"jp":"風吹きて、香も消ゆ！","fr":"Le vent souffle, le parfum s'efface !"}
+{"id":1499514,"jp":"もう！ついてないね！","fr":"Rooh ! Quelle poisse !"}
+{"id":1499515,"jp":"悪縁には要注意だよ！","fr":"Gare aux liens funestes !"}
+{"id":1499516,"jp":"桃花の霞、天に満つ。","fr":"Une brume de fleurs de pêcher emplit le ciel."}
+{"id":1499517,"jp":"春風、桃花を揺らす。","fr":"La brise de printemps berce les fleurs de pêcher."}
+{"id":1499518,"jp":"錦まとい、八雲立つ！","fr":"Drapés de brocart, les nuages s'amoncellent !"}
+{"id":1499519,"jp":"すごいのいっくよー！","fr":"Attention, ça va être énorme !"}
+{"id":1499521,"jp":"縁の糸が震えてる……","fr":"Les fils du destin tremblent…"}
+{"id":1499527,"jp":"いまが好機だよ！","fr":"C'est maintenant ou jamais !"}
+{"id":1499528,"jp":"油断しなーい……！","fr":"Pas de relâchemeeent… !"}
+{"id":1499534,"jp":"勝利を引き寄せて！","fr":"Attirons la victoire !"}
+{"id":1499540,"jp":"魂魄、帰せん！","fr":"Âme et esprit, retournez !"}
+{"id":1499541,"jp":"現れたまえ、霊符よ！","fr":"Apparais, talisman !"}
+{"id":1499542,"jp":"呪符を解き放ちます。","fr":"Je libère le talisman."}
+{"id":1499544,"jp":"おとなしく、して！","fr":"Tout doux, du calme !"}
+{"id":1499545,"jp":"すごい……","fr":"Incroyable…"}
+{"id":1499555,"jp":"霊符連環！","fr":"Chaîne de talismans !"}
+{"id":1499558,"jp":"わああ、お見事です。","fr":"Waouh, magnifique."}
+{"id":1499580,"jp":"ここまで、か……","fr":"Voilà… où ça s'arrête…"}
+{"id":1499582,"jp":"ガンファイア～！","fr":"Feu nourri !"}
+{"id":1499583,"jp":"『アレ』の出番ね！","fr":"Le moment de sortir « le truc » !"}
+{"id":1499584,"jp":"一撃必殺！","fr":"Coup fatal !"}
+{"id":1499585,"jp":"見逃せない瞬間ね！","fr":"Un moment à ne pas manquer !"}
+{"id":1499588,"jp":"ショータイム！","fr":"Que le spectacle commence !"}
+{"id":1499589,"jp":"スナイプショット！","fr":"Tir de précision !"}
+{"id":1499596,"jp":"テクニカルショット！","fr":"Tir technique !"}
+{"id":1499604,"jp":"思ったより粘るなあ。","fr":"Plus coriace que prévu."}
+{"id":1499610,"jp":"気をつけて！","fr":"Prudence !"}
+{"id":1499615,"jp":"勝利をその手に！","fr":"À nous la victoire !"}
+{"id":1499620,"jp":"腕が……重い……","fr":"Mes bras… sont si lourds…"}
+{"id":1499623,"jp":"暗雲を穿て。","fr":"Perce les nuages sombres."}
+{"id":1499625,"jp":"雷霆のごとく……！","fr":"Tel le tonnerre… !"}
+{"id":1499629,"jp":"ご指示に従います。","fr":"Je suivrai les instructions."}
+{"id":1499632,"jp":"お掃除の時間ですね。","fr":"C'est l'heure du ménage."}
+{"id":1499637,"jp":"終わりません。","fr":"Ce n'est pas fini."}
+{"id":1499638,"jp":"雷鳴は止まず。","fr":"Le tonnerre gronde sans fin."}
+{"id":1499639,"jp":"大地を震わす！","fr":"Que la terre tremble !"}
+{"id":1499642,"jp":"すばやい方ですね。","fr":"Quelle rapidité."}
+{"id":1499645,"jp":"吐き気がします。","fr":"Ça me donne la nausée."}
+{"id":1499647,"jp":"消えてください。","fr":"Disparaissez, je vous prie."}
+{"id":1499656,"jp":"粛清しましょう！","fr":"Purgeons-les !"}
+{"id":1499662,"jp":"すぐに治るわ……","fr":"Ça va vite guérir…"}
+{"id":1499663,"jp":"効いてきたわ。","fr":"Ça commence à faire effet."}
+{"id":1499666,"jp":"すごいわ！","fr":"Formidable !"}
+{"id":1499668,"jp":"見守っているわ。","fr":"Je veille."}
+{"id":1499672,"jp":"体調に気を配って！","fr":"Attention à la santé !"}
+{"id":1499674,"jp":"体を大事にしてね？","fr":"Il faut prendre soin de sa santé, hein ?"}
+{"id":1499675,"jp":"いけるわ！","fr":"Ça va le faire !"}
+{"id":1499682,"jp":"持ちこたえるのよ。","fr":"Il faut tenir bon."}
+{"id":1499683,"jp":"諦めないで。","fr":"On n'abandonne pas."}
+{"id":1499684,"jp":"観念しなさい。","fr":"Rends-toi."}
+{"id":1499685,"jp":"震えているの？","fr":"Tu trembles ?"}
+{"id":1499688,"jp":"もう！懲りない子ね。","fr":"Rooh ! Incorrigible, celui-là."}
+{"id":1499692,"jp":"頼んだわ！","fr":"Je compte sur toi !"}
+{"id":1499694,"jp":"今度は逃さないわ。","fr":"Cette fois, pas d'échappatoire."}
+{"id":1499695,"jp":"……悪い子ね。","fr":"… Pas sage, ça."}
+{"id":1499698,"jp":"みんな、ごめん……","fr":"Pardon, tout le monde…"}
+{"id":1499699,"jp":"まだ、行けるよ……","fr":"Ça peut encore aller…"}
+{"id":1499700,"jp":"もっと堅く！","fr":"Plus solide !"}
+{"id":1499702,"jp":"もっと、前に！","fr":"Toujours plus loin !"}
+{"id":1499703,"jp":"こ、この隙に！","fr":"C-c'est le moment !"}
+{"id":1499707,"jp":"い、行くよ！","fr":"J-j'y vais !"}
+{"id":1499709,"jp":"逃げ道は、ない！","fr":"Aucune issue !"}
+{"id":1499710,"jp":"だ、大丈夫！？","fr":"Ç-ça va ?!"}
+{"id":1499711,"jp":"まだ立てる……？","fr":"Possible de se relever… ?"}
+{"id":1499712,"jp":"体勢を整えて……","fr":"On se remet en place…"}
+{"id":1499715,"jp":"これが、仲間……！","fr":"Alors c'est ça, avoir des amis… !"}
+{"id":1499717,"jp":"まだ、終わってない！","fr":"Ce n'est pas fini !"}
+{"id":1499731,"jp":"一緒に戦って！","fr":"Combattons ensemble !"}
+{"id":1499742,"jp":"楽勝楽勝～。","fr":"Fastoche, fastoche."}
+{"id":1499747,"jp":"なかなかの収穫だね。","fr":"Pas mal, la récolte."}
+{"id":1499758,"jp":"見つかっちゃった……","fr":"Oups, je me suis fait voir…"}
+{"id":1499765,"jp":"勝った！","fr":"Gagné !"}
+{"id":1499767,"jp":"私に任せて！","fr":"Je m'en charge !"}
+{"id":1499770,"jp":"はぁ。","fr":"Haa."}
+{"id":1499771,"jp":"それっ！","fr":"Et hop !"}
+{"id":1499772,"jp":"早いでしょ？／どう？","fr":"Rapide, hein ?／Alors ?"}
+{"id":1499773,"jp":"よっ。","fr":"Hop."}
+{"id":1499774,"jp":"やっ！","fr":"Yah !"}
+{"id":1499775,"jp":"よいしょっ！","fr":"Hop là !"}
+{"id":1499776,"jp":"ツバメみたいでしょ！","fr":"Comme une hirondelle !"}
+{"id":1499777,"jp":"よしっ、出発！","fr":"Allez, en route !"}
+{"id":1499779,"jp":"舟はもういらないね。","fr":"Plus besoin de bateau."}
+{"id":1499786,"jp":"はっ！","fr":"Hah !"}
+{"id":1499787,"jp":"ほっ！","fr":"Hop !"}
+{"id":1499788,"jp":"はあっ！","fr":"Haaa !"}
+{"id":1499789,"jp":"なっ！","fr":"Quoi !"}
+{"id":1499790,"jp":"飛檐走壁！","fr":"Murs et toits, rien ne m'arrête !"}
+{"id":1499806,"jp":"おぉーかしこいなっ！","fr":"Ooh, malin !"}
+{"id":1499813,"jp":"あいつ、敵だなっ！","fr":"Celui-là, c'est un ennemi !"}
+{"id":1499817,"jp":"これがポンポンだっ！","fr":"Ça, c'est Pengpeng !"}
+{"id":1499826,"jp":"らくしょーだっ！","fr":"Fastoche !"}
+{"id":1499827,"jp":"いくぞっ！","fr":"C'est parti !"}
+{"id":1499828,"jp":"ひゅん！","fr":"Fiouu !"}
+{"id":1499829,"jp":"ぴょんっ。","fr":"Hop."}
+{"id":1499830,"jp":"じゃんぷ！","fr":"Saut !"}
+{"id":1499833,"jp":"閉気のしゅぎょーか？","fr":"C'est un entraînement d'apnée ?"}
+{"id":1499834,"jp":"こいっ！","fr":"Approche !"}
+{"id":1499839,"jp":"ひょいっ。","fr":"Hop."}
+{"id":1499840,"jp":"わわっ。","fr":"Ouh là."}
+{"id":1499841,"jp":"うっ！？|わっ……！","fr":"Argh ?!|Oh… !"}
+{"id":1499842,"jp":"えい！","fr":"Hya !"}
+{"id":1499849,"jp":"宝探しも騎士の務め！","fr":"Chasser le trésor, c'est aussi le devoir d'un chevalier !"}
+{"id":1499853,"jp":"よし、採ってみよう！","fr":"Allez, on cueille !"}
+{"id":1499868,"jp":"さっきの技！見た？","fr":"La technique de tout à l'heure ! Vu ?"}
+{"id":1499869,"jp":"みんな、無事？","fr":"Tout le monde va bien ?"}
+{"id":1499873,"jp":"みんな、お疲れさま！","fr":"Beau travail, tout le monde !"}
+{"id":1499879,"jp":"はっ。","fr":"Hah."}
+{"id":1499880,"jp":"やっ。","fr":"Yah."}
+{"id":1499881,"jp":"う、うーん……！","fr":"Nn… nngh… !"}
+{"id":1499882,"jp":"よっと。","fr":"Et hop."}
+{"id":1499883,"jp":"ふっ。","fr":"Hmf."}
+{"id":1499884,"jp":"それっと！","fr":"Et hop là !"}
+{"id":1499885,"jp":"飛ぶよっ！","fr":"Je saute !"}
+{"id":1499889,"jp":"無事に着いたね！","fr":"Atterrissage réussi !"}
+{"id":1499893,"jp":"立て直す！","fr":"On se reprend !"}
+{"id":1499894,"jp":"わっ！","fr":"Wah !"}
+{"id":1499902,"jp":"開けてみましょう。","fr":"Ouvrons-le."}
+{"id":1499933,"jp":"すぅー……","fr":"Inspiiire…"}
+{"id":1499934,"jp":"うんしょっ！","fr":"Hop !"}
+{"id":1499935,"jp":"うーん……","fr":"Hmm…"}
+{"id":1499936,"jp":"視界が開けました……","fr":"La vue se dégage…"}
+{"id":1499938,"jp":"とても静かです。","fr":"C'est très calme."}
+{"id":1499940,"jp":"つぎの予定は……","fr":"Au programme ensuite…"}
+{"id":1499944,"jp":"ーーっ！","fr":"Hnn… !"}
+{"id":1499945,"jp":"んっ。","fr":"Mmh."}
+{"id":1499946,"jp":"ーーっと。","fr":"Et… hop."}
+{"id":1499947,"jp":"よっ！","fr":"Hop !"}
+{"id":1499948,"jp":"んっ、届きました。","fr":"Mmh, je l'ai atteint."}
+{"id":1499985,"jp":"よい結果ですね。","fr":"Un bon résultat."}
+{"id":1499986,"jp":"こちらへ！","fr":"Par ici !"}
+{"id":1499987,"jp":"よっ……！","fr":"Hop… !"}
+{"id":1499988,"jp":"風のごとく。","fr":"Comme le vent."}
+{"id":1499989,"jp":"風に乗って。","fr":"Au fil du vent."}
+{"id":1499991,"jp":"風が凪いでいます……","fr":"Le vent est tombé…"}
+{"id":1499992,"jp":"あなたに任せますね。","fr":"Je vous laisse faire."}
+{"id":1499997,"jp":"たっ！","fr":"Hop !"}
+{"id":1499998,"jp":"風の力を！","fr":"Force du vent !"}
+{"id":1500005,"jp":"豪奢な宝箱だわ……","fr":"Quel coffre somptueux…"}
+{"id":1500008,"jp":"あれが見えるかしら？","fr":"Et ça, là-bas ?"}
+{"id":1500010,"jp":"これはあげるわ。","fr":"Voici un cadeau."}
+{"id":1500011,"jp":"新しい収穫ね。","fr":"Une nouvelle récolte."}
+{"id":1500014,"jp":"答えがわかったわ。","fr":"J'ai trouvé la réponse."}
+{"id":1500022,"jp":"気づかれたわ。","fr":"On s'est fait repérer."}
+{"id":1500023,"jp":"厄介だったわね。","fr":"C'était pénible."}
+{"id":1500024,"jp":"よくできたわね！","fr":"Bien joué !"}
+{"id":1500032,"jp":"ええ！わかったわ。","fr":"Oui ! Compris."}
+{"id":1500033,"jp":"約束は果たしたわ。","fr":"J'ai tenu ma promesse."}
+{"id":1500035,"jp":"んっ！","fr":"Mmh !"}
+{"id":1500036,"jp":"っしょ！","fr":"Hop !"}
+{"id":1500037,"jp":"行きましょう。","fr":"Allons-y."}
+{"id":1500038,"jp":"雲に触れたみたい。","fr":"On dirait que je touche les nuages."}
+{"id":1500040,"jp":"心地よい……","fr":"Que c'est agréable…"}
+{"id":1500042,"jp":"ここは……","fr":"Cet endroit…"}
+{"id":1500046,"jp":"あっ。","fr":"Ah."}
+{"id":1500047,"jp":"ふっ！","fr":"Hmf !"}
+{"id":1500048,"jp":"風のほうへ。","fr":"Vers le vent."}
+{"id":1500054,"jp":"出た、宝箱。","fr":"Un coffre, là."}
+{"id":1500055,"jp":"あの箱、きれい。","fr":"Ce coffre, joli."}
+{"id":1500056,"jp":"箱、持ってく？","fr":"Le coffre, on le prend ?"}
+{"id":1500057,"jp":"なにが入ってるの？","fr":"Qu'est-ce qu'il y a dedans ?"}
+{"id":1500058,"jp":"ぜんぶ、あげる。","fr":"Tout, cadeau."}
+{"id":1500059,"jp":"いいにおい……","fr":"Ça sent bon…"}
+{"id":1500060,"jp":"あそこ、見て。","fr":"Oh, là-bas."}
+{"id":1500063,"jp":"アビィ、持つ。","fr":"Abby porte."}
+{"id":1500064,"jp":"えらい、すごい！","fr":"Bravo, trop fort !"}
+{"id":1500065,"jp":"つぎもうまくいく。","fr":"La prochaine fois aussi, ça marchera."}
+{"id":1500069,"jp":"上に飛んでみたい。","fr":"Envie de voler là-haut."}
+{"id":1500070,"jp":"さわって、いいの？","fr":"Je peux toucher ?"}
+{"id":1500073,"jp":"ぶつかる。","fr":"Ça va cogner."}
+{"id":1500075,"jp":"たのしい！もう一回！","fr":"Trop bien ! Encore !"}
+{"id":1500076,"jp":"アビィの勝ち。","fr":"Abby a gagné."}
+{"id":1500078,"jp":"遊ぶのじょうず！","fr":"Quel talent pour jouer !"}
+{"id":1500082,"jp":"うん、いいよ。","fr":"Oui, d'accord."}
+{"id":1500084,"jp":"ごほうび、ある？","fr":"Il y a une récompense ?"}
+{"id":1500085,"jp":"えいっ。","fr":"Hop."}
+{"id":1500086,"jp":"しょっと。","fr":"Hop là."}
+{"id":1500087,"jp":"んっと……乗った！","fr":"Mmh… dessus !"}
+{"id":1500090,"jp":"ぶくぶくぶくぶく……","fr":"Blou blou blou blou…"}
+{"id":1500091,"jp":"お願い。","fr":"S'il te plaît."}
+{"id":1500092,"jp":"あそこで、遊ぶ？","fr":"On joue là-bas ?"}
+{"id":1500096,"jp":"ほっ。","fr":"Hop."}
+{"id":1500097,"jp":"とっ！","fr":"Tac !"}
+{"id":1500098,"jp":"うんっ。","fr":"Mmh !"}
+{"id":1500099,"jp":"飛んでいい？","fr":"Je peux voler ?"}
+{"id":1500108,"jp":"遠慮なくいただくぞ！","fr":"Je vais pas me gêner !"}
+{"id":1500112,"jp":"取ったぞ！","fr":"Je l'ai !"}
+{"id":1500115,"jp":"よっしゃ！成功！","fr":"Ouais ! Réussi !"}
+{"id":1500136,"jp":"えいっ！","fr":"Hop !"}
+{"id":1500137,"jp":"しょっと！","fr":"Hop là !"}
+{"id":1500138,"jp":"行くぞぉっ。","fr":"C'est partiii."}
+{"id":1500139,"jp":"飛んでる飛んでる！","fr":"On vole, on vole !"}
+{"id":1500142,"jp":"頼むよ、相棒！","fr":"Je compte sur toi, partenaire !"}
+{"id":1500145,"jp":"これでまた一歩前進！","fr":"Encore un pas en avant !"}
+{"id":1500146,"jp":"ぜ～んぶ見えてるぞ！","fr":"Je vois tooout !"}
+{"id":1500147,"jp":"とうっ。","fr":"Hya."}
+{"id":1500152,"jp":"いい天気ですね！","fr":"Quel beau temps !"}
+{"id":1500154,"jp":"見つけました。","fr":"J'ai trouvé quelque chose."}
+{"id":1500155,"jp":"こちらです。","fr":"C'est par ici."}
+{"id":1500157,"jp":"これは差し上げます。","fr":"Voici un présent."}
+{"id":1500160,"jp":"これは役に立ちます。","fr":"Ça va servir."}
+{"id":1500161,"jp":"いただきましょう。","fr":"Prenons-le."}
+{"id":1500163,"jp":"回収できました。","fr":"C'est récupéré."}
+{"id":1500164,"jp":"よかったです！","fr":"Tant mieux !"}
+{"id":1500185,"jp":"できました、はい！","fr":"C'est fait, voilà !"}
+{"id":1500186,"jp":"やあっ！","fr":"Yaah !"}
+{"id":1500187,"jp":"よっと……！","fr":"Et hop… !"}
+{"id":1500188,"jp":"空を目指して……","fr":"Cap sur le ciel…"}
+{"id":1500191,"jp":"お願いね。","fr":"Je compte sur toi."}
+{"id":1500196,"jp":"この地の力を！","fr":"Force de cette terre !"}
+{"id":1500202,"jp":"運がいいわね。","fr":"Quelle chance."}
+{"id":1500205,"jp":"全部持ってこ。","fr":"On prend tout."}
+{"id":1500206,"jp":"まあまあの収穫ね。","fr":"Une récolte correcte."}
+{"id":1500207,"jp":"持って帰るわよ。","fr":"On rapporte ça."}
+{"id":1500208,"jp":"ここよ！","fr":"Ici !"}
+{"id":1500209,"jp":"これで全部ね。","fr":"C'est tout."}
+{"id":1500211,"jp":"ちゃんと持ってよね！","fr":"Attention à bien le porter !"}
+{"id":1500213,"jp":"問題は解決したの？","fr":"Le problème est réglé ?"}
+{"id":1500228,"jp":"これくらい、当然よ！","fr":"Facile, évidemment !"}
+{"id":1500233,"jp":"はいっ。","fr":"Voilà."}
+{"id":1500234,"jp":"えい。","fr":"Hop."}
+{"id":1500235,"jp":"やっと。","fr":"Hop là."}
+{"id":1500236,"jp":"たあっ！","fr":"Taaah !"}
+{"id":1500237,"jp":"全速前進！","fr":"En avant toute !"}
+{"id":1500241,"jp":"手伝ってくれない？","fr":"Un coup de main ?"}
+{"id":1500246,"jp":"よいしょっ。","fr":"Ho hisse."}
+{"id":1500247,"jp":"ふんっ。","fr":"Hmpf."}
+{"id":1500248,"jp":"で……できるってば！","fr":"J-je sais le faire, j'ai dit !"}
+{"id":1500255,"jp":"私の目は欺けないわ。","fr":"Rien n'échappe à mes yeux."}
+{"id":1500257,"jp":"悪くないわ。","fr":"Pas mal."}
+{"id":1500261,"jp":"しまっておきなさい。","fr":"À ranger."}
+{"id":1500263,"jp":"うまく使いましょう。","fr":"Faisons-en bon usage."}
+{"id":1500275,"jp":"痛くも痒くもないわ。","fr":"Même pas mal."}
+{"id":1500284,"jp":"一区切りね。","fr":"Une étape de franchie."}
+{"id":1500286,"jp":"風とともに！","fr":"Avec le vent !"}
+{"id":1500287,"jp":"もっと高く！","fr":"Plus haut !"}
+{"id":1500288,"jp":"前進よ。","fr":"En avant."}
+{"id":1500292,"jp":"あなたの力が必要よ。","fr":"J'ai besoin de ta force."}
+{"id":1500298,"jp":"さらに高みへ！","fr":"Vers les sommets !"}
+{"id":1500317,"jp":"私が道を拓きます。","fr":"Je vais ouvrir la voie."}
+{"id":1500323,"jp":"諦めたようですね。","fr":"On dirait qu'ils abandonnent."}
+{"id":1500333,"jp":"これでよし、ですね。","fr":"Voilà, ça devrait aller."}
+{"id":1500335,"jp":"やぁっ。","fr":"Yah."}
+{"id":1500336,"jp":"翼とともに。","fr":"Avec mes ailes."}
+{"id":1500345,"jp":"遅い！","fr":"Trop lent !"}
+{"id":1500346,"jp":"落ち着いて、対処を！","fr":"Du calme, on gère !"}
+{"id":1500354,"jp":"これは、使える。","fr":"Ça, ça peut servir."}
+{"id":1500355,"jp":"予感が当たった。","fr":"Mon intuition était juste."}
+{"id":1500356,"jp":"これは君に預ける。","fr":"Je te confie ceci."}
+{"id":1500358,"jp":"なにか採れそうだ。","fr":"Il y a sûrement quelque chose à récolter."}
+{"id":1500360,"jp":"いい収穫だった。","fr":"Belle récolte."}
+{"id":1500361,"jp":"鞄に入れておこう。","fr":"Je le mets dans le sac."}
+{"id":1500362,"jp":"見事だ。","fr":"Remarquable."}
+{"id":1500363,"jp":"慣れてきたな。","fr":"Le coup de main vient."}
+{"id":1500366,"jp":"印象深いものだ。","fr":"Voilà qui marque."}
+{"id":1500367,"jp":"よく見てみよう。","fr":"Regardons de plus près."}
+{"id":1500368,"jp":"獲物の匂いだ。","fr":"Ça sent la proie."}
+{"id":1500371,"jp":"引き続き警戒を。","fr":"Restons sur nos gardes."}
+{"id":1500372,"jp":"予想通りの結果だ。","fr":"Comme prévu."}
+{"id":1500373,"jp":"続けよう。","fr":"Poursuivons."}
+{"id":1500374,"jp":"やっと終わった……","fr":"Enfin fini…"}
+{"id":1500378,"jp":"見事な狩りだった。","fr":"Une chasse magnifique."}
+{"id":1500380,"jp":"私が対処する。","fr":"Je m'en charge."}
+{"id":1500381,"jp":"これで一件落着だ。","fr":"Affaire réglée."}
+{"id":1500382,"jp":"予定通りだ。","fr":"Tout se passe comme prévu."}
+{"id":1500383,"jp":"ふっ","fr":"Hmf"}
+{"id":1500384,"jp":"風よっ。","fr":"Ô vent !"}
+{"id":1500385,"jp":"たっ。","fr":"Hop."}
+{"id":1500386,"jp":"それっ。","fr":"Et hop."}
+{"id":1500387,"jp":"ともに飛ぼう。","fr":"Volons ensemble."}
+{"id":1500389,"jp":"翼が濡れてしまう……","fr":"Mes ailes vont être trempées…"}
+{"id":1500390,"jp":"頼む。","fr":"Je compte sur toi."}
+{"id":1500393,"jp":"中継地にしよう。","fr":"Faisons-en une halte."}
+{"id":1500394,"jp":"空にまた近づいた。","fr":"Le ciel se rapproche encore."}
+{"id":1500399,"jp":"早い者勝ちだよね。","fr":"Premier arrivé, premier servi, non ?"}
+{"id":1500400,"jp":"これは見逃せない。","fr":"Impossible de rater ça."}
+{"id":1500401,"jp":"全部もらっておこう！","fr":"Je prends tout !"}
+{"id":1500403,"jp":"箱は……いらないや。","fr":"Le coffre… pas besoin."}
+{"id":1500407,"jp":"使えそうだね。","fr":"Ça a l'air utile."}
+{"id":1500408,"jp":"楽勝楽勝。","fr":"Fastoche, fastoche."}
+{"id":1500409,"jp":"よし。","fr":"Bien."}
+{"id":1500410,"jp":"ここにいるよ。","fr":"Je suis là."}
+{"id":1500411,"jp":"変わった見た目だね？","fr":"Drôle d'allure, non ?"}
+{"id":1500413,"jp":"厄介なヤツがいる。","fr":"Il y a un adversaire coriace."}
+{"id":1500415,"jp":"ふぅ。危なかったぁ。","fr":"Ouf. C'était moins une."}
+{"id":1500417,"jp":"おーわり！","fr":"Fiiini !"}
+{"id":1500422,"jp":"うん、私たちの勝ち！","fr":"Oui, on a gagné !"}
+{"id":1500425,"jp":"これでいいよね？","fr":"Ça devrait aller, non ?"}
+{"id":1500426,"jp":"簡単だったね。","fr":"C'était facile."}
+{"id":1500427,"jp":"来て！","fr":"Par ici !"}
+{"id":1500428,"jp":"上に行ってみよ。","fr":"Allons voir en haut."}
+{"id":1500429,"jp":"流れにのって……","fr":"Au fil du courant…"}
+{"id":1500438,"jp":"早い者勝ち、だよね。","fr":"Premier arrivé, premier servi, hein."}
+{"id":1500440,"jp":"全部もらったよ！","fr":"J'ai tout pris !"}
+{"id":1500441,"jp":"こんなものかぁ……","fr":"C'est tout, hein…"}
+{"id":1500442,"jp":"箱はいらないかな。","fr":"Le coffre, pas besoin, je crois."}
+{"id":1500444,"jp":"よし、採れた。","fr":"Bien, c'est récolté."}
+{"id":1500445,"jp":"悪くないね。","fr":"Pas mauvais."}
+{"id":1500448,"jp":"……っ！バレたか。","fr":"… ! Je me suis fait repérer ?"}
+{"id":1500449,"jp":"もう大丈夫？","fr":"Ça va mieux ?"}
+{"id":1500450,"jp":"いい戦いだった。","fr":"Beau combat."}
+{"id":1500451,"jp":"みんなのおかげだ。","fr":"Grâce à tout le monde."}
+{"id":1500455,"jp":"みんな、お疲れさま。","fr":"Bon travail, tout le monde."}
+{"id":1500456,"jp":"僕に任せて。","fr":"Je m'en charge."}
+{"id":1500457,"jp":"うん。完了だ！","fr":"Oui. Terminé !"}
+{"id":1500458,"jp":"順調だったね。","fr":"Tout s'est bien passé."}
+{"id":1500459,"jp":"ふわあああ……！","fr":"Waaaah… !"}
+{"id":1500460,"jp":"フンッ――","fr":"Hmpf…"}
+{"id":1500462,"jp":"おはよ。","fr":"B'jour."}
+{"id":1500464,"jp":"ねむい……","fr":"J'ai sommeil…"}
+{"id":1500467,"jp":"おぉー、キラキラ。","fr":"Ooh, ça brille."}
+{"id":1500469,"jp":"ぜんぶ、入れたよ。","fr":"Tout est rangé."}
+{"id":1500472,"jp":"持ってく？","fr":"On l'emporte ?"}
+{"id":1500473,"jp":"そこ！","fr":"Là !"}
+{"id":1500475,"jp":"もう……ない？","fr":"Il n'y en a… plus ?"}
+{"id":1500477,"jp":"すごい……！","fr":"Incroyable… !"}
+{"id":1500478,"jp":"だいたい、わかった。","fr":"J'ai à peu près compris."}
+{"id":1500482,"jp":"とくべつ。","fr":"Spécial."}
+{"id":1500484,"jp":"悪いやつ、いる。","fr":"Un méchant. Là."}
+{"id":1500485,"jp":"バレた。","fr":"Ça y est, ils savent."}
+{"id":1500486,"jp":"もう、だいじょうぶ。","fr":"C'est bon, maintenant."}
+{"id":1500487,"jp":"まだ元気、うん。","fr":"Encore en forme, oui."}
+{"id":1500489,"jp":"むぅ……疲れた……","fr":"Mmh… épuisant…"}
+{"id":1500492,"jp":"お宝、やまわけ。","fr":"Le trésor, on partage."}
+{"id":1500493,"jp":"ちゃんと、休んで……","fr":"Faut bien se reposer…"}
+{"id":1500494,"jp":"うむ。","fr":"Bien."}
+{"id":1500495,"jp":"かんりょー。","fr":"Terminééé."}
+{"id":1500496,"jp":"やすみたい……","fr":"Envie de repos…"}
+{"id":1500497,"jp":"は。","fr":"Ha."}
+{"id":1500498,"jp":"ぴょん。","fr":"Boing."}
+{"id":1500499,"jp":"ほいっ。","fr":"Hop."}
+{"id":1500500,"jp":"くるくる。","fr":"Ça tourne, ça tourne."}
+{"id":1500501,"jp":"いっしょに、行くよ。","fr":"On y va, ensemble."}
+{"id":1500502,"jp":"飛ぶー……！","fr":"Je vooole… !"}
+{"id":1500503,"jp":"バシャ……バシャ……","fr":"Plouf… plouf…"}
+{"id":1500505,"jp":"出てきて。","fr":"Sors de là."}
+{"id":1500506,"jp":"おー。","fr":"Ooh."}
+{"id":1500510,"jp":"え？","fr":"Hein ?"}
+{"id":1500511,"jp":"くうーっ……！","fr":"Nnngh… !"}
+{"id":1500512,"jp":"っしょ！……ふう。","fr":"Hop ! … Ouf."}
+{"id":1500518,"jp":"縁が導くほうに……","fr":"Là où mène le destin…"}
+{"id":1500519,"jp":"いいご縁がありそう！","fr":"Je sens une belle rencontre !"}
+{"id":1500520,"jp":"ふふーん、みーっけ！","fr":"Hé hé, trouvé !"}
+{"id":1500524,"jp":"これも集めておく？","fr":"On ramasse ça aussi ?"}
+{"id":1500525,"jp":"ぜーんぶ詰めたよ！","fr":"J'ai tout mis dans le sac !"}
+{"id":1500527,"jp":"もっと探しに行く？","fr":"On va en chercher d'autres ?"}
+{"id":1500541,"jp":"これも因果かあ……","fr":"Ça aussi, c'est écrit…"}
+{"id":1500544,"jp":"これにて功徳円満！","fr":"Et voilà, des mérites bien gagnés !"}
+{"id":1500545,"jp":"無理しなーい！","fr":"On ne force paaas !"}
+{"id":1500546,"jp":"えっ、うちが行くの？","fr":"Hein, c'est moi qui y vais ?"}
+{"id":1500547,"jp":"帰って、お話聞こ！","fr":"On rentre écouter l'histoire !"}
+{"id":1500549,"jp":"はあっ","fr":"Hah"}
+{"id":1500550,"jp":"えいっ","fr":"Hya"}
+{"id":1500555,"jp":"腕の見せどころだよ！","fr":"L'heure de montrer ce qu'on sait faire !"}
+{"id":1500560,"jp":"よっ","fr":"Hop"}
+{"id":1500561,"jp":"ふわっと！","fr":"Tout en légèreté !"}
+{"id":1500581,"jp":"華麗に登場♪","fr":"Entrée en beauté ♪"}
+{"id":1500585,"jp":"運命の最終試練よ！","fr":"L'épreuve finale du destin !"}
+{"id":1500589,"jp":"まだ完璧じゃない……","fr":"Pas encore parfait…"}
+{"id":1500596,"jp":"あたしに任せて！","fr":"Je m'en occupe !"}
+{"id":1500599,"jp":"ていっ。","fr":"Hya."}
+{"id":1500600,"jp":"うんっ！","fr":"Oui !"}
+{"id":1500601,"jp":"行こっか！","fr":"On y va ?"}
+{"id":1500602,"jp":"雲の上まで行こう！","fr":"Allons au-dessus des nuages !"}
+{"id":1500605,"jp":"いけるいける♪","fr":"Ça passe, ça passe ♪"}
+{"id":1500610,"jp":"んっと。","fr":"Mmh, voilà."}
+{"id":1500611,"jp":"これくらい！","fr":"Facile !"}
+{"id":1500636,"jp":"運がよろしいですね。","fr":"La chance est avec nous."}
+{"id":1500645,"jp":"承りました。","fr":"Bien reçu."}
+{"id":1500646,"jp":"お掃除、完了です。","fr":"Ménage terminé."}
+{"id":1500647,"jp":"綺麗に片付きました。","fr":"Tout est bien rangé."}
+{"id":1500648,"jp":"やあ！","fr":"Yah !"}
+{"id":1500649,"jp":"はあ！","fr":"Hah !"}
+{"id":1500650,"jp":"参りましょうか。","fr":"Allons-y ?"}
+{"id":1500654,"jp":"お仕事の時間です。","fr":"L'heure du travail."}
+{"id":1500659,"jp":"ご心配なく。","fr":"Pas d'inquiétude."}
+{"id":1500665,"jp":"宝物を見つけたわ。","fr":"J'ai trouvé un trésor."}
+{"id":1500666,"jp":"いいものみたいね。","fr":"Ça a l'air précieux."}
+{"id":1500667,"jp":"うれしい収穫よ。","fr":"Quelle bonne trouvaille."}
+{"id":1500668,"jp":"いい子へのご褒美ね。","fr":"Une récompense pour les enfants sages."}
+{"id":1500670,"jp":"お薬に使えるかも……","fr":"Ça pourrait servir pour un remède…"}
+{"id":1500672,"jp":"きっと役に立つわ。","fr":"Ça servira sûrement."}
+{"id":1500695,"jp":"これで解決ね。","fr":"Problème réglé."}
+{"id":1500696,"jp":"ひとまず安心ね。","fr":"On peut souffler, pour l'instant."}
+{"id":1500697,"jp":"ほい。","fr":"Hop."}
+{"id":1500698,"jp":"うん！","fr":"Oui !"}
+{"id":1500703,"jp":"お願いね！","fr":"Je compte sur toi !"}
+{"id":1500708,"jp":"てっ。","fr":"Hep."}
+{"id":1500709,"jp":"どうだ！","fr":"Et voilà !"}
+{"id":1500710,"jp":"平気よ。","fr":"Tout va bien."}
+{"id":1500716,"jp":"た、宝箱！","fr":"Un c-coffre !"}
+{"id":1500721,"jp":"……いいにおーい。","fr":"… Mmh, ça sent boon."}
+{"id":1500722,"jp":"こ、これは……！","fr":"Qu-qu'est-ce que c'est… !"}
+{"id":1500723,"jp":"順調だよ……！","fr":"Ça avance bien… !"}
+{"id":1500724,"jp":"いいもの、見つけた！","fr":"J'ai trouvé un truc bien !"}
+{"id":1500731,"jp":"あっ、これは……","fr":"Oh, ça…"}
+{"id":1500732,"jp":"て、ててて敵！","fr":"En-en-en-ennemi !"}
+{"id":1500733,"jp":"わ、わたしの後ろへ！","fr":"D-derrière moi !"}
+{"id":1500739,"jp":"た、頼もしい……","fr":"Q-quel soutien…"}
+{"id":1500740,"jp":"みんな、すごい……！","fr":"Tout le monde est incroyable… !"}
+{"id":1500742,"jp":"し、しっかり！","fr":"C-courage !"}
+{"id":1500743,"jp":"うん、頑張る……","fr":"Oui, je vais faire de mon mieux…"}
+{"id":1500745,"jp":"で、できたぁ！","fr":"J-j'ai réussi !"}
+{"id":1500746,"jp":"うっ！","fr":"Aïe !"}
+{"id":1500747,"jp":"てぇい！","fr":"Hyaa !"}
+{"id":1500749,"jp":"雲に近づいてるね……","fr":"Les nuages se rapprochent…"}
+{"id":1500752,"jp":"お願い！","fr":"S'il te plaît !"}
+{"id":1500755,"jp":"また一歩前進、だね！","fr":"Encore un pas en avant, hein !"}
+{"id":1500757,"jp":"むぅ！","fr":"Mmh !"}
+{"id":1500758,"jp":"気を、つけなきゃっ！","fr":"Faut… faire attention !"}
+{"id":1500770,"jp":"掘ってみますか？","fr":"On creuse ?"}
+{"id":1500772,"jp":"役に立ちそうですか？","fr":"Ça pourra servir ?"}
+{"id":1500775,"jp":"コツがあるのですね。","fr":"Il y a donc un tour de main."}
+{"id":1500781,"jp":"不穏な気配が……","fr":"Une présence inquiétante…"}
+{"id":1500796,"jp":"膝、曲がります！","fr":"Je plie les genoux !"}
+{"id":1500823,"jp":"ふぅ～成功だにゃ！","fr":"Ouf, réussi, nya !"}
+{"id":1500829,"jp":"敵だにゃ！","fr":"Un ennemi, nya !"}
+{"id":1500831,"jp":"バレちゃった！？","fr":"Je me suis fait repérer ?!"}
+{"id":1500832,"jp":"楽勝だったにゃん！","fr":"Trop facile, nyan !"}
+{"id":1500834,"jp":"やっと勝てた……！","fr":"Enfin une victoire… !"}
+{"id":1500837,"jp":"みんなすっご～い！","fr":"Tout le monde est trop fort !"}
+{"id":1500840,"jp":"まっかせて～！","fr":"Je m'en chaaarge !"}
+{"id":1500842,"jp":"メイプル、さっすが～","fr":"Maple, toujours au top !"}
+{"id":1500843,"jp":"次はどこに行こう？","fr":"On va où, maintenant ?"}
+{"id":1500847,"jp":"お願いおねがい～！","fr":"S'il te plaît, s'il te plaît !"}
+{"id":1500859,"jp":"わあ、宝箱！","fr":"Waouh, un coffre !"}
+{"id":1500866,"jp":"きっと役に立ちます。","fr":"Ce sera sûrement utile."}
+{"id":1500873,"jp":"入ってみますか？","fr":"On entre ?"}
+{"id":1500876,"jp":"でっかいやつ……！","fr":"Qu'il est gros… !"}
+{"id":1500878,"jp":"逃げちゃいました……","fr":"Il s'est enfui…"}
+{"id":1500888,"jp":"お役に立てましたか？","fr":"J'ai pu aider ?"}
+{"id":1500891,"jp":"もっともっと高く――","fr":"Plus haut, encore plus haut…"}
+{"id":1500892,"jp":"お水、ひやひやです。","fr":"L'eau est toute froide."}
+{"id":1500895,"jp":"はじめての場所です。","fr":"Un endroit tout nouveau."}
+{"id":1500896,"jp":"懐かしいにおい……","fr":"Une odeur qui rappelle des souvenirs…"}
+{"id":1500899,"jp":"くううぅー！","fr":"Nnnngh !"}
+{"id":1500900,"jp":"あらあら！","fr":"Oh là là !"}
+{"id":1500901,"jp":"燕さん、みたいに！","fr":"Comme les hirondelles !"}
+{"id":1500902,"jp":"シュネルフ","fr":"Schnelf"}
+{"id":1500903,"jp":"レイニィ","fr":"Rainy"}
+{"id":1500904,"jp":"レインエル","fr":"Rainel"}
+{"id":1500905,"jp":"タイダレスト","fr":"Tidalest"}
+{"id":1500906,"jp":"フィフィ","fr":"Fifi"}
+{"id":1500907,"jp":"ファイエル","fr":"Fayel"}
+{"id":1500908,"jp":"イグネスト","fr":"Ignest"}
+{"id":1500909,"jp":"モフンガ","fr":"Mohunga"}
+{"id":1500910,"jp":"イースガル","fr":"Isgar"}
+{"id":1500911,"jp":"フィンヴォルフ","fr":"Finwolf"}
+{"id":1500912,"jp":"キャベッコ","fr":"Cabbeco"}
+{"id":1500913,"jp":"キャバード","fr":"Cabbird"}
+{"id":1500914,"jp":"ボアラーガ","fr":"Boaraga"}
+{"id":1500915,"jp":"アズドラーン","fr":"Azdrahn"}
+{"id":1500916,"jp":"カメレウス","fr":"Chameleus"}
+{"id":1500917,"jp":"フラーメ","fr":"Flame"}
+{"id":1500918,"jp":"イグニープ","fr":"Igneep"}
+{"id":1500919,"jp":"ブレイオス","fr":"Breios"}
+{"id":1500920,"jp":"アイロ","fr":"Airo"}
+{"id":1500921,"jp":"トリマンダ","fr":"Trimanda"}
+{"id":1500922,"jp":"ギガンシャウラ","fr":"Giganshaura"}
+{"id":1500923,"jp":"ハルウ","fr":"Haru"}
+{"id":1500924,"jp":"ハルシィ","fr":"Halcy"}
+{"id":1500925,"jp":"ハルシヨン","fr":"Halcyon"}
+{"id":1500926,"jp":"ツーモ","fr":"Tsumo"}
+{"id":1500927,"jp":"ツリィフ","fr":"Treeff"}
+{"id":1500928,"jp":"ツルネフィ","fr":"Tsurnefi"}
+{"id":1500929,"jp":"ロッコロ","fr":"Rokkoro"}
+{"id":1500930,"jp":"センザロ","fr":"Senzaro"}
+{"id":1500931,"jp":"グランザロス","fr":"Granzaros"}
+{"id":1500932,"jp":"グリファ","fr":"Griffa"}
+{"id":1500933,"jp":"グリフォン","fr":"Griffon"}
+{"id":1500934,"jp":"ウィングリフ","fr":"Wingriff"}
+{"id":1500935,"jp":"チョノコ","fr":"Chonoko"}
+{"id":1500936,"jp":"サラマンド","fr":"Salamand"}
+{"id":1500937,"jp":"ホークル","fr":"Hawkle"}
+{"id":1500938,"jp":"スカイホーク","fr":"Skyhawk"}
+{"id":1500939,"jp":"ピョンルー","fr":"Pyonloo"}
+{"id":1500940,"jp":"フライリー","fr":"Flyly"}
+{"id":1500941,"jp":"メテオール","fr":"Staray"}
+{"id":1500942,"jp":"エレキリー","fr":"Electrilly"}
+{"id":1500943,"jp":"エレキカッター","fr":"Elekicutter"}
+{"id":1500944,"jp":"タナ","fr":"Tana"}
+{"id":1500945,"jp":"ウル","fr":"Uru"}
+{"id":1500946,"jp":"ぷーちゃん","fr":"Pu-chan"}
+{"id":1500947,"jp":"ペガサスノヴァ","fr":"Pegasus Nova"}
+{"id":1500948,"jp":"スノボウ","fr":"Snobow"}
+{"id":1500949,"jp":"スノウミー","fr":"Snowmy"}
+{"id":1500950,"jp":"シャルビット","fr":"Sharbit"}
+{"id":1500951,"jp":"ライカウモ","fr":"Raikaumo"}
+{"id":1500952,"jp":"グラゴ","fr":"Grago"}
+{"id":1500953,"jp":"アルマロ","fr":"Armaro"}
+{"id":1500954,"jp":"マグマロス","fr":"Magmaros"}
+{"id":1500955,"jp":"ブルル","fr":"Bururu"}
+{"id":1500956,"jp":"スウィーガ","fr":"Sweega"}
+{"id":1500957,"jp":"メロウミー","fr":"Mellowmee"}
+{"id":1500958,"jp":"ドロゲコ","fr":"Drogeko"}
+{"id":1500959,"jp":"フォローグ","fr":"Follog"}
+{"id":1500960,"jp":"シードロ","fr":"Seedro"}
+{"id":1500961,"jp":"シーロック","fr":"Searock"}
+{"id":1500962,"jp":"ラズリン","fr":"Lazurin"}
+{"id":1500963,"jp":"ラザドゥーナ","fr":"Lazadoona"}
+{"id":1500964,"jp":"アイシィ","fr":"Icy"}
+{"id":1500965,"jp":"アイシエル","fr":"Iciel"}
+{"id":1500966,"jp":"フローゼスト","fr":"Frozest"}
+{"id":1500967,"jp":"キラミィ","fr":"Kiramy"}
+{"id":1500968,"jp":"スターミィ","fr":"Starmy"}
+{"id":1500969,"jp":"ハーチャ","fr":"Harcha"}
+{"id":1500970,"jp":"フーモ","fr":"Fumo"}
+{"id":1500971,"jp":"フリィフ","fr":"Friff"}
+{"id":1500972,"jp":"フルネフィ","fr":"Furnefi"}
+{"id":1500973,"jp":"ウィンディ","fr":"Windy"}
+{"id":1500974,"jp":"ウィンデル","fr":"Windel"}
+{"id":1500975,"jp":"テンペスト","fr":"Tempest"}
+{"id":1500976,"jp":"ホーミィ","fr":"Homy"}
+{"id":1500977,"jp":"ワオッキー","fr":"Waokki"}
+{"id":1500978,"jp":"グルマンク","fr":"Gourmank"}
+{"id":1500979,"jp":"ドゥル","fr":"Dur"}
+{"id":1500980,"jp":"ガドリ","fr":"Gadori"}
+{"id":1500981,"jp":"ガヤック","fr":"Gayak"}
+{"id":1500982,"jp":"ブロン","fr":"Bron"}
+{"id":1500983,"jp":"ブローモル","fr":"Brawmoll"}
+{"id":1500984,"jp":"ルビッツ","fr":"Rubbits"}
+{"id":1500985,"jp":"ルビートル","fr":"Rubeetle"}
+{"id":1500986,"jp":"クリムゾル","fr":"Crimzol"}
+{"id":1500987,"jp":"ウッディ","fr":"Woody"}
+{"id":1500988,"jp":"ウッデル","fr":"Woodel"}
+{"id":1500989,"jp":"バインデスト","fr":"Bindest"}
+{"id":1500990,"jp":"ピーチィ","fr":"Peachy"}
+{"id":1500991,"jp":"メルッポ","fr":"Meluppo"}
+{"id":1500992,"jp":"スカーレック","fr":"Scarleck"}
+{"id":1500993,"jp":"リーモ","fr":"Leemo"}
+{"id":1500994,"jp":"ルリィフ","fr":"Lurif"}
+{"id":1500995,"jp":"ルルネフィ","fr":"Lurnefi"}
+{"id":1500996,"jp":"ラファウ","fr":"Rafau"}
+{"id":1500997,"jp":"ラディーバ","fr":"Radiiba"}
+{"id":1500998,"jp":"サンディ","fr":"Sandy"}
+{"id":1500999,"jp":"サンデル","fr":"Sandel"}
+{"id":1501000,"jp":"ヴォルテスト","fr":"Voltest"}
+{"id":1501001,"jp":"チーキィ","fr":"Cheeky"}
+{"id":1501002,"jp":"ニャバット","fr":"Titterbat"}
+{"id":1501003,"jp":"チェシャバット","fr":"Cheshabat"}
+{"id":1501004,"jp":"チーモ","fr":"Chimo"}
+{"id":1501005,"jp":"モルフォーレ","fr":"Morphore"}
+{"id":1501006,"jp":"ブルーダ","fr":"Bluda"}
+{"id":1501007,"jp":"ブルーシィグナ","fr":"Blue Cygna"}
+{"id":1501008,"jp":"トランゴ","fr":"Trango"}
+{"id":1501009,"jp":"キノカ","fr":"Kinoka"}
+{"id":1501010,"jp":"ブラウディ","fr":"Browdy"}
+{"id":1501011,"jp":"ファウンディ","fr":"Foundy"}
+{"id":1501012,"jp":"フィドロ","fr":"Fidoro"}
+{"id":1501013,"jp":"フィーロック","fr":"Fyrock"}
+{"id":1501014,"jp":"グルル","fr":"Gururu"}
+{"id":1501015,"jp":"モーニャ","fr":"Monya"}
+{"id":1501016,"jp":"メラリード","fr":"Melarid"}
+{"id":1501017,"jp":"レオバーンド","fr":"Leoburnd"}
+{"id":1501018,"jp":"ネビュリオン","fr":"Nebulion"}
+{"id":1501019,"jp":"シーモ","fr":"Seamo"}
+{"id":1501020,"jp":"シリィフ","fr":"Siliff"}
+{"id":1501021,"jp":"シルネフィ","fr":"Silnefi"}
+{"id":1501022,"jp":"ハーモ","fr":"Harmo"}
+{"id":1501023,"jp":"ハリィフ","fr":"Hariff"}
+{"id":1501024,"jp":"ハルネフィ","fr":"Harnefi"}
+{"id":1501025,"jp":"キングラーガ","fr":"Kingraga"}
+{"id":1501026,"jp":"モーモ","fr":"Momo"}
+{"id":1501027,"jp":"フレイモ","fr":"Flamo"}
+{"id":1501028,"jp":"タウリック","fr":"Taurick"}
+{"id":1501029,"jp":"フラウ","fr":"Furau"}
+{"id":1501030,"jp":"ボールモウ","fr":"Ballmow"}
+{"id":1501031,"jp":"フルーフォウス","fr":"Furuufousu"}
+{"id":1501032,"jp":"チーコ","fr":"Chico"}
+{"id":1501033,"jp":"ティーガ","fr":"Tiga"}
+{"id":1501034,"jp":"ガルティガー","fr":"Galtiger"}
+{"id":1501035,"jp":"リーフォ","fr":"Leafo"}
+{"id":1501036,"jp":"フラテール","fr":"Flatail"}
+{"id":1501037,"jp":"クローネック","fr":"Kronek"}
+{"id":1501038,"jp":"ビリバー","fr":"Biliver"}
+{"id":1501039,"jp":"ウェイバー","fr":"Waver"}
+{"id":1501040,"jp":"マスティーバ","fr":"Mustiva"}
+{"id":1501041,"jp":"ボマーク","fr":"Bomark"}
+{"id":1501042,"jp":"レイジャーク","fr":"Rayjark"}
+{"id":1501043,"jp":"メイルジャーク","fr":"Mailjark"}
+{"id":1501044,"jp":"パモーラ","fr":"Pamora"}
+{"id":1501045,"jp":"クック","fr":"Cook"}
+{"id":1501046,"jp":"クックル","fr":"Cookle"}
+{"id":1501047,"jp":"クックルク","fr":"Cookluk"}
+{"id":1501048,"jp":"モフリーネ","fr":"Downybrinny"}
+{"id":1501049,"jp":"笑般若","fr":"Hannya rieur"}
+{"id":1501050,"jp":"憤怨坊","fr":"Moine rancunier"}
+{"id":1501051,"jp":"獄鬼面","fr":"Masque d'oni infernal"}
+{"id":1501052,"jp":"シュラーク","fr":"Shrark"}
+{"id":1501053,"jp":"ニャアホ","fr":"Nyaho"}
+{"id":1501054,"jp":"ニィトール","fr":"Neetor"}
+{"id":1501055,"jp":"大狼ウル","fr":"Grand Loup Uru"}
+{"id":1501056,"jp":"ポポティ","fr":"Popoty"}
+{"id":1501057,"jp":"ホワッポ","fr":"Howapo"}
+{"id":1501058,"jp":"ナイトフォール","fr":"Vespervamp"}
+{"id":1501059,"jp":"アマルテイア","fr":"Amalthea"}
+{"id":1501060,"jp":"ピカリン","fr":"Pikarin"}
+{"id":1501061,"jp":"フィアール","fr":"Fiaaru"}
+{"id":1501062,"jp":"スピークル","fr":"Speakle"}
+{"id":1501063,"jp":"ピアッド","fr":"Piad"}
+{"id":1501064,"jp":"フログーレ","fr":"Frogure"}
+{"id":1501065,"jp":"フログレーミ","fr":"Frogremi"}
+{"id":1501066,"jp":"モーキュン","fr":"Mokyun"}
+{"id":1501067,"jp":"クロディーメ","fr":"Clodime"}
+{"id":1501068,"jp":"グレイニー","fr":"Greyny"}
+{"id":1501069,"jp":"グレナード","fr":"Grenade"}
+{"id":1501070,"jp":"グレイターグ","fr":"Gureitaagu"}
+{"id":1501071,"jp":"ポニーロ","fr":"Poniro"}
+{"id":1501072,"jp":"ヘヴィーロ","fr":"Heavyro"}
+{"id":1501073,"jp":"スキャーク","fr":"Scark"}
+{"id":1501074,"jp":"オータミット","fr":"Otamit"}
+{"id":1501075,"jp":"アザレイ","fr":"Azarei"}
+{"id":1501076,"jp":"ウッダ","fr":"Woodda"}
+{"id":1501077,"jp":"リンディ","fr":"Lindy"}
+{"id":1501078,"jp":"フォーリー","fr":"Foley"}
+{"id":1501079,"jp":"セレーシャ","fr":"Celesha"}
+{"id":1501080,"jp":"小黒小白","fr":"Xiaohei Xiaobai"}
+{"id":1501081,"jp":"黒白無安","fr":"Heibai Wu'an"}
+{"id":1501082,"jp":"バッティ","fr":"Batty"}
+{"id":1501083,"jp":"ニィバット","fr":"Nybat"}
+{"id":1501084,"jp":"シェディーバ","fr":"Shediva"}
+{"id":1501085,"jp":"ライドン","fr":"Rydon"}
+{"id":1501086,"jp":"メーフィ","fr":"Meafy"}
+{"id":1501087,"jp":"メーフォン","fr":"Meefon"}
+{"id":1501088,"jp":"メーガルム","fr":"Megalm"}
+{"id":1501089,"jp":"ミミック","fr":"Mimikku"}
+{"id":1501090,"jp":"ツイーチ","fr":"Tweech"}
+{"id":1501091,"jp":"ホーミーロウ","fr":"Homilow"}
+{"id":1501092,"jp":"青華の幼狐","fr":"Renardeau de Qinghua"}
+{"id":1501093,"jp":"綺華の霊狐","fr":"Renard spirituel de Qihua"}
+{"id":1501094,"jp":"夢華の九尾","fr":"Neuf-Queues de Menghua"}
+{"id":1501095,"jp":"薄金鬼","fr":"Oni d'or pâle"}
+{"id":1501096,"jp":"サピッツ","fr":"Sapittsu"}
+{"id":1501097,"jp":"サピーラス","fr":"Sapiirasu"}
+{"id":1501098,"jp":"コボルターグ","fr":"Koborutaagu"}
+{"id":1501099,"jp":"フラミー","fr":"Flammy"}
+{"id":1501100,"jp":"糖啾","fr":"Tangjiu"}
+{"id":1501101,"jp":"大白大黒","fr":"Dabai Dahei"}
+{"id":1501102,"jp":"レイドス","fr":"Reidosu"}
+{"id":1501103,"jp":"カエア","fr":"Kaea"}
+{"id":1501105,"jp":"キクギ","fr":"Kikugi"}
+{"id":1501106,"jp":"ベルベット","fr":"Velvet"}
+{"id":1501107,"jp":"ドラフィ","fr":"Dorafi"}
+{"id":1501108,"jp":"ドラフォルグ","fr":"Doraforugu"}
+{"id":1501109,"jp":"ドラグブレイズ","fr":"Dragblaze"}
+{"id":1501110,"jp":"ジェイディオン","fr":"Jeidion"}
+{"id":1501111,"jp":"蒜絨","fr":"Suanrong"}
+{"id":1501112,"jp":"蒜鳥","fr":"Suanniao"}
+{"id":1501113,"jp":"イエローダ","fr":"Yellowda"}
+{"id":1501114,"jp":"イエローアルビ","fr":"Yellowalbi"}
+{"id":1501117,"jp":"手を貸してあげる！","fr":"Je donne un coup de main !"}
+{"id":1501124,"jp":"お願いねっ！","fr":"Merci d'avance !"}
+{"id":1501149,"jp":"すこし休もっか。","fr":"On fait une petite pause ?"}
+{"id":1501160,"jp":"しゅぎょーかっ！？","fr":"L'entraînement ?!"}
+{"id":1501181,"jp":"待ってろ……！","fr":"Patience… !"}
+{"id":1501182,"jp":"絶対……いける……！","fr":"Je vais… y arriver… !"}
+{"id":1501184,"jp":"うわぁ――！！！","fr":"Ouaaah !!!"}
+{"id":1501203,"jp":"一緒に修行しよう！","fr":"Entraînons-nous ensemble !"}
+{"id":1501219,"jp":"こう……だよね？","fr":"Comme ça… c'est bien ça ?"}
+{"id":1501220,"jp":"はあああっ……！","fr":"Haaaah… !"}
+{"id":1501221,"jp":"ふううううっ！","fr":"Fouuuuh !"}
+{"id":1501222,"jp":"……逃がさないっ！","fr":"… Tu ne m'échapperas pas !"}
+{"id":1501261,"jp":"はぁ――っ……","fr":"Haaa…"}
+{"id":1501262,"jp":"もっとこっちに……","fr":"Encore un peu par ici…"}
+{"id":1501263,"jp":"力の、均衡を……","fr":"L'équilibre… des forces…"}
+{"id":1501300,"jp":"逃がしません！","fr":"Vous ne m'échapperez pas !"}
+{"id":1501301,"jp":"もう、すこし！","fr":"Encore… un peu !"}
+{"id":1501302,"jp":"まだ、いけます！","fr":"Je tiens… encore le coup !"}
+{"id":1501317,"jp":"この力は……","fr":"Cette force…"}
+{"id":1501339,"jp":"ううぅ〜んん〜っ。","fr":"Hmmmmh !"}
+{"id":1501340,"jp":"あと、すこし〜っ。","fr":"Encore… un petit peu !"}
+{"id":1501341,"jp":"困らせないで……！","fr":"Pas de caprices… !"}
+{"id":1501354,"jp":"お外で遊んでいい？","fr":"Je peux aller jouer dehors ?"}
+{"id":1501357,"jp":"ん？おいしいもの？","fr":"Hm ? Un truc bon à manger ?"}
+{"id":1501361,"jp":"いっしょに遊ぼ！","fr":"On joue ensemble !"}
+{"id":1501364,"jp":"これ、使う。","fr":"J'utilise ça."}
+{"id":1501377,"jp":"いくよ！","fr":"C'est parti !"}
+{"id":1501378,"jp":"よいしょ――","fr":"Hop là…"}
+{"id":1501379,"jp":"アビィ、がんばる。","fr":"Abby va faire de son mieux."}
+{"id":1501380,"jp":"オーエス、オーエス。","fr":"Oh hisse, oh hisse."}
+{"id":1501391,"jp":"よーし！まかせろ～！","fr":"Allez ! Je m'en occupe !"}
+{"id":1501398,"jp":"足、引っ張るなよ？","fr":"Pas question de traîner, hein ?"}
+{"id":1501399,"jp":"牙を研ぎ澄ますぞ！","fr":"J'aiguise mes crocs !"}
+{"id":1501415,"jp":"こいつぅううう！","fr":"Espèce de… !!!"}
+{"id":1501416,"jp":"いーかげんにぃっ！","fr":"Ça suffit maintenant !"}
+{"id":1501418,"jp":"うぅ……焼き魚が……","fr":"Oh non… mon poisson grillé…"}
+{"id":1501429,"jp":"はい！行きましょう。","fr":"Oui ! Allons-y."}
+{"id":1501436,"jp":"いっしょに行こう？","fr":"On y va ensemble ?"}
+{"id":1501452,"jp":"お、重いぃ……！","fr":"C-c'est lourd… !"}
+{"id":1501453,"jp":"もっと、力を……！","fr":"Plus… de force… !"}
+{"id":1501454,"jp":"む、ううぅ……！","fr":"Mmh, nnngh… !"}
+{"id":1501476,"jp":"うん、いい感じ！","fr":"Oui, ça se présente bien !"}
+{"id":1501489,"jp":"狙いは完璧！","fr":"Visée parfaite !"}
+{"id":1501490,"jp":"やあぁぁぁっ……！","fr":"Yaaaah… !"}
+{"id":1501512,"jp":"佳境に入ったわね。","fr":"On arrive au moment décisif."}
+{"id":1501513,"jp":"ともに行きましょう。","fr":"Allons-y ensemble."}
+{"id":1501514,"jp":"必要な準備よ。","fr":"Il faut bien se préparer."}
+{"id":1501530,"jp":"観念しなさい！","fr":"Rends-toi !"}
+{"id":1501531,"jp":"楽勝よ。","fr":"Du gâteau."}
+{"id":1501544,"jp":"お任せください。","fr":"Je m'en charge."}
+{"id":1501569,"jp":"諦めてください……！","fr":"Abandonnez… je vous en prie… !"}
+{"id":1501581,"jp":"空中支援なら任せろ。","fr":"Le soutien aérien, c'est mon rayon."}
+{"id":1501585,"jp":"的確な判断だ。","fr":"Décision judicieuse."}
+{"id":1501586,"jp":"これできっと……","fr":"Avec ça, sûrement…"}
+{"id":1501588,"jp":"やあ、相棒。","fr":"Salut, partenaire."}
+{"id":1501605,"jp":"んんんっ……！","fr":"Nnnngh… !"}
+{"id":1501606,"jp":"ふぅ、狩れた。","fr":"Ouf, je l'ai eu."}
+{"id":1501616,"jp":"そろそろ出発しよう。","fr":"Il est temps de partir."}
+{"id":1501617,"jp":"力を感じる……","fr":"Je sens la puissance…"}
+{"id":1501618,"jp":"力があふれてくる。","fr":"La force afflue en moi."}
+{"id":1501619,"jp":"いい感じ。","fr":"Pas mal du tout."}
+{"id":1501620,"jp":"切れ味が鋭くなった。","fr":"C'est plus tranchant."}
+{"id":1501622,"jp":"これでいい。","fr":"Ça ira."}
+{"id":1501623,"jp":"うん、ぴったり。","fr":"Oui, ça va parfaitement."}
+{"id":1501625,"jp":"魚、いるかな？","fr":"Il y a du poisson, ici ?"}
+{"id":1501626,"jp":"ん――っ！","fr":"Hnnn !"}
+{"id":1501627,"jp":"こっち……！","fr":"Par ici… !"}
+{"id":1501628,"jp":"逃がさない！","fr":"Tu ne m'échapperas pas !"}
+{"id":1501629,"jp":"釣れた！","fr":"J'en tiens un !"}
+{"id":1501634,"jp":"ここなら行けるかな。","fr":"Ici, ça devrait aller."}
+{"id":1501635,"jp":"逃すものかっ。","fr":"Pas question de le laisser filer !"}
+{"id":1501637,"jp":"つぎの目的地は……","fr":"Prochaine destination…"}
+{"id":1501641,"jp":"いこう。","fr":"Allons-y."}
+{"id":1501644,"jp":"お宝……はっけん。","fr":"Trésor… trouvé."}
+{"id":1501645,"jp":"パワー、アップ。","fr":"Puissance… augmentée."}
+{"id":1501646,"jp":"お宝探し、行く？","fr":"On part à la chasse au trésor ?"}
+{"id":1501647,"jp":"できた。","fr":"Fini."}
+{"id":1501648,"jp":"うん、持てる。","fr":"Oui, je peux le porter."}
+{"id":1501651,"jp":"む……ありがとう……","fr":"Mm… merci…"}
+{"id":1501661,"jp":"うぅ……！","fr":"Nngh… !"}
+{"id":1501662,"jp":"こっちに……！","fr":"Viens par ici… !"}
+{"id":1501663,"jp":"もっと、こっち……！","fr":"Encore… par ici… !"}
+{"id":1501665,"jp":"やった……！","fr":"Réussi… !"}
+{"id":1501666,"jp":"糸、からまった……","fr":"La ligne… est emmêlée…"}
+{"id":1501674,"jp":"ノノ、サボってない。","fr":"Nono ne paresse pas."}
+{"id":1501699,"jp":"くうう――","fr":"Nngh…"}
+{"id":1501700,"jp":"んんん――","fr":"Mmmh…"}
+{"id":1501702,"jp":"い、糸が切れちゃう！","fr":"La-la ligne va casser !"}
+{"id":1501717,"jp":"これも運命……","fr":"Ça aussi, c'est le destin…"}
+{"id":1501721,"jp":"魔装、チェンジ！","fr":"Tenue magique, transformation !"}
+{"id":1501736,"jp":"ふぅうううー！","fr":"Fouuuuh !"}
+{"id":1501737,"jp":"んんんんん！","fr":"Nnnnngh !"}
+{"id":1501738,"jp":"こっちこっち！","fr":"Par ici, par ici !"}
+{"id":1501757,"jp":"鎖の、音が……","fr":"Le bruit… des chaînes…"}
+{"id":1501775,"jp":"ふう――！","fr":"Fouh !"}
+{"id":1501776,"jp":"くう――！","fr":"Nngh !"}
+{"id":1501777,"jp":"放しません！","fr":"Je ne lâcherai pas !"}
+{"id":1501778,"jp":"力比べなら……！","fr":"S'il s'agit de force… !"}
+{"id":1501816,"jp":"こっちにおいで――","fr":"Viens par ici…"}
+{"id":1501817,"jp":"いい子にして――","fr":"Sois sage…"}
+{"id":1501818,"jp":"そっちはだめよ――","fr":"Pas par là…"}
+{"id":1501819,"jp":"うぅ……つらいわ……","fr":"Ah… c'est dur…"}
+{"id":1501834,"jp":"これ……くれるの？","fr":"C'est… pour moi ?"}
+{"id":1501854,"jp":"うん！準備できた！","fr":"Oui ! C'est prêt !"}
+{"id":1501855,"jp":"むううぅぅうう！","fr":"Mmmmmh !"}
+{"id":1501856,"jp":"自分を、信じる……！","fr":"Croire… en moi… !"}
+{"id":1501858,"jp":"もう、ちょっと……！","fr":"Encore… un peu… !"}
+{"id":1501877,"jp":"心に刻みます。","fr":"Je le garderai gravé dans mon cœur."}
+{"id":1501895,"jp":"はああぁー。","fr":"Haaaa."}
+{"id":1501909,"jp":"お出かけするの～？","fr":"On part en balade ?"}
+{"id":1501912,"jp":"いっぱいほしいなぁ～","fr":"J'en voudrais plein…"}
+{"id":1501913,"jp":"期待どおり、かな？","fr":"À la hauteur des attentes, peut-être ?"}
+{"id":1501916,"jp":"一緒にいこ！","fr":"Allons-y ensemble !"}
+{"id":1501932,"jp":"う――んんん……！","fr":"Hmmmnn… !"}
+{"id":1501933,"jp":"待ってってばぁ！","fr":"Pas si vite !"}
+{"id":1501934,"jp":"えぇええ――ん！","fr":"Ouiiin !"}
+{"id":1501971,"jp":"うう――っ。","fr":"Hnnn…"}
+{"id":1501985,"jp":"チャット背景","fr":"Fonds de discussion"}
+{"id":1501987,"jp":"チャット吹き出し","fr":"Bulles de discussion"}
+{"id":1501988,"jp":"フィールド","fr":"Zone"}
+{"id":1501989,"jp":"シティ","fr":"Ville"}
+{"id":1501990,"jp":"パーティ","fr":"Groupe"}
+{"id":1501991,"jp":"敬礼！","fr":"À vos ordres !"}
+{"id":1501992,"jp":"持ち上げる","fr":"Soulever"}
+{"id":1501993,"jp":"放せ！","fr":"Lâche-moi !"}
+{"id":1501994,"jp":"突撃！","fr":"À l'attaque !"}
+{"id":1501995,"jp":"魔術","fr":"Magie"}
+{"id":1501996,"jp":"むにむに","fr":"Tout mou"}
+{"id":1501997,"jp":"火急の事態","fr":"Urgence"}
+{"id":1501998,"jp":"ツンツン","fr":"Pique-pique"}
+{"id":1502000,"jp":"クラクラ","fr":"Tournis"}
+{"id":1502001,"jp":"ノリノリ","fr":"En rythme"}
+{"id":1502002,"jp":"ずぶ濡れ","fr":"Quelle saucée !"}
+{"id":1502003,"jp":"起きろ！","fr":"Debout !"}
+{"id":1502004,"jp":"過負荷","fr":"Surcharge"}
+{"id":1502006,"jp":"どうして……","fr":"Pourquoi…"}
+{"id":1502007,"jp":"宝物","fr":"Trésor"}
+{"id":1502008,"jp":"プンプン","fr":"Grrr !"}
+{"id":1502009,"jp":"イエーイ！","fr":"Ouais !"}
+{"id":1502010,"jp":"ありがとう","fr":"Merci"}
+{"id":1502011,"jp":"叫ぶ","fr":"Crier"}
+{"id":1502012,"jp":"あつい……","fr":"Quelle chaleur…"}
+{"id":1502013,"jp":"えへへ","fr":"Héhé"}
+{"id":1502014,"jp":"ジュルリ","fr":"Slurp"}
+{"id":1502015,"jp":"涼しい","fr":"Fraîcheur"}
+{"id":1502016,"jp":"届かない","fr":"Hors de portée"}
+{"id":1502017,"jp":"お気に入り","fr":"Favoris"}
+{"id":1502018,"jp":"共通スタンプ","fr":"Autocollants communs"}
+{"id":1502019,"jp":"奇跡のキボ・第1弾","fr":"Kibo miraculeux, vol. 1"}
+{"id":1502020,"jp":"奇跡のキボ・第2弾","fr":"Kibo miraculeux, vol. 2"}
+{"id":1502021,"jp":"奇跡のキボ・第3弾","fr":"Kibo miraculeux, vol. 3"}
+{"id":1502022,"jp":"チャンネル","fr":"Canal"}
+{"id":1502023,"jp":"プライベート","fr":"Privé"}
+{"id":1502024,"jp":"フレンド","fr":"Amis"}
+{"id":1502025,"jp":"さようなら","fr":"Au revoir"}
+{"id":1502026,"jp":"星臨者スキン-服飾","fr":"Apparence de l'Enfant des étoiles - Tenue"}
+{"id":1502027,"jp":"星臨のはじまり","fr":"Venue des étoiles"}
+{"id":1502030,"jp":"煌めく夜の誓い","fr":"Serment de la nuit scintillante"}
+{"id":1502033,"jp":"ショップ購入","fr":"Achat en boutique"}
+{"id":1502038,"jp":"星臨者スキン-武器","fr":"Apparence de l'Enfant des étoiles - Arme"}
+{"id":1502039,"jp":"星輝一天","fr":"Ciel d'éclat stellaire"}
+{"id":1502042,"jp":"「星降りの剣」","fr":"« Épée de la pluie d'étoiles »"}
+{"id":1502043,"jp":"天星、刃と化す","fr":"Les étoiles du ciel se font lame"}
+{"id":1502044,"jp":"衣装","fr":"Tenue"}
+{"id":1502045,"jp":"ヘッドアクセサリー","fr":"Accessoire de tête"}
+{"id":1502046,"jp":"チェストアクセサリー","fr":"Accessoire de torse"}
+{"id":1502047,"jp":"バックアクセサリー","fr":"Accessoire de dos"}
+{"id":1502048,"jp":"デフォルト","fr":"Par défaut"}
+{"id":1502049,"jp":"暖陽","fr":"Soleil doux"}
+{"id":1502050,"jp":"星夜","fr":"Nuit étoilée"}
+{"id":1502051,"jp":"石の斧","fr":"Hache en pierre"}
+{"id":1502054,"jp":"採集道具","fr":"Outils de récolte"}
+{"id":1502055,"jp":"ポータブル生産","fr":"Fabrication portable"}
+{"id":1502056,"jp":"石のツルハシ","fr":"Pioche en pierre"}
+{"id":1502059,"jp":"風銅の斧","fr":"Hache en cuivre du vent"}
+{"id":1502062,"jp":"農園-作業台","fr":"Ferme - Établi"}
+{"id":1502063,"jp":"風銅のツルハシ","fr":"Pioche en cuivre du vent"}
+{"id":1502066,"jp":"鏡鉄の斧","fr":"Hache en fer miroir"}
+{"id":1502069,"jp":"鏡鉄のツルハシ","fr":"Pioche en fer miroir"}
+{"id":1502072,"jp":"斧","fr":"Hache"}
+{"id":1502073,"jp":"ツルハシ","fr":"Pioche"}
+{"id":1502095,"jp":"桃色うさぎの宴","fr":"Festin du lapin rose"}
+{"id":1502096,"jp":"春還る花亭","fr":"Pavillon fleuri du printemps revenu"}
+{"id":1502097,"jp":"花逢ひの縁契りて","fr":"Liens scellés sous les fleurs"}
+{"id":1502098,"jp":"小さな侠客育成","fr":"Petit héros en formation"}
+{"id":1502099,"jp":"星旅の記録・旅立ち","fr":"Chronique du voyage stellaire : le départ"}
+{"id":1502100,"jp":"芽吹きの旅路","fr":"Le voyage des bourgeons"}
+{"id":1502101,"jp":"原初の星灯り","fr":"Première lumière des étoiles"}
+{"id":1502102,"jp":"星降る旅行記","fr":"Récit d'une pluie d'étoiles"}
+{"id":1502103,"jp":"桃花の契り","fr":"Pacte des fleurs de pêcher"}
+{"id":1502104,"jp":"花霞を胸に","fr":"Brume de fleurs au cœur"}
+{"id":1502114,"jp":"{0}を解放","fr":"Débloquer {0}"}
+{"id":1502116,"jp":"所持済み","fr":"Possédé"}
+{"id":1502133,"jp":"未解放","fr":"Verrouillé"}
+{"id":1502139,"jp":"【不明】","fr":"【Inconnu】"}
+{"id":1502143,"jp":"キャラクター死亡","fr":"Personnage vaincu"}
+{"id":1502147,"jp":"パック","fr":"Pack"}
+{"id":1502150,"jp":"翼人の贈りもの","fr":"Cadeau des Ailés"}
+{"id":1502153,"jp":"原初の雫","fr":"Goutte originelle"}
+{"id":1502156,"jp":"原初の潮","fr":"Marée originelle"}
+{"id":1502157,"jp":"農園-キラキラ珍品","fr":"Ferme - Curiosités scintillantes"}
+{"id":1502158,"jp":"凝結した原初の雫","fr":"Goutte originelle condensée"}
+{"id":1502161,"jp":"星の律動・芽吹の谷","fr":"Rythme stellaire : Vallée des Bourgeons"}
+{"id":1502164,"jp":"星の律動","fr":"Rythme stellaire"}
+{"id":1502169,"jp":"絆プレゼント","fr":"Cadeau de Lien"}
+{"id":1502170,"jp":"山盛り果物かご","fr":"Corbeille de fruits bien garnie"}
+{"id":1502173,"jp":"ブーケ","fr":"Bouquet"}
+{"id":1502176,"jp":"ルビッツのハンカチ","fr":"Mouchoir Rubbits"}
+{"id":1502179,"jp":"皮革の手帳","fr":"Carnet en cuir"}
+{"id":1502182,"jp":"炙り肉丼の引換券","fr":"Bon pour un bol de viande grillée"}
+{"id":1502185,"jp":"特製ハーブティー","fr":"Tisane maison"}
+{"id":1502188,"jp":"冷香キャンドル","fr":"Bougie au parfum frais"}
+{"id":1502191,"jp":"水晶の装飾セット","fr":"Parure de cristal"}
+{"id":1502194,"jp":"卓上ゲームセット","fr":"Jeu de société"}
+{"id":1502197,"jp":"青藤の憩い","fr":"Repos de liane bleue"}
+{"id":1502200,"jp":"霧隠れの夢","fr":"Rêve voilé de brume"}
+{"id":1502203,"jp":"森境の化粧台","fr":"Coiffeuse de l'orée des bois"}
+{"id":1502205,"jp":"幽花の籠","fr":"Panier de fleurs spectrales"}
+{"id":1502207,"jp":"琥珀の夜灯","fr":"Veilleuse d'ambre"}
+{"id":1502210,"jp":"露の鏡台","fr":"Coiffeuse de rosée"}
+{"id":1502212,"jp":"青いリボン","fr":"Ruban bleu"}
+{"id":1502215,"jp":"記念品","fr":"Souvenir"}
+{"id":1502221,"jp":"祈雲の伝統衣装","fr":"Costume traditionnel de Qiyun"}
+{"id":1502225,"jp":"神鼓","fr":"Tambour sacré"}
+{"id":1502229,"jp":"大探検家メダル","fr":"Médaille de grand explorateur"}
+{"id":1502233,"jp":"狼の牙のお守り","fr":"Amulette en croc de loup"}
+{"id":1502237,"jp":"咲きゆくあなたへ","fr":"À toi qui t'épanouis"}
+{"id":1502241,"jp":"機巧の巻物","fr":"Parchemin mécanique"}
+{"id":1502245,"jp":"手作りの花冠","fr":"Couronne de fleurs faite main"}
+{"id":1502249,"jp":"鷹神の護符","fr":"Talisman du Dieu Faucon"}
+{"id":1502253,"jp":"エイプルアメの小瓶","fr":"Petit pot de bonbons à l'Aple"}
+{"id":1502257,"jp":"無制限甘やかし券","fr":"Bon de chouchoutage illimité"}
+{"id":1502261,"jp":"『ロスヤの明星』","fr":"« L'étoile du matin de Rosya »"}
+{"id":1502265,"jp":"古びた鎖環","fr":"Maillon de chaîne usé"}
+{"id":1502269,"jp":"生命の息吹","fr":"Souffle de vie"}
+{"id":1502273,"jp":"ハクオンの権輪","fr":"Anneau d'autorité de Hakuon"}
+{"id":1502277,"jp":"錆びた角の鈴","fr":"Clochette de corne rouillée"}
+{"id":1502281,"jp":"直筆の桃花の御札","fr":"Talisman calligraphié aux fleurs de pêcher"}
+{"id":1502285,"jp":"吉星の蹄鉄","fr":"Fer à cheval de la bonne étoile"}
+{"id":1502289,"jp":"永夜のキャンドル","fr":"Bougie de la nuit éternelle"}
+{"id":1502293,"jp":"ニャンニャン風鈴","fr":"Carillon nyan-nyan"}
+{"id":1502297,"jp":"ぷにぷに竹宝","fr":"Trésor de bambou moelleux"}
+{"id":1502301,"jp":"軟らかい木","fr":"Bois tendre"}
+{"id":1502304,"jp":"素材","fr":"Matériaux"}
+{"id":1502305,"jp":"農園-果樹園","fr":"Ferme - Verger"}
+{"id":1502306,"jp":"エリア採集","fr":"Récolte dans la zone"}
+{"id":1502307,"jp":"硬い木","fr":"Bois dur"}
+{"id":1502310,"jp":"片塵石","fr":"Pierre friable"}
+{"id":1502313,"jp":"農園-風銅採鉱場","fr":"Ferme - Mine de cuivre du vent"}
+{"id":1502314,"jp":"農園-閃錫採鉱場","fr":"Ferme - Mine d'étain scintillant"}
+{"id":1502315,"jp":"堅岩石","fr":"Roche dure"}
+{"id":1502317,"jp":"農園-鏡鉄採鉱場","fr":"Ferme - Mine de fer miroir"}
+{"id":1502318,"jp":"農園-空鉄採鉱場","fr":"Ferme - Mine de fer céleste"}
+{"id":1502319,"jp":"ぼろぼろの獣の皮","fr":"Peau de bête en lambeaux"}
+{"id":1502322,"jp":"農園-餌やり場","fr":"Ferme - Aire de nourrissage"}
+{"id":1502323,"jp":"キボのドロップ","fr":"Butin de Kibo"}
+{"id":1502324,"jp":"綺麗な獣の皮","fr":"Peau de bête intacte"}
+{"id":1502327,"jp":"星の霊液","fr":"Sève spirituelle stellaire"}
+{"id":1502330,"jp":"農園の牧場で産出","fr":"Produit dans les pâturages de la ferme"}
+{"id":1502331,"jp":"ふわふわの綿毛","fr":"Duvet moelleux"}
+{"id":1502334,"jp":"まだらの風切り羽","fr":"Rémige tachetée"}
+{"id":1502337,"jp":"幽光の鱗","fr":"Écaille à la lueur spectrale"}
+{"id":1502340,"jp":"転変の軟殻","fr":"Coque molle de mue"}
+{"id":1502343,"jp":"苔むした土","fr":"Terre moussue"}
+{"id":1502346,"jp":"摩耗したパーツ","fr":"Pièces usées"}
+{"id":1502349,"jp":"滑らかな油脂","fr":"Graisse onctueuse"}
+{"id":1502352,"jp":"獣霊の角","fr":"Corne d'esprit animal"}
+{"id":1502355,"jp":"鋭いくちばし","fr":"Bec acéré"}
+{"id":1502358,"jp":"鱗光の薄膜","fr":"Membrane aux reflets d'écailles"}
+{"id":1502361,"jp":"在りし日の抜け殻","fr":"Mue d'antan"}
+{"id":1502364,"jp":"元素の砂","fr":"Sable élémentaire"}
+{"id":1502367,"jp":"凝結した晶核","fr":"Noyau cristallin condensé"}
+{"id":1502370,"jp":"秘文の円盤","fr":"Disque runique"}
+{"id":1502373,"jp":"元素の塊","fr":"Bloc élémentaire"}
+{"id":1502376,"jp":"空脈の葉","fr":"Feuille aux veines creuses"}
+{"id":1502379,"jp":"不動のコア","fr":"Noyau immuable"}
+{"id":1502382,"jp":"風銅鉱","fr":"Minerai de cuivre du vent"}
+{"id":1502385,"jp":"閃錫鉱","fr":"Minerai d'étain scintillant"}
+{"id":1502387,"jp":"鏡鉄鉱","fr":"Minerai de fer miroir"}
+{"id":1502391,"jp":"一般的な鉱物。","fr":"Un minerai commun."}
+{"id":1502393,"jp":"空鉄鉱","fr":"Minerai de fer céleste"}
+{"id":1502396,"jp":"閃硝鉱","fr":"Minerai de salpêtre scintillant"}
+{"id":1502397,"jp":"特殊な鉱物。","fr":"Un minerai particulier."}
+{"id":1502399,"jp":"焔光の原石","fr":"Gemme brute de lueur ardente"}
+{"id":1502400,"jp":"希少な宝石の原石。","fr":"Une gemme brute rare."}
+{"id":1502402,"jp":"白銀","fr":"Argent"}
+{"id":1502403,"jp":"貴重な金属鉱物。","fr":"Un précieux minerai métallique."}
+{"id":1502408,"jp":"繊維作物","fr":"Plante textile"}
+{"id":1502409,"jp":"農園で栽培","fr":"Cultivé à la ferme"}
+{"id":1502410,"jp":"クモノワタ","fr":"Kumonowata"}
+{"id":1502412,"jp":"エイプル","fr":"Aple"}
+{"id":1502415,"jp":"果物","fr":"Fruit"}
+{"id":1502416,"jp":"ムーンベリー","fr":"Baie de lune"}
+{"id":1502418,"jp":"ユースベリー","fr":"Baie de jouvence"}
+{"id":1502420,"jp":"リッチモモ","fr":"Pêche gourmande"}
+{"id":1502422,"jp":"チシキ","fr":"Chishiki"}
+{"id":1502424,"jp":"マダラキノコ","fr":"Champignon tacheté"}
+{"id":1502426,"jp":"タカ豆","fr":"Fève de faucon"}
+{"id":1502428,"jp":"マンドラゴン","fr":"Mandragon"}
+{"id":1502431,"jp":"薬材","fr":"Ingrédient médicinal"}
+{"id":1502432,"jp":"シーリリィ","fr":"Lys de mer"}
+{"id":1502435,"jp":"フラムール","fr":"Flamur"}
+{"id":1502438,"jp":"アエルータ","fr":"Aeruta"}
+{"id":1502441,"jp":"フロストカヤ","fr":"Frostkaya"}
+{"id":1502444,"jp":"スタンシア","fr":"Stancia"}
+{"id":1502447,"jp":"ネコヒゲ草","fr":"Moustache-de-chat"}
+{"id":1502450,"jp":"アルブタケ","fr":"Albutake"}
+{"id":1502453,"jp":"ダロマグラス","fr":"Herbe daroma"}
+{"id":1502456,"jp":"強力なマンドラゴン","fr":"Mandragon puissant"}
+{"id":1502458,"jp":"強力なシーリリィ","fr":"Lys de mer puissant"}
+{"id":1502460,"jp":"強力なフラムール","fr":"Flamur puissant"}
+{"id":1502462,"jp":"強力なアエルータ","fr":"Aeruta puissante"}
+{"id":1502464,"jp":"強力なフロストカヤ","fr":"Frostkaya puissante"}
+{"id":1502466,"jp":"強力なスタンシア","fr":"Stancia puissante"}
+{"id":1502468,"jp":"強力なネコヒゲ草","fr":"Moustache-de-chat puissante"}
+{"id":1502470,"jp":"強力なアルブタケ","fr":"Albutake puissant"}
+{"id":1502472,"jp":"強力なダロマグラス","fr":"Herbe daroma puissante"}
+{"id":1502474,"jp":"新鮮な獣肉","fr":"Viande de bête fraîche"}
+{"id":1502477,"jp":"食材","fr":"Ingrédient"}
+{"id":1502478,"jp":"新鮮な鳥肉","fr":"Volaille fraîche"}
+{"id":1502480,"jp":"新鮮な卵","fr":"Œuf frais"}
+{"id":1502483,"jp":"芳醇なミルク","fr":"Lait onctueux"}
+{"id":1502485,"jp":"普通の金麦の種","fr":"Graine de blé doré ordinaire"}
+{"id":1502487,"jp":"種","fr":"Graine"}
+{"id":1502488,"jp":"リリカの購買店で購入","fr":"En vente à la boutique de Lyrica"}
+{"id":1502489,"jp":"上質な金麦の種","fr":"Graine de blé doré de qualité"}
+{"id":1502492,"jp":"極上の金麦の種","fr":"Graine de blé doré supérieure"}
+{"id":1502494,"jp":"逸品の金麦の種","fr":"Graine de blé doré d'exception"}
+{"id":1502496,"jp":"至高の金麦の種","fr":"Graine de blé doré suprême"}
+{"id":1502528,"jp":"普通のレッチルフの種","fr":"Graine de Retchilf ordinaire"}
+{"id":1502530,"jp":"上質なレッチルフの種","fr":"Graine de Retchilf de qualité"}
+{"id":1502532,"jp":"極上のレッチルフの種","fr":"Graine de Retchilf supérieure"}
+{"id":1502534,"jp":"逸品のレッチルフの種","fr":"Graine de Retchilf d'exception"}
+{"id":1502536,"jp":"至高のレッチルフの種","fr":"Graine de Retchilf suprême"}
+{"id":1502538,"jp":"普通の潤いトマトの種","fr":"Graine de tomate juteuse ordinaire"}
+{"id":1502540,"jp":"上質な潤いトマトの種","fr":"Graine de tomate juteuse de qualité"}
+{"id":1502542,"jp":"極上の潤いトマトの種","fr":"Graine de tomate juteuse supérieure"}
+{"id":1502544,"jp":"逸品の潤いトマトの種","fr":"Graine de tomate juteuse d'exception"}
+{"id":1502546,"jp":"至高の潤いトマトの種","fr":"Graine de tomate juteuse suprême"}
+{"id":1502548,"jp":"普通のスイミツカの種","fr":"Graine de Suimitsuka ordinaire"}
+{"id":1502550,"jp":"上質なスイミツカの種","fr":"Graine de Suimitsuka de qualité"}
+{"id":1502552,"jp":"極上のスイミツカの種","fr":"Graine de Suimitsuka supérieure"}
+{"id":1502554,"jp":"逸品のスイミツカの種","fr":"Graine de Suimitsuka d'exception"}
+{"id":1502556,"jp":"至高のスイミツカの種","fr":"Graine de Suimitsuka suprême"}
+{"id":1502578,"jp":"月光麻の種","fr":"Graine de chanvre lunaire"}
+{"id":1502580,"jp":"クモノワタの種","fr":"Graine de Kumonowata"}
+{"id":1502582,"jp":"因子の果樹の種","fr":"Graine d'arbre fruitier à facteurs"}
+{"id":1502585,"jp":"星満の果樹の種","fr":"Graine d'arbre fruitier étoilé"}
+{"id":1502587,"jp":"普通のペペの種","fr":"Graine de Pepe ordinaire"}
+{"id":1502589,"jp":"上質なペペの種","fr":"Graine de Pepe de qualité"}
+{"id":1502591,"jp":"極上のペペの種","fr":"Graine de Pepe supérieure"}
+{"id":1502593,"jp":"逸品のペペの種","fr":"Graine de Pepe d'exception"}
+{"id":1502595,"jp":"至高のペペの種","fr":"Graine de Pepe suprême"}
+{"id":1502597,"jp":"源脈の果樹の種","fr":"Graine d'arbre fruitier de veine source"}
+{"id":1502599,"jp":"砕けた星輝鉱","fr":"Minerai d'éclat stellaire brisé"}
+{"id":1502602,"jp":"農園-星輝採鉱場","fr":"Ferme - Mine d'éclat stellaire"}
+{"id":1502603,"jp":"荒い革","fr":"Cuir brut"}
+{"id":1502606,"jp":"農園-製革台","fr":"Ferme - Table de tannage"}
+{"id":1502607,"jp":"農園-製革所","fr":"Ferme - Tannerie"}
+{"id":1502608,"jp":"なめし革","fr":"Cuir tanné"}
+{"id":1502611,"jp":"クモノワタの布地","fr":"Étoffe de Kumonowata"}
+{"id":1502614,"jp":"農園-織物工房","fr":"Ferme - Atelier de tissage"}
+{"id":1502615,"jp":"月光麻の布地","fr":"Étoffe de chanvre lunaire"}
+{"id":1502618,"jp":"農園-紡ぎ車","fr":"Ferme - Rouet"}
+{"id":1502619,"jp":"ゴールドロップ","fr":"Goldrop"}
+{"id":1502623,"jp":"ウィンディール","fr":"Windiele"}
+{"id":1502625,"jp":"スウィフティー","fr":"Swiftie"}
+{"id":1502627,"jp":"カドゥリア","fr":"Kaduria"}
+{"id":1502629,"jp":"繊維","fr":"Fibre"}
+{"id":1502632,"jp":"軟らかい木板","fr":"Planche de bois tendre"}
+{"id":1502635,"jp":"農園-工作工房","fr":"Ferme - Atelier d'artisanat"}
+{"id":1502636,"jp":"硬い木板","fr":"Planche de bois dur"}
+{"id":1502639,"jp":"木炭","fr":"Charbon de bois"}
+{"id":1502642,"jp":"農園-溶鉱炉","fr":"Ferme - Haut fourneau"}
+{"id":1502643,"jp":"農園-精錬所","fr":"Ferme - Fonderie"}
+{"id":1502644,"jp":"片塵石のブロック","fr":"Bloc de pierre friable"}
+{"id":1502647,"jp":"堅岩石のブロック","fr":"Bloc de roche dure"}
+{"id":1502650,"jp":"風銅インゴット","fr":"Lingot de cuivre du vent"}
+{"id":1502653,"jp":"鏡鉄のインゴット","fr":"Lingot de fer miroir"}
+{"id":1502656,"jp":"空鉄のインゴット","fr":"Lingot de fer céleste"}
+{"id":1502659,"jp":"塩","fr":"Sel"}
+{"id":1502662,"jp":"黄玉","fr":"Topaze"}
+{"id":1502663,"jp":"一般的な宝石。","fr":"Une gemme commune."}
+{"id":1502665,"jp":"藍晶","fr":"Cyanite"}
+{"id":1502666,"jp":"希少な宝石。","fr":"Une gemme rare."}
+{"id":1502668,"jp":"青銅のインゴット","fr":"Lingot de bronze"}
+{"id":1502671,"jp":"砂糖","fr":"Sucre"}
+{"id":1502673,"jp":"ハチミツ","fr":"Miel"}
+{"id":1502675,"jp":"普通の星脈結晶","fr":"Cristal de veine stellaire ordinaire"}
+{"id":1502678,"jp":"キャラクター経験値","fr":"EXP de personnage"}
+{"id":1502684,"jp":"綺麗な星脈結晶","fr":"Cristal de veine stellaire clair"}
+{"id":1502688,"jp":"清澄な星脈結晶","fr":"Cristal de veine stellaire limpide"}
+{"id":1502691,"jp":"純粋な星脈結晶","fr":"Cristal de veine stellaire pur"}
+{"id":1502694,"jp":"普通の金麦","fr":"Blé doré ordinaire"}
+{"id":1502698,"jp":"上質な金麦","fr":"Blé doré de qualité"}
+{"id":1502699,"jp":"極上の金麦","fr":"Blé doré supérieur"}
+{"id":1502700,"jp":"逸品の金麦","fr":"Blé doré d'exception"}
+{"id":1502701,"jp":"至高の金麦","fr":"Blé doré suprême"}
+{"id":1502702,"jp":"輝く金麦","fr":"Blé doré étincelant"}
+{"id":1502705,"jp":"普通のシンゲツイモ","fr":"Patate Nouvelle-Lune ordinaire"}
+{"id":1502707,"jp":"上質なシンゲツイモ","fr":"Patate Nouvelle-Lune de qualité"}
+{"id":1502708,"jp":"極上のシンゲツイモ","fr":"Patate Nouvelle-Lune supérieure"}
+{"id":1502709,"jp":"逸品のシンゲツイモ","fr":"Patate Nouvelle-Lune d'exception"}
+{"id":1502710,"jp":"至高のシンゲツイモ","fr":"Patate Nouvelle-Lune suprême"}
+{"id":1502711,"jp":"輝くシンゲツイモ","fr":"Patate Nouvelle-Lune étincelante"}
+{"id":1502713,"jp":"普通のまんぷくコーン","fr":"Maïs copieux ordinaire"}
+{"id":1502715,"jp":"上質なまんぷくコーン","fr":"Maïs copieux de qualité"}
+{"id":1502716,"jp":"極上のまんぷくコーン","fr":"Maïs copieux supérieur"}
+{"id":1502717,"jp":"逸品のまんぷくコーン","fr":"Maïs copieux d'exception"}
+{"id":1502718,"jp":"至高のまんぷくコーン","fr":"Maïs copieux suprême"}
+{"id":1502719,"jp":"輝くまんぷくコーン","fr":"Maïs copieux étincelant"}
+{"id":1502721,"jp":"普通の紅あまダイコン","fr":"Radis rouge sucré ordinaire"}
+{"id":1502723,"jp":"上質な紅あまダイコン","fr":"Radis rouge sucré de qualité"}
+{"id":1502724,"jp":"極上の紅あまダイコン","fr":"Radis rouge sucré supérieur"}
+{"id":1502725,"jp":"逸品の紅あまダイコン","fr":"Radis rouge sucré d'exception"}
+{"id":1502726,"jp":"至高の紅あまダイコン","fr":"Radis rouge sucré suprême"}
+{"id":1502727,"jp":"輝く紅あまダイコン","fr":"Radis rouge sucré étincelant"}
+{"id":1502729,"jp":"普通の潤いトマト","fr":"Tomate juteuse ordinaire"}
+{"id":1502731,"jp":"上質な潤いトマト","fr":"Tomate juteuse de qualité"}
+{"id":1502732,"jp":"極上の潤いトマト","fr":"Tomate juteuse supérieure"}
+{"id":1502733,"jp":"逸品の潤いトマト","fr":"Tomate juteuse d'exception"}
+{"id":1502734,"jp":"至高の潤いトマト","fr":"Tomate juteuse suprême"}
+{"id":1502735,"jp":"輝く潤いトマト","fr":"Tomate juteuse étincelante"}
+{"id":1502737,"jp":"普通のあまキャベツ","fr":"Chou sucré ordinaire"}
+{"id":1502739,"jp":"上質なあまキャベツ","fr":"Chou sucré de qualité"}
+{"id":1502740,"jp":"極上のあまキャベツ","fr":"Chou sucré supérieur"}
+{"id":1502741,"jp":"逸品のあまキャベツ","fr":"Chou sucré d'exception"}
+{"id":1502742,"jp":"至高のあまキャベツ","fr":"Chou sucré suprême"}
+{"id":1502743,"jp":"輝くあまキャベツ","fr":"Chou sucré étincelant"}
+{"id":1502745,"jp":"普通のレッチルフ","fr":"Retchilf ordinaire"}
+{"id":1502747,"jp":"上質なレッチルフ","fr":"Retchilf de qualité"}
+{"id":1502748,"jp":"極上のレッチルフ","fr":"Retchilf supérieur"}
+{"id":1502749,"jp":"逸品のレッチルフ","fr":"Retchilf d'exception"}
+{"id":1502750,"jp":"至高のレッチルフ","fr":"Retchilf suprême"}
+{"id":1502751,"jp":"輝くレッチルフ","fr":"Retchilf étincelant"}
+{"id":1502753,"jp":"普通のスイミツカ","fr":"Suimitsuka ordinaire"}
+{"id":1502755,"jp":"上質なスイミツカ","fr":"Suimitsuka de qualité"}
+{"id":1502756,"jp":"極上のスイミツカ","fr":"Suimitsuka supérieur"}
+{"id":1502757,"jp":"逸品のスイミツカ","fr":"Suimitsuka d'exception"}
+{"id":1502758,"jp":"至高のスイミツカ","fr":"Suimitsuka suprême"}
+{"id":1502759,"jp":"輝くスイミツカ","fr":"Suimitsuka étincelant"}
+{"id":1502761,"jp":"普通のキンサカボチャ","fr":"Citrouille Kinsa ordinaire"}
+{"id":1502763,"jp":"上質なキンサカボチャ","fr":"Citrouille Kinsa de qualité"}
+{"id":1502764,"jp":"極上のキンサカボチャ","fr":"Citrouille Kinsa supérieure"}
+{"id":1502765,"jp":"逸品のキンサカボチャ","fr":"Citrouille Kinsa d'exception"}
+{"id":1502766,"jp":"至高のキンサカボチャ","fr":"Citrouille Kinsa suprême"}
+{"id":1502767,"jp":"輝くキンサカボチャ","fr":"Citrouille Kinsa étincelante"}
+{"id":1502769,"jp":"普通のペペ","fr":"Pepe ordinaire"}
+{"id":1502771,"jp":"上質なペペ","fr":"Pepe de qualité"}
+{"id":1502772,"jp":"極上のペペ","fr":"Pepe supérieur"}
+{"id":1502773,"jp":"逸品のペペ","fr":"Pepe d'exception"}
+{"id":1502774,"jp":"至高のペペ","fr":"Pepe suprême"}
+{"id":1502775,"jp":"輝くペペ","fr":"Pepe étincelant"}
+{"id":1502777,"jp":"未熟な星満の果実","fr":"Fruit étoilé encore vert"}
+{"id":1502780,"jp":"キボ経験値の実","fr":"Fruit d'EXP de Kibo"}
+{"id":1502782,"jp":"すこし甘い星満の果実","fr":"Fruit étoilé un peu sucré"}
+{"id":1502785,"jp":"爽やかな星満の果実","fr":"Fruit étoilé rafraîchissant"}
+{"id":1502788,"jp":"完熟の星満の果実","fr":"Fruit étoilé bien mûr"}
+{"id":1502791,"jp":"はじまりのキボの反響","fr":"Écho du premier Kibo"}
+{"id":1502793,"jp":"轟雷の王冠","fr":"Couronne du tonnerre"}
+{"id":1502796,"jp":"キボ成長アイテム","fr":"Objet de croissance de Kibo"}
+{"id":1502797,"jp":"蝶変の鏡","fr":"Miroir de métamorphose"}
+{"id":1502800,"jp":"百戦錬磨の栄章","fr":"Insigne du vétéran"}
+{"id":1502803,"jp":"怨念の息吹","fr":"Souffle rancunier"}
+{"id":1502806,"jp":"灼熱の溶岩","fr":"Lave brûlante"}
+{"id":1502809,"jp":"並外れて硬い鉱石","fr":"Minerai d'une dureté hors du commun"}
+{"id":1502812,"jp":"地底の宝物","fr":"Trésor des profondeurs"}
+{"id":1502815,"jp":"雷鳴の活木","fr":"Bois vivant du tonnerre"}
+{"id":1502818,"jp":"紅き月の霧華","fr":"Fleur de brume de la lune rouge"}
+{"id":1502821,"jp":"明暗石","fr":"Pierre d'ombre et de lumière"}
+{"id":1502824,"jp":"無垢な痕跡","fr":"Trace immaculée"}
+{"id":1502827,"jp":"抽選券","fr":"Ticket de tirage"}
+{"id":1502829,"jp":"煌めく痕跡","fr":"Trace scintillante"}
+{"id":1502832,"jp":"析光の痕跡","fr":"Trace diffractée"}
+{"id":1502835,"jp":"遊離する星の軌跡","fr":"Sillage stellaire vagabond"}
+{"id":1502838,"jp":"通貨","fr":"Monnaie"}
+{"id":1502839,"jp":"観測で獲得","fr":"Obtenu par Observation"}
+{"id":1502840,"jp":"回帰する星の軌跡","fr":"Sillage stellaire de retour"}
+{"id":1502842,"jp":"精巧な貝殻","fr":"Coquillage ouvragé"}
+{"id":1502846,"jp":"ミッシュルーム","fr":"Mishroom"}
+{"id":1502848,"jp":"赤チシキ","fr":"Chishiki rouge"}
+{"id":1502850,"jp":"アウラルベリー","fr":"Baie aurale"}
+{"id":1502852,"jp":"フェザーリーフ","fr":"Feuille-plume"}
+{"id":1502855,"jp":"織物のレシピ","fr":"Recette de tissage"}
+{"id":1502858,"jp":"装備素材","fr":"Matériau d'équipement"}
+{"id":1502859,"jp":"星輝の再会","fr":"Retrouvailles stellaires"}
+{"id":1502860,"jp":"製作素材","fr":"Matériau d'artisanat"}
+{"id":1502863,"jp":"皮革の宝の地図","fr":"Carte au trésor en cuir"}
+{"id":1502866,"jp":"ゴミ","fr":"Déchet"}
+{"id":1502867,"jp":"水生サボテン","fr":"Cactus aquatique"}
+{"id":1502870,"jp":"尾ビレのサンダル","fr":"Sandales à nageoire"}
+{"id":1502873,"jp":"手作りの泥人形","fr":"Poupée d'argile faite main"}
+{"id":1502876,"jp":"チシキの殻の片割れ","fr":"Moitié de coque de Chishiki"}
+{"id":1502882,"jp":"オルゴール","fr":"Boîte à musique"}
+{"id":1502885,"jp":"コレクション","fr":"Collection"}
+{"id":1502886,"jp":"約束の石","fr":"Pierre de la promesse"}
+{"id":1502888,"jp":"ポリーの感謝の手紙","fr":"Lettre de remerciement de Polly"}
+{"id":1502890,"jp":"村長の探検手引き書","fr":"Guide d'exploration du Chef du village"}
+{"id":1502892,"jp":"星臨者に捧げる甘い夢","fr":"Doux rêves pour l'Enfant des étoiles"}
+{"id":1502897,"jp":"活躍度","fr":"Activité"}
+{"id":1502900,"jp":"記録ポイント","fr":"Points de chronique"}
+{"id":1502903,"jp":"ステラカード","fr":"Carte Stella"}
+{"id":1502906,"jp":"農園-共鳴の石台","fr":"Ferme - Socle de résonance"}
+{"id":1502907,"jp":"特殊なステラカード","fr":"Carte Stella spéciale"}
+{"id":1502909,"jp":"希少なステラカード","fr":"Carte Stella rare"}
+{"id":1502911,"jp":"閃耀のステラカード","fr":"Carte Stella resplendissante"}
+{"id":1502913,"jp":"流光のステラカード","fr":"Carte Stella chatoyante"}
+{"id":1502915,"jp":"奇跡のステラカード","fr":"Carte Stella miraculeuse"}
+{"id":1502917,"jp":"精緻なステラカード","fr":"Carte Stella raffinée"}
+{"id":1502919,"jp":"上質なステラカード","fr":"Carte Stella de qualité"}
+{"id":1502921,"jp":"無垢なステラカード","fr":"Carte Stella immaculée"}
+{"id":1502923,"jp":"幻彩のステラカード","fr":"Carte Stella irisée"}
+{"id":1502927,"jp":"チケット","fr":"Ticket"}
+{"id":1502928,"jp":"寒悠悠の弦音","fr":"Note de corde de Han Youyou"}
+{"id":1502931,"jp":"調律","fr":"Accordage"}
+{"id":1502932,"jp":"ポンポンの弦音","fr":"Note de corde de Pengpeng"}
+{"id":1502934,"jp":"ペイペイの弦音","fr":"Note de corde de Peipei"}
+{"id":1502936,"jp":"塗山小玉の弦音","fr":"Note de corde de Tushan Xiaoyu"}
+{"id":1502938,"jp":"蘭香子の弦音","fr":"Note de corde de Lan Xiangzi"}
+{"id":1502940,"jp":"リリィの弦音","fr":"Note de corde de Lily"}
+{"id":1502942,"jp":"ルビーナの弦音","fr":"Note de corde de Ruby"}
+{"id":1502944,"jp":"源千代の弦音","fr":"Note de corde de Minamoto Chiyo"}
+{"id":1502946,"jp":"シンフォーリアの弦音","fr":"Note de corde de Symphoria"}
+{"id":1502948,"jp":"メーツァの弦音","fr":"Note de corde de Metsa"}
+{"id":1502950,"jp":"アビィの弦音","fr":"Note de corde d'Abby"}
+{"id":1502952,"jp":"テララの弦音","fr":"Note de corde de Terara"}
+{"id":1502954,"jp":"ルルカの弦音","fr":"Note de corde de Luruka"}
+{"id":1502956,"jp":"ミィティの弦音","fr":"Note de corde de Mitty"}
+{"id":1502958,"jp":"カタルの弦音","fr":"Note de corde de Katalua"}
+{"id":1502960,"jp":"モーレンの弦音","fr":"Note de corde de Morwyn"}
+{"id":1502962,"jp":"シャルの弦音","fr":"Note de corde de Shalle"}
+{"id":1502964,"jp":"ファランタの弦音","fr":"Note de corde de Faridah"}
+{"id":1502966,"jp":"キャスベルの弦音","fr":"Note de corde de Cathbelle"}
+{"id":1502968,"jp":"アニスの弦音","fr":"Note de corde d'Anais"}
+{"id":1502970,"jp":"星臨の弦音","fr":"Note de corde de l'Enfant des étoiles"}
+{"id":1502972,"jp":"ノノの弦音","fr":"Note de corde de Nono"}
+{"id":1502974,"jp":"メイプルの弦音","fr":"Note de corde de Maple"}
+{"id":1502976,"jp":"キャベッコの木彫り","fr":"Cabbeco en bois sculpté"}
+{"id":1502979,"jp":"工芸品","fr":"Objet d'artisanat"}
+{"id":1502980,"jp":"小さな大狼石像","fr":"Petite statue du Grand Loup"}
+{"id":1502982,"jp":"革製のガドリの置物","fr":"Figurine de Gadori en cuir"}
+{"id":1502984,"jp":"回転木馬のオルゴール","fr":"Boîte à musique carrousel"}
+{"id":1502986,"jp":"皮革の風景画","fr":"Paysage sur cuir"}
+{"id":1502988,"jp":"鉄製の花園の彫像","fr":"Statue de jardin en fer"}
+{"id":1502990,"jp":"森鏡の木鼓","fr":"Tambour en bois du miroir sylvestre"}
+{"id":1502992,"jp":"チョノコ炉","fr":"Brûleur Chonoko"}
+{"id":1502994,"jp":"浮音の風鈴","fr":"Carillon aux notes flottantes"}
+{"id":1502996,"jp":"公正の儀の置物","fr":"Ornement du rite d'équité"}
+{"id":1502998,"jp":"木製のポニーロの玩具","fr":"Jouet Poniro en bois"}
+{"id":1503000,"jp":"ステンドグラス装飾","fr":"Décor de vitrail"}
+{"id":1503002,"jp":"彫刻の宝石箱","fr":"Coffret à bijoux sculpté"}
+{"id":1503004,"jp":"軽羽の冠","fr":"Couronne de plumes légères"}
+{"id":1503006,"jp":"凝輝のペンダント","fr":"Pendentif d'éclat condensé"}
+{"id":1503008,"jp":"秘文の環飾り","fr":"Anneau décoratif runique"}
+{"id":1503010,"jp":"芽吹の香","fr":"Encens des Bourgeons"}
+{"id":1503012,"jp":"凝質の晶球","fr":"Orbe de cristal dense"}
+{"id":1503014,"jp":"綿毛のマフラー","fr":"Écharpe en duvet"}
+{"id":1503016,"jp":"霊角の置物","fr":"Ornement de corne spirituelle"}
+{"id":1503018,"jp":"鋭いくちばしの契印","fr":"Cachet du bec acéré"}
+{"id":1503020,"jp":"まだらの羽冠","fr":"Couronne de plumes tachetées"}
+{"id":1503022,"jp":"伝書契約の証","fr":"Bon de contrat postal"}
+{"id":1503024,"jp":"交換アイテム","fr":"Objet d'échange"}
+{"id":1503025,"jp":"プレミアム漫遊記","fr":"Carnet de voyage premium"}
+{"id":1503028,"jp":"漫遊記復刻の証","fr":"Jeton de réédition du Carnet de voyage"}
+{"id":1503031,"jp":"普通の金麦粉","fr":"Farine de blé doré ordinaire"}
+{"id":1503034,"jp":"農園-製粉所","fr":"Ferme - Moulin"}
+{"id":1503035,"jp":"上質な金麦粉","fr":"Farine de blé doré de qualité"}
+{"id":1503037,"jp":"極上の金麦粉","fr":"Farine de blé doré supérieure"}
+{"id":1503039,"jp":"逸品の金麦粉","fr":"Farine de blé doré d'exception"}
+{"id":1503041,"jp":"至高の金麦粉","fr":"Farine de blé doré suprême"}
+{"id":1503043,"jp":"普通のイモペースト","fr":"Purée de patate ordinaire"}
+{"id":1503045,"jp":"上質なイモペースト","fr":"Purée de patate de qualité"}
+{"id":1503047,"jp":"極上のイモペースト","fr":"Purée de patate supérieure"}
+{"id":1503049,"jp":"逸品のイモペースト","fr":"Purée de patate d'exception"}
+{"id":1503051,"jp":"至高のイモペースト","fr":"Purée de patate suprême"}
+{"id":1503053,"jp":"普通のレッチルフの粉","fr":"Poudre de Retchilf ordinaire"}
+{"id":1503055,"jp":"上質なレッチルフの粉","fr":"Poudre de Retchilf de qualité"}
+{"id":1503057,"jp":"極上のレッチルフの粉","fr":"Poudre de Retchilf supérieure"}
+{"id":1503059,"jp":"逸品のレッチルフの粉","fr":"Poudre de Retchilf d'exception"}
+{"id":1503061,"jp":"至高のレッチルフの粉","fr":"Poudre de Retchilf suprême"}
+{"id":1503073,"jp":"普通のコーンミール","fr":"Semoule de maïs ordinaire"}
+{"id":1503075,"jp":"上質なコーンミール","fr":"Semoule de maïs de qualité"}
+{"id":1503077,"jp":"極上のコーンミール","fr":"Semoule de maïs supérieure"}
+{"id":1503079,"jp":"逸品のコーンミール","fr":"Semoule de maïs d'exception"}
+{"id":1503081,"jp":"至高のコーンミール","fr":"Semoule de maïs suprême"}
+{"id":1503083,"jp":"普通のペペパウダー","fr":"Poudre de Pepe ordinaire"}
+{"id":1503085,"jp":"上質なペペパウダー","fr":"Poudre de Pepe de qualité"}
+{"id":1503087,"jp":"極上のペペパウダー","fr":"Poudre de Pepe supérieure"}
+{"id":1503089,"jp":"逸品のペペパウダー","fr":"Poudre de Pepe d'exception"}
+{"id":1503091,"jp":"至高のペペパウダー","fr":"Poudre de Pepe suprême"}
+{"id":1503093,"jp":"異端の爪","fr":"Griffe hérétique"}
+{"id":1503096,"jp":"昇臨素材","fr":"Matériau d'ascension"}
+{"id":1503098,"jp":"森の迷夢","fr":"Songe de la forêt"}
+{"id":1503100,"jp":"災厄の残影-双翼の舞","fr":"Ombre du fléau - Danse des ailes jumelles"}
+{"id":1503101,"jp":"狂潮のエコー","fr":"Écho de la marée furieuse"}
+{"id":1503103,"jp":"災厄の残影-ルダリス","fr":"Ombre du fléau - Rudalis"}
+{"id":1503104,"jp":"星祝ボックス・初級","fr":"Boîte de Bénédiction stellaire : débutant"}
+{"id":1503107,"jp":"星祝ボックス・中級","fr":"Boîte de Bénédiction stellaire : intermédiaire"}
+{"id":1503109,"jp":"星祝ボックス・上級","fr":"Boîte de Bénédiction stellaire : avancé"}
+{"id":1503111,"jp":"星祝ボックス・特級","fr":"Boîte de Bénédiction stellaire : spécial"}
+{"id":1503113,"jp":"伝説の星祝ボックス","fr":"Boîte de Bénédiction stellaire légendaire"}
+{"id":1503115,"jp":"基本装備パック","fr":"Pack d'équipement de base"}
+{"id":1503118,"jp":"信頼の装備パック","fr":"Pack d'équipement fiable"}
+{"id":1503121,"jp":"清光の霊精ボックス","fr":"Boîte d'essence spirituelle de lumière pure"}
+{"id":1503124,"jp":"ボス星祝の秘礼・中級","fr":"Rite de Bénédiction stellaire de boss : intermédiaire"}
+{"id":1503127,"jp":"ボス星祝の秘礼・上級","fr":"Rite de Bénédiction stellaire de boss : avancé"}
+{"id":1503128,"jp":"行商パック","fr":"Pack du colporteur"}
+{"id":1503134,"jp":"時を紡ぐ誓い","fr":"Serment qui tisse le temps"}
+{"id":1503136,"jp":"旅仲間の誘い・星冠","fr":"Invitation au voyage : Couronne stellaire"}
+{"id":1503139,"jp":"旅仲間の誘い・星輝","fr":"Invitation au voyage : Éclat stellaire"}
+{"id":1503140,"jp":"原初の星灯り・蛍","fr":"Première lumière des étoiles : Lueur"}
+{"id":1503143,"jp":"星祝","fr":"Bénédiction stellaire"}
+{"id":1503146,"jp":"芽吹の谷の探索で獲得","fr":"Obtenu en explorant la Vallée des Bourgeons"}
+{"id":1503147,"jp":"フリスの探索で獲得","fr":"Obtenu en explorant Fleece"}
+{"id":1503148,"jp":"星祝ボックスを開ける","fr":"Ouvrir des boîtes de Bénédiction stellaire"}
+{"id":1503149,"jp":"高らかな勝利・蛍","fr":"Victoire retentissante : Lueur"}
+{"id":1503153,"jp":"断空の翼・蛍","fr":"Ailes fend-ciel : Lueur"}
+{"id":1503157,"jp":"天光の凝華・蛍","fr":"Cristal de lumière céleste : Lueur"}
+{"id":1503162,"jp":"大狼の影・蛍","fr":"Ombre du Grand Loup : Lueur"}
+{"id":1503166,"jp":"潮水のエコー・蛍","fr":"Écho de la marée : Lueur"}
+{"id":1503170,"jp":"荊棘を破る者・蛍","fr":"Brise-ronces : Lueur"}
+{"id":1503173,"jp":"高らかな勝利・爍","fr":"Victoire retentissante : Étincelle"}
+{"id":1503177,"jp":"星祝の合成","fr":"Synthèse de Bénédiction stellaire"}
+{"id":1503178,"jp":"断空の翼・爍","fr":"Ailes fend-ciel : Étincelle"}
+{"id":1503181,"jp":"天光の凝華・爍","fr":"Cristal de lumière céleste : Étincelle"}
+{"id":1503184,"jp":"大狼の影・爍","fr":"Ombre du Grand Loup : Étincelle"}
+{"id":1503186,"jp":"潮水のエコー・爍","fr":"Écho de la marée : Étincelle"}
+{"id":1503189,"jp":"荊棘を破る者・爍","fr":"Brise-ronces : Étincelle"}
+{"id":1503192,"jp":"金穂満ちて・爍","fr":"Épis d'or à foison : Étincelle"}
+{"id":1503196,"jp":"風の言葉と嵐の歌・爍","fr":"Paroles du vent, chant de l'orage : Étincelle"}
+{"id":1503199,"jp":"花の冠・爍","fr":"Couronne de fleurs : Étincelle"}
+{"id":1503202,"jp":"猛角の棘・爍","fr":"Épine de corne féroce : Étincelle"}
+{"id":1503206,"jp":"断空の凶翼・爍","fr":"Ailes funestes fend-ciel : Étincelle"}
+{"id":1503210,"jp":"轟く雷霆・爍","fr":"Tonnerre grondant : Étincelle"}
+{"id":1503214,"jp":"緋色の幽霊・爍","fr":"Spectre écarlate : Étincelle"}
+{"id":1503218,"jp":"蝶影の幻夢・爍","fr":"Songe du papillon : Étincelle"}
+{"id":1503222,"jp":"ラーガの統御・爍","fr":"Maîtrise des Raga : Étincelle"}
+{"id":1503230,"jp":"高らかな勝利・輝","fr":"Victoire retentissante : Éclat"}
+{"id":1503232,"jp":"断空の翼・輝","fr":"Ailes fend-ciel : Éclat"}
+{"id":1503234,"jp":"天光の凝華・輝","fr":"Cristal de lumière céleste : Éclat"}
+{"id":1503236,"jp":"大狼の影・輝","fr":"Ombre du Grand Loup : Éclat"}
+{"id":1503238,"jp":"潮水のエコー・輝","fr":"Écho de la marée : Éclat"}
+{"id":1503240,"jp":"荊棘を破る者・輝","fr":"Brise-ronces : Éclat"}
+{"id":1503242,"jp":"金穂満ちて・輝","fr":"Épis d'or à foison : Éclat"}
+{"id":1503244,"jp":"風の言葉と嵐の歌・輝","fr":"Paroles du vent, chant de l'orage : Éclat"}
+{"id":1503246,"jp":"花の冠・輝","fr":"Couronne de fleurs : Éclat"}
+{"id":1503248,"jp":"長河懸空・輝","fr":"Fleuve suspendu au ciel : Éclat"}
+{"id":1503251,"jp":"霧月の心・輝","fr":"Cœur de la lune brumeuse : Éclat"}
+{"id":1503257,"jp":"妙筆丹青・輝","fr":"Pinceau prodigieux : Éclat"}
+{"id":1503260,"jp":"桃華の迷夢・輝","fr":"Songe des fleurs de pêcher : Éclat"}
+{"id":1503263,"jp":"猛角の棘・輝","fr":"Épine de corne féroce : Éclat"}
+{"id":1503268,"jp":"断空の凶翼・輝","fr":"Ailes funestes fend-ciel : Éclat"}
+{"id":1503273,"jp":"轟く雷霆・輝","fr":"Tonnerre grondant : Éclat"}
+{"id":1503278,"jp":"緋色の幽霊・輝","fr":"Spectre écarlate : Éclat"}
+{"id":1503283,"jp":"蝶影の幻夢・輝","fr":"Songe du papillon : Éclat"}
+{"id":1503288,"jp":"ラーガの統御・輝","fr":"Maîtrise des Raga : Éclat"}
+{"id":1503298,"jp":"金穂満ちて・耀","fr":"Épis d'or à foison : Splendeur"}
+{"id":1503301,"jp":"風の言葉と嵐の歌・耀","fr":"Paroles du vent, chant de l'orage : Splendeur"}
+{"id":1503304,"jp":"花の冠・耀","fr":"Couronne de fleurs : Splendeur"}
+{"id":1503307,"jp":"長河懸空・耀","fr":"Fleuve suspendu au ciel : Splendeur"}
+{"id":1503310,"jp":"霧月の心・耀","fr":"Cœur de la lune brumeuse : Splendeur"}
+{"id":1503316,"jp":"妙筆丹青・耀","fr":"Pinceau prodigieux : Splendeur"}
+{"id":1503319,"jp":"桃華の迷夢・耀","fr":"Songe des fleurs de pêcher : Splendeur"}
+{"id":1503322,"jp":"龍行九天・耀","fr":"Dragon des neuf cieux : Splendeur"}
