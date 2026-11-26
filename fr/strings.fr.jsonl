@@ -48529,7 +48529,7 @@
 {"id":1544134,"jp":"ふーんだ！その程度の小細工じゃルミィさまは驚かないぞ！\n幽霊なんてちっとも怖くないのだ！","fr":"Pff ! Il en faut plus pour faire sursauter la grande Lumi !\nLes fantômes, ça lui fait même pas peur !"}
 {"id":1544135,"jp":"でも、用心するのに越したことはないよね。\nハイディ、お願い！","fr":"On ferait quand même bien de rester sur nos gardes.\nHeidi, tu nous aides ?"}
 {"id":1544136,"jp":"ハイディもあたりを見張ってくれるよ。\n気をつけてさきに進もう！","fr":"Heidi va aussi ouvrir l'œil.\nOn avance, mais doucement !"}
-{"id":1544137,"jp":"開けられた形跡はないな。\n冒険者のふたり組って、ほんとーにここに来てるのか？","fr":"On dirait que personne n'a ouvert ce coffre.\nT'es sûr que nos deux chasseurs de fantômes sont passés par là ?"}
+{"id":1544137,"jp":"開けられた形跡はないな。\n冒険者のふたり組って、ほんとーにここに来てるのか？","fr":"On dirait que personne n'a ouvert ce coffre.\nIls sont vraiment venus ici, ces deux aventuriers ?"}
 {"id":1544138,"jp":"冒険者も、みんながみんな宝箱が好きなわけじゃないのかも？","fr":"Il y en a peut-être qui arrivent à passer devant un coffre sans l'ouvrir ?"}
 {"id":1544139,"jp":"いーや！宝箱に興味がない冒険者なんているはずないのだ！","fr":"Mais nooon ! Qui partirait à l'aventure sans s'intéresser aux coffres au trésor ?"}
 {"id":1544140,"jp":"よーし、ルミィさまが開けてやる！\nこれぞ、冒険の醍醐味！","fr":"Allez, la grande Lumi va l'ouvrir !\nC'est ça, le meilleur dans l'aventure !"}
@@ -50781,13 +50781,63 @@
 {"id":1551403,"jp":"半分は僕の観察からだよ。\nこの森に出入りできるのも、キボたちが友好的に接してくれているおかげだからね。","fr":"La moitié de ce que je sais vient de mes propres observations.\nSi je peux aller et venir librement dans cette forêt, c'est parce que les Kibo se montrent amicaux envers moi."}
 {"id":1551404,"jp":"さあ、はやく街に戻ろう。ブラウディにもゆっくり休んでもらわないと。","fr":"Allez, rentrons vite en ville. Il faut que Browdy puisse se reposer tranquillement."}
 {"id":1551405,"jp":"バレット！お前という子は心配ばかりかけて！","fr":"Barrett ! Sacré garnement, tu n'arrêtes pas de me faire des frayeurs !"}
+{"id":1551406,"jp":"……って、おやまぁ……その鹿はどうしたのかしら？","fr":"… Oh, mais dis donc… Qu'est-ce qui est arrivé à ce petit cerf ?"}
+{"id":1551407,"jp":"おばあちゃん……実は森で密猟者に会って、そいつがこのブラウディを傷つけたんだ……","fr":"Mamie… En fait, j'ai croisé un braconnier dans la forêt, et il a blessé ce Browdy…"}
+{"id":1551408,"jp":"バレットとふたりで、ラリンにことの顛末を説明した。","fr":"Avec Barrett, vous avez expliqué à Larin tout ce qui s'était passé."}
+{"id":1551409,"jp":"そういうことだったの……ありがとう、若いかた。\n私の孫と、この可哀想な小鹿を救ってくれて。","fr":"Alors voilà ce qui s'est passé… Merci, jeune âme.\nMerci d'avoir sauvé mon petit-fils et ce pauvre faon."}
+{"id":1551410,"jp":"バレット、もうあんな危険な場所に行っちゃダメよ！","fr":"Barrett, je t'interdis de retourner dans un endroit aussi dangereux !"}
+{"id":1551411,"jp":"おばあちゃん、ごめんなさい……\nわかってるけどいまは、このブラウディのためにお医者さんを見つけてあげようよ。","fr":"Pardon, Mamie…\nJe comprends, mais pour l'instant, il faut trouver un médecin pour Browdy."}
+{"id":1551412,"jp":"……そうね、この子をちゃんと世話してあげないとね。","fr":"… Tu as raison. Il faut avant tout bien s'occuper de ce petit."}
+{"id":1551413,"jp":"それにしても、そこのにっくき密猟者は――","fr":"Quant à cet odieux braconnier…"}
+{"id":1551414,"jp":"僕がこの男を保安官に引き渡してくるよ。|私がこの男を保安官に引き渡してくるよ。","fr":"Je vais livrer cet homme au shérif.|Je vais livrer cet homme au shérif."}
+{"id":1551415,"jp":"よし……この者には必ず相応の罰を受けさせないとね……！","fr":"Très bien… Il faut absolument qu'il reçoive le châtiment qu'il mérite !"}
+{"id":1551416,"jp":"申し訳ない……街の外に密猟者が現れるとは、私の失態だ。\nしかし、これほど堂々と現れたということは……","fr":"Toutes mes excuses… J'ai failli à mon devoir en laissant des braconniers rôder aux abords de la ville.\nCependant, pour que cet homme agisse aussi ouvertement…"}
+{"id":1551417,"jp":"うん……密猟があるということは販売ルートもきっとあるはず……","fr":"Oui… S'il y a du braconnage, il doit forcément y avoir un circuit de revente…"}
+{"id":1551418,"jp":"ということは、もしかして……\n街のなかにすでにその産業のネットワークができている……と？","fr":"Ce qui voudrait dire que…\nUn réseau de trafic serait déjà implanté au sein même de la ville ?"}
+{"id":1551419,"jp":"その可能性も排除できない。であるなら、我々はただちに注意深く調査せねばならん！\n街の外にある森のパトロールの準備もしなければ！","fr":"Nous ne pouvons pas écarter cette possibilité. Dans ce cas, nous devons immédiatement ouvrir une enquête approfondie !\nIl faudra également organiser des patrouilles dans la forêt aux abords de la ville !"}
+{"id":1551420,"jp":"森のパトロールも大切だけど――\n森のキボのことをポスターにして広場に貼るのはどうかな？","fr":"C'est important de patrouiller dans la forêt, mais…\nEt si on préparait aussi des affiches sur les Kibo de la forêt pour les placarder sur la place ?"}
+{"id":1551421,"jp":"このキボたちがどれだけ重要なのか……\nまだ気づいていないひとが街にはたくさんいるかもしれないなって……","fr":"Je me disais qu'il y avait peut-être encore beaucoup de gens en ville…\nQui ne se rendent pas compte à quel point ces Kibo sont importants…"}
+{"id":1551422,"jp":"たしかに良いアイデアだ、ポスターを貼って構わないぞ！\n皆にキボへの保護意識を高めてもらわないといけないからな。","fr":"C'est effectivement une excellente idée ! Vous avez mon autorisation pour ces affiches.\nIl est essentiel de sensibiliser la population à la protection des Kibo."}
+{"id":1551423,"jp":"そうだな……キボの密猟や販売も取り締まりについても\n周知を進めなければいけないな。よし、すぐに手配しよう！","fr":"En effet… Nous devons également informer la population des mesures prises contre le braconnage et le trafic de Kibo.\nTrès bien, je vais m'en occuper immédiatement !"}
+{"id":1551424,"jp":"とにかく、領主と市民を代表して、この密猟者を捕まえてくれたことに感謝する。\nそれと、貴重な意見をくれた少年、君にも礼を言おう。","fr":"Quoi qu'il en soit, au nom du seigneur et des citoyens, je vous remercie d'avoir appréhendé ce braconnier.\nEt toi, jeune homme, je te remercie également pour cette précieuse suggestion."}
+{"id":1551425,"jp":"……なるほど、つまりきみが僕について来たのは、\n保安官にポスターのことを聞きたかったからなんだ？|……なるほど、つまりきみが私について来たのは、\n保安官にポスターのことを聞きたかったからなのね？","fr":"… Je comprends mieux. Si tu as tenu à venir avec moi,\nc'était pour parler de tes affiches au shérif ?|… Je comprends mieux. Si tu as tenu à venir avec moi,\nc'était pour parler de tes affiches au shérif ?"}
+{"id":1551426,"jp":"うん……僕はキボの観察ノートをたくさん書いてきたけど、\n僕だけが詳しくなってもあんまり意味ないかも……って思ったんだ。","fr":"Oui… J'ai rempli plein de carnets d'observation sur les Kibo.\nMais je me suis dit que toutes ces connaissances ne serviraient pas à grand-chose si je les gardais pour moi…"}
+{"id":1551427,"jp":"みんながあの子たちのことを知って、ちゃんと意識を持つようになれば、\nもうあの子たちが傷つことは無くなるんじゃないかな……","fr":"Si tout le monde apprend à mieux connaître les Kibo et comprend l'importance de les protéger,\npeut-être qu'ils n'auront plus à souffrir…"}
+{"id":1551428,"jp":"とても素敵な願いだね。","fr":"C'est un très beau souhait."}
+{"id":1551429,"jp":"……おばあちゃんはさ、しばらく僕を森へ行かせてくれないと思う。\n今回、密猟なんていう危ないことに巻き込まれちゃったから。","fr":"… Je pense que Mamie ne me laissera plus aller dans la forêt pendant quelque temps.\nAvec cette dangereuse histoire de braconnage dans laquelle je me suis retrouvé mêlé…"}
+{"id":1551430,"jp":"でも、森のキボのことは研究し続けるよ！僕がノートに書いたことをポスターにして、\nみんなに伝えられたら、すごくいいことだと思うしね！","fr":"Mais je vais continuer mes recherches sur les Kibo de la forêt ! Je pourrai transformer les notes de mes carnets en affiches,\net partager tout ce que j'ai appris avec les autres. Ce serait vraiment génial !"}
+{"id":1551431,"jp":"僕も応援するよ！|私も応援するよ！","fr":"Tu as tout mon soutien !|Tu as tout mon soutien !"}
+{"id":1551432,"jp":"ありがとう、星臨者。それじゃ僕、急いで帰らなきゃ。\n帰ったらたぶん外出禁止になっちゃうだろうけど……","fr":"Merci, Enfant des étoiles ! Bon, il faut que je rentre vite.\nJe vais sûrement être privé de sorties en arrivant à la maison, mais bon…"}
+{"id":1551433,"jp":"つぎはまた森で会えるといいね！","fr":"J'espère qu'on se reverra dans la forêt la prochaine fois !"}
+{"id":1551434,"jp":"そうだね！じゃなくて……もうこっそり森に行っちゃダメだよ！","fr":"Moi aussi ! Euh, non, attends… Ne retourne plus dans la forêt en cachette !"}
+{"id":1551435,"jp":"あれ？あのニャアホ、野生のキボじゃないのかな。まえに、街で見かけたような気がするけど……","fr":"Tiens ? Ce Nyaho ne serait pas un Kibo sauvage ? Il me semble pourtant l'avoir déjà aperçu en ville…"}
 {"id":1551436,"jp":"リリッ！","fr":"Riri !"}
 {"id":1551437,"jp":"ウグッ！","fr":"Ugh !"}
+{"id":1551438,"jp":"ちょっと！やめるんだ！|ちょっと！やめて！","fr":"Hé ! Ça suffit !|Hé ! Arrête !"}
 {"id":1551439,"jp":"ウグ……","fr":"Ugh…"}
+{"id":1551440,"jp":"もう大丈夫そうだし、僕はもう行くね。\nきみははやく街に帰って、今後は野生のキボの縄張りには入っちゃだめだよ。|もう大丈夫そうだし、私はもう行くね。\nきみははやく街に帰って、今後は野生のキボの縄張りには入っちゃだめだよ。","fr":"On dirait que tout va bien maintenant, alors je vais y aller.\nRentre vite en ville et, à l'avenir, évite de pénétrer sur le territoire des Kibo sauvages.|On dirait que tout va bien maintenant, alors je vais y aller.\nRentre vite en ville et, à l'avenir, évite de pénétrer sur le territoire des Kibo sauvages."}
 {"id":1551441,"jp":"クウ……ククッ！","fr":"Kuu… Kuku !"}
+{"id":1551442,"jp":"石の下に下敷きになってるのは……本かノートみたいだけど……これが欲しいの？","fr":"Ce qui est coincé sous cette pierre… On dirait un livre ou un carnet… C'est ça que tu veux ?"}
+{"id":1551443,"jp":"えっと……きみが欲しかったのってこれ？","fr":"Euh… C'est bien ce que tu voulais ?"}
+{"id":1551444,"jp":"クウッ！ク……クククウッ！","fr":"Kou ! Kou… Koukoukou !"}
+{"id":1551445,"jp":"僕についてきてほしいの？でも、どこに？|私についてきてほしい？でも、どこに？","fr":"Tu veux que je te suive ? Mais où ça ?|Tu veux que je te suive ? Mais où ça ?"}
+{"id":1551446,"jp":"ちょ、ちょっと待って！","fr":"A-Attends un peu !"}
 {"id":1551447,"jp":"ターシャ、待って。","fr":"Tasha, attends."}
+{"id":1551448,"jp":"こんなときになに？\nのんびりしてたら、エルフたちが広場からいなくなってるかもしれないわよ？\n毎日不思議な儀式をやってるみたいだしね。","fr":"Qu'est-ce qu'il y a encore ?\nSi on traîne trop, les Elfes risquent d'avoir quitté la place, tu sais !\nApparemment, ils accomplissent un étrange rituel tous les jours."}
+{"id":1551449,"jp":"このまま手ぶらで行くつもりなの？","fr":"Tu comptes vraiment y aller les mains vides ?"}
+{"id":1551450,"jp":"え？なにか問題でもあるかしら？","fr":"Hein ? Où est le problème ?"}
+{"id":1551451,"jp":"頼みごとをするんだから、手ぶらで行くのはよくないんじゃない？","fr":"Puisqu'on va leur demander un service, ce serait malpoli d'arriver les mains vides, non ?"}
+{"id":1551452,"jp":"それに、ハイエルフは交易に長けた種族だって聞いたよ。\n情報をもらうことが一種の取引だとするなら、情報と交換できるものを用意した方がいいんじゃない？","fr":"Et puis, j'ai entendu dire que les Hauts-Elfes étaient particulièrement doués pour le commerce.\nSi obtenir des informations revient à conclure une sorte de marché, on devrait préparer quelque chose à leur offrir en échange, non ?"}
+{"id":1551453,"jp":"うーん……言われてみればたしかにその通りね。","fr":"Hmm… Maintenant que tu le dis, tu n'as pas tort."}
+{"id":1551454,"jp":"お願いをするための『贈りもの』……あるいは、情報取引の『手札』になるようなもの……\nうん、私、準備しておくわ。","fr":"Un « cadeau » pour accompagner notre demande… Ou quelque chose qui nous servirait de « monnaie d'échange » pour obtenir des informations…\nTrès bien, je vais préparer ça."}
+{"id":1551455,"jp":"ターシャだけで大丈夫？","fr":"Tu vas t'en sortir toute seule, Tasha ?"}
+{"id":1551456,"jp":"任せて。助手さんはフリスの中央広場のあたりで待っててちょうだい。","fr":"Fais-moi confiance. Toi, attends-moi aux alentours de la place centrale de Fleece."}
 {"id":1551457,"jp":"あの……こんにちは。","fr":"Euh… bonjour."}
 {"id":1551458,"jp":"アラマニヤ","fr":"Aramaniya"}
+{"id":1551459,"jp":"こんにちは。なにか用か？","fr":"Bonjour. Que puis-je pour vous ?"}
+{"id":1551460,"jp":"私はフリスの錬金術士よ。最近、錬金術の本を偶然手に入れたの……","fr":"Je suis alchimiste à Fleece. J'ai récemment mis la main sur un ouvrage d'alchimie, tout à fait par hasard…"}
+{"id":1551461,"jp":"ただ、この本はエルフ語で書かれていてね、できればエルフの方に解読してほしくて……\nもちろん、相応のお礼はするつもりよ。","fr":"Seulement, cet ouvrage est rédigé en langue elfique. J'aimerais, si possible, qu'un Elfe m'aide à le déchiffrer…\nBien entendu, je compte vous récompenser comme il se doit."}
+{"id":1551462,"jp":"なるほど、わかった……すこし見せて。","fr":"Je vois, très bien… Laissez-moi y jeter un coup d'œil."}
 {"id":1551463,"jp":"はい、この本よ……","fr":"Voilà, c'est ce livre…"}
 {"id":1551465,"jp":"『アヴァエーラ』？","fr":"Un « Avaera » ?"}
 {"id":1551471,"jp":"あれ、これは……","fr":"Tiens, ceci est…"}
