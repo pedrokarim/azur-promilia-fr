@@ -1,0 +1,59 @@
+# Azur Promilia en français
+
+Traduction française non officielle du client PC japonais d'Azur Promilia (version 1.0.2, build 3219598). On traduit depuis le japonais, en s'aidant de l'anglais de [promiliafans/i18n](https://github.com/promiliafans/i18n), dont ce dépôt est un fork.
+
+Ce projet n'est ni affilié à Manjuu ni approuvé par l'éditeur. Un patch de traduction modifie les fichiers du jeu, qui tourne avec l'anti-triche ACE : chacun l'installe à ses risques.
+
+## Organisation
+
+| Fichier | Rôle |
+|---|---|
+| `strings.translatable.jsonl` | Le japonais et l'anglais de l'amont. On ne le modifie jamais à la main : il se met à jour depuis promiliafans/i18n. |
+| `fr/strings.fr.jsonl` | Le français, une ligne `{"id", "jp", "fr"}` par texte traduit, triée par `id`. |
+| `fr/orphans.jsonl` | Les traductions dont le japonais a disparu du jeu après une mise à jour. Elles servent de modèle pour retraduire. |
+| `scripts/fr.mjs` | L'outil : avancement, vérification, lots de travail, fabrication du fichier du patcher. |
+
+Une traduction est rattachée au texte japonais, et non à son `id`. C'est aussi ce que fait le patcher. Quand une mise à jour du jeu change une phrase, seule cette ligne repasse « à traduire » ; tout le reste tient.
+
+## Traduire
+
+Il faut Node 20 ou plus, sans rien installer d'autre.
+
+```sh
+node scripts/fr.mjs stats                                  # où on en est
+node scripts/fr.mjs todo --limit 200 --max-length 20       # 200 textes courts (menus) à traduire
+node scripts/fr.mjs todo --grep "クエスト" --out work/quetes.jsonl
+node scripts/fr.mjs import work/quetes.jsonl               # reverse les lignes dont « fr » est rempli
+node scripts/fr.mjs check                                  # vérifie tout le français
+```
+
+`todo` écrit un fichier de travail dans `work/` (ignoré par git) avec le japonais, l'anglais et un champ `fr` vide. On remplit `fr`, puis `import` vérifie chaque ligne avant de l'ajouter. Options de `todo` : `--limit`, `--grep` (expression cherchée dans le japonais ou l'anglais), `--max-length`, `--src acedy|phist`, `--out`.
+
+Une ligne est refusée si ses variables (`{0}`, `{playerName}`, `%s`…) ou ses balises d'affichage (`<color=…>`, `<b>`, `<actionkey>`, `<img name=…>`…) ne sont pas exactement celles du japonais. Un oubli casserait l'affichage dans le jeu. Les balises `<ruby>`, qui donnent la lecture des kanji, peuvent disparaître.
+
+Les lignes de l'amont peuvent contenir des sauts de ligne (`\n`) : on les garde là où le français coupe naturellement la phrase, sinon le texte déborde des bulles.
+
+## Fabriquer le fichier du patcher
+
+```sh
+node scripts/fr.mjs build                    # dist/strings.fr.jsonl : ce qui n'est pas traduit reste en anglais
+node scripts/fr.mjs build --fallback jp      # dist/strings.fr-jp.jsonl : ce qui n'est pas traduit reste en japonais
+node scripts/fr.mjs build --accent-test      # dist/strings.accent-test.jsonl : quelques menus avec accents, « » et espaces insécables
+```
+
+Le fichier produit garde le format de l'amont (`{"id", "jp", "en", "src"}`) : le patcher ne lit que `jp` et `en`, donc le français passe dans `en`. Un `en` vide laisse le texte japonais.
+
+À chaque modification poussée sur `main`, l'action « Publier la traduction » vérifie le français et publie les trois fichiers dans la release [`latest`](../../releases/tag/latest). Le patcher les télécharge depuis cette release.
+
+## Suivre l'amont
+
+```sh
+git fetch upstream
+git merge upstream/main
+```
+
+Le fichier amont et le français sont séparés, donc la fusion ne crée pas de conflit. Après la fusion, `node scripts/fr.mjs orphans` liste les traductions dont le japonais a changé, et `orphans --move` les range dans `fr/orphans.jsonl`.
+
+## À vérifier avant de traduire en masse
+
+La police du jeu n'a pas encore été testée en français. `build --accent-test` remplace six menus des réglages (Réglages, Langue, Graphismes, Confirmer, Annuler, Retour) par des textes pleins d'accents, de guillemets « » et d'espaces insécables. Si un caractère s'affiche en carré dans le jeu, il faudra s'en passer ou remplacer la police.
