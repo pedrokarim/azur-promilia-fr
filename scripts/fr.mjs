@@ -11,7 +11,7 @@
 //   stats                         avancement
 //   check                         vérifie le français (code de sortie 1 en cas d'erreur)
 //   todo [options]                extrait des lignes à traduire dans un fichier de travail
-//   import <fichier>              reverse un fichier de travail rempli dans fr/strings.fr.jsonl
+//   import <fichier> [--dry-run]  reverse un fichier de travail rempli dans fr/strings.fr.jsonl
 //   build [options]               fabrique le fichier lu par le patcher
 //   orphans [--move]              liste (ou range dans fr/orphans.jsonl) les lignes orphelines
 //
@@ -263,8 +263,10 @@ function importWork(options) {
     french.byJp.set(row.jp, { id: upstream.byJp.get(row.jp).id, jp: row.jp, fr: row.fr });
   }
   const sorted = [...french.byJp.values()].sort((a, b) => (a.id ?? 0) - (b.id ?? 0));
-  writeJsonl(FRENCH_FILE, sorted);
-  console.log(`${added} ajoutée(s), ${replaced} remplacée(s), ${rejected.length} refusée(s).`);
+  // --dry-run : vérifie le fichier de travail sans rien écrire dans fr/strings.fr.jsonl.
+  if (!options['dry-run']) writeJsonl(FRENCH_FILE, sorted);
+  const verb = options['dry-run'] ? '(essai, rien n\'est écrit) ' : '';
+  console.log(`${verb}${added} ajoutée(s), ${replaced} remplacée(s), ${rejected.length} refusée(s).`);
   for (const reason of rejected) console.log(`refusée : ${reason}`);
 }
 
@@ -279,7 +281,10 @@ function build(options) {
     if (typeof row.jp !== 'string' || !row.jp) continue;
     let text = '';
     let source = row.src;
-    const translated = options['accent-test'] && ACCENT_TEST[row.jp] ? ACCENT_TEST[row.jp] : french.byJp.get(row.jp)?.fr;
+    // En test des accents, chaque texte commence par des accents et des guillemets français :
+    // n'importe quel écran du jeu montre alors si la police les affiche.
+    const accentText = ACCENT_TEST[row.jp] ?? (row.en ? `ÉÀÇ éèàçœ « » ! ${row.en}` : '');
+    const translated = options['accent-test'] ? accentText : french.byJp.get(row.jp)?.fr;
     if (translated && validate(row.jp, translated).length === 0) {
       text = translated;
       source = 'fr';
