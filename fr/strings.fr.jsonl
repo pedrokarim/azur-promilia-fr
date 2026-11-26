@@ -22754,13 +22754,17 @@
 {"id":1518815,"jp":"アヴァリアン万識書庫","fr":"Bibliothèque universelle d'Avalian"}
 {"id":1518817,"jp":"フリス鉱業協会","fr":"Association minière de Fleece"}
 {"id":1518818,"jp":"星臨者：\nグルルを騙したあいつが罠にかかったよ。幻覚が現れるタイミングも、予想した通りだった！いま街にいるから、はやく見物に来て！","fr":"Enfant des étoiles :\nCelui qui a dupé Gururu est tombé dans le piège. Les hallucinations sont même apparues exactement au moment prévu ! Je suis en ville en ce moment, viens vite voir ça !"}
+{"id":1518819,"jp":"悪い子のやらかし記録：  \nアビィ、森のキボたち怖がらせた。ルビッツの殻をつっついて取った。\nアビィ、ひとりで休んでた。みんなと悪者退治をしなかった。\nアビィ、メーツァお姉ちゃんのドームを壊した。\nアビィ、好き嫌いする。野菜を食べない。","fr":"Liste des bêtises d'une vilaine petite fille :\nAbby a fait peur aux Kibo de la forêt. Abby a tripoté la carapace d'un Rubbits jusqu'à l'enlever.\nAbby s'est reposée toute seule. Abby n'a pas combattu les méchants avec les autres.\nAbby a cassé le dôme de grande sœur Metsa.\nAbby fait la difficile. Abby ne mange pas ses légumes."}
 {"id":1518820,"jp":"アビィ？","fr":"Abby ?"}
+{"id":1518821,"jp":"いい子になる方法： \n言うことを聞くこと。大人の言いつけをしっかり守る。 \nがまんすること。じぶんの気持ちをおさえること。 \nひとりでいろいろすること。甘えすぎるときらわれるから。","fr":"Comment devenir une gentille petite fille :\nÊtre obéissante. Bien respecter ce que disent les adultes.\nSavoir se retenir. Garder ses sentiments pour soi.\nFaire plein de choses toute seule. Si on demande trop d'attention, les autres ne nous aimeront plus."}
 {"id":1518822,"jp":"絶え間ない嵐を辿って旅立ち、\n門冠の頂に触れた痕を残し、\n3つ目の足跡は渓流に抱かれ、\n終着地で見守るは永遠の白き頂。","fr":"Sur la piste de la tempête sans fin, partir,\nlaisser la trace d'un toucher au sommet de la couronne des portes,\nla troisième empreinte est bercée par le torrent,\net au terme du chemin veille l'éternel sommet blanc."}
 {"id":1518826,"jp":"ハーヴェイ","fr":"Harvey"}
 {"id":1518828,"jp":"フリスの住民","fr":"Habitant de Fleece"}
 {"id":1518832,"jp":"レナ","fr":"Lena"}
+{"id":1518834,"jp":"親愛なる{playerName}へ\n　あなたとルビーナさんのおかげで、無事に街に新しい装置を設置することができました。最近の稼働もとても順調で、皆でふたりを街のお祝いに招待したいと考えています。","fr":"À notre chère connaissance, {playerName},\nGrâce à vous et à Ruby, nous avons pu installer le nouvel appareil en ville sans encombre. Son fonctionnement est très satisfaisant ces derniers temps, et nous aimerions tous vous inviter à participer aux festivités de la ville."}
 {"id":1518835,"jp":"トシュア","fr":"Toshua"}
 {"id":1518837,"jp":"フリス保安官 ギルス","fr":"Gilles, shérif de Fleece"}
+{"id":1518870,"jp":"シャーマンが記したアウラとシャーマンの使命に関する記録。\nシャーマンが記した呪術、元素、そしてアウラに関する認識。\nシャーマンが記したタナの火祭りに関する記録。","fr":"Notes du chamane concernant les Aura et la mission des chamanes.\nConnaissances du chamane sur la sorcellerie, les éléments et les Aura.\nNotes du chamane concernant la fête du feu de Tana."}
 {"id":1518871,"jp":"大狼の物語はいまもシャルル村で語り継がれている。しかし、大狼とその末裔である白い狼たちの姿は谷から消えてしまったようだ。","fr":"L'histoire du Grand Loup se raconte encore au Village de Charlulu. Pourtant, le Grand Loup et ses descendants, les loups blancs, semblent avoir disparu de la vallée."}
 {"id":1518872,"jp":"キボの特殊個体に関する考察および研究","fr":"Observations et recherches sur les individus atypiques parmi les Kibo"}
 {"id":1518873,"jp":"匿名の何者かによる、フリスの学者の文体を模したキボの特殊個体に関する『論文』。","fr":"Un « article » anonyme sur les individus spéciaux de Kibo, imitant le style d'un érudit de Fleece."}
@@ -22769,7 +22773,9 @@
 {"id":1518876,"jp":"おどし祭りの招待状","fr":"Invitation à la fête de l'Épouvante"}
 {"id":1518877,"jp":"シャルル村の住民が偉大なる森の女神へ送ったおどし祭りの招待状。まさか……あの森の守護者から本当に返事が届くとは。","fr":"Une invitation à la fête de l'Épouvante, envoyée par des habitants du Village de Charlulu à la grande déesse de la forêt. Qui aurait cru que le gardien de la forêt répondrait pour de bon…"}
 {"id":1518878,"jp":"ゾーラの手紙","fr":"Lettre de Zola"}
+{"id":1518879,"jp":"シャルル村の少女が翼人の里の友に送った手紙。シャルル村と風隠れ岩の交流が復活することをひそかに待ち望む気持ちが綴られている。","fr":"Une lettre envoyée par une jeune fille du Village de Charlulu à une connaissance du Village des Ailés. Elle y exprime son espoir secret de voir reprendre les échanges entre le Village de Charlulu et le Roc Coupe-Vent."}
 {"id":1518880,"jp":"豊穣とソザンカに捧げる賛歌","fr":"Hymne à l'abondance et à Sozanka"}
+{"id":1518881,"jp":"泥で作られた粘土板。古代の獣人がソザンカとその功績を讃える神話を記している。古い時代のもので、一部の文字が判読困難になっている。","fr":"Une tablette d'argile sur laquelle les anciens Furriens ont inscrit un mythe célébrant Sozanka et ses exploits. Très ancienne, elle comporte quelques caractères devenus difficiles à déchiffrer."}
 {"id":1518882,"jp":"今日食べたもの","fr":"Ce que j'ai mangé aujourd'hui"}
 {"id":1518883,"jp":"名もなき古代の獣人の手記。古びた粘土板に刻まれた数日分の食事記録から、当時の獣人たちの食習慣が垣間見える。","fr":"Le carnet d'un ancien Furrien anonyme. Quelques jours de repas gravés sur une vieille tablette d'argile laissent entrevoir les habitudes alimentaires des Furriens d'alors."}
 {"id":1518884,"jp":"大地はチーズである","fr":"La terre est un fromage"}
@@ -22779,15 +22785,20 @@
 {"id":1518888,"jp":"監視塔の伝言板","fr":"Tableau de messages de la tour de guet"}
 {"id":1518889,"jp":"シャルル村監視塔の依頼板に張られたメモ。監視塔の戦士たちの日常が記録されている。","fr":"Une note affichée sur le panneau de missions de la tour de guet du Village de Charlulu. Elle consigne le quotidien des guerriers de la tour de guet."}
 {"id":1518890,"jp":"真紅、紺碧、新緑の伝説","fr":"La légende de l'écarlate, de l'azur et du vert printanier"}
+{"id":1518891,"jp":"シャルル村の伝承において、略奪の獣ファルマン・チャチャが数多の災いをもたらした時代、古のキボと獣人が力を合わせ、ついに災いを打ち破ったという……キボたちは像に象られ、いまも谷とともにある。","fr":"Selon les légendes du Village de Charlulu, à l'époque où la bête pillarde Farman Chacha semait d'innombrables calamités, les Kibo d'autrefois et les Furriens unirent leurs forces et triomphèrent enfin du fléau… Les Kibo furent immortalisés sous forme de statues et veillent encore aujourd'hui sur la vallée."}
 {"id":1518892,"jp":"シャルル村の掟","fr":"Les règles du Village de Charlulu"}
 {"id":1518893,"jp":"シャルル村の十の掟。村民は厳守すべし。","fr":"Les dix préceptes du Village de Charlulu. Tous les habitants doivent les respecter scrupuleusement."}
+{"id":1518894,"jp":"冒険家ダンハレイが独力で執筆した冒険記。百朔前に刊行され、その後なんども再版されている。内容には虚構や誇張が多く含まれると言われているが、いまもなお冒険者たちの行動の指針となっている。","fr":"Un récit d'aventure entièrement rédigé par l'explorateur Danha Rei. Publié il y a cent lunes, il a depuis connu de nombreuses rééditions. Bien que son contenu soit réputé mêler fiction et exagération, il demeure aujourd'hui encore un guide pour les aventuriers."}
 {"id":1518895,"jp":"鷹匠の手記","fr":"Notes d'un fauconnier"}
+{"id":1518896,"jp":"鷹匠がスカイホークやスカーレックとの交流の仕方を指南している手引き書。書いたのはパルカの祖父だが、祖父の仕事を受け継いだあと、パルカも心得を追記している。","fr":"Un manuel dans lequel un fauconnier explique comment interagir avec les Skyhawk et les Scarleck. Rédigé par le grand-père de Parka, il a été enrichi de son propre savoir-faire lorsqu'elle a repris le métier familial."}
 {"id":1518897,"jp":"シャルル村の貝殻伝説","fr":"La légende des coquillages du Village de Charlulu"}
+{"id":1518898,"jp":"この粘土板には貝殻にまつわる神秘的な伝説が彫られている。しかし、その謎に深入りすれば不吉な呪いを招くと言われている……本当に最後まで読むつもりか？","fr":"Cette tablette d'argile relate une mystérieuse légende au sujet des coquillages. Cependant, on raconte que quiconque approfondit trop ce mystère risque d'attirer une funeste Malédiction… Comptez-vous vraiment poursuivre votre lecture jusqu'au bout ?"}
 {"id":1518899,"jp":"淬沙の衍化石書","fr":"Livre de pierre de l'évolution du sable trempé"}
 {"id":1518900,"jp":"とある実験の過程が断続的に記録されている。知られざる天道の塔で、竜王時代のキボはいったいなにを経験したのだろうか……","fr":"Le déroulement d'une expérience est consigné par fragments. Qu'ont donc vécu les Kibo de l'ère du roi dragon dans la mystérieuse tour de la Voie céleste…"}
 {"id":1518901,"jp":"聚沙授儀の石書","fr":"Livre de pierre du rite du sable rassemblé"}
 {"id":1518902,"jp":"天道の塔3階の大砂時計エリアに関する情報が記されている。文中に秘められた謎を読み解けば、からくりを解けるかもしれない。","fr":"Il contient des informations sur la zone du grand sablier, au 3e étage de la tour de la Voie céleste. En déchiffrant le mystère caché dans le texte, on pourrait percer le mécanisme."}
 {"id":1518903,"jp":"天道の塔の祈り","fr":"Prière de la tour de la Voie céleste"}
+{"id":1518904,"jp":"竜王時代から現在まで残る文章。ある竜人が記した、天道の塔に関する情報である。兵士を砂石に、兵士の訓練を砂を鍛え石を磨くことに例えている。","fr":"Un texte ayant traversé les âges depuis l'ère du Roi-dragon. Rédigé par un Draconien, il contient des informations sur la tour de la voie céleste. Il compare les soldats au sable et à la pierre, et leur entraînement au raffinement du sable et au polissage de la pierre."}
 {"id":1518905,"jp":"巡行の手記","fr":"Notes de patrouille"}
 {"id":1518906,"jp":"ある竜人兵の巡回日記。ただの短い手記だが、行間には喜びと誇りが満ちている。","fr":"Le journal de ronde d'un soldat draconien. Un simple petit carnet, mais entre les lignes règnent joie et fierté."}
 {"id":1518907,"jp":"進入区の掟","fr":"Règlement de la zone d'accès"}
@@ -22802,24 +22813,35 @@
 {"id":1518916,"jp":"ハイガーデン議会からガーデナー・メーツァに宛てられた正式な返書。","fr":"La réponse officielle du Conseil de High Garden à la jardinière Metsa."}
 {"id":1518917,"jp":"フリス田園わらべうた全集","fr":"Recueil complet des comptines champêtres de Fleece"}
 {"id":1518919,"jp":"ロンリーランド・フリス編","fr":"Lonely Land - Édition de Fleece"}
+{"id":1518920,"jp":"大陸全土で発行されている大人気の旅行雑誌。 \n「旅に出られないときはさ、雑誌を眺めて我慢するしかないんだよね～」とあるロジニアの刑事がページをめぐりながら呟いた。","fr":"Un magazine de voyage extrêmement populaire, publié sur l'ensemble du continent.\n« Quand on ne peut pas partir en voyage, il ne reste plus qu'à feuilleter un magazine pour patienter », marmonna un inspecteur de Roginia en tournant les pages."}
 {"id":1518921,"jp":"メメジケン旅館の宣伝広告","fr":"Publicité de l'auberge Memejiken"}
+{"id":1518922,"jp":"メメジケン旅館の宣伝広告。各場所での掲示はすべて領主邸の許可を得ている。 \nフリス市街で唯一の大型旅館であるメメジケン旅館は、ここまで宣伝する必要はなかったかも……？","fr":"Une publicité pour l'auberge Memejiken. Tous ses emplacements d'affichage ont été approuvés par le manoir du seigneur.\nÉtant la seule grande auberge de Fleece, Memejiken n'avait peut-être pas besoin de faire autant de publicité… ?"}
 {"id":1518923,"jp":"金穂の家　来訪者記録","fr":"Maison des Épis d'or : registre des visiteurs"}
+{"id":1518924,"jp":"金穂の家の入口にある来訪者記録。訪問者がみずから情報を記入する。 \n金穂の家はフリスの住民にとって特別な意味を持つ施設である。","fr":"Le registre des visiteurs situé à l'entrée de la maison des Épis dorés. Chaque visiteur y inscrit lui-même ses informations.\nLa maison des Épis dorés est un établissement qui revêt une signification particulière pour les habitants de Fleece."}
 {"id":1518925,"jp":"魔法の鍬物語集","fr":"Contes de la houe magique"}
 {"id":1518926,"jp":"フリス地方に伝わる童話集。地元の風習をテーマとした物語が多い。","fr":"Un recueil de contes de la région de Fleece. Beaucoup d'histoires ont pour thème les coutumes locales."}
 {"id":1518927,"jp":"学者エイダの手帳","fr":"Carnet de recherche d'Ada"}
+{"id":1518928,"jp":"なんどもめくられた手帳。詳細な記録のほかに、付箋や走り書きの注釈、様々な落書きが散らばめられている。 \nこの手帳はある学者のものだと考えられ、フリスの文化に関する情報をたくさん記録している。","fr":"Un carnet maintes fois feuilleté. Outre ses notes détaillées, il est parsemé de marque-pages adhésifs, d'annotations griffonnées à la hâte et de toutes sortes de dessins.\nCe carnet aurait appartenu à un érudit et renferme de nombreuses informations sur la culture de Fleece."}
 {"id":1518929,"jp":"芽吹の谷の鉱石の手引書","fr":"Guide des minerais de la Vallée des Bourgeons"}
+{"id":1518930,"jp":"芽吹の谷の鉱石を詳細に記録した手引書。 \n「この谷……いままでよく知らなかったけど、最近耳にすることが多くなった。いつか探査に行くことになるかもしれないし、どこで手に入れたのかもう覚えていないが、この手引書もきっと役に立つはずだ」","fr":"Un manuel répertoriant en détail les minerais de la Vallée des Bourgeons.\n« Cette vallée… Je n'en savais pas grand-chose jusqu'ici, mais j'en entends de plus en plus parler ces derniers temps. J'irai peut-être un jour y faire de la prospection. Je ne me souviens plus d'où vient ce manuel, mais il me sera certainement utile. »"}
 {"id":1518931,"jp":"秦時の手紙","fr":"Lettre de Qin Shi"}
 {"id":1518932,"jp":"だれかが置き忘れた手紙。 \n文章からすると、恋文のようだが……想いを寄せる相手は意外な存在のようだ。","fr":"Une lettre oubliée par quelqu'un.\nD'après le texte, on dirait une lettre d'amour… mais la personne visée semble être une présence inattendue."}
 {"id":1518933,"jp":"モレの日記","fr":"Journal de Morre"}
 {"id":1518934,"jp":"だれかが置き去りにした日記。 \n日記や記録だけでなく、単純なメモ書きも含まれている――父親たちがよく使う手帳のようだ。","fr":"Un journal laissé là par quelqu'un.\nIl ne contient pas que des entrées de journal et des relevés, mais aussi de simples notes griffonnées : on dirait le genre de carnet que les pères utilisent souvent."}
 {"id":1518935,"jp":"錬金秘術","fr":"Arcanes de l'alchimie"}
+{"id":1518936,"jp":"錬金術に関する重要な著作。理論と実践の両方の内容が充実している。 \n扉に献辞がある。「錬金術は大河のごとし。その源流を探求することを決して諦めぬことを願う」――ジャクソン・メルキン","fr":"Un ouvrage majeur consacré à l'alchimie, riche aussi bien en théorie qu'en pratique.\nUne dédicace figure sur la page de titre : « L'alchimie est semblable à un grand fleuve. Puissiez-vous ne jamais renoncer à en chercher la source. » (Jackson Merkin)"}
 {"id":1518937,"jp":"ボロボロの薬レシピ","fr":"Recette de remède en lambeaux"}
+{"id":1518938,"jp":"『フラウの毛並みのケア』の秘伝のケア方法が記されたメモ。 \nどこから書き写したのか不明だが、以前の持ち主の深い失望が伝わってくる。","fr":"Une note dévoilant les secrets d'entretien du pelage décrits dans « Prendre soin du pelage de Furau ».\nOn ignore d'où ces instructions ont été recopiées, mais la profonde déception de l'ancien propriétaire est palpable."}
 {"id":1518939,"jp":"切り取られた新聞記事","fr":"Article de journal découpé"}
+{"id":1518940,"jp":"『フリスアマチュア灌木剪定コンテスト』という新聞記事の切り抜き。 \nかすれたインクで「……大切に保管しよう」と書かれているが、実際は道端に捨てられていた。","fr":"Une coupure de journal intitulée « Concours amateur de taille des arbustes de Fleece ».\nQuelques mots tracés à l'encre pâlie indiquent : « … À conserver précieusement. » Pourtant, elle a été retrouvée abandonnée au bord du chemin."}
 {"id":1518941,"jp":"エイダの家計簿：4,000ユニ買いもの挑戦","fr":"Livre de comptes d'Ada : le défi des achats à 4 000 Uni"}
+{"id":1518942,"jp":"ロージア帝国の観光客エイダがフリスを旅行した際の家計簿。出費を抑えようとしたが、最終的には大幅に予算をオーバーしてしまった。","fr":"Le carnet de comptes d'Ada, une touriste de l'Empire de Rosia, lors de son séjour à Fleece. Malgré ses efforts pour limiter ses dépenses, elle a fini par dépasser largement son budget."}
 {"id":1518943,"jp":"辰王朝玉石器特集オークションカタログ","fr":"Catalogue spécial de vente aux enchères d'objets en jade de la dynastie Chen"}
 {"id":1518944,"jp":"【フリスハーベストホールオークションハウス】辰王朝玉石器特集に出品される競売品の紹介文。","fr":"【Maison de ventes de la Halle des Moissons de Fleece】 Présentation des lots de la vente spéciale d'objets de jade de la dynastie Chen."}
 {"id":1518945,"jp":"わたしはグレイターグになった","fr":"Je me suis transformé en Gureitaagu"}
+{"id":1518946,"jp":"『チェシャバットのおやすみ童話』に収められた一編。一匹のグレナードがグレイターグへと成長し、領土内のグレイニーとグレナードを守り抜くという、心温まる物語が綴られている。","fr":"Un récit extrait des « Contes du soir de Cheshabat ». Il raconte l'histoire touchante d'un Grenade qui grandit pour devenir un Gureitaagu et protéger jusqu'au bout les Greyny et les Grenade de son territoire."}
 {"id":1518947,"jp":"葡萄栽培の手引き","fr":"Guide de la culture de la vigne"}
+{"id":1518948,"jp":"ブルーヴィンの栽培方法を詳細に記した園芸書。 \n退屈だが実用性が高い指南書――ブドウ栽培の指導と睡眠導入の両面で非常に役立つ。","fr":"Un ouvrage horticole détaillant les méthodes de culture du Bluevine.\nUn manuel ennuyeux, mais très pratique, aussi utile pour apprendre la viticulture que pour trouver le sommeil."}
 {"id":1518949,"jp":"カルノン療養院メッセージ帳","fr":"Livre d'or du sanatorium de Carnon"}
 {"id":1518950,"jp":"カルノン療養院メッセージ帳の1ページ。来訪者からの意見収集用で、来訪者のメッセージと施設側の返答が含まれている。","fr":"Une page du livre d'or du sanatorium de Carnon. Destiné à recueillir les avis des visiteurs, il contient leurs messages et les réponses de l'établissement."}
 {"id":1518951,"jp":"シャインキャンディショップ創業記念のお知らせ","fr":"Annonce de l'anniversaire de la confiserie Shine"}
@@ -22827,15 +22849,19 @@
 {"id":1518953,"jp":"プロミリアの10の未解決ミステリーシリーズ","fr":"Les 10 grands mystères non résolus de Promilia"}
 {"id":1518954,"jp":"プロミリア大陸各地の異聞を集めた冊子。シリーズ化されているようだ。","fr":"Un fascicule qui rassemble des récits insolites de toutes les régions du continent de Promilia. Il semble faire partie d'une série."}
 {"id":1518955,"jp":"星臨者の広く知られた千の偉大な事実","fr":"Mille faits remarquables et bien connus sur l'Enfant des étoiles"}
+{"id":1518956,"jp":"世界を救ったと噂される英雄『星臨者』に関する千の偉大な事実。だれが書いたものかは不明で、真偽は確かめようがないが、広く知られている。","fr":"Mille faits extraordinaires sur l'Enfant des étoiles, figure héroïque qui aurait sauvé le monde. L'identité de l'auteur est inconnue et l'authenticité de ces récits reste impossible à vérifier, mais ils sont largement répandus."}
 {"id":1518957,"jp":"奇物価値保証付き特集オークションカタログ","fr":"Catalogue spécial de vente aux enchères de curiosités à valeur garantie"}
 {"id":1518958,"jp":"【フリスハーベストホールオークションハウス】奇物価値保証付き特集オークションに出品される競売品の紹介文。","fr":"【Maison de ventes de la Halle des Moissons de Fleece】 Présentation des lots de la vente spéciale d'objets rares à valeur garantie."}
 {"id":1518959,"jp":"森番日誌","fr":"Journal du garde forestier"}
+{"id":1518960,"jp":"森林警備を担当する治安管理者たちが残した日誌。複数の人によって執筆され、森林警備期間中の出来事を共同で記録したものである。","fr":"Un journal laissé par les agents chargés de la surveillance de la forêt. Rédigé collectivement par plusieurs personnes, il relate les événements survenus durant leurs patrouilles forestières."}
 {"id":1518961,"jp":"船に残された別れの手紙","fr":"Lettre d'adieu laissée à bord du navire"}
 {"id":1518962,"jp":"エリック・モンクェットは祖父の死後、ついにゴンドーロを離れる決心をした。出発前、彼はこの別れの手紙を残した。","fr":"À la mort de son grand-père, Eric Monquet s'est enfin décidé à quitter Gondolo. Avant son départ, il a laissé cette lettre d'adieu."}
 {"id":1518963,"jp":"『カラフル・ドリームナイト』チラシ","fr":"Prospectus de la « Nuit des rêves multicolores »"}
+{"id":1518964,"jp":"カラフルパレード団のキャンプ地で拾ったチラシ。『カラフル・ドリームナイト』で上演されるプログラムと注意事項が記載されている。","fr":"Un prospectus trouvé au campement de la troupe de la Parade multicolore. Il présente le programme et les consignes du spectacle « Nuit des rêves multicolores »."}
 {"id":1518965,"jp":"領主邸の今日の出来事","fr":"Aujourd'hui au manoir du seigneur"}
 {"id":1518966,"jp":"ナナチャに焦点を当てた特集記事。領主邸でメイド長として忙しく働くナナチャの一日が書かれている。","fr":"Un article spécial consacré à Nanacha. Il raconte une journée de Nanacha, cheffe des domestiques très occupée au manoir du seigneur."}
 {"id":1518967,"jp":"麦畑の風と歌","fr":"Le vent et le chant des champs de blé"}
+{"id":1518968,"jp":"ある小説の原稿。フリスの農家で暮らす四姉妹が夢を追いかける物語。 \n作者は小説内容に自信がないものの、物語自体は非常に素晴らしい。","fr":"Le manuscrit d'un roman racontant l'histoire de quatre sœurs vivant dans une ferme de Fleece et poursuivant leurs rêves.\nBien que l'auteur manque de confiance en son œuvre, l'histoire est véritablement merveilleuse."}
 {"id":1518969,"jp":"雷嵐と消滅しない心","fr":"L'orage et le cœur qui ne s'éteint pas"}
 {"id":1518970,"jp":"『アヴァリアン寓話集』より、最初のラディーバがハイエルフとどう仲間になったのかを描く心温まる物語。","fr":"Une histoire touchante tirée du « Recueil de fables d'Avalian », qui raconte comment le premier Radiiba est devenu le compagnon des Hauts Elfes."}
 {"id":1518971,"jp":"青夜影談","fr":"Contes d'ombres de la nuit bleue"}
@@ -22845,6 +22871,7 @@
 {"id":1518976,"jp":"『キボファイト』宣伝ポスター","fr":"Affiche promotionnelle du « Duel de Kibo »"}
 {"id":1518977,"jp":"『キボファイト地区選抜大会』を告知する宣伝ポスター。","fr":"Une affiche annonçant le « Tournoi de sélection de district du Duel de Kibo »."}
 {"id":1518978,"jp":"ミステリーサークル奇聞","fr":"Étranges récits des cercles de culture"}
+{"id":1518979,"jp":"ミステリーサークルに関する奇聞。主人公が、ミステリーサークルが形成される現場に遭遇した体験を語り、人為的でない本物のミステリーサークルの存在を主張する。","fr":"Un récit insolite au sujet des cercles de culture. Le personnage principal raconte avoir assisté à la formation de l'un d'eux et affirme qu'il existe de véritables cercles de culture qui ne sont pas l'œuvre de mains humaines."}
 {"id":1518980,"jp":"フリス歴史書","fr":"Histoire de Fleece"}
 {"id":1518981,"jp":"エルフたちの言葉で、フリスが発展する歴史の一部を記している。","fr":"Il consigne, dans la langue des elfes, une partie de l'histoire du développement de Fleece."}
 {"id":1518982,"jp":"坑道作業安全心得","fr":"Consignes de sécurité dans les galeries"}
@@ -22862,7 +22889,9 @@
 {"id":1518994,"jp":"『郭小宝の手紙（一）』","fr":"« Lettre de Guo Xiaobao (I) »"}
 {"id":1518995,"jp":"『郭小宝の手紙（二）』","fr":"« Lettre de Guo Xiaobao (II) »"}
 {"id":1518996,"jp":"手書きの貨物リスト","fr":"Liste de marchandises manuscrite"}
+{"id":1518997,"jp":"航海士レイナの手書きの貨物リスト。バルニ号が今回輸送する貨物の明細が記録されている。\n航海士レイナは細やかな性格で、貨物の種類ごとに分類して保管の注意事項を記し、周囲の手間を大いに省いてくれている。","fr":"La liste manuscrite des marchandises dressée par la navigatrice Reina. Elle détaille la cargaison transportée par le Barni lors de ce voyage.\nTrès méticuleuse, Reina a classé les marchandises par catégorie et précisé leurs conditions de stockage, épargnant ainsi bien des tracas à son entourage."}
 {"id":1518998,"jp":"飛空船の積荷リスト","fr":"Liste de cargaison du dirigeable"}
+{"id":1518999,"jp":"運よく飛空船の大火災を免れた紙。どうやら飛空船の荷物明細書のようだ。\n飛空船の荷物明細書は2部1組になっており、運送する荷物の内容と数量に間違いがないか確認するために使われる。","fr":"Une feuille de papier ayant miraculeusement échappé au violent incendie du dirigeable. Il semble s'agir du manifeste de cargaison.\nLe manifeste de cargaison d'un dirigeable est établi en deux exemplaires afin de vérifier la nature et la quantité des marchandises transportées."}
 {"id":1519000,"jp":"ボマークに関する手紙","fr":"Lettre au sujet de Bomark"}
 {"id":1519001,"jp":"依頼の手紙","fr":"Lettre de mission"}
 {"id":1519002,"jp":"ノノ-チシキは力なり","fr":"Nono - Le savoir, c'est le pouvoir"}
@@ -22913,6 +22942,7 @@
 {"id":1519052,"jp":"漫遊記の期限切れ間近のお知らせ","fr":"Expiration prochaine du Carnet de voyage"}
 {"id":1519053,"jp":"親愛なる星臨者様：\n現在ご購入いただいている{0} は、あと {1} で終了となります。漫遊記レベルにご注意ください。","fr":"À l'Enfant des étoiles :\nVotre achat actuel, {0}, prendra fin dans {1}. Faites attention à votre niveau de Carnet de voyage."}
 {"id":1519054,"jp":"天道の余塵-潮汐の円環終了間近のお知らせ","fr":"Fin prochaine des Poussières de la voie céleste - Cercle des marées"}
+{"id":1519055,"jp":"星臨者へ：\n      天道の円環の内部に異変が生じ、カルマの流れが変化しはじめました。潮汐の円環は{0}日でリセットされます。はやめに解析を完了し、なかの晦冥の星砂を収集しておいてください。","fr":"À l'Enfant des étoiles :\n      Une anomalie est apparue à l'intérieur du Cercle de la voie céleste, et le flux du Karma a commencé à changer. Le Cercle des marées sera réinitialisé dans {0} jour(s). Veuillez terminer rapidement votre analyse et récupérer le sable stellaire obscur qu'il renferme."}
 {"id":1519056,"jp":"――夢からの伝言","fr":"– Un message venu du rêve"}
 {"id":1519057,"jp":"チャット機能は一時的に使用できません。","fr":"Le chat est temporairement indisponible."}
 {"id":1519058,"jp":"システム通知","fr":"Avis système"}
@@ -22922,9 +22952,11 @@
 {"id":1519062,"jp":"カスタムテキストの内容がすべてリセットされました。","fr":"Tous les textes personnalisés ont été réinitialisés."}
 {"id":1519063,"jp":"{0}、ゲーム内のカスタムテキストの内容がすべてリセットされました。ご理解とご支援に感謝いたします。","fr":"{0}, tous les textes personnalisés du jeu ont été réinitialisés. Merci de votre compréhension et de votre soutien."}
 {"id":1519064,"jp":"イベント「花逢ひの縁契りて」終了間近のお知らせ","fr":"Fin prochaine de l'événement « Liens scellés sous les fleurs »"}
+{"id":1519065,"jp":"親愛なる星臨者様：\nイベント「花逢ひの縁契りて」はまもなく終了します。プレイ時間を適切に管理し、期間中にイベントへご参加のうえ、報酬をお受け取りください。\n\nこれからの旅も順調でありますように。","fr":"À l'Enfant des étoiles,\nL'événement « Liens scellés sous les fleurs » touche bientôt à sa fin. Veuillez gérer raisonnablement votre temps de jeu, participer à l'événement avant sa clôture et récupérer vos récompenses.\n\nPuisse la suite de votre voyage se dérouler sans encombre."}
 {"id":1519066,"jp":"イベント「御霊の戦歌」終了間近のお知らせ","fr":"Fin prochaine de l'événement « Chant de guerre des Esprits anciens »"}
 {"id":1519067,"jp":"親愛なる星臨者様：\nイベント「御霊の戦歌」はまもなく終了します。プレイ時間を適切に管理し、期間中にイベントへご参加のうえ、報酬をお受け取りください。\n\nこれからの旅も順調でありますように。","fr":"À l'Enfant des étoiles :\nL'événement « Chant de guerre des Esprits anciens » touche bientôt à sa fin. Veillez à bien gérer votre temps de jeu, participez à l'événement tant qu'il dure et récupérez vos récompenses.\n\nQue la suite de votre voyage se passe sans encombre."}
 {"id":1519068,"jp":"イベント「刃鳴散る！狩猟の祭典」終了間近のお知らせ","fr":"Fin prochaine de l'événement « Fracas des lames ! La fête de la chasse »"}
+{"id":1519069,"jp":"親愛なる星臨者様：\nイベント「刃鳴散る！狩猟の祭典」はまもなく終了します。プレイ時間を適切に管理し、期間中にイベントへご参加のうえ、報酬をお受け取りください。\n\nこれからの旅も順調でありますように。","fr":"À l'Enfant des étoiles,\nL'événement « Fracas des lames ! La fête de la chasse » touche bientôt à sa fin. Veuillez gérer raisonnablement votre temps de jeu, participer à l'événement avant sa clôture et récupérer vos récompenses.\n\nPuisse la suite de votre voyage se dérouler sans encombre."}
 {"id":1519070,"jp":"星冠杯シーズン終了および期間限定外見回収のお知らせ","fr":"Fin de saison de la Coupe de la couronne stellaire et retrait des apparences temporaires"}
 {"id":1519071,"jp":"――星冠杯運営委員会","fr":"– Comité d'organisation de la Coupe de la couronne stellaire"}
 {"id":1519073,"jp":"誕生日のお祝い","fr":"Vœux d'anniversaire"}
@@ -22933,7 +22965,9 @@
 {"id":1519078,"jp":"『アズールプロミリア』ピィピィ","fr":"Piipii d'Azur Promilia"}
 {"id":1519079,"jp":"星臨者様、\nYostar ID連携のお礼として、ささやかなプレゼントをご用意しました。\nぜひお受け取りください！","fr":"À l'Enfant des étoiles,\nPour vous remercier d'avoir lié votre Yostar ID, nous avons préparé un petit cadeau.\nRécupérez-le sans attendre !"}
 {"id":1519080,"jp":"Webイベント「キボキャンプ大作戦」報酬配布","fr":"Distribution des récompenses de l'événement web « Opération campement des Kibo »"}
+{"id":1519081,"jp":"星臨者様、\n「キボキャンプ大作戦」Webイベントで獲得された報酬を配布いたしました。メールの添付報酬からお受け取りください。\nプロミリア大陸での旅が順調でありますように。","fr":"À l'Enfant des étoiles,\nLes récompenses obtenues lors de l'événement Web « Opération campement des Kibo » ont été distribuées. Veuillez les récupérer dans les pièces jointes de ce courrier.\nPuisse votre voyage à travers le continent de Promilia se dérouler sans encombre."}
 {"id":1519082,"jp":"Webイベント「集結！キボの巣穴に挑め」報酬配布","fr":"Distribution des récompenses de l'événement web « Rassemblement ! À l'assaut du terrier des Kibo »"}
+{"id":1519083,"jp":"星臨者様、\n「集結！キボの巣穴に挑め」Webイベントで獲得された報酬を配布いたしました。メールの添付報酬からお受け取りください。\nプロミリア大陸での旅が順調でありますように。","fr":"À l'Enfant des étoiles,\nLes récompenses obtenues lors de l'événement Web « Rassemblement ! À l'assaut du repaire des Kibo » ont été distribuées. Veuillez les récupérer dans les pièces jointes de ce courrier.\nPuisse votre voyage à travers le continent de Promilia se dérouler sans encombre."}
 {"id":1519084,"jp":"農園から出る","fr":"Quitter la ferme"}
 {"id":1519085,"jp":"デイリー","fr":"Quotidien"}
 {"id":1519086,"jp":"パーティ募集","fr":"Recherche d'équipe"}
@@ -23025,13 +23059,18 @@
 {"id":1519174,"jp":"専用演出","fr":"Effet exclusif"}
 {"id":1519175,"jp":"静かな夜が琴の弦をそっと撫で、霧の森に浸るような深い夢へただひとりの聴衆を優しく誘う。","fr":"La nuit tranquille effleure doucement les cordes de la cithare, et invite l'unique auditeur vers un rêve profond, comme plongé dans la forêt de brume."}
 {"id":1519176,"jp":"森は夜の新たな装いに身を包み、星々を待っている。鏡の向こう側では、夜の静けさがそっとほどけてゆく。","fr":"La forêt a revêtu sa nouvelle parure nocturne et attend les étoiles. De l'autre côté du miroir, le silence de la nuit se dénoue doucement."}
+{"id":1519177,"jp":"青藤の碧波のなか、安らぎの夢は雲となり、高き夜の帳に掛かる。同じ青藤のうえでまどろむ私たちは、夢が枕にした青枝であり、夜の帳に沿って天へと登り、ともに一枚の青藤の夢を味わうのだ。","fr":"Au milieu des vagues d'émeraude des glycines bleues, les rêves paisibles deviennent des nuages suspendus au voile de la nuit. Assoupis sur la même glycine, nous sommes les rameaux verdoyants sur lesquels les rêves reposent leur tête. Le long du voile nocturne, nous nous élevons vers les cieux pour savourer ensemble un même rêve de glycine bleue."}
 {"id":1519178,"jp":"青華の幻鏡","fr":"Miroir illusoire de Qinghua"}
 {"id":1519179,"jp":"若い桃は春に映えて玉を照らし、薄紅の粉が枝に連なる。柔らかな手で紅霞をかき分ければ、玉脂はいずこに染まるや。","fr":"Les jeunes pêches, rehaussées par le printemps, font briller le jade ; une poudre rose pâle s'égrène de branche en branche. Si l'on écarte d'une main douce les brumes pourpres, où donc se teinte la graisse de jade ?"}
 {"id":1519180,"jp":"芸帙の小座","fr":"Le coin des livres"}
+{"id":1519181,"jp":"粉玉の桃の香りが書面を払い、春風は新篇を読むを待ってはくれず。才子佳人を読み終えたばかりだというのに、ふと見れば桃の枝に新たな蕾が添えられていた。","fr":"Le parfum des pêches aux teintes de jade rose effleure les pages, et le vent printanier n'attend pas que s'achève la lecture d'un nouveau chapitre. À peine le récit des lettrés talentueux et des belles demoiselles est-il terminé qu'un nouveau bouton de fleur apparaît déjà sur une branche de pêcher."}
 {"id":1519182,"jp":"絆紡ぐ日々","fr":"Des jours à tisser le Lien"}
+{"id":1519183,"jp":"春の桃を摘み、雲屏を開けば、麗しきひとが花を抱えて来るのがわかる。\n雲屏を開き、春の桃を摘めば、笑い声が外へと遠ざかっていくのに気づく。","fr":"Cueillez les pêches du printemps, ouvrez le paravent de nuages, et vous apercevrez une belle personne s'avancer, les bras chargés de fleurs.\nOuvrez le paravent de nuages, cueillez les pêches du printemps, et vous entendrez les rires s'éloigner au-dehors."}
 {"id":1519184,"jp":"春の帰りゆく先がどこにもないと嘆いていたが、まさかここにあったとは。","fr":"Je me lamentais que le printemps n'ait nulle part où retourner, et il était là depuis le début."}
 {"id":1519185,"jp":"剣心一如","fr":"Le cœur et l'épée ne font qu'un"}
+{"id":1519186,"jp":"その邪異を放任せず、その鋭さを頼みとせず、ただ刀を握る心と行いの道をともに正す――心が正しくなければ、剣もまた平らかならず。心と剣がひとつになってこそ、守るべきものを失わずにいられるのだ。","fr":"Ne laissez pas libre cours à sa malveillance, ne vous reposez pas sur son tranchant. Cherchez seulement à rectifier le cœur et les actes de qui tient la lame. Si le cœur n'est pas droit, l'épée ne saurait l'être davantage. Ce n'est qu'en unissant le cœur et l'épée que l'on peut préserver ce qui mérite d'être protégé."}
 {"id":1519187,"jp":"数寄清席","fr":"Place de thé sereine"}
+{"id":1519188,"jp":"茶筅が行き来し、粉と水が調和すると、柔らかな細泡が立つ。それとともに、思考から雑念がゆっくりと払い清められていくのだった。","fr":"Au va-et-vient du fouet à thé, la poudre et l'eau s'harmonisent, faisant naître une mousse fine et délicate. Au même rythme, les pensées superflues se dissipent lentement, laissant l'esprit retrouver sa pureté."}
 {"id":1519189,"jp":"百磨千錬","fr":"Mille fois sur le métier"}
 {"id":1519190,"jp":"修行の道とは、けっして一瞬のひらめきなどではなく、幾千もの試練のなかで、ひとつの心を澄み切るまで鍛え上げることなのだ。","fr":"La voie de l'entraînement n'est jamais un éclair de génie : c'est forger un seul cœur au fil de milliers d'épreuves, jusqu'à ce qu'il devienne limpide."}
 {"id":1519191,"jp":"伝書契約","fr":"Contrat de messagerie"}
@@ -23062,98 +23101,145 @@
 {"id":1519217,"jp":"特殊マウント。特定のコンテンツで騎乗可能。","fr":"Monture spéciale. Peut être chevauchée dans certaines activités."}
 {"id":1519218,"jp":"ブレイオスの鞍","fr":"Selle de Breios"}
 {"id":1519219,"jp":"ブレイオスに騎乗するための鞍。","fr":"Selle permettant de chevaucher Breios."}
+{"id":1519220,"jp":"ブレイオスの体型に合わせて作られた鞍。ブレイオスの背中のラインにフィットし、乗り手とブレイオスがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Breios. Elle épouse les courbes de son dos, permettant à Breios et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519221,"jp":"サラマンドの鞍","fr":"Selle de Salamand"}
 {"id":1519222,"jp":"サラマンドに騎乗するための鞍。","fr":"Selle permettant de chevaucher Salamand."}
+{"id":1519223,"jp":"サラマンドの体型に合わせて作られた鞍。サラマンドの背中のラインにフィットし、乗り手とサラマンドがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Salamand. Elle épouse les courbes de son dos, permettant à Salamand et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519224,"jp":"カメレウスの鞍","fr":"Selle de Chameleus"}
 {"id":1519225,"jp":"カメレウスに騎乗するための鞍。","fr":"Selle permettant de chevaucher Chameleus."}
+{"id":1519226,"jp":"カメレウスの体型に合わせて作られた鞍。カメレウスの背中のラインにフィットし、乗り手とカメレウスがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Chameleus. Elle épouse les courbes de son dos, permettant à Chameleus et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519227,"jp":"ハーチャの鞍","fr":"Selle de Harcha"}
 {"id":1519228,"jp":"ハーチャに騎乗するための鞍。","fr":"Selle permettant de chevaucher Harcha."}
+{"id":1519229,"jp":"ハーチャの体型に合わせて作られた鞍。ハーチャの背中のラインにフィットし、乗り手とハーチャがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Harcha. Elle épouse les courbes de son dos, permettant à Harcha et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519230,"jp":"スカーレックの鞍","fr":"Selle de Scarlek"}
 {"id":1519231,"jp":"スカーレックに騎乗するための鞍。","fr":"Selle permettant de chevaucher Scarleck."}
+{"id":1519232,"jp":"スカーレックの体型に合わせて作られた鞍。スカーレックの騎乗スタイルに適しており、乗り手とスカーレックがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Scarleck. Adaptée à sa façon de se déplacer en tant que monture, elle permet à Scarleck et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519233,"jp":"フィンヴォルフの鞍","fr":"Selle de Finwolf"}
 {"id":1519234,"jp":"フィンヴォルフに騎乗するための鞍。","fr":"Selle permettant de chevaucher Finwolf."}
+{"id":1519235,"jp":"フィンヴォルフの体型に合わせて作られた鞍。フィンヴォルフの背中のラインにフィットし、乗り手とフィンヴォルフがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Finwolf. Elle épouse les courbes de son dos, permettant à Finwolf et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519236,"jp":"アズドラーンの鞍","fr":"Selle de Azdrahn"}
 {"id":1519237,"jp":"アズドラーンに騎乗するための鞍。","fr":"Selle permettant de chevaucher Azdrahn."}
+{"id":1519238,"jp":"アズドラーンの体型に合わせて作られた鞍。アズドラーンの背中のラインにフィットし、乗り手とアズドラーンがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie d'Azdrahn. Elle épouse les courbes de son dos, permettant à Azdrahn et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519239,"jp":"メテオールの鞍","fr":"Selle de Staray"}
 {"id":1519240,"jp":"メテオールに騎乗するための鞍。","fr":"Selle permettant de chevaucher Staray."}
+{"id":1519241,"jp":"メテオールの体型に合わせて作られた鞍。メテオールの背中のラインにフィットし、乗り手とメテオールがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Staray. Elle épouse les courbes de son dos, permettant à Staray et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519242,"jp":"スカイホークの鞍","fr":"Selle de Skyhawk"}
 {"id":1519243,"jp":"スカイホークに騎乗するための鞍。","fr":"Selle permettant de chevaucher Skyhawk."}
+{"id":1519244,"jp":"スカイホークの体型に合わせて作られた鞍。スカイホークの背中のラインにフィットし、乗り手とスカイホークがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Skyhawk. Elle épouse les courbes de son dos, permettant à Skyhawk et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519245,"jp":"ウルの鞍","fr":"Selle de Ur"}
 {"id":1519246,"jp":"ウルに騎乗するための鞍。","fr":"Selle permettant de chevaucher Uru."}
+{"id":1519247,"jp":"ウルの体型に合わせて作られた鞍。ウルの背中のラインにフィットし、乗り手とウルがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie d'Uru. Elle épouse les courbes de son dos, permettant à Uru et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519248,"jp":"ギガンシャウラの鞍","fr":"Selle de Giganshaura"}
 {"id":1519249,"jp":"ギガンシャウラに騎乗するための鞍。","fr":"Selle permettant de chevaucher Giganshaura."}
+{"id":1519250,"jp":"ギガンシャウラの体型に合わせて作られた鞍。ギガンシャウラの背中のラインにフィットし、乗り手とギガンシャウラがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Giganshaura. Elle épouse les courbes de son dos, permettant à Giganshaura et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519251,"jp":"フォローグの鞍","fr":"Selle de Follog"}
 {"id":1519252,"jp":"フォローグに騎乗するための鞍。","fr":"Selle permettant de chevaucher Follog."}
+{"id":1519253,"jp":"フォローグの体型に合わせて作られた鞍。フォローグの背中のラインにフィットし、乗り手とフォローグがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Follog. Elle épouse les courbes de son dos, permettant à Follog et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519254,"jp":"レオバーンドの鞍","fr":"Selle de Leoburnd"}
 {"id":1519255,"jp":"レオバーンドに騎乗するための鞍。","fr":"Selle permettant de chevaucher Leoburnd."}
+{"id":1519256,"jp":"レオバーンドの体型に合わせて作られた鞍。レオバーンドの背中のラインにフィットし、乗り手とレオバーンドがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Leoburnd. Elle épouse les courbes de son dos, permettant à Leoburnd et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519257,"jp":"ライカウモの鞍","fr":"Selle de Raikaumo"}
 {"id":1519258,"jp":"ライカウモに騎乗するための鞍。","fr":"Selle permettant de chevaucher Raikaumo."}
+{"id":1519259,"jp":"ライカウモの体型に合わせて作られた鞍。ライカウモの背中のラインにフィットし、乗り手とライカウモがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Raikaumo. Elle épouse les courbes de son dos, permettant à Raikaumo et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519260,"jp":"トランゴの鞍","fr":"Selle de Trango"}
 {"id":1519261,"jp":"トランゴに騎乗するための鞍。","fr":"Selle permettant de chevaucher Trango."}
+{"id":1519262,"jp":"トランゴの体型に合わせて作られた鞍。トランゴの背中のラインにフィットし、乗り手とトランゴがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Trango. Elle épouse les courbes de son dos, permettant à Trango et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519263,"jp":"パモーラの鞍","fr":"Selle de Pamora"}
 {"id":1519264,"jp":"パモーラに騎乗するための鞍。","fr":"Selle permettant de chevaucher Pamora."}
+{"id":1519265,"jp":"パモーラの体型に合わせて作られた鞍。パモーラの背中のラインにフィットし、乗り手とパモーラがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Pamora. Elle épouse les courbes de son dos, permettant à Pamora et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519266,"jp":"シーロックの鞍","fr":"Selle de Searock"}
 {"id":1519267,"jp":"シーロックに騎乗するための鞍。","fr":"Selle permettant de chevaucher Searock."}
+{"id":1519268,"jp":"シーロックの体型に合わせて作られた鞍。シーロックの背中のラインにフィットし、乗り手とシーロックが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Searock. Elle épouse les courbes de son dos, permettant à Searock et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519269,"jp":"クックルクの鞍","fr":"Selle de Cookluk"}
 {"id":1519270,"jp":"クックルクに騎乗するための鞍。","fr":"Selle permettant de chevaucher Cookluk."}
+{"id":1519271,"jp":"クックルクの体型に合わせて作られた鞍。クックルクの背中のラインにフィットし、乗り手とクックルクが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Cookluk. Elle épouse les courbes de son dos, permettant à Cookluk et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519272,"jp":"ニィトールの鞍","fr":"Selle de Neetor"}
 {"id":1519273,"jp":"ニィトールに騎乗するための鞍。","fr":"Selle permettant de chevaucher Neetor."}
+{"id":1519274,"jp":"ニィトールの体型に合わせて作られた鞍。ニィトールの背中のラインにフィットし、乗り手とニィトールが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Neetor. Elle épouse les courbes de son dos, permettant à Neetor et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519275,"jp":"キングラーガの鞍","fr":"Selle de Kingraga"}
 {"id":1519276,"jp":"キングラーガに騎乗するための鞍。","fr":"Selle permettant de chevaucher Kingraga."}
+{"id":1519277,"jp":"キングラーガの体型に合わせて作られた鞍。キングラーガの背中のラインにフィットし、乗り手とキングラーガが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Kingraga. Elle épouse les courbes de son dos, permettant à Kingraga et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519278,"jp":"ボアラーガの鞍","fr":"Selle de Boaraga"}
 {"id":1519279,"jp":"ボアラーガに騎乗するための鞍。","fr":"Selle permettant de chevaucher Boaraga."}
+{"id":1519280,"jp":"ボアラーガの体型に合わせて作られた鞍。ボアラーガの背中のラインにフィットし、乗り手とボアラーガが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Boaraga. Elle épouse les courbes de son dos, permettant à Boaraga et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519281,"jp":"ファウンディの鞍","fr":"Selle de Foundy"}
 {"id":1519282,"jp":"ファウンディに騎乗するための鞍。","fr":"Selle permettant de chevaucher Foundy."}
+{"id":1519283,"jp":"ファウンディの体型に合わせて作られた鞍。ファウンディの背中のラインにフィットし、乗り手とファウンディが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Foundy. Elle épouse les courbes de son dos, permettant à Foundy et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519284,"jp":"グランザロスの鞍","fr":"Selle de Granzaros"}
 {"id":1519285,"jp":"グランザロスに騎乗するための鞍。","fr":"Selle permettant de chevaucher Granzaros."}
+{"id":1519286,"jp":"グランザロスの体型に合わせて作られた鞍。グランザロスの背中のラインにフィットし、乗り手とグランザロスが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Granzaros. Elle épouse les courbes de son dos, permettant à Granzaros et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519287,"jp":"マグマロスの鞍","fr":"Selle de Magmaros"}
 {"id":1519288,"jp":"マグマロスに騎乗するための鞍。","fr":"Selle permettant de chevaucher Magmaros."}
+{"id":1519289,"jp":"マグマロスの体型に合わせて作られた鞍。マグマロスの背中のラインにフィットし、乗り手とマグマロスが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Magmaros. Elle épouse les courbes de son dos, permettant à Magmaros et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519290,"jp":"ガヤックの鞍","fr":"Selle de Gayak"}
 {"id":1519291,"jp":"ガヤックに騎乗するための鞍。","fr":"Selle permettant de chevaucher Gayak."}
+{"id":1519292,"jp":"ガヤックの体型に合わせて作られた鞍。ガヤックの背中のラインにフィットし、乗り手とガヤックが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Gayak. Elle épouse les courbes de son dos, permettant à Gayak et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519293,"jp":"タウリックの鞍","fr":"Selle de Taurick"}
 {"id":1519294,"jp":"タウリックに騎乗するための鞍。","fr":"Selle permettant de chevaucher Taurick."}
+{"id":1519295,"jp":"タウリックの体型に合わせて作られた鞍。タウリックの背中のラインにフィットし、乗り手とタウリックがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Taurick. Elle épouse les courbes de son dos, permettant à Taurick et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519296,"jp":"クローネックの鞍","fr":"Selle de Kronek"}
 {"id":1519297,"jp":"クローネックに騎乗するための鞍。","fr":"Selle permettant de chevaucher Kronek."}
+{"id":1519298,"jp":"クローネックの体型に合わせて作られた鞍。クローネックの背中のラインにフィットし、乗り手とクローネックがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Kronek. Elle épouse les courbes de son dos, permettant à Kronek et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519299,"jp":"マスティーバの鞍","fr":"Selle de Mustiva"}
 {"id":1519300,"jp":"マスティーバに騎乗するための鞍。","fr":"Selle permettant de chevaucher Mustiva."}
+{"id":1519301,"jp":"マスティーバの体型に合わせて作られた鞍。マスティーバの背中のラインにフィットし、乗り手とマスティーバがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Mustiva. Elle épouse les courbes de son dos, permettant à Mustiva et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519302,"jp":"キャバードの鞍","fr":"Selle de Cabbird"}
 {"id":1519303,"jp":"キャバードに騎乗するための鞍。","fr":"Selle permettant de chevaucher Cabbird."}
+{"id":1519304,"jp":"キャバードの体型に合わせて作られた吊り下げ式の鞍。体の下に安定した形で固定でき、同行者が持ち手をしっかりと握ることで、乗り手とキャバードが軽やかな空の旅を楽しめるようになっている。","fr":"Une selle suspendue conçue pour la morphologie de Cabbird. Solidement fixée sous son corps, elle permet à son partenaire de s'agripper fermement aux poignées et de profiter avec Cabbird d'un voyage aérien tout en légèreté."}
 {"id":1519305,"jp":"モルフォーレの鞍","fr":"Selle de Morphore"}
 {"id":1519306,"jp":"モルフォーレに騎乗するための鞍。","fr":"Selle permettant de chevaucher Morphore."}
+{"id":1519307,"jp":"モルフォーレの体型に合わせて作られた吊り下げ式の鞍。体の下に安定した形で固定でき、同行者が持ち手をしっかりと握ることで、乗り手とモルフォーレが軽やかな空の旅を楽しめるようになっている。","fr":"Une selle suspendue conçue pour la morphologie de Morphore. Solidement fixée sous son corps, elle permet à son partenaire de s'agripper fermement aux poignées et de profiter avec Morphore d'un voyage aérien tout en légèreté."}
 {"id":1519308,"jp":"ガルティガーの鞍","fr":"Selle de Galtiger"}
 {"id":1519309,"jp":"ガルティガーに騎乗するための鞍。","fr":"Selle permettant de chevaucher Galtiger."}
+{"id":1519310,"jp":"ガルティガーの体型に合わせて作られた鞍。ガルティガーの背中のラインにフィットし、乗り手とガルティガーが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Galtiger. Elle épouse les courbes de son dos, permettant à Galtiger et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519311,"jp":"ヘヴィーロの鞍","fr":"Selle de Heavyro"}
 {"id":1519312,"jp":"ヘヴィーロに騎乗するための鞍。","fr":"Selle permettant de chevaucher Heavyro."}
+{"id":1519313,"jp":"ヘヴィーロの体型に合わせて作られた鞍。ヘヴィーロの背中のラインによりフィットし、乗り手とヘヴィーロがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Heavyro. Elle épouse encore mieux les courbes de son dos, permettant à Heavyro et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519314,"jp":"クロディーメの鞍","fr":"Selle de Clodime"}
 {"id":1519315,"jp":"クロディーメに騎乗するための鞍。","fr":"Selle permettant de chevaucher Clodime."}
+{"id":1519316,"jp":"クロディーメの体型に合わせて作られた鞍。クロディーメの背中のラインにフィットし、乗り手とクロディーメがともに素晴らしい騎乗の旅を楽しめるようにしてくれる。","fr":"Une selle conçue pour la morphologie de Clodime. Elle épouse les courbes de son dos, permettant à Clodime et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519317,"jp":"フログレーミの鞍","fr":"Selle de Frogremi"}
 {"id":1519318,"jp":"フログレーミに騎乗するための鞍。","fr":"Selle permettant de chevaucher Frogremi."}
+{"id":1519319,"jp":"フログレーミの体型に合わせて作られた鞍。フログレーミの背中のラインにフィットし、乗り手とフログレーミが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Frogremi. Elle épouse les courbes de son dos, permettant à Frogremi et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519320,"jp":"ホーミーロウの鞍","fr":"Selle de Homilow"}
 {"id":1519321,"jp":"ホーミーロウに騎乗するための鞍。","fr":"Selle permettant de chevaucher Homilow."}
+{"id":1519322,"jp":"伝書雀の体型に合わせて作られた吊り下げ式の鞍。体の下に安定した形で固定でき、同行者が持ち手をしっかりと握ることで、乗り手と伝書雀が軽やかな空の旅を楽しめるようになっている。","fr":"Une selle suspendue conçue pour la morphologie du moineau messager. Solidement fixée sous son corps, elle permet à son partenaire de s'agripper fermement aux poignées et de profiter avec lui d'un voyage aérien tout en légèreté."}
 {"id":1519323,"jp":"グルマンクの鞍","fr":"Selle de Gourmank"}
 {"id":1519324,"jp":"グルマンクに騎乗するための鞍。","fr":"Selle permettant de chevaucher Gourmank."}
+{"id":1519325,"jp":"グルマンクの体型に合わせて作られた鞍。グルマンクの背中のラインにフィットするため、乗り手とグルマンクが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Gourmank. Elle épouse les courbes de son dos, permettant à Gourmank et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519326,"jp":"ウィングリフの鞍","fr":"Selle de Wingriff"}
 {"id":1519327,"jp":"ウィングリフに騎乗するための鞍。","fr":"Selle permettant de chevaucher Wingriff."}
+{"id":1519328,"jp":"ウィングリフの体型に合わせて作られた鞍。背中のラインにフィットし、乗り手とウィングリフがともに素晴らしい騎乗の旅を楽しめる。","fr":"Une selle conçue pour la morphologie de Wingriff. Elle épouse les courbes de son dos, permettant à Wingriff et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519329,"jp":"ラディーバの鞍","fr":"Selle de Radiiba"}
 {"id":1519330,"jp":"ラディーバに騎乗するための鞍。","fr":"Selle permettant de chevaucher Radiiba."}
+{"id":1519331,"jp":"ラディーバの体型に合わせて作られた鞍。ラディーバの背中のラインにフィットするため、乗り手とラディーバが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Radiiba. Elle épouse les courbes de son dos, permettant à Radiiba et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519332,"jp":"チェシャバットの鞍","fr":"Selle de Cheshabat"}
 {"id":1519333,"jp":"チェシャバットに騎乗するための鞍。","fr":"Selle permettant de chevaucher Cheshabat."}
+{"id":1519334,"jp":"チェシャバットの体型に合わせて作られた吊り下げ式の鞍。体の下にしっかりと固定でき、同行者が持ち手をしっかりと握ることで、乗り手とチェシャバットが軽やかな空の旅を楽しめるようになっている。","fr":"Une selle suspendue conçue pour la morphologie de Cheshabat. Solidement fixée sous son corps, elle permet à son partenaire de s'agripper fermement aux poignées et de profiter avec Cheshabat d'un voyage aérien tout en légèreté."}
 {"id":1519335,"jp":"メイルジャークの鞍","fr":"Selle de Mailjark"}
 {"id":1519336,"jp":"メイルジャークに騎乗するための鞍。","fr":"Selle permettant de chevaucher Mailjark."}
+{"id":1519337,"jp":"メイルジャークの体型に合わせて作られた鞍。メイルジャークの背中のラインにフィットするため、乗り手とメイルジャークが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Mailjark. Elle épouse les courbes de son dos, permettant à Mailjark et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519338,"jp":"ロイレーの鞍","fr":"Selle de Roiree"}
 {"id":1519339,"jp":"ロイレーに騎乗するための鞍。","fr":"Selle permettant de chevaucher Roiree."}
+{"id":1519340,"jp":"ロイレーの体型に合わせて作られた鞍。ロイレーの背中のラインにフィットするため、乗り手とロイレーが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Roiree. Elle épouse les courbes de son dos, permettant à Roiree et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519341,"jp":"ホワッポの鞍","fr":"Selle de Howapo"}
 {"id":1519342,"jp":"ホワッポに騎乗するための鞍。","fr":"Selle permettant de chevaucher Howapo."}
+{"id":1519343,"jp":"ホワッポの体型に合わせて作られた吊り下げ式の鞍。体の下に安定した形で固定でき、同行者が持ち手をしっかりと握ることで、乗り手とホワッポが軽やかな空の旅を楽しめるようになっている。","fr":"Une selle suspendue conçue pour la morphologie de Howapo. Solidement fixée sous son corps, elle permet à son partenaire de s'agripper fermement aux poignées et de profiter avec Howapo d'un voyage aérien tout en légèreté."}
 {"id":1519344,"jp":"ナイトフォールの鞍","fr":"Selle de Vespervamp"}
 {"id":1519345,"jp":"ナイトフォールに騎乗するための鞍。","fr":"Selle permettant de chevaucher Vespervamp."}
+{"id":1519346,"jp":"ナイトフォールの体型に合わせて作られた吊り下げ式の鞍。体の下にしっかりと吊り下げられる。同行者は取っ手を握りしめ、ともに雲の間を飛び回り、軽やかで素晴らしい旅路を楽しめる。","fr":"Une selle suspendue conçue pour la morphologie de Vespervamp. Elle se fixe solidement sous son corps. Son partenaire peut s'agripper fermement aux poignées et s'envoler avec lui parmi les nuages pour un merveilleux voyage tout en légèreté."}
 {"id":1519347,"jp":"ガイアの鞍","fr":"Selle de Gaia"}
 {"id":1519348,"jp":"ガイアに騎乗するための鞍。","fr":"Selle permettant de chevaucher Gaia."}
+{"id":1519349,"jp":"ガイアの体型に合わせて作られた鞍。ガイアの背中のラインにフィットするため、乗り手とガイアが素晴らしい騎乗の旅を楽しめるようになっている。","fr":"Une selle conçue pour la morphologie de Gaia. Elle épouse les courbes de son dos, permettant à Gaia et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519350,"jp":"ドラグブレイズの鞍","fr":"Selle de Dragblaze"}
 {"id":1519351,"jp":"ドラグブレイズに騎乗するための鞍。","fr":"Selle permettant de chevaucher Dragblaze."}
+{"id":1519352,"jp":"ドラグブレイズの体型に合わせて作られた鞍。背中のラインにフィットし、乗り手とドラグブレイズがともに素晴らしい騎乗の旅を楽しめる。","fr":"Une selle conçue pour la morphologie de Dragblaze. Elle épouse les courbes de son dos, permettant à Dragblaze et à son partenaire de profiter ensemble d'un merveilleux voyage."}
 {"id":1519353,"jp":"フィーロックの鞍","fr":"Selle de Fyrock"}
 {"id":1519354,"jp":"フィーロックに騎乗するための鞍。","fr":"Selle permettant de chevaucher Fyrock."}
+{"id":1519355,"jp":"フィーロックの体型に合わせて作られた吊り下げ式の鞍。体の下にしっかりと吊り下げられる。同行者は取っ手を握りしめ、ともに雲の間を飛び回り、軽やかで素晴らしい旅路を楽しめる。","fr":"Une selle suspendue conçue pour la morphologie de Fyrock. Elle se fixe solidement sous son corps. Son partenaire peut s'agripper fermement aux poignées et s'envoler avec lui parmi les nuages pour un merveilleux voyage tout en légèreté."}
 {"id":1519356,"jp":"ララッポの鞍","fr":"Selle de Rarappo"}
 {"id":1519357,"jp":"ララッポに騎乗するための鞍。","fr":"Selle permettant de chevaucher Rarappo."}
+{"id":1519358,"jp":"ララッポの体型に合わせて作られた吊り下げ式の鞍。体の下にしっかりと吊り下げられる。同行者は取っ手を握りしめ、ともに雲の間を飛び回り、軽やかで素晴らしい旅路を楽しめる。","fr":"Une selle suspendue conçue pour la morphologie de Rarappo. Elle se fixe solidement sous son corps. Son partenaire peut s'agripper fermement aux poignées et s'envoler avec lui parmi les nuages pour un merveilleux voyage tout en légèreté."}
 {"id":1519359,"jp":"異脈の星巣","fr":"Nid stellaire des veines aberrantes"}
 {"id":1519360,"jp":"カメラ操作","fr":"Contrôle de la caméra"}
 {"id":1519361,"jp":"カメラ感度","fr":"Sensibilité de la caméra"}
@@ -23617,18 +23703,23 @@
 {"id":1519867,"jp":"有効な手段か確認したいな……","fr":"J'aimerais vérifier si cette méthode est efficace…"}
 {"id":1519868,"jp":"なんだかおもしろそうだけど……そんな手口で本当に騙せるのかな？","fr":"Ça a l'air amusant, mais… est-ce qu'une ruse pareille pourrait vraiment tromper quelqu'un ?"}
 {"id":1519869,"jp":"だまされないぞ！","fr":"Je ne me ferai pas avoir !"}
+{"id":1519870,"jp":"まずはどっちが『3』でどっちが『7』か、はっきりさせないとね。まえはそれで騙されたし……今度は食事をご馳走されたくらいで、ごまかされたりしないよ！","fr":"Il faut d'abord savoir clairement qui est le « 3 » et qui est le « 7 ». La dernière fois, je suis tombé dans le panneau à cause de ça… Et cette fois, ce n'est pas en m'offrant un repas que tu arriveras à m'embobiner !"}
 {"id":1519871,"jp":"どこに天才機関師が？","fr":"Où est le mécanicien de génie ?"}
 {"id":1519872,"jp":"うんうん、そのとおりだね。でも、きみの言う『腕がよくて頼りになる機関師』って、どこにいるの？まったく見あたらないけど……","fr":"Oui, oui, c'est ça. Mais où est-il, ton « mécanicien habile et fiable » ? Je n'en vois aucun…"}
 {"id":1519873,"jp":"やめておくよ……","fr":"Je vais m'abstenir……"}
 {"id":1519874,"jp":"ここは安全第一だよ。どうして、あんな暗器の罠をわざわざ仕掛けたりするんだろう？","fr":"Ici, la sécurité d'abord. Pourquoi aller installer exprès des pièges à armes dissimulées comme ça ?"}
 {"id":1519875,"jp":"つぎはさきに手紙で教えて……","fr":"La prochaine fois, j'aimerais être prévenu par lettre…"}
+{"id":1519876,"jp":"つぎにあの人形を寄こすときは、さきに手紙で知らせて……あいつがドアをノックしてさ、首をぐるっと回したとき、本当に心臓が止まるかと思ったよ……","fr":"La prochaine fois que tu m'envoies cette poupée, préviens-moi d'abord par lettre… Quand elle a frappé à la porte et fait tourner sa tête sur elle-même, j'ai vraiment cru que mon cœur allait s'arrêter…"}
 {"id":1519877,"jp":"昔の先生たちはどう思うかな……","fr":"Que penseraient les anciens professeurs de tout ça…"}
+{"id":1519878,"jp":"ねえ、悠悠……これは、昔きみに琴棋書画を教えてくれた先生たちには、見せないほうがいいよ……先生たちの心身が健康でいられるように……","fr":"Dis, Youyou… Tu ferais mieux de ne pas montrer ça aux professeurs qui t'ont autrefois enseigné les quatre arts… Pour préserver leur santé physique et mentale…"}
 {"id":1519879,"jp":"すばらしい絵の腕前だね","fr":"Quel talent pour la peinture"}
 {"id":1519880,"jp":"こんなふうに描いてくれたなんて……正直、美化されすぎてて、だれかわからなかったよ。","fr":"Tu m'as dessiné comme ça… Franchement, c'était tellement embelli que je n'ai pas reconnu la personne."}
 {"id":1519881,"jp":"その芸術は斬新すぎる……","fr":"Cet art est beaucoup trop avant-gardiste…"}
 {"id":1519882,"jp":"鏡花州のみんなが、花火で打ち上げられる肖像画を囲んで見物するなんて……そんな芸術はあまりに斬新すぎるよ！やめておこう！","fr":"Tous les habitants du Cap Jinghua qui se rassemblent autour d'un portrait lancé en feu d'artifice… Un art aussi novateur, c'est trop ! Mieux vaut y renoncer !"}
 {"id":1519883,"jp":"緊急事態、緊急事態！","fr":"Urgence, urgence !"}
+{"id":1519884,"jp":"この手紙が届くまえに、きみの親族が大勢を引き連れて出ていくのを見たよ。きみを半月ほど独房に入れるとか言ってたから……はやく逃げたほうが……","fr":"Avant que cette lettre ne te parvienne, j'ai vu des membres de ta famille partir avec toute une foule. Ils parlaient de t'enfermer dans une cellule d'isolement pendant une quinzaine de jours… Tu ferais mieux de prendre la fuite au plus vite…"}
 {"id":1519885,"jp":"これは見物しておかないと","fr":"Je ne peux pas manquer ce spectacle"}
+{"id":1519886,"jp":"最高のスポットで花火初披露？これはじっくり鑑賞しないとね！天才機関師が解説するとき、喉が渇くかな？甘い飲みものを2杯買って持って行くよ！","fr":"La première présentation des feux d'artifice depuis le meilleur endroit possible ? Il ne faut surtout pas manquer ça ! Notre mécanicienne de génie risque d'avoir soif à force de donner des explications, non ? J'apporterai deux boissons sucrées !"}
 {"id":1519887,"jp":"正しくは……","fr":"Le mot juste est……"}
 {"id":1519888,"jp":"『グルメ』だよ。","fr":"« Gourmet »."}
 {"id":1519889,"jp":"サインください！","fr":"Un autographe, s'il vous plaît !"}
@@ -23682,9 +23773,11 @@
 {"id":1519937,"jp":"いまを生きよう","fr":"Vivons le moment présent"}
 {"id":1519938,"jp":"わからないけど……だからこそ、後悔のないように精一杯生きよう。","fr":"Je ne sais pas… mais justement, vivons à fond, pour ne rien regretter."}
 {"id":1519939,"jp":"愛の力を軽く見ないで！","fr":"Ne sous-estime jamais le pouvoir de l'amour !"}
+{"id":1519940,"jp":"寿命の違い？そんなの、愛の力のまえでは取るに足らないものだよ！……というのは冗談だけど。このことはシンフォーリアもきっと真剣に考えているはずだし、心配はいらないよ。ずっとそばにいるからね。","fr":"La différence d'espérance de vie ? Ce n'est rien face au pouvoir de l'amour !… Je plaisante, bien sûr. Symphoria a certainement déjà réfléchi sérieusement à la question, alors il n'y a pas de raison de s'inquiéter. Je resterai toujours à tes côtés."}
 {"id":1519941,"jp":"仲間なんだから","fr":"Entre compagnons"}
 {"id":1519942,"jp":"遠慮なんてしなくていいよ。仲間なんだから。","fr":"Pas besoin de faire tant de manières. Nous sommes compagnons, après tout."}
 {"id":1519943,"jp":"別れの手紙かと！","fr":"J'ai cru à une lettre d'adieu !"}
+{"id":1519944,"jp":"びっくりしたよ、別れの手紙かと思った。そんな心配はいらなかったね……この旅が終わっても、シンフォーリアとまた新しい旅をはじめるかもしれないしね。","fr":"Tu m'as fait peur, j'ai cru que c'était une lettre d'adieu. Je n'avais pas besoin de m'inquiéter autant… Même lorsque ce voyage prendra fin, nous pourrons peut-être en commencer un nouveau ensemble, Symphoria."}
 {"id":1519945,"jp":"自分にとっても大切な思い出だよ","fr":"C'est aussi un souvenir précieux pour moi"}
 {"id":1519946,"jp":"直接言ってくれたらよかったのに。もしかして、はずかしい？なんてね、冗談。同じ気持ちだよ……大切な思い出だからね。","fr":"Tu aurais pu me le dire directement. Un peu de gêne, peut-être ? Je plaisante. Moi aussi, je ressens la même chose… ce sont des souvenirs précieux."}
 {"id":1519947,"jp":"あ、たしかに自分のだ……","fr":"Ah, c'est effectivement à moi…"}
@@ -23696,8 +23789,11 @@
 {"id":1519953,"jp":"ちょっとしたおすそわけだよ","fr":"C'est juste un petit quelque chose à partager"}
 {"id":1519954,"jp":"最近すごくおいしいフルーツを食べたから、だれかにあげたいと思ったんだ。気楽に受け取って。","fr":"J'ai mangé récemment un fruit très bon, et j'ai voulu en donner à quelqu'un. Prends-le sans cérémonie."}
 {"id":1519955,"jp":"フルーツの捧げもの！","fr":"Une offrande de fruits !"}
+{"id":1519956,"jp":"「森の癒しよ、その加護に感謝を捧げ、果物を奉納する」\n……なんて、冗談だよ！メーツァもきっと気に入ると思っただけ。食べてみて。","fr":"« Pouvoir guérisseur de la forêt, nous t'offrons ces fruits en remerciement de ta protection. »\n… Je plaisante ! Je me suis simplement dit que ces fruits te plairaient, Metsa. Goûte-les."}
 {"id":1519957,"jp":"メーツァのおかげだね","fr":"C'est grâce à toi, Metsa"}
+{"id":1519958,"jp":"フルーツは友だちからの感謝の気持ちだと思えばいいんだよ！メーツァが一生懸命、森を守ってくれたおかげで、こんなにおいしいフルーツが採れたんだから。","fr":"Vois simplement ces fruits comme un témoignage de gratitude de la part d'un proche ! C'est grâce à tous tes efforts pour protéger la forêt, Metsa, que nous avons pu récolter des fruits aussi délicieux."}
 {"id":1519959,"jp":"穏やかな日常だね","fr":"Quelle vie paisible"}
+{"id":1519960,"jp":"日常はそんなふうに毎日続いていくもの、その穏やかで温かい感覚がとても好きだよ。教えてくれてありがとう。今度、一緒に散歩しよう。","fr":"Le quotidien se poursuit ainsi, jour après jour. J'aime beaucoup cette sensation de douceur et de sérénité. Merci de m'en avoir parlé. La prochaine fois, allons nous promener ensemble."}
 {"id":1519961,"jp":"思わず夢見てしまう……","fr":"Je ne peux pas m'empêcher d'en rêver…"}
 {"id":1519962,"jp":"メーツァの話を聞いてると、その美しい夢のなかに入りたくなっちゃうよ。","fr":"En écoutant Metsa, on a envie d'entrer dans ce beau rêve."}
 {"id":1519963,"jp":"よろこんで！","fr":"Avec plaisir !"}
@@ -23705,6 +23801,7 @@
 {"id":1519965,"jp":"照れるよ……","fr":"Tu vas me faire rougir……"}
 {"id":1519966,"jp":"ただの散歩なのに、そんなふうに言われるとすこし恥ずかしいな……でも、あんなデートなら、これからもたくさんしたいよ。","fr":"Ce n'était qu'une promenade, mais si tu le dis comme ça, ça me met un peu mal à l'aise… Pourtant, des rendez-vous comme celui-là, j'en veux encore plein à l'avenir."}
 {"id":1519967,"jp":"いっそぜんぶ休みにしちゃおう！","fr":"Autant faire de chaque jour un jour de repos !"}
+{"id":1519968,"jp":"毎日ほとんど同じことをしていると、たしかにわからなくなっちゃいそうだね……それなら、いっそ、毎日お休みにしちゃうのはどうかな！","fr":"Quand on fait presque la même chose tous les jours, c'est vrai qu'on risque de ne plus savoir quel jour on est… Dans ce cas, pourquoi ne pas faire de chaque journée un jour de repos !"}
 {"id":1519969,"jp":"どの森も特別なんだよね","fr":"Chaque forêt a quelque chose d'unique"}
 {"id":1519970,"jp":"わかるよ！どの森にもそれぞれの個性があるよね。そんなふうに森を区別する『印』が、きっと『家のような感覚』なんだろうね！","fr":"Je comprends ! Chaque forêt a sa personnalité. Ce « repère » qui distingue une forêt, c'est sûrement ça, « se sentir chez soi » !"}
 {"id":1519971,"jp":"待ってて、すぐ出発するよ！","fr":"Attends-moi, je pars tout de suite !"}
@@ -23735,12 +23832,15 @@
 {"id":1519996,"jp":"どこへ遊びに行きたい？","fr":"Où aimerais-tu aller jouer ?"}
 {"id":1519997,"jp":"いいね、今度はどこで遊ぶ？アビィが決めていいよ！","fr":"Bonne idée ! Où irons-nous jouer la prochaine fois ? À toi de choisir, Abby !"}
 {"id":1519998,"jp":"いや！大丈夫……","fr":"Non ! Ça va……"}
+{"id":1519999,"jp":"つまり……打った勢いでボールが木にめり込んだってこと！？わかった、大丈夫だよ。今度一緒に遊ぶとき、力加減を教えてあげるからね。","fr":"Attends… Tu as frappé la balle si fort qu'elle s'est enfoncée dans un arbre !? D'accord, ce n'est pas grave. La prochaine fois qu'on jouera ensemble, je t'apprendrai à doser ta force."}
 {"id":1520000,"jp":"ちょっとした問題","fr":"Un petit problème"}
 {"id":1520001,"jp":"日々の暮らしに失敗はつきもの。ちゃんと謝って、同じことを繰り返さなければ『いい子』だよ。","fr":"Les échecs font partie du quotidien. Si tu t'excuses bien et que tu ne recommences pas, tu es un « gentil enfant »."}
 {"id":1520002,"jp":"それは危ないよ","fr":"C'est dangereux"}
+{"id":1520003,"jp":"気をつけるんだよ。もしだれかが「一緒に遊んであげない」って脅して、アビィに悪いことをさせようとしても、絶対に応えちゃダメだからね！","fr":"Fais bien attention, Abby. Si quelqu'un te menace en disant « Je ne jouerai plus avec toi » pour te pousser à faire des bêtises, ne cède surtout pas, d'accord ?"}
 {"id":1520004,"jp":"し、刺激的すぎる……","fr":"C-c'est trop intense……"}
 {"id":1520005,"jp":"楽しかったけど、つぎ空中で連続3回転するときは、やるまえに教えてね？本当に星になっちゃいそうだったよ……","fr":"C'était amusant, mais la prochaine fois que tu fais trois tours d'affilée en l'air, préviens-moi avant ! J'ai cru que j'allais vraiment devenir une étoile…"}
 {"id":1520006,"jp":"おなかは空いてる？","fr":"Tu as faim ?"}
+{"id":1520007,"jp":"雲をくぐるときに口を開けてたのは味見するため？おなかが空いてるのかと思ったよ……でも「食べたい」ってことは、やっぱりおなかは空いてるってことかな？","fr":"Tu ouvrais la bouche en traversant les nuages pour les goûter ? Je pensais que tu avais faim… Mais si tu avais envie de les manger, c'est que tu avais quand même un peu faim, non ?"}
 {"id":1520008,"jp":"考えてることは……","fr":"Ce que j'ai en tête……"}
 {"id":1520009,"jp":"これからもずっと一緒に、いろんな場所に遊びに行って、たくさんおいしいものを食べて、ずっと楽しく過ごせたらって考えてるよ！","fr":"Je pense qu'on pourrait continuer à aller ensemble dans plein d'endroits, manger plein de bonnes choses, et passer de bons moments pour toujours !"}
 {"id":1520010,"jp":"頼りになるね","fr":"On peut compter sur toi"}
@@ -23772,27 +23872,37 @@
 {"id":1520036,"jp":"返事を待つ時間って長く感じるね……","fr":"Le temps paraît si long lorsqu'on attend une réponse…"}
 {"id":1520037,"jp":"うん、直接話すほうがいいと思う！返事を待つ時間は、長く感じるからね。","fr":"Oui, je pense qu'il vaut mieux se parler directement ! Le temps d'attente d'une réponse paraît long."}
 {"id":1520038,"jp":"これが以心伝心……","fr":"Voilà ce qu'on appelle communiquer sans mots……"}
+{"id":1520039,"jp":"テララはついにたくさん文字を書かなきゃいけない交流のしかたを諦めたのかな？でも、お互いのことを理解できたから意思疎通がこれまでよりもっと楽になったかもね。","fr":"Terara a enfin renoncé à cette façon de communiquer qui demandait d'écrire tant de mots ? Mais maintenant qu'on se comprend mieux, il est peut-être devenu encore plus facile de communiquer."}
 {"id":1520040,"jp":"絶対に効く方法があるよ","fr":"Je connais une méthode infaillible"}
 {"id":1520041,"jp":"親を呼ぶのは？絶対に効くはずだよ。子どもたちが一番恐れてることだからね。","fr":"Et si tu appelais leurs parents ? Ça marchera à coup sûr. C'est ce que les enfants craignent le plus."}
 {"id":1520042,"jp":"面と向かって言えないのは……","fr":"Si c'est difficile à dire en face…"}
 {"id":1520043,"jp":"それは、口にすると恥ずかしい言葉があるからかな？","fr":"C'est peut-être parce que certaines choses sont gênantes à dire à voix haute ?"}
 {"id":1520044,"jp":"リラックスしよう","fr":"Détendons-nous"}
+{"id":1520045,"jp":"そんなに堅苦しく書いたら、読む相手にもプレッシャーになっちゃうよ……ルルカとの仲はそんなにぎこちないものじゃないはずだよね？もっと気軽でいいから。","fr":"Si tu écris de manière aussi formelle, tu risques de mettre la pression à la personne qui te lira… Ta relation avec Luruka n'est pas aussi embarrassante que ça, si ? Tu peux écrire plus naturellement."}
 {"id":1520046,"jp":"じゃんけんで解決しよう","fr":"Réglons ça à pierre-papier-ciseaux"}
 {"id":1520047,"jp":"ふたりにじゃんけんをしてもらって、勝ったほうのものにすればいいと思うよ。","fr":"Je pense que tu devrais leur faire jouer à pierre-feuille-ciseaux, et choisir celui du gagnant."}
 {"id":1520048,"jp":"責任の所在をはっきりさせよう","fr":"Clarifions les responsabilités de chacun"}
 {"id":1520049,"jp":"そういう問題を解決するのは、きみの責任じゃないと思う。すべてを抱え込まないほうがいいよ。","fr":"Résoudre ce genre de problèmes n'est pas ta responsabilité, je crois. Ne porte pas tout sur tes épaules."}
 {"id":1520050,"jp":"村長はどうしてる？","fr":"Que fait le chef du village ?"}
+{"id":1520051,"jp":"正直言って、そういう『だれも悪くない』ことを解決するのはすごく苦手なんだ！村長はどうやって対応するのかな。いつか教えてもらいたいね。","fr":"Pour tout te dire, j'ai beaucoup de mal à résoudre les situations où « personne n'est en tort » ! Je me demande comment le Chef du village s'y prend. J'aimerais bien qu'il me l'explique un jour."}
 {"id":1520052,"jp":"本当に気になる……","fr":"Ça m'intrigue vraiment……"}
+{"id":1520053,"jp":"爽やかで辛い？その果物を最初に食べただれかは、どんな経験をしたんだろう……必要かどうかはわからないけど、味がすごく気になるから送ってほしいな！","fr":"Rafraîchissant et piquant ? Je me demande ce qu'a ressenti la première personne à avoir goûté ce fruit… Je ne sais pas si j'en ai vraiment besoin, mais son goût m'intrigue tellement que j'aimerais que tu m'en envoies !"}
 {"id":1520054,"jp":"調合が知りたいな","fr":"J'aimerais connaître la préparation"}
+{"id":1520055,"jp":"その果物のほかに、なにか入ってる？まずはなにが調合されているか知りたいな。飲めるかたしかめてから、必要かどうかを考えるよ……","fr":"Il y a autre chose que ce fruit dedans ? J'aimerais d'abord connaître les ingrédients de cette préparation. Je vérifierai si c'est buvable avant de décider si j'en ai besoin…"}
 {"id":1520056,"jp":"ほしい、すごく役立つよ！","fr":"Ça m'intéresse, ce sera très utile !"}
+{"id":1520057,"jp":"ほしい！最近、すぐに疲れてしまって、朝もなかなか目が覚めないから、頭をすっきりさせたかったんだ！気遣ってくれてありがとう！","fr":"J'en veux ! Ces derniers temps, je me fatigue facilement et j'ai du mal à me réveiller le matin. J'avais justement besoin de quelque chose pour me remettre les idées en place ! Merci de penser à moi !"}
 {"id":1520058,"jp":"実はわからないんだ","fr":"En fait, je ne sais pas"}
+{"id":1520059,"jp":"わからないんだ。みんなにそう呼ばれているだけで、自分の考えを聞かれたこともなかったし……でもまあ、かっこいい感じはするよね！","fr":"Je ne sais pas. Tout le monde m'appelle comme ça, mais personne ne m'a jamais demandé ce que j'en pensais… Enfin, ça sonne plutôt bien, non ?"}
 {"id":1520060,"jp":"文字どおりの意味かな","fr":"C'est sans doute au sens littéral"}
 {"id":1520061,"jp":"文字どおりに解釈すれば、『星から降りてきた者』っていう意味だよね。ルルカはどういう意味だと思う？教えてほしいな。","fr":"Pris au pied de la lettre, ça veut dire « celui qui est descendu des étoiles », non ? Qu'en penses-tu, Luruka ? J'aimerais le savoir."}
 {"id":1520062,"jp":"自分が『最も輝く星』なら……","fr":"Si je suis « l'étoile la plus brillante »…"}
 {"id":1520063,"jp":"伝承って、おもしろいね。もしも自分が『最も輝く星』なら、ルルカはきっと星雲だね。星の輝きを静かに守り続けているから。","fr":"Les légendes sont intéressantes. Si je suis « l'étoile la plus brillante », alors Luruka est sûrement la nébuleuse, car elle protège en silence l'éclat des étoiles."}
 {"id":1520064,"jp":"会えるのを楽しみにしてるよ","fr":"J'ai hâte qu'on se retrouve"}
+{"id":1520065,"jp":"祝福ありがとう！神鼓で演奏される曲を聞くのははじめてだから、とても楽しみだよ！でも、あまりプレッシャーを感じないでね。遅い時間まで練習するのはよくないから。","fr":"Merci pour ta bénédiction ! Ce sera la première fois que j'entendrai un morceau joué au tambour sacré, j'ai vraiment hâte ! Mais ne te mets pas trop de pression. Ce n'est pas bon de s'entraîner jusque tard dans la nuit."}
 {"id":1520066,"jp":"迷うこともあったけど……","fr":"J'ai parfois hésité sur le chemin à suivre…"}
+{"id":1520067,"jp":"旅をはじめたばかりのころは、途方に暮れたり迷ったりすることもあったんだ。でも、きみやみんながそばにいてくれたから、心を強くもてるようになったんだよ。","fr":"Au début de mon voyage, il m'arrivait de ne plus savoir quoi faire ni où aller. Mais grâce à ta présence et à celle des autres à mes côtés, j'ai appris à garder le cœur fort."}
 {"id":1520068,"jp":"ぜんぶ温かい思い出だよ","fr":"Ce sont tous de chaleureux souvenirs"}
+{"id":1520069,"jp":"シャルル村のみんなは、いつも情にあふれてるね。一緒に過ごした時間を振り返ると、とても温かい気持ちになる。このさきどんなにたくさんの場所を訪れたとしても、忘れることはないよ。","fr":"Les habitants du Village de Charlulu sont toujours si chaleureux. Rep penser aux moments passés ensemble me remplit de bonheur. Peu importe le nombre d'endroits que je visiterai à l'avenir, je ne les oublierai jamais."}
 {"id":1520070,"jp":"実は……よくわからなくて","fr":"En réalité… Je ne sais pas trop"}
 {"id":1520071,"jp":"よくわからないけど……気にかけてくれてるのかな？気のせいでなければいいけど。","fr":"Je ne comprends pas bien… mais tu te soucies de moi ? J'espère ne pas me tromper."}
 {"id":1520072,"jp":"それなら手伝ってくれる？","fr":"Dans ce cas, pourrais-tu m'aider ?"}
@@ -23810,12 +23920,15 @@
 {"id":1520084,"jp":"また一歩まえに進んだね","fr":"Encore un pas en avant"}
 {"id":1520085,"jp":"ミィティから手紙が届くたび、いい知らせを聞けて嬉しいよ。成長の証としてぜんぶ保管しておかなくちゃ！","fr":"Chaque lettre de Mitty m'apporte de bonnes nouvelles, ça me fait plaisir. Je dois toutes les garder comme preuve de ta croissance !"}
 {"id":1520086,"jp":"武器を作ってほしい！","fr":"Fabrique-moi une arme !"}
+{"id":1520087,"jp":"いまのうちにミィティ先生にいくつか依頼して、武器を作ってもらわなきゃ。将来きみが有名になったら、価値が上がるに違いないね。","fr":"Je devrais profiter de l'occasion pour passer quelques commandes d'armes auprès de maître Mitty. Quand tu deviendras célèbre, leur valeur augmentera certainement !"}
 {"id":1520088,"jp":"さみしいってことかな？","fr":"C'est un sentiment de solitude, peut-être ?"}
 {"id":1520089,"jp":"要するにさみしいんだよね？明日、おいしいものを持って、お茶を飲みに行くよ。","fr":"En résumé, tu te sens seule, n'est-ce pas ? Demain, j'apporterai de bonnes choses et on prendra le thé ensemble."}
 {"id":1520090,"jp":"ごめん、最近忙しくて……","fr":"Pardon, j'ai eu beaucoup à faire dernièrement…"}
 {"id":1520091,"jp":"ごめんごめん、最近やることが本当にたくさんあって……でも、安心して。きみを忘れてなんかいないからね！","fr":"Pardon, pardon, j'ai vraiment eu beaucoup à faire ces derniers temps… mais rassure-toi, je ne t'ai pas oubliée !"}
 {"id":1520092,"jp":"サプライズってうれしいよね","fr":"Les surprises font toujours plaisir, n'est-ce pas ?"}
+{"id":1520093,"jp":"来るって知らないほうが、サプライズになっていいよね。ミィティのほうこそ、来るまえに連絡なんてしないで、いつでも遊びにおいでよ。","fr":"La surprise est encore meilleure quand on ne sait pas que quelqu'un va venir, non ? Et toi aussi, Mitty, inutile de me prévenir avant de passer. Viens me voir quand tu veux !"}
 {"id":1520094,"jp":"だれだってそうだよ","fr":"C'est pareil pour tout le monde"}
+{"id":1520095,"jp":"それは当たりまえのことだと思うよ？ほら、歩くことには慣れてても、旅に出るたびに胸が躍るみたいなものでさ……心配はいらないよ！","fr":"Je trouve ça tout à fait naturel, tu sais. C'est comme lorsqu'on a l'habitude de marcher, mais que le cœur s'emballe chaque fois qu'on part en voyage… Ne t'inquiète pas !"}
 {"id":1520096,"jp":"成長した証だと思うよ","fr":"C'est la preuve que tu as grandi"}
 {"id":1520097,"jp":"すこしずつ自分の心に打ち勝って、過去の影を恐れなくなったんだね。いいことだよ。","fr":"Peu à peu, tu as vaincu ton propre cœur et tu ne crains plus l'ombre du passé. C'est bien."}
 {"id":1520098,"jp":"さらなる挑戦があれば……","fr":"S'il existait un défi encore plus grand…"}
@@ -23925,9 +24038,11 @@
 {"id":1520202,"jp":"わからない……","fr":"Je ne sais pas……"}
 {"id":1520203,"jp":"うーん……わからない。いつも思いついたことを書いてるだけだから。","fr":"Hum… je ne sais pas. J'écris toujours ce qui me passe par la tête."}
 {"id":1520204,"jp":"毎日赤辛子を食べてるね……","fr":"Du piment rouge tous les jours…"}
+{"id":1520205,"jp":"「今日は赤辛子を食べた」、「昨日はおいしい赤辛子料理を食べた」……もしかして、毎日赤辛子食べてるの！？ていうか、この料理……赤辛子しか入ってないみたいなんだけど！","fr":"« Aujourd'hui, j'ai mangé du piment rouge », « Hier, j'ai mangé un délicieux plat au piment rouge »… Attends, tu manges du piment rouge tous les jours !? Et puis, ce plat… On dirait qu'il ne contient rien d'autre que du piment rouge !"}
 {"id":1520206,"jp":"出た！感嘆符！","fr":"Le voilà ! Un point d'exclamation !"}
 {"id":1520207,"jp":"ファランタが『！』を使うの、はじめて見た。記念すべき一回目が赤辛子に対してだなんて……","fr":"C'est la première fois que je vois Faridah utiliser un « ! ». Et pour sa toute première fois, c'est pour la sauce au piment rouge…"}
 {"id":1520208,"jp":"胃腸に注意して","fr":"Ménage ton estomac"}
+{"id":1520209,"jp":"胃腸に気をつけてね。赤辛子をそんなにたくさん食べると……カプサイシンが舌先で炸裂するだけじゃなく、きみのおなかのなかでも……","fr":"Prends soin de ton estomac. Si tu manges autant de piment rouge… La capsaïcine ne fera pas qu'exploser sur le bout de ta langue, mais aussi dans ton ventre…"}
 {"id":1520210,"jp":"赤辛子のにおいが！","fr":"Ça sent la sauce au piment rouge !"}
 {"id":1520211,"jp":"今日も赤辛子を食べたよね！手紙から赤辛子のにおいがするよ！","fr":"Tu as encore mangé de la sauce au piment rouge aujourd'hui ! La lettre sent la sauce au piment rouge !"}
 {"id":1520212,"jp":"『昨日は』食べなかった？","fr":"Pas « hier » ?"}
@@ -23958,6 +24073,7 @@
 {"id":1520237,"jp":"正しい宛名だ、ごほうびあげなきゃ！","fr":"Le bon destinataire ! Ça mérite une récompense !"}
 {"id":1520238,"jp":"今回は宛名を正しく書けたね。ごほうびにバターシュガーパンを――と思ったけど、渡すのは雨が止んだあとになるかな。残念。","fr":"Cette fois, tu as bien écrit l'adresse. En récompense, un pain beurre-sucre… enfin, c'était mon idée, mais je ne pourrai te le remettre qu'une fois la pluie arrêtée. Dommage."}
 {"id":1520239,"jp":"貴重なお休みなんだから","fr":"Ce sont de précieux jours de repos, après tout"}
+{"id":1520240,"jp":"たしかに、雨の日は眠って過ごすのにぴったりだね。普段の忙しさも一時忘れて。ノノも休んで、体の調子を整えてから、また探検に出かけるのはどうかな？","fr":"C'est vrai, les journées pluvieuses sont idéales pour dormir et oublier un instant les occupations du quotidien. Pourquoi ne pas te reposer aussi, Nono, et attendre d'avoir retrouvé la forme avant de repartir en exploration ?"}
 {"id":1520241,"jp":"宝の隠し場所を隠せるようになったけど……","fr":"La cachette du trésor est désormais bien dissimulée, mais…"}
 {"id":1520242,"jp":"宝の隠し場所を隠せるようになるのはすばらしいけど……辰王朝には「ここに銀三百両なし」っていう、古い格言があってね……","fr":"Savoir cacher la cachette du trésor est admirable… mais à la dynastie Chen, il existe un vieil adage : « Ici, il n'y a pas trois cents taels d'argent »…"}
 {"id":1520243,"jp":"『キラキラ』ね！わかったよ","fr":"« Tout ce qui brille », c'est compris !"}
@@ -23965,6 +24081,7 @@
 {"id":1520245,"jp":"心配しないで、教えるから","fr":"Pas d'inquiétude, je vais tout expliquer"}
 {"id":1520246,"jp":"封筒に入らないものは、小包で郵送すればいいんだよ。今度、一緒に郵便局に行こう。やり方を教えてあげる。","fr":"Ce qui ne tient pas dans une enveloppe, on peut l'envoyer par colis. La prochaine fois, allons ensemble à la poste. Je t'expliquerai comment faire."}
 {"id":1520247,"jp":"ノノならきっと大冒険家になれる","fr":"Nono deviendra sûrement une grande aventurière"}
+{"id":1520248,"jp":"ノノはきっと、名実ともに『偉大な探検家』になるよ！そのときは、ノノが送ってくれた手紙をまとめて、スターの伝記として出版しなきゃね。","fr":"Nono deviendra certainement une « grande exploratrice », aussi bien par le titre que par les exploits ! Quand ce jour viendra, il faudra rassembler toutes tes lettres et les publier sous forme de biographie d'une célébrité !"}
 {"id":1520249,"jp":"諦めちゃダメ！","fr":"N'abandonne pas !"}
 {"id":1520250,"jp":"探検への情熱をずっと持ち続けてるノノはすごく偉いよ。ノノが続けたいと願う限り、いつだって応援するからね。","fr":"Nono garde toujours sa passion pour l'exploration, c'est admirable. Tant que Nono voudra continuer, je la soutiendrai."}
 {"id":1520251,"jp":"『結構』の使い方が違うような……","fr":"Ce n'est pas vraiment ainsi qu'on emploie « assez »…"}
@@ -23998,13 +24115,17 @@
 {"id":1520279,"jp":"天花祭を一緒に過ごしたいな……","fr":"J'aimerais passer la fête des fleurs célestes ensemble…"}
 {"id":1520280,"jp":"いいね、また綺麗な桃の花が楽しめる！お気に入りのお菓子も用意したから、あとは会いに行くだけ！","fr":"Super, on va encore profiter des belles fleurs de pêcher ! J'ai aussi préparé tes friandises préférées, il ne reste qu'à aller te voir !"}
 {"id":1520281,"jp":"どんなお話なのかな？","fr":"Quel genre d'histoire est-ce ?"}
+{"id":1520282,"jp":"どんなお話なの？すこしだけさきに教えてもらえないかな？まあ……みんなが幸せになる話なら、安心して聞かせてもらえるのを待ってるね。","fr":"De quel genre d'histoire s'agit-il ? Tu ne pourrais pas m'en dévoiler un tout petit peu à l'avance ? Enfin… Si c'est une histoire où tout le monde finit heureux, j'attendrai tranquillement que tu me la racontes."}
 {"id":1520283,"jp":"この募集要項は怪しすぎる……","fr":"Cette annonce de recrutement est beaucoup trop suspecte…"}
+{"id":1520284,"jp":"「『グリファを連れた、薄い金髪の女騎士』？ずいぶん怪しい募集だね。リリィ、騙されてるんじゃない……？最初にお金を要求してくる募集なんてあるわけないでしょ！」","fr":"« Une chevalière aux cheveux blond clair accompagnée d'un Griffa » ? Cette annonce est vraiment suspecte. Lily, on n'essaierait pas de t'arnaquer, par hasard… ? Aucune annonce sérieuse ne demande de l'argent dès le départ !"}
 {"id":1520285,"jp":"手紙の宛先を間違えてるよ。","fr":"Il y a une erreur dans l'adresse de la lettre."}
+{"id":1520286,"jp":"リリィ、手紙の宛先が間違っているよ。それに、『冒険者ギルド』の依頼はカウンターから直接受けるものだし、この内容も怪しいよ。むやみにユニを渡しちゃだめだからね！","fr":"Lily, l'adresse indiquée sur ta lettre est incorrecte. En plus, les Missions de la Guilde des aventuriers se prennent directement au comptoir, et le contenu de cette annonce est suspect. Ne donne surtout pas tes Uni à n'importe qui !"}
 {"id":1520287,"jp":"大儲け！","fr":"Le gros lot !"}
 {"id":1520288,"jp":"ユニがいっぱい！大儲けだね！\n冗談だよ。リリィ、もう一度お知らせをよく見て。騙されないように気をつけてね……","fr":"Plein d'Uni ! Quel gros lot !\nJe plaisante. Lily, relis bien l'annonce. Fais attention à ne pas te faire avoir…"}
 {"id":1520289,"jp":"リリィ、よくやったね！","fr":"Bravo, Lily !"}
 {"id":1520290,"jp":"リリィ、よくやったね！楽して手に入れようとするなんてひどい連中だね！ユニは大事だけど、正しい方法で手に入れないとね。","fr":"Bien joué, Lily ! Quelles crapules, vouloir se procurer ça sans effort ! Les Uni sont importants, mais il faut les obtenir de la bonne façon."}
 {"id":1520291,"jp":"詐欺集団といえば……","fr":"À propos des escrocs……"}
+{"id":1520292,"jp":"たとえ遭遇したとしても、避けられないかもしれないよ！詐欺グループの手口は多種多様でね。自分も「郵便物が間違った宛先に届いたので、相手に連絡して受け取る必要がある」っていう単純な詐欺で100ユニを騙し取られたことがある……","fr":"Même en tombant sur ces escrocs, il n'est pas toujours possible d'éviter leurs pièges ! Ils utilisent toutes sortes de méthodes. Un jour, j'ai même perdu 100 Uni à cause d'une simple arnaque : « Votre courrier a été livré à la mauvaise adresse. Veuillez contacter le destinataire pour le récupérer. »…"}
 {"id":1520293,"jp":"失敗から学ぶってこと。","fr":"C'est en faisant des erreurs qu'on apprend."}
 {"id":1520294,"jp":"なんといってもリリィにとってひとりでのお出かけははじめてだしね。失敗から学ぶこともあるよ。","fr":"Après tout, c'est la première fois que Lily sort seule. On peut aussi apprendre de ses échecs."}
 {"id":1520295,"jp":"もう準備はできているよ。","fr":"Tout est déjà prêt."}
@@ -24015,6 +24136,7 @@
 {"id":1520300,"jp":"リラックスしよう！","fr":"Détends-toi !"}
 {"id":1520301,"jp":"友達への手紙は、社交辞令ばかりの堅苦しい手紙とは違うんだから、リリィももっと気楽にしてよ！だってほら、親友なんだから！","fr":"Une lettre à une amie, ce n'est pas une lettre guindée pleine de formules de politesse. Détends-toi un peu, Lily ! Notre amitié est profonde, après tout !"}
 {"id":1520302,"jp":"正解はないのかもしれないね。","fr":"Il n'y a peut-être pas de bonne réponse."}
+{"id":1520303,"jp":"人生のいろんな段階において、温室が果たす役割は違うのかもしれないね。花が成長するための温床になるかもしれないし、花を閉じ込める牢獄になるかもしれないし。きっと、ただひとつの正解なんてないんだと思うよ。","fr":"Peut-être qu'une serre joue un rôle différent à chaque étape de la vie. Elle peut être un refuge propice à l'épanouissement d'une fleur, tout comme elle peut devenir une prison qui l'empêche de s'épanouir. Je pense qu'il n'existe pas de réponse unique."}
 {"id":1520304,"jp":"親友、星臨者","fr":"Amitiés, l'Enfant des étoiles"}
 {"id":1520305,"jp":"花の気持ちは？","fr":"Et les sentiments de la fleur ?"}
 {"id":1520306,"jp":"大切なのは、花自身の気持ちじゃない？温室をどう捉えて、温室を出たあとの自分をどう捉えたいのかな？","fr":"N'est-ce pas ce que ressent la fleur elle-même qui compte ? Comment voit-elle la serre, et comment veut-elle se voir une fois sortie de la serre ?"}
@@ -24026,28 +24148,39 @@
 {"id":1520312,"jp":"どこかで直接会って話そうか。","fr":"Et si nous nous retrouvions quelque part pour en parler ?"}
 {"id":1520313,"jp":"リリィ、いつもお疲れさま。一緒にゆっくりおしゃべりしよう。どこに行きたい？","fr":"Lily, tu as bien travaillé, comme toujours. Bavardons tranquillement ensemble. Où veux-tu aller ?"}
 {"id":1520314,"jp":"こっちこそ、リリィと一緒にいられてとても楽しい。","fr":"Moi aussi, je passe de merveilleux moments avec Lily."}
+{"id":1520315,"jp":"こっちだって、リリィのそばにいるとすごく楽しくて落ち着くよ。リリィが自分を好きでいてくれるように、こっちもリリィが大好きだし、いつもリリィはまえに進む力をくれるからね！","fr":"Moi aussi, Lily, je me sens vraiment bien et en paix à tes côtés. Tout comme tu m'apprécies, je tiens énormément à toi. Tu me donnes toujours la force d'aller de l'avant !"}
 {"id":1520316,"jp":"好みのスタイルだよ！","fr":"C'est tout à fait mon style !"}
 {"id":1520317,"jp":"すごく好みのテイストだよ！買い物というより芸術を鑑賞しているみたいで、一気に格調が高くなった気がするよ。","fr":"J'adore ce style ! On croirait visiter une galerie d'art, et d'un coup l'endroit prend un air bien plus raffiné."}
 {"id":1520318,"jp":"こういう内装スタイルだったの……","fr":"C'était donc ce style de décoration intérieure…"}
+{"id":1520319,"jp":"レーブに行ったことのある行商からこの店の噂は聞いていたんだけど……こんな店のまえに立っちゃうと、場所を間違えた気がしてくるよ……","fr":"Un marchand ambulant qui avait visité Lebe m'avait parlé de cette boutique… Mais maintenant que je me tiens devant, j'ai l'impression de m'être trompé d'endroit…"}
 {"id":1520320,"jp":"できるだけ行くようにするよ。","fr":"J'essaierai de venir aussi souvent que possible."}
 {"id":1520321,"jp":"きみの言うインスピレーションがなにを指しているのかはわからないけど、時間があればまたくるからね。","fr":"Je ne sais pas à quelle inspiration tu fais allusion, mais je repasserai si j'ai le temps."}
 {"id":1520322,"jp":"パートナーになるなら……","fr":"Si nous devenions partenaires…"}
 {"id":1520323,"jp":"赤色炎光","fr":"Flamme écarlate"}
+{"id":1520324,"jp":"具体的になにをするのかわからないけど……なんだかすごそうだね！パートナーになったら、稼いだお金の半分を分けてもらえるのかな？","fr":"Je ne sais pas exactement en quoi ça consiste… Mais ça a l'air impressionnant ! En devenant ton partenaire, je recevrai la moitié de tes bénéfices ?"}
 {"id":1520325,"jp":"主催者はなかなか見る目があるね！","fr":"L'organisateur a vraiment bon goût !"}
 {"id":1520326,"jp":"きみを招待するなんて、主催者はとても見る目があるね！展示される新製品を見てみたいし、一緒に行こうよ！","fr":"Quel flair, l'organisateur, de t'inviter ! J'ai envie de voir les nouveautés exposées, alors allons-y ensemble !"}
 {"id":1520327,"jp":"巡回展を開くのはどうかな？","fr":"Pourquoi ne pas organiser une exposition itinérante ?"}
+{"id":1520328,"jp":"はたから見れば、きみの武器屋はもう十分ほかとは違う個展みたいだよ！そう、いっそのこと、全国巡回展を開催してみたらどうかな！","fr":"Vue de l'extérieur, ton armurerie ressemble déjà à une exposition personnelle qui ne ressemble à aucune autre ! Tiens, pourquoi ne pas organiser une exposition itinérante à travers tout le pays ?"}
 {"id":1520329,"jp":"聞き覚えのある名前だね……","fr":"Ce nom me dit quelque chose…"}
 {"id":1520330,"jp":"封印者","fr":"As des sceaux"}
+{"id":1520331,"jp":"見覚えのある名前だね。なんだか郵便局の掲示板で見たような気がするよ……匿名でこの本をおすすめしてたのって、もしかしてきみなの？","fr":"Ce titre me dit quelque chose. Il me semble l'avoir vu sur le panneau d'affichage du bureau de poste… Ce ne serait pas toi qui avais recommandé ce livre anonymement, par hasard ?"}
 {"id":1520332,"jp":"本はもう手に入れたよ……","fr":"J'ai déjà obtenu le livre…"}
+{"id":1520333,"jp":"そのセリフ……いかにもきみが好きそうな物語って気がするね。本はもう手に入れたよ。さっそく読んでみるから、感想を待っててね！","fr":"Cette réplique… Ça ressemble exactement au genre d'histoire que tu aimerais. J'ai déjà trouvé le livre. Je vais commencer à le lire et je te donnerai bientôt mon avis !"}
 {"id":1520334,"jp":"ネタバレは気にしないよ。","fr":"Ça ne me dérange pas de connaître la suite."}
 {"id":1520335,"jp":"大丈夫、ネタバレは気にしないよ。話がしたいならいつでもいいよ！もちろん、本もちゃんと読むから。","fr":"Pas de souci, les spoilers ne me dérangent pas. Si tu veux discuter, c'est quand tu veux ! Et bien sûr, je lirai aussi le livre pour de bon."}
 {"id":1520336,"jp":"なにそれ、おもしろそう！","fr":"Qu'est-ce que c'est ? Ça a l'air amusant !"}
+{"id":1520337,"jp":"どうりでこのまえおかしいと思ったんだよ。お店に会いに行ったとき、コソコソしたから。これを準備してたんだね、本当にびっくりしたよ！完成品を楽しみにしてるね。","fr":"Voilà pourquoi je trouvais ton comportement étrange l'autre jour ! Quand je suis passé à ta boutique, tu faisais tout en cachette. C'était donc ça que tu préparais ! Quelle surprise ! J'ai hâte de découvrir l'œuvre terminée."}
 {"id":1520338,"jp":"ちょっと気になってきたよ……","fr":"Ça commence à éveiller ma curiosité…"}
 {"id":1520339,"jp":"こっちがきっかけでアイデアが出てきたの？いったいどんな武器になのかな……すごく気になるね。","fr":"C'est grâce à moi que cette idée t'est venue ? Quelle arme ça va bien pouvoir donner… Ça m'intrigue énormément."}
 {"id":1520340,"jp":"『おもしろい』もの……","fr":"Quelque chose d'« amusant »…"}
+{"id":1520341,"jp":"わざわざデザインしてくれた作品だから本当に驚かされたよ。ただ、そのあとの『おもしろい』ものって……まさかなにかの悪戯だったりして……？","fr":"Je ne m'attendais vraiment pas à ce que tu prennes la peine de concevoir une œuvre spécialement pour moi ! Mais cette chose « amusante » dont tu parlais ensuite… Ce ne serait pas une mauvaise blague, par hasard… ?"}
 {"id":1520342,"jp":"この名前のセンス……","fr":"Quel drôle de nom……"}
+{"id":1520343,"jp":"この名前、ちょっと大げさじゃない？なんだかすごく派手な秘密の武器みたいで……もしかして、きみのがもってるこっちのイメージってこんな感じなの？","fr":"Ce nom n'est pas un peu exagéré ? On dirait le nom d'une arme secrète particulièrement extravagante… C'est vraiment comme ça que tu me vois ?"}
 {"id":1520344,"jp":"きみの作品には自信を持ってるよ！","fr":"J'ai toute confiance en tes créations !"}
+{"id":1520345,"jp":"きみが手作りした作品なら大丈夫だって信じてるよ。もちろん、ほんとうにすごいと思って褒めてるから。お世辞なんかじゃないよ！使ってみたらすぐに感想を伝えるよ！","fr":"Puisque c'est une œuvre que tu as fabriquée de tes propres mains, je suis certain de sa qualité. Et si je te complimente, c'est parce que je trouve vraiment ton travail remarquable. Ce n'est pas de la flatterie ! Je te donnerai mon avis dès que je l'aurai essayée !"}
 {"id":1520346,"jp":"じゃあ、旅行の計画はこっちで準備するよ。","fr":"Dans ce cas, je m'occuperai de préparer le voyage."}
+{"id":1520347,"jp":"まだプレゼントをもらっていないのに、もうお返しのことを気にしてるの？でも、一緒に旅行するのはいい考えだね。事前に計画を立てておくよ。","fr":"Je n'ai même pas encore reçu ton cadeau que tu te préoccupes déjà de ce que tu recevras en retour ? Mais partir en voyage ensemble est une excellente idée. Je préparerai un itinéraire à l'avance."}
 {"id":1520348,"jp":"もし理にかなっていなかったら？","fr":"Et si ce n'était pas raisonnable ?"}
 {"id":1520349,"jp":"だから、要求が『不合理』なら、要求してきたひとを始末するってこと……？","fr":"Donc, si une demande est « déraisonnable », on se débarrasse de la personne qui l'a formulée… ?"}
 {"id":1520350,"jp":"特別な要求はないよ。","fr":"Aucune demande particulière"}
@@ -24059,6 +24192,7 @@
 {"id":1520356,"jp":"いっそ一緒に祝祭を楽むっていうのはどうかな？","fr":"Pourquoi ne pas simplement profiter de la fête ensemble ?"}
 {"id":1520357,"jp":"こっちばっかり一方的にもてなしを受けるより、みんなで一緒にめったにないお祭りの雰囲気を楽しむというのはどう？","fr":"Se faire servir à sens unique, c'est gênant : et si tout le monde profitait ensemble de l'ambiance de cette fête si rare ?"}
 {"id":1520358,"jp":"事前に注意事項を教えてもらえますか？","fr":"Pourrais-je connaître les précautions à prendre à l'avance ?"}
+{"id":1520359,"jp":"ずっと楽しみにしてたんだ！でも、お祭りでなにか気をつけることがあったら、事前に教えてもらえないかな？誤解を招いたら大変だからね。","fr":"J'attendais ça avec impatience depuis longtemps ! Mais s'il y a des choses auxquelles je dois faire attention pendant les festivités, pourrais-tu me prévenir à l'avance ? Ce serait dommage de provoquer un malentendu."}
 {"id":1520360,"jp":"なんて冷たい文字……","fr":"Quels mots glacials……"}
 {"id":1520361,"jp":"文字がこれほど冷たいと感じたのははじめてかも……キャスベルって、たまに本当にこわいときがあるよね。","fr":"Je crois n'avoir jamais trouvé des mots aussi froids… Cathbelle, tu fais vraiment peur, parfois."}
 {"id":1520362,"jp":"『気遣い』と受け取ってもいい？","fr":"Puis-je y voir une marque d'attention ?"}
@@ -24068,7 +24202,9 @@
 {"id":1520366,"jp":"結局、選べないじゃないか？","fr":"Finalement, impossible de choisir, non ?"}
 {"id":1520367,"jp":"普通の朝食の時間……それじゃあ結局、選べないじゃないか？","fr":"L'heure habituelle du petit déjeuner… Alors, au final, on ne peut rien choisir, non ?"}
 {"id":1520368,"jp":"やっぱり早起きしよう……","fr":"Je vais finalement me lever tôt…"}
+{"id":1520369,"jp":"えっと……考えてみたんだけど、君の言う通りだね。やっぱり早寝早起きは健康にいいし、明日は時間通りに食事するよ。だから、もうわざわざ準備しなくていいよ……","fr":"Euh… Après réflexion, tu as raison. Se coucher et se lever tôt est bon pour la santé, et demain, je prendrai mes repas à l'heure. Alors, inutile de te donner autant de mal pour tout préparer…"}
 {"id":1520370,"jp":"この独特な料理法は……","fr":"Cette méthode de cuisine si particulière…"}
+{"id":1520371,"jp":"悪気はないんだけど、揚げた魚のなかにラズベリージャムのフライドポテトをぎっしり詰め込むっていう料理法は……本当に朝食としてふさわしいのかな？","fr":"Sans vouloir te vexer, cette recette qui consiste à fourrer un poisson frit de frites à la confiture de framboises… C'est vraiment approprié pour un petit déjeuner ?"}
 {"id":1520372,"jp":"なら、きみもすこしリラックスして！","fr":"Dans ce cas, détends-toi un peu aussi !"}
 {"id":1520373,"jp":"それなら、ずっと私に敬語を使わなくてもいいよ。みんな友達なんだからさ！","fr":"Alors tu n'as plus besoin de me vouvoyer en permanence. On est tous amis, après tout !"}
 {"id":1520374,"jp":"同行する者のほうが重要だよ。","fr":"C'est la personne qui nous accompagne qui compte le plus."}
@@ -24094,8 +24230,11 @@
 {"id":1520394,"jp":"断りにくい雰囲気だね……","fr":"Difficile de refuser dans ces conditions…"}
 {"id":1520395,"jp":"口調はとても優しいけど、到底「いいえ」とは言えそうもない……","fr":"Le ton est très doux, mais impossible de répondre « Non »…"}
 {"id":1520396,"jp":"心配させてごめん……","fr":"Pardon de t'avoir inquiété……"}
+{"id":1520397,"jp":"心配をかけて本当にごめん……でももしかしたら、星臨者としてはこれでもすごく健康なのかもしれないよ！ほら、療養院の一般的な判断基準は、星臨者の状態には当てはまらないのかもしれない。","fr":"Je suis vraiment désolé de t'avoir inquiété… Mais peut-être que, pour l'Enfant des étoiles, c'est en réalité un excellent état de santé ! Les critères habituels de la maison de soins ne s'appliquent peut-être pas à l'Enfant des étoiles."}
 {"id":1520398,"jp":"自分のことはちゃんと大事にするよ。","fr":"Je prendrai bien soin de moi."}
+{"id":1520399,"jp":"「ちゃんと手を洗って、ちゃんと歯磨きして、おなかいっぱい食べて、ぐっすり眠る」だよね？全部ちゃんと覚えてるよ。これからも、自分のことをちゃんとお世話するからね。","fr":"« Bien se laver les mains, bien se brosser les dents, manger à sa faim et dormir profondément », c'est bien ça ? Je me souviens de tout. Je continuerai à bien prendre soin de moi, promis."}
 {"id":1520400,"jp":"むしろ嬉しい感じがする……","fr":"En fait, ça me fait plutôt plaisir…"}
+{"id":1520401,"jp":"こんなことを言うのはすこしずるいかもしれないけど、きみがそんなに心配してくれるなんて、嬉しいよ。まったく、自分は本当に悪い子だね。","fr":"C'est peut-être un peu malicieux de ma part de dire ça, mais ça me fait plaisir de voir à quel point tu te soucies de moi. Décidément, je ne suis pas très sage."}
 {"id":1520402,"jp":"きみが監督してくれたおかげだよ！","fr":"C'est grâce à ta supervision !"}
 {"id":1520403,"jp":"きみが監督しているんだから、不健康になる方が難しいよ。今日は、お皿に残った紅あまダイコンだって全部食べたんだからね！","fr":"Avec toi qui supervises, il est plutôt difficile de rester en mauvaise santé. Aujourd'hui, j'ai même mangé tout le radis rouge sucré qui restait dans l'assiette !"}
 {"id":1520404,"jp":"アニスに頼りっぱなしだ……","fr":"Je compte beaucoup trop sur Anais…"}
@@ -24122,6 +24261,7 @@
 {"id":1520425,"jp":"お小遣い……","fr":"De l'argent de poche……"}
 {"id":1520426,"jp":"お小遣いは使ってしまったんじゃないよ。形を変えてペイペイのそばにいるだけだから……","fr":"L'argent de poche n'est pas dépensé. Il a seulement changé de forme pour rester près de Peipei…"}
 {"id":1520427,"jp":"寝たふりをする者","fr":"Qui fait semblant de dormir"}
+{"id":1520428,"jp":"ペイペイの話し方はとても理路整然としてるよ。とぼけているのはあのひとの方。ことわざにもあるけど、狸寝入りしているひとを起こすことは絶対にできないんだよ……","fr":"Peipei s'exprime de manière parfaitement logique. C'est l'autre personne qui fait semblant de ne pas comprendre. Comme le dit le proverbe, on ne peut jamais réveiller quelqu'un qui fait semblant de dormir…"}
 {"id":1520429,"jp":"よくやったね","fr":"Beau travail"}
 {"id":1520430,"jp":"泉、よくやったね！！","fr":"Izumi, beau travail !!"}
 {"id":1520431,"jp":"きみの話を聞くよ","fr":"Je vais t'écouter"}
@@ -24156,10 +24296,13 @@
 {"id":1520460,"jp":"当然だよ","fr":"Bien sûr"}
 {"id":1520461,"jp":"仲間なんだから、これくらい当然だよ。借りだなんて思わなくていいからね！","fr":"Entre compagnons, c'est la moindre des choses. Ne considère pas ça comme une dette !"}
 {"id":1520462,"jp":"お互いさま","fr":"C'est réciproque"}
+{"id":1520463,"jp":"香子が手伝ってくれなかったなんて、言わないでよ。一緒にたくさんの敵を倒したのに！まあ、数は覚えてないけど、絶対にたくさん倒したよ、うん。","fr":"Ne dis pas que tu ne m'as pas aidé, Xiangzi. Nous avons vaincu tellement d'ennemis ensemble ! Bon, je ne me souviens plus du nombre exact, mais il y en avait vraiment beaucoup, j'en suis sûr."}
 {"id":1520464,"jp":"光栄の至り","fr":"C'est un immense honneur"}
 {"id":1520465,"jp":"香子の痛み止めの役割を果たせるなんて、とても光栄だよ。","fr":"Pouvoir te servir d'antidouleur, Xiangzi, est un grand honneur."}
 {"id":1520466,"jp":"特上の結末","fr":"La meilleure fin"}
+{"id":1520467,"jp":"この物語には、もっと完璧な結末があると思うよ――人間の姿に戻る方法を見つけて、心の底から素晴らしいと言える一生を送り、胸を張ってお父さんに無事を知らせるっていうね。","fr":"Je pense que cette histoire pourrait avoir une fin encore plus belle : trouver un moyen de retrouver une apparence humaine, mener une vie que tu pourrais qualifier de merveilleuse du fond du cœur, puis annoncer fièrement à ton père que tu vas bien."}
 {"id":1520468,"jp":"直接お礼を言う","fr":"Remercier en personne"}
+{"id":1520469,"jp":"そう言われると、こっちからも感謝をしないとね。きみのお父さんにも、彼が職務を全うして持ち帰った玉璧にも。そうでなければ、きみと出会うこともなかっただろうし、共に本当の生きる道を探すこともできなかっただろうから。","fr":"Puisque tu le présentes ainsi, c'est aussi à moi de te remercier. Je dois également remercier ton père, ainsi que le disque de jade qu'il a rapporté après avoir accompli son devoir. Sans cela, nous ne nous serions jamais rencontrés et n'aurions pas pu chercher ensemble une véritable façon de vivre."}
 {"id":1520470,"jp":"はい、ありがとう。","fr":"Oui, merci"}
 {"id":1520471,"jp":"こんな手紙をもらえるなんて思わなかったよ。メイプルは本当にあったかいんだね。それじゃあ、遠慮なくいただくとするよ！","fr":"Je ne m'attendais pas à recevoir une lettre comme ça. Tu es vraiment chaleureuse, Maple. Alors j'accepte, sans façon !"}
 {"id":1520472,"jp":"まさか気づかれた？","fr":"Elle l'a remarqué ?"}
@@ -24181,6 +24324,7 @@
 {"id":1520488,"jp":"楽しみにしてる。","fr":"J'ai hâte"}
 {"id":1520489,"jp":"よし、メイプルがどんな金麦穂カーニバルを見せてくれるのか、本当に楽しみにしてるよ！","fr":"Parfait ! J'ai hâte de voir quel carnaval des épis de blé doré tu vas nous montrer, Maple !"}
 {"id":1520490,"jp":"無理しないでね。","fr":"Ne force pas trop"}
+{"id":1520491,"jp":"金麦穂カーニバルの前後には、キボファイトに参加するためにたくさんの観光客がフリスにやって来るんでしょ？あまり無理はしないでね。","fr":"Avant et après le Carnaval de l'Épi doré, de nombreux touristes viennent à Fleece pour participer au Duel de Kibo, n'est-ce pas ? Fais attention à ne pas trop te surmener."}
 {"id":1520492,"jp":"ひとが多いね……","fr":"Il y a tant de monde……"}
 {"id":1520493,"jp":"金麦穂カーニバルの市場はひとが多すぎて、すこし騒がしい気がするね。メイプルは静かな場所を知らないかな？","fr":"Le marché du carnaval des épis de blé doré est bondé, c'est un peu bruyant. Maple, tu ne connaîtrais pas un endroit calme ?"}
 {"id":1520494,"jp":"大切なひとだよ。","fr":"Tu comptes beaucoup pour moi"}
@@ -24204,6 +24348,7 @@
 {"id":1520512,"jp":"抜刀の話を詳しく聞かせて？","fr":"Pourrais-je en apprendre davantage sur l'art du dégainement ?"}
 {"id":1520513,"jp":"はじめて抜刀したときになにがあったのか、話してくれないかな？千代を驚かせた出来事が気になってね。","fr":"Peux-tu me raconter ce qui s'est passé la première fois que tu as dégainé ? L'événement qui t'a surprise, Chiyo, m'intrigue."}
 {"id":1520514,"jp":"千代になら託せるよ","fr":"Je peux le confier à Chiyo"}
+{"id":1520515,"jp":"これがいわゆる家宝っていうものなんだろうね！話を聞く限り、この刀に認められるにはなかなか苦労するみたいだし。でも、前向きに考えれば、それは千代の能力が高くて、託すのにふさわしい相手だということなんじゃないかな。","fr":"C'est donc ce qu'on appelle un trésor de famille ! D'après ce que tu racontes, obtenir la reconnaissance de cette lame n'est pas chose facile. Mais en voyant les choses du bon côté, cela signifie que tu possèdes de grandes capacités, Chiyo, et que cette lame mérite de t'être confiée."}
 {"id":1520516,"jp":"自分もあの刀がすごく気になるよ……","fr":"Ce sabre éveille aussi beaucoup ma curiosité…"}
 {"id":1520517,"jp":"あの刀はたしかに目を引くからね。実は自分も借りてみたいと思ったことがあるんだよね……","fr":"Ce sabre attire vraiment le regard. En fait, j'ai déjà eu envie de l'emprunter moi aussi…"}
 {"id":1520518,"jp":"千代の助けが必要だよ！","fr":"J'ai besoin de l'aide de Chiyo !"}
@@ -24226,25 +24371,34 @@
 {"id":1520537,"jp":"ポンポン（爪印）","fr":"Pengpeng (empreinte de patte)"}
 {"id":1520539,"jp":"縁待つ小玉より","fr":"Xiaoyu, dans l'attente du destin"}
 {"id":1520540,"jp":"星臨者さまへ","fr":"À l'Enfant des étoiles"}
+{"id":1520543,"jp":"朝、おっきな炙り肉、はむはむした。ソースじゅうじゅうでおいしかった。\nはむはむのあと、炙り肉とソースのにおい、ずっとする。\nそのにおいしかしない！炙ったお肉が鼻の下にあるのに、どこにもないみたい。\nアビィ、びょーきかな？こわい……","fr":"Ce matin, Abby a fait miam-miam avec un gros morceau de viande grillée. La sauce faisait pschitt-pschitt, c'était trop bon.\nAprès le miam-miam, Abby sent toujours la viande grillée et la sauce.\nAbby ne sent plus que ça ! La viande grillée est juste sous son nez, mais elle est nulle part.\nAbby est malaaade ? Ça fait peur…"}
 {"id":1520548,"jp":"星臨者さん","fr":"Enfant des étoiles"}
 {"id":1520550,"jp":"モーレン・ハクオン","fr":"Morwyn Hakuon"}
 {"id":1520551,"jp":"星臨者さま","fr":"Enfant des étoiles"}
+{"id":1520554,"jp":"最近、ノノ、いつもねむたい。ぜんぶ天気が悪い。\n夢のなかで、キラキラの場所、いっぱい見つけた。\n起きたあと、忘れないように、ぜんぶ書いておいた。\n今度、星臨者もいっしょにいこう？探検隊、みんなで。","fr":"Ces derniers temps, Nono a toujours sommeil. C'est la faute du mauvais temps.\nDans ses rêves, Nono a trouvé plein d'endroits qui brillent.\nAu réveil, Nono a tout écrit pour ne rien oublier.\nLa prochaine fois, l'Enfant des étoiles viendra aussi ? Toute la brigade des trésors, ensemble."}
 {"id":1520555,"jp":"助けて助けて！","fr":"À l'aide, à l'aide !"}
 {"id":1520557,"jp":"大至急大至急！","fr":"Vite, vite !"}
 {"id":1520562,"jp":"無名の小輩","fr":"Novice sans nom"}
 {"id":1520566,"jp":"相方","fr":"Partenaire"}
 {"id":1520569,"jp":"若き旅人","fr":"Jeune âme voyageuse"}
+{"id":1520576,"jp":"ひとつの感覚が閉ざされると、ほかの感覚が鋭くなるという話を聞きました。\n私は普段、弓を射るときに目に頼りすぎている気がします。ちょうど今夜は月も出ていません。もしよろしければ、星臨者さまも一緒に、暗闇での弓の訓練に挑戦してみませんか？","fr":"J'ai entendu dire que lorsqu'un sens est privé de ses facultés, les autres s'aiguisent.\nJ'ai l'impression de trop me fier à ma vue lorsque je tire à l'arc. Il se trouve que la lune est absente ce soir. Enfant des étoiles, si vous le souhaitez, aimeriez-vous tenter avec moi un entraînement au tir à l'arc dans l'obscurité ?"}
 {"id":1520585,"jp":"星のひと","fr":"Être des étoiles"}
 {"id":1520586,"jp":"こんにちは。\n手紙、かいたよ。\nお友だち、なって。","fr":"Bonjour.\nAbby a écrit une lettre.\nOn devient amis ?"}
 {"id":1520587,"jp":"せーりんしゃ","fr":"Enfant des étoiles"}
 {"id":1520588,"jp":"これ、アビィの手紙。\n食べもの、なくなった。おなかぺこぺこ、おいしいものはむはむしたいな。","fr":"Voici la lettre d'Abby.\nPlus de nourriture. Le ventre gargouille. Abby veut grignoter quelque chose de bon."}
 {"id":1520589,"jp":"いま、はむはむしたくない。\nぐーぐーも、いや。\nもっといっしょに遊びたい、ダメ？","fr":"Là, Abby veut pas grignoter.\nGargouiller, non plus.\nAbby veut jouer encore avec toi. C'est pas possible ?"}
+{"id":1520592,"jp":"いつもはいっぱい話してるけど、手紙ってなるとなにを書けばいいかわかんないな……とにかく！なにか困ったことがあったら、いつでもアタシを呼ぶんだぞ！","fr":"D'habitude, je parle beaucoup, mais quand il faut écrire une lettre, je ne sais plus quoi raconter… Bref ! Si jamais tu as des ennuis, appelle-moi quand tu veux !"}
 {"id":1520593,"jp":"テララだぞ！","fr":"C'est Terara !"}
+{"id":1520597,"jp":"いまどこ？直接、会いに行くよ。やっぱり手紙ってめんどーだな。会って話したいことが、山ほどあるんだ！ずっと会ってたら、手紙が届くのを待つ時間もいらないよな！","fr":"Tu es où, là ? Je vais venir te voir directement. Décidément, les lettres, c'est vraiment pénible. J'ai une montagne de choses à te raconter en personne ! Si on restait toujours ensemble, on n'aurait même plus besoin d'attendre que les lettres arrivent !"}
 {"id":1520598,"jp":"親愛なる星臨者さま","fr":"À l'Enfant des étoiles, avec toute mon affection"}
 {"id":1520625,"jp":"鷹主\nファランタ","fr":"Seigneur Faucon\nFaridah"}
 {"id":1520630,"jp":"宛先","fr":"Destinataire"}
+{"id":1520631,"jp":"ノノのはじめての手紙、ちゃんと届いた？\nお宝の地図なくても、郵便局、ちゃんと星臨者見つけられる？\n届いてなかったら、返事ちょうだい。","fr":"La première lettre de Nono est bien arrivée ?\nMême sans carte au trésor, le bureau de poste peut trouver l'Enfant des étoiles ?\nSi elle n'est pas arrivée, réponds à Nono."}
 {"id":1520632,"jp":"宛名","fr":"Nom du destinataire"}
+{"id":1520633,"jp":"まえの手紙、送る相手の名前、書き忘れてた……\n今度はちゃんと書いたから、もっとはやく届くはず。\n返事はやくほしい。ノノ、最初の手紙といっしょに、家のうしろの宝箱にしまっとく……","fr":"Dans la dernière lettre, Nono avait oublié d'écrire le nom du destinataire…\nCette fois, Nono l'a bien écrit. Elle devrait arriver plus vite.\nNono veut vite une réponse. Nono la rangera avec la première lettre dans le coffre au trésor derrière la maison…"}
 {"id":1520634,"jp":"星臨者へ","fr":"À l'Enfant des étoiles"}
+{"id":1520635,"jp":"雨降ってて、探検行けない。\nでも、眠れば、夢のなかで探検できる……\nノノ、夢で見たお宝への道、書いておいた。晴れたら、すぐ出る。","fr":"Il pleut. Nono ne peut pas partir en exploration.\nMais en dormant, Nono peut explorer dans ses rêves…\nNono a noté le chemin vers le trésor vu en rêve. Dès qu'il fera beau, Nono partira."}
+{"id":1520636,"jp":"まえ、探検で見つけたお宝、わけてあげる。\nノノの分、もう宝箱にしまった。宝箱のばしょ、家のうしろじゃないよ。ほんと。\nまた、キラキラ見つけたら、送る。\nでも、封筒に入るかな。","fr":"Nono partage le trésor trouvé pendant la dernière exploration.\nLa part de Nono est déjà dans le coffre au trésor. Le coffre n'est pas derrière la maison. C'est vrai.\nSi Nono trouve encore des choses qui brillent, Nono les enverra.\nMais ça rentrera dans l'enveloppe ?"}
 {"id":1520638,"jp":"親愛なる冒険者ギルド","fr":"Chère Guilde des aventuriers"}
 {"id":1520640,"jp":"見習い騎士\nリリィ","fr":"Chevalière apprentie\nLily"}
 {"id":1520642,"jp":"あなたの友達\nリリィ","fr":"Ton amie\nLily"}
@@ -24253,6 +24407,7 @@
 {"id":1520649,"jp":"連邦のレジェンド級武器アーティスト","fr":"Artiste en armement de rang Légendaire de la Fédération"}
 {"id":1520651,"jp":"疾雷の赤色炎光","fr":"Flamme écarlate de l'éclair fulgurant"}
 {"id":1520653,"jp":"魔眼を封じし者","fr":"Qui scelle l'œil magique"}
+{"id":1520660,"jp":"メイド長からは、休暇中はもっと友と出かけるよう勧められたのですが、どこへ行くのがいいか、すぐに思いつきませんでした。\n貴方さまは、どこか行きたい場所はありますか？\n追伸。私の名前はそのまま呼んでくださって構いません。余計な敬称は不要です。","fr":"La gouvernante en chef m'a recommandé de sortir davantage avec mes amis pendant mes congés, mais je n'ai pas immédiatement trouvé d'endroit où aller.\nY a-t-il un lieu que vous souhaiteriez visiter ?\nP.-S. : Vous pouvez simplement m'appeler par mon prénom. Il est inutile d'y ajouter des titres honorifiques."}
 {"id":1520661,"jp":"子どもたち","fr":"Les enfants"}
 {"id":1520663,"jp":"アニスお姉さん","fr":"Grande sœur Anais"}
 {"id":1520664,"jp":"この子","fr":"Cet enfant"}
@@ -24267,8 +24422,24 @@
 {"id":1520682,"jp":"星臨大人","fr":"Vénérable Enfant des étoiles"}
 {"id":1520685,"jp":"おとな","fr":"Adulte"}
 {"id":1520694,"jp":"{playerName}さんへ","fr":"À l'attention de {playerName}"}
+{"id":1520700,"jp":"星臨者ー！\n{0}で異彩の{1}の目撃情報があったんだケロ！時間があったら、探しに行ってみて！\nこんなにめずらしいキボは、{2}を過ぎたらいなくなっちゃうケロ！","fr":"Enfant des étoiles !\nUn {1} Variante a été aperçu à {0}, coâ ! Si tu as le temps, va le chercher !\nUn Kibo aussi rare disparaîtra après {2}, coâ !"}
+{"id":1520701,"jp":"星臨者ー！\n{0}でキラキラの{1}の目撃情報があったんだケロ！時間があったら、探しに行ってみて！\nこんなにめずらしいキボは、{2}を過ぎたらいなくなっちゃうケロ！","fr":"Enfant des étoiles !\nUn {1} brillant a été aperçu à {0}, coâ ! Si tu as le temps, va le chercher !\nUn Kibo aussi rare disparaîtra après {2}, coâ !"}
+{"id":1520702,"jp":"星臨者、注意してほしいケロ！\n{0}で輝く異彩の{1}の目撃情報が出たんだケロ！時間があるなら、探しに行ってみて！\nこんなに希少なキボは{2}以降はいなくなるケロ！","fr":"Enfant des étoiles, écoute bien, coâ !\nUn {1} Variante brillant a été aperçu à {0}, coâ ! Si tu as le temps, va le chercher !\nUn Kibo aussi rare disparaîtra à partir de {2}, coâ !"}
+{"id":1520703,"jp":"星臨者、注意してほしいケロ！\n{0}で星彩の{1}の目撃情報が出たんだケロ！時間があるなら、探しに行ってみて！\nこんなに希少なキボは{2}以降はいなくなるケロ！","fr":"Enfant des étoiles, écoute bien, coâ !\nUn {1} étoilé a été aperçu à {0}, coâ ! Si tu as le temps, va le chercher !\nUn Kibo aussi rare disparaîtra à partir de {2}, coâ !"}
+{"id":1520704,"jp":"星臨者、注意してほしいケロ！\n{0}で輝く星彩の{1}の目撃情報が出たんだケロ！時間があるなら、探しに行ってみて！\nこんなに希少なキボは{2}以降はいなくなるケロ！","fr":"Enfant des étoiles, écoute bien, coâ !\nUn {1} étoilé brillant a été aperçu à {0}, coâ ! Si tu as le temps, va le chercher !\nUn Kibo aussi rare disparaîtra à partir de {2}, coâ !"}
+{"id":1520705,"jp":"星臨者、おめでとうケロ！異彩の{0}はとても希少なんだケロ！まさか本当にスターリンクするなんて、さすが星臨者だケロ！コロコロもびっくりだケロ！","fr":"Félicitations, Enfant des étoiles, coâ ! Un {0} Variante est extrêmement rare, coâ ! Tu as vraiment réussi à former un Lien stellaire avec lui, digne de l'Enfant des étoiles, coâ ! Même Korokoro n'en revient pas, coâ !"}
+{"id":1520706,"jp":"星臨者、おめでとうケロ！輝く{0}はとても希少なんだケロ！まさか本当にスターリンクするなんて、さすが星臨者だケロ！コロコロもびっくりだケロ！","fr":"Félicitations, Enfant des étoiles, coâ ! Un {0} brillant est extrêmement rare, coâ ! Tu as vraiment réussi à former un Lien stellaire avec lui, digne de l'Enfant des étoiles, coâ ! Même Korokoro n'en revient pas, coâ !"}
+{"id":1520707,"jp":"星臨者、おめでとうケロ！輝く異彩の{0}はとても希少なんだケロ！まさか本当にスターリンクするなんて、さすが星臨者だケロ！コロコロもびっくりだケロ！","fr":"Félicitations, Enfant des étoiles, coâ ! Un {0} Variante brillant est extrêmement rare, coâ ! Tu as vraiment réussi à former un Lien stellaire avec lui, digne de l'Enfant des étoiles, coâ ! Même Korokoro n'en revient pas, coâ !"}
+{"id":1520708,"jp":"星臨者、おめでとうケロ！星彩の{0}はとても希少なんだケロ！まさか本当にスターリンクするなんて、さすが星臨者だケロ！コロコロもびっくりだケロ！","fr":"Félicitations, Enfant des étoiles, coâ ! Un {0} étoilé est extrêmement rare, coâ ! Tu as vraiment réussi à former un Lien stellaire avec lui, digne de l'Enfant des étoiles, coâ ! Même Korokoro n'en revient pas, coâ !"}
+{"id":1520709,"jp":"星臨者、おめでとうケロ！輝く星彩の{0}はとても希少なんだケロ！まさか本当にスターリンクするなんて、さすが星臨者だケロ！コロコロもびっくりだケロ！","fr":"Félicitations, Enfant des étoiles, coâ ! Un {0} étoilé brillant est extrêmement rare, coâ ! Tu as vraiment réussi à former un Lien stellaire avec lui, digne de l'Enfant des étoiles, coâ ! Même Korokoro n'en revient pas, coâ !"}
+{"id":1520710,"jp":"ケロ！星臨者は異彩の{0}を逃してしまったのかケロ？それはもったいない！でも大丈夫、つぎにまた希少なキボが現れたら、コロコロがまた教えにくるケロ！","fr":"Coâ ! Enfant des étoiles, tu as laissé échapper le {0} Variante, coâ ? Quel dommage ! Mais ne t'inquiète pas, la prochaine fois qu'un Kibo rare apparaîtra, Korokoro viendra de nouveau te prévenir, coâ !"}
+{"id":1520711,"jp":"ケロ！星臨者は輝く{0}を逃してしまったのかケロ？それはもったいない！でも大丈夫、つぎにまた希少なキボが現れたら、コロコロがまた教えにくるケロ！","fr":"Coâ ! Enfant des étoiles, tu as laissé échapper le {0} brillant, coâ ? Quel dommage ! Mais ne t'inquiète pas, la prochaine fois qu'un Kibo rare apparaîtra, Korokoro viendra de nouveau te prévenir, coâ !"}
+{"id":1520712,"jp":"ケロ！星臨者は輝く異彩の{0}を逃してしまったのかケロ？それはもったいない！でも大丈夫、つぎにまた希少なキボが現れたら、コロコロがまた教えにくるケロ！","fr":"Coâ ! Enfant des étoiles, tu as laissé échapper le {0} Variante brillant, coâ ? Quel dommage ! Mais ne t'inquiète pas, la prochaine fois qu'un Kibo rare apparaîtra, Korokoro viendra de nouveau te prévenir, coâ !"}
+{"id":1520713,"jp":"ケロ！星臨者は星彩の{0}を逃してしまったのかケロ？それはもったいない！でも大丈夫、つぎにまた希少なキボが現れたら、コロコロがまた教えにくるケロ！","fr":"Coâ ! Enfant des étoiles, tu as laissé échapper le {0} étoilé, coâ ? Quel dommage ! Mais ne t'inquiète pas, la prochaine fois qu'un Kibo rare apparaîtra, Korokoro viendra de nouveau te prévenir, coâ !"}
 {"id":1520714,"jp":"ケロ！星臨者は輝く星彩の{0}を逃してしまったのかケロ？それはもったいない！でも大丈夫、つぎにまた希少なキボが現れたら、コロコロがまた教えにくるケロ！","fr":"Coâ ! L'Enfant des étoiles a laissé filer le {0} étoilé brillant, coâ ? Quel dommage ! Mais pas d'inquiétude : la prochaine fois qu'un Kibo rare apparaîtra, Korokoro reviendra prévenir l'Enfant des étoiles, coâ !"}
+{"id":1520716,"jp":"侠客さんがくるとき、アウーをひとつ持ってきてくれない？アウ？……\n（手紙の後半には小さなキツネの足跡が点々と続いているだけ……どういうことだろう？）","fr":"Dis, Âme chevaleresque, tu pourrais apporter un Awoo quand tu viendras ? Awoo ?…\n(La seconde moitié de la lettre ne contient qu'une succession de petites empreintes de pattes de renard… Qu'est-ce que cela peut bien vouloir dire ?)"}
 {"id":1520718,"jp":"{playerName}さんならいつでも大歓迎にゃ","fr":"{playerName} sera toujours bien accueilli ici, nya !"}
+{"id":1520719,"jp":"これは一斉送信メールじゃないにゃ……お願いだから、{playerName}さんに直接見に来てほしいにゃ。そうすれば、きっと『凶獣ハンター大会』のおもしろさがわかるはずだにゃ！","fr":"Ce n'est pas un courrier envoyé à tout le monde, nya… S'il te plaît, {playerName}, viens voir par toi-même, nya. Tu comprendras certainement à quel point le « Tournoi des chasseurs de Bêtes maudites » est amusant, nya !"}
 {"id":1520720,"jp":"おはようございます！パミー郵便局にようこそ！","fr":"Bonjour ! Bienvenue au bureau de poste Pammy !"}
 {"id":1520721,"jp":"郵便サービスの利用なら大歓迎ですよ！","fr":"Nous sommes ravis de vous accueillir pour tous vos besoins postaux !"}
 {"id":1520722,"jp":"フゥ……わわっ！？こんにちは！ポポはまじめにお仕事してますよ、眠ってなんてないですよ！","fr":"Hmm… Waouh !? Bonjour ! Popo travaille sérieusement, Popo ne dort pas du tout !"}
@@ -24279,7 +24450,9 @@
 {"id":1520727,"jp":"……なでなでしちゃダメです！えっ……コーンパンをあげる？……い、一度だけですよ！","fr":"…Pas de papouilles ! Hein… Vous m'offrez du pain au maïs ? … D'a-accord, mais une seule fois !"}
 {"id":1520728,"jp":"ううっ……！ポポのシゴトを邪魔しないでくださいっ！","fr":"Grr… ! Ne dérangez pas Popo pendant son travail !"}
 {"id":1520729,"jp":"ポポの仕事をなんども邪魔したせいで、パミー郵便局から追い出された。","fr":"À force d'interrompre le travail de Popo, vous vous êtes fait expulser du bureau de poste Pammy."}
+{"id":1520730,"jp":"配置 <actionkey>PagePlayerEditInput/HomePlayerBuilding</actionkey>","fr":"Placer <actionkey>PagePlayerEditInput/HomePlayerBuilding</actionkey>"}
 {"id":1520732,"jp":"配置キャンセル <actionkey>UI/Cancel</actionkey>","fr":"Annuler le placement <actionkey>UI/Cancel</actionkey>"}
+{"id":1520733,"jp":"倉庫に収納 <actionkey>PagePlayerEditInput/HomeBuildingGarbage</actionkey>","fr":"Ranger dans l'entrepôt <actionkey>PagePlayerEditInput/HomeBuildingGarbage</actionkey>"}
 {"id":1520734,"jp":"耕作開始 <actionkey>MainInput/MainSkill</actionkey>","fr":"Commencer la culture <actionkey>MainInput/MainSkill</actionkey>"}
 {"id":1520735,"jp":"取り除く <actionkey>MainInput/MainUltimateSkill</actionkey>","fr":"Retirer <actionkey>MainInput/MainUltimateSkill</actionkey>"}
 {"id":1520736,"jp":"農園を出る <actionkey>MainInput/MainOpenHome</actionkey>","fr":"Quitter la ferme <actionkey>MainInput/MainOpenHome</actionkey>"}
@@ -24287,28 +24460,46 @@
 {"id":1520739,"jp":"耕作を終了 <actionkey>UI/Cancel</actionkey>","fr":"Terminer la culture <actionkey>UI/Cancel</actionkey>"}
 {"id":1520740,"jp":"キボを召喚 <actionkey>MainInput/MainHideShowPet</actionkey>","fr":"Invoquer un Kibo <actionkey>MainInput/MainHideShowPet</actionkey>"}
 {"id":1520741,"jp":"キボを呼び戻す <actionkey>MainInput/MainHideShowPet</actionkey>","fr":"Rappeler le Kibo <actionkey>MainInput/MainHideShowPet</actionkey>"}
+{"id":1520742,"jp":"離陸 <actionkeydouble>MainInput/MainFlyUp</actionkeydouble>を2回押す","fr":"Décoller : appuyer 2 fois sur <actionkeydouble>MainInput/MainFlyUp</actionkeydouble>"}
 {"id":1520743,"jp":"高度アップ <actionkey>MainInput/MainFlyUp</actionkey>","fr":"Prendre de l'altitude <actionkey>MainInput/MainFlyUp</actionkey>"}
 {"id":1520744,"jp":"高度ダウン <actionkey>MainInput/MainFlyFall</actionkey>","fr":"Perdre de l'altitude <actionkey>MainInput/MainFlyFall</actionkey>"}
 {"id":1520745,"jp":"キボに乗る <actionkey>MainInput/MainCallMount</actionkey>","fr":"Chevaucher le Kibo <actionkey>MainInput/MainCallMount</actionkey>"}
 {"id":1520746,"jp":"キボから降りる<actionkey>MainInput/MainCallMount</actionkey>","fr":"Descendre du Kibo<actionkey>MainInput/MainCallMount</actionkey>"}
+{"id":1520747,"jp":"マウント管理（長押し）<actionkeyhold>MainInput/MainMountRoulette</actionkeyhold>","fr":"Gestion des montures (maintenir) <actionkeyhold>MainInput/MainMountRoulette</actionkeyhold>"}
 {"id":1520748,"jp":"キボとスターリンク <actionkey>MainInput/MainPetCatch</actionkey>","fr":"Lien stellaire avec un Kibo <actionkey>MainInput/MainPetCatch</actionkey>"}
 {"id":1520749,"jp":"エモート <actionkey>MainInput/MainSocialRoulette</actionkey>","fr":"Emote <actionkey>MainInput/MainSocialRoulette</actionkey>"}
+{"id":1520750,"jp":"<actionkey>MainInput/MainPetSkill</actionkey> を<color=#96F9FF>押して</color>、キボのスキルを使って謎解きする","fr":"<color=#96F9FF>Appuyez</color> sur <actionkey>MainInput/MainPetSkill</actionkey> pour résoudre des énigmes à l'aide d'une compétence de Kibo"}
+{"id":1520751,"jp":"<color=#96F9FF>長押し</color><actionkeyhold>MainInput/MainPetSkillRoulette</actionkeyhold>してキボホイールを開くと、より多くのキボスキルを素早く使用できる","fr":"<color=#96F9FF>Maintenez</color> <actionkeyhold>MainInput/MainPetSkillRoulette</actionkeyhold> pour ouvrir la roue des Kibo et accéder rapidement à davantage de compétences de Kibo"}
 {"id":1520754,"jp":"召喚 <actionkey>KiBoSummon/ConfirmKiBo</actionkey>","fr":"Invoquer <actionkey>KiBoSummon/ConfirmKiBo</actionkey>"}
 {"id":1520755,"jp":"選択解除 <actionkey>KiBoSummon/CancelKiBo</actionkey>","fr":"Désélectionner <actionkey>KiBoSummon/CancelKiBo</actionkey>"}
 {"id":1520756,"jp":"スキル発動 <actionkey>KiBoDuelSkill/ConfirmKiBoSkill</actionkey>","fr":"Utiliser la compétence <actionkey>KiBoDuelSkill/ConfirmKiBoSkill</actionkey>"}
+{"id":1520757,"jp":"スキル発動キャンセル <actionkey>KiBoDuelSkill/CancelKiBoSkill</actionkey>","fr":"Annuler la compétence <actionkey>KiBoDuelSkill/CancelKiBoSkill</actionkey>"}
+{"id":1520758,"jp":"星絆 <actionkey>RealTimePetCatch/MainKiboCatchShoot</actionkey>","fr":"Lien stellaire <actionkey>RealTimePetCatch/MainKiboCatchShoot</actionkey>"}
+{"id":1520760,"jp":"星絆モードを終了 <actionkey>RealTimePetCatch/MainPetCatch</actionkey>","fr":"Quitter le mode Lien stellaire <actionkey>RealTimePetCatch/MainPetCatch</actionkey>"}
 {"id":1520761,"jp":"キボを<color=#96F9FF>長押し</color>するとドラッグして位置を変更できる","fr":"Un <color=#96F9FF>appui prolongé</color> sur un Kibo permet de le faire glisser pour changer sa position."}
 {"id":1520762,"jp":"キャラクター／キボを<color=#96F9FF>長押し</color>でドラッグして編成可能","fr":"Un <color=#96F9FF>appui prolongé</color> sur un personnage ou un Kibo permet de le faire glisser pour composer l'équipe."}
 {"id":1520763,"jp":"寮を出る <actionkey>MainInput/MainOpenHome</actionkey>","fr":"Quitter le dortoir <actionkey>MainInput/MainOpenHome</actionkey>"}
+{"id":1520764,"jp":"レンズを切り替え 長押し<actionkey>PageBattlePetCath/MainPetCatchUseBuffItem4</actionkey>","fr":"Changer d'objectif : maintenir <actionkey>PageBattlePetCath/MainPetCatchUseBuffItem4</actionkey>"}
 {"id":1520765,"jp":"星巣から離れる<actionkey>UI/Cancel</actionkey>","fr":"Quitter le Nid stellaire<actionkey>UI/Cancel</actionkey>"}
+{"id":1520766,"jp":"観戦モード中、<actionkey>UI/Cancel</actionkey> を押して観戦を終了すると、報酬を受け取れる。","fr":"En mode spectateur, appuyez sur <actionkey>UI/Cancel</actionkey> pour quitter le mode spectateur et récupérer vos récompenses."}
 {"id":1520767,"jp":"観戦モード中に終了を選択すると、報酬を受け取れる。","fr":"Sélectionnez Quitter en mode spectateur pour recevoir vos récompenses."}
+{"id":1520768,"jp":"土壌効果を表示 <actionkey>PageHomeCropEditor/HomeEditorFarmlandEffectTip</actionkey>","fr":"Afficher les effets du sol <actionkey>PageHomeCropEditor/HomeEditorFarmlandEffectTip</actionkey>"}
+{"id":1520769,"jp":"土壌効果の表示を閉じる <actionkey>PageHomeCropEditor/HomeEditorFarmlandEffectTip</actionkey>","fr":"Masquer les effets du sol <actionkey>PageHomeCropEditor/HomeEditorFarmlandEffectTip</actionkey>"}
 {"id":1520770,"jp":"農園本部 <actionkey>MainInput/PageHomeCenter</actionkey>","fr":"QG de la ferme <actionkey>MainInput/PageHomeCenter</actionkey>"}
+{"id":1520772,"jp":"農園を離れる <actionkeyhold>GamepadUI/MainInput_LeaveHome</actionkeyhold>長押し","fr":"Quitter la ferme : maintenir <actionkeyhold>GamepadUI/MainInput_LeaveHome</actionkeyhold>"}
+{"id":1520773,"jp":"<actionkey>MainInput/MainPetSkillRoulette</actionkey> を<color=#96F9FF>押す</color>とキボホイールが開き、より多くのキボスキルを素早く使用できる","fr":"<color=#96F9FF>Appuyez</color> sur <actionkey>MainInput/MainPetSkillRoulette</actionkey> pour ouvrir la roue des Kibo et accéder rapidement à davantage de compétences de Kibo"}
+{"id":1520774,"jp":"<actionkey>MainInput/MainPetSkill</actionkey> を<color=#96F9FF>押す</color>とキボスキルを使って謎解きできる","fr":"<color=#96F9FF>Appuyez</color> sur <actionkey>MainInput/MainPetSkill</actionkey> pour résoudre des énigmes à l'aide d'une compétence de Kibo"}
+{"id":1520775,"jp":"ステラカードを切り替え <actionkey>RealTimePetCatch/MainMouseScroll</actionkey>","fr":"Changer de carte Stella <actionkey>RealTimePetCatch/MainMouseScroll</actionkey>"}
 {"id":1520776,"jp":"スターリンクデッキ切り替え<actionkey>D-Pad/UpDown</actionkey>","fr":"Changer de deck de Lien stellaire<actionkey>D-Pad/UpDown</actionkey>"}
 {"id":1520777,"jp":"ステラカード切り替え <actionkey>D-Pad/LeftRight</actionkey>","fr":"Changer de carte Stella <actionkey>D-Pad/LeftRight</actionkey>"}
 {"id":1520778,"jp":"星絆モードを終了 <actionkey>GamepadUI/GamepadUI_Option</actionkey>","fr":"Quitter le mode Lien stellaire <actionkey>GamepadUI/GamepadUI_Option</actionkey>"}
 {"id":1520779,"jp":"マップ<actionkey>MainInput/MainOpenMap</actionkey>","fr":"Carte<actionkey>MainInput/MainOpenMap</actionkey>"}
+{"id":1520780,"jp":"クイックホイール<actionkey>GamepadUI/MainInput_ControllerQuickRoulette</actionkey>","fr":"Roue rapide <actionkey>GamepadUI/MainInput_ControllerQuickRoulette</actionkey>"}
 {"id":1520781,"jp":"通常攻撃<actionkey>MainInput/MainAttack</actionkey>","fr":"Attaque normale<actionkey>MainInput/MainAttack</actionkey>"}
+{"id":1520782,"jp":"チャージ攻撃 <actionkeyhold>MainInput/MainAttack</actionkeyhold>長押し","fr":"Attaque chargée : maintenir <actionkeyhold>MainInput/MainAttack</actionkeyhold>"}
 {"id":1520783,"jp":"カメラ回転<actionkey>KiBoDuel/ArenaRotateCamera</actionkey>","fr":"Rotation de la caméra<actionkey>KiBoDuel/ArenaRotateCamera</actionkey>"}
 {"id":1520784,"jp":"カメラズーム<actionkey>KiBoDuel/MainMouseScroll</actionkey>","fr":"Zoom de la caméra<actionkey>KiBoDuel/MainMouseScroll</actionkey>"}
+{"id":1520785,"jp":"エモート <actionkey>GamepadUI/MainInput_ControllerQuickRoulette</actionkey>","fr":"Emote <actionkey>GamepadUI/MainInput_ControllerQuickRoulette</actionkey>"}
 {"id":1520786,"jp":"カーソル移動<actionkey>LS</actionkey>","fr":"Déplacer le curseur<actionkey>LS</actionkey>"}
 {"id":1520787,"jp":"クロディーメを数える<actionkey>GamepadUI/GamepadUI_South</actionkey>","fr":"Compter les Clodime<actionkey>GamepadUI/GamepadUI_South</actionkey>"}
 {"id":1520788,"jp":"カメラ回転<actionkey>RS/LeftRight</actionkey>","fr":"Rotation de la caméra<actionkey>RS/LeftRight</actionkey>"}
@@ -24319,6 +24510,7 @@
 {"id":1520793,"jp":"召喚キャンセル<actionkey>UI/Cancel</actionkey>","fr":"Annuler l'invocation<actionkey>UI/Cancel</actionkey>"}
 {"id":1520794,"jp":"耕作を終了 <actionkey>GamepadUI/GamepadUI_Option</actionkey>","fr":"Terminer la culture <actionkey>GamepadUI/GamepadUI_Option</actionkey>"}
 {"id":1520795,"jp":"配置キャンセル <actionkey>GamepadUI/GamepadUI_Option</actionkey>","fr":"Annuler le placement <actionkey>GamepadUI/GamepadUI_Option</actionkey>"}
+{"id":1520796,"jp":"寮を出る 長押し<actionkeyhold>GamepadUI/MainInput_LeaveHome</actionkeyhold>","fr":"Quitter le dortoir : maintenir <actionkeyhold>GamepadUI/MainInput_LeaveHome</actionkeyhold>"}
 {"id":1520797,"jp":"星彩のシュネルフ","fr":"Schnelf étoilé"}
 {"id":1520798,"jp":"このキボはまだ発見されていません。芽吹の谷-遠吠え平原で探せます。","fr":"Ce Kibo n'a pas encore été découvert. Cherchez-le dans la Vallée des Bourgeons - Plaines hurlantes."}
 {"id":1520799,"jp":"異彩のレイニィ","fr":"Rainy Variante"}
@@ -24327,11 +24519,14 @@
 {"id":1520802,"jp":"レインエルは水を操るのが得意で、あらゆる液体と親和性が高く、手足のように水流を操って象ることができる。","fr":"Rainel excelle à manipuler l'eau. Il a une grande affinité avec tous les liquides et façonne les courants comme ses propres membres."}
 {"id":1520803,"jp":"異彩のレインエル","fr":"Rainel Variante"}
 {"id":1520804,"jp":"星彩のレインエル","fr":"Rainel étoilé"}
+{"id":1520805,"jp":"タイダレストはある意味では、水の意志の化身ともいえる。強大な力を手に入れたが、温厚なところは変わっておらず、性質は優しく和やかな雰囲気を好む。","fr":"Tidalest peut, en un sens, être considéré comme l'incarnation de la volonté de l'eau. Malgré l'immense puissance qu'il a acquise, sa nature bienveillante demeure inchangée. D'un tempérament doux, il apprécie les atmosphères paisibles et harmonieuses."}
 {"id":1520806,"jp":"異彩のタイダレスト","fr":"Tidalest Variante"}
 {"id":1520807,"jp":"星彩のタイダレスト","fr":"Tidalest étoilé"}
 {"id":1520808,"jp":"このキボはまだ発見されていません。芽吹の谷-霧隠れの森で探せます。","fr":"Ce Kibo n'a pas encore été découvert. Cherchez-le dans la Vallée des Bourgeons - Forêt Voile-Brume."}
 {"id":1520809,"jp":"星彩のフィフィ","fr":"Fifi étoilé"}
+{"id":1520810,"jp":"ファイエルは炎を放ち、自身と周辺環境の温度をコントロールすることができるが、まだ慣れていないため、温度は不規則に変化してしまう。","fr":"Fayel peut projeter des flammes et contrôler sa propre température ainsi que celle de son environnement. Cependant, il ne maîtrise pas encore pleinement cette capacité, ce qui provoque des variations de température irrégulières."}
 {"id":1520811,"jp":"星彩のファイエル","fr":"Fayel étoilé"}
+{"id":1520812,"jp":"イグネストはある意味では、火の意志の化身ともいえる。その炎は永遠に尽きることはない。性格はより激しく執拗になり、ひとたび衝突すれば、徹底的に戦う覚悟が必要だ。","fr":"Ignest peut, en un sens, être considéré comme l'incarnation de la volonté du feu. Ses flammes ne s'éteignent jamais. Son tempérament est devenu plus fougueux et obstiné. Quiconque l'affronte doit se préparer à combattre jusqu'au bout."}
 {"id":1520813,"jp":"星彩のイグネスト","fr":"Ignest étoilé"}
 {"id":1520814,"jp":"このキボはまだ発見されていません。芽吹の谷-鷹の連峰で探せます。","fr":"Ce Kibo n'a pas encore été découvert. Cherchez-le dans la Vallée des Bourgeons - Monts du Faucon."}
 {"id":1520815,"jp":"星彩のモフンガ","fr":"Mohunga étoilé"}
@@ -24351,6 +24546,7 @@
 {"id":1520830,"jp":"星彩のフラーメ","fr":"Flame étoilé"}
 {"id":1520831,"jp":"異彩のイグニープ","fr":"Igneep Variante"}
 {"id":1520832,"jp":"星彩のイグニープ","fr":"Igneep étoilé"}
+{"id":1520833,"jp":"勇ましく湾曲した巨大な角と、体躯を覆う濃密な体毛が特徴のキボ。その身に燃え盛る激しい炎は、火属性の星脈エネルギーが顕現したもの。訓練すれば出力を調整できるようになり、大規模な火災も起こさなくなる。","fr":"Un Kibo reconnaissable à ses imposantes cornes recourbées et à son épaisse fourrure. Les flammes intenses qui embrasent son corps sont une manifestation de l'Énergie de Feu des veines stellaires. Avec de l'entraînement, il peut apprendre à maîtriser leur intensité et éviter ainsi de provoquer de vastes incendies."}
 {"id":1520834,"jp":"異彩のブレイオス","fr":"Breios Variante"}
 {"id":1520835,"jp":"星彩のブレイオス","fr":"Breios étoilé"}
 {"id":1520836,"jp":"異彩のアイロ","fr":"Airo Variante"}
@@ -24374,6 +24570,7 @@
 {"id":1520854,"jp":"星彩のツルネフィ","fr":"Tsurnefi étoilé"}
 {"id":1520855,"jp":"星彩のロッコロ","fr":"Rokkoro étoilé"}
 {"id":1520856,"jp":"星彩のセンザロ","fr":"Senzaro étoilé"}
+{"id":1520857,"jp":"グランザロスは宝探しの能力に極めて優れ、地中の貴金属や貴重な宝石を掘り出すことができる。飼いならして友情を築ければ、思いがけない富を手にできるかもしれない。ただし、探し求める宝物が、単に興味を惹かれただけのガラクタにすぎないこともある。","fr":"Granzaros excelle dans la chasse au trésor et peut déterrer des métaux précieux ainsi que des gemmes de grande valeur. En l'apprivoisant et en nouant une amitié avec lui, vous pourriez découvrir des richesses insoupçonnées. Cependant, les trésors qu'il recherche ne sont parfois que de simples babioles ayant éveillé sa curiosité."}
 {"id":1520858,"jp":"星彩のグランザロス","fr":"Granzaros étoilé"}
 {"id":1520859,"jp":"星彩のグリファ","fr":"Griffa étoilé"}
 {"id":1520860,"jp":"星彩のグリフォン","fr":"Griffon étoilé"}
@@ -24382,9 +24579,11 @@
 {"id":1520863,"jp":"星彩のチョノコ","fr":"Chonoko étoilé"}
 {"id":1520864,"jp":"星彩のサラマンド","fr":"Salamand étoilé"}
 {"id":1520865,"jp":"星彩のホークル","fr":"Hawkle étoilé"}
+{"id":1520866,"jp":"どれほど劣悪な天候であろうと、スカイホークは激しい気流の変化のなかを思う存分飛び回ることを好む。寝るときは雲の合間でわずかに休息をとるくらいだ。","fr":"Aussi mauvaises que soient les conditions météorologiques, Skyhawk adore voler librement au milieu des courants aériens les plus turbulents. Même lorsqu'il dort, il se contente de brefs instants de repos parmi les nuages."}
 {"id":1520867,"jp":"星彩のスカイホーク","fr":"Skyhawk étoilé"}
 {"id":1520868,"jp":"異彩のピョンルー","fr":"Pyonloo Variante"}
 {"id":1520869,"jp":"星彩のピョンルー","fr":"Pyonloo étoilé"}
+{"id":1520870,"jp":"フライリーの翼は長く、しっぽの先端には毒素を蓄える結晶がある。見た目は笑っているように見えるが、その毒を侮ってはいけない。","fr":"Flyly possède de longues ailes et un cristal à l'extrémité de sa queue, dans lequel il emmagasine des toxines. Son apparence donne l'impression qu'il sourit, mais il ne faut surtout pas sous-estimer son venin."}
 {"id":1520871,"jp":"異彩のフライリー","fr":"Flyly Variante"}
 {"id":1520872,"jp":"星彩のフライリー","fr":"Flyly étoilé"}
 {"id":1520873,"jp":"異彩のメテオール","fr":"Staray Variante"}
@@ -24392,6 +24591,7 @@
 {"id":1520875,"jp":"このキボはまだ発見されていません。芽吹の谷-影蝕の崖北部で探せます。","fr":"Ce Kibo n'a pas encore été découvert. Cherchez-le dans la Vallée des Bourgeons - Falaise rongée par l'ombre, partie nord."}
 {"id":1520876,"jp":"星彩のエレキリー","fr":"Electrilly étoilé"}
 {"id":1520877,"jp":"星彩のエレキカッター","fr":"Elekicutter étoilé"}
+{"id":1520879,"jp":"勇ましく力強いフィンヴォルフ。幼いころからハンターのテララとともにシャルル村で育ち、深い絆で結ばれている。\n勇敢で恐れを知らず、どんな危険にも怯むことのないウルは、頼りになる忠実な相棒だ。","fr":"Un Finwolf vaillant et puissant. Depuis son plus jeune âge, il a grandi aux côtés de la chasseuse Terara au Village de Charlulu, et tous deux partagent un Lien profond.\nCourageux et intrépide, Uru ne recule devant aucun danger. C'est un compagnon fidèle sur lequel on peut toujours compter."}
 {"id":1520880,"jp":"謎に満ちたキボ。まだ情報はない。","fr":"Un Kibo entouré de mystères. Aucune information disponible pour le moment."}
 {"id":1520881,"jp":"星彩のペガサスノヴァ","fr":"Pegasus Nova étoilé"}
 {"id":1520882,"jp":"星彩のスノボウ","fr":"Snobow étoilé"}
