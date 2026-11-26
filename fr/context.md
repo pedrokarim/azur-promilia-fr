@@ -79,6 +79,11 @@ Relevés dans les dialogues déjà traduits. Un traducteur les applique tels que
 - Symphoria vouvoie Metsa (« Sœur Metsa ») ; Luruka tutoie Terara (« grande sœur ») et vouvoie « Dame Lumi ».
 - Tana, la lune, est au féminin.
 - Vouvoient aussi : Sarara, Ahi, Kiara et la milice des Ailés, Prospero, Shia, Millie, Noomi. Tutoient aussi : Kirk, Guug, Nell, Lian, Ernest, Eva, Warwick, Roxana, Mamie Lisa (« jeune pousse »). Norma parle d'elle à la troisième personne.
+- Luruka vouvoie Metsa, qui la tutoie. Charlulu et Tana (la louve, au féminin) se tutoient.
+- Seekrid (masculin) tutoie le joueur. Rudalis l'appelle « mon souverain » et le vouvoie ; Seekrid le tutoie. Rudalis tutoie la chamane et vouvoie le groupe.
+- Mitty vouvoie Faridah, qui la tutoie. Le Chef du village et Faridah se tutoient.
+- Zaha tutoie le joueur, avec mépris. L'évêque du Culte le tutoie ; 星臨者ちゃん = « Enfant des étoiles, mon chou ».
+- La narration des actions du joueur est à la 2e personne du pluriel (« Vous avez saisi… »).
 
 ## Règles d'écriture
 
