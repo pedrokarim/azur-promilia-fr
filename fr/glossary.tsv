@@ -224,4 +224,25 @@ Lv.	Lv.	Niv.	ui	approved	« Niv. 30 », « Niv. max ».
 にゃ	nya	nya	tic	approved	Tic félin de Chiyo : « nya », jamais « miaou ».
 ケロ	kero	coâ	tic	approved	Tic de grenouille (Korokoro) : « coâ ».
 領主	Lord	seigneur	title	approved	Le seigneur de Fleece est une femme, mais le titre reste « seigneur » (choix de l'existant).
-飛空船	Airship	dirigeable	object	approved	
+飛空船	Airship	dirigeable	object	approved
+汎生類	Panbiota	Espèces communes	creature	approved	Familles de Kibo : Famille bestiale (獣形族), Famille ailée (翼形族), Famille écailleuse (鱗形族), Famille à mue (蛻形族), Kodama (木霊族), Machines (機巧族), Famille élémentaire (元素族).
+獣形族	Beastform	Famille bestiale	creature	approved	
+翼形族	Wingform	Famille ailée	creature	approved	
+鱗形族	Scaleform	Famille écailleuse	creature	approved	
+木霊族	Kodama	Kodama	creature	approved	
+機巧族	Machina	Machines	creature	approved	
+元素族	Elemental	Famille élémentaire	creature	approved	
+星祝ボックス	Star Blessing Box	Boîte de Bénédiction stellaire	item	approved	
+星脈結晶	Star Vein Crystal	Cristal de veine stellaire	item	approved	
+好感度	Affinity	affinité	stat	approved	« L'offrir à un compagnon augmente son affinité. »
+取引所	Exchange	Comptoir d'échange	place	approved	
+危機討伐	Crisis Hunt	Traque des menaces	mechanic	approved	Forme des objectifs existants.
+特異体	Anomaly	Kibo anormal	creature	approved	
+竜息	Dragon Breath	Souffle du dragon	skill	approved	
+焔火	Blaze	Feu ardent	skill	approved	
+触媒粉末	Catalyst Powder	poudre catalytique	item	approved	
+軟膏	Ointment	onguent	item	approved	
+ネズミ娘	Mouse Girl	la fille-souris	character	approved	
+狼しっぽ娘	Wolf-tail Girl	Queue-de-loup	character	approved	Surnom de Terara par Lumi.
+鷹主	Hawk Lord	Seigneur Faucon	title	approved	
+飛空艇	Airship	dirigeable	object	approved	
