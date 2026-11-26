@@ -14737,76 +14737,154 @@
 {"id":1510927,"jp":"「輪廻」","fr":"« Réincarnation »"}
 {"id":1510928,"jp":"<color={highlight}>集中</color>することで、「大狼さま」ミネイヴァから与えられた輪廻の力を使用し、近くの強い執念を持つ魂を探知できます。","fr":"Grâce à la <color={highlight}>Concentration</color>, vous pouvez utiliser le pouvoir de réincarnation conféré par Mineiva, le « Seigneur Grand Loup », pour détecter les âmes proches encore animées par de puissants attachements."}
 {"id":1510929,"jp":"ターゲットに追いつく","fr":"Rattraper la cible"}
+{"id":1510930,"jp":"ターゲットが逃げる前に、彼女に追いつきましょう！\n<color={highlight}>ターゲットから離れすぎる</color>と、ターゲットは逃げてしまいます。めげずに、もう一度挑戦しましょう。","fr":"Rattrapez la cible avant qu'elle ne s'échappe !\nSi vous <color={highlight}>vous éloignez trop de la cible</color>, elle prendra la fuite. Ne vous découragez pas et réessayez."}
 {"id":1510931,"jp":"壁蹴り","fr":"Saut mural"}
+{"id":1510932,"jp":"壁際でジャンプ中にもう一度<actionkey>MainInput/MainJump</actionkey> を押すと、<color={highlight}>壁蹴り</color>ができます。","fr":"Appuyez de nouveau sur <actionkey>MainInput/MainJump</actionkey> pendant un saut à proximité d'un mur pour effectuer un <color={highlight}>saut mural</color>."}
+{"id":1510933,"jp":"壁付近でのジャンプ中にもう一度ジャンプボタンを押すと<color={highlight}>二段ジャンプ</color>ができます。","fr":"Appuyez de nouveau sur le bouton de saut pendant un saut à proximité d'un mur pour effectuer un <color={highlight}>double saut</color>."}
+{"id":1510934,"jp":"壁に密着したジャンプ中に再度 <actionkey>MainInput/MainJump</actionkey> を押すと、<color={highlight}>壁蹴り</color>ができます","fr":"Appuyez de nouveau sur <actionkey>MainInput/MainJump</actionkey> pendant un saut contre un mur pour effectuer un <color={highlight}>saut mural</color>."}
+{"id":1510936,"jp":"禍津丸は連続して攻撃を受けると、次の攻撃を弾き、自身に<color={highlight}>「反震」</color>効果を付与します。\nこの時、距離が近すぎると禍津丸の<color={highlight}>反撃</color>を受けます。","fr":"Lorsque Magatsumaru subit plusieurs attaques consécutives, il repousse l'attaque suivante et obtient l'effet <color={highlight}>« Contrecoup »</color>.\nSi vous êtes trop proche à ce moment-là, vous subirez sa <color={highlight}>contre-attaque</color>."}
+{"id":1510938,"jp":"禍津丸は継続的に残影とエネルギーボールを放って攻撃してきます。\n<color={highlight}>エネルギーボールを跳ね返す</color>ことで、禍津丸の炎を消し、その後の攻撃効果を弱めることができます。","fr":"Magatsumaru attaque continuellement en projetant des images résiduelles et des orbes d'Énergie.\n<color={highlight}>Renvoyez les orbes d'Énergie</color> pour éteindre ses flammes et affaiblir ses attaques suivantes."}
 {"id":1510939,"jp":"封印コンソール","fr":"Console du sceau"}
+{"id":1510940,"jp":"3個の<color={highlight}>散らばった晶石</color>を見つけると、コンソールを起動し、封印を解除できます。\n封印された遺跡の中には、思わぬ発見があるかもしれません。","fr":"Retrouvez les 3 <color={highlight}>cristaux dispersés</color> pour activer la console et lever le sceau.\nLes ruines scellées pourraient vous réserver des découvertes inattendues."}
+{"id":1510941,"jp":"ルダリスは空中に飛び上がり、巨大な落石を召喚して落下させます。\n<color={highlight}>巨石の後ろに隠れる</color>と、ルダリスのチャージ爆発によるダメージを回避できます。","fr":"Rudalis bondit dans les airs et invoque d'immenses rochers qu'il fait s'abattre au sol.\n<color={highlight}>Abritez-vous derrière un rocher</color> pour éviter les DGT de l'explosion chargée de Rudalis."}
+{"id":1510942,"jp":"蘭香子はフェーズ移行時に墓石を召喚し、自身のHPを回復します。\n<color={highlight}>墓石を破壊する</color>ことで、蘭香子のHP回復を阻止できます。","fr":"Lors des changements de phase, Lan Xiangzi invoque des pierres tombales et restaure ses PV.\n<color={highlight}>Détruisez les pierres tombales</color> pour empêcher Lan Xiangzi de restaurer ses PV."}
+{"id":1510943,"jp":"蘭香子は3つの陣符を召喚し、霧の中に溶け込みます。\n陣符は継続的に亡霊を召喚します。<color={highlight}>素早く陣符を破壊する</color>と、霧を晴らすことができます。","fr":"Lan Xiangzi invoque 3 talismans rituels et se fond dans la brume.\nLes talismans invoquent continuellement des spectres. <color={highlight}>Détruisez rapidement les talismans</color> pour dissiper la brume."}
+{"id":1510944,"jp":"一定時間内に<color={highlight}>すべての陣符を破壊できなかった</color>場合、蘭香子はプレイヤーを束縛し、強力な攻撃を放ちます。","fr":"Si vous <color={highlight}>ne parvenez pas à détruire tous les talismans</color> dans le temps imparti, Lan Xiangzi vous immobilisera et déclenchera une puissante attaque."}
 {"id":1510945,"jp":"飛空船を調べる","fr":"Inspecter le vaisseau volant"}
+{"id":1510946,"jp":"<color={highlight}>集中</color>すると、近くの調査可能なアイテムをスキャンできます。\n一定時間が経過すると、スキャンされたアイテムは非表示になります。","fr":"Utilisez la <color={highlight}>Concentration</color> pour détecter les objets à examiner à proximité.\nAprès un certain temps, les objets détectés ne seront plus signalés."}
 {"id":1510947,"jp":"キボを追い払う","fr":"Chasser les Kibo"}
 {"id":1510948,"jp":"<color={highlight}>キボに近づく</color>と、逃げるキボを範囲外へ追い払うことができます。","fr":"<color={highlight}>S'approcher d'un Kibo</color> permet de chasser hors de la zone le Kibo qui fuit."}
 {"id":1510949,"jp":"種まき","fr":"Semer"}
+{"id":1510950,"jp":"空いている畑のマスを通過する時、そのマスに金麦の種を蒔きます。\n<color={highlight}>同じルートを通らずに</color>すべてのマスを歩き回ると、試練をクリアできます。","fr":"Lorsque vous traversez une case vide du champ, vous y semez des graines de blé doré.\nParcourez toutes les cases <color={highlight}>sans emprunter deux fois le même chemin</color> pour réussir l'épreuve."}
+{"id":1510951,"jp":"<color={highlight}>隣接していないマス</color>や<color={highlight}>一度通ったマス</color>を踏んでしまうと、そのマスは赤くなります。","fr":"Si vous marchez sur une <color={highlight}>case non adjacente</color> ou une <color={highlight}>case déjà parcourue</color>, celle-ci devient rouge."}
+{"id":1510952,"jp":"ルートを引き直したい場合は、<color={highlight}>直前に正しく種を蒔いたマス</color>に「除去」を使用すると、先ほどの種まきをリセットできます。","fr":"Pour modifier votre itinéraire, utilisez « Retirer » sur <color={highlight}>la dernière case correctement ensemencée</color> afin d'annuler le dernier semis."}
 {"id":1510953,"jp":"クロディーメを数える","fr":"Compter les Clodime"}
+{"id":1510954,"jp":"キボの中からすべての<color={highlight}>クロディーメを見つけよう！</color>\nクロディーメを<color={highlight}>タップ</color>すると、スコアを獲得できます","fr":"Parmi tous les Kibo, <color={highlight}>retrouvez tous les Clodime !</color>\n<color={highlight}>Touchez</color> les Clodime pour marquer des points."}
 {"id":1510955,"jp":"できるだけ<color={highlight}>クロディーメ以外のキボは避けて</color>ね","fr":"Évitez autant que possible <color={highlight}>les Kibo autres que Clodime</color>, d'accord ?"}
 {"id":1510956,"jp":"ヘルプ一覧","fr":"Liste d'aide"}
+{"id":1510957,"jp":"ヘルプの項目は世界を探索するにつれて<color={highlight}>徐々に増えていきます。</color>\n忘れずに定期的に確認してください。","fr":"Les rubriques d'aide <color={highlight}>s'enrichissent progressivement.</color> au fil de votre exploration du monde.\nPensez à les consulter régulièrement."}
 {"id":1510958,"jp":"騎乗","fr":"Chevaucher"}
 {"id":1510960,"jp":"協力攻撃","fr":"Attaque coopérative"}
+{"id":1510961,"jp":"キボや他のプレイヤーと一緒に<color={highlight}>協力攻撃を発動する</color>と、効果的に体勢ゲージを削ることができます","fr":"<color={highlight}>Effectuez une attaque coopérative</color> avec vos Kibo ou d'autres joueurs pour réduire efficacement la Jauge de posture."}
+{"id":1510962,"jp":"キボや他のプレイヤーと一緒に<color={highlight}>協力攻撃を発動する</color>と、効果的によろけゲージを削ることができます","fr":"<color={highlight}>Effectuez une attaque coopérative</color> avec vos Kibo ou d'autres joueurs pour réduire efficacement la jauge de déséquilibre."}
 {"id":1510963,"jp":"レアなキボ","fr":"Kibo rares"}
+{"id":1510964,"jp":"探検中に、時々<color={highlight}>見た目が異なる</color>キボに出会うことがあります。それは間違いなくレアなやつです！","fr":"Au cours de votre exploration, vous rencontrerez parfois des Kibo à l'<color={highlight}>apparence différente</color>. Il s'agit sans aucun doute de Kibo Rares !"}
+{"id":1510965,"jp":"キボは<color={highlight}>キボファイトに参加</color>することもできます。自分だけのチームを編成し、様々なプレイヤーと切磋琢磨しましょう","fr":"Les Kibo peuvent également <color={highlight}>participer aux Duels de Kibo</color>. Composez votre propre équipe et mesurez-vous à d'autres joueurs pour perfectionner vos talents."}
 {"id":1510966,"jp":"キャラクターとの交流","fr":"Interagir avec les personnages"}
+{"id":1510967,"jp":"<color={highlight}>農園に寮を建設</color>すると、寮の中で様々なキャラクターと交流できるようになります","fr":"<color={highlight}>Construisez un dortoir dans la ferme</color> pour pouvoir interagir avec différents personnages à l'intérieur."}
 {"id":1510968,"jp":"農園派遣","fr":"Affectation à la ferme"}
+{"id":1510969,"jp":"キボとスターリンクした後、<color={highlight}>農園</color>に配置して、<color={highlight}>対応する職種</color>の作業に参加させることができます","fr":"Après avoir formé un Lien stellaire avec un Kibo, vous pouvez le placer dans la <color={highlight}>ferme</color> pour lui confier des tâches correspondant à sa <color={highlight}>spécialité</color>."}
+{"id":1510970,"jp":"撮影モードでは、星臨者はキャラクターとキボのアクションを<color={highlight}>自由に調整</color>できます\n各種撮影機能を駆使して、素敵な写真を撮りましょう！","fr":"En mode photographie, l'Enfant des étoiles peut <color={highlight}>ajuster librement</color> les actions des personnages et des Kibo.\nProfitez des différentes fonctionnalités de photographie pour prendre de magnifiques clichés !"}
 {"id":1510971,"jp":"探索と宝探し","fr":"Exploration et chasse au trésor"}
 {"id":1510972,"jp":"多様な移動方法を駆使して、世界の隅々を探索し、宝を探しましょう","fr":"Explorez tous les recoins du monde et partez à la chasse aux trésors grâce à de multiples moyens de déplacement"}
+{"id":1510973,"jp":"<actionkey>MainInput/MainBack</actionkey> <color={highlight}>メインメニュー</color>ボタンを押す","fr":"<actionkey>MainInput/MainBack</actionkey> Appuyer sur le bouton <color={highlight}>Menu principal</color>"}
 {"id":1510974,"jp":"<color={highlight}>メインメニュー</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Menu principal</color>"}
+{"id":1510975,"jp":"<actionkey>MainInput/MainBack</actionkey> で<color={highlight}>メインメニュー</color>を開く","fr":"Ouvrir le <color={highlight}>Menu principal</color> avec <actionkey>MainInput/MainBack</actionkey>"}
+{"id":1510976,"jp":"<actionkey>MainInput/MainOpenTeam</actionkey> <color={highlight}>チーム編成</color>ボタンを押す","fr":"<actionkey>MainInput/MainOpenTeam</actionkey> Appuyer sur le bouton <color={highlight}>Composition d'équipe</color>"}
 {"id":1510977,"jp":"<color={highlight}>チーム編成</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Composition d'équipe</color>"}
+{"id":1510978,"jp":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>チーム編成</color>を選択","fr":"Sélectionner <color={highlight}>Composition d'équipe</color> avec <actionkey>GamepadUI/Common_RStickMove</actionkey>"}
+{"id":1510979,"jp":"<actionkey>MainInput/MainOpenHero</actionkey> <color={highlight}>キャラクター</color>ボタンを押してください","fr":"<actionkey>MainInput/MainOpenHero</actionkey> Appuyer sur le bouton <color={highlight}>Personnages</color>"}
 {"id":1510980,"jp":"<color={highlight}>キャラクター</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Personnage</color>"}
+{"id":1510981,"jp":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>キャラクター</color>を選択","fr":"Sélectionner <color={highlight}>Personnages</color> avec <actionkey>GamepadUI/Common_RStickMove</actionkey>"}
+{"id":1510982,"jp":"<actionkey>MainInput/MainOpenPet</actionkey> <color={highlight}>キボ</color>ボタンを押してください","fr":"<actionkey>MainInput/MainOpenPet</actionkey> Appuyer sur le bouton <color={highlight}>Kibo</color>"}
 {"id":1510983,"jp":"<color={highlight}>キボ</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Kibo</color>"}
+{"id":1510984,"jp":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>キボ</color>を選択","fr":"Sélectionner <color={highlight}>Kibo</color> avec <actionkey>GamepadUI/Common_RStickMove</actionkey>"}
+{"id":1510985,"jp":"<actionkey>MainInput/MainOpenActivity</actionkey> <color={highlight}>イベント</color>ボタンを押してください","fr":"<actionkey>MainInput/MainOpenActivity</actionkey> Appuyer sur le bouton <color={highlight}>Événements</color>"}
 {"id":1510986,"jp":"<color={highlight}>イベント</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Événement</color>"}
+{"id":1510987,"jp":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>イベント</color>を選択","fr":"Sélectionner <color={highlight}>Événements</color> avec <actionkey>GamepadUI/Common_RStickMove</actionkey>"}
+{"id":1510988,"jp":"<actionkey>MainInput/MainOpenEntrustTask</actionkey> <color={highlight}>依頼</color>ボタンを押してください","fr":"<actionkey>MainInput/MainOpenEntrustTask</actionkey> Appuyer sur le bouton <color={highlight}>Missions</color>"}
 {"id":1510989,"jp":"<color={highlight}>依頼</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Missions</color>"}
+{"id":1510990,"jp":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>依頼</color>を選択","fr":"Sélectionner <color={highlight}>Missions</color> avec <actionkey>GamepadUI/Common_RStickMove</actionkey>"}
+{"id":1510991,"jp":"<actionkey>MainInput/MainOpenGacha</actionkey> <color={highlight}>観測</color>ボタンを押してください","fr":"<actionkey>MainInput/MainOpenGacha</actionkey> Appuyer sur le bouton <color={highlight}>Observation</color>"}
 {"id":1510992,"jp":"<color={highlight}>観測</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Observation</color>"}
+{"id":1510993,"jp":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>観測</color>を選択","fr":"Sélectionner <color={highlight}>Observation</color> avec <actionkey>GamepadUI/Common_RStickMove</actionkey>"}
+{"id":1510994,"jp":"<actionkey>MainInput/MainOpenBattlePass</actionkey> <color={highlight}>漫遊記</color>ボタンを押してください","fr":"<actionkey>MainInput/MainOpenBattlePass</actionkey> Appuyer sur le bouton <color={highlight}>Carnet de voyage</color>"}
 {"id":1510995,"jp":"<color={highlight}>漫遊記</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Carnet de voyage</color>"}
+{"id":1510996,"jp":"<actionkey>GamepadUI/Common_RStickMove</actionkey> で<color={highlight}>漫遊記</color>を選択","fr":"Sélectionner <color={highlight}>Carnet de voyage</color> avec <actionkey>GamepadUI/Common_RStickMove</actionkey>"}
+{"id":1510997,"jp":"<actionkey>MainInput/MainOpenGameAct</actionkey> <color={highlight}>イベント</color>ボタンを押してください","fr":"<actionkey>MainInput/MainOpenGameAct</actionkey> Appuyer sur le bouton <color={highlight}>Événements</color>"}
 {"id":1510998,"jp":"<color={highlight}>バッグ</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Sac</color>"}
+{"id":1510999,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>バッグ</color>を開く","fr":"Ouvrir le <color={highlight}>Sac</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511000,"jp":"<color={highlight}>農園本部</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>QG de la ferme</color>"}
+{"id":1511001,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>農園本部</color>を開く","fr":"Ouvrir le <color={highlight}>Quartier général de la ferme</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511002,"jp":"<color={highlight}>心得</color>ボタンを押してください。","fr":"Appuyez sur le bouton <color={highlight}>Savoir-faire</color>."}
+{"id":1511003,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>心得</color>を開く","fr":"Ouvrir le <color={highlight}>Savoir-faire</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511004,"jp":"<color={highlight}>ヘルプ</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Aide</color>"}
+{"id":1511005,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>ヘルプ</color>を開く","fr":"Ouvrir l'<color={highlight}>Aide</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511006,"jp":"<color={highlight}>キボ図鑑</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Encyclopédie des Kibo</color>"}
+{"id":1511007,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>キボ図鑑</color>を開く","fr":"Ouvrir l'<color={highlight}>Encyclopédie des Kibo</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511008,"jp":"<color={highlight}>星源の庭</color>ボタンを押してください。","fr":"Appuyez sur le bouton <color={highlight}>Jardin de la source stellaire</color>."}
+{"id":1511009,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>星源の庭</color>を開く","fr":"Ouvrir le <color={highlight}>Jardin des origines stellaires</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511010,"jp":"<color={highlight}>クエスト</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Quêtes</color>"}
+{"id":1511011,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>クエスト</color>を開く","fr":"Ouvrir les <color={highlight}>Quêtes</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511012,"jp":"<color={highlight}>実績</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Succès</color>"}
+{"id":1511013,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>実績</color>を開く","fr":"Ouvrir les <color={highlight}>Succès</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511014,"jp":"<color={highlight}>装備</color>タブを押してください","fr":"Appuyez sur l'onglet <color={highlight}>Équipement</color>"}
+{"id":1511015,"jp":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> で<color={highlight}>装備</color>タブを切り替えてください","fr":"Passer à l'onglet <color={highlight}>Équipement</color> avec <actionkey>GamepadUI/GamepadUI_R1</actionkey>"}
 {"id":1511016,"jp":"<color={highlight}>星祝</color>タブを押してください","fr":"Appuyez sur l'onglet <color={highlight}>Bénédiction stellaire</color>"}
+{"id":1511017,"jp":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> で<color={highlight}>星祝</color>タブを切り替えてください","fr":"Passer à l'onglet <color={highlight}>Bénédiction stellaire</color> avec <actionkey>GamepadUI/GamepadUI_R1</actionkey>"}
 {"id":1511018,"jp":"<color={highlight}>戻る</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Retour</color>"}
+{"id":1511019,"jp":"<actionkey>UI/Cancel</actionkey> で<color={highlight}>戻る</color>","fr":"<color={highlight}>Retour</color> avec <actionkey>UI/Cancel</actionkey>"}
 {"id":1511020,"jp":"<color={highlight}>終了</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Terminer</color>"}
+{"id":1511021,"jp":"<actionkey>UI/Cancel</actionkey> で<color={highlight}>終了</color>","fr":"<color={highlight}>Quitter</color> avec <actionkey>UI/Cancel</actionkey>"}
 {"id":1511022,"jp":"<color={highlight}>閉じる</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Fermer</color>"}
+{"id":1511023,"jp":"<actionkey>UI/Cancel</actionkey>で<color={highlight}>閉じる</color>","fr":"<color={highlight}>Fermer</color> avec <actionkey>UI/Cancel</actionkey>"}
 {"id":1511024,"jp":"<color={highlight}>確認</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Confirmer</color>"}
+{"id":1511025,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>確認</color>","fr":"<color={highlight}>Confirmer</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511026,"jp":"<color={highlight}>キャンセル</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Annuler</color>"}
 {"id":1511027,"jp":"<color={highlight}>メニュー</color>を押して開く","fr":"Appuyer sur <color={highlight}>Menu</color> pour ouvrir"}
+{"id":1511028,"jp":"<actionkey>MainInput/MainOpenMap</actionkey> <color={highlight}>マップ</color>を押して開く","fr":"<actionkey>MainInput/MainOpenMap</actionkey> Appuyer sur <color={highlight}>Carte</color> pour l'ouvrir"}
 {"id":1511029,"jp":"<color={highlight}>マップ</color>を押して開く","fr":"Appuyer sur <color={highlight}>Carte</color> pour ouvrir"}
+{"id":1511030,"jp":"<actionkey>MainInput/MainOpenMap</actionkey> で<color={highlight}>マップ</color>を開く","fr":"Ouvrir la <color={highlight}>Carte</color> avec <actionkey>MainInput/MainOpenMap</actionkey>"}
 {"id":1511031,"jp":"<color={highlight}>星協集会</color>タブを押してください","fr":"Appuyez sur l'onglet <color={highlight}>Réunion de l'Association stellaire</color>"}
+{"id":1511032,"jp":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> で<color={highlight}>星協集会</color>タブに切り替えてください","fr":"Passer à l'onglet <color={highlight}>Assemblée de coopération stellaire</color> avec <actionkey>GamepadUI/GamepadUI_R1</actionkey>"}
+{"id":1511033,"jp":"<actionkey>GamepadUI/MainInput_ControllerQuickRoulette</actionkey> を長押しして、ホイールを開く","fr":"Maintenir <actionkey>GamepadUI/MainInput_ControllerQuickRoulette</actionkey> pour ouvrir la roue"}
 {"id":1511034,"jp":"<color={highlight}>ESC</color>を押して畑仕事モードを終了","fr":"Appuyer sur <color={highlight}>ESC</color> pour quitter le mode Travaux des champs"}
+{"id":1511035,"jp":"<actionkey>UI/Cancel</actionkey> で畑仕事モードを<color={highlight}>終了</color>","fr":"<color={highlight}>Quitter</color> le mode Travaux des champs avec <actionkey>UI/Cancel</actionkey>"}
 {"id":1511036,"jp":"<color={highlight}>終了</color>を押して畑仕事モードを終了","fr":"Appuyer sur <color={highlight}>Terminer</color> pour quitter le mode Travaux des champs"}
+{"id":1511037,"jp":"<actionkey>GamepadUI/GamepadUI_Option</actionkey> で畑仕事モードを<color={highlight}>終了</color>","fr":"<color={highlight}>Quitter</color> le mode Travaux des champs avec <actionkey>GamepadUI/GamepadUI_Option</actionkey>"}
 {"id":1511038,"jp":"押して編成する","fr":"Appuyer pour former l'équipe"}
 {"id":1511039,"jp":"<actionkey>UI/Submit</actionkey>で編成する","fr":"<actionkey>UI/Submit</actionkey> pour former l'équipe"}
+{"id":1511040,"jp":"<actionkey>GamepadUI/GamepadUI_DpadRight</actionkey> を押して第1編成に切り替える","fr":"Appuyer sur <actionkey>GamepadUI/GamepadUI_DpadRight</actionkey> pour passer à l'équipe 1"}
+{"id":1511041,"jp":"<actionkey>GamepadUI/GamepadUI_DpadRight</actionkey> を押して第2編成に切り替える","fr":"Appuyer sur <actionkey>GamepadUI/GamepadUI_DpadRight</actionkey> pour passer à l'équipe 2"}
 {"id":1511042,"jp":"テララを選択","fr":"Choisir Terara"}
 {"id":1511043,"jp":"<actionkey>UI/Submit</actionkey>でテララを選択","fr":"<actionkey>UI/Submit</actionkey> pour choisir Terara"}
 {"id":1511044,"jp":"スターリンク中はここから<color={highlight}>スターリンクの成功率</color>を確認できるのだ！","fr":"Pendant un Lien stellaire, on peut consulter ici le <color={highlight}>taux de réussite du Lien stellaire</color> !"}
 {"id":1511045,"jp":"<color={highlight}>スターリンク成功率</color>詳細パネルを開く","fr":"Ouvrir le panneau détaillé du <color={highlight}>taux de réussite du Lien stellaire</color>"}
 {"id":1511046,"jp":"<color={highlight}>詳細を確認</color>を押してください","fr":"Appuyez sur <color={highlight}>Consulter les détails</color>"}
 {"id":1511047,"jp":"スターリンク成功率は、いろんな要素で決まるぞ。","fr":"Le taux de réussite du Lien stellaire dépend de plusieurs facteurs."}
+{"id":1511048,"jp":"<color={highlight}>ステラカードのレアリティ</color>、<color={highlight}>ターゲットのキボのHP</color>、<color={highlight}>いまの星識レベル</color>とか。","fr":"Par exemple, la <color={highlight}>rareté de la carte Stella</color>, les <color={highlight}>PV du Kibo ciblé</color> et le <color={highlight}>niveau de Savoir stellaire actuel</color>."}
+{"id":1511049,"jp":"星識レベルが低すぎると、<color={highlight}>スターリンクしたキボのレベルが一時的に低下しちゃう</color>こともある！","fr":"Si le niveau de Savoir stellaire est trop bas, <color={highlight}>le niveau d'un Kibo avec lequel un Lien stellaire a été formé peut temporairement diminuer</color> !"}
 {"id":1511050,"jp":"でも、心配はいらないのだ！","fr":"Mais pas d'inquiétude !"}
+{"id":1511051,"jp":"<color={highlight}>星識レベルの条件を満たせば</color>、一時的に下がったキボのレベルも<color={highlight}>本来のレベルまで戻る</color>からな。","fr":"<color={highlight}>Une fois le niveau de Savoir stellaire requis atteint</color>, le Kibo dont le niveau avait temporairement diminué <color={highlight}>retrouvera son niveau d'origine</color>."}
 {"id":1511052,"jp":"よーし、それじゃ自由にスターリンクしてみるのだ！","fr":"Très bien, il est temps d'essayer de former des Liens stellaires librement !"}
 {"id":1511053,"jp":"共鳴の石台のレシピが解放されたのだ！","fr":"La recette du socle de résonance est débloquée !"}
 {"id":1511054,"jp":"<color={highlight}>共鳴の石台のレシピ</color>を押してください","fr":"Appuyez sur <color={highlight}>la recette du socle de résonance</color>"}
+{"id":1511055,"jp":"共鳴の石台を使えば、<color={highlight}>もっとレアリティが高いステラカードを作る</color>ことができるのだ！","fr":"Grâce au socle de résonance, il est possible de <color={highlight}>fabriquer des cartes Stella de rareté supérieure</color> !"}
 {"id":1511056,"jp":"さっそく作ってみよう！","fr":"Fabriquons-en un tout de suite !"}
+{"id":1511057,"jp":"建設可能エリア内で<actionkey>MainInput/MainSkill</actionkey> を押すと畑仕事モードに入ります。","fr":"Appuyez sur <actionkey>MainInput/MainSkill</actionkey> dans une zone constructible pour entrer en mode Travaux des champs."}
 {"id":1511058,"jp":"建設可能エリア内で<color={highlight}>Eキー</color>を押すと畑仕事モードに入ります。","fr":"Dans la zone constructible, appuyez sur la <color={highlight}>touche E</color> pour passer en mode Travaux des champs."}
 {"id":1511059,"jp":"押して<color={highlight}>畑仕事モード</color>に切り替える","fr":"Appuyer pour passer en <color={highlight}>mode Travaux des champs</color>"}
+{"id":1511060,"jp":"空き地で<actionkey>MainInput/HomeEditorPlace</actionkey> を押して農地を開墾する","fr":"Appuyer sur <actionkey>MainInput/HomeEditorPlace</actionkey> sur un terrain libre pour défricher une parcelle agricole"}
+{"id":1511061,"jp":"空き地で<color={highlight}>Fキー</color>または<color={highlight}>マウスの左ボタン</color>を押して農地を開墾","fr":"Appuyer sur la <color={highlight}>touche F</color> ou le <color={highlight}>bouton gauche de la souris</color> sur un terrain libre pour défricher une parcelle agricole"}
+{"id":1511062,"jp":"空き地で<actionkey>MainInput/HomeEditorPlace</actionkey> で<color={highlight}>農地を開墾</color>","fr":"<color={highlight}>Défricher une parcelle agricole</color> sur un terrain libre avec <actionkey>MainInput/HomeEditorPlace</actionkey>"}
 {"id":1511063,"jp":"<color={highlight}>農地開墾</color>を押してください","fr":"Appuyez sur <color={highlight}>Défrichage des champs</color>"}
+{"id":1511064,"jp":"<actionkey>MainInput/MainPetSkill</actionkey> でキボを使い、<color={highlight}>謎の仕掛け</color>を解き明かします。","fr":"Utilisez un Kibo avec <actionkey>MainInput/MainPetSkill</actionkey> pour résoudre l'énigme du <color={highlight}>mécanisme mystérieux</color>."}
 {"id":1511065,"jp":"対応する属性のキボを使うと、謎の仕掛けを解き明かせる","fr":"Un Kibo de l'élément correspondant permet de résoudre un mystérieux mécanisme"}
+{"id":1511066,"jp":"<actionkey>MainInput/MainPetSkill</actionkey> でキボを使い、<color={highlight}>謎の仕掛け</color>を解く","fr":"Utiliser un Kibo avec <actionkey>MainInput/MainPetSkill</actionkey> pour résoudre l'énigme du <color={highlight}>mécanisme mystérieux</color>"}
 {"id":1511067,"jp":"キボを使って<color={highlight}>謎の仕掛けを解き明かす","fr":"Utiliser un Kibo pour <color={highlight}>résoudre un mystérieux mécanisme"}
+{"id":1511068,"jp":"<actionkey>MainInput/MainScanning</actionkey> を押して<color={highlight}>集中</color>すると、採集物をすぐに見つけられます。","fr":"Appuyez sur <actionkey>MainInput/MainScanning</actionkey> pour utiliser la <color={highlight}>Concentration</color> et repérer rapidement les ressources à collecter."}
 {"id":1511069,"jp":"<color={highlight}>集中</color>を使用すると、採集物をすぐに見つけられます。","fr":"Utilisez <color={highlight}>Concentration</color> pour repérer immédiatement les objets à récolter."}
+{"id":1511070,"jp":"<actionkey>MainInput/MainScanning</actionkey> で<color={highlight}>集中</color>すると、採集物をすぐに見つけられます。","fr":"Utilisez la <color={highlight}>Concentration</color> avec <actionkey>MainInput/MainScanning</actionkey> pour repérer rapidement les ressources à collecter."}
 {"id":1511071,"jp":"<color={highlight}>一括装備</color>を押してください","fr":"Appuyez sur <color={highlight}>Tout équiper</color>"}
 {"id":1511072,"jp":"<color={highlight}>バッグ</color>を押してください","fr":"Appuyez sur <color={highlight}>Sac</color>"}
 {"id":1511073,"jp":"<color={highlight}>料理</color>を押してください","fr":"Appuyez sur <color={highlight}>Cuisine</color>"}
 {"id":1511074,"jp":"<color={highlight}>食べる</color>を押してください","fr":"Appuyez sur <color={highlight}>Manger</color>"}
 {"id":1511075,"jp":"<color={highlight}>使用確認</color>を押してください","fr":"Appuyez sur <color={highlight}>Confirmer l'utilisation</color>"}
+{"id":1511076,"jp":"<actionkey>MainInput/MainPetBreakSkill</actionkey> で<color={highlight}>協力攻撃</color>を行います。","fr":"Effectuez une <color={highlight}>attaque coopérative</color> avec <actionkey>MainInput/MainPetBreakSkill</actionkey>."}
 {"id":1511077,"jp":"押して<color={highlight}>協力攻撃</color>を発動してください","fr":"Appuyez pour déclencher une <color={highlight}>attaque coopérative</color>"}
+{"id":1511078,"jp":"戦闘でチャージを行い、<actionkey>MainInput/MainUltimateSkill</actionkey> で<color={highlight}>星極スキル</color>を発動できます。","fr":"Accumulez de la charge pendant le combat, puis activez votre <color={highlight}>Compétence Zénith stellaire</color> avec <actionkey>MainInput/MainUltimateSkill</actionkey>."}
 {"id":1511079,"jp":"戦闘でチャージを行い、Rキーで<color={highlight}>星極スキル</color>を発動できます。","fr":"Chargez en combat, puis appuyez sur la touche R pour lancer la <color={highlight}>Compétence Zénith stellaire</color>."}
+{"id":1511080,"jp":"チャージが満タンになったら、<actionkey>MainInput/MainUltimateSkill</actionkey> を押して<color={highlight}>星極スキル</color>を発動できます。","fr":"Lorsque la charge est pleine, appuyez sur <actionkey>MainInput/MainUltimateSkill</actionkey> pour activer votre <color={highlight}>Compétence Zénith stellaire</color>."}
 {"id":1511081,"jp":"星臨者、ファイト開始だ！","fr":"Enfant des étoiles, que le combat commence !"}
 {"id":1511082,"jp":"まずはキボカードについて知らないとな。","fr":"Il faut d'abord apprendre à connaître les cartes Kibo."}
 {"id":1511083,"jp":"キボファイトで発揮する能力はキボによって違うんだ。","fr":"Chaque Kibo possède des capacités différentes en Duel de Kibo."}
@@ -14814,14 +14892,22 @@
 {"id":1511085,"jp":"異なるタグのキボをうまく組み合わせることで、キボファイトの勝率を上げることができる。","fr":"En combinant bien des Kibo de badges différents, on peut améliorer son taux de victoire en Duel de Kibo."}
 {"id":1511086,"jp":"持ってるカードから最初のキボを選んで出撃させてみろ！","fr":"Choisissons le premier Kibo à envoyer parmi les cartes en main !"}
 {"id":1511087,"jp":"<color={highlight}>先発キボを選択</color>を押してください","fr":"Appuyez sur <color={highlight}>Choisir le Kibo de départ</color>"}
+{"id":1511088,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>先発キボを選択</color>","fr":"<color={highlight}>Sélectionner le Kibo de départ</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511089,"jp":"ファイトの勝敗は、<color={highlight}>ファイトポイント</color>で決まるんだ。","fr":"L'issue du duel se décide aux <color={highlight}>points de duel</color>."}
 {"id":1511090,"jp":"キボが<color={highlight}>戦闘不能になる</color>と、ファイトポイントが引かれていく……","fr":"Quand un Kibo est <color={highlight}>mis hors de combat</color>, des points de duel sont retirés…"}
+{"id":1511091,"jp":"<color={highlight}>片方の陣営のキボだけがフィールドにいる場合</color>、時間の経過とともにすこしずつファイトポイントが減少していくぞ。","fr":"<color={highlight}>Lorsque seuls les Kibo d'un camp sont présents sur le terrain</color>, les points de duel diminuent progressivement au fil du temps."}
+{"id":1511092,"jp":"<color={highlight}>ファイトポイントが0になった</color>陣営は、<color={highlight}>ファイト失敗</color>になるからな！","fr":"Le camp dont les <color={highlight}>points de duel atteignent 0</color> <color={highlight}>perd le duel</color> !"}
 {"id":1511093,"jp":"それから、キボファイトには時間制限もあるんだ。","fr":"Il y a aussi une limite de temps dans le Duel de Kibo."}
+{"id":1511094,"jp":"カウントダウン終了時、<color={highlight}>ファイトポイントが多いほう</color>が<color={highlight}>勝ち</color>！","fr":"À la fin du compte à rebours, le camp qui possède <color={highlight}>le plus de points de duel</color> <color={highlight}>remporte la victoire</color> !"}
 {"id":1511095,"jp":"こっちが出すのは<color={highlight}>氷属性のウル</color>だ。ウルはすっごく強いからな！","fr":"De notre côté, c'est <color={highlight}>Uru, de l'élément Glace</color>. Uru est vraiment très fort !"}
 {"id":1511096,"jp":"だけど、弱点もある。","fr":"Mais il a aussi un point faible."}
 {"id":1511097,"jp":"有利に進めたいなら、<color={highlight}>風属性のハーチャ</color>を出撃させてみろ！","fr":"Pour prendre l'avantage, envoyons <color={highlight}>Harcha, de l'élément Vent</color> !"}
 {"id":1511098,"jp":"<color=#91fff9>キボをドラッグ</color>して配置エリアに置いて","fr":"<color=#91fff9>Faites glisser un Kibo</color> vers la zone de placement"}
+{"id":1511099,"jp":"<actionkey>LS</actionkey> で<color={highlight}>キボカード</color>を召喚可能エリアに移動させ、<actionkey>UI/Submit</actionkey> でキボを召喚してください","fr":"Déplacez la <color={highlight}>carte Kibo</color> vers la zone d'invocation avec <actionkey>LS</actionkey>, puis invoquez le Kibo avec <actionkey>UI/Submit</actionkey>."}
+{"id":1511100,"jp":"<actionkey>GamepadUI/GamepadUI_DpadRight</actionkey> で<color={highlight}>キボカード</color>を選択してください","fr":"Sélectionnez une <color={highlight}>carte Kibo</color> avec <actionkey>GamepadUI/GamepadUI_DpadRight</actionkey>."}
+{"id":1511101,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>キボカード</color>の召喚を確定させてください","fr":"Confirmez l'invocation de la <color={highlight}>carte Kibo</color> avec <actionkey>UI/Submit</actionkey>."}
 {"id":1511102,"jp":"<color={highlight}>視点切り替え</color>を押すんだ","fr":"Appuyez sur <color={highlight}>Changer de vue</color>"}
+{"id":1511103,"jp":"<actionkey>GamepadUI/GamepadUI_R3</actionkey> で<color={highlight}>視点変更</color>できます","fr":"Vous pouvez <color={highlight}>changer de point de vue</color> avec <actionkey>GamepadUI/GamepadUI_R3</actionkey>."}
 {"id":1511104,"jp":"どーだ？カンタンだろ？","fr":"Alors ? Facile, non ?"}
 {"id":1511105,"jp":"ほら、<color={highlight}>つぎキボ</color>も配置してみろ！","fr":"Allez, plaçons aussi <color={highlight}>le Kibo suivant</color> !"}
 {"id":1511106,"jp":"同時にフィールドに出せるキボの数には数の限りがある。","fr":"Le nombre de Kibo qu'on peut aligner en même temps sur le terrain est limité."}
@@ -14831,8 +14917,12 @@
 {"id":1511110,"jp":"<color={highlight}>キボ入れ替え</color>を押してください","fr":"Appuyez sur <color={highlight}>Échanger un Kibo</color>"}
 {"id":1511111,"jp":"もうバッチリみたいだな。","fr":"On dirait que tout est bien compris."}
 {"id":1511112,"jp":"こっからさきは自由にやってみろ！","fr":"Pour la suite, place à l'improvisation !"}
+{"id":1511113,"jp":"キボはそれぞれ異なる<color={highlight}>ファイトタグ</color>を持ってて、得意とする能力も違うんだ。","fr":"Chaque Kibo possède différentes <color={highlight}>catégories de duel</color> et excelle dans des domaines particuliers."}
 {"id":1511114,"jp":"キボファイトの時は、できるだけキボの長所を活かすようにするといいぞ。","fr":"En Duel de Kibo, mieux vaut exploiter autant que possible les points forts de chaque Kibo."}
+{"id":1511115,"jp":"まずは<color={highlight}>生存タグ</color>を持つ<color={highlight}>マグマロス</color>を最前線に配置して、ダメージを吸収させよう。","fr":"Commençons par placer <color={highlight}>Magmaros</color>, qui possède la <color={highlight}>catégorie Survie</color>, en première ligne pour absorber les DGT."}
 {"id":1511116,"jp":"防御するキボを配置したら、つぎは<color={highlight}>火力</color>を担当するキボを配置するんだ。","fr":"Une fois le Kibo de défense en place, on place celui qui s'occupe de la <color={highlight}>puissance de feu</color>."}
+{"id":1511117,"jp":"<color={highlight}>防御</color>のキボを配置したら、次は<color={highlight}>火力</color>を担当するキボを配置しましょう。","fr":"Une fois les Kibo de <color={highlight}>défense</color> placés, déployons ceux chargés d'infliger des <color={highlight}>DGT</color>."}
+{"id":1511118,"jp":"じゃあ、<color={highlight}>遠距離タグ</color>を持つ<color={highlight}>クローネック</color>を配置してみよう。","fr":"Essayons maintenant de placer <color={highlight}>Kronek</color>, qui possède la <color={highlight}>catégorie Attaque à distance</color>."}
 {"id":1511119,"jp":"防御型と火力型のキボが揃えば、自然と<color={highlight}>回復</color>担当のキボも必要になる！","fr":"Avec des Kibo de défense et d'attaque, il faut naturellement aussi un Kibo chargé des <color={highlight}>soins</color> !"}
 {"id":1511120,"jp":"<color={highlight}>回復タグ</color>を持つクロディーメを配置しよう！","fr":"Plaçons Clodime, qui possède le <color={highlight}>badge de soins</color> !"}
 {"id":1511121,"jp":"これで、防御、攻撃、回復の鉄板トリオの完成だ！","fr":"Et voilà le trio incontournable : défense, attaque et soins !"}
@@ -14846,27 +14936,63 @@
 {"id":1511129,"jp":"敵のラフィーロックは味方のクローネックに対して<color={highlight}>有利</color>","fr":"Le Fyrock ennemi est <color={highlight}>avantageux</color> contre notre Kronek"}
 {"id":1511130,"jp":"<color={highlight}>入れ替え</color>を使って、クローネックをメテオールに入れ替えよう","fr":"Utilisons <color={highlight}>Échanger</color> pour remplacer Kronek par Staray"}
 {"id":1511131,"jp":"水属性のメテオールは火属性のフィーロックに対して有利だから、より大きなダメージを与えることができる。","fr":"Staray, de l'élément Eau, est avantagé contre Fyrock, de l'élément Feu : il peut donc infliger davantage de DGT."}
+{"id":1511132,"jp":"<actionkey>GamepadUI/GamepadUI_DpadRight</actionkey>で<color={highlight}>二枚目のキボカード</color>を選んでください","fr":"Sélectionnez la <color={highlight}>deuxième carte Kibo</color> avec <actionkey>GamepadUI/GamepadUI_DpadRight</actionkey>."}
 {"id":1511133,"jp":"一部のキボは待機中に<color={highlight}>エネルギーを回復</color>できるんだ！","fr":"Certains Kibo peuvent <color={highlight}>récupérer de l'Énergie</color> pendant qu'ils attendent !"}
 {"id":1511134,"jp":"エネルギーが最大のキボを呼び出すと、<color={highlight}>登場スキル</color>が発動するぞ！","fr":"Appeler un Kibo dont l'Énergie est au maximum déclenche sa <color={highlight}>compétence d'entrée</color> !"}
 {"id":1511135,"jp":"エネルギーが最大のキボを連続でフィールドに出すことで、すっごい力を発揮できるんだ。","fr":"En enchaînant sur le terrain des Kibo à Énergie maximale, on peut déployer une force incroyable."}
+{"id":1511136,"jp":"まずは<color={highlight}>生存タグ</color>を持つ<color={highlight}>シーロック</color>を最前線に配置して、ダメージを吸収させよう。","fr":"Commençons par placer <color={highlight}>Searock</color>, qui possède la <color={highlight}>catégorie Survie</color>, en première ligne pour absorber les DGT."}
+{"id":1511137,"jp":"<color={highlight}>火属性の天候</color>は相手の<color={highlight}>火属性のキボ</color>に強力なバフ効果を与えるんだ。","fr":"La <color={highlight}>météo de Feu</color> confère un puissant effet de Renforcement aux <color={highlight}>Kibo de Feu</color> adverses."}
+{"id":1511138,"jp":"<color={highlight}>タイダレスト</color>を出撃させて、<color={highlight}>天候を水属性に変える</color>ことで、水属性のキボにバフを付与できる！","fr":"Déployons <color={highlight}>Tidalest</color> pour <color={highlight}>changer la météo en Eau</color> et conférer un effet de Renforcement aux Kibo d'Eau !"}
+{"id":1511139,"jp":"つぎは<color={highlight}>水属性のキボ、マスティーバ</color>を出撃させて、天候の追加バフ効果を獲得しよう。","fr":"Déployons ensuite <color={highlight}>Mustiva, un Kibo d'Eau</color>, pour bénéficier de l'effet de Renforcement supplémentaire de la météo."}
+{"id":1511140,"jp":"刻印は一部のスキルで<color={highlight}>消費</color>され、対応するスキルを強化することもできるのだ。","fr":"Les Sceaux peuvent également être <color={highlight}>consommés</color> par certaines compétences pour renforcer celles-ci."}
+{"id":1511141,"jp":"まずはミィティに<color={highlight}>星響スキル</color>か<color={highlight}>星極スキル</color>を発動させて、敵に<color={highlight}>刻印</color>を付与しよう。","fr":"Commençons par activer la <color={highlight}>Compétence Écho stellaire</color> ou la <color={highlight}>Compétence Zénith stellaire</color> de Mitty pour appliquer des <color={highlight}>Sceaux</color> à l'ennemi."}
+{"id":1511143,"jp":"つぎはポンポンに<color={highlight}>星響スキル</color>か<color={highlight}>星極スキル</color>を発動させてみるのだ！","fr":"Essayons ensuite d'activer la <color={highlight}>Compétence Écho stellaire</color> ou la <color={highlight}>Compétence Zénith stellaire</color> de Pengpeng !"}
+{"id":1511144,"jp":"<actionkey>MainInput/MainMovement</actionkey> キーで、<color={highlight}>移動</color>ができます。","fr":"Utilisez les touches <actionkey>MainInput/MainMovement</actionkey> pour vous <color={highlight}>déplacer</color>."}
+{"id":1511145,"jp":"<color={highlight}>バーチャルスティック</color>で<color={highlight}>移動</color>できます。","fr":"Utilisez le <color={highlight}>joystick virtuel</color> pour vous <color={highlight}>déplacer</color>."}
+{"id":1511146,"jp":"<actionkey>MainInput/MainAttack</actionkey> で<color={highlight}>攻撃</color>できます。","fr":"Vous pouvez <color={highlight}>attaquer</color> avec <actionkey>MainInput/MainAttack</actionkey>."}
 {"id":1511147,"jp":"攻撃ボタンで<color={highlight}>攻撃</color>を発動できます","fr":"Le bouton d'attaque permet de lancer une <color={highlight}>attaque</color>"}
+{"id":1511148,"jp":"<actionkeyhold>MainInput/MainAttack</actionkeyhold>を長押しすると<color={highlight}>チャージ攻撃</color>を発動できます。","fr":"Maintenez <actionkeyhold>MainInput/MainAttack</actionkeyhold> pour effectuer une <color={highlight}>Attaque chargée</color>."}
 {"id":1511149,"jp":"攻撃ボタンを長押しすると<color={highlight}>チャージ攻撃</color>を発動できます","fr":"Maintenir le bouton d'attaque enfoncé permet de lancer une <color={highlight}>Attaque chargée</color>"}
+{"id":1511150,"jp":"<actionkey>MainInput/MainSkill</actionkey> キーで<color={highlight}>星響スキル</color>を発動できます。","fr":"Activez votre <color={highlight}>Compétence Écho stellaire</color> avec la touche <actionkey>MainInput/MainSkill</actionkey>."}
 {"id":1511151,"jp":"押すと<color={highlight}>星響スキル</color>を発動できます","fr":"Appuyez pour lancer une <color={highlight}>Compétence Écho stellaire</color>"}
+{"id":1511152,"jp":"<actionkey>MainInput/MainSkill</actionkey> で<color={highlight}>星響スキル</color>を発動します。","fr":"Activez votre <color={highlight}>Compétence Écho stellaire</color> avec <actionkey>MainInput/MainSkill</actionkey>."}
+{"id":1511153,"jp":"<actionkey>MainInput/MainOpenGacha</actionkey> を押して<color={highlight}>観測</color>します。","fr":"Appuyez sur <actionkey>MainInput/MainOpenGacha</actionkey> pour effectuer une <color={highlight}>Observation</color>."}
 {"id":1511154,"jp":"<color={highlight}>観測</color>を押してください","fr":"Appuyez sur <color={highlight}>Observation</color>"}
+{"id":1511155,"jp":"<actionkey>GamepadUI/PageControllerQuickRoulette_ButtonNorth</actionkey> で<color={highlight}>観測</color>を開けます","fr":"Ouvrir l'<color={highlight}>Observation</color> avec <actionkey>GamepadUI/PageControllerQuickRoulette_ButtonNorth</actionkey>"}
 {"id":1511156,"jp":"<color={highlight}>1回観測</color>を押してください","fr":"Appuyez sur <color={highlight}>Observation ×1</color>"}
+{"id":1511157,"jp":"<actionkey>GamepadUI/GamepadUI_West</actionkey> で<color={highlight}>1回観測</color>します","fr":"Effectuer <color={highlight}>1 Observation</color> avec <actionkey>GamepadUI/GamepadUI_West</actionkey>"}
+{"id":1511158,"jp":"<actionkey>MainInput/MainSwitchHero2</actionkey> を押して操作するキャラクターを切り替えます。","fr":"Appuyez sur <actionkey>MainInput/MainSwitchHero2</actionkey> pour changer de personnage actif."}
 {"id":1511159,"jp":"押して操作するキャラクターを切り替えます。","fr":"Appuyez pour changer de personnage contrôlé."}
+{"id":1511160,"jp":"<actionkey>MainInput/MainSwitchHero2</actionkey> 操作するキャラクターを切り替える","fr":"<actionkey>MainInput/MainSwitchHero2</actionkey> Changer de personnage actif"}
 {"id":1511161,"jp":"押して<color={highlight}>操作するキャラクター</color>を切り替えます","fr":"Appuyez pour changer de <color={highlight}>personnage contrôlé</color>"}
+{"id":1511162,"jp":"<actionkey>MainInput/MainSwitchHero2</actionkey> <color={highlight}>操作キャラクター</color>を切り替える","fr":"<actionkey>MainInput/MainSwitchHero2</actionkey> Changer de <color={highlight}>personnage actif</color>"}
 {"id":1511163,"jp":"戦闘でチャージを行い、<color={highlight}>星極スキル</color>を発動できます。","fr":"Chargez en combat pour pouvoir lancer la <color={highlight}>Compétence Zénith stellaire</color>."}
 {"id":1511164,"jp":"押して<color={highlight}>星極スキル</color>を発動","fr":"Appuyer pour lancer la <color={highlight}>Compétence Zénith stellaire</color>"}
+{"id":1511165,"jp":"<actionkey>MainInput/MainUltimateSkill</actionkey> で<color={highlight}>星極スキル</color>を発動します。","fr":"Activez votre <color={highlight}>Compétence Zénith stellaire</color> avec <actionkey>MainInput/MainUltimateSkill</actionkey>."}
+{"id":1511166,"jp":"<actionkey>MainInput/MainSwitchHero1</actionkey> を押して操作するキャラクターを切り替えます。","fr":"Appuyez sur <actionkey>MainInput/MainSwitchHero1</actionkey> pour changer de personnage actif."}
+{"id":1511167,"jp":"<actionkey>MainInput/MainPetSkill</actionkey> で、<color={highlight}>キボスキル</color>を発動できます。","fr":"Vous pouvez activer une <color={highlight}>compétence de Kibo</color> avec <actionkey>MainInput/MainPetSkill</actionkey>."}
 {"id":1511168,"jp":"押して<color={highlight}>キボスキル</color>を発動","fr":"Appuyer pour lancer une <color={highlight}>compétence de Kibo</color>"}
+{"id":1511169,"jp":"<actionkey>MainInput/MainPetSkill</actionkey> で<color={highlight}>キボスキル</color>を発動します。","fr":"Activez une <color={highlight}>compétence de Kibo</color> avec <actionkey>MainInput/MainPetSkill</actionkey>."}
 {"id":1511170,"jp":"一部のキボスキルで、<color={highlight}>刻印</color>を増やすことができます。","fr":"Certaines compétences de Kibo permettent d'augmenter les <color={highlight}>Sceaux</color>."}
+{"id":1511171,"jp":"<actionkey>MainInput/MainLockTarget</actionkey> で敵を<color={highlight}>ロックオン</color>できます。","fr":"Vous pouvez <color={highlight}>verrouiller</color> un ennemi avec <actionkey>MainInput/MainLockTarget</actionkey>."}
 {"id":1511172,"jp":"ロックオンを押すと、敵を<color={highlight}>ロックオン</color>できます","fr":"Appuyer sur Verrouillage permet de <color={highlight}>verrouiller</color> un ennemi"}
+{"id":1511173,"jp":"<actionkey>MainInput/MainLockTarget</actionkey> を押して、敵を<color={highlight}>ロックオン</color>できます。","fr":"Appuyez sur <actionkey>MainInput/MainLockTarget</actionkey> pour <color={highlight}>verrouiller</color> un ennemi."}
 {"id":1511174,"jp":"<color={highlight}>完了</color>したクエストをタップして、報酬を受け取ります","fr":"Touchez une quête <color={highlight}>terminée</color> pour recevoir sa récompense"}
+{"id":1511175,"jp":"目録内の<color={highlight}>関連クエストをすべて</color>完了すると、さらに豪華な報酬を受け取れます！","fr":"Terminez <color={highlight}>toutes les quêtes associées</color> du registre pour obtenir des récompenses encore plus généreuses !"}
+{"id":1511176,"jp":"旅路のクエストからは大量の<color={highlight}>星啓経験値</color>を獲得できます。星臨者さんはこまめにチェックしてくださいね。","fr":"Les quêtes de voyage rapportent une grande quantité d'<color={highlight}>EXP d'éveil stellaire</color>. Enfant des étoiles, pensez à les consulter régulièrement !"}
 {"id":1511177,"jp":"押すと<color={highlight}>レベルアップ状態</color>に入ります","fr":"Appuyer permet de passer en <color={highlight}>mode de montée de niveau</color>"}
 {"id":1511178,"jp":"<actionkey>UI/Submit</actionkey> でレベルアップ状態に入る","fr":"<actionkey>UI/Submit</actionkey> pour passer en mode de montée de niveau"}
 {"id":1511179,"jp":"押すとレベルアップアイテムを<color={highlight}>素早く選択</color>できます","fr":"Appuyer permet de <color={highlight}>sélectionner rapidement</color> les objets de montée de niveau"}
+{"id":1511180,"jp":"<actionkey>GamepadUI/GamepadUI_Option</actionkey> でアイテムを素早く選択","fr":"Sélectionner rapidement des objets avec <actionkey>GamepadUI/GamepadUI_Option</actionkey>"}
 {"id":1511181,"jp":"ここを押すと、<color={highlight}>レベルアップ</color>！さっそく試してみるのだ！","fr":"Appuyez ici pour <color={highlight}>monter de niveau</color> ! Essayons tout de suite !"}
+{"id":1511182,"jp":"ここで案内に従って操作すると、<color={highlight}>レベルアップ</color>できますよ。さっそく試してみよう！","fr":"Suivez les instructions pour <color={highlight}>monter de niveau</color>. Essayez dès maintenant !"}
+{"id":1511183,"jp":"<actionkey>MainInput/MainKiboCatchShoot</actionkey> を押してキボと星絆を結ぶ","fr":"Appuyer sur <actionkey>MainInput/MainKiboCatchShoot</actionkey> pour former un Lien stellaire avec un Kibo"}
+{"id":1511184,"jp":"<color=#3266b4>長押ししてドラッグ</color>し、キボを狙ってから<color=#3266b4>離す</color>と、キボと<color=#3266b4>スターリンク</color>できます。","fr":"<color=#3266b4>Maintenez et faites glisser</color> pour viser un Kibo, puis <color=#3266b4>relâchez</color> pour former un <color=#3266b4>Lien stellaire</color> avec lui."}
+{"id":1511185,"jp":"<actionkey>MainInput/MainKiboCatchShoot</actionkey> でキボとスターリンクする","fr":"Former un Lien stellaire avec un Kibo à l'aide de <actionkey>MainInput/MainKiboCatchShoot</actionkey>"}
+{"id":1511186,"jp":"タイミングを見計らい、<actionkey>MainInput/MainCountermeasures</actionkey> を押し、パリィで<color={highlight}>カウンター</color>を仕掛けることができます。","fr":"Appuyez sur <actionkey>MainInput/MainCountermeasures</actionkey> au bon moment pour effectuer une Parade suivie d'une <color={highlight}>contre-attaque</color>."}
 {"id":1511187,"jp":"タイミングを見計らって、パリィで<color={highlight}>カウンター</color>を仕掛けるのだ！","fr":"Il faut bien choisir son moment et déclencher un <color={highlight}>contre</color> avec la Parade !"}
+{"id":1511188,"jp":"移動中に<actionkeyhold>MainInput/MainEvade</actionkeyhold>を長押しすると、<color={highlight}>ダッシュ</color>状態を維持できます。","fr":"Maintenez <actionkeyhold>MainInput/MainEvade</actionkeyhold> pendant vos déplacements pour rester en <color={highlight}>sprint</color>."}
+{"id":1511189,"jp":"移動中に<color={highlight}>ダッシュ</color>ボタンを長押しすると、<color={highlight}>ダッシュ</color>状態を維持できます。","fr":"Maintenez le bouton de <color={highlight}>sprint</color> pendant vos déplacements pour rester en <color={highlight}>sprint</color>."}
 {"id":1511190,"jp":"ファイトのまえに、編成のしかたを確認しておくぞ！","fr":"Avant le combat, voyons comment composer une équipe !"}
 {"id":1511191,"jp":"いいか！キボファイトをはじめるには、キボが全部で8匹必要なんだ。","fr":"Bon ! Pour lancer un Duel de Kibo, il faut 8 Kibo en tout."}
 {"id":1511192,"jp":"まあ、今回はアタシが特別に貸してやるから、心配いらないぞ！","fr":"Pas d'inquiétude : cette fois, c'est moi qui vous les prête, à titre exceptionnel !"}
@@ -14877,33 +15003,53 @@
 {"id":1511197,"jp":"そんじゃ！ファイト開始だ！","fr":"Allez ! Que le combat commence !"}
 {"id":1511198,"jp":"キボの近くで<actionkey>MainInput/MainPetCatch</actionkey> を押すと、星絆状態に入ります。","fr":"Appuyez sur <actionkey>MainInput/MainPetCatch</actionkey> près d'un Kibo pour passer en mode Lien stellaire."}
 {"id":1511199,"jp":"キボの近くで<color={highlight}>星絆ボタン</color>を押すと、星絆状態に入ります。","fr":"Près d'un Kibo, appuyez sur le <color={highlight}>bouton Lien stellaire</color> pour passer en mode Lien stellaire."}
+{"id":1511200,"jp":"こっちこっち！<actionkey>GamepadUI/GamepadUI_R1</actionkey> で星祝に切り替えるのだ！","fr":"Par ici, par ici ! Passez à la Bénédiction stellaire avec <actionkey>GamepadUI/GamepadUI_R1</actionkey> !"}
 {"id":1511201,"jp":"ここで、キャラクターに必要な星祝を確認できるのだ。","fr":"Ici, on peut consulter les Bénédictions stellaires nécessaires à chaque personnage."}
 {"id":1511202,"jp":"星祝には、それぞれ異なる力が秘められている。","fr":"Chaque Bénédiction stellaire renferme un pouvoir différent."}
+{"id":1511203,"jp":"<actionkey>MainInput/MainJump</actionkey> で<color={highlight}>ジャンプ</color>できます。","fr":"Vous pouvez <color={highlight}>sauter</color> avec <actionkey>MainInput/MainJump</actionkey>."}
 {"id":1511204,"jp":"押して<color={highlight}>ジャンプ</color>してください","fr":"Appuyez pour <color={highlight}>sauter</color>"}
+{"id":1511205,"jp":"<actionkey>MainInput/MainJump</actionkey> で<color={highlight}>ジャンプ</color>する","fr":"<color={highlight}>Sauter</color> avec <actionkey>MainInput/MainJump</actionkey>"}
 {"id":1511206,"jp":"一部のスキルは<color={highlight}>刻印</color>を消費することで、ダメージを大幅に上昇させます。","fr":"Certaines compétences consomment des <color={highlight}>Sceaux</color> pour augmenter fortement les DGT."}
+{"id":1511207,"jp":"<actionkeyhold>MainInput/MainMountRoulette</actionkeyhold>を長押ししてマウントホイールを開くことができます。","fr":"Maintenez <actionkeyhold>MainInput/MainMountRoulette</actionkeyhold> pour ouvrir la roue des montures."}
 {"id":1511208,"jp":"長押しで<color={highlight}>マウントホイールを開きます。</color>","fr":"Un appui prolongé <color={highlight}>ouvre la roue des montures.</color>"}
+{"id":1511209,"jp":"<actionkey>GamepadUI/PageControllerRouletteSwitcher_Switch</actionkey> で<color={highlight}>マウントホイール</color>に切り替えてください","fr":"Passez à la <color={highlight}>roue des montures</color> avec <actionkey>GamepadUI/PageControllerRouletteSwitcher_Switch</actionkey>"}
 {"id":1511210,"jp":"押して<color={highlight}>マウントホイール</color>を編集する","fr":"Appuyer pour modifier la <color={highlight}>roue des montures</color>"}
+{"id":1511211,"jp":"<actionkey>GamepadUI/PageControllerRouletteSwitcher_Edit</actionkey> で<color={highlight}>マウントホイール</color>を編集","fr":"Modifier la <color={highlight}>roue des montures</color> avec <actionkey>GamepadUI/PageControllerRouletteSwitcher_Edit</actionkey>"}
 {"id":1511212,"jp":"押してキボをマウントホイールに追加する","fr":"Appuyez pour ajouter un Kibo à la roue des montures"}
 {"id":1511213,"jp":"<actionkey>UI/Submit</actionkey>押してキボをホイールに追加する","fr":"<actionkey>UI/Submit</actionkey> pour ajouter le Kibo à la roue"}
 {"id":1511214,"jp":"キボをタップして騎乗","fr":"Toucher un Kibo pour le chevaucher"}
 {"id":1511215,"jp":"<actionkey>GamepadUI/Common_RStickMove</actionkey>キボを騎乗","fr":"<actionkey>GamepadUI/Common_RStickMove</actionkey> pour chevaucher un Kibo"}
 {"id":1511216,"jp":"「<color={highlight}>キボを確認</color>」をタップ","fr":"Touchez « <color={highlight}>Consulter le Kibo</color> »"}
+{"id":1511217,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>キボを確認</color>","fr":"<color={highlight}>Consulter le Kibo</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511218,"jp":"<color={highlight}>因子変異</color>ボタンをタップ","fr":"Touchez le bouton <color={highlight}>Mutation de facteurs</color>"}
+{"id":1511219,"jp":"<actionkey>GamepadUI/GamepadUI_Option</actionkey> で<color={highlight}>因子変異</color>を選択","fr":"Sélectionner <color={highlight}>Mutation de facteur</color> avec <actionkey>GamepadUI/GamepadUI_Option</actionkey>"}
 {"id":1511221,"jp":"キボが所持できる<color={highlight}>因子の数には上限があります</color>","fr":"Le nombre de <color={highlight}>facteurs qu'un Kibo peut posséder est limité</color>"}
+{"id":1511222,"jp":"因子が上限に達していない時に変異が発生すると、そのまま<color={highlight}>因子が1つ追加されます</color>","fr":"Si une mutation survient alors que le nombre maximal de facteurs n'est pas atteint, <color={highlight}>1 facteur est ajouté</color>"}
+{"id":1511223,"jp":"因子が上限の時に因子変異が発生すると、<color={highlight}>ランダムで1つの因子が変化します</color>","fr":"Si une mutation survient alors que le nombre maximal de facteurs est atteint, <color={highlight}>1 facteur est modifié aléatoirement</color>"}
+{"id":1511224,"jp":"変異を確定するか変異前の因子を保留するかを選択できます。ただし、選択を完了するまで、このキボに<color={highlight}>因子変異は発生しなくなります</color>","fr":"Vous pouvez confirmer la mutation ou conserver le facteur d'origine. Cependant, tant que votre choix n'est pas confirmé, <color={highlight}>aucune mutation de facteur ne pourra survenir</color> chez ce Kibo"}
 {"id":1511225,"jp":"<color={highlight}>マップレベル</color>ボタンを押してください。","fr":"Appuyez sur le bouton <color={highlight}>Niveau de la carte</color>."}
+{"id":1511226,"jp":"<actionkey>GamepadUI/BigMapInput_MapLevel</actionkey> で<color={highlight}>マップレベル</color>を開く","fr":"Ouvrir le <color={highlight}>Niveau de la carte</color> avec <actionkey>GamepadUI/BigMapInput_MapLevel</actionkey>"}
 {"id":1511227,"jp":"<color={highlight}>難易度選択</color>を押してください","fr":"Appuyez sur <color={highlight}>Choix de la difficulté</color>"}
+{"id":1511228,"jp":"<actionkey>GamepadUI/Common_NextTab</actionkey> で<color={highlight}>難易度を選択</color>","fr":"<color={highlight}>Sélectionner une difficulté</color> avec <actionkey>GamepadUI/Common_NextTab</actionkey>"}
 {"id":1511229,"jp":"<color={highlight}>この難易度を有効にする</color>を押してください","fr":"Appuyez sur <color={highlight}>Activer cette difficulté</color>"}
+{"id":1511230,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>この難易度を有効にする</color>","fr":"<color={highlight}>Activer cette difficulté</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511231,"jp":"星臨者が農園を建設すると、農園経験値を獲得できるのだ。","fr":"En construisant la ferme, l'Enfant des étoiles obtient de l'EXP de la ferme !"}
 {"id":1511232,"jp":"経験値を十分に獲得すると、農園レベルが上がる。","fr":"Avec suffisamment d'EXP, le niveau de la ferme augmente."}
 {"id":1511233,"jp":"農園レベルが上がると、農園建設に役立つボーナスが手に入る。","fr":"Quand le niveau de la ferme augmente, on obtient des bonus utiles pour la construction."}
 {"id":1511234,"jp":"それに、農園の建設素材も報酬として獲得できちゃうのだ！","fr":"Et on reçoit aussi en récompense des matériaux de construction pour la ferme !"}
 {"id":1511235,"jp":"<color={highlight}>餌やり</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Nourrissage</color>"}
+{"id":1511236,"jp":"<actionkey>GamepadUI/GamepadUI_West</actionkey> で<color={highlight}>餌やり</color>","fr":"<color={highlight}>Nourrir</color> avec <actionkey>GamepadUI/GamepadUI_West</actionkey>"}
 {"id":1511237,"jp":"<color={highlight}>全選択</color>タブを押してください","fr":"Appuyez sur l'onglet <color={highlight}>Tout sélectionner</color>"}
+{"id":1511238,"jp":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> で<color={highlight}>源脈</color>タブに切り替え","fr":"Passer à l'onglet <color={highlight}>Veine source</color> avec <actionkey>GamepadUI/GamepadUI_R1</actionkey>"}
 {"id":1511239,"jp":"<color={highlight}>デイリー依頼</color>を押してください","fr":"Appuyez sur <color={highlight}>Missions quotidiennes</color>"}
+{"id":1511240,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>デイリー依頼</color>を開く","fr":"Ouvrir les <color={highlight}>Missions quotidiennes</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511241,"jp":"<color={highlight}>装備品の獲得</color>タブを押してください","fr":"Appuyez sur l'onglet <color={highlight}>Obtention d'équipement</color>"}
+{"id":1511242,"jp":"<actionkey>GamepadUI/GamepadUI_L1</actionkey> で<color={highlight}>装備品の獲得</color>に切り替えられます。","fr":"Vous pouvez passer à <color={highlight}>Obtention d'équipements</color> avec <actionkey>GamepadUI/GamepadUI_L1</actionkey>."}
 {"id":1511243,"jp":"<color={highlight}>装備品の獲得</color>依頼を達成すると、キャラクター装備を獲得できます","fr":"Terminer les missions d'<color={highlight}>obtention d'équipement</color> permet d'obtenir de l'équipement de personnage"}
 {"id":1511244,"jp":"どんどんやってみるのだ！","fr":"Allez, continuons à essayer !"}
+{"id":1511245,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>餌やり</color>","fr":"<color={highlight}>Nourrir</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511246,"jp":"<color={highlight}>全選択</color>をタップ","fr":"Touchez <color={highlight}>Tout sélectionner</color>"}
+{"id":1511247,"jp":"ここをタップすると、キボに<color={highlight}>餌やり</color>ができます。さっそく試してみましょう～","fr":"Touchez ici pour <color={highlight}>nourrir</color> votre Kibo. Essayez dès maintenant !"}
 {"id":1511248,"jp":"冒険中に仲間になったキボたちは、みんなキボ小屋に集まってるのだ！","fr":"Les Kibo devenus compagnons en cours d'aventure se rassemblent tous dans l'Enclos à Kibo !"}
 {"id":1511249,"jp":"1つの小屋には30匹まで住めるぞ。","fr":"Chaque enclos peut accueillir jusqu'à 30 Kibo."}
 {"id":1511250,"jp":"キミはいま、20個のキボ小屋を持ってるのだ！","fr":"Il y a actuellement 20 Enclos à Kibo à disposition !"}
@@ -14923,9 +15069,12 @@
 {"id":1511264,"jp":"キボはそれぞれ固有の先天因子を持ってるぞ。","fr":"Chaque Kibo possède ses propres facteurs innés."}
 {"id":1511265,"jp":"いろんなキボと星絆を結んで、自分にぴったりのパートナーを見つけよう！","fr":"Nouons un Lien stellaire avec toutes sortes de Kibo pour trouver le partenaire idéal !"}
 {"id":1511266,"jp":"<color={highlight}>キボ</color>を選択","fr":"Choisir le <color={highlight}>Kibo</color>"}
+{"id":1511267,"jp":"キボはそれぞれ資質に違いがあるのだ。<color={highlight}>資質が高い</color>キボは特別なマークを持ってるぞ！","fr":"Chaque Kibo possède des aptitudes différentes. Les Kibo aux <color={highlight}>aptitudes supérieures</color> portent un symbole spécial !"}
+{"id":1511268,"jp":"ジャンプ中にもう一度<actionkey>MainInput/MainJump</actionkey> を押すと、<color={highlight}>2段ジャンプ</color>できます。","fr":"Appuyez de nouveau sur <actionkey>MainInput/MainJump</actionkey> pendant un saut pour effectuer un <color={highlight}>double saut</color>."}
 {"id":1511269,"jp":"ジャンプ中にもう一度ジャンプボタンを押すと<color={highlight}>二段ジャンプ</color>できます。","fr":"Appuyez de nouveau sur le bouton de saut en plein saut pour effectuer un <color={highlight}>double saut</color>."}
 {"id":1511270,"jp":"<color={highlight}>特殊なステラカード</color>のレシピをタップ","fr":"Touchez la recette de la <color={highlight}>carte Stella spéciale</color>"}
 {"id":1511271,"jp":"<color={highlight}>MAX</color>ボタンをタップ","fr":"Touchez le bouton <color={highlight}>MAX</color>"}
+{"id":1511272,"jp":"<actionkey>GamepadUI/GamepadUI_R2</actionkey> で数量を<color={highlight}>MAX</color>に調整","fr":"Régler la quantité sur <color={highlight}>MAX</color> avec <actionkey>GamepadUI/GamepadUI_R2</actionkey>"}
 {"id":1511273,"jp":"<color={highlight}>生産開始</color>ボタンをタップ","fr":"Touchez le bouton <color={highlight}>Lancer la production</color>"}
 {"id":1511274,"jp":"ステータスはここで確認。みんな唯一無二の能力を持ってるのだ。","fr":"Les statistiques se consultent ici. Chacun possède des capacités uniques."}
 {"id":1511275,"jp":"キボの遺伝子はここ！キボの能力の高さは、遺伝子で決まると言っても過言じゃない！","fr":"Les gènes du Kibo, c'est ici ! On peut presque dire que ses gènes déterminent le niveau de ses capacités !"}
@@ -14933,68 +15082,119 @@
 {"id":1511277,"jp":"空白部分を押して、さきに進むのだ！","fr":"Appuyer sur une zone vide permet de continuer !"}
 {"id":1511278,"jp":"先へ進みましょう。","fr":"Continuons."}
 {"id":1511279,"jp":"<color={highlight}>マウントおやつ袋</color>ボタンを押してください。","fr":"Appuyez sur le bouton <color={highlight}>Sac de friandises pour monture</color>."}
+{"id":1511280,"jp":"<actionkey>GamepadUI/GamepadUI_North</actionkey> を押して<color={highlight}>マウントおやつ袋</color>を開く","fr":"Appuyer sur <actionkey>GamepadUI/GamepadUI_North</actionkey> pour ouvrir la <color={highlight}>sacoche de friandises pour montures</color>"}
 {"id":1511281,"jp":"<color={highlight}>一括追加</color>ボタンを押す","fr":"Appuyer sur le bouton <color={highlight}>Tout ajouter</color>"}
+{"id":1511282,"jp":"<actionkey>GamepadUI/GamepadUI_West</actionkey> で<color={highlight}>一括追加</color>","fr":"<color={highlight}>Tout ajouter</color> avec <actionkey>GamepadUI/GamepadUI_West</actionkey>"}
+{"id":1511283,"jp":"星脈ノードを起動すると、マップ上の対応するエリアの<color={highlight}>霧</color>が<color={highlight}>晴れる</color>のだ！","fr":"Lorsque vous activez un nœud de veine stellaire, la <color={highlight}>brume</color> qui recouvre la zone correspondante sur la carte <color={highlight}>se dissipe</color> !"}
 {"id":1511284,"jp":"迷霧の下にはおもしろいものがたくさん隠されてるぞ。\n冒険を楽しもう！","fr":"Bien des choses intéressantes se cachent sous la brume.\nProfitez de l'aventure !"}
 {"id":1511285,"jp":"ここから、<color={highlight}>キボファイトトレーナー</color>をすぐに探せるのだ！","fr":"Ici, on peut chercher tout de suite un <color={highlight}>dresseur de Duel de Kibo</color> !"}
 {"id":1511286,"jp":"ここを押して<color={highlight}>エリア探索度</color>を確認！","fr":"Appuyez ici pour consulter le <color={highlight}>taux d'exploration de la zone</color> !"}
 {"id":1511287,"jp":"<color={highlight}>エリア探索度</color>を押して開く","fr":"Appuyer sur <color={highlight}>Taux d'exploration de la zone</color> pour ouvrir"}
+{"id":1511288,"jp":"<actionkey>GamepadUI/GamepadUI_DpadDown</actionkey> で<color={highlight}>エリア探索度</color>を開く","fr":"Ouvrir la <color={highlight}>Progression d'exploration de la zone</color> avec <actionkey>GamepadUI/GamepadUI_DpadDown</actionkey>"}
 {"id":1511289,"jp":"各エリアには<color={highlight}>探索度</color>が設定されてる。","fr":"Chaque zone possède un <color={highlight}>taux d'exploration</color>."}
 {"id":1511290,"jp":"探索コンテンツをクリアすると、対応するエリアの探索度が上昇するぞ！","fr":"Terminer les contenus d'exploration fait monter le taux d'exploration de la zone correspondante !"}
+{"id":1511291,"jp":"ちなみに、探索度を上げる一番簡単な方法は、<color={highlight}>そのエリアのキボとスターリンクをする</color>こと！","fr":"D'ailleurs, le moyen le plus simple d'améliorer votre progression d'exploration est de <color={highlight}>former un Lien stellaire avec les Kibo de la zone</color> !"}
 {"id":1511292,"jp":"押して<color={highlight}>探索度報酬</color>を確認！","fr":"Appuyez pour consulter les <color={highlight}>récompenses d'exploration</color> !"}
+{"id":1511293,"jp":"<actionkey>GamepadUI/GamepadUI_North</actionkey> で<color={highlight}>探索度報酬</color>を確認できます。","fr":"Consultez les <color={highlight}>récompenses d'exploration</color> avec <actionkey>GamepadUI/GamepadUI_North</actionkey>."}
 {"id":1511294,"jp":"各エリアの探索を完了させると、<color={highlight}>マップ探索レベル経験値</color>を蓄積できる！","fr":"Terminer l'exploration de chaque zone permet d'accumuler de l'<color={highlight}>EXP de niveau d'exploration de la carte</color> !"}
+{"id":1511295,"jp":"決まったレベルに達すると、対応するマップレベルの<color={highlight}>探索度報酬</color>を受け取れるのだ！","fr":"En atteignant certains niveaux, vous pourrez récupérer les <color={highlight}>récompenses d'exploration</color> correspondant au niveau de la carte !"}
+{"id":1511296,"jp":"探索度を上げると、豪華な報酬が得られるだけじゃなく、<color={highlight}>マップの飛行を解放する</color>こともできるぞ！","fr":"Améliorer votre progression d'exploration permet non seulement d'obtenir de généreuses récompenses, mais aussi de <color={highlight}>débloquer le vol dans la zone</color> !"}
 {"id":1511297,"jp":"楽しみなのだ～\nさっそく試してみよう！","fr":"J'ai tellement hâte !\nEssayons tout de suite !"}
+{"id":1511298,"jp":"<actionkeyhold>MainInput/MainPetSkillRoulette</actionkeyhold>を長押しすると、キボグリッドを呼び出せます。","fr":"Maintenez <actionkeyhold>MainInput/MainPetSkillRoulette</actionkeyhold> pour afficher la grille des Kibo."}
 {"id":1511299,"jp":"<color={highlight}>タップ</color>でキボグリッドを呼び出します","fr":"<color={highlight}>Touchez</color> pour faire apparaître la grille des Kibo"}
+{"id":1511300,"jp":"<actionkey>MainInput/MainPetSkillRoulette</actionkey> で、キボグリッドを呼び出せます。","fr":"Vous pouvez afficher la grille des Kibo avec <actionkey>MainInput/MainPetSkillRoulette</actionkey>."}
+{"id":1511301,"jp":"<actionkeyhold>MainInput/MainPetSkillRoulette</actionkeyhold>を長押しするとキボグリッドを表示できます。","fr":"Maintenez <actionkeyhold>MainInput/MainPetSkillRoulette</actionkeyhold> pour afficher la grille des Kibo."}
+{"id":1511302,"jp":"<actionkey>MainInput/MainPetSkillRoulette</actionkey> でキボグリッドを呼び出せます。","fr":"Vous pouvez afficher la grille des Kibo avec <actionkey>MainInput/MainPetSkillRoulette</actionkey>."}
 {"id":1511303,"jp":"<color={highlight}>ポポクッキー</color>のレシピを押す","fr":"Appuyer sur la recette du <color={highlight}>Biscuit Popo</color>"}
+{"id":1511304,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>ポポクッキー</color>のレシピを選択","fr":"Sélectionner la recette du <color={highlight}>biscuit Popo</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511305,"jp":"ポポクッキーを作ってみよう〜","fr":"Préparons des biscuits Popo ~"}
+{"id":1511306,"jp":"<actionkey>GamepadUI/GamepadUI_West</actionkey> でポポクッキーを作ってみましょう！","fr":"Essayons de fabriquer des biscuits Popo avec <actionkey>GamepadUI/GamepadUI_West</actionkey> !"}
 {"id":1511307,"jp":"ボス、特異体、幻域獣は警戒心が高いです。","fr":"Les boss, les Kibo anormaux et les bêtes du domaine illusoire sont très méfiants."}
+{"id":1511308,"jp":"<color={highlight}>星絆</color>を結ぶには、<color={highlight}>HPを一定量まで減らす</color>必要があります。","fr":"Pour former un <color={highlight}>Lien stellaire</color>, vous devez <color={highlight}>réduire les PV du Kibo jusqu'à un certain seuil</color>."}
 {"id":1511309,"jp":"エリアクエストには、日常的に挑戦できる依頼がいっぱい用意されてるぞ！","fr":"Les quêtes de zone proposent plein de missions à relever au quotidien !"}
 {"id":1511310,"jp":"ここでは、入門訓練で<color={highlight}>戦闘の基本操作</color>を学ぶことができるんだ。","fr":"Ici, l'entraînement d'initiation permet d'apprendre les <color={highlight}>commandes de base du combat</color>."}
 {"id":1511311,"jp":"つぎは<color={highlight}>メインストーリー依頼</color>を開いて、挑戦してみよう。","fr":"Ensuite, ouvrons les <color={highlight}>Missions de l'histoire principale</color> pour les relever."}
 {"id":1511312,"jp":"<color={highlight}>メインストーリー依頼</color>を押してください","fr":"Appuyez sur <color={highlight}>Missions de l'histoire principale</color>"}
+{"id":1511313,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>メインストーリー依頼</color>を選択","fr":"Sélectionner la <color={highlight}>Mission principale</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511314,"jp":"<color={highlight}>依頼を開始</color>を押してください","fr":"Appuyez sur <color={highlight}>Commencer la mission</color>"}
+{"id":1511315,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>依頼を開始</color>","fr":"<color={highlight}>Commencer la Mission</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511316,"jp":"依頼の情報と報酬内容を確認！","fr":"Consulter les informations et les récompenses de la Mission !"}
+{"id":1511317,"jp":"<actionkey>GamepadUI/GamepadUI_North</actionkey> で<color={highlight}>依頼開始</color>","fr":"<color={highlight}>Commencer la Mission</color> avec <actionkey>GamepadUI/GamepadUI_North</actionkey>"}
 {"id":1511318,"jp":"<color={highlight}>モード選択</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Choix du mode</color>"}
+{"id":1511319,"jp":"<actionkey>GamepadUI/GamepadUI_R3_Long</actionkey> 長押しで<color={highlight}>モード選択</color>を開く","fr":"Maintenir <actionkey>GamepadUI/GamepadUI_R3_Long</actionkey> pour ouvrir la <color={highlight}>Sélection du mode</color>"}
 {"id":1511320,"jp":"マルチモードが解放されたのだ！","fr":"Le mode multijoueur est débloqué !"}
+{"id":1511321,"jp":"<color={highlight}>「シングルモード」</color>では、自分の冒険に没頭しながらプロミリアの旅を進めることができる。","fr":"En <color={highlight}>mode solo</color>, vous pouvez poursuivre votre voyage à travers Promilia en vous plongeant pleinement dans votre propre aventure."}
 {"id":1511322,"jp":"<color={highlight}>「マルチモード」</color>を押してみよう！","fr":"Essayons le <color={highlight}>« Mode multijoueur »</color> !"}
+{"id":1511323,"jp":"<actionkey>GamepadUI/GamepadUI_NavigateRight</actionkey> で<color={highlight}>「マルチモード」</color>を選択してみましょう！","fr":"Essayons de sélectionner le <color={highlight}>mode multijoueur</color> avec <actionkey>GamepadUI/GamepadUI_NavigateRight</actionkey> !"}
+{"id":1511324,"jp":"<color={highlight}>「マルチモード」</color>をオンにすると、ほかのプレイヤーと出会えるようになるのだ。プロミリア大陸で仲間を作り、探索と冒険の楽しさを分かち合うことができる！","fr":"En activant le <color={highlight}>mode multijoueur</color>, vous pourrez rencontrer d'autres joueurs. Faites-vous de nouveaux amis sur le continent de Promilia et partagez les joies de l'exploration et de l'aventure !"}
 {"id":1511325,"jp":"好みのゲームモードを選んで、自分だけの旅をはじめよう！","fr":"Choisissez le mode de jeu qui vous plaît et commencez votre propre voyage !"}
 {"id":1511326,"jp":"<color={highlight}>共鳴の石台のレシピ</color>を選択","fr":"Choisir la <color={highlight}>recette du socle de résonance</color>"}
+{"id":1511327,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>共鳴の石台のレシピ</color>を選択","fr":"Sélectionner la <color={highlight}>recette du socle de résonance</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511328,"jp":"<color={highlight}>生産開始</color>を押してください","fr":"Appuyez sur <color={highlight}>Lancer la production</color>"}
+{"id":1511329,"jp":"<actionkey>GamepadUI/GamepadUI_West</actionkey> を使って<color={highlight}>生産開始</color>","fr":"<color={highlight}>Lancer la production</color> avec <actionkey>GamepadUI/GamepadUI_West</actionkey>"}
 {"id":1511330,"jp":"<color={highlight}>生産完了</color>までお待ちください。","fr":"Veuillez attendre la <color={highlight}>fin de la production</color>."}
 {"id":1511331,"jp":"<color={highlight}>共鳴の石台</color>を受け取る","fr":"Récupérer le <color={highlight}>socle de résonance</color>"}
+{"id":1511332,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>共鳴の石台</color>を受け取る","fr":"Récupérer le <color={highlight}>socle de résonance</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511333,"jp":"<color={highlight}>キボ管理</color>ボタンを押す","fr":"Appuyer sur le bouton <color={highlight}>Gestion des Kibo</color>"}
+{"id":1511334,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>キボ管理</color>を開く","fr":"Ouvrir la <color={highlight}>Gestion des Kibo</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511335,"jp":"<color={highlight}>伐採の才能</color>を持つキボを派遣しよう","fr":"Affectons un Kibo ayant le <color={highlight}>talent de bûcheronnage</color>"}
+{"id":1511336,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>伐採の才能</color>を持つキボを派遣しよう","fr":"Affectons un Kibo spécialisé en <color={highlight}>Bûcheronnage</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511337,"jp":"<color={highlight}>金麦の種</color>を選択","fr":"Choisir la <color={highlight}>graine de blé doré</color>"}
+{"id":1511338,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>金麦の種</color>を選択","fr":"Sélectionner les <color={highlight}>graines de blé doré</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511339,"jp":"<color={highlight}>MAX</color>を押してください","fr":"Appuyez sur <color={highlight}>MAX</color>"}
+{"id":1511340,"jp":"<actionkey>GamepadUI/GamepadUI_R2</actionkey> で<color={highlight}>MAX</color>にします","fr":"Régler sur <color={highlight}>MAX</color> avec <actionkey>GamepadUI/GamepadUI_R2</actionkey>"}
 {"id":1511341,"jp":"<color={highlight}>すべて購入</color>を押してください","fr":"Appuyez sur <color={highlight}>Tout acheter</color>"}
+{"id":1511342,"jp":"<actionkey>GamepadUI/GamepadUI_North</actionkey> で<color={highlight}>すべて購入</color>","fr":"<color={highlight}>Tout acheter</color> avec <actionkey>GamepadUI/GamepadUI_North</actionkey>"}
 {"id":1511343,"jp":"ヘルプには、ゲームプレイ中に確認したチュートリアルが記録されていくのだ。","fr":"L'Aide enregistre au fil de la partie les tutoriels que vous avez vus."}
 {"id":1511344,"jp":"冒険中に見たチュートリアルは、ヘルプ一覧に記録されていくのだ。","fr":"Les tutoriels vus en aventure sont enregistrés dans la Liste d'aide."}
 {"id":1511345,"jp":"タブごとに分類されるから、知りたい情報もすぐに見つかるぞ。","fr":"Ils sont classés par onglet : on trouve vite l'information voulue."}
 {"id":1511346,"jp":"検索を使えば、ピンポイントに調べることだってできる！","fr":"Avec la recherche, on peut même trouver une information précise !"}
 {"id":1511347,"jp":"<color={highlight}>日渡の塵影</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Ombres de poussière du Passe-Soleil</color>"}
+{"id":1511348,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>天道の余塵</color>を開く","fr":"Ouvrir les <color={highlight}>Poussières de la voie céleste</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511349,"jp":"<color={highlight}>工業</color>ボタンを押してください","fr":"Appuyez sur le bouton <color={highlight}>Industrie</color>"}
 {"id":1511350,"jp":"デイリークエスト……達成すると、報酬もらえる。","fr":"Les quêtes quotidiennes… Une fois terminées, elles donnent des récompenses."}
 {"id":1511351,"jp":"<color={highlight}>週間活躍度</color>を押してください","fr":"Appuyez sur <color={highlight}>Activité hebdomadaire</color>"}
+{"id":1511352,"jp":"<actionkey>GamepadUI/GamepadUI_R1</actionkey> で<color={highlight}>週間活躍度</color>を切り替える","fr":"Passer à l'<color={highlight}>Activité hebdomadaire</color> avec <actionkey>GamepadUI/GamepadUI_R1</actionkey>"}
 {"id":1511353,"jp":"ウィークリークエストは、報酬もっと豪華になる……","fr":"Les quêtes hebdomadaires… Leurs récompenses sont encore plus généreuses…"}
 {"id":1511354,"jp":"<color={highlight}>アニマ</color>>は、この世界に存在する『情報』が具現化したものなのだ。","fr":"Les <color={highlight}>Anima</color>> sont la matérialisation de l'« information » qui existe dans ce monde."}
 {"id":1511355,"jp":"この「情報」は、時間や空間の制約を受けない。","fr":"Ces « Infos » ne sont limitées ni par le temps ni par l'espace."}
 {"id":1511356,"jp":"アニマを装備することで、ステータスもアップするぞ！","fr":"Équiper des Anima permet aussi une Hausse des statistiques !"}
+{"id":1511357,"jp":"装備者の<color={highlight}>ロール</color>がアニマと一致すると、アニマに付与された<color={highlight}>特殊能力</color>も解放されるのだ！","fr":"Lorsque le <color={highlight}>rôle</color> du personnage équipé correspond à celui de l'Anima, la <color={highlight}>capacité spéciale</color> de l'Anima est également débloquée !"}
 {"id":1511358,"jp":"ぴったりのアニマを選んで、装備してみよう。","fr":"Choisissons un Anima adapté et essayons de l'équiper."}
 {"id":1511359,"jp":"<color={highlight}>アニマ欄</color>を押して開く","fr":"Appuyer sur la <color={highlight}>zone des Anima</color> pour l'ouvrir"}
+{"id":1511360,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>アニマ欄</color>を開く","fr":"Ouvrir l'<color={highlight}>emplacement d'Anima</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511361,"jp":"この<color={highlight}>アニマ</color>を選択","fr":"Choisir cet <color={highlight}>Anima</color>"}
+{"id":1511362,"jp":"<actionkey>UI/Submit</actionkey> でこの<color={highlight}>アニマ</color>を選択","fr":"Sélectionner cet <color={highlight}>Anima</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511363,"jp":"<color={highlight}>装備</color>を押してください","fr":"Appuyez sur <color={highlight}>Équipement</color>"}
+{"id":1511364,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>装備</color>","fr":"<color={highlight}>Équiper</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511365,"jp":"<color={highlight}>強化</color>を押してください","fr":"Appuyez sur <color={highlight}>Améliorer</color>"}
+{"id":1511366,"jp":"<actionkey>GamepadUI/GamepadUI_West</actionkey> で<color={highlight}>強化</color>できます。","fr":"Vous pouvez <color={highlight}>renforcer</color> avec <actionkey>GamepadUI/GamepadUI_West</actionkey>."}
 {"id":1511367,"jp":"<color={highlight}>素材追加</color>を押してください","fr":"Appuyez sur <color={highlight}>Ajouter des matériaux</color>"}
+{"id":1511368,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>素材を追加</color>","fr":"<color={highlight}>Ajouter des matériaux</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511369,"jp":"<color={highlight}>素材強化</color>を押してください","fr":"Appuyez sur <color={highlight}>Renforcement par matériaux</color>"}
+{"id":1511370,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>素材を強化</color>","fr":"<color={highlight}>Renforcer les matériaux</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511371,"jp":"<color={highlight}>レベルアップ</color>を押すと、アニマを強化できるぞ！さっそく試してみよう！","fr":"Appuyez sur <color={highlight}>Monter de niveau</color> pour renforcer l'Anima ! Essayons tout de suite !"}
+{"id":1511372,"jp":"ここで指示に従って<color={highlight}>レベルアップ</color>すると、アニマを強化できるよ～さっそく試してみよう！","fr":"Suivez les instructions pour <color={highlight}>monter de niveau</color> et renforcer votre Anima. Essayez dès maintenant !"}
 {"id":1511373,"jp":"タップして<color={highlight}>ショートカットバッグ</color>を編集する","fr":"Toucher pour modifier le <color={highlight}>sac de raccourcis</color>"}
+{"id":1511374,"jp":"<actionkey>GamepadUI/PageControllerQuickRoulette_DpadUp</actionkey> で<color={highlight}>ショートカットバッグ</color>を編集","fr":"Modifier le <color={highlight}>sac de raccourcis</color> avec <actionkey>GamepadUI/PageControllerQuickRoulette_DpadUp</actionkey>"}
 {"id":1511375,"jp":"アイテムをクイックバッグに入れておけば、必要な時にすぐ使えるようになる！","fr":"En rangeant des objets dans le sac rapide, on peut les utiliser tout de suite quand on en a besoin !"}
 {"id":1511376,"jp":"さっそく試してみよう！","fr":"Essayons tout de suite !"}
 {"id":1511377,"jp":"<color={highlight}>キャラクター</color>を押してください","fr":"Appuyez sur <color={highlight}>Personnage</color>"}
+{"id":1511378,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>キャラクター</color>を選択","fr":"Sélectionner un <color={highlight}>personnage</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511379,"jp":"<color={highlight}>入居</color>を押してください","fr":"Appuyez sur <color={highlight}>Emménager</color>"}
+{"id":1511380,"jp":"<actionkey>GamepadUI/GamepadUI_North</actionkey> で<color={highlight}>入居</color>","fr":"<color={highlight}>Emménager</color> avec <actionkey>GamepadUI/GamepadUI_North</actionkey>"}
 {"id":1511381,"jp":"<color={highlight}>訪問</color>を押してください","fr":"Appuyez sur <color={highlight}>Visite</color>"}
+{"id":1511382,"jp":"<actionkey>GamepadUI/GamepadUI_North</actionkey> で<color={highlight}>訪問</color>","fr":"<color={highlight}>Rendre visite</color> avec <actionkey>GamepadUI/GamepadUI_North</actionkey>"}
 {"id":1511383,"jp":"<actionkey>UI/Submit</actionkey> で入居キャラクターを選択","fr":"<actionkey>UI/Submit</actionkey> pour choisir le personnage qui emménage"}
+{"id":1511384,"jp":"寮を建設したら、<color={highlight}>家具ショップ</color>で家具を購入して、仲間たちにプレゼントできるぞ！","fr":"Une fois le dortoir construit, vous pourrez acheter des meubles dans la <color={highlight}>boutique de meubles</color> et les offrir à vos compagnons !"}
+{"id":1511385,"jp":"<color={highlight}>「輝くコイン」</color>は、農園の農産物を売却することで獲得することができますよ。","fr":"Vous pouvez obtenir des <color={highlight}>« Pièce scintillante »</color> en vendant les produits agricoles de votre ferme."}
+{"id":1511386,"jp":"<color={highlight}>毎日一部の商品が値上がり</color>します。価格を確認して、売却のタイミングを見極めましょう！","fr":"<color={highlight}>Le prix de certains produits augmente chaque jour</color>. Consultez les prix pour choisir le meilleur moment pour vendre !"}
+{"id":1511387,"jp":"今回の商品はこちらで用意してあります。売却して<color={highlight}>「輝くコイン」</color>を獲得してみましょう！","fr":"Nous avons préparé ces produits pour vous. Essayons de les vendre pour obtenir des <color={highlight}>« Pièce scintillante »</color> !"}
+{"id":1511388,"jp":"ちょうどこの商品が<color={highlight}>値上がり</color>していますね。売却して、「輝くコイン」を集めましょう！","fr":"Justement, le prix de ce produit <color={highlight}>a augmenté</color>. Vendons-le pour obtenir des pièces scintillantes !"}
 {"id":1511390,"jp":"つぎは<color={highlight}>オーダーボード</color>を見てみましょう！","fr":"Voyons maintenant le <color={highlight}>Tableau des commandes</color> !"}
+{"id":1511391,"jp":"<actionkey>GamepadUI/GamepadUI_West</actionkey> を押して、次は<color={highlight}>オーダーボード</color>を見てみましょう！","fr":"Appuyez sur <actionkey>GamepadUI/GamepadUI_West</actionkey> pour consulter maintenant le <color={highlight}>tableau des commandes</color> !"}
 {"id":1511392,"jp":"<color={highlight}>上昇率順に並べ替え</color>を押してください。","fr":"Appuyez sur <color={highlight}>Trier par taux de hausse</color>."}
+{"id":1511393,"jp":"<actionkey>UI/Submit</actionkey> で<color={highlight}>値上がり幅順に並べ替え</color>","fr":"<color={highlight}>Trier par hausse de prix</color> avec <actionkey>UI/Submit</actionkey>"}
 {"id":1511395,"jp":"<actionkey>UI/Cancel</actionkey> でバッグに戻る","fr":"<actionkey>UI/Cancel</actionkey> pour revenir au sac"}
 {"id":1511396,"jp":"<color={highlight}>危機討伐</color>を押してください","fr":"Appuyez sur <color={highlight}>Traque des menaces</color>"}
 {"id":1511398,"jp":"左側のリストで難易度を調整すると、いろんな難易度の依頼クエストを受けることができるぞ！","fr":"En réglant la difficulté dans la liste de gauche, on peut accepter des missions de toutes les difficultés !"}
