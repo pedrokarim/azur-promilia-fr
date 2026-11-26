@@ -26076,6 +26076,10 @@
 {"id":1522428,"jp":"特上の紅あまコンソメスープを使用しました。チーム全員の会心率が4%アップし、375秒間継続します。","fr":"Consommé de radis rouge sucré de premier choix utilisé : le Taux CRIT de toute l'équipe augmente de 4 % pendant 375 secondes."}
 {"id":1522429,"jp":"逸品の紅あまコンソメスープを使用しました。チーム全員の会心率が4%アップし、400秒間継続します。","fr":"Consommé de radis rouge sucré d'exception utilisé : le Taux CRIT de toute l'équipe augmente de 4 % pendant 400 secondes."}
 {"id":1522430,"jp":"普通の金麦とハムのサンドを使用しました。チーム全員のEX強度が100アップし、EX会心率が8%アップし、300秒間継続します。","fr":"Sandwich au blé doré et au jambon ordinaire utilisé. Puissance EX de toute l'équipe +100 et Taux CRIT EX +8 % pendant 300 s."}
+{"id":1522431,"jp":"上質な金麦とハムのサンドを使用しました。チーム全員のEX強度が100アップし、EX会心率が8%アップし、325秒間継続します。","fr":"Sandwich au blé doré et au jambon de qualité utilisé. Puissance EX de toute l'équipe +100 et Taux CRIT EX +8 % pendant 325 s."}
+{"id":1522432,"jp":"極上の金麦とハムのサンドを使用しました。チーム全員のEX強度が100アップし、EX会心率が8%アップし、350秒間継続します。","fr":"Sandwich au blé doré et au jambon supérieur utilisé. Puissance EX de toute l'équipe +100 et Taux CRIT EX +8 % pendant 350 s."}
+{"id":1522433,"jp":"特上の金麦とハムのサンドを使用しました。チーム全員のEX強度が100アップし、EX会心率が8%アップし、375秒間継続します。","fr":"Sandwich au blé doré et au jambon de premier choix utilisé. Puissance EX de toute l'équipe +100 et Taux CRIT EX +8 % pendant 375 s."}
+{"id":1522434,"jp":"逸品の金麦とハムのサンドを使用しました。チーム全員のEX強度が100アップし、EX会心率が8%アップし、400秒間継続します。","fr":"Sandwich au blé doré et au jambon d'exception utilisé. Puissance EX de toute l'équipe +100 et Taux CRIT EX +8 % pendant 400 s."}
 {"id":1522435,"jp":"普通のたっぷり卵トーストを使用しました。チーム全員の風属性ダメージが10%アップし、300秒間継続します。","fr":"Tartine généreuse aux œufs ordinaire utilisée : les DGT de Vent de toute l'équipe augmentent de 10 % pendant 300 secondes."}
 {"id":1522436,"jp":"上質なたっぷり卵トーストを使用しました。チーム全員の風属性ダメージが10%アップし、325秒間継続します。","fr":"Tartine généreuse aux œufs de qualité utilisée : les DGT de Vent de toute l'équipe augmentent de 10 % pendant 325 secondes."}
 {"id":1522437,"jp":"極上のたっぷり卵トーストを使用しました。チーム全員の風属性ダメージが10%アップし、350秒間継続します。","fr":"Tartine généreuse aux œufs supérieure utilisée : les DGT de Vent de toute l'équipe augmentent de 10 % pendant 350 secondes."}
@@ -26096,8 +26100,16 @@
 {"id":1522452,"jp":"極上のウィンドフィールパイを使用しました。チーム全員のEX会心率が5%アップし、350秒間継続します。","fr":"Tourte des champs venteux supérieure utilisée : le Taux CRIT EX de toute l'équipe augmente de 5 % pendant 350 secondes."}
 {"id":1522453,"jp":"特上のウィンドフィールパイを使用しました。チーム全員のEX会心率が5%アップし、375秒間継続します。","fr":"Tourte des champs venteux de premier choix utilisée : le Taux CRIT EX de toute l'équipe augmente de 5 % pendant 375 secondes."}
 {"id":1522454,"jp":"逸品のウィンドフィールパイを使用しました。チーム全員のEX会心率が5%アップし、400秒間継続します。","fr":"Tourte des champs venteux d'exception utilisée : le Taux CRIT EX de toute l'équipe augmente de 5 % pendant 400 secondes."}
+{"id":1522455,"jp":"普通のハーベストグリルを使用しました。チーム全員の会心率が5%アップし、会心ダメージが10%アップし、300秒間継続します。","fr":"Grillade des récoltes ordinaire utilisée. Taux CRIT de toute l'équipe +5 % et DGT CRIT +10 % pendant 300 s."}
+{"id":1522456,"jp":"上質なハーベストグリルを使用しました。チーム全員の会心率が5%アップし、会心ダメージが10%アップし、325秒間継続します。","fr":"Grillade des récoltes de qualité utilisée. Taux CRIT de toute l'équipe +5 % et DGT CRIT +10 % pendant 325 s."}
+{"id":1522457,"jp":"極上のハーベストグリルを使用しました。チーム全員の会心率が5%アップし、会心ダメージが10%アップし、350秒間継続します。","fr":"Grillade des récoltes supérieure utilisée. Taux CRIT de toute l'équipe +5 % et DGT CRIT +10 % pendant 350 s."}
 {"id":1522458,"jp":"特上のハーベストグリルを使用しました。チーム全員の会心率が5%、会心ダメージが10%アップし、375秒間継続します。","fr":"Grillade des récoltes de premier choix utilisée : le Taux CRIT de toute l'équipe augmente de 5 % et ses DGT CRIT de 10 % pendant 375 secondes."}
 {"id":1522459,"jp":"逸品のハーベストグリルを使用しました。チーム全員の会心率が5%、会心ダメージが10%アップし、400秒間継続します。","fr":"Grillade des récoltes d'exception utilisée : le Taux CRIT de toute l'équipe augmente de 5 % et ses DGT CRIT de 10 % pendant 400 secondes."}
+{"id":1522460,"jp":"普通のカボチャ霊のケーキを使用しました。チーム全員の防御力が30アップし、回復効果が25%アップし、300秒間継続します。","fr":"Gâteau de l'esprit citrouille ordinaire utilisé. DÉF de toute l'équipe +30 et effet de soin +25 % pendant 300 s."}
+{"id":1522461,"jp":"上質なカボチャ霊のケーキを使用しました。チーム全員の防御力が30アップし、回復効果が25%アップし、325秒間継続します。","fr":"Gâteau de l'esprit citrouille de qualité utilisé. DÉF de toute l'équipe +30 et effet de soin +25 % pendant 325 s."}
+{"id":1522462,"jp":"極上のカボチャ霊のケーキを使用しました。チーム全員の防御力が30アップし、回復効果が25%アップし、350秒間継続します。","fr":"Gâteau de l'esprit citrouille supérieur utilisé. DÉF de toute l'équipe +30 et effet de soin +25 % pendant 350 s."}
+{"id":1522463,"jp":"特上のカボチャ霊のケーキを使用しました。チーム全員の防御力が30アップし、回復効果が25%アップし、375秒間継続します。","fr":"Gâteau de l'esprit citrouille de premier choix utilisé. DÉF de toute l'équipe +30 et effet de soin +25 % pendant 375 s."}
+{"id":1522464,"jp":"逸品のカボチャ霊のケーキを使用しました。チーム全員の防御力が30アップし、回復効果が25%アップし、400秒間継続します。","fr":"Gâteau de l'esprit citrouille d'exception utilisé. DÉF de toute l'équipe +30 et effet de soin +25 % pendant 400 s."}
 {"id":1522465,"jp":"普通のクロディキャンディを使用しました。チーム全員の回復効果が10%アップし、300秒間継続します。","fr":"Bonbon Clodi ordinaire utilisé : l'effet de soin de toute l'équipe augmente de 10 % pendant 300 secondes."}
 {"id":1522466,"jp":"上質なクロディキャンディを使用しました。チーム全員の回復効果が10%アップし、325秒間継続します。","fr":"Bonbon Clodi de qualité utilisé : l'effet de soin de toute l'équipe augmente de 10 % pendant 325 secondes."}
 {"id":1522467,"jp":"極上のクロディキャンディを使用しました。チーム全員の回復効果が10%アップし、350秒間継続します。","fr":"Bonbon Clodi supérieur utilisé : l'effet de soin de toute l'équipe augmente de 10 % pendant 350 secondes."}
@@ -27974,6 +27986,7 @@
 {"id":1524366,"jp":"4セット：通常攻撃が命中したとき、自身の攻撃力が1%上昇する（12秒間：最大10スタック）。","fr":"Set de 4 : quand une Attaque normale touche, augmente de 1 % son propre ATQ (durée : 12 s, 10 cumuls max.)."}
 {"id":1524367,"jp":"4セット：装着者が小スキルを発動した後、チーム全体の奥義エネルギーを8回復する。","fr":"Set de 4 pièces : après que le porteur a utilisé une compétence mineure, restaure 8 d'Énergie de technique ultime à toute l'équipe."}
 {"id":1524368,"jp":"4セット：装着者が回復を行ったとき、回復を受けたキャラクターの攻撃力が14%上昇する（6秒間）。","fr":"Set de 4 pièces : quand le porteur soigne, augmente de 14 % l'ATQ du personnage soigné (durée : 6 s)."}
+{"id":1524369,"jp":"4セット：装着者の通常攻撃またはチャージ攻撃が対象に命中したとき、対象にデバフを付与し、対象のブレイクゲージ吸収を30%上昇させる（8秒間）。","fr":"4 pièces : lorsque l'Attaque normale ou l'Attaque chargée du porteur touche une cible, lui inflige un Affaiblissement qui augmente de 30 % la réduction de sa jauge de brise (durée : 8 s)."}
 {"id":1524370,"jp":"4セット 予備3","fr":"Set de 4 - Réserve 3"}
 {"id":1524371,"jp":"4セット 予備4","fr":"Set de 4 - Réserve 4"}
 {"id":1524372,"jp":"4セット 予備5","fr":"Set de 4 - Réserve 5"}
@@ -28008,21 +28021,27 @@
 {"id":1524401,"jp":"EX強度+110","fr":"Puissance EX +110"}
 {"id":1524402,"jp":"装着者が刻印を消費した時、与えるEXダメージが7%アップ。15秒間継続。最大3スタック。","fr":"Quand le porteur consomme un Sceau, augmente de 7 % les DGT EX qu'il inflige (durée : 15 s, 3 cumuls max.)."}
 {"id":1524403,"jp":"EX会心+8%","fr":"CRIT EX +8 %"}
+{"id":1524404,"jp":"装着者が登場したとき、自身のEX強度が175上昇する（15秒間）。\n装着者がオーバードライブを発動したとき、自身の防御貫通が8%上昇する（15秒間）。","fr":"Lorsque le porteur entre sur le terrain, sa Puissance EX augmente de 175 (durée : 15 s).\nLorsque le porteur active l'Overdrive, sa Pénétration de DÉF augmente de 8 % (durée : 15 s)."}
 {"id":1524405,"jp":"会心率+8%","fr":"Taux CRIT +8 %"}
 {"id":1524406,"jp":"会心が発生するたび、自身の会心ダメージが3.5%上昇する（15秒間：最大10スタック）。","fr":"À chaque coup critique, augmente de 3,5 % les DGT CRIT du porteur (durée : 15 s, 10 cumuls max.)."}
 {"id":1524407,"jp":"攻撃力+10%","fr":"ATQ +10 %"}
+{"id":1524408,"jp":"装着者が登場する際、自身の攻撃力が12%上昇する（15秒間）。\nブレイク状態の敵にダメージを与えたとき、攻撃力が8%上昇する（15秒間）。","fr":"Lorsque le porteur entre sur le terrain, son ATQ augmente de 12 % (durée : 15 s).\nLorsqu'il inflige des DGT à un ennemi en état de brise, son ATQ augmente de 8 % (durée : 15 s)."}
 {"id":1524409,"jp":"装着者が星響スキルを発動した後、チーム全体の全属性ダメージが14%増加する（24秒間）。","fr":"Après que le porteur a utilisé une Compétence Écho stellaire, augmente de 14 % les DGT de tous les éléments de toute l'équipe (durée : 24 s)."}
 {"id":1524410,"jp":"装着者が星極スキルを発動した後、チーム全体のEXダメージが18%増加する（24秒間）。","fr":"Après que le porteur a utilisé une Compétence Zénith stellaire, augmente de 18 % les DGT EX de toute l'équipe (durée : 24 s)."}
 {"id":1524411,"jp":"ブレイク効率+15.0%","fr":"Efficacité de brise +15,0 %"}
 {"id":1524412,"jp":"装着者の攻撃が命中するたびに、ブレイク値が5上昇する（15秒間：最大10スタック）。","fr":"À chaque attaque du porteur qui touche, augmente de 5 la Valeur de brise (durée : 15 s, 10 cumuls max.)."}
+{"id":1524413,"jp":"装着者のスキル/チャージ攻撃が命中したとき、対象にデバフを付与し、ブレイクゲージ吸収を30%上昇させる（24秒間：スタック不可）。","fr":"Lorsque la compétence ou l'Attaque chargée du porteur touche une cible, lui inflige un Affaiblissement qui augmente de 30 % la réduction de sa jauge de brise (durée : 24 s, non cumulable)."}
 {"id":1524414,"jp":"<color=#dc8d48>風属性ダメージ</color>+11%\n追加値","fr":"<color=#dc8d48>DGT de Vent</color> +11 %\nValeur additionnelle"}
+{"id":1524415,"jp":"風EXを発動した後、EX会心率+10、チャージ攻撃ダメージが10%アップ。15秒間継続。チャージ攻撃が命中するたびにエネルギーを1ポイント回復する。","fr":"Après avoir déclenché un EX de Vent, Taux CRIT EX +10 et DGT d'Attaque chargée +10 % pendant 15 s. Restaure 1 point d'Énergie chaque fois qu'une Attaque chargée touche un ennemi."}
 {"id":1524416,"jp":"<color=#6b4373>闇属性ダメージ</color>+11%\n追加値","fr":"<color=#6b4373>DGT de Ténèbres</color> +11 %\nValeur additionnelle"}
+{"id":1524417,"jp":"装着者の通常攻撃またはチャージ攻撃が命中するたびにスタック可能。会心ダメージが1%、闇属性ダメージが1%アップ。30秒間継続。最大7スタック。チームが闇の刻印を3つ所持している時、会心率+10%。","fr":"Obtient 1 cumul chaque fois que l'Attaque normale ou l'Attaque chargée du porteur touche un ennemi. DGT CRIT +1 % et DGT de Ténèbres +1 % pendant 30 s. Maximum 7 cumuls. Lorsque l'équipe possède 3 Sceaux de Ténèbres, Taux CRIT +10 %."}
 {"id":1524418,"jp":"回復効果上昇+24.0%\n追加値","fr":"Effet de soin +24,0 %\nValeur supplémentaire"}
 {"id":1524419,"jp":"装着者が回復を行った時、被回復者の攻撃力が12%上昇する（24秒間：重複しない）。","fr":"Quand le porteur soigne, augmente de 12 % l'ATQ de la cible soignée (durée : 24 s, non cumulable)."}
 {"id":1524420,"jp":"防御力+15%、使用[6]","fr":"DÉF +15 %, utilisation [6]"}
 {"id":1524421,"jp":"チーム全体がシールド状態の時、被ダメージが4.5%減少し、与ダメージが12%増加する（スタック不可：唯一）。","fr":"Quand toute l'équipe est sous Bouclier, réduit de 4,5 % les DGT subis et augmente de 12 % les DGT infligés (non cumulable, effet unique)."}
 {"id":1524422,"jp":"エネルギーチャージ効率が5%アップ","fr":"Hausse de 5 % de l'efficacité de recharge d'Énergie"}
 {"id":1524423,"jp":"装着者が星響スキルを発動した後、チーム全体の奥義エネルギー効率が20%上昇する（12秒間：重複しない）。","fr":"Après que le porteur a utilisé une Compétence Écho stellaire, augmente de 20 % l'efficacité d'Énergie de technique ultime de toute l'équipe (durée : 12 s, non cumulable)."}
+{"id":1524424,"jp":"操作キャラクターのHPが30%未満になると、防御力が35%上昇し、装着者の防御力の1,000%分のシールドを獲得する（30秒間）。\nこの効果は60秒ごとに最大1回まで発動可能。\n待機状態でも発動可能。[6]","fr":"Lorsque les PV du personnage actif passent sous les 30 %, sa DÉF augmente de 35 % et il obtient un Bouclier équivalant à 1 000 % de la DÉF du porteur (durée : 30 s).\nCet effet peut se déclencher au maximum 1 fois toutes les 60 s.\nPeut se déclencher même lorsque le porteur est en retrait.[6]"}
 {"id":1524425,"jp":"塗山小玉-桃花の御札","fr":"Tushan Xiaoyu - Talisman des fleurs de pêcher"}
 {"id":1524426,"jp":"シャル-わが身は槍となす","fr":"Shalle - Mon corps devient une lance"}
 {"id":1524427,"jp":"源千代-妖影斬り","fr":"Minamoto Chiyo - Entaille de l'ombre spectrale"}
@@ -28070,6 +28089,7 @@
 {"id":1524470,"jp":"疑心","fr":"Méfiance"}
 {"id":1524471,"jp":"攻撃力が上昇し、ダメージを与えた時にダメージ増幅が上昇する。","fr":"Augmente l'ATQ et, quand des DGT sont infligés, augmente l'Amplification des DGT."}
 {"id":1524472,"jp":"攻撃力が{0}上昇する。","fr":"Augmente l'ATQ de {0}."}
+{"id":1524475,"jp":"攻撃力が{0}上昇する。装着者がダメージを与えた時、自身の与ダメージが1.2%増加する（最大10スタック、効果時間：15秒）。","fr":"Augmente l'ATQ de {0}. Lorsque le porteur inflige des DGT, ses DGT infligés augmentent de 1,2 % (maximum 10 cumuls, durée : 15 s)."}
 {"id":1524478,"jp":"猛撃","fr":"Frappe féroce"}
 {"id":1524479,"jp":"攻撃力が一定割合上昇する。","fr":"Augmente l'ATQ d'un certain pourcentage."}
 {"id":1524491,"jp":"防御力が上昇し、ダメージを受けた時に攻撃力が上昇する。","fr":"Augmente la DÉF et, quand des DGT sont subis, augmente l'ATQ."}
@@ -28079,6 +28099,7 @@
 {"id":1524495,"jp":"防御力が一定割合上昇する。","fr":"Augmente la DÉF d'un certain pourcentage."}
 {"id":1524507,"jp":"HP上限が上昇し、HPが低い時にシールドを獲得する。","fr":"Augmente les PV max et confère un Bouclier quand les PV sont bas."}
 {"id":1524508,"jp":"HP上限が{0}上昇する。","fr":"Augmente les PV max. de {0}."}
+{"id":1524512,"jp":"HP上限が{0}上昇する。装着者のHPが20%未満の時、自身のHP上限の10%分のシールドを獲得する（クールタイム：20秒）。","fr":"Augmente les PV max. de {0}. Lorsque les PV du porteur sont inférieurs à 20 %, il obtient un Bouclier équivalant à 10 % de ses PV max. (temps de recharge : 20 s)."}
 {"id":1524516,"jp":"豊体","fr":"Corps robuste"}
 {"id":1524517,"jp":"HP上限が一定割合上昇する。","fr":"Augmente les PV max. d'un certain pourcentage."}
 {"id":1524527,"jp":"EX強度が{0}上昇する。","fr":"Augmente la Puissance EX de {0}."}
@@ -28119,12 +28140,42 @@
 {"id":1524607,"jp":"装着者がフィールドに出た時、自身のEX強度が{0}、EX会心率が{1}上昇する（効果時間：15秒）。","fr":"Quand le porteur entre sur le terrain, augmente sa Puissance EX de {0} et son Taux CRIT EX de {1} (durée : 15 s)."}
 {"id":1524609,"jp":"EX・重鋒","fr":"EX : Lourd tranchant"}
 {"id":1524610,"jp":"チャージ攻撃を行った時、EX強度とEX会心率が上昇する。","fr":"Lors d'une Attaque chargée, augmente la Puissance EX et le Taux CRIT EX."}
+{"id":1524611,"jp":"装着者がチャージ攻撃を行った時、自身のEX強度が{0}上昇する（最大4スタック、効果時間：15秒）。最大までスタックすると、EX会心率が{1}上昇する。","fr":"Lorsque le porteur effectue une Attaque chargée, sa Puissance EX augmente de {0} (maximum 4 cumuls, durée : 15 s). Lorsque le nombre maximal de cumuls est atteint, son Taux CRIT EX augmente de {1}."}
 {"id":1524612,"jp":"剛貫・累勢","fr":"Puissante percée : Élan croissant"}
 {"id":1524613,"jp":"通常攻撃で会心ダメージを与えた時は毎回に、攻撃力が上昇し、会心ダメージが増加する。","fr":"À chaque Attaque normale qui inflige des DGT CRIT, augmente l'ATQ et les DGT CRIT."}
+{"id":1524614,"jp":"装着者が通常攻撃で会心ダメージを与えた時、自身の攻撃力が{0}上昇し、会心ダメージが{1}増加する（最大5スタック、効果時間：15秒）。","fr":"Lorsque le porteur inflige des DGT CRIT avec une Attaque normale, son ATQ augmente de {0} et ses DGT CRIT augmentent de {1} (maximum 5 cumuls, durée : 15 s)."}
+{"id":1524617,"jp":"装着者がチャージ攻撃で水の刻印または木の刻印を消費した時、自身のブレイク効率が<color=#4d92e7>{0}</color>上昇する（効果時間：12秒）。","fr":"Lorsque le porteur consomme un Sceau d'Eau ou de Bois avec une Attaque chargée, son Efficacité de brise augmente de <color=#4d92e7>{0}</color> (durée : 12 s)."}
+{"id":1524621,"jp":"装着者が星極スキルで回復した時、回復を受けたキャラの攻撃力が<color=#4d92e7><color=#4d92e7>{0}</color></color>上昇する（効果時間：20秒）。","fr":"Lorsque le porteur prodigue des soins avec une Compétence Zénith stellaire, l'ATQ du personnage soigné augmente de <color=#4d92e7><color=#4d92e7>{0}</color></color> (durée : 20 s)."}
+{"id":1524624,"jp":"装着者の通常攻撃が敵に命中した時は毎回、自身の通常攻撃によるブレイク効率が<color=#4d92e7>{0}</color>上昇する（最大5スタック、効果時間：4秒）。","fr":"Chaque fois que l'Attaque normale du porteur touche un ennemi, l'Efficacité de brise de ses Attaques normales augmente de <color=#4d92e7>{0}</color> (maximum 5 cumuls, durée : 4 s)."}
+{"id":1524630,"jp":"装着者がフィールド上で火の刻印を獲得した時、チーム全体のEX強度が<color=#4d92e7>{0}</color>上昇する（効果時間：24秒）。","fr":"Lorsque le porteur obtient un Sceau de Feu sur le terrain, la Puissance EX de toute l'équipe augmente de <color=#4d92e7>{0}</color> (durée : 24 s)."}
+{"id":1524635,"jp":"装着者の通常攻撃が敵に命中した時は毎回、自身の火属性ダメージが<color=#4d92e7>{0}</color>増加する（最大5スタック、効果時間：5秒）。","fr":"Chaque fois que l'Attaque normale du porteur touche un ennemi, ses DGT de Feu augmentent de <color=#4d92e7>{0}</color> (maximum 5 cumuls, durée : 5 s)."}
+{"id":1524640,"jp":"装着者が雷属性ダメージを与えた時、自身のチャージ攻撃ダメージが<color=#4d92e7>{0}</color>増加する（効果時間：5秒）。","fr":"Lorsque le porteur inflige des DGT de Foudre, ses DGT d'Attaque chargée augmentent de <color=#4d92e7>{0}</color> (durée : 5 s)."}
+{"id":1524641,"jp":"装着者がガードに成功した後5秒以内に風の刻印を1つ獲得した場合、チーム全体の攻撃力が<color=#4d92e7>{0}</color>上昇する（効果時間：16秒）。","fr":"Si le porteur obtient 1 Sceau de Vent dans les 5 s suivant une garde réussie, l'ATQ de toute l'équipe augmente de <color=#4d92e7>{0}</color> (durée : 16 s)."}
+{"id":1524642,"jp":"装着者が設置型の星閃スキルを発動した後、チーム全体のHPを装着者のHP上限の<color=#4d92e7>{0}</color>分回復し、攻撃力が<color=#4d92e7>{1}</color>上昇する（効果時間：24秒）。","fr":"Après que le porteur a activé une compétence d'Éclair stellaire de type déployable, restaure les PV de toute l'équipe à hauteur de <color=#4d92e7>{0}</color> des PV max. du porteur et augmente l'ATQ de <color=#4d92e7>{1}</color> (durée : 24 s)."}
+{"id":1524646,"jp":"装着者が星響スキルを発動した時は毎回、チーム全員のHPをそれぞれのHP上限の<color=#4d92e7>{1}</color>分回復し、会心ダメージが<color=#4d92e7>{0}</color>増加する（効果時間：15秒）。","fr":"Chaque fois que le porteur active une Compétence Écho stellaire, restaure les PV de chaque membre de l'équipe à hauteur de <color=#4d92e7>{1}</color> de ses propres PV max. et augmente les DGT CRIT de <color=#4d92e7>{0}</color> (durée : 15 s)."}
+{"id":1524647,"jp":"雷の刻印を2つ以上所持している時、装着者のチャージ攻撃が敵に命中した時は毎回、チーム全体の雷属性ダメージが<color=#4d92e7>{0}</color>増加する（最大5スタック、効果時間：12秒）。","fr":"Lorsque 2 Sceaux de Foudre ou plus sont détenus, chaque Attaque chargée du porteur touchant un ennemi augmente les DGT de Foudre de toute l'équipe de <color=#4d92e7>{0}</color> (maximum 5 cumuls, durée : 12 s)."}
+{"id":1524651,"jp":"木の刻印または風の刻印を獲得した後6秒以内に装着者がチャージ攻撃を行った場合、チーム全体の攻撃力が<color=#4d92e7>{0}</color>上昇する（効果時間：20秒）。","fr":"Si le porteur effectue une Attaque chargée dans les 6 s suivant l'obtention d'un Sceau de Bois ou de Vent, l'ATQ de toute l'équipe augmente de <color=#4d92e7>{0}</color> (durée : 20 s)."}
+{"id":1524655,"jp":"装着者が回復を行った後、回復を受けたキャラの攻撃力が<color=#4d92e7>{0}</color>上昇する（効果時間：8秒）。","fr":"Lorsque le porteur prodigue des soins, l'ATQ du personnage soigné augmente de <color=#4d92e7>{0}</color> (durée : 8 s)."}
+{"id":1524659,"jp":"装着者が星響スキルを発動した時、自身のEX強度が<color=#4d92e7>{0}</color>上昇する（最大3スタック、効果時間：20秒）。","fr":"Lorsque le porteur active une Compétence Écho stellaire, sa Puissance EX augmente de <color=#4d92e7>{0}</color> (maximum 3 cumuls, durée : 20 s)."}
+{"id":1524662,"jp":"雷の刻印を2つ以上所持している時、装着者の星響スキルと星極スキルのダメージが<color=#4d92e7>{0}</color>増加する。","fr":"Lorsque 2 Sceaux de Foudre ou plus sont détenus, les DGT de la Compétence Écho stellaire et de la Compétence Zénith stellaire du porteur augmentent de <color=#4d92e7>{0}</color>."}
+{"id":1524666,"jp":"装着者がチャージ攻撃を行った後、自身のブレイク効率が<color=#4d92e7>{0}</color>上昇する（効果時間：10秒）。","fr":"Après que le porteur a effectué une Attaque chargée, son Efficacité de brise augmente de <color=#4d92e7>{0}</color> (durée : 10 s)."}
+{"id":1524667,"jp":"装着者が星響スキルを発動した後、地の刻印を2つ以上所持している場合、チーム全体の攻撃力が<color=#4d92e7>{0}</color>上昇する（効果時間：12秒）。","fr":"Après que le porteur a activé une Compétence Écho stellaire, si 2 Sceaux de Terre ou plus sont détenus, l'ATQ de toute l'équipe augmente de <color=#4d92e7>{0}</color> (durée : 12 s)."}
+{"id":1524668,"jp":"装着者が火属性または風属性のEXダメージを与えた時、自身の火属性ダメージが<color=#4d92e7>{0}</color>増加する（効果時間：16秒）。","fr":"Lorsque le porteur inflige des DGT EX de Feu ou de Vent, ses DGT de Feu augmentent de <color=#4d92e7>{0}</color> (durée : 16 s)."}
+{"id":1524676,"jp":"装着者が風属性のEXダメージを与えた時、自身の風属性ダメージが<color=#4d92e7>{0}</color>増加する（効果時間：12秒）。","fr":"Lorsque le porteur inflige des DGT EX de Vent, ses DGT de Vent augmentent de <color=#4d92e7>{0}</color> (durée : 12 s)."}
+{"id":1524677,"jp":"装着者がチャージ攻撃を行った時、自身のEXダメージ強度が<color=#4d92e7>{0}</color>上昇する（最大4スタック、効果時間：6秒）。","fr":"Lorsque le porteur effectue une Attaque chargée, sa Puissance EX augmente de <color=#4d92e7>{0}</color> (maximum 4 cumuls, durée : 6 s)."}
+{"id":1524680,"jp":"水の刻印または光の刻印を2つ以上所持している時、装着者のチャージ攻撃の会心率が<color=#4d92e7>{0}</color>上昇し、チャージ攻撃ダメージが<color=#4d92e7>{1}</color>増加する。","fr":"Lorsque 2 Sceaux d'Eau ou 2 Sceaux de Lumière ou plus sont détenus, le Taux CRIT des Attaques chargées du porteur augmente de <color=#4d92e7>{0}</color> et leurs DGT augmentent de <color=#4d92e7>{1}</color>."}
+{"id":1524681,"jp":"装着者が星響スキルを発動した後、自身のチャージ攻撃ダメージが<color=#4d92e7>{0}</color>増加する（効果時間：15秒）。","fr":"Après que le porteur a activé une Compétence Écho stellaire, ses DGT d'Attaque chargée augmentent de <color=#4d92e7>{0}</color> (durée : 15 s)."}
+{"id":1524684,"jp":"装着者のチャージ攻撃が敵に命中した後は毎回、自身のチャージ攻撃ダメージが<color=#4d92e7>{0}</color>増加する（効果時間：4秒）。","fr":"Chaque fois que l'Attaque chargée du porteur touche un ennemi, ses DGT d'Attaque chargée augmentent de <color=#4d92e7>{0}</color> (durée : 4 s)."}
 {"id":1524690,"jp":"妖影斬り","fr":"Entaille de l'ombre spectrale"}
 {"id":1524694,"jp":"時雨降る庭","fr":"Jardin sous l'averse"}
+{"id":1524695,"jp":"装着者が星響スキルを発動した時、自身の会心率が<color=#4d92e7>{0}</color>上昇する（効果時間：12秒）。","fr":"Lorsque le porteur active une Compétence Écho stellaire, son Taux CRIT augmente de <color=#4d92e7>{0}</color> (durée : 12 s)."}
 {"id":1524696,"jp":"ふしぎな妖ノ市","fr":"Étrange marché des esprits"}
+{"id":1524697,"jp":"装着者が通常攻撃を行った時は毎回、自身の会心率が<color=#4d92e7>{0}</color>上昇する（最大5スタック、効果時間：3秒）。","fr":"Chaque fois que le porteur effectue une Attaque normale, son Taux CRIT augmente de <color=#4d92e7>{0}</color> (maximum 5 cumuls, durée : 3 s)."}
+{"id":1524702,"jp":"装着者がフィールド上でシールドを獲得した時、チーム全体の攻撃力が<color=#4d92e7>{0}</color>上昇する（効果時間：20秒）。","fr":"Lorsque le porteur obtient un Bouclier sur le terrain, l'ATQ de toute l'équipe augmente de <color=#4d92e7>{0}</color> (durée : 20 s)."}
+{"id":1524703,"jp":"装着者が星響スキルを発動した時、またはパートナーのキボがキボ特殊スキルを発動した時、両者の火属性ダメージが<color=#4d92e7>{0}</color>増加する（効果時間：8秒）。","fr":"Lorsque le porteur active une Compétence Écho stellaire ou que son Kibo partenaire active une compétence spéciale de Kibo, leurs DGT de Feu respectifs augmentent de <color=#4d92e7>{0}</color> (durée : 8 s)."}
 {"id":1524704,"jp":"装着者のパートナーであるキボの与ダメージが<color=#4d92e7>{0}</color>増加する。","fr":"Augmente de <color=#4d92e7>{0}</color> les DGT infligés par le Kibo partenaire du porteur."}
+{"id":1524707,"jp":"装着者が星閃スキルを発動した後、チーム全体が装着者のHP上限の<color=#4d92e7>{0}</color>分のシールドを獲得する。","fr":"Après que le porteur a activé une compétence d'Éclair stellaire, toute l'équipe obtient un Bouclier équivalant à <color=#4d92e7>{0}</color> des PV max. du porteur."}
+{"id":1524711,"jp":"異なる属性の刻印を1種類獲得するたび、チーム全体の攻撃力が<color=#4d92e7>{0}</color>上昇する（効果時間：24秒）。効果時間は刻印の属性ごとに個別に計算される。","fr":"Chaque fois qu'un Sceau d'un élément différent est obtenu, l'ATQ de toute l'équipe augmente de <color=#4d92e7>{0}</color> (durée : 24 s). La durée de l'effet est calculée séparément pour chaque élément de Sceau."}
 {"id":1524712,"jp":"装着者の氷属性ダメージが<color=#4d92e7>{0}</color>増加する。","fr":"Augmente de <color=#4d92e7>{0}</color> les DGT de Glace du porteur."}
 {"id":1524713,"jp":"装着者の火属性ダメージが<color=#4d92e7>{0}</color>増加する。","fr":"Augmente de <color=#4d92e7>{0}</color> les DGT de Feu du porteur."}
 {"id":1524714,"jp":"装着者の風属性ダメージが<color=#4d92e7>{0}</color>増加する。","fr":"Augmente de <color=#4d92e7>{0}</color> les DGT de Vent du porteur."}
@@ -28135,16 +28186,37 @@
 {"id":1524719,"jp":"装着者の地属性ダメージが<color=#4d92e7>{0}</color>増加する。","fr":"Augmente de <color=#4d92e7>{0}</color> les DGT de Terre du porteur."}
 {"id":1524720,"jp":"装着者が敵を倒した後、自身のHP上限の<color=#4d92e7>{0}</color>分のHPを回復する。","fr":"Après avoir vaincu un ennemi, le porteur récupère des PV à hauteur de <color=#4d92e7>{0}</color> de ses PV max."}
 {"id":1524721,"jp":"装着者の光属性ダメージが<color=#4d92e7>{0}</color>増加する。","fr":"Augmente de <color=#4d92e7>{0}</color> les DGT de Lumière du porteur."}
+{"id":1524722,"jp":"装着者が星響スキルを発動した後、自身の通常攻撃ダメージが<color=#4d92e7>{0}</color>増加する（効果時間：24秒）。","fr":"Après que le porteur a activé une Compétence Écho stellaire, ses DGT d'Attaque normale augmentent de <color=#4d92e7>{0}</color> (durée : 24 s)."}
+{"id":1524723,"jp":"装着者が刻印を獲得した時、自身の回復効果が<color=#4d92e7>{0}</color>上昇する（効果時間：10秒）。","fr":"Lorsque le porteur obtient un Sceau, son effet de soin augmente de <color=#4d92e7>{0}</color> (durée : 10 s)."}
+{"id":1524728,"jp":"装着者がフィールドに出た時、自身の攻撃力が<color=#4d92e7>{0}</color>上昇する（効果時間：8秒）。","fr":"Lorsque le porteur entre sur le terrain, son ATQ augmente de <color=#4d92e7>{0}</color> (durée : 8 s)."}
+{"id":1524732,"jp":"装着者が星極スキルを発動した後、チーム全体のEX強度が<color=#4d92e7>{0}</color>上昇する（効果時間：20秒）。","fr":"Après que le porteur a activé une Compétence Zénith stellaire, la Puissance EX de toute l'équipe augmente de <color=#4d92e7>{0}</color> (durée : 20 s)."}
+{"id":1524737,"jp":"装着者がチャージ攻撃を行った時、自身の地属性ダメージが<color=#4d92e7>{0}</color>増加する（最大4スタック、効果時間：5秒）。","fr":"Lorsque le porteur effectue une Attaque chargée, ses DGT de Terre augmentent de <color=#4d92e7>{0}</color> (maximum 4 cumuls, durée : 5 s)."}
+{"id":1524738,"jp":"装着者が星響スキルを発動した時、チーム全体の攻撃力が<color=#4d92e7>{0}</color>上昇する（最大2スタック、効果時間：15秒）。","fr":"Lorsque le porteur active une Compétence Écho stellaire, l'ATQ de toute l'équipe augmente de <color=#4d92e7>{0}</color> (maximum 2 cumuls, durée : 15 s)."}
+{"id":1524739,"jp":"装着者が氷属性ダメージを与えた後、チーム全体のEX強度が<color=#4d92e7>{0}</color>上昇する（効果時間：12秒）。","fr":"Après que le porteur a infligé des DGT de Glace, la Puissance EX de toute l'équipe augmente de <color=#4d92e7>{0}</color> (durée : 12 s)."}
+{"id":1524740,"jp":"装着者が闇属性ダメージを与えた後、チーム全体の攻撃力が<color=#4d92e7>{0}</color>上昇する（最大5スタック、効果時間：20秒、クールタイム：2.8秒）。","fr":"Après que le porteur a infligé des DGT de Ténèbres, l'ATQ de toute l'équipe augmente de <color=#4d92e7>{0}</color> (maximum 5 cumuls, durée : 20 s, temps de recharge : 2,8 s)."}
+{"id":1524748,"jp":"装着者がフィールド上で刻印を獲得した時、自身の星極チャージを<color=#4d92e7>{0}</color>回復する。","fr":"Lorsque le porteur obtient un Sceau sur le terrain, il restaure <color=#4d92e7>{0}</color> points de charge du Zénith stellaire."}
 {"id":1524753,"jp":"徹底お掃除！","fr":"Grand nettoyage !"}
+{"id":1524756,"jp":"装着者が会心ダメージを与えた時は毎回、自身の与ダメージが<color=#4d92e7>{0}</color>増加する（最大3スタック、効果時間：15秒）。","fr":"Chaque fois que le porteur inflige des DGT CRIT, ses DGT infligés augmentent de <color=#4d92e7>{0}</color> (maximum 3 cumuls, durée : 15 s)."}
+{"id":1524757,"jp":"装着者が敵をブレイクした後、チーム全体の攻撃力が<color=#4d92e7>{0}</color>上昇する（効果時間：24秒）。","fr":"Après que le porteur a provoqué la brise d'un ennemi, l'ATQ de toute l'équipe augmente de <color=#4d92e7>{0}</color> (durée : 24 s)."}
+{"id":1524758,"jp":"装着者が刻印を3つ以上所持している時、自身のEX強度が<color=#4d92e7>{0}</color>上昇する。刻印が3つ未満の状態が8秒続いた後、この効果は解除される。","fr":"Lorsque le porteur possède 3 Sceaux ou plus, sa Puissance EX augmente de <color=#4d92e7>{0}</color>. Cet effet se dissipe si le nombre de Sceaux reste inférieur à 3 pendant 8 s."}
+{"id":1524759,"jp":"装着者が星閃スキルを発動した後、チーム全体の被ダメージが<color=#4d92e7>{0}</color>減少し、与ダメージが<color=#4d92e7>{1}</color>増加する（効果時間：24秒）。","fr":"Après que le porteur a activé une compétence d'Éclair stellaire, les DGT subis par toute l'équipe diminuent de <color=#4d92e7>{0}</color> et ses DGT infligés augmentent de <color=#4d92e7>{1}</color> (durée : 24 s)."}
 {"id":1524761,"jp":"積み重ねる努力","fr":"Efforts accumulés"}
+{"id":1524762,"jp":"装着者が戦闘に入った後、1秒ごとに「蓄積」を1スタック獲得し、攻撃力が<color=#4d92e7>{0}</color>上昇する（最大5スタック）。戦闘を離れた状態が5秒続いた後、「蓄積」のスタック数はリセットされる。","fr":"Après l'entrée en combat du porteur, obtient 1 cumul de « Réserve » chaque seconde, augmentant son ATQ de <color=#4d92e7>{0}</color> (maximum 5 cumuls). Après 5 s hors combat, les cumuls de « Réserve » sont réinitialisés."}
 {"id":1524763,"jp":"待ちきれなくて","fr":"Trop impatient"}
+{"id":1524764,"jp":"装着者が刻印を2つ消費するごとに、自身のEX強度が<color=#4d92e7>{0}</color>上昇する（効果時間：15秒）。","fr":"Chaque fois que le porteur consomme 2 Sceaux, sa Puissance EX augmente de <color=#4d92e7>{0}</color> (durée : 15 s)."}
 {"id":1524765,"jp":"「キラキラ」を捕まえて","fr":"Attraper les « Ça brille »"}
+{"id":1524766,"jp":"装着者が戦闘に入った後、自身の攻撃力が<color=#4d92e7>{0}</color>上昇する。ダメージを受けた時、この効果は解除され、2秒後に再び獲得する。","fr":"Après l'entrée en combat du porteur, son ATQ augmente de <color=#4d92e7>{0}</color>. Cet effet se dissipe lorsqu'il subit des DGT et se réactive après 2 s."}
 {"id":1524767,"jp":"鋭き矢の威光","fr":"Majesté de la flèche acérée"}
 {"id":1524769,"jp":"温もりを紡いで","fr":"Tisser la chaleur"}
+{"id":1524770,"jp":"装着者がダメージを受けた時、自身の防御力が<color=#4d92e7>{0}</color>上昇し、被回復効果が<color=#4d92e7>{1}</color>上昇する（効果時間：8秒）。","fr":"Lorsque le porteur subit des DGT, sa DÉF augmente de <color=#4d92e7>{0}</color> et l'effet des soins reçus augmente de <color=#4d92e7>{1}</color> (durée : 8 s)."}
 {"id":1524771,"jp":"ドゥルの心得","fr":"Principes de Dur"}
+{"id":1524772,"jp":"装着者が回復効果のあるスキルを発動した時は毎回、自身の星極チャージを<color=#4d92e7>{0}</color>回復する（クールタイム：6秒）。","fr":"Chaque fois que le porteur active une compétence dotée d'un effet de soin, il restaure <color=#4d92e7>{0}</color> points de charge du Zénith stellaire (temps de recharge : 6 s)."}
 {"id":1524773,"jp":"ごちそうまであと少し","fr":"Le festin est presque prêt"}
+{"id":1524774,"jp":"装着者が刻印を消費した時は毎回、チーム全体の攻撃力が<color=#4d92e7>{0}</color>上昇する（効果時間：24秒）。","fr":"Chaque fois que le porteur consomme un Sceau, l'ATQ de toute l'équipe augmente de <color=#4d92e7>{0}</color> (durée : 24 s)."}
 {"id":1524777,"jp":"火力強化","fr":"Puissance de feu accrue"}
+{"id":1524778,"jp":"装着者が星響スキルを発動した時、自身のブレイク効率が<color=#4d92e7>{0}</color>上昇する（効果時間：16秒）。","fr":"Lorsque le porteur active une Compétence Écho stellaire, son Efficacité de brise augmente de <color=#4d92e7>{0}</color> (durée : 16 s)."}
 {"id":1524779,"jp":"一進一退の勝負！","fr":"Un combat indécis !"}
+{"id":1524780,"jp":"装着者がフィールドに出た時、自身の攻撃力が<color=#4d92e7>{0}</color>上昇する（効果時間：15秒、クールタイム：12秒）。","fr":"Lorsque le porteur entre sur le terrain, son ATQ augmente de <color=#4d92e7>{0}</color> (durée : 15 s, temps de recharge : 12 s)."}
 {"id":1524781,"jp":"装着者のEX強度が<color=#4d92e7>{0}</color>上昇する。","fr":"Augmente de <color=#4d92e7>{0}</color> la Puissance EX du porteur."}
 {"id":1524782,"jp":"装着者のEX会心率が<color=#4d92e7>{0}</color>上昇する。","fr":"Augmente de <color=#4d92e7>{0}</color> le Taux CRIT EX du porteur."}
 {"id":1524785,"jp":"装着者の会心率が<color=#4d92e7>{0}</color>上昇する。","fr":"Augmente de <color=#4d92e7>{0}</color> le Taux CRIT du porteur."}
@@ -28322,6 +28394,9 @@
 {"id":1524961,"jp":"自身の攻撃力が75上昇し、HPが200増加する。","fr":"Augmente sa propre ATQ de 75 et ses PV de 200."}
 {"id":1524962,"jp":"自身の攻撃力が110上昇し、HPが300増加する。","fr":"Augmente sa propre ATQ de 110 et ses PV de 300."}
 {"id":1524963,"jp":"自身の攻撃力が150上昇し、HPが400増加する。","fr":"Augmente sa propre ATQ de 150 et ses PV de 400."}
+{"id":1524964,"jp":"自身のエネルギー回復効率が4%上昇し、HPが1.1%増加する。エネルギー回復効率上昇の効果はキボファイトでは適用されない。","fr":"Augmente l'efficacité de récupération d'Énergie de 4 % et les PV de 1,1 %. Le bonus d'efficacité de récupération d'Énergie ne s'applique pas en Duel de Kibo."}
+{"id":1524965,"jp":"自身のエネルギー回復効率が6%上昇し、HPが1.7%増加する。エネルギー回復効率上昇の効果はキボファイトでは適用されない。","fr":"Augmente l'efficacité de récupération d'Énergie de 6 % et les PV de 1,7 %. Le bonus d'efficacité de récupération d'Énergie ne s'applique pas en Duel de Kibo."}
+{"id":1524966,"jp":"自身のエネルギー回復効率が8%上昇し、HPが2.3%増加する。エネルギー回復効率上昇の効果はキボファイトでは適用されない。","fr":"Augmente l'efficacité de récupération d'Énergie de 8 % et les PV de 2,3 %. Le bonus d'efficacité de récupération d'Énergie ne s'applique pas en Duel de Kibo."}
 {"id":1524967,"jp":"自身のブレイク値が100増加し、防御力が20上昇する。","fr":"Augmente de 100 sa Valeur de brise et de 20 sa DÉF."}
 {"id":1524968,"jp":"自身のブレイク値が150増加し、防御力が30上昇する。","fr":"Augmente de 150 sa Valeur de brise et de 30 sa DÉF."}
 {"id":1524969,"jp":"自身のブレイク値が200増加し、防御力が40上昇する。","fr":"Augmente de 200 sa Valeur de brise et de 40 sa DÉF."}
@@ -28335,6 +28410,7 @@
 {"id":1524977,"jp":"自身のEX会心率が3.7%、攻撃力が5.4%上昇する。","fr":"Augmente de 3,7 % son Taux CRIT EX et de 5,4 % son ATQ."}
 {"id":1524978,"jp":"自身のEX会心率が5%、攻撃力が7.2%上昇する。","fr":"Augmente son propre Taux CRIT EX de 5 % et son ATQ de 7,2 %."}
 {"id":1524979,"jp":"自身のHPが100%の時、防御力が75低下し、全属性ダメージが40%増加する。","fr":"Quand ses PV sont à 100 %, réduit sa DÉF de 75 et augmente de 40 % ses DGT de tous les éléments."}
+{"id":1524980,"jp":"10秒ごとに、エネミーに次のいずれかのデバフをランダムで付与する。防御力480低下、攻撃力260低下、全属性の被ダメージ10%増加（効果時間：16秒）。","fr":"Toutes les 10 s, inflige aléatoirement l'un des Affaiblissements suivants aux ennemis : DÉF -480, ATQ -260 ou DGT subis de tous les éléments +10 % (durée : 16 s)."}
 {"id":1524981,"jp":"8秒ごとに、自身とパートナーのHPをそれぞれのHP上限の4%回復する。","fr":"Toutes les 8 s, restaure à soi et à son partenaire 4 % de leurs PV max."}
 {"id":1524982,"jp":"8秒ごとに、自身とパートナーのHPをそれぞれのHP上限の15.5%回復する。","fr":"Toutes les 8 s, restaure à soi et à son partenaire 15,5 % de leurs PV max."}
 {"id":1524983,"jp":"ボスに対するブレイク効率が52%上昇する。","fr":"Augmente l'Efficacité de brise contre les boss de 52 %."}
@@ -28342,6 +28418,8 @@
 {"id":1524985,"jp":"味方のキボの会心率が8%上昇し、会心ダメージが20%増加する（スタック不可）。","fr":"Augmente de 8 % le Taux CRIT et de 20 % les DGT CRIT des Kibo alliés (non cumulable)."}
 {"id":1524986,"jp":"味方のキボの全属性ダメージが12%増加し、受ける全属性ダメージが5.5%減少する（スタック不可）。","fr":"Augmente de 12 % les DGT de tous les éléments des Kibo alliés et réduit de 5,5 % les DGT de tous les éléments qu'ils subissent (non cumulable)."}
 {"id":1524987,"jp":"味方のキボの攻撃力が9%上昇し、与ダメージが12.5%増加する（スタック不可）。","fr":"Augmente de 9 % l'ATQ et de 12,5 % les DGT infligés des Kibo alliés (non cumulable)."}
+{"id":1524988,"jp":"自身のスキルのクールタイム効率が10%、エネルギー回復効率が11%上昇する。エネルギー回復効率上昇の効果はキボファイトでは適用されない。","fr":"Augmente de 10 % l'efficacité du temps de recharge des compétences et de 11 % l'efficacité de récupération d'Énergie. Le bonus d'efficacité de récupération d'Énergie ne s'applique pas en Duel de Kibo."}
+{"id":1524989,"jp":"自身の攻撃力が11%上昇する。キボ特殊スキルを発動した後、100%の確率でキボスキルのクールタイムがただちにリセットされる。","fr":"Augmente l'ATQ de 11 %. Après l'activation d'une compétence spéciale de Kibo, 100 % de chances de réinitialiser immédiatement le temps de recharge de la compétence de Kibo."}
 {"id":1524990,"jp":"ボスへの与ダメージが25%増加する。","fr":"Augmente de 25 % les DGT infligés aux boss."}
 {"id":1524991,"jp":"自身のキボ特殊スキルのダメージが37.5%増加する。キボ特殊スキルを発動した時、現在HPの4%を消費する。","fr":"Augmente de 37,5 % les DGT de sa compétence spéciale de Kibo. Quand il l'utilise, consomme 4 % de ses PV actuels."}
 {"id":1524992,"jp":"自身がキボ特殊スキルを発動した時、100%の確率でEX強度が59上昇する（効果時間：10秒）。","fr":"Quand il utilise une compétence spéciale de Kibo, augmente de 59 sa Puissance EX avec 100 % de chances (durée : 10 s)."}
@@ -28355,6 +28433,8 @@
 {"id":1525000,"jp":"自身がスキルを発動した時、パートナーの会心ダメージが10%増加する（最大5スタック、効果時間：10秒）。","fr":"Quand il utilise une compétence, augmente de 10 % les DGT CRIT de son partenaire (5 cumuls max., durée : 10 s)."}
 {"id":1525001,"jp":"自身の全属性ダメージが12.5%増加し、受ける全属性ダメージが12.5%減少する。","fr":"Augmente de 12,5 % ses DGT de tous les éléments et réduit de 12,5 % les DGT de tous les éléments qu'il subit."}
 {"id":1525002,"jp":"スキルのクールタイム効率が21%上昇する。","fr":"Augmente de 21 % l'efficacité de recharge des compétences."}
+{"id":1525003,"jp":"自身がキボ特殊スキルまたはキボスキルを発動した時、30%の確率で自身のEX強度が30%上昇し、会心ダメージが30%増加する（効果時間：10秒）。","fr":"Lors de l'activation d'une compétence spéciale de Kibo ou d'une compétence de Kibo, 30 % de chances d'augmenter sa propre Puissance EX de 30 % et ses DGT CRIT de 30 % (durée : 10 s)."}
+{"id":1525004,"jp":"自身がキボ特殊スキルまたはキボスキルを発動した時、30%の確率で自身のEX強度が55%上昇し、会心ダメージが55%増加する（効果時間：10秒）。","fr":"Lors de l'activation d'une compétence spéciale de Kibo ou d'une compétence de Kibo, 30 % de chances d'augmenter sa propre Puissance EX de 55 % et ses DGT CRIT de 55 % (durée : 10 s)."}
 {"id":1525005,"jp":"自身のHPが3%増加し、会心率が8%、EX強度が300上昇する。","fr":"Augmente de 3 % ses PV, de 8 % son Taux CRIT et de 300 sa Puissance EX."}
 {"id":1525006,"jp":"キボ特殊スキルを発動した後、自身のエネルギー回復速度が19%上昇する（効果時間：16秒）。","fr":"Après avoir utilisé une compétence spéciale de Kibo, augmente de 19 % sa vitesse de récupération d'Énergie (durée : 16 s)."}
 {"id":1525007,"jp":"自身の防御力が4.2%低下し、与ダメージが25%増加する。","fr":"Réduit de 4,2 % sa DÉF et augmente de 25 % les DGT qu'il inflige."}
@@ -28383,18 +28463,38 @@
 {"id":1525030,"jp":"自身の与ダメージが12%増加し、全属性ダメージも12%増加する。","fr":"Augmente de 12 % les DGT qu'il inflige et de 12 % ses DGT de tous les éléments."}
 {"id":1525031,"jp":"自身のEX強度が110上昇し、受ける木属性ダメージと雷属性ダメージが10%減少する。","fr":"Augmente de 110 sa Puissance EX et réduit de 10 % les DGT de Bois et de Foudre qu'il subit."}
 {"id":1525032,"jp":"エネミーにファイアボールを放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lance une boule de feu sur un ennemi et inflige des <color=#d25556>DGT de Feu</color>."}
+{"id":1525033,"jp":"エネミーにファイアボールを3発放ち、それぞれのファイアボールが攻撃力の{0}分の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Projette 3 boules de feu vers l'ennemi, chacune infligeant des <color=#d25556>DGT de Feu</color> équivalant à {0} de l'ATQ."}
 {"id":1525034,"jp":"対象にファイアボールを放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lance une boule de feu sur la cible et inflige des <color=#d25556>DGT de Feu</color>."}
 {"id":1525035,"jp":"対象にファイアボールを3発放ち、攻撃力の{0}分の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lance 3 boules de feu sur la cible et inflige {0} de l'ATQ en <color=#d25556>DGT de Feu</color>."}
 {"id":1525036,"jp":"エネミーに追尾するフラミーを放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lance un Flammy à tête chercheuse sur un ennemi et inflige des <color=#d25556>DGT de Feu</color>."}
+{"id":1525037,"jp":"敵を追尾するファイアボール（小）を3個放ち、1個につき攻撃力の20%の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Projette 3 petites boules de feu à tête chercheuse vers l'ennemi, chacune infligeant des <color=#d25556>DGT de Feu</color> équivalant à 20 % de l'ATQ."}
 {"id":1525038,"jp":"敵に大きな火の玉を放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lance une grosse boule de feu sur un ennemi et inflige des <color=#d25556>DGT de Feu</color>."}
+{"id":1525039,"jp":"敵にファイアボール（大）を1個放ち、攻撃力の160%の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Projette 1 grosse boule de feu vers l'ennemi, infligeant des <color=#d25556>DGT de Feu</color> équivalant à 160 % de l'ATQ."}
+{"id":1525040,"jp":"空中にフラミーを2発出してエネミーへ飛ばす。攻撃を合計4回行うたび、エネミーの近くへ多数のフラミーを放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Invoque 2 Flammy dans les airs et les projette vers l'ennemi. Toutes les 4 attaques, libère de nombreux Flammy à proximité de l'ennemi, infligeant des <color=#d25556>DGT de Feu</color>."}
 {"id":1525042,"jp":"対象へ突進し、進路上のエネミーに<color=#d25556>火属性ダメージ</color>を与える。","fr":"Fonce vers la cible et inflige des <color=#d25556>DGT de Feu</color> aux ennemis sur son passage."}
+{"id":1525043,"jp":"炎をまとって対象へ突進し、進路上のエネミーに攻撃力の{0}分の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Effectue une ruée enflammée vers la cible, infligeant aux ennemis sur sa trajectoire des <color=#d25556>DGT de Feu</color> équivalant à {0} de l'ATQ."}
 {"id":1525044,"jp":"エネミーに烈火のファイアボールを放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lance une boule de feu ardente sur un ennemi et inflige des <color=#d25556>DGT de Feu</color>."}
+{"id":1525045,"jp":"エネミーに烈火のファイアボールを1発放ち、攻撃力の{0}分の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Projette 1 boule de feu ardente vers l'ennemi, infligeant des <color=#d25556>DGT de Feu</color> équivalant à {0} de l'ATQ."}
+{"id":1525046,"jp":"エネミーに追尾するフラミーを3発放ち、合計で攻撃力の{0}分の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Projette 3 Flammy à tête chercheuse vers l'ennemi, infligeant au total des <color=#d25556>DGT de Feu</color> équivalant à {0} de l'ATQ."}
+{"id":1525047,"jp":"空中から対象地点へ大型ファイアボールを1発放つ。着弾後、後方へフラミーを3発飛び散らせ、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Projette depuis les airs 1 grosse boule de feu vers la zone ciblée. À l'impact, disperse 3 Flammy vers l'arrière, infligeant des <color=#d25556>DGT de Feu</color>."}
 {"id":1525049,"jp":"対象へ炎弾を連射し、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Tire en rafale des projectiles de flammes sur la cible et inflige des <color=#d25556>DGT de Feu</color>."}
+{"id":1525050,"jp":"対象へ炎弾を5発連射し、命中したエネミーに1発につき攻撃力の{0}分の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Tire rapidement 5 projectiles enflammés vers la cible, chacun infligeant aux ennemis touchés des <color=#d25556>DGT de Feu</color> équivalant à {0} de l'ATQ."}
+{"id":1525051,"jp":"空中から対象地点へ大型ファイアボールを1発放ち、周囲へ火種を散らす。火種は一定時間後またはエネミーが近づいた時に爆発し、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Projette depuis les airs 1 grosse boule de feu vers la zone ciblée, dispersant des braises aux alentours. Les braises explosent après un certain temps ou lorsqu'un ennemi s'approche, infligeant des <color=#d25556>DGT de Feu</color>."}
 {"id":1525053,"jp":"対象地点から炎を噴き上げ、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Fait jaillir des flammes de la zone ciblée et inflige des <color=#d25556>DGT de Feu</color>."}
+{"id":1525054,"jp":"対象地点から炎を噴き上げ、その場のエネミーに攻撃力の{0}分の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Fait jaillir des flammes à l'endroit ciblé, infligeant aux ennemis présents des <color=#d25556>DGT de Feu</color> équivalant à {0} de l'ATQ."}
 {"id":1525055,"jp":"対象範囲の周囲へフラミーを複数放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lance plusieurs Flammy autour de la zone ciblée et inflige des <color=#d25556>DGT de Feu</color>."}
+{"id":1525056,"jp":"対象範囲の周囲へフラミーを複数放ち、1発につき攻撃力の{0}分の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Libère plusieurs Flammy autour de la zone ciblée, chacun infligeant des <color=#d25556>DGT de Feu</color> équivalant à {0} de l'ATQ."}
 {"id":1525057,"jp":"対象範囲の周囲へ大量のフラミーを放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lance un grand nombre de Flammy autour de la zone ciblée et inflige des <color=#d25556>DGT de Feu</color>."}
+{"id":1525058,"jp":"対象範囲の周囲へ大量のフラミーを放ち、1発につき攻撃力の{0}分の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Libère un grand nombre de Flammy autour de la zone ciblée, chacun infligeant des <color=#d25556>DGT de Feu</color> équivalant à {0} de l'ATQ."}
 {"id":1525059,"jp":"前方へ体当たりし、範囲内のエネミーに<color=#d25556>火属性ダメージ</color>を与える。","fr":"Charge vers l'avant et inflige des <color=#d25556>DGT de Feu</color> aux ennemis dans la zone."}
+{"id":1525060,"jp":"前方へ体当たりし、前方範囲内のエネミーに攻撃力の{0}分の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Effectue une charge frontale, infligeant aux ennemis dans la zone devant soi des <color=#d25556>DGT de Feu</color> équivalant à {0} de l'ATQ."}
+{"id":1525061,"jp":"自身を中心に、周囲へ素早く広がる炎の衝撃波を1回放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Libère 1 onde de choc enflammée qui se propage rapidement autour de soi, infligeant des <color=#d25556>DGT de Feu</color>."}
+{"id":1525062,"jp":"自身を中心に、周囲へ素早く広がる炎の衝撃波を1回放ち、触れたエネミーに攻撃力の{0}分の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Libère 1 onde de choc enflammée qui se propage rapidement autour de soi, infligeant aux ennemis touchés des <color=#d25556>DGT de Feu</color> équivalant à {0} de l'ATQ."}
+{"id":1525063,"jp":"自身を中心に、周囲へ素早く広がる炎の衝撃波を2回放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Libère 2 ondes de choc enflammées qui se propagent rapidement autour de soi, infligeant des <color=#d25556>DGT de Feu</color>."}
+{"id":1525064,"jp":"自身を中心に、周囲へ素早く広がる炎の衝撃波を2回放ち、触れたエネミーに攻撃力の{0}分の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Libère 2 ondes de choc enflammées qui se propagent rapidement autour de soi, infligeant aux ennemis touchés des <color=#d25556>DGT de Feu</color> équivalant à {0} de l'ATQ."}
+{"id":1525065,"jp":"エネミーの周囲のランダムな位置に火柱を複数噴き上げる。さらに噴出地点から炎の衝撃波を外側へ広げ、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Fait jaillir plusieurs piliers de flammes à des endroits aléatoires autour de l'ennemi. Des ondes de choc enflammées se propagent ensuite depuis les points d'éruption, infligeant des <color=#d25556>DGT de Feu</color>."}
 {"id":1525067,"jp":"空中に隕石を1個呼び出してエネミーへ落とし、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Invoque 1 météorite dans les airs, qui s'abat sur un ennemi et inflige des <color=#d25556>DGT de Feu</color>."}
+{"id":1525068,"jp":"空中に隕石を1個呼び出してエネミーへ落とし、攻撃力の{0}分の<color=#d25556>火属性ダメージ</color>を与える。","fr":"Invoque 1 météorite dans les airs et la fait s'abattre sur l'ennemi, infligeant des <color=#d25556>DGT de Feu</color> équivalant à {0} de l'ATQ."}
 {"id":1525069,"jp":"前方へファイアボールを放ち、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Lance une boule de feu vers l'avant et inflige des <color=#d25556>DGT de Feu</color>."}
 {"id":1525071,"jp":"対象地点の近くに隕石を複数降らせ、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Fait pleuvoir plusieurs météorites près de la zone ciblée et inflige des <color=#d25556>DGT de Feu</color>."}
 {"id":1525079,"jp":"対象地点に火柱を1本噴き上げ、<color=#d25556>火属性ダメージ</color>を与える。","fr":"Fait jaillir 1 colonne de feu dans la zone ciblée et inflige des <color=#d25556>DGT de Feu</color>."}
