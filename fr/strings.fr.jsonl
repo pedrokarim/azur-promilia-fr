@@ -12373,6 +12373,7 @@
 {"id":1508971,"jp":"「仙狐さま！」と、幼い声が小玉を呼び止めた。","fr":"« Renard immortel ! », s'écria une voix enfantine, arrêtant Xiaoyu dans son élan."}
 {"id":1508978,"jp":"<cspace=-0.06em><b><color=#ec8b56>シロロ：</color></b></cspace>","fr":"<cspace=-0.06em><b><color=#ec8b56>Shiroro :</color></b></cspace>"}
 {"id":1508979,"jp":"<cspace=-0.06em><b><color=#ec8b56>ルビーナ</color></b></cspace>","fr":"<cspace=-0.06em><b><color=#ec8b56>Ruby</color></b></cspace>"}
+{"id":1508980,"jp":"<cspace=-0.06em><b><color=#ec8b56>源千代：</color></b></cspace>","fr":"<cspace=-0.06em><b><color=#ec8b56>Minamoto Chiyo :</color></b></cspace>"}
 {"id":1508981,"jp":"<cspace=-0.06em><b><color=#ec8b56>シャル：</color></b></cspace>","fr":"<cspace=-0.06em><b><color=#ec8b56>Shalle :</color></b></cspace>"}
 {"id":1508983,"jp":"<cspace=-0.06em><b><color=#ec8b56>パリリ：</color></b></cspace>","fr":"<cspace=-0.06em><b><color=#ec8b56>Pariri :</color></b></cspace>"}
 {"id":1508985,"jp":"だれより強くて、だれより賢くて、いつでも小玉と肩を並べて戦う星臨者！\n『星臨者』の初期絆値を5ポイント獲得","fr":"Plus forte et plus intelligente que quiconque, l'Enfant des étoiles se bat toujours aux côtés de Xiaoyu !\nOctroie 5 points de Lien initial pour « Enfant des étoiles »."}
@@ -28090,6 +28091,8 @@
 {"id":1528621,"jp":"モール、褒めてどうすんだ！\n見ろよ、そいつ\nしっぽをピンと立たせてるぜ！","fr":"Mole, pourquoi tu la félicites !\nRegarde-la,\nelle a la queue toute dressée !"}
 {"id":1528622,"jp":"ハハハッ！だれだろうと構わん。\n勇気さえあれば、\n戦いで背中を預けられる兄弟だ！","fr":"Hahaha ! Peu importe qui c'est.\nQui a du courage est un frère\nà qui je peux confier mon dos au combat !"}
 {"id":1528623,"jp":"おい、ミィティ！わざとだな！\n危うく当たるとこだったぞ！","fr":"Hé, Mitty ! Tu l'as fait exprès !\nJ'ai failli être touchée !"}
+{"id":1528624,"jp":"【実装対象外／【P3】新芽山谷_长支线_铁鬃骚动(废弃).xlsx】","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_长支线_铁鬃骚动(废弃).xlsx】"}
+{"id":1528625,"jp":"【実装対象外／【P3】新芽山谷_长支线_铁鬃骚动(废弃).xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_长支线_铁鬃骚动(废弃).xlsx】\n"}
 {"id":1528626,"jp":"ウルがペニーの匂いを感じとったみたいだ。\nつまりここらへんまで来てたってことだな。","fr":"Uru a dû flairer l'odeur de Penny.\nÇa veut dire qu'elle est venue jusqu'ici, au moins."}
 {"id":1528627,"jp":"村から出たのは確実みたいだね……もうすこし先まで行ってみよう。","fr":"Elle est sûrement sortie du village… Allons un peu plus loin."}
 {"id":1528628,"jp":"ペニー","fr":"Penny"}
@@ -28099,7 +28102,12 @@
 {"id":1528632,"jp":"大丈夫、アタシたちがいるからな。","fr":"Tout va bien, on est là maintenant."}
 {"id":1528633,"jp":"あっ……シュネルフ！","fr":"Ah…… un Schnelf !"}
 {"id":1528634,"jp":"こ、こわい……これ以上歩けないよぅ……","fr":"J-j'ai peur… Je ne peux plus avancer…"}
+{"id":1528635,"jp":"【実装対象外／【P3】新芽山谷_长支线_狼神传说_拆分迭代.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_长支线_狼神传说_拆分迭代.xlsx】\n"}
+{"id":1528636,"jp":"【実装対象外／【P3】新芽山谷_长支线_狼神传说 拆分迭代.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_长支线_狼神传说 拆分迭代.xlsx】\n"}
 {"id":1528637,"jp":"チャタ","fr":"Chata"}
+{"id":1528638,"jp":"【実装対象外／【P3】新芽山谷_长支线_锻造的秘诀 拆分迭代.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_长支线_锻造的秘诀 拆分迭代.xlsx】\n"}
+{"id":1528639,"jp":"【実装対象外／【P3】新芽山谷_长支线_锻造的秘诀.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_长支线_锻造的秘诀.xlsx】\n"}
+{"id":1528640,"jp":"【実装対象外／【P3】新芽山谷_长支线_它是谁？ 拆分迭代.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_长支线_它是谁？ 拆分迭代.xlsx】\n"}
 {"id":1528641,"jp":"アダイヤ","fr":"Adaiya"}
 {"id":1528642,"jp":"ほっほっほ、おぬしらの戦利品が一番多いようじゃのう。まさか、キングラーガのたてがみまで持って帰ってくるとは……！","fr":"Ho ho ho, on dirait que c'est vous qui avez rapporté le plus de butin. Dire que vous avez même ramené la crinière de Kingraga…!"}
 {"id":1528643,"jp":"村長が言ってたのは恐らくこれのことかな……さっそく村長に持っていこう。","fr":"C'est sûrement ce dont parlait le Chef du village… Portons-la-lui tout de suite."}
@@ -28131,7 +28139,9 @@
 {"id":1528670,"jp":"ほっほ、これじゃ！どれどれ……","fr":"Ho ho, le voilà ! Voyons voir…"}
 {"id":1528671,"jp":"よかったよかった、冒険の記録は無事のようじゃな。\nうむ、懐かしいのう……","fr":"Parfait, parfait, mon journal d'aventure semble intact.\nOui, quelle nostalgie…"}
 {"id":1528672,"jp":"さて、わしの冒険について聞かせてやろう。\n物語は、一匹の手負いの小さなドゥルからはじまるんじゃ……","fr":"Bien, je vais te conter mes aventures.\nL'histoire commence avec un petit Dur blessé…"}
+{"id":1528673,"jp":"【実装対象外／【P3】新芽山谷_中支线_秘密约定.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_中支线_秘密约定.xlsx】\n"}
 {"id":1528674,"jp":"追いかけてみよう。","fr":"Suivons-la."}
+{"id":1528675,"jp":"【実装対象外／【P3】新芽山谷_中支线_秘密约定.xlsx】","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_中支线_秘密约定.xlsx】"}
 {"id":1528676,"jp":"やっぱりこっちに逃げてたのか。","fr":"C'est donc bien par ici qu'ils se sont enfuis."}
 {"id":1528677,"jp":"ここまで走ったら、もう限界だろう。","fr":"Après avoir couru aussi loin, ils doivent être à bout de forces."}
 {"id":1528678,"jp":"ジーナのやつ、星臨者に手間をかけさせるなんて……","fr":"Cette Gina, faire perdre autant de temps à l'Enfant des étoiles…"}
@@ -28141,7 +28151,11 @@
 {"id":1528682,"jp":"そのうちみんなも慣れるだろう。","fr":"Tout le monde finira par s'habituer à moi."}
 {"id":1528683,"jp":"これなら、いい釣り竿が作れそう。","fr":"Avec ça, je devrais pouvoir fabriquer une bonne canne à pêche."}
 {"id":1528684,"jp":"よし！じゃあラニの店に戻ろう！","fr":"Parfait ! Retournons à la boutique de Rani !"}
+{"id":1528685,"jp":"【実装対象外／【P3】新芽山谷_中支线_十万个为什么.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_中支线_十万个为什么.xlsx】\n"}
+{"id":1528686,"jp":"【実装対象外／【P3】新芽山谷_中支线_ 迷途的焰羊羊.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_中支线_ 迷途的焰羊羊.xlsx】\n"}
+{"id":1528687,"jp":"【実装対象外／【P3】新芽山谷_中支线_改变，由此开始 拆分迭代.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_中支线_改变，由此开始 拆分迭代.xlsx】\n"}
 {"id":1528688,"jp":"リヤ","fr":"Riya"}
+{"id":1528689,"jp":"【実装対象外／【P3】新芽山谷_长支线_改变，由此开始.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_长支线_改变，由此开始.xlsx】\n"}
 {"id":1528690,"jp":"これで足りるかな。","fr":"Ça suffira ?"}
 {"id":1528691,"jp":"フィル","fr":"Phil"}
 {"id":1528692,"jp":"（エイプルって、こんなに大きくなるもの？\nまあ、大きければ中の果汁もたっぷりなんだろうけどね）","fr":"(Les Aples deviennent vraiment aussi gros ?\nEnfin, plus ils sont gros, plus il doit y avoir de jus à l'intérieur)"}
@@ -28194,7 +28208,10 @@
 {"id":1528740,"jp":"おーい、スカイホーク！どこにいるんだよー！","fr":"Hé, Skyhawk ! Où es-tu ?"}
 {"id":1528741,"jp":"なんで出てこないんだ……ただ観察したいだけなのに。","fr":"Pourquoi ne veux-tu pas sortir… ? Je veux seulement t'observer."}
 {"id":1528742,"jp":"もううんざりだよ！会いたいのは凶獣じゃないんだって！","fr":"J'en ai assez ! Ce ne sont pas des Bêtes maudites que je veux rencontrer !"}
+{"id":1528743,"jp":"【実装対象外／【P3】新芽山谷_长支线_民兵小队的承诺.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_长支线_民兵小队的承诺.xlsx】\n"}
+{"id":1528744,"jp":"【実装対象外／【P3】新芽山谷_长支线_追寻祖灵嘟啦（25.1.22）.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_长支线_追寻祖灵嘟啦（25.1.22）.xlsx】\n"}
 {"id":1528745,"jp":"【CBT2未実装サブクエスト/新芽山谷_短支线_奇怪的寻回物】","fr":"【Quête secondaire non implémentée dans la CBT2/Vallée des Bourgeons_Courte quête annexe_Objet retrouvé étrange】"}
+{"id":1528746,"jp":"【実装対象外／【P3】新芽山谷_短支线_奇怪的寻回物.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_短支线_奇怪的寻回物.xlsx】\n"}
 {"id":1528747,"jp":"サット","fr":"Sat"}
 {"id":1528748,"jp":"ふぅ……助けてくれてありがとう。怪我はない？","fr":"Ouf… Merci de m'avoir porté secours. Pas de blessure ?"}
 {"id":1528749,"jp":"大丈夫だよ。きみがエンリコだよね。\n用があって探してたんだ。","fr":"Pas de souci. Tu es Enrico, c'est ça ?\nJe te cherchais, j'ai quelque chose à te demander."}
@@ -28204,6 +28221,7 @@
 {"id":1528753,"jp":"生徒たち？もしかして先生をしてるの？","fr":"Des élèves ? Tu enseignes, par hasard ?"}
 {"id":1528755,"jp":"尊敬されるいい先生だったんだね！","fr":"Tu devais vraiment être un professeur admirable et respecté !"}
 {"id":1528756,"jp":"たまたま子どもたちに好かれただけよ。\nあの子たちに出会えたことは、幸せなことだったわ。","fr":"Il se trouve simplement que les enfants m'ont prise en affection.\nLes avoir rencontrés a été un vrai bonheur."}
+{"id":1528757,"jp":"【実装対象外／【P3】弗利斯_长支线_失踪的游客.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】弗利斯_长支线_失踪的游客.xlsx】\n"}
 {"id":1528758,"jp":"おやめなさい！","fr":"Arrêtez !"}
 {"id":1528759,"jp":"ナタリー","fr":"Natalie"}
 {"id":1528760,"jp":"（いくつか手がかりは見つかったけど、\n周りのひとにも聞き込みをする必要がありそう……）","fr":"(J'ai trouvé quelques indices, mais\nil faudra aussi interroger les gens des environs…)"}
@@ -28215,7 +28233,10 @@
 {"id":1528766,"jp":"（おかしい。ちびホーミィが進んでいる方向は、もしかして……）","fr":"(Bizarre. La direction que prend le petit Homy, ce serait peut-être…)"}
 {"id":1528767,"jp":"（赤蠍団のキャンプ？）","fr":"(Le campement des Scorpions rouges ?)"}
 {"id":1528768,"jp":"（どうして赤蠍団がみんな眠っているんだろう？）","fr":"(Pourquoi tous les membres des Scorpions rouges dorment-ils ?)"}
+{"id":1528769,"jp":"【実装対象外／【P3】弗利斯_长支线_暴躁的雷冠牦.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】弗利斯_长支线_暴躁的雷冠牦.xlsx】\n"}
+{"id":1528770,"jp":"【実装対象外／【P3】新芽山谷_长支线_迁林之谜.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_长支线_迁林之谜.xlsx】\n"}
 {"id":1528771,"jp":"トト","fr":"Toto"}
+{"id":1528772,"jp":"【実装対象外／【P3后置】新芽山谷_长支线_万应灵药.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3后置】新芽山谷_长支线_万应灵药.xlsx】\n"}
 {"id":1528773,"jp":"エルネスト","fr":"Ernest"}
 {"id":1528774,"jp":"（ここが、ラリンおばあちゃんが言っていた森かな。\nそれじゃ、もうすこし先へ進んでみよう）","fr":"(Est-ce la forêt dont parlait Mamie Larin ?\nBon, avançons encore un peu)"}
 {"id":1528776,"jp":"（あ！人影が見えた！）","fr":"(Ah ! J'ai aperçu une silhouette !)"}
@@ -28370,14 +28391,19 @@
 {"id":1528932,"jp":"よし、いよいよ最後の試練よ！","fr":"Très bien, voici enfin la dernière épreuve !"}
 {"id":1528933,"jp":"自分だけの心のトーテムを残す……いいフラミー、油断は禁物よ。","fr":"Laisser mon propre totem du cœur… Écoute, Flammy, pas de négligence."}
 {"id":1528934,"jp":"ストーリーヒント","fr":"Indice de l'histoire"}
+{"id":1528935,"jp":"【実装対象外／【P3】新芽山谷_中支线_ 音乐与结缘之森 迭代.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_中支线_ 音乐与结缘之森 迭代.xlsx】\n"}
 {"id":1528939,"jp":"ヨォー！！","fr":"Yoo !!"}
+{"id":1528940,"jp":"【実装対象外／【P3】新芽山谷_中支线_打亮火花.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_中支线_打亮火花.xlsx】\n"}
 {"id":1528941,"jp":"セーサ","fr":"Sesa"}
+{"id":1528942,"jp":"【実装対象外／【P3】新芽山谷_中支线_飞向蓝天的翎龙（11.5补充）.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_中支线_飞向蓝天的翎龙（11.5补充）.xlsx】\n"}
 {"id":1528944,"jp":"鉱石？それとも水晶だろうか？\n本能から、相手がなにかを求めているのがわかった。「リオ！リオ！」","fr":"Du minerai ? Ou peut-être du cristal ?\nMon instinct m'a fait comprendre que la créature voulait quelque chose. « Rio ! Rio ! »"}
 {"id":1528947,"jp":"（明日、ヨウガに聞いてみないと）","fr":"(Il faudra que j'interroge Youga demain.)"}
 {"id":1528948,"jp":"（丸い足跡がある……）","fr":"(Il y a des empreintes rondes…)"}
 {"id":1528949,"jp":"（だんだん密集してきてる……\nそれに、あそこのエネルギー、鉱石から感じるものとよく似てるような……）","fr":"(Ils sont de plus en plus nombreux…\nEt l'énergie de là-bas ressemble beaucoup à celle que j'ai sentie venir du minerai…)"}
 {"id":1528950,"jp":"（ネビュリオンとルビッツは鉱石が好きだし。\nもうすこし探してあげよう）","fr":"(Nebulion et les Rubbits aiment le minerai.\nCherchons-en encore un peu pour eux)"}
+{"id":1528952,"jp":"【実装対象外／【P3】新芽山谷_中支线_恐惧的真身.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_中支线_恐惧的真身.xlsx】\n"}
 {"id":1528953,"jp":"ここですね。","fr":"C'est ici."}
+{"id":1528954,"jp":"【実装対象外／【P3】新芽山谷_中支线_老师，请教教我！ 拆分迭代.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_中支线_老师，请教教我！ 拆分迭代.xlsx】\n"}
 {"id":1528955,"jp":"モーキュン？","fr":"Mokyun ?"}
 {"id":1528956,"jp":"（まんまるで、意外とかわいいかも……）","fr":"(Tout rond… C'est étonnamment mignon…)"}
 {"id":1528957,"jp":"ねえ、ここ最近、抽選会を開催した店を知ってる？","fr":"Dis, tu connais une boutique qui aurait organisé une tombola récemment ?"}
@@ -28395,15 +28421,20 @@
 {"id":1528970,"jp":"グワッ……グワッ……","fr":"Gwa…… Gwa……"}
 {"id":1528971,"jp":"（ん？いま、だれかが助けを求めていたような……）","fr":"(Hein ? Il me semble que quelqu'un vient d'appeler à l'aide…)"}
 {"id":1528972,"jp":"（このあたりだ……調べてみよう）","fr":"(C'était dans les environs… Allons voir.)"}
+{"id":1528973,"jp":"【実装対象外／【P3】新芽山谷_中支线_每家都该买一瓶 拆分迭代.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_中支线_每家都该买一瓶 拆分迭代.xlsx】\n"}
 {"id":1528974,"jp":"（髪の色が違う。このひとじゃなさそう）","fr":"(La couleur des cheveux est différente. Ce ne semble pas être la bonne personne.)"}
 {"id":1528975,"jp":"（服装が違う。このひとじゃなさそう）","fr":"(Les vêtements sont différents. Ce ne semble pas être la bonne personne.)"}
 {"id":1528976,"jp":"（もしかしてこのひとかな？ジョシーを連れてきて確認しよう）","fr":"(Serait-ce cette personne ? Amenons Josie pour confirmer)"}
 {"id":1528977,"jp":"（これだけあれば十分だろう）","fr":"(Cela devrait suffire.)"}
+{"id":1528978,"jp":"【実装対象外／【P3】弗利斯_中支线_拯救壳咩大作战.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】弗利斯_中支线_拯救壳咩大作战.xlsx】\n"}
+{"id":1528979,"jp":"【実装対象外／【P3】弗利斯_中支线_派派的故事.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】弗利斯_中支线_派派的故事.xlsx】\n"}
 {"id":1528980,"jp":"ジェフリー","fr":"Geoffrey"}
 {"id":1528981,"jp":"ジョリット","fr":"Jorit"}
 {"id":1528982,"jp":"お腹いっぱいかな？もうすこし食べるかい？","fr":"Tu as assez mangé ? Tu en veux encore un peu ?"}
 {"id":1528983,"jp":"ウッ……パッ！","fr":"Ouh…… Pa !"}
 {"id":1528984,"jp":"もう大丈夫みたいだ。|もう大丈夫そうね。","fr":"On dirait que tout va bien maintenant.|On dirait que tout va bien maintenant."}
+{"id":1528985,"jp":"【実装対象外／【P3】弗利斯_中支线_不要在花园里占卜（待审核）.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】弗利斯_中支线_不要在花园里占卜（待审核）.xlsx】\n"}
+{"id":1528986,"jp":"【実装対象外／【P3】弗利斯_中支线_美味的标准 拆分迭代.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】弗利斯_中支线_美味的标准 拆分迭代.xlsx】\n"}
 {"id":1528987,"jp":"（こうやって近づくと……オータミットって思っていたより大きいんだね）","fr":"(De près comme ça… les Otamit sont plus gros que je ne le pensais)"}
 {"id":1528988,"jp":"（フリスの伝統衣装を着てるみたいだけど、かなり古くてつぎはぎも結構目立つね。ひょっとしたら、新しい服が必要なのかも）","fr":"(Il porte l'habit traditionnel de Fleece, apparemment, mais il est très vieux et les rapiéçages se remarquent beaucoup. Il a peut-être besoin de vêtements neufs)"}
 {"id":1528989,"jp":"（鎌はすっかり錆びついてるし、手入れが必要そうだね。錆び止め油が必要なのかも）","fr":"(La faux est complètement rouillée, elle a besoin d'entretien. Il faut peut-être de l'huile antirouille)"}
@@ -28434,10 +28465,16 @@
 {"id":1529016,"jp":"『ダダ』、また逃げちゃったの……","fr":"« Dada » s'est encore enfui…"}
 {"id":1529019,"jp":"（ん？ちょっと待って。ダ、ダ、ダって音が聞こえた気がする。あれは……）","fr":"(Hm ? Attends. Il me semble avoir entendu un bruit, da, da, da. C'est quoi, ça…)"}
 {"id":1529020,"jp":"これだけ倒せば十分だよね。オードリーのところへ戻ろう。","fr":"En avoir battu autant devrait suffire. Retournons voir Audrey."}
+{"id":1529021,"jp":"【実装対象外／【P3】弗利斯_长支线_赤蝎奇遇.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】弗利斯_长支线_赤蝎奇遇.xlsx】\n"}
+{"id":1529022,"jp":"【実装対象外／【P3】弗利斯_长支线_麦田下的古城 拆分迭代.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】弗利斯_长支线_麦田下的古城 拆分迭代.xlsx】\n"}
 {"id":1529023,"jp":"ハーレイ","fr":"Harley"}
 {"id":1529024,"jp":"高さと段差は問題ないね。とがったものは落ちてないし、\nブルーダが飛び跳ねても危険はなさそう。","fr":"La hauteur et les marches ne posent pas de problème. Il n'y a rien de pointu par terre,\ndonc Bluda ne risque rien même s'il saute partout."}
 {"id":1529025,"jp":"ポポイ","fr":"Popoi"}
 {"id":1529026,"jp":"ねんのために、ブルーダ用の階段を用意しておくですポ。","fr":"Par précaution, je vais préparer un escalier pour Bluda, po."}
+{"id":1529027,"jp":"【実装対象外／【P3】弗利斯_短支线_追缉恶盗.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】弗利斯_短支线_追缉恶盗.xlsx】\n"}
+{"id":1529028,"jp":"【実装対象外／【P3】新芽山谷_短支线_不听话的病人 文本迭代.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_短支线_不听话的病人 文本迭代.xlsx】\n"}
+{"id":1529029,"jp":"【実装対象外／【P3】新芽山谷_短支线_不听话的病人.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_短支线_不听话的病人.xlsx】\n"}
+{"id":1529030,"jp":"【実装対象外／【P3】新芽山谷_短支线_失踪的贝壳 文本迭代.xlsx】\n","fr":"【Non destiné à l'implémentation／【P3】新芽山谷_短支线_失踪的贝壳 文本迭代.xlsx】\n"}
 {"id":1529031,"jp":"（こんなものかな……）","fr":"(Ça devrait suffire…)"}
 {"id":1529032,"jp":"（アルヴァロが釣り方を理解できてるといいけど……聞いてみよう）","fr":"(J'espère qu'Alvaro a compris comment pêcher… Allons lui demander)"}
 {"id":1529033,"jp":"アルヴァロ","fr":"Alvaro"}
@@ -28567,7 +28604,9 @@
 {"id":1529163,"jp":"夢のなかでも現実でも、料理の腕はなかなかのものだ。|夢のなかでも現実でも、料理の腕はなかなかのものだよね。","fr":"Que ce soit en rêve ou en vrai, côté cuisine, je me débrouille plutôt bien.|Que ce soit en rêve ou en vrai, côté cuisine, je me débrouille plutôt bien, non ?"}
 {"id":1529164,"jp":"これならきっと、カタルも喜んでくれる。","fr":"Avec ça, Katalua sera certainement ravie."}
 {"id":1529165,"jp":"（そろそろ交代時間だ。カタルに料理を渡しに行こう！）","fr":"(C'est bientôt l'heure de la relève. Allons apporter son repas à Katalua !)"}
+{"id":1529166,"jp":"【実装対象外／红宝石个人剧情（25.8.7）.xlsx】\n","fr":"【Non destiné à l'implémentation／红宝石个人剧情（25.8.7）.xlsx】\n"}
 {"id":1529167,"jp":"（ん？あれは……）","fr":"(Hein ? C'est……)"}
+{"id":1529168,"jp":"【実装対象外／红宝石个人剧情（25.8.7）.xlsx】","fr":"【Non destiné à l'implémentation／红宝石个人剧情（25.8.7）.xlsx】"}
 {"id":1529169,"jp":"【古いテキストの残り】","fr":"【Vestige d'un ancien texte】"}
 {"id":1529170,"jp":"ルルカ！どこにいるの？返事をして！","fr":"Luruka ! Où es-tu ? Réponds-moi !"}
 {"id":1529171,"jp":"ん……あれは……ルルカ？","fr":"Hmm… C'est… Luruka ?"}
@@ -40958,6 +40997,7 @@
 {"id":1561323,"jp":"現在使用中","fr":"En cours d'utilisation"}
 {"id":1561324,"jp":"甘くていい香りの桃花餅～","fr":"De délicieux gâteaux aux fleurs de pêcher, sucrés et parfumés !"}
 {"id":1561325,"jp":"修行サポート","fr":"Soutien à l'entraînement"}
+{"id":1561326,"jp":"推奨： <color={0}CC>境界{1}</color>","fr":"Recommandé : <color={0}CC>Royaume {1}</color>"}
 {"id":1561327,"jp":"境界{0}","fr":"Royaume {0}"}
 {"id":1561328,"jp":"縁を獲得","fr":"Rencontre obtenue"}
 {"id":1561334,"jp":"ランクアップ確率：","fr":"Chance de montée de rang :"}
@@ -41054,6 +41094,7 @@
 {"id":1561430,"jp":"飛空艇の廃墟を調べる","fr":"Examiner les ruines du vaisseau volant"}
 {"id":1561431,"jp":"配置可能な設備数の上限に達しています。一部の設備を回収してから再度お試しください。","fr":"Limite d'installations posables atteinte. Retirez-en quelques-unes, puis réessayez."}
 {"id":1561432,"jp":"{0}が大量発生中","fr":"Prolifération de {0}"}
+{"id":1561433,"jp":"ICP登録：<u>沪ICP备2025121680号-2A</u>","fr":"Enregistrement ICP : <u>沪ICP备2025121680号-2A</u>"}
 {"id":1561438,"jp":"訓練完了後、練習相手のキボとはお別れとなります。","fr":"Une fois l'entraînement terminé, vous devrez faire vos adieux au Kibo partenaire d'entraînement."}
 {"id":1561439,"jp":"練習相手のキボを選択","fr":"Choisir un Kibo partenaire d'entraînement"}
 {"id":1561440,"jp":"訓練する潜在能力を1つ指定できます。実行には{0}をより多く消費します。","fr":"Vous pouvez désigner un potentiel à entraîner. Cela consomme davantage de {0}."}
@@ -41088,6 +41129,7 @@
 {"id":1561470,"jp":"まだこのステラカードを獲得していません。","fr":"Vous n'avez pas encore obtenu cette carte Stella."}
 {"id":1561471,"jp":"現在の挑戦をやり直しますか？","fr":"Recommencer le défi actuel ?"}
 {"id":1561472,"jp":"開始地点に戻り、現在の挑戦を最初からやり直しますか？","fr":"Revenir au point de départ et recommencer le défi actuel depuis le début ?"}
+{"id":1561473,"jp":"<color=#9c968d>所持数：</color> {0}","fr":"<color=#9c968d>Quantité possédée :</color> {0}"}
 {"id":1561475,"jp":"確認したいキャラクターを選択してください。","fr":"Veuillez sélectionner le personnage à consulter."}
 {"id":1561476,"jp":"確認したいアニマを選択してください。","fr":"Veuillez sélectionner l'Anima à consulter."}
 {"id":1561477,"jp":"キャラクター{0}を選択しますか？","fr":"Sélectionner le personnage {0} ?"}
@@ -45166,6 +45208,9 @@
 {"id":1660658,"jp":"まだかな？はやくかくれて。","fr":"C'est pas encore l'heure ? Vite, cache-toi."}
 {"id":1660659,"jp":"鏡花州の焼き餅も、フリスのパンも、\nこのまえあなたにあげたポポクッキーまで、おいしいと言っていたもの……","fr":"Les galettes grillées du Cap Jinghua, le pain de Fleece,\nmême les biscuits Popo que je t'ai offerts l'autre jour… Tu les as tous trouvés délicieux…"}
 {"id":1661162,"jp":"通行证 - 破坏大王 ","fr":"Pass - Roi de la destruction"}
+{"id":1661163,"jp":"灵子技能 触发器 通行证 break时，全队攻击力提升（自带宠物）","fr":"Compétence spirituelle - Déclencheur - Pass : lors d'une brise, augmente l'ATQ de toute l'équipe (compagnon intégré)"}
+{"id":1661164,"jp":"英雄F合击槽位208释放前，给携带者挂19010603；启用前需要Loading门禁和合击结束清理。","fr":"Avant l'activation de l'attaque combinée F du héros à l'emplacement 208, appliquer 19010603 au porteur ; nécessite une vérification du verrou Loading avant activation et un nettoyage à la fin de l'attaque combinée."}
+{"id":1661165,"jp":"灵子技能 触发器 通行证1 破坏大王（F合击起手挂自带奇波破韧监听）","fr":"Compétence spirituelle - Déclencheur - Pass 1 - Roi de la destruction (au début de l'attaque combinée F, active l'écoute des événements de brise du Kibo intégré)"}
 {"id":1661238,"jp":"【深渊用】修改StageFlag2","fr":"【Pour les abysses】Modifier StageFlag2"}
 {"id":1661239,"jp":"【深渊用】修改MoveSkillCount","fr":"【Pour les abysses】Modifier MoveSkillCount"}
 {"id":1661240,"jp":"【深渊用】修改UltraSkillCount","fr":"【Pour les abysses】Modifier UltraSkillCount"}
@@ -47014,9 +47059,15 @@
 {"id":1664432,"jp":"<color={highlight}>確定</color>を押してください。","fr":"Veuillez appuyer sur <color={highlight}>Confirmer</color>."}
 {"id":1664433,"jp":"<color={highlight}>エンディングへ</color>を押してください。","fr":"Veuillez appuyer sur <color={highlight}>Vers le dénouement</color>."}
 {"id":1664435,"jp":"<color={highlight}>乗りもの</color>を獲得しました。さっそく試してみましょう！","fr":"Vous avez obtenu un <color={highlight}>véhicule</color>. Essayez-le dès maintenant !"}
+{"id":1664437,"jp":"<color={highlight}>心眼の修行</color>を押してください。","fr":"Veuillez appuyer sur <color={highlight}>Entraînement à l'Œil intérieur</color>."}
+{"id":1664438,"jp":"<color={highlight}>買いものの極意</color>ボタンを押してください","fr":"Veuillez appuyer sur le bouton <color={highlight}>Secrets des achats</color>"}
 {"id":1664439,"jp":"<actionkey>GamepadUI/GamepadUI_West</actionkey> で<color={highlight}>エンディング</color>へ","fr":"<actionkey>GamepadUI/GamepadUI_West</actionkey> : voir la <color={highlight}>fin</color>"}
+{"id":1664440,"jp":"<color={highlight}>よき友</color>ボタンを押してください。","fr":"Veuillez appuyer sur le bouton <color={highlight}>Bons amis</color>."}
+{"id":1664442,"jp":"初期ステータスのアップ、よき友の初期好感度の増加、新たなサポートのよき友の解放","fr":"Hausse des statistiques initiales, hausse de l'affinité initiale avec les bons amis et déblocage de nouveaux bons amis de soutien"}
+{"id":1664444,"jp":"なによ！アンタ……見てなさいよね、アタシはすぐに大きくなるんだから！そのときは、アタシが翼人最強の戦士になってるわよ！","fr":"Quoi ! Toi alors… Tu verras, je vais vite grandir ! Et à ce moment-là, je serai la plus puissante guerrière des Ailés !"}
 {"id":1664446,"jp":"一日のなかで唯一の休憩時間","fr":"Le seul moment de repos de la journée"}
 {"id":1664448,"jp":"エイプルの買取","fr":"Rachat d'Aple"}
+{"id":1664449,"jp":"収穫を手伝う際、追加で果樹以外の種を獲得する確率が<color=#767770>{0}</color>上昇","fr":"Lors d'une aide à la récolte, augmente de <color=#767770>{0}</color> la probabilité d'obtenir des graines supplémentaires autres que celles des arbres fruitiers"}
 {"id":1664450,"jp":"基礎工業I","fr":"Industrie de base I"}
 {"id":1664457,"jp":"「因子の実」システム説明","fr":"Présentation du système « Fruit à facteurs »"}
 {"id":1664467,"jp":"クエストをクリアする","fr":"Terminer des quêtes"}
@@ -47024,6 +47075,11 @@
 {"id":1664470,"jp":"因子の実を与える・3","fr":"Donner un fruit à facteurs 3"}
 {"id":1664471,"jp":"クエスト「大金持ちへの第一歩！」を完了する","fr":"Terminer la quête « Le premier pas vers la fortune ! »"}
 {"id":1664472,"jp":"クエスト「キボファイトをはじめよう！」をクリアする","fr":"Terminer la quête « Place au Duel de Kibo ! »"}
+{"id":1664473,"jp":"因子の果樹から収穫できる因子の実を使えば、キボの因子変異を完了させることができる。さあ、沃土で栽培しよう。","fr":"Les fruits de facteurs récoltés sur les arbres à fruits de facteurs permettent de finaliser la mutation de facteur d'un Kibo. Cultivons-les sur une terre fertile."}
+{"id":1664474,"jp":"メインストーリー依頼「2-4 万霊の黎明」をクリアする","fr":"Terminer la Mission principale « 2-4 L'aube des innombrables esprits »"}
+{"id":1664475,"jp":"メインストーリー依頼「2-7 受け継がれた誓い」をクリアする","fr":"Terminer la Mission principale « 2-7 Le serment hérité »"}
+{"id":1664476,"jp":"メインストーリー依頼「3-4 未知の前路」をクリアする","fr":"Terminer la Mission principale « 3-4 Vers l'inconnu »"}
+{"id":1664477,"jp":"メインストーリー依頼「4-10 災厄の討滅」をクリアする","fr":"Terminer la Mission principale « 4-10 L'anéantissement du fléau »"}
 {"id":1664478,"jp":"キボファイト・フレンド","fr":"Duel de Kibo - Amis"}
 {"id":1664479,"jp":"フレンドと1回キボファイトする","fr":"Participer à 1 Duel de Kibo avec un ami"}
 {"id":1664480,"jp":"紫色の因子の実を1回使用する","fr":"Utiliser 1 fruit de facteur violet"}
@@ -47034,14 +47090,21 @@
 {"id":1664505,"jp":"資金決済法に基づく表示","fr":"Mentions légales relatives à la loi japonaise sur les services de paiement"}
 {"id":1664506,"jp":"特定商取引法に基づく表示","fr":"Mentions légales relatives à la loi japonaise sur les transactions commerciales spécifiques"}
 {"id":1664507,"jp":"リリィの手紙はおもしろくて、読むのが楽しいよ。","fr":"Lily, tes lettres sont toujours un plaisir à lire."}
+{"id":1664508,"jp":"そんなにかしこまらなくていいって。違和感しかないよ……","fr":"Pas besoin d'être aussi solennel. Ça fait vraiment bizarre…"}
 {"id":1664510,"jp":"うう…ポポのシゴトを邪魔しないでくださいっ！","fr":"Ouh… Ne dérangez pas Popo pendant son travail, s'il vous plaît !"}
+{"id":1664511,"jp":"このキボはまだ発見されていません。芽吹の谷-影蝕の崖の遺跡付近で出会えます。","fr":"Ce Kibo n'a pas encore été découvert. Vous pouvez le rencontrer près des ruines de la falaise rongée par les ombres, dans la Vallée des Bourgeons."}
 {"id":1664514,"jp":"星彩のディディ","fr":"Didi étoilé"}
 {"id":1664515,"jp":"星彩のボールモウ","fr":"Ballmow étoilé"}
 {"id":1664519,"jp":"星彩のフィアーク","fr":"Fearc étoilé"}
 {"id":1664521,"jp":"ニートミット系","fr":"Lignée Niitomitto"}
+{"id":1664522,"jp":"花吹雪のなか、くるくる舞い上がるそれは、花束？妖精？お菓子？――ちがう、キャバードだ！","fr":"Au milieu d'une pluie de pétales, quelque chose s'élève en virevoltant. Un bouquet ? Une fée ? Une friandise ? Mais non, c'est un Cabbird !"}
 {"id":1664523,"jp":"グリーンバック","fr":"Fond vert"}
 {"id":1664524,"jp":"グレーバック","fr":"Fond gris"}
+{"id":1664525,"jp":"とにかく、これは必要な工程なの……省くなんて許されないわ！もう、なんでじろじろ見るのよ……！？","fr":"Quoi qu'il en soit, c'est une étape indispensable… Hors de question de la sauter ! Mais enfin, pourquoi me fixes-tu comme ça… ?!"}
+{"id":1664526,"jp":"サブクエスト「キボファイトをはじめよう！」をクリアする","fr":"Terminer la quête secondaire « Place au Duel de Kibo ! »"}
+{"id":1664527,"jp":"メインストーリー依頼「1-8 星の導き」を★3でクリアする","fr":"Terminer la Mission principale « 1-8 Sous la guidance des étoiles » avec ★3"}
 {"id":1664528,"jp":"農園に星満の果樹を1本植える","fr":"Planter 1 arbre fruitier étoilé dans la ferme"}
+{"id":1664529,"jp":"メインストーリー依頼「2-7 受け継がれた誓い」を★3でクリアする","fr":"Terminer la Mission principale « 2-7 Le serment hérité » avec ★3"}
 {"id":1664530,"jp":"水波の残響","fr":"Écho des ondes"}
 {"id":1664531,"jp":"夜に棲む梟の声","fr":"Appel du hibou de la nuit"}
 {"id":1664538,"jp":"彼女は再び得たこの機会を大切にするだろう。","fr":"Elle saura chérir cette nouvelle chance qui lui est offerte."}
@@ -47052,67 +47115,190 @@
 {"id":1664546,"jp":"シャルル村の最強ハンター、登場！","fr":"Voici la meilleure chasseuse du Village de Charlulu !"}
 {"id":1664548,"jp":"チャージ1段階","fr":"Charge, palier 1"}
 {"id":1664552,"jp":"雷鳴は進撃の合図。さあ、行こう！","fr":"Le tonnerre donne le signal de l'assaut. En avant !"}
+{"id":1664554,"jp":"乱れた足取りだろうと、前に進み続ければ――必ず理想に辿りつける。","fr":"Même si tes pas sont hésitants, continue d'avancer et tu finiras par atteindre ton idéal."}
 {"id":1664555,"jp":"群星の力、見せてあげる！","fr":"Je vais te montrer la puissance des étoiles !"}
+{"id":1664556,"jp":"望みを的確に見抜き、すばやく切り込む……これもメイドの嗜みです。","fr":"Cerner précisément les désirs et intervenir sans tarder… Cela fait également partie du savoir-faire d'une domestique."}
 {"id":1664557,"jp":"だれかを救えるのなら……この手がまだ届くなら……！","fr":"Si je peux sauver quelqu'un… Si ma main peut encore l'atteindre… !"}
+{"id":1664558,"jp":"ハンマーの重みを身をもって知りたいのでなければ、ノノが欲しいものの前に立ってはいけない。","fr":"À moins de vouloir éprouver personnellement le poids de son marteau, mieux vaut ne pas se placer entre Nono et ce qu'elle convoite."}
 {"id":1664559,"jp":"すべての元気とパワーをこの一撃に注ぎ込む！","fr":"Je vais mettre toute mon énergie et toute ma force dans ce coup !"}
+{"id":1664560,"jp":"フィールドにいなくても、エールの声はずっと響き渡るよ！","fr":"Même en dehors du terrain, les encouragements continueront de résonner !"}
+{"id":1664561,"jp":"鏡花州に住む武術の達人のパミーが秘密の特訓をしている……\n「基礎練なんかじゃないぞ！ぐぎぎ……あ、足が痺れた……」","fr":"Un Pammy maître des arts martiaux résidant au Cap Jinghua s'entraîne secrètement…\n« Ce ne sont pas de simples exercices de base ! Gnnn… M-mes jambes sont engourdies… »"}
+{"id":1664562,"jp":"驚いた鳥の群れが飛び立ち、枝葉が揺れる。\n少女の悔しそうな呻きが微かに聞こえてきた。\n「な、なによ、このツタ……！」","fr":"Une volée d'oiseaux effrayés prend son envol, faisant frémir les branches et les feuilles.\nOn entend faiblement les grognements contrariés d'une jeune fille.\n« M-mais qu'est-ce que c'est que ces lianes… ! »"}
+{"id":1664564,"jp":"群狼の意志はこの地に根づき、守護神となった。\n其は揺るがぬ信仰を持つ者に、加護を与えるだろう。","fr":"La volonté de la meute de loups s'enracina en ces terres et devint leur divinité protectrice.\nElle accordera sa bénédiction à ceux dont la foi demeure inébranlable."}
+{"id":1664568,"jp":"『未来のスター』を目指す道には――\nときには、休息も必要だ。","fr":"Sur le chemin qui mène au titre de « Future étoile »…\nIl faut parfois savoir se reposer."}
+{"id":1664569,"jp":"みんな気合十分！\nどっちを応援しようかな？\n公平に、出場する全選手をまとめて応援するとしよう！","fr":"Tout le monde est gonflé à bloc !\nQui vais-je encourager ?\nPour être équitable, autant encourager tous les participants !"}
+{"id":1664571,"jp":"ペガサスナイトの休日。風に乗り、波を蹴って――\n蒼穹と海潮の果てへ！\n存分に駆け回ったあとの食事にも、期待に胸が膨らむ。","fr":"Un jour de congé pour une chevalière pégase. Chevaucher le vent, fendre les vagues…\nJusqu'aux confins du ciel azur et de l'océan !\nAprès avoir gambadé à cœur joie, la perspective d'un bon repas la remplit également d'enthousiasme."}
+{"id":1664573,"jp":"都市国家フリスの風は、今日も凪いでいる。\n陰の功労者たちの束の間の休息がいよいよはじまった。\n思いっきり楽しもう！","fr":"Aujourd'hui encore, les vents de la Cité-État de Fleece sont paisibles.\nLe bref répit des héros de l'ombre commence enfin.\nProfitons-en pleinement !"}
+{"id":1664583,"jp":"ナナチャは星臨者一行を出迎えると、訪問の目的をたしかめ、領主邸へと招き入れた。","fr":"Après avoir accueilli l'Enfant des étoiles et ses compagnons, Nanacha s'enquit du motif de leur visite et les invita à entrer dans le manoir du seigneur."}
+{"id":1664587,"jp":"高所からフリスを見下ろせる飛空船乗り場で、一行は思わず感慨にふけるのだった……","fr":"Depuis le port de dirigeables qui surplombe Fleece, le groupe ne put s'empêcher de contempler la ville avec émotion…"}
+{"id":1664588,"jp":"飛空船乗り場の一角で、一行は突然こそこそしている怪しい者を見つけた……","fr":"Dans un recoin du port de dirigeables, le groupe aperçut soudain une personne suspecte qui se déplaçait furtivement…"}
+{"id":1664590,"jp":"飛空船の墜落後、一行はいちはやく救助に駆けつけたが、現場でロージア帝国の兵士たちと衝突してしまうのだった……","fr":"Après la chute du dirigeable, le groupe se précipita pour porter secours aux victimes, mais se heurta aux soldats de l'Empire de Rosia sur les lieux de l'accident…"}
+{"id":1664598,"jp":"まずは一番シンプルなところからだ。|まずは一番シンプルなところから。","fr":"Commençons par le plus simple.|Commençons par le plus simple."}
+{"id":1664600,"jp":"あたしたちで矢塔を守るのだ！\n後方が襲われたらマズいぞ！","fr":"C'est à nous de protéger la tour d'archers !\nSi l'arrière est attaqué, nous serons en difficulté !"}
+{"id":1664601,"jp":"これが最後のひとつだからか。\n進化教団の抵抗もどんどん激しくなってるのだ。","fr":"C'est peut-être parce que c'est le dernier.\nLa résistance du Culte de l'Évolution devient de plus en plus acharnée."}
+{"id":1664602,"jp":"天隕の災厄に……抗うことなどできん……\n畏怖の叫びは彼方まで轟くだろう！","fr":"Nul ne peut résister à la calamité des cieux déchus…\nVos cris de terreur résonneront jusqu'aux confins du monde !"}
+{"id":1664603,"jp":"凶獣が引き寄せられています……\n気を抜かないでください！","fr":"Des Bêtes maudites sont attirées ici…\nNe baissez pas votre garde !"}
+{"id":1664604,"jp":"竜人の悲願……貴様らのような\n取るに足らない種族に理解できるものか！","fr":"Le vœu le plus cher des Draconiens… Comment des peuples aussi insignifiants que les vôtres pourraient-ils le comprendre ?!"}
+{"id":1664606,"jp":"……ロスクさんがわからないとなると、だれに頼めばいいのかしら……","fr":"… Si même monsieur Rosk ne parvient pas à comprendre, à qui pourrais-je bien demander de l'aide… ?"}
+{"id":1664607,"jp":"な、なんでもないよ。とにかく一度なかを見てみようか。","fr":"C-ce n'est rien. Quoi qu'il en soit, jetons d'abord un coup d'œil à l'intérieur."}
 {"id":1664608,"jp":"ありがとう……助かったよ。","fr":"Merci… Quel soulagement !"}
 {"id":1664609,"jp":"うん、そうしてみる。","fr":"Oui, je vais essayer."}
+{"id":1664610,"jp":"だってさぁ、オレ、そいつにやられたんだぜ！\nカードでシュバババって！バカにしやがって！","fr":"Mais c'est elle qui m'a battu, tu sais !\nFch, fch, fch, avec ses cartes ! Elle s'est bien moquée de moi !"}
+{"id":1664611,"jp":"うん。その黒衣の女のせいで、ルルカは目を覚まさないんだ……|うん。その黒衣の女のせいで、ルルカは目を覚まさないの……","fr":"Oui. C'est à cause de la femme en noir que Luruka ne se réveille pas…|Oui. C'est à cause de la femme en noir que Luruka ne se réveille pas…"}
 {"id":1664612,"jp":"おお、腰が……","fr":"Oh, mon dos…"}
 {"id":1664614,"jp":"そんな……どうしよう……","fr":"Oh non… Qu'est-ce qu'on va faire…"}
+{"id":1664615,"jp":"いまこそ悲しみを乗り越えるときだ。\n皆がおまえを待っている！","fr":"Le moment est venu de surmonter ton chagrin.\nTout le monde t'attend !"}
+{"id":1664616,"jp":"うーん、たしかにおばあさまは、よくお客さまを家に泊めるけど……\nだれもがこんな待遇を受けられるわけじゃないよ。","fr":"Hmm, c'est vrai que grand-mère héberge souvent des invités chez elle, mais…\nTout le monde ne bénéficie pas d'un tel traitement."}
+{"id":1664617,"jp":"泊まれるのは、おばあさまが価値を認めた方か、\nフリスに貢献してくれる方か。","fr":"Seules les personnes dont grand-mère reconnaît la valeur ou celles qui contribuent à la prospérité de Fleece peuvent séjourner ici."}
+{"id":1664618,"jp":"でも、本当はおばあさまも\nこの屋敷を昔みたいに賑やかにしたいんだと思う……","fr":"Mais au fond, je pense que grand-mère aimerait aussi retrouver l'animation qui régnait autrefois dans ce manoir…"}
+{"id":1664619,"jp":"いまではこの広い屋敷に、住んでるのはわたしとおばあさま。\nそれからメイドだけになっちゃったからね。","fr":"Aujourd'hui, dans cet immense manoir, il ne reste plus que grand-mère et moi.\nEt les domestiques, bien sûr."}
+{"id":1664621,"jp":"うん、それと混雑してきたら、飛空船乗り場内部の安全についても注意しないとね。\n混雑で事故が起きたら大変だもん。","fr":"Oui, et lorsque la foule commencera à affluer, il faudra aussi veiller à la sécurité à l'intérieur du port de dirigeables.\nCe serait terrible qu'un accident survienne à cause de la cohue."}
+{"id":1664624,"jp":"うう……あらためて考えるとなんか恥ずかしいかも……\nつぎからはべつの登場の仕方を考えるよ……","fr":"Ouh… Maintenant que j'y repense, c'est un peu embarrassant…\nLa prochaine fois, je trouverai une autre façon de faire mon entrée…"}
 {"id":1664625,"jp":"心も体も癒やされるね。|心も体も癒やされるね。","fr":"Cela apaise autant le corps que l'esprit.|Cela apaise autant le corps que l'esprit."}
 {"id":1664626,"jp":"2枚の呪符が揃ったね。\nこれで門を開けられるよ。","fr":"Les deux talismans sont réunis.\nNous pouvons maintenant ouvrir la porte."}
 {"id":1664627,"jp":"ミネイヴァの力を使ってみよう。","fr":"Essayons d'utiliser le pouvoir de Mineiva."}
+{"id":1664628,"jp":"なんにも聞こえないぞ……\nそうだ！ここで力を使ってみるのだ！","fr":"Je n'entends absolument rien…\nJe sais ! Essayons d'utiliser notre pouvoir ici !"}
+{"id":1664629,"jp":"ああ、クエンティンの兄貴のことか！\nあのキボを止めるために、鉱区の作業場に残って、\n内側から鍵を閉めちゃったんだ！","fr":"Ah, tu parles de Quentin !\nPour arrêter ce Kibo, il est resté dans l'atelier de la zone minière\net s'est enfermé de l'intérieur !"}
+{"id":1664630,"jp":"遺跡のガーディアンのようですが、\nまだ動いているとは……","fr":"On dirait un gardien des ruines,\nmais dire qu'il fonctionne encore…"}
+{"id":1664632,"jp":"竜人文明はとっくに滅んでいるのに、いまも残っているなんて……","fr":"La civilisation des Draconiens a disparu depuis bien longtemps, et pourtant, cela existe encore aujourd'hui…"}
+{"id":1664633,"jp":"文明は滅びても、プロミリアにはいまも竜人がいる。\nちゃんと子孫を残してるのだ。","fr":"Même si leur civilisation a disparu, des Draconiens vivent encore aujourd'hui en Promilia.\nIls ont laissé des descendants, après tout."}
+{"id":1664634,"jp":"この塔のなかに答えがあるかもしれないね。\nさきに進もう。","fr":"Les réponses se trouvent peut-être quelque part dans cette tour.\nContinuons d'avancer."}
 {"id":1664636,"jp":"水浴びはいやだ、水浴びはいやだ、水浴びはいやだ！！","fr":"Je déteste me baigner, je déteste me baigner, je déteste me baigner !!"}
+{"id":1664637,"jp":"大丈夫です。あそこに枝がありますから、そちらから登りましょう。","fr":"Tout va bien. Il y a une branche là-bas, nous pouvons grimper par ce côté."}
 {"id":1664639,"jp":"それでもすごいよ。いままで、見たことがないもの！","fr":"C'est tout de même incroyable. Je n'ai jamais rien vu de pareil !"}
+{"id":1664640,"jp":"『前例のない』ソザンカの梯子を築いた者が現れたら、\n祝福の言葉を唱えなきゃ……","fr":"Lorsque quelqu'un parviendra à construire une échelle de Sozanka « sans précédent »,\nil faudra prononcer les paroles de bénédiction…"}
 {"id":1664641,"jp":"なんだか、よくわからない噂話ばかり聞かされたな……","fr":"On n'a entendu que des rumeurs plus incompréhensibles les unes que les autres…"}
+{"id":1664642,"jp":"（受け取らないと、罪悪感に苛まれそう……体も重くなってきたし）","fr":"(Si je refuse, je risque de culpabiliser… Et mon corps commence aussi à s'alourdir.)"}
 {"id":1664643,"jp":"これが最後の迷界だ……|これが最後の迷界だね……","fr":"Voici le dernier Dédale…|Voici le dernier Dédale…"}
 {"id":1664644,"jp":"ああ慌てるな！訓練通りに陣を組んで対応するんだ！","fr":"Pas de panique ! Mettez-vous en formation comme à l'entraînement et ripostez !"}
+{"id":1664645,"jp":"つぎに名前も言えなかったら、顔面に彫ってやるからな！","fr":"La prochaine fois, si tu n'es même pas capable de dire ton nom, je te le graverai sur le visage !"}
 {"id":1664646,"jp":"いまからでも……遅くないわよ。","fr":"Même maintenant… Il n'est pas trop tard."}
 {"id":1664647,"jp":"そうだな。いまからでも……遅くはない。","fr":"C'est vrai. Même maintenant… Il n'est pas trop tard."}
+{"id":1664648,"jp":"ああ、そうそう。いま食べてもらったのはね、\n実はモモモ用のポポクッキーなのよ。","fr":"Ah oui, au fait. Ce que tu viens de manger,\nc'était en réalité un biscuit Popo destiné à Momomo."}
+{"id":1664649,"jp":"僕は小さいころから父に料理を教わってきたんだ。\nいつかきっと……こ、超えられる！……たぶん。","fr":"Mon père m'apprend à cuisiner depuis mon enfance.\nUn jour, je finirai certainement par… l-le surpasser ! … Enfin, probablement."}
+{"id":1664650,"jp":"シャルル村のあの子、彫刻の腕前がとても素晴らしいんですよね。","fr":"Ce jeune du Village de Charlulu possède vraiment un talent remarquable pour la sculpture."}
 {"id":1664651,"jp":"翼人の飛翔の儀は……","fr":"Le rite d'envol des Ailés…"}
 {"id":1664652,"jp":"ミィティは、ずっと最初の段階でつまずいていた……","fr":"Mitty était restée longtemps bloquée à la toute première étape…"}
 {"id":1664653,"jp":"だが、もう恐怖で彼女を縛ることはできない。","fr":"Mais désormais, la peur ne peut plus l'enchaîner."}
+{"id":1664654,"jp":"そうだ。ミィティは私の師の娘だ。君も気づいただろう、あの子には無限の可能性が秘められていると。","fr":"En effet. Mitty est la fille de mon maître. Tu l'as certainement remarqué aussi : cette enfant possède un potentiel illimité."}
+{"id":1664656,"jp":"フリスにきたのははじめて？豊穫の庭に入ったことは？飛空船乗り場には行ってみた？","fr":"C'est ta première visite à Fleece ? As-tu déjà visité le Jardin des récoltes ? Et le port de dirigeables ?"}
 {"id":1664657,"jp":"『鉄輪の貴婦人』ヘルウェンの肖像画。","fr":"Un portrait de Helwen, « la Dame aux roues de fer »."}
+{"id":1664658,"jp":"領主ヘルウェンの鋭い瞳は、訪れる客をひとりひとり見定めているかのようだ。","fr":"Le regard perçant du seigneur Helwen semble jauger chacun de ses visiteurs."}
+{"id":1664659,"jp":"領主ヘルウェンはきっと、これで階を行き来しているんだ。","fr":"Le seigneur Helwen utilise certainement cet appareil pour se déplacer entre les étages."}
+{"id":1664661,"jp":"いえ、お茶菓子のことは、いまはナナチャさまに任せておきましょう。","fr":"Non, pour le moment, laissons dame Nanacha s'occuper des pâtisseries qui accompagneront le thé."}
 {"id":1664662,"jp":"いまは欲しいものがないかな。","fr":"Je n'ai envie de rien pour le moment."}
+{"id":1664663,"jp":"オークションの熱気にはおよばないけど、\nここならではのお客さまにも出会えるんだ。","fr":"Ça ne vaut pas l'effervescence d'une vente aux enchères,\nmais on peut rencontrer ici des clients qu'on ne trouverait nulle part ailleurs."}
+{"id":1664664,"jp":"すでに主人の招待を受けておいでなら、\nつぎのワインサロンに、ぜひお越しください。","fr":"Si vous avez déjà reçu l'invitation de notre maître,\nn'hésitez pas à venir au prochain salon de dégustation de vins."}
+{"id":1664665,"jp":"ですから、私たちメイドの仕事は、\n皆さまがお戻りになるまえに、\n快適なお部屋とおいしいお茶菓子を整えることです。","fr":"Notre travail de domestiques consiste donc\nà préparer des chambres confortables et de délicieuses pâtisseries pour le thé,\navant le retour de tout le monde."}
+{"id":1664666,"jp":"私は領主さまを信じております。\nいまの事態にも、きっとなにか誤解があるのでしょう。","fr":"J'ai toute confiance en notre seigneur.\nLa situation actuelle résulte certainement d'un malentendu."}
 {"id":1664667,"jp":"いまの状況も、あまり心配してないみたいだね。","fr":"La situation actuelle ne semble pas non plus beaucoup t'inquiéter."}
+{"id":1664668,"jp":"保護の名で征服し、公正の名で奪う……\nいま、この街を襲っているのは、そういう災厄だ。","fr":"Conquérir au nom de la protection, dépouiller au nom de la justice…\nVoilà le fléau qui s'abat aujourd'hui sur cette ville."}
+{"id":1664669,"jp":"いま、心配しても仕方ない。\n俺たち衛兵は、まず市民の安全を守る。\nほかのことは、そのあとだ。","fr":"Inutile de s'inquiéter pour le moment.\nNotre priorité, en tant que gardes, est d'assurer la sécurité des citoyens.\nLe reste viendra ensuite."}
+{"id":1664670,"jp":"ただ、いまの状況を考えると、事業を広げる機会になるかもしれませんね……","fr":"Cela dit, au vu de la situation actuelle, ce pourrait être une occasion de développer nos activités…"}
+{"id":1664671,"jp":"輸送力が不足するいま、一時的に陸路で代替できれば……\nフリスでのゴヤード商会の商圏を、一気に広げられるかもしれません。","fr":"Face au manque actuel de moyens de transport, si nous pouvions temporairement privilégier les voies terrestres…\nLa Compagnie Goyard pourrait considérablement étendre son marché à Fleece."}
 {"id":1664673,"jp":"嵐が黒くなったときは、フリスも終わりかと思ったよ。","fr":"Quand la tempête est devenue noire, j'ai cru que Fleece était condamnée."}
+{"id":1664674,"jp":"そのとおり！ここでしばらく休んだおかげで、\n活力がみなぎっているの。そろそろ探検に出るときだよ！","fr":"Exactement ! Grâce à ce petit moment de repos,\nje déborde de vitalité. Il est temps de repartir en exploration !"}
+{"id":1664676,"jp":"ですが、あとになって、残しておくのも悪くないと気づいたのです。","fr":"Mais par la suite, j'ai compris que les conserver n'était pas une si mauvaise idée."}
+{"id":1664677,"jp":"よく顔を出してくれるときのことも、しばらく姿を見せないときのことも、\nメイプルはぜーんぶ知ってるんだよ。","fr":"Les moments où tu passes souvent nous voir et ceux où tu ne te montres plus pendant un certain temps,\nMaple sait absolument tout !"}
+{"id":1664678,"jp":"（このハンマーの柄にパイパーの名前が……まさか自分がもう一本持ってることを忘れてたのか？）","fr":"(Le nom de Piper est inscrit sur le manche de ce marteau… Aurait-elle oublié qu'elle en possédait déjà un autre ?)"}
 {"id":1664679,"jp":"前にキボの群れがいるのだ！","fr":"Il y a un groupe de Kibo droit devant !"}
 {"id":1664682,"jp":"やっぱりいままで食べた味とは違うね。","fr":"C'est vraiment différent de tout ce que j'ai goûté jusqu'ici."}
+{"id":1664683,"jp":"実は白いスカイホークに会ってね。|実は白いスカイホークに会ったの。","fr":"En fait, j'ai rencontré un Skyhawk blanc.|En fait, j'ai rencontré un Skyhawk blanc."}
+{"id":1664684,"jp":"鏡花州に来る機会があれば、ぜひワタシたち九洛の香辛料も見にきてネ。\nあっちは、さらに豊かな世界アルよ！","fr":"Si tu as l'occasion de venir au Cap Jinghua, n'oublie pas de découvrir nos épices de Jiuluo.\nTu y trouveras un monde encore plus riche !"}
 {"id":1664685,"jp":"戸はぴくりとも動かない。","fr":"La porte ne bouge pas d'un pouce."}
+{"id":1664686,"jp":"（ノックしたときの音からすると、向こう側に空間があるのはたしかだけど……）","fr":"(À en juger par le bruit que j'ai entendu en frappant, il y a certainement un espace de l'autre côté, mais…)"}
+{"id":1664687,"jp":"おいおい、そんな不平等な商売はしてないぞ。ここに470ユニってちゃんと書いてあるだろ。","fr":"Hé, hé, je ne pratique pas ce genre de commerce malhonnête. C'est clairement écrit 470 Uni, juste ici."}
+{"id":1664688,"jp":"で、ルルカに作った痛み止めを\n渡してきてほしいって頼まれて……","fr":"Et on m'a demandé d'aller remettre à Luruka\nles antidouleurs préparés spécialement pour elle…"}
+{"id":1664689,"jp":"皆、シャルル村の物語に興味津々のようじゃな。\nほっほ、うれしいことじゃ。","fr":"Tout le monde semble passionné par les histoires du Village de Charlulu.\nHoho, voilà qui me réjouit."}
+{"id":1664691,"jp":"えっとね、図面によると、拡張すれば建築できるエリアが広くなって、\n農園もほんわかしてかわいいフリス風になるんだよ。","fr":"Alors, d'après les plans, cette extension permettra d'agrandir la zone constructible,\net la ferme adoptera également un style chaleureux et adorable, typique de Fleece."}
+{"id":1664692,"jp":"すごく質のいい鱗です……翼人の力添えに感謝いたします。","fr":"Ces écailles sont d'excellente qualité… Je vous remercie pour le soutien des Ailés."}
 {"id":1664695,"jp":"こんにちは、いまお時間あるかしら？","fr":"Bonjour, auriez-vous un instant ?"}
+{"id":1664696,"jp":"課題を終わらせるために、フィアールが落とす\n『光る欠片』が必要なの。悪いけど、すこし集めてきてくれない？","fr":"Pour terminer mon travail, j'ai besoin des « fragments lumineux » laissés par les Fearc.\nDésolée de te demander ça, mais pourrais-tu m'en rapporter quelques-uns ?"}
 {"id":1664698,"jp":"勝負からは、さまざまな学びがあります。","fr":"Chaque affrontement nous apporte de précieux enseignements."}
+{"id":1664699,"jp":"やっぱり<color=#fed196>スーニヤに侵蝕されたエリア</color>だ。まさかこんなところで起こるなんて……","fr":"C'est bien une <color=#fed196>zone érodée par Sunya</color>. Dire qu'un tel phénomène puisse se produire ici…"}
 {"id":1664701,"jp":"ありがたい！感謝する！","fr":"Voilà qui m'est précieux ! Merci !"}
 {"id":1664703,"jp":"うん、ほら！","fr":"Oui, tiens !"}
+{"id":1664704,"jp":"アタシたちは鷹神さまへの感謝と敬意を示すために、\n空に最も近い頂を選んで、像を立てたのよ。","fr":"Pour témoigner notre gratitude et notre respect au dieu Faucon,\nnous avons choisi le sommet le plus proche du ciel pour y ériger une statue."}
 {"id":1664705,"jp":"ピィー！","fr":"Piii !"}
 {"id":1664706,"jp":"あっ！そうだ、ソール。パミーがふたり来なかったか？","fr":"Ah ! Au fait, Soul, deux Pammy seraient-ils passés par ici ?"}
+{"id":1664707,"jp":"はい。ウィスパーツリーの葉を使えば、\n遠く離れた方々とも時間と空間を超えて交信することができます。","fr":"Oui. Grâce aux feuilles de l'arbre murmurant,\nil est possible de communiquer avec des personnes éloignées, par-delà le temps et l'espace."}
+{"id":1664708,"jp":"どうすればいいか迷ってる……|どうすればいいか迷ってる……","fr":"Je ne sais pas quoi faire…|Je ne sais pas quoi faire…"}
 {"id":1664709,"jp":"作物が育つのを待ってて、暇だからね。","fr":"J'attends que mes cultures poussent, alors je m'ennuie un peu."}
 {"id":1664710,"jp":"むん！","fr":"Hmph !"}
+{"id":1664714,"jp":"「<ruby=ホークガル>鷹主</ruby>」さま、イェクウたちをお連れしました。","fr":"« <ruby=ホークガル>Seigneur Faucon</ruby> », je vous ai amené Yekuu et ses compagnons."}
+{"id":1664716,"jp":"ファランタ……「<ruby=ホークガル>鷹主</ruby>」として、イェクウの条件を受け入れてくれる？","fr":"Faridah… En tant que « <ruby=ホークガル>Seigneur Faucon</ruby> », accepteras-tu les conditions de Yekuu ?"}
+{"id":1664717,"jp":"境界線は先代「<ruby=ホークガル>鷹主</ruby>」とシャルル村の村長の話し合いによって決まったものだ。","fr":"La frontière a été établie à la suite de discussions entre le précédent « <ruby=ホークガル>Seigneur Faucon</ruby> » et le Chef du village de Charlulu."}
+{"id":1664718,"jp":"先代「<ruby=ホークガル>鷹主</ruby>」の尽力で平和が続いていた。\n境界を越えぬ約束でな。","fr":"La paix perdurait grâce aux efforts du précédent « <ruby=ホークガル>Seigneur Faucon</ruby> ».\nChacun avait promis de ne pas franchir la frontière."}
+{"id":1664721,"jp":"それにこの果汁、すごく甘いにおいがする。\n新しい料理に使えるかも！","fr":"Et puis, ce jus de fruits dégage un parfum vraiment sucré.\nOn pourrait peut-être l'utiliser dans une nouvelle recette !"}
 {"id":1664722,"jp":"その……羽根の根元には触らないでもらえるか……","fr":"Euh… Pourrais-tu éviter de toucher la base de mes plumes…"}
 {"id":1664723,"jp":"ごめん……この果汁、思ってたより取れにくいね……","fr":"Pardon… Ce jus de fruits est plus difficile à enlever que je ne le pensais…"}
 {"id":1664724,"jp":"手だけで取るのは無理そうだ。","fr":"On dirait qu'il est impossible de l'enlever à la main."}
+{"id":1664725,"jp":"このままでは役に立てそうにない。\nすこし寄り道してもいいか。","fr":"Dans cet état, je risque de ne pas être d'une grande aide.\nPouvons-nous faire un petit détour ?"}
+{"id":1664726,"jp":"崖下で夜まで助けを待った。\nそのうちベリーの汁がカチコチになって……","fr":"Nous avons attendu les secours au pied de la falaise jusqu'à la nuit tombée.\nEntre-temps, le jus de baies avait complètement durci…"}
+{"id":1664727,"jp":"だが、泣き声を頼りに先代<ruby=ホークガル>鷹主</ruby>がやって来て、\n私たちを里まで連れ帰ってくれた。","fr":"Mais le précédent <ruby=ホークガル>Seigneur Faucon</ruby>, guidé par nos pleurs, est venu nous chercher\net nous a ramenés au village."}
+{"id":1664728,"jp":"そんで最後！アタシらは思い切って跳んで！\n水が押し寄せるまえに噴泉のなかに飛び込んだんだ！","fr":"Et pour finir ! On a pris notre courage à deux mains et on a sauté !\nOn a plongé dans la fontaine avant que l'eau ne déferle !"}
+{"id":1664729,"jp":"放っておけばいい。 \n持ちものは全部盗られてるし、 もう悪さはできないはずなのだ。","fr":"Laissons-les tranquilles.\nToutes leurs affaires ont été volées, ils ne devraient plus pouvoir causer d'ennuis."}
+{"id":1664730,"jp":"ふーん！信じられないのだ。\nどーせ、喉元過ぎれば熱さを忘れるってやつだろう？\nつぎ会ったらまた狙ってくる！","fr":"Hmph ! Je n'y crois pas une seconde.\nUne fois le danger passé, ils auront vite oublié leur mésaventure, non ?\nLa prochaine fois qu'on les croisera, ils nous attaqueront encore !"}
+{"id":1664731,"jp":"わかるよ。過去を思い出せない不安や、落ち込む気持ち。|わかるよ。過去を思い出せない不安や、落ち込む気持ち。","fr":"Je comprends. L'angoisse de ne pas pouvoir se souvenir de son passé et le découragement qui en découle.|Je comprends. L'angoisse de ne pas pouvoir se souvenir de son passé et le découragement qui en découle."}
+{"id":1664733,"jp":"空には禍々しい気配が漂っていて、\nこの世のすべてを握りつぶそうとするかのような巨大なかぎ爪が……","fr":"Une présence sinistre imprégnait le ciel,\net une gigantesque griffe semblait vouloir réduire en miettes tout ce qui existait en ce monde…"}
 {"id":1664734,"jp":"なっ！あれってそんなに危険なものなんですか！？","fr":"Q-quoi ! C'est donc si dangereux que ça ?!"}
 {"id":1664735,"jp":"こっち、こっち！","fr":"Par ici, par ici !"}
 {"id":1664736,"jp":"げぇ、侵蝕がここまで広がってるのか……","fr":"Beurk, l'érosion s'est propagée jusqu'ici…"}
+{"id":1664737,"jp":"キボが見当たらないな……こんなに谷が静かなのははじめてだ。","fr":"Aucun Kibo en vue… C'est la première fois que la vallée est aussi silencieuse."}
+{"id":1664739,"jp":"アルマロ……そうか！\nじっちゃんの言ってたルルカを助けられるかもしれない『心当たり』って、\nアンタのことだったんだな！","fr":"Armaro… Je comprends !\nQuand papy disait connaître quelqu'un qui pourrait peut-être aider Luruka,\nil parlait donc de toi !"}
 {"id":1664740,"jp":"なあ……そうだろ？","fr":"Hein… c'est vrai, non ?"}
+{"id":1664742,"jp":"それが<color=#fed196>『ルダリス』</color>……？","fr":"C'est donc <color=#fed196>« Rudalis »</color>… ?"}
+{"id":1664743,"jp":"危機が迫ったとき、タナが狼を率いてルダリスに立ち向かい、\n時間を稼いでくれた……","fr":"Lorsque le danger approcha, Tana mena les loups au combat contre Rudalis\npour nous faire gagner du temps…"}
+{"id":1664744,"jp":"たが、そのせいで狼たちはみな犠牲になり……タナも命を落とした。","fr":"Mais tous les loups y laissèrent la vie… Et Tana périt également."}
+{"id":1664745,"jp":"ルダリスを封印するため、私は最後の希望に縋るしかなかった……","fr":"Pour sceller Rudalis, je n'avais d'autre choix que de me raccrocher à notre dernier espoir…"}
+{"id":1664746,"jp":"シャルルとカルマーナを繋げ、そのカルマで、\n彼女の命を……ルダリスを封印する繭にしたの。","fr":"J'ai relié Charlulu à Karmana et, grâce à ce Karma,\nj'ai transformé sa vie… en un cocon destiné à sceller Rudalis."}
+{"id":1664747,"jp":"その者はシャルルの命を繋ぐことができると言った。\nわしらはその申し出に同意して、希望に賭けることしかできなかった。","fr":"Cette personne affirma pouvoir maintenir Charlulu en vie.\nNous n'avions d'autre choix que d'accepter cette proposition et de nous raccrocher à cet espoir."}
+{"id":1664748,"jp":"そんなものを建てていたなんて！あの巨大なスーニヤの渦ができるわけだ……","fr":"Ils avaient donc construit une chose pareille ! Pas étonnant qu'un aussi gigantesque vortex de Sunya se soit formé…"}
+{"id":1664749,"jp":"ふふ、この子たちはガーデンの近くでよく遊んでいる……\nお隣さんなのです。そうよね？","fr":"Héhé, ces petits jouent souvent près du Jardin…\nCe sont mes voisins. N'est-ce pas ?"}
+{"id":1664750,"jp":"翼人は誇りをなにより重んじる種族なのだ。\nシャルル村の選択は翼人たちからすると、裏切りのように感じるのかもしれないな。","fr":"Les Ailés sont un peuple qui place la fierté au-dessus de tout.\nÀ leurs yeux, le choix du Village de Charlulu pourrait bien s'apparenter à une trahison."}
 {"id":1664751,"jp":"それならスタンシアやフラムールも罠に使えそうだぞ！","fr":"Dans ce cas, Stancia et Flamur pourraient aussi servir à fabriquer des pièges !"}
+{"id":1664752,"jp":"うん。矢塔を建てよう。\nこれで空から来る敵や遠くの敵を効率よく撃退できるよ。","fr":"Oui. Construisons des tours d'archers.\nElles nous permettront de repousser efficacement les ennemis venus du ciel ou qui attaquent à distance."}
+{"id":1664753,"jp":"ふぅ……やっと……完成したぞ！\nルミィさまはもうヘトヘトなのだ！","fr":"Ouf… C'est enfin… terminé !\nDame Lumi est complètement épuisée !"}
+{"id":1664754,"jp":"こら！あたしまで勝手に……\nってまあ……別にいいけど。今回は大目に見てあげるのだ。","fr":"Hé ! Ne décide pas à ma place…\nEnfin… Ça ne me dérange pas vraiment. Je fermerai les yeux pour cette fois."}
+{"id":1664755,"jp":"はあ……ソザンカのローブよ。\nあんときはじっちゃんの頭に、チシキでも落ちたのかと思った。\nデタラメな決定すぎるってさ。","fr":"Pfff… Par la robe de Sozanka.\nÀ ce moment-là, je me suis demandé si un Chishiki n'était pas tombé sur la tête de papy.\nSa décision était complètement absurde."}
+{"id":1664756,"jp":"（テララは嘘をつくの、やっぱり苦手なんだ……）|（テララは嘘をつくの、やっぱり苦手みたい……）","fr":"(Terara ne sait vraiment pas mentir…) |(On dirait que Terara ne sait vraiment pas mentir…)"}
 {"id":1664757,"jp":"うん、絶対言わないよ。","fr":"Oui, je promets de ne rien dire."}
 {"id":1664758,"jp":"冷静になるとさ、じっちゃんの心配もわかるんだ。","fr":"Maintenant que j'ai retrouvé mon calme, je comprends pourquoi papi s'inquiétait."}
+{"id":1664759,"jp":"アタシの取り柄は、無茶を通すことだけ。\nこんな状況じゃ滑稽なだけだよな……","fr":"Mon seul talent, c'est de foncer tête baissée, même quand tout semble impossible.\nDans une situation pareille, c'est tout simplement ridicule…"}
 {"id":1664760,"jp":"慰めなんかじゃないよ。","fr":"Ce n'est pas seulement pour te réconforter."}
+{"id":1664762,"jp":"村長……ごめん。僕の独断でみんなを集めて、決定を覆して……|村長……ごめん。私の独断でみんなを集めて、決定を覆して……","fr":"Chef du village… Pardon. J'ai pris l'initiative de rassembler tout le monde et de revenir sur votre décision…|Chef du village… Pardon. J'ai pris l'initiative de rassembler tout le monde et de revenir sur votre décision…"}
+{"id":1664763,"jp":"待って！その『ルダリス』がきみと同じ竜人だとしても？|待ってよ！その『ルダリス』があなたと同じ竜人だとしても？","fr":"Attends ! Même si ce « Rudalis » est un Draconien, tout comme toi ?|Attends ! Même si ce « Rudalis » est un Draconien, tout comme toi ?"}
 {"id":1664764,"jp":"{playerName}、貴様の力を示してみせよ。","fr":"{playerName}, montre-moi de quoi tu es capable."}
+{"id":1664765,"jp":"この陣地に築いた防衛柵を使って戦おう。\n自分の役割をしっかり覚えて、計画外の行動は避けること。","fr":"Combattons en nous appuyant sur les palissades défensives construites dans ce camp.\nRetenez bien vos rôles respectifs et évitez toute initiative contraire au plan."}
+{"id":1664766,"jp":"さあ、みんな、反撃のときだ！|さあ、みんな、反撃のときよ！","fr":"Allez, tout le monde, l'heure de la contre-attaque a sonné !|Allez, tout le monde, l'heure de la contre-attaque a sonné !"}
+{"id":1664767,"jp":"チップは揃った。\nあとはこの愉しい賭けを、楽しみましょう。","fr":"Tous les jetons sont réunis.\nIl ne nous reste plus qu'à savourer ce délicieux pari."}
+{"id":1664768,"jp":"あれは……天から星が落ちてきているのですか？\n碧い……流れ星？","fr":"Est-ce… une étoile qui tombe du ciel ?\nUne étoile filante… bleue ?"}
+{"id":1664769,"jp":"ふむ、言い伝えによると\n空から落ちてくる星に祈れば、願いを叶えてくれるらしいな。","fr":"Hmm, d'après la légende,\nsi l'on adresse une prière à une étoile qui tombe du ciel, elle exaucera notre vœu."}
 {"id":1664770,"jp":"空に浮かぶタナのような優しい白。","fr":"Un blanc aussi doux que Tana flottant dans le ciel."}
+{"id":1664771,"jp":"そ、そそそんなこと……ほかのみんなはもう出発してるの……","fr":"M-m-mais pas du tout… Les autres sont déjà partis…"}
+{"id":1664772,"jp":"待って、テララ。\nこの祭壇は物理的に壊せる代物ではないわ……\nご覧なさい、この中枢にある装置……","fr":"Attends, Terara.\nCet autel ne peut pas être détruit par la force brute…\nRegarde cet appareil situé en son centre…"}
 {"id":1664773,"jp":"キボたちの力を、見せるときがきたね！","fr":"Il est temps de montrer toute la puissance des Kibo !"}
 {"id":1664774,"jp":"ええ、そうね。","fr":"Oui, c'est ça."}
 {"id":1664775,"jp":"僕たちならきっとできる。|私たちならきっとできる。","fr":"Ensemble, nous y arriverons.|Ensemble, nous y arriverons."}
 {"id":1664776,"jp":"『みんな』で、ルダリスを倒そう！","fr":"Vainquons Rudalis « tous ensemble » !"}
 {"id":1664777,"jp":"また、同じ結末に……","fr":"Encore la même fin…"}
 {"id":1664778,"jp":"それでも……","fr":"Malgré tout…"}
+{"id":1664779,"jp":"こ、この力は……\n谷のカルマがルルカと共鳴してるのか？","fr":"C-cette puissance…\nLe Karma de la vallée entre-t-il en résonance avec Luruka ?"}
 {"id":1664780,"jp":"あなたが踏みにじってよいものではありません！","fr":"Vous n'avez aucun droit de piétiner cela !"}
 {"id":1664781,"jp":"もう逃げません――","fr":"Je ne fuirai plus –"}
 {"id":1664782,"jp":"絶対に許しません！","fr":"Je ne pardonnerai jamais !"}
 {"id":1664784,"jp":"うん。|わかった……","fr":"Oui.|Compris…"}
+{"id":1664785,"jp":"シークリッドの鱗が助けてくれたんだ。|シークリッドの鱗が助けてくれたの。","fr":"C'est l'écaille de Seekrid qui m'a sauvé la vie.|C'est l'écaille de Seekrid qui m'a sauvé la vie."}
 {"id":1664786,"jp":"ああ！帰ろう！","fr":"Oui ! Rentrons !"}
+{"id":1664787,"jp":"ええ。戦いの最中、大狼さまがウルに力を授けてくださって。\nおかげで、ルダリスに打ち勝つことができたんです！","fr":"Oui. Au cours du combat, le Seigneur Grand Loup a accordé sa puissance à Uru.\nC'est grâce à cela que nous avons pu vaincre Rudalis !"}
+{"id":1664788,"jp":"今度こそ……生きて約束を果たすよ。\n谷のみなさんと一緒に、未来を見届けるために！","fr":"Cette fois… Je resterai en vie pour tenir ma promesse.\nPour contempler l'avenir aux côtés de tous les habitants de la vallée !"}
 {"id":1664789,"jp":"こらこら、なんでみんなして神妙な顔をしてるのだ？","fr":"Hé, hé ! Pourquoi faites-vous tous des têtes aussi graves ?"}
+{"id":1664790,"jp":"ふふ……ええ！楽しみにしています！\nいつでも歓迎しますから！","fr":"Héhé… Oui ! J'ai hâte d'y être !\nVous serez toujours les bienvenus !"}
+{"id":1664791,"jp":"すべてが新しく生まれ変わったのです。\nそして、お姉ちゃんや村のみなさんと一緒に、\nこれからも新しい日々を紡いでいく……","fr":"Tout a connu une nouvelle naissance.\nEt aux côtés de ma grande sœur et de tous les villageois,\nje continuerai à tisser de nouveaux jours…"}
+{"id":1664792,"jp":"真の力はルダリスとの戦いのあと、進化教団に奪われてしまったからな。","fr":"Car le Culte de l'Évolution m'a dérobé ma véritable puissance après le combat contre Rudalis."}
 {"id":1664793,"jp":"はああ——んんっ？","fr":"Haaah… hein ?"}
+{"id":1664794,"jp":"ほらほら、はやく起きるのだ！\nこの谷にはずいぶん長居したからな！荷物をまとめて出発だ！","fr":"Allez, allez, debout !\nNous sommes restés bien assez longtemps dans cette vallée ! Rassemble tes affaires et partons !"}
+{"id":1664795,"jp":"それに、もう十分、貴重なお時間をいただいたから……\n星臨者さまが旅立つなら、わたしたちは笑顔で送り出さないと……","fr":"Et puis, nous avons déjà accaparé une bonne partie de votre précieux temps…\nSi l'Enfant des étoiles doit reprendre la route, nous devons lui souhaiter bon voyage avec le sourire…"}
 {"id":1664796,"jp":"ん……？","fr":"Hm… ?"}
 {"id":1664797,"jp":"ふう！なんとか追いつけたな！","fr":"Ouf ! J'ai enfin réussi à vous rattraper !"}
 {"id":1664798,"jp":"どういう意味よ？","fr":"Qu'est-ce que ça veut dire ?"}
@@ -47123,64 +47309,214 @@
 {"id":1664803,"jp":"みんな、気をつけて！","fr":"Tout le monde, attention !"}
 {"id":1664804,"jp":"旅行者が集まってくるから？","fr":"Parce que les voyageurs s'y rassemblent ?"}
 {"id":1664805,"jp":"モーキュ――ン！","fr":"Mokyuuun !"}
+{"id":1664806,"jp":"アイオリアンに会いに来たんだ。|アイオリアンに会いに来たの。","fr":"Je viens voir l'Éolien.|Je viens voir l'Éolien."}
+{"id":1664807,"jp":"このまえ、アニスに助けられたんだ。|このまえは、アニスに助けられたの。","fr":"Anais m'a prêté main-forte l'autre jour.|Anais m'a prêté main-forte l'autre jour."}
 {"id":1664808,"jp":"とにかく、落ち着かせましょう！","fr":"Quoi qu'il en soit, essayons de l'apaiser !"}
 {"id":1664809,"jp":"百業この世に在るかぎり、因果の巡り終わりなし。","fr":"Tant que les actes se succèdent en ce monde, le cycle des causes et des conséquences demeure sans fin."}
 {"id":1664810,"jp":"糸を指に絡め、終に結ばれん。","fr":"Que le fil s'enroule autour du doigt et qu'enfin le lien se noue."}
 {"id":1664811,"jp":"さあ、桃花の札よ。久遠の縁を示せ。","fr":"Ô talisman des fleurs de pêcher, révèle le lien éternel."}
+{"id":1664812,"jp":"蘭将軍はこれまで方々へ出征し、\n三軍のなかで抜きんでた武功を挙げ、\n辰王朝の礎のため汗馬の労を尽くした。","fr":"Le général Lan a mené des campagnes aux quatre coins du monde,\ns'illustrant par des exploits militaires sans égal au sein des trois armées,\net œuvrant sans relâche à l'établissement des fondements de la dynastie Chen."}
+{"id":1664814,"jp":"ああ、その戦には俺も出陣していた。\nこの目で王の威光を見届けたのだ。","fr":"Oui, j'ai moi aussi pris part à cette bataille.\nJ'ai contemplé de mes propres yeux la majesté du roi."}
+{"id":1664815,"jp":"凡夫に過ぎぬ我々が王と肩を並べた……\nこの上ない幸運だった。","fr":"De simples mortels comme nous ont combattu aux côtés du roi…\nC'était une chance incomparable."}
+{"id":1664816,"jp":"この玉壁の欠片は王朝の礎そのもの。\n辰皇帝はこれを秘密裏に王朝の外まで持ち出し、大切に守るよう命じた。","fr":"Ce fragment de disque de jade constitue le fondement même de la dynastie.\nL'empereur Chen a ordonné qu'il soit secrètement emporté hors du territoire de la dynastie et soigneusement protégé."}
+{"id":1664817,"jp":"この地はさきの大戦で使われた駅站。\n俺と辰皇帝のほかに知る者はいない。\n隠すには絶好の場所というわけだ。","fr":"Cet endroit était un relais utilisé lors de la dernière grande guerre.\nPersonne d'autre que l'empereur Chen et moi-même n'en connaît l'existence.\nC'est donc la cachette idéale."}
+{"id":1664818,"jp":"この腕輪を目にすることは、もうないと思っていたのに……\n長い朔を経て、こうしてまたひとつになるなんて……","fr":"Je pensais ne jamais revoir ce bracelet…\nEt voilà qu'après tant de lunes, il retrouve son intégrité…"}
+{"id":1664819,"jp":"だけど、ここに玉壁はないんだし\n使命も変えるべきじゃないかな？","fr":"Mais puisque le disque de jade ne se trouve plus ici,\nne faudrait-il pas aussi revoir ta mission ?"}
+{"id":1664821,"jp":"ずいぶんお急ぎのようでした。\nフリスのほうへ向かわれたと思います。","fr":"Ils semblaient très pressés.\nJe crois qu'ils se dirigeaient vers Fleece."}
+{"id":1664822,"jp":"{playerName}大人……\nわたくしを助けに来てくださったのですか？","fr":"{playerName}…\nÊtes-vous venu à mon secours ?"}
+{"id":1664824,"jp":"おおげさだよ。\nどうしてキボに襲われたんだろう……？","fr":"Tu exagères.\nMais pourquoi ces Kibo t'ont-ils attaqué… ?"}
 {"id":1664825,"jp":"うん、任せて、おばあさま。","fr":"Oui, compte sur moi, grand-mère."}
 {"id":1664826,"jp":"そのみんなにはね、あなた自身も含まれているの。","fr":"Tu sais, quand je dis « tout le monde », cela t'inclut aussi."}
+{"id":1664829,"jp":"ここのスタッフたちとセキュリティの確認をするから、\nそのあいだは自由に乗り場を見学していてね。","fr":"Je vais vérifier les mesures de sécurité avec le personnel.\nEn attendant, vous pouvez visiter librement le port de dirigeables."}
+{"id":1664830,"jp":"ハハハ、いやいや。出航は今日の夕方だ。\n魔晶核の風のカルマがいっぱいになったら、\nロージア帝国に向けてテイクオフするよ。","fr":"Hahaha, mais non. Le départ est prévu pour ce soir.\nLorsque le noyau cristallin magique sera rempli de Karma du vent,\nnous décollerons en direction de l'Empire de Rosia."}
 {"id":1664831,"jp":"命が懸かってたのはあっちなのだ……","fr":"Ce sont eux qui risquaient leur vie…"}
 {"id":1664832,"jp":"皆から見て、コムギはどうだった？","fr":"Qu'avez-vous tous pensé de Komugi ?"}
+{"id":1664833,"jp":"いや、大丈夫だよ。普段から厩舎の管理をしてるんだ。\nキボとぶつかるのには慣れてるよ。","fr":"Non, tout va bien. Je m'occupe quotidiennement des écuries.\nJ'ai l'habitude de me faire bousculer par les Kibo."}
+{"id":1664834,"jp":"いいえ、謝るべきは私のほうです。\nケガをさせてしまって申し訳ありません……\nこちらをどうかお受け取りください。","fr":"Non, c'est à moi de présenter mes excuses.\nJe suis désolée de vous avoir causé une blessure…\nJe vous en prie, acceptez ceci."}
+{"id":1664835,"jp":"さすが妖精さま。キボとこれほど親しく交流できるなんて。","fr":"Digne de dame la fée. Quelle proximité remarquable avec les Kibo…"}
 {"id":1664838,"jp":"おい！{playerName}！","fr":"Hé ! {playerName} !"}
+{"id":1664839,"jp":"いいわ！この天才の実力、見せてあげる！\n真紅の弾丸は、すべてを貫くのよ！","fr":"Très bien ! Je vais vous montrer toute l'étendue de mon génie !\nLa balle écarlate transperce absolument tout !"}
 {"id":1664840,"jp":"一千万……一千万……一千万……","fr":"Dix millions… Dix millions… Dix millions…"}
 {"id":1664841,"jp":"一千万！！","fr":"Dix millions !!"}
 {"id":1664843,"jp":"なっ、一千万！？","fr":"Q-quoi, dix millions ?!"}
+{"id":1664844,"jp":"飛空船乗り場……？\nああ！思い出した！あれもキミたちだったね！","fr":"Le port de dirigeables… ?\nAh ! Je me souviens ! C'était encore vous !"}
+{"id":1664845,"jp":"飛空船を破壊する機会を窺うために、\nあそこで張り込んでたのか？","fr":"Tu surveillais les lieux pour attendre le moment propice à la destruction du dirigeable ?"}
 {"id":1664846,"jp":"このまえは、どうして飛空船乗り場にいたの？","fr":"Pourquoi étais-tu au port des dirigeables l'autre jour ?"}
+{"id":1664847,"jp":"<color=#fed196>エアサック</color>見っけ！\nこれが飛空船を動かしてた心臓部だね！","fr":"J'ai trouvé le <color=#fed196>sac aérien</color> !\nC'est le cœur qui alimentait le dirigeable !"}
+{"id":1664848,"jp":"帝国の飛空船は魔晶核を動力源にしてるの。\n風のカルマをエアサックに取り込み、魔晶核で動力へ変換する仕組み。","fr":"Les dirigeables de l'Empire utilisent un noyau cristallin magique comme source d'énergie.\nLe Karma du vent est absorbé par le sac aérien, puis converti en énergie motrice par le noyau cristallin magique."}
+{"id":1664849,"jp":"利点は構造が単純で、整備しやすいこと。\nでも、安定性に欠けていて、\n魔晶核に問題が生じると、そのまま事故に繋がる。","fr":"L'avantage, c'est que sa structure est simple et facile à entretenir.\nCependant, elle manque de stabilité,\net le moindre dysfonctionnement du noyau cristallin magique peut directement provoquer un accident."}
+{"id":1664850,"jp":"ロージア帝国の追及を受けて、\nこの事件の責任はアイオリアンが負うことになった。","fr":"Sous la pression de l'Empire de Rosia,\nl'Éolien a dû endosser la responsabilité de cet incident."}
 {"id":1664852,"jp":"もう！頑固ばばめ！\nこんなふうに追い出すなんて！","fr":"Raaah ! Vieille peau têtue !\nNous mettre dehors de cette façon !"}
+{"id":1664854,"jp":"だが、その話はすでに読んでおる……\nこの書閣のなかに、異本が3冊ほど収められておるのだ。","fr":"Cependant, j'ai déjà lu cette histoire…\nCette bibliothèque en conserve trois versions différentes."}
 {"id":1664855,"jp":"グランザロスを追い払ったよ。","fr":"J'ai chassé Granzaros."}
 {"id":1664857,"jp":"落ち着いた女性","fr":"Femme calme"}
 {"id":1664858,"jp":"手を差し伸べたくても、できないことが……","fr":"Il y a des situations où, malgré toute sa bonne volonté, on ne peut pas tendre la main…"}
+{"id":1664859,"jp":"ですが、今回おふたりは橋渡しをするように、\n領主さまの願いとエリーナさまたちを繋げてくださいました。","fr":"Mais cette fois, vous avez tous deux joué un rôle d'intermédiaire,\nreliant les souhaits du seigneur à dame Elina et à ses compagnons."}
+{"id":1664860,"jp":"小玉さま、縁は法力だけで実現するものでは\nないでしょう？","fr":"Dame Xiaoyu, les liens ne se concrétisent pas uniquement grâce à la puissance spirituelle, n'est-ce pas ?"}
 {"id":1664861,"jp":"領主さんの、お願いごとのリストを\n預かってるんだ～","fr":"On m'a confié la liste des souhaits du seigneur."}
+{"id":1664862,"jp":"アビィのおなかの音は、キャバードの時報よりも正確だね。\nそれじゃ、なにか食べにいこうか。","fr":"Les gargouillements du ventre d'Abby sont encore plus ponctuels que le chant d'un Cabbird.\nAlors, allons manger quelque chose."}
+{"id":1664864,"jp":"そうね。ガーデンには、同じ葉は一枚もないわ……\nけれど、こんなにも調和した緑を紡いでいるでしょう。","fr":"En effet. Dans le Jardin, aucune feuille ne ressemble à une autre…\nEt pourtant, ensemble, elles tissent une verdure si harmonieuse, n'est-ce pas ?"}
+{"id":1664865,"jp":"ふん！まだまだ序の口だぞ！\nこの程度で、もう弱音か？","fr":"Hmph ! Ce n'est que le début !\nTu te plains déjà pour si peu ?"}
 {"id":1664868,"jp":"四十朔よ、あなた……私を四十朔も待たせて！","fr":"Quarante lunes ! Tu… Tu m'as fait attendre quarante lunes entières !"}
+{"id":1664869,"jp":"{playerName}さま、遊びだと思って、\nわたしと正々堂々キボファイトしましょう！","fr":"{playerName}, prenons cela comme un jeu\net affrontons-nous loyalement dans un Duel de Kibo !"}
 {"id":1664870,"jp":"動きにも意味があるんだね……","fr":"Les mouvements ont donc aussi une signification…"}
+{"id":1664871,"jp":"けれど、傷だらけでも休んだりしなかった。\n常に頭を働かせ、訓練を続けてこそ、前に進むことができるのよ。","fr":"Pourtant, même couverte de blessures, je ne prenais aucun repos.\nCe n'est qu'en gardant l'esprit actif et en poursuivant mes efforts que je peux continuer à avancer."}
 {"id":1664872,"jp":"つぎは――こちらへ！","fr":"Ensuite – par ici !"}
 {"id":1664873,"jp":"気に入ったならよかったよ。","fr":"Tant mieux si ça te plaît."}
+{"id":1664874,"jp":"お、音を立てているのは、だ、だれですか？\nはやく……姿を……うぅ……","fr":"Q-qui fait ce bruit… ?\nMontrez-vous… vite… Ouh…"}
+{"id":1664875,"jp":"星臨大人、どうかわたくしのそばに……\n決して離れないでください……","fr":"Enfant des étoiles, je vous en prie, restez auprès de moi…\nNe vous éloignez surtout pas…"}
+{"id":1664876,"jp":"あっ！ち、違います！ひ、ひとりが怖いからではありません！","fr":"Ah ! N-non, ce n'est pas ça ! C-ce n'est pas parce que j'ai peur de rester seule !"}
+{"id":1664877,"jp":"えっ！？わ、わたくしのそばに？\nこ、こちらのほうでしょうか……？","fr":"Hein ?! P-près de moi ?\nP-par ici, peut-être… ?"}
 {"id":1664878,"jp":"香子のことを、怖いなんて思わないよ。","fr":"Je ne trouve pas Xiangzi effrayante du tout."}
+{"id":1664879,"jp":"僕の姿をイメージしたってこと？|私の姿をイメージしたってこと？","fr":"Tu veux dire que tu imaginais mon apparence ?|Tu veux dire que tu imaginais mon apparence ?"}
 {"id":1664880,"jp":"着替えが終わるまで外にいるよ。","fr":"Je vais attendre dehors le temps que tu te changes."}
 {"id":1664881,"jp":"いま……「ありがとう」って、言った？","fr":"Tu viens de… Dire « Merci » ?"}
+{"id":1664882,"jp":"気にしないで、僕が誘ったんだから。|気にしないで、私が誘ったんだから。","fr":"Ne t'en fais pas, c'est moi qui t'ai invité.|Ne t'en fais pas, c'est moi qui t'ai invité."}
+{"id":1664883,"jp":"けれど、一番前に置かれているのだから、あなたがちゃんとこの店を守ってあげなくてはね。","fr":"Mais puisque c'est placé tout devant, il faudra que tu veilles soigneusement sur cette boutique."}
+{"id":1664884,"jp":"いまから『つぎ』が楽しみなんだ。|いまから『つぎ』が楽しみだもん。","fr":"J'ai déjà hâte d'être à la « prochaine fois ».|J'ai déjà hâte d'être à la « prochaine fois »."}
 {"id":1664885,"jp":"えへへ、耳が当たってくすぐったいにゃ……","fr":"Héhé, tes oreilles me chatouillent, nya…"}
 {"id":1664886,"jp":"それじゃあ、『ひと休み』にならないよ？","fr":"Dans ce cas, ce ne sera pas vraiment une « pause », si ?"}
 {"id":1664887,"jp":"そんなことないにゃ。体はちゃーんと休んでるもん！","fr":"Mais si, nya ! Mon corps se repose très bien !"}
+{"id":1664888,"jp":"冒険者さんみたいな実力者が手を貸してくれるなら、\n『未来』はもうすぐそこだにゃ！","fr":"Avec l'aide de quelqu'un d'aussi talentueux que toi,\nl'« avenir » est déjà à portée de main, nya !"}
 {"id":1664889,"jp":"貴方さまの近くに害虫が……すこしお下がりください。","fr":"Un insecte nuisible se trouve près de vous… Veuillez reculer un peu."}
 {"id":1664890,"jp":"目だけで害虫駆除できそうだね。","fr":"Tu pourrais exterminer les nuisibles d'un simple regard."}
+{"id":1664891,"jp":"物陰に巣食う害悪は、根絶やしにしなければ。\n環境ごと汚染されてしまいます。","fr":"Les nuisibles qui se terrent dans l'ombre doivent être éradiqués jusqu'au dernier.\nSans quoi, tout leur environnement finira par être contaminé."}
+{"id":1664892,"jp":"『掃除』の重要性については、\n当然、貴方さまもおわかりのことでしょう。","fr":"Quant à l'importance du « nettoyage »,\nje suis certaine que vous en avez parfaitement conscience."}
 {"id":1664893,"jp":"清浄な環境は、主の品格を表すもの……","fr":"Un environnement impeccable reflète la dignité de son maître…"}
+{"id":1664894,"jp":"塵のひとつでも残しては、\nお客さまに対する敬意を欠くことになります。","fr":"Laisser ne serait-ce qu'un grain de poussière\nconstituerait un manque de respect envers nos invités."}
+{"id":1664895,"jp":"優雅さに欠ける姿をお見せしてしまい、\n大変失礼いたしました。","fr":"Je vous ai offert un spectacle bien peu élégant.\nJe vous prie de bien vouloir m'en excuser."}
+{"id":1664896,"jp":"貴方さまのまえでは、\n常に完璧な姿をお見せしていなくては。","fr":"En votre présence,\nje me dois de toujours présenter une apparence irréprochable."}
+{"id":1664897,"jp":"無礼を働いたお詫びに、\n御用件をなんでもお申し付けください。\nできる限り対応させていただきます。","fr":"Pour me faire pardonner cette inconvenance,\nje vous invite à me faire part de vos moindres désirs.\nJe m'efforcerai de les satisfaire au mieux."}
+{"id":1664898,"jp":"貴方さまのことですから、\n理不尽な要求などされるはずもないでしょうが……","fr":"Vous connaissant,\nje doute toutefois que vous formuliez des demandes déraisonnables…"}
 {"id":1664899,"jp":"えっと、キャスベルがやりたいことで……","fr":"Euh, ce que Cathbelle aimerait faire…"}
+{"id":1664900,"jp":"では、貴方さまの非常に個性的なお部屋を\n私が徹底的にお掃除させていただきます。","fr":"Dans ce cas, permettez-moi de procéder au nettoyage intégral de votre chambre au style si… personnel."}
+{"id":1664901,"jp":"領主邸に仕えるメイドとして、貴方さまが見違えるほど\n綺麗に仕上げてご覧に入れましょう。","fr":"En tant que domestique au service du manoir du seigneur,\nje vous garantis une propreté telle que vous ne reconnaîtrez plus votre chambre."}
+{"id":1664902,"jp":"キャスベルは礼儀正しく、有無を言わせない態度で、\n丁重に部屋を片づけ、枕まで叩いてふっくらと整えてくれた。","fr":"Avec une politesse irréprochable et une attitude ne laissant place à aucune objection,\nCathbelle rangea soigneusement la chambre, allant jusqu'à regonfler les oreillers pour les rendre bien moelleux."}
+{"id":1664903,"jp":"その几帳面で真摯な態度はまさにメイドの鑑。\nただ、口元に浮かんだ微笑みだけが、彼女の機嫌のよさをほのめかしていた。","fr":"Son attitude méticuleuse et consciencieuse faisait d'elle un véritable modèle de domestique.\nSeul le léger sourire qui se dessinait sur ses lèvres trahissait sa bonne humeur."}
 {"id":1664904,"jp":"……って、ちょっと待って！モーモ――","fr":"… Mais attends un peu ! Momo…"}
+{"id":1664905,"jp":"ほっほ……わしだけじゃない。みんなも楽しみにしておる。","fr":"Hoho… Je ne suis pas le seul. Tout le monde attend cela avec impatience."}
+{"id":1664906,"jp":"どういたしまして。つぎに来たときは、\n調合したブルーヴィンジュースをごちそうするよ！","fr":"De rien. Lors de ta prochaine visite,\nje te ferai goûter le jus de Blue Vin que j'aurai préparé !"}
+{"id":1664907,"jp":"おや、失礼しました。このような場所に腕の立つ冒険者が\nいらっしゃるとは思いませんでした。","fr":"Oh, veuillez m'excuser. Je ne pensais pas rencontrer une personne aussi expérimentée en aventure dans un endroit pareil."}
+{"id":1664908,"jp":"街からこんなに離れた場所までわざわざ来るとは。どんなご用件ですか？","fr":"Vous avez fait tout ce chemin jusqu'à cet endroit si éloigné de la ville. Qu'est-ce qui vous amène ?"}
+{"id":1664909,"jp":"レオバーンドも、好き嫌いがはっきりしてるみたいだね。","fr":"On dirait que les Leoburnd ont eux aussi des goûts bien affirmés."}
+{"id":1664910,"jp":"石に下敷きになってるのは……本かノートみたいだけど……これが欲しいの？","fr":"Ce qui est coincé sous cette pierre… On dirait un livre ou un carnet… C'est ce que tu veux ?"}
+{"id":1664911,"jp":"るつぼも賛成してくれるわよね？\nそれなら、とりあえずわかっている部分だけでも、儀式をしてみようかしら。","fr":"Tu es d'accord avec moi aussi, n'est-ce pas, Crucible ?\nDans ce cas, essayons d'accomplir le rituel, au moins avec les éléments que nous connaissons."}
 {"id":1664914,"jp":"ふふっ、こんにちは。","fr":"Hihi, bonjour."}
 {"id":1664915,"jp":"話してみるのだ。","fr":"Allons, on écoute."}
+{"id":1664916,"jp":"なにが「一理あるな」だ！なんの話をしてるのか\nぜーんぜんわからないぞ、まったく！","fr":"Comment ça, « c'est pas faux » ?! Je ne comprends absolument rien à ce que vous racontez, enfin !"}
+{"id":1664917,"jp":"いや、実はアタシもなんとなく匂う気がするんだよな……\nまあでも、『恩恵石』がどんなものかわかったし、あとは簡単だよ。","fr":"En fait, j'ai l'impression de sentir quelque chose moi aussi…\nMais bon, maintenant qu'on sait à quoi ressemble une pierre de bénédiction, le reste sera facile."}
+{"id":1664918,"jp":"……ごめんなさい、リリカ先生。わたしの考えが浅かったよ。\nキボのフン……じゃなくて、『恩恵石』の大切さ、わかった！","fr":"… Pardon, maître Lyrica. Je n'avais pas assez réfléchi.\nLes crottes de Kibo… Enfin, les « pierres de bénédiction » ! Je comprends maintenant leur importance !"}
+{"id":1664919,"jp":"事情はよくわかりませんが……力を合わせているみなさんは、とても素敵ですね。\nわたしも『恩恵石』に興味が湧いてきました。","fr":"Je ne comprends pas très bien la situation, mais… C'est merveilleux de vous voir unir vos forces.\nCes « pierres de bénédiction » commencent également à m'intéresser."}
+{"id":1664920,"jp":"……前向きに考えようよ。すくなくとも、今日は薬を飲まなくて済んだんだし。","fr":"… Voyons le bon côté des choses. Au moins, nous n'avons pas eu à boire de médicament aujourd'hui."}
+{"id":1664921,"jp":"なら、きっとさまざまな試練が待ち構えているんだな。|なら、きっとさまざまな試練が待ち構えているんだね。","fr":"Alors, toutes sortes d'épreuves nous attendent certainement.|Alors, toutes sortes d'épreuves nous attendent certainement."}
+{"id":1664922,"jp":"そういうわけではないんだけど……まあ、だいたいわかったよ。\nそれじゃ早速、飛翔の儀の会場に行こっか。","fr":"Ce n'est pas tout à fait ça, mais… Enfin, j'ai compris l'essentiel.\nAllons sans tarder sur le lieu du rite de l'envol."}
+{"id":1664923,"jp":"またなにを企んでおるのだ、ミィティ？\n飛翔の儀の準備をしているのではなかったか？","fr":"Que manigances-tu encore, Mitty ?\nN'étais-tu pas censée te préparer pour le rite de l'envol ?"}
 {"id":1664926,"jp":"結界、修復する、わかっている。ただ……素材は？","fr":"Réparer la barrière, compris. Mais… Les matériaux ?"}
 {"id":1664927,"jp":"どれも、よくある素材みたいだね。","fr":"Ce sont tous des matériaux assez courants, on dirait."}
+{"id":1664928,"jp":"（やっぱりルミィさまの説明はわかりやすいのだ。テララまで感嘆しているのだ！）","fr":"(Les explications de dame Lumi sont vraiment limpides. Même Terara est admirative !)"}
+{"id":1664929,"jp":"んー、これはこれは……すこし目を離した隙に、ここではずいぶんおもしろそ……\nいや、厄介なことが起きていたとは！","fr":"Hmm, eh bien, eh bien… Il suffit que je détourne les yeux un instant pour qu'il se passe quelque chose d'aussi intéres…\nEnfin, d'aussi problématique !"}
+{"id":1664930,"jp":"うーん、そうとは思えないのだ……\nほかのふたつには一応原因があったけど、この噂だけは出どころがわからないのだ！","fr":"Hmm, je ne pense pas…\nLes deux autres rumeurs avaient au moins une origine identifiable, mais celle-ci reste un mystère !"}
 {"id":1664931,"jp":"ほっほ、心優しい子どもたちじゃな。","fr":"Ho ho, voilà des enfants au grand cœur."}
 {"id":1664932,"jp":"ほっほ、ふたりとも頼んだぞ。道中気をつけてな。","fr":"Ho ho, je compte sur vous deux. Soyez prudents en chemin."}
+{"id":1664933,"jp":"ハルシィたちはここを遊び場だと思ってるみたいだな。\nだから夜行性のニィバットたちは眠れなかったんだ。","fr":"Les Halcy semblent considérer cet endroit comme leur terrain de jeu.\nC'est pour ça que les Nybat, qui sont nocturnes, ne pouvaient pas dormir."}
+{"id":1664934,"jp":"なんとなくわかった気がする……\nつまり、ハルシィが休息を邪魔してくるから、この子たちは困ってるんじゃない？","fr":"Je crois avoir compris…\nCes petits sont donc embêtés parce que les Halcy perturbent constamment leur repos, non ?"}
+{"id":1664937,"jp":"なるほどな。シェディーバは夜行性で、昼行性のハルシィとは逆だから、\nハルシィの呼びかけが迷惑になってたんだ。","fr":"Je comprends. Les Shediva sont nocturnes, contrairement aux Halcy qui vivent le jour.\nLes appels des Halcy ne faisaient donc que les déranger."}
 {"id":1664939,"jp":"光った目？それはちょっとわからないかも。","fr":"Des yeux lumineux ? Je ne saurais pas vraiment dire."}
+{"id":1664940,"jp":"落ち着きがあるし、なんだか神秘的だし、背中は『孤高』って感じだし……\nなんてカッコいいんだ……","fr":"Une allure paisible, une présence mystérieuse, une silhouette qui évoque la noblesse solitaire…\nQuelle classe…"}
 {"id":1664944,"jp":"もちろん、わかってるよ！アマルテイアはフリスの――","fr":"Bien sûr que je sais ! Amalthea, c'est le… de Fleece !"}
+{"id":1664945,"jp":"（これで作物の異常な成長が止まるのかはわからないけど……\nとりあえず保安官に聞いてみよう）","fr":"(Je ne sais pas si cela suffira à arrêter la croissance anormale des cultures…\nMais allons d'abord demander au shérif.)"}
+{"id":1664946,"jp":"ポリーは、トランゴの生活環境について――\nそして少数のトランゴが過重労働を強いられているという事実をナナチャに伝えた。","fr":"Polly informa Nanacha des conditions de vie des Trango,\nainsi que du fait que certains d'entre eux étaient contraints de travailler excessivement."}
+{"id":1664947,"jp":"本当は自分で探したいけど……\n一緒に馬車を見てくれる友達もいないから、荷物を置いてここを離れることもできなくて……","fr":"J'aimerais vraiment partir à sa recherche moi-même, mais…\nJe n'ai personne pour surveiller ma carriole, alors je ne peux pas laisser mes marchandises ici sans surveillance…"}
+{"id":1664949,"jp":"実は、ちょっと困ったことがあって……\n最近、このあたりのツリィフがどんどん増えてる気がするんだ。","fr":"En fait, j'ai un petit problème…\nJ'ai l'impression que les Treeff sont de plus en plus nombreux dans les environs."}
 {"id":1664950,"jp":"リリカが土地を豊かに育てたおかげだね。","fr":"C'est grâce à Lyrica, qui a rendu ces terres si fertiles."}
+{"id":1664951,"jp":"ボス、笑いごとじゃないんだよ！これは深刻な問題なの！","fr":"Boss, ce n'est pas drôle ! C'est un problème sérieux !"}
 {"id":1664952,"jp":"オイラ、心当たりはあるんだ。","fr":"J'ai ma petite idée."}
+{"id":1664953,"jp":"ただ、オイラはここの作物の世話で手を離せないんだ。\n代わりにボスがツリィフの家を調査してくれない？","fr":"Mais je ne peux pas abandonner les cultures dont je m'occupe ici.\nBoss, tu pourrais examiner le repaire des Treeff à ma place ?"}
 {"id":1664954,"jp":"ほっほ。わしの知っていることなら、なんなりと。","fr":"Ho ho. Tant que je connais la réponse, demande-moi ce que tu veux."}
 {"id":1664955,"jp":"ほっほ……皆、腹が減っておらんか？","fr":"Ho ho… Tout le monde a faim, peut-être ?"}
+{"id":1664956,"jp":"ユースベリーなんてどうじゃ？あっちの棚に置いてある。自由に取りなさい。","fr":"Que diriez-vous de quelques baies de jouvence ? Elles sont sur cette étagère. Servez-vous librement."}
+{"id":1664957,"jp":"わしも、腹がへってしかたがなくてのう。\nひとつ、取ってきてもらえんか？","fr":"J'ai moi-même une faim de loup, voyez-vous.\nPourriez-vous m'en apporter une ?"}
+{"id":1664958,"jp":"ほっほ。それで、おぬしらはなにを知ってしまったのかのう？","fr":"Hoho. Alors, qu'avez-vous donc découvert ?"}
+{"id":1664959,"jp":"……じゃなくて……あ、あたしたちは……頑張って探した……けど……\nな、なにもわからなかったのだ～フンフフ～ン♪","fr":"… Enfin, je veux dire… N-nous avons… cherché partout… mais…\nN-nous n'avons rien découvert du tout ! Hum hum hum… ♪"}
+{"id":1664960,"jp":"ほっほ。そうかのう？\nときには、なにも知らないほうがいいこともある。","fr":"Hoho. Vraiment ?\nIl est parfois préférable de ne rien savoir."}
+{"id":1664961,"jp":"それじゃ村長、ルミィさまはもう行くのだ！\n{playerName}のところに行かなきゃいけないからな！","fr":"Bon, Chef du village, dame Lumi va prendre congé !\nIl faut que je rejoigne {playerName} !"}
+{"id":1664962,"jp":"ほっほ。うむ、またな。わかっているなら、それでよい。","fr":"Hoho. Très bien, à bientôt. Tant que tu as compris, cela me suffit."}
+{"id":1664968,"jp":"落ち着いて……痛いのはわかってる。僕はただ君を助けたいだけだ。","fr":"Tout doux… Je sais que tu as mal. Je veux simplement t'aider."}
 {"id":1664969,"jp":"げほっ……おなかが痛くて、もう最悪です……","fr":"Keuf… J'ai mal au ventre, c'est vraiment horrible…"}
+{"id":1664970,"jp":"ですが、近づいてみたらものすごく嫌がられてしまって……\nなにがまずかったのかよくわからないんですが……","fr":"Mais lorsque j'ai essayé de m'approcher, il m'a vivement repoussé…\nJe ne comprends pas vraiment ce que j'ai fait de mal…"}
 {"id":1664971,"jp":"わかったよ。森のなかまで一緒に行こう。","fr":"D'accord. Je vais t'accompagner jusque dans la forêt."}
+{"id":1664973,"jp":"ああっ、ボマークがまた来た！荷物が全部、船から川に落ちたぞ！","fr":"Ah ! Les Bomark sont de retour ! Toute la cargaison est tombée du bateau dans la rivière !"}
+{"id":1664974,"jp":"さっき、ある法則に気づいたの。\nボマークの爆発は一見不規則に見えるけど、実はある一定のパターンがある！","fr":"J'ai remarqué une certaine régularité tout à l'heure.\nLes explosions des Bomark semblent aléatoires à première vue, mais elles suivent en réalité un schéma bien précis !"}
 {"id":1664975,"jp":"因子の実レアリティ","fr":"Rareté du fruit à facteurs"}
+{"id":1664976,"jp":"サブクエスト「「キボファイトをはじめよう！」」をクリアする","fr":"Terminer la quête secondaire « Place au Duel de Kibo ! »"}
+{"id":1664977,"jp":"サブクエスト『「キボファイトをはじめよう！」』クリア後解放","fr":"Débloqué après avoir terminé la quête secondaire « Place au Duel de Kibo ! »"}
+{"id":1664978,"jp":"星識レベル13に達し、クエスト「大金持ちへの第一歩！」を達成すると解放されます。","fr":"Débloqué après avoir atteint le niveau de Savoir stellaire 13 et terminé la quête « Le premier pas vers la fortune ! »."}
+{"id":1664979,"jp":"昼に出かけたクロディーメの数と、夜に戻ってきたクロディーメの数が違うなんて！？いったいなにが起きているんだ……","fr":"Le nombre de Clodime partis dans la journée ne correspond pas à celui des Clodime revenus le soir ?! Mais que se passe-t-il donc… ?"}
+{"id":1664981,"jp":"キボたちが次々と災難に見舞われている。果たして、『黒幕』はいったいだれなのだろうか……？","fr":"Les Kibo sont frappés par une succession de malheurs. Mais qui tire donc les ficelles dans l'ombre… ?"}
+{"id":1664984,"jp":"掘り出したばかりの新鮮な粘土。子どもの手にかかれば、さまざまな形に姿を変える。","fr":"De l'argile fraîchement extraite. Entre les mains d'un enfant, elle peut prendre toutes sortes de formes."}
+{"id":1664985,"jp":"エンカクの特殊な製法により、鎧は極めて軽く、装着後も身軽に動けるうえ、堅牢な防御力も保ったままだ。","fr":"Grâce à la méthode de fabrication particulière d'Enkaku, cette armure est extrêmement légère. Elle offre une grande liberté de mouvement tout en conservant une excellente DÉF."}
+{"id":1664986,"jp":"美しい木目と光沢があり、さまざまな道具や家具を作ることができる。","fr":"Un bois aux belles veinures et au lustre élégant, permettant de fabriquer toutes sortes d'outils et de meubles."}
+{"id":1664987,"jp":"さまざまな味のキャンディーを詰め合わせた豪華なギフトボックス。","fr":"Un luxueux coffret cadeau contenant un assortiment de bonbons aux saveurs variées."}
+{"id":1664989,"jp":"シャルル村の文化では、祈りや製薬など、さまざまな用途に用いられる。","fr":"Dans la culture du Village de Charlulu, cet objet est utilisé à diverses fins, notamment pour les prières et la préparation de remèdes."}
 {"id":1664990,"jp":"「この程度の辛さなら、星臨者でも楽しめる」","fr":"« Avec un plat aussi peu épicé, même l'Enfant des étoiles pourra se régaler. »"}
+{"id":1664992,"jp":"さまざまな錬金術の難問が記されたノート。なかには難解で神秘的な錬金術の記号やさまざまな公式がびっしりと書かれている。","fr":"Un carnet recensant diverses énigmes alchimiques. Ses pages regorgent de symboles alchimiques mystérieux et complexes, ainsi que de nombreuses formules."}
 {"id":1664993,"jp":"創流の契り","fr":"Pacte de la genèse"}
 {"id":1664994,"jp":"天道の円環を起動するための石板。","fr":"Une tablette de pierre permettant d'activer le Cercle de la voie céleste."}
+{"id":1664997,"jp":"はじめて訪れたフリス。まずは街の様子を把握してから、つぎの予定に進もう。","fr":"C'est la première visite à Fleece. Prenons d'abord le temps de découvrir la ville avant de poursuivre notre programme."}
+{"id":1664998,"jp":"冒険者ギルドを後にして、一行は引き続きつぎの目的地へ向かう。","fr":"Après avoir quitté la Guilde des aventuriers, le groupe poursuit sa route vers sa prochaine destination."}
+{"id":1664999,"jp":"ミネイヴァの『輪廻』の力を使って、すこしずつ村の様子を調べよう。","fr":"Utiliser le pouvoir du « Cycle des réincarnations » de Mineiva pour examiner progressivement le village."}
+{"id":1665001,"jp":"鉱場を出たあと、寒悠悠と塗山小玉の姿は見当たらなかった。ランプブラックへ行って、目撃情報がないか聞いてみよう。","fr":"Après avoir quitté la mine, Tushan Xiaoyu et Han Youyou étaient introuvables. Se rendre à Lampblack et demander si quelqu'un les a aperçues."}
+{"id":1665003,"jp":"飛空船発着場の点検が完了した。つぎは飛空船の状況を確認しよう。","fr":"L'inspection du port de dirigeables est terminée. Vérifions maintenant l'état des dirigeables."}
+{"id":1665004,"jp":"飛空船の墜落地点に戻り、帝国の兵士たちをおびき出したあと、一行は内部の不審な痕跡を調査しはじめた","fr":"De retour sur le lieu du crash du dirigeable, le groupe attira les soldats de l'Empire à l'extérieur avant de commencer à examiner les Traces suspectes à l'intérieur."}
+{"id":1665007,"jp":"みんなで周囲を一通り捜索したが、有力な手がかりは見つからなかった。ルルカと話して、『御霊さまを呼ぶ』儀式をはじめよう。","fr":"Malgré une fouille minutieuse des environs, le groupe n'a trouvé aucun indice probant. Parler à Luruka pour commencer le rituel d'invocation des Esprits anciens."}
+{"id":1665008,"jp":"ルルカの家にはだれもいない。近くの村民に彼女たちを見かけなかったか聞いてみよう。","fr":"Il n'y a personne chez Luruka. Demander aux villageois des environs s'ils les ont aperçues."}
+{"id":1665010,"jp":"ようやく農園の畑の掃除と手入れを終えた。休憩がてら、シンフォーリアとすこしおしゃべりしよう。","fr":"Le nettoyage et l'entretien des champs de la ferme sont enfin terminés. Profitons d'une petite pause pour discuter avec Symphoria."}
+{"id":1665013,"jp":"『星臨者の野菜肉団子』に必要な素材はすべて揃った。つぎはリリカが準備してくれた食材を使って、作りはじめよう。","fr":"Tous les ingrédients nécessaires aux « Boulettes de viande aux légumes de l'Enfant des étoiles » sont réunis. Commençons à les préparer avec les ingrédients fournis par Lyrica."}
+{"id":1665014,"jp":"ザンクのところへ行くまえに、ミィティには行きたい場所があるようだ。まずは彼女に付き合って行ってみよう。","fr":"Avant de rejoindre Zank, Mitty semble vouloir se rendre quelque part. Accompagnons-la d'abord."}
+{"id":1665017,"jp":"凶鳥の鋭い鳴き声が突然響き渡ったが、星臨者たちからはまだすこし距離があるようだ。警戒を怠らず、先へ進もう。","fr":"Le cri perçant d'un oiseau maléfique retentit soudain, mais celui-ci semble encore à une certaine distance de l'Enfant des étoiles et de ses compagnons. Poursuivons notre route en restant vigilants."}
+{"id":1665019,"jp":"天道の塔の調査も一段落した。そろそろ芽吹の谷へ発ち、シャルル村へ戻るときが来た。","fr":"L'exploration de la tour de la voie céleste touche à sa fin. Il est temps de reprendre la route vers la Vallée des Bourgeons et de retourner au Village de Charlulu."}
+{"id":1665021,"jp":"村長は村民大会を開き、シャルル村が現在直面している深刻な状況をみんなに説明することにした。星臨者もこの大会へ招待された。","fr":"Le Chef du village décida de réunir les habitants afin de leur expliquer la gravité de la situation à laquelle le Village de Charlulu était confronté. L'Enfant des étoiles fut également convié à cette assemblée."}
+{"id":1665023,"jp":"モフンガについて行き、どこへ向かおうとしているのかたしかめる。","fr":"Suivre Mohunga pour découvrir où il cherche à se rendre."}
+{"id":1665030,"jp":"『聖樹の楔』にカルマが満ちた。カルマーナ付近の星脈ノードへ向かい、ひとつ目の聖樹の楔を配置しよう。","fr":"Les « coins de l'arbre sacré » sont désormais imprégnés de Karma. Se rendre au nœud de veine stellaire près de Karmana et placer le premier coin de l'arbre sacré."}
 {"id":1665032,"jp":"先へ進み、つぎの星脈ノードへ向かおう。","fr":"Continuer et rejoindre le prochain nœud de veine stellaire."}
+{"id":1665033,"jp":"階段を下っていくと、ふたつ目の星脈ノードは廃墟の下層にあるようだ。","fr":"En descendant les escaliers, il semble que le deuxième nœud de veine stellaire se trouve au niveau inférieur des ruines."}
 {"id":1665034,"jp":"廃墟の洞窟を抜け、つぎの星脈ノードへ向かおう。","fr":"Traverser la grotte en ruines et rejoindre le prochain nœud de veine stellaire."}
+{"id":1665035,"jp":"ふたつ目の星脈ノードはすぐ近くにあるが、ここは進化教団に占領されているようだ……","fr":"Le deuxième nœud de veine stellaire est tout proche, mais les lieux semblent occupés par le Culte de l'Évolution…"}
+{"id":1665037,"jp":"衛兵たちが加わったことで、防衛線の構築はより効率的になった。みんなの力を借りて、第2防衛線を築こう。","fr":"Grâce au renfort des gardes, la construction des lignes de défense progresse plus efficacement. Unissons nos forces pour établir la deuxième ligne de défense."}
 {"id":1665042,"jp":"陣地でみんなの状況を確認し、出撃の意志を問う。","fr":"Vérifier l'état de chacun au campement et s'enquérir de sa volonté de partir au combat."}
 {"id":1665047,"jp":"無垢の海で目を覚まし、待っている謎の少女と話す。","fr":"Se réveiller dans la Mer de l'innocence et parler à la jeune fille mystérieuse qui attend."}
+{"id":1665050,"jp":"香りがついた包装紙をモーキュンに渡し、つぎの場所まで案内してくれるよう頼もう。","fr":"Donner le papier d'emballage parfumé à Mokyun et lui demander de nous guider jusqu'au prochain endroit."}
+{"id":1665051,"jp":"包装紙をジョイに渡し、なにがあったのかを説明したあと――","fr":"Après avoir remis le papier d'emballage à Joy et lui avoir expliqué ce qui s'était passé…"}
+{"id":1665052,"jp":"メルトレイクへ向かい、ウォルフが見たものがいったいなんなのか調査しよう。","fr":"Se rendre au lac Melt pour découvrir ce que Wolf a réellement aperçu."}
+{"id":1665053,"jp":"エレキカッターを狙う密猟者がいるとは。すこし懲らしめてやらなければならない。","fr":"Des braconniers s'en prennent aux Elekicutter ? Il va falloir leur donner une petite leçon."}
+{"id":1665054,"jp":"共に過ごすうちに、ティーガはしだいに活発な一面を見せるようになった。だが、どうやらすこし焦っている様子で……","fr":"Au fil des moments passés ensemble, Tiga révèle progressivement un côté plus dynamique. Cependant, il semble quelque peu impatient…"}
+{"id":1665055,"jp":"別れのとき、ティーガは遠くからふたりの背中をいつまでも見つめていた……","fr":"Au moment des adieux, Tiga continua longtemps à regarder les deux silhouettes s'éloigner…"}
+{"id":1665056,"jp":"シンフォーリアが、ブラウディとの接し方をみずから実演して見せた……","fr":"Symphoria montra elle-même comment se comporter avec Browdy…"}
 {"id":1665057,"jp":"柵を突き破り、みんなを連れて果樹園へ入る。","fr":"Défoncer la clôture et conduire tout le monde dans le verger."}
+{"id":1665058,"jp":"秘密基地に入ると、そこはたしかにキボに『占拠』されていた。","fr":"En pénétrant dans la base secrète, nous avons constaté qu'elle était effectivement « occupée » par des Kibo."}
+{"id":1665059,"jp":"トランゴを虐待する者には、多くを語る必要はない。すこし懲らしめてやろう！","fr":"Inutile de faire de grands discours à quelqu'un qui maltraite les Trango. Donnons-lui une bonne leçon !"}
+{"id":1665060,"jp":"ティナナとカークの問題解決を手伝ったあと、ついでに貝殻について尋ねる。","fr":"Après avoir aidé Tinana et Kirk à résoudre leurs problèmes, en profiter pour les interroger au sujet des coquillages."}
+{"id":1665061,"jp":"ノノのヒントを元に方向をあらためて確認し、星輝鉱が密集している場所へ向かおう。","fr":"Vérifier à nouveau la direction grâce aux indications de Nono, puis se rendre à l'endroit où se concentre le minerai d'éclat stellaire."}
+{"id":1665062,"jp":"密猟者が逃げようとしたそのとき、覇気に満ちた姿が彼の行く手を阻んだ！","fr":"Au moment où le braconnier tenta de s'enfuir, une silhouette imposante lui barra la route !"}
+{"id":1665063,"jp":"一行は翼人の里への道順がわからず、星臨者が案内役を買って出た。みんなは村の門で集合することにした。","fr":"Le groupe ne connaissait pas le chemin menant au Village des Ailés. L'Enfant des étoiles proposa donc de servir de guide. Tout le monde convint de se retrouver à l'entrée du village."}
+{"id":1665065,"jp":"深く満足したリリカは、農作業の奥義――『恩恵石』をみんなに伝授することに決めた！","fr":"Pleinement satisfait, Lyrica décida de transmettre à tout le monde la Technique ultime des travaux agricoles : les « pierres de bénédiction » !"}
+{"id":1665066,"jp":"『恩恵石』の透き通るような金色の見た目は、リリカの言った通り美しく、みんなは直ちに収集に取りかかった。","fr":"L'apparence dorée et translucide des « pierres de bénédiction » était aussi belle que Lyrica l'avait décrit. Tout le monde se mit immédiatement à les ramasser."}
+{"id":1665067,"jp":"リリカが黙々と励んでいることを知ったみんなは、態度を一変させて畑仕事の学習を再開した。","fr":"En découvrant les efforts que Lyrica fournissait en silence, tout le monde changea radicalement d'attitude et reprit l'apprentissage des Travaux des champs."}
+{"id":1665068,"jp":"リビーには、最近ひとつ悩み事がある。それは、とある友人を元気づけてあげたいということだ。","fr":"Libby a une préoccupation depuis quelque temps : elle aimerait remonter le moral d'une personne qui lui est chère."}
 {"id":1665069,"jp":"キボのためにもうすこし食物を採集する","fr":"Collecter encore un peu de nourriture pour les Kibo"}
+{"id":1665070,"jp":"服装の問題は片付いた。つぎは錆止め油を買いに行こう。","fr":"Le problème des vêtements est réglé. Allons maintenant acheter de l'huile antirouille."}
+{"id":1665071,"jp":"ターシャはすこし焦っており、慌ててハイエルフの住処へ直行する準備をはじめた……","fr":"Quelque peu inquiète, Tasha se hâta de préparer son départ vers le lieu de résidence des Hauts Elfes…"}
+{"id":1665073,"jp":"ルルカによると、夢遊病の現象は例外的な事例ではないらしい。それに強い興味を示したテララは、みずから調査に加わった。","fr":"D'après Luruka, les phénomènes de somnambulisme ne seraient pas des cas isolés. Très intéressée par cette découverte, Terara décida de participer elle-même à l'enquête."}
+{"id":1665076,"jp":"どうやらさらに農園を広げるときが来たようだ。この日をずっと待ち望んでいたリリカと話してみよう。","fr":"Il semble que le moment soit venu d'agrandir davantage la ferme. Allons parler à Lyrica, qui attend ce jour depuis longtemps."}
+{"id":1665077,"jp":"グランドマスターに勝利し、だれもが認める最高のグランドマスターを目指そう！","fr":"Vaincre le grand maître et devenir le plus grand maître reconnu de tous !"}
 {"id":1665078,"jp":"ニィバットとの意思疎通を試みる。","fr":"Essayer de communiquer avec Nybat."}
+{"id":1665080,"jp":"農場のだれかが特製レシピを持っているらしい。これはまたとないチャンスだ。","fr":"Quelqu'un à l'exploitation posséderait une recette spéciale. C'est une occasion à ne pas manquer."}
+{"id":1665081,"jp":"マッシマは特製レシピを持ってくると言っていたが、すこし探す必要があるらしい。","fr":"Massima a promis d'apporter sa recette spéciale, mais il semble devoir chercher un peu pour la retrouver."}
+{"id":1665082,"jp":"ふたりはメイメイハウスへ向かったが、予期せぬ事態に遭遇した……","fr":"Tous deux se rendirent à la maison Meimei, où une situation inattendue les attendait…"}
+{"id":1665083,"jp":"赤蠍団はすでに撃破された。いまこそレックスに相応の罰を受けさせるときだ。","fr":"Les Scorpions rouges ont été vaincus. Il est maintenant temps que Rex reçoive le châtiment qu'il mérite."}
+{"id":1665084,"jp":"フリスに迷惑をかけないよう、ふたりはやはり領主の屋敷にこの件を報告することにした。","fr":"Afin de ne pas causer de problèmes à Fleece, tous deux décidèrent finalement de signaler cette affaire au manoir du seigneur."}
+{"id":1665085,"jp":"教官が新兵たちに訓示を行ったあと、星臨者は共に訓練を受ける数名の新兵たちと対人戦闘訓練を開始した。","fr":"Après le discours de l'instructeur aux nouvelles recrues, l'Enfant des étoiles commença un entraînement au combat en compagnie de plusieurs autres recrues."}
+{"id":1665086,"jp":"今後の任務は確定したが、はじめての居峡関で右も左もわからない。まずは近くを調査してみよう。","fr":"Les prochaines missions sont désormais définies, mais c'est notre première visite au col de Juxia et nous ne connaissons pas les lieux. Commençons par explorer les environs."}
 {"id":1665089,"jp":"一日の冒険を終えた……そろそろすこし休もう。","fr":"Une journée d'aventure s'achève… Il est temps de se reposer un peu."}
 {"id":1665090,"jp":"除去","fr":"Retirer"}
 {"id":1665091,"jp":"マルティナに薬を飲ませる","fr":"Faire boire le remède à Martina"}
@@ -47215,23 +47551,31 @@
 {"id":1665120,"jp":"試練開始","fr":"Lancer l'épreuve"}
 {"id":1665122,"jp":"リンク力の影響","fr":"Effets de la Puissance de lien"}
 {"id":1665123,"jp":"現在の緊急依頼数：","fr":"Nombre actuel de commandes urgentes :"}
+{"id":1665125,"jp":"キボは連結の乱れ状態です。リンク力を上げると操作できるようになります。","fr":"Le Kibo est en état de perturbation du lien. Augmentez sa puissance de lien pour pouvoir le contrôler à nouveau."}
 {"id":1665126,"jp":"発動中","fr":"Actif"}
+{"id":1665127,"jp":"リンク力が<color=#27AE89>{0}</color>に達すると、連結の乱れ状態が解除されます。","fr":"Lorsque la puissance de lien atteint <color=#27AE89>{0}</color>, l'état de perturbation du lien prend fin."}
 {"id":1665129,"jp":"アニマを1つ選択してください。","fr":"Veuillez sélectionner 1 Anima."}
 {"id":1665130,"jp":"伝書契約の期間中、取引所での{0}収益増加：","fr":"Pendant le Contrat de correspondance, hausse des revenus en {0} au Comptoir d'échange :"}
 {"id":1665131,"jp":"リンク力 {0}","fr":"Puissance de lien {0}"}
 {"id":1665132,"jp":"これ以上因子の実を与えることはできません。","fr":"Impossible de donner davantage de fruits de facteurs."}
+{"id":1665133,"jp":"因子の実を与えると、既存の因子と入れ替えることができます。","fr":"Donner un fruit de facteur permet de remplacer un facteur existant."}
+{"id":1665134,"jp":"このキボの因子の数は上限に達しています。新しい因子と入れ替える必要があります。","fr":"Ce Kibo a atteint le nombre maximal de facteurs. Un facteur existant doit être remplacé par le nouveau."}
 {"id":1665135,"jp":"選択中の因子の実を切り替えました。","fr":"Le fruit de facteur sélectionné a été changé."}
 {"id":1665136,"jp":"{0}をクリアし、エリアレベルを上げてください。","fr":"Terminez {0} et augmentez le niveau de zone."}
 {"id":1665137,"jp":"初期サポート仲間","fr":"Allié de soutien initial"}
 {"id":1665139,"jp":"サポート仲間","fr":"Alliés de soutien"}
 {"id":1665141,"jp":"名前を表示","fr":"Afficher le nom"}
+{"id":1665143,"jp":"修行が行き詰まっています。大道芸で集中を回復しましょう。","fr":"L'Entraînement est dans une impasse. Récupérez de la Concentration en réalisant des spectacles de rue."}
 {"id":1665144,"jp":"レベル制限","fr":"Limite de niveau"}
 {"id":1665145,"jp":"HP制限","fr":"Limite de PV"}
 {"id":1665146,"jp":"お試しプレイ","fr":"Partie d'essai"}
 {"id":1665147,"jp":"チーム{0} - 効果","fr":"Équipe {0} - Effets"}
+{"id":1665148,"jp":"ボスキボは1日の挑戦回数に上限があります。（毎日05:00リセット）","fr":"Le nombre quotidien de défis contre les Kibo boss est limité. (Réinitialisation quotidienne à 05:00)"}
 {"id":1665149,"jp":"背景切替","fr":"Changer d'arrière-plan"}
 {"id":1665150,"jp":"ランク：","fr":"Rang :"}
 {"id":1665151,"jp":"初期サポート仲間の人数が上限に達しました。","fr":"La limite de compagnons de soutien initiaux a été atteinte."}
 {"id":1665152,"jp":"限定","fr":"Limité"}
 {"id":1665156,"jp":"未知の共鳴・特異体","fr":"Résonance inconnue : anomalie"}
 {"id":1665157,"jp":"ティナナのディディ","fr":"Didi de Tinana"}
+{"id":1665158,"jp":"フリスにきたのははじめてか？\n豊穫の庭に入ったことは？飛空船乗り場には行ってみた？","fr":"C'est ta première visite à Fleece ?\nAs-tu déjà visité le Jardin des récoltes ? Et le port de dirigeables ?"}
+{"id":1665159,"jp":"ああ……積荷が……\nトランゴまでいなくなって。いったいこれからどうすれば……","fr":"Oh non… Ma cargaison…\nEt Trango a également disparu. Que vais-je bien pouvoir faire maintenant… ?"}
