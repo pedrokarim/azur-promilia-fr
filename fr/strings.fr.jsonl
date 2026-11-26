@@ -708,179 +708,433 @@
 {"id":1496097,"jp":"ちゃんとした身なり","fr":"Une tenue correcte"}
 {"id":1496099,"jp":"一家の大事なもの","fr":"Le patrimoine familial"}
 {"id":1496101,"jp":"ドロップしまくり","fr":"Butin à foison"}
+{"id":1496102,"jp":"任意のキャラクターの装備をすべて+15まで強化する","fr":"Améliorer tout l'équipement d'un personnage jusqu'à +15"}
 {"id":1496103,"jp":"キラキラになって","fr":"Brille de mille feux"}
+{"id":1496104,"jp":"任意のキャラクターの装備をすべて★6にする","fr":"Faire atteindre ★6 à tout l'équipement d'un personnage"}
 {"id":1496105,"jp":"選べないよ！","fr":"Je n'arrive pas à choisir !"}
+{"id":1496106,"jp":"1回の外見変更中に、性別の変更回数が10回を超える","fr":"Changer de sexe plus de 10 fois lors d'une même modification d'apparence"}
 {"id":1496107,"jp":"目にも違いがある","fr":"Des yeux dépareillés"}
+{"id":1496108,"jp":"外見変更時、左右の瞳の色を別々にして保存する","fr":"Enregistrer une apparence avec des yeux de couleurs différentes"}
 {"id":1496109,"jp":"本当に？","fr":"Vraiment ?"}
+{"id":1496110,"jp":"成功率5%未満でスターリンクに成功する","fr":"Réussir un Lien stellaire avec un taux de réussite inférieur à 5%"}
 {"id":1496111,"jp":"天の配剤","fr":"Un coup de la providence"}
+{"id":1496112,"jp":"成功率5%未満でスターリンクに10回成功する","fr":"Réussir 10 Liens stellaires avec un taux de réussite inférieur à 5%"}
 {"id":1496113,"jp":"おかしくない？","fr":"Bizarre, non ?"}
+{"id":1496114,"jp":"成功率90%超でスターリンクに失敗する","fr":"Échouer à un Lien stellaire avec un taux de réussite supérieur à 90%"}
 {"id":1496115,"jp":"こっちを狙ってる！？","fr":"On m'en veut ?!"}
+{"id":1496116,"jp":"成功率90%超でスターリンクに10回失敗する","fr":"Échouer à 10 Liens stellaires avec un taux de réussite supérieur à 90%"}
 {"id":1496117,"jp":"いっしょに成長しよう","fr":"Grandir ensemble"}
+{"id":1496118,"jp":"ビリバー/モーモ/リーフォが成長期に進化する","fr":"Faire évoluer Biliver, Momo ou Leafo au stade de croissance"}
 {"id":1496119,"jp":"一緒に成長しよう","fr":"Grandissons ensemble"}
+{"id":1496120,"jp":"ウェイバー/フレイモ/フラテールが成体期に進化する","fr":"Faire évoluer Waver, Flamo ou Flatail au stade adulte"}
 {"id":1496121,"jp":"超おいしい","fr":"Trop bon"}
+{"id":1496122,"jp":"普通の友愛団子を10個食べる","fr":"Manger 10 dango de l'amitié ordinaires"}
 {"id":1496123,"jp":"キボコレクター","fr":"Collection de Kibo"}
+{"id":1496124,"jp":"100種類のキボとスターリンクする","fr":"Établir un Lien stellaire avec 100 espèces de Kibo"}
+{"id":1496125,"jp":"狂気のキボコレクター！","fr":"Une folle passion pour la collection de Kibo !"}
+{"id":1496126,"jp":"200種類のキボとスターリンクする","fr":"Établir un Lien stellaire avec 200 espèces de Kibo"}
+{"id":1496127,"jp":"スターリンクでお宝ゲット","fr":"Des trésors grâce au Lien stellaire"}
+{"id":1496128,"jp":"資質が「天賦の才」のキボとスターリンクする","fr":"Établir un Lien stellaire avec un Kibo d'aptitude « Génie inné »"}
 {"id":1496129,"jp":"良材は林の如く","fr":"Une forêt de talents"}
+{"id":1496130,"jp":"資質が「天賦の才」のキボ10匹とスターリンクする","fr":"Établir un Lien stellaire avec 10 Kibo d'aptitude « Génie inné »"}
 {"id":1496131,"jp":"上品は雲の如く","fr":"Une nuée d'excellence"}
+{"id":1496132,"jp":"資質が「天賦の才」のキボ50匹とスターリンクする","fr":"Établir un Lien stellaire avec 50 Kibo d'aptitude « Génie inné »"}
 {"id":1496133,"jp":"強者集結","fr":"L'élite réunie"}
+{"id":1496134,"jp":"編成に資質が「天賦の才」のキボを3匹入れる","fr":"Intégrer 3 Kibo d'aptitude « Génie inné » à l'équipe"}
+{"id":1496135,"jp":"異彩キボとスターリンクする","fr":"Établir un Lien stellaire avec une Variante de Kibo"}
 {"id":1496136,"jp":"激レア","fr":"Super rare"}
+{"id":1496137,"jp":"異彩キボ10匹とスターリンクする","fr":"Établir un Lien stellaire avec 10 Variantes de Kibo"}
 {"id":1496138,"jp":"激激激レア","fr":"Super super super rare"}
+{"id":1496139,"jp":"異彩キボ50匹とスターリンクする","fr":"Établir un Lien stellaire avec 50 Variantes de Kibo"}
 {"id":1496140,"jp":"幸先がよい","fr":"De bon augure"}
+{"id":1496141,"jp":"星彩キボとスターリンクする","fr":"Établir un Lien stellaire avec un Kibo étoilé"}
+{"id":1496142,"jp":"終わりよければすべてよし","fr":"Tout est bien qui finit bien"}
+{"id":1496143,"jp":"星彩キボ10匹とスターリンクする","fr":"Établir un Lien stellaire avec 10 Kibo étoilés"}
 {"id":1496144,"jp":"群星の輝き","fr":"L'éclat des étoiles"}
+{"id":1496145,"jp":"星彩キボ50匹とスターリンクする","fr":"Établir un Lien stellaire avec 50 Kibo étoilés"}
 {"id":1496146,"jp":"キラキラ","fr":"Ça brille"}
+{"id":1496147,"jp":"輝くキボとスターリンクする","fr":"Établir un Lien stellaire avec un Kibo brillant"}
 {"id":1496148,"jp":"目を閉じてないと","fr":"Mieux vaut fermer les yeux"}
+{"id":1496149,"jp":"輝くキボ10匹とスターリンクする","fr":"Établir un Lien stellaire avec 10 Kibo brillants"}
 {"id":1496150,"jp":"これはめずらしい","fr":"Voilà qui est rare"}
+{"id":1496151,"jp":"輝く異彩キボとスターリンクする","fr":"Établir un Lien stellaire avec une Variante brillante de Kibo"}
+{"id":1496152,"jp":"これはもっとめずらしい","fr":"Voilà qui est encore plus rare"}
+{"id":1496153,"jp":"輝く星彩キボとスターリンクする","fr":"Établir un Lien stellaire avec un Kibo étoilé brillant"}
+{"id":1496154,"jp":"霧のなかから星雲を望む","fr":"Une nébuleuse à travers la brume"}
+{"id":1496155,"jp":"ネビュリオンとスターリンクする","fr":"Établir un Lien stellaire avec Nebulion"}
 {"id":1496156,"jp":"舞い降りたピンクの子","fr":"Une boule rose tombée du ciel"}
+{"id":1496157,"jp":"モフリーネとスターリンクする","fr":"Établir un Lien stellaire avec Downybrinny"}
 {"id":1496158,"jp":"気に入った？わかるよ","fr":"Ça te plaît ? Je comprends"}
+{"id":1496159,"jp":"同種のキボ50匹とスターリンクする","fr":"Établir un Lien stellaire avec 50 Kibo de la même espèce"}
+{"id":1496160,"jp":"……そんなに気に入った？","fr":"… À ce point-là ?"}
+{"id":1496161,"jp":"同種のキボ100匹とスターリンクする","fr":"Établir un Lien stellaire avec 100 Kibo de la même espèce"}
+{"id":1496162,"jp":"養殖場でも開くつもり？","fr":"Un projet d'élevage de Kibo ?"}
+{"id":1496163,"jp":"同種のキボ200匹とスターリンクする","fr":"Établir un Lien stellaire avec 200 Kibo de la même espèce"}
+{"id":1496164,"jp":"わあ、これは縁起がいい！","fr":"Waouh, quel bon présage !"}
+{"id":1496165,"jp":"紫色の因子を8つ持つキボを1匹所持する","fr":"Posséder un Kibo doté de 8 facteurs violets"}
 {"id":1496166,"jp":"びっくり黄金伝説！","fr":"Incroyable légende dorée !"}
+{"id":1496167,"jp":"金色の因子を8つ持つキボを1匹所持する","fr":"Posséder un Kibo doté de 8 facteurs dorés"}
 {"id":1496168,"jp":"希望はきみとともに","fr":"L'espoir est avec toi"}
+{"id":1496169,"jp":"キボ1匹の好感度をレベル10にする","fr":"Atteindre le niveau d'affinité 10 avec un Kibo"}
 {"id":1496170,"jp":"立派に育ったね","fr":"Comme tu as grandi"}
+{"id":1496171,"jp":"キボ1匹の源脈を最高段階にする","fr":"Atteindre le stade maximal de la veine source d'un Kibo"}
 {"id":1496172,"jp":"育成マスター","fr":"Maîtrise de l'entraînement"}
+{"id":1496173,"jp":"キボ10匹の源脈を最高段階にする","fr":"Atteindre le stade maximal de la veine source de 10 Kibo"}
 {"id":1496174,"jp":"真・育成マスター","fr":"Vraie maîtrise de l'entraînement"}
+{"id":1496175,"jp":"キボ100匹の源脈を最高段階にする","fr":"Atteindre le stade maximal de la veine source de 100 Kibo"}
 {"id":1496176,"jp":"これぞ礎","fr":"Voilà la base"}
+{"id":1496177,"jp":"キャベッコまたはキャバード30匹とスターリンクする","fr":"Établir un Lien stellaire avec 30 Cabbeco ou Cabbird"}
 {"id":1496178,"jp":"キモかわいい","fr":"Moche et mignon"}
 {"id":1496180,"jp":"保護条約からの警告","fr":"Avertissement de la convention de protection"}
+{"id":1496181,"jp":"うっかり異彩キボを1匹倒してしまう","fr":"Vaincre accidentellement une Variante de Kibo"}
+{"id":1496182,"jp":"保護条約からの厳重警告","fr":"Avertissement sévère au titre du traité de protection"}
+{"id":1496183,"jp":"うっかり星彩キボを1匹倒してしまう","fr":"Vaincre accidentellement un Kibo étoilé"}
+{"id":1496184,"jp":"保護条約からの厳格警告","fr":"Avertissement strict au titre du traité de protection"}
+{"id":1496185,"jp":"うっかり輝くキボを1匹倒してしまう","fr":"Vaincre accidentellement un Kibo brillant"}
+{"id":1496186,"jp":"うっかり？それともわざと？","fr":"Par accident ? Ou volontairement ?"}
+{"id":1496187,"jp":"うっかり輝く異彩キボを1匹倒してしまう","fr":"Vaincre accidentellement une Variante brillante de Kibo"}
+{"id":1496188,"jp":"わざと？それともうっかり？","fr":"Volontairement ? Ou par accident ?"}
+{"id":1496189,"jp":"うっかり輝く星彩キボを1匹倒してしまう","fr":"Vaincre accidentellement un Kibo étoilé brillant"}
+{"id":1496190,"jp":"迎え撃つ！全軍、続け！","fr":"À la contre-attaque ! Toute l'armée, avec moi !"}
+{"id":1496191,"jp":"異なるキボを合計100種類編成し、戦闘に参加する","fr":"Faire participer 100 espèces différentes de Kibo au combat"}
 {"id":1496192,"jp":"ポテンシャル大解放","fr":"Potentiel libéré"}
+{"id":1496193,"jp":"キボの潜在能力訓練をする","fr":"Entraîner le potentiel d'un Kibo"}
 {"id":1496194,"jp":"どこで手に入れたの","fr":"Où as-tu trouvé ça ?"}
+{"id":1496195,"jp":"出撃編成に3種類の異なる初期キボを組み込む","fr":"Intégrer 3 espèces différentes de Kibo de départ à l'équipe de combat"}
 {"id":1496196,"jp":"初期形態こそ最強","fr":"La forme de base, c'est la meilleure"}
+{"id":1496198,"jp":"なにか要因があるはず……","fr":"Il doit bien y avoir une raison…"}
+{"id":1496199,"jp":"いずれかのキボの因子変異の回数が50回に到達する","fr":"Effectuer 50 mutations de facteurs sur un même Kibo"}
+{"id":1496200,"jp":"どれだけいても撫でるのはきみ","fr":"Parmi tous les Kibo, toujours le même à câliner"}
+{"id":1496201,"jp":"同じキボを10回連続でなでる","fr":"Caresser le même Kibo 10 fois de suite"}
+{"id":1496202,"jp":"なにか食べものをちょうだい！","fr":"Quelque chose à manger, s'il vous plaît !"}
+{"id":1496203,"jp":"空腹状態のキボに10秒以上乗る","fr":"Chevaucher un Kibo affamé pendant au moins 10 secondes"}
 {"id":1496204,"jp":"大砲で蚊を撃つ","fr":"Un marteau-pilon pour une mouche"}
 {"id":1496206,"jp":"7日休まず","fr":"7 jours sans relâche"}
+{"id":1496207,"jp":"7日間連続でログインする","fr":"Se connecter 7 jours consécutifs"}
 {"id":1496208,"jp":"30日休まず","fr":"30 jours sans relâche"}
+{"id":1496209,"jp":"30日間連続でログインする","fr":"Se connecter 30 jours consécutifs"}
 {"id":1496210,"jp":"365日休まず","fr":"365 jours sans relâche"}
+{"id":1496211,"jp":"365日間連続でログインする","fr":"Se connecter 365 jours consécutifs"}
 {"id":1496212,"jp":"いつかまた逢える","fr":"On se reverra un jour"}
 {"id":1496213,"jp":"合計7日ログインする","fr":"Se connecter 7 jours au total"}
 {"id":1496214,"jp":"時の痕跡","fr":"Les traces du temps"}
+{"id":1496215,"jp":"合計30日ログインする","fr":"Se connecter pendant 30 jours au total"}
 {"id":1496216,"jp":"365回の出逢い","fr":"365 rencontres"}
+{"id":1496217,"jp":"合計365日ログインする","fr":"Se connecter pendant 365 jours au total"}
 {"id":1496218,"jp":"星が生まれた日","fr":"Le jour où une étoile est née"}
+{"id":1496219,"jp":"誕生日メールを受け取る","fr":"Recevoir un courrier d'anniversaire"}
 {"id":1496220,"jp":"こんにちは","fr":"Bonjour"}
 {"id":1496221,"jp":"マルチモードに入る","fr":"Passer en mode multijoueur"}
 {"id":1496222,"jp":"全員、注目！","fr":"Tout le monde, écoutez !"}
+{"id":1496223,"jp":"世界チャンネルで発言する","fr":"Envoyer un message dans le canal mondial"}
 {"id":1496224,"jp":"堂々と！","fr":"Sans complexe !"}
 {"id":1496226,"jp":"一緒に遊ぼう！","fr":"Jouons ensemble !"}
 {"id":1496227,"jp":"フレンドを追加する","fr":"Ajouter un ami"}
+{"id":1496228,"jp":"みんなで一緒に遊ぼう！","fr":"Jouons tous ensemble !"}
+{"id":1496229,"jp":"フレンドを10人追加する","fr":"Ajouter 10 amis"}
+{"id":1496230,"jp":"Oh、アズールプロミリアラブ","fr":"Oh, l'amour d'Azur Promilia"}
+{"id":1496231,"jp":"チャット吹き出しを変更する","fr":"Modifier la bulle de discussion"}
+{"id":1496232,"jp":"画像がなければ見えない","fr":"Sans image, rien à voir"}
 {"id":1496233,"jp":"スタンプを送信する","fr":"Envoyer un autocollant"}
+{"id":1496234,"jp":"Oh、アズールプロミリアショー","fr":"Oh, le spectacle d'Azur Promilia"}
+{"id":1496235,"jp":"チャット背景を変更する","fr":"Modifier le fond de discussion"}
 {"id":1496236,"jp":"真髄を捉えたね","fr":"Tu as saisi l'essence"}
+{"id":1496237,"jp":"5人のフレンドにキャバードのスタンプを送信する","fr":"Envoyer un autocollant de Cabbird à 5 amis"}
 {"id":1496238,"jp":"最後まで見る？","fr":"Tu vas lire jusqu'au bout ?"}
+{"id":1496239,"jp":"フレンドに超長文のメッセージを1件送信する","fr":"Envoyer un message extrêmement long à un ami"}
 {"id":1496240,"jp":"180回の出逢い","fr":"180 rencontres"}
 {"id":1496241,"jp":"180日ログインする","fr":"Se connecter 180 jours"}
 {"id":1496242,"jp":"俗世の百景","fr":"Cent scènes d'ici-bas"}
+{"id":1496244,"jp":"努力は実を結び、お菓子は身を滅ぼす","fr":"L'effort porte ses fruits, les sucreries causent la ruine"}
 {"id":1496246,"jp":"戯縁の仙狐","fr":"Renard céleste aux liens espiègles"}
 {"id":1496248,"jp":"車いっぱいのパン","fr":"Une charrette pleine de pain"}
 {"id":1496250,"jp":"合法の輝くキボ","fr":"Un Kibo brillant, en toute légalité"}
 {"id":1496252,"jp":"これがラーガの覇者か","fr":"Voilà donc le maître des Raga"}
+{"id":1496253,"jp":"フィールドでキングラーガを倒す","fr":"Vaincre Kingraga en extérieur"}
+{"id":1496254,"jp":"きみはラーガの覇者じゃない","fr":"La suprématie des Raga reste à conquérir"}
+{"id":1496255,"jp":"マップ難易度IIIでキングラーガを倒す","fr":"Vaincre Kingraga en difficulté de carte III"}
 {"id":1496256,"jp":"我こそラーガ種の王","fr":"Je suis le roi des Raga"}
+{"id":1496257,"jp":"マップ難易度Vでキングラーガを倒す","fr":"Vaincre Kingraga en difficulté de carte V"}
+{"id":1496258,"jp":"決闘？こっちが上だったね","fr":"Un duel ? J'avais l'avantage"}
+{"id":1496259,"jp":"フィールドでギガンシャウラを倒す","fr":"Vaincre Giganshaura en extérieur"}
+{"id":1496260,"jp":"ファイト？こっちが一枚上手だったね","fr":"Un combat ? Un coup d'avance"}
+{"id":1496261,"jp":"マップ難易度IIIでギガンシャウラを倒す","fr":"Vaincre Giganshaura en difficulté de carte III"}
+{"id":1496262,"jp":"ファイト？こっちが二枚上手だったね","fr":"Un combat ? Deux coups d'avance"}
+{"id":1496263,"jp":"マップ難易度Vでギガンシャウラを倒す","fr":"Vaincre Giganshaura en difficulté de carte V"}
 {"id":1496264,"jp":"どこのバタバタ蛾？","fr":"C'est quoi, cette mite qui s'agite ?"}
+{"id":1496265,"jp":"フィールドでモルフォーレを倒す","fr":"Vaincre Morphore en extérieur"}
+{"id":1496266,"jp":"どこの巨大バタバタ蛾？","fr":"D'où sort ce papillon géant qui bat des ailes ?"}
+{"id":1496267,"jp":"マップ難易度IIIでモルフォーレを倒す","fr":"Vaincre Morphore en difficulté de carte III"}
+{"id":1496268,"jp":"どこの超巨大バタバタ蛾！","fr":"D'où sort cet énorme papillon qui bat des ailes ?!"}
+{"id":1496269,"jp":"マップ難易度Vでモルフォーレを倒す","fr":"Vaincre Morphore en difficulté de carte V"}
 {"id":1496270,"jp":"挑戦者はどっちだ！","fr":"Qui défie qui ?!"}
+{"id":1496271,"jp":"フィールドでナイトフォールを倒す","fr":"Vaincre Vespervamp en extérieur"}
+{"id":1496272,"jp":"だれが真の大挑戦者だ！","fr":"À qui revient la gloire du grand défi ?"}
+{"id":1496273,"jp":"マップ難易度IIIでナイトフォールを倒す","fr":"Vaincre Vespervamp en difficulté de carte III"}
+{"id":1496274,"jp":"だれが真の超挑戦者だ！","fr":"À qui revient la gloire du défi suprême ?"}
+{"id":1496275,"jp":"マップ難易度Vでナイトフォールを倒す","fr":"Vaincre Vespervamp en difficulté de carte V"}
+{"id":1496276,"jp":"凶暴な鳥（情緒は安定しています）","fr":"Oiseau féroce (émotionnellement stable)"}
+{"id":1496277,"jp":"フィールドでスパイトホーンを倒す","fr":"Vaincre Spitehorn en extérieur"}
+{"id":1496278,"jp":"巨大な凶鳥（情緒は安定しています）","fr":"Oiseau féroce géant (émotionnellement stable)"}
+{"id":1496279,"jp":"マップ難易度IIIでスパイトホーンを倒す","fr":"Vaincre Spitehorn en difficulté de carte III"}
+{"id":1496280,"jp":"超巨大な凶鳥（情緒は安定しています）","fr":"Oiseau féroce colossal (émotionnellement stable)"}
+{"id":1496281,"jp":"マップ難易度Vでスパイトホーンを倒す","fr":"Vaincre Spitehorn en difficulté de carte V"}
+{"id":1496282,"jp":"金色の麦も雨のように降るか","fr":"Le blé doré tombera-t-il aussi comme la pluie ?"}
+{"id":1496283,"jp":"フィールドでセレーシャを倒す","fr":"Vaincre Celesha en extérieur"}
+{"id":1496284,"jp":"金色の鈴花が風に揺れて鳴る","fr":"Les clochettes dorées tintent au gré du vent"}
+{"id":1496285,"jp":"マップ難易度IIIでセレーシャを倒す","fr":"Vaincre Celesha en difficulté de carte III"}
+{"id":1496286,"jp":"豊穂が金色のさざ波を立てる","fr":"Les épis généreux ondulent en vagues dorées"}
+{"id":1496287,"jp":"マップ難易度Vでセレーシャを倒す","fr":"Vaincre Celesha en difficulté de carte V"}
+{"id":1496288,"jp":"怒霆は火の如く、氷を熔かす","fr":"Le tonnerre furieux, tel le feu, fait fondre la glace"}
+{"id":1496289,"jp":"フィールドでライカウモを倒す","fr":"Vaincre Raikaumo en extérieur"}
+{"id":1496290,"jp":"雷鳴は天を裂き、声は驚濤を呼ぶ","fr":"Le tonnerre déchire le ciel, sa voix soulève les flots"}
+{"id":1496291,"jp":"マップ難易度IIIでライカウモを倒す","fr":"Vaincre Raikaumo en difficulté de carte III"}
+{"id":1496292,"jp":"わが剣の前に雷霆もまた熄む","fr":"Devant ma lame, même le tonnerre se tait"}
+{"id":1496293,"jp":"マップ難易度Vでライカウモを倒す","fr":"Vaincre Raikaumo en difficulté de carte V"}
+{"id":1496294,"jp":"水のように流れていった","fr":"Tout s'écoule comme l'eau"}
+{"id":1496295,"jp":"フィールドでアマルテイアを倒す","fr":"Vaincre Amalthea en extérieur"}
+{"id":1496296,"jp":"川のように流れていった","fr":"Tout s'écoule comme une rivière"}
+{"id":1496297,"jp":"マップ難易度IIIでアマルテイアを倒す","fr":"Vaincre Amalthea en difficulté de carte III"}
+{"id":1496298,"jp":"大河のように流れていった","fr":"Tout s'écoule comme un grand fleuve"}
+{"id":1496299,"jp":"マップ難易度Vでアマルテイアを倒す","fr":"Vaincre Amalthea en difficulté de carte V"}
 {"id":1496300,"jp":"猪突猛進禁止！","fr":"Foncer tête baissée : interdit !"}
+{"id":1496301,"jp":"フィールドでフレイムラーガを倒す","fr":"Vaincre Flameraga en extérieur"}
 {"id":1496302,"jp":"猪突猛進絶対禁止！","fr":"Foncer tête baissée : absolument interdit !"}
+{"id":1496303,"jp":"マップ難易度IIIでフレイムラーガを倒す","fr":"Vaincre Flameraga en difficulté de carte III"}
 {"id":1496304,"jp":"猪突猛進全力禁止！","fr":"Foncer tête baissée : interdit à fond !"}
+{"id":1496305,"jp":"マップ難易度Vでフレイムラーガを倒す","fr":"Vaincre Flameraga en difficulté de carte V"}
 {"id":1496306,"jp":"神技・キングラーガ","fr":"Technique divine : Kingraga"}
+{"id":1496307,"jp":"フィールドでキングラーガを無傷で倒す","fr":"Vaincre Kingraga en extérieur sans subir de DGT"}
 {"id":1496308,"jp":"神技・ギガンシャウラ","fr":"Technique divine : Giganshaura"}
+{"id":1496309,"jp":"フィールドでギガンシャウラを無傷で倒す","fr":"Vaincre Giganshaura en extérieur sans subir de DGT"}
 {"id":1496310,"jp":"神技・モルフォーレ","fr":"Technique divine : Morphore"}
+{"id":1496311,"jp":"フィールドでモルフォーレを無傷で倒す","fr":"Vaincre Morphore en extérieur sans subir de DGT"}
 {"id":1496312,"jp":"神技・ナイトフォール","fr":"Technique divine : Vespervamp"}
+{"id":1496313,"jp":"フィールドでナイトフォールを無傷で倒す","fr":"Vaincre Vespervamp en extérieur sans subir de DGT"}
 {"id":1496314,"jp":"神技・スパイトホーン","fr":"Technique divine : Spitehorn"}
+{"id":1496315,"jp":"フィールドでスパイトホーンを無傷で倒す","fr":"Vaincre Spitehorn en extérieur sans subir de DGT"}
 {"id":1496316,"jp":"神技・セレーシャ","fr":"Technique divine : Celesha"}
+{"id":1496317,"jp":"フィールドでセレーシャを無傷で倒す","fr":"Vaincre Celesha en extérieur sans subir de DGT"}
 {"id":1496318,"jp":"神技・ライカウモ","fr":"Technique divine : Raikaumo"}
+{"id":1496319,"jp":"フィールドでライカウモを無傷で倒す","fr":"Vaincre Raikaumo en extérieur sans subir de DGT"}
 {"id":1496320,"jp":"神技・アマルテイア","fr":"Technique divine : Amalthea"}
+{"id":1496321,"jp":"フィールドでアマルテイアを無傷で倒す","fr":"Vaincre Amalthea en extérieur sans subir de DGT"}
 {"id":1496322,"jp":"神技・フレイムラーガ","fr":"Technique divine : Flameraga"}
+{"id":1496323,"jp":"フィールドでフレイムラーガを無傷で倒す","fr":"Vaincre Flameraga en extérieur sans subir de DGT"}
 {"id":1496324,"jp":"属性へのこだわり","fr":"Fidèle à son élément"}
+{"id":1496326,"jp":"圧倒的なバリエーション","fr":"Une diversité écrasante"}
 {"id":1496328,"jp":"領域発動！","fr":"Domaine activé !"}
+{"id":1496329,"jp":"キボファイトで、自ら天候を1回発生させる","fr":"Déclencher soi-même un effet météorologique lors d'un Duel de Kibo"}
 {"id":1496330,"jp":"運はこちらに味方した","fr":"La chance est de notre côté"}
+{"id":1496331,"jp":"キボファイトで、相性有利なキボを先発に選ぶ","fr":"Commencer un Duel de Kibo avec un Kibo bénéficiant d'un avantage élémentaire"}
 {"id":1496332,"jp":"所詮まぐれにすぎない","fr":"Ce n'était qu'un coup de chance"}
+{"id":1496333,"jp":"キボファイトで、相性不利なキボを先発に選ぶ","fr":"Commencer un Duel de Kibo avec un Kibo souffrant d'un désavantage élémentaire"}
 {"id":1496334,"jp":"楽勝、大勝利！","fr":"Facile, victoire écrasante !"}
 {"id":1496336,"jp":"決死の勝利に乾杯","fr":"Trinquons à une victoire in extremis"}
+{"id":1496338,"jp":"まだ……いけたのに……","fr":"Il était encore possible… de continuer…"}
 {"id":1496340,"jp":"強者のはじまり","fr":"Premiers pas vers la gloire"}
 {"id":1496342,"jp":"すこし得意なだけだよ","fr":"Je me débrouille, c'est tout"}
 {"id":1496344,"jp":"これが真のマスターだ","fr":"Ça, c'est de la maîtrise"}
+{"id":1496346,"jp":"コスト管理をしなきゃ！","fr":"Il faut bien gérer les coûts !"}
+{"id":1496348,"jp":"歯ごたえのあるやつがいない","fr":"Personne à la hauteur"}
+{"id":1496350,"jp":"一夫関に当たるや、万夫も開くなし！","fr":"Une seule personne tient le passage, dix mille ne peuvent le franchir !"}
+{"id":1496353,"jp":"キボファイトで、3秒以内に敵のキボを連続で3匹倒す","fr":"Vaincre 3 Kibo adverses consécutivement en 3 secondes lors d'un Duel de Kibo"}
 {"id":1496354,"jp":"本気を出すまでもない","fr":"Pas besoin de forcer"}
 {"id":1496356,"jp":"みんなの手柄だよ！","fr":"C'est grâce à tout le monde !"}
+{"id":1496358,"jp":"さすがのコンビネーション","fr":"Quelle belle combinaison"}
+{"id":1496359,"jp":"任意のモードのキボファイトで10回勝利する","fr":"Remporter 10 Duels de Kibo, tous modes confondus"}
 {"id":1496360,"jp":"すでに佳境に入った","fr":"On arrive au meilleur moment"}
+{"id":1496361,"jp":"任意のモードのキボファイトで50回勝利する","fr":"Remporter 50 Duels de Kibo, tous modes confondus"}
 {"id":1496362,"jp":"勝者は常に勝つ！","fr":"Les gagnants gagnent toujours !"}
+{"id":1496363,"jp":"任意のモードのキボファイトで100回勝利する","fr":"Remporter 100 Duels de Kibo, tous modes confondus"}
 {"id":1496364,"jp":"遠吠え平原の強者","fr":"La terreur des Plaines hurlantes"}
+{"id":1496365,"jp":"クエスト「芽吹の谷の強者対決・一」をクリアする","fr":"Terminer la quête « Duel des champions de la Vallée des Bourgeons - 1 »"}
+{"id":1496366,"jp":"シャルル村のキボマスター","fr":"Maîtrise des Kibo du Village de Charlulu"}
+{"id":1496367,"jp":"クエスト「芽吹の谷の強者対決・二」をクリアする","fr":"Terminer la quête « Duel des champions de la Vallée des Bourgeons - 2 »"}
 {"id":1496368,"jp":"風隠れ岩の雛鷹","fr":"Jeune faucon du Roc Coupe-Vent"}
+{"id":1496369,"jp":"クエスト「芽吹の谷の強者対決・三」をクリアする","fr":"Terminer la quête « Duel des champions de la Vallée des Bourgeons - 3 »"}
 {"id":1496370,"jp":"シャルル村の不敗伝説","fr":"Légende invaincue du Village de Charlulu"}
+{"id":1496371,"jp":"クエスト「芽吹の谷の強者対決・四」をクリアする","fr":"Terminer la quête « Duel des champions de la Vallée des Bourgeons - 4 »"}
 {"id":1496372,"jp":"制覇！芽吹の谷","fr":"Conquête de la Vallée des Bourgeons !"}
+{"id":1496373,"jp":"クエスト「芽吹の谷の強者対決・五」をクリアする","fr":"Terminer la quête « Duel des champions de la Vallée des Bourgeons - 5 »"}
 {"id":1496374,"jp":"フリスで頭角を現す","fr":"L'étoile montante de Fleece"}
+{"id":1496375,"jp":"クエスト「フリスの強者対決・一」をクリアする","fr":"Terminer la quête « Duel des champions de Fleece - 1 »"}
+{"id":1496376,"jp":"ペガサスに勝つダークホース","fr":"Le cheval noir qui surpassa Pégase"}
+{"id":1496377,"jp":"クエスト「フリスの強者対決・二」をクリアする","fr":"Terminer la quête « Duel des champions de Fleece - 2 »"}
+{"id":1496378,"jp":"フリスのキボファイト狂","fr":"La folie des Duels de Kibo de Fleece"}
+{"id":1496379,"jp":"クエスト「フリスの強者対決・三」をクリアする","fr":"Terminer la quête « Duel des champions de Fleece - 3 »"}
+{"id":1496380,"jp":"フリスキボファイト大使","fr":"Figure emblématique des Duels de Kibo de Fleece"}
+{"id":1496381,"jp":"クエスト「フリスの強者対決・四」をクリアする","fr":"Terminer la quête « Duel des champions de Fleece - 4 »"}
+{"id":1496382,"jp":"フリスのファイトアイドル","fr":"L'idole des duels de Fleece"}
+{"id":1496384,"jp":"ほかの人にできるかな？","fr":"Quelqu'un d'autre pourrait en faire autant ?"}
+{"id":1496385,"jp":"5秒以内にキボの特殊スキルを3回発動する","fr":"Activer 3 compétences spéciales de Kibo en 5 secondes"}
+{"id":1496386,"jp":"星臨者、もう無理だ……","fr":"Enfant des étoiles, je n'en peux plus…"}
+{"id":1496387,"jp":"仲間のキボが戦闘中に力尽きる","fr":"Voir un Kibo compagnon s'effondrer au combat"}
 {"id":1496388,"jp":"プレイスキルがすべて","fr":"Tout est dans la technique"}
+{"id":1496389,"jp":"1回の攻撃で9999を超えるダメージを与える","fr":"Infliger plus de 9 999 DGT en une seule attaque"}
 {"id":1496390,"jp":"来いよ、兄弟……","fr":"Viens donc, frangin…"}
+{"id":1496391,"jp":"1回の攻撃で99999を超えるダメージを与える","fr":"Infliger plus de 99 999 DGT en une seule attaque"}
 {"id":1496392,"jp":"力こそ王者の証","fr":"La force fait les rois"}
+{"id":1496393,"jp":"合計9,999,999ダメージを与える","fr":"Infliger un total de 9 999 999 DGT"}
 {"id":1496394,"jp":"痛いのはぜんぶ回避！","fr":"J'esquive tout ce qui fait mal !"}
+{"id":1496395,"jp":"ジャスト回避を100回発動する","fr":"Effectuer 100 Esquives parfaites"}
 {"id":1496396,"jp":"触れてから言いな","fr":"Commence par me toucher"}
+{"id":1496397,"jp":"ジャスト回避を1000回発動する","fr":"Effectuer 1 000 Esquives parfaites"}
+{"id":1496398,"jp":"これが『神回避』ってやつ","fr":"Voilà ce qu'on appelle une « esquive divine »"}
+{"id":1496399,"jp":"ジャスト回避を10000回発動する","fr":"Effectuer 10 000 Esquives parfaites"}
 {"id":1496400,"jp":"ふん、その程度の攻撃","fr":"Hmpf, c'est ça, ton attaque ?"}
 {"id":1496402,"jp":"かすり傷ひとつない","fr":"Pas une égratignure"}
 {"id":1496404,"jp":"これが実力だ","fr":"Voilà le vrai talent"}
 {"id":1496406,"jp":"響鳴する星","fr":"Étoiles en résonance"}
+{"id":1496407,"jp":"星響スキルを100回使用する","fr":"Utiliser 100 fois une Compétence Écho stellaire"}
 {"id":1496408,"jp":"これが連携だ","fr":"Ça, c'est du travail d'équipe"}
+{"id":1496409,"jp":"星響スキルを1000回使用する","fr":"Utiliser 1 000 fois une Compétence Écho stellaire"}
 {"id":1496410,"jp":"きみはひとりじゃない","fr":"Nous sommes avec toi"}
+{"id":1496411,"jp":"星響スキルを10000回使用する","fr":"Utiliser 10 000 fois une Compétence Écho stellaire"}
 {"id":1496412,"jp":"必殺技は通常攻撃","fr":"Mon coup fatal ? L'attaque normale"}
+{"id":1496413,"jp":"星極スキルを100回使用する","fr":"Utiliser 100 fois une Compétence Zénith stellaire"}
 {"id":1496414,"jp":"もうやめられない","fr":"Impossible d'arrêter"}
+{"id":1496415,"jp":"星極スキルを1000回使用する","fr":"Utiliser 1 000 fois une Compétence Zénith stellaire"}
+{"id":1496416,"jp":"星極スキルもお疲れさま","fr":"Bravo aussi à la Compétence Zénith stellaire"}
+{"id":1496417,"jp":"星極スキルを10000回使用する","fr":"Utiliser 10 000 fois une Compétence Zénith stellaire"}
 {"id":1496418,"jp":"揺るぎなき同盟","fr":"Alliance inébranlable"}
+{"id":1496419,"jp":"星閃スキルを100回使用する","fr":"Utiliser 100 fois une compétence Éclair stellaire"}
 {"id":1496420,"jp":"これが阿吽の呼吸だ","fr":"Voilà ce qu'on appelle être en phase"}
+{"id":1496421,"jp":"星閃スキルを1000回使用する","fr":"Utiliser 1 000 fois une compétence Éclair stellaire"}
 {"id":1496422,"jp":"一緒なら大丈夫","fr":"Ensemble, tout ira bien"}
+{"id":1496423,"jp":"星閃スキルを10000回使用する","fr":"Utiliser 10 000 fois une compétence Éclair stellaire"}
 {"id":1496424,"jp":"伝家の宝刀","fr":"L'arme secrète"}
+{"id":1496425,"jp":"キボの特殊スキルを100回使用する","fr":"Utiliser 100 fois une compétence spéciale de Kibo"}
 {"id":1496426,"jp":"円熟の境地","fr":"Au sommet de son art"}
+{"id":1496427,"jp":"キボの特殊スキルを1000回使用する","fr":"Utiliser 1 000 fois une compétence spéciale de Kibo"}
 {"id":1496428,"jp":"入門から熟練まで","fr":"Des premiers pas à la maîtrise"}
+{"id":1496429,"jp":"キボの特殊スキルを10000回使用する","fr":"Utiliser 10 000 fois une compétence spéciale de Kibo"}
 {"id":1496430,"jp":"寝てな！","fr":"Au dodo !"}
+{"id":1496431,"jp":"敵に50回ブレイクを与える","fr":"Infliger 50 Ruptures aux ennemis"}
 {"id":1496432,"jp":"全員、床に伏せろ！","fr":"Tout le monde à terre !"}
+{"id":1496433,"jp":"敵に500回ブレイクを与える","fr":"Infliger 500 Ruptures aux ennemis"}
 {"id":1496434,"jp":"文句は星極スキルに","fr":"Plaignez-vous à ma Compétence Zénith stellaire"}
+{"id":1496435,"jp":"星極スキルで敵を10回倒す","fr":"Vaincre 10 fois un ennemi avec une Compétence Zénith stellaire"}
 {"id":1496436,"jp":"プロのトドメ","fr":"Coup de grâce de pro"}
+{"id":1496437,"jp":"星極スキルで敵を100回倒す","fr":"Vaincre 100 fois un ennemi avec une Compétence Zénith stellaire"}
+{"id":1496438,"jp":"真の星臨者は星極スキルを振り返らない","fr":"Un véritable Enfant des étoiles ne se retourne jamais après une Compétence Zénith stellaire"}
+{"id":1496439,"jp":"星極スキルで敵を1000回倒す","fr":"Vaincre 1 000 fois un ennemi avec une Compétence Zénith stellaire"}
+{"id":1496440,"jp":"無敵の星臨者が倒れた……","fr":"L'invincible Enfant des étoiles a succombé…"}
 {"id":1496441,"jp":"ボスに敗北する","fr":"Perdre contre un boss"}
+{"id":1496443,"jp":"火属性EXダメージを1000回与える","fr":"Infliger 1 000 fois des DGT EX de Feu"}
 {"id":1496444,"jp":"水沝淼！","fr":"Goutte, rivière, océan !"}
+{"id":1496445,"jp":"水属性EXダメージを1000回与える","fr":"Infliger 1 000 fois des DGT EX d'Eau"}
+{"id":1496446,"jp":"氷凍三尺、一日の寒にあらず","fr":"Une épaisse couche de glace ne se forme pas en un jour"}
+{"id":1496447,"jp":"氷属性EXダメージを1000回与える","fr":"Infliger 1 000 fois des DGT EX de Glace"}
 {"id":1496448,"jp":"疾風に立ち向かえ！","fr":"Affronte la bourrasque !"}
+{"id":1496449,"jp":"風属性EXダメージを1000回与える","fr":"Infliger 1 000 fois des DGT EX de Vent"}
 {"id":1496450,"jp":"木林森！","fr":"Arbre, bosquet, forêt !"}
+{"id":1496451,"jp":"木属性EXダメージを1000回与える","fr":"Infliger 1 000 fois des DGT EX de Bois"}
 {"id":1496452,"jp":"土圭垚！","fr":"Terre, butte, montagne !"}
+{"id":1496453,"jp":"地属性EXダメージを1000回与える","fr":"Infliger 1 000 fois des DGT EX de Terre"}
 {"id":1496454,"jp":"我こそ、轟雷！","fr":"Je suis le tonnerre grondant !"}
+{"id":1496455,"jp":"雷属性EXダメージを1000回与える","fr":"Infliger 1 000 fois des DGT EX de Foudre"}
 {"id":1496456,"jp":"光あれ……！","fr":"Que la lumière soit… !"}
+{"id":1496457,"jp":"光属性EXダメージを1000回与える","fr":"Infliger 1 000 fois des DGT EX de Lumière"}
 {"id":1496458,"jp":"深淵をすでに凝視した","fr":"J'ai déjà contemplé l'abîme"}
+{"id":1496459,"jp":"闇属性EXダメージを1000回与える","fr":"Infliger 1 000 fois des DGT EX de Ténèbres"}
 {"id":1496460,"jp":"極限を見届けるとき","fr":"Témoin de l'extrême"}
+{"id":1496461,"jp":"任意の属性EXダメージを5000回与える","fr":"Infliger 5 000 fois des DGT EX, tous éléments confondus"}
+{"id":1496462,"jp":"いまやらないなら、いつやるの？","fr":"Si ce n'est pas maintenant, alors quand ?"}
+{"id":1496463,"jp":"ブレイク状態のボスを100回倒す","fr":"Vaincre 100 fois un boss en état de Rupture"}
+{"id":1496464,"jp":"倒れた？なら、終わりだ","fr":"À terre ? Alors c'est terminé"}
+{"id":1496465,"jp":"ブレイク状態のボスを500回倒す","fr":"Vaincre 500 fois un boss en état de Rupture"}
 {"id":1496466,"jp":"終わりにしよう","fr":"Finissons-en"}
+{"id":1496467,"jp":"ブレイク状態のボスを1000回倒す","fr":"Vaincre 1 000 fois un boss en état de Rupture"}
 {"id":1496468,"jp":"コンボマスター","fr":"As des combos"}
+{"id":1496469,"jp":"コンボ数が100に達する","fr":"Atteindre un combo de 100"}
 {"id":1496470,"jp":"コンボの神","fr":"Combos divins"}
+{"id":1496471,"jp":"コンボ数が500に達する","fr":"Atteindre un combo de 500"}
 {"id":1496472,"jp":"超スゴ腕！","fr":"Quel talent !"}
+{"id":1496473,"jp":"コンボ数が1000に達する","fr":"Atteindre un combo de 1 000"}
 {"id":1496474,"jp":"一気呵成","fr":"D'une seule traite"}
+{"id":1496475,"jp":"コンボ継続中に与えたダメージが50000を超える","fr":"Infliger plus de 50 000 DGT au cours d'un même combo"}
 {"id":1496476,"jp":"行雲流水","fr":"Nuage errant, eau vive"}
+{"id":1496477,"jp":"コンボ継続中に与えたダメージが200000を超える","fr":"Infliger plus de 200 000 DGT au cours d'un même combo"}
 {"id":1496478,"jp":"破竹の勢い！","fr":"Une lancée irrésistible !"}
+{"id":1496479,"jp":"コンボ継続中に与えたダメージが500000を超える","fr":"Infliger plus de 500 000 DGT au cours d'un même combo"}
+{"id":1496480,"jp":"あとすこしだったのに……","fr":"Si près du but…"}
+{"id":1496481,"jp":"ボスのHPが10%以下になった時、暴走状態になる","fr":"Voir un boss entrer en furie lorsque ses PV atteignent 10% ou moins"}
 {"id":1496482,"jp":"神通力","fr":"Pouvoir surnaturel"}
+{"id":1496483,"jp":"星臨者を使用して、9種類の属性の刻印をコピーする","fr":"Copier les Sceaux des 9 éléments avec l'Enfant des étoiles"}
 {"id":1496484,"jp":"剣は紫霆の舞いが如く","fr":"L'épée danse comme la foudre violette"}
 {"id":1496486,"jp":"食べてこその力","fr":"La force vient en mangeant"}
+{"id":1496487,"jp":"シャルを使用して、チャージ攻撃を1000回発動する","fr":"Effectuer 1 000 Attaques chargées avec Shalle"}
 {"id":1496488,"jp":"フルスイング","fr":"Plein élan"}
 {"id":1496490,"jp":"ハンターの魂は不滅","fr":"L'âme des chasseurs est immortelle"}
 {"id":1496492,"jp":"旋風乱舞","fr":"Tourbillon frénétique"}
 {"id":1496494,"jp":"アウラとともに","fr":"En compagnie des Aura"}
 {"id":1496496,"jp":"飛炎と銀火の散花","fr":"Fleurs de flammes et de feu d'argent"}
+{"id":1496498,"jp":"地の果てまでずっと……","fr":"Jusqu'au bout du monde, pour toujours…"}
+{"id":1496499,"jp":"ファランタを使用して、追撃を500回発動する","fr":"Déclencher 500 attaques de suivi avec Faridah"}
 {"id":1496500,"jp":"百折不撓","fr":"Inflexible"}
+{"id":1496502,"jp":"勧善懲悪！連続飛び蹴り","fr":"La justice triomphe ! Rafale de coups de pied sautés"}
 {"id":1496504,"jp":"疾矢飛電","fr":"Flèche vive, éclair volant"}
+{"id":1496505,"jp":"ミィティを使用して、雷球を500個生成する","fr":"Générer 500 orbes de foudre avec Mitty"}
 {"id":1496506,"jp":"餓竜のブレス×300","fr":"Souffle du dragon affamé ×300"}
 {"id":1496508,"jp":"蝶音疾葉","fr":"Chant de papillon, feuilles vives"}
 {"id":1496510,"jp":"縁って不思議","fr":"Mystérieux, les liens du destin"}
 {"id":1496512,"jp":"獄焔燃え尽き千罪を裁く","fr":"Feu infernal éteint, mille péchés jugés"}
+{"id":1496513,"jp":"ルビーナを使用して、弾薬を1000発発射する","fr":"Tirer 1 000 munitions avec Ruby"}
+{"id":1496514,"jp":"大斧とそのチャージ攻撃","fr":"La grande hache et son Attaque chargée"}
 {"id":1496516,"jp":"真の守護神","fr":"Un vrai ange gardien"}
 {"id":1496518,"jp":"力をもって陰陽を断つ","fr":"Trancher le yin et le yang par la force"}
 {"id":1496520,"jp":"ニャーオ！","fr":"Miaaou !"}
 {"id":1496522,"jp":"死体が働いている","fr":"Un cadavre au travail"}
 {"id":1496524,"jp":"激闘の果て","fr":"Au terme d'un combat acharné"}
 {"id":1496526,"jp":"クリア！","fr":"Terminé !"}
+{"id":1496527,"jp":"天道の余塵・潮汐の円環VIIをクリアする","fr":"Terminer les Vestiges de la voie céleste : Cercle des marées VII"}
+{"id":1496528,"jp":"ただのクリアじゃない！","fr":"Bien plus qu'une simple victoire !"}
+{"id":1496529,"jp":"天道の余塵・潮汐の円環VIIで★3を獲得する","fr":"Obtenir ★3 dans les Vestiges de la voie céleste : Cercle des marées VII"}
 {"id":1496530,"jp":"極限の勝利","fr":"Victoire ultime"}
 {"id":1496532,"jp":"ひとりで十分","fr":"Pas besoin de renfort"}
 {"id":1496534,"jp":"力を合わせれば","fr":"L'union fait la force"}
 {"id":1496536,"jp":"毎週の集まり","fr":"Rendez-vous hebdomadaire"}
+{"id":1496537,"jp":"災厄の残影を5回クリアする","fr":"Terminer 5 fois l'Ombre persistante du fléau"}
 {"id":1496538,"jp":"もう古い付き合い","fr":"De vieilles connaissances"}
+{"id":1496539,"jp":"災厄の残影を10回クリアする","fr":"Terminer 10 fois l'Ombre persistante du fléau"}
+{"id":1496540,"jp":"友達より会う回数が多い","fr":"Des rencontres plus fréquentes qu'avec les amis"}
+{"id":1496541,"jp":"災厄の残影を100回クリアする","fr":"Terminer 100 fois l'Ombre persistante du fléau"}
 {"id":1496542,"jp":"日進月歩","fr":"Des progrès constants"}
+{"id":1496543,"jp":"デイリー依頼-基本素材を50回クリアする","fr":"Terminer 50 fois la Mission quotidienne - Matériaux de base"}
 {"id":1496544,"jp":"日課は真剣に","fr":"Le quotidien, ça se prend au sérieux"}
+{"id":1496545,"jp":"デイリー依頼-基本素材を100回クリアする","fr":"Terminer 100 fois la Mission quotidienne - Matériaux de base"}
+{"id":1496546,"jp":"倉庫は満杯でも困らない","fr":"Un entrepôt plein ? Aucun souci"}
+{"id":1496547,"jp":"デイリー依頼-基本素材を500回クリアする","fr":"Terminer 500 fois la Mission quotidienne - Matériaux de base"}
 {"id":1496548,"jp":"討伐のエキスパート","fr":"Expertise en traque"}
+{"id":1496549,"jp":"デイリー依頼-ボス挑戦を50回クリアする","fr":"Terminer 50 fois la Mission quotidienne - Défi de boss"}
 {"id":1496550,"jp":"討伐のプロ","fr":"Traque de pro"}
+{"id":1496551,"jp":"デイリー依頼-ボス挑戦を100回クリアする","fr":"Terminer 100 fois la Mission quotidienne - Défi de boss"}
 {"id":1496552,"jp":"討伐のマスター","fr":"Maîtrise de la traque"}
+{"id":1496553,"jp":"デイリー依頼-ボス挑戦を500回クリアする","fr":"Terminer 500 fois la Mission quotidienne - Défi de boss"}
 {"id":1496554,"jp":"すべて入庫","fr":"Tout en stock"}
+{"id":1496555,"jp":"デイリー依頼-装備品の獲得を50回クリアする","fr":"Terminer 50 fois la Mission quotidienne - Obtention d'équipement"}
 {"id":1496556,"jp":"安定した補給","fr":"Ravitaillement régulier"}
+{"id":1496557,"jp":"デイリー依頼-装備品の獲得を100回クリアする","fr":"Terminer 100 fois la Mission quotidienne - Obtention d'équipement"}
 {"id":1496558,"jp":"蓄積が力となる","fr":"L'accumulation fait la force"}
+{"id":1496559,"jp":"デイリー依頼-装備品の獲得を500回クリアする","fr":"Terminer 500 fois la Mission quotidienne - Obtention d'équipement"}
 {"id":1496560,"jp":"星降る軌跡・1","fr":"Sillage d'étoiles filantes 1"}
+{"id":1496561,"jp":"メインストーリー依頼の10ステージで★3を獲得する","fr":"Obtenir ★3 dans 10 niveaux des Missions de l'histoire principale"}
 {"id":1496562,"jp":"星降る軌跡・2","fr":"Sillage d'étoiles filantes 2"}
+{"id":1496563,"jp":"メインストーリー依頼の30ステージで★3を獲得する","fr":"Obtenir ★3 dans 30 niveaux des Missions de l'histoire principale"}
 {"id":1496564,"jp":"どこでも輝く","fr":"Briller partout"}
+{"id":1496565,"jp":"危機討伐のマルチモードで、MVPを10回獲得する","fr":"Obtenir le titre de MVP 10 fois en mode multijoueur de la Traque des menaces"}
 {"id":1496566,"jp":"救世主","fr":"Providence"}
+{"id":1496567,"jp":"危機討伐で、チームメイトを10回蘇生する","fr":"Réanimer 10 fois des coéquipiers lors de la Traque des menaces"}
 {"id":1496568,"jp":"挨拶しておかないと？","fr":"On se dit bonjour ?"}
+{"id":1496569,"jp":"危機討伐のチームメイトからフレンド申請を受け取る","fr":"Recevoir une demande d'ami d'un coéquipier de la Traque des menaces"}
 {"id":1496570,"jp":"へへっ、よくやった！","fr":"Héhé, bien joué !"}
+{"id":1496571,"jp":"危機討伐のチームメイトから「いいね」を受け取る","fr":"Recevoir une mention « Pouce levé » d'un coéquipier de la Traque des menaces"}
 {"id":1496572,"jp":"だれもが認める","fr":"Approbation unanime"}
 {"id":1496574,"jp":"初心者のヒーロー","fr":"L'idole des débutants"}
 {"id":1496576,"jp":"三重奏","fr":"Trio"}
+{"id":1496578,"jp":"チームワークに喝采を！","fr":"Bravo pour ce travail d'équipe !"}
+{"id":1496580,"jp":"公平、公平、ひたすら公平","fr":"L'équité, encore et toujours l'équité"}
 {"id":1496582,"jp":"みんなの希望の星","fr":"L'étoile d'espoir de tous"}
 {"id":1496584,"jp":"星が刻む時","fr":"Quand les étoiles sonnent l'heure"}
 {"id":1496585,"jp":"伝説の詩篇","fr":"Chants légendaires"}
@@ -906,19 +1160,52 @@
 {"id":1496605,"jp":"百般の武芸","fr":"Tous les arts martiaux"}
 {"id":1496606,"jp":"剣閃の調べ","fr":"Mélodie des lames"}
 {"id":1496607,"jp":"ログインする","fr":"Se connecter"}
+{"id":1496608,"jp":"原初の潮を200消費する","fr":"Dépenser 200 unités de marée originelle"}
+{"id":1496609,"jp":"キャラクターを1回レベルアップする","fr":"Monter 1 fois le niveau d'un personnage"}
+{"id":1496610,"jp":"アニマを1回レベルアップする","fr":"Monter 1 fois le niveau d'un Anima"}
+{"id":1496611,"jp":"キボを1回レベルアップする","fr":"Monter 1 fois le niveau d'un Kibo"}
+{"id":1496612,"jp":"キボ1匹とスターリンクする","fr":"Établir un Lien stellaire avec un Kibo"}
 {"id":1496613,"jp":"敵を30体倒す","fr":"Vaincre 30 ennemis"}
+{"id":1496614,"jp":"危機討伐を1回クリアする","fr":"Terminer 1 fois la Traque des menaces"}
+{"id":1496615,"jp":"キボファイトに1回参加する","fr":"Participer à un Duel de Kibo"}
+{"id":1496616,"jp":"農園製作／料理を1回行う","fr":"Effectuer 1 fabrication ou préparation culinaire à la ferme"}
+{"id":1496617,"jp":"ボスまたは特異体キボを1匹、倒すかスターリンクする","fr":"Vaincre un boss ou un Kibo anormal, ou établir un Lien stellaire avec lui"}
+{"id":1496618,"jp":"合計5日間ログインする","fr":"Se connecter pendant 5 jours au total"}
+{"id":1496619,"jp":"原初の潮を1000消費する","fr":"Dépenser 1 000 unités de marée originelle"}
+{"id":1496620,"jp":"キボファイトに3回参加する","fr":"Participer à 3 Duels de Kibo"}
+{"id":1496621,"jp":"農園の取引所の注文を5件完了する","fr":"Honorer 5 commandes au comptoir de la ferme"}
+{"id":1496622,"jp":"キボ10匹とスターリンクする","fr":"Établir un Lien stellaire avec 10 Kibo"}
+{"id":1496623,"jp":"災厄の残影の依頼を2回クリアする","fr":"Terminer 2 Missions de l'Ombre persistante du fléau"}
+{"id":1496624,"jp":"フィールドのランダム宝箱を10個開ける","fr":"Ouvrir 10 coffres aléatoires en extérieur"}
+{"id":1496625,"jp":"危機討伐を3回クリアする","fr":"Terminer 3 fois la Traque des menaces"}
+{"id":1496626,"jp":"ボスまたは特異体キボを3匹、倒すかスターリンクする","fr":"Vaincre 3 boss ou Kibo anormaux, ou établir un Lien stellaire avec eux"}
 {"id":1496627,"jp":"芽吹の谷","fr":"Vallée des Bourgeons"}
 {"id":1496629,"jp":"都市国家フリス","fr":"Cité-État de Fleece"}
 {"id":1496630,"jp":"フリス","fr":"Fleece"}
 {"id":1496631,"jp":"シャルル村","fr":"Village de Charlulu"}
+{"id":1496633,"jp":"火の刻印 最大スタック時ダメージ","fr":"DGT du Sceau de Feu au cumul max."}
+{"id":1496634,"jp":"雷の刻印 最大スタック時ダメージ","fr":"DGT du Sceau de Foudre au cumul max."}
+{"id":1496635,"jp":"氷の刻印 最大スタック時ダメージ","fr":"DGT du Sceau de Glace au cumul max."}
+{"id":1496636,"jp":"闇の刻印 最大スタック時ダメージ","fr":"DGT du Sceau de Ténèbres au cumul max."}
+{"id":1496637,"jp":"木の刻印 最大スタック時ダメージ","fr":"DGT du Sceau de Bois au cumul max."}
+{"id":1496638,"jp":"地の刻印 最大スタック時ダメージ","fr":"DGT du Sceau de Terre au cumul max."}
+{"id":1496639,"jp":"風の刻印 最大スタック時ダメージ","fr":"DGT du Sceau de Vent au cumul max."}
+{"id":1496640,"jp":"水の刻印 最大スタック時ダメージ","fr":"DGT du Sceau d'Eau au cumul max."}
+{"id":1496641,"jp":"光の刻印 最大スタック時ダメージ","fr":"DGT du Sceau de Lumière au cumul max."}
+{"id":1496642,"jp":"メーツァのエネルギー回復球","fr":"Orbe de récupération d'Énergie de Metsa"}
 {"id":1496643,"jp":"メーツァのHP回復球","fr":"Orbe de PV de Metsa"}
 {"id":1496644,"jp":"シンフォーリア_奥義","fr":"Symphoria_Technique ultime"}
+{"id":1496646,"jp":"シンフォーリア_アウラスキル","fr":"Symphoria_Compétence d'aura"}
 {"id":1496648,"jp":"寒悠悠 通常攻撃4発","fr":"Han Youyou Attaque normale 4 tirs"}
 {"id":1496649,"jp":"寒悠悠 通常攻撃5発","fr":"Han Youyou Attaque normale 5 tirs"}
+{"id":1496650,"jp":"ルルカ フクロウ調律1","fr":"Luruka Accordage du hibou 1"}
 {"id":1496651,"jp":"ミィティ 通常攻撃3","fr":"Mitty Attaque normale 3"}
 {"id":1496652,"jp":"ミィティ 通常攻撃4","fr":"Mitty Attaque normale 4"}
 {"id":1496653,"jp":"ミィティ 通常攻撃5","fr":"Mitty Attaque normale 5"}
+{"id":1496654,"jp":"ミィティ 通常攻撃4バックアップ","fr":"Mitty Attaque normale 4 de secours"}
+{"id":1496655,"jp":"ルルカ 星響スキル - うさぎ","fr":"Luruka Compétence Écho stellaire - Lapin"}
 {"id":1496656,"jp":"小凶獣スキル","fr":"Compétence de petite Bête maudite"}
+{"id":1496657,"jp":"ルルカ フクロウ調律0","fr":"Luruka Accordage du hibou 0"}
 {"id":1496658,"jp":"テララ-奥義地面燃焼","fr":"Terara-Technique ultime embrasement du sol"}
 {"id":1496659,"jp":"ノノフィールド","fr":"Zone de Nono"}
 {"id":1496660,"jp":"バブル","fr":"Bulle"}
@@ -926,33 +1213,118 @@
 {"id":1496662,"jp":"モーレン弾1","fr":"Projectile de Morwyn 1"}
 {"id":1496663,"jp":"モーレン弾2","fr":"Projectile de Morwyn 2"}
 {"id":1496664,"jp":"モーレン弾3","fr":"Projectile de Morwyn 3"}
+{"id":1496665,"jp":"シンフォーリア_奥義による集敵","fr":"Symphoria_Regroupement des ennemis par Technique ultime"}
+{"id":1496666,"jp":"戦闘チュートリアル開始_基本アクション","fr":"Début du tutoriel de combat_Actions de base"}
+{"id":1496667,"jp":"戦闘チュートリアル開始_操作切り替え","fr":"Début du tutoriel de combat_Changement de commandes"}
+{"id":1496668,"jp":"戦闘チュートリアル開始_ブレイク紹介","fr":"Début du tutoriel de combat_Introduction à la Rupture"}
+{"id":1496669,"jp":"戦闘チュートリアル開始_刻印EXメカニズム","fr":"Début du tutoriel de combat_Mécanisme des Sceaux EX"}
 {"id":1496670,"jp":"敵集め_シャル","fr":"Regroupement d'ennemis_Shalle"}
+{"id":1496671,"jp":"戦闘勝利エフェクトセット","fr":"Ensemble d'effets de victoire au combat"}
 {"id":1496673,"jp":"モルフォーレ刃光","fr":"Éclat de lame de Morphore"}
 {"id":1496674,"jp":"刺尾の巨鷹刃光","fr":"Éclat de lame du Faucon géant à queue épineuse"}
 {"id":1496675,"jp":"刺尾の巨鷹の霧眼石","fr":"Pierre d'œil de brume du Faucon géant à queue épineuse"}
+{"id":1496676,"jp":"モルフォーレ大竜巻・静","fr":"Grande tornade de Morphore - Immobile"}
+{"id":1496677,"jp":"モルフォーレ大竜巻・動","fr":"Grande tornade de Morphore - Mobile"}
+{"id":1496678,"jp":"モルフォーレ小竜巻第1段階","fr":"Petite tornade de Morphore - Stade 1"}
+{"id":1496679,"jp":"モルフォーレ小竜巻第2段階","fr":"Petite tornade de Morphore - Stade 2"}
+{"id":1496680,"jp":"モルフォーレ小竜巻第3段階","fr":"Petite tornade de Morphore - Stade 3"}
 {"id":1496681,"jp":"叩きつけダメージ","fr":"DGT de coup écrasant"}
 {"id":1496682,"jp":"ファランタ地面効果","fr":"Effet au sol de Faridah"}
 {"id":1496683,"jp":"キメラ奥義-引き寄せ","fr":"Technique ultime de Chimère-Attraction"}
+{"id":1496684,"jp":"キメラフェーズ移行-吹き飛ばし","fr":"Transition de phase de la chimère - Projection"}
 {"id":1496685,"jp":"リリィシールド","fr":"Bouclier de Lily"}
+{"id":1496686,"jp":"寒悠悠フィールドスキル - 集敵","fr":"Compétence de terrain de Han Youyou - Regroupement des ennemis"}
+{"id":1496687,"jp":"寒悠悠チャージ攻撃1 - 爆弾爆発","fr":"Han Youyou Attaque chargée 1 - Explosion de bombe"}
+{"id":1496688,"jp":"寒悠悠チャージ攻撃2 - 爆弾爆発","fr":"Han Youyou Attaque chargée 2 - Explosion de bombe"}
+{"id":1496689,"jp":"寒悠悠チャージ攻撃1 - 花火","fr":"Han Youyou Attaque chargée 1 - Feux d'artifice"}
+{"id":1496694,"jp":"ルルカの召喚物の狼 - 尻尾攻撃","fr":"Loup invoqué par Luruka - Attaque de queue"}
+{"id":1496695,"jp":"寒悠悠チャージ攻撃2 - 花火","fr":"Han Youyou Attaque chargée 2 - Feux d'artifice"}
+{"id":1496696,"jp":"寒悠悠の奥義 - 花火","fr":"Technique ultime de Han Youyou - Feux d'artifice"}
+{"id":1496697,"jp":"ルルカ_チャージ攻撃のチャージ1段階","fr":"Luruka_Attaque chargée - Charge de niveau 1"}
+{"id":1496698,"jp":"ルルカ_星響スキル攻撃","fr":"Luruka_Attaque de Compétence Écho stellaire"}
+{"id":1496699,"jp":"ルルカ_チャージ攻撃のチャージ2段階","fr":"Luruka_Attaque chargée - Charge de niveau 2"}
+{"id":1496700,"jp":"ルルカ_通常攻撃3の弾","fr":"Luruka_Projectile d'Attaque normale 3"}
 {"id":1496701,"jp":"蘭香子 棺桶","fr":"Cercueil de Lan Xiangzi"}
+{"id":1496702,"jp":"アニス_星響スキル爆発","fr":"Anais_Explosion de Compétence Écho stellaire"}
 {"id":1496703,"jp":"蘭香子 陣符","fr":"Talisman de cercle de Lan Xiangzi"}
 {"id":1496704,"jp":"丹砂_協同攻撃","fr":"Cinabre_Attaque conjointe"}
 {"id":1496705,"jp":"風のシールド","fr":"Bouclier de vent"}
 {"id":1496706,"jp":"アマルテイア_水球","fr":"Amalthea_Orbe d'eau"}
+{"id":1496707,"jp":"ロックフレイ-シールド","fr":"Rockfrey - Bouclier"}
+{"id":1496708,"jp":"ラヴァガード-シールド","fr":"Lavaguard - Bouclier"}
 {"id":1496709,"jp":"タレット","fr":"Tourelle"}
 {"id":1496710,"jp":"タレット2","fr":"Tourelle 2"}
 {"id":1496711,"jp":"暗焔ブラックホール","fr":"Trou noir de flamme sombre"}
 {"id":1496712,"jp":"マップマーカー","fr":"Marqueur de carte"}
+{"id":1496713,"jp":"バタフライ＆バット運動会-マルチプレイ","fr":"Jeux des papillons et chauves-souris - Multijoueur"}
+{"id":1496714,"jp":"禍津丸-奥義2-ダイブマーク","fr":"Magatsumaru - Technique ultime 2 - Marque de plongeon"}
 {"id":1496715,"jp":"巨岩","fr":"Rocher géant"}
 {"id":1496716,"jp":"ブラックホール","fr":"Trou noir"}
 {"id":1496717,"jp":"スキルプール-石柱","fr":"Réserve de compétences-Pilier de pierre"}
 {"id":1496718,"jp":"スキルプール-石壁","fr":"Réserve de compétences-Mur de pierre"}
 {"id":1496719,"jp":"スキルプール-石籠","fr":"Réserve de compétences-Cage de pierre"}
+{"id":1496720,"jp":"スキルプール-地震石柱1回","fr":"Ensemble de compétences - Pilier sismique x1"}
+{"id":1496721,"jp":"スキルプール-地震石柱3回","fr":"Ensemble de compétences - Pilier sismique x3"}
+{"id":1496722,"jp":"スキルプール-リング型岩柱突き","fr":"Ensemble de compétences - Pics rocheux en cercle"}
+{"id":1496723,"jp":"スキルプール-岩柱突き連鎖","fr":"Ensemble de compétences - Enchaînement de pics rocheux"}
+{"id":1496724,"jp":"スキルプール-地震石柱3回、3本","fr":"Ensemble de compétences - Piliers sismiques x3, 3 piliers"}
+{"id":1496725,"jp":"スキルプール-運動会-石柱衝突","fr":"Ensemble de compétences - Jeux - Collision de piliers"}
+{"id":1496726,"jp":"スキルプール-石柱環状レーザー","fr":"Ensemble de compétences - Laser circulaire des piliers"}
 {"id":1496727,"jp":"破壊可能な木樽","fr":"Tonneau en bois destructible"}
 {"id":1496728,"jp":"破壊可能な木箱1","fr":"Caisse en bois destructible 1"}
 {"id":1496729,"jp":"破壊可能な壺","fr":"Jarre destructible"}
 {"id":1496730,"jp":"破壊可能な木箱2","fr":"Caisse en bois destructible 2"}
+{"id":1496731,"jp":"破壊可能採集物_塵灰石","fr":"Ressource destructible_Pierre de cendre"}
+{"id":1496732,"jp":"破壊可能採集物_堅英岩","fr":"Ressource destructible_Quartz dur"}
+{"id":1496733,"jp":"破壊可能採集物_沈泥石","fr":"Ressource destructible_Pierre de limon"}
+{"id":1496734,"jp":"破壊可能採集物_鏡鉄鉱","fr":"Ressource destructible_Minerai de fer miroir"}
+{"id":1496735,"jp":"破壊可能採集物_風銅鉱","fr":"Ressource destructible_Minerai de cuivre du vent"}
+{"id":1496736,"jp":"破壊可能採集物_閃硝石","fr":"Ressource destructible_Salpêtre scintillant"}
+{"id":1496737,"jp":"破壊可能採集物_ユラユラノキ","fr":"Ressource destructible_Yurayura"}
+{"id":1496738,"jp":"破壊可能採集物_碩葉木","fr":"Ressource destructible_Arbre à larges feuilles"}
+{"id":1496739,"jp":"破壊可能採集物_香風木","fr":"Ressource destructible_Arbre du vent parfumé"}
+{"id":1496740,"jp":"破壊可能採集物_チシキ","fr":"Ressource destructible_Chishiki"}
+{"id":1496741,"jp":"破壊可能採集物_アウラルベリー","fr":"Ressource destructible_Baie d'aura"}
+{"id":1496742,"jp":"破壊可能オブジェクト_低木6","fr":"Objet destructible_Arbuste 6"}
+{"id":1496743,"jp":"破壊可能オブジェクト_低木7","fr":"Objet destructible_Arbuste 7"}
+{"id":1496744,"jp":"破壊可能オブジェクト_植物1","fr":"Objet destructible_Plante 1"}
+{"id":1496745,"jp":"破壊可能オブジェクト_植物2","fr":"Objet destructible_Plante 2"}
+{"id":1496746,"jp":"破壊可能オブジェクト_植物3","fr":"Objet destructible_Plante 3"}
+{"id":1496747,"jp":"破壊可能オブジェクト_蒼月心","fr":"Objet destructible_Cœur de lune azur"}
+{"id":1496748,"jp":"破壊可能オブジェクト_青葙","fr":"Objet destructible_Célosie"}
+{"id":1496749,"jp":"破壊可能オブジェクト_アステラン","fr":"Objet destructible_Asteran"}
+{"id":1496750,"jp":"破壊可能オブジェクト_ネコヒゲ草","fr":"Objet destructible_Moustache-de-chat"}
+{"id":1496755,"jp":"戦闘用破壊可能オブジェクト_低木6","fr":"Objet destructible de combat_Arbuste 6"}
+{"id":1496756,"jp":"戦闘用破壊可能オブジェクト_低木7","fr":"Objet destructible de combat_Arbuste 7"}
+{"id":1496757,"jp":"戦闘用破壊可能オブジェクト_植物1","fr":"Objet destructible de combat_Plante 1"}
+{"id":1496758,"jp":"戦闘用破壊可能オブジェクト_植物2","fr":"Objet destructible de combat_Plante 2"}
+{"id":1496759,"jp":"戦闘用破壊可能オブジェクト_植物3","fr":"Objet destructible de combat_Plante 3"}
+{"id":1496760,"jp":"戦闘用破壊可能オブジェクト_蒼月心","fr":"Objet destructible de combat_Cœur de lune azur"}
+{"id":1496761,"jp":"戦闘用破壊可能オブジェクト_青葙","fr":"Objet destructible de combat_Célosie"}
+{"id":1496762,"jp":"戦闘用破壊可能オブジェクト_アステラン","fr":"Objet destructible de combat_Asteran"}
+{"id":1496763,"jp":"戦闘用破壊可能オブジェクト_ネコヒゲ草","fr":"Objet destructible de combat_Moustache-de-chat"}
+{"id":1496764,"jp":"破壊可能オブジェクト_巨大な岩石","fr":"Objet destructible_Rocher géant"}
+{"id":1496771,"jp":"戦闘用破壊可能採集物_ユラユラノキ","fr":"Ressource destructible de combat_Yurayura"}
+{"id":1496774,"jp":"戦闘用破壊可能採集物_チシキ","fr":"Ressource destructible de combat_Chishiki"}
+{"id":1496775,"jp":"戦闘用破壊可能採集物_アウラルベリー","fr":"Ressource destructible de combat_Baie d'aura"}
+{"id":1496776,"jp":"破壊可能オブジェクト_普通の岩（pv）","fr":"Objet destructible_Rocher ordinaire (pv)"}
+{"id":1496777,"jp":"破壊可能オブジェクト_巨大な岩石（小型）","fr":"Objet destructible_Rocher géant (petit)"}
+{"id":1496778,"jp":"破壊可能オブジェクト_大型低木","fr":"Objet destructible_Grand arbuste"}
+{"id":1496779,"jp":"破壊可能オブジェクト_中型低木","fr":"Objet destructible_Arbuste moyen"}
+{"id":1496780,"jp":"戦闘用破壊可能オブジェクト_大型低木","fr":"Objet destructible de combat_Grand arbuste"}
+{"id":1496781,"jp":"戦闘用破壊可能オブジェクト_中型低木","fr":"Objet destructible de combat_Arbuste moyen"}
+{"id":1496782,"jp":"破壊可能オブジェクト_大型樹木","fr":"Objet destructible_Grand arbre"}
 {"id":1496783,"jp":"空気壁120","fr":"Mur invisible 120"}
+{"id":1496784,"jp":"破壊可能オブジェクト_竹","fr":"Objet destructible_Bambou"}
+{"id":1496785,"jp":"破壊可能オブジェクト_焔羽木","fr":"Objet destructible_Arbre aux plumes de feu"}
+{"id":1496786,"jp":"破壊可能オブジェクト_焔羽木2","fr":"Objet destructible_Arbre aux plumes de feu 2"}
+{"id":1496787,"jp":"破壊可能オブジェクト_焔羽木3","fr":"Objet destructible_Arbre aux plumes de feu 3"}
+{"id":1496788,"jp":"破壊可能オブジェクト_ユースウッド","fr":"Objet destructible_Youthwood"}
+{"id":1496789,"jp":"破壊可能オブジェクト_香香菇","fr":"Objet destructible_Champignon parfumé"}
+{"id":1496790,"jp":"破壊可能オブジェクト_ノワルタケ","fr":"Objet destructible_Noirtake"}
+{"id":1496791,"jp":"破壊可能シーンオブジェクト_若木莓","fr":"Élément de décor destructible_Baie de jeune arbre"}
+{"id":1496792,"jp":"破壊可能オブジェクト_ヘレネの眼","fr":"Objet destructible_Œil d'Hélène"}
+{"id":1496793,"jp":"破壊可能オブジェクト_ヘレネの眼2","fr":"Objet destructible_Œil d'Hélène 2"}
 {"id":1496797,"jp":"BWスーニヤの侵蝕","fr":"BW Érosion de Sunya"}
 {"id":1496798,"jp":"謎解き_持続ダメージ","fr":"Énigme_DGT sur la durée"}
 {"id":1496799,"jp":"攻撃","fr":"Attaque"}
@@ -974,6 +1346,11 @@
 {"id":1496817,"jp":"戦闘外の走行速度","fr":"Vitesse de course hors combat"}
 {"id":1496818,"jp":"マウントジャンプ可能","fr":"Saut en monture possible"}
 {"id":1496819,"jp":"マウントダッシュ可能","fr":"Sprint en monture possible"}
+{"id":1496820,"jp":"移動速度補正ステータス","fr":"Modificateur de vitesse de déplacement"}
+{"id":1496821,"jp":"マウント地上移動速度%","fr":"Vitesse terrestre de la monture%"}
+{"id":1496822,"jp":"マウント飛行移動速度%","fr":"Vitesse de vol de la monture%"}
+{"id":1496823,"jp":"マウント水泳移動速度%","fr":"Vitesse de nage de la monture%"}
+{"id":1496824,"jp":"マウント潜水移動速度%","fr":"Vitesse de plongée de la monture%"}
 {"id":1496825,"jp":"無属性ダメージ軽減","fr":"Réduction des DGT neutres"}
 {"id":1496826,"jp":"火属性ダメージ軽減","fr":"Réduction des DGT de Feu"}
 {"id":1496827,"jp":"風属性ダメージ軽減","fr":"Réduction des DGT de Vent"}
@@ -994,88 +1371,156 @@
 {"id":1496843,"jp":"ヘイト値","fr":"Valeur de menace"}
 {"id":1496844,"jp":"基本中断優先度","fr":"Priorité d'interruption de base"}
 {"id":1496845,"jp":"攻撃トークン","fr":"Jeton d'attaque"}
+{"id":1496846,"jp":"星響スキルクールタイム短縮","fr":"Réduction du temps de recharge de la Compétence Écho stellaire"}
 {"id":1496847,"jp":"カウンター発動閾値","fr":"Seuil de déclenchement de contre"}
 {"id":1496848,"jp":"シールド付与増幅","fr":"Amplification des boucliers octroyés"}
 {"id":1496849,"jp":"被シールド増幅","fr":"Amplification des boucliers reçus"}
 {"id":1496850,"jp":"シールド効果増加","fr":"Bonus d'effet de bouclier"}
 {"id":1496851,"jp":"通常攻撃ダメージ増幅","fr":"Amplification des DGT d'Attaque normale"}
+{"id":1496852,"jp":"被通常攻撃ダメージ増幅","fr":"Amplif. des DGT subis d'Attaque normale"}
+{"id":1496853,"jp":"チャージ攻撃ダメージ増幅","fr":"Amplif. des DGT d'Attaque chargée"}
+{"id":1496854,"jp":"被チャージ攻撃ダメージ増幅","fr":"Amplif. des DGT subis d'Attaque chargée"}
+{"id":1496855,"jp":"星響スキルダメージ増幅","fr":"Amplif. des DGT de Compétence Écho stellaire"}
 {"id":1496856,"jp":"被スキルダメージ増幅","fr":"Amplification des DGT de compétence subis"}
 {"id":1496857,"jp":"落下攻撃ダメージ増幅","fr":"Amplification des DGT d'attaque plongeante"}
+{"id":1496858,"jp":"被落下攻撃ダメージ増幅","fr":"Amplif. des DGT subis d'attaque plongeante"}
+{"id":1496859,"jp":"星極スキルダメージ増幅","fr":"Amplif. des DGT de Compétence Zénith stellaire"}
+{"id":1496860,"jp":"被星極スキルダメージ増幅","fr":"Amplif. des DGT subis de Compétence Zénith stellaire"}
 {"id":1496861,"jp":"急速エネルギー","fr":"Énergie rapide"}
 {"id":1496862,"jp":"急速エネルギー上限","fr":"Énergie rapide max"}
+{"id":1496863,"jp":"急速エネルギー回復速度","fr":"Vitesse de récupération rapide d'Énergie"}
 {"id":1496864,"jp":"ブレイク値上限","fr":"Valeur de brise max"}
 {"id":1496865,"jp":"ブレイクダメージ倍率","fr":"Multiplicateur de DGT de brise"}
+{"id":1496866,"jp":"ブレイクダメージ倍率_回復","fr":"Multiplicateur de DGT de brise_Soins"}
+{"id":1496867,"jp":"ブレイクダメージ倍率_無属性","fr":"Multiplicateur de DGT de brise_Neutre"}
+{"id":1496868,"jp":"ブレイクダメージ倍率_火","fr":"Multiplicateur de DGT de brise_Feu"}
+{"id":1496869,"jp":"ブレイクダメージ倍率_風","fr":"Multiplicateur de DGT de brise_Vent"}
+{"id":1496870,"jp":"ブレイクダメージ倍率_地","fr":"Multiplicateur de DGT de brise_Terre"}
+{"id":1496871,"jp":"ブレイクダメージ倍率_木","fr":"Multiplicateur de DGT de brise_Bois"}
+{"id":1496872,"jp":"ブレイクダメージ倍率_氷","fr":"Multiplicateur de DGT de brise_Glace"}
+{"id":1496873,"jp":"ブレイクダメージ倍率_水","fr":"Multiplicateur de DGT de brise_Eau"}
+{"id":1496874,"jp":"ブレイクダメージ倍率_雷","fr":"Multiplicateur de DGT de brise_Foudre"}
+{"id":1496875,"jp":"ブレイクダメージ倍率_光","fr":"Multiplicateur de DGT de brise_Lumière"}
+{"id":1496876,"jp":"ブレイクダメージ倍率_闇","fr":"Multiplicateur de DGT de brise_Ténèbres"}
+{"id":1496877,"jp":"ブレイクダメージ_最小値","fr":"DGT de brise min."}
+{"id":1496878,"jp":"ブレイクダメージ_最大値","fr":"DGT de brise max."}
 {"id":1496879,"jp":"ブレイク復元遅延","fr":"Délai de récupération de brise"}
 {"id":1496880,"jp":"ブレイク復元速度","fr":"Vitesse de récupération de brise"}
 {"id":1496881,"jp":"ブレイク持続時間","fr":"Durée de brise"}
 {"id":1496882,"jp":"ブレイク終了持続時間","fr":"Durée de fin de brise"}
+{"id":1496883,"jp":"ブレイク被ダメージ増幅","fr":"Amplif. des DGT de brise subis"}
+{"id":1496884,"jp":"ブレイク撃破率（万分比）","fr":"Taux d'élimination par brise (sur 10 000)"}
 {"id":1496885,"jp":"ブレイク耐久性","fr":"Résistance à la brise"}
 {"id":1496886,"jp":"全回避","fr":"Esquive totale"}
+{"id":1496887,"jp":"エネルギー自動回復値（バックグラウンド）","fr":"Récupération automatique d'Énergie (hors terrain)"}
+{"id":1496888,"jp":"エネルギー自動回復量増幅","fr":"Amplif. de la récupération automatique d'Énergie"}
+{"id":1496889,"jp":"攻撃時エネルギー回復量増幅","fr":"Amplif. de la récupération d'Énergie à l'attaque"}
 {"id":1496890,"jp":"属性有利ダメージ倍率","fr":"Multiplicateur de DGT (avantage élémentaire)"}
 {"id":1496891,"jp":"属性不利ダメージ倍率","fr":"Multiplicateur de DGT (désavantage élémentaire)"}
+{"id":1496892,"jp":"ブレイク中に受けるEX以外のダメージ増幅","fr":"Amplif. des DGT subis hors EX pendant la brise"}
 {"id":1496893,"jp":"通常攻撃間隔","fr":"Intervalle d'Attaque normale"}
 {"id":1496894,"jp":"キボ再起時間","fr":"Délai de réanimation du Kibo"}
 {"id":1496895,"jp":"キボの謎解き属性","fr":"Élément d'énigme du Kibo"}
 {"id":1496896,"jp":"コスト値","fr":"Coût"}
 {"id":1496897,"jp":"コスト最大値","fr":"Coût max"}
+{"id":1496898,"jp":"コスト増加時間（ミリ秒）","fr":"Temps de gain de coût (ms)"}
 {"id":1496899,"jp":"ステージ初期コスト値","fr":"Coût initial de l'étape"}
+{"id":1496900,"jp":"カウンター値増加持続時間","fr":"Durée d'augmentation du compteur"}
 {"id":1496901,"jp":"カウンター値維持時間","fr":"Durée de maintien de la valeur de contre"}
 {"id":1496902,"jp":"カウンター値減少速度","fr":"Vitesse de baisse de la valeur de contre"}
+{"id":1496903,"jp":"カウンター発動閾値変動%","fr":"Variation du seuil de déclenchement du compteur%"}
 {"id":1496904,"jp":"実行","fr":"Exécuter"}
 {"id":1496905,"jp":"洞察","fr":"Perspicacité"}
 {"id":1496906,"jp":"知覚","fr":"Perception"}
 {"id":1496909,"jp":"アイテム購入割引","fr":"Réduction sur les achats d'objets"}
 {"id":1496911,"jp":"再ロール回数","fr":"Nombre de relances"}
+{"id":1496912,"jp":"インフォストリーム獲得調整値","fr":"Modificateur de gain d'Infoflux"}
 {"id":1496913,"jp":"虚金量","fr":"Quantité d'Or du vide"}
 {"id":1496914,"jp":"インフォストリーム量","fr":"Quantité d'Infoflux"}
+{"id":1496916,"jp":"回避カウンターダメージ","fr":"DGT de contre-attaque après esquive"}
+{"id":1496917,"jp":"キボ特殊スキルクールタイム短縮","fr":"Réduction du temps de recharge des compétences spéciales de Kibo"}
 {"id":1496918,"jp":"キボ攻撃力","fr":"ATQ du Kibo"}
 {"id":1496919,"jp":"キボ最大HP","fr":"PV max du Kibo"}
 {"id":1496920,"jp":"キボ会心率","fr":"Taux CRIT du Kibo"}
 {"id":1496921,"jp":"キボ会心ダメージ","fr":"DGT CRIT du Kibo"}
+{"id":1496922,"jp":"マウントの満腹度消費（地上）","fr":"Consommation de satiété de la monture (au sol)"}
+{"id":1496923,"jp":"マウントの満腹度消費（飛行）","fr":"Consommation de satiété de la monture (vol)"}
+{"id":1496924,"jp":"マウントの満腹度消費（水泳）","fr":"Consommation de satiété de la monture (nage)"}
+{"id":1496925,"jp":"マウントの満腹度消費（潜水）","fr":"Consommation de satiété de la monture (plongée)"}
+{"id":1496926,"jp":"マウントの満腹度消費（滑空）","fr":"Consommation de satiété de la monture (vol plané)"}
 {"id":1496927,"jp":"輝く異彩","fr":"Variante brillante"}
 {"id":1496928,"jp":"ノックバックレベル","fr":"Niveau de recul"}
 {"id":1496929,"jp":"耐衝撃性","fr":"Résistance aux chocs"}
 {"id":1496930,"jp":"ベーシック","fr":"Basique"}
 {"id":1496931,"jp":"プレミアム","fr":"Premium"}
 {"id":1496932,"jp":"漫遊記拾遺","fr":"Extras du Carnet de voyage"}
+{"id":1496933,"jp":"プレミアム漫遊記のすべての内容が含まれています。","fr":"Comprend tout le contenu du Carnet de voyage premium."}
+{"id":1496934,"jp":"プレミアムアップグレード","fr":"Amélioration premium"}
+{"id":1496935,"jp":"原初の潮を100消費する","fr":"Dépenser 100 unités de marée originelle"}
+{"id":1496936,"jp":"デイリー活躍度が100に到達する","fr":"Atteindre 100 points d'activité quotidienne"}
+{"id":1496937,"jp":"ウィークリー活躍度が100に到達する","fr":"Atteindre 100 points d'activité hebdomadaire"}
+{"id":1496938,"jp":"往厄の残影を2回クリアする","fr":"Terminer 2 fois l'Ombre persistante du fléau passé"}
+{"id":1496939,"jp":"デイリー依頼-装備品の獲得を5回完了する","fr":"Terminer 5 fois la Mission quotidienne - Obtention d'équipement"}
+{"id":1496940,"jp":"デイリー依頼-基本素材を5回完了する","fr":"Terminer 5 fois la Mission quotidienne - Matériaux de base"}
+{"id":1496941,"jp":"メインストーリー依頼を5回完了する","fr":"Terminer 5 Missions de l'histoire principale"}
+{"id":1496942,"jp":"農園で装備を5個製作する","fr":"Fabriquer 5 équipements à la ferme"}
+{"id":1496943,"jp":"農園の取引所の注文を8件完了する","fr":"Honorer 8 commandes au comptoir de la ferme"}
+{"id":1496944,"jp":"キボ20匹とスターリンクする","fr":"Établir un Lien stellaire avec 20 Kibo"}
+{"id":1496945,"jp":"特異体のキボを3匹、倒すかスターリンクする","fr":"Vaincre 3 Kibo anormaux ou établir un Lien stellaire avec eux"}
+{"id":1496949,"jp":"天道の余塵「悠久の円環VII」をクリアする","fr":"Terminer les Vestiges de la voie céleste : « Cercle de l'éternité VII »"}
 {"id":1496950,"jp":"観測を40回行う","fr":"Effectuer 40 Observations"}
+{"id":1496951,"jp":"「流光の稜片」を20,000個消費する","fr":"Dépenser 20 000 « Éclats prismatiques chatoyants »"}
 {"id":1496954,"jp":"アサルト","fr":"Assaut"}
 {"id":1496955,"jp":"ディフェンス","fr":"Défense"}
 {"id":1496956,"jp":"ガード","fr":"Garde"}
 {"id":1496957,"jp":"シンクロ","fr":"Synchro"}
 {"id":1496958,"jp":"デバフ","fr":"Affaiblissement"}
 {"id":1496960,"jp":"タンク","fr":"Tank"}
+{"id":1496961,"jp":"強力なシールドを駆使し、盤石の守りで戦場を駆ける。","fr":"Parcourt le champ de bataille à l'abri de puissants Boucliers, derrière une défense inébranlable."}
 {"id":1496962,"jp":"ジャマー","fr":"Perturbation"}
 {"id":1496964,"jp":"バフ","fr":"Renforcement"}
 {"id":1496966,"jp":"ヒーラー","fr":"Soins"}
 {"id":1496968,"jp":"アタッカー","fr":"Attaque"}
+{"id":1496969,"jp":"戦場に立ち続け、堅実な攻撃で着実に活躍する。","fr":"Reste sur le champ de bataille et maintient une offensive constante grâce à des attaques fiables."}
 {"id":1496970,"jp":"アサシン","fr":"Assassin"}
 {"id":1496972,"jp":"アシスト","fr":"Assistance"}
+{"id":1496973,"jp":"味方と息を合わせ、そばで攻撃を支援する。","fr":"Agit en harmonie avec ses alliés et soutient leurs attaques à leurs côtés."}
 {"id":1496974,"jp":"刻印追加","fr":"Gain de Sceau"}
+{"id":1496975,"jp":"チームの刻印を素早く蓄積する。","fr":"Augmente rapidement la Réserve de Sceaux de l'équipe."}
 {"id":1496976,"jp":"刻印消費","fr":"Dépense de Sceau"}
+{"id":1496977,"jp":"重ねた刻印を消費してEXダメージを与える。","fr":"Consomme la Réserve de Sceaux pour infliger des DGT EX."}
 {"id":1496978,"jp":"通常攻撃","fr":"Attaque normale"}
 {"id":1496980,"jp":"チャージ攻撃","fr":"Attaque chargée"}
 {"id":1496982,"jp":"刻印EX","fr":"Sceau EX"}
+{"id":1496983,"jp":"大きなEXダメージを与える。","fr":"Inflige d'importants DGT EX."}
 {"id":1496984,"jp":"ブレイク","fr":"Brise"}
 {"id":1496986,"jp":"一撃","fr":"Coup unique"}
 {"id":1496987,"jp":"支援","fr":"Soutien"}
 {"id":1496988,"jp":"回復","fr":"Récupération"}
+{"id":1496989,"jp":"ブレイク後の被ダメージアップ","fr":"Hausse des DGT subis après la brise"}
 {"id":1496990,"jp":"攻撃力アップ","fr":"Hausse d'ATQ"}
+{"id":1496991,"jp":"光属性ダメージが増加する。","fr":"Augmente les DGT de Lumière."}
 {"id":1496992,"jp":"浄化","fr":"Purification"}
 {"id":1496993,"jp":"防御力アップ","fr":"Hausse de DÉF"}
+{"id":1496995,"jp":"寒悠悠のチャージ攻撃を受けた時、爆発が発生する。","fr":"Une explosion se produit à l'impact d'une Attaque chargée de Han Youyou."}
 {"id":1496996,"jp":"沐星雨","fr":"Bain de pluie stellaire"}
 {"id":1496997,"jp":"EX強度が上昇する。","fr":"Augmente la Puissance EX."}
 {"id":1496998,"jp":"灼炎","fr":"Flamme brûlante"}
 {"id":1496999,"jp":"風縛の煙","fr":"Fumée du vent entravant"}
 {"id":1497000,"jp":"防御力が低下する。","fr":"Réduit la DÉF."}
 {"id":1497001,"jp":"遊んじゃおうよ！","fr":"Allez, on joue !"}
+{"id":1497002,"jp":"火属性ダメージが増加する。","fr":"Augmente les DGT de Feu."}
 {"id":1497003,"jp":"秘宝の道標","fr":"Jalon du trésor"}
+{"id":1497004,"jp":"火属性耐性が低下する。","fr":"Réduit la résistance au Feu."}
 {"id":1497005,"jp":"宝物発見！","fr":"Trésor trouvé !"}
 {"id":1497006,"jp":"連珠拳！","fr":"Chapelet de poings !"}
+{"id":1497007,"jp":"チャージ攻撃ダメージが増加する。","fr":"Augmente les DGT d'Attaque chargée."}
 {"id":1497008,"jp":"左右往来","fr":"Va-et-vient"}
 {"id":1497009,"jp":"蛟龍戯珠","fr":"Le dragon joue avec la perle"}
+{"id":1497010,"jp":"地属性ダメージが増加する。","fr":"Augmente les DGT de Terre."}
 {"id":1497011,"jp":"剛に柔あり","fr":"La souplesse dans la force"}
 {"id":1497012,"jp":"攻めと引き","fr":"Attaque et repli"}
+{"id":1497013,"jp":"地属性耐性が低下する。","fr":"Réduit la résistance à la Terre."}
 {"id":1497014,"jp":"陰陽調和","fr":"Équilibre du yin et du yang"}
 {"id":1497015,"jp":"地属性ダメージアップ","fr":"Hausse des DGT de Terre"}
 {"id":1497016,"jp":"陰陽合一","fr":"Union du yin et du yang"}
@@ -1086,32 +1531,48 @@
 {"id":1497022,"jp":"会心率が上昇する。","fr":"Augmente le Taux CRIT."}
 {"id":1497023,"jp":"元気満タン！","fr":"Pleine forme !"}
 {"id":1497024,"jp":"調律1・防御力ダウン","fr":"Accord 1 : baisse de DÉF"}
+{"id":1497025,"jp":"調律4・会心ダメージアップ","fr":"Accordage 4 - Hausse des DGT CRIT"}
+{"id":1497026,"jp":"会心ダメージが増加する。","fr":"Augmente les DGT CRIT."}
 {"id":1497027,"jp":"玉光尽きず","fr":"Lueur de jade inépuisable"}
 {"id":1497028,"jp":"深窟の幽蘭","fr":"Orchidée des grottes profondes"}
+{"id":1497029,"jp":"与ダメージが増加する。","fr":"Augmente les DGT infligés."}
+{"id":1497030,"jp":"EX会心率が上昇する。","fr":"Augmente le Taux CRIT EX."}
 {"id":1497031,"jp":"勇気を出す","fr":"Rassembler son courage"}
+{"id":1497032,"jp":"チーム全体の闇属性ダメージが増加する。","fr":"Augmente les DGT de Ténèbres de toute l'équipe."}
+{"id":1497033,"jp":"チーム全体の氷属性ダメージが増加する。","fr":"Augmente les DGT de Glace de toute l'équipe."}
 {"id":1497034,"jp":"意志","fr":"Volonté"}
 {"id":1497035,"jp":"オートガード","fr":"Garde automatique"}
 {"id":1497036,"jp":"不屈の心","fr":"Cœur indomptable"}
+{"id":1497037,"jp":"風属性ダメージが増加する。","fr":"Augmente les DGT de Vent."}
 {"id":1497038,"jp":"よろけ耐性アップ","fr":"Hausse de résistance au déséquilibre"}
 {"id":1497039,"jp":"風属性耐性ダウン","fr":"Baisse de résistance au Vent"}
+{"id":1497040,"jp":"風属性の被ダメージが増加する。","fr":"Augmente les DGT de Vent subis."}
 {"id":1497041,"jp":"被ダメージダウン","fr":"Baisse des DGT subis"}
+{"id":1497042,"jp":"通常攻撃ダメージアップ","fr":"Hausse des DGT d'Attaque normale"}
 {"id":1497045,"jp":"闇属性ダメージアップ","fr":"Hausse des DGT de Ténèbres"}
 {"id":1497046,"jp":"被ダメージアップ","fr":"Hausse des DGT subis"}
 {"id":1497047,"jp":"風語","fr":"Parole du vent"}
+{"id":1497048,"jp":"10スタックに達すると、風の息吹に変化する。","fr":"À 10 cumuls, se transforme en Souffle du vent."}
 {"id":1497049,"jp":"風の息吹","fr":"Souffle du vent"}
 {"id":1497050,"jp":"交錯する枝葉","fr":"Ramures entrelacées"}
 {"id":1497051,"jp":"風の囁き","fr":"Murmure du vent"}
 {"id":1497052,"jp":"茨","fr":"Ronces"}
 {"id":1497053,"jp":"翠緑の祈り","fr":"Prière émeraude"}
+{"id":1497054,"jp":"木属性ダメージが増加する。","fr":"Augmente les DGT de Bois."}
 {"id":1497055,"jp":"ガーデンの風","fr":"Vent du Jardin"}
 {"id":1497056,"jp":"渇望に伸びゆく枝葉","fr":"Ramures avides"}
+{"id":1497057,"jp":"木属性耐性が低下する。","fr":"Réduit la résistance au Bois."}
+{"id":1497058,"jp":"木属性の被ダメージが増加する。","fr":"Augmente les DGT de Bois subis."}
+{"id":1497059,"jp":"風属性耐性が低下する。","fr":"Réduit la résistance au Vent."}
 {"id":1497060,"jp":"歳月が運ぶ果実","fr":"Fruit des années"}
 {"id":1497061,"jp":"餓竜のブレス","fr":"Haleine du dragon affamé"}
 {"id":1497062,"jp":"霊竜の息吹","fr":"Souffle du dragon spirituel"}
+{"id":1497063,"jp":"ブレイク効率が上昇する。","fr":"Augmente l'Efficacité de brise."}
 {"id":1497064,"jp":"アビィぐるぐる","fr":"Tourbillon d'Abby"}
 {"id":1497065,"jp":"アビィの飛びかかり","fr":"Bond d'Abby"}
 {"id":1497066,"jp":"大食いアビィ","fr":"Abby la gloutonne"}
 {"id":1497067,"jp":"燃焼","fr":"Brûlure"}
+{"id":1497068,"jp":"派生チャージ攻撃を発動できる","fr":"Permet de déclencher une Attaque chargée dérivée"}
 {"id":1497069,"jp":"最強のハンター","fr":"Chasseuse hors pair"}
 {"id":1497070,"jp":"平原の風","fr":"Vent des plaines"}
 {"id":1497071,"jp":"森の息吹","fr":"Souffle de la forêt"}
@@ -1122,39 +1583,58 @@
 {"id":1497076,"jp":"シャーマンの祈り","fr":"Prière chamanique"}
 {"id":1497077,"jp":"万霊の誓約","fr":"Serment des mille esprits"}
 {"id":1497078,"jp":"水属性耐性ダウン","fr":"Baisse de résistance à l'Eau"}
+{"id":1497079,"jp":"水属性ダメージ軽減が低下する。","fr":"Diminue la Réduction des DGT d'Eau."}
 {"id":1497080,"jp":"蓄電","fr":"Charge accumulée"}
+{"id":1497081,"jp":"チャージ攻撃の効果を強化する。","fr":"Renforce les effets de l'Attaque chargée."}
 {"id":1497082,"jp":"破穹の翼","fr":"Ailes perce-ciel"}
 {"id":1497083,"jp":"雷属性ダメージアップ","fr":"Hausse des DGT de Foudre"}
+{"id":1497084,"jp":"雷属性ダメージが20%増加する。","fr":"Augmente les DGT de Foudre de 20%."}
 {"id":1497085,"jp":"ドキドキ","fr":"Cœur battant"}
+{"id":1497086,"jp":"雷属性の被ダメージが増加する。","fr":"Augmente les DGT de Foudre subis."}
 {"id":1497087,"jp":"迷霧を抜ける疾風","fr":"Rafale à travers la brume"}
 {"id":1497089,"jp":"迷霧を抜けて","fr":"À travers la brume"}
+{"id":1497090,"jp":"チーム全体のEX強度が80上昇する。","fr":"Augmente la Puissance EX de toute l'équipe de 80."}
 {"id":1497091,"jp":"空の彼方へ","fr":"Par-delà le ciel"}
 {"id":1497092,"jp":"追猟","fr":"Traque"}
 {"id":1497093,"jp":"隠れ身の猛攻","fr":"Assaut embusqué"}
+{"id":1497094,"jp":"被ダメージが増加する。","fr":"Augmente les DGT subis."}
 {"id":1497095,"jp":"煌めき","fr":"Scintillement"}
+{"id":1497096,"jp":"通常攻撃の4段目と5段目が強化される。","fr":"Renforce les 4e et 5e coups de l'Attaque normale."}
 {"id":1497097,"jp":"袈裟斬り","fr":"Coupe diagonale"}
+{"id":1497098,"jp":"EX強度が30%上昇する。","fr":"Augmente la Puissance EX de 30%."}
 {"id":1497099,"jp":"風の如く","fr":"Tel le vent"}
 {"id":1497100,"jp":"雷の如く","fr":"Telle la foudre"}
 {"id":1497101,"jp":"幻惑","fr":"Éblouissement"}
 {"id":1497102,"jp":"勇毅","fr":"Bravoure"}
+{"id":1497103,"jp":"よろけ耐性が上昇する。","fr":"Augmente la résistance au déséquilibre."}
 {"id":1497104,"jp":"ペガサスナイト","fr":"Chevalier pégase"}
 {"id":1497105,"jp":"忠誠の冠を戴き","fr":"Sous la couronne de la loyauté"}
 {"id":1497106,"jp":"飛翔","fr":"Envol"}
 {"id":1497107,"jp":"刻印","fr":"Sceau"}
+{"id":1497108,"jp":"ブレイク効率が上昇し、被ダメージが増加する。","fr":"Augmente l'Efficacité de brise et les DGT subis."}
 {"id":1497109,"jp":"被ダメージ増幅","fr":"Amplification des DGT subis"}
 {"id":1497110,"jp":"風に研がれし刃","fr":"Lame aiguisée par le vent"}
 {"id":1497111,"jp":"雷属性耐性ダウン","fr":"Baisse de résistance à la Foudre"}
+{"id":1497112,"jp":"よろけ耐性とブレイク効率が上昇する。","fr":"Augmente la résistance au déséquilibre et l'Efficacité de brise."}
 {"id":1497113,"jp":"怪力","fr":"Force colossale"}
 {"id":1497114,"jp":"メイドのお見送り","fr":"Adieux de la domestique"}
+{"id":1497115,"jp":"ブレイク後、会心率が上昇する。","fr":"Augmente le Taux CRIT après la brise."}
+{"id":1497116,"jp":"なにかお手伝いしましょうか？","fr":"Besoin d'un petit coup de main ?"}
 {"id":1497118,"jp":"めしあがれ","fr":"Bon appétit"}
+{"id":1497119,"jp":"会心率が上昇し、会心ダメージが増加する。","fr":"Augmente le Taux CRIT et les DGT CRIT."}
 {"id":1497120,"jp":"ご挨拶いたします","fr":"Permettez-moi de me présenter"}
 {"id":1497121,"jp":"被ブレイク効率アップ","fr":"Hausse de l'Efficacité de brise subie"}
 {"id":1497122,"jp":"邪魔しちゃメッ！","fr":"Pas le droit de déranger !"}
+{"id":1497123,"jp":"クロディーメとメーフォン","fr":"Clodime et Meefon"}
+{"id":1497124,"jp":"星極スキルのチャージ攻撃ダメージ増幅+20%","fr":"Amplif. des DGT d'Attaque chargée de la Compétence Zénith stellaire +20%"}
 {"id":1497125,"jp":"治療の時間","fr":"L'heure des soins"}
 {"id":1497126,"jp":"チッチのお母さん探し","fr":"Chicchi cherche sa maman"}
 {"id":1497127,"jp":"後方支援","fr":"Soutien à l'arrière"}
 {"id":1497128,"jp":"怖くな～い","fr":"Même pas peur~"}
+{"id":1497129,"jp":"被回復効果が上昇する。","fr":"Augmente les soins reçus."}
 {"id":1497130,"jp":"シィグナ探偵","fr":"Détective Cygna"}
+{"id":1497131,"jp":"光属性耐性が低下する。","fr":"Réduit la résistance à la Lumière."}
+{"id":1497132,"jp":"光属性の被ダメージが増加する。","fr":"Augmente les DGT de Lumière subis."}
 {"id":1497133,"jp":"大草原のルビッツ","fr":"Les Rubbit de la grande prairie"}
 {"id":1497134,"jp":"鼓舞","fr":"Encouragement"}
 {"id":1497135,"jp":"星輝の環","fr":"Anneau stellaire"}
@@ -1164,7 +1644,9 @@
 {"id":1497139,"jp":"全属性耐性ダウン","fr":"Baisse des résistances élémentaires"}
 {"id":1497140,"jp":"星の鳴響","fr":"Résonance des étoiles"}
 {"id":1497141,"jp":"静かの海へ","fr":"Vers la mer de la Tranquillité"}
+{"id":1497142,"jp":"5秒ごとに星極チャージを2回復する。","fr":"Restaure 2 points de charge Zénith stellaire toutes les 5 secondes."}
 {"id":1497143,"jp":"星臨の刻","fr":"L'heure de la venue stellaire"}
+{"id":1497144,"jp":"全属性ダメージ増幅が上昇する。","fr":"Augmente l'Amplification des DGT de tous les éléments."}
 {"id":1497145,"jp":"残炎の痕跡","fr":"Traces de braises"}
 {"id":1497146,"jp":"カンカンカン！","fr":"Clang, clang, clang !"}
 {"id":1497147,"jp":"ずっしり","fr":"Poids lourd"}
@@ -1175,75 +1657,137 @@
 {"id":1497152,"jp":"ニャオの闘志","fr":"Combativité de Nyao"}
 {"id":1497153,"jp":"肉球インパクト","fr":"Impact coussinet"}
 {"id":1497154,"jp":"同調強度が上昇する。","fr":"Augmente la Puissance de Synchronie."}
+{"id":1497155,"jp":"にゃにゃ！しっぽのメロディ","fr":"Miaou-miaou ! La mélodie des queues"}
 {"id":1497156,"jp":"繋がれ！星々の絆","fr":"Connexion ! Lien des étoiles"}
 {"id":1497157,"jp":"風の浸食","fr":"Érosion du vent"}
 {"id":1497158,"jp":"継続的な燃焼ダメージ","fr":"DGT de brûlure continus"}
+{"id":1497159,"jp":"被ダメージ軽減が上昇する。","fr":"Augmente la Réduction des DGT subis."}
 {"id":1497160,"jp":"地の棘・防御ダウン","fr":"Épine de terre : baisse de DÉF"}
+{"id":1497161,"jp":"チーム全体のダメージが増加する。","fr":"Augmente les DGT infligés par toute l'équipe."}
+{"id":1497162,"jp":"チーム全体のEX強度が上昇する。","fr":"Augmente la Puissance EX de toute l'équipe."}
+{"id":1497163,"jp":"チーム全体の被ダメージが減少する。","fr":"Réduit les DGT subis par toute l'équipe."}
 {"id":1497164,"jp":"ダメージ増幅アップ","fr":"Hausse de l'Amplification des DGT"}
 {"id":1497165,"jp":"全属性ダメージアップ","fr":"Hausse des DGT de tous éléments"}
 {"id":1497166,"jp":"属性ダメージ増加","fr":"Hausse des DGT élémentaires"}
+{"id":1497168,"jp":"小玉の攻撃力が上昇する。","fr":"Augmente l'ATQ de Xiaoyu."}
+{"id":1497169,"jp":"小玉のチャージ攻撃ダメージが増加する。","fr":"Augmente les DGT d'Attaque chargée de Xiaoyu."}
 {"id":1497170,"jp":"HP回復","fr":"Récupération de PV"}
+{"id":1497171,"jp":"チーム全体のHPが継続的に回復する。","fr":"Restaure continuellement les PV de toute l'équipe."}
+{"id":1497172,"jp":"星極スキルダメージアップ","fr":"Hausse des DGT de Compétence Zénith stellaire"}
+{"id":1497173,"jp":"チーム全体の星極スキルダメージが増加する。","fr":"Augmente les DGT de Compétence Zénith stellaire de toute l'équipe."}
+{"id":1497174,"jp":"星響スキルのクールタイム短縮","fr":"Réduction du temps de recharge de la Compétence Écho stellaire"}
+{"id":1497175,"jp":"小玉の星響スキルのクールタイムが短縮される。","fr":"Réduit le temps de recharge de la Compétence Écho stellaire de Xiaoyu."}
+{"id":1497176,"jp":"チーム全体のEX会心率が上昇する。","fr":"Augmente le Taux CRIT EX de toute l'équipe."}
+{"id":1497177,"jp":"星響スキルダメージアップ","fr":"Hausse des DGT de Compétence Écho stellaire"}
+{"id":1497178,"jp":"小玉の星響スキルによるダメージが増加する。","fr":"Augmente les DGT de la Compétence Écho stellaire de Xiaoyu."}
 {"id":1497179,"jp":"明鏡止水","fr":"Miroir clair, eau dormante"}
 {"id":1497180,"jp":"溢れる鋒芒","fr":"Tranchant débordant"}
 {"id":1497181,"jp":"破竹の勢い","fr":"Élan irrésistible"}
 {"id":1497182,"jp":"シールド獲得","fr":"Gain de Bouclier"}
 {"id":1497183,"jp":"無事の帰還","fr":"Retour sans encombre"}
 {"id":1497184,"jp":"一歩ずつ高みへ","fr":"Toujours plus haut, pas à pas"}
+{"id":1497185,"jp":"闇属性耐性が低下する。","fr":"Réduit la résistance aux Ténèbres."}
 {"id":1497186,"jp":"追撃を重ねる","fr":"Poursuites en chaîne"}
 {"id":1497187,"jp":"納刀","fr":"Rengainer"}
 {"id":1497188,"jp":"最大HPアップ","fr":"Hausse des PV max"}
 {"id":1497189,"jp":"ブレイク効率アップ","fr":"Hausse de l'Efficacité de brise"}
+{"id":1497190,"jp":"ブレイク効率が上昇する（最大2スタック）。","fr":"Augmente l'Efficacité de brise (2 cumuls max.)."}
+{"id":1497191,"jp":"火属性ダメージが増加する（最大15スタック）。","fr":"Augmente les DGT de Feu (15 cumuls max.)."}
 {"id":1497192,"jp":"プレースホルダー","fr":"Espace réservé"}
+{"id":1497193,"jp":"ブレイク効率が上昇する（最大4スタック）。","fr":"Augmente l'Efficacité de brise (4 cumuls max.)."}
+{"id":1497194,"jp":"チャージ攻撃の会心率アップ","fr":"Hausse du Taux CRIT d'Attaque chargée"}
+{"id":1497195,"jp":"チャージ攻撃ダメージが増加する（最大6スタック）。","fr":"Augmente les DGT d'Attaque chargée (6 cumuls max.)."}
+{"id":1497196,"jp":"星極チャージの回復速度アップ","fr":"Hausse de la vitesse de récupération de charge Zénith stellaire"}
+{"id":1497197,"jp":"チーム全体の攻撃力上昇（15スタック）","fr":"Hausse de l'ATQ de toute l'équipe (15 cumuls)"}
+{"id":1497198,"jp":"雷属性ダメージ増加（20スタック）","fr":"Hausse des DGT de Foudre (20 cumuls)"}
+{"id":1497199,"jp":"チーム全体のEX強度上昇（3スタック）","fr":"Hausse de la Puissance EX de toute l'équipe (3 cumuls)"}
 {"id":1497200,"jp":"無効","fr":"Invalide"}
+{"id":1497201,"jp":"チャージ攻撃ダメージ増加（5スタック）","fr":"Hausse des DGT d'Attaque chargée (5 cumuls)"}
+{"id":1497202,"jp":"チーム全体のEX会心率上昇（3スタック）","fr":"Hausse du Taux CRIT EX de toute l'équipe (3 cumuls)"}
+{"id":1497203,"jp":"チーム全体のEX強度上昇（4スタック）","fr":"Hausse de la Puissance EX de toute l'équipe (4 cumuls)"}
 {"id":1497204,"jp":"氷属性ダメージアップ","fr":"Hausse des DGT de Glace"}
 {"id":1497205,"jp":"水属性ダメージアップ","fr":"Hausse des DGT d'Eau"}
+{"id":1497206,"jp":"チーム全体のEX強度上昇","fr":"Hausse de la Puissance EX de toute l'équipe"}
+{"id":1497207,"jp":"地属性ダメージ増加（4スタック）","fr":"Hausse des DGT de Terre (4 cumuls)"}
+{"id":1497208,"jp":"チーム全体のEX強度上昇（5スタック）","fr":"Hausse de la Puissance EX de toute l'équipe (5 cumuls)"}
+{"id":1497209,"jp":"チーム全体の氷属性ダメージ増加（3スタック）","fr":"Hausse des DGT de Glace de toute l'équipe (3 cumuls)"}
+{"id":1497210,"jp":"チーム全体の闇属性ダメージ増加（3スタック）","fr":"Hausse des DGT de Ténèbres de toute l'équipe (3 cumuls)"}
+{"id":1497211,"jp":"チーム全体の攻撃力上昇（5スタック）","fr":"Hausse de l'ATQ de toute l'équipe (5 cumuls)"}
 {"id":1497212,"jp":"無","fr":"Aucun"}
 {"id":1497213,"jp":"与ダメージ増加（3スタック）","fr":"Hausse des DGT infligés (3 cumuls)"}
+{"id":1497214,"jp":"チーム全体のダメージ増幅上昇","fr":"Hausse de l'Amplification des DGT de toute l'équipe"}
+{"id":1497215,"jp":"カウントバフ（最大5スタック）","fr":"Bonus cumulatif (5 cumuls max.)"}
+{"id":1497216,"jp":"攻撃力上昇（5スタック）","fr":"Hausse de l'ATQ (5 cumuls)"}
 {"id":1497220,"jp":"鋭刃","fr":"Lame acérée"}
 {"id":1497221,"jp":"累勢","fr":"Élan cumulé"}
 {"id":1497222,"jp":"壁立","fr":"Mur dressé"}
 {"id":1497223,"jp":"生息","fr":"Répit"}
+{"id":1497224,"jp":"最大HPの10%分のシールドを獲得","fr":"Obtient un Bouclier équivalant à 10% des PV max."}
 {"id":1497225,"jp":"HPシールド","fr":"Bouclier de PV"}
 {"id":1497226,"jp":"貫撃・ダメージアップ","fr":"Frappe perçante : hausse des DGT"}
+{"id":1497227,"jp":"通常攻撃とチャージ攻撃のダメージ上昇","fr":"Hausse des DGT d'Attaque normale et d'Attaque chargée"}
 {"id":1497228,"jp":"強襲・ダメージアップ","fr":"Assaut : hausse des DGT"}
+{"id":1497229,"jp":"星響スキルと星極スキルのダメージ上昇","fr":"Hausse des DGT de Compétence Écho stellaire et de Compétence Zénith stellaire"}
 {"id":1497230,"jp":"絶地","fr":"Terrain sans issue"}
+{"id":1497233,"jp":"星移・剛貫・会心ダメージ","fr":"Transition stellaire - Perforation - DGT CRIT"}
 {"id":1497234,"jp":"星移・EX・強度","fr":"Glissement stellaire - EX - Puissance"}
 {"id":1497236,"jp":"EX・重鋒・強度","fr":"EX - Tranchant lourd - Puissance"}
 {"id":1497238,"jp":"剛貫・累勢・攻撃力","fr":"Perforation - Élan cumulé - ATQ"}
+{"id":1497239,"jp":"剛貫・累勢・会心ダメージ","fr":"Perforation - Élan - DGT CRIT"}
 {"id":1497240,"jp":"EXダメージ上昇","fr":"Hausse des DGT EX"}
 {"id":1497241,"jp":"星月の和音・強度","fr":"Accord des étoiles et de la lune : Puissance"}
 {"id":1497242,"jp":"星月の和音・貫通","fr":"Accord des étoiles et de la lune : Pénétration"}
 {"id":1497243,"jp":"反復の楽章・攻撃力","fr":"Mouvement en reprise : ATQ"}
+{"id":1497244,"jp":"反復の楽章・攻撃力アップ","fr":"Mouvement du refrain - Hausse de l'ATQ"}
+{"id":1497245,"jp":"敵の体勢ゲージが受けるダメージが上昇","fr":"Augmente les DGT infligés à la Jauge de posture des ennemis"}
+{"id":1497246,"jp":"エネルギー回復速度が上昇する。","fr":"Augmente la vitesse de récupération d'Énergie."}
+{"id":1497248,"jp":"火の刻印・攻撃力アップ","fr":"Sceau de Feu - Hausse de l'ATQ"}
 {"id":1497249,"jp":"感電","fr":"Électrocution"}
+{"id":1497250,"jp":"雷の刻印・会心率アップ","fr":"Sceau de Foudre - Hausse du Taux CRIT"}
+{"id":1497251,"jp":"雷の刻印・会心ダメージアップ","fr":"Sceau de Foudre - Hausse des DGT CRIT"}
 {"id":1497252,"jp":"寒冷","fr":"Froid"}
 {"id":1497253,"jp":"氷の刻印・防御貫通","fr":"Sceau de Glace : Pénétration de DÉF"}
 {"id":1497254,"jp":"侵蝕","fr":"Érosion"}
+{"id":1497255,"jp":"闇の刻印・属性ダメージアップ","fr":"Sceau de Ténèbres - Hausse des DGT élémentaires"}
+{"id":1497256,"jp":"闇EX・属性耐性ダウン","fr":"EX de Ténèbres - Baisse de la résistance élémentaire"}
 {"id":1497257,"jp":"寄生","fr":"Parasite"}
+{"id":1497258,"jp":"木の刻印・EX会心率アップ","fr":"Sceau de Bois - Hausse du Taux CRIT EX"}
 {"id":1497259,"jp":"大地","fr":"Terre"}
 {"id":1497260,"jp":"超重量","fr":"Poids écrasant"}
+{"id":1497261,"jp":"地の刻印・ブレイク効率アップ","fr":"Sceau de Terre - Hausse de l'Efficacité de brise"}
 {"id":1497262,"jp":"風切","fr":"Tranche-vent"}
 {"id":1497263,"jp":"乱気流","fr":"Turbulences"}
+{"id":1497264,"jp":"風の刻印・星極チャージ効率アップ","fr":"Sceau de Vent - Hausse de l'efficacité de charge Zénith stellaire"}
 {"id":1497265,"jp":"風精の烈風","fr":"Bourrasque de l'esprit du vent"}
 {"id":1497266,"jp":"湧出","fr":"Jaillissement"}
+{"id":1497268,"jp":"水の刻印・ダメージ増幅","fr":"Sceau d'Eau - Amplification des DGT"}
 {"id":1497269,"jp":"水EX・防御力ダウン","fr":"EX d'Eau : baisse de DÉF"}
 {"id":1497270,"jp":"炎天下","fr":"Soleil de plomb"}
 {"id":1497271,"jp":"奇襲","fr":"Attaque surprise"}
+{"id":1497272,"jp":"攻撃に有利な時、与ダメージが10%増加する。","fr":"Augmente les DGT infligés de 10% en cas d'avantage offensif."}
 {"id":1497273,"jp":"攻撃強化","fr":"Attaque renforcée"}
+{"id":1497274,"jp":"攻撃力が30%上昇する。","fr":"Augmente l'ATQ de 30%."}
 {"id":1497275,"jp":"攻撃力上昇","fr":"Hausse d'ATQ"}
 {"id":1497276,"jp":"鉄壁","fr":"Rempart de fer"}
 {"id":1497277,"jp":"物理防御上昇","fr":"Hausse de DÉF physique"}
 {"id":1497278,"jp":"出血","fr":"Saignement"}
+{"id":1497279,"jp":"HPが継続的に減少する。","fr":"Les PV diminuent continuellement."}
 {"id":1497280,"jp":"腐食","fr":"Corrosion"}
 {"id":1497281,"jp":"モフンガの掃討","fr":"Balayage de Mohunga"}
+{"id":1497282,"jp":"防御力が5%低下する。","fr":"Réduit la DÉF de 5%."}
 {"id":1497283,"jp":"防御力低下","fr":"Baisse de DÉF"}
 {"id":1497284,"jp":"イースガルの斬撃","fr":"Taillade d'Isgar"}
+{"id":1497285,"jp":"防御力が10%低下する。","fr":"Réduit la DÉF de 10%."}
 {"id":1497286,"jp":"フィンヴォルフの斬撃","fr":"Taillade de Finwolf"}
+{"id":1497287,"jp":"防御力が15%低下する。","fr":"Réduit la DÉF de 15%."}
 {"id":1497288,"jp":"ラーガアタック","fr":"Attaque de Raga"}
 {"id":1497289,"jp":"猪突猛進","fr":"Charge tête baissée"}
 {"id":1497290,"jp":"猪王の猛進撃","fr":"Charge furieuse du roi sanglier"}
 {"id":1497291,"jp":"永霜の呪い","fr":"Malédiction du givre éternel"}
+{"id":1497292,"jp":"氷属性の被ダメージが増加する。","fr":"Augmente les DGT de Glace subis."}
 {"id":1497293,"jp":"蝶舞の風","fr":"Vent de la danse des papillons"}
 {"id":1497294,"jp":"凜冬の槍撃","fr":"Coup de lance de l'hiver mordant"}
+{"id":1497295,"jp":"物理防御と魔法防御が3%低下する。","fr":"Réduit la DÉF physique et magique de 3%."}
 {"id":1497296,"jp":"雷鳴","fr":"Coup de tonnerre"}
 {"id":1497297,"jp":"攻撃力が上昇する。","fr":"Augmente l'ATQ."}
 {"id":1497298,"jp":"会心ダメージ増加","fr":"Hausse des DGT CRIT"}
@@ -1260,16 +1804,23 @@
 {"id":1497309,"jp":"蝶の燐粉","fr":"Poussière de papillon"}
 {"id":1497310,"jp":"煌めく燐粉","fr":"Poussière scintillante"}
 {"id":1497311,"jp":"幻夢の燐粉","fr":"Poussière onirique"}
+{"id":1497312,"jp":"会心率がさらに上昇する。","fr":"Augmente davantage le Taux CRIT."}
 {"id":1497313,"jp":"雷落の力","fr":"Puissance de la foudre"}
 {"id":1497314,"jp":"岩流旋風","fr":"Tourbillon de roche"}
+{"id":1497315,"jp":"物理防御力が上昇する。","fr":"Augmente la DÉF physique."}
+{"id":1497316,"jp":"魔法防御力が上昇する。","fr":"Augmente la DÉF magique."}
 {"id":1497317,"jp":"岩流ハリケーン","fr":"Ouragan de roche"}
 {"id":1497318,"jp":"森の守護者の拘束","fr":"Entrave du gardien de la forêt"}
 {"id":1497319,"jp":"移動速度が低下する。","fr":"Réduit la vitesse de déplacement."}
 {"id":1497320,"jp":"移動速度低下","fr":"Baisse de vitesse de déplacement"}
 {"id":1497321,"jp":"グルルガス","fr":"Gaz Gururu"}
+{"id":1497322,"jp":"物理防御力が低下する。","fr":"Réduit la DÉF physique."}
 {"id":1497323,"jp":"物理防御低下","fr":"Baisse de DÉF physique"}
+{"id":1497324,"jp":"魔法防御力が低下する。","fr":"Réduit la DÉF magique."}
 {"id":1497325,"jp":"魔法防御低下","fr":"Baisse de DÉF magique"}
 {"id":1497326,"jp":"ダークギャラクシー","fr":"Galaxie obscure"}
+{"id":1497327,"jp":"闇属性の被ダメージが増加する。","fr":"Augmente les DGT de Ténèbres subis."}
+{"id":1497328,"jp":"1秒ごとに闇属性ダメージを受ける。","fr":"Subit des DGT de Ténèbres chaque seconde."}
 {"id":1497329,"jp":"ダークファング","fr":"Croc obscur"}
 {"id":1497330,"jp":"ダークスラッシュ","fr":"Taillade obscure"}
 {"id":1497331,"jp":"胞子拡散","fr":"Dispersion de spores"}
@@ -1277,20 +1828,30 @@
 {"id":1497333,"jp":"わた毛の守り","fr":"Protection duveteuse"}
 {"id":1497334,"jp":"重量軽減","fr":"Réduction du poids"}
 {"id":1497335,"jp":"豊穣の祝福","fr":"Bénédiction de l'abondance"}
+{"id":1497336,"jp":"HPが継続的に回復する。","fr":"Restaure continuellement les PV."}
 {"id":1497337,"jp":"陣符の呪詛","fr":"Malédiction du talisman de cercle"}
+{"id":1497338,"jp":"対象は移動できなくなる。","fr":"La cible ne peut plus se déplacer."}
 {"id":1497339,"jp":"退場・ジャンプ不可","fr":"Sortie : saut impossible"}
 {"id":1497340,"jp":"崩勢","fr":"Posture brisée"}
 {"id":1497341,"jp":"仄暗い霧","fr":"Brume sombre"}
 {"id":1497342,"jp":"目まい","fr":"Vertige"}
 {"id":1497343,"jp":"雷チャージ","fr":"Charge de foudre"}
 {"id":1497344,"jp":"レイドスの加護","fr":"Protection de Reidosu"}
+{"id":1497345,"jp":"デバフを解除し、木属性ダメージが増加する。","fr":"Dissipe les Affaiblissements et augmente les DGT de Bois."}
 {"id":1497346,"jp":"錬金術","fr":"Alchimie"}
+{"id":1497347,"jp":"対象を徐々に黄金化する。","fr":"Transforme progressivement la cible en or."}
 {"id":1497348,"jp":"黄金化","fr":"Transmutation en or"}
+{"id":1497349,"jp":"継続回復を得て、移動速度が上昇する。","fr":"Confère une régénération continue et augmente la vitesse de déplacement."}
 {"id":1497350,"jp":"黄金の豊穂","fr":"Épis d'or abondants"}
+{"id":1497351,"jp":"1秒ごとにHPを回復し、戦闘不能にならない。","fr":"Restaure les PV chaque seconde et empêche la mise hors combat."}
 {"id":1497352,"jp":"虹の加護","fr":"Protection de l'arc-en-ciel"}
 {"id":1497353,"jp":"物理防御力上昇・小","fr":"Légère hausse de DÉF physique"}
 {"id":1497354,"jp":"物理防御上昇・小","fr":"Légère hausse de DÉF physique"}
 {"id":1497355,"jp":"被回復効果上昇・小","fr":"Légère hausse des soins reçus"}
+{"id":1497356,"jp":"闇属性の被ブレイク効率アップ","fr":"Hausse de l'Efficacité de brise de Ténèbres subie"}
+{"id":1497357,"jp":"地属性の被ブレイク効率アップ","fr":"Hausse de l'Efficacité de brise de Terre subie"}
+{"id":1497358,"jp":"被ブレイク効率上昇・小","fr":"Hausse de l'Efficacité de brise subie (faible)"}
+{"id":1497359,"jp":"被ブレイク効率上昇・大","fr":"Hausse de l'Efficacité de brise subie (forte)"}
 {"id":1497360,"jp":"ピカリンの舞・盾","fr":"Danse de Pikarin : bouclier"}
 {"id":1497361,"jp":"フィアールの舞・盾","fr":"Danse de Fiaaru : bouclier"}
 {"id":1497362,"jp":"スピークルの舞・盾","fr":"Danse de Speakle : bouclier"}
@@ -1301,6 +1862,7 @@
 {"id":1497367,"jp":"ブルークリスタル","fr":"Cristal bleu"}
 {"id":1497368,"jp":"攻撃が低下する。","fr":"Réduit l'ATQ."}
 {"id":1497369,"jp":"10辛グライド","fr":"Plané piquant 10"}
+{"id":1497370,"jp":"火属性の被ダメージが増加する。","fr":"Augmente les DGT de Feu subis."}
 {"id":1497371,"jp":"5辛フライト","fr":"Vol piquant 5"}
 {"id":1497372,"jp":"ララティの種","fr":"Graine de Laratee"}
 {"id":1497373,"jp":"ララッポの種","fr":"Graine de Larappo"}
@@ -1309,6 +1871,7 @@
 {"id":1497376,"jp":"竜の怒り","fr":"Colère du dragon"}
 {"id":1497377,"jp":"HP上限アップ","fr":"Hausse des PV max"}
 {"id":1497378,"jp":"止まぬ狂風","fr":"Bourrasque sans fin"}
+{"id":1497379,"jp":"特殊スキルのダメージとエネルギー回復量が増加する。","fr":"Augmente les DGT des compétences spéciales et la récupération d'Énergie."}
 {"id":1497380,"jp":"蓄風","fr":"Vent accumulé"}
 {"id":1497381,"jp":"砕氷","fr":"Brise-glace"}
 {"id":1497382,"jp":"縁結び","fr":"Nouer les liens"}
@@ -1325,21 +1888,72 @@
 {"id":1497393,"jp":"魔法防御力アップ・大","fr":"Forte hausse de DÉF magique"}
 {"id":1497394,"jp":"会心率アップ・小","fr":"Légère hausse du Taux CRIT"}
 {"id":1497395,"jp":"会心率アップ・大","fr":"Forte hausse du Taux CRIT"}
+{"id":1497396,"jp":"会心ダメージアップ・小","fr":"Hausse des DGT CRIT (faible)"}
+{"id":1497397,"jp":"会心ダメージアップ・大","fr":"Hausse des DGT CRIT (forte)"}
+{"id":1497398,"jp":"火属性ダメージアップ・小","fr":"Hausse des DGT de Feu (faible)"}
+{"id":1497399,"jp":"火属性ダメージアップ・大","fr":"Hausse des DGT de Feu (forte)"}
+{"id":1497400,"jp":"水属性ダメージアップ・小","fr":"Hausse des DGT d'Eau (faible)"}
+{"id":1497401,"jp":"水属性ダメージアップ・大","fr":"Hausse des DGT d'Eau (forte)"}
+{"id":1497402,"jp":"氷属性ダメージアップ・小","fr":"Hausse des DGT de Glace (faible)"}
+{"id":1497403,"jp":"氷属性ダメージアップ・大","fr":"Hausse des DGT de Glace (forte)"}
+{"id":1497404,"jp":"風属性ダメージアップ・小","fr":"Hausse des DGT de Vent (faible)"}
+{"id":1497405,"jp":"風属性ダメージアップ・大","fr":"Hausse des DGT de Vent (forte)"}
+{"id":1497406,"jp":"木属性ダメージアップ・小","fr":"Hausse des DGT de Bois (faible)"}
+{"id":1497407,"jp":"木属性ダメージアップ・大","fr":"Hausse des DGT de Bois (forte)"}
+{"id":1497408,"jp":"地属性ダメージアップ・小","fr":"Hausse des DGT de Terre (faible)"}
+{"id":1497409,"jp":"地属性ダメージアップ・大","fr":"Hausse des DGT de Terre (forte)"}
+{"id":1497410,"jp":"雷属性ダメージアップ・小","fr":"Hausse des DGT de Foudre (faible)"}
+{"id":1497411,"jp":"雷属性ダメージアップ・大","fr":"Hausse des DGT de Foudre (forte)"}
+{"id":1497412,"jp":"光属性ダメージアップ・小","fr":"Hausse des DGT de Lumière (faible)"}
+{"id":1497413,"jp":"光属性ダメージアップ・大","fr":"Hausse des DGT de Lumière (forte)"}
+{"id":1497414,"jp":"闇属性ダメージアップ・小","fr":"Hausse des DGT de Ténèbres (faible)"}
+{"id":1497415,"jp":"闇属性ダメージアップ・大","fr":"Hausse des DGT de Ténèbres (forte)"}
+{"id":1497416,"jp":"クールタイム短縮率アップ・小","fr":"Hausse de la réduction du temps de recharge (faible)"}
+{"id":1497417,"jp":"クールタイム短縮率アップ・大","fr":"Hausse de la réduction du temps de recharge (forte)"}
+{"id":1497418,"jp":"エネルギー回復増幅アップ・小","fr":"Hausse de l'Amplif. de récupération d'Énergie (faible)"}
+{"id":1497419,"jp":"エネルギー回復増幅アップ・大","fr":"Hausse de l'Amplif. de récupération d'Énergie (forte)"}
 {"id":1497420,"jp":"回復効果アップ・小","fr":"Légère hausse de l'effet de soin"}
 {"id":1497421,"jp":"回復効果アップ・大","fr":"Forte hausse de l'effet de soin"}
+{"id":1497422,"jp":"ダメージ軽減率アップ・小","fr":"Hausse de la Réduction des DGT (faible)"}
+{"id":1497423,"jp":"ダメージ軽減率アップ・大","fr":"Hausse de la Réduction des DGT (forte)"}
 {"id":1497424,"jp":"攻撃力ダウン・小","fr":"Légère baisse d'ATQ"}
 {"id":1497425,"jp":"攻撃力ダウン・大","fr":"Forte baisse d'ATQ"}
 {"id":1497426,"jp":"物理防御ダウン・小","fr":"Légère baisse de DÉF physique"}
 {"id":1497427,"jp":"物理防御ダウン・大","fr":"Forte baisse de DÉF physique"}
 {"id":1497428,"jp":"魔法防御ダウン・小","fr":"Légère baisse de DÉF magique"}
 {"id":1497429,"jp":"魔法防御ダウン・大","fr":"Forte baisse de DÉF magique"}
+{"id":1497430,"jp":"火属性の被ダメージアップ・小","fr":"Hausse des DGT de Feu subis (faible)"}
+{"id":1497431,"jp":"火属性の被ダメージアップ・大","fr":"Hausse des DGT de Feu subis (forte)"}
+{"id":1497432,"jp":"水属性の被ダメージアップ・小","fr":"Hausse des DGT d'Eau subis (faible)"}
+{"id":1497433,"jp":"水属性の被ダメージアップ・大","fr":"Hausse des DGT d'Eau subis (forte)"}
+{"id":1497434,"jp":"氷属性の被ダメージアップ・小","fr":"Hausse des DGT de Glace subis (faible)"}
+{"id":1497435,"jp":"氷属性の被ダメージアップ・大","fr":"Hausse des DGT de Glace subis (forte)"}
+{"id":1497436,"jp":"風属性の被ダメージアップ・小","fr":"Hausse des DGT de Vent subis (faible)"}
+{"id":1497437,"jp":"風属性の被ダメージアップ・大","fr":"Hausse des DGT de Vent subis (forte)"}
+{"id":1497438,"jp":"木属性の被ダメージアップ・小","fr":"Hausse des DGT de Bois subis (faible)"}
+{"id":1497439,"jp":"木属性の被ダメージアップ・大","fr":"Hausse des DGT de Bois subis (forte)"}
+{"id":1497440,"jp":"地属性の被ダメージアップ・小","fr":"Hausse des DGT de Terre subis (faible)"}
+{"id":1497441,"jp":"地属性の被ダメージアップ・大","fr":"Hausse des DGT de Terre subis (forte)"}
+{"id":1497442,"jp":"雷属性の被ダメージアップ・小","fr":"Hausse des DGT de Foudre subis (faible)"}
+{"id":1497443,"jp":"雷属性の被ダメージアップ・大","fr":"Hausse des DGT de Foudre subis (forte)"}
+{"id":1497444,"jp":"光属性の被ダメージアップ・小","fr":"Hausse des DGT de Lumière subis (faible)"}
+{"id":1497445,"jp":"光属性の被ダメージアップ・大","fr":"Hausse des DGT de Lumière subis (forte)"}
+{"id":1497446,"jp":"闇属性の被ダメージアップ・小","fr":"Hausse des DGT de Ténèbres subis (faible)"}
+{"id":1497447,"jp":"闇属性の被ダメージアップ・大","fr":"Hausse des DGT de Ténèbres subis (forte)"}
 {"id":1497448,"jp":"被ダメージアップ・小","fr":"Légère hausse des DGT subis"}
 {"id":1497449,"jp":"被ダメージ増加・小","fr":"Légère hausse des DGT subis"}
 {"id":1497450,"jp":"被ダメージアップ・大","fr":"Forte hausse des DGT subis"}
 {"id":1497451,"jp":"被ダメージ増加・大","fr":"Forte hausse des DGT subis"}
+{"id":1497452,"jp":"ブレイク効率アップ・小","fr":"Hausse de l'Efficacité de brise (faible)"}
+{"id":1497453,"jp":"ブレイク効率アップ・大","fr":"Hausse de l'Efficacité de brise (forte)"}
 {"id":1497454,"jp":"EX強度アップ・小","fr":"Légère hausse de la Puissance EX"}
 {"id":1497455,"jp":"EX強度アップ・大","fr":"Forte hausse de la Puissance EX"}
 {"id":1497456,"jp":"全属性耐性ダウン・小","fr":"Légère baisse des résistances élémentaires"}
+{"id":1497457,"jp":"全属性の被ダメージ増加・小","fr":"Hausse des DGT élémentaires subis (faible)"}
+{"id":1497458,"jp":"通常攻撃の被ダメージアップ・小","fr":"Hausse des DGT subis d'Attaque normale (faible)"}
+{"id":1497459,"jp":"被ブレイク効率アップ・小","fr":"Hausse de l'Efficacité de brise subie (faible)"}
+{"id":1497460,"jp":"被ブレイク効率アップ・中","fr":"Hausse de l'Efficacité de brise subie (moyenne)"}
+{"id":1497461,"jp":"被ブレイク効率アップ・大","fr":"Hausse de l'Efficacité de brise subie (forte)"}
 {"id":1497462,"jp":"被回復効果アップ・小","fr":"Légère hausse des soins reçus"}
 {"id":1497463,"jp":"被回復効果アップ・中","fr":"Hausse modérée des soins reçus"}
 {"id":1497464,"jp":"被回復効果アップ・大","fr":"Forte hausse des soins reçus"}
@@ -1350,12 +1964,15 @@
 {"id":1497469,"jp":"防御貫通アップ・中","fr":"Hausse modérée de la Pénétration de DÉF"}
 {"id":1497470,"jp":"防御貫通アップ・大","fr":"Forte hausse de la Pénétration de DÉF"}
 {"id":1497471,"jp":"会心率アップ・中","fr":"Hausse modérée du Taux CRIT"}
+{"id":1497472,"jp":"ブレイク効率アップ・中","fr":"Hausse de l'Efficacité de brise (moyenne)"}
 {"id":1497473,"jp":"麻痺","fr":"Paralysie"}
 {"id":1497474,"jp":"地属性耐性ダウン","fr":"Baisse de résistance à la Terre"}
+{"id":1497475,"jp":"地属性の被ダメージが増加する。","fr":"Augmente les DGT de Terre subis."}
 {"id":1497476,"jp":"会心ダメージアップ","fr":"Hausse des DGT CRIT"}
 {"id":1497477,"jp":"全焼","fr":"Embrasement total"}
 {"id":1497478,"jp":"物理防御が低下する。","fr":"Réduit la DÉF physique."}
 {"id":1497479,"jp":"凍結異常","fr":"Gel progressif"}
+{"id":1497480,"jp":"凍結異常値が蓄積する。","fr":"Augmente la Réserve de Gel."}
 {"id":1497481,"jp":"凍結","fr":"Gel"}
 {"id":1497482,"jp":"霊木の星屑","fr":"Poussière d'étoiles de l'arbre sacré"}
 {"id":1497483,"jp":"深緑の斬撃","fr":"Taillade sylvestre"}
@@ -1366,8 +1983,11 @@
 {"id":1497488,"jp":"レーザー光線","fr":"Rayon laser"}
 {"id":1497489,"jp":"雷の罠","fr":"Piège de foudre"}
 {"id":1497490,"jp":"輝光斬り","fr":"Taillade radieuse"}
+{"id":1497491,"jp":"全属性ダメージの増加量が上昇する。","fr":"Augmente le bonus de DGT de tous les éléments."}
 {"id":1497492,"jp":"シャドウスラッシュ","fr":"Taillade d'ombre"}
 {"id":1497493,"jp":"暗影連陣","fr":"Formation des ombres"}
+{"id":1497494,"jp":"1秒ごとに火属性ダメージを受ける。","fr":"Subit des DGT de Feu chaque seconde."}
+{"id":1497495,"jp":"水属性の被ダメージが増加する。","fr":"Augmente les DGT d'Eau subis."}
 {"id":1497496,"jp":"防御力ダウン・小","fr":"Légère baisse de DÉF"}
 {"id":1497497,"jp":"氷属性耐性ダウン","fr":"Baisse de résistance à la Glace"}
 {"id":1497498,"jp":"木属性耐性ダウン","fr":"Baisse de résistance au Bois"}
@@ -1375,12 +1995,14 @@
 {"id":1497500,"jp":"回避率が上昇する。","fr":"Augmente le taux d'esquive."}
 {"id":1497501,"jp":"浮遊","fr":"Lévitation"}
 {"id":1497502,"jp":"バリア","fr":"Barrière"}
+{"id":1497503,"jp":"物理ダメージ軽減が上昇する。","fr":"Augmente la Réduction des DGT physiques."}
 {"id":1497505,"jp":"燃える甲殻","fr":"Carapace ardente"}
 {"id":1497506,"jp":"防御が上昇する。","fr":"Augmente la DÉF."}
 {"id":1497507,"jp":"粘着","fr":"Collant"}
 {"id":1497508,"jp":"活力活性化","fr":"Regain de vitalité"}
 {"id":1497509,"jp":"厚い毛皮","fr":"Fourrure épaisse"}
 {"id":1497511,"jp":"堅盾堅甲","fr":"Bouclier et cuirasse solides"}
+{"id":1497512,"jp":"雷属性以外の耐性が上昇し、雷属性耐性が低下する。","fr":"Augmente la résistance à tous les éléments sauf la Foudre, dont la résistance diminue."}
 {"id":1497513,"jp":"苗","fr":"Pousse"}
 {"id":1497515,"jp":"無暇","fr":"Sans faille"}
 {"id":1497516,"jp":"耐性が上昇する。","fr":"Augmente la résistance."}
@@ -1391,14 +2013,26 @@
 {"id":1497521,"jp":"機敏","fr":"Agilité"}
 {"id":1497522,"jp":"防御が低下する。","fr":"Réduit la DÉF."}
 {"id":1497523,"jp":"予知","fr":"Prescience"}
+{"id":1497524,"jp":"一定時間ごとに、攻撃を1回必ず回避する。","fr":"Garantit l'esquive d'une attaque à intervalles réguliers."}
 {"id":1497525,"jp":"火の感応","fr":"Affinité au Feu"}
+{"id":1497526,"jp":"氷属性耐性が上昇する。","fr":"Augmente la résistance à la Glace."}
+{"id":1497527,"jp":"木属性耐性が上昇する。","fr":"Augmente la résistance au Bois."}
+{"id":1497528,"jp":"水属性耐性が低下する。","fr":"Réduit la résistance à l'Eau."}
 {"id":1497529,"jp":"水の感応","fr":"Affinité à l'Eau"}
+{"id":1497530,"jp":"火属性耐性が上昇する。","fr":"Augmente la résistance au Feu."}
+{"id":1497531,"jp":"地属性耐性が上昇する。","fr":"Augmente la résistance à la Terre."}
+{"id":1497532,"jp":"雷属性耐性が低下する。","fr":"Réduit la résistance à la Foudre."}
 {"id":1497533,"jp":"氷の感応","fr":"Affinité à la Glace"}
+{"id":1497534,"jp":"雷属性耐性が上昇する。","fr":"Augmente la résistance à la Foudre."}
 {"id":1497535,"jp":"風の感応","fr":"Affinité au Vent"}
 {"id":1497536,"jp":"木の感応","fr":"Affinité au Bois"}
+{"id":1497537,"jp":"水属性耐性が上昇する。","fr":"Augmente la résistance à l'Eau."}
+{"id":1497538,"jp":"風属性耐性が上昇する。","fr":"Augmente la résistance au Vent."}
+{"id":1497539,"jp":"氷属性耐性が低下する。","fr":"Réduit la résistance à la Glace."}
 {"id":1497540,"jp":"地の感応","fr":"Affinité à la Terre"}
 {"id":1497541,"jp":"雷の感応","fr":"Affinité à la Foudre"}
 {"id":1497542,"jp":"光の感応","fr":"Affinité à la Lumière"}
+{"id":1497543,"jp":"闇属性ダメージが増加する。","fr":"Augmente les DGT de Ténèbres."}
 {"id":1497544,"jp":"闇の感応","fr":"Affinité aux Ténèbres"}
 {"id":1497545,"jp":"ダメージが増加する。","fr":"Augmente les DGT."}
 {"id":1497546,"jp":"継戦の決意","fr":"Détermination à poursuivre le combat"}
@@ -1409,11 +2043,16 @@
 {"id":1497551,"jp":"健やか","fr":"Bonne santé"}
 {"id":1497552,"jp":"最大HPが上昇する。","fr":"Augmente les PV max."}
 {"id":1497553,"jp":"反動","fr":"Contrecoup"}
+{"id":1497554,"jp":"特殊スキルダメージが増加する。","fr":"Augmente les DGT des compétences spéciales."}
 {"id":1497555,"jp":"流水掌握","fr":"Maîtrise de l'eau vive"}
+{"id":1497556,"jp":"水属性ダメージが増加する。","fr":"Augmente les DGT d'Eau."}
+{"id":1497557,"jp":"クールタイムが短縮される。","fr":"Réduit le temps de recharge."}
 {"id":1497558,"jp":"歴戦の強者","fr":"Vétéran aguerri"}
 {"id":1497559,"jp":"迅速な爪","fr":"Griffes rapides"}
 {"id":1497560,"jp":"エネルギー供給","fr":"Apport d'Énergie"}
+{"id":1497561,"jp":"1秒ごとに星極チャージを獲得する。","fr":"Obtient de la charge Zénith stellaire chaque seconde."}
 {"id":1497562,"jp":"霊風流転","fr":"Cycle du vent spirituel"}
+{"id":1497563,"jp":"特殊スキルのクールタイムが短縮される。","fr":"Réduit le temps de recharge des compétences spéciales."}
 {"id":1497564,"jp":"敏感","fr":"Sensibilité"}
 {"id":1497565,"jp":"スローペース","fr":"Rythme lent"}
 {"id":1497567,"jp":"冷笑","fr":"Ricanement"}
@@ -1421,8 +2060,10 @@
 {"id":1497569,"jp":"自然の寵児","fr":"Enfant de la nature"}
 {"id":1497570,"jp":"守護","fr":"Protection"}
 {"id":1497571,"jp":"自己回復","fr":"Autoguérison"}
+{"id":1497572,"jp":"1秒ごとにHPが回復する。","fr":"Restaure les PV chaque seconde."}
 {"id":1497573,"jp":"岩化","fr":"Pétrification"}
 {"id":1497574,"jp":"堅固","fr":"Robustesse"}
+{"id":1497576,"jp":"雷属性ダメージが増加する。","fr":"Augmente les DGT de Foudre."}
 {"id":1497577,"jp":"雷電激動","fr":"Déchaînement électrique"}
 {"id":1497578,"jp":"治癒","fr":"Guérison"}
 {"id":1497580,"jp":"適応","fr":"Adaptation"}
@@ -1439,6 +2080,7 @@
 {"id":1497591,"jp":"窮地回復","fr":"Sursaut de survie"}
 {"id":1497592,"jp":"ライフドレイン","fr":"Drain de vie"}
 {"id":1497593,"jp":"継続ダメージ","fr":"DGT sur la durée"}
+{"id":1497594,"jp":"HPを継続的に回復する。","fr":"Restaure continuellement les PV."}
 {"id":1497595,"jp":"迅速","fr":"Célérité"}
 {"id":1497596,"jp":"感応電場","fr":"Champ électrique réactif"}
 {"id":1497597,"jp":"瞬間庇護","fr":"Protection instantanée"}
@@ -1454,6 +2096,7 @@
 {"id":1497609,"jp":"水の庇護","fr":"Protection de l'eau"}
 {"id":1497610,"jp":"熱烈","fr":"Ferveur"}
 {"id":1497611,"jp":"動揺","fr":"Trouble"}
+{"id":1497612,"jp":"会心ダメージが減少する。","fr":"Réduit les DGT CRIT."}
 {"id":1497613,"jp":"火の発揮","fr":"Manifestation du Feu"}
 {"id":1497614,"jp":"水の発揮","fr":"Manifestation de l'Eau"}
 {"id":1497615,"jp":"氷の発揮","fr":"Manifestation de la Glace"}
@@ -1467,22 +2110,28 @@
 {"id":1497623,"jp":"水の抵抗","fr":"Résistance à l'Eau"}
 {"id":1497624,"jp":"氷の抵抗","fr":"Résistance à la Glace"}
 {"id":1497625,"jp":"風の抵抗","fr":"Résistance au Vent"}
+{"id":1497626,"jp":"星極チャージ回復増幅が上昇する。","fr":"Augmente l'Amplification de récupération de charge Zénith stellaire."}
 {"id":1497627,"jp":"木の抵抗","fr":"Résistance au Bois"}
 {"id":1497628,"jp":"地の抵抗","fr":"Résistance à la Terre"}
 {"id":1497629,"jp":"雷の抵抗","fr":"Résistance à la Foudre"}
 {"id":1497630,"jp":"光の抵抗","fr":"Résistance à la Lumière"}
+{"id":1497631,"jp":"光属性耐性が上昇する。","fr":"Augmente la résistance à la Lumière."}
 {"id":1497632,"jp":"闇の抵抗","fr":"Résistance aux Ténèbres"}
+{"id":1497633,"jp":"闇属性耐性が上昇する。","fr":"Augmente la résistance aux Ténèbres."}
 {"id":1497634,"jp":"鋭気","fr":"Vigueur"}
 {"id":1497635,"jp":"療養","fr":"Convalescence"}
+{"id":1497636,"jp":"退場後、HPが30%未満の時にHPが回復する。","fr":"Après avoir quitté le terrain, restaure les PV s'ils sont inférieurs à 30%."}
 {"id":1497637,"jp":"縁","fr":"Lien du destin"}
 {"id":1497638,"jp":"繋がる縁","fr":"Destins liés"}
 {"id":1497639,"jp":"炎の足跡","fr":"Empreintes de flammes"}
 {"id":1497641,"jp":"火の玉爆発","fr":"Explosion de boule de feu"}
 {"id":1497643,"jp":"不滅の灼火","fr":"Flamme immortelle"}
 {"id":1497645,"jp":"火の盾","fr":"Bouclier de feu"}
+{"id":1497646,"jp":"自身にHP上限の10%分のシールドを付与する。","fr":"Obtient un Bouclier équivalant à 10% des PV max."}
 {"id":1497647,"jp":"烈焔柱","fr":"Piliers de flammes"}
 {"id":1497649,"jp":"灼熱火の玉","fr":"Boules de feu ardentes"}
 {"id":1497651,"jp":"ポイズントレイル","fr":"Traînée de poison"}
+{"id":1497653,"jp":"ウォータースプラッシュ","fr":"Éclaboussure"}
 {"id":1497655,"jp":"激浪","fr":"Vagues déchaînées"}
 {"id":1497657,"jp":"水の盾","fr":"Bouclier d'eau"}
 {"id":1497658,"jp":"氷の棘・射出","fr":"Épines de glace : tir"}
@@ -1507,64 +2156,340 @@
 {"id":1497692,"jp":"雷の盾","fr":"Bouclier de foudre"}
 {"id":1497693,"jp":"光の槍","fr":"Lance de lumière"}
 {"id":1497695,"jp":"行動妨害無効","fr":"Immunité aux entraves"}
+{"id":1497696,"jp":"自身はすべての行動妨害効果を受けない。","fr":"Confère une immunité à tous les effets de contrôle."}
 {"id":1497697,"jp":"ポテンシャル","fr":"Potentiel"}
 {"id":1497699,"jp":"追尾オーブ","fr":"Orbe à tête chercheuse"}
 {"id":1497701,"jp":"光の盾","fr":"Bouclier de lumière"}
 {"id":1497702,"jp":"呪いの暗球","fr":"Orbe sombre maudit"}
 {"id":1497704,"jp":"暗黒の牽引","fr":"Attraction ténébreuse"}
 {"id":1497706,"jp":"闇の盾","fr":"Bouclier des ténèbres"}
+{"id":1497707,"jp":"自身が受ける全属性ダメージが15%減少する。","fr":"Réduit les DGT élémentaires subis de 15%."}
+{"id":1497708,"jp":"自身が受ける火属性ダメージが20%減少する。","fr":"Réduit les DGT de Feu subis de 20%."}
+{"id":1497709,"jp":"自身が受ける水属性ダメージが20%減少する。","fr":"Réduit les DGT d'Eau subis de 20%."}
 {"id":1497710,"jp":"耐氷","fr":"Protection contre la Glace"}
+{"id":1497711,"jp":"自身が受ける氷属性ダメージが20%減少する。","fr":"Réduit les DGT de Glace subis de 20%."}
+{"id":1497712,"jp":"自身が受ける木属性ダメージが20%減少する。","fr":"Réduit les DGT de Bois subis de 20%."}
+{"id":1497713,"jp":"自身が受ける地属性ダメージが20%減少する。","fr":"Réduit les DGT de Terre subis de 20%."}
 {"id":1497714,"jp":"耐風","fr":"Protection contre le Vent"}
+{"id":1497715,"jp":"自身が受ける風属性ダメージが20%減少する。","fr":"Réduit les DGT de Vent subis de 20%."}
+{"id":1497716,"jp":"自身が受ける雷属性ダメージが20%減少する。","fr":"Réduit les DGT de Foudre subis de 20%."}
+{"id":1497717,"jp":"自身が受ける光属性ダメージが20%減少する。","fr":"Réduit les DGT de Lumière subis de 20%."}
 {"id":1497718,"jp":"耐闇","fr":"Protection contre les Ténèbres"}
+{"id":1497719,"jp":"自身が受ける闇属性ダメージが20%減少する。","fr":"Réduit les DGT de Ténèbres subis de 20%."}
 {"id":1497720,"jp":"火の怒り","fr":"Courroux du Feu"}
+{"id":1497721,"jp":"自身が受ける火属性ダメージが25%増加する。","fr":"Augmente les DGT de Feu subis de 25%."}
 {"id":1497722,"jp":"水の怒り","fr":"Courroux de l'Eau"}
+{"id":1497723,"jp":"自身が受ける水属性ダメージが25%増加する。","fr":"Augmente les DGT d'Eau subis de 25%."}
 {"id":1497724,"jp":"氷の怒り","fr":"Courroux de la Glace"}
+{"id":1497725,"jp":"自身が受ける氷属性ダメージが25%増加する。","fr":"Augmente les DGT de Glace subis de 25%."}
 {"id":1497726,"jp":"木の怒り","fr":"Courroux du Bois"}
+{"id":1497727,"jp":"自身が受ける木属性ダメージが25%増加する。","fr":"Augmente les DGT de Bois subis de 25%."}
 {"id":1497728,"jp":"地の怒り","fr":"Courroux de la Terre"}
+{"id":1497729,"jp":"自身が受ける地属性ダメージが25%増加する。","fr":"Augmente les DGT de Terre subis de 25%."}
 {"id":1497730,"jp":"風の怒り","fr":"Courroux du Vent"}
+{"id":1497731,"jp":"自身が受ける風属性ダメージが25%増加する。","fr":"Augmente les DGT de Vent subis de 25%."}
 {"id":1497732,"jp":"雷の怒り","fr":"Courroux de la Foudre"}
+{"id":1497733,"jp":"自身が受ける雷属性ダメージが25%増加する。","fr":"Augmente les DGT de Foudre subis de 25%."}
 {"id":1497734,"jp":"光の怒り","fr":"Courroux de la Lumière"}
+{"id":1497735,"jp":"自身が受ける光属性ダメージが25%増加する。","fr":"Augmente les DGT de Lumière subis de 25%."}
 {"id":1497736,"jp":"闇の怒り","fr":"Courroux des Ténèbres"}
+{"id":1497737,"jp":"自身が受ける闇属性ダメージが25%増加する。","fr":"Augmente les DGT de Ténèbres subis de 25%."}
 {"id":1497738,"jp":"攻撃態勢","fr":"Posture offensive"}
+{"id":1497739,"jp":"自身の攻撃力が上昇する。","fr":"Augmente sa propre ATQ."}
 {"id":1497740,"jp":"防御力破壊","fr":"Destruction de DÉF"}
+{"id":1497742,"jp":"自身にデバフが付与された時、その効果を解除する。","fr":"Dissipe tout Affaiblissement reçu dès son application."}
+{"id":1497743,"jp":"自身の防御力が20%低下する。","fr":"Réduit sa propre DÉF de 20%."}
 {"id":1497744,"jp":"反撃","fr":"Contre-attaque"}
 {"id":1497746,"jp":"沼地-移動スキル禁止","fr":"Marais - compétences de déplacement interdites"}
 {"id":1497747,"jp":"移動スキル使用不可","fr":"Compétences de déplacement indisponibles"}
 {"id":1497748,"jp":"アシッドレイン","fr":"Pluie acide"}
 {"id":1497749,"jp":"氷霜領域","fr":"Zone de givre"}
+{"id":1497750,"jp":"移動速度が10%低下する。","fr":"Réduit la vitesse de déplacement de 10%."}
 {"id":1497751,"jp":"防御リンク","fr":"Lien défensif"}
+{"id":1497752,"jp":"防御が10%上昇する。","fr":"Augmente la DÉF de 10%."}
+{"id":1497753,"jp":"移動速度が30%低下する。","fr":"Réduit la vitesse de déplacement de 30%."}
 {"id":1497754,"jp":"ポテンシャルバースト","fr":"Explosion de potentiel"}
+{"id":1497755,"jp":"移動速度が50%低下する。","fr":"Réduit la vitesse de déplacement de 50%."}
+{"id":1497756,"jp":"防御力が50%低下する。","fr":"Réduit la DÉF de 50%."}
+{"id":1497757,"jp":"攻撃力が100%上昇する。","fr":"Augmente l'ATQ de 100%."}
 {"id":1497758,"jp":"スーパーアーマー","fr":"Super armure"}
 {"id":1497759,"jp":"復讐者","fr":"Vengeance"}
+{"id":1497760,"jp":"防御力が7%上昇する。","fr":"Augmente la DÉF de 7%."}
+{"id":1497761,"jp":"攻撃力が7%上昇する。","fr":"Augmente l'ATQ de 7%."}
 {"id":1497762,"jp":"アーマーブレイク","fr":"Brise-armure"}
 {"id":1497763,"jp":"チャージ禁止","fr":"Charge interdite"}
 {"id":1497764,"jp":"無属性耐性アップ","fr":"Hausse de résistance neutre"}
 {"id":1497765,"jp":"戦闘前ウォームアップ","fr":"Échauffement d'avant-combat"}
+{"id":1497766,"jp":"会心率が100%上昇する。","fr":"Augmente le Taux CRIT de 100%."}
 {"id":1497767,"jp":"背水の陣","fr":"Dos au mur"}
 {"id":1497768,"jp":"オーバードライブ","fr":"Surrégime"}
 {"id":1497770,"jp":"短気","fr":"Impatience"}
+{"id":1497771,"jp":"1スタックにつき会心率が1%上昇する。","fr":"Augmente le Taux CRIT de 1% par cumul."}
+{"id":1497772,"jp":"1スタックにつき会心ダメージが1%増加する。","fr":"Augmente les DGT CRIT de 1% par cumul."}
 {"id":1497773,"jp":"生命流転","fr":"Cycle de la vie"}
+{"id":1497774,"jp":"1スタックにつき最大HPが5%上昇する。","fr":"Augmente les PV max. de 5% par cumul."}
+{"id":1497775,"jp":"防御力が25%低下する。","fr":"Réduit la DÉF de 25%."}
 {"id":1497776,"jp":"ループ加速","fr":"Boucle accélérée"}
+{"id":1497777,"jp":"クールタイムが10%短縮される。","fr":"Réduit le temps de recharge de 10%."}
 {"id":1497778,"jp":"士気減退","fr":"Moral en berne"}
+{"id":1497779,"jp":"攻撃力が35%低下する。","fr":"Réduit l'ATQ de 35%."}
 {"id":1497780,"jp":"攻撃力低下","fr":"Baisse d'ATQ"}
 {"id":1497781,"jp":"鉄壁強化","fr":"Rempart de fer renforcé"}
+{"id":1497782,"jp":"1スタックにつき防御力が100%上昇する。","fr":"Augmente la DÉF de 100% par cumul."}
 {"id":1497783,"jp":"耐性値が40になる。","fr":"La résistance passe à 40."}
 {"id":1497784,"jp":"耐性値が上昇する。","fr":"Augmente la valeur de résistance."}
+{"id":1497803,"jp":"料理会心ダメージ増加1","fr":"Plat : hausse des DGT CRIT 1"}
+{"id":1497805,"jp":"料理会心ダメージ増加2","fr":"Plat : hausse des DGT CRIT 2"}
+{"id":1497807,"jp":"料理会心ダメージ増加3","fr":"Plat : hausse des DGT CRIT 3"}
+{"id":1497809,"jp":"料理会心ダメージ増加4","fr":"Plat : hausse des DGT CRIT 4"}
+{"id":1497811,"jp":"料理会心ダメージ増加5","fr":"Plat : hausse des DGT CRIT 5"}
+{"id":1497813,"jp":"料理会心ダメージ増加6","fr":"Plat : hausse des DGT CRIT 6"}
+{"id":1497815,"jp":"料理会心ダメージ増加7","fr":"Plat : hausse des DGT CRIT 7"}
+{"id":1497817,"jp":"料理会心ダメージ増加8","fr":"Plat : hausse des DGT CRIT 8"}
+{"id":1497819,"jp":"料理会心ダメージ増加9","fr":"Plat : hausse des DGT CRIT 9"}
+{"id":1497821,"jp":"料理による被ダメージ軽減1","fr":"Plat : Réduction des DGT subis 1"}
+{"id":1497823,"jp":"料理による被ダメージ軽減2","fr":"Plat : Réduction des DGT subis 2"}
+{"id":1497825,"jp":"料理による被ダメージ軽減3","fr":"Plat : Réduction des DGT subis 3"}
+{"id":1497827,"jp":"料理による被ダメージ軽減4","fr":"Plat : Réduction des DGT subis 4"}
+{"id":1497829,"jp":"料理による被ダメージ軽減5","fr":"Plat : Réduction des DGT subis 5"}
+{"id":1497831,"jp":"料理による被ダメージ軽減6","fr":"Plat : Réduction des DGT subis 6"}
+{"id":1497833,"jp":"料理による被ダメージ軽減7","fr":"Plat : Réduction des DGT subis 7"}
+{"id":1497835,"jp":"料理による被ダメージ軽減8","fr":"Plat : Réduction des DGT subis 8"}
+{"id":1497837,"jp":"料理による被ダメージ軽減9","fr":"Plat : Réduction des DGT subis 9"}
+{"id":1497839,"jp":"料理によるダメージ増加1","fr":"Plat : hausse des DGT 1"}
+{"id":1497841,"jp":"料理によるダメージ増加2","fr":"Plat : hausse des DGT 2"}
+{"id":1497843,"jp":"料理によるダメージ増加3","fr":"Plat : hausse des DGT 3"}
+{"id":1497845,"jp":"料理によるダメージ増加4","fr":"Plat : hausse des DGT 4"}
+{"id":1497847,"jp":"料理によるダメージ増加5","fr":"Plat : hausse des DGT 5"}
+{"id":1497849,"jp":"料理によるダメージ増加6","fr":"Plat : hausse des DGT 6"}
+{"id":1497851,"jp":"料理によるダメージ増加7","fr":"Plat : hausse des DGT 7"}
+{"id":1497853,"jp":"料理によるダメージ増加8","fr":"Plat : hausse des DGT 8"}
+{"id":1497855,"jp":"料理によるダメージ増加9","fr":"Plat : hausse des DGT 9"}
+{"id":1497857,"jp":"料理による防御力上昇1","fr":"Plat : hausse de la DÉF 1"}
+{"id":1497858,"jp":"チーム全体の防御が18上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 18 (durée : 5 min)."}
+{"id":1497859,"jp":"料理による防御力上昇2","fr":"Plat : hausse de la DÉF 2"}
+{"id":1497860,"jp":"チーム全体の防御が20上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 20 (durée : 5 min)."}
+{"id":1497861,"jp":"料理による防御力上昇3","fr":"Plat : hausse de la DÉF 3"}
+{"id":1497862,"jp":"チーム全体の防御が22上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 22 (durée : 5 min)."}
+{"id":1497863,"jp":"料理による防御力上昇4","fr":"Plat : hausse de la DÉF 4"}
+{"id":1497864,"jp":"チーム全体の防御が12上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 12 (durée : 5 min)."}
+{"id":1497865,"jp":"料理による防御力上昇5","fr":"Plat : hausse de la DÉF 5"}
+{"id":1497866,"jp":"チーム全体の防御が13上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 13 (durée : 5 min)."}
+{"id":1497867,"jp":"料理による防御力上昇6","fr":"Plat : hausse de la DÉF 6"}
+{"id":1497868,"jp":"チーム全体の防御が14上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 14 (durée : 5 min)."}
+{"id":1497869,"jp":"料理による防御力上昇7","fr":"Plat : hausse de la DÉF 7"}
+{"id":1497870,"jp":"チーム全体の防御が28上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 28 (durée : 5 min)."}
+{"id":1497871,"jp":"料理による防御力上昇8","fr":"Plat : hausse de la DÉF 8"}
+{"id":1497872,"jp":"チーム全体の防御が30上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 30 (durée : 5 min)."}
+{"id":1497873,"jp":"料理による防御力上昇9","fr":"Plat : hausse de la DÉF 9"}
+{"id":1497874,"jp":"チーム全体の防御が32上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 32 (durée : 5 min)."}
+{"id":1497875,"jp":"料理による防御力上昇10","fr":"Plat : hausse de la DÉF 10"}
+{"id":1497876,"jp":"チーム全体の防御が40上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 40 (durée : 5 min)."}
+{"id":1497877,"jp":"料理による防御力上昇11","fr":"Plat : hausse de la DÉF 11"}
+{"id":1497878,"jp":"チーム全体の防御が42上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 42 (durée : 5 min)."}
+{"id":1497879,"jp":"料理による防御力上昇12","fr":"Plat : hausse de la DÉF 12"}
+{"id":1497880,"jp":"チーム全体の防御が44上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 44 (durée : 5 min)."}
+{"id":1497881,"jp":"料理による防御力上昇13","fr":"Plat : hausse de la DÉF 13"}
+{"id":1497882,"jp":"チーム全体の防御が74上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 74 (durée : 5 min)."}
+{"id":1497883,"jp":"料理による防御力上昇14","fr":"Plat : hausse de la DÉF 14"}
+{"id":1497884,"jp":"チーム全体の防御が76上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 76 (durée : 5 min)."}
+{"id":1497885,"jp":"料理による防御力上昇15","fr":"Plat : hausse de la DÉF 15"}
+{"id":1497886,"jp":"チーム全体の防御が78上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 78 (durée : 5 min)."}
+{"id":1497887,"jp":"料理による防御力上昇16","fr":"Plat : hausse de la DÉF 16"}
+{"id":1497888,"jp":"チーム全体の防御が90上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 90 (durée : 5 min)."}
+{"id":1497889,"jp":"料理による防御力上昇17","fr":"Plat : hausse de la DÉF 17"}
+{"id":1497890,"jp":"チーム全体の防御が95上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 95 (durée : 5 min)."}
+{"id":1497891,"jp":"料理による防御力上昇18","fr":"Plat : hausse de la DÉF 18"}
+{"id":1497893,"jp":"料理による防御力上昇19","fr":"Plat : hausse de la DÉF 19"}
+{"id":1497894,"jp":"チーム全体の防御が70上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 70 (durée : 5 min)."}
+{"id":1497895,"jp":"料理による防御力上昇20","fr":"Plat : hausse de la DÉF 20"}
+{"id":1497896,"jp":"チーム全体の防御が77上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 77 (durée : 5 min)."}
+{"id":1497897,"jp":"料理による防御力上昇21","fr":"Plat : hausse de la DÉF 21"}
+{"id":1497898,"jp":"チーム全体の防御が84上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 84 (durée : 5 min)."}
+{"id":1497899,"jp":"料理による防御力上昇22","fr":"Plat : hausse de la DÉF 22"}
+{"id":1497900,"jp":"チーム全体の防御が72上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 72 (durée : 5 min)."}
+{"id":1497901,"jp":"料理による防御力上昇23","fr":"Plat : hausse de la DÉF 23"}
+{"id":1497902,"jp":"料理による防御力上昇24","fr":"Plat : hausse de la DÉF 24"}
+{"id":1497903,"jp":"チーム全体の防御が80上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 80 (durée : 5 min)."}
+{"id":1497904,"jp":"料理による防御力上昇25","fr":"Plat : hausse de la DÉF 25"}
+{"id":1497905,"jp":"チーム全体の防御が5%上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 5% (durée : 5 min)."}
+{"id":1497906,"jp":"料理による防御力上昇26","fr":"Plat : hausse de la DÉF 26"}
+{"id":1497907,"jp":"チーム全体の防御が6%上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 6% (durée : 5 min)."}
+{"id":1497908,"jp":"料理による防御力上昇27","fr":"Plat : hausse de la DÉF 27"}
+{"id":1497909,"jp":"チーム全体の防御が7%上昇する（効果時間：5分）。","fr":"Augmente la DÉF de toute l'équipe de 7% (durée : 5 min)."}
+{"id":1497910,"jp":"料理による防御力上昇28","fr":"Plat : hausse de la DÉF 28"}
+{"id":1497912,"jp":"料理による防御力上昇29","fr":"Plat : hausse de la DÉF 29"}
+{"id":1497914,"jp":"料理による防御力上昇30","fr":"Plat : hausse de la DÉF 30"}
+{"id":1497916,"jp":"料理による防御力上昇31","fr":"Plat : hausse de la DÉF 31"}
+{"id":1497918,"jp":"料理による防御力上昇32","fr":"Plat : hausse de la DÉF 32"}
+{"id":1497920,"jp":"料理による防御力上昇33","fr":"Plat : hausse de la DÉF 33"}
+{"id":1497922,"jp":"料理による防御力上昇34","fr":"Plat : hausse de la DÉF 34"}
+{"id":1497924,"jp":"料理による防御力上昇35","fr":"Plat : hausse de la DÉF 35"}
+{"id":1497926,"jp":"料理による攻撃力上昇1","fr":"Plat : hausse de l'ATQ 1"}
+{"id":1497927,"jp":"チーム全体の攻撃が70上昇する（効果時間：5分）。","fr":"Augmente l'ATQ de toute l'équipe de 70 (durée : 5 min)."}
+{"id":1497928,"jp":"料理による攻撃力上昇2","fr":"Plat : hausse de l'ATQ 2"}
+{"id":1497929,"jp":"チーム全体の攻撃が75上昇する（効果時間：5分）。","fr":"Augmente l'ATQ de toute l'équipe de 75 (durée : 5 min)."}
+{"id":1497930,"jp":"料理による攻撃力上昇3","fr":"Plat : hausse de l'ATQ 3"}
+{"id":1497931,"jp":"チーム全体の攻撃が80上昇する（効果時間：5分）。","fr":"Augmente l'ATQ de toute l'équipe de 80 (durée : 5 min)."}
+{"id":1497932,"jp":"料理による攻撃力上昇4","fr":"Plat : hausse de l'ATQ 4"}
+{"id":1497933,"jp":"チーム全体の攻撃が50上昇する（効果時間：5分）。","fr":"Augmente l'ATQ de toute l'équipe de 50 (durée : 5 min)."}
+{"id":1497934,"jp":"料理による攻撃力上昇5","fr":"Plat : hausse de l'ATQ 5"}
+{"id":1497935,"jp":"チーム全体の攻撃が55上昇する（効果時間：5分）。","fr":"Augmente l'ATQ de toute l'équipe de 55 (durée : 5 min)."}
+{"id":1497936,"jp":"料理による攻撃力上昇6","fr":"Plat : hausse de l'ATQ 6"}
+{"id":1497937,"jp":"チーム全体の攻撃が60上昇する（効果時間：5分）。","fr":"Augmente l'ATQ de toute l'équipe de 60 (durée : 5 min)."}
+{"id":1497938,"jp":"料理による攻撃力上昇7","fr":"Plat : hausse de l'ATQ 7"}
+{"id":1497940,"jp":"料理による攻撃力上昇8","fr":"Plat : hausse de l'ATQ 8"}
+{"id":1497942,"jp":"料理による攻撃力上昇9","fr":"Plat : hausse de l'ATQ 9"}
+{"id":1497944,"jp":"料理による攻撃力上昇10","fr":"Plat : hausse de l'ATQ 10"}
+{"id":1497946,"jp":"料理による攻撃力上昇11","fr":"Plat : hausse de l'ATQ 11"}
+{"id":1497948,"jp":"料理による攻撃力上昇12","fr":"Plat : hausse de l'ATQ 12"}
+{"id":1497950,"jp":"料理による攻撃力上昇13","fr":"Plat : hausse de l'ATQ 13"}
+{"id":1497952,"jp":"料理による攻撃力上昇14","fr":"Plat : hausse de l'ATQ 14"}
+{"id":1497954,"jp":"料理による攻撃力上昇15","fr":"Plat : hausse de l'ATQ 15"}
+{"id":1497956,"jp":"料理による攻撃力上昇16","fr":"Plat : hausse de l'ATQ 16"}
+{"id":1497958,"jp":"料理による攻撃力上昇17","fr":"Plat : hausse de l'ATQ 17"}
+{"id":1497960,"jp":"料理による攻撃力上昇18","fr":"Plat : hausse de l'ATQ 18"}
+{"id":1497962,"jp":"料理による攻撃力上昇19","fr":"Plat : hausse de l'ATQ 19"}
+{"id":1497964,"jp":"料理による攻撃力上昇20","fr":"Plat : hausse de l'ATQ 20"}
+{"id":1497966,"jp":"料理による攻撃力上昇21","fr":"Plat : hausse de l'ATQ 21"}
+{"id":1497968,"jp":"料理による攻撃力上昇22","fr":"Plat : hausse de l'ATQ 22"}
+{"id":1497969,"jp":"チーム全体の攻撃が72上昇する（効果時間：5分）。","fr":"Augmente l'ATQ de toute l'équipe de 72 (durée : 5 min)."}
+{"id":1497970,"jp":"料理による攻撃力上昇23","fr":"Plat : hausse de l'ATQ 23"}
+{"id":1497971,"jp":"チーム全体の攻撃が76上昇する（効果時間：5分）。","fr":"Augmente l'ATQ de toute l'équipe de 76 (durée : 5 min)."}
+{"id":1497972,"jp":"料理による攻撃力上昇24","fr":"Plat : hausse de l'ATQ 24"}
+{"id":1497973,"jp":"料理による攻撃力上昇25","fr":"Plat : hausse de l'ATQ 25"}
+{"id":1497975,"jp":"料理による攻撃力上昇26","fr":"Plat : hausse de l'ATQ 26"}
+{"id":1497977,"jp":"料理による攻撃力上昇27","fr":"Plat : hausse de l'ATQ 27"}
+{"id":1497979,"jp":"料理による攻撃力上昇28","fr":"Plat : hausse de l'ATQ 28"}
+{"id":1497980,"jp":"チーム全体の攻撃が4%上昇する（効果時間：5分）。","fr":"Augmente l'ATQ de toute l'équipe de 4% (durée : 5 min)."}
+{"id":1497981,"jp":"料理による攻撃力上昇29","fr":"Plat : hausse de l'ATQ 29"}
+{"id":1497982,"jp":"チーム全体の攻撃が6%上昇する（効果時間：5分）。","fr":"Augmente l'ATQ de toute l'équipe de 6% (durée : 5 min)."}
+{"id":1497983,"jp":"料理による攻撃力上昇30","fr":"Plat : hausse de l'ATQ 30"}
+{"id":1497984,"jp":"チーム全体の攻撃が7%上昇する（効果時間：5分）。","fr":"Augmente l'ATQ de toute l'équipe de 7% (durée : 5 min)."}
+{"id":1497985,"jp":"料理による攻撃力上昇31","fr":"Plat : hausse de l'ATQ 31"}
+{"id":1497987,"jp":"料理による攻撃力上昇32","fr":"Plat : hausse de l'ATQ 32"}
+{"id":1497989,"jp":"料理による攻撃力上昇33","fr":"Plat : hausse de l'ATQ 33"}
+{"id":1497991,"jp":"料理による攻撃力上昇34","fr":"Plat : hausse de l'ATQ 34"}
+{"id":1497993,"jp":"料理による攻撃力上昇35","fr":"Plat : hausse de l'ATQ 35"}
+{"id":1497995,"jp":"料理による攻撃力上昇36","fr":"Plat : hausse de l'ATQ 36"}
+{"id":1497997,"jp":"料理による攻撃力上昇37","fr":"Plat : hausse de l'ATQ 37"}
+{"id":1497998,"jp":"チーム全体の攻撃が8%上昇する（効果時間：5分）。","fr":"Augmente l'ATQ de toute l'équipe de 8% (durée : 5 min)."}
+{"id":1497999,"jp":"料理による攻撃力上昇38","fr":"Plat : hausse de l'ATQ 38"}
+{"id":1498000,"jp":"チーム全体の攻撃が9%上昇する（効果時間：5分）。","fr":"Augmente l'ATQ de toute l'équipe de 9% (durée : 5 min)."}
+{"id":1498001,"jp":"料理による回復効果上昇1","fr":"Plat : hausse des effets de soin 1"}
+{"id":1498003,"jp":"料理による回復効果上昇2","fr":"Plat : hausse des effets de soin 2"}
+{"id":1498005,"jp":"料理による回復効果上昇3","fr":"Plat : hausse des effets de soin 3"}
+{"id":1498007,"jp":"料理による回復効果上昇4","fr":"Plat : hausse des effets de soin 4"}
+{"id":1498009,"jp":"料理による回復効果上昇5","fr":"Plat : hausse des effets de soin 5"}
+{"id":1498011,"jp":"料理による回復効果上昇6","fr":"Plat : hausse des effets de soin 6"}
+{"id":1498013,"jp":"料理による回復効果上昇7","fr":"Plat : hausse des effets de soin 7"}
+{"id":1498015,"jp":"料理による回復効果上昇8","fr":"Plat : hausse des effets de soin 8"}
+{"id":1498017,"jp":"料理による回復効果上昇9","fr":"Plat : hausse des effets de soin 9"}
+{"id":1498019,"jp":"料理による回復効果上昇10","fr":"Plat : hausse des effets de soin 10"}
+{"id":1498021,"jp":"料理による回復効果上昇11","fr":"Plat : hausse des effets de soin 11"}
+{"id":1498023,"jp":"料理による属性ダメージ増加効果上昇1","fr":"Plat : hausse des DGT élémentaires 1"}
+{"id":1498024,"jp":"火属性ダメージが5%増加する（効果時間：5分）。","fr":"Augmente les DGT de Feu de 5% (durée : 5 min)."}
+{"id":1498025,"jp":"料理による属性ダメージ増加効果上昇2","fr":"Plat : hausse des DGT élémentaires 2"}
+{"id":1498026,"jp":"風属性ダメージが5%増加する（効果時間：5分）。","fr":"Augmente les DGT de Vent de 5% (durée : 5 min)."}
+{"id":1498027,"jp":"料理による属性ダメージ増加効果上昇3","fr":"Plat : hausse des DGT élémentaires 3"}
+{"id":1498028,"jp":"地属性ダメージが5%増加する（効果時間：5分）。","fr":"Augmente les DGT de Terre de 5% (durée : 5 min)."}
+{"id":1498029,"jp":"料理による属性ダメージ増加効果上昇4","fr":"Plat : hausse des DGT élémentaires 4"}
+{"id":1498030,"jp":"木属性ダメージが5%増加する（効果時間：5分）。","fr":"Augmente les DGT de Bois de 5% (durée : 5 min)."}
+{"id":1498031,"jp":"料理による属性ダメージ増加効果上昇5","fr":"Plat : hausse des DGT élémentaires 5"}
+{"id":1498032,"jp":"氷属性ダメージが5%増加する（効果時間：5分）。","fr":"Augmente les DGT de Glace de 5% (durée : 5 min)."}
+{"id":1498033,"jp":"料理による属性ダメージ増加効果上昇6","fr":"Plat : hausse des DGT élémentaires 6"}
+{"id":1498034,"jp":"水属性ダメージが5%増加する（効果時間：5分）。","fr":"Augmente les DGT d'Eau de 5% (durée : 5 min)."}
+{"id":1498035,"jp":"料理による属性ダメージ増加効果上昇7","fr":"Plat : hausse des DGT élémentaires 7"}
+{"id":1498036,"jp":"雷属性ダメージが5%増加する（効果時間：5分）。","fr":"Augmente les DGT de Foudre de 5% (durée : 5 min)."}
+{"id":1498037,"jp":"料理による属性ダメージ増加効果上昇8","fr":"Plat : hausse des DGT élémentaires 8"}
+{"id":1498038,"jp":"光属性ダメージが5%増加する（効果時間：5分）。","fr":"Augmente les DGT de Lumière de 5% (durée : 5 min)."}
+{"id":1498039,"jp":"料理による属性ダメージ増加効果上昇9","fr":"Plat : hausse des DGT élémentaires 9"}
+{"id":1498040,"jp":"闇属性ダメージが5%増加する（効果時間：5分）。","fr":"Augmente les DGT de Ténèbres de 5% (durée : 5 min)."}
+{"id":1498041,"jp":"薬による元素ダメージアップ1","fr":"Potion : hausse des DGT élémentaires 1"}
+{"id":1498043,"jp":"薬による元素ダメージアップ2","fr":"Potion : hausse des DGT élémentaires 2"}
+{"id":1498045,"jp":"薬による元素ダメージアップ3","fr":"Potion : hausse des DGT élémentaires 3"}
+{"id":1498047,"jp":"薬による元素ダメージアップ4","fr":"Potion : hausse des DGT élémentaires 4"}
+{"id":1498049,"jp":"薬による元素ダメージアップ5","fr":"Potion : hausse des DGT élémentaires 5"}
+{"id":1498051,"jp":"薬による元素ダメージアップ6","fr":"Potion : hausse des DGT élémentaires 6"}
+{"id":1498053,"jp":"薬による元素ダメージアップ7","fr":"Potion : hausse des DGT élémentaires 7"}
+{"id":1498055,"jp":"薬による元素ダメージアップ8","fr":"Potion : hausse des DGT élémentaires 8"}
+{"id":1498057,"jp":"薬による元素ダメージアップ9","fr":"Potion : hausse des DGT élémentaires 9"}
+{"id":1498059,"jp":"薬による元素耐性アップ1","fr":"Potion : hausse de la résistance élémentaire 1"}
+{"id":1498061,"jp":"薬による元素耐性アップ2","fr":"Potion : hausse de la résistance élémentaire 2"}
+{"id":1498063,"jp":"薬による元素耐性アップ3","fr":"Potion : hausse de la résistance élémentaire 3"}
+{"id":1498065,"jp":"薬による元素耐性アップ4","fr":"Potion : hausse de la résistance élémentaire 4"}
+{"id":1498067,"jp":"薬による元素耐性アップ5","fr":"Potion : hausse de la résistance élémentaire 5"}
+{"id":1498069,"jp":"薬による元素耐性アップ6","fr":"Potion : hausse de la résistance élémentaire 6"}
+{"id":1498071,"jp":"薬による元素耐性アップ7","fr":"Potion : hausse de la résistance élémentaire 7"}
+{"id":1498073,"jp":"薬による元素耐性アップ8","fr":"Potion : hausse de la résistance élémentaire 8"}
+{"id":1498075,"jp":"薬による元素耐性アップ9","fr":"Potion : hausse de la résistance élémentaire 9"}
 {"id":1498077,"jp":"友愛団子","fr":"Dango de l'amitié"}
 {"id":1498079,"jp":"幸運の蒸しパン","fr":"Brioche vapeur porte-bonheur"}
+{"id":1498081,"jp":"料理効果：防御力+25","fr":"Effet du plat : DÉF +25"}
+{"id":1498083,"jp":"料理効果：攻撃力+90","fr":"Effet du plat : ATQ +90"}
+{"id":1498084,"jp":"料理効果：防御力+35","fr":"Effet du plat : DÉF +35"}
+{"id":1498085,"jp":"料理効果：防御力+50","fr":"Effet du plat : DÉF +50"}
+{"id":1498086,"jp":"料理効果：水属性+10%","fr":"Effet du plat : Eau +10%"}
+{"id":1498087,"jp":"料理効果：雷属性+10%","fr":"Effet du plat : Foudre +10%"}
+{"id":1498090,"jp":"料理効果：木属性+10%","fr":"Effet du plat : Bois +10%"}
+{"id":1498091,"jp":"料理効果：地属性+10%","fr":"Effet du plat : Terre +10%"}
+{"id":1498092,"jp":"料理効果：氷属性+10%","fr":"Effet du plat : Glace +10%"}
+{"id":1498093,"jp":"料理効果：EX強度+72","fr":"Effet du plat : Puissance EX +72"}
+{"id":1498095,"jp":"料理効果：闇属性+10%","fr":"Effet du plat : Ténèbres +10%"}
 {"id":1498097,"jp":"料理効果：風属性+10%","fr":"Effet du plat : Vent +10%"}
+{"id":1498099,"jp":"料理効果：ブレイク値+340","fr":"Effet du plat : Valeur de brise +340"}
+{"id":1498100,"jp":"料理効果：会心ダメージ+12%","fr":"Effet du plat : DGT CRIT +12%"}
+{"id":1498101,"jp":"料理効果：攻撃力+350","fr":"Effet du plat : ATQ +350"}
+{"id":1498102,"jp":"料理効果：防御+100","fr":"Effet du plat : DÉF +100"}
+{"id":1498103,"jp":"料理効果：防御力+5%","fr":"Effet du plat : DÉF +5%"}
+{"id":1498105,"jp":"料理効果：攻撃力+250","fr":"Effet du plat : ATQ +250"}
 {"id":1498106,"jp":"料理効果：攻撃+5%","fr":"Effet du plat : ATQ +5%"}
+{"id":1498107,"jp":"料理効果：防御力+40","fr":"Effet du plat : DÉF +40"}
+{"id":1498108,"jp":"料理効果：防御力+20%","fr":"Effet du plat : DÉF +20%"}
+{"id":1498109,"jp":"料理効果：EX強度+50","fr":"Effet du plat : Puissance EX +50"}
+{"id":1498111,"jp":"料理効果：防御力+30","fr":"Effet du plat : DÉF +30"}
+{"id":1498114,"jp":"料理効果：会心ダメージ+10%","fr":"Effet du plat : DGT CRIT +10%"}
+{"id":1498115,"jp":"料理効果：EX強度+100","fr":"Effet du plat : Puissance EX +100"}
+{"id":1498118,"jp":"料理効果：会心ダメージ+20%","fr":"Effet du plat : DGT CRIT +20%"}
+{"id":1498119,"jp":"料理効果：攻撃力+30","fr":"Effet du plat : ATQ +30"}
+{"id":1498121,"jp":"料理効果：会心ダメージ+8%","fr":"Effet du plat : DGT CRIT +8%"}
+{"id":1498122,"jp":"料理効果：攻撃力+10%","fr":"Effet du plat : ATQ +10%"}
+{"id":1498123,"jp":"料理効果：攻撃力+15%","fr":"Effet du plat : ATQ +15%"}
+{"id":1498126,"jp":"料理効果：EX強度+80","fr":"Effet du plat : Puissance EX +80"}
+{"id":1498127,"jp":"料理効果：EX強度+120","fr":"Effet du plat : Puissance EX +120"}
+{"id":1498128,"jp":"料理効果：ブレイク効率+10%","fr":"Effet du plat : Efficacité de brise +10%"}
+{"id":1498129,"jp":"料理効果：ブレイク効率+15%","fr":"Effet du plat : Efficacité de brise +15%"}
+{"id":1498130,"jp":"料理効果：攻撃力+50","fr":"Effet du plat : ATQ +50"}
+{"id":1498131,"jp":"料理効果：攻撃力+75","fr":"Effet du plat : ATQ +75"}
+{"id":1498132,"jp":"料理効果：防御力+75","fr":"Effet du plat : DÉF +75"}
+{"id":1498133,"jp":"料理効果：防御貫通+6%","fr":"Effet du plat : Pénétration de DÉF +6%"}
+{"id":1498134,"jp":"料理効果：防御貫通+9%","fr":"Effet du plat : Pénétration de DÉF +9%"}
+{"id":1498135,"jp":"料理効果：全属性ダメージ+8%","fr":"Effet du plat : DGT élémentaires +8%"}
+{"id":1498136,"jp":"料理効果：全属性ダメージ+12%","fr":"Effet du plat : DGT élémentaires +12%"}
+{"id":1498137,"jp":"料理効果：キャラクター全員のダメージ増幅+8%","fr":"Effet du plat : Amplif. des DGT de tous les personnages +8%"}
+{"id":1498138,"jp":"料理効果：キャラクター全員のダメージ増幅+12%","fr":"Effet du plat : Amplif. des DGT de tous les personnages +12%"}
+{"id":1498139,"jp":"料理効果：キャラクター全員の水属性+7%","fr":"Effet du plat : Eau pour tous les personnages +7%"}
+{"id":1498140,"jp":"料理効果：キャラクター全員の光属性+7%","fr":"Effet du plat : Lumière pour tous les personnages +7%"}
 {"id":1498142,"jp":"豪奢な毛皮","fr":"Fourrure luxueuse"}
+{"id":1498143,"jp":"会心ダメージが15%増加する。","fr":"Augmente les DGT CRIT de 15%."}
+{"id":1498144,"jp":"EX会心率が15%上昇する。","fr":"Augmente le Taux CRIT EX de 15%."}
 {"id":1498145,"jp":"厚葉の植物","fr":"Plante à feuilles épaisses"}
+{"id":1498146,"jp":"攻撃が20%上昇する。","fr":"Augmente l'ATQ de 20%."}
 {"id":1498147,"jp":"蓄水の喉","fr":"Gorge-réservoir"}
+{"id":1498148,"jp":"水属性ダメージが57%増加する。","fr":"Augmente les DGT d'Eau de 57%."}
 {"id":1498149,"jp":"鉄の蹄","fr":"Sabots de fer"}
+{"id":1498150,"jp":"自身のブレイク効率が30%上昇する。","fr":"Augmente sa propre Efficacité de brise de 30%."}
 {"id":1498151,"jp":"チャージ結晶","fr":"Cristal de charge"}
+{"id":1498152,"jp":"EX会心率が2.5%上昇する。","fr":"Augmente le Taux CRIT EX de 2,5%."}
 {"id":1498153,"jp":"熱々のお茶","fr":"Thé brûlant"}
+{"id":1498154,"jp":"移動速度が20%低下する。","fr":"Réduit la vitesse de déplacement de 20%."}
 {"id":1498155,"jp":"先制の牙","fr":"Crocs de l'initiative"}
+{"id":1498156,"jp":"防御貫通が40%上昇する。","fr":"Augmente la Pénétration de DÉF de 40%."}
 {"id":1498157,"jp":"森の祝福","fr":"Bénédiction de la forêt"}
 {"id":1498158,"jp":"幽闇のオーラ","fr":"Aura ténébreuse"}
 {"id":1498159,"jp":"逆変換","fr":"Conversion inverse"}
 {"id":1498160,"jp":"風圧","fr":"Pression du vent"}
+{"id":1498162,"jp":"火属性の会心ダメージが増加する。","fr":"Augmente les DGT CRIT de Feu."}
 {"id":1498163,"jp":"鼓舞の穀粒","fr":"Graines revigorantes"}
 {"id":1498164,"jp":"利発でかわいい","fr":"Vif et mignon"}
 {"id":1498165,"jp":"水を操る才能","fr":"Don pour l'eau"}
@@ -1630,17 +2555,29 @@
 {"id":1498251,"jp":"8月8日","fr":"8 août"}
 {"id":1498253,"jp":"絆レベル6で受取可能","fr":"Disponible au niveau de Lien 6"}
 {"id":1498254,"jp":"メインクエストで獲得","fr":"Obtenu dans la quête principale"}
+{"id":1498255,"jp":"“剣魂の奏者” モーレン・ハクオン","fr":"« Le virtuose de l'âme des lames » Moren Hakuon"}
+{"id":1498256,"jp":"“ツインフェザー” シャル・エンシス","fr":"« Plumes jumelles » Shalle Ensis"}
 {"id":1498257,"jp":"一期の縁結び・1","fr":"Liens d'une rencontre unique 1"}
+{"id":1498259,"jp":"塗山小玉の絆レベル3で解放","fr":"Déblocage au niveau de Lien 3 de Tushan Xiaoyu"}
 {"id":1498260,"jp":"星識レベル25で解放","fr":"Débloqué au niveau 25 de Savoir stellaire"}
 {"id":1498261,"jp":"一期の縁結び・2","fr":"Liens d'une rencontre unique 2"}
+{"id":1498263,"jp":"塗山小玉の絆レベル6で解放","fr":"Déblocage au niveau de Lien 6 de Tushan Xiaoyu"}
+{"id":1498264,"jp":"前提ストーリークエストクリアで解放","fr":"Déblocage après avoir terminé la quête d'histoire requise"}
 {"id":1498265,"jp":"一期の縁結び・3","fr":"Liens d'une rencontre unique 3"}
+{"id":1498267,"jp":"塗山小玉の絆レベル10で解放","fr":"Déblocage au niveau de Lien 10 de Tushan Xiaoyu"}
 {"id":1498268,"jp":"騎士の宴・1","fr":"Festin de chevalerie 1"}
+{"id":1498270,"jp":"シャルの絆レベル3で解放","fr":"Déblocage au niveau de Lien 3 de Shalle"}
 {"id":1498271,"jp":"星識レベル30で解放","fr":"Débloqué au niveau 30 de Savoir stellaire"}
 {"id":1498272,"jp":"騎士の宴・2","fr":"Festin de chevalerie 2"}
+{"id":1498274,"jp":"シャルの絆レベル6で解放","fr":"Déblocage au niveau de Lien 6 de Shalle"}
 {"id":1498275,"jp":"騎士の宴・3","fr":"Festin de chevalerie 3"}
+{"id":1498277,"jp":"シャルの絆レベル10で解放","fr":"Déblocage au niveau de Lien 10 de Shalle"}
 {"id":1498278,"jp":"修行の道・1","fr":"La voie de l'entraînement 1"}
+{"id":1498280,"jp":"源千代の絆レベル3で解放","fr":"Déblocage au niveau de Lien 3 de Minamoto Chiyo"}
 {"id":1498281,"jp":"修行の道・2","fr":"La voie de l'entraînement 2"}
+{"id":1498283,"jp":"源千代の絆レベル6で解放","fr":"Déblocage au niveau de Lien 6 de Minamoto Chiyo"}
 {"id":1498284,"jp":"修行の道・3","fr":"La voie de l'entraînement 3"}
+{"id":1498286,"jp":"源千代の絆レベル10で解放","fr":"Déblocage au niveau de Lien 10 de Minamoto Chiyo"}
 {"id":1498287,"jp":"落ち着きのない小悪魔","fr":"Petite diablesse turbulente"}
 {"id":1498289,"jp":"絆レベル2で解放","fr":"Débloqué au niveau de Lien 2"}
 {"id":1498290,"jp":"修行は自分次第","fr":"L'entraînement ne dépend que de soi"}
@@ -1660,6 +2597,7 @@
 {"id":1498312,"jp":"武への一途な思い","fr":"Dévotion aux arts martiaux"}
 {"id":1498314,"jp":"武侠活劇","fr":"Épopée wuxia"}
 {"id":1498316,"jp":"新しい修行","fr":"Nouvel entraînement"}
+{"id":1498318,"jp":"『パチ』と聞いて飛び起きる","fr":"Un réveil en sursaut au son de « Pachi »"}
 {"id":1498320,"jp":"警戒態勢……","fr":"En alerte…"}
 {"id":1498322,"jp":"修行の真意","fr":"Le vrai sens de l'entraînement"}
 {"id":1498324,"jp":"これぞ因縁","fr":"C'était écrit"}
@@ -1678,6 +2616,7 @@
 {"id":1498352,"jp":"完全無欠","fr":"Irréprochable"}
 {"id":1498354,"jp":"予定表","fr":"Emploi du temps"}
 {"id":1498356,"jp":"姉妹","fr":"Sœurs"}
+{"id":1498358,"jp":"のんびりお茶をする時間","fr":"Un paisible moment autour d'un thé"}
 {"id":1498360,"jp":"『源家』の娘","fr":"La fille de la « maison Minamoto »"}
 {"id":1498362,"jp":"長期菜食主義者","fr":"Végétarienne de longue date"}
 {"id":1498364,"jp":"ただの冗談","fr":"Juste une blague"}
@@ -1698,6 +2637,8 @@
 {"id":1498394,"jp":"腰に下げた角笛","fr":"Le cor à la ceinture"}
 {"id":1498396,"jp":"ウルの虫歯","fr":"La carie d'Uru"}
 {"id":1498398,"jp":"馬鹿は風邪を引かない","fr":"Les idiots ne s'enrhument jamais"}
+{"id":1498400,"jp":"もふもふの大きなしっぽ","fr":"Une grande queue toute douce"}
+{"id":1498402,"jp":"アウラと通じるシャーマン","fr":"Le chamane qui communie avec l'aura"}
 {"id":1498404,"jp":"ルルカ特製薬湯","fr":"La décoction spéciale de Luruka"}
 {"id":1498406,"jp":"頼られたい","fr":"Qu'on puisse compter sur moi"}
 {"id":1498408,"jp":"万物のアウラの足音","fr":"Les pas de l'aura de toute chose"}
@@ -1758,138 +2699,390 @@
 {"id":1498520,"jp":"優秀すぎる職業病","fr":"Déformation professionnelle"}
 {"id":1498522,"jp":"自己紹介","fr":"Présentation"}
 {"id":1498524,"jp":"詳細・1","fr":"Détails 1"}
+{"id":1498525,"jp":"そんなに緊張しないでよ。","fr":"Pas besoin de tant de nervosité."}
 {"id":1498526,"jp":"詳細・2","fr":"Détails 2"}
+{"id":1498527,"jp":"あんまり見くびらないでよ？","fr":"Il ne faudrait pas trop me sous-estimer, hein ?"}
 {"id":1498528,"jp":"詳細・3","fr":"Détails 3"}
+{"id":1498529,"jp":"ほら見て、私の新作なんだ！","fr":"Et voilà ma toute dernière création !"}
 {"id":1498530,"jp":"自分について・1","fr":"À mon sujet 1"}
 {"id":1498532,"jp":"自分について・2","fr":"À mon sujet 2"}
 {"id":1498534,"jp":"星臨者について・1","fr":"À propos de l'Enfant des étoiles 1"}
 {"id":1498536,"jp":"星臨者について・2","fr":"À propos de l'Enfant des étoiles 2"}
 {"id":1498542,"jp":"エピソード","fr":"Épisodes"}
+{"id":1498547,"jp":"よくきたな！\n今日もちゃんとしゅぎょーしてるか？","fr":"Ah, quelle bonne surprise !\nL'entraînement avance bien aujourd'hui aussi ?"}
+{"id":1498548,"jp":"ポンポンの技、どうだっ！？","fr":"Alors, que vaut la technique de Pengpeng ?!"}
+{"id":1498549,"jp":"ふふん、すごいだろー！","fr":"Héhé, impressionnant, hein ?"}
+{"id":1498556,"jp":"ポンポンの伝説は、もう世界中に広まってるんだぞ！","fr":"La légende de Pengpeng a déjà fait le tour du monde !"}
+{"id":1498559,"jp":"あれ、わたしに会いに来てくれたの？嬉しい！","fr":"Oh, une petite visite pour moi ? Quel bonheur !"}
+{"id":1498561,"jp":"騎士見習いのリリィ、あなたのために全力を尽くす！","fr":"Lily, apprentie chevalière, fera tout son possible pour aider !"}
+{"id":1498571,"jp":"冷静な思考を絶やさないこと、それが私の必勝法です。","fr":"Toujours garder l'esprit calme. Voilà mon secret pour remporter la victoire."}
+{"id":1498572,"jp":"刀には鋭さがあります。人もまた然り。","fr":"Une lame se doit d'être affûtée. L'esprit aussi."}
+{"id":1498573,"jp":"必ずや、源家の名誉に恥じぬ働きをいたします。","fr":"Je ferai assurément honneur à la maison Minamoto."}
+{"id":1498580,"jp":"手を組むならば互いに深く理解し合わなければ。","fr":"Pour unir nos forces, nous devons apprendre à nous comprendre en profondeur."}
+{"id":1498581,"jp":"不浄な者よ……ここで消し去る！退、散！","fr":"Être impur… C'est ici que tout s'achève ! Disparais !"}
+{"id":1498583,"jp":"そろそろ出発しますか？","fr":"Il serait temps de partir, non ?"}
 {"id":1498584,"jp":"準備は万端です。","fr":"Tout est prêt."}
+{"id":1498585,"jp":"旅は、まだまだ続くのですね。","fr":"Notre voyage est donc encore loin de s'achever."}
+{"id":1498593,"jp":"これが木々の――\n最後の警告！\n風に散れ！","fr":"Voici le…\nDernier avertissement des arbres !\nQue le vent emporte tout !"}
+{"id":1498595,"jp":"あら、来てくれたのね。","fr":"Oh, quelle agréable visite."}
+{"id":1498597,"jp":"歩き疲れてしまったら、私のガーデンにいらっしゃい。","fr":"Mon jardin est toujours ouvert pour se reposer après une longue marche."}
+{"id":1498604,"jp":"森の囁きが聴こえるかしら？","fr":"Les murmures de la forêt se font-ils entendre ?"}
+{"id":1498607,"jp":"おなかが減ってたら、飛べない。","fr":"Quand j'ai faim, je peux pas voler."}
 {"id":1498608,"jp":"いっしょに遊びたい？","fr":"On joue ensemble ?"}
+{"id":1498609,"jp":"アビィ、夢を見た……なんの夢だったっけ？","fr":"Abby a fait un rêve… C'était quoi, déjà ?"}
+{"id":1498616,"jp":"わかってる。アビィいい子にする。","fr":"Je sais. Abby va être sage."}
+{"id":1498617,"jp":"はむ……\nはぁ――っ！\n消えて！","fr":"Miam…\nHaaaa !\nDisparais !"}
+{"id":1498619,"jp":"やっほー！また会ったな。","fr":"Coucou ! On se retrouve !"}
 {"id":1498620,"jp":"また会えて嬉しいぞ！","fr":"Quel plaisir de se revoir !"}
+{"id":1498621,"jp":"アンタの面倒はアタシが見てやるからな！","fr":"Pas de souci, je suis là pour prendre soin de tout !"}
+{"id":1498629,"jp":"邪魔なヤツは……ぶっ飛ばす！これで懲りたかっ！","fr":"Tous ceux qui me gênent… Je les envoie valser ! Alors, ça suffit ?!"}
+{"id":1498632,"jp":"みなさんを守るため、全力を尽くします。","fr":"Je ferai tout mon possible pour protéger tout le monde."}
+{"id":1498633,"jp":"いつだって、想いはわたしたちを繋いでくれる……","fr":"Nos sentiments nous uniront toujours…"}
+{"id":1498640,"jp":"心は、ありのままの自分へと導いてくれるでしょう。","fr":"Le cœur nous guide vers notre véritable nature."}
+{"id":1498643,"jp":"翼人の戦士が、簡単に退くわけないでしょ！","fr":"Impossible pour une guerrière des Ailés de reculer aussi facilement !"}
+{"id":1498644,"jp":"アタシがお手本を見せてあげるわ！","fr":"Je vais montrer comment on fait !"}
+{"id":1498645,"jp":"アタシの弓は選び抜かれたものなんだから！","fr":"Mon arc a été choisi avec le plus grand soin !"}
 {"id":1498647,"jp":"翼の傷？\nあんなの、ちょっと掠っただけ。\nもう治ってきてるし、たいしたことない。\n\n……で、でもまあ、一応感謝しとくわ。気にかけてくれたわけだし！？\n……とにかく！心配いらないわ、アタシは大丈夫！","fr":"La blessure à mon aile ?\nCe n'était qu'une égratignure.\nÇa cicatrise déjà, ce n'est rien du tout.\n\n… M-mais bon, je te remercie quand même. Après tout, tu t'es fait du souci pour moi !?\n… Bref ! Pas la peine de t'inquiéter, je vais très bien !"}
+{"id":1498655,"jp":"この剣が風を薙ぐ音に、耳を傾けなさい。","fr":"Écoutons le chant de cette lame qui fend le vent."}
+{"id":1498667,"jp":"お待ちしておりました、星臨者さま。","fr":"J'attendais cette rencontre, Enfant des étoiles."}
+{"id":1498668,"jp":"私の出番ですか？いつでもご命令を。","fr":"C'est mon tour ? Je suis aux ordres."}
+{"id":1498679,"jp":"私を探していた？なにかあったのか？","fr":"On me cherchait ? Il s'est passé quelque chose ?"}
 {"id":1498680,"jp":"ここにいる。","fr":"Je suis là."}
+{"id":1498681,"jp":"君の声が、風に乗って届いた。","fr":"Cette voix m'est parvenue, portée par le vent."}
+{"id":1498689,"jp":"近づく嵐に怯え……\n落ちろ！\n空に縁なき者よ。","fr":"Que la tempête qui approche inspire la terreur…\nÀ terre !\nÊtre sans lien avec le ciel."}
+{"id":1498691,"jp":"うーん……いっしょに、遊ぶ？","fr":"Hmm… On joue ensemble ?"}
+{"id":1498692,"jp":"どんぐりこうげきー！\nうん、かんぺき。","fr":"Attaque de glands !\nOui, parfait."}
 {"id":1498693,"jp":"お宝？どこ？","fr":"Un trésor ? Où ça ?"}
+{"id":1498696,"jp":"みんなが、探してる……あの人もお宝なの？","fr":"Tout le monde cherche… Cette personne est aussi un trésor ?"}
 {"id":1498700,"jp":"うん？","fr":"Hm ?"}
 {"id":1498702,"jp":"気楽にいこ。","fr":"On y va tranquille."}
 {"id":1498703,"jp":"『星』を降らせよう。","fr":"Faisons tomber les « étoiles »."}
+{"id":1498704,"jp":"旅は、まだ終わらない。","fr":"Le voyage n'est pas encore terminé."}
+{"id":1498707,"jp":"蒼天に集いし――\n世界の意思よ――\n私に力を！","fr":"Rassemblée sous le ciel azur…\nÔ volonté du monde…\nAccorde-moi ta force !"}
 {"id":1498708,"jp":"気楽にいこう。","fr":"Allons-y tranquillement."}
+{"id":1498711,"jp":"百業この世に在るかぎり！\n因果の巡り終わりなーし！","fr":"Tant que les actes existent en ce monde !\nLe cycle des causes et des effets n'aura jamais de fin !"}
+{"id":1498712,"jp":"もつれた糸にも、まあるい結び。","fr":"Même les fils emmêlés peuvent former de jolis nœuds."}
+{"id":1498713,"jp":"桃花の一札、久遠の縁！","fr":"Un talisman aux fleurs de pêcher, un lien pour l'éternité !"}
+{"id":1498720,"jp":"興味をもったら、もうそこに縁はあるよ！","fr":"Dès que l'intérêt s'éveille, un lien se tisse !"}
+{"id":1498723,"jp":"インスピレーションの火花がキラキラ！","fr":"Les étincelles de l'inspiration brillent de mille feux !"}
+{"id":1498724,"jp":"あたしの魔導アートは、天上天下に並ぶものなし！","fr":"Mon art magitech n'a d'égal ni au ciel ni sur terre !"}
+{"id":1498725,"jp":"神の創りし聖域で、キミを待ってるよ。","fr":"Je serai là, à attendre dans le sanctuaire créé par les dieux."}
+{"id":1498733,"jp":"『魔眼』よ――\n罪業の影を狩れ！\n燃え尽きなさい♪","fr":"Ô « Œil magique »…\nTraque l'ombre des péchés !\nQue tout brûle jusqu'aux cendres ♪"}
+{"id":1498737,"jp":"なにかお手伝いいたしましょうか？","fr":"Puis-je apporter mon aide ?"}
+{"id":1498744,"jp":"この手枷の重みが知りたいのですか？","fr":"Le poids de ces entraves intrigue ?"}
+{"id":1498745,"jp":"雷鳴よ――\n暗雲を打ち砕け！\n枷など無意味……","fr":"Ô tonnerre…\nFracasse les sombres nuages !\nLes entraves ne signifient rien…"}
+{"id":1498747,"jp":"いーい？具合が悪いときは我慢しちゃメッ、よ？","fr":"Bien compris ? Quand on ne se sent pas bien, pas question de serrer les dents, d'accord ?"}
+{"id":1498749,"jp":"用がなくたって、いつでも来ていいのよ。","fr":"Ma porte est toujours ouverte, même sans raison particulière."}
+{"id":1498759,"jp":"こ、こんにちは……ひ、ひさしぶり……だね。","fr":"B-bonjour… Ça… ça fait longtemps, non ?"}
+{"id":1498760,"jp":"あ！せ、星臨者さんと、目が合っちゃった……","fr":"Ah ! J-j'ai croisé le regard de l'Enfant des étoiles…"}
+{"id":1498761,"jp":"わ、わたしの力が、必要なら……！","fr":"S-si ma force peut être utile… !"}
+{"id":1498771,"jp":"鬼火が震え、すすり泣き……","fr":"Les feux follets tremblent et sanglotent…"}
+{"id":1498772,"jp":"邪妖を祓い、神気を清めん。","fr":"Bannissons les esprits maléfiques et purifions le souffle divin."}
+{"id":1498773,"jp":"や、やはりここが、一番落ち着きます……","fr":"C-c'est bien ici que je me sens le plus en paix…"}
+{"id":1498783,"jp":"準備できた？はじまるよ～ん！","fr":"Tout est prêt ? C'est parti !"}
+{"id":1498784,"jp":"にゃんにゃんパワーチャージ！","fr":"Recharge du pouvoir miaou-miaou !"}
+{"id":1498785,"jp":"ん～にゃにゃ。どう？かわいいと思ったでしょ？","fr":"Mmm… Miaou-miaou. Alors ? C'était adorable, hein ?"}
+{"id":1498792,"jp":"メイプルのこと、もっと知りたくなっちゃった？","fr":"Envie d'en savoir plus sur Maple ?"}
+{"id":1498793,"jp":"元気！集まれ～！\nきらきら！\nえへっ、ばっちり～","fr":"Que toute la vitalité se rassemble !\nBrille, brille !\nHéhé, parfait !"}
+{"id":1498796,"jp":"ほっほっ、はっ……！\nいつでも呼んでください！","fr":"Hop, hop, ha… !\nOn peut compter sur moi à tout moment !"}
+{"id":1498797,"jp":"はっ！えい！\nおっきな包子、おひとつどうですか？","fr":"Ha ! Ya !\nUn gros baozi, ça tente ?"}
+{"id":1498804,"jp":"ペイペイがお話ししましょうか？","fr":"Peipei peut raconter l'histoire ?"}
+{"id":1498805,"jp":"陰陽の気よ、集え――\n万法、破れたり――！\nふぅ。","fr":"Souffles du yin et du yang, rassemblez-vous…\nQue tous les arts occultes soient brisés !\nOuf."}
+{"id":1498806,"jp":"私の機関工房へようこそ！","fr":"Bienvenue dans mon atelier de mécanismes !"}
+{"id":1498807,"jp":"関節が痛い……\n最近動かしてないからかなぁ……","fr":"J'ai mal aux articulations…\nC'est peut-être parce que je n'ai pas beaucoup bougé ces derniers temps…"}
 {"id":1498808,"jp":"うっ、悔しい……","fr":"Argh, c'est rageant…"}
 {"id":1498809,"jp":"うん、いい気持ち！","fr":"Mmh, ça fait du bien !"}
 {"id":1498810,"jp":"テンポあげるよ！","fr":"On accélère le tempo !"}
 {"id":1498811,"jp":"いまだ！","fr":"Maintenant !"}
 {"id":1498812,"jp":"た～まや～～～！","fr":"Ta~ma~ya~~~ !"}
+{"id":1498813,"jp":"だるまさんが、転んだ！","fr":"Un, deux, trois, soleil !"}
 {"id":1498814,"jp":"やったね、すごい！","fr":"Bravo, génial !"}
+{"id":1498815,"jp":"錆びた機関でも、もうちょっと手ごたえあるよ。","fr":"Même un mécanisme rouillé offre un peu plus de résistance."}
 {"id":1498816,"jp":"やっと私の番だね！","fr":"Enfin mon tour !"}
+{"id":1498817,"jp":"餞別代わりに受け取って！","fr":"Un petit cadeau d'adieu !"}
+{"id":1498818,"jp":"さっそくはじめよっか！","fr":"On commence tout de suite ?"}
 {"id":1498819,"jp":"手加減はしないよ！","fr":"Pas de quartier !"}
+{"id":1498820,"jp":"さっさと片づけちゃおっ！","fr":"Réglons ça vite fait !"}
 {"id":1498821,"jp":"罠だったの？","fr":"C'était un piège ?"}
+{"id":1498822,"jp":"踏ん張って！なんとかするから……","fr":"Il faut tenir bon ! Je vais trouver une solution…"}
 {"id":1498823,"jp":"ね、まだ行ける？","fr":"Hé, on tient encore ?"}
 {"id":1498824,"jp":"うんうん、いい感じ！","fr":"Oui, oui, ça se présente bien !"}
+{"id":1498825,"jp":"調子いいね……このまま行くよ！","fr":"Ça se passe bien… Continuons comme ça !"}
+{"id":1498826,"jp":"お祝いの花火、打ち上げるよ！","fr":"Place aux feux d'artifice pour fêter ça !"}
+{"id":1498827,"jp":"いい子だね！助かったよ！","fr":"Bravo ! Quel soulagement, ça m'a bien aidée !"}
+{"id":1498828,"jp":"ほらほら。その子、やる気満々だよ？","fr":"Oh, quelle motivation chez cette petite créature !"}
+{"id":1498829,"jp":"ほぞ継ぎみたいにバッチリはまったね！","fr":"Ça s'emboîte aussi bien qu'un tenon dans sa mortaise !"}
+{"id":1498830,"jp":"新しい機関のテストができるかも……","fr":"Ce serait l'occasion de tester un nouveau mécanisme…"}
+{"id":1498831,"jp":"あれ、ターゲットが自分から出てきたの？","fr":"Tiens, la cible est sortie toute seule ?"}
+{"id":1498832,"jp":"なかなかやるね。じゃあ本気、見せてもらうよ。","fr":"Pas mal. Mais j'aimerais voir de quoi il en retourne vraiment."}
+{"id":1498833,"jp":"出し惜しみしないで、全力でかかってきてよね！","fr":"Pas de retenue ! Je veux un combat à pleine puissance !"}
+{"id":1498835,"jp":"もう崩れそうじゃない？","fr":"Ça ne serait pas sur le point de s'effondrer ?"}
 {"id":1498836,"jp":"あとひと押しだねっ！","fr":"Encore un petit effort !"}
 {"id":1498837,"jp":"うわっ～痛そう～","fr":"Ouh~ ça doit faire mal~"}
+{"id":1498838,"jp":"気をつけて！アイツ焦ってるかも！","fr":"Attention ! L'ennemi commence peut-être à paniquer !"}
+{"id":1498839,"jp":"う……これはどうやって解こうかな……","fr":"Hmm… Comment résoudre ça…"}
+{"id":1498840,"jp":"傀儡なんていくら増やしても無駄。","fr":"Inutile de multiplier les marionnettes, ça ne changera rien."}
+{"id":1498841,"jp":"君も機巧変化が得意なの？","fr":"Une autre personne douée pour les transformations mécaniques ?"}
+{"id":1498842,"jp":"じゃあね、記念に君の傀儡を作っておくよ。","fr":"À bientôt ! Je fabriquerai une marionnette à cette effigie, en souvenir."}
 {"id":1498843,"jp":"軽く運動しよう！","fr":"Un peu d'exercice !"}
+{"id":1498845,"jp":"いったいどこが……わかんない……","fr":"Mais où est-ce que ça a coincé… Je comprends pas…"}
+{"id":1498846,"jp":"どうだ？ポンポンからカンフーを習ってみないか？","fr":"Alors ? Une petite leçon de kung-fu avec Pengpeng ?"}
+{"id":1498847,"jp":"うぅ……おなかすいた……","fr":"Ouh… J'ai faim…"}
 {"id":1498848,"jp":"天下一の……夢が……","fr":"Mon rêve… de n'avoir… aucun égal…"}
 {"id":1498849,"jp":"さ、作戦のうちだっ！","fr":"C-c'était prévu !"}
 {"id":1498850,"jp":"これが内功だっ！","fr":"Voilà la force intérieure !"}
+{"id":1498851,"jp":"『気』が溜まったぞっ！","fr":"J'ai accumulé assez de « qi » !"}
 {"id":1498852,"jp":"手を、はやくっ！","fr":"La main, vite !"}
 {"id":1498853,"jp":"隙だらけだっ！","fr":"Que d'ouvertures !"}
+{"id":1498854,"jp":"おっ、なかなか器用だなっ！","fr":"Oh, quelle habileté !"}
+{"id":1498855,"jp":"はーっはっはっ！この程度かー！","fr":"Ha ha ha ! C'est tout ?!"}
 {"id":1498856,"jp":"かかってこい！","fr":"En garde !"}
 {"id":1498857,"jp":"ポンポンも――！","fr":"Pengpeng en est aussi !"}
+{"id":1498858,"jp":"ポンポンの実力、見せてやるぞ！","fr":"Place à la véritable puissance de Pengpeng !"}
+{"id":1498859,"jp":"腕を磨き、心眼を開く！","fr":"Affûter sa technique et ouvrir l'œil de l'esprit !"}
+{"id":1498860,"jp":"ポンポンがいれば、怖いものなしだっ！","fr":"Avec Pengpeng, rien à craindre !"}
 {"id":1498861,"jp":"だ、大丈夫かっ！？","fr":"Ç-ça va ?!"}
 {"id":1498862,"jp":"なにか食べてー！","fr":"Il faut manger !"}
+{"id":1498863,"jp":"し、死んじゃうよぉ……？","fr":"M-mais… C'est mortel, ça… Non ?"}
 {"id":1498864,"jp":"剛よく柔を断つ！","fr":"La force brise la souplesse !"}
 {"id":1498865,"jp":"柔よく剛を制す！","fr":"La souplesse dompte la force !"}
+{"id":1498866,"jp":"これ、すなわちカンフーなり！","fr":"Ça, c'est du véritable kung-fu !"}
+{"id":1498867,"jp":"あの子もポンポンに似てきたな！","fr":"Cette petite créature commence à ressembler à Pengpeng !"}
+{"id":1498868,"jp":"一緒に戦いたいみたいだぞ？","fr":"On dirait que cette petite créature veut aussi combattre à nos côtés !"}
+{"id":1498869,"jp":"うん！最速がさいきょーだっ！","fr":"Oui ! La vitesse, c'est la puissance suprême !"}
+{"id":1498870,"jp":"舞台に立った以上、もう逃げることはできないのだっ！","fr":"Une fois sur scène, impossible de prendre la fuite !"}
+{"id":1498871,"jp":"どんな敵も、ポンポンの相手にならないっ！","fr":"Aucun ennemi n'est de taille face à Pengpeng !"}
+{"id":1498872,"jp":"もっとやる気が出てきたぞっ！","fr":"Je suis encore plus motivé maintenant !"}
 {"id":1498873,"jp":"お？怒っちゃった？","fr":"Oh ? On se fâche ?"}
+{"id":1498874,"jp":"まだまだ終わりじゃないよなっ！？","fr":"C'est pas encore fini, hein ?!"}
+{"id":1498875,"jp":"いまこーさんしたら、許してやるぞっ！","fr":"Une reddition maintenant, et Pengpeng pardonnera !"}
 {"id":1498876,"jp":"一気にいくぞっ！","fr":"On donne tout !"}
+{"id":1498877,"jp":"わわっ！痛そう、だいじょーぶ……？","fr":"Ouh là ! Ça a l'air douloureux ! Ça va… ?"}
 {"id":1498878,"jp":"く、来るなぁっ！","fr":"N-non, pas plus près !"}
+{"id":1498879,"jp":"な、なんで効かないんだっ……！？","fr":"M-mais pourquoi ça marche pas… ?!"}
+{"id":1498880,"jp":"ずるいぞ！正々堂々しょーぶしろー！","fr":"C'est pas juste ! Un vrai combat à la loyale !"}
+{"id":1498881,"jp":"ひきょーもの！作戦を変えてきたなっ！","fr":"C'est de la triche ! Un changement de stratégie !"}
+{"id":1498882,"jp":"まさに、ばくちの勢いだっ！","fr":"Ça, c'est de l'audace de parieur !"}
+{"id":1498883,"jp":"一緒にしゅつじんだー！","fr":"Partons au combat ensemble !"}
 {"id":1498884,"jp":"真の力を見せてやれ！","fr":"Place à la vraie puissance !"}
+{"id":1498885,"jp":"れんしゅー！\nさっきのはれんしゅーだっ！","fr":"De l'entraînement !\nC'était juste de l'entraînement !"}
+{"id":1498886,"jp":"こ、こらー！つぎは絶対逃がさないぞ！","fr":"H-hé ! La prochaine fois, pas question de laisser filer qui que ce soit !"}
+{"id":1498887,"jp":"ペイペイのお友達になってくれますか？","fr":"On peut devenir amis avec Peipei ?"}
+{"id":1498888,"jp":"あれ……星臨者さんがたくさんいますぅ……","fr":"Oh… Il y a plein d'Enfants des étoiles…"}
+{"id":1498889,"jp":"もう、お手伝い、できないです……","fr":"Je ne peux plus… apporter mon aide…"}
 {"id":1498890,"jp":"元気になりました！","fr":"La forme est revenue !"}
+{"id":1498891,"jp":"呼吸、落ち着いてます！","fr":"Ma respiration est bien régulière !"}
 {"id":1498892,"jp":"はやくはやく！","fr":"Vite, vite !"}
 {"id":1498893,"jp":"一気に決めましょう！","fr":"Finissons-en d'un coup !"}
 {"id":1498894,"jp":"弱点が見えました！","fr":"Je vois son point faible !"}
+{"id":1498895,"jp":"わあぁ！キレキレの技です！","fr":"Waouh ! Quelle technique incisive !"}
+{"id":1498896,"jp":"でっかいの、倒れました！","fr":"Le gros est tombé !"}
+{"id":1498897,"jp":"ペイペイに任せてください！","fr":"On peut compter sur Peipei !"}
+{"id":1498898,"jp":"ペイペイ、お手伝いします！/やってみます！","fr":"Peipei va aider ! / Je vais essayer !"}
 {"id":1498899,"jp":"いつでもいけます！","fr":"J'attends le signal !"}
+{"id":1498900,"jp":"終わったら、包子食べてもいいですか？","fr":"Après ça, je pourrai manger des baozi ?"}
+{"id":1498901,"jp":"吉逸楼代表、ペイペイです！","fr":"Peipei, au nom de la maison Jiyi !"}
+{"id":1498902,"jp":"むぅ……なんか変な感じです……","fr":"Hmm… Je me sens un peu bizarre…"}
 {"id":1498903,"jp":"なにかあったの？","fr":"Il s'est passé quelque chose ?"}
+{"id":1498904,"jp":"試合のときは体調管理も大事ですよ。","fr":"Prendre soin de sa santé est important pendant un combat aussi."}
 {"id":1498905,"jp":"止まっちゃだめです！","fr":"Pas question de s'arrêter !"}
+{"id":1498906,"jp":"500……数え間違えてないですか？","fr":"500… Il n'y a pas une erreur de calcul ?"}
+{"id":1498907,"jp":"きゅ、999？すご――い。","fr":"N-neuf cent quatre-vingt-dix-neuf ? Incroyable !"}
+{"id":1498908,"jp":"ペイペイの仲間は強いんですよ！","fr":"Les compagnons de Peipei sont très forts !"}
+{"id":1498909,"jp":"師匠が言ってた、力を示すときです！","fr":"Comme le disait maître, l'heure est venue de montrer notre force !"}
+{"id":1498910,"jp":"ペイペイにも教えてください！","fr":"Peipei aimerait apprendre cette technique aussi !"}
+{"id":1498911,"jp":"どんなお相手でしょう？","fr":"Quel genre d'adversaire nous attend ?"}
+{"id":1498912,"jp":"おっきさで勝負は決りませんからね。","fr":"Ce n'est pas la taille qui décide de l'issue d'un combat."}
+{"id":1498913,"jp":"あれれ？なんかへんです……","fr":"Hein ? Quelque chose cloche…"}
+{"id":1498914,"jp":"不変をもって万変に応ず、です！","fr":"Opposer l'immuable aux dix mille changements, voilà la voie !"}
+{"id":1498915,"jp":"その技は、効きません！","fr":"Cette technique est sans effet sur moi !"}
+{"id":1498916,"jp":"ペイペイたちの勝ちは決まってます！","fr":"La victoire de Peipei et de ses compagnons est assurée !"}
+{"id":1498917,"jp":"いま降参したら、見逃してあげます。","fr":"En cas de reddition immédiate, je laisserai la vie sauve."}
 {"id":1498918,"jp":"そ、そんな！","fr":"C-ce n'est pas possible !"}
 {"id":1498919,"jp":"気を引き締めて……！","fr":"Concentration… !"}
 {"id":1498920,"jp":"金城鉄壁の守りです！","fr":"Une défense imprenable !"}
+{"id":1498921,"jp":"ズルするのは、弱い証拠です！","fr":"Tricher est un signe de faiblesse !"}
+{"id":1498922,"jp":"「本質を見極めろ」、師匠の教えです！","fr":"« Discerner l'essence des choses », tel est l'enseignement de maître !"}
+{"id":1498923,"jp":"これが、破竹の勢いです！","fr":"Voilà ce qu'on appelle un élan irrésistible !"}
 {"id":1498924,"jp":"行きますよ、構えて！","fr":"C'est parti, en garde !"}
 {"id":1498925,"jp":"竹宝、手伝って！","fr":"Trésor de bambou, aide-moi !"}
+{"id":1498926,"jp":"……うまくいったでしょうか？","fr":"… Est-ce que ça a fonctionné ?"}
+{"id":1498927,"jp":"ううっ……呼吸が合いませんでした……","fr":"Ouh… Nos respirations n'étaient pas synchronisées…"}
+{"id":1498928,"jp":"まだまだ修行不足ですぅ……","fr":"Il me faut encore beaucoup d'entraînement…"}
+{"id":1498929,"jp":"ペペアメ食べる？お友だちの証だよ！","fr":"Un bonbon Pepe ? C'est un gage d'amitié !"}
+{"id":1498930,"jp":"ちょっと……無理かも……","fr":"Je crois… que je n'y arriverai pas…"}
+{"id":1498931,"jp":"まだ、守りたいものが……","fr":"Il me reste encore tant de choses à protéger…"}
 {"id":1498932,"jp":"ありがとう！","fr":"Merci !"}
 {"id":1498933,"jp":"すごいよ！","fr":"Génial !"}
 {"id":1498934,"jp":"この感じは……","fr":"Cette sensation…"}
 {"id":1498935,"jp":"えいやあぁっ！","fr":"Hiyaaah !"}
 {"id":1498936,"jp":"倒してみせる！","fr":"Je vais en venir à bout !"}
+{"id":1498937,"jp":"最高の一撃！\nあとで教えてね！","fr":"Quel coup magnifique !\nJ'aimerais apprendre ça plus tard !"}
+{"id":1498938,"jp":"倒せた！\nわたしも、すこしは成長したよね？","fr":"Victoire !\nJ'ai quand même un peu progressé, non ?"}
 {"id":1498939,"jp":"いまは任せて！","fr":"Pour l'instant, je m'en charge !"}
 {"id":1498940,"jp":"わたしも手伝わせて！","fr":"Moi aussi, je veux aider !"}
+{"id":1498941,"jp":"修行の成果を見せるよ！","fr":"Place aux fruits de mon entraînement !"}
 {"id":1498942,"jp":"侮らないでよね……","fr":"Faut pas me sous-estimer…"}
+{"id":1498943,"jp":"騎士見習いリリィがお相手するよ！","fr":"Lily, apprentie chevalière, relève le défi !"}
 {"id":1498944,"jp":"えええ？なに！？","fr":"Eeeh ? Quoi ?!"}
+{"id":1498945,"jp":"この状況、なんか良くないよね……","fr":"Ça ne s'annonce pas très bien…"}
+{"id":1498946,"jp":"落ち着いて、わたしが援護するから！","fr":"Du calme, je m'occupe du soutien !"}
+{"id":1498947,"jp":"心臓が、ドキドキしてる。","fr":"Mon cœur bat à toute vitesse."}
 {"id":1498948,"jp":"息が、詰まりそう！","fr":"Je vais étouffer !"}
+{"id":1498949,"jp":"ふぅ、まだまだいけそう！","fr":"Ouf, je peux encore continuer !"}
+{"id":1498950,"jp":"いい子いい子、賢いね！","fr":"Bravo, bravo ! Quelle intelligence !"}
+{"id":1498951,"jp":"その子も戦えるみたいだよ！","fr":"On dirait que cette petite créature peut aussi combattre !"}
 {"id":1498952,"jp":"間一髪！","fr":"De justesse !"}
+{"id":1498953,"jp":"こ、怖かったら……わたしの手を握ってね？","fr":"E-en cas de frayeur… Ma main est là, d'accord ?"}
+{"id":1498954,"jp":"あっ、これは強そうなやつ……","fr":"Oh, cet adversaire a l'air redoutable…"}
 {"id":1498955,"jp":"悔しそうだね……","fr":"Ça vexe, hein…"}
+{"id":1498956,"jp":"騎士は決して引き下がらない！","fr":"La chevalerie ne recule jamais !"}
+{"id":1498957,"jp":"しぶといね……でも負けないからっ！","fr":"Quelle ténacité… Mais je ne perdrai pas !"}
+{"id":1498958,"jp":"わたしたちには敵わないよ！","fr":"Personne ne peut rivaliser avec nous !"}
+{"id":1498959,"jp":"降参してももう遅いよ？","fr":"Il est déjà trop tard pour se rendre !"}
 {"id":1498960,"jp":"うっ、油断した……","fr":"Aïe, j'ai baissé ma garde…"}
+{"id":1498961,"jp":"奇襲？好き勝手させるわけには……！","fr":"Une attaque surprise ? Pas question de laisser faire… !"}
+{"id":1498962,"jp":"防御態勢ね……どれだけもつんだろ！？","fr":"Une posture défensive… Combien de temps va-t-elle tenir ?!"}
+{"id":1498963,"jp":"集団で来るの？騎士らしくないなぁ！","fr":"Une attaque en groupe ? Ce n'est pas très chevaleresque !"}
+{"id":1498964,"jp":"姿を変えたって怖くないからね！","fr":"Un changement de forme ? Ça ne me fait pas peur !"}
+{"id":1498965,"jp":"騎士リリィと仲間たちの勝利だよ！","fr":"Victoire de la chevalière Lily et de ses compagnons !"}
+{"id":1498966,"jp":"さあ、一緒に行くよ、相棒！","fr":"Allez, poursuivons l'aventure ensemble !"}
 {"id":1498967,"jp":"ハイディ、お願い！","fr":"Heidi, à toi !"}
+{"id":1498968,"jp":"やっぱりまだまだだね……","fr":"J'ai encore bien du chemin à parcourir…"}
+{"id":1498969,"jp":"これ……わたしじゃ無理みたい……","fr":"Ça… semble au-delà de mes capacités…"}
+{"id":1498970,"jp":"どうか敵ではなく、貴方の仲間に……","fr":"Puissé-je rejoindre les rangs de mes adversaires, non en ennemie, mais en alliée…"}
 {"id":1498971,"jp":"戦況、不利……","fr":"La bataille tourne mal…"}
+{"id":1498972,"jp":"判断を……誤りました……","fr":"Mon jugement… m'a fait défaut…"}
+{"id":1498973,"jp":"ふぅ、落ち着きました。","fr":"Ouf, j'ai retrouvé mon calme."}
 {"id":1498974,"jp":"決断のとき！","fr":"L'heure de trancher !"}
 {"id":1498975,"jp":"好機です！","fr":"C'est le moment !"}
 {"id":1498976,"jp":"いまです！","fr":"Maintenant !"}
 {"id":1498977,"jp":"露と消えなさい。","fr":"Disparais comme la rosée."}
+{"id":1498978,"jp":"計りつくされた一撃……お見事です。","fr":"Un coup parfaitement calculé… Admirable."}
+{"id":1498979,"jp":"これにて、幕引きです。","fr":"Ainsi tombe le rideau."}
 {"id":1498980,"jp":"影より、討たん。","fr":"Depuis l'ombre, je frappe."}
 {"id":1498981,"jp":"塵へと、還れ！","fr":"Retourne à la poussière !"}
 {"id":1498982,"jp":"冷静かつ、迅速に。","fr":"Avec calme et rapidité."}
 {"id":1498983,"jp":"源の名において。","fr":"Au nom des Minamoto."}
+{"id":1498984,"jp":"禍根はここで断ち切りましょう。","fr":"Tranchons ici la racine du mal."}
 {"id":1498985,"jp":"気をつけて。","fr":"Prudence."}
+{"id":1498986,"jp":"呼吸を整えてください。","fr":"Il faut réguler sa respiration."}
+{"id":1498987,"jp":"私の助けが必要でしょうか？","fr":"Mon aide serait-elle nécessaire ?"}
 {"id":1498988,"jp":"月を喰め、朧影……","fr":"Dévore la lune, Oborokage…"}
 {"id":1498989,"jp":"百代の刃。","fr":"La lame des cent générations."}
 {"id":1498990,"jp":"一刀両断！","fr":"Tranché net !"}
+{"id":1498991,"jp":"ふっ、頼もしいですね。","fr":"Héhé, voilà qui est rassurant."}
+{"id":1498992,"jp":"その子も準備万端ですよ。","fr":"Cette petite créature semble également prête."}
 {"id":1498993,"jp":"正確な判断ですね。","fr":"Un jugement juste."}
 {"id":1498994,"jp":"嵐が近いようです。","fr":"Une tempête approche, on dirait."}
 {"id":1498995,"jp":"いざ……参る。","fr":"Allons… j'y vais."}
 {"id":1498996,"jp":"怨嗟が満ち溢れて……","fr":"Tant de rancœur dans l'air…"}
 {"id":1498997,"jp":"落ち着いて、冷静に。","fr":"Du calme, gardons la tête froide."}
+{"id":1498998,"jp":"まだ、戦いは終わっていません。","fr":"Le combat n'est pas encore terminé."}
+{"id":1498999,"jp":"勝敗が決するまで、油断なさらぬよう。","fr":"Restons sur nos gardes jusqu'à ce que l'issue du combat soit scellée."}
+{"id":1499000,"jp":"どんな状況であろうとも、狙いは外しません。","fr":"Quelles que soient les circonstances, je ne manquerai pas ma cible."}
+{"id":1499001,"jp":"このような時こそ、陣形を乱さずに！","fr":"C'est précisément dans ces moments qu'il faut maintenir la formation !"}
+{"id":1499002,"jp":"危険が迫っているようです。","fr":"Le danger semble se rapprocher."}
+{"id":1499003,"jp":"くっ、計画を修正しないと！","fr":"Argh, il faut revoir le plan !"}
+{"id":1499004,"jp":"消耗させる作戦のようです。","fr":"Il semblerait que ce soit une stratégie d'usure."}
+{"id":1499005,"jp":"状況が変わりました。警戒を！","fr":"La situation a changé. Restons sur nos gardes !"}
+{"id":1499006,"jp":"最期の言葉、お聞きします！／最期の言葉をどうぞ。","fr":"J'écouterai les dernières paroles ! / Un dernier mot ?"}
 {"id":1499007,"jp":"戦闘の準備を！","fr":"En position de combat !"}
+{"id":1499008,"jp":"薄金鬼、お出でなさい。","fr":"Ô Oni d'or pâle, apparais."}
+{"id":1499009,"jp":"私たちの縁は、風とともに！","fr":"Que le vent porte les liens qui nous unissent !"}
 {"id":1499010,"jp":"まだ……いけます……","fr":"Je peux… encore continuer…"}
 {"id":1499011,"jp":"体が……重い……","fr":"Mon corps… est si lourd…"}
 {"id":1499012,"jp":"助かりました。","fr":"Merci pour l'aide."}
 {"id":1499013,"jp":"的を絞って……","fr":"Je vise…"}
 {"id":1499014,"jp":"時は満ちました。","fr":"L'heure est venue."}
+{"id":1499015,"jp":"風よ、集まってください！","fr":"Ô vents, rassemblez-vous !"}
 {"id":1499016,"jp":"的中です！","fr":"En plein dans le mille !"}
+{"id":1499017,"jp":"女王の祝福があらんことを。","fr":"Que la bénédiction de la reine accompagne nos pas."}
 {"id":1499018,"jp":"ふぅ……やりました！","fr":"Ouf… on a réussi !"}
 {"id":1499019,"jp":"ここは私が！","fr":"Je m'en occupe !"}
+{"id":1499020,"jp":"思いどおりにはさせません！","fr":"Pas question de laisser faire !"}
 {"id":1499021,"jp":"準備はできています！","fr":"Tout est prêt !"}
+{"id":1499022,"jp":"すでに狙いはつけています。","fr":"Ma cible est déjà en ligne de mire."}
+{"id":1499023,"jp":"狙った的は外しません……","fr":"Je ne manque jamais ma cible…"}
+{"id":1499024,"jp":"気をつけて。このままでは……","fr":"Attention. À ce rythme…"}
 {"id":1499025,"jp":"危険な状態です……","fr":"La situation est dangereuse…"}
 {"id":1499026,"jp":"気に乱れが……","fr":"Mon qi se trouble…"}
 {"id":1499027,"jp":"もっとはやく。","fr":"Plus vite."}
 {"id":1499028,"jp":"この風に乗って！","fr":"Au gré de ce vent !"}
 {"id":1499029,"jp":"嵐のように！","fr":"Comme une tempête !"}
+{"id":1499030,"jp":"はい、よくできました！","fr":"Oui, très bien joué !"}
+{"id":1499031,"jp":"その子も準備ができたようです。","fr":"Cette petite créature semble également prête."}
+{"id":1499032,"jp":"風向きが変わりました！","fr":"Le vent a tourné !"}
+{"id":1499033,"jp":"敵の気配が近い……気をつけてください。","fr":"Je sens une présence ennemie toute proche… Prudence."}
+{"id":1499034,"jp":"森の静けさを乱したのはあなたですか……","fr":"Qui a donc troublé la quiétude de la forêt… ?"}
+{"id":1499035,"jp":"気をつけて……まだ終わっていません！","fr":"Attention… Ce n'est pas encore terminé !"}
+{"id":1499036,"jp":"まだつぎの手が……侮れませんね。","fr":"Encore une autre technique… Il ne faut pas sous-estimer cet adversaire."}
+{"id":1499037,"jp":"ようすが変です。罠かもしれません！","fr":"Quelque chose cloche. Ce pourrait être un piège !"}
+{"id":1499038,"jp":"敵の呼吸が弱ってきました……","fr":"Le souffle de l'ennemi s'affaiblit…"}
+{"id":1499039,"jp":"よいですね、風は私たちに吹いています！","fr":"Parfait, le vent souffle en notre faveur !"}
 {"id":1499040,"jp":"大丈夫ですか！？","fr":"Tout va bien ?!"}
+{"id":1499041,"jp":"凄まじい勢いです！皆さん気をつけて！","fr":"Quelle force impressionnante ! Prudence, tout le monde !"}
+{"id":1499042,"jp":"敵の呼吸が変わりました！","fr":"Le rythme respiratoire de l'ennemi a changé !"}
 {"id":1499043,"jp":"不穏な気配です……","fr":"Je sens une présence inquiétante…"}
+{"id":1499044,"jp":"波動が……変化しました！","fr":"Ses vibrations… ont changé !"}
+{"id":1499045,"jp":"嵐はこれで静まるでしょう。","fr":"La tempête devrait maintenant s'apaiser."}
+{"id":1499046,"jp":"ともに戦ってください！","fr":"Combattons côte à côte !"}
+{"id":1499047,"jp":"さあ、旋風を起こして！","fr":"Et maintenant, que se lève un tourbillon !"}
+{"id":1499048,"jp":"もう、暴れすぎです……","fr":"Allons, tant d'agitation…"}
+{"id":1499049,"jp":"くうっ！油断しました……","fr":"Argh ! J'ai baissé ma garde…"}
+{"id":1499050,"jp":"いい子ね。さあ、一緒に遊びましょう。","fr":"Comme c'est adorable. Allez, jouons ensemble."}
 {"id":1499051,"jp":"まだ平気よ。","fr":"Ça va encore."}
 {"id":1499052,"jp":"ああ……私は……","fr":"Ah… je…"}
 {"id":1499053,"jp":"命はなんどでも……","fr":"La vie renaît toujours…"}
+{"id":1499054,"jp":"伸び伸びやらせてもらうわ！","fr":"Je vais pouvoir m'épanouir librement !"}
+{"id":1499055,"jp":"枯れてしまうまえに……！","fr":"Avant que tout ne se fane… !"}
 {"id":1499056,"jp":"青く萌ゆる命よ！","fr":"Ô vie qui verdoie !"}
 {"id":1499057,"jp":"ここまでよ！","fr":"Ça s'arrête ici !"}
 {"id":1499058,"jp":"さすがね。","fr":"Chapeau."}
 {"id":1499059,"jp":"手強い相手だったわ。","fr":"C'était un adversaire coriace."}
 {"id":1499060,"jp":"いつもそばにいるわ。","fr":"Je suis toujours là."}
 {"id":1499061,"jp":"最後の戒めよ――","fr":"Dernier avertissement…"}
+{"id":1499062,"jp":"ガーデナーの責を果たすときね。","fr":"Il est temps d'accomplir mon devoir de jardinière."}
 {"id":1499063,"jp":"剪定の時間ね。","fr":"C'est l'heure de la taille."}
 {"id":1499064,"jp":"草を摘まなくては。","fr":"Il faut arracher les mauvaises herbes."}
+{"id":1499065,"jp":"すこし休みましょうか？","fr":"Et si nous nous reposions un peu ?"}
+{"id":1499066,"jp":"無理はしないでちょうだい……","fr":"Inutile de forcer, je préfère…"}
+{"id":1499067,"jp":"木の葉がざわめいている……","fr":"Les feuilles bruissent…"}
 {"id":1499068,"jp":"大地に根ざし。","fr":"Prendre racine dans la terre."}
 {"id":1499069,"jp":"野に芽生え。","fr":"Germer dans les champs."}
 {"id":1499070,"jp":"満開に花開く！","fr":"Et s'épanouir en pleine floraison !"}
+{"id":1499071,"jp":"いい子ね。いっぱい褒めてあげたいわ。","fr":"Quel comportement exemplaire. Cela mérite mille compliments."}
+{"id":1499072,"jp":"もうすぐ咲きそうね……","fr":"La floraison semble toute proche…"}
+{"id":1499073,"jp":"ご褒美はなにがいいかしら？","fr":"Quelle récompense ferait plaisir ?"}
+{"id":1499074,"jp":"大地が静まり返っているわ。","fr":"La terre s'est enveloppée de silence."}
+{"id":1499075,"jp":"私のガーデンはあなたを歓迎しないわ。","fr":"Il n'y a pas de place pour cette présence dans mon jardin."}
+{"id":1499076,"jp":"風が荒れてきたわね……","fr":"Le vent devient tumultueux…"}
+{"id":1499077,"jp":"草木の香りが遠のいていく……","fr":"Le parfum des plantes s'estompe…"}
+{"id":1499078,"jp":"感じるわ。大地が震えている……","fr":"Je le sens. La terre tremble…"}
 {"id":1499079,"jp":"葉はやがて落ちる……","fr":"Les feuilles finissent par tomber…"}
 {"id":1499080,"jp":"木はいつか枯れる……","fr":"Un jour, l'arbre se fane…"}
+{"id":1499081,"jp":"私の花を踏み荒らすのは許さない。","fr":"Je ne laisserai personne piétiner mes fleurs."}
+{"id":1499082,"jp":"腐敗の気が集まってくる……","fr":"Un souffle de corruption se rassemble…"}
+{"id":1499083,"jp":"茨でも貫けないなんて……！","fr":"Même mes ronces ne parviennent pas à percer cette défense… !"}
+{"id":1499084,"jp":"招かれざる客が増えたわね。","fr":"Voilà encore des intrus indésirables."}
+{"id":1499085,"jp":"見かけに惑わされないで。","fr":"Ne nous fions pas aux apparences."}
+{"id":1499086,"jp":"枷はいずれ朽ち果てるの。","fr":"Toutes les entraves finissent par tomber en poussière."}
+{"id":1499087,"jp":"片付けを手伝ってもらえるかしら？","fr":"Un petit coup de main pour ranger tout ça ?"}
 {"id":1499088,"jp":"優しくしてあげてね。","fr":"Avec douceur, d'accord ?"}
 {"id":1499089,"jp":"そんな……","fr":"Ce n'est pas possible…"}
+{"id":1499090,"jp":"状況は悪い……でも、あきらめないわ。","fr":"La situation est mauvaise… Mais je n'abandonnerai pas."}
+{"id":1499091,"jp":"いい子にしてないとね。","fr":"Il faut que je reste sage."}
+{"id":1499092,"jp":"おなか、ペコペコ。もう動けない。","fr":"Mon ventre est tout vide. Je peux plus bouger."}
 {"id":1499093,"jp":"がまん、泣かない……","fr":"Tenir bon, pas pleurer…"}
+{"id":1499094,"jp":"もっと、はむはむしたい……","fr":"Je veux encore grignoter…"}
+{"id":1499095,"jp":"水の流れ、速いかも……","fr":"L'eau coule peut-être trop vite…"}
 {"id":1499096,"jp":"竜の、力を……！","fr":"La force… du dragon… !"}
 {"id":1499097,"jp":"アビィは、負けない。","fr":"Abby va pas perdre."}
 {"id":1499098,"jp":"すごい！","fr":"Trop fort !"}
 {"id":1499099,"jp":"もうあそばない！","fr":"Fini de jouer !"}
 {"id":1499100,"jp":"うん、ぜんぶたおす。","fr":"Oui, je les bats tous."}
 {"id":1499101,"jp":"きゅうけい。","fr":"Pause."}
+{"id":1499102,"jp":"はむはむの時間？違う？","fr":"C'est l'heure du miam-miam ? Non ?"}
 {"id":1499103,"jp":"みんなであそぶ！","fr":"On joue ensemble !"}
 {"id":1499104,"jp":"ぜったい勝つ。","fr":"Je vais gagner, c'est sûr."}
 {"id":1499105,"jp":"だいじょうぶ？","fr":"Ça va ?"}
@@ -1904,12 +3097,19 @@
 {"id":1499114,"jp":"みんな、そろってる？","fr":"Tout le monde est là ?"}
 {"id":1499115,"jp":"うるさい。","fr":"Trop de bruit."}
 {"id":1499116,"jp":"めんどくさい。","fr":"Quelle corvée."}
+{"id":1499117,"jp":"おまえとあそびたくない。","fr":"Je veux pas jouer avec cette personne."}
 {"id":1499118,"jp":"おまえ、悪い子。","fr":"Toi, pas gentil."}
 {"id":1499119,"jp":"はやく、敵、たおす。","fr":"Vite, battre l'ennemi."}
 {"id":1499120,"jp":"もう終わり？","fr":"C'est déjà fini ?"}
 {"id":1499121,"jp":"この……！","fr":"Espèce de… !"}
+{"id":1499122,"jp":"だめ。はやく逃げないと。","fr":"Non. Il faut vite s'enfuir."}
+{"id":1499123,"jp":"これ、どうやってこわす？","fr":"Comment on casse ça ?"}
+{"id":1499124,"jp":"あっ、悪いやつの友だちが来た。","fr":"Ah, le copain du méchant est arrivé."}
+{"id":1499125,"jp":"おまえも、変身できるの？","fr":"Encore quelqu'un qui peut se transformer ?"}
+{"id":1499126,"jp":"負けても泣いたらだめだよ。","fr":"Même quand on perd, faut pas pleurer."}
 {"id":1499127,"jp":"こわくないよ。","fr":"Ça fait pas peur."}
 {"id":1499128,"jp":"ん……ふん！","fr":"Mmh… hmpf !"}
+{"id":1499129,"jp":"アビィ、負けた。ごめんなさい。","fr":"Abby a perdu. Pardon."}
 {"id":1499134,"jp":"燃えてきた！","fr":"Je m'enflamme !"}
 {"id":1499135,"jp":"まだ使わないのか？","fr":"On l'utilise pas encore ?"}
 {"id":1499136,"jp":"力が湧いてきたぞっ！","fr":"Je sens la force monter !"}
