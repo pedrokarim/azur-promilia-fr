@@ -48303,26 +48303,206 @@
 {"id":1543908,"jp":"みんな、遠慮しないで。もうすこし買おうか？","fr":"Si vous en voulez, dites-le ! On en reprend un peu ?"}
 {"id":1543909,"jp":"うぅ……お金がなくてつらい。なんとかして稼がないと……","fr":"Pfff… C'est dur d'avoir les poches vides. Faut que je trouve un moyen de gagner de l'argent…"}
 {"id":1543910,"jp":"うーん、フリスでお金を稼ぐ方法はいろいろあるけど……\n商売したいならまずは許可証がないとね。","fr":"Hm… À Fleece, il y a plein de façons de gagner de l'argent…\nMais si tu veux faire du commerce, il te faut d'abord un permis."}
+{"id":1543911,"jp":"はい！どうぞ。\nこれがあれば、フリスのどこでも正式に商売ができるよ。","fr":"Tiens, voilà !\nAvec ça, tu as le droit de vendre où tu veux à Fleece."}
+{"id":1543912,"jp":"でも、なにを売るのだ……？","fr":"Mais qu'est-ce qu'on va bien pouvoir vendre… ?"}
+{"id":1543913,"jp":"ひとまず、アビィが休める場所を探しましょうか。","fr":"Si on cherchait d'abord un endroit où Abby pourrait se reposer ?"}
+{"id":1543914,"jp":"お部屋の準備はもう終わってるはずだよ。\n戻って休んだらどうかな。","fr":"La chambre devrait être prête maintenant.\nVous pourriez rentrer vous reposer, qu'est-ce que t'en dis ?"}
+{"id":1543915,"jp":"まだ紹介できてない場所もあるけど、無理して今日ぜんぶ回る必要もないし。\n大切なお客さまには自由に楽しんでほしいから。","fr":"Il reste des endroits que je t'ai pas montrés, mais on a le temps de les voir un autre jour.\nT'es ici en tant qu'invité de grand-mère, alors profite de ton séjour à ton rythme !"}
+{"id":1543916,"jp":"コムギさん、ご案内ありがとうございました。","fr":"Merci pour la visite, Komugi."}
+{"id":1543917,"jp":"とんでもない！\nこれもおばあさまの手伝いだし、街を歩くのは楽しいもん。","fr":"Mais de rien !\nÇa donne un coup de main à grand-mère, et j'adore me balader en ville !"}
+{"id":1543918,"jp":"では、いったんアビィを連れて領主邸に戻りましょう。","fr":"Alors, ramenons Abby au manoir du seigneur."}
 {"id":1543919,"jp":"コムギさん！","fr":"Komugi !"}
+{"id":1543920,"jp":"はぁ、はぁ……コムギさん！ちょうどよかったです！","fr":"Haa… haa… Komugi ! Vous tombez bien !"}
+{"id":1543921,"jp":"シロロ保安官？そんなに急いでどうしたの？","fr":"Shiroro ? Qu'est-ce qui se passe pour que tu coures comme ça ?"}
 {"id":1543922,"jp":"じ……実は……","fr":"E-en fait…"}
+{"id":1543923,"jp":"気にしないで。この方たちはおばあさまのお客さまだから。","fr":"Tu peux parler. Ce sont les invités de grand-mère."}
+{"id":1543924,"jp":"あの！さきほど鉱山で落盤がおきたそうで、\n領主さまに報告に向かっていたところだったんです。\n鉱員がまだ内部に取り残されているらしく……至急、救援に行かなくては！","fr":"On vient de m'annoncer qu'une galerie s'est effondrée à la mine !\nJ'allais justement prévenir le seigneur.\nIl paraît qu'il reste des mineurs coincés là-dessous… Il faut aller les chercher tout de suite !"}
+{"id":1543925,"jp":"鉱山の落盤……そんなことが？\nシロロ、わたしはすぐおばあさまに報告してくるから、\nあなたは救援の人手を募って！","fr":"Un effondrement à la mine… Comment c'est possible ?\nShiroro, je file prévenir grand-mère.\nToi, rassemble des volontaires pour aller les secourir !"}
+{"id":1543926,"jp":"はい！ただ……このところ人手が不足しているので、\n十分な数を集めるには時間がかかるかと……","fr":"Oui ! Seulement… on manque de bras en ce moment.\nJ'ai peur que ça prenne du temps de réunir assez de monde…"}
+{"id":1543927,"jp":"あの！もし、助けが必要なら……","fr":"Hé ! Si t'as besoin d'un coup de main…"}
+{"id":1543928,"jp":"僕たちに任せて。|私たちに任せて。2.僕たちの出番だね！|私たちの出番ね！","fr":"Compte sur nous.|Compte sur nous.2.À nous de jouer !|À nous de jouer !"}
+{"id":1543929,"jp":"奇遇だね！わたしもそう言おうと思ってたの！","fr":"Ah ben tiens ! J'allais dire pareil !"}
+{"id":1543930,"jp":"そんな！みんなはおばあさまのお客さまなのに。\n手を煩わせるわけにはいかないよ。","fr":"Mais enfin ! Grand-mère vous a invités, vous tous.\nJe peux quand même pas vous demander ça."}
+{"id":1543931,"jp":"いいえ、領主さまには身にあまるおもてなしをいただきました。\nフリスの危機なら力にならせてください。","fr":"Le seigneur nous a déjà reçus avec tant d'égards.\nSi Fleece est en danger, permettez-nous de vous aider."}
+{"id":1543932,"jp":"赤蠍団をやっつけた実力を忘れてもらっちゃ困るのだ！\nあたしたちにかかれば、どんな問題もお手のものだぞ。","fr":"T'as déjà oublié qu'on a mis les Scorpions rouges en déroute ?\nAvec la grande Lumi et son équipe, tu peux dormir sur tes deux oreilles !"}
+{"id":1543933,"jp":"うん、ありがとう。\nこれ以上、遠慮したら逆に失礼だよね。","fr":"D'accord, merci.\nCe serait malpoli de refuser encore après ça."}
+{"id":1543934,"jp":"シロロ保安官、この方たちを<color=#fed196>ランプブラック</color>にご案内して。","fr":"Shiroro, conduis-les à <color=#fed196>Lampblack</color>."}
+{"id":1543935,"jp":"わたしは冒険者ギルドと療養院に知らせてくるよ。\n救援の手配を最速でお願いしておくから。","fr":"Je vais prévenir la Guilde des aventuriers et la maison de soins.\nJe vais leur demander de préparer les secours au plus vite."}
+{"id":1543936,"jp":"そうだ……アビィはどうする？\n放っておくわけにもいかないのだ。","fr":"Ah, au fait… qu'est-ce qu'on fait d'Abby ?\nOn peut pas la laisser là."}
+{"id":1543937,"jp":"コムギと背丈は変わらないけど、結構重いし……\n運んでもらうのはムリそうだぞ！","fr":"Elle fait à peu près ta taille, Komugi, mais elle pèse son poids…\nTu vas avoir du mal à la porter !"}
+{"id":1543938,"jp":"キャスベルはアビィを軽々と抱え上げ、領主邸に向かって歩き去った。","fr":"Cathbelle a soulevé Abby sans effort et l'a emportée vers le manoir du seigneur."}
+{"id":1543939,"jp":"キャスベルはとっても力持ちなの。任せておけば安心だよ。","fr":"Cathbelle a une de ces forces ! Tu peux lui confier Abby les yeux fermés."}
+{"id":1543940,"jp":"ありがとう、助かったよ。","fr":"Merci, ça me dépanne vraiment."}
+{"id":1543941,"jp":"それじゃ、わたしたちも出発しよう。","fr":"Bon, on y va, nous aussi."}
+{"id":1543942,"jp":"案内、よろしくお願いします。","fr":"Nous vous suivons."}
+{"id":1543943,"jp":"皆さん、こちらがランプブラックです。","fr":"Nous voilà à Lampblack."}
+{"id":1543944,"jp":"うーん、まえにフリスに来たときは\nこんなところ、なかった気がするぞ？","fr":"Mmh… La dernière fois que la grande Lumi est venue à Fleece,\nil me semble qu'il y avait rien ici."}
+{"id":1543945,"jp":"ランプブラックはもとは採掘場で。\n数百朔を経て、町に発展したんです。","fr":"Au départ, il n'y avait qu'une mine à Lampblack.\nLa ville s'est développée autour au fil de plusieurs centaines de lunes."}
+{"id":1543946,"jp":"この町の採掘場はフリスにとってとても重要なんですよ。\n上質な鉱石を生産し続けて、フリスの経済を支える柱になっています。","fr":"La mine de Lampblack compte beaucoup pour Fleece.\nElle fournit du minerai de qualité en continu, et une bonne partie de notre économie en dépend."}
+{"id":1543947,"jp":"そうだよね。フリスの鉱山で事故が起こるなんて……\nやっぱり信じられないよ。","fr":"C'est bien pour ça. Un accident dans une mine de Fleece…\nJ'arrive toujours pas à y croire."}
+{"id":1543948,"jp":"そうか？鉱山に落盤のリスクは付きものだろう？","fr":"Ah bon ? Y a toujours un risque d'effondrement dans une mine, non ?"}
+{"id":1543949,"jp":"保安官さんが言った通り、フリスにとって\nここの鉱物資源はとても大事なものだから。\n採掘の体制もしっかりしてるし、事故の危険はかなり低いはずなんだ。","fr":"Comme te l'a dit Shiroro, Fleece tient beaucoup\nau minerai qu'on extrait ici.\nLe minage est bien encadré, alors le risque d'accident devrait être très faible."}
+{"id":1543950,"jp":"ロージア帝国もずっと前からここの鉱石を買い付けてるけど……\nここで事故があったなんて話、聞いたことがないよ。","fr":"L'Empire de Rosia achète du minerai ici depuis longtemps, lui aussi…\nEt j'ai jamais entendu parler d'un accident dans cette mine."}
+{"id":1543951,"jp":"ええ……実はこの落盤は、最近『終刻の風塁』一帯の山脈で\n起きている地震と関係しているんです。","fr":"Oui… En fait, cet effondrement est lié aux secousses qui, ces derniers temps,\nébranlent le massif autour du « Rempart du Dernier Souffle »."}
+{"id":1543952,"jp":"地震が起こってるの？\nそれなら鉱山は閉鎖すべきじゃない？","fr":"Il y a des secousses ?\nDans ce cas, il faudrait fermer la mine, tu crois pas ?"}
+{"id":1543953,"jp":"これまでは揺れも小さかったので……\n領主さまとランプブラックの鉱員たちが相談して\n坑道を補強しながら作業を続けていたんです。","fr":"Jusqu'ici, les secousses étaient faibles…\nLe seigneur et les mineurs de Lampblack se sont concertés.\nIls ont décidé de poursuivre l'extraction tout en renforçant les galeries."}
+{"id":1543954,"jp":"ですが、今日の揺れは想定以上に激しかったので、\n大規模な落盤が発生してしまって……","fr":"Mais la secousse d'aujourd'hui a été bien plus forte que prévu,\net une grande partie de la mine s'est effondrée…"}
+{"id":1543955,"jp":"なるほど……一刻を争う事態ですね。","fr":"Je vois… Chaque minute compte."}
 {"id":1543956,"jp":"坑道の警備員","fr":"Garde de la galerie de mine"}
+{"id":1543957,"jp":"いけませんよ、ゾーエさん。\nあなたは療養院に行って、治療を受けないと！","fr":"Attendez, Zoé !\nVous devez aller à la maison de soins vous faire soigner !"}
+{"id":1543958,"jp":"あたしのことは心配すんな！それよりクエンティンだ！\nあいつは気の立ったグランザロスと一緒に残ってるんだ……\nはやく見つけてやらないと！","fr":"T'occupe pas de moi ! C'est Quentin qu'il faut aller chercher !\nIl est encore là-dessous avec le Granzaros qui s'est énervé…\nFaut vite le retrouver !"}
+{"id":1543959,"jp":"あっ！シロロが戻ってきた！\n一緒にいるのは……救助に来てくれた方たちか？","fr":"Ah ! Shiroro est de retour !\nLes gens avec lui… Ils viennent pour les secours ?"}
+{"id":1543960,"jp":"見ない顔だな、ギルドの冒険者か？","fr":"J'ai jamais vu vos têtes par ici. Vous êtes de la Guilde des aventuriers ?"}
 {"id":1543961,"jp":"領主さまの賓客だよ！","fr":"Nous sommes les invités du seigneur !"}
+{"id":1543962,"jp":"新米冒険者、{playerName}だ！|新米冒険者、{playerName}よ！","fr":"Moi, c'est {playerName} ! Je débute à la Guilde !|Moi, c'est {playerName} ! Je débute à la Guilde !"}
+{"id":1543963,"jp":"うむうむ！あたしのことは偉大なる妖精、\nルミィさまと呼ぶがいい！","fr":"Hé hé, eh oui ! Et tu peux appeler la grande Lumi\npar son titre, la Grande Fée Lumi !"}
+{"id":1543964,"jp":"ど、どうも！お客さま方！","fr":"B-bonjour ! Quel honneur de vous recevoir !"}
+{"id":1543965,"jp":"あ、あの！そんなに畏まらないでね！","fr":"Oh, euh… Laisse tomber les cérémonies !"}
+{"id":1543966,"jp":"ええ、私たちは救助の力になるために来たのです。","fr":"Nous sommes là pour vous aider à sortir les personnes coincées dans la mine."}
+{"id":1543967,"jp":"そんなに冒険者になりたかったのか！？","fr":"Ça te tenait tant que ça à cœur, de rejoindre la Guilde ?!"}
+{"id":1543968,"jp":"この方たちは領主さまとコムギさんのお客さまです。\n鉱山の事故のことを聞いて、同行してくれました！","fr":"Ce sont les invités du seigneur et de Komugi.\nQuand ils ont appris ce qui s'était passé à la mine, ils ont proposé de venir nous aider !"}
+{"id":1543969,"jp":"そうか！来てくれて助かったよ！","fr":"Ah, je vois ! Ça tombe bien que vous soyez là !"}
+{"id":1543970,"jp":"こちらのお姉さんは……\nもしかして救助された鉱員さん、かな？","fr":"Et toi…\nTu fais partie des mineurs qu'on a sortis de là ?"}
+{"id":1543971,"jp":"ああ、あたしはゾーエ。来てくれて感謝するよ。","fr":"Ouais, moi c'est Zoé. Merci d'être là."}
+{"id":1543972,"jp":"なかの状況はどうなってるの？","fr":"Comment ça se présente là-dessous ?"}
+{"id":1543973,"jp":"地震はもう収まっていて、ほとんどの鉱員は脱出できているんだ。\nだけど、落盤のせいで5名ほどなかに閉じ込められてしまっていて。","fr":"Ça a arrêté de trembler, et la plupart des mineurs ont pu sortir.\nMais il reste à peu près cinq personnes coincées derrière l'éboulis."}
+{"id":1543974,"jp":"うち鉱員が3名、残りはキボと……冒険者が2名のはずだ。","fr":"Il devrait y avoir trois mineurs et… deux aventuriers. Avec des Kibos aussi."}
 {"id":1543975,"jp":"坑道にキボもいるの？","fr":"Il y a aussi des Kibo dans la mine ?"}
+{"id":1543976,"jp":"ああ、あたしらがスターリンクしたアルマロとグランザロスだ。\n鉱石の採掘を手伝ってくれる大事な仲間さ！","fr":"Oui, un Armaro et un Granzaros. On a un Lien stellaire avec eux.\nOn compte sur eux pour le minage. Ils font partie de l'équipe !"}
+{"id":1543977,"jp":"ただ……地震の影響か、あいつら気が立っててな。","fr":"Seulement… Ils sont à cran, peut-être à cause du séisme."}
+{"id":1543978,"jp":"このままずっと閉じ込められてたら\nそのうち鉱員の仲間を襲っちまうかもしれない！","fr":"S'ils restent coincés là-dedans trop longtemps,\nils pourraient finir par s'en prendre aux mineurs avec qui ils bossent !"}
+{"id":1543979,"jp":"わかりました。\n冒険者の2名というのは……救助に入った方々でしょうか？","fr":"Je vois.\nEt les deux aventuriers… Ils sont entrés pour porter secours aux mineurs ?"}
+{"id":1543980,"jp":"いや、あの冒険者たちは、幽霊騒ぎの調査に来ていたんだ……","fr":"Non, ils étaient venus enquêter sur cette histoire de fantômes…"}
 {"id":1543981,"jp":"ゆ、幽霊！？","fr":"D-des fantômes !?"}
+{"id":1543982,"jp":"もしかして、メイプルが言ってた『幽霊鉱山の調査』の依頼かな？","fr":"Tu crois que c'est la mission dont parlait Maple, « Enquête dans la mine hantée » ?"}
 {"id":1543983,"jp":"よく覚えてるのだ！","fr":"Quelle bonne mémoire !"}
+{"id":1543984,"jp":"ああ。このまえの地震で坑道の地面が崩れ落ちてな……\n負傷者はいなかったんだが、岩の下から奇妙な村が見つかって……","fr":"Oui. Au dernier séisme, le sol s'est effondré dans une galerie…\nPersonne n'a été blessé, mais sous les rochers, on a découvert un drôle de village…"}
+{"id":1543985,"jp":"領主さまもなんどか調査の人員を送ってくださったんだが、\nみんな肝を冷やして逃げ出してしまってな。\nしかたなく、冒険者に助けを求めることにしたんだが……","fr":"Le seigneur a envoyé plusieurs équipes enquêter,\nmais elles ont toutes pris leurs jambes à leur cou.\nAlors on a fini par demander l'aide des aventuriers…"}
+{"id":1543986,"jp":"運が悪いことに、今日の事故に巻き込まれてしまってな……","fr":"Et pas de bol, ils étaient dans la mine quand ça s'est effondré aujourd'hui…"}
+{"id":1543987,"jp":"なるほど、状況はだいたい掴めました。\nあとは私たちにお任せください。","fr":"Je vois mieux ce qui s'est passé.\nVous pouvez nous laisser prendre le relais."}
+{"id":1543988,"jp":"ゾーエさんも、休んでいてね。","fr":"Repose-toi aussi, Zoé."}
+{"id":1543989,"jp":"でも、クエンティンはあたしらを助けるために閉じ込められたんだ。\nあいつになにかあったら……","fr":"Mais si Quentin est coincé là-dedans, c'est parce qu'il a voulu nous sauver.\nS'il lui arrive quelque chose…"}
+{"id":1543990,"jp":"どうかご安心ください。\n閉じ込められた方は、必ず全員助け出します。","fr":"Vous pouvez compter sur nous.\nOn va sortir tout le monde de là, je vous le promets."}
+{"id":1543991,"jp":"ああ……わかった。それじゃ頼んだよ。","fr":"Oui… D'accord. Je compte sur vous, alors."}
+{"id":1543992,"jp":"では、本官がゾーエさんを療養院へお送りします。\n被害状況を取りまとめて、領主さまにもご報告しなくては。","fr":"Dans ce cas, je vais accompagner Zoé au centre de soins.\nJe dois aussi faire le bilan des dégâts et en informer le seigneur."}
+{"id":1543993,"jp":"ああ、俺は万一に備えてここに残っているよ。\n君たちもくれぐれも無理はするんじゃないぞ。\nなにかあったらすぐに引き揚げてくるんだ。","fr":"Entendu, je reste ici au cas où.\nSurtout, ne prenez pas de risques.\nAu moindre problème, remontez tout de suite."}
+{"id":1543994,"jp":"落盤に幽霊騒ぎか！この大妖精に任せておくのだ。\nなにが起きているかたしかめてやる！","fr":"Un éboulement et des fantômes ? Laissez faire la Grande Fée !\nLumi va découvrir ce qui se passe !"}
+{"id":1543995,"jp":"{playerName}さま、準備ができたら向かいましょう。","fr":"{playerName}, dites-moi quand on peut y aller."}
+{"id":1543996,"jp":"道が塞がっていますね。\n落盤が発生したのはこのあたりでしょうか……","fr":"Le passage est bouché.\nC'est par ici que la galerie s'est effondrée ?"}
+{"id":1543997,"jp":"だめだね……まったく動かない！","fr":"Ça sert à rien… Ça bouge pas d'un poil !"}
 {"id":1543998,"jp":"風の音がします。","fr":"J'entends le vent."}
+{"id":1543999,"jp":"あたしも感じたぞ。\nうしろのほうから風が流れてくるのだ！","fr":"Lumi l'a senti aussi.\nLe courant d'air vient de derrière nous !"}
+{"id":1544000,"jp":"ええ、引き返して探してみましょう。\nもしかしたら、道が見つかるかもしれません。","fr":"Oui, revenons sur nos pas.\nOn trouvera peut-être un autre passage."}
+{"id":1544001,"jp":"みんな、ここを見るのだ！","fr":"Hé, tout le monde, regardez par ici !"}
+{"id":1544002,"jp":"岩のあいだに隙間があります。\nここからなら、入ることができるかもしれません。","fr":"Il y a une ouverture entre les rochers.\nOn pourrait peut-être passer par là."}
+{"id":1544003,"jp":"力づくで叩き割るのはどうかな？","fr":"Et si on faisait éclater le rocher ?"}
+{"id":1544004,"jp":"ですが……力加減を間違えると、二次災害の危険があります……","fr":"Mais… Si on frappe trop fort, on risque de provoquer un autre éboulement…"}
+{"id":1544005,"jp":"{playerName}、なにかいいアイデアはないのか？","fr":"{playerName}, t'as une idée, toi ?"}
+{"id":1544006,"jp":"キボに手伝ってもらおう。","fr":"Demandons un coup de main à un Kibo."}
+{"id":1544007,"jp":"ルミィが通れるようにしよう。","fr":"Dégageons un passage pour Lumi."}
 {"id":1544008,"jp":"なんであたし！？","fr":"Pourquoi moi !?"}
+{"id":1544009,"jp":"さきに入って、道を探してきてよ。","fr":"Passe devant et trouve-nous un chemin."}
+{"id":1544010,"jp":"ルミィさまだけ入れても意味がないのだ！\nもし鉱員がケガして歩けなくなってたら、あたしだけじゃ運べないぞ！","fr":"Ça servira à rien si Lumi est la seule à passer !\nSi un mineur est blessé et peut plus marcher, Lumi pourra pas le porter toute seule !"}
+{"id":1544011,"jp":"そうですね……ゾーエさんは\n鉱員たちのキボも閉じ込められたと仰っていました。\nその子たちを探してみましょう。","fr":"C'est vrai… D'après Zoé,\nles Kibo des mineurs sont coincés eux aussi.\nEssayons de les retrouver."}
+{"id":1544012,"jp":"いやいや、そんな都合よく通りかかるキボなんて……","fr":"Voyons, un Kibo va pas passer juste au moment où on en a besoin…"}
+{"id":1544013,"jp":"なに！ほんとにいたぞ！","fr":"Hein ? Mais y en a vraiment un !"}
+{"id":1544014,"jp":"あまり攻撃的には見えないね。\nゾーエさんが言ってたほど、イライラしてる感じもないし。","fr":"Il a pas l'air bien agressif.\nEt il est pas aussi nerveux que le disait Zoé."}
+{"id":1544015,"jp":"アルマロはもともと温和なキボだからな。\nよし、ひとまず話を聞いてみるぞ。","fr":"Les Armaros sont des Kibo plutôt tranquilles, d'habitude.\nBon, Lumi va voir ce qu'il a à dire."}
+{"id":1544016,"jp":"そこのちっちゃいアルマロ。\nこの岩をどかすのを手伝ってもらいたいのだ～","fr":"Hé, petit Armaro !\nTu veux bien aider Lumi à pousser ce rocher ?"}
 {"id":1544017,"jp":"ワァワァ、ワワワァ～","fr":"Wah wah, wawawah~"}
+{"id":1544018,"jp":"ふむふむ、ふむふむふむ。","fr":"Mmh, mmh… Mmh, mmh, mmh."}
+{"id":1544019,"jp":"なるほど！それはいいな！","fr":"Ah, d'accord ! Ça tombe bien !"}
+{"id":1544020,"jp":"ルミィさん、その子はなんて言ってるの？","fr":"Lumi, qu'est-ce qu'il te raconte ?"}
+{"id":1544021,"jp":"スターリンクした仲間がなかに閉じ込められてるけど、\n怖くて入れないから、あたしたちに助けて欲しいらしい。","fr":"Son partenaire de Lien stellaire est coincé là-dedans,\nmais il a trop peur d'entrer. Il voudrait qu'on l'aide."}
+{"id":1544022,"jp":"ちょうどよかった！\nあのね、わたしたちも鉱員さんの救助に来たんだよ！","fr":"Ça tombe bien !\nTu sais, nous aussi, on est là pour sauver les mineurs !"}
+{"id":1544023,"jp":"よーし！それじゃ張り切ってこの岩をどけるのだ！","fr":"Allez, on s'y met ! Faut pousser ce rocher !"}
+{"id":1544024,"jp":"わぁ！すっごくでっかい鉱石なのだ～！","fr":"Waouh ! T'as vu la taille de ce bloc de minerai ?"}
+{"id":1544025,"jp":"フリスの特産物の閃硝鉱だね。\nすこし手を加えるだけできれいな装飾品になるから\n加工されたものも原石も、すごく人気があるの。","fr":"C'est du nitre scintillant, une spécialité de Fleece.\nIl suffit de le tailler un peu pour en faire de beaux bijoux.\nÇa se vend très bien, brut ou taillé."}
+{"id":1544026,"jp":"閃硝鉱の鉱脈がこんなにキラキラしてるなんて！\n圧倒されちゃうよ。","fr":"J'imaginais pas qu'un filon de nitre scintillant pouvait briller autant !\nOn en prend plein les yeux."}
+{"id":1544027,"jp":"あ、見てください！\nあちらにキボに囲まれた方々が！","fr":"Oh, regardez !\nLà-bas, il y a des gens encerclés par des Kibo !"}
+{"id":1544028,"jp":"きっと閉じ込められた鉱員さんたちだね！","fr":"Ce sont sûrement les mineurs coincés dans la galerie !"}
+{"id":1544029,"jp":"このままじゃ危険だよ！\n急いで助けてあげなくちゃ！","fr":"Ils sont en danger !\nVite, il faut les aider !"}
+{"id":1544030,"jp":"大丈夫なもんか！死ぬほど怖かったよ！","fr":"Si ça va ? Tu parles ! J'ai eu la trouille de ma vie !"}
+{"id":1544031,"jp":"ケガはほとんどないみたいなのだ。\nここにいたのがサピッツだけでよかったな。\nこの子たちはあまり攻撃的じゃないから。","fr":"À ce que voit Lumi, vous avez presque rien.\nHeureusement qu'il y avait que des Sapitz ici.\nIls sont pas bien agressifs, ces petits-là."}
+{"id":1544032,"jp":"ええ、サピッツはとてもおとなしいキボです。\nこんなにそわそわしているということは、\nよほど恐ろしい揺れだったのでしょうね。","fr":"Oui, les Sapitz sont des Kibo très paisibles.\nPour qu'ils soient aussi agités,\nil a fallu une sacrée secousse."}
+{"id":1544033,"jp":"だな……こいつら、普段は鉱脈の深くに潜っててさ。\nこっちにちょっかい出してくることはほとんどないんだ。\nきっと地震で驚いたんだろ。","fr":"Ouais… D'habitude, ils restent planqués au fond du filon.\nIls viennent presque jamais nous chercher des noises.\nLe séisme a dû leur flanquer la frousse."}
+{"id":1544034,"jp":"しっかし、ここの閃硝鉱の鉱脈はほんとーに豊かだな！\nサピッツたちがまるまる育ってるのだ。","fr":"Dis donc, il est drôlement riche, ce filon de nitre scintillant !\nRegardez comme les Sapitz sont dodus !"}
+{"id":1544035,"jp":"おまえたちは領主さまが送ってくれた救援隊、なんだよな？\n助けに来てくれてありがとう！\nもうすこしで太陽を拝めなくなるとこだった！","fr":"C'est bien le seigneur qui vous envoie nous secourir ?\nMerci d'être venus nous chercher !\nJ'ai bien cru que je reverrais jamais le soleil !"}
 {"id":1544036,"jp":"うん、わかった！","fr":"Oui, compris !"}
+{"id":1544037,"jp":"<color=#fed196>金精鉱</color>もあるなんてな！","fr":"Y a même du <color=#fed196>minerai d'or pur</color> !"}
 {"id":1544038,"jp":"金鉱だ！|金鉱ね！","fr":"Une mine d'or !|Une mine d'or !"}
+{"id":1544039,"jp":"見るからにお金になりそう。","fr":"Rien qu'à le voir, ça doit valoir une fortune."}
+{"id":1544040,"jp":"うむ！金精鉱はユニよりも価値が高い鉱物なのだ！\nフリスが栄えてる理由がわかってきたな。","fr":"Oh oui ! Le minerai d'or pur vaut plus cher que les Uni !\nLumi comprend mieux d'où vient la richesse de Fleece."}
+{"id":1544041,"jp":"そういえば冒険者ギルドに掲示があったよ……\n「坑道から勝手に鉱石を持ちだすことを禁ず」！\n違反したら厳しい罰があるみたい。","fr":"Au fait, il y avait une affiche à la Guilde des aventuriers…\n« Il est interdit de sortir du minerai de la mine sans autorisation » !\nApparemment, on risque gros si on se fait prendre."}
+{"id":1544042,"jp":"はぁ、抜け目のないばあさんなのだ……","fr":"Pfff… Elle a pensé à tout, la vieille…"}
+{"id":1544043,"jp":"金精鉱はだれもが欲しがるものだから。\nフリスの財産を守りたいと思うのは当然だよね。","fr":"Tout le monde veut mettre la main sur le minerai d'or pur.\nC'est normal qu'elle veuille protéger les richesses de Fleece."}
+{"id":1544044,"jp":"さあ、ルミィ。行きましょう。","fr":"Allez, Lumi. Allons-y."}
+{"id":1544045,"jp":"おいおい、金精鉱がここにあるんだぞ？\nだれも興味を持たないなんて……さてはみーんなお金持ちだな！？","fr":"Hé, vous avez vu tout ce minerai d'or pur ?\nÇa n'intéresse personne… Vous êtes tous riches ou quoi !?"}
 {"id":1544046,"jp":"鍵がかかってる……","fr":"C'est verrouillé…"}
+{"id":1544047,"jp":"こら！こっちを見るんじゃない！\nまたこの大妖精を使い走りにする気か！？","fr":"Hé ! Regarde pas Lumi comme ça !\nTu veux encore faire faire tes corvées à la Grande Fée !?"}
+{"id":1544048,"jp":"門の向こうになにかからくりがあるかも。","fr":"Il y a peut-être un mécanisme de l'autre côté de la grille."}
+{"id":1544049,"jp":"そーいうことか！たしかに、そういうのを調べるのは\nこのルミィさまにしかできないことなのだ！","fr":"Aaah, c'est ça ! C'est vrai que pour aller voir ce qui se cache là derrière,\nil n'y a que la grande Lumi !"}
+{"id":1544050,"jp":"ルミィ、この門には鍵穴がありますから。\nこのあたりで鍵を見つければ開きそうです。","fr":"Lumi, regardez, il y a une serrure sur la grille.\nSi on trouve la clé dans les parages, on devrait pouvoir l'ouvrir."}
+{"id":1544051,"jp":"そうだね、探してみよう！","fr":"Oui, bonne idée ! Cherchons la clé !"}
+{"id":1544052,"jp":"くうぅ～！せっかくやる気になったとこだったのに～！","fr":"Raaah ! Et dire que Lumi commençait à avoir envie d'y aller !"}
+{"id":1544053,"jp":"こら――！目を開けるのだ！","fr":"Hééé ! Ouvre les yeux !"}
+{"id":1544054,"jp":"また、ルミィさまの必殺技を披露するときがきたか！","fr":"La grande Lumi va devoir ressortir son coup fatal !"}
+{"id":1544055,"jp":"どうやらこの鉱員が探していた方のようですね。","fr":"On dirait que c'est le mineur que nous cherchions."}
+{"id":1544056,"jp":"ううっ！ぼく、どうなったの……","fr":"Aïe… Qu'est-ce qui m'est arrivé… ?"}
+{"id":1544057,"jp":"あ、気が付いたみたい！","fr":"Ah, je crois qu'il reprend ses esprits !"}
+{"id":1544058,"jp":"あれ……コロン、さきに逃げてって言ったのに……","fr":"Hein… Coron ? Je t'avais dit de te sauver sans moi…"}
+{"id":1544059,"jp":"待って、クエンティンは！？","fr":"Attends, et Quentin !?"}
 {"id":1544060,"jp":"助けに来たんだよ。","fr":"Nous sommes venus vous secourir."}
+{"id":1544061,"jp":"そうだったんだ！\nぼくはリオ。助けに来てくれてよかった……！","fr":"Ah, d'accord !\nMoi, c'est Rio. Heureusement que vous êtes venus nous aider !"}
+{"id":1544062,"jp":"クエンティン……ぼくの仲間が！\n仲間のグランザロスが急に暴れ出して、ぼくらを攻撃してきて！","fr":"Quentin… Il faut aider mon copain !\nGranzaros s'est déchaîné d'un coup et il nous a attaqués !"}
+{"id":1544063,"jp":"ええ、状況はだいたい把握しています。\nこのさきの門に鍵がかかっているのですが、開け方はご存じですか？","fr":"Oui, nous savons à peu près ce qui s'est passé.\nLa grille un peu plus loin est verrouillée. Vous savez comment l'ouvrir ?"}
+{"id":1544064,"jp":"門……そうだ！鍵はクエンティンが締めちゃったんだ！\nそれで、このあたりにある鍵を探して開けようとしてて！","fr":"La grille… Ah oui ! C'est Quentin qui l'a fermée à clé !\nJe cherchais justement la clé dans le coin pour l'ouvrir !"}
+{"id":1544065,"jp":"それで、それで……あれ？\nぼく、なんで気を失ったんだっけ……","fr":"Et puis, et puis… Attends.\nPourquoi j'ai perdu connaissance, déjà… ?"}
+{"id":1544066,"jp":"その体の爪痕、もしかして……","fr":"Ces griffures… Tu crois que… ?"}
+{"id":1544067,"jp":"このキボたちに背後から襲われたのですね！\n皆さん、警戒してください！","fr":"Ces Kibo vous ont attaqué par-derrière !\nTout le monde, restez sur vos gardes !"}
+{"id":1544068,"jp":"フン、あたしたちは引っかからないぞ！","fr":"Pff, avec nous, leur petit coup ne marchera pas !"}
+{"id":1544069,"jp":"キボたちは逃げていきました。\nこのあたりはもう安全です。","fr":"Les Kibo se sont enfuis.\nIl n'y a plus de danger par ici."}
+{"id":1544070,"jp":"みんな、すごいんだね！","fr":"Vous êtes vraiment forts !"}
+{"id":1544071,"jp":"コロンも、あなたたちが連れてきてくれたの？","fr":"C'est vous qui avez amené Coron aussi ?"}
+{"id":1544072,"jp":"そうだぞ！なかなか利口なヤツで、いろいろ助けてくれたのだ！","fr":"Eh oui ! Il est drôlement malin, celui-là. Il nous a bien aidés !"}
+{"id":1544073,"jp":"そうだったんだ……よかった。\nよし、ぼくも一緒に行くよ！クエンティンを助け出さなきゃ！","fr":"Ah, tant mieux… Ça me rassure.\nBon, je viens avec vous ! Il faut sortir Quentin de là !"}
+{"id":1544074,"jp":"ケガをしてるんだから、無理はダメだよ！\nあとはわたしたちに任せて。","fr":"Tu es blessé, reste tranquille !\nOn s'occupe du reste."}
+{"id":1544075,"jp":"ごめん……そうだ！せめてコロンを連れて行ってよ。\nきっと役に立つと思うから！","fr":"Désolé… Ah, je sais ! Emmenez au moins Coron avec vous.\nJe suis sûr qu'il pourra vous aider !"}
+{"id":1544076,"jp":"はい！門の鍵だよ！\nクエンティンのこと、お願いね！","fr":"Tenez, la clé de la grille !\nJe compte sur vous pour Quentin !"}
 {"id":1544077,"jp":"ギャオーン――","fr":"Gyaoon !"}
+{"id":1544078,"jp":"グランザロス、いい子だから落ち着くんだ！なっ！","fr":"Allez, Granzaros, sois sage. Du calme, d'accord ?"}
+{"id":1544079,"jp":"キミたちは……領主さまが送ってくれた救援隊か？","fr":"Vous êtes… les secours que le seigneur a envoyés ?"}
+{"id":1544080,"jp":"わあっ！突進してくるぞ！","fr":"Aaah ! Il se rue sur nous !"}
+{"id":1544081,"jp":"グランザロス！\n止まるんだ！この方たちは敵じゃない！","fr":"Granzaros !\nArrête ! Ils sont venus nous aider !"}
+{"id":1544082,"jp":"だめみたい、ぜんぜん聞いてくれないよ！","fr":"Ça sert à rien, il t'écoute même pas !"}
+{"id":1544083,"jp":"とにかく、落ち着いてもらいましょう！","fr":"Il faut d'abord le calmer !"}
 {"id":1544084,"jp":"ギャオ！","fr":"Gyao !"}
 {"id":1544085,"jp":"グランザロス！","fr":"Granzaros !"}
+{"id":1544086,"jp":"体力を使い果たしただけです。大事はないはずですよ。","fr":"Il a simplement épuisé ses forces. Ça devrait aller."}
+{"id":1544087,"jp":"ふぅ！ルミィさまもくたくたなのだ……","fr":"Ouf ! La grande Lumi aussi est à plat…"}
+{"id":1544088,"jp":"クエンティンさん、大丈夫？","fr":"Quentin, ça va ?"}
+{"id":1544089,"jp":"ああ……すまない、迷惑をかけたね。","fr":"Oui… Désolé de vous avoir causé autant de souci."}
 {"id":1544090,"jp":"勇敢だったよ。","fr":"C'était courageux."}
 {"id":1544091,"jp":"無謀すぎるよ。","fr":"C'est de la témérité."}
+{"id":1544092,"jp":"仲間を守るために、自分の身を危険にさらすなんて。\nすごい勇気だね。","fr":"Tu as risqué ta peau pour protéger tes compagnons.\nIl en faut, du courage, pour faire ça."}
+{"id":1544093,"jp":"仲間を守るためとはいえ、みずから窮地に飛び込むなんて。\n褒められたことじゃないよ。","fr":"Je comprends que tu aies voulu protéger tes compagnons.\nMais tu aurais pu y laisser ta peau en fonçant comme ça."}
+{"id":1544094,"jp":"けど……相棒のグランザロスを放っておくわけにもいかないだろ？","fr":"Mais… Granzaros, c'est mon partenaire. Comment tu veux que je le laisse tomber ?"}
+{"id":1544095,"jp":"コイツとは長いこと一緒に過ごしてきたんだ。\n仕事中も、休むときだって、いつも一緒だった……\nこんなふうになるのははじめてだよ。","fr":"Ça fait longtemps qu'on est ensemble, lui et moi.\nAu boulot, pendant les pauses, on se quitte jamais…\nC'est la première fois que je le vois comme ça."}
+{"id":1544096,"jp":"きっといきなり揺れて、驚いたんだろう。","fr":"Ça a dû lui flanquer la trouille quand tout s'est mis à trembler."}
 {"id":1544097,"jp":"ギャオ……","fr":"Gyao…"}
+{"id":1544098,"jp":"すこし元気が出てきましたね。もう落ち着いたみたいです。","fr":"Il reprend un peu de forces. Il a l'air plus calme maintenant."}
+{"id":1544099,"jp":"本当に助かったよ……\nそうだ！ほかの鉱員はどうなった？みんなは無事なのか？","fr":"Merci de m'avoir tiré de là…\nAu fait ! Et les autres mineurs ? Ils vont tous bien ?"}
+{"id":1544100,"jp":"大丈夫なのだ。\nみんな、キミの心配をしてたぞ。","fr":"Ils vont bien.\nTout le monde se faisait du souci pour toi."}
+{"id":1544101,"jp":"よかった……体を張った甲斐があったよ。","fr":"Quel soulagement… Ça valait le coup de risquer ma peau."}
+{"id":1544102,"jp":"これで閉じ込められた鉱員さんは全員見つけられたね……\nあ、でも！冒険者がふたりいるって話だったっけ？\nここに来るまで見かけなかったけど……","fr":"Bon, on a retrouvé tous les mineurs coincés dans la mine…\nAh, mais on nous a parlé de deux aventuriers, non ?\nOn n'a croisé personne en venant…"}
+{"id":1544103,"jp":"冒険者か……たしか女性のふたり組が来ていたな。\n地震が起こるまえにあそこから降りていったよ。","fr":"Des aventuriers… Ah oui, deux femmes sont passées.\nElles sont descendues par là avant le tremblement de terre."}
+{"id":1544104,"jp":"冒険者ギルドの依頼で、坑道の下の幽霊騒ぎを\n調査しにきたんだそうだ。","fr":"Elles avaient une mission de la Guilde des aventuriers.\nElles allaient enquêter sur les histoires de fantômes sous la mine."}
+{"id":1544105,"jp":"それって、幽霊の出る村がここの地下にあるってことか？","fr":"Tu veux dire qu'il y a un village hanté juste sous nos pieds ?"}
+{"id":1544106,"jp":"ああ、まえに仲間たちと入ってみたことがある。\n辰王朝っぽい建物が並ぶ村だったよ……","fr":"Oui, j'y suis déjà allé avec des collègues.\nToutes les maisons étaient dans le style de la dynastie Chen…"}
+{"id":1544107,"jp":"うす気味悪い場所でね。\n説明のつかないことが、次々と起きるんだ！","fr":"Ça fiche la chair de poule, là-dessous.\nIl s'y passe sans arrêt des trucs qu'on n'arrive pas à expliquer !"}
+{"id":1544108,"jp":"それでみんな、怖がっちゃってさ。\nいまはもう、冒険者のほかはだれも近づきたがらない。","fr":"Ça a fini par flanquer la trouille à tout le monde.\nMaintenant, seuls les aventuriers osent encore s'en approcher."}
+{"id":1544109,"jp":"辰王朝って……まえにルミィが言ってた\nフリスと隣りあってる3つの国のひとつだよね？","fr":"La dynastie Chen… C'est bien l'un des trois pays voisins de Fleece\n dont tu nous as parlé, Lumi ?"}
+{"id":1544110,"jp":"うん、辰王朝はフリスの南にあるとっても強大な国だよ。\nすこし変わった、神秘的な文化の国でね。\nわたしの旅の目的地のひとつでもあるの。","fr":"Oui, le pays de la dynastie Chen est très puissant. Il se trouve au sud de Fleece.\nSes coutumes sont assez mystérieuses.\nJ'ai prévu d'y faire étape pendant mon voyage."}
 {"id":1544119,"jp":"放っておけないね。","fr":"On ne peut pas les laisser."}
 {"id":1544120,"jp":"安否をたしかめよう。","fr":"Assurons-nous qu'ils sont sains et saufs."}
 {"id":1544129,"jp":"しゅっぱーつ！","fr":"En route~ !"}
@@ -50289,26 +50469,76 @@
 {"id":1551211,"jp":"考えがまとまった。ありがとう、コリン。","fr":"J'y vois beaucoup plus clair maintenant. Merci, Colin."}
 {"id":1551212,"jp":"どういたしまして。つぎに来たときは、調合したブルーヴィンジュースをごちそうするよ！","fr":"Avec plaisir ! La prochaine fois que tu passeras, je te ferai goûter mon jus de Bluevine maison !"}
 {"id":1551213,"jp":"スーザン、手がかりを見つけ――","fr":"Susan, j'ai trouvé un indice…"}
+{"id":1551214,"jp":"おや、失礼しました。ここにかなりの冒険者がいらっしゃるとは思いませんでした。","fr":"Oh, veuillez m'excuser. Je ne m'attendais pas à trouver autant d'aventuriers ici."}
 {"id":1551215,"jp":"ホルン","fr":"Horn"}
+{"id":1551216,"jp":"はじめまして。私はロージア帝国男爵ホルン。こちらはウンディーネ嬢です。","fr":"Enchanté de faire votre connaissance. Je suis le baron Horn de l'Empire de Rosia, et voici Mademoiselle Undine."}
 {"id":1551217,"jp":"ウンディーネ","fr":"Ondine"}
 {"id":1551218,"jp":"こ、こんにちは……","fr":"B-bonjour…"}
+{"id":1551219,"jp":"街からこんなに離れた場所までわざわざ来るとは、どんなご用件ですか？","fr":"Qu'est-ce qui vous amène dans un endroit aussi éloigné de la ville ?"}
+{"id":1551220,"jp":"はは、そんな言い方をなさらずに。\n我々は上流の帝国市民ではありますが、\n甘やかされて育った腰抜けではありません。野営の経験も豊富です。","fr":"Haha, ne le prenez pas ainsi.\nNous appartenons certes à la haute société impériale,\nmais nous ne sommes pas des lâches ayant grandi dans le confort. Nous avons une solide expérience de la vie en pleine nature."}
+{"id":1551221,"jp":"むしろ、荒野であればあるほど、危険に満ちた場所であればあるほど、\n征服欲をかき立てられる……そうではありませんか？","fr":"Au contraire, plus un territoire est sauvage et regorge de dangers,\nplus il éveille en nous le désir de conquête… N'est-ce pas ?"}
+{"id":1551222,"jp":"申し訳ありませんが、ここは遊山や観光のための場所ではありませんし、\n観光客を受け入れることもできません。","fr":"Je suis désolée, mais cet endroit n'est destiné ni aux promenades ni aux excursions touristiques.\nNous ne pouvons pas non plus y accueillir de visiteurs."}
+{"id":1551223,"jp":"まあまあ、そう言わずに。我々は食事を温め、\n服を乾かすために火を借りたいだけです。\n林区のほかの場所は火気管理中ですからね。","fr":"Allons, allons, ne soyez pas si catégorique. Nous souhaitons simplement profiter de votre feu\npour réchauffer notre repas et sécher nos vêtements.\nL'usage du feu est actuellement réglementé dans le reste du secteur forestier, vous savez."}
+{"id":1551224,"jp":"まさか森番が、この程度の合理的な願いまで拒むことはないでしょう？","fr":"Une garde forestière ne refuserait tout de même pas une requête aussi raisonnable, n'est-ce pas ?"}
+{"id":1551225,"jp":"それなら、問題ありませんが……","fr":"Dans ce cas, je n'y vois pas d'inconvénient, mais…"}
 {"id":1551226,"jp":"ご理解に感謝します。","fr":"Merci de votre compréhension."}
+{"id":1551227,"jp":"星臨者、私に話すことがありますか？","fr":"Enfant des étoiles, avez-vous quelque chose à me dire ?"}
+{"id":1551228,"jp":"街のキボ生態愛好家に聞いたんだけど、彼が言うには……","fr":"J'ai interrogé quelqu'un en ville qui se passionne pour l'étude des Kibo. D'après lui…"}
+{"id":1551229,"jp":"ふん、なるほど。これで辻褄が合いますね。","fr":"Hmm, je vois. Tout devient plus cohérent à présent."}
 {"id":1551230,"jp":"つまり……","fr":"Donc…"}
+{"id":1551231,"jp":"あなたも気づいたでしょう？この一団は挙動が怪しい。\n彼らが言うような単純な動機には到底見えません。","fr":"Vous l'avez également remarqué, n'est-ce pas ? Le comportement de ce groupe est suspect.\nLeurs véritables intentions semblent bien différentes de ce qu'ils prétendent."}
+{"id":1551232,"jp":"彼らの長靴の型は、あなたがあのとき説明した足跡と同じです。","fr":"Les semelles de leurs bottes correspondent aux empreintes que vous m'avez décrites tout à l'heure."}
+{"id":1551233,"jp":"それに、野営経験が豊富だと言うなら、なぜ林区で食事を温める問題を考えていなかったのでしょう？","fr":"De plus, s'ils ont autant d'expérience de la vie en pleine nature, pourquoi n'ont-ils pas prévu de solution pour réchauffer leurs repas dans le secteur forestier ?"}
+{"id":1551234,"jp":"彼らが密猟者だと疑っているんだね。","fr":"Tu soupçonnes donc ces gens d'être les braconniers."}
+{"id":1551235,"jp":"ええ、ですがまだ疑いにすぎません。証拠はありません。","fr":"En effet, mais pour l'instant, ce ne sont que des soupçons. Nous n'avons aucune preuve."}
+{"id":1551236,"jp":"たとえ証拠があっても、森番である私に容疑者を逮捕する権限はありません。","fr":"Et même si nous avions des preuves, mes fonctions de garde forestière ne me donnent pas le pouvoir d'arrêter des suspects."}
+{"id":1551237,"jp":"もし本当に彼らなら、証拠は私が見つける。","fr":"Si ce sont vraiment eux, je trouverai les preuves."}
+{"id":1551238,"jp":"あなたは保安官と警備兵を呼んで、手伝ってもらって。","fr":"De ton côté, va chercher le shérif et les gardes pour qu'ils nous prêtent main-forte."}
+{"id":1551239,"jp":"ええ、わかりました。くれぐれも気をつけて。","fr":"Très bien, entendu. Soyez extrêmement prudent."}
+{"id":1551240,"jp":"合図を残しておいてください。そうすれば、すぐにあなたを見つけられます。","fr":"Veillez à laisser des signes sur votre passage. Je pourrai ainsi vous retrouver rapidement."}
 {"id":1551241,"jp":"媚びる声","fr":"Voix mielleuse"}
+{"id":1551242,"jp":"閣下、今夜もいつも通り……ですか？","fr":"Votre Excellence, procédons-nous comme d'habitude ce soir… ?"}
 {"id":1551243,"jp":"傲慢な声","fr":"Voix arrogante"}
+{"id":1551244,"jp":"もちろんだ。私はちょうど乗ってきたところだからな。\nなんだ、もう怖気づいたのか？","fr":"Bien entendu. Je commence justement à y prendre goût.\nQuoi donc ? Tu as déjà perdu ton courage ?"}
+{"id":1551245,"jp":"いえ、そうではありません。\n閣下がお楽しみなら、我々はもちろんお付き合いします……","fr":"Non, loin de là.\nSi cela divertit Votre Excellence, nous vous accompagnerons bien entendu…"}
 {"id":1551246,"jp":"怯えた声","fr":"Voix apeurée"}
+{"id":1551247,"jp":"僕は……やめたほうがいいと思います。\n彼らはもう疑いはじめているかもしれません。","fr":"Je… Je pense que nous devrions arrêter.\nIls commencent peut-être déjà à avoir des soupçons."}
+{"id":1551248,"jp":"ふふ、それがどうした？我々の「ゲーム」にすこし刺激が増えるだけのことだ。","fr":"Héhé, et alors ? Cela ne fera qu'ajouter un peu de piment à notre « jeu »."}
+{"id":1551249,"jp":"無駄口はやめろ。さっさと出発するぞ。","fr":"Assez de bavardages. Mettons-nous en route sans tarder."}
+{"id":1551250,"jp":"（灯火がまた揺れている……）","fr":"(La lumière des lanternes vacille de nouveau…)"}
+{"id":1551251,"jp":"（もし彼らが密猟者なら、なぜわざと足取りをさらすんだ？）","fr":"(Si ce sont des braconniers, pourquoi laissent-ils délibérément autant d'indices sur leur passage ?)"}
 {"id":1551252,"jp":"ワウッ！！","fr":"Ouaf !!"}
 {"id":1551253,"jp":"キボの鳴き声","fr":"Cri de Kibo"}
+{"id":1551254,"jp":"よくやった、我が「猟犬」！そのまま行け！","fr":"Bien joué, mon fidèle « chien de chasse » ! Continue ainsi !"}
+{"id":1551255,"jp":"閣下、煙はもう上がりました。","fr":"Votre Excellence, la fumée commence déjà à s'élever."}
+{"id":1551256,"jp":"よろしい。このまますべて追い詰めて、\nこの美しいあがきと絶望を私に見せておくれ。あはははは！","fr":"Parfait ! Continuez à les acculer jusqu'au dernier,\net laissez-moi contempler leurs magnifiques gesticulations désespérées. Ahahahaha !"}
+{"id":1551257,"jp":"や、やめて……このキボたち、苦しそう……","fr":"A-Arrêtez… Ces pauvres Kibo ont l'air de tellement souffrir…"}
+{"id":1551258,"jp":"（もう迷っていられない、ここは強硬手段に出るしかない！）","fr":"(Plus question d'hésiter. Il ne me reste plus qu'à intervenir par la force !)"}
+{"id":1551259,"jp":"我が「猟犬」！よくも……","fr":"Mon « chien de chasse » ! Comment oses-tu…"}
+{"id":1551260,"jp":"（あれ、どう見てもシュネルフだよね……）","fr":"(Mais… C'est clairement un Schnelf, non ?)"}
+{"id":1551261,"jp":"くそ、これで終わったと思うな。覚えていろ！","fr":"Merde ! Ne crois pas que ça en restera là. Souviens-toi de ça !"}
+{"id":1551262,"jp":"たしかに覚えたぞ、こそこそした密猟者。","fr":"Oh, je m'en souviendrai très bien, espèce de braconnier sournois."}
 {"id":1551263,"jp":"媚びる手下","fr":"Sbire servile"}
+{"id":1551264,"jp":"閣下、これからどうすれば……","fr":"Votre Excellence, que devons-nous faire maintenant… ?"}
+{"id":1551265,"jp":"まずは撤退だ！こいつに逮捕権はない、我々には手出しできん！","fr":"Replions-nous pour l'instant ! Cette personne n'a aucun pouvoir d'arrestation et ne peut donc rien contre nous !"}
+{"id":1551266,"jp":"（まずい、逃げる気だ……）","fr":"(Mince, ils comptent s'enfuir…)"}
 {"id":1551267,"jp":"ガオォ！！！","fr":"Gaoo !!!"}
 {"id":1551268,"jp":"シュネルフ「猟犬」","fr":"Schnelf « Limier »"}
 {"id":1551269,"jp":"ワウ……","fr":"Ouaf…"}
+{"id":1551270,"jp":"閣下、ガ……ガルティガーです！退路をふさいでいます……","fr":"Votre Excellence, un G-Galtiger ! Il nous bloque la retraite…"}
 {"id":1551271,"jp":"黙れ！見えている！","fr":"Silence ! Je le vois !"}
+{"id":1551272,"jp":"ただの野獣ごときが、つけあがりおって……","fr":"Comment une vulgaire bête sauvage ose-t-elle se montrer aussi insolente…"}
 {"id":1551273,"jp":"グルル……！","fr":"Grrr… !"}
 {"id":1551274,"jp":"ひぃ！","fr":"Hiii !"}
 {"id":1551275,"jp":"フリスの憲兵","fr":"Gendarme de Fleece"}
 {"id":1551276,"jp":"そこまでだ。","fr":"Ça suffit."}
+{"id":1551277,"jp":"全員、ただちに武器を捨てろ！","fr":"Que tout le monde dépose ses armes immédiatement !"}
+{"id":1551278,"jp":"警備兵？なぜ警備兵がここに……","fr":"Les gardes ? Mais qu'est-ce que les gardes font ici… ?"}
+{"id":1551279,"jp":"それはこちらが聞きたい、高貴なるロージア帝国の男爵殿。どうしてここでキボを密猟している？","fr":"C'est plutôt à nous de vous poser la question, noble baron de l'Empire de Rosia. Pourquoi vous livrez-vous au braconnage de Kibo dans cette forêt ?"}
 {"id":1551280,"jp":"ちっ……","fr":"Tss…"}
+{"id":1551281,"jp":"もう十分だ。すべてここで終わりにしよう。","fr":"Cela suffit. Mettons un terme à toute cette affaire ici et maintenant."}
+{"id":1551282,"jp":"尊敬すべき警備兵殿、森番のお嬢さん、そしてこちらの……星臨者殿。","fr":"Honorables gardes, Mademoiselle la garde forestière, et vous… Enfant des étoiles."}
+{"id":1551283,"jp":"我々は保安官の仲裁を受け入れ、すべての責任を負う。","fr":"Nous acceptons de nous soumettre à l'arbitrage du shérif et assumerons l'entière responsabilité de nos actes."}
 {"id":1551284,"jp":"テロップ","fr":"Sous-titre"}
 {"id":1551287,"jp":"グルルルル。","fr":"Grrrrrr."}
 {"id":1551292,"jp":"喜んで。","fr":"Avec plaisir."}
