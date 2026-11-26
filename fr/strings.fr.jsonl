@@ -43097,34 +43097,214 @@
 {"id":1538719,"jp":"ノノ、ティティ、なにしてるのだ？","fr":"Nono, Tiffy, qu'est-ce que vous faites ?"}
 {"id":1538720,"jp":"わっ！星臨者さまに、妖精さま！","fr":"Oh ! Enfant des étoiles ! Dame Fée !"}
 {"id":1538721,"jp":"さっきの水差し、氷属性のカルマが付与されてたな。\n掘り出したものじゃないんじゃないか？","fr":"La carafe de tout à l'heure, elle était infusée de Karma de Glace.\nTu l'aurais pas arrangée toi-même, ta trouvaille ?"}
+{"id":1538722,"jp":"えへへ、妖精さまの目はごまかせませんね。\n実は宿で知り合った魔術師にお願いしたんです。","fr":"Héhé, on ne vous la fait pas, Dame Fée.\nEn fait, j'ai demandé un coup de main à un mage rencontré à l'auberge."}
+{"id":1538723,"jp":"でも！嘘はついていませんよ！\nあの水差しには間違いなく貝殻2枚分の価値があります！","fr":"Mais je vous assure que je n'ai pas menti !\nCette carafe vaut bien deux coquillages !"}
+{"id":1538724,"jp":"そうかなあ？アヴァリアンの先端技術で作られた、工芸品みたいな精巧さはなかったけど……","fr":"Tu crois ? On est loin de la finesse des objets qu'ils fabriquent à Avalian avec leur technologie de pointe…"}
+{"id":1538725,"jp":"まぁ、人間の職人が作ったもののなかではよくできてる……\nってことなら、嘘にはならないか！","fr":"Bon, pour une carafe faite par un artisan humain, elle est plutôt réussie…\nSi c'est ce que tu voulais dire, d'accord, t'as pas menti !"}
+{"id":1538726,"jp":"さすが、妖精さまの審美眼！","fr":"Vous avez l'œil, Dame Fée !"}
+{"id":1538727,"jp":"でも、貝殻なんて必要なのか？\n獣人のあいだでしか通用しない通貨だろうに。","fr":"Mais à quoi ça te sert, les coquillages ?\nIl n'y a que les Furrien qui s'en servent comme monnaie, non ?"}
+{"id":1538728,"jp":"必要ですよ！だって、貝殻さえあれば、ここで必要なものを交換してもらえますから！\n郷に入りては郷に従え、ですね。","fr":"Bien sûr qu'ils me servent ! Avec des coquillages, je peux me procurer tout ce qu'il me faut ici !\nQuand on arrive quelque part, autant faire comme les gens du coin, vous ne trouvez pas ?"}
+{"id":1538729,"jp":"ティティ、お願いがあるんだけど……","fr":"Tiffy, j'ai un service à te demander…"}
+{"id":1538730,"jp":"はい、お役に立てることがあれば、なんでも言ってください！","fr":"Bien sûr ! Si je peux vous aider, dites-moi !"}
+{"id":1538731,"jp":"我が家のようにシャルル村で暮らせているのは、星臨者さまとルルカさんのおかげですから！","fr":"C'est grâce à vous et à Luruka que je me sens chez moi au Village de Charlulu !"}
+{"id":1538732,"jp":"調味料のことをティティとノノに話した。","fr":"Vous avez parlé de l'assaisonnement à Tiffy et à Nono."}
+{"id":1538733,"jp":"野菜料理に肉の味を加える調味料……","fr":"Un assaisonnement qui donne un goût de viande aux plats de légumes…"}
+{"id":1538734,"jp":"えーっと……たしか……","fr":"Voyons… Il me semble que…"}
+{"id":1538735,"jp":"そうだ！このあたりでどうですか？\n星臨者さま、味見してみてください！","fr":"Ah, je sais ! Que dites-vous de ceux-là ?\nEnfant des étoiles, goûtez donc !"}
 {"id":1538736,"jp":"どれどれ……","fr":"Voyons voir…"}
+{"id":1538737,"jp":"『ティティ特製豆腐乳』","fr":"« Tofu fermenté de Tiffy »"}
+{"id":1538738,"jp":"『ティティ特製魚滷水』","fr":"« Saumure de poisson de Tiffy »"}
 {"id":1538739,"jp":"『ノノ特製豆板醤』","fr":"« Doubanjiang spécial de Nono »"}
+{"id":1538740,"jp":"『ティティ特製豆腐乳』をちょっと舐めてみた。\n豆腐乳の酸味がガツンと来て、思わず口元を押さえた。","fr":"Vous avez goûté une pointe de « Tofu fermenté de Tiffy ».\nL'acidité vous a fait plaquer la main sur la bouche par réflexe."}
+{"id":1538741,"jp":"星臨者……そんなにまずいのか？","fr":"Enfant des étoiles… C'est si mauvais que ça ?"}
+{"id":1538742,"jp":"あ、あの……お口に合いませんでしたか？","fr":"Euh… Ça ne vous plaît pas ?"}
+{"id":1538743,"jp":"ゴホゴホッ……たぶん……これじゃないと思う……","fr":"*Toux* *toux*… Je crois… que c'est pas ça…"}
+{"id":1538744,"jp":"『ティティ特製魚滷水』をちょっと舐めてみた。強烈な生臭さがガツンと来て、思わず口を押さえた。","fr":"Vous avez goûté une goutte de « Saumure de poisson de Tiffy ». L'odeur de poisson cru vous a pris à la gorge et vous avez aussitôt plaqué la main sur votre bouche."}
+{"id":1538745,"jp":"星臨者……大丈夫か！？","fr":"Enfant des étoiles… Ça va !?"}
+{"id":1538746,"jp":"『ノノ特製豆板醤』をちょっと舐めてみた。\n濃厚なうまみが口いっぱいに広がって、舌まで喜んでいるのがわかった。","fr":"Vous avez goûté une pointe de « Pâte de fèves pimentée de Nono ».\nLe goût, riche et savoureux, vous a rempli la bouche. Vous en saliviez déjà."}
+{"id":1538747,"jp":"おいしい！これで間違いない！","fr":"Mmm, c'est délicieux ! C'est exactement ce qu'il me faut !"}
+{"id":1538748,"jp":"ノノの豆板醤を選ばれるなんて……私にはどうも合わないんですが……","fr":"Vous choisissez la pâte de fèves de Nono… Moi, j'ai un peu de mal avec le goût…"}
+{"id":1538749,"jp":"まぁでも！星臨者さまが気に入ったならよかったです！\nどうぞ、持っていってください！","fr":"Enfin, du moment qu'elle vous plaît, Enfant des étoiles !\nTenez, emportez-la !"}
+{"id":1538750,"jp":"え？お金はいらないのか？","fr":"Hein ? Tu veux pas qu'on te paie ?"}
+{"id":1538751,"jp":"えへへ、今日のところは試食キャンペーンということで！\nつぎからは貝殻が必要になりますからね～！","fr":"Héhé, aujourd'hui, c'est dégustation gratuite !\nLa prochaine fois, pensez à apporter des coquillages !"}
+{"id":1538752,"jp":"でも、ご安心ください！\n星臨者さまからは材料費しかいただきませんから！","fr":"Rassurez-vous, Enfant des étoiles !\nJe vous ferai juste payer les ingrédients !"}
+{"id":1538753,"jp":"おおぉ、話がわかるやつ～！","fr":"Oooh, avec toi, on peut s'arranger !"}
+{"id":1538754,"jp":"あれ、ルルカ。どうしてここにいるんだ？","fr":"Tiens, Luruka ! Qu'est-ce que tu fais là ?"}
+{"id":1538755,"jp":"星臨者さまが新しい料理を研究していると聞いたの。\nそれで、わたしも『薬膳料理』というものを作ってみようかなって……","fr":"J'ai entendu dire que vous mettiez au point une nouvelle recette, Enfant des étoiles.\nAlors je me suis dit que je pourrais essayer un « plat médicinal »…"}
 {"id":1538756,"jp":"そ、そうか。","fr":"A-ah bon."}
+{"id":1538757,"jp":"ちょうど広場で薬草を買ったところだったの。\nどんな食材と合いそうか見てみるね。","fr":"Je viens justement d'acheter des plantes médicinales sur la place.\nJe vais voir avec quels ingrédients elles se marient bien."}
+{"id":1538758,"jp":"せ、星臨者……いま嫌な単語を聞いた気がするんだけど……\n『薬膳料理』ってなんなんだ？","fr":"E-Enfant des étoiles… Dis-moi que j'ai mal entendu…\nC'est quoi, un « plat médicinal » ?"}
+{"id":1538759,"jp":"薬の素材と食材を組み合わせた料理のことだよ。","fr":"C'est un plat qu'on prépare avec des ingrédients qui servent aussi à faire des remèdes."}
+{"id":1538760,"jp":"おい、まずいぞ！ルルカが作った薬の味、もう忘れたのか！？","fr":"Hé, ça craint ! T'as déjà oublié le goût du remède de Luruka !?"}
+{"id":1538761,"jp":"料理は結構おいしかったけど……","fr":"Ses plats étaient plutôt bons, quand même…"}
 {"id":1538762,"jp":"薬と料理は違うよ。","fr":"Un médicament et un plat, ce n'est pas pareil."}
+{"id":1538763,"jp":"大事なのは信じる気持ち！","fr":"Il suffit d'y croire !"}
+{"id":1538764,"jp":"普通の料理なら問題ないけどさ！","fr":"Un plat ordinaire, ça irait !"}
+{"id":1538765,"jp":"薬が絡むとぜんぜん話が別なんだ！","fr":"Dès qu'il y a du remède là-dedans, c'est une autre histoire !"}
+{"id":1538766,"jp":"ルルカって薬に変なひと手間を加えるのが好きなんだ。\nじょーだんじゃ済まないぞ！","fr":"Luruka trouve toujours le moyen de faire un truc bizarre avec ses remèdes.\nJe te jure, ça rigole pas !"}
+{"id":1538767,"jp":"薬膳料理は健康維持の効果を持つ料理だから……\n料理がメインで、薬は補助的なものだし。","fr":"Un plat médicinal, c'est fait pour rester en bonne santé…\nÇa reste un plat. Les plantes, c'est juste un petit plus."}
+{"id":1538768,"jp":"料理の腕ならルルカは信用できるはず！","fr":"En cuisine, tu peux faire confiance à Luruka !"}
+{"id":1538769,"jp":"はあ、イヤな予感しかしないぞ……","fr":"Pfff… Je le sens vraiment mal, ce coup-là…"}
+{"id":1538770,"jp":"ん……お姉ちゃん、星臨者さまとなんのお話をしてるの？","fr":"Tiens… Grande sœur, de quoi tu parles avec l'Enfant des étoiles ?"}
+{"id":1538771,"jp":"な、なんでもないって！\nルルカの薬膳料理、楽しみだよ……あはは……","fr":"D-de rien du tout !\nJ'ai hâte de goûter ton plat médicinal, Luruka… Ah ah…"}
+{"id":1538772,"jp":"うん！もうなにを作るかは決めてあるの。すこし待っていてね！","fr":"Oui ! J'ai déjà choisi ce que je vais faire. Attendez-moi un petit peu !"}
+{"id":1538773,"jp":"ルルカはやる気満々で厨房に入った。\nしばらくすると、調理器具の音が響きはじめた。","fr":"Luruka est entrée dans la cuisine, pleine d'entrain.\nLes ustensiles n'ont pas tardé à s'entrechoquer."}
+{"id":1538774,"jp":"不安そうなテララがこっそり後から、妹の料理を覗き込むように見ている。","fr":"L'air inquiet, Terara s'est approchée en douce derrière sa sœur pour voir ce qu'elle préparait."}
+{"id":1538775,"jp":"うんうん、いまのところは普通の料理だな……\nよしよし！その調子だぞ、ルルカ！","fr":"Mmh, pour l'instant, ça ressemble à un plat ordinaire…\nOui, c'est bien ! Continue comme ça, Luruka !"}
+{"id":1538776,"jp":"ええ？待てよ、それは！？","fr":"Hein ? Attends, c'est quoi, ça !?"}
+{"id":1538777,"jp":"ダメだって！それを入れちゃ……！","fr":"Non, non ! Mets pas ça dedans… !"}
+{"id":1538778,"jp":"ああ！それも、ダメだったら！","fr":"Ah ! Ça non plus, voyons !"}
+{"id":1538779,"jp":"終わった……もう、みんなおしまいだ……","fr":"C'est fini… On va tous y passer…"}
+{"id":1538780,"jp":"あの狼しっぽ娘、情緒不安定すぎるのだ！","fr":"Elle passe de la joie à la panique en deux secondes, cette Queue-de-loup !"}
 {"id":1538781,"jp":"はい！できました！","fr":"Voilà ! C'est prêt !"}
+{"id":1538782,"jp":"ルルカは自信たっぷりな顔で、鍋料理をみんなのまえに置いた。","fr":"Très sûre d'elle, Luruka a posé la marmite devant tout le monde."}
+{"id":1538783,"jp":"ア、アタシ……ちょっと、用事が……","fr":"J-je… J'ai un truc à faire, là…"}
+{"id":1538784,"jp":"お姉ちゃん、味見していってくれないの？","fr":"Grande sœur, tu veux pas goûter avant de partir ?"}
 {"id":1538785,"jp":"ぐっ！","fr":"Gah !"}
+{"id":1538786,"jp":"大丈夫、どんでん返しがある！","fr":"Allez, ça va encore nous surprendre !"}
+{"id":1538787,"jp":"こうなったら、ひと思いに……","fr":"Bon, quand faut y aller…"}
+{"id":1538788,"jp":"じゃあ、いただくよ！あーん！","fr":"Bon, je goûte ! Aaah !"}
 {"id":1538789,"jp":"テララ！しっかり！","fr":"Terara ! Tiens bon !"}
+{"id":1538790,"jp":"もう、お姉ちゃんったら、いつも大げさなんだから……\nわたしもさっき味見したけど、薬草のにおいがすこしするだけで、おかしな味はしなかったよ。","fr":"Oh, grande sœur, tu exagères toujours…\nJ'ai goûté tout à l'heure, moi aussi. Ça sentait un peu les herbes médicinales, mais le goût avait rien de bizarre."}
+{"id":1538791,"jp":"ふふ、みなさんも、食べてみてください。","fr":"Hé hé, allez-y, goûtez vous aussi."}
+{"id":1538792,"jp":"その場にいた者は顔を見合わせ、鍋のなかの料理を見つめて覚悟を決めた。\n「あーん……」","fr":"Vous avez échangé un regard, puis fixé le contenu de la marmite en prenant votre courage à deux mains.\n« Aaah… »"}
+{"id":1538793,"jp":"とろみのある汁が得体のしれない菌糸をまとって口内にからみつき、\nベタつく舌触りのなにかが舌先でうごめく。\nその後、呪いのような味が味蕾に刻み込まれ、\n甘みと苦みが共存するこの混沌とした味のなかで、意識はぼやけ、\nゆっくりと混沌に落ちていく……","fr":"Un bouillon épais, plein de filaments de champignons impossibles à identifier, vous tapisse la bouche.\nQuelque chose de poisseux se tortille au bout de votre langue.\nPuis un goût de Malédiction se grave dans vos papilles.\nLe sucré et l'amer se bousculent. Tout devient flou autour de vous,\net vous sombrez peu à peu dans le chaos…"}
+{"id":1538794,"jp":"はっ。なんか……いま、記憶が飛んだような……","fr":"Hein ? J'ai comme… un trou de mémoire, là…"}
+{"id":1538795,"jp":"せ、星臨者……あたしたち、どうなったのだ？","fr":"E-Enfant des étoiles… Qu'est-ce qui nous est arrivé ?"}
+{"id":1538796,"jp":"なんだか、ご先祖さまに、会えたような……","fr":"J'ai l'impression… d'avoir vu mes ancêtres…"}
+{"id":1538797,"jp":"うーん……味のほうはもうすこし調整が必要みたいですね。","fr":"Mmm… Il faudrait encore rectifier un peu le goût, on dirait."}
+{"id":1538798,"jp":"星臨者……頼む……はやく別のものを食べさせてくれ。全部忘れたいんだ……","fr":"Enfant des étoiles… Pitié, fais-moi vite manger autre chose. Je veux tout oublier…"}
+{"id":1538799,"jp":"そうだ。さっき調味料は手に入れたし、あとは食感だけだ。|そうそう。さっき調味料は手に入れたし、あとは食感だけね。","fr":"C'est vrai. On a déjà de quoi assaisonner. Reste à trouver la bonne texture.|Ah oui. On a déjà de quoi assaisonner. Il reste juste la texture à trouver."}
+{"id":1538800,"jp":"肉料理は好きじゃないのだ。\nルミィさまの手伝いは期待するんじゃないぞ。","fr":"La grande Lumi n'aime pas les plats à base de viande.\nCompte pas sur elle pour t'aider !"}
+{"id":1538801,"jp":"私も……お力になれずすみません。","fr":"Pardonnez-moi… Je ne peux pas vous aider non plus."}
+{"id":1538802,"jp":"肉の食感を再現するなら……これだ！|肉の食感を再現するなら……これね！","fr":"Pour retrouver la texture de la viande… voilà ce qu'il faut !|Pour retrouver la texture de la viande… c'est ça qu'il nous faut !"}
 {"id":1538803,"jp":"じゃじゃーん！完成！","fr":"Tadaa ! Terminé !"}
+{"id":1538804,"jp":"こ、これって！肉団子じゃないか！？","fr":"M-mais… c'est une boulette de viande ?!"}
+{"id":1538805,"jp":"肉は使ってないよ。シンゲツイモと野菜を混ぜて、肉の食感を再現……","fr":"Y a pas de viande dedans. J'ai mélangé de la patate Nouvelle-Lune et des légumes pour retrouver la texture…"}
+{"id":1538806,"jp":"そこに豆板醤とうまみの出る調味料を入れて、肉の味を作ってみたんだ。|そこに豆板醤とうまみの出る調味料を入れて、肉の味を作ってみたの。","fr":"J'ai ajouté du doubanjiang et de quoi relever le tout pour essayer de retrouver le goût de la viande.|Ensuite, j'ai mis du doubanjiang et un assaisonnement bien corsé pour que ça ait le goût de la viande."}
+{"id":1538807,"jp":"翼人の好みや持ち運ぶことも考えると、この丸い形がベストだと思う。","fr":"Je pense que c'est mieux de les faire rondes. Ça devrait plaire aux Ailés, et c'est facile à emporter."}
 {"id":1538808,"jp":"さあ、召し上がれ！","fr":"Allez, régalez-vous !"}
 {"id":1538809,"jp":"う、うん……！","fr":"O-oui… !"}
 {"id":1538810,"jp":"食ってみるか……","fr":"On goûte, alors…"}
 {"id":1538811,"jp":"いただきまーす！","fr":"Bon appétit !"}
 {"id":1538812,"jp":"こ、これ……！","fr":"C-ceci… !"}
 {"id":1538813,"jp":"肉じゃないか！？","fr":"Mais c'est de la viande !?"}
+{"id":1538814,"jp":"すごい！味！食感！ぜーんぶ本物の肉団子と同じ！","fr":"Incroyable ! Même sous la dent, on dirait une vraie boulette de viande ! Et le goût, c'est tout pareil !"}
+{"id":1538815,"jp":"やっぱり肉が一番だな！カンペキだ！この料理は完成されてるぞ！","fr":"Rien de meilleur que la viande ! Là, c'est parfait ! On le tient, notre plat !"}
+{"id":1538816,"jp":"この料理の名前は！？ボス、オイラにも教えてよ！","fr":"Ça s'appelle comment ? Dis-moi, Chef !"}
+{"id":1538817,"jp":"そうだな、名付けて――|そうだね、名付けて――","fr":"Voyons… Je vais appeler ça…|Alors… Et si j'appelais ça…"}
+{"id":1538818,"jp":"星臨者特製！おいしくて持ち運べる野菜肉団子。","fr":"La spécialité de l'Enfant des étoiles ! Les boulettes de légumes façon viande, délicieuses et faciles à emporter."}
+{"id":1538819,"jp":"星臨者特製！おいしくてさっぱりの野菜肉団子。","fr":"La spécialité de l'Enfant des étoiles ! Les boulettes de légumes façon viande, légères et savoureuses."}
+{"id":1538820,"jp":"星臨者特製！野菜嫌いもだーい好き野菜肉団子。","fr":"La spécialité de l'Enfant des étoiles ! Les boulettes de légumes façon viande qui font adorer les légumes à ceux qui les détestent."}
 {"id":1538821,"jp":"長すぎるのだ！","fr":"Beaucoup trop long !"}
+{"id":1538822,"jp":"『星臨者の野菜肉団子』でよくないか？","fr":"On peut dire juste « les boulettes de légumes de l'Enfant des étoiles », non ?"}
+{"id":1538823,"jp":"星臨者の野菜肉団子……\nまさか畑から肉が育つなんてな！驚いたぞ！","fr":"Les boulettes de légumes de l'Enfant des étoiles…\nQui aurait cru qu'on pouvait faire pousser de la viande dans un champ ? Ça alors !"}
+{"id":1538824,"jp":"これなら、村のみんなも、翼人たちも……きっと好きだよね。","fr":"Ça va plaire à tout le village… et aux Ailés aussi, j'en suis sûre."}
+{"id":1538825,"jp":"肉を使っていないのでしたら、私もひと口だけ……","fr":"S'il n'y a pas de viande, j'en prendrais bien une bouchée…"}
+{"id":1538826,"jp":"ルミィさまも食べてみたいぞ！","fr":"La grande Lumi aussi, elle veut goûter !"}
+{"id":1538827,"jp":"わたしも、星臨者さまの料理をいただいてみたいです。","fr":"Enfant des étoiles, j'aimerais bien goûter à votre plat, moi aussi."}
+{"id":1538828,"jp":"うぅ……星臨者ってほんとにすごいんだな！なんでもできるし……\nもしかして、ソザンカさまからの贈りものなのか！？","fr":"Oh là là… Enfant des étoiles, tu sais vraiment tout faire !\nC'est Dame Sozanka qui t'a envoyé à nous, ou quoi ?!"}
+{"id":1538829,"jp":"野菜肉団子、もうなくなっちゃうね。","fr":"Il reste presque plus de boulettes…"}
+{"id":1538830,"jp":"えっ！お、おいおい、もう！？","fr":"Hein ? M-mais attends, déjà ?!"}
+{"id":1538831,"jp":"わたし、そんなに食べてないはず……？むうぅ……","fr":"J'en ai pas mangé tant que ça, quand même… Si ? Mmmh…"}
+{"id":1538832,"jp":"もぐもぐもぐもぐもぐ……","fr":"Miam miam miam miam miam…"}
+{"id":1538833,"jp":"リリカ！そのおなか、どうなってんだ！ちょっと残しといてくれ！","fr":"Lyrica ! Mais où tu mets tout ça ? Laisse-nous-en un peu !"}
+{"id":1538834,"jp":"材料ならまだあるから、もっと作るよ。","fr":"Il reste des ingrédients. Je vais en refaire."}
+{"id":1538835,"jp":"よかった。明日、翼人の皆さんにもこれをお届けしましょう！","fr":"Tant mieux. Demain, allons en porter aux Ailés !"}
+{"id":1538836,"jp":"『星臨者の野菜肉団子』の食材、すぐに育てるね、ボス！","fr":"Je vais faire pousser tout ce qu'il faut pour les « boulettes de légumes de l'Enfant des étoiles », Chef ! Je m'y mets tout de suite !"}
+{"id":1538837,"jp":"ウルにも食べさせてやりたいな。きっと元気になるぞ！","fr":"J'aimerais bien en faire goûter à Uru, moi. Ça va lui redonner des forces !"}
+{"id":1538838,"jp":"それなら、一緒にウルのようすを見に行こう、お姉ちゃん。","fr":"Alors, allons voir ensemble comment il va, grande sœur."}
 {"id":1538839,"jp":"ウル！","fr":"Uru !"}
+{"id":1538840,"jp":"しー！お姉ちゃん、ウルは眠ってるから。","fr":"Chut, grande sœur ! Uru dort."}
+{"id":1538841,"jp":"あっ、そっか！でも、せっかくおいしいものを持ってきたし……\n星臨者特製の野菜肉団子だぞ！","fr":"Ah, oui ! Mais on lui a apporté un truc trop bon…\nLes boulettes de légumes de l'Enfant des étoiles !"}
+{"id":1538842,"jp":"起きたな！はらがすいただろう。ほら、食ってみろ！","fr":"Ah, tu te réveilles ! Tu dois avoir faim. Tiens, goûte !"}
 {"id":1538843,"jp":"どうだ？うまいか？","fr":"Alors ? C'est bon, non ?"}
 {"id":1538844,"jp":"ウォーン♪","fr":"Ouuuh♪"}
+{"id":1538845,"jp":"ふふ、元気になりましたね！よかったです！","fr":"Hé hé, vous allez mieux ! Ça me fait plaisir !"}
+{"id":1538846,"jp":"うん、気に入ってくれたみたい。","fr":"Oui, on dirait que ça lui plaît."}
+{"id":1538847,"jp":"星臨者さま……\n今日はもう遅いですし、ここで食事にするのはどうですか。","fr":"Enfant des étoiles…\nIl se fait tard. Et si on mangeait ici ?"}
+{"id":1538848,"jp":"さっきは料理に夢中で食べていませんでしたよね？\nわたしがお食事を作りますから、少々お待ちください。","fr":"Vous avez passé tellement de temps à cuisiner que vous n'avez rien mangé, n'est-ce pas ?\nJe vais préparer le repas. Attendez-moi un instant."}
+{"id":1538849,"jp":"りょ、料理なら大丈夫なはずだよな……","fr":"U-un simple repas, ça devrait aller… hein ?"}
 {"id":1538850,"jp":"て、手伝ってくるよ。","fr":"J-je vais aider."}
+{"id":1538851,"jp":"ルルカと一緒に料理した。意外と息が合って、楽しくできた。","fr":"Vous avez cuisiné avec Luruka. À votre surprise, vous étiez bien en phase et vous avez passé un bon moment."}
 {"id":1538852,"jp":"はい、完成です！","fr":"Voilà, c'est prêt !"}
+{"id":1538853,"jp":"おお！ごちそーじゃないか！？","fr":"Oh là là, quel festin !"}
+{"id":1538854,"jp":"さっき試食でたくさんいただきましたが……\nこのごちそうを見たら、また食欲が湧いてきましたね。","fr":"J'ai déjà bien mangé en goûtant les boulettes tout à l'heure…\nMais à voir ce festin, j'ai de nouveau faim."}
+{"id":1538855,"jp":"ルミィさまは遠慮なくいただくぞ！","fr":"La grande Lumi va se régaler ! Pas question de se gêner !"}
+{"id":1538856,"jp":"星臨者さま、お味のほうはいかがですか？","fr":"Enfant des étoiles, comment trouvez-vous le repas ?"}
 {"id":1538857,"jp":"うん、おいしい！","fr":"Mm, délicieux !"}
+{"id":1538858,"jp":"（やっぱり普通の料理なら、ルルカは上手なんだ）|（やっぱり普通の料理なら、ルルカは上手みたい）","fr":"(En fait, Luruka cuisine très bien les plats ordinaires.)|(On dirait que Luruka se débrouille très bien avec les plats ordinaires.)"}
 {"id":1538859,"jp":"ふふ、よかったです。","fr":"Hé hé, tant mieux."}
+{"id":1538860,"jp":"ウル、こちらはさきほど特別に作った薬膳料理です。 \n回復効果があるはずですから、食べてみてください。","fr":"Uru, j'ai préparé ce plat aux herbes médicinales spécialement pour vous tout à l'heure.\nIl devrait avoir un effet de soin. Goûtez, je vous en prie."}
 {"id":1538861,"jp":"待て、ウル……！","fr":"Attends, Uru… !"}
+{"id":1538862,"jp":"んん？ウルはめちゃくちゃ気に入ってるみたいだぞ！？","fr":"Hein ? On dirait qu'Uru adore ça ?!"}
+{"id":1538863,"jp":"みなさんの反応を見て、味を調整しましたから。","fr":"J'ai rectifié le goût en voyant vos réactions."}
+{"id":1538864,"jp":"やっぱり……アタシたちで、試してたんだな？","fr":"Je m'en doutais… On t'a servi de cobayes, hein ?"}
+{"id":1538865,"jp":"ほっとするような居心地のよさのなか、喜び、くつろぎ……\n過ごしたのは短い時間でも、ここに家のような温もりを感じていた。\n楽しげな笑い声も次第に静かになり……すべてが静寂に包まれる。\n大地を優しく照らすタナの光のもと、夜の帳が降りてくる――","fr":"On riait, on se détendait… On était bien, ici.\nIl avait suffi de quelques instants pour s'y sentir comme chez soi.\nPeu à peu, les rires se sont tus, et le silence s'est installé.\nLa nuit est tombée sous la douce lumière de Tana."}
+{"id":1538866,"jp":"シンフォーリアが獣人の狩人たちに見守られながら、弓を引き絞る。\n矢がヒュンと飛んで、的の中心に命中した。","fr":"Sous les yeux des chasseurs furrien, Symphoria bande son arc.\nLa flèche siffle et se plante en plein dans le mille."}
+{"id":1538867,"jp":"さすがだ。僕もあんなふうにうまく射れたらなあ。","fr":"Sacré tir ! J'aimerais bien savoir tirer comme ça, moi aussi."}
+{"id":1538868,"jp":"いい腕だ。私も弓にはそれなりに自信があるが、ほとんど狙わずにこれほどの精度は出せん。","fr":"Beau tir. Je me débrouille à l'arc, mais toucher en plein milieu en visant à peine, ça, je ne saurais pas faire."}
+{"id":1538869,"jp":"ルミィ、星臨者さま、いらっしゃったのですね。","fr":"Ah, vous voilà, Lumi, Enfant des étoiles."}
+{"id":1538870,"jp":"シンフォーリア、熱心だね。|シンフォーリア、熱心だね。","fr":"Tu t'entraînes dur, Symphoria.|Tu t'entraînes dur, Symphoria."}
+{"id":1538871,"jp":"シンフォーリア先生！|シンフォーリア先生！","fr":"Maîtresse Symphoria !|Maîtresse Symphoria !"}
+{"id":1538872,"jp":"僕も、弓を教わりたいな。|私も、弓を教わりたいな。","fr":"Tu veux bien m'apprendre à tirer, à moi aussi ?|Tu veux bien m'apprendre à tirer, à moi aussi ?"}
+{"id":1538873,"jp":"では、星臨者さまもやってみますか？","fr":"Vous voulez essayer, Enfant des étoiles ?"}
+{"id":1538874,"jp":"シンフォーリアに教わりながら弓を構える。","fr":"Vous avez levé l'arc en suivant les indications de Symphoria."}
+{"id":1538875,"jp":"その調子です。もうすこし手を高い位置に……","fr":"C'est bien. Levez la main encore un peu…"}
+{"id":1538876,"jp":"シンフォーリアは背中に手を添えて教えてくれる。\n近づいたときの息遣いまではっきり聞こえてきた。","fr":"Symphoria a posé une main dans votre dos pour vous guider.\nElle s'est approchée si près que vous avez entendu son souffle."}
+{"id":1538877,"jp":"そのまま、的の中心に狙いを定めて、風の流れを感じて――","fr":"Voilà. Maintenant, visez le centre de la cible et sentez d'où vient le vent…"}
 {"id":1538878,"jp":"シュッ！","fr":"Chhh !"}
+{"id":1538879,"jp":"緊張しすぎて、矢は完全に的を外れてしまった。","fr":"Vous avez laissé la nervosité prendre le dessus, et la flèche est passée loin de la cible."}
+{"id":1538880,"jp":"はじめてですから、当たらないのは当然です。\nすこし練習すればきっとできるようになりますよ。","fr":"C'est votre premier tir. Ça arrive de rater la cible.\nAvec un peu d'entraînement, je suis sûre que vous y arriverez."}
+{"id":1538881,"jp":"教えてくれてありがとう、シンフォーリア先生。","fr":"Merci pour la leçon, maîtresse Symphoria."}
+{"id":1538882,"jp":"い、いえ……私はただ……\n皆さんが凶獣と戦えるように、手助けしたいだけなんです。","fr":"D-de rien… Je voulais juste…\nvous aider à vous défendre contre les Bêtes maudites."}
+{"id":1538883,"jp":"星臨者さまは、風隠れ岩に向かうためにいらしたのでしょう。\n私もご一緒してよいでしょうか。","fr":"Vous êtes là pour partir au Roc Coupe-Vent, Enfant des étoiles ?\nPuis-je vous accompagner ?"}
+{"id":1538884,"jp":"うん、野菜肉団子の準備もばっちりだよ。","fr":"Oui, et les boulettes de légumes sont prêtes."}
 {"id":1538885,"jp":"野菜肉団子ってなに？","fr":"C'est quoi, des boulettes de viande aux légumes ?"}
+{"id":1538886,"jp":"名前からして、なにかうまいものだな！","fr":"Rien que le nom, ça donne faim !"}
+{"id":1538887,"jp":"フフ～ン！星臨者が新しく開発した料理なのだ！\n野菜だけど味も食感も肉そっくりだぞ！","fr":"Hé hé ! C'est une recette que l'Enfant des étoiles vient d'inventer !\nC'est fait avec des légumes, mais on dirait de la viande, même sous la dent !"}
+{"id":1538888,"jp":"な、なんだって！どこで食べられるんだ？","fr":"S-sérieux ? On peut goûter ça où ?"}
+{"id":1538889,"jp":"食べたいなら、家でごちそうするよ。","fr":"Passe à la maison si tu veux goûter. Je t'en servirai."}
+{"id":1538890,"jp":"じゃあ、すぐに行こう！","fr":"Alors, on y va tout de suite !"}
+{"id":1538891,"jp":"隊長……今日の訓練は……","fr":"Capitaine… et l'entraînement d'aujourd'hui…"}
+{"id":1538892,"jp":"いいや。訓練をさぼるのは許さん。","fr":"Non. Personne ne sèche l'entraînement."}
+{"id":1538893,"jp":"心を鍛えることも学ばねばな。\n昔の民兵隊の訓練なら、お前たちは今日一食も食えんところだ。","fr":"Il faut aussi vous forger le mental.\nÀ l'époque de l'ancienne milice, vous n'auriez rien mangé de la journée."}
+{"id":1538894,"jp":"でも、それは村ができたばかりのころの話で……\nお祖母ちゃんは、当時の隊長は自分には厳しかったけど\nまわりにはとても優しかったと……","fr":"Mais ça, c'était quand le village venait d'être fondé…\nD'après ma grand-mère, la capitaine de l'époque était dure avec elle-même,\nmais elle était très gentille avec les autres…"}
+{"id":1538895,"jp":"ふむ？それなら私もお前たちに厳しくするのはやめておこう。\nその代わり、村の守りは私に任せておけ。","fr":"Ah oui ? Alors je vais arrêter de vous mener la vie dure.\nEn échange, laissez-moi défendre le village."}
+{"id":1538896,"jp":"そんな！村を守るのは僕らの誇りなのに！\n野菜肉団子、ちょっと待っててくれよ！","fr":"Ah non ! Défendre le village, c'est notre fierté !\nLes boulettes, vous allez devoir nous attendre un peu !"}
+{"id":1538897,"jp":"そ、そうですよ！民兵隊はこの程度の訓練で挫けません。\nさあ、続けましょう！","fr":"O-oui ! Il en faut plus pour décourager la milice.\nAllez, reprenons !"}
+{"id":1538898,"jp":"ああ、だが続きは食べてからだ。その分、訓練は倍にする。","fr":"Oui, après avoir mangé. En échange, vous ferez deux fois plus d'exercices."}
+{"id":1538899,"jp":"倍に！？さいっこーだ！行こういこう！","fr":"Deux fois plus ? Trop bien ! Allez, on y va !"}
+{"id":1538900,"jp":"はあ……レジェラ、おまえな……","fr":"Ah là là… Regera, je te jure…"}
+{"id":1538901,"jp":"星臨者さま、調理場を空けても大丈夫でしょうか？","fr":"Enfant des étoiles, vous pouvez vous absenter de la cuisine sans problème ?"}
+{"id":1538902,"jp":"問題ないよ。カークとチルルに任せてあるし、レシピもリリカに渡したから。","fr":"Oui, Kirk et Chilul s'en occupent, et j'ai donné la recette à Lyrica."}
+{"id":1538903,"jp":"いまは翼人に野菜肉団子を渡して、シャルル村と手を取り合えるようにするのが最優先。","fr":"Pour l'instant, le plus urgent, c'est d'apporter les boulettes aux Ailés pour qu'ils acceptent de s'allier au Village de Charlulu."}
+{"id":1538904,"jp":"そうですね。ですが、食料不足とはいえ……\n翼人の皆さんは野菜肉団子を受け入れてくれるでしょうか？","fr":"Oui, mais même s'ils manquent de vivres…\nvous pensez qu'ils accepteront les boulettes ?"}
+{"id":1538905,"jp":"駆け引きが必要かも。\nお互いが必要とする切り札を手元に持っていれば、成立するはず。","fr":"Il va peut-être falloir négocier.\nSi chacun a de quoi offrir à l'autre ce qui lui manque, on devrait pouvoir s'entendre."}
+{"id":1538906,"jp":"駆け引き？切り札？\n星臨者、キミどこでそんな知識を仕入れてるのだ……？","fr":"Négocier ? Offrir quoi, au juste ?\nMais où t'as appris tout ça, Enfant des étoiles… ?"}
+{"id":1538907,"jp":"ふふっ、以前お会いした、もうひとりの星臨者さまもそうでした。\nやはり、星臨者さまは皆、変わっておられますね。","fr":"Hi hi, l'autre Enfant des étoiles que j'ai eu l'occasion de rencontrer était comme vous.\nVous êtes décidément tous un peu à part."}
 {"id":1538908,"jp":"もうひとりの星臨者？","fr":"Un autre Enfant des étoiles ?"}
+{"id":1538909,"jp":"はい。その方は律法に精通した英雄で、ハイガーデンと深い繋がりのある方です。\nいつかきっと会えるでしょう。","fr":"Oui. C'est une figure héroïque qui connaît la Loi sur le bout des doigts et qui a des liens étroits avec High Garden.\nJe suis sûre que vos chemins se croiseront un jour."}
+{"id":1538910,"jp":"そうか……ほかの星臨者なら、僕の過去を知っているかもしれない。|そうか……ほかの星臨者なら、私の過去を知っているかもしれない。","fr":"Je vois… L'autre Enfant des étoiles sait peut-être quelque chose sur mon passé.|Je vois… L'autre Enfant des étoiles sait peut-être quelque chose sur mon passé."}
+{"id":1538911,"jp":"ええ、星臨者同士なら、きっと助けあえるはずです。","fr":"Oui, entre Enfants des étoiles, vous devriez pouvoir vous entraider."}
+{"id":1538912,"jp":"そうだったらいいな……\nさて、行くまえに、村長のところに行って挨拶しよう。","fr":"J'espère…\nAllez, on passe saluer le Chef du village avant de partir."}
+{"id":1538913,"jp":"ほっほ、翼人の里へ行く準備はできたようじゃのう？","fr":"Ho ho ! On dirait que tout est prêt pour le départ au Village des Ailés, hein ?"}
+{"id":1538914,"jp":"その料理……なんと言ったか……野菜肉団子じゃったか？\nさっきウーチがここにも持ってきてくれたぞ。","fr":"Ce plat… Comment tu l'appelles déjà ? Des boulettes de légumes, c'est ça ?\nUchi m'en a apporté tout à l'heure."}
+{"id":1538915,"jp":"驚いたのう。こんなものを食べたのは、わしもはじめてじゃ。","fr":"Eh bien, quelle surprise ! De toute ma vie, je n'avais jamais rien goûté de pareil."}
+{"id":1538916,"jp":"村長さま、野菜肉団子だけで翼人たちを説得できると思われますか？","fr":"Chef du village, pensez-vous que les boulettes de légumes suffiront à convaincre les Ailés ?"}
+{"id":1538917,"jp":"そうじゃな……まだ、なにか大切なものが欠けておるかもしれんのう……","fr":"Eh bien… Il manque peut-être encore quelque chose d'important…"}
+{"id":1538918,"jp":"はぐらかすのはやめるのだ！なにか考えがあるなら手短に！","fr":"Arrête de tourner autour du pot ! Si t'as une idée, dis vite !"}
+{"id":1538919,"jp":"わしにも断言できん……\nだが、翼人は昔から誇り高く、尊厳と栄誉を命より重んじておる。","fr":"Je ne peux rien te garantir…\nMais les Ailés ont toujours été fiers. Leur dignité et leur honneur passent avant leur vie."}
+{"id":1538920,"jp":"生き延びるためという理由だけで、シャルル村との協力を説得するのは難しいじゃろう。","fr":"On aura du mal à les convaincre de s'allier au Village de Charlulu si le seul argument, c'est leur survie."}
+{"id":1538921,"jp":"彼らの誇りを傷つけない『理由』を考えねばならんのう。","fr":"Il faut leur donner une raison d'accepter qui ménage leur fierté."}
+{"id":1538922,"jp":"そのことで……村長にひとつ頼みがあるんだ。|そのことで……村長にひとつ頼みがあるの。","fr":"Justement… Chef, j'ai un service à te demander.|Justement… Chef, j'ai un service à te demander."}
 {"id":1538923,"jp":"なんじゃ？","fr":"Qu'y a-t-il ?"}
+{"id":1538924,"jp":"村長に近寄り、小声で考えを説明した。\n村長は笑みを浮かべて頷いた。","fr":"Vous avez fait un pas vers le Chef du village et lui avez glissé votre idée à l'oreille.\nIl a souri et hoché la tête."}
+{"id":1538925,"jp":"ほれ。これでどうじゃ。","fr":"Tiens. Ça te convient ?"}
 {"id":1538926,"jp":"ありがとう、村長。","fr":"Merci, chef du village."}
+{"id":1538927,"jp":"こら、星臨者！秘密主義はやめるのだ！\nなにをするつもりか、あたしたちにも言えないのか！？","fr":"Hé, Enfant des étoiles ! Fini les cachotteries !\nTu peux pas dire à la grande Lumi ce que t'as en tête ?!"}
+{"id":1538928,"jp":"きっとなにかお考えがあるのでしょう。\n私は、星臨者さまを信じています。","fr":"Vous avez sûrement votre idée.\nJe vous fais confiance, Enfant des étoiles."}
+{"id":1538929,"jp":"じゃあ、行ってくるね。","fr":"Bon, on y va. À plus tard !"}
 {"id":1538944,"jp":"またダメだったのか？","fr":"Encore raté ?"}
 {"id":1538945,"jp":"ルミィ！","fr":"Lumi !"}
 {"id":1538962,"jp":"違う、肉だよ。","fr":"Non, de la viande."}
