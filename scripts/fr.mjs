@@ -253,7 +253,7 @@ function todo(options) {
     if (row.jp.length > maxLength) continue;
     if (pattern && !pattern.test(row.jp) && !pattern.test(row.en ?? '')) continue;
     // Les termes du glossaire présents dans la ligne, pour traduire sans chercher ailleurs.
-    const terms = termsIn(row.jp, glossary).map((term) => `${term.jp} = ${term.fr.replace(/ | /g, ' ou ')} (${term.status})`);
+    const terms = termsIn(row.jp, glossary).map((term) => `${term.jp} = ${term.fr.split('|').map((v) => v.trim()).join(' ou ')} (${term.status})`);
     picked.push({ id: row.id, jp: row.jp, en: row.en, ...(terms.length ? { terms } : {}), fr: '' });
   }
   const out = options.out ? resolve(options.out) : join(WORK_DIR, `todo-${Date.now()}.jsonl`);
