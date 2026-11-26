@@ -75,6 +75,9 @@ Relevés dans les dialogues déjà traduits. Un traducteur les applique tels que
 - Luruka vouvoie le joueur. Popoi, Francisco, Ariana, l'employé de la Compagnie Tianjiang vouvoient le joueur. Momo, Enkaku, le boucher, Joy, Elro, Tinana, Libby tutoient.
 - Abby dit « Enfant des étoiles » sans déformation (せーりんしゃ).
 - Vouvoient aussi : Tiffy, Rani et Seal (pêcheurs), le parfumeur, la libraire d'Iton, la servante du manoir, l'employée de la poste. Tutoient aussi : Metsa, Lyrica (une Pammy, au féminin), Mamie Gumina, Mamie Ruma, Akuri, Rock, Sol, Tinana.
+- Vouvoient aussi : Juriri (couturière, appelle Lumi « Dame Fée »), Regera (envers le capitaine Ral). Tutoient aussi : Katalua, la femme en noir (« Évêque » pour le Culte), le spectre de Veka Shulaga (ton archaïque et hautain).
+- Symphoria vouvoie Metsa (« Sœur Metsa ») ; Luruka tutoie Terara (« grande sœur ») et vouvoie « Dame Lumi ».
+- Tana, la lune, est au féminin.
 
 ## Règles d'écriture
 
