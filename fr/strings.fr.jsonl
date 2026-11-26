@@ -42551,53 +42551,233 @@
 {"id":1538217,"jp":"あたしが助手！？\nそれに解き明かすもなにも、ユースベリーを盗み食いしたのは――","fr":"La grande Lumi, ton assistante ?!\nMais quel mystère ? Tout le monde a vu qui a piqué les baies…"}
 {"id":1538218,"jp":"ルミィ、この事件は見た目以上に複雑なんだ。\n調査には時間がかかる……覚悟はできてる？|ルミィ、この事件は見た目以上に複雑なの。\n調査には時間がかかる……覚悟はできてる？","fr":"Lumi, cette affaire est plus compliquée qu'elle en a l'air.\nL'enquête va prendre du temps… Tu es prête ?|Lumi, cette affaire est plus compliquée qu'elle en a l'air.\nL'enquête va prendre du temps… Tu es prête ?"}
 {"id":1538219,"jp":"はっ……！も、もちろんなのだ！\n名探偵、星臨者よ！この大妖精が、事件解決を完璧にサポートしてやる！","fr":"Ah… ! B-bien sûr !\nEnfant des étoiles, l'enquête est entre tes mains ! La Grande Fée sera à tes côtés jusqu'à ce que tu aies résolu l'affaire !"}
+{"id":1538220,"jp":"私はここに残ります。まだ村長さまのお話を聞きたいですから。\nシャルル村の伝承は本当に素敵ですね……","fr":"Je vais rester ici. J'aimerais encore vous écouter, monsieur le Chef du village.\nLes légendes du Village de Charlulu sont si belles…"}
+{"id":1538221,"jp":"うん。僕たちに任せて。ルミィ、行こう！|うん。私たちに任せて。ルミィ、行くよ！","fr":"D'accord, on s'en charge. Lumi, on y va !|D'accord, on s'en charge. Allez, Lumi !"}
+{"id":1538222,"jp":"ガドリごとき、すぐ捕まえるのだ！","fr":"Un petit Gadori comme ça ? La grande Lumi l'attrapera en deux temps trois mouvements !"}
+{"id":1538223,"jp":"あっ、あそこにいたぞ！","fr":"Ah, là-bas !"}
+{"id":1538224,"jp":"おい、大丈夫か？気を強くもて！","fr":"Hé, ça va ? Tiens bon !"}
 {"id":1538225,"jp":"うぅ……苦い……","fr":"Aïe… amer…"}
+{"id":1538226,"jp":"おなか……すいたよう……","fr":"J'ai… trop faim…"}
+{"id":1538227,"jp":"え？寝てたんじゃなくて、おなかが空きすぎて気絶してたのか？","fr":"Hein ? Tu dormais pas ? Tu t'es évanouie parce que t'avais trop faim ?"}
+{"id":1538228,"jp":"はぁ……考えてみれば、あたしも今日はあの苦いフルーツ一個しか食べてないのだ。\n朝から動いてるのに……","fr":"Pfff… Maintenant qu'elle y pense, la grande Lumi n'a mangé que cette baie amère aujourd'hui.\nEt elle court partout depuis ce matin…"}
+{"id":1538229,"jp":"うわぁ～ムリムリ！おなかペコペコすぎて、もうムリなのだ！\nいますぐなにか食べないと！","fr":"Aaah, la grande Lumi n'en peut plus ! Elle meurt de faim !\nIl lui faut à manger, tout de suite !"}
+{"id":1538230,"jp":"うん、農園に戻ろうか。","fr":"Oui, rentrons à la ferme."}
+{"id":1538231,"jp":"まだ動ける？なにか食べに行こう。","fr":"Tu peux marcher ? On va manger un morceau."}
+{"id":1538232,"jp":"むぅ……うん……行く。","fr":"Mmh… Oui… Je viens."}
+{"id":1538233,"jp":"（どんな料理を作ろうかな）","fr":"(Qu'est-ce que je pourrais leur préparer ?)"}
 {"id":1538234,"jp":"激辛エイプル。","fr":"Aple ultra épicé."}
 {"id":1538235,"jp":"がっつり炭火炙り肉。","fr":"Viande grillée au charbon bien généreuse."}
 {"id":1538236,"jp":"至高のポポパイ。","fr":"Tarte Popo suprême."}
 {"id":1538237,"jp":"できた！","fr":"Terminé !"}
+{"id":1538238,"jp":"かっ、辛すぎるぞ！？星臨者、あたしは火の妖精じゃないのだ！","fr":"Ç-ça arrache ! Enfant des étoiles, tu prends la grande Lumi pour une fée du feu ?!"}
+{"id":1538239,"jp":"辛くしすぎちゃったか……|辛くしすぎちゃったかな……","fr":"J'ai forcé sur le piment…|J'ai peut-être forcé sur le piment…"}
+{"id":1538240,"jp":"この感じ、辛いのと甘いのがぶつかって……\n情熱と閃きが、あふれて……！すっごく、おいしいと思う……！","fr":"Oh… En bouche, le piment et le sucre s'entrechoquent…\nÇa déborde de passion, ça fait des étincelles… ! Je trouve ça… super bon !"}
 {"id":1538241,"jp":"うぅ、でも……","fr":"Mmm, mais…"}
 {"id":1538242,"jp":"どうかした？","fr":"Un problème ?"}
 {"id":1538243,"jp":"そ、その……むぅ……","fr":"C-c'est que… euh… hmm…"}
+{"id":1538244,"jp":"も、もっと食べても……いいかな？","fr":"J-je peux… en reprendre ?"}
+{"id":1538245,"jp":"（おなかがすいてるときは、やっぱり肉でエネルギー補給だ！）|（おなかがすいてるときは、やっぱり肉でエネルギー補給よ！）","fr":"(Rien de tel que la viande pour refaire le plein d'Énergie quand on a faim !)|(Quand on a faim, la viande, c'est l'idéal pour refaire le plein d'Énergie !)"}
+{"id":1538246,"jp":"あの……その、お肉、食べないの？","fr":"Euh… ta viande, tu la manges pas ?"}
+{"id":1538247,"jp":"こんな油まみれの料理より……\n新鮮なフルーツと甘いデザートのほうがおいしいに決まってるのだ！","fr":"Regarde-moi ce plat, il dégouline de gras…\nLa grande Lumi préfère les fruits frais et les desserts. C'est bien meilleur !"}
+{"id":1538248,"jp":"でも、お肉、食べないと強くなれない……戦うために、食べなきゃ。","fr":"Mais pour devenir forte, il faut que je mange de la viande… J'en ai besoin pour me battre."}
+{"id":1538249,"jp":"肉は……大事！うんっ。","fr":"La viande… c'est important ! Oui !"}
 {"id":1538250,"jp":"あむっ。","fr":"Miam."}
+{"id":1538251,"jp":"うぅ！こ、これ、すごくおいしい……おいしすぎる……\nうぅ、こんなにおいしいのに、そのうち食べれなくなっちゃったら、ど、どうしよう……？","fr":"Mmm ! C-c'est trop bon… Beaucoup trop bon…\nEt si un jour je peux plus en manger… Qu-qu'est-ce que je vais faire ?"}
 {"id":1538252,"jp":"大袈裟すぎるのだ……","fr":"Tu en fais beaucoup trop…"}
+{"id":1538253,"jp":"これ、キボの好物じゃないか。ルミィさまは妖精！キボじゃないのだ！","fr":"Mais c'est le plat préféré des Kibo, ça ! La grande Lumi est une fée, tu te souviens ?!"}
+{"id":1538254,"jp":"くんくん、穀物とお花のにおい……すっごく、おいしい……！","fr":"Snif, snif… Ça sent les céréales et les fleurs… C'est trop bon !"}
+{"id":1538255,"jp":"待てまて。それはキボの食べものだと言ったばかりだぞ？なんで食べてるのだ？","fr":"Mais attends ! La grande Lumi vient de te dire que c'était pour les Kibo ! Pourquoi tu en manges ?"}
+{"id":1538256,"jp":"うわぁ！大盛りがあっというまに！？","fr":"Hein ?! T'as déjà vidé toute cette assiette ?!"}
+{"id":1538257,"jp":"おい、ルミィさまが食べたいものがひとつもないぞ！\n星臨者、ぜーんぶムリなのだ！","fr":"Hé, y a rien qui fasse envie à la grande Lumi !\nEnfant des étoiles, rien du tout !"}
+{"id":1538258,"jp":"フルーツの大皿！新鮮なジュース！プチデザート！","fr":"Un grand plateau de fruits ! Du jus frais ! Des petits desserts !"}
+{"id":1538259,"jp":"ルミィの抗議を受けつつ、できるかぎりの料理を用意した。","fr":"Vous avez préparé autant de plats que possible pendant que Lumi protestait."}
+{"id":1538260,"jp":"ルミィはぶつぶつ言いながら、すべて平らげた。","fr":"Lumi a tout englouti en ronchonnant."}
+{"id":1538261,"jp":"体調はもう大丈夫そう？","fr":"Tu te sens mieux ?"}
+{"id":1538262,"jp":"う、うん！ごちそう、ありがとう……って、あ……あなた、もしかして……！","fr":"O-oui ! Merci pour le repas… Oh, mais… Toi, tu serais… ?"}
+{"id":1538263,"jp":"人間……あ、あの、テララが言ってた……星臨者さん？","fr":"Un être humain… E-Euh, c'est toi, l'Enfant des étoiles dont Terara m'a parlé ?"}
+{"id":1538264,"jp":"人間より、妖精のほうがめずらしいのだ！","fr":"Les fées sont bien plus rares que les êtres humains, figure-toi !"}
+{"id":1538265,"jp":"うん、僕は{playerName}。さっきはどうして倒れてたんだ？|うん、私は{playerName}。さっきはどうして倒れてたの？","fr":"Oui, moi c'est {playerName}. Pourquoi tu t'es effondrée tout à l'heure ?|Oui, je m'appelle {playerName}. Pourquoi tu t'es effondrée tout à l'heure ?"}
+{"id":1538266,"jp":"わ、わたし、民兵隊の、カタル……","fr":"M-moi, c'est Katalua… Je fais partie de la milice."}
+{"id":1538267,"jp":"その……昨日の夜、見張り番……交替して、休もうとしたの……\nけど、おなかが空いちゃって……木に寄りかかったら……","fr":"Euh… Hier soir, on m'a relevée de ma garde… J'allais me reposer…\nMais j'avais tellement faim… Je me suis appuyée contre un arbre…"}
+{"id":1538268,"jp":"そのまま、動けなくなって……","fr":"Et là… impossible de bouger…"}
+{"id":1538269,"jp":"民兵隊はほんとに疲れてるのだ。あの門番の、ソールだったか？\nあの男も門のまえでうとうとしてたし……","fr":"Toute la milice est à bout. Le garde, là… Sol, c'est ça ?\nLui aussi, il piquait du nez devant la porte…"}
+{"id":1538270,"jp":"ん……最近、ずっと大変で……","fr":"Mmh… Ça fait un moment que c'est dur…"}
+{"id":1538271,"jp":"見回りだけじゃなくて……いきなり暴れるキボとか、いきなり現れる凶獣とか……\n全部、なんとかしないと、いけなくて……","fr":"Entre les rondes… les Kibo qui se déchaînent sans prévenir, les Bêtes maudites qui surgissent de nulle part…\nIl faut bien qu'on s'occupe de tout ça…"}
+{"id":1538272,"jp":"みんな、ずっと……休めてない……","fr":"Ça fait un moment que personne n'a pu souffler…"}
+{"id":1538273,"jp":"それに、最近おかしな事件があって……\n見張りに立てる民兵が、どんどん減ってるの……","fr":"Et puis, il s'est passé un truc bizarre, dernièrement…\nOn est de moins en moins à pouvoir monter la garde…"}
+{"id":1538274,"jp":"わたし、みんなを助けたくて……ときどき代わったりしてる、けど……","fr":"Je voudrais aider les autres… Alors je prends leur tour de garde, des fois, mais…"}
+{"id":1538275,"jp":"おかしな事件って？話を聞かせて。一緒に解決するから！","fr":"Quel genre de truc bizarre ? Raconte-moi. On va régler ça ensemble !"}
+{"id":1538276,"jp":"星臨者……キミ、シャルル村のトラブルに片っ端から首を突っ込んでるのだ！","fr":"Enfant des étoiles… Tu mets ton nez dans toutes les histoires du Village de Charlulu !"}
+{"id":1538277,"jp":"作物が育つのを待ってて暇だから。","fr":"Je m'ennuie en attendant que ça pousse à la ferme."}
+{"id":1538278,"jp":"ルミィのことだって、困ってたら助けるよ。","fr":"Et si un jour t'as des ennuis, Lumi, je t'aiderai aussi."}
+{"id":1538279,"jp":"はいはい、ほんとーにおせっかいなヤツ〜","fr":"Oui, oui… Faut toujours que tu te mêles de tout…"}
+{"id":1538280,"jp":"おぉ～ルミィさまは感動したぞ！\nフフン、お願いをいっぱい考えておかないとな！","fr":"Oooh… La grande Lumi en est toute émue !\nHé hé… Elle va te préparer toute une liste de services à lui rendre !"}
+{"id":1538281,"jp":"えと、おかしな事件の話……わたし、噂で聞いただけだから……\nちゃんと説明できるかな……","fr":"Euh… Pour cette histoire bizarre, tout ce que je sais, c'est ce qui se raconte…\nJ'ai peur de mal t'expliquer…"}
+{"id":1538282,"jp":"一緒に、監視塔、行く？詳しい話、そこで聞けると思う……","fr":"Tu viens à la tour de guet avec moi ? Je pense qu'on pourra t'en dire plus là-bas…"}
+{"id":1538283,"jp":"おいおい、もうすこし休んでなくて大丈夫か？\nさっきまでフラフラだったじゃないか。","fr":"Hé, doucement ! Tu veux pas te reposer encore un peu ?\nTu tenais à peine debout tout à l'heure."}
+{"id":1538284,"jp":"だ、大丈夫。おなかいっぱいになったから、もう元気だよ！","fr":"Ç-ça va ! J'ai le ventre plein, je suis en pleine forme !"}
+{"id":1538285,"jp":"それに、はやく事件を解決しないと……民兵隊のみんなのために……！","fr":"Et puis, il faut vite régler cette affaire… pour les autres, à la milice !"}
+{"id":1538286,"jp":"うん、ささっと片づけよう。","fr":"Oui, on va régler ça vite fait."}
+{"id":1538287,"jp":"自分のことも大事にしてね。","fr":"Pense à prendre soin de toi aussi."}
+{"id":1538288,"jp":"事件はできるだけさっと解決する。\nだから、そのあとはちゃんと休むんだよ。","fr":"On va régler cette affaire au plus vite.\nAprès ça, tu prends le temps de te reposer, d'accord ?"}
+{"id":1538289,"jp":"むぅ……あ、ありがとう。優しい、なあ。","fr":"Mmh… M-merci. C'est gentil de ta part."}
+{"id":1538290,"jp":"うん……倒れたら、みんなに迷惑をかけちゃうから……終わったら、ちゃんと休む、ね。","fr":"Oui… Si je tombe dans les pommes, je vais embêter tout le monde… Promis, je me reposerai quand ce sera fini."}
+{"id":1538291,"jp":"シャーマンさまが話してたとおり……\n星臨者さんは外から来た人だけど……優しくて、信頼できる……","fr":"La chamane avait raison…\nVous venez d'ailleurs, Enfant des étoiles, mais vous avez bon cœur. On peut vous faire confiance…"}
+{"id":1538292,"jp":"星臨者さん……あの、必要なら……いつでもわたしを呼んでね！","fr":"Enfant des étoiles… Euh, si vous avez besoin de moi… appelez-moi quand vous voulez !"}
 {"id":1538293,"jp":"うん、ありがとう！","fr":"Oui, merci !"}
 {"id":1538294,"jp":"約束だよ、えへへ。","fr":"C'est promis, hihi."}
 {"id":1538295,"jp":"大変！大変だよ！","fr":"Au secours ! Gros problème !"}
+{"id":1538296,"jp":"ポーヤ、落ち着いて……","fr":"Poya, du calme…"}
+{"id":1538297,"jp":"むぅ？ポーヤ……それにシャーマンさま？どうかしたの？","fr":"Hein ? Poya… et la chamane ? Qu'est-ce qui se passe ?"}
+{"id":1538298,"jp":"あっ、カタル！それにシャアモンさんと星臨者！","fr":"Ah, Katalua ! Et Shaamon ! Et toi aussi, Enfant des étoiles !"}
+{"id":1538299,"jp":"えーっと、どう説明すればいいかな……あの、例の『怖い話』のこと、まだ覚えてる？","fr":"Euh, par où commencer… Tu te souviens de cette histoire qui fait peur ?"}
+{"id":1538300,"jp":"ん？『怖い話』？なんだなんだ、ワクワクしてきたぞ！","fr":"Hein ? Une histoire qui fait peur ? Oh, raconte ! La grande Lumi veut savoir !"}
+{"id":1538301,"jp":"ポーヤ、あのおかしな事件のことなら……ちょうど、星臨者さん、解決しに来てくれたよ……","fr":"Poya, si vous parlez de ces drôles d'attaques… L'Enfant des étoiles vient justement nous aider à tirer ça au clair…"}
+{"id":1538302,"jp":"え、本当に！？助かったよ！","fr":"Hein, vraiment ?! Ah, tu nous sauves !"}
+{"id":1538303,"jp":"最近さ、森に採集や狩りに出た村のみんなが襲撃を受けてて……","fr":"Ces derniers temps, les gens du village se font attaquer quand ils vont chasser ou cueillir des trucs dans la forêt…"}
+{"id":1538304,"jp":"ケガはないけど、装備も服もぜーんぶ剥ぎ取られちゃってさ！","fr":"Ils s'en sortent sans une égratignure, mais on leur pique tout, jusqu'à leurs fringues !"}
+{"id":1538305,"jp":"事情を聞いても、にたにた笑うか、泣きじゃくるかで、なんにも答えてくれないし……\nなんか、取り憑かれちゃったみたいな感じで……","fr":"Quand on leur demande ce qui s'est passé, ils nous font un sourire bizarre ou fondent en larmes. Impossible de leur tirer un mot…\nOn dirait qu'ils sont possédés…"}
+{"id":1538306,"jp":"近ごろそんなことばっかりで、民兵隊のみんなが調査に行ったんだけど……","fr":"À force, la milice a fini par aller voir ce qui se passait, mais…"}
+{"id":1538307,"jp":"みんな……ロンク、カラーカ、マルティナ、トゥラゴ、アヒ、フレイム……","fr":"Ils y sont tous allés… Ronk, Karaka, Martina, Turago, Ahi, Flame…"}
+{"id":1538308,"jp":"待てまて！そんなに大勢で行ったのか？","fr":"Attends, attends ! Ils y sont allés à autant ?"}
+{"id":1538309,"jp":"うん。最初はひとりずつ行ったけど……戻ってこなかったからさ……","fr":"Ouais. Ils y sont allés un par un, au début… Sauf qu'ils revenaient pas…"}
+{"id":1538310,"jp":"「任せて！絶対に連れて帰るから」","fr":"« Comptez sur moi ! Je vous les ramènerai, promis ! »"}
+{"id":1538311,"jp":"「そう……ロンクはさきに行ったのね？\nこれ以上、負傷者が増えるのは見ていられないわ、つぎは私が……」","fr":"« Je vois… Ronk est déjà parti ?\nJe vais pas attendre qu'il y ait d'autres blessés. J'y vais… »"}
+{"id":1538312,"jp":"「「<ruby=ろくでなしめ>クーカ</ruby>」！つぎはオレの番だな！」","fr":"« Kuka ! Bon, à mon tour ! »"}
+{"id":1538313,"jp":"「5人も戻ってきてないのかぁ。どうしようかな〜僕ひとりじゃ、5人も運べないよ……」","fr":"« Cinq qui manquent à l'appel, déjà ? Comment je vais faire, moi ? Je peux pas porter cinq personnes tout seul… »"}
+{"id":1538315,"jp":"みんなで行けばよかったのだ！\n大蜘蛛退治の伝説みたいに、ひとりずつ隊士が犠牲になるなんて。\nはぁ、頭が痛くなってきたぞ……","fr":"Ils auraient dû y aller tous ensemble !\nDans la légende de l'araignée géante aussi, ils se font avoir un par un.\nPfff… La grande Lumi en a mal à la tête…"}
 {"id":1538316,"jp":"大蜘蛛退治って？","fr":"La chasse à la grande araignée ?"}
+{"id":1538317,"jp":"ん？ああ、エルフの伝説なのだ。\n助けてくれたエルフのじいさんを救おうと、山奥に大蜘蛛退治に向かった\nパミーたちがひとり、またひとり……","fr":"Hein ? Ah oui, c'est une légende des Elfes.\nPour sauver le vieil Elfe qui les avait aidés, les Pammys sont partis au fin fond des montagnes\npour tuer une araignée géante. Et là, l'un après l'autre…"}
+{"id":1538318,"jp":"なんか、どこかで聞いたことがあるような……","fr":"J'ai l'impression d'avoir déjà entendu ça quelque part…"}
+{"id":1538319,"jp":"そんなわけで、民兵隊のみんなが戻ってこないから、テララに頼もうとしたんだ。\nそしたら、朝から出かけてたからさ。","fr":"Comme personne de la milice revenait, j'ai voulu demander de l'aide à Terara.\nMais elle était sortie depuis ce matin."}
+{"id":1538320,"jp":"話を聞いたシャーマンさまが手伝ってくれるって。\nほんとに助かったよ……","fr":"La chamane a entendu ce qui se passait et elle a proposé de nous aider.\nÇa m'a vraiment soulagée…"}
+{"id":1538321,"jp":"ルルカ、タナの火祭りの準備は？","fr":"Luruka, où en sont les préparatifs de la fête du feu de Tana ?"}
+{"id":1538322,"jp":"大丈夫です。一番忙しい時期はすぎましたから。","fr":"Tout va bien. Le plus gros est fait."}
+{"id":1538323,"jp":"それに、いまは民兵隊のみなさんが危険なとき。\n村のシャーマンとして放っておくわけにはいきません！","fr":"Et puis, les gens de la milice sont en danger.\nJe suis la chamane du village, je ne peux pas les laisser comme ça !"}
+{"id":1538324,"jp":"星臨者さまのほうこそ、農園は大丈夫ですか？やはり、こちらはわたしが……","fr":"Et vous, Enfant des étoiles, tout va bien à la ferme ? Je devrais peut-être m'en charger toute seule…"}
+{"id":1538325,"jp":"ひ、ひとりで行くのはダメなんだってば！危ないよ！","fr":"M-mais je te dis que tu peux pas y aller toute seule ! C'est trop dangereux !"}
 {"id":1538326,"jp":"むぅ……ううん……","fr":"Hmm… mmm…"}
+{"id":1538327,"jp":"星臨者さん、どうしよう？","fr":"Enfant des étoiles, qu'est-ce qu'on fait ?"}
+{"id":1538328,"jp":"緊急事態だ。はやく助けないと……みんなで行くほうが効率よく探せるはず。|緊急事態ね。はやく助けないと……みんなで行くほうが効率よく探せるはず。","fr":"Il faut vite leur porter secours… On les retrouvera plus vite si on y va ensemble.|Il faut vite leur porter secours… On les retrouvera plus vite si on y va ensemble."}
 {"id":1538329,"jp":"う、うん！そうだね。","fr":"O-oui ! C'est vrai."}
+{"id":1538330,"jp":"気をつけてね。みんなまで消えちゃったら――","fr":"Faites attention. Si vous disparaissez vous aussi…"}
+{"id":1538331,"jp":"心配いらないのだ！\n危険なのはもうわかってるから、なにかあればすぐ逃げる！","fr":"T'en fais pas !\nOn sait que c'est dangereux. Au moindre pépin, on détale !"}
+{"id":1538332,"jp":"うん、あたしはここでテララを待つから。 \n「<ruby=陽>ウル</ruby>」が沈むまで戻らなかったら……","fr":"D'accord, je vais attendre Terara ici.\nSi vous êtes pas revenus au coucher du soleil…"}
+{"id":1538333,"jp":"村のみんな、総動員して探しに行くよ！","fr":"Je rameute tout le village et on part vous chercher !"}
+{"id":1538334,"jp":"やれやれ、ただの『怖い話』だと思ったら……村全体の危機に発展しちゃったのだ！","fr":"Pfff… La grande Lumi s'attendait à une petite histoire qui fait peur. Et voilà que tout le village est en danger !"}
+{"id":1538335,"jp":"心配しないで、無事に帰ってくるから。","fr":"T'en fais pas, on reviendra sains et saufs."}
 {"id":1538336,"jp":"あの……星臨者さん！","fr":"Euh… Enfant des étoiles !"}
 {"id":1538337,"jp":"カタル？どうかした？","fr":"Katalua ? Qu'y a-t-il ?"}
+{"id":1538338,"jp":"えと、森のなかは、なにがあるかわからないから……\nしっかり準備していかないといけなくて！だから、あの……","fr":"Euh, on ne sait pas sur quoi on va tomber dans la forêt…\nIl faut bien se préparer ! Alors, euh…"}
+{"id":1538339,"jp":"これ……もらってくれる？","fr":"Vous voulez bien prendre ça ?"}
+{"id":1538340,"jp":"これは……？装備品かな？","fr":"Qu'est-ce que c'est… ? Une protection ?"}
+{"id":1538341,"jp":"これはね、民兵隊の装備で……\nちょっとした攻撃なら防げる、から。","fr":"Ça fait partie de l'équipement de la milice…\nÇa peut vous protéger des petits coups."}
+{"id":1538342,"jp":"星臨者さんにも、身につけて欲しいなって。","fr":"J'aimerais bien que vous la portiez, vous aussi, Enfant des étoiles."}
 {"id":1538343,"jp":"うん……うん……","fr":"Mm… mm…"}
 {"id":1538344,"jp":"カタル、どうしたの？","fr":"Katalua, qu'est-ce qui ne va pas ?"}
+{"id":1538345,"jp":"あっ！ご、ごめんなさい！ちょっと、近づきすぎちゃった……！\nあの、星臨者さんにすごく似合ってるなって思って、つい……","fr":"Oh ! P-pardon ! Je me suis trop approchée… !\nJe trouvais que ça vous allait si bien, Enfant des étoiles, que j'en ai oublié mes manières…"}
+{"id":1538346,"jp":"うん、仕立ててもらったみたいにぴったりだよ！","fr":"Oui, ça me va comme un gant ! On dirait du sur-mesure !"}
+{"id":1538347,"jp":"でも、これはあくまで仮の装備、だから……\n強い敵に遭うようになったら、もっと頑丈な装備にしないと。","fr":"Enfin, c'est juste une protection de fortune…\nIl vous faudra quelque chose de plus solide quand vous aurez affaire à des ennemis plus coriaces."}
+{"id":1538348,"jp":"この森、おかしいぞ……カルマが濃すぎるのだ！","fr":"Il y a quelque chose qui cloche dans cette forêt… Le Karma est beaucoup trop dense !"}
+{"id":1538349,"jp":"ここは霧隠れの森、村のみなさんもここにはめったに来ません。","fr":"Nous sommes dans la forêt des Brumes. Même les gens du village y viennent rarement."}
+{"id":1538350,"jp":"この森には大きくて、危険な植物がたくさん生えています。\nそれに変わったキボもいて……","fr":"Il y pousse beaucoup de plantes énormes et dangereuses.\nOn y croise aussi des Kibo assez étranges…"}
+{"id":1538351,"jp":"ですが、一番恐ろしいのは奥に漂う濃い霧ですね。\nめったに晴れなくて、迷いやすいのです。","fr":"Mais le pire, c'est le brouillard épais qui flotte au cœur de la forêt.\nIl se lève rarement, alors on a vite fait de s'y perdre."}
+{"id":1538352,"jp":"うん、みんな……普段ならここには来ない……","fr":"Oui… D'habitude, les gens du village évitent cet endroit…"}
+{"id":1538353,"jp":"でも、最近、平原に凶獣とおかしなキボがたくさんいて、狩りがうまくいかないから……\nしかたなく来てるんだけど……","fr":"Mais ces derniers temps, les plaines sont pleines de Bêtes maudites et de drôles de Kibo. Ça devient dur d'y chasser…\nAlors, faute de mieux, on vient ici…"}
+{"id":1538354,"jp":"なんだか、おかしなことばかり起こってる……","fr":"Il se passe vraiment de drôles de choses en ce moment…"}
+{"id":1538355,"jp":"うぅ……こんなとこ、来たくなかったなあ。","fr":"Brr… La grande Lumi aurait préféré rester loin d'ici."}
+{"id":1538356,"jp":"とにかく、奥に行ってみよう。","fr":"Bon, avançons dans la forêt."}
+{"id":1538357,"jp":"あっ！お待ちください！そちらは……","fr":"Ah ! Attendez, je vous en prie ! Par là, c'est…"}
+{"id":1538358,"jp":"うぅ……なんだ……？このにおい……あ、頭が……|うぅ……なに……？このにおい……あ、頭が……","fr":"Ouh… C'est quoi, cette odeur… ? M-ma tête…|Ouh… Mais… cette odeur… M-ma tête…"}
+{"id":1538359,"jp":"こら〜！星臨者、どこに行くのだ！","fr":"Hééé ! Où tu vas, Enfant des étoiles ?!"}
+{"id":1538360,"jp":"わあ！星臨者が沼に落ちたぞ！はやく助けないと！","fr":"Aaah ! L'Enfant des étoiles est dans le marais ! Vite, il faut l'aider à sortir !"}
+{"id":1538361,"jp":"む、むう……！すぐ、助ける！","fr":"M-mais… ! Tiens bon, je viens t'aider !"}
 {"id":1538362,"jp":"波の音……","fr":"Le bruit des vagues…"}
+{"id":1538363,"jp":"懐かしい感じだ……|懐かしいような……","fr":"Ça me rappelle quelque chose…|J'ai comme une impression de déjà-vu…"}
+{"id":1538364,"jp":"うぅ……僕は……|うぅ……私は……","fr":"Ouh… Je…|Ouh… Je…"}
 {"id":1538365,"jp":"ここは……？","fr":"Où suis-je… ?"}
 {"id":1538366,"jp":"つん……つんつん……","fr":"Tapote… tapote tapote…"}
 {"id":1538367,"jp":"あっ、起きたね！","fr":"Oh, ça y est, le réveil !"}
+{"id":1538368,"jp":"ふふ！ここにだれかが来るなんて、ひさしぶり！","fr":"Hihi ! Ça faisait longtemps que personne n'était venu ici !"}
+{"id":1538369,"jp":"倒れて動かなくなっちゃったから、もうダメかと思った……","fr":"Tu t'es effondré… Après, tu ne bougeais plus du tout. J'ai cru que c'était fini pour toi…"}
 {"id":1538370,"jp":"……また、会えたね。","fr":"… On se retrouve."}
+{"id":1538371,"jp":"え……？私たち、どこかで会った？","fr":"Hein… ? On se connaît ?"}
+{"id":1538372,"jp":"（おかしい……たしかにあのとき……）","fr":"(C'est étrange… Pourtant, cette fois-là…)"}
+{"id":1538373,"jp":"ここは……？どうしてまたここに……？","fr":"Où est-ce que… ? Comment ça se fait que je sois encore ici… ?"}
 {"id":1538374,"jp":"ここはね……","fr":"Ici, c'est…"}
+{"id":1538375,"jp":"万物のはじまりと終わりの海。\n数多の星と導きで繋がる世界。","fr":"La mer où tout commence et où tout s'achève.\nUn monde relié à d'innombrables étoiles qui montrent la voie."}
+{"id":1538376,"jp":"選ばれた魂が旅を終え、『星の旅路』に還るための通り道。","fr":"Les âmes élues passent par ici au terme de leur voyage pour regagner la « Voie des étoiles »."}
+{"id":1538377,"jp":"あっ、もっと覚えやすい名前もあるよ？あのね――","fr":"Ah, il y a aussi un nom plus facile à retenir ! C'est…"}
 {"id":1538378,"jp":"無垢の海。","fr":"La mer de l'innocence."}
 {"id":1538379,"jp":"無垢の海……","fr":"La mer de l'innocence…"}
+{"id":1538380,"jp":"僕は死んだの？ここは……『天国』？|私、死んだの？ここは……『天国』？","fr":"J'ai perdu la vie ? Ici… c'est le paradis ?|J'ai perdu la vie ? Ici… c'est le paradis ?"}
+{"id":1538381,"jp":"うーん……なんて言えばいいかな。あなたの状態はちょっと特別……\nこんなふうに完全な魂でだれかがここに来るのは、はじめてだから。","fr":"Mmm… Comment te dire ? Ton cas est un peu particulier…\nC'est la première fois que quelqu'un arrive ici avec son âme intacte."}
+{"id":1538382,"jp":"ねえ、なにがあったのか教えて？","fr":"Dis, tu veux bien me raconter ce qui s'est passé ?"}
 {"id":1538383,"jp":"えっと……","fr":"Euh…"}
+{"id":1538384,"jp":"詳しく事情を説明する。","fr":"Vous avez expliqué la situation en détail."}
+{"id":1538385,"jp":"ざっくりと経緯を話す。","fr":"Vous avez raconté les grandes lignes."}
 {"id":1538386,"jp":"それ……それって……","fr":"Ça… c'est…"}
+{"id":1538387,"jp":"すごい！すごい冒険譚ね！","fr":"Oh, incroyable ! Quelle aventure !"}
+{"id":1538388,"jp":"もっと聞かせて？獣人の村！怪奇事件！\nもっともっと続きが聞きたいな。","fr":"Raconte-moi la suite ! Un village de Furrien, des événements étranges…\nJ'ai envie de tout entendre !"}
+{"id":1538389,"jp":"そうだね、あなたの旅はここで終わらせちゃ駄目だよね。\n仲間のもとに帰らなきゃ！","fr":"Tu as raison, ton voyage ne peut pas s'arrêter ici.\nIl faut que tu retrouves tes amis !"}
 {"id":1538390,"jp":"え？……できるの？","fr":"Hein ? … C'est possible ?"}
+{"id":1538391,"jp":"ね、ここに来る直前にあったこと、思い出せる？","fr":"Dis, tu te souviens de ce qui s'est passé juste avant ton arrivée ici ?"}
+{"id":1538392,"jp":"覚えてはいるけど……\nあまり思い出したい記憶じゃない……","fr":"Je m'en souviens, mais…\nJ'aimerais autant ne pas y repenser…"}
+{"id":1538393,"jp":"うん、でもがんばって思い出して。その記憶を頼りにして――","fr":"Je comprends. Essaie quand même de t'en souvenir. Laisse ce souvenir te guider…"}
+{"id":1538394,"jp":"私が正しい道を示してあげるから。\n今度こそ、ちゃんと選んでね。","fr":"Je te montrerai le bon chemin.\nCette fois, fais le bon choix, d'accord ?"}
+{"id":1538395,"jp":"待って、まだ……きみの名前は？……また会える？|待って、まだ……ねぇ、名前は？……また会える？","fr":"Attends, j'ai encore… Comment tu t'appelles ? … On se reverra ?|Attends, j'ai encore… Dis, comment tu t'appelles ? … On se reverra ?"}
 {"id":1538396,"jp":"待って――","fr":"Attends –"}
 {"id":1538397,"jp":"（これは、夢……？）","fr":"(C'était un rêve… ?)"}
+{"id":1538398,"jp":"（あの子には、まえも会ったはず……いったい何者なんだ……？）|（あの子には、まえも会ったはず……いったい何者なの……？）","fr":"(Je l'ai déjà vue, j'en suis sûr… Mais qui est-elle au juste… ?)|(Je l'ai déjà vue, j'en suis sûre… Mais qui est-elle au juste… ?)"}
+{"id":1538399,"jp":"なんだなんだ。怖がりすぎなのだ。ルミィさまはこんなとこぜーんぜん――","fr":"Quoi encore ? Tu as vraiment peur pour rien. La grande Lumi n'a mêêême pas peur de cet endroit, elle…"}
 {"id":1538400,"jp":"ルミィ！止まって！","fr":"Lumi ! Arrête-toi !"}
+{"id":1538401,"jp":"わわっ！な、なんだこれは！キノコが動き出したぞ！？","fr":"Aah ! Q-qu'est-ce que c'est que ça ?! Les champignons se mettent à bouger ?!"}
+{"id":1538402,"jp":"あっ、ちょうどお話ししようと思っていました……\nそのキノコは近づくと毒の胞子を撒き散らして危険なのです。","fr":"Ah, j'allais justement vous prévenir…\nCes champignons sont dangereux. Dès qu'on s'approche, ils projettent des spores toxiques."}
+{"id":1538403,"jp":"星臨者さん……すごいね。どうしてわかったの？","fr":"Enfant des étoiles… C'était incroyable. Comment tu savais ?"}
+{"id":1538404,"jp":"（たぶん話しても信じてもらえない……）","fr":"(Même si je leur disais, ils auraient du mal à me croire…)"}
 {"id":1538405,"jp":"ただの勘だよ。","fr":"Simple intuition."}
+{"id":1538406,"jp":"星臨者の閃きみたいなもの。","fr":"Disons que c'est l'instinct de l'Enfant des étoiles."}
+{"id":1538407,"jp":"星臨者さん……って、やっぱり、すごい……","fr":"Enfant des étoiles… Tu m'épates à chaque fois…"}
+{"id":1538408,"jp":"ふーんだ！そのくらい、ルミィさまも知ってたぞ！\nただ、危険を教えるために、お手本になってあげただけなのだ！","fr":"Pff ! La grande Lumi le savait très bien !\nElle te faisait juste une démonstration pour que tu voies le danger !"}
+{"id":1538409,"jp":"（ふぅ……危なかった……\n大妖精たるもの、なにもない場所で転ぶわけにはいかないのだ……）","fr":"(Ouf… C'était moins une…\nLa Grande Fée ne peut quand même pas se permettre de trébucher sur du vent…)"}
+{"id":1538410,"jp":"森にはこういった大きなキノコがたくさん生えていまして……\n胞子を吸うと意識が朦朧となり、体が痺れてしまうのです。","fr":"De gros champignons comme ceux-là poussent un peu partout dans la forêt…\nQuand on respire leurs spores, on a l'esprit embrumé et le corps tout engourdi."}
+{"id":1538411,"jp":"うん。だからね……いつも、ここ入るときは、シャーマンさまに薬をもらってるんだ。","fr":"Oui. C'est pour ça que la chamane nous donne toujours un remède avant qu'on entre ici."}
+{"id":1538412,"jp":"ええ！わたしが特別に作った特効薬……\nその名も『トタタッ胞子解毒剤』です！","fr":"Oui ! J'ai mis au point un remède exprès…\nJe l'ai baptisé « Antidote aux spores Totata » !"}
+{"id":1538413,"jp":"いま声が聞こえませんでしたか？\nなにか、歌のような……","fr":"Vous avez entendu cette voix ?\nOn aurait dit un chant…"}
 {"id":1538414,"jp":"あっ！あそこなのだ！","fr":"Oh ! C'est là-bas !"}
 {"id":1538415,"jp":"フフフン～♪","fr":"Fu fu fun~♪"}
 {"id":1538416,"jp":"フフン～♪","fr":"Fu fun~♪"}
+{"id":1538417,"jp":"あれは……<size=40><color=#fed196>モルフォーレ</color></size>！","fr":"C'est… un <size=40><color=#fed196>Morphore</color></size> !"}
 {"id":1538418,"jp":"フフ！フフフン！","fr":"Fu fu ! Fu fu fun !"}
+{"id":1538419,"jp":"「愚か者、ひざまずけ」……？こいつぅ、調子に乗ってるのだ！","fr":"« À genoux, imbécile »… ? Il se croit tout permis, celui-là !"}
 {"id":1538420,"jp":"カタル、行こう。","fr":"Katalua, allons-y."}
 {"id":1538421,"jp":"フウゥゥン！","fr":"Fuuun !"}
+{"id":1538422,"jp":"許してって、言ってる、みたい……？","fr":"On dirait qu'il demande… pardon ?"}
+{"id":1538423,"jp":"（きゅるきゅるした目で攻めてくるなんて……なんて卑怯な）","fr":"(Le coup des grands yeux tout brillants… C'est déloyal.)"}
+{"id":1538424,"jp":"星臨者さま、どうしましょう？","fr":"Enfant des étoiles, que faisons-nous ?"}
 {"id":1538425,"jp":"甘やかさない。","fr":"Ne pas céder."}
+{"id":1538426,"jp":"今回だけは許してやる。","fr":"Je te pardonne, mais juste pour cette fois."}
 {"id":1538427,"jp":"フウゥゥン……！","fr":"Fuuun… !"}
+{"id":1538428,"jp":"こらぁ！その甘えスキルはルミィさまの秘奥義だぞ！","fr":"Hé ! Les yeux tout doux, c'est la Technique ultime secrète de la grande Lumi !"}
+{"id":1538429,"jp":"（許さないと、ここでずっと「フンフン」言ってそう……）","fr":"(Si je ne lui pardonne pas, il va rester là à faire « hmf, hmf » pendant des heures…)"}
 {"id":1538430,"jp":"今回だけだよ。","fr":"Rien que cette fois."}
 {"id":1538431,"jp":"フラ～！","fr":"Fura~ !"}
+{"id":1538432,"jp":"「許して」と言ってるぞ？やっと反省したのだ。","fr":"Tu entends ? Il demande pardon. Il a enfin compris la leçon."}
+{"id":1538433,"jp":"もうシャルル村のみんなも、翼人たちも襲わないこと。\nまたやったら今度は許さないから。","fr":"Tu laisses tranquilles les gens du Village de Charlulu et les Ailés.\nSi tu recommences, je ne te pardonnerai pas."}
+{"id":1538434,"jp":"今回は、見逃してあげる。","fr":"Je ferme les yeux pour cette fois."}
+{"id":1538435,"jp":"あっ、この〜！挑発したな？こら、逃げるな！","fr":"Ah, toi alors ! Tu cherches la bagarre ? Hé, reviens ici !"}
+{"id":1538436,"jp":"ふぅ！まったく……さんざん探って、キボのしわざだったとは。\nやっぱり『怖い話』なんて、当てにならないな。","fr":"Pfiou ! Toute cette enquête pour découvrir que c'était un Kibo…\nLes histoires qui font peur, c'est vraiment du flan."}
+{"id":1538437,"jp":"うーん……マルティナたち、まだ起きない……","fr":"Mmm… Martina et les autres ne se réveillent toujours pas…"}
+{"id":1538438,"jp":"あれの鱗粉はガヤックも眠らせるくらい強力なのだ……\nルルカ、気つけ薬とかは持ってないのか？","fr":"La poudre de ses ailes est assez forte pour endormir même un Gayak…\nLuruka, tu n'as pas des sels à leur faire respirer ?"}
+{"id":1538439,"jp":"うぅ！にがぁ……ここ、どこ……？私はいったい？\nはぁ、おなかがすいたわ、なにか食べるものは……","fr":"Beurk ! C'est amer… Où je suis… ? Qu'est-ce qui m'est arrivé ?\nAh, j'ai faim… Il y a quelque chose à manger… ?"}
+{"id":1538440,"jp":"なにも覚えてないのに、食欲だけは……","fr":"Tu as tout oublié, sauf que tu avais faim…"}
+{"id":1538441,"jp":"待って……思い出したわ！","fr":"Attends… Ça me revient !"}
+{"id":1538442,"jp":"アクリたちが森の奥の怪しい野営地を調べに行って戻らなかった……\nだから、彼女たちを助けに来たんだわ！","fr":"Akuri et les autres sont allées inspecter un campement suspect au fond de la forêt et elles ne sont jamais revenues…\nAlors je suis venue à leur secours !"}
+{"id":1538443,"jp":"みんなは無事なの……？","fr":"Elles vont toutes bien… ?"}
+{"id":1538444,"jp":"ええ、無事ですよ。マルティナ、立てますか？","fr":"Oui, elles vont bien. Martina, vous pouvez vous lever ?"}
 {"id":1538445,"jp":"はい……","fr":"Oui…"}
 {"id":1538446,"jp":"あれ？シャーマンさま、どうしてここに！？","fr":"Hein ? Chamane, que faites-vous ici !?"}
+{"id":1538447,"jp":"ポーヤにあなた方のことを頼まれたのです。","fr":"Poya m'a demandé de m'occuper de vous."}
 {"id":1538453,"jp":"わ、わかりました……","fr":"C-compris…"}
 {"id":1538459,"jp":"むぐ！","fr":"Mmph !"}
 {"id":1538462,"jp":"一気に飲み干す","fr":"Tout boire d'un trait"}
