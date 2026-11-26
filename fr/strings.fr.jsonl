@@ -49455,25 +49455,145 @@
 {"id":1545060,"jp":"あたしを捕まえようなんて、百朔はやいんだから！\n真紅の閃光は不滅よーー","fr":"Revenez dans cent lunes si vous voulez m'attraper !\nL'Éclair écarlate est immortelle…"}
 {"id":1545061,"jp":"消えちゃった……","fr":"Elle a disparu…"}
 {"id":1545062,"jp":"{playerName}さま！さきほどの方はどこに……？","fr":"{playerName} ! Où est passée la personne de tout à l'heure… ?"}
+{"id":1545063,"jp":"意味不明なことを言いながら飛び降りていったぞ。\n逃げられちゃったのだ……","fr":"Elle a sauté en racontant n'importe quoi !\nElle nous a filé entre les doigts…"}
+{"id":1545064,"jp":"はあ……最近、混乱に乗じて無賃乗船する密航者がよくいるんですけど……\nそこまで必死な方はちょっとめずらしいですね……","fr":"Ah là là… Ces derniers temps, on a souvent des passagers clandestins qui profitent du désordre pour embarquer sans payer…\nMais c'est rare d'en voir qui vont jusque-là."}
+{"id":1545065,"jp":"とにかく、皆さん、ありがとうございました。\nやはり、気を引き締めて警備を強化しなければいけませんね！","fr":"En tout cas, merci à vous tous.\nIl va vraiment falloir redoubler de vigilance et renforcer la sécurité !"}
+{"id":1545066,"jp":"飛空船乗り場のセキュリティの確認はひと通り終わったよ。\nつぎは飛空船のなかだね。","fr":"J'ai fini l'inspection de la zone d'embarquement.\nPassons à l'intérieur du dirigeable."}
+{"id":1545067,"jp":"ほ、ほんとーに乗るのか？","fr":"On… on va vraiment monter là-dedans ?"}
+{"id":1545068,"jp":"鼻をつまんで一気に行こう！","fr":"Bouche-toi le nez et fonce !"}
+{"id":1545069,"jp":"泥のなかに落ちたと思えば……","fr":"Imagine que tu viens de tomber dans la gadoue…"}
+{"id":1545070,"jp":"苦い薬湯を飲むのとは、訳が違うのだ！","fr":"Mais ça n'a rien à voir avec une potion amère !"}
+{"id":1545071,"jp":"気持ち悪いことには変わりがないのだ！","fr":"Ça donne quand même envie de vomir !"}
+{"id":1545072,"jp":"しかたない！敵を知るのも大事なことだからな！","fr":"Bon, puisqu'il le faut ! C'est important de connaître son ennemi !"}
+{"id":1545073,"jp":"あれの腹のなかをたしかめてやる！\nそうすればスクラップにするとき、どこから切り裂けばいいかわかるのだ！","fr":"La grande Lumi va voir ce que cette machine a dans le ventre !\nComme ça, le jour où on la mettra à la ferraille, on saura par où commencer à la découper !"}
+{"id":1545074,"jp":"コムギさん……この方たち、さっきからなんだか不穏なことを仰っていますが……","fr":"Mademoiselle Komugi… Ça fait un moment que vos amis tiennent des propos plutôt inquiétants…"}
+{"id":1545075,"jp":"あはは……冗談だよ、うん！","fr":"Ah ah… C'est pour rire, hein !"}
 {"id":1545076,"jp":"ナビゲーター・レイナ","fr":"Navigatrice Reina"}
+{"id":1545077,"jp":"<color=#fed196>『バルニ』号</color>へようこそ。\n当機のナビゲートを担当するレイナだ。","fr":"Bienvenue à bord du <color=#fed196>« Barni »</color>.\nMoi, c'est Reina. Je m'occupe de la navigation."}
+{"id":1545078,"jp":"レイナさん、今日はおばあさまの代理で来たんだ。\n飛空船のセキュリティの確認をさせてもらえるかな。","fr":"Reina, je remplace grand-mère aujourd'hui.\nTu me laisses faire le tour du dirigeable pour vérifier la sécurité ?"}
+{"id":1545079,"jp":"うっ……！\nコムギは相変わらずかわいいね！お姉さんにハグさせて！","fr":"Oh… !\nKomugi, tu es toujours aussi mignonne ! Allez, viens faire un câlin à ta grande sœur !"}
+{"id":1545080,"jp":"いまはお仕事中でしょ！もう！","fr":"On est en plein travail, voyons !"}
+{"id":1545081,"jp":"アハハ！冗談だって。\nこちらの方がお客さまだね。領主さまからも連絡をもらってる。\n好きに歩き回って構わないよ！","fr":"Ah ah ! Je te taquine.\nCe sont tes invités, c'est ça ? Le seigneur m'a prévenue.\nFaites le tour, allez où vous voulez !"}
+{"id":1545082,"jp":"ありがとう。それじゃあまずは、貨物室の確認をしてもいいかな？","fr":"Merci ! On peut commencer par la soute ?"}
+{"id":1545083,"jp":"もちろん。ついておいで。","fr":"Bien sûr. Suivez-moi."}
+{"id":1545084,"jp":"ここが『バルニ』号の貨物室だよ。上下で二層に分かれてるんだ。\n上層は一部は船員たちの休憩スペースにもなってる。","fr":"Voilà la soute du « Barni ». Elle est sur deux niveaux.\nEn haut, l'équipage a aussi un coin pour se reposer."}
+{"id":1545085,"jp":"この木の樽って……酒を入れるやつか？","fr":"Ces tonneaux en bois… c'est pour mettre de l'alcool ?"}
 {"id":1545086,"jp":"アハハ、その通り！\nなかに入ってるのは、すべてフリスの葡萄園で醸造された上質なワインだよ。\n領主さまがロージア帝国の皇室のために、特別に用意された品だ。","fr":"Ha ha, tout juste !\nCe qu'il y a dedans, c'est du vin de qualité, tout entier produit dans les vignobles de Fleece.\nLe seigneur l'a fait préparer spécialement pour la famille impériale de l'Empire de Rosia."}
+{"id":1545087,"jp":"おばあさまが毎朔準備してるの……\nフリスがこんなふうに安定した貿易都市になれたのは、\nロージア帝国との平和条約のおかげだから。","fr":"Grand-mère prépare cet envoi à chaque lune…\nSi Fleece a pu se développer et devenir une ville commerçante aussi stable,\nc'est grâce au traité de paix avec l'Empire de Rosia."}
+{"id":1545088,"jp":"レイナさん、ワインを運ぶときはくれぐれも樽の破損に注意してね。\n中身が漏れたりして火災のもとになったら大変だから。","fr":"Reina, fais bien attention à ne pas abîmer les tonneaux pendant le transport.\nSi le vin fuit, ça pourrait provoquer un incendie."}
+{"id":1545089,"jp":"安心して、搬入時にひとつずつチェックしてあるよ。\n乗組員たちにも、こっそり飲まないよう、きつく言ってある！","fr":"Rassure-toi, on les a vérifiés un par un au chargement.\nEt j'ai bien dit à l'équipage que je ne voulais voir personne y goûter en douce !"}
+{"id":1545090,"jp":"こんなにワインがあったら、ワイン風呂もできちゃいそうだぞ。","fr":"Avec tout ce vin, on pourrait carrément prendre un bain dedans !"}
+{"id":1545091,"jp":"うん、だけど、おかしいな……","fr":"Oui, mais il y a un truc qui cloche…"}
 {"id":1545092,"jp":"ルミィ、どうかした？","fr":"Lumi, qu'est-ce qui ne va pas ?"}
 {"id":1545093,"jp":"この樽、酒の匂いがまったくしないのだ……","fr":"Ces tonneaux ne sentent pas du tout l'alcool…"}
+{"id":1545094,"jp":"貨物室のセキュリティチェックはこれで終わり！\nさあ、つぎの場所に行こう。","fr":"Voilà, j'ai fini l'inspection de la soute !\nAllez, on continue."}
+{"id":1545095,"jp":"ここがブリッジだ。普段はここで業務を行っている。\n航行日誌を更新したり、貨物輸送用の書類を処理したりね。","fr":"Ici, c'est la passerelle. C'est là qu'on travaille d'habitude.\nOn tient le journal de bord, on s'occupe des papiers pour les cargaisons, ce genre de choses."}
+{"id":1545096,"jp":"飛空船のなかに、こんな過ごしやすそうな部屋があるなんて……","fr":"Je n'aurais jamais cru trouver une pièce aussi douillette à bord d'un dirigeable…"}
+{"id":1545097,"jp":"もしかして、飛空船ははじめてかい？","fr":"Dis, c'est la première fois que tu montes à bord d'un dirigeable ?"}
+{"id":1545098,"jp":"もちろんなのだ！\n領主の頼みでもなければ、だれが好き好んで乗るもんか！","fr":"Évidemment !\nSi le seigneur ne nous l'avait pas demandé, qui aurait envie de monter là-dedans ?"}
+{"id":1545099,"jp":"なるほどね。魔導技術を嫌厭したり\n空を飛ぶことに危険に感じて\n飛空船に乗りたがらない者がいるのは知ってるよ。","fr":"Je vois. Certaines personnes se méfient de la technologie magitech,\nd'autres trouvent ça trop dangereux de voler.\nAlors forcément, elles n'ont pas envie de monter à bord."}
+{"id":1545100,"jp":"だけど、やっぱり飛空船は偉大な発明さ。\n昔は越えることのできなかった険しい土地も、いまでは恐るるに足らない。","fr":"Mais avoue que le dirigeable, c'est une sacrée invention.\nLes terrains qu'on ne pouvait pas traverser autrefois, aujourd'hui, on les survole sans souci."}
+{"id":1545101,"jp":"技術が発展して、飛空船の旅もずっと安全なものになった。\nプライベートの飛空船を所有して、\n改造して住んでいる富豪や冒険者もいるくらいなんだ。","fr":"Avec les progrès de la technologie, les voyages en dirigeable sont devenus bien plus sûrs.\nIl y a même des gens fortunés et des aventuriers qui ont leur propre dirigeable\net qui l'aménagent pour y vivre."}
+{"id":1545102,"jp":"移動の苦労から解放されて、船室で寝転がったまま\n世界を一周するのだって、もう夢じゃない。","fr":"Finies, les galères de la route ! Aujourd'hui, tu peux faire le tour du monde\nsans même te lever de ta couchette."}
+{"id":1545103,"jp":"寝転がったまま世界を回るか……","fr":"Faire le tour du monde sans se lever…"}
+{"id":1545104,"jp":"はあぁ～なんて楽ちんな旅なのだ。\n羽ばたかなくても空を飛べるなんて。","fr":"Aaah… Ça, c'est la belle vie.\nVoler sans même battre des ailes…"}
+{"id":1545105,"jp":"星臨者、ジュースを注ぐのだ～","fr":"Enfant des étoiles, sers un peu de jus à la grande Lumi…"}
 {"id":1545106,"jp":"はい、ルミィさま。","fr":"Oui, dame Lumi."}
+{"id":1545107,"jp":"シフォン、ロースランサまであとどれくらいなのだ？","fr":"Chiffon, on est encore loin de Lors Lains ?"}
+{"id":1545108,"jp":"もうすぐ到着ですよ。\nハイガーデンは最大限の敬意をもって、風の大妖精の帰還を歓迎するそうです。","fr":"Nous y serons bientôt.\nIl paraît que High Garden compte accueillir la Grande Fée du vent avec tous les honneurs."}
 {"id":1545109,"jp":"うむ！","fr":"Hmm !"}
+{"id":1545110,"jp":"どーだ、星臨者！\nルミィさまについてくれば、これからは好きなものをなーんでも食べ放題！\n快適ライフが約束されているのだ。このまま世界一周の旅に出よう！","fr":"Alors, Enfant des étoiles, qu'est-ce que tu dis de ça ?\nAvec la grande Lumi, tu pourras manger tout ce que tu veux, autant que tu veux !\nÀ nous la belle vie ! Allez, on part faire le tour du monde !"}
+{"id":1545111,"jp":"ルミィさま万歳！一生ついて行きます！","fr":"Vive la grande Lumi ! Je te suivrai toute ma vie !"}
 {"id":1545112,"jp":"うへへ……","fr":"Hé hé hé…"}
+{"id":1545113,"jp":"ルミィ……締りのない顔になっていますよ。","fr":"Lumi… Vous avez la bouche grande ouverte."}
+{"id":1545114,"jp":"くうぅ！この風の大妖精の心を動かすとは！\nなんて恐ろしいマーケティング……！","fr":"Grrr ! Même la Grande Fée du vent a failli se laisser tenter !\nLeur pub est redoutable… !"}
+{"id":1545115,"jp":"だけど、たしかに飛空船に乗って世界中を旅できたら、\n快適だろうな――","fr":"Enfin, c'est vrai qu'on serait bien, à parcourir le monde en dirigeable…\nBien installés à bord…"}
+{"id":1545116,"jp":"飛空船で世界一周……いいよね！","fr":"Le tour du monde en dirigeable… Ça fait rêver !"}
+{"id":1545117,"jp":"自分の飛空船が欲しくなってきた。","fr":"Je commence à avoir envie d'un dirigeable à moi."}
+{"id":1545118,"jp":"こら！言ってるそばから心を惑わされるんじゃない！","fr":"Hé ! Tu vas quand même pas te laisser tenter à ton tour !"}
+{"id":1545119,"jp":"どんなに楽ちんでも、ルミィさまは飛空船に心を許したりしないのだ！\n甘い言葉で騙そうったってそうはいかないぞ！","fr":"Même avec tout le confort du monde, la grande Lumi ne fera jamais confiance à un dirigeable !\nTu peux toujours essayer de l'amadouer !"}
+{"id":1545120,"jp":"……ハハハ！聞くところによると、\n今回のオークションの目玉商品は最新モデルの飛空船らしいぞ！\n領主さまが言うには、この大陸で最もはやい船だとか。","fr":"… Ah ah ah ! À ce qu'il paraît,\nla vedette de la vente aux enchères, c'est un tout nouveau modèle de dirigeable !\nD'après le seigneur, c'est le plus rapide du continent."}
+{"id":1545121,"jp":"しーっ！それは、おばあさまのサプライズだよ！\nペラペラ話しちゃだめ！","fr":"Chut ! Grand-mère voulait en faire une surprise !\nTu vas tout gâcher à force d'en parler !"}
+{"id":1545122,"jp":"あ……そうだったな！すまない、つい……","fr":"Ah… c'est vrai ! Pardon, ça m'a échappé…"}
+{"id":1545123,"jp":"お金には疎くてあまりわからないのですが。\nオークションに飛空船が出れば、相当な高値がつくのでしょうね？","fr":"Je n'y connais pas grand-chose en prix.\nUn dirigeable, ça doit se vendre très cher aux enchères, j'imagine ?"}
+{"id":1545124,"jp":"オークションの本質は競争だからね。\nどこまで競り上がるかはだれにもわからないよ。","fr":"Aux enchères, tout dépend de ce que les gens sont prêts à mettre.\nPersonne ne peut dire jusqu'où le prix va monter."}
+{"id":1545125,"jp":"大トリの商品のこと、内緒にしてね。\n今回のオークションの一番の目玉だから。","fr":"Ça reste entre nous pour le dernier lot, d'accord ?\nC'est celui qu'on garde pour le clou de la vente."}
+{"id":1545126,"jp":"ええ、ご安心ください。","fr":"Oui, vous pouvez compter sur moi."}
+{"id":1545127,"jp":"どうにかして稼がないと……","fr":"Il faut qu'on trouve un moyen de gagner de l'argent…"}
+{"id":1545128,"jp":"いまからじゃ間に合わないぞ。\nそれに、あたしたちは売れるものなんて持ってないのだ。","fr":"On n'aura jamais le temps d'ici la vente.\nEt puis, on n'a rien à vendre."}
+{"id":1545129,"jp":"……って、違うちがう！\nあたしは断固としたアビィ派なのだ！\n飛空船に揺らいでなんていないぞ！","fr":"… Mais qu'est-ce que la grande Lumi raconte ?\nLa grande Lumi est dans le camp d'Abby, un point c'est tout !\nIl en faudra plus qu'un dirigeable pour la faire changer d'avis !"}
+{"id":1545130,"jp":"あの、レイナさん。\n今回輸送する貨物のリストは、確認できるかな？","fr":"Dis, Reina.\nJe peux voir la liste de ce que tu embarques cette fois-ci ?"}
+{"id":1545131,"jp":"もちろん。これがロージア帝国に輸送する貨物のリストだよ。","fr":"Bien sûr. Voilà la liste de tout ce qu'on emporte dans l'Empire de Rosia."}
+{"id":1545132,"jp":"うん、大丈夫そう。レイナさん、協力ありがとう。","fr":"Oui, tout a l'air en ordre. Merci pour ton aide, Reina."}
+{"id":1545133,"jp":"ハハ、いやいや。出航は今日の夕方だ。\n魔晶核の風のカルマがいっぱいになったら、\nロージア帝国に向かってテイクオフするよ。","fr":"Ha ha, de rien ! On part ce soir.\nDès que le noyau de cristal magique sera chargé à bloc en Karma du vent,\non décollera pour l'Empire de Rosia."}
+{"id":1545134,"jp":"うん、アイオリアンのご加護がありますように、いってらっしゃい。","fr":"Que l'Éolien veille sur toi. Bon voyage !"}
+{"id":1545135,"jp":"道端で大道芸をしてるのか。\n服を見る限り、祈雲の娘みたいだな。","fr":"Elle donne un spectacle de rue ?\nÀ voir sa tenue, je dirais qu'elle vient de Qiyun."}
+{"id":1545136,"jp":"祈雲……それってどこのこと？","fr":"Qiyun… C'est où, ça ?"}
+{"id":1545137,"jp":"祈雲は北の海に浮かぶ島国なのだ。\nフリスからはかなり遠いのに……よくここまで来られたな。","fr":"Qiyun, c'est un royaume insulaire dans la mer du Nord.\nC'est drôlement loin de Fleece… Comment elle a fait pour venir jusqu'ici ?"}
 {"id":1545138,"jp":"刀を持つ少女","fr":"Jeune fille à l'épée"}
+{"id":1545139,"jp":"お見苦しいものをお見せしてしまいました。\nもし、私の剣術を気に入っていただけたようでしたら、\nご支援いただければ幸いです。","fr":"Veuillez excuser la piètre qualité de ma prestation, nya.\nSi ma démonstration de sabre vous a plu,\nje vous serais reconnaissante de me laisser quelques pièces, nya."}
 {"id":1545140,"jp":"1,000ユニ","fr":"1 000 Uni"}
 {"id":1545141,"jp":"100,000ユニ","fr":"100 000 Uni"}
 {"id":1545142,"jp":"全財産！","fr":"Toute ma fortune !"}
+{"id":1545143,"jp":"ケチすぎるのだ！すこしくらいあげてもいーだろう！","fr":"Quelle radinerie ! Tu peux bien lui donner quelques pièces !"}
+{"id":1545144,"jp":"ん？いまのでお金がもらえるのか？\nそれなら、ルミィさまもキミのためになにか技を披露してやる！","fr":"Hein ? On peut se faire payer pour ça ?\nAlors la grande Lumi va te montrer de quoi elle est capable, elle aussi !"}
+{"id":1545145,"jp":"気前がいいのだ！って、待てまて……\nそんな大金、どこから持ってきたのだ？","fr":"Ah, ça, c'est généreux ! Mais attends un peu…\nOù t'as trouvé tout cet argent ?"}
+{"id":1545146,"jp":"ちょっと待て！頭がおかしくなったのか！？\n有り金をぜんぶ渡しちゃったら、あたしたちはどうするのだ！","fr":"Attends ! Ça va pas la tête ?!\nSi tu lui donnes tout ce qu'on a, on fait comment, nous ?"}
+{"id":1545147,"jp":"すみません。市庁舎周辺では武器の携帯や無許可の露店販売が禁止されています。\nフリスの営業許可証はお持ちですか？","fr":"Excusez-moi. Le port d'armes et la vente à l'étalage sans autorisation sont interdits aux abords de l'hôtel de ville.\nAvez-vous une autorisation de vente délivrée par Fleece ?"}
+{"id":1545148,"jp":"許可証……すみません、聞いたことがありません。","fr":"Une autorisation… Pardonnez-moi, je n'en ai jamais entendu parler, nya."}
+{"id":1545149,"jp":"その様子だと、祈雲から来られたようですね。\n祈雲の通行証はお持ちですか？","fr":"À vous voir, je dirais que vous venez de Qiyun.\nAvez-vous un laissez-passer de Qiyun ?"}
 {"id":1545150,"jp":"それも……","fr":"Cela aussi…"}
+{"id":1545151,"jp":"通行証がない……もしかして、密入国ですか？\nすこし、ついて来ていただけますか。","fr":"Vous n'avez pas de laissez-passer… Vous seriez entrée sans autorisation ?\nPourriez-vous me suivre un instant ?"}
+{"id":1545152,"jp":"シロロ、ちょっと待って。","fr":"Shiroro, attends un peu."}
+{"id":1545153,"jp":"みなさん、それにコムギさんも。どうしてここに？","fr":"Oh, vous êtes tous là. Et vous aussi, Komugi ! Qu'est-ce qui vous amène ?"}
+{"id":1545154,"jp":"この方とすこしお話してもいいかな。","fr":"Ça te va si je lui parle un instant ?"}
+{"id":1545155,"jp":"お名前をお聞きできますか？","fr":"Comment tu t'appelles ?"}
+{"id":1545156,"jp":"私の名は、源千代と申します。","fr":"Je m'appelle Chiyo Minamoto, nya."}
+{"id":1545157,"jp":"千代さん、さっきのパフォーマンスを見てました。\nあなたの腕なら、ギルドで依頼を受けたほうがいいと思います。","fr":"Chiyo, j'ai vu ton numéro tout à l'heure.\nVu comme tu manies le sabre, tu ferais mieux de prendre des missions à la Guilde."}
+{"id":1545158,"jp":"依頼、ですか……それでお金が稼げるのですか？","fr":"Des missions… Ça rapporte de l'argent, nya ?"}
+{"id":1545159,"jp":"もちろん。すくなくとも大道芸よりも安定した収入になるし……\nあの、千代さんは、お金が必要なんですか？なにか、困りごとでも？","fr":"Bien sûr. Tu gagnerais de l'argent plus régulièrement qu'en faisant des numéros dans la rue…\nDis, Chiyo, tu as besoin d'argent ? Tu as des ennuis ?"}
+{"id":1545160,"jp":"お恥ずかしい話ですが……旅費が底をつきそうで。\nですが、どうしても買わなければならないものがあるのです。\nなんとか稼がなければなりません。","fr":"J'ai un peu honte de l'avouer… Il ne me reste presque plus rien pour le voyage, nya.\nOr, il y a quelque chose que je dois absolument acheter, nya.\nIl faut que je trouve un moyen de gagner cet argent, nya."}
 {"id":1545161,"jp":"それは、高いもの？","fr":"C'est cher ?"}
+{"id":1545162,"jp":"だいたい、1,000万ユニくらいかと。","fr":"Dans les dix millions d'Uni, je crois, nya."}
+{"id":1545163,"jp":"なっ、い、<size=40>1,000万</size>！？高すぎるぞ！","fr":"Quoi ? D… <size=40>Dix millions</size> ?! C'est beaucoup trop cher !"}
+{"id":1545164,"jp":"もしかして、オークションに出品される品物が目当てだったり？","fr":"Tu cherches à acheter quelque chose qui va passer aux enchères ?"}
+{"id":1545165,"jp":"その……皆さんの安全のため、詳しくは言えません。\n私が必要とするものは、いま、とある商人の手にあります。\n彼が提示した価格が1,000万なのです。","fr":"Eh bien… Pour votre sécurité, je ne peux pas vous en dire plus, nya.\nCe qu'il me faut est entre les mains d'un marchand, nya.\nC'est lui qui m'en demande dix millions, nya."}
+{"id":1545166,"jp":"いやいや、どう考えてもぼったくられてるのだ！\n騙されてると思わなかったのか？","fr":"Mais enfin, il t'arnaque, c'est évident !\nÇa t'a pas traversé l'esprit ?"}
+{"id":1545167,"jp":"たしかに値はすこし張りますが、こちらが譲っていただく立場ですから……\n条件は受け入れなくては。","fr":"Le prix est un peu élevé, j'en conviens. Mais c'est moi qui lui demande de me céder l'objet, nya…\nJe me dois d'accepter ses conditions, nya."}
+{"id":1545168,"jp":"それに、私が資金を調達するまではほかの者に売らないと約束してくれました。\n武家の娘として、約束は守らなければなりません。","fr":"Il m'a aussi promis de me réserver l'objet le temps que je réunisse la somme, nya.\nJe suis issue d'une famille de samouraïs. Je me dois de tenir parole, nya."}
+{"id":1545169,"jp":"うわぁ……キミ、騙されやすすぎるのだ。","fr":"Oh là là… T'es vraiment trop facile à embobiner."}
+{"id":1545170,"jp":"その商人はどこにいるの？教えてもらえないかな。","fr":"Où est ce marchand ? Tu peux nous le dire ?"}
+{"id":1545171,"jp":"申し訳ありませんが、お答えできません。\nご厚意には感謝いたします。ですが、どうかご心配なさらず。\nお金はなんとか稼ぐつもりですから。","fr":"Navrée, je ne peux pas vous le dire, nya.\nMerci de vous soucier de moi. Soyez sans crainte, nya.\nJe trouverai bien le moyen de gagner cet argent, nya."}
+{"id":1545172,"jp":"もうダメだ。手遅れだぞ……","fr":"Oh là là… On l'a déjà perdue."}
+{"id":1545173,"jp":"シロロ、まずは千代さんの身元証明を済ませちゃおう。\n身元が保証されれば、冒険者ギルドの依頼も受けられるし、\n千代さんにとって都合がいいはずだから。","fr":"Shiroro, commençons par faire attester l'identité de Chiyo.\nUne fois que ce sera fait, elle pourra prendre des missions à la Guilde des aventuriers.\nÇa lui simplifiera la vie."}
 {"id":1545174,"jp":"感謝いたします……","fr":"Je vous remercie…"}
+{"id":1545175,"jp":"では、こちらへどうぞ。","fr":"Dans ce cas, par ici, je vous prie."}
+{"id":1545176,"jp":"おばあさまが言ってたんだ。\n手を取り合える者を見つけるべきだって。\n有能な人材を見つけたら、仲間に引き入れるのも大事なことだよね。","fr":"Ma grand-mère me disait toujours\nqu'il fallait s'entourer de gens avec qui on peut faire équipe.\nQuand on croise quelqu'un d'aussi doué, autant lui proposer de nous rejoindre."}
 {"id":1545177,"jp":"たしかに。","fr":"En effet."}
+{"id":1545178,"jp":"ですが、話にあった商人のことは気になりますね……","fr":"Tout de même, ce marchand dont elle parlait m'intrigue…"}
+{"id":1545179,"jp":"そうだね。たぶん、地下の闇商人だと思う。\nフリスの秩序を守るためにも、その商人を見つけなきゃ！","fr":"Oui. À mon avis, il vend au marché noir.\nIl faut le retrouver si on veut faire respecter les règles à Fleece !"}
+{"id":1545180,"jp":"すみません、このあたりであやしい商人を見かけなかった？","fr":"Dis, tu aurais vu un marchand louche dans le coin ?"}
 {"id":1545181,"jp":"劉錦","fr":"Liu Jin"}
+{"id":1545182,"jp":"あやしい商人？\nここは天江商会が管理してるから、行き来してるのは辰王朝の商人ばかりさ。\n知らない顔は見てないよ。","fr":"Un marchand louche ?\nLe secteur est géré par la Compagnie Tianjiang. Il n'y a guère que des marchands de la dynastie Chen qui passent par ici.\nJe n'ai vu aucune tête nouvelle."}
+{"id":1545183,"jp":"ここじゃないみたいだね。","fr":"Il doit être ailleurs."}
+{"id":1545184,"jp":"ちっこいパミー。このペペアメはここだけの特売品だ！\n逃したら二度と手に入らないぞ！","fr":"Hé, petite Pammy ! C'est ici seulement que tu trouveras des bonbons Pépé à ce prix-là !\nSi tu laisses passer ta chance, t'en trouveras plus jamais !"}
 {"id":1545185,"jp":"悩むパミー","fr":"Pammy en peine"}
+{"id":1545186,"jp":"ううぅ～ペイペイはどうしたら。\n買うべきでしょうか……","fr":"Euh… Qu'est-ce que Peipei va faire ?\nPeipei devrait en acheter… ?"}
+{"id":1545187,"jp":"たった<color=#fed196>9,998</color>ユニで、オレさまお手製のペペアメが買えるんだぜ！\n天下広しと言えど、これ以上にお得な取引はないな！","fr":"Pour <color=#fed196>9 998</color> Uni seulement, t'as droit à des bonbons Pépé faits de mes propres mains !\nTu peux faire le tour du monde, tu trouveras pas meilleure affaire !"}
+{"id":1545188,"jp":"あいつら～！まえにも会った、赤蠍団の連中じゃないか！","fr":"Oh, mais c'est eux ! Les Scorpions rouges qu'on a croisés l'autre fois !"}
+{"id":1545189,"jp":"パミーがいじめられてる！","fr":"Ils s'en prennent à une Pammy !"}
 {"id":1545190,"jp":"また悪さしてる？","fr":"Encore en train de mal agir ?"}
 {"id":1545191,"jp":"たしかに怪しいね……","fr":"C'est vrai que c'est louche…"}
+{"id":1545192,"jp":"あんな連中に金を稼がせるわけにはいかないのだ！\n行くぞ、懲らしめてやる！","fr":"On va quand même pas les laisser se faire de l'argent comme ça !\nViens, on va leur donner une bonne leçon !"}
+{"id":1545193,"jp":"ちょっと待ったぁ！強引な商売はやめるのだ！\nペペアメがそんなに高いわけがないだろう！","fr":"Hé, une minute ! Laisse-la tranquille avec tes bonbons !\nÇa vaut pas une somme pareille, des bonbons Pépé !"}
+{"id":1545194,"jp":"ああぁ？オマエら、どっかで見た顔だな？","fr":"Hein ? Vos têtes me disent quelque chose…"}
+{"id":1545195,"jp":"聖光で浄化されたいの？","fr":"Tu veux que je te purifie à la lumière sacrée ?"}
+{"id":1545196,"jp":"まだ懲りてなかったの？","fr":"Tu veux une autre leçon ?"}
+{"id":1545197,"jp":"親分！こいつら、まえ親分をぶっ飛ばした連中だ！","fr":"Chef ! C'est eux qui t'ont envoyé voler la dernière fois !"}
+{"id":1545198,"jp":"なっ！違う。あんときはちょっと油断しただけだ！","fr":"Quoi ? Mais pas du tout ! J'ai juste baissé ma garde un instant !"}
+{"id":1545199,"jp":"そういうこと……商品を法外な値段で売りさばいて、\n市場の秩序を乱していたのはあなたたちだったんだね！","fr":"Ah, je comprends… C'était donc toi et ta bande qui vendiez à des prix délirants\net qui semiez la pagaille au marché !"}
+{"id":1545200,"jp":"はぁ？市場の秩序だと？\nフリスの法律に「ペペアメを売ってはならない」なんてのはねぇだろ？","fr":"Hein ? La pagaille au marché ?\nMontre-moi un peu où c'est écrit, dans les lois de Fleece, qu'on a pas le droit de vendre des bonbons Pépé !"}
+{"id":1545201,"jp":"まったく、相変わらず反省の色がないな。\nもう一度、教育してやる！","fr":"À t'entendre, t'as toujours rien compris.\nVa falloir reprendre la leçon !"}
 {"id":1545207,"jp":"じぃぃぃ……","fr":"Fixe…"}
 {"id":1545212,"jp":"お、親分！","fr":"C-chef !"}
 {"id":1545217,"jp":"パミー、大丈夫か？","fr":"Pammy, ça va ?"}
