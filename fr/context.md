@@ -84,6 +84,10 @@ Relevés dans les dialogues déjà traduits. Un traducteur les applique tels que
 - Mitty vouvoie Faridah, qui la tutoie. Le Chef du village et Faridah se tutoient.
 - Zaha tutoie le joueur, avec mépris. L'évêque du Culte le tutoie ; 星臨者ちゃん = « Enfant des étoiles, mon chou ».
 - La narration des actions du joueur est à la 2e personne du pluriel (« Vous avez saisi… »).
+- Luruka vouvoie aussi le Chef du village, Chilul, Rani, Uchi, Lyrica et Poya. Metsa tutoie Luruka et l'appelle encore « Charlulu ».
+- Mitty dit « Maîtresse Symphoria ». Lyrica (オイラ, féminin) tutoie et dit « Chef ». Korokoro tutoie et finit par « coâ ».
+- Tutoient aussi : Ruta (« l'oncle Ruta »), Enkaku, Poya, les enfants du village. La voix mystérieuse dit « mon étoile » (お星さま) et tutoie.
+- Mineiva, le Grand Loup, est masculin ; ton archaïque, tutoie.
 
 ## Règles d'écriture
 
