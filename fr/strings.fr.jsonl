@@ -14723,9 +14723,609 @@
 {"id":1513486,"jp":"キャベッコのレベルを100にする","fr":"Monter Cabbeco au niveau 100"}
 {"id":1513487,"jp":"キャベッコの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Cabbeco au rang E"}
 {"id":1513488,"jp":"キャベッコの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Cabbeco au rang D"}
+{"id":1513489,"jp":"キャベッコの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Cabbeco au rang C"}
+{"id":1513490,"jp":"キャベッコの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Cabbeco au rang B"}
+{"id":1513491,"jp":"キャベッコの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Cabbeco au rang A"}
+{"id":1513492,"jp":"キャベッコの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Cabbeco au rang S"}
+{"id":1513493,"jp":"キャバードのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Cabbird"}
+{"id":1513494,"jp":"キャバードのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Cabbird"}
+{"id":1513495,"jp":"キャバードのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Cabbird"}
+{"id":1513496,"jp":"キャバードのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Cabbird"}
+{"id":1513497,"jp":"キャバードのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Cabbird"}
+{"id":1513498,"jp":"キャバードのレベルを30にする","fr":"Monter Cabbird au niveau 30"}
+{"id":1513499,"jp":"キャバードのレベルを50にする","fr":"Monter Cabbird au niveau 50"}
+{"id":1513500,"jp":"キャバードのレベルを60にする","fr":"Monter Cabbird au niveau 60"}
+{"id":1513501,"jp":"キャバードのレベルを70にする","fr":"Monter Cabbird au niveau 70"}
+{"id":1513502,"jp":"キャバードのレベルを80にする","fr":"Monter Cabbird au niveau 80"}
+{"id":1513503,"jp":"キャバードのレベルを90にする","fr":"Monter Cabbird au niveau 90"}
+{"id":1513504,"jp":"キャバードのレベルを100にする","fr":"Monter Cabbird au niveau 100"}
+{"id":1513505,"jp":"キャバードの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Cabbird au rang E"}
+{"id":1513506,"jp":"キャバードの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Cabbird au rang D"}
+{"id":1513507,"jp":"キャバードの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Cabbird au rang C"}
+{"id":1513508,"jp":"キャバードの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Cabbird au rang B"}
+{"id":1513509,"jp":"キャバードの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Cabbird au rang A"}
+{"id":1513510,"jp":"キャバードの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Cabbird au rang S"}
+{"id":1513511,"jp":"ボアラーガのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Boaraga"}
+{"id":1513512,"jp":"ボアラーガのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Boaraga"}
+{"id":1513513,"jp":"ボアラーガのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Boaraga"}
+{"id":1513514,"jp":"ボアラーガのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Boaraga"}
+{"id":1513515,"jp":"ボアラーガのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Boaraga"}
+{"id":1513516,"jp":"ボアラーガのレベルを30にする","fr":"Monter Boaraga au niveau 30"}
+{"id":1513517,"jp":"ボアラーガのレベルを50にする","fr":"Monter Boaraga au niveau 50"}
+{"id":1513518,"jp":"ボアラーガのレベルを60にする","fr":"Monter Boaraga au niveau 60"}
+{"id":1513519,"jp":"ボアラーガのレベルを70にする","fr":"Monter Boaraga au niveau 70"}
+{"id":1513520,"jp":"ボアラーガのレベルを80にする","fr":"Monter Boaraga au niveau 80"}
+{"id":1513521,"jp":"ボアラーガのレベルを90にする","fr":"Monter Boaraga au niveau 90"}
+{"id":1513522,"jp":"ボアラーガのレベルを100にする","fr":"Monter Boaraga au niveau 100"}
+{"id":1513523,"jp":"ボアラーガの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Boaraga au rang E"}
+{"id":1513524,"jp":"ボアラーガの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Boaraga au rang D"}
+{"id":1513525,"jp":"ボアラーガの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Boaraga au rang C"}
+{"id":1513526,"jp":"ボアラーガの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Boaraga au rang B"}
+{"id":1513527,"jp":"ボアラーガの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Boaraga au rang A"}
+{"id":1513528,"jp":"ボアラーガの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Boaraga au rang S"}
+{"id":1513529,"jp":"アズドラーンのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active d'Azdrahn"}
+{"id":1513530,"jp":"アズドラーンのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active d'Azdrahn"}
+{"id":1513531,"jp":"アズドラーンのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active d'Azdrahn"}
+{"id":1513532,"jp":"アズドラーンのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active d'Azdrahn"}
+{"id":1513533,"jp":"アズドラーンのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active d'Azdrahn"}
+{"id":1513534,"jp":"アズドラーンのレベルを30にする","fr":"Monter Azdrahn au niveau 30"}
+{"id":1513535,"jp":"アズドラーンのレベルを50にする","fr":"Monter Azdrahn au niveau 50"}
+{"id":1513536,"jp":"アズドラーンのレベルを60にする","fr":"Monter Azdrahn au niveau 60"}
+{"id":1513537,"jp":"アズドラーンのレベルを70にする","fr":"Monter Azdrahn au niveau 70"}
+{"id":1513538,"jp":"アズドラーンのレベルを80にする","fr":"Monter Azdrahn au niveau 80"}
+{"id":1513539,"jp":"アズドラーンのレベルを90にする","fr":"Monter Azdrahn au niveau 90"}
+{"id":1513540,"jp":"アズドラーンのレベルを100にする","fr":"Monter Azdrahn au niveau 100"}
+{"id":1513541,"jp":"アズドラーンの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels d'Azdrahn au rang E"}
+{"id":1513542,"jp":"アズドラーンの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels d'Azdrahn au rang D"}
+{"id":1513543,"jp":"アズドラーンの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels d'Azdrahn au rang C"}
+{"id":1513544,"jp":"アズドラーンの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels d'Azdrahn au rang B"}
+{"id":1513545,"jp":"アズドラーンの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels d'Azdrahn au rang A"}
+{"id":1513546,"jp":"アズドラーンの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels d'Azdrahn au rang S"}
+{"id":1513547,"jp":"カメレウスのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Chameleus"}
+{"id":1513548,"jp":"カメレウスのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Chameleus"}
+{"id":1513549,"jp":"カメレウスのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Chameleus"}
+{"id":1513550,"jp":"カメレウスのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Chameleus"}
+{"id":1513551,"jp":"カメレウスのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Chameleus"}
+{"id":1513552,"jp":"カメレウスのレベルを30にする","fr":"Monter Chameleus au niveau 30"}
+{"id":1513553,"jp":"カメレウスのレベルを50にする","fr":"Monter Chameleus au niveau 50"}
+{"id":1513554,"jp":"カメレウスのレベルを60にする","fr":"Monter Chameleus au niveau 60"}
+{"id":1513555,"jp":"カメレウスのレベルを70にする","fr":"Monter Chameleus au niveau 70"}
+{"id":1513556,"jp":"カメレウスのレベルを80にする","fr":"Monter Chameleus au niveau 80"}
+{"id":1513557,"jp":"カメレウスのレベルを90にする","fr":"Monter Chameleus au niveau 90"}
+{"id":1513558,"jp":"カメレウスのレベルを100にする","fr":"Monter Chameleus au niveau 100"}
+{"id":1513559,"jp":"カメレウスの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Chameleus au rang E"}
+{"id":1513560,"jp":"カメレウスの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Chameleus au rang D"}
+{"id":1513561,"jp":"カメレウスの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Chameleus au rang C"}
+{"id":1513562,"jp":"カメレウスの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Chameleus au rang B"}
+{"id":1513563,"jp":"カメレウスの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Chameleus au rang A"}
+{"id":1513564,"jp":"カメレウスの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Chameleus au rang S"}
+{"id":1513565,"jp":"フラーメのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Flame"}
+{"id":1513566,"jp":"フラーメのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Flame"}
+{"id":1513567,"jp":"フラーメのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Flame"}
+{"id":1513568,"jp":"フラーメのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Flame"}
+{"id":1513569,"jp":"フラーメのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Flame"}
+{"id":1513570,"jp":"フラーメのレベルを30にする","fr":"Monter Flame au niveau 30"}
+{"id":1513571,"jp":"フラーメのレベルを50にする","fr":"Monter Flame au niveau 50"}
+{"id":1513572,"jp":"フラーメのレベルを60にする","fr":"Monter Flame au niveau 60"}
+{"id":1513573,"jp":"フラーメのレベルを70にする","fr":"Monter Flame au niveau 70"}
+{"id":1513574,"jp":"フラーメのレベルを80にする","fr":"Monter Flame au niveau 80"}
+{"id":1513575,"jp":"フラーメのレベルを90にする","fr":"Monter Flame au niveau 90"}
+{"id":1513576,"jp":"フラーメのレベルを100にする","fr":"Monter Flame au niveau 100"}
+{"id":1513577,"jp":"フラーメの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Flame au rang E"}
+{"id":1513578,"jp":"フラーメの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Flame au rang D"}
+{"id":1513579,"jp":"フラーメの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Flame au rang C"}
+{"id":1513580,"jp":"フラーメの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Flame au rang B"}
+{"id":1513581,"jp":"フラーメの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Flame au rang A"}
+{"id":1513582,"jp":"フラーメの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Flame au rang S"}
+{"id":1513583,"jp":"イグニープのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active d'Igneep"}
+{"id":1513584,"jp":"イグニープのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active d'Igneep"}
+{"id":1513585,"jp":"イグニープのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active d'Igneep"}
+{"id":1513586,"jp":"イグニープのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active d'Igneep"}
+{"id":1513587,"jp":"イグニープのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active d'Igneep"}
+{"id":1513588,"jp":"イグニープのレベルを30にする","fr":"Monter Igneep au niveau 30"}
+{"id":1513589,"jp":"イグニープのレベルを50にする","fr":"Monter Igneep au niveau 50"}
+{"id":1513590,"jp":"イグニープのレベルを60にする","fr":"Monter Igneep au niveau 60"}
+{"id":1513591,"jp":"イグニープのレベルを70にする","fr":"Monter Igneep au niveau 70"}
+{"id":1513592,"jp":"イグニープのレベルを80にする","fr":"Monter Igneep au niveau 80"}
+{"id":1513593,"jp":"イグニープのレベルを90にする","fr":"Monter Igneep au niveau 90"}
+{"id":1513594,"jp":"イグニープのレベルを100にする","fr":"Monter Igneep au niveau 100"}
+{"id":1513595,"jp":"イグニープの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels d'Igneep au rang E"}
+{"id":1513596,"jp":"イグニープの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels d'Igneep au rang D"}
+{"id":1513597,"jp":"イグニープの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels d'Igneep au rang C"}
+{"id":1513598,"jp":"イグニープの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels d'Igneep au rang B"}
+{"id":1513599,"jp":"イグニープの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels d'Igneep au rang A"}
+{"id":1513600,"jp":"イグニープの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels d'Igneep au rang S"}
+{"id":1513601,"jp":"ブレイオスのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Breios"}
+{"id":1513602,"jp":"ブレイオスのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Breios"}
+{"id":1513603,"jp":"ブレイオスのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Breios"}
+{"id":1513604,"jp":"ブレイオスのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Breios"}
+{"id":1513605,"jp":"ブレイオスのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Breios"}
+{"id":1513606,"jp":"ブレイオスのレベルを30にする","fr":"Monter Breios au niveau 30"}
+{"id":1513607,"jp":"ブレイオスのレベルを50にする","fr":"Monter Breios au niveau 50"}
+{"id":1513608,"jp":"ブレイオスのレベルを60にする","fr":"Monter Breios au niveau 60"}
+{"id":1513609,"jp":"ブレイオスのレベルを70にする","fr":"Monter Breios au niveau 70"}
+{"id":1513610,"jp":"ブレイオスのレベルを80にする","fr":"Monter Breios au niveau 80"}
+{"id":1513611,"jp":"ブレイオスのレベルを90にする","fr":"Monter Breios au niveau 90"}
+{"id":1513612,"jp":"ブレイオスのレベルを100にする","fr":"Monter Breios au niveau 100"}
+{"id":1513613,"jp":"ブレイオスの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Breios au rang E"}
+{"id":1513614,"jp":"ブレイオスの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Breios au rang D"}
+{"id":1513615,"jp":"ブレイオスの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Breios au rang C"}
+{"id":1513616,"jp":"ブレイオスの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Breios au rang B"}
+{"id":1513617,"jp":"ブレイオスの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Breios au rang A"}
+{"id":1513618,"jp":"ブレイオスの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Breios au rang S"}
 {"id":1513619,"jp":"アイロのアクティブスキルを3回発動する","fr":"Utiliser 3 fois la compétence active d'Airo"}
+{"id":1513620,"jp":"アイロのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active d'Airo"}
+{"id":1513621,"jp":"アイロのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active d'Airo"}
+{"id":1513622,"jp":"アイロのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active d'Airo"}
+{"id":1513623,"jp":"アイロのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active d'Airo"}
+{"id":1513624,"jp":"アイロのレベルを30にする","fr":"Monter Airo au niveau 30"}
+{"id":1513625,"jp":"アイロのレベルを50にする","fr":"Monter Airo au niveau 50"}
+{"id":1513626,"jp":"アイロのレベルを60にする","fr":"Monter Airo au niveau 60"}
+{"id":1513627,"jp":"アイロのレベルを70にする","fr":"Monter Airo au niveau 70"}
+{"id":1513628,"jp":"アイロのレベルを80にする","fr":"Monter Airo au niveau 80"}
+{"id":1513629,"jp":"アイロのレベルを90にする","fr":"Monter Airo au niveau 90"}
+{"id":1513630,"jp":"アイロのレベルを100にする","fr":"Monter Airo au niveau 100"}
+{"id":1513631,"jp":"アイロの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels d'Airo au rang E"}
+{"id":1513632,"jp":"アイロの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels d'Airo au rang D"}
+{"id":1513633,"jp":"アイロの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels d'Airo au rang C"}
+{"id":1513634,"jp":"アイロの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels d'Airo au rang B"}
+{"id":1513635,"jp":"アイロの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels d'Airo au rang A"}
+{"id":1513636,"jp":"アイロの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels d'Airo au rang S"}
+{"id":1513637,"jp":"トリマンダのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Trimanda"}
+{"id":1513638,"jp":"トリマンダのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Trimanda"}
+{"id":1513639,"jp":"トリマンダのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Trimanda"}
+{"id":1513640,"jp":"トリマンダのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Trimanda"}
+{"id":1513641,"jp":"トリマンダのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Trimanda"}
+{"id":1513642,"jp":"トリマンダのレベルを30にする","fr":"Monter Trimanda au niveau 30"}
+{"id":1513643,"jp":"トリマンダのレベルを50にする","fr":"Monter Trimanda au niveau 50"}
+{"id":1513644,"jp":"トリマンダのレベルを60にする","fr":"Monter Trimanda au niveau 60"}
+{"id":1513645,"jp":"トリマンダのレベルを70にする","fr":"Monter Trimanda au niveau 70"}
+{"id":1513646,"jp":"トリマンダのレベルを80にする","fr":"Monter Trimanda au niveau 80"}
+{"id":1513647,"jp":"トリマンダのレベルを90にする","fr":"Monter Trimanda au niveau 90"}
+{"id":1513648,"jp":"トリマンダのレベルを100にする","fr":"Monter Trimanda au niveau 100"}
+{"id":1513649,"jp":"トリマンダの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Trimanda au rang E"}
+{"id":1513650,"jp":"トリマンダの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Trimanda au rang D"}
+{"id":1513651,"jp":"トリマンダの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Trimanda au rang C"}
+{"id":1513652,"jp":"トリマンダの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Trimanda au rang B"}
+{"id":1513653,"jp":"トリマンダの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Trimanda au rang A"}
+{"id":1513654,"jp":"トリマンダの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Trimanda au rang S"}
+{"id":1513655,"jp":"ギガンシャウラのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Giganshaura"}
+{"id":1513656,"jp":"ギガンシャウラのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Giganshaura"}
+{"id":1513657,"jp":"ギガンシャウラのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Giganshaura"}
+{"id":1513658,"jp":"ギガンシャウラのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Giganshaura"}
+{"id":1513659,"jp":"ギガンシャウラのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Giganshaura"}
+{"id":1513660,"jp":"ギガンシャウラのレベルを30にする","fr":"Monter Giganshaura au niveau 30"}
+{"id":1513661,"jp":"ギガンシャウラのレベルを50にする","fr":"Monter Giganshaura au niveau 50"}
+{"id":1513662,"jp":"ギガンシャウラのレベルを60にする","fr":"Monter Giganshaura au niveau 60"}
+{"id":1513663,"jp":"ギガンシャウラのレベルを70にする","fr":"Monter Giganshaura au niveau 70"}
+{"id":1513664,"jp":"ギガンシャウラのレベルを80にする","fr":"Monter Giganshaura au niveau 80"}
+{"id":1513665,"jp":"ギガンシャウラのレベルを90にする","fr":"Monter Giganshaura au niveau 90"}
+{"id":1513666,"jp":"ギガンシャウラのレベルを100にする","fr":"Monter Giganshaura au niveau 100"}
+{"id":1513673,"jp":"ハルウのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Haru"}
+{"id":1513674,"jp":"ハルウのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Haru"}
+{"id":1513675,"jp":"ハルウのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Haru"}
+{"id":1513676,"jp":"ハルウのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Haru"}
+{"id":1513677,"jp":"ハルウのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Haru"}
+{"id":1513678,"jp":"ハルウのレベルを30にする","fr":"Monter Haru au niveau 30"}
+{"id":1513679,"jp":"ハルウのレベルを50にする","fr":"Monter Haru au niveau 50"}
+{"id":1513680,"jp":"ハルウのレベルを60にする","fr":"Monter Haru au niveau 60"}
+{"id":1513681,"jp":"ハルウのレベルを70にする","fr":"Monter Haru au niveau 70"}
+{"id":1513682,"jp":"ハルウのレベルを80にする","fr":"Monter Haru au niveau 80"}
+{"id":1513683,"jp":"ハルウのレベルを90にする","fr":"Monter Haru au niveau 90"}
+{"id":1513684,"jp":"ハルウのレベルを100にする","fr":"Monter Haru au niveau 100"}
+{"id":1513685,"jp":"ハルウの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Haru au rang E"}
+{"id":1513686,"jp":"ハルウの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Haru au rang D"}
+{"id":1513687,"jp":"ハルウの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Haru au rang C"}
+{"id":1513688,"jp":"ハルウの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Haru au rang B"}
+{"id":1513689,"jp":"ハルウの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Haru au rang A"}
+{"id":1513690,"jp":"ハルウの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Haru au rang S"}
+{"id":1513691,"jp":"ハルシィのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Halcy"}
+{"id":1513692,"jp":"ハルシィのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Halcy"}
+{"id":1513693,"jp":"ハルシィのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Halcy"}
+{"id":1513694,"jp":"ハルシィのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Halcy"}
+{"id":1513695,"jp":"ハルシィのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Halcy"}
+{"id":1513696,"jp":"ハルシィのレベルを30にする","fr":"Monter Halcy au niveau 30"}
+{"id":1513697,"jp":"ハルシィのレベルを50にする","fr":"Monter Halcy au niveau 50"}
+{"id":1513698,"jp":"ハルシィのレベルを60にする","fr":"Monter Halcy au niveau 60"}
+{"id":1513699,"jp":"ハルシィのレベルを70にする","fr":"Monter Halcy au niveau 70"}
+{"id":1513700,"jp":"ハルシィのレベルを80にする","fr":"Monter Halcy au niveau 80"}
+{"id":1513701,"jp":"ハルシィのレベルを90にする","fr":"Monter Halcy au niveau 90"}
+{"id":1513702,"jp":"ハルシィのレベルを100にする","fr":"Monter Halcy au niveau 100"}
+{"id":1513703,"jp":"ハルシィの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Halcy au rang E"}
+{"id":1513704,"jp":"ハルシィの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Halcy au rang D"}
+{"id":1513705,"jp":"ハルシィの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Halcy au rang C"}
+{"id":1513706,"jp":"ハルシィの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Halcy au rang B"}
+{"id":1513707,"jp":"ハルシィの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Halcy au rang A"}
+{"id":1513708,"jp":"ハルシィの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Halcy au rang S"}
+{"id":1513709,"jp":"ハルシヨンのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Halcyon"}
+{"id":1513710,"jp":"ハルシヨンのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Halcyon"}
+{"id":1513711,"jp":"ハルシヨンのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Halcyon"}
+{"id":1513712,"jp":"ハルシヨンのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Halcyon"}
+{"id":1513713,"jp":"ハルシヨンのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Halcyon"}
+{"id":1513714,"jp":"ハルシヨンのレベルを30にする","fr":"Monter Halcyon au niveau 30"}
+{"id":1513715,"jp":"ハルシヨンのレベルを50にする","fr":"Monter Halcyon au niveau 50"}
+{"id":1513716,"jp":"ハルシヨンのレベルを60にする","fr":"Monter Halcyon au niveau 60"}
+{"id":1513717,"jp":"ハルシヨンのレベルを70にする","fr":"Monter Halcyon au niveau 70"}
+{"id":1513718,"jp":"ハルシヨンのレベルを80にする","fr":"Monter Halcyon au niveau 80"}
+{"id":1513719,"jp":"ハルシヨンのレベルを90にする","fr":"Monter Halcyon au niveau 90"}
+{"id":1513720,"jp":"ハルシヨンのレベルを100にする","fr":"Monter Halcyon au niveau 100"}
+{"id":1513721,"jp":"ハルシヨンの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Halcyon au rang E"}
+{"id":1513722,"jp":"ハルシヨンの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Halcyon au rang D"}
+{"id":1513723,"jp":"ハルシヨンの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Halcyon au rang C"}
+{"id":1513724,"jp":"ハルシヨンの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Halcyon au rang B"}
+{"id":1513725,"jp":"ハルシヨンの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Halcyon au rang A"}
+{"id":1513726,"jp":"ハルシヨンの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Halcyon au rang S"}
+{"id":1513727,"jp":"ツーモのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Tsumo"}
+{"id":1513728,"jp":"ツーモのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Tsumo"}
+{"id":1513729,"jp":"ツーモのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Tsumo"}
+{"id":1513730,"jp":"ツーモのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Tsumo"}
+{"id":1513731,"jp":"ツーモのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Tsumo"}
+{"id":1513732,"jp":"ツーモのレベルを30にする","fr":"Monter Tsumo au niveau 30"}
+{"id":1513733,"jp":"ツーモのレベルを50にする","fr":"Monter Tsumo au niveau 50"}
+{"id":1513734,"jp":"ツーモのレベルを60にする","fr":"Monter Tsumo au niveau 60"}
+{"id":1513735,"jp":"ツーモのレベルを70にする","fr":"Monter Tsumo au niveau 70"}
+{"id":1513736,"jp":"ツーモのレベルを80にする","fr":"Monter Tsumo au niveau 80"}
+{"id":1513737,"jp":"ツーモのレベルを90にする","fr":"Monter Tsumo au niveau 90"}
+{"id":1513738,"jp":"ツーモのレベルを100にする","fr":"Monter Tsumo au niveau 100"}
+{"id":1513739,"jp":"ツーモの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Tsumo au rang E"}
+{"id":1513740,"jp":"ツーモの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Tsumo au rang D"}
+{"id":1513741,"jp":"ツーモの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Tsumo au rang C"}
+{"id":1513742,"jp":"ツーモの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Tsumo au rang B"}
+{"id":1513743,"jp":"ツーモの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Tsumo au rang A"}
+{"id":1513744,"jp":"ツーモの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Tsumo au rang S"}
+{"id":1513745,"jp":"ツリィフのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Treeff"}
+{"id":1513746,"jp":"ツリィフのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Treeff"}
+{"id":1513747,"jp":"ツリィフのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Treeff"}
+{"id":1513748,"jp":"ツリィフのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Treeff"}
+{"id":1513749,"jp":"ツリィフのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Treeff"}
+{"id":1513750,"jp":"ツリィフのレベルを30にする","fr":"Monter Treeff au niveau 30"}
+{"id":1513751,"jp":"ツリィフのレベルを50にする","fr":"Monter Treeff au niveau 50"}
+{"id":1513752,"jp":"ツリィフのレベルを60にする","fr":"Monter Treeff au niveau 60"}
+{"id":1513753,"jp":"ツリィフのレベルを70にする","fr":"Monter Treeff au niveau 70"}
+{"id":1513754,"jp":"ツリィフのレベルを80にする","fr":"Monter Treeff au niveau 80"}
+{"id":1513755,"jp":"ツリィフのレベルを90にする","fr":"Monter Treeff au niveau 90"}
+{"id":1513756,"jp":"ツリィフのレベルを100にする","fr":"Monter Treeff au niveau 100"}
+{"id":1513757,"jp":"ツリィフの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Treeff au rang E"}
+{"id":1513758,"jp":"ツリィフの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Treeff au rang D"}
+{"id":1513759,"jp":"ツリィフの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Treeff au rang C"}
+{"id":1513760,"jp":"ツリィフの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Treeff au rang B"}
+{"id":1513761,"jp":"ツリィフの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Treeff au rang A"}
+{"id":1513762,"jp":"ツリィフの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Treeff au rang S"}
+{"id":1513763,"jp":"ツルネフィのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Tsurnefi"}
+{"id":1513764,"jp":"ツルネフィのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Tsurnefi"}
+{"id":1513765,"jp":"ツルネフィのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Tsurnefi"}
+{"id":1513766,"jp":"ツルネフィのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Tsurnefi"}
+{"id":1513767,"jp":"ツルネフィのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Tsurnefi"}
+{"id":1513768,"jp":"ツルネフィのレベルを30にする","fr":"Monter Tsurnefi au niveau 30"}
+{"id":1513769,"jp":"ツルネフィのレベルを50にする","fr":"Monter Tsurnefi au niveau 50"}
+{"id":1513770,"jp":"ツルネフィのレベルを60にする","fr":"Monter Tsurnefi au niveau 60"}
+{"id":1513771,"jp":"ツルネフィのレベルを70にする","fr":"Monter Tsurnefi au niveau 70"}
+{"id":1513772,"jp":"ツルネフィのレベルを80にする","fr":"Monter Tsurnefi au niveau 80"}
+{"id":1513773,"jp":"ツルネフィのレベルを90にする","fr":"Monter Tsurnefi au niveau 90"}
+{"id":1513774,"jp":"ツルネフィのレベルを100にする","fr":"Monter Tsurnefi au niveau 100"}
+{"id":1513775,"jp":"ツルネフィの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Tsurnefi au rang E"}
+{"id":1513776,"jp":"ツルネフィの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Tsurnefi au rang D"}
+{"id":1513777,"jp":"ツルネフィの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Tsurnefi au rang C"}
+{"id":1513778,"jp":"ツルネフィの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Tsurnefi au rang B"}
+{"id":1513779,"jp":"ツルネフィの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Tsurnefi au rang A"}
+{"id":1513780,"jp":"ツルネフィの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Tsurnefi au rang S"}
+{"id":1513781,"jp":"ロッコロのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Rokkoro"}
+{"id":1513782,"jp":"ロッコロのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Rokkoro"}
+{"id":1513783,"jp":"ロッコロのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Rokkoro"}
+{"id":1513784,"jp":"ロッコロのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Rokkoro"}
+{"id":1513785,"jp":"ロッコロのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Rokkoro"}
+{"id":1513786,"jp":"ロッコロのレベルを30にする","fr":"Monter Rokkoro au niveau 30"}
+{"id":1513787,"jp":"ロッコロのレベルを50にする","fr":"Monter Rokkoro au niveau 50"}
+{"id":1513788,"jp":"ロッコロのレベルを60にする","fr":"Monter Rokkoro au niveau 60"}
+{"id":1513789,"jp":"ロッコロのレベルを70にする","fr":"Monter Rokkoro au niveau 70"}
+{"id":1513790,"jp":"ロッコロのレベルを80にする","fr":"Monter Rokkoro au niveau 80"}
+{"id":1513791,"jp":"ロッコロのレベルを90にする","fr":"Monter Rokkoro au niveau 90"}
+{"id":1513792,"jp":"ロッコロのレベルを100にする","fr":"Monter Rokkoro au niveau 100"}
+{"id":1513793,"jp":"ロッコロの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Rokkoro au rang E"}
+{"id":1513794,"jp":"ロッコロの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Rokkoro au rang D"}
+{"id":1513795,"jp":"ロッコロの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Rokkoro au rang C"}
+{"id":1513796,"jp":"ロッコロの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Rokkoro au rang B"}
+{"id":1513797,"jp":"ロッコロの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Rokkoro au rang A"}
+{"id":1513798,"jp":"ロッコロの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Rokkoro au rang S"}
+{"id":1513799,"jp":"センザロのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Senzaro"}
+{"id":1513800,"jp":"センザロのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Senzaro"}
+{"id":1513801,"jp":"センザロのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Senzaro"}
+{"id":1513802,"jp":"センザロのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Senzaro"}
+{"id":1513803,"jp":"センザロのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Senzaro"}
+{"id":1513804,"jp":"センザロのレベルを30にする","fr":"Monter Senzaro au niveau 30"}
+{"id":1513805,"jp":"センザロのレベルを50にする","fr":"Monter Senzaro au niveau 50"}
+{"id":1513806,"jp":"センザロのレベルを60にする","fr":"Monter Senzaro au niveau 60"}
+{"id":1513807,"jp":"センザロのレベルを70にする","fr":"Monter Senzaro au niveau 70"}
+{"id":1513808,"jp":"センザロのレベルを80にする","fr":"Monter Senzaro au niveau 80"}
+{"id":1513809,"jp":"センザロのレベルを90にする","fr":"Monter Senzaro au niveau 90"}
+{"id":1513810,"jp":"センザロのレベルを100にする","fr":"Monter Senzaro au niveau 100"}
+{"id":1513811,"jp":"センザロの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Senzaro au rang E"}
+{"id":1513812,"jp":"センザロの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Senzaro au rang D"}
+{"id":1513813,"jp":"センザロの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Senzaro au rang C"}
+{"id":1513814,"jp":"センザロの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Senzaro au rang B"}
+{"id":1513815,"jp":"センザロの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Senzaro au rang A"}
+{"id":1513816,"jp":"センザロの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Senzaro au rang S"}
+{"id":1513817,"jp":"グランザロスのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Granzaros"}
+{"id":1513818,"jp":"グランザロスのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Granzaros"}
+{"id":1513819,"jp":"グランザロスのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Granzaros"}
+{"id":1513820,"jp":"グランザロスのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Granzaros"}
+{"id":1513821,"jp":"グランザロスのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Granzaros"}
+{"id":1513822,"jp":"グランザロスのレベルを30にする","fr":"Monter Granzaros au niveau 30"}
+{"id":1513823,"jp":"グランザロスのレベルを50にする","fr":"Monter Granzaros au niveau 50"}
+{"id":1513824,"jp":"グランザロスのレベルを60にする","fr":"Monter Granzaros au niveau 60"}
+{"id":1513825,"jp":"グランザロスのレベルを70にする","fr":"Monter Granzaros au niveau 70"}
+{"id":1513826,"jp":"グランザロスのレベルを80にする","fr":"Monter Granzaros au niveau 80"}
+{"id":1513827,"jp":"グランザロスのレベルを90にする","fr":"Monter Granzaros au niveau 90"}
+{"id":1513828,"jp":"グランザロスのレベルを100にする","fr":"Monter Granzaros au niveau 100"}
+{"id":1513829,"jp":"グランザロスの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Granzaros au rang E"}
+{"id":1513830,"jp":"グランザロスの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Granzaros au rang D"}
+{"id":1513831,"jp":"グランザロスの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Granzaros au rang C"}
+{"id":1513832,"jp":"グランザロスの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Granzaros au rang B"}
+{"id":1513833,"jp":"グランザロスの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Granzaros au rang A"}
+{"id":1513834,"jp":"グランザロスの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Granzaros au rang S"}
+{"id":1513835,"jp":"サラマンドのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Salamand"}
+{"id":1513836,"jp":"サラマンドのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Salamand"}
+{"id":1513837,"jp":"サラマンドのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Salamand"}
+{"id":1513838,"jp":"サラマンドのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Salamand"}
+{"id":1513839,"jp":"サラマンドのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Salamand"}
+{"id":1513840,"jp":"サラマンドのレベルを30にする","fr":"Monter Salamand au niveau 30"}
+{"id":1513841,"jp":"サラマンドのレベルを50にする","fr":"Monter Salamand au niveau 50"}
+{"id":1513842,"jp":"サラマンドのレベルを60にする","fr":"Monter Salamand au niveau 60"}
+{"id":1513843,"jp":"サラマンドのレベルを70にする","fr":"Monter Salamand au niveau 70"}
+{"id":1513844,"jp":"サラマンドのレベルを80にする","fr":"Monter Salamand au niveau 80"}
+{"id":1513845,"jp":"サラマンドのレベルを90にする","fr":"Monter Salamand au niveau 90"}
+{"id":1513846,"jp":"サラマンドのレベルを100にする","fr":"Monter Salamand au niveau 100"}
+{"id":1513847,"jp":"サラマンドの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Salamand au rang E"}
+{"id":1513848,"jp":"サラマンドの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Salamand au rang D"}
+{"id":1513849,"jp":"サラマンドの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Salamand au rang C"}
+{"id":1513850,"jp":"サラマンドの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Salamand au rang B"}
 {"id":1513851,"jp":"サラマンドの6種の潜在能力をすべてランクAにする","fr":"Faire passer les 6 potentiels de Salamand au rang A"}
+{"id":1513852,"jp":"サラマンドの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Salamand au rang S"}
+{"id":1513853,"jp":"ホークルのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Hawkle"}
+{"id":1513854,"jp":"ホークルのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Hawkle"}
+{"id":1513855,"jp":"ホークルのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Hawkle"}
+{"id":1513856,"jp":"ホークルのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Hawkle"}
+{"id":1513857,"jp":"ホークルのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Hawkle"}
+{"id":1513858,"jp":"ホークルのレベルを30にする","fr":"Monter Hawkle au niveau 30"}
+{"id":1513859,"jp":"ホークルのレベルを50にする","fr":"Monter Hawkle au niveau 50"}
+{"id":1513860,"jp":"ホークルのレベルを60にする","fr":"Monter Hawkle au niveau 60"}
+{"id":1513861,"jp":"ホークルのレベルを70にする","fr":"Monter Hawkle au niveau 70"}
+{"id":1513862,"jp":"ホークルのレベルを80にする","fr":"Monter Hawkle au niveau 80"}
+{"id":1513863,"jp":"ホークルのレベルを90にする","fr":"Monter Hawkle au niveau 90"}
+{"id":1513864,"jp":"ホークルのレベルを100にする","fr":"Monter Hawkle au niveau 100"}
+{"id":1513865,"jp":"ホークルの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Hawkle au rang E"}
+{"id":1513866,"jp":"ホークルの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Hawkle au rang D"}
+{"id":1513867,"jp":"ホークルの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Hawkle au rang C"}
+{"id":1513868,"jp":"ホークルの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Hawkle au rang B"}
+{"id":1513869,"jp":"ホークルの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Hawkle au rang A"}
+{"id":1513870,"jp":"ホークルの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Hawkle au rang S"}
+{"id":1513871,"jp":"スカイホークのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Skyhawk"}
+{"id":1513872,"jp":"スカイホークのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Skyhawk"}
+{"id":1513873,"jp":"スカイホークのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Skyhawk"}
+{"id":1513874,"jp":"スカイホークのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Skyhawk"}
+{"id":1513875,"jp":"スカイホークのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Skyhawk"}
+{"id":1513876,"jp":"スカイホークのレベルを30にする","fr":"Monter Skyhawk au niveau 30"}
+{"id":1513877,"jp":"スカイホークのレベルを50にする","fr":"Monter Skyhawk au niveau 50"}
+{"id":1513878,"jp":"スカイホークのレベルを60にする","fr":"Monter Skyhawk au niveau 60"}
+{"id":1513879,"jp":"スカイホークのレベルを70にする","fr":"Monter Skyhawk au niveau 70"}
+{"id":1513880,"jp":"スカイホークのレベルを80にする","fr":"Monter Skyhawk au niveau 80"}
+{"id":1513881,"jp":"スカイホークのレベルを90にする","fr":"Monter Skyhawk au niveau 90"}
+{"id":1513882,"jp":"スカイホークのレベルを100にする","fr":"Monter Skyhawk au niveau 100"}
+{"id":1513883,"jp":"スカイホークの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Skyhawk au rang E"}
+{"id":1513884,"jp":"スカイホークの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Skyhawk au rang D"}
+{"id":1513885,"jp":"スカイホークの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Skyhawk au rang C"}
+{"id":1513886,"jp":"スカイホークの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Skyhawk au rang B"}
+{"id":1513887,"jp":"スカイホークの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Skyhawk au rang A"}
+{"id":1513888,"jp":"スカイホークの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Skyhawk au rang S"}
+{"id":1513889,"jp":"シャルビットのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Sharbit"}
+{"id":1513890,"jp":"シャルビットのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Sharbit"}
+{"id":1513891,"jp":"シャルビットのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Sharbit"}
+{"id":1513892,"jp":"シャルビットのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Sharbit"}
+{"id":1513893,"jp":"シャルビットのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Sharbit"}
+{"id":1513894,"jp":"シャルビットのレベルを30にする","fr":"Monter Sharbit au niveau 30"}
+{"id":1513895,"jp":"シャルビットのレベルを50にする","fr":"Monter Sharbit au niveau 50"}
+{"id":1513896,"jp":"シャルビットのレベルを60にする","fr":"Monter Sharbit au niveau 60"}
+{"id":1513897,"jp":"シャルビットのレベルを70にする","fr":"Monter Sharbit au niveau 70"}
+{"id":1513898,"jp":"シャルビットのレベルを80にする","fr":"Monter Sharbit au niveau 80"}
+{"id":1513899,"jp":"シャルビットのレベルを90にする","fr":"Monter Sharbit au niveau 90"}
+{"id":1513900,"jp":"シャルビットのレベルを100にする","fr":"Monter Sharbit au niveau 100"}
+{"id":1513901,"jp":"シャルビットの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Sharbit au rang E"}
+{"id":1513902,"jp":"シャルビットの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Sharbit au rang D"}
+{"id":1513903,"jp":"シャルビットの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Sharbit au rang C"}
+{"id":1513904,"jp":"シャルビットの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Sharbit au rang B"}
+{"id":1513905,"jp":"シャルビットの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Sharbit au rang A"}
+{"id":1513906,"jp":"シャルビットの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Sharbit au rang S"}
+{"id":1513907,"jp":"ライカウモのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Raikaumo"}
+{"id":1513908,"jp":"ライカウモのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Raikaumo"}
+{"id":1513909,"jp":"ライカウモのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Raikaumo"}
+{"id":1513910,"jp":"ライカウモのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Raikaumo"}
+{"id":1513911,"jp":"ライカウモのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Raikaumo"}
+{"id":1513912,"jp":"ライカウモのレベルを30にする","fr":"Monter Raikaumo au niveau 30"}
+{"id":1513913,"jp":"ライカウモのレベルを50にする","fr":"Monter Raikaumo au niveau 50"}
+{"id":1513914,"jp":"ライカウモのレベルを60にする","fr":"Monter Raikaumo au niveau 60"}
+{"id":1513915,"jp":"ライカウモのレベルを70にする","fr":"Monter Raikaumo au niveau 70"}
+{"id":1513916,"jp":"ライカウモのレベルを80にする","fr":"Monter Raikaumo au niveau 80"}
+{"id":1513917,"jp":"ライカウモのレベルを90にする","fr":"Monter Raikaumo au niveau 90"}
+{"id":1513918,"jp":"ライカウモのレベルを100にする","fr":"Monter Raikaumo au niveau 100"}
+{"id":1513919,"jp":"ライカウモの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Raikaumo au rang E"}
+{"id":1513920,"jp":"ライカウモの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Raikaumo au rang D"}
+{"id":1513921,"jp":"ライカウモの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Raikaumo au rang C"}
+{"id":1513922,"jp":"ライカウモの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Raikaumo au rang B"}
+{"id":1513923,"jp":"ライカウモの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Raikaumo au rang A"}
+{"id":1513924,"jp":"ライカウモの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Raikaumo au rang S"}
+{"id":1513925,"jp":"グラゴのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Grago"}
+{"id":1513926,"jp":"グラゴのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Grago"}
+{"id":1513927,"jp":"グラゴのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Grago"}
+{"id":1513928,"jp":"グラゴのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Grago"}
+{"id":1513929,"jp":"グラゴのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Grago"}
+{"id":1513930,"jp":"グラゴのレベルを30にする","fr":"Monter Grago au niveau 30"}
+{"id":1513931,"jp":"グラゴのレベルを50にする","fr":"Monter Grago au niveau 50"}
+{"id":1513932,"jp":"グラゴのレベルを60にする","fr":"Monter Grago au niveau 60"}
+{"id":1513933,"jp":"グラゴのレベルを70にする","fr":"Monter Grago au niveau 70"}
+{"id":1513934,"jp":"グラゴのレベルを80にする","fr":"Monter Grago au niveau 80"}
+{"id":1513935,"jp":"グラゴのレベルを90にする","fr":"Monter Grago au niveau 90"}
+{"id":1513936,"jp":"グラゴのレベルを100にする","fr":"Monter Grago au niveau 100"}
+{"id":1513937,"jp":"グラゴの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Grago au rang E"}
+{"id":1513938,"jp":"グラゴの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Grago au rang D"}
+{"id":1513939,"jp":"グラゴの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Grago au rang C"}
+{"id":1513940,"jp":"グラゴの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Grago au rang B"}
+{"id":1513941,"jp":"グラゴの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Grago au rang A"}
+{"id":1513942,"jp":"グラゴの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Grago au rang S"}
+{"id":1513943,"jp":"アルマロのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active d'Armaro"}
+{"id":1513944,"jp":"アルマロのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active d'Armaro"}
+{"id":1513945,"jp":"アルマロのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active d'Armaro"}
+{"id":1513946,"jp":"アルマロのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active d'Armaro"}
+{"id":1513947,"jp":"アルマロのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active d'Armaro"}
+{"id":1513948,"jp":"アルマロのレベルを30にする","fr":"Monter Armaro au niveau 30"}
+{"id":1513949,"jp":"アルマロのレベルを50にする","fr":"Monter Armaro au niveau 50"}
+{"id":1513950,"jp":"アルマロのレベルを60にする","fr":"Monter Armaro au niveau 60"}
+{"id":1513951,"jp":"アルマロのレベルを70にする","fr":"Monter Armaro au niveau 70"}
+{"id":1513952,"jp":"アルマロのレベルを80にする","fr":"Monter Armaro au niveau 80"}
+{"id":1513953,"jp":"アルマロのレベルを90にする","fr":"Monter Armaro au niveau 90"}
+{"id":1513954,"jp":"アルマロのレベルを100にする","fr":"Monter Armaro au niveau 100"}
+{"id":1513955,"jp":"アルマロの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels d'Armaro au rang E"}
+{"id":1513956,"jp":"アルマロの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels d'Armaro au rang D"}
+{"id":1513957,"jp":"アルマロの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels d'Armaro au rang C"}
+{"id":1513958,"jp":"アルマロの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels d'Armaro au rang B"}
+{"id":1513959,"jp":"アルマロの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels d'Armaro au rang A"}
+{"id":1513960,"jp":"アルマロの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels d'Armaro au rang S"}
+{"id":1513961,"jp":"マグマロスのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Magmaros"}
+{"id":1513962,"jp":"マグマロスのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Magmaros"}
+{"id":1513963,"jp":"マグマロスのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Magmaros"}
+{"id":1513964,"jp":"マグマロスのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Magmaros"}
+{"id":1513965,"jp":"マグマロスのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Magmaros"}
+{"id":1513966,"jp":"マグマロスのレベルを30にする","fr":"Monter Magmaros au niveau 30"}
+{"id":1513967,"jp":"マグマロスのレベルを50にする","fr":"Monter Magmaros au niveau 50"}
+{"id":1513968,"jp":"マグマロスのレベルを60にする","fr":"Monter Magmaros au niveau 60"}
+{"id":1513969,"jp":"マグマロスのレベルを70にする","fr":"Monter Magmaros au niveau 70"}
+{"id":1513970,"jp":"マグマロスのレベルを80にする","fr":"Monter Magmaros au niveau 80"}
+{"id":1513971,"jp":"マグマロスのレベルを90にする","fr":"Monter Magmaros au niveau 90"}
+{"id":1513972,"jp":"マグマロスのレベルを100にする","fr":"Monter Magmaros au niveau 100"}
+{"id":1513973,"jp":"マグマロスの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Magmaros au rang E"}
+{"id":1513974,"jp":"マグマロスの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Magmaros au rang D"}
+{"id":1513975,"jp":"マグマロスの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Magmaros au rang C"}
+{"id":1513976,"jp":"マグマロスの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Magmaros au rang B"}
+{"id":1513977,"jp":"マグマロスの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Magmaros au rang A"}
+{"id":1513978,"jp":"マグマロスの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Magmaros au rang S"}
+{"id":1513979,"jp":"メロウミーのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Mellowmee"}
+{"id":1513980,"jp":"メロウミーのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Mellowmee"}
+{"id":1513981,"jp":"メロウミーのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Mellowmee"}
+{"id":1513982,"jp":"メロウミーのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Mellowmee"}
+{"id":1513983,"jp":"メロウミーのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Mellowmee"}
+{"id":1513984,"jp":"メロウミーのレベルを30にする","fr":"Monter Mellowmee au niveau 30"}
+{"id":1513985,"jp":"メロウミーのレベルを50にする","fr":"Monter Mellowmee au niveau 50"}
+{"id":1513986,"jp":"メロウミーのレベルを60にする","fr":"Monter Mellowmee au niveau 60"}
+{"id":1513987,"jp":"メロウミーのレベルを70にする","fr":"Monter Mellowmee au niveau 70"}
+{"id":1513988,"jp":"メロウミーのレベルを80にする","fr":"Monter Mellowmee au niveau 80"}
+{"id":1513989,"jp":"メロウミーのレベルを90にする","fr":"Monter Mellowmee au niveau 90"}
+{"id":1513990,"jp":"メロウミーのレベルを100にする","fr":"Monter Mellowmee au niveau 100"}
+{"id":1513991,"jp":"メロウミーの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Mellowmee au rang E"}
+{"id":1513992,"jp":"メロウミーの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Mellowmee au rang D"}
+{"id":1513993,"jp":"メロウミーの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Mellowmee au rang C"}
+{"id":1513994,"jp":"メロウミーの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Mellowmee au rang B"}
+{"id":1513995,"jp":"メロウミーの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Mellowmee au rang A"}
+{"id":1513996,"jp":"メロウミーの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Mellowmee au rang S"}
+{"id":1513997,"jp":"ドロゲコのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Drogeko"}
+{"id":1513998,"jp":"ドロゲコのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Drogeko"}
+{"id":1513999,"jp":"ドロゲコのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Drogeko"}
+{"id":1514000,"jp":"ドロゲコのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Drogeko"}
+{"id":1514001,"jp":"ドロゲコのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Drogeko"}
+{"id":1514002,"jp":"ドロゲコのレベルを30にする","fr":"Monter Drogeko au niveau 30"}
+{"id":1514003,"jp":"ドロゲコのレベルを50にする","fr":"Monter Drogeko au niveau 50"}
+{"id":1514004,"jp":"ドロゲコのレベルを60にする","fr":"Monter Drogeko au niveau 60"}
+{"id":1514005,"jp":"ドロゲコのレベルを70にする","fr":"Monter Drogeko au niveau 70"}
+{"id":1514006,"jp":"ドロゲコのレベルを80にする","fr":"Monter Drogeko au niveau 80"}
+{"id":1514007,"jp":"ドロゲコのレベルを90にする","fr":"Monter Drogeko au niveau 90"}
+{"id":1514008,"jp":"ドロゲコのレベルを100にする","fr":"Monter Drogeko au niveau 100"}
+{"id":1514009,"jp":"ドロゲコの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Drogeko au rang E"}
+{"id":1514010,"jp":"ドロゲコの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Drogeko au rang D"}
+{"id":1514011,"jp":"ドロゲコの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Drogeko au rang C"}
+{"id":1514012,"jp":"ドロゲコの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Drogeko au rang B"}
+{"id":1514013,"jp":"ドロゲコの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Drogeko au rang A"}
+{"id":1514014,"jp":"ドロゲコの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Drogeko au rang S"}
+{"id":1514015,"jp":"フォローグのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Follog"}
+{"id":1514016,"jp":"フォローグのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Follog"}
+{"id":1514017,"jp":"フォローグのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Follog"}
+{"id":1514018,"jp":"フォローグのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Follog"}
+{"id":1514019,"jp":"フォローグのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Follog"}
+{"id":1514020,"jp":"フォローグのレベルを30にする","fr":"Monter Follog au niveau 30"}
+{"id":1514021,"jp":"フォローグのレベルを50にする","fr":"Monter Follog au niveau 50"}
+{"id":1514022,"jp":"フォローグのレベルを60にする","fr":"Monter Follog au niveau 60"}
+{"id":1514023,"jp":"フォローグのレベルを70にする","fr":"Monter Follog au niveau 70"}
+{"id":1514024,"jp":"フォローグのレベルを80にする","fr":"Monter Follog au niveau 80"}
+{"id":1514025,"jp":"フォローグのレベルを90にする","fr":"Monter Follog au niveau 90"}
+{"id":1514026,"jp":"フォローグのレベルを100にする","fr":"Monter Follog au niveau 100"}
+{"id":1514027,"jp":"フォローグの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Follog au rang E"}
+{"id":1514028,"jp":"フォローグの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Follog au rang D"}
+{"id":1514029,"jp":"フォローグの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Follog au rang C"}
+{"id":1514030,"jp":"フォローグの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Follog au rang B"}
+{"id":1514031,"jp":"フォローグの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Follog au rang A"}
+{"id":1514032,"jp":"フォローグの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Follog au rang S"}
+{"id":1514033,"jp":"シードロのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Seedro"}
+{"id":1514034,"jp":"シードロのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Seedro"}
+{"id":1514035,"jp":"シードロのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Seedro"}
+{"id":1514036,"jp":"シードロのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Seedro"}
+{"id":1514037,"jp":"シードロのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Seedro"}
+{"id":1514038,"jp":"シードロのレベルを30にする","fr":"Monter Seedro au niveau 30"}
+{"id":1514039,"jp":"シードロのレベルを50にする","fr":"Monter Seedro au niveau 50"}
+{"id":1514040,"jp":"シードロのレベルを60にする","fr":"Monter Seedro au niveau 60"}
+{"id":1514041,"jp":"シードロのレベルを70にする","fr":"Monter Seedro au niveau 70"}
+{"id":1514042,"jp":"シードロのレベルを80にする","fr":"Monter Seedro au niveau 80"}
+{"id":1514043,"jp":"シードロのレベルを90にする","fr":"Monter Seedro au niveau 90"}
+{"id":1514044,"jp":"シードロのレベルを100にする","fr":"Monter Seedro au niveau 100"}
+{"id":1514045,"jp":"シードロの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Seedro au rang E"}
+{"id":1514046,"jp":"シードロの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Seedro au rang D"}
+{"id":1514047,"jp":"シードロの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Seedro au rang C"}
+{"id":1514048,"jp":"シードロの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Seedro au rang B"}
+{"id":1514049,"jp":"シードロの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Seedro au rang A"}
+{"id":1514050,"jp":"シードロの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Seedro au rang S"}
+{"id":1514051,"jp":"シーロックのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Searock"}
+{"id":1514052,"jp":"シーロックのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Searock"}
+{"id":1514053,"jp":"シーロックのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Searock"}
+{"id":1514054,"jp":"シーロックのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Searock"}
+{"id":1514055,"jp":"シーロックのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Searock"}
+{"id":1514056,"jp":"シーロックのレベルを30にする","fr":"Monter Searock au niveau 30"}
+{"id":1514057,"jp":"シーロックのレベルを50にする","fr":"Monter Searock au niveau 50"}
+{"id":1514058,"jp":"シーロックのレベルを60にする","fr":"Monter Searock au niveau 60"}
+{"id":1514059,"jp":"シーロックのレベルを70にする","fr":"Monter Searock au niveau 70"}
+{"id":1514060,"jp":"シーロックのレベルを80にする","fr":"Monter Searock au niveau 80"}
+{"id":1514061,"jp":"シーロックのレベルを90にする","fr":"Monter Searock au niveau 90"}
+{"id":1514062,"jp":"シーロックのレベルを100にする","fr":"Monter Searock au niveau 100"}
+{"id":1514063,"jp":"シーロックの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Searock au rang E"}
+{"id":1514064,"jp":"シーロックの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Searock au rang D"}
+{"id":1514065,"jp":"シーロックの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Searock au rang C"}
+{"id":1514066,"jp":"シーロックの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Searock au rang B"}
+{"id":1514067,"jp":"シーロックの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Searock au rang A"}
+{"id":1514068,"jp":"シーロックの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Searock au rang S"}
+{"id":1514069,"jp":"ラズリンのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Lazurin"}
+{"id":1514070,"jp":"ラズリンのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Lazurin"}
+{"id":1514071,"jp":"ラズリンのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Lazurin"}
+{"id":1514072,"jp":"ラズリンのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Lazurin"}
+{"id":1514073,"jp":"ラズリンのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Lazurin"}
+{"id":1514074,"jp":"ラズリンのレベルを30にする","fr":"Monter Lazurin au niveau 30"}
+{"id":1514075,"jp":"ラズリンのレベルを50にする","fr":"Monter Lazurin au niveau 50"}
+{"id":1514076,"jp":"ラズリンのレベルを60にする","fr":"Monter Lazurin au niveau 60"}
 {"id":1514077,"jp":"ラズリンのレベルを70にする","fr":"Amener Lazurin au niveau 70"}
+{"id":1514078,"jp":"ラズリンのレベルを80にする","fr":"Monter Lazurin au niveau 80"}
+{"id":1514079,"jp":"ラズリンのレベルを90にする","fr":"Monter Lazurin au niveau 90"}
+{"id":1514080,"jp":"ラズリンのレベルを100にする","fr":"Monter Lazurin au niveau 100"}
+{"id":1514081,"jp":"ラズリンの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Lazurin au rang E"}
+{"id":1514082,"jp":"ラズリンの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Lazurin au rang D"}
+{"id":1514083,"jp":"ラズリンの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Lazurin au rang C"}
+{"id":1514084,"jp":"ラズリンの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Lazurin au rang B"}
+{"id":1514085,"jp":"ラズリンの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Lazurin au rang A"}
+{"id":1514086,"jp":"ラズリンの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Lazurin au rang S"}
+{"id":1514087,"jp":"アイシィのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active d'Icy"}
+{"id":1514088,"jp":"アイシィのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active d'Icy"}
+{"id":1514089,"jp":"アイシィのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active d'Icy"}
+{"id":1514090,"jp":"アイシィのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active d'Icy"}
+{"id":1514091,"jp":"アイシィのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active d'Icy"}
+{"id":1514092,"jp":"アイシィのレベルを30にする","fr":"Monter Icy au niveau 30"}
+{"id":1514093,"jp":"アイシィのレベルを50にする","fr":"Monter Icy au niveau 50"}
+{"id":1514094,"jp":"アイシィのレベルを60にする","fr":"Monter Icy au niveau 60"}
+{"id":1514095,"jp":"アイシィのレベルを70にする","fr":"Monter Icy au niveau 70"}
+{"id":1514096,"jp":"アイシィのレベルを80にする","fr":"Monter Icy au niveau 80"}
+{"id":1514097,"jp":"アイシィのレベルを90にする","fr":"Monter Icy au niveau 90"}
 {"id":1514303,"jp":"ルビッツのアクティブスキルを3回発動する","fr":"Utiliser 3 fois la compétence active de Rubbits"}
 {"id":1514529,"jp":"サンディのレベルを90にする","fr":"Amener Sandy au niveau 90"}
 {"id":1514755,"jp":"クローネックのアクティブスキルを15回発動する","fr":"Utiliser 15 fois la compétence active de Kronek"}
