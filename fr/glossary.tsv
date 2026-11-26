@@ -99,7 +99,7 @@ EX強度	EX Intensity	Puissance EX	stat	approved
 協調	Harmony	Harmonie	mechanic	approved	
 連携	Coordination	Coordination	mechanic	approved	
 円環	Ring	Cercle	mechanic	approved	« Cercle de l’éternité Ⅲ » : les chiffres romains restent.
-依頼	Request	Commande	mechanic	approved	Commandes de l’atelier de la ferme : « Commande - … Ⅳ ».
+依頼	Request	Mission | Commande	mechanic	approved	Deux sens : les quêtes (« Mission principale 1-3 », « Missions quotidiennes », « Avis de mission ») et les commandes de l'atelier de la ferme (« Commande - … Ⅳ »).
 ノーマル	Normal	Normal	rarity	approved	Raretés : Normal, Peu commun, Rare, Épique, Légendaire.
 アンコモン	Uncommon	Peu commun	rarity	approved	
 レア	Rare	Rare	rarity	approved	
@@ -186,3 +186,35 @@ EX強度	EX Intensity	Puissance EX	stat	approved
 デバフ	Debuff	Affaiblissement	role	approved	
 バフ	Buff	Renforcement	role	approved	
 シャーマン	Shaman	chamane	people	approved	Épicène.
+黒白無安	Black-White Unrest	Heibai Wu'an	creature	approved	Nom chinois d'un Kibo : pinyin, comme tous les noms chinois.
+星絆	Star Bond	Lien étoilé	mechanic	approved	Distinct de スターリンク = Lien stellaire.
+星彩	Starlit	étoilé	creature	approved	Variante de Kibo : « Fifi étoilé ». En face de 異彩 = Variante.
+狂化	Frenzied	enragé	creature	approved	« Cabbird enragé ».
+煌	Brilliant	Fulgurance	rarity	approved	Paliers : 蛍 Lueur, 爍 Étincelle, 輝 Éclat, 耀 Splendeur, 煌 Fulgurance (« Nom : Palier »).
+心得	Know-how	savoir-faire	mechanic	approved	
+突破	Breakthrough	Percée	mechanic	approved	
+赤蠍団	Red Scorpion Gang	Scorpions rouges	faction	approved	« les Scorpions rouges ».
+Lv.	Lv.	Niv.	ui	approved	« Niv. 30 », « Niv. max ».
+星閃	Star Flash	Éclair stellaire	mechanic	approved	星閃スキル = Compétence Éclair stellaire.
+パリィ	Parry	Parade	mechanic	approved	
+ジャスト回避	Perfect Dodge	Esquive parfaite	mechanic	approved	
+回避	Dodge	esquive	mechanic	approved	
+体勢ゲージ	Posture Gauge	Jauge de posture	mechanic	approved	
+突撃	Charge	charge	mechanic	approved	
+突進	Rush	ruée	mechanic	approved	
+重撃	Heavy Blow	frappe lourde	mechanic	approved	
+牧場	Pasture	pâturage	place	approved	
+キボ小屋	Kibo Hut	Enclos à Kibo	place	approved	
+派遣	Dispatch	Affectation	mechanic	approved	
+苗	Seedling	Pousse	resource	approved	« Pousse de blé doré ».
+月光麻	Moonlight Hemp	chanvre lunaire	resource	approved	Distinct de 月織麻.
+月織麻	Moonweave Hemp	lin tisse-lune	resource	approved	Distinct de 月光麻.
+カラバード	Carabird	Carabird	creature	approved	Sur le modèle de Cabbird.
+鞍	Saddle	selle	item	approved	
+タマゴ	Egg	œuf	item	approved	
+系	Line	Lignée	creature	approved	« Lignée Morphore ».
+縁結び	Matchmaking	Nouer les liens	mechanic	approved	Expression figée : ici « liens » est permis, malgré la note de 縁.
+名無し	Nameless	Sans-Nom	character	approved	
+ラーガ種	Raga Kind	Raga	creature	approved	
+ララティ	Laratee	Laratee	resource	approved	
+シィグナ	Cygna	Cygna	character	approved	
