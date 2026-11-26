@@ -65,7 +65,7 @@ Relevés dans les dialogues déjà traduits. Un traducteur les applique tels que
 - Tutoient : Terara, Mitty, Komugi, Ruby, Lily, Han Youyou, Xiaoyu (« renarde céleste »), Peipei (à la troisième personne), Maple (« nya »), le Chef du village, le Seigneur Faucon, Joy, Gladia, le boulanger.
 - Vouvoient : Shiroro, Chilul, Lan Xiangzi, Sans-Nom (« Sire Sans-Nom »), Nanacha (« Mademoiselle » pour Komugi), l'infirmière, les compagnies Tianjiang et Goyard.
 - Lan Xiangzi enfant et son père, Abby (phrases d'enfant), Peipei : parlent d'eux à la troisième personne.
-- Chiyo : « Dame Chiyo », finit ses phrases par « nya ».
+- Chiyo : « Dame Chiyo », vouvoie le joueur, finit ses phrases par « nya ».
 - Le joueur est appelé « Âme chevaleresque » (侠客さん), « duelliste » (ファイターさん), « jeune pousse » par les anciens : jamais une forme accordée.
 - Le Renard céleste à neuf queues (妾 / 汝) : une femme hautaine au ton archaïque, qui tutoie ; accords au féminin.
 - Ning Lang : tic « aru » en fin de phrase (アル) ; tutoie le joueur, vouvoie Jiang Li et Leon.
