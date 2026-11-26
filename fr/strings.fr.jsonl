@@ -48503,29 +48503,149 @@
 {"id":1544108,"jp":"それでみんな、怖がっちゃってさ。\nいまはもう、冒険者のほかはだれも近づきたがらない。","fr":"Ça a fini par flanquer la trouille à tout le monde.\nMaintenant, seuls les aventuriers osent encore s'en approcher."}
 {"id":1544109,"jp":"辰王朝って……まえにルミィが言ってた\nフリスと隣りあってる3つの国のひとつだよね？","fr":"La dynastie Chen… C'est bien l'un des trois pays voisins de Fleece\n dont tu nous as parlé, Lumi ?"}
 {"id":1544110,"jp":"うん、辰王朝はフリスの南にあるとっても強大な国だよ。\nすこし変わった、神秘的な文化の国でね。\nわたしの旅の目的地のひとつでもあるの。","fr":"Oui, le pays de la dynastie Chen est très puissant. Il se trouve au sud de Fleece.\nSes coutumes sont assez mystérieuses.\nJ'ai prévu d'y faire étape pendant mon voyage."}
+{"id":1544111,"jp":"フリスから一番近い辰王朝の州は鏡花州って言うんだよ。\nフリスの辺境の関所を超えたところにあるの。","fr":"La province de la dynastie Chen la plus proche de Fleece, c'est le Cap Jinghua.\nElle est juste après le poste-frontière de Fleece."}
+{"id":1544112,"jp":"リリィは辰王朝にも詳しいんだね。","fr":"Tu t'y connais aussi en dynastie Chen, Lily !"}
+{"id":1544113,"jp":"辰王朝とロージア帝国の関係はちょっとデリケートだから。\n詳しく学んだことがあるんだ。","fr":"Les rapports entre la dynastie Chen et l'Empire de Rosia sont un peu délicats.\nJ'ai étudié la question de près."}
+{"id":1544114,"jp":"昔、辰王朝と<color=#fed196>古エルデンランド</color>――\nロージア帝国の前身のことだけど……\nその二国のあいだで戦争が起きたの。","fr":"Il y a longtemps, la dynastie Chen et <color=#fed196>l'ancien Eldenland</color>,\nle royaume qui a précédé l'Empire de Rosia…\nEh bien, ces deux pays se sont fait la guerre."}
+{"id":1544115,"jp":"フリスはそのとき戦場になった場所でね。\n戦争が終結したあと、辰王朝は古エルデンランドと平和条約を結んで……","fr":"Les combats ont eu lieu ici, à Fleece.\nÀ la fin de la guerre, la dynastie Chen a signé un traité de paix avec l'ancien Eldenland…"}
+{"id":1544116,"jp":"その条約で、戦場になっていた所有者のない土地が\n中立地帯に定められて、いまの都市国家フリスになったの。","fr":"Le traité a fait de ce champ de bataille, qui n'appartenait à personne,\nune zone neutre. C'est comme ça qu'est née la Cité-État de Fleece."}
+{"id":1544117,"jp":"そういえば、例の冒険者のふたり組も辰王朝の格好をしていたな。\n辰のほうからやってきた幽霊退治の専門家だと言っていた。","fr":"Tiens, les deux qui sont partis explorer la mine portaient aussi des habits de la dynastie Chen.\nIls disaient venir de là-bas et s'y connaître en chasse aux fantômes."}
+{"id":1544118,"jp":"地震が起きてから、だいぶ時間が経っています。\nまだ戻って来ていないのは心配ですね……","fr":"Ça fait déjà un bon moment que la terre a tremblé.\nJe m'inquiète de ne toujours pas les voir revenir…"}
 {"id":1544119,"jp":"放っておけないね。","fr":"On ne peut pas les laisser."}
 {"id":1544120,"jp":"安否をたしかめよう。","fr":"Assurons-nous qu'ils sont sains et saufs."}
+{"id":1544121,"jp":"地震だろうと幽霊だろうと、危険なことに巻き込まれてるなら助けないと。\n様子を見に行こう。","fr":"Tremblement de terre ou fantômes, s'ils sont en danger, il faut les aider.\nAllons voir ce qui se passe."}
+{"id":1544122,"jp":"わたしも一緒にいくよ！","fr":"Je viens avec toi !"}
+{"id":1544123,"jp":"リリィは冒険と聞くと、すぐ飛び込んでくるのだ。","fr":"Il suffit de dire « aventure » et Lily est déjà partie."}
+{"id":1544124,"jp":"ルミィさま！わたしは修行のために来てるの！\nどんな機会だって見逃せないよ！","fr":"Dame Lumi ! Je suis là pour mon entraînement !\nJe vais quand même pas laisser passer une occasion pareille !"}
+{"id":1544125,"jp":"シンフォーリア、ルミィ、鉱員とグランザロスを外まで連れていって。\n道中でまたキボに襲われたら大変だから。","fr":"Symphoria, Lumi, raccompagnez les mineurs et Granzaros jusqu'à la sortie.\nLes Kibo pourraient encore les attaquer en chemin."}
+{"id":1544126,"jp":"いやだいやだ！ルミィさまも{playerName}と冒険に行くのだ～！\nこの下にある幽霊村がどうなってるのか気になって仕方ないぞ！","fr":"Non, non et non ! La grande Lumi part à l'aventure avec {playerName} !\nLa grande Lumi veut trop savoir ce qui se passe dans le village hanté, là-dessous !"}
+{"id":1544127,"jp":"ルミィ……まったく、しかたありませんね。","fr":"Lumi… Enfin, je vois que vous avez décidé."}
+{"id":1544128,"jp":"それでは、{playerName}さま。\nルミィのこと、よろしくお願いします。","fr":"Dans ce cas, {playerName}…\nJe vous confie Lumi."}
 {"id":1544129,"jp":"しゅっぱーつ！","fr":"En route~ !"}
+{"id":1544130,"jp":"こんなに大きい空間があるなんて。","fr":"Je pensais pas qu'il y aurait autant de place là-dessous."}
+{"id":1544131,"jp":"うぅ！冷たい風がびゅーびゅー吹いてくるぞ！","fr":"Brrr ! Tu sens ce courant d'air glacé ?"}
+{"id":1544132,"jp":"うーん、なにかに見られているような気がする。","fr":"Hm… J'ai l'impression que quelque chose nous observe."}
+{"id":1544133,"jp":"えっ？さっそく心霊コーナーがはじまるのか？","fr":"Hein ? Les fantômes entrent déjà en scène ?"}
+{"id":1544134,"jp":"ふーんだ！その程度の小細工じゃルミィさまは驚かないぞ！\n幽霊なんてちっとも怖くないのだ！","fr":"Pff ! Il en faut plus pour faire sursauter la grande Lumi !\nLes fantômes, ça lui fait même pas peur !"}
+{"id":1544135,"jp":"でも、用心するのに越したことはないよね。\nハイディ、お願い！","fr":"On ferait quand même bien de rester sur nos gardes.\nHeidi, tu nous aides ?"}
+{"id":1544136,"jp":"ハイディもあたりを見張ってくれるよ。\n気をつけてさきに進もう！","fr":"Heidi va aussi ouvrir l'œil.\nOn avance, mais doucement !"}
+{"id":1544137,"jp":"開けられた形跡はないな。\n冒険者のふたり組って、ほんとーにここに来てるのか？","fr":"On dirait que personne n'a ouvert ce coffre.\nT'es sûr que nos deux chasseurs de fantômes sont passés par là ?"}
+{"id":1544138,"jp":"冒険者も、みんながみんな宝箱が好きなわけじゃないのかも？","fr":"Il y en a peut-être qui arrivent à passer devant un coffre sans l'ouvrir ?"}
+{"id":1544139,"jp":"いーや！宝箱に興味がない冒険者なんているはずないのだ！","fr":"Mais nooon ! Qui partirait à l'aventure sans s'intéresser aux coffres au trésor ?"}
+{"id":1544140,"jp":"よーし、ルミィさまが開けてやる！\nこれぞ、冒険の醍醐味！","fr":"Allez, la grande Lumi va l'ouvrir !\nC'est ça, le meilleur dans l'aventure !"}
 {"id":1544141,"jp":"うわぁ！なんなのだ！","fr":"Waaah ! C'est quoi, ça !"}
 {"id":1544142,"jp":"罠だよ！","fr":"C'est un piège !"}
+{"id":1544143,"jp":"ま、まさかこんな仕掛けがあるとは……\n{playerName}、冒険の醍醐味は譲るのだ！","fr":"U-un piège ? La grande Lumi l'avait pas vu venir…\n{playerName}, la grande Lumi te laisse le meilleur de l'aventure !"}
+{"id":1544144,"jp":"これが鉱員たちの言っていた幽霊村か？","fr":"C'est ça, le village hanté dont parlaient les mineurs ?"}
+{"id":1544145,"jp":"言ってた通り、辰王朝の建物だね……\nずいぶん長いこと、ここに埋もれていたみたい。","fr":"Comme ils disaient, les bâtiments sont du style de la dynastie Chen…\nOn dirait que le village est enfoui ici depuis un sacré bout de temps."}
 {"id":1544146,"jp":"蘭、家の……村？","fr":"Le village… de la famille Lan ?"}
 {"id":1544147,"jp":"ここは通さないよ！","fr":"On ne passe pas ici !"}
+{"id":1544148,"jp":"小玉！行くよ！\nこの連中を追い払わなきゃ！","fr":"Xiaoyu, on y va !\nFaut les faire déguerpir !"}
+{"id":1544149,"jp":"う～ら～め～し～や～！","fr":"Mauuudits soyez-vouuus !"}
 {"id":1544150,"jp":"出たぁ――！！","fr":"Un fantôôôme !!"}
 {"id":1544151,"jp":"わわっ！聖なる光よ！","fr":"Oh là ! Sainte lumière !"}
+{"id":1544152,"jp":"きゃー！目が！目がぁ！！","fr":"Aaaah ! Mes yeux ! Mes yeuuux !"}
 {"id":1544153,"jp":"悠悠！大丈夫！？","fr":"Youyou ! Ça va !?"}
 {"id":1544154,"jp":"ハイディ！","fr":"Heidi !"}
 {"id":1544155,"jp":"キュキュウ！","fr":"Kyu-kyuu !"}
+{"id":1544156,"jp":"えっと、そこにいるのは……幽霊じゃない、よね？","fr":"Euh… Qui est là ? Vous êtes pas des fantômes, hein ?"}
+{"id":1544157,"jp":"ううっ！目が！涙が止まらないよう……","fr":"Aïe, mes yeux ! J'arrête pas de pleurer…"}
 {"id":1544158,"jp":"悠悠、大丈夫？","fr":"Youyou, ça va ?"}
+{"id":1544159,"jp":"きみたち……もしかして\n幽霊騒ぎを調べに来たっていう冒険者のふたり組？","fr":"Attends, c'est vous deux…\nqui êtes venus enquêter sur les fantômes ?"}
+{"id":1544160,"jp":"着ているのも辰王朝の服みたいだし。\nきっとそうだよ！","fr":"Regarde, leurs habits ont l'air de venir de la dynastie Chen.\nÇa doit être elles !"}
+{"id":1544161,"jp":"そのとーり！\n私は寒悠悠！こっちは私の親友の小玉だよ！","fr":"Tout juste !\nMoi, c'est Han Youyou ! Et voici Xiaoyu, ma meilleure amie !"}
+{"id":1544162,"jp":"はじめまして。うちは塗山小玉っていうの。","fr":"Ravie de te rencontrer. Je m'appelle Tushan Xiaoyu."}
+{"id":1544163,"jp":"私たちは鏡花州からやってきた幽霊退治の専門家！\nほら、依頼状だって、ちゃーんとあるんだから！","fr":"On vient du Cap Jinghua et la chasse aux fantômes, c'est notre métier !\nTiens, regarde ! On a même une lettre de mission !"}
+{"id":1544164,"jp":"ふーん？それで、幽霊退治の専門家が幽霊のふりをして\n脅かしてきたのはいったいどういうわけなのだ？","fr":"Ah bon ? Alors pourquoi deux chasseuses de fantômes se sont fait passer pour des revenantes\npour nous flanquer la trouille ?"}
 {"id":1544165,"jp":"そ、それはそのぉ……","fr":"C-c'est que, euh…"}
+{"id":1544166,"jp":"さては、ここまで来た道に仕掛けられたからくりもキミの仕業か！？","fr":"Attends un peu, c'est toi aussi qui as posé tous ces pièges sur le chemin !?"}
 {"id":1544167,"jp":"わ、私はただ――","fr":"M-moi, je voulais seulement…"}
+{"id":1544168,"jp":"この村に入ってきてほしくなかっただけ！\nだってここ、危ないんだもん！","fr":"Je voulais juste vous empêcher d'entrer dans le village !\nC'est dangereux, ici !"}
 {"id":1544169,"jp":"悠悠……","fr":"Youyou…"}
 {"id":1544170,"jp":"じーっ……","fr":"Fixe…"}
+{"id":1544171,"jp":"{playerName}、どう思う？\nなんか、めちゃくちゃ胡散臭くないか……？","fr":"{playerName}, t'en penses quoi ?\nTu trouves pas ça franchement louche… ?"}
+{"id":1544172,"jp":"そんなことないってば！","fr":"Mais pas du tout, enfin !"}
+{"id":1544173,"jp":"僕たちはここの坑道で地震が起きたって聞いて、救助に来たんだ。|私たちはここの坑道で地震が起きたって聞いて、救助に来たの。","fr":"On nous a dit que la terre avait tremblé dans la mine, alors on est là pour aider.|On nous a dit que la terre avait tremblé dans la mine, alors on est là pour aider."}
+{"id":1544174,"jp":"知ってるよ！その地震だって、奴らのしわざだしね！","fr":"Je sais ! Et même le tremblement de terre, c'est leur faute !"}
 {"id":1544175,"jp":"やつら？","fr":"Eux ?"}
+{"id":1544176,"jp":"ここを彷徨ってる怨霊たちのこと！","fr":"Les esprits vengeurs qui rôdent dans le coin !"}
+{"id":1544177,"jp":"怨霊がいるの……？\nわたし、なにも見えないけど。","fr":"Des esprits vengeurs… ?\nMoi, je vois rien."}
+{"id":1544178,"jp":"そりゃそうだよ！\n霊魂だもん。見えないに決まってるでしょ！","fr":"Bah évidemment !\nCe sont des esprits, ça se voit pas, ces trucs-là !"}
+{"id":1544179,"jp":"見えないなら、なにも怖いことはないよね！","fr":"Si on les voit pas, y a pas de quoi avoir peur !"}
+{"id":1544180,"jp":"ええ～？もしかして、これが文化の違いってやつ……？","fr":"Hein… ? C'est ça qu'on appelle une différence culturelle ?"}
+{"id":1544181,"jp":"とにかく、探検している場合じゃないんだよ。ここはいま危険なんだ。|とにかく、探検している場合じゃないんだよ。ここはいま危険なの。","fr":"En tout cas, c'est pas le moment d'explorer. C'est trop dangereux ici.|En tout cas, c'est pas le moment d'explorer. C'est trop dangereux ici."}
+{"id":1544182,"jp":"だめだめ！せっかくここまで来たんだよ。\nそんな簡単に帰れるわけないでしょ！","fr":"Ah non, alors ! On a fait tout ce chemin !\nTu crois qu'on va faire demi-tour comme ça ?"}
+{"id":1544183,"jp":"そうだ！私に協力してくれない？","fr":"Ah, je sais ! Tu veux bien me filer un coup de main ?"}
+{"id":1544184,"jp":"どうして僕たちが？|どうして私たちが？","fr":"Pourquoi nous ?|Pourquoi nous ?"}
 {"id":1544185,"jp":"報酬はどうなるの？","fr":"Et la récompense ?"}
+{"id":1544186,"jp":"えへへ、この侠客さんは骨格が堂々としてて、おでこも広い。\n見るからになにか偉業を成し遂げそうだもんね！","fr":"Hé hé, quelle carrure ! Et ce front bien large !\nÇa se voit que t'es une Âme chevaleresque qui va faire de grandes choses !"}
+{"id":1544187,"jp":"報酬？そんなの私が気にするはずないでしょ。\n欲しいならぜーんぶあげるって。","fr":"La récompense ? Tu crois que ça m'intéresse ?\nSi tu la veux, je te laisse tout !"}
+{"id":1544188,"jp":"私がここに来たのはただ……コホン！\nそう！天に代って道を成し、邪鬼を祓うため！","fr":"Moi, je suis là uniquement pour… Hum hum !\nVoilà ! J'accomplis la volonté du Ciel et je chasse les mauvais esprits !"}
+{"id":1544189,"jp":"それに、ここで出会ったのもなにかの縁だもん。\nフリスのためになにかしたいのなら、お互いに願ったり叶ったり、でしょ？","fr":"Et puis, si on se croise ici, c'est sûrement que le destin s'en mêle.\nSi tu veux rendre service à Fleece, ça tombe bien pour nous deux, tu trouves pas ?"}
+{"id":1544190,"jp":"ほらほら～こんな儲け話はめったにないんだからね。","fr":"Allez, allez ! Une affaire aussi juteuse, ça se présente pas tous les jours !"}
+{"id":1544191,"jp":"一理ある、かな……？手を組んでみてもいいかも。","fr":"Elles marquent un point, peut-être… On pourrait faire équipe."}
+{"id":1544192,"jp":"そうだね、もし本当に幽霊のしわざなら、\n地震の原因がこの村に隠されているかもしれない。\n調べてみる価値はあるね。","fr":"Oui, si les fantômes y sont vraiment pour quelque chose,\non trouvera peut-être dans ce village de quoi expliquer le séisme.\nÇa vaut le coup de fouiller."}
+{"id":1544193,"jp":"賢い選択だね！\nそれじゃさっそく、行ってみよー！","fr":"Tu fais le bon choix !\nAllez, on y va !"}
+{"id":1544194,"jp":"そうだ。まだ君たちの名前を聞いてなかったね。","fr":"Au fait, vous nous avez pas encore dit vos noms."}
+{"id":1544195,"jp":"僕は{playerName}、こっちはリリィとルミィ。|私は{playerName}、こっちはリリィとルミィだよ。","fr":"Moi, c'est {playerName}, et voici Lily et Lumi.|Moi, c'est {playerName}, et voici Lily et Lumi."}
+{"id":1544196,"jp":"よろしい！ちゃんと覚えたよ。\nこれからよろしくね～、{playerName}！","fr":"Parfait ! J'ai retenu vos noms.\nOn va bien s'entendre, {playerName} !"}
+{"id":1544197,"jp":"このさきは門で塞がれちゃってるみたいだね……","fr":"On dirait que ce portail nous barre le passage…"}
+{"id":1544198,"jp":"あれ……ねぇ、悠悠。\nこの門ってまえ来たとき開けなかったっけ？","fr":"Tiens… Dis, Youyou.\nOn l'avait bien ouvert, ce portail, la dernière fois ?"}
+{"id":1544199,"jp":"たしかに……！\nどうしてまた閉まっちゃってるの？","fr":"Mais oui !\nPourquoi il est de nouveau fermé ?"}
+{"id":1544200,"jp":"うーん……門の仕掛けも元に戻ってるし！\nきっと、やつらのしわざね！","fr":"Bizarre… Le mécanisme aussi est revenu en place !\nC'est sûrement eux qui ont fait le coup !"}
+{"id":1544201,"jp":"ってことは……キミたち、一回このなかに入ったのか？","fr":"Attends… Vous êtes déjà entrées là-dedans, toutes les deux ?"}
+{"id":1544202,"jp":"それで、ビビって逃げたのか？","fr":"Et vous avez pris la fuite parce que vous aviez la trouille ?"}
+{"id":1544203,"jp":"ち、ちがうもん！あんなとこに入ったのははじめてで、\n心の準備ができてなかっただけ！","fr":"M-mais pas du tout ! C'était la première fois qu'on mettait les pieds dans un endroit pareil,\nc'est juste qu'on savait pas à quoi s'attendre !"}
+{"id":1544204,"jp":"とにかく、まずは門の仕掛けを解こう。\nまえも悠悠と一緒に解いたけど、そんなに難しくなかったよ。","fr":"Bon, commençons par ouvrir ce portail.\nAvec Youyou, on a compris assez vite comment ça marchait, la dernière fois."}
+{"id":1544205,"jp":"うん！門を封じてる呪符を見つけるだけ！\nこの近くにあるはずだよ！","fr":"Oui ! Il suffit de trouver le talisman qui scelle le portail !\nIl doit être dans le coin !"}
 {"id":1544206,"jp":"大門が、開いた……","fr":"La grande porte s'est ouverte…"}
+{"id":1544207,"jp":"ふふーん、私の言った通りでしょ〜？","fr":"Héhé, qu'est-ce que je t'avais dit ?"}
+{"id":1544208,"jp":"このさきも仕掛けがあるかもしれないね。\nみんな、気をつけて進もう！","fr":"Il pourrait y avoir d'autres pièges plus loin.\nFaites bien attention où vous mettez les pieds !"}
+{"id":1544209,"jp":"この廃墟の村……結構大きいね。","fr":"Il est plutôt grand, ce village en ruines…"}
+{"id":1544210,"jp":"道がまた門で塞がれてるのだ……","fr":"Encore un portail qui nous barre la route…"}
+{"id":1544211,"jp":"仕掛けはまえと一緒みたいだし。\n近くの呪符を見つけて解けば、さきに進めるはずだよ。","fr":"On dirait le même mécanisme que tout à l'heure.\nLe talisman doit être tout près. On devrait pouvoir passer une fois le sceau levé."}
+{"id":1544212,"jp":"つぎはどこへ行けばいいのだ？","fr":"Et maintenant, on va où ?"}
+{"id":1544213,"jp":"えへへ……それがさ、恥ずかしながら\nこのさきはうちらにもわからないんだ。","fr":"Héhé… C'est un peu la honte,\nmais à partir d'ici, on connaît pas le chemin non plus."}
+{"id":1544214,"jp":"そうそう！ここまでが限界だったの！","fr":"C'est ça ! On n'a pas réussi à aller plus loin !"}
+{"id":1544215,"jp":"なーにを堂々と！\n入口からぜんぜん進んでないじゃないか！","fr":"Et tu dis ça comme si c'était un exploit !\nVous avez à peine dépassé l'entrée !"}
+{"id":1544216,"jp":"このまえはなにか危険な目に遭ったの？","fr":"Il vous est arrivé quelque chose de dangereux, la dernière fois ?"}
+{"id":1544217,"jp":"このまえは怨霊にでも遭ったの？","fr":"Vous êtes tombées sur des esprits vengeurs, la dernière fois ?"}
+{"id":1544218,"jp":"そりゃあ……もう。\nヒュルヒュルとキーキーよ！","fr":"Oh là… Si tu savais !\nÇa faisait « fffff ! » et « hiiii ! » de partout !"}
+{"id":1544219,"jp":"なにがなんだかさっぱりなのだ……","fr":"Lumi comprend toujours rien…"}
+{"id":1544220,"jp":"ほら！<shake>灯篭が動いたでしょ！</shake>","fr":"Regarde ! <shake>T'as vu ? La lanterne a bougé !</shake>"}
 {"id":1544221,"jp":"風じゃないかな？","fr":"Ce n'est pas le vent ?"}
+{"id":1544222,"jp":"こっちもそっちも！そこの柱も！\nこんなの風じゃありえないよ！","fr":"Celle-ci aussi ! Celle de là-bas ! Et regarde ce pilier !\nÇa peut pas être le vent !"}
+{"id":1544223,"jp":"はぁ……この程度で。ビビり過ぎなのだ。","fr":"Pfff… Tout ça pour si peu. Vous sursautez pour un rien."}
+{"id":1544224,"jp":"でも、ここすごく荒れてるし、普通に歩くだけで危なさそうだね。\n一緒に動いたほうがいいと思う。","fr":"Le village est quand même en mauvais état. On pourrait se faire mal rien qu'en marchant.\nOn ferait mieux de rester ensemble."}
 {"id":1544225,"jp":"そうそう！その通り！","fr":"Oui, oui ! Exactement !"}
+{"id":1544226,"jp":"あそこ、なにかない……？","fr":"Il y a quelque chose là-bas, tu vois… ?"}
 {"id":1544227,"jp":"大狼の声","fr":"Voix du Grand Loup"}
+{"id":1544228,"jp":"この声は……『大狼』ミネイヴァ！？","fr":"Cette voix… Mineiva, le Grand Loup ?!"}
+{"id":1544229,"jp":"星臨者よ、我が授けた力を使うときだ……\n『輪廻』の力で、生と死の真実を見極めよ。","fr":"Enfant des étoiles, l'heure est venue d'user du pouvoir que je t'ai conféré…\nPar le cycle des réincarnations, discerne la vérité de la vie et de la mort."}
+{"id":1544230,"jp":"『輪廻』の力……でも、どうやって？","fr":"Le pouvoir du cycle des réincarnations… Mais comment je m'en sers ?"}
+{"id":1544231,"jp":"亡者の祈りと願いに耳を傾けるのだ。\nそれこそ、彼らの生きた証。","fr":"Prête l'oreille aux prières et aux vœux des défunts.\nIls portent encore la trace de leur vie."}
+{"id":1544232,"jp":"『輪廻』の力で、そなたは去りし者の姿を見ることができる。","fr":"Le pouvoir du cycle des réincarnations te permet de voir ceux qui ont quitté ce monde."}
+{"id":1544233,"jp":"たとえ肉体が冥土に葬られようと\n強い執着を遺した魂はさまざまな形でこの世に留まっている。","fr":"Même lorsque leur corps repose au séjour des morts,\nles âmes que de puissants liens retiennent ici-bas y demeurent sous des formes diverses."}
+{"id":1544234,"jp":"我の力でその者たちの声に耳を傾けるのだ。\nその声がそなたの道しるべとなるだろう。","fr":"Use de mon pouvoir pour entendre leurs voix.\nElles te guideront."}
+{"id":1544235,"jp":"ミネイヴァ……ありがとう。","fr":"Mineiva… Merci."}
+{"id":1544236,"jp":"一枚目みーっけ！\nこんな目立つところにあるなんて、たいしたことないのだ～","fr":"Lumi a trouvé le premier !\nEn plein milieu, sous les yeux de tout le monde ! Trop facile !"}
+{"id":1544237,"jp":"よいしょ……よいしょ……","fr":"Et hop… Et hop…"}
+{"id":1544238,"jp":"なっ……視えているのか！？","fr":"Quoi… ? Vous me voyez ?!"}
+{"id":1544239,"jp":"お、おお！お助けを……お助けを！","fr":"O-oh ! À l'aide… Je vous en prie, aidez-moi !"}
+{"id":1544240,"jp":"星臨者、なにか見つけたのか？","fr":"Enfant des étoiles, t'as trouvé quelque chose ?"}
+{"id":1544241,"jp":"柱を揺さぶってるひとが見えたよ。","fr":"J'ai vu quelqu'un secouer ce pilier."}
+{"id":1544242,"jp":"あはは……またまた、君まで驚かせようとして。\n<shake>ここは私たちのほかに、だーれもいないでしょ？<shake>","fr":"Ah ah… Toi aussi, tu veux me flanquer la trouille ?\n<shake>Y a peeer-sonne ici à part nous, hein ?<shake>"}
+{"id":1544243,"jp":"あの柱の下にいたんだよ。\nいまは、いなくなっちゃったけど。","fr":"La personne que j'ai vue était juste au pied du pilier.\nElle a disparu, maintenant."}
+{"id":1544244,"jp":"ちょっとちょっと！ホントにやめてってば！","fr":"Hé, hé ! Arrête, je te dis !"}
+{"id":1544245,"jp":"わたしにはなにも見えないけど……\nもしかして{playerName}さんにしか見えないのかな？","fr":"Moi, je vois rien du tout…\n{playerName}, tu crois que ça se montre qu'à toi ?"}
+{"id":1544246,"jp":"へえ？すごいね！\nもしかしてあんたは、ここの幽霊と縁を結べたのかな？","fr":"Ah bon ? C'est dingue !\nT'as peut-être réussi à nouer un lien avec les fantômes d'ici ?"}
+{"id":1544247,"jp":"攻撃する意志はなさそうだったよ。\nむしろ、こちらのことを怖がってたような……","fr":"Cette personne avait pas l'air de vouloir nous attaquer.\nJ'ai même l'impression qu'on lui faisait peur…"}
+{"id":1544248,"jp":"なんだかわからないけど……\nあの柱はたしかに止まったぞ。","fr":"Lumi sait pas trop ce qui se passe…\nMais le pilier a bel et bien arrêté de bouger."}
+{"id":1544249,"jp":"よかったね、悠悠。これでもう怖くないよ。","fr":"Tu vois, Youyou ? Tu peux te rassurer."}
+{"id":1544250,"jp":"ぜんぜんよくないってば！\nむしろもっと怖いことになっちゃってるよ！","fr":"Tu parles !\nC'est encore plus flippant, maintenant !"}
+{"id":1544251,"jp":"いま、なにかが水に落ちる音がしなかった？","fr":"Vous avez entendu ? On aurait dit que quelque chose venait de tomber dans l'eau."}
+{"id":1544252,"jp":"幻聴、幻聴……そんな音するわけないって……","fr":"J'ai rêvé, j'ai rêvé… Un bruit pareil, c'est pas possible…"}
+{"id":1544253,"jp":"わたしにも聞こえたよ。","fr":"Moi aussi, je l'ai entendu."}
 {"id":1544254,"jp":"うちも。","fr":"Moi aussi."}
 {"id":1544258,"jp":"井戸の底の声","fr":"Voix du fond du puits"}
 {"id":1544263,"jp":"ルミィさま……","fr":"Lumi…"}
@@ -50540,27 +50660,127 @@
 {"id":1551282,"jp":"尊敬すべき警備兵殿、森番のお嬢さん、そしてこちらの……星臨者殿。","fr":"Honorables gardes, Mademoiselle la garde forestière, et vous… Enfant des étoiles."}
 {"id":1551283,"jp":"我々は保安官の仲裁を受け入れ、すべての責任を負う。","fr":"Nous acceptons de nous soumettre à l'arbitrage du shérif et assumerons l'entière responsabilité de nos actes."}
 {"id":1551284,"jp":"テロップ","fr":"Sous-titre"}
+{"id":1551285,"jp":"警備兵は密猟者たちを護送し、フリス市街へ戻っていった……","fr":"Les gardes ont escorté les braconniers jusqu'à la ville de Fleece…"}
+{"id":1551286,"jp":"これで、ひとまず一段落だな。","fr":"Voilà une affaire réglée, du moins pour le moment."}
 {"id":1551287,"jp":"グルルルル。","fr":"Grrrrrr."}
+{"id":1551288,"jp":"ふふ、どうやらあなたのことが気に入ったようだ。","fr":"Héhé, on dirait que ce petit a de l'affection pour vous."}
+{"id":1551289,"jp":"密猟者は捕まったけれど、この子の巣も壊されてしまった。これからしばらくは大変かもしれない。","fr":"Les braconniers ont été arrêtés, mais son nid a été détruit. Les prochains jours risquent d'être difficiles pour lui."}
+{"id":1551290,"jp":"厚かましいお願いだが、もうしばらくこの子の面倒を見てもらえないだろうか？","fr":"J'ai conscience d'en demander beaucoup, mais pourriez-vous prendre soin de lui encore quelque temps ?"}
+{"id":1551291,"jp":"この子にも助けてもらった。","fr":"Ce petit m'a aussi rendu service."}
 {"id":1551292,"jp":"喜んで。","fr":"Avec plaisir."}
+{"id":1551293,"jp":"ええ、あなたのそばなら、きっとこの子もよりよく成長できるだろう。","fr":"Oui, je suis certain qu'à vos côtés, il pourra s'épanouir pleinement."}
+{"id":1551294,"jp":"あっ……またお会いしましたね、星臨者さま。","fr":"Oh… Nous nous retrouvons, Enfant des étoiles."}
+{"id":1551295,"jp":"正直、こんなことになるとは思っていませんでした……","fr":"À vrai dire, je ne pensais pas que les choses prendraient une telle tournure…"}
 {"id":1551296,"jp":"ほかのみんなは？","fr":"Et les autres ?"}
+{"id":1551297,"jp":"ホルンたちのことですか？すでにフリスからの退去を命じられ、終身再入国を禁じられました。","fr":"Vous parlez de Horn et des autres ? Ils ont reçu l'ordre de quitter Fleece et n'auront plus jamais le droit d'y revenir."}
+{"id":1551298,"jp":"なぜか、領主さまは僕だけ大目に見てくださって……","fr":"J'ignore pourquoi, mais le seigneur a fait preuve de clémence à mon seul égard…"}
+{"id":1551299,"jp":"あなたは共犯ではないからだ。","fr":"Parce que tu n'es pas leur complice."}
+{"id":1551300,"jp":"え？それは……どういう意味ですか？","fr":"Hein ? Que… voulez-vous dire ?"}
+{"id":1551301,"jp":"密かに灯火でキボに警告し、森番の注意を引いたのは、あなたなのだろう。","fr":"C'est toi qui as discrètement averti les Kibo à l'aide d'une lumière et attiré l'attention du garde forestier, n'est-ce pas ?"}
+{"id":1551302,"jp":"気づかれていたんですね……","fr":"Vous vous en étiez donc aperçu…"}
+{"id":1551303,"jp":"その通りです。僕はホルンたちと同じロージア帝国貴族の出ですが、幼いころから軟弱すぎる、上に立つ者にふさわしい勇気がないと叱られてきました。","fr":"C'est exact. Tout comme Horn et les autres, je suis issu de la noblesse de l'Empire de Rosia. Mais depuis mon enfance, on me reproche d'être trop faible et de manquer du courage nécessaire pour diriger les autres."}
+{"id":1551304,"jp":"今回、彼らがわざわざ野生のキボを狩りに来たのも、僕にない「勇気」を見せつけるためだったんです……","fr":"S'ils sont venus jusqu'ici pour chasser des Kibo sauvages, c'était uniquement pour me montrer ce fameux « Courage » qui me ferait défaut…"}
+{"id":1551305,"jp":"彼らは弱い者いじめしかできない臆病者の集まりだ。","fr":"Ce n'est qu'une bande de lâches qui s'en prennent aux plus faibles qu'eux."}
+{"id":1551306,"jp":"本当の勇気とは、あなたのように不義に立ち向かうことだ。","fr":"Le véritable courage, c'est de s'opposer à l'injustice, comme tu l'as fait."}
+{"id":1551307,"jp":"そ、そうですか？そう言っていただけるなんて、身に余る光栄です……","fr":"V-Vous le pensez vraiment ? C'est un honneur que je ne mérite pas…"}
+{"id":1551308,"jp":"だが、まだひとつわからないことがある。","fr":"Mais il y a encore une chose que je ne comprends pas."}
 {"id":1551309,"jp":"え？なんでしょう？","fr":"Hein ? Qu'y a-t-il ?"}
+{"id":1551310,"jp":"警告に使った「灯り」ってなんだったの？","fr":"C'était quoi, cette « lumière » dont tu t'es servi pour donner l'alerte ?"}
+{"id":1551311,"jp":"森番小屋にいたときには、だれも見ていなかったはずだ。","fr":"Pourtant, personne n'aurait dû nous voir lorsque nous étions dans la cabane du garde forestier."}
+{"id":1551312,"jp":"ふふ、あなたが言っているのは……この子のことですか？","fr":"Héhé, vous voulez parler… de ce petit ?"}
 {"id":1551313,"jp":"キュウ？","fr":"Kyuu ?"}
+{"id":1551314,"jp":"子どものころ、田舎の農場で遊んでいたら、迷子になってしまったことがありました。","fr":"Quand j'étais enfant, je me suis un jour égaré en jouant dans une exploitation à la campagne."}
+{"id":1551315,"jp":"来た方向もわからず、助けてくれる者も見当たりませんでした。","fr":"Je ne savais plus par où j'étais venu et il n'y avait personne pour m'aider."}
+{"id":1551316,"jp":"絶望して泣いていたそのとき、ふと遠くにかすかな「灯火」が見えたんです……","fr":"Alors que je pleurais, complètement désespéré, j'ai soudain aperçu une faible « lueur » au loin…"}
+{"id":1551317,"jp":"それは僕を導き、真っ暗な低木の茂みから連れ出して、帰り道を見つけさせてくれました。","fr":"Elle m'a guidé hors des fourrés plongés dans l'obscurité et m'a permis de retrouver le chemin de la maison."}
+{"id":1551318,"jp":"それ以来、この子がいてくれるかぎり、僕は「道を誤る」ことはありません。","fr":"Depuis ce jour, tant que ce petit reste à mes côtés, je sais que je ne ferai jamais « fausse route »."}
 {"id":1551319,"jp":"きみは……バレット？","fr":"Tu es… Barrett ?"}
+{"id":1551320,"jp":"シーッ、静かにしてて……\nいまスクレインとワオッキーがケンカしてるのを観察してるんだから。","fr":"Chut, pas un bruit…\nJ'observe Scrain et Waokki en train de se disputer."}
+{"id":1551321,"jp":"どうしてあのキボはケンカしてるの？","fr":"Pourquoi ces Kibo se disputent-ils ?"}
 {"id":1551322,"jp":"ルル？","fr":"Rurú ?"}
 {"id":1551323,"jp":"スクレイン","fr":"Scrain"}
 {"id":1551324,"jp":"ババ！ババ！","fr":"Baba ! Baba !"}
+{"id":1551325,"jp":"スクレインはすごく怒ってるみたいだけど、なにがあったの？","fr":"Scrain a l'air furieux. Qu'est-ce qui s'est passé ?"}
+{"id":1551326,"jp":"見える？あそこにスクレインの巣があるでしょ。\nあの巣って毎日スクレインが綺麗にしてたんだ。けれど、今日は――","fr":"Tu vois le nid de Scrain, là-bas ?\nIl le nettoie soigneusement tous les jours. Sauf qu'aujourd'hui…"}
+{"id":1551327,"jp":"遊んでたワオッキーが、砂埃をスクレインの巣にうっかり撒き散らしちゃったんだ。","fr":"En jouant, Waokki a accidentellement projeté de la poussière partout dans le nid de Scrain."}
+{"id":1551328,"jp":"それでスクレインはすごく怒ってるんだよ。ほんとうに綺麗好きだからね。","fr":"C'est pour ça que Scrain est si furieux. Il tient énormément à la propreté de son nid."}
+{"id":1551329,"jp":"なるほど、理解できる。","fr":"Je vois, je comprends sa réaction."}
 {"id":1551330,"jp":"そんな些細なことで？","fr":"Pour une chose si insignifiante ?"}
+{"id":1551331,"jp":"そうなんだ、スクレインの掃除は大変だよね。\nただ、今回はワオッキーもわざとじゃないから、ちょっとかわいそうかも……","fr":"Oui, ça demande beaucoup de travail à Scrain de garder son nid propre.\nMais cette fois, Waokki ne l'a pas fait exprès. Ça me fait un peu de peine pour lui…"}
+{"id":1551332,"jp":"些細なことじゃないよ。一日の苦労が水の泡になっちゃったんだから。\nスクレインがわざとじゃなかったとしてもさ……","fr":"Ce n'est pas rien. Tous les efforts d'une journée réduits à néant…\nMême si Scrain n'y est pour rien…"}
 {"id":1551333,"jp":"ルル！？","fr":"Rurú !?"}
 {"id":1551334,"jp":"ババ……！","fr":"Baba… !"}
+{"id":1551335,"jp":"レオバーンドだ！かっこいい！","fr":"Un Leoburnd ! Trop classe !"}
+{"id":1551336,"jp":"もしかして、スクレインとワオッキーのケンカを止めに来たのかな？","fr":"Tu crois qu'il est venu mettre fin à la dispute entre Scrain et Waokki ?"}
 {"id":1551337,"jp":"ル……ルル！","fr":"Ru… Rurú !"}
 {"id":1551338,"jp":"ババ！","fr":"Baba !"}
 {"id":1551339,"jp":"アウ～ガウ！","fr":"Aoo~ Gau !"}
+{"id":1551340,"jp":"スクレインはすばやく木に飛び乗って身を隠した。ワオッキーはスクレインに向かって何度か鳴き声をあげたあと、走り去っていった。\nやがて、森は再び静けさを取り戻した。\nその後、レオバーンドはあくびをすると、のんびりとその場を離れた。","fr":"Scrain a bondi dans un arbre pour s'y cacher. Waokki a poussé quelques cris dans sa direction avant de s'enfuir.\nLa forêt a bientôt retrouvé son calme.\nLeoburnd a alors bâillé avant de s'éloigner tranquillement."}
+{"id":1551341,"jp":"よかった、あの子は僕たちに気づいていないみたいだ。|よかった、あの子は私たちに気づいていないみたいね。","fr":"Ouf, on dirait qu'il n'a pas remarqué notre présence.|Ouf, on dirait qu'il n'a pas remarqué notre présence."}
+{"id":1551342,"jp":"大丈夫、そのことなら心配いらないよ。\nあの子はとても人懐っこいから、僕たちを傷つけたりしないさ。","fr":"Ne t'en fais pas, tu n'as rien à craindre.\nIl est très sociable avec les humains, il ne nous fera aucun mal."}
+{"id":1551343,"jp":"えっ？どうしてわかるの？","fr":"Hein ? Comment tu le sais ?"}
+{"id":1551344,"jp":"僕はあの子が子供の頃からずっと観察してたんだよ。\n最初は小さなモーニャでさ、すこしやんちゃだったけど僕が近づいても嫌がらなかった。\n逆に僕のことを観察してきたんだよ。","fr":"Je l'observe depuis qu'il est tout petit.\nÀ l'époque, ce n'était encore qu'un petit Monya un peu turbulent, mais il ne rechignait pas à me laisser approcher.\nC'était même lui qui se mettait à m'observer !"}
 {"id":1551345,"jp":"だから、もう僕に慣れてるんだと思う。すごく近づいてもあまり気にしていないみたい。\nそれに、あの子はとても賢いんだ。\nすこし怒りっぽいけど、こちらから手出しさえしなければ、攻撃してくることはめったにないんだよ。","fr":"C'est pour ça qu'il est habitué à moi, je crois. Même quand je m'approche tout près, ça n'a pas l'air de le gêner.\nEt puis, il est très intelligent.\nIl s'énerve un peu facilement, mais tant qu'on ne le provoque pas, il attaque rarement."}
+{"id":1551346,"jp":"じゃあさっき突然現れたのは……スクレインとワオッキーに怒ったからなの？","fr":"Alors, s'il a surgi tout à l'heure… C'est parce qu'il était en colère contre Scrain et Waokki ?"}
+{"id":1551347,"jp":"近くで寝てたのに、スクレインとワオッキーの声で起こされちゃったからだと思う。\nあの子は寝起きがちょっと悪いから。","fr":"Je pense qu'il dormait dans les environs et que les cris de Scrain et Waokki l'ont réveillé.\nIl est un peu grognon au réveil."}
+{"id":1551348,"jp":"でも実は、スクレインとワオッキーも和解しかけてたんだよ。\n最後にワオッキーがスクレインに謝ってたからね。\nスクレインもそれを受け入れたみたいだったし。","fr":"Mais en réalité, Scrain et Waokki étaient déjà sur le point de se réconcilier.\nWaokki a fini par présenter ses excuses à Scrain.\nEt Scrain semblait les avoir acceptées."}
+{"id":1551349,"jp":"ワオッキーの言葉がわかるの？","fr":"Tu comprends ce que dit Waokki ?"}
+{"id":1551350,"jp":"だいたいの意味は推測できるよ。鳴き声の音節とそれに対応する動作をノートに記録してるんだけど、\n普段の観察からの推測だと、正確率は7割ってところかな。","fr":"J'arrive à en deviner le sens général. Je consigne dans mon carnet les syllabes de leurs cris et les gestes qui les accompagnent.\nD'après mes observations quotidiennes, je dirais que je vois juste environ sept fois sur dix."}
+{"id":1551351,"jp":"（この子、思っていたよりずっとおとなびているな……）|（この子、思っていたよりずっとおとなびているね……）","fr":"(Ce garçon est bien plus mature que je ne le pensais…)|(Ce garçon est bien plus mature que je ne le pensais…)"}
+{"id":1551352,"jp":"そうだ、まだ自己紹介してなかったね。\n僕は{playerName}。きみを家に連れ帰ってほしいと、きみのおばあちゃんから頼まれたんだ。|そうだ、まだ自己紹介してなかったね。\n私は{playerName}。きみを家に連れ帰ってほしいと、きみのおばあちゃんから頼まれたの。","fr":"Ah, au fait, je ne me suis pas encore présenté.\nMoi, c'est {playerName}. Ta grand-mère m'a demandé de te ramener à la maison.|Ah, au fait, je ne t'ai pas encore dit mon nom.\nMoi, c'est {playerName}. Ta grand-mère m'a demandé de te ramener à la maison."}
+{"id":1551353,"jp":"そうなんだ……でも、これからブラウディの食事の時間だから、\nつぎの観察場所に行かないと。","fr":"Je vois… Mais c'est bientôt l'heure du repas de Browdy.\nIl faut que je rejoigne mon prochain poste d'observation."}
+{"id":1551354,"jp":"はぁ、はぁ……バレット！待って！","fr":"Haa, haa… Barrett ! Attends !"}
 {"id":1551355,"jp":"ほら、こっちこっち。","fr":"Tiens, par ici."}
 {"id":1551356,"jp":"こ、これは……？","fr":"C-c'est quoi, ça… ?"}
+{"id":1551357,"jp":"シーッ……君もはやく隠れる場所を見つけて。僕はまだブラウディとは仲良くなりきれていないし、\nあの子はすこし臆病だから、影響を与えるかもしれないんだ。","fr":"Chut… Trouve vite un endroit où te cacher, toi aussi. Browdy ne me fait pas encore totalement confiance.\nIl est assez craintif, alors on risque de le perturber."}
+{"id":1551358,"jp":"……わかったよ。じゃあ約束して。観察が終わったら一緒に帰るって。","fr":"… D'accord. Mais promets-moi qu'on rentrera ensemble quand tu auras terminé tes observations."}
+{"id":1551359,"jp":"約束するよ、これが今日の最後の観察だしね。","fr":"Promis ! C'est ma dernière observation de la journée, de toute façon."}
+{"id":1551360,"jp":"うん……今日の食事量は普段より多いな。どうやら機嫌が良いみたいだ。","fr":"Hmm… Il mange plus que d'habitude aujourd'hui. Il a l'air de bonne humeur."}
+{"id":1551361,"jp":"もしかして、毎日あの子の食生活を記録してるの？","fr":"Tu notes ce qu'il mange tous les jours ?"}
+{"id":1551362,"jp":"観察できたときはね。ブラウディの食の進め方はすごくおもしろいんだ。\nここらへんの若枝や茎葉を食べるだけじゃなくて、角を使って地面のベリーを串刺しにして持っていくんだよ。","fr":"Chaque fois que je peux l'observer, oui. La façon dont Browdy se nourrit est vraiment intéressante.\nIl ne se contente pas de manger les jeunes pousses, les tiges et les feuilles des environs. Il se sert aussi de ses bois pour embrocher les baies tombées au sol et les emporter."}
+{"id":1551363,"jp":"食べきれない分は持ち帰る、ってことを鹿も知ってるんだね！","fr":"Même les cerfs savent emporter chez eux ce qu'ils n'arrivent pas à finir !"}
+{"id":1551364,"jp":"それで、食べものを蓄える場所があるんじゃないかと思って、こっそりついていったんだ。\nけど、いつも振り切られちゃうんだ。","fr":"Du coup, je me suis dit qu'il devait avoir un endroit où il entreposait ses réserves de nourriture. J'ai essayé de le suivre discrètement.\nMais il finit toujours par me semer."}
+{"id":1551365,"jp":"あの子の警戒心は本当に高くてさ……ってあれ？なんか警戒状態に入ったのかな？","fr":"Il est vraiment très méfiant… Tiens ? On dirait que quelque chose l'a mis en alerte."}
+{"id":1551366,"jp":"なにか音がしたみたいだね。","fr":"On dirait qu'il y a eu un bruit."}
 {"id":1551367,"jp":"「バンーー」","fr":"« Bang »"}
+{"id":1551368,"jp":"しまった……この音は密猟者だよ！","fr":"Mince… Ce bruit, c'est un braconnier !"}
+{"id":1551369,"jp":"見えた、あっちだ！ブラウディに向かって銃を撃っている！","fr":"Je le vois, là-bas ! Il tire sur Browdy !"}
+{"id":1551370,"jp":"危険だから動かないで、僕があいつを片付けてくる！|危険だから動かないで、私がやっつけてくる！","fr":"C'est trop dangereux, ne bouge pas ! Je vais m'occuper de lui !|C'est trop dangereux, reste ici ! Je vais le mettre hors d'état de nuire !"}
+{"id":1551371,"jp":"ふぅ……これで血は止まるはず。\nただ、僕は基本的な包帯の巻き方しか知らないし……","fr":"Ouf… Ça devrait arrêter le saignement.\nMais je sais seulement poser des bandages rudimentaires…"}
+{"id":1551372,"jp":"街に連れていって、お医者さんに診てもらった方がいいんじゃない？","fr":"On devrait peut-être l'emmener en ville pour le faire examiner par un médecin, non ?"}
+{"id":1551373,"jp":"うん……あの子にもすこし休養が必要だし、\nだれかがお世話をした方がいいだろうね。でも……","fr":"Oui… Il a aussi besoin d'un peu de repos,\net ce serait mieux que quelqu'un prenne soin de lui. Mais…"}
+{"id":1551374,"jp":"どうしたの？もしかして、ラリンおばあちゃんに怒られるのが怖いの？","fr":"Qu'est-ce qu'il y a ? Tu as peur que Mamie Larin te gronde ?"}
+{"id":1551375,"jp":"ううん……迷っているのは……連れて帰るべきかどうか、ってこと……","fr":"Non… Ce qui me fait hésiter, c'est… de savoir si je dois vraiment le ramener à la maison…"}
+{"id":1551376,"jp":"本で学んだんだけど――キボを観察するときは一定の距離をとって、\nこの子たちの生き死にには干渉しちゃいけないんだって。\nそういうこともすべて自然の一部だから。","fr":"J'ai lu dans un livre que, lorsqu'on observe des Kibo, il faut garder une certaine distance.\nOn ne doit pas intervenir, même si leur vie est en danger.\nParce que tout cela fait partie de la nature."}
+{"id":1551377,"jp":"もし僕がこの子を連れて行ったら……それは自然の掟に違反するってことじゃないかな……\nだって、僕がこの子の変化に干渉していることになる……","fr":"Si je l'emmène avec moi… Est-ce que je ne risque pas d'enfreindre les lois de la nature ?\nAprès tout, j'interviendrais dans le cours naturel de sa vie…"}
+{"id":1551378,"jp":"でも、『密猟』だって自然の変化にはふくまれないんじゃない？","fr":"Mais le « braconnage » ne fait pas non plus partie du cours naturel des choses, si ?"}
+{"id":1551379,"jp":"……あ、たしかに！この子は人間の密猟のせいで傷ついたんだ。\nそれなら……人間が助けるのも当然だよね！","fr":"… Ah, c'est vrai ! Ce sont des êtres humains qui l'ont blessé en le braconnant.\nAlors… c'est tout naturel que des êtres humains lui viennent en aide !"}
+{"id":1551380,"jp":"それに、この子の様子を見るかぎり……\nこの子もきみと一緒に帰りたいと思ってるはずだよ。","fr":"Et puis, à en juger par son comportement…\nJe suis certain que lui aussi a envie de rentrer avec toi."}
+{"id":1551381,"jp":"この子、きみにすごく感謝してるみたいだ。|この子、きみにすごく感謝してるみたいね。","fr":"On dirait qu'il éprouve beaucoup de gratitude envers toi.|On dirait qu'il éprouve beaucoup de gratitude envers toi."}
+{"id":1551382,"jp":"そう言われてみれば……\nさっき傷の手当てをしてたときのブラウディ、すごく澄んだ鳴き声だった気がする。","fr":"Maintenant que tu le dis…\nQuand je soignais sa blessure tout à l'heure, il me semble que Browdy a poussé un cri particulièrement cristallin."}
+{"id":1551383,"jp":"ブラウディの鳴き声はあんな音じゃないはずなんだけど……","fr":"Pourtant, ce n'est pas du tout le genre de cri que pousse Browdy d'habitude…"}
+{"id":1551384,"jp":"澄んだ声？もしかして……きみたちの間に特別な繋がりが生まれたのかな？","fr":"Un cri cristallin ? Peut-être que… quelque chose de particulier vous lie désormais, tous les deux ?"}
 {"id":1551385,"jp":"特別な繋がり？","fr":"Un lien spécial ?"}
+{"id":1551386,"jp":"特定の状況で、キボと共鳴して繋がり合うことができる存在がいるんだよ。\nもしかしたら、この子はきみの仲間になりたいのかもしれないね。","fr":"Dans certaines circonstances, certaines personnes peuvent entrer en résonance avec les Kibo et tisser un lien avec eux.\nPeut-être que Browdy aimerait devenir ton compagnon."}
+{"id":1551387,"jp":"仲間……わかった、この子を家に連れて帰るよ。\n僕がしっかり仲間の世話をするんだ！","fr":"Mon compagnon… D'accord, je vais le ramener à la maison.\nJe prendrai bien soin de mon compagnon !"}
+{"id":1551388,"jp":"そうだね、僕はこの密猟者を保安官に引き渡してくるよ。|そうだね、私はこの密猟者を保安官に引き渡してくるよ。","fr":"Très bien. De mon côté, je vais livrer ce braconnier au shérif.|Très bien. De mon côté, je vais livrer ce braconnier au shérif."}
+{"id":1551389,"jp":"ひいぃ！悪かったよ、見逃してくれ！もう二度と来ねえって約束するから！","fr":"Aaaah ! Pardon, laisse-moi partir ! Je te jure que je ne remettrai plus jamais les pieds ici !"}
+{"id":1551390,"jp":"それとも、懸賞金が目当てか？そんなもの、いくらでも渡すから……！","fr":"Ou alors, c'est la prime qui t'intéresse ? Je te donnerai autant d'argent que tu veux… !"}
+{"id":1551391,"jp":"黙れ！大人しくついてこい。|黙って！大人しくついてきて。","fr":"La ferme ! Suis-moi sans faire d'histoires.|Tais-toi ! Suis-moi sans faire d'histoires."}
+{"id":1551392,"jp":"ふんっ、俺が優しく言ってやってるのに聞く耳を持たねえんなら……","fr":"Tss, j'essaie d'être sympa avec toi, mais puisque tu refuses de m'écouter…"}
 {"id":1551393,"jp":"これはいったい……？","fr":"Qu'est-ce que c'est que ça… ?"}
+{"id":1551394,"jp":"しまった、煙のポーションを投げた！逃げる気だ……！","fr":"Mince, il a lancé une potion fumigène ! Il essaie de s'enfuir… !"}
+{"id":1551395,"jp":"あれ！？レオバーンド？もしかして、密猟者の行く手を阻いでる！？","fr":"Hein ?! Leoburnd ? Il serait en train de barrer la route au braconnier ?!"}
+{"id":1551396,"jp":"助けてくれてありがとう、レオバーンド！","fr":"Merci pour ton aide, Leoburnd !"}
+{"id":1551397,"jp":"え？いまの子が助けに来てくれたの？どうしてわかるの？","fr":"Hein ? Il est venu nous aider ? Comment tu le sais ?"}
+{"id":1551398,"jp":"うん……実は森のキボって、人間の善意や悪意を感じ取ることができるんだ。","fr":"Oui… En fait, les Kibo de la forêt sont capables de percevoir les bonnes et les mauvaises intentions des êtres humains."}
+{"id":1551399,"jp":"だから、もし星臨者がなにもしなかったら、こんなんじゃ済まなかったかもしれないよ。\nレオバーンドたちは密猟者のことを激しく憎んでるから、きっと噛みついてたさ。","fr":"Alors, Enfant des étoiles, si tu n'avais pas agi, les choses auraient pu bien plus mal tourner.\nLes Leoburnd détestent les braconniers. Ils l'auraient certainement mordu."}
+{"id":1551400,"jp":"レオバーンドも、好き嫌いがはっきりしてるみたいだね","fr":"On dirait que les Leoburnd savent très bien qui ils apprécient et qui ils détestent."}
+{"id":1551401,"jp":"ただ、対立を激化させたくはなかったんだ。\n密猟者は自業自得だけど、もしレオバーンドがあいつらを噛んだら……\nこの森は厳戒態勢の区域にされちゃうから……","fr":"Mais je ne voulais pas que la situation dégénère.\nLes braconniers n'ont que ce qu'ils méritent, mais si les Leoburnd les mordaient…\nToute cette forêt serait placée sous haute surveillance…"}
+{"id":1551402,"jp":"きみの考え方は本当におとなだね……ちなみにそれは全部本で学んだの？","fr":"Tu raisonnes vraiment comme un adulte… Au fait, c'est dans les livres que tu as appris tout ça ?"}
+{"id":1551403,"jp":"半分は僕の観察からだよ。\nこの森に出入りできるのも、キボたちが友好的に接してくれているおかげだからね。","fr":"La moitié de ce que je sais vient de mes propres observations.\nSi je peux aller et venir librement dans cette forêt, c'est parce que les Kibo se montrent amicaux envers moi."}
+{"id":1551404,"jp":"さあ、はやく街に戻ろう。ブラウディにもゆっくり休んでもらわないと。","fr":"Allez, rentrons vite en ville. Il faut que Browdy puisse se reposer tranquillement."}
+{"id":1551405,"jp":"バレット！お前という子は心配ばかりかけて！","fr":"Barrett ! Sacré garnement, tu n'arrêtes pas de me faire des frayeurs !"}
 {"id":1551436,"jp":"リリッ！","fr":"Riri !"}
 {"id":1551437,"jp":"ウグッ！","fr":"Ugh !"}
 {"id":1551439,"jp":"ウグ……","fr":"Ugh…"}
