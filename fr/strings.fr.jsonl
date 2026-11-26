@@ -8414,6 +8414,7 @@
 {"id":1504196,"jp":"至高のさっぱりリーフサラダ","fr":"Salade de feuilles rafraîchissante suprême"}
 {"id":1504197,"jp":"普通のウィンドフィールパイ","fr":"Tourte des champs venteux ordinaire"}
 {"id":1504198,"jp":"チーム全体のEX会心率5%上昇（効果時間：300秒）","fr":"Augmente de 5 % le Taux CRIT EX de toute l'équipe (durée : 300 s)"}
+{"id":1504199,"jp":"フリスの素朴な田園風景をイメージして、丁寧に作られたパイ。\n黄金色のサクサクしたパイ皮に麦穂のような繊細な模様が刻まれ、まるで実り豊かな麦畑のようだ。パイの中央には小さな風車の旗が立ち、フリスの田園風景が懐かしく蘇る。","fr":"Une tourte préparée avec soin, inspirée des paysages champêtres de Fleece.\nSa pâte dorée et croustillante est ornée de délicats motifs en forme d'épis, évoquant un champ de blé abondant. Un petit fanion en forme de moulin à vent se dresse en son centre, rappelant avec nostalgie la campagne de Fleece."}
 {"id":1504200,"jp":"上質なウィンドフィールパイ","fr":"Tourte des champs venteux de qualité"}
 {"id":1504201,"jp":"チーム全体のEX会心率5%上昇（効果時間：325秒）","fr":"Augmente de 5 % le Taux CRIT EX de toute l'équipe (durée : 325 s)"}
 {"id":1504202,"jp":"極上のウィンドフィールパイ","fr":"Tourte des champs venteux supérieure"}
@@ -8424,6 +8425,7 @@
 {"id":1504207,"jp":"チーム全体のEX会心率5%上昇（効果時間：400秒）","fr":"Augmente de 5 % le Taux CRIT EX de toute l'équipe (durée : 400 s)"}
 {"id":1504208,"jp":"普通のハーベストグリル","fr":"Grillade des récoltes ordinaire"}
 {"id":1504209,"jp":"チーム全体の会心率5%上昇、会心ダメージ10%増加（効果時間：300秒）","fr":"Augmente de 5 % le Taux CRIT et de 10 % les DGT CRIT de toute l'équipe (durée : 300 s)"}
+{"id":1504210,"jp":"鳥肉で作られたごちそうはお祭りにぴったり。フリスの住民が金麦穂カーニバルの期間中に作る伝統的な祝祭料理で、豊穣の女神への感謝とよりよい未来への願いが込められている。","fr":"Un festin de volaille idéal pour les grandes occasions. Ce plat traditionnel est préparé par les habitants de Fleece lors du Carnaval de l'Épi doré, en témoignage de leur gratitude envers la déesse de l'abondance et de leurs espoirs pour un avenir meilleur."}
 {"id":1504211,"jp":"上質なハーベストグリル","fr":"Grillade des récoltes de qualité"}
 {"id":1504212,"jp":"チーム全体の会心率5%上昇、会心ダメージ10%増加（効果時間：325秒）","fr":"Augmente de 5 % le Taux CRIT et de 10 % les DGT CRIT de toute l'équipe (durée : 325 s)"}
 {"id":1504213,"jp":"極上のハーベストグリル","fr":"Grillade des récoltes supérieure"}
@@ -8454,6 +8456,7 @@
 {"id":1504240,"jp":"チーム全体の回復効果10%上昇（効果時間：400秒）","fr":"Augmente de 10 % l'effet de soin de toute l'équipe (durée : 400 s)"}
 {"id":1504241,"jp":"普通のハニーハーベスト","fr":"Récolte de miel ordinaire"}
 {"id":1504242,"jp":"チーム全体の氷属性ダメージ10%増加（効果時間：300秒）","fr":"Augmente de 10 % les DGT de Glace de toute l'équipe (durée : 300 s)"}
+{"id":1504243,"jp":"カボチャで作った家庭的なスイーツ。\nカボチャをつぶしてピューレにしたあと金麦粉と混ぜてオーブンで焼き、焼き上がるまえにハチミツを塗ればできあがり。自家製クッキーを乗せればさらにおいしさアップ。フリスの住民が一番好きな食後のデザートのひとつ。","fr":"Une douceur maison à base de citrouille.\nRéduisez la citrouille en purée, mélangez-la à de la farine de blé doré, puis enfournez le tout. Badigeonnez de miel juste avant la fin de la cuisson. Quelques biscuits maison en garniture la rendront encore plus savoureuse. C'est l'un des desserts préférés des habitants de Fleece."}
 {"id":1504244,"jp":"上質なハニーハーベスト","fr":"Récolte de miel de qualité"}
 {"id":1504245,"jp":"チーム全体の氷属性ダメージ10%増加（効果時間：325秒）","fr":"Augmente de 10 % les DGT de Glace de toute l'équipe (durée : 325 s)"}
 {"id":1504246,"jp":"極上のハニーハーベスト","fr":"Récolte de miel supérieure"}
@@ -8464,6 +8467,7 @@
 {"id":1504251,"jp":"チーム全体の氷属性ダメージ10%増加（効果時間：400秒）","fr":"Augmente de 10 % les DGT de Glace de toute l'équipe (durée : 400 s)"}
 {"id":1504252,"jp":"普通のうっとりカボチャパン","fr":"Pain à la citrouille enchanteur ordinaire"}
 {"id":1504253,"jp":"チーム全体の会心ダメージ12%増加（効果時間：300秒）","fr":"Augmente de 12 % les DGT CRIT de toute l'équipe (durée : 300 s)"}
+{"id":1504254,"jp":"シンプルに見えて奥深いカボチャパン。\n見た目がとてもかわいらしく、カットするとなかから香ばしいカボチャシチューが現れる。おすすめの食べ方は、パンをちぎってなかの濃厚なシチューや柔らかく煮込んだ獣肉と一緒に味わうことだ。","fr":"Un pain à la citrouille d'apparence simple, mais aux saveurs insoupçonnées.\nSous son adorable apparence se cache un délicieux ragoût de citrouille qui se révèle à la découpe. Pour mieux le savourer, détachez des morceaux de pain et dégustez-les avec le ragoût onctueux et la viande de bête longuement mijotée."}
 {"id":1504255,"jp":"上質なうっとりカボチャパン","fr":"Pain à la citrouille enchanteur de qualité"}
 {"id":1504256,"jp":"チーム全体の会心ダメージ12%増加（効果時間：325秒）","fr":"Augmente de 12 % les DGT CRIT de toute l'équipe (durée : 325 s)"}
 {"id":1504257,"jp":"極上のうっとりカボチャパン","fr":"Pain à la citrouille enchanteur supérieur"}
@@ -8479,6 +8483,7 @@
 {"id":1504268,"jp":"至高の二色のペペアメ","fr":"Bonbon bicolore au Pepe suprême"}
 {"id":1504269,"jp":"ルルカの真心薬膳（改）","fr":"Plat médicinal de Luruka préparé avec amour (amélioré)"}
 {"id":1504270,"jp":"チーム全体の回復効果4%上昇（効果時間：300秒）","fr":"Augmente de 4 % l'efficacité des soins de toute l'équipe (durée : 300 s)"}
+{"id":1504271,"jp":"『闇の大薬師』ルルカの新たな力作。料理と薬を融合させた革新的な手法。オリジナルは試食した者をことごとく『ノックダウン』させたというが――もちろん、改良版のレシピは無害で、味や食感も大幅にレベルアップしている。","fr":"Le nouveau chef-d'œuvre de Luruka, la « grande apothicaire des ténèbres ». Une méthode révolutionnaire mêlant cuisine et médecine. La recette originale aurait mis K.O. tous ceux qui y ont goûté… Bien entendu, cette version améliorée est inoffensive, et son goût comme sa texture ont été considérablement améliorés."}
 {"id":1504272,"jp":"普通のルルカの特製料理","fr":"Plat spécial de Luruka ordinaire"}
 {"id":1504273,"jp":"チーム全体の回復効果6%上昇（効果時間：300秒）","fr":"Augmente de 6 % l'efficacité des soins de toute l'équipe (durée : 300 s)"}
 {"id":1504274,"jp":"ルルカ特製の栄養食。肉、野菜、フルーツが黄金比でミックスされ、栄養バランスもバッチリ。味のほうは……意外と普通かも？","fr":"Plat nutritif spécial de Luruka. Viande, légumes et fruits y sont mélangés dans des proportions d'or, pour un équilibre nutritionnel parfait. Quant au goût… peut-être étonnamment banal ?"}
@@ -8491,12 +8496,14 @@
 {"id":1504281,"jp":"至高のルルカの特製料理","fr":"Plat spécial de Luruka suprême"}
 {"id":1504282,"jp":"チーム全体の回復効果6%上昇（効果時間：400秒）","fr":"Augmente de 6 % l'efficacité des soins de toute l'équipe (durée : 400 s)"}
 {"id":1504283,"jp":"普通の星臨者の野菜肉団子","fr":"Boulettes de viande aux légumes de l'Enfant des étoiles ordinaires"}
+{"id":1504284,"jp":"星臨者謹製――！シンゲツイモやそのほかの野菜を混ぜて作った料理。肉の食感を見事に再現しており、獣人たちからも高い評価を受けている。ついに大地で『肉を育てる』ことが可能となった。","fr":"Une création de l'Enfant des étoiles ! Ce plat associe la patate Nouvelle-Lune à divers légumes. Il reproduit à merveille la texture de la viande et rencontre un grand succès auprès des Furriens. Il est enfin possible de « cultiver de la viande » dans la terre !"}
 {"id":1504285,"jp":"上質な星臨者の野菜肉団子","fr":"Boulettes de viande aux légumes de l'Enfant des étoiles de qualité"}
 {"id":1504286,"jp":"極上の星臨者の野菜肉団子","fr":"Boulettes de viande aux légumes de l'Enfant des étoiles supérieures"}
 {"id":1504287,"jp":"逸品の星臨者の野菜肉団子","fr":"Boulettes de viande aux légumes de l'Enfant des étoiles d'exception"}
 {"id":1504288,"jp":"至高の星臨者の野菜肉団子","fr":"Boulettes de viande aux légumes de l'Enfant des étoiles suprêmes"}
 {"id":1504289,"jp":"普通の蜜焼き潤いトマト","fr":"Tomate juteuse rôtie au miel ordinaire"}
 {"id":1504290,"jp":"チーム全体の攻撃力90上昇（効果時間：300秒）","fr":"Augmente de 90 l'ATQ de toute l'équipe (durée : 300 s)"}
+{"id":1504291,"jp":"みずみずしい潤いトマトに特製のハチミツを合わせ、じっくりと焼き上げた一品。潤いトマトの濃厚な香りとハチミツの甘みが口のなかで絡み合い、うっとりするような味わいをもたらす。","fr":"Des tomates juteuses et fraîches associées à un miel spécial, puis lentement rôties. Le parfum intense des tomates et la douceur du miel s'entremêlent en bouche, offrant une saveur enchanteresse."}
 {"id":1504292,"jp":"上質な蜜焼き潤いトマト","fr":"Tomate juteuse rôtie au miel de qualité"}
 {"id":1504293,"jp":"チーム全体の攻撃力90上昇（効果時間：325秒）","fr":"Augmente de 90 l'ATQ de toute l'équipe (durée : 325 s)"}
 {"id":1504294,"jp":"極上の蜜焼き潤いトマト","fr":"Tomate juteuse rôtie au miel supérieure"}
@@ -8506,8 +8513,10 @@
 {"id":1504298,"jp":"至高の蜜焼き潤いトマト","fr":"Tomate juteuse rôtie au miel suprême"}
 {"id":1504299,"jp":"チーム全体の攻撃力90上昇（効果時間：400秒）","fr":"Augmente de 90 l'ATQ de toute l'équipe (durée : 400 s)"}
 {"id":1504300,"jp":"金紅のスウィーティ","fr":"Douceur or et rouge"}
+{"id":1504301,"jp":"エイプル、ゴールドロップ、ハチミツをこだわりのブレンドで仕上げた飲みもの。ひとりで味わっても、仲間と分けあっても、清涼感と甘みを楽しめる。","fr":"Une boisson élaborée à partir d'un savant mélange d'Aple, de Goldrop et de miel. À déguster seul ou à partager entre amis pour profiter de sa fraîcheur et de sa douceur."}
 {"id":1504302,"jp":"普通のホロホロ肉煮込み","fr":"Ragoût de viande fondante ordinaire"}
 {"id":1504303,"jp":"チーム全体の火属性ダメージ10%増加（効果時間：300秒）","fr":"Augmente de 10 % les DGT de Feu de toute l'équipe (durée : 300 s)"}
+{"id":1504304,"jp":"厳選しされた新鮮な獣肉にレッチルフの粉で下味をつけ、長時間じっくり煮込むことでできあがる。柔らかくて、味もよく染み込んだ汁気たっぷりの料理で、とくに獣人たちに愛されている。","fr":"De la viande de bête fraîche soigneusement sélectionnée, assaisonnée de poudre de Retchilf puis longuement mijotée. Ce plat tendre et juteux, imprégné de saveurs, est particulièrement apprécié des Furriens."}
 {"id":1504305,"jp":"上質なホロホロ肉煮込み","fr":"Ragoût de viande fondante de qualité"}
 {"id":1504306,"jp":"チーム全体の火属性ダメージ10%増加（効果時間：325秒）","fr":"Augmente de 10 % les DGT de Feu de toute l'équipe (durée : 325 s)"}
 {"id":1504307,"jp":"極上のホロホロ肉煮込み","fr":"Ragoût de viande fondante supérieur"}
@@ -8518,6 +8527,7 @@
 {"id":1504312,"jp":"チーム全体の火属性ダメージ10%増加（効果時間：400秒）","fr":"Augmente de 10 % les DGT de Feu de toute l'équipe (durée : 400 s)"}
 {"id":1504313,"jp":"スイフトスフレ","fr":"Soufflé véloce"}
 {"id":1504314,"jp":"チーム全体の防御力25上昇（効果時間：300秒）","fr":"Augmente de 25 la DÉF de toute l'équipe (durée : 300 s)"}
+{"id":1504315,"jp":"卵とミルクを混ぜてよくかきまぜ、丹念に焼き上げると、雲のような軽い食感が生まれる。さらに乾燥させたスウィフティーを彩りとして加えれば、定番のスイフトスフレの完成だ。","fr":"Des œufs et du lait soigneusement fouettés, puis délicatement cuits au four pour obtenir une texture aussi légère qu'un nuage. Quelques Swiftie séchés apportent une touche de couleur et viennent parfaire ce traditionnel soufflé Swift."}
 {"id":1504316,"jp":"普通のペペパイ","fr":"Tourte au Pepe ordinaire"}
 {"id":1504317,"jp":"チーム全体の光属性ダメージ10%増加（効果時間：300秒）","fr":"Augmente de 10 % les DGT de Lumière de toute l'équipe (durée : 300 s)"}
 {"id":1504319,"jp":"上質なペペパイ","fr":"Tourte au Pepe de qualité"}
@@ -8530,6 +8540,7 @@
 {"id":1504326,"jp":"チーム全体の光属性ダメージ10%増加（効果時間：400秒）","fr":"Augmente de 10 % les DGT de Lumière de toute l'équipe (durée : 400 s)"}
 {"id":1504327,"jp":"普通の真珠ポテトピュレ","fr":"Purée de patates perlées ordinaire"}
 {"id":1504328,"jp":"チーム全体の攻撃力350上昇、防御力100上昇（効果時間：300秒）","fr":"Augmente de 350 l'ATQ et de 100 la DÉF de toute l'équipe (durée : 300 s)"}
+{"id":1504329,"jp":"イモペーストとミルクがなめらかに混ざりあい、そのなかに隠されたコーンの粒が、まるで真珠のように口のなかで弾ける。内陸発祥の料理だが、コーンの食感が真珠を連想させることからその名がついた。","fr":"La purée de patates et le lait se mêlent harmonieusement, tandis que les grains de maïs dissimulés à l'intérieur éclatent en bouche comme de petites perles. Originaire des terres intérieures, ce plat doit son nom à la texture nacrée que rappelle le maïs."}
 {"id":1504330,"jp":"上質な真珠ポテトピュレ","fr":"Purée de patates perlées de qualité"}
 {"id":1504331,"jp":"チーム全体の攻撃力350上昇、防御力100上昇（効果時間：325秒）","fr":"Augmente de 350 l'ATQ et de 100 la DÉF de toute l'équipe (durée : 325 s)"}
 {"id":1504332,"jp":"極上の真珠ポテトピュレ","fr":"Purée de patates perlées supérieure"}
@@ -8557,6 +8568,7 @@
 {"id":1504356,"jp":"チーム全体の回復効果15%上昇（効果時間：300秒）","fr":"Augmente de 15 % l'effet de soin de toute l'équipe (durée : 300 s)"}
 {"id":1504358,"jp":"普通の宵越しの金麦","fr":"Blé doré de la veille ordinaire"}
 {"id":1504359,"jp":"チーム全体の水属性ダメージ10%増加（効果時間：300秒）","fr":"Augmente de 10 % les DGT d'Eau de toute l'équipe (durée : 300 s)"}
+{"id":1504360,"jp":"金麦、ペペ、まろやかなミルクなどから作られた料理。通常は一晩寝かせてから食べる。より豪華なものにするときは、風味を引き立てるために少量のカドゥリアを加える。","fr":"Un plat préparé à partir de blé doré, de Pepe, de lait onctueux et d'autres ingrédients. On le laisse généralement reposer une nuit avant de le déguster. Pour une version plus raffinée, on ajoute un peu de Kaduria afin d'en rehausser les saveurs."}
 {"id":1504361,"jp":"上質な宵越しの金麦","fr":"Blé doré de la veille de qualité"}
 {"id":1504362,"jp":"チーム全体の水属性ダメージ10%増加（効果時間：325秒）","fr":"Augmente de 10 % les DGT d'Eau de toute l'équipe (durée : 325 s)"}
 {"id":1504363,"jp":"極上の宵越しの金麦","fr":"Blé doré de la veille supérieur"}
@@ -8567,6 +8579,7 @@
 {"id":1504368,"jp":"チーム全体の水属性ダメージ10%増加（効果時間：400秒）","fr":"Augmente de 10 % les DGT d'Eau de toute l'équipe (durée : 400 s)"}
 {"id":1504369,"jp":"普通の超激辛エイプル","fr":"Aple incendiaire ordinaire"}
 {"id":1504370,"jp":"チーム全体の地属性ダメージ10%増加（効果時間：300秒）","fr":"Augmente de 10 % les DGT de Terre de toute l'équipe (durée : 300 s)"}
+{"id":1504371,"jp":"激辛エイプルの基本素材に、レッチルフをさらに多く加えた『強化版』。辛党にはたまらないが、辛いものが苦手ならば、安易に手を出さないほうがいいだろう。","fr":"Une « version améliorée » de l'Aple extra-piquant, contenant une quantité encore plus généreuse de Retchilf. Irrésistible pour les amateurs de sensations fortes, mais mieux vaut s'abstenir si l'on supporte mal les plats épicés."}
 {"id":1504372,"jp":"上質な超激辛エイプル","fr":"Aple incendiaire de qualité"}
 {"id":1504373,"jp":"チーム全体の地属性ダメージ10%増加（効果時間：325秒）","fr":"Augmente de 10 % les DGT de Terre de toute l'équipe (durée : 325 s)"}
 {"id":1504374,"jp":"極上の超激辛エイプル","fr":"Aple incendiaire supérieure"}
@@ -8577,6 +8590,7 @@
 {"id":1504379,"jp":"チーム全体の地属性ダメージ10%増加（効果時間：400秒）","fr":"Augmente de 10 % les DGT de Terre de toute l'équipe (durée : 400 s)"}
 {"id":1504380,"jp":"普通の豊作の悦び","fr":"Joie des récoltes ordinaire"}
 {"id":1504381,"jp":"チーム全体のブレイク値340増加（効果時間：300秒）","fr":"Augmente de 340 la Valeur de brise de toute l'équipe (durée : 300 s)"}
+{"id":1504382,"jp":"フリスの金麦穂カーニバルで生まれた名物料理。キンサカボチャを器にし、金麦、まんぷくコーン、新月蓉などの食材を詰めた、豊作と円満を象徴する一品。","fr":"Une spécialité née lors du Carnaval de l'Épi doré de Fleece. Une citrouille Kinsa sert de récipient pour accueillir du blé doré, du maïs généreux, du lotus Nouvelle-Lune et d'autres ingrédients. Ce plat symbolise l'abondance des récoltes et l'harmonie."}
 {"id":1504383,"jp":"上質な豊作の悦び","fr":"Joie des récoltes de qualité"}
 {"id":1504384,"jp":"チーム全体のブレイク値340増加（効果時間：325秒）","fr":"Augmente de 340 la Valeur de brise de toute l'équipe (durée : 325 s)"}
 {"id":1504385,"jp":"極上の豊作の悦び","fr":"Joie des récoltes supérieure"}
@@ -8622,6 +8636,7 @@
 {"id":1504426,"jp":"チーム全体の水・光属性ダメージ10%増加（効果時間：400秒）","fr":"Augmente de 10 % les DGT d'Eau et de Lumière de toute l'équipe (durée : 400 s)"}
 {"id":1504427,"jp":"普通のハチミツパンケーキ","fr":"Pancakes au miel ordinaires"}
 {"id":1504428,"jp":"チーム全体の防御力5%上昇（効果時間：300秒）","fr":"Augmente de 5 % la DÉF de toute l'équipe (durée : 300 s)"}
+{"id":1504429,"jp":"アヴァリアンで作られる、ハチミツを使った甘くふんわりとした菓子。豊かな香りが食欲をそそり、ハイエルフにもキボにもごちそうとして愛されている。","fr":"Une pâtisserie douce et moelleuse préparée avec du miel à Avalian. Son parfum généreux ouvre l'appétit, et les Hauts Elfes comme les Kibo la considèrent comme un véritable délice."}
 {"id":1504430,"jp":"上質なハチミツパンケーキ","fr":"Pancakes au miel de qualité"}
 {"id":1504431,"jp":"チーム全体の防御力5%上昇（効果時間：325秒）","fr":"Augmente de 5 % la DÉF de toute l'équipe (durée : 325 s)"}
 {"id":1504432,"jp":"極上のハチミツパンケーキ","fr":"Pancakes au miel supérieurs"}
@@ -8879,6 +8894,7 @@
 {"id":1504685,"jp":"キボ好感度を蓄積すると、対応するキボの絆レベルを上げることができる。","fr":"Accumuler de l'affinité avec un Kibo permet d'augmenter son niveau de Lien."}
 {"id":1504686,"jp":"星啓経験値","fr":"EXP de Révélation stellaire"}
 {"id":1504687,"jp":"プロミリア大陸での活動で蓄積する星の知識。貯めることで、星識レベルを上げることができる。","fr":"Savoir des étoiles accumulé au fil des activités sur le continent de Promilia. L'accumuler permet d'augmenter le niveau de Savoir stellaire."}
+{"id":1504688,"jp":"星臨者がプロミリアを深く探索するにつれて、星啓経験値も蓄積されていく。冒険で得た星の知識のひとつひとつがまえに進むための力となる。がんばって探索しよう。","fr":"À mesure que l'Enfant des étoiles explore Promilia, sa Réserve d'EXP de révélation stellaire augmente. Chaque connaissance des étoiles acquise au cours des aventures devient une force permettant d'aller de l'avant. Poursuivez votre exploration !"}
 {"id":1504689,"jp":"記憶の海に浮かんでいた記憶の欠片。過去に生きた者たちの伝説が宿っている。キャラクターのレベルを上げるために使用する。","fr":"Fragment de souvenir flottant dans l'océan de souvenirs. Il abrite les légendes de ceux qui ont vécu jadis. Sert à augmenter le niveau d'un personnage."}
 {"id":1504690,"jp":"アニマ経験値","fr":"EXP d'Anima"}
 {"id":1504691,"jp":"キボ経験値","fr":"EXP de Kibo"}
@@ -8894,6 +8910,7 @@
 {"id":1504701,"jp":"キボとお別れすることで入手","fr":"À obtenir en faisant ses adieux à un Kibo"}
 {"id":1504702,"jp":"輝くコイン","fr":"Pièce scintillante"}
 {"id":1504703,"jp":"煌めく珍品ショップでさまざまな商品と交換できる通貨。","fr":"Monnaie échangeable contre divers articles à la Boutique des curiosités scintillantes."}
+{"id":1504704,"jp":"取引所の通貨として使われる、キラキラ光るかわいい硬貨。その輝きは、一生懸命流した汗を映し出しており、農園を耕した豊かな成果そのものである。","fr":"D'adorables pièces scintillantes servant de monnaie au Comptoir d'échange. Leur éclat reflète les efforts accomplis et représente le fruit du travail effectué à la ferme."}
 {"id":1504705,"jp":"農園の取引所で獲得","fr":"Obtenu au comptoir d'échange de la ferme"}
 {"id":1504706,"jp":"災厄の残影","fr":"Ombre du fléau"}
 {"id":1504707,"jp":"災厄の残影で報酬を受け取る際、回数消費に使用できる。","fr":"Sert à consommer des essais lors de la réception de récompenses de l'Ombre du fléau."}
@@ -8920,13 +8937,18 @@
 {"id":1504728,"jp":"幾多の冒険、生産、修練のなかで得た様々な心得。","fr":"Divers savoir-faire acquis au fil d'innombrables aventures, travaux de production et entraînements."}
 {"id":1504729,"jp":"天賦の心得をアクティブにする","fr":"Activer les savoir-faire innés"}
 {"id":1504730,"jp":"晶鍵石","fr":"Pierre-clé de cristal"}
+{"id":1504731,"jp":"危機討伐でボスを倒した際にドロップする宝物の受け取りに使用します。\n毎週月曜に5枚自動回復します。上限を超えては回復しません。週間活躍宝箱からさらに毎週5枚入手できます。\n","fr":"Permet de récupérer les trésors laissés par les boss vaincus lors de la Traque des menaces.\n5 unités sont automatiquement restaurées chaque lundi, sans dépasser la limite maximale. Le coffre d'activité hebdomadaire permet d'en obtenir 5 supplémentaires chaque semaine.\n"}
+{"id":1504732,"jp":"どこから来たのか謎めいた宝石。身につけると、変異したキボが張ったバリアを通り抜けることができ、ボスを倒した後に出現する宝箱を開けることができるという。","fr":"Une gemme mystérieuse d'origine inconnue. On raconte que son porteur peut traverser les barrières érigées par les Kibo mutants et ouvrir les coffres au trésor apparaissant après la défaite d'un boss."}
 {"id":1504733,"jp":"異彩の晶鍵石","fr":"Pierre-clé de cristal Variante"}
+{"id":1504734,"jp":"突発危機討伐でボスを倒した際にドロップする宝物の受け取りに使用します。\n毎週月曜に5枚回復します。上限を超えては回復しません。","fr":"Permet de récupérer les trésors laissés par les boss vaincus lors de la Traque d'urgence des menaces.\n5 unités sont restaurées chaque lundi, sans dépasser la limite maximale."}
+{"id":1504735,"jp":"通常の晶鍵石とは異なる輝きを放つ晶鍵石。身につけると、変異したキボが張ったバリアを通り抜けることができ、ボスを倒した後に出現する宝箱を開けることができるという。","fr":"Une pierre-clé cristalline dont l'éclat diffère de celui des pierres ordinaires. On raconte que son porteur peut traverser les barrières érigées par les Kibo mutants et ouvrir les coffres au trésor apparaissant après la défaite d'un boss."}
 {"id":1504736,"jp":"晶鍵石の欠片","fr":"Fragment de pierre-clé de cristal"}
 {"id":1504737,"jp":"危機討伐でステージ目標をクリアする、または宝箱を開けると獲得できる。危機討伐ショップで商品と交換できる。","fr":"S'obtient en remplissant les objectifs d'étape d'une Traque des menaces ou en ouvrant un coffre. Peut être échangé contre des articles à la boutique de la Traque des menaces."}
 {"id":1504738,"jp":"謎めいた宝石の欠片。変異したキボが張るバリアと特殊な共鳴を起こすことができ、精錬素材として広く需要がある。","fr":"Fragment de gemme mystérieux. Il peut entrer en résonance particulière avec la barrière que dressent les Kibo mutants, et il est très demandé comme matériau de raffinage."}
 {"id":1504739,"jp":"危機討伐報酬","fr":"Récompense de Traque des menaces"}
 {"id":1504740,"jp":"シャルル村の取引評判ポイント","fr":"Points de réputation commerciale du Village de Charlulu"}
 {"id":1504741,"jp":"対応するエリアの市場で取引を完了すると、その市場の評判ポイントを獲得できる。","fr":"En concluant une transaction sur le marché de la zone correspondante, on gagne des points de réputation de ce marché."}
+{"id":1504742,"jp":"各エリアの市場での注文と誠実な取引を通して、すこしずつ積み重ねられていく評価。誠意をもって接すれば、必ず信用が返ってくるものだ。","fr":"Une réputation qui se construit progressivement en honorant les commandes et en commerçant honnêtement sur les marchés de chaque région. La sincérité finit toujours par être récompensée par la confiance."}
 {"id":1504743,"jp":"都市国家フリスの取引評判ポイント","fr":"Points de réputation commerciale de la Cité-État de Fleece"}
 {"id":1504744,"jp":"晦冥の星砂","fr":"Sable stellaire des ténèbres"}
 {"id":1504745,"jp":"『天道の余塵』で獲得できる。天道の余塵ショップでアイテムと交換できる。","fr":"S'obtient dans les « Vestiges de la voie céleste ». Peut être échangé contre des objets à la boutique des Vestiges de la voie céleste."}
@@ -8940,6 +8962,7 @@
 {"id":1504753,"jp":"形の定まらない星屑。内部に未知なる力が見え隠れする。","fr":"Poussière d'étoiles informe. Une force inconnue transparaît à l'intérieur."}
 {"id":1504754,"jp":"装備分解","fr":"Démanteler l'équipement"}
 {"id":1504755,"jp":"地元素の微粒子","fr":"Particules élémentaires de Terre"}
+{"id":1504756,"jp":"地元素がすこし含まれている。フィールドでキボを倒すか、キボと星絆を結ぶことで入手できる。キャラクターの星祝強化や装備の製作・強化など、さまざまな用途に使用できる。","fr":"Contient une petite quantité d'élément Terre. S'obtient en vainquant des Kibo sauvages ou en formant un Lien stellaire avec eux. Sert notamment à renforcer la Bénédiction stellaire des personnages, ainsi qu'à fabriquer et renforcer des équipements."}
 {"id":1504757,"jp":"大地の元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Terre."}
 {"id":1504758,"jp":"農園-元素祭壇","fr":"Ferme - Autel élémentaire"}
 {"id":1504759,"jp":"フィールド探索で入手","fr":"Obtenu en explorant les zones"}
@@ -8955,6 +8978,7 @@
 {"id":1504769,"jp":"メイン依頼4-9","fr":"Mission principale 4-9"}
 {"id":1504770,"jp":"メイン依頼4-10","fr":"Mission principale 4-10"}
 {"id":1504771,"jp":"水元素の微粒子","fr":"Particules élémentaires d'Eau"}
+{"id":1504772,"jp":"水元素がすこし含まれている。フィールドでキボを倒すか、キボと星絆を結ぶことで入手できる。キャラクターの星祝強化や装備の製作・強化など、さまざまな用途に使用できる。","fr":"Contient une petite quantité d'élément Eau. S'obtient en vainquant des Kibo sauvages ou en formant un Lien stellaire avec eux. Sert notamment à renforcer la Bénédiction stellaire des personnages, ainsi qu'à fabriquer et renforcer des équipements."}
 {"id":1504773,"jp":"水元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Eau."}
 {"id":1504774,"jp":"メイン依頼1-2","fr":"Mission principale 1-2"}
 {"id":1504775,"jp":"メイン依頼1-5","fr":"Mission principale 1-5"}
@@ -8964,6 +8988,7 @@
 {"id":1504779,"jp":"メイン依頼4-1","fr":"Mission principale 4-1"}
 {"id":1504780,"jp":"メイン依頼4-7","fr":"Mission principale 4-7"}
 {"id":1504781,"jp":"火元素の微粒子","fr":"Particules élémentaires de Feu"}
+{"id":1504782,"jp":"火元素がすこし含まれている。フィールドでキボを倒すか、キボと星絆を結ぶことで入手できる。キャラクターの星祝強化や装備の製作・強化など、さまざまな用途に使用できる。","fr":"Contient une petite quantité d'élément Feu. S'obtient en vainquant des Kibo sauvages ou en formant un Lien stellaire avec eux. Sert notamment à renforcer la Bénédiction stellaire des personnages, ainsi qu'à fabriquer et renforcer des équipements."}
 {"id":1504783,"jp":"火元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Feu."}
 {"id":1504784,"jp":"メイン依頼1-7","fr":"Mission principale 1-7"}
 {"id":1504785,"jp":"メイン依頼2-2","fr":"Mission principale 2-2"}
@@ -8972,25 +8997,31 @@
 {"id":1504788,"jp":"メイン依頼4-3","fr":"Mission principale 4-3"}
 {"id":1504789,"jp":"メイン依頼4-8","fr":"Mission principale 4-8"}
 {"id":1504790,"jp":"風元素の微粒子","fr":"Particules élémentaires de Vent"}
+{"id":1504791,"jp":"風元素がすこし含まれている。フィールドでキボを倒すか、キボと星絆を結ぶことで入手できる。キャラクターの星祝強化や装備の製作・強化など、さまざまな用途に使用できる。","fr":"Contient une petite quantité d'élément Vent. S'obtient en vainquant des Kibo sauvages ou en formant un Lien stellaire avec eux. Sert notamment à renforcer la Bénédiction stellaire des personnages, ainsi qu'à fabriquer et renforcer des équipements."}
 {"id":1504792,"jp":"風元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Vent."}
 {"id":1504793,"jp":"メイン依頼1-4","fr":"Mission principale 1-4"}
 {"id":1504794,"jp":"メイン依頼1-8","fr":"Mission principale 1-8"}
 {"id":1504795,"jp":"メイン依頼2-5","fr":"Mission principale 2-5"}
 {"id":1504796,"jp":"氷元素の微粒子","fr":"Particules élémentaires de Glace"}
+{"id":1504797,"jp":"氷元素がすこし含まれている。フィールドでキボを倒すか、キボと星絆を結ぶことで入手できる。キャラクターの星祝強化や装備の製作・強化など、さまざまな用途に使用できる。","fr":"Contient une petite quantité d'élément Glace. S'obtient en vainquant des Kibo sauvages ou en formant un Lien stellaire avec eux. Sert notamment à renforcer la Bénédiction stellaire des personnages, ainsi qu'à fabriquer et renforcer des équipements."}
 {"id":1504798,"jp":"氷元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Glace."}
 {"id":1504799,"jp":"メイン依頼1-1","fr":"Mission principale 1-1"}
 {"id":1504800,"jp":"メイン依頼3-1","fr":"Mission principale 3-1"}
 {"id":1504801,"jp":"メイン依頼4-4","fr":"Mission principale 4-4"}
 {"id":1504802,"jp":"雷元素の微粒子","fr":"Particules élémentaires de Foudre"}
+{"id":1504803,"jp":"雷元素がすこし含まれている。フィールドでキボを倒すか、キボと星絆を結ぶことで入手できる。キャラクターの星祝強化や装備の製作・強化など、さまざまな用途に使用できる。","fr":"Contient une petite quantité d'élément Foudre. S'obtient en vainquant des Kibo sauvages ou en formant un Lien stellaire avec eux. Sert notamment à renforcer la Bénédiction stellaire des personnages, ainsi qu'à fabriquer et renforcer des équipements."}
 {"id":1504804,"jp":"雷元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Foudre."}
 {"id":1504805,"jp":"木元素の微粒子","fr":"Particules élémentaires de Bois"}
+{"id":1504806,"jp":"木元素がすこし含まれている。フィールドでキボを倒すか、キボと星絆を結ぶことで入手できる。キャラクターの星祝強化や装備の製作・強化など、さまざまな用途に使用できる。","fr":"Contient une petite quantité d'élément Bois. S'obtient en vainquant des Kibo sauvages ou en formant un Lien stellaire avec eux. Sert notamment à renforcer la Bénédiction stellaire des personnages, ainsi qu'à fabriquer et renforcer des équipements."}
 {"id":1504807,"jp":"木元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Bois."}
 {"id":1504808,"jp":"メイン依頼1-6","fr":"Mission principale 1-6"}
 {"id":1504809,"jp":"メイン依頼2-1","fr":"Mission principale 2-1"}
 {"id":1504810,"jp":"メイン依頼4-2","fr":"Mission principale 4-2"}
 {"id":1504811,"jp":"光元素の微粒子","fr":"Particules élémentaires de Lumière"}
+{"id":1504812,"jp":"光元素がすこし含まれている。フィールドでキボを倒すか、キボと星絆を結ぶことで入手できる。キャラクターの星祝強化や装備の製作・強化など、さまざまな用途に使用できる。","fr":"Contient une petite quantité d'élément Lumière. S'obtient en vainquant des Kibo sauvages ou en formant un Lien stellaire avec eux. Sert notamment à renforcer la Bénédiction stellaire des personnages, ainsi qu'à fabriquer et renforcer des équipements."}
 {"id":1504813,"jp":"光元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Lumière."}
 {"id":1504814,"jp":"闇元素の微粒子","fr":"Particules élémentaires de Ténèbres"}
+{"id":1504815,"jp":"闇元素がすこし含まれている。フィールドでキボを倒すか、キボと星絆を結ぶことで入手できる。キャラクターの星祝強化や装備の製作・強化など、さまざまな用途に使用できる。","fr":"Contient une petite quantité d'élément Ténèbres. S'obtient en vainquant des Kibo sauvages ou en formant un Lien stellaire avec eux. Sert notamment à renforcer la Bénédiction stellaire des personnages, ainsi qu'à fabriquer et renforcer des équipements."}
 {"id":1504816,"jp":"闇元素の力が集まった微粒子。","fr":"De fines particules concentrant la puissance de l'élément Ténèbres."}
 {"id":1504817,"jp":"元素の微粒子","fr":"Particules élémentaires"}
 {"id":1504818,"jp":"最も純粋な元素が凝集してできた輝く結晶体。元素が星脈に生まれ、この世界に存在することの証明である。","fr":"Cristal brillant né de la condensation des éléments les plus purs. Preuve que les éléments sont nés dans la veine stellaire et existent dans ce monde."}
@@ -9048,35 +9079,48 @@
 {"id":1504874,"jp":"幻惑の舞","fr":"La danse ensorcelante"}
 {"id":1504875,"jp":"推奨：Lv.50","fr":"Conseillé : Niv. 50"}
 {"id":1504876,"jp":"ザニア","fr":"Zania"}
+{"id":1504877,"jp":"モルフォーレが舞う姿はとても美しい。だが、それに見とれてしまったら獲物にされてしまう。\nあの舞には、まだ知られていない秘密があるはずだ。\nもし戦った者がいるなら、戦いのなかで見せた姿や動きを教えてほしい……言いたいことは、わかるだろう？","fr":"La danse de Morphore est d'une beauté remarquable. Mais quiconque se laisse fasciner devient aussitôt sa proie.\nCette danse doit receler des secrets encore inconnus.\nSi quelqu'un a déjà affronté un Morphore, j'aimerais connaître ses postures et ses mouvements au combat… Vous voyez où je veux en venir, n'est-ce pas ?"}
 {"id":1504878,"jp":"ついでに手伝いを","fr":"Un coup de main en passant"}
 {"id":1504879,"jp":"ラニ","fr":"Rani"}
+{"id":1504880,"jp":"巨樹遺跡の近くで魚の燻製に使う木材を集めようとしたのだが、森にグランザロスが出没していた。正直あれはすこし怖いから、だれか片付けを手伝ってくれないだろうか。戻ったら温かいものをごちそうするよ。","fr":"Je voulais ramasser du bois pour fumer du poisson près des ruines de l'arbre géant, mais des Granzaros rôdaient dans la forêt. À vrai dire, ils me font un peu peur. Quelqu'un pourrait-il m'aider à les éloigner ? À votre retour, je vous offrirai un bon plat chaud."}
 {"id":1504881,"jp":"ラーガの王座争い","fr":"La lutte pour le trône des Raga"}
 {"id":1504882,"jp":"ソール","fr":"Sol"}
 {"id":1504884,"jp":"絶好のチャンス","fr":"Une occasion en or"}
 {"id":1504885,"jp":"サトゥル","fr":"Satur"}
+{"id":1504886,"jp":"竜人遺跡の奥にめずらしいキボが現れたらしいの。これって、薬の素材を集める絶好の機会よね？\nすこし危険だとは思うけど、あなたならどうにかできるはずよ。","fr":"Il paraît qu'un Kibo Rare est apparu dans les profondeurs des ruines des Draconiens. N'est-ce pas l'occasion idéale de collecter des ingrédients médicinaux ?\nCela risque d'être un peu dangereux, mais je suis certaine que tu sauras t'en sortir."}
 {"id":1504887,"jp":"うっかり迷い込んで","fr":"Un détour malencontreux"}
 {"id":1504888,"jp":"クオウ","fr":"Kuo"}
+{"id":1504889,"jp":"壁を乗り越えて遺跡で遊ぼうとしただけなのに、うっかりトカゲの巣に足を踏み入れてしまった！トリマンダにずっと追いかけられるし、上空からはスカイホークが見張られてるし！いま、遺跡のなかは混乱状態だ。事態が大きくなる前に、だれか助けてくれ！！！","fr":"Je voulais juste escalader le mur pour aller jouer dans les ruines, mais j'ai accidentellement pénétré dans un nid de lézards ! Un Trimanda n'arrête pas de me poursuivre et un Skyhawk me surveille depuis les airs ! C'est le chaos dans les ruines. Que quelqu'un vienne m'aider avant que la situation ne s'aggrave !"}
 {"id":1504890,"jp":"新人の初仕事","fr":"Le premier travail d'une recrue"}
 {"id":1504891,"jp":"推奨：Lv.60","fr":"Conseillé : Niv. 60"}
 {"id":1504892,"jp":"ノオミ","fr":"Noomi"}
+{"id":1504893,"jp":"確認した状況を報告する。地下遺跡の入口から主要通路一帯にかけて、蝶型のキボが多すぎる。視界の邪魔になるほどだ。\nできれば、私も討伐に同行したい！","fr":"Rapport sur la situation constatée : de l'entrée des ruines souterraines jusqu'aux principaux passages, les Kibo de type papillon sont beaucoup trop nombreux. Ils obstruent même la visibilité.\nSi possible, j'aimerais également participer à leur élimination !"}
 {"id":1504894,"jp":"ハンマーが！！！","fr":"Mon marteau !!!"}
 {"id":1504895,"jp":"モモ","fr":"Momo"}
+{"id":1504896,"jp":"巨樹遺跡へ木炭を取りにいって、袋を担ぎ上げた途端、ハーチャが飛びかかってきてハンマーを奪われた！追いかけたくても追いつけないんだ！でも、なかは危険だからと、ひとりで探しに行くのを師匠に止められてしまった……だれか助けて！","fr":"Je suis allé chercher du charbon de bois dans les ruines de l'arbre géant. À peine avais-je soulevé mon sac qu'un Harcha m'a bondi dessus et m'a volé mon marteau ! Impossible de le rattraper ! Mon maître m'interdit d'aller le chercher seul, car l'endroit est dangereux… Que quelqu'un m'aide !"}
 {"id":1504897,"jp":"軽く脅すだけでいい","fr":"Juste une petite frayeur"}
 {"id":1504898,"jp":"カイエ","fr":"Kaie"}
+{"id":1504899,"jp":"イノシシたちは、もともと子どもを守りたかっただけなんだろう。だが、数がどんどん増えている。このままじゃ、誰かが怪我しかねない。\nすこし脅かして、遠ざけるだけでいいのだが、頼めないだろうか？","fr":"À l'origine, ces sangliers cherchaient probablement seulement à protéger leurs petits. Mais ils sont de plus en plus nombreux. À ce rythme, quelqu'un risque de se blesser.\nIl suffirait de les effrayer un peu pour les éloigner. Pourriez-vous vous en charger ?"}
 {"id":1504900,"jp":"好機を掴め","fr":"Saisir l'occasion"}
+{"id":1504901,"jp":"いま新薬の開発に取り組んでるんだが、レアな素材が必要でね。で、それは竜人遺跡の奥で活動するキボから入手できるんだ。\n君はあのキボに対抗できる力があると思うから、代わりに集めてきてくれると助かる。頼りにしてる、ありがとう。","fr":"Je travaille actuellement sur un nouveau remède qui nécessite un matériau Rare. On peut l'obtenir auprès des Kibo vivant dans les profondeurs des ruines des Draconiens.\nJe pense que tu as la force nécessaire pour les affronter. Cela m'aiderait beaucoup si tu pouvais en collecter à ma place. Je compte sur toi, merci."}
 {"id":1504902,"jp":"行ってみたいな","fr":"J'aimerais bien y aller"}
 {"id":1504903,"jp":"ノーマ","fr":"Norma"}
 {"id":1504905,"jp":"まともな獲物","fr":"Une vraie proie"}
 {"id":1504906,"jp":"推奨：Lv.70","fr":"Conseillé : Niv. 70"}
 {"id":1504907,"jp":"バルロン","fr":"Barlon"}
+{"id":1504908,"jp":"巨樹遺跡周辺のキボたちが最近すこし騒がしい。すでに偵察は済んでいる。獲物は凶暴で、準備運動にはもってこいだ。本当の腕前を見たいなら、ついてこい。","fr":"Les Kibo des environs des ruines de l'arbre géant sont quelque peu agités ces derniers temps. La reconnaissance est déjà terminée. Ces proies sont féroces, parfaites pour un échauffement. Si tu veux voir de quoi je suis réellement capable, suis-moi."}
 {"id":1504909,"jp":"偵察","fr":"Reconnaissance"}
 {"id":1504910,"jp":"ロンク","fr":"Ronk"}
+{"id":1504911,"jp":"遺跡の前は草木が密集していて、センザロとトリマンダが頻繁に活動し、上空にはスカイホークが飛んでいて、すでに常用路に影響が出ているの……依頼の目標は常用路の安全確保。深追いはしないでね。","fr":"La végétation est dense devant les ruines. Les Senzaro et les Trimanda y sont très actifs, tandis que des Skyhawk survolent les lieux. Cela perturbe déjà les déplacements sur la route habituelle… L'objectif de cette Mission est de sécuriser le passage. Ne poursuivez pas les Kibo trop loin."}
 {"id":1504912,"jp":"……何匹か残してくれない？","fr":"… On pourrait en laisser quelques-uns ?"}
 {"id":1504913,"jp":"タミ","fr":"Tami"}
+{"id":1504914,"jp":"……あの蝶のキボの羽の粉がキノコに落ちると、とてもきれいな色になるんだ。キノコを採ろうと思ったけど、キボが多すぎて近づけない。すこし追い払ってくれたら、つぎに来たときこっそり割引してあげるよ。","fr":"… Lorsque la poudre des ailes de ces Kibo papillons tombe sur les champignons, ceux-ci prennent de magnifiques couleurs. Je voulais en ramasser, mais les Kibo sont trop nombreux pour que je puisse m'approcher. Si tu en éloignes quelques-uns, je t'accorderai discrètement une réduction lors de ta prochaine visite."}
 {"id":1504915,"jp":"訓練の邪魔","fr":"Entraînement perturbé"}
 {"id":1504916,"jp":"パルカ","fr":"Parka"}
+{"id":1504917,"jp":"パルカ：巨鷹の浮島でフレイムラーガが暴れているの。驚いた鳥類のキボが、鷹の訓練を邪魔しているわ。命令を実行できる戦闘人員が必要よ。急いで、足を引っ張らないでね。","fr":"Parka : Un Flameraga sème le chaos sur l'île flottante du faucon géant. Les Kibo aviaires, effrayés, perturbent l'entraînement des faucons. J'ai besoin de combattants capables d'exécuter les ordres. Dépêchez-vous et ne nous ralentissez pas."}
 {"id":1504918,"jp":"勝手に走り回るな","fr":"Interdit de courir partout"}
 {"id":1504919,"jp":"ハプ","fr":"Hapu"}
+{"id":1504920,"jp":"島のイノシシどもめ、岸辺を掘り返して泥だらけにしやがって！おまけに子どもたちまで騒ぎを見に行っている始末だ。みっともない！\nだれか行って、あいつらをさっさと片付けてこい！","fr":"Maudits sangliers de l'île ! Ils ont retourné tout le rivage et l'ont transformé en bourbier ! Et voilà que les enfants vont même assister à ce vacarme. Quelle honte !\nQue quelqu'un aille immédiatement débarrasser les lieux de ces bestioles !"}
 {"id":1504921,"jp":"せっかくの機会","fr":"Une occasion à saisir"}
 {"id":1504922,"jp":"アヒ","fr":"Ahi"}
 {"id":1504924,"jp":"光が眩しすぎる","fr":"Une lumière trop éblouissante"}
@@ -9086,32 +9130,49 @@
 {"id":1504928,"jp":"『「<ruby=スターリンク>星絆</ruby>」の手引き』という本を読んだんだけど、『キボファイト』をするとキボと絆を結びやすくなる、って書いてあったんだ。","fr":"J'ai lu un livre intitulé « Guide du Lien stellaire », et il disait qu'en faisant des « Duels de Kibo », on se lie plus facilement avec les Kibo."}
 {"id":1504929,"jp":"ちょっと笑っただけで","fr":"J'ai juste ri un peu"}
 {"id":1504931,"jp":"静かに処理する","fr":"Régler ça en silence"}
+{"id":1504932,"jp":"パルカ：ハイエルフの森。シードロの暴動でハルシィが怯えてしまい、地上と空の感知が乱れているの。これ以上、鷹を放つのは危険よ。\n冷静かつ堅実で、命令に従える者に場を制圧してほしいわ。できないなら受注しないでね。","fr":"Parka : Dans la forêt des Hauts Elfes, l'agitation des Seedro a effrayé les Halcy, perturbant la surveillance terrestre et aérienne. Il serait dangereux de lâcher davantage de faucons.\nJe recherche quelqu'un de calme, de fiable et capable de suivre les ordres pour reprendre le contrôle des lieux. Dans le cas contraire, n'acceptez pas cette Mission."}
 {"id":1504933,"jp":"遺跡周辺の掃討","fr":"Nettoyage des abords des ruines"}
 {"id":1504934,"jp":"推奨：Lv.80","fr":"Conseillé : Niv. 80"}
+{"id":1504935,"jp":"巡回記録。巨樹遺跡の外周に大量のキボが留まっている。さらに、スパイトホーンが低空を飛んでいるという記録もある。\nすでに採集クエストの妨げになっているため、討伐者による掃討が必要だ。至急対応を頼む。","fr":"Rapport de patrouille : un grand nombre de Kibo stationnent aux abords des ruines de l'arbre géant. Un Spitehorn volant à basse altitude a également été signalé.\nLes missions de collecte sont déjà perturbées. Une opération de nettoyage est nécessaire. Intervention urgente demandée."}
 {"id":1504936,"jp":"ついでに香草を","fr":"Des herbes aromatiques en passant"}
+{"id":1504937,"jp":"遺跡の周辺で、魚料理に使う香草を摘むつもりだったんだ。だが、ギガンシャウラとセンザロに道を塞がれてしまった。\nどうか退治に手を貸してほしい。戻ってきたら、みんなに魚のスープを振る舞おう。","fr":"Je comptais cueillir des herbes aromatiques pour mes plats de poisson aux alentours des ruines. Mais un Giganshaura et un Senzaro m'ont barré la route.\nJe vous en prie, aidez-moi à les éloigner. À mon retour, j'offrirai à tout le monde une bonne soupe de poisson."}
 {"id":1504938,"jp":"蝶で肩慣らし","fr":"Échauffement avec des papillons"}
 {"id":1504939,"jp":"レイヴァ","fr":"Reiva"}
+{"id":1504940,"jp":"地下遺跡にいる蝶のキボは、ふわふわしているように見えてもしつこさだけは一流だ。ちょうど腕が鳴っていたところなんで、だれか勝負しないか？どっちがはやく、正確に片付けられるか。賭けてもいい、今度こそ絶対にこっちが勝つ！","fr":"Les Kibo papillons des ruines souterraines ont beau paraître tout doux, ils sont incroyablement tenaces. Ça tombe bien, j'avais envie de me dégourdir les bras ! Quelqu'un veut relever mon défi ? Voyons qui les éliminera le plus rapidement et avec le plus de précision. Je parie que cette fois, la victoire sera à moi !"}
 {"id":1504941,"jp":"熱すぎる、でも食べたい","fr":"C'est trop chaud, mais j'ai envie d'y goûter"}
 {"id":1504942,"jp":"ミドゥ","fr":"Midu"}
+{"id":1504943,"jp":"浮島には、火を吹くキボが焼いた果物があるって本当？すごく食べてみたいけど、あいつらは本当に火を吹くからすごく怖いんだよね。というわけで、火を吹くキボを遠くへ追い払ってくれないかな？","fr":"C'est vrai qu'il y a des fruits grillés par des Kibo cracheurs de feu sur l'île flottante ? J'aimerais tellement y goûter, mais ils crachent vraiment du feu et ça me fait très peur. Quelqu'un pourrait-il les chasser suffisamment loin ?"}
 {"id":1504944,"jp":"海草を拾うつもりだったのに","fr":"Je voulais juste ramasser des algues"}
+{"id":1504945,"jp":"……島の海辺へ、魚のスープに合う海草を拾いに行きたかったんだ。でも、イノシシの群れに道を塞がれてしまった。\n片づけてくれたら、こっそり値引きしてあげよう。","fr":"… Je voulais ramasser des algues sur le littoral de l'île pour accompagner ma soupe de poisson. Malheureusement, un troupeau de sangliers m'a barré la route.\nSi tu dégages le passage, je t'accorderai discrètement une réduction."}
 {"id":1504946,"jp":"あとで恨むなよ！","fr":"Ne viens pas te plaindre après !"}
+{"id":1504947,"jp":"いいか、よく聞くんだ！竜人遺跡は子どもがむやみに立ち入っていい場所ではない！ミステルフやダルクがあそこをうろついている。さっさと片付けないといずれ大事になるぞ！至急、数名で対処に向かえ！","fr":"Écoutez-moi bien ! Les ruines des Draconiens ne sont pas un endroit où les enfants peuvent s'aventurer imprudemment ! Des Mistelf et des Darc y rôdent. Si nous ne réglons pas rapidement le problème, cela finira mal ! Envoyez immédiatement quelques personnes s'en occuper !"}
 {"id":1504948,"jp":"シャドウブレイズの悪影響","fr":"La mauvaise influence de Shadowblaze"}
+{"id":1504949,"jp":"あのオオカミ型のキボたちは元々おとなしかったが、シャドウブレイズが現れたあとから暴れだしたんだ。\n討伐するなら、まずはあの凶獣を倒してくれ。罪のないキボは傷つけないでほしい。よろしく頼む。","fr":"Ces Kibo ressemblant à des loups étaient autrefois dociles, mais ils sont devenus violents depuis l'apparition de Shadowblaze.\nSi vous intervenez, terrassez d'abord cette Bête maudite. Je vous en prie, ne blessez pas les Kibo innocents. Je compte sur vous."}
 {"id":1504950,"jp":"せっかくの陽気が台無し","fr":"Quel gâchis par un si beau temps"}
 {"id":1504952,"jp":"なんどでも立ち上がる","fr":"Se relever encore et encore"}
 {"id":1504954,"jp":"あまり驚かせるな","fr":"Pas trop de frayeurs"}
+{"id":1504955,"jp":"ハイエルフの森の環境に問題が発生している。\n豊穣の女神の活動範囲が拡大しているため、討伐は慎重に行うこと。目的はルートの復旧であり、騒ぎを大きくすることではない。腕の立つ者を求む。報酬ははずむ。","fr":"Des perturbations environnementales ont été constatées dans la forêt des Hauts Elfes.\nLa zone d'activité de la déesse de l'abondance s'étend. Toute intervention doit donc être menée avec prudence. L'objectif est de rétablir le passage, non d'aggraver les troubles. Combattants expérimentés recherchés. Récompense généreuse."}
 {"id":1504956,"jp":"桟橋が壊れた","fr":"La jetée est cassée"}
+{"id":1504957,"jp":"今朝、網を上げて島へ戻ってきたときのことだ。船を寄せようとしたら、船着き場が全部イノシシどもに荒らされていた。\nみんなに迷惑をかけるのは気が引けるが、もしあのキボたちを片付けてくれるなら、今日獲れたての魚をご馳走しよう。","fr":"Ce matin, après avoir remonté mes filets, je suis revenu sur l'île. En voulant accoster, j'ai découvert que les sangliers avaient complètement saccagé l'embarcadère.\nCela m'ennuie de déranger tout le monde, mais si vous éloignez ces Kibo, je vous offrirai du poisson fraîchement pêché aujourd'hui."}
 {"id":1504958,"jp":"ピカピカ光る","fr":"Ça scintille"}
 {"id":1504959,"jp":"ウゾン","fr":"Uzon"}
 {"id":1504961,"jp":"ゴロゴロ響く","fr":"Ça gronde"}
 {"id":1504963,"jp":"ぶたさん、ぶつからないで","fr":"Petits cochons, ne me bousculez pas"}
 {"id":1504964,"jp":"リナ","fr":"Rina"}
+{"id":1504965,"jp":"助けて～！きれいな石や貝殻を拾いに島へ行こうとしたら、子ブタたちがわーっと飛び出してきて、海に突き落とされそうになったんだ。貝殻も全部踏みつぶされちゃったし！\nはやくあの子ブタたちを追い払って！","fr":"Au secours ! Je voulais aller sur l'île ramasser de jolies pierres et des coquillages, mais une bande de petits cochons a surgi et a failli me pousser dans la mer. Ils ont même écrasé tous mes coquillages !\nVite, chassez ces petits cochons !"}
 {"id":1504966,"jp":"実はこっちから手を出した","fr":"En fait, c'est moi qui ai commencé"}
+{"id":1504967,"jp":"枝であの猪たちをちょっとつついて遊んでただけなんだよ。まさかいまもまだ根に持っていて、島に集まって居座るなんて思ってもみなかった。\nとにかく、道を片付けてくれないか？僕の……じゃなくて、みんなのために。","fr":"Je m'amusais simplement à taquiner ces sangliers avec une branche. Je n'aurais jamais imaginé qu'ils m'en voudraient encore au point de se rassembler sur l'île et de refuser d'en partir.\nEnfin, quelqu'un pourrait-il dégager le passage ? Pour moi… Enfin, pour le bien de tout le monde."}
 {"id":1504968,"jp":"こいつらで準備運動だ","fr":"Échauffement sur ces bestioles"}
+{"id":1504969,"jp":"最近、島のボアラーガどもがずいぶん調子に乗ってるみたいだな。ちょうど腕がうずいてたところだし、だれか俺と勝負しないか？どっちが先に一番多くぶっ倒せるか、競争だ！賭けてもいいぜ、勝つのは絶対に俺だ！","fr":"Les Boaraga de l'île semblent vraiment prendre la grosse tête ces derniers temps. Ça tombe bien, j'ai les poings qui me démangent ! Quelqu'un veut m'affronter ? Voyons qui pourra en terrasser le plus rapidement ! Je suis prêt à parier que je gagnerai !"}
 {"id":1504970,"jp":"緊急の懸賞","fr":"Prime urgente"}
+{"id":1504971,"jp":"地下遺跡に危険なキボが現れました！突然、そいつらが通りすがりの村民を襲ったんですよ！\nこんなのひどすぎますよ、なんとかしてこらしめてやらなければ！\n約束します、もしこの依頼をやり遂げてくれたら報酬はしっかりお渡しします！","fr":"Des Kibo dangereux sont apparus dans les ruines souterraines ! Ils ont soudainement attaqué des villageois qui passaient par là !\nC'est inadmissible, il faut absolument leur donner une leçon !\nJe vous le promets, si vous accomplissez cette Mission, vous serez généreusement récompensés !"}
 {"id":1504972,"jp":"まずは蝶の群れを追い払おう","fr":"Chassons d'abord les papillons"}
 {"id":1504973,"jp":"ラクシャ","fr":"Raksha"}
+{"id":1504974,"jp":"地下遺跡に大量のハルシィが出現し、主要な通路が塞がれはじめている。放っておけば、民兵隊の巡回に影響が出るだろう。腕に自信のある者は駆除に向かってほしい。\n追記：鱗粉アレルギーがある者は、この依頼を受けないように。","fr":"De nombreux Halcy sont apparus dans les ruines souterraines et commencent à obstruer les principaux passages. Sans intervention, les patrouilles de la milice risquent d'être perturbées. Les personnes confiantes en leurs capacités sont invitées à les éliminer.\nP.-S. : Les personnes allergiques à la poudre d'ailes ne doivent pas accepter cette Mission."}
 {"id":1504975,"jp":"風と舞う","fr":"Danser avec le vent"}
 {"id":1504977,"jp":"光が集まっている","fr":"La lumière se rassemble"}
+{"id":1504978,"jp":"追加報告。遺跡の隙間から差し込む光が集まる場所に、蝶型のキボが群がっている。\nそのせいで視界が悪くなり、通行に支障が出ている。チームを編成し、区画ごとに排除することを勧める。","fr":"Rapport complémentaire : des Kibo de type papillon se rassemblent aux endroits où convergent les rayons de lumière traversant les fissures des ruines.\nCela réduit la visibilité et entrave la circulation. Il est recommandé de former des équipes et de dégager les passages secteur par secteur."}
+{"id":1504979,"jp":"もう！またモルフォーレにからかわれた！今回は鉱石もハンマーも持ち帰れなかった。本当に腹が立つ！！星臨者さまはとても強いのでしょう。どうか助けてほしい！あのモルフォーレめ、本当に憎たらしい！","fr":"Mais enfin ! Morphore s'est encore joué de moi ! Cette fois, je n'ai pu rapporter ni minerai ni marteau. Ça m'énerve tellement ! L'Enfant des étoiles possède une grande force, n'est-ce pas ? Je vous en prie, aidez-moi ! Ce Morphore est vraiment insupportable !"}
 {"id":1504980,"jp":"目標確認完了","fr":"Cible confirmée"}
 {"id":1504981,"jp":"夜のモルフォーレはまばゆすぎる。目標は確認ずみだ。応援を求む。","fr":"Le Morphore est trop éblouissant la nuit. Cible confirmée. Renforts demandés."}
 {"id":1504982,"jp":"難易度1","fr":"Difficulté 1"}
@@ -9224,43 +9285,163 @@
 {"id":1505094,"jp":"闇属性","fr":"Ténèbres"}
 {"id":1505095,"jp":"闇","fr":"Ténèbres"}
 {"id":1505096,"jp":"無属性","fr":"Neutre"}
+{"id":1505097,"jp":"群れで行動する習性があるキボ。がっしりとした体格で、気配を消すのが得意。『一家の長』になれた者だけが、ほかのシュネルフを従わせる資格を得る。","fr":"Un Kibo habitué à vivre et à se déplacer en meute. De constitution robuste, il excelle dans l'art de dissimuler sa présence. Seuls les individus devenus « chefs de famille » obtiennent le droit de commander aux autres Schnelf."}
+{"id":1505098,"jp":"葉野菜によく似たトサカを持つ。驚くとトサカが取れてしまうこともあるが、すぐに成長して元通り。トサカはただの飾りではなく緊急時の大事な逃走手段でもあり、高速で回転することで空を飛ぶこともできる。","fr":"Sa crête ressemble étrangement à un légume à feuilles. Lorsqu'il est surpris, elle peut se détacher, mais elle repousse rapidement. Loin d'être un simple ornement, cette crête constitue un précieux moyen de fuite en cas de danger : en la faisant tourner à grande vitesse, il peut même s'envoler."}
+{"id":1505101,"jp":"水のある環境を好んでふわふわと浮いており、湖や渓流、雨水に溶け込もうとする。結果的に失敗してしまうが、なんどでも健気に挑戦を続けている。","fr":"Il affectionne les milieux aquatiques et flotte légèrement dans les airs, tentant de se fondre dans les lacs, les ruisseaux ou l'eau de pluie. Malgré ses échecs systématiques, il poursuit courageusement ses tentatives, encore et encore."}
 {"id":1505102,"jp":"レインエルは水を操るのが得意。あらゆる液体と親和性が高く、手足のように水流を操って象ることができる。","fr":"Rainel excelle à manier l'eau. Il a une grande affinité avec tous les liquides et modèle les flux d'eau comme ses propres membres."}
+{"id":1505103,"jp":"タイダレストはある意味では、水の意志の化身ともいえる。強大な力を手に入れたタイダレストだが、温厚なところは変わっておらず、性質は優しく和やかな雰囲気を好む。","fr":"Tidalest peut, en un sens, être considéré comme l'incarnation de la volonté de l'eau. Malgré l'immense puissance qu'il a acquise, sa nature paisible demeure inchangée. Doux et bienveillant, il affectionne les atmosphères sereines."}
 {"id":1505104,"jp":"活動的で好奇心が強く、にぎやかな雰囲気が好き。怒っているように見えるが、実際はそれほどでもない。","fr":"Actif et curieux, il aime l'ambiance animée. Il a l'air en colère, mais ce n'est pas vraiment le cas."}
 {"id":1505105,"jp":"炎を放ち、自身と周辺環境の温度をコントロールすることができるが、まだ慣れていないため、温度は不規則に変化してしまう。","fr":"Il crache des flammes et peut maîtriser sa propre température et celle de son environnement, mais comme il n'y est pas encore habitué, la température varie de façon irrégulière."}
+{"id":1505106,"jp":"イグネストはある意味では、火の意志の化身とも言える。その炎は永遠に尽きることはない。性格はより激しく執拗になり、ひとたび衝突すれば、徹底的に戦う覚悟が必要だ。","fr":"Ignest peut, en un sens, être considéré comme l'incarnation de la volonté du feu. Ses flammes ne s'éteignent jamais. Son tempérament est devenu plus fougueux et tenace. Quiconque l'affronte doit être prêt à mener le combat jusqu'au bout."}
 {"id":1505107,"jp":"ダルク","fr":"Darc"}
+{"id":1505108,"jp":"個体としては弱いが、とにかく数が多い凶獣。群れで行動し、知性はなく、まるで敵の体力を削ぐことが存在意義であるかのように動く。なぜこれほど弱い敵が数え切れないほど駆逐されながらも絶滅しないのか、真剣に考えたことのある者はほとんどいないようだ。","fr":"Une Bête maudite individuellement faible, mais présente en très grand nombre. Dépourvue d'intelligence, elle se déplace en groupe, comme si son unique raison d'être était d'épuiser ses ennemis. Rares sont ceux qui se sont véritablement demandé pourquoi des créatures aussi faibles ne disparaissent jamais, malgré les innombrables individus éliminés."}
+{"id":1505109,"jp":"ツーモは周囲の世界を知り、冒険することに憧れており、その目には好奇心の光がきらきらと輝いている。生まれつき植物との親和性が高く、植物に触れることで生育状況を把握し、必要とするものや状態を判断しながら交流することができる。","fr":"Tsumo rêve de découvrir le monde qui l'entoure et de partir à l'aventure. Ses yeux pétillent de curiosité. Naturellement proche des plantes, il peut comprendre leur croissance en les touchant, déterminer leurs besoins et leur état, et ainsi communiquer avec elles."}
+{"id":1505110,"jp":"多芸で優雅なツリィフは頭に薄い黄色の花があり、手にはいつも蔓の竪琴を持っている。性格は朗らかかつ友好的で、美しい竪琴の音を奏で、周囲の生きものとの交流を好む。天気がよい日は心地よい音を奏でながら森を散歩するのがお気に入り。","fr":"Polyvalent et élégant, Treeff arbore une fleur jaune pâle sur la tête et tient toujours une lyre faite de lianes. D'un tempérament joyeux et amical, il joue de magnifiques mélodies et apprécie la compagnie des créatures qui l'entourent. Par beau temps, il aime particulièrement se promener en forêt en jouant des airs apaisants."}
+{"id":1505112,"jp":"アイロのしっぽは硬い玉に包まれている。一般的に両脚で立って歩き、性格は従順。しかし、尾にあるハンマーは後々同族と戦うときに重要な武器となり、この段階でも破壊力は侮れない。","fr":"La queue d'Airo est enveloppée d'une sphère solide. Il se déplace généralement sur deux pattes et possède un tempérament docile. Cependant, le marteau situé à l'extrémité de sa queue deviendra une arme essentielle lors de futurs affrontements avec ses congénères. Même à ce stade, sa puissance destructrice ne doit pas être sous-estimée."}
+{"id":1505113,"jp":"トリマンダの体には三角錐のような硬い拳が備わっている。その姿はとても威圧的で、並外れた戦闘力を持ち、硬い外殻が攻守を兼ね備える。敵に回せば厄介だが、味方になればとても頼もしい。","fr":"Trimanda possède de solides poings en forme de pyramides triangulaires. Son apparence intimidante s'accompagne d'une puissance de combat exceptionnelle, et sa carapace rigide lui sert aussi bien à attaquer qu'à se défendre. Redoutable comme ennemi, il constitue un allié particulièrement fiable."}
+{"id":1505114,"jp":"ギガンシャウラはその威圧的な見た目どおり、非常に強力な攻撃力と防御力を兼ね備え、本能的に戦いを好む。彼らにとって戦うことは争いを解決する手段であると同時に、コミュニケーションや遊びでもある。","fr":"À l'image de son apparence intimidante, Giganshaura possède une ATQ et une DÉF extrêmement élevées. Il éprouve un goût instinctif pour le combat. Pour ces Kibo, se battre est autant un moyen de résoudre les différends qu'une forme de communication et de divertissement."}
 {"id":1505115,"jp":"古のキボ『翼竜』に属する。賢く、勘が鋭い。乾燥した場所を好み、縄張りに入ってきた水属性のキボを追い出そうとする。","fr":"Appartient à l'ancien Kibo « Wyvern ». Intelligent et perspicace. Il aime les endroits secs et tente de chasser les Kibo d'Eau qui entrent sur son territoire."}
 {"id":1505116,"jp":"ミステルフ","fr":"Mistelf"}
+{"id":1505117,"jp":"不可逆な侵蝕を受け、凶獣となってしまったシュネルフ。本能がわずかに残っており、かつての行動パターンに沿って動くこともある。だが、生命の在り方はすっかり変わってしまっており、まともな生物として扱うことはできない。","fr":"Un Schnelf ayant subi une érosion irréversible et devenu une Bête maudite. Quelques vestiges de ses instincts subsistent, si bien qu'il reproduit parfois ses anciens comportements. Cependant, sa nature même a profondément changé et il ne peut plus être considéré comme une créature vivante ordinaire."}
+{"id":1505118,"jp":"しっぽに小さな火が灯るかわいらしい子羊。フラーメの毛は貴重かつ実用的な紡織素材だ。ほんのすこしフラーメの羊毛を加えるだけで服や毛布の保温性は格段に向上する。","fr":"Un adorable agneau dont la queue porte une petite flamme. La laine de Flame est un matériau textile précieux et particulièrement pratique. Il suffit d'en ajouter une petite quantité pour améliorer considérablement les propriétés isolantes des vêtements et des couvertures."}
+{"id":1505119,"jp":"硬い角と蹄を持つたくましいキボ。切り立った山脈も、平地のように軽々と走ることができる。飼い慣らしたイグニープと一緒なら、手強い敵にも挑戦できるだろう。","fr":"Un Kibo robuste doté de cornes et de sabots résistants. Il parcourt les chaînes montagneuses les plus escarpées avec autant d'aisance que les plaines. Aux côtés d'un Igneep apprivoisé, il est possible d'affronter des adversaires particulièrement redoutables."}
+{"id":1505120,"jp":"勇ましく湾曲した巨大な角と、体躯を覆う濃密な体毛が特徴のキボ。その身に燃え盛る激しい炎は、火属性の星脈エネルギーが顕現したもの。訓練すれば出力を調整できるようになり、大規模な被害も起こさなくなる。","fr":"Un Kibo caractérisé par ses imposantes cornes recourbées et l'épaisse fourrure qui recouvre son corps. Les flammes ardentes qui l'enveloppent sont une manifestation de l'Énergie de Feu des veines stellaires. Avec de l'entraînement, il peut apprendre à maîtriser leur intensité et éviter de provoquer des dégâts considérables."}
+{"id":1505121,"jp":"ハルウは眠るのが大好きで、一日のほとんどを眠って過ごしている。森のあらゆるものに純粋な好奇心を持っており、普段はとても静かでおとなしい。だが、眠っているところを邪魔されると非常に機嫌が悪くなり、攻撃性を露わにする。","fr":"Haru adore dormir et passe la majeure partie de ses journées à sommeiller. Animé d'une curiosité innocente pour tout ce qui peuple la forêt, il est généralement très calme et docile. Toutefois, si son sommeil est interrompu, il devient particulièrement irritable et révèle son côté agressif."}
+{"id":1505124,"jp":"ロッコロの体表はとても硬い。頭部の甲殻は盾のような形になっており、全身からはトゲが突き出している。夜行性で、攻撃されるとその場で丸まって防御するため、相手は手出しができなくなる。窮地に立たされると、ロッコロはその硬い体で敵に体当たりする。","fr":"Le corps de Rokkoro est recouvert d'une enveloppe extrêmement résistante. Sa carapace crânienne rappelle un bouclier, tandis que des épines hérissent tout son corps. Ce Kibo nocturne se roule en boule lorsqu'il est attaqué, rendant toute offensive ennemie vaine. Acculé, il utilise son corps robuste pour percuter ses adversaires."}
+{"id":1505125,"jp":"センザロは角と甲殻がより硬くなり、基本的な物理攻撃だけでなく、一部の魔法攻撃も防ぐことができる。このため、さまざまな過酷な気候のもとで生存することが可能になった。\nその名のとおり、センザロの鋭い角と硬い爪は、敵の防御をやすやすと貫く。","fr":"Les cornes et la carapace de Senzaro sont devenues encore plus résistantes, lui permettant de repousser les attaques physiques ordinaires ainsi que certaines attaques magiques. Il peut ainsi survivre sous des climats particulièrement rudes.\nComme son nom le laisse entendre, ses cornes acérées et ses griffes solides transpercent aisément les défenses ennemies."}
+{"id":1505126,"jp":"グランザロスは宝探しの能力に極めて優れ、地中の貴金属や貴重な宝石を掘り出すことができる。飼いならして友情を築ければ、思いがけない富を手にできるかもしれない。ただし時には探し求める宝物が、単に興味を惹かれただけのガラクタにすぎないこともある。","fr":"Granzaros possède un talent exceptionnel pour la chasse au trésor et peut déterrer des métaux précieux ainsi que des gemmes de grande valeur. Apprivoisez-le et gagnez son amitié, et vous pourriez découvrir des richesses insoupçonnées. Toutefois, les trésors qu'il convoite ne sont parfois que de vieilles babioles ayant attiré son attention."}
+{"id":1505127,"jp":"幻想的で優雅な竜族で、ウッドエルフとは非常に親密な関係。\n竜族の血筋ゆえ、キボだけでなく一部の知的種族でさえもアズドラーンを前にすると、本能的に畏敬の念を抱く。","fr":"Une créature féerique et élégante appartenant au Clan des dragons, entretenant des relations particulièrement étroites avec les Elfes des bois.\nEn raison de sa Lignée draconique, les Kibo et même certains peuples doués d'intelligence éprouvent instinctivement une profonde révérence en présence d'Azdrahn."}
+{"id":1505128,"jp":"葉野菜そっくりなキボ。土中で過ごすことを好み、穏やかな性格をしている。怒るとぶつかってくることもあるが、殺傷力は皆無だ。キャベッコの野菜の部分は本体から切り離すことができない。無理に引き剥がすと、二度と目覚めなくなってしまうという。","fr":"Un Kibo ressemblant à s'y méprendre à un légume à feuilles. D'un tempérament paisible, il aime passer son temps sous terre. Il peut donner des coups de corps lorsqu'il est en colère, mais ceux-ci sont totalement inoffensifs. La partie végétale de Cabbeco est indissociable de son corps. On raconte que si elle est arrachée de force, il ne se réveillera jamais."}
+{"id":1505129,"jp":"チョノコはかわいらしい見た目をしていて、攻撃性はない。だが、かわいいチョノコを見かけたからといって、軽はずみな行動は慎むべきだ。そばではボアラーガの大軍がチョノコの安全を見守っているかもしれない。","fr":"Chonoko possède une apparence adorable et ne manifeste aucune agressivité. Cependant, il convient de ne pas agir imprudemment à la vue d'un adorable Chonoko. Un immense troupeau de Boaraga pourrait se trouver à proximité pour veiller sur sa sécurité."}
 {"id":1505130,"jp":"ディーガルム","fr":"Deegarm"}
+{"id":1505131,"jp":"侵蝕されるまえは群れのリーダーだった個体。凶獣化してからもミステルフを率いて、狂気の狩りを続けている。ディーガルムはよく、一体のミステルフを尖兵として偵察と敵を誘き寄せるエサに使い、物陰に隠れて奇襲のタイミングを伺う。","fr":"Cet individu dirigeait sa meute avant de subir l'érosion. Même devenu une Bête maudite, il continue de mener les Mistelf dans des chasses frénétiques. Deegarm envoie souvent un Mistelf en éclaireur pour repérer et attirer ses proies, tandis qu'il se dissimule dans l'ombre en attendant le moment propice pour tendre une embuscade."}
+{"id":1505133,"jp":"ホークルの羽毛はとてもふわふわで、特にふたつに分かれたしっぽとトサカは気流の変化を敏感に感じ取ることができる。羽ばたいて飛び立つときに、この『採集器』で風向きを捉え、バランスを取ることができる。","fr":"Le plumage de Hawkle est particulièrement doux et duveteux. Sa queue bifide et sa crête lui permettent notamment de percevoir avec une grande sensibilité les variations des courants aériens. Lorsqu'il prend son envol, ces « capteurs » lui servent à déterminer la direction du vent et à maintenir son équilibre."}
+{"id":1505134,"jp":"どれほど劣悪な天候であろうと、スカイホークは激しい気流の変化のなかをまっすぐに飛んでいくことを好む。寝るときは雲の合間でわずかに休息をとるくらいだ。","fr":"Quelles que soient les conditions météorologiques, Skyhawk aime fendre les airs en ligne droite, même au milieu des courants les plus violents. Lorsqu'il dort, il se contente de brefs instants de repos entre les nuages."}
+{"id":1505135,"jp":"ピョンルーの体は平らで滑らかで、しっぽは細く短い。幼い翼はまだ完全に発達しておらず、最も重要なミッションは飛行の練習と空中でバランスを保つ技術を学ぶこと。まだ幼いため、しばらく飛ぶと疲れてしまい、地面にうずくまって休んでいる。","fr":"Pyonloo possède un corps plat et lisse, ainsi qu'une queue fine et courte. Ses jeunes ailes ne sont pas encore pleinement développées. Sa principale Mission consiste donc à apprendre à voler et à maintenir son équilibre dans les airs. Encore tout petit, il se fatigue rapidement en vol et se blottit alors au sol pour se reposer."}
+{"id":1505136,"jp":"フライリーの翼は長く、しっぽの先端には毒素を蓄える水元素の結晶がある。見た目は笑っているように見えるが、その毒を侮ってはいけない。","fr":"Flyly possède de longues ailes. À l'extrémité de sa queue se trouve un cristal d'élément Eau servant de Réserve de toxines. Malgré son apparence souriante, il ne faut surtout pas sous-estimer son poison."}
+{"id":1505137,"jp":"大きく広げた強靭な翼で長時間滑空できるだけでなく、自在に毒をまき散らして敵を攻撃するキボ。興奮すると無意識に毒をまいてしまうが、麻痺したり気絶したりするだけで命に別状はない。","fr":"Ce Kibo peut planer longuement grâce à ses larges ailes puissantes, mais aussi disperser du poison à volonté pour attaquer ses ennemis. Lorsqu'il s'enthousiasme, il lui arrive d'en répandre involontairement. Heureusement, ce poison provoque uniquement une paralysie ou une perte de connaissance, sans mettre la vie en danger."}
+{"id":1505138,"jp":"さまざまな場所に生息する大型の草食キボ。ゆっくりと動き、争いを好まない性格で、ほかのキボとは仲がよい。ほとんどの者にとって風景の一部に過ぎないほど穏やか。","fr":"Un grand Kibo herbivore vivant dans des milieux très variés. Il se déplace lentement, évite les conflits et s'entend bien avec les autres Kibo. Il est si paisible que la plupart des gens le considèrent comme un simple élément du paysage."}
+{"id":1505141,"jp":"グリファの翼は小さく柔らかで、硬い角はまだ生えておらず、もふもふとした手触りが心地よい。多くのグリファは明るい性格をしており、根気よく寄り添えばやがて友情を築くことができる。","fr":"Les ailes de Griffa sont petites et douces, ses cornes solides n'ont pas encore poussé et son pelage duveteux est très agréable au toucher. La plupart des Griffa ont un tempérament joyeux. Avec suffisamment de patience à leurs côtés, il est possible de nouer une véritable amitié."}
+{"id":1505142,"jp":"グリフォンの前脚には鋭い爪があり、四肢は力強く、しっぽはしなやかで、風に対する感知力と親和性を備えている。普段はおとなしいが、勝利したときだけ、胸を張るような素振りを見せる。","fr":"Griffon possède des griffes acérées aux pattes avant, des membres puissants et une queue souple. Particulièrement sensible au vent, il possède une grande affinité avec celui-ci. Habituellement docile, il ne bombe fièrement le torse que lorsqu'il remporte une victoire."}
+{"id":1505143,"jp":"ウィングリフは豊かで美しい羽根を持ち、力強い両翼で高空を長時間・長距離飛び続けることができる。その性格は穏やかで忠実、気品にあふれている。同行するキボ仲間として、ウィングリフは騎士たちの間で高い人気を誇る。","fr":"Wingriff possède un plumage magnifique et abondant. Ses ailes puissantes lui permettent de parcourir de longues distances à haute altitude sans interruption. D'un tempérament paisible et loyal, il dégage une grande noblesse. En tant que compagnon Kibo, Wingriff est particulièrement apprécié des chevaliers."}
+{"id":1505144,"jp":"ノノの相棒のキボ。一般的なチョノコよりも無邪気でかわいらしい。しかし、水浴びを嫌い、泥のなかで転げ回るのを好むという、ボアラーガに特有の厄介な癖も残っている。","fr":"Le Kibo compagnon de Nono. Plus innocent et adorable qu'un Chonoko ordinaire, il conserve toutefois une fâcheuse habitude propre aux Boaraga : il déteste se baigner et adore se rouler dans la boue."}
+{"id":1505145,"jp":"スノボウは跳躍が得意で、音にとても敏感だ。警戒心が強く、危険を思わせる物音を聞くとすぐに逃げ出してしまう。周囲の環境に似た毛色をしており、巧みに擬態することができる。","fr":"Snobow excelle dans l'art du saut et possède une ouïe particulièrement sensible. Très méfiant, il prend aussitôt la fuite au moindre bruit évoquant un danger. La couleur de son pelage s'accorde à son environnement, lui permettant de se camoufler habilement."}
+{"id":1505146,"jp":"スノウミーの両頬には、密集したふさふさの毛が氷柱で覆われているため、一見するとソフトクリームのような耳をしている。だが、頭の上にあるふたつの耳こそが本物である。","fr":"Les joues de Snowmy sont couvertes d'une fourrure épaisse et duveteuse sur laquelle se forment des glaçons. À première vue, elles ressemblent à des oreilles en forme de glace à l'italienne. Pourtant, ses véritables oreilles sont les deux petites oreilles situées au sommet de sa tête."}
+{"id":1505147,"jp":"シャルビットは俊敏で、氷を操る能力も持っている。顔の両側にあるソフトクリームのようなものは厚い氷が張った毛髪で、実は頭の上にあるのが耳である。","fr":"Sharbit est agile et possède également la capacité de manipuler la glace. Les formes rappelant des glaces à l'italienne de chaque côté de son visage sont en réalité des mèches de fourrure recouvertes d'une épaisse couche de glace. Ses véritables oreilles se trouvent au sommet de sa tête."}
+{"id":1505148,"jp":"ライカウモは全身が厚い毛に覆われている。鈍重そうな見た目をしているが、動きは俊敏で勢いがある。普段は穏やかで、自分からほかのキボに攻撃を仕掛けることはない。だが、ひとたび怒り出せば、ブレーキの壊れた動く要塞と化すだろう。","fr":"Le corps de Raikaumo est entièrement recouvert d'une épaisse fourrure. Malgré son apparence lourde et maladroite, ses mouvements sont agiles et vigoureux. Habituellement paisible, il n'attaque jamais spontanément les autres Kibo. Mais lorsqu'il se met en colère, il se transforme en une véritable forteresse mobile aux freins défectueux."}
+{"id":1505149,"jp":"外皮が甲冑に覆われたキボ。ぼんやりした目をしているため、軽んじられそうに見える。しかし、その控えめな振る舞いと頑丈な甲殻、そして時折、骨板のあいだから炎を吹き出して敵を威嚇することで、生態系において安定した地位を確立している。","fr":"Un Kibo dont la peau est recouverte d'une véritable armure. Son regard absent peut inciter à le sous-estimer. Pourtant, son comportement discret, sa carapace robuste et les flammes qu'il projette occasionnellement entre ses plaques osseuses pour intimider ses ennemis lui ont permis d'occuper une place stable dans l'écosystème."}
+{"id":1505152,"jp":"スウィーガの体はしなやかで、動きはすばやい。荒野ではありふれたキボの一種だ。まだ幼く体力があるようには見えないが、群れで行動して狩りをする習性により、恐ろしい捕食者の地位にいる。","fr":"Sweega possède un corps souple et des mouvements rapides. C'est une espèce de Kibo courante dans les contrées sauvages. Malgré son jeune âge et son apparente fragilité, son habitude de se déplacer et de chasser en groupe lui confère le statut de redoutable prédateur."}
+{"id":1505153,"jp":"メロウミーは臆病でおとなしく、とても紛らわしい見た目をしている。正面や側面からは異なる位置に二対の長い耳が生えているように見えるが、実はそれらはすべてただの毛束である。本物の耳はその真上にあり、とても小さい。","fr":"Mellowmee est timide et docile, et son apparence est particulièrement trompeuse. Vu de face ou de profil, il semble posséder deux paires de longues oreilles placées à différents endroits. Il ne s'agit pourtant que de touffes de fourrure. Ses véritables oreilles, minuscules, se trouvent juste au-dessus."}
+{"id":1505154,"jp":"薄暗い場所でよく見かけるキボ。ぷるんとした体を濃い煙が覆っている。ぼんやりした見た目をしているが全身には毒があり、攻撃を受けると憂鬱な気分になってしまう。","fr":"Un Kibo que l'on rencontre fréquemment dans les endroits peu éclairés. Son corps gélatineux est enveloppé d'une épaisse fumée. Malgré son air absent, son corps tout entier est toxique. Quiconque subit ses attaques se retrouve plongé dans la mélancolie."}
+{"id":1505155,"jp":"体のまわりに黒みがかった紫の霧をまとい、薄暗く涼しい場所でじっとしているのが好きなキボ。すこし鈍そうに見えるが、その毒は敵を憂鬱な気分にさせ、戦意を喪失させる。","fr":"Un Kibo enveloppé d'une brume violet sombre, qui aime rester immobile dans les endroits frais et peu éclairés. Malgré son apparente lenteur, son poison plonge ses ennemis dans la mélancolie et leur ôte toute volonté de combattre."}
+{"id":1505156,"jp":"一般的な元素生物。攻撃性は強くないが、ひねくれていて薄暗く涼しい場所を好む。ほかの生物を積極的に襲うことはないが、こちらから手を出せば水びたしにされるかもしれない。","fr":"Une créature élémentaire courante. Peu agressive, mais dotée d'un tempérament contrariant, elle affectionne les endroits frais et peu éclairés. Elle n'attaque jamais spontanément les autres créatures, mais quiconque la provoque risque de finir complètement trempé."}
+{"id":1505157,"jp":"ほかの生物を威圧するために、石などの素材を集めて新しい体を作ろうとする。みずから攻撃を仕掛けることはないが、ひとたび敵意を向けられれば、岩壁すら粉砕する水の渦で攻撃されるだろう。","fr":"Pour intimider les autres créatures, il rassemble des pierres et divers matériaux afin de se confectionner un nouveau corps. Il ne prend jamais l'initiative d'attaquer, mais à la moindre manifestation d'hostilité, il riposte avec un tourbillon d'eau capable de pulvériser même les parois rocheuses."}
+{"id":1505158,"jp":"まだ世界を知ろうとしている段階で、さまざまなキボと打ち解けることができる。\n幼いとはいえ器用に飛ぶことができるため、さまざまなアクロバットをして遊んでいる。","fr":"Encore en pleine découverte du monde, il se lie facilement d'amitié avec toutes sortes de Kibo.\nMalgré son jeune âge, il vole avec beaucoup d'adresse et s'amuse à réaliser toutes sortes d'acrobaties aériennes."}
+{"id":1505159,"jp":"ラザドゥーナは成長すると外の世界への好奇心を持ちはじめ、冒険を渇望するようになる。\n飛行能力と自衛能力が高まり、ドラゴンとしての威圧感もすこしずつ備わりはじめ、ほかのキボたちは本能的な恐れを抱くようになってくる。","fr":"En grandissant, Lazadoona développe une curiosité pour le monde extérieur et une soif d'aventure.\nSes capacités de vol et d'autodéfense s'améliorent, tandis que sa présence draconique devient progressivement plus imposante, inspirant une crainte instinctive aux autres Kibo."}
 {"id":1505160,"jp":"アイシィの性格は孤高で冷淡であり、時折だれも近づけないよう氷の壁を張ることがある。","fr":"Icy est solitaire et froid, et dresse parfois un mur de glace pour que personne ne s'approche."}
+{"id":1505161,"jp":"アイシエルは氷を操るのが得意で、元素の精霊のなかでも最も頼もしい冷気の供給源だが、その恩恵を受けるためにはアイシエルに受け入れられる必要があり、一般的には大変難しいとされる。","fr":"Iciel excelle dans la manipulation de la glace et constitue la source de froid la plus fiable parmi les esprits élémentaires. Toutefois, pour bénéficier de ses bienfaits, il faut d'abord gagner sa confiance, ce qui est généralement considéré comme particulièrement difficile."}
+{"id":1505162,"jp":"フローゼストはある意味では、氷の意志の化身とも言える。あらゆる静止と冷気の象徴であり、いかなる熱でもその体が溶けることはないため、最も完璧で最も冷酷な元素の化生とされている。","fr":"Frozest peut, en un sens, être considéré comme l'incarnation de la volonté de la glace. Symbole de l'immobilité et du froid absolus, son corps ne peut fondre sous aucune chaleur. Il est ainsi considéré comme la plus parfaite et la plus impitoyable des incarnations élémentaires."}
+{"id":1505166,"jp":"フーモはとても身軽で、普段は風に乗ってあてもなくフワフワと漂っている。時々、通りすがりのキボに軽くぶつかってしまうこともあるらしい。","fr":"Fumo est particulièrement léger et se laisse généralement porter par le vent, sans destination précise. Il lui arrive parfois de heurter doucement les Kibo qu'il croise en chemin."}
+{"id":1505167,"jp":"優雅なフリィフはフーモの成長した姿で、頭から生えた花は風鈴のような形をしている。七弦琴は風属性の星脈エネルギーを凝縮したもので、弾くとそよ風の囁きのような優しい音色が響く。","fr":"L'élégant Friff est la forme évoluée de Fumo. La fleur qui pousse sur sa tête ressemble à un carillon éolien. Sa cithare à sept cordes est constituée d'Énergie condensée de Vent des veines stellaires. Lorsqu'il en joue, de douces notes résonnent comme le murmure d'une brise."}
+{"id":1505168,"jp":"フルネフィの姿は風の精とも言うべき可憐さである。あまり姿を見せず、現れるときは姿よりもさきに声が聞こえてくる。フルネフィが風に乗って通り過ぎたあとには爽やかな香りが残り、その香りは体調を整え、心をリフレッシュさせてくれるという。","fr":"Furnefi possède toute la grâce d'un esprit du vent. Il se montre rarement, et sa voix précède toujours son apparition. Lorsqu'il passe au gré du vent, il laisse derrière lui un parfum rafraîchissant qui, dit-on, apaise le corps et revigore l'esprit."}
+{"id":1505169,"jp":"ウィンディは行き先を決めず、風に乗って気まぐれに放浪するのが好き。風の向かうほうこそ、ウィンディの行きたい場所ともいえる。","fr":"Windy aime vagabonder au gré de ses envies, se laissant porter par le vent sans destination précise. Là où souffle le vent se trouve, en quelque sorte, l'endroit où Windy souhaite se rendre."}
 {"id":1505170,"jp":"ウィンデルは風を操るのが得意で、性格も風のように軽やか。所作は優雅で、その軽やかな姿を見た者はだれもが感嘆する。","fr":"Windel excelle à manier le vent, et son caractère est léger comme lui. Ses gestes sont élégants, et quiconque voit sa silhouette légère s'en émerveille."}
+{"id":1505171,"jp":"テンペストはある意味では、風の意志の化身ともいえる。その気まぐれな様子は、ほかの者には掴みどころがないように見える。未知を探索する勇気に溢れ、常に進路を変えながら新たな冒険に向かう、元素の化生の冒険家だ。","fr":"Tempest peut, en un sens, être considéré comme l'incarnation de la volonté du vent. Son tempérament capricieux le rend particulièrement insaisissable. Animé d'un courage débordant face à l'inconnu, il change constamment de cap pour vivre de nouvelles aventures. Un véritable aventurier parmi les incarnations élémentaires."}
+{"id":1505173,"jp":"成長するにつれ、ふわふわした毛は次第に抜け落ち、しっぽと体躯がすらりと長く伸びる。非常に活発で、跳躍力が高く、知的種族の縄張りに忍び込んでおやつを奪い、さっと逃げることがある。その身軽さから、捕まえるのはなかなか難しい。","fr":"En grandissant, il perd progressivement son pelage duveteux, tandis que son corps et sa queue s'allongent avec élégance. Très vif et excellent sauteur, il lui arrive de s'introduire sur le territoire des peuples doués d'intelligence, de dérober quelques friandises et de s'enfuir aussitôt. Son agilité le rend particulièrement difficile à attraper."}
+{"id":1505174,"jp":"グルマンクはすらりとした体躯に敏捷な四肢を持ち、威圧感に満ちている。弧を描く長いしっぽは白と黒の輪状の斑紋が特徴的。しばしば群れを守る責任を負い、敵意のある侵入者に遭遇すると、その巨大な体と鳴き声で相手を威嚇して退散させる。","fr":"Gourmank possède une silhouette élancée, des membres agiles et une présence imposante. Sa longue queue arquée se distingue par ses anneaux noirs et blancs. Souvent chargé de protéger sa meute, il utilise son imposante stature et ses cris pour intimider et repousser les intrus hostiles."}
+{"id":1505175,"jp":"雑食の鳥。餌をついばむときによく失敗し、なんどもつつく姿が微笑ましい。よく「ドゥル」と鳴くことから、『ドゥル』と名づけられた。","fr":"Un oiseau omnivore. Il manque souvent sa nourriture en essayant de la picorer, et le voir donner de petits coups de bec répétés est particulièrement attendrissant. Son cri caractéristique, « Dur », lui a valu son nom."}
+{"id":1505176,"jp":"一見すると動く毛玉のように見えるキボ。仲間と取っ組み合いをするのを好み、激しい運動の代償から非常に食いしん坊。幼いガドリはまだ食べものをきちんと見分けられないため、仲間の毛を齧りあうというおかしな光景もよく見られる……","fr":"Un Kibo qui ressemble à première vue à une boule de poils ambulante. Il adore se chamailler avec ses congénères, et toute cette dépense d'énergie en fait un véritable gourmand. Les jeunes Gadori ne sachant pas encore distinguer correctement leur nourriture, il n'est pas rare de les voir se mordiller mutuellement la fourrure…"}
+{"id":1505177,"jp":"さまざまな場所に生息する大型の草食キボ。おとなしい性格だが、とても大食らい。見た目通りの力持ちで、飼い慣らすのも難しくない。もちろん、エサ代をまかなえる財力さえあればだが……","fr":"Un grand Kibo herbivore vivant dans des milieux très variés. Malgré son tempérament docile, il possède un appétit colossal. Aussi fort que son apparence le laisse penser, il est relativement facile à apprivoiser. À condition, bien entendu, d'avoir les moyens de le nourrir…"}
+{"id":1505180,"jp":"とても内気なキボ。反応も鈍く、基本的に攻撃してくることはない。危険を察知すると、丸くなり硬い殻で身を守る。宝石を食べる習性があり、炭鉱員たちの頭痛の種になっている。","fr":"Un Kibo particulièrement timide. Ses réactions sont lentes et il n'attaque pratiquement jamais. Lorsqu'il perçoit un danger, il se roule en boule et se protège grâce à sa carapace résistante. Son habitude de dévorer les gemmes constitue un véritable casse-tête pour les mineurs."}
+{"id":1505181,"jp":"宝石に火の元素を溜めこみ、触るとチクチクする温かいキボ。鉱脈にある宝石の気配にとても敏感。鉱脈を掘ったとき、穴の空いている場所があれば、ルビートルによって作られたものと考えてほぼ間違いない。","fr":"Un Kibo chaleureux qui accumule l'élément Feu dans les gemmes et dont le contact provoque de petits picotements. Il est particulièrement sensible à la présence de pierres précieuses dans les filons. Si vous découvrez une cavité en creusant un filon, il y a fort à parier qu'elle a été creusée par un Rubeetle."}
+{"id":1505182,"jp":"基本的に地底や暗い場所で活動するキボ。視力はほとんど退化してしまったが、代わりに耳がとても敏感になっており、物体から伝わってくる小さな音で、遠くの物音を聞き分けることができる。","fr":"Un Kibo qui évolue principalement sous terre ou dans les endroits obscurs. Sa vue s'est presque entièrement atrophiée, mais son ouïe est devenue extrêmement fine. Il peut distinguer des bruits lointains grâce aux infimes vibrations sonores transmises par les objets."}
+{"id":1505183,"jp":"元気いっぱいで温厚な性格。ウッディは体が緑の葉で構成されており、フルーツや花のような爽やかな植物の香りを漂わせている。近くに寄ればとても癒されるだろう。","fr":"Plein de vitalité et d'un tempérament doux, Woody possède un corps constitué de feuilles vertes. Il dégage un parfum végétal rafraîchissant rappelant les fruits et les fleurs. Sa simple proximité procure une agréable sensation d'apaisement."}
+{"id":1505184,"jp":"ウッデルは草木を操るのが得意で、身のこなしも軽やか。頭部にあるふたつの三つ葉は頭の動きに合わせてピョコピョコ動き、元気がないときはしおれて垂れ下がる。普通の植物よりもずっと柔らかそうだ。","fr":"Woodel excelle dans la manipulation des végétaux et se déplace avec légèreté. Les deux feuilles trilobées sur sa tête se balancent au rythme de ses mouvements. Lorsqu'il perd sa bonne humeur, elles se flétrissent et retombent. Elles semblent bien plus douces que celles des plantes ordinaires."}
+{"id":1505185,"jp":"バインデストは大自然の使者であり、すべての元素の精霊のなかで最も親しみやすい。いつも森を散歩していて、植物のなかに紛れて過ごすことをなによりも好む。","fr":"Bindest est un messager de la nature et le plus accessible de tous les esprits élémentaires. Il se promène constamment dans la forêt et aime par-dessus tout se fondre dans la végétation."}
+{"id":1505186,"jp":"ピーチィの首元の燃えるような赤い羽毛は、翼まで伸びている。サイズは小さいながらも、爪をこすり合わせて火花を発生させることで、敵をひるませることができる。","fr":"Le plumage rouge flamboyant qui entoure le cou de Peachy s'étend jusqu'à ses ailes. Malgré sa petite taille, il peut faire jaillir des étincelles en frottant ses griffes les unes contre les autres, suffisamment pour faire reculer ses ennemis."}
+{"id":1505187,"jp":"メルッポの目の上にはぴんと張った長い眉があり、堂々とした印象を受ける。羽毛はよりモフモフになり、鋭い爪は火を起こすだけでなく、獲物をがっしりと捕らえることができる。飛行速度ははやく、攻撃性と索敵能力も飛躍的に成長している。","fr":"Meluppo possède de longs sourcils dressés qui lui confèrent une allure majestueuse. Son plumage est devenu encore plus duveteux, et ses griffes acérées lui permettent aussi bien d'allumer un feu que de saisir fermement ses proies. Sa vitesse de vol, son agressivité et ses capacités de détection des ennemis se sont considérablement développées."}
+{"id":1505188,"jp":"スカーレックは燃える炎のような美しい羽根を持ち、尾羽には不思議な模様がある。敵に遭遇すると翼を広げ、巨大な姿で敵を威圧する。頑丈な翼で羽ばたけば、気流を利用して炎の渦を生み出すこともできる。","fr":"Scarleck possède de magnifiques plumes évoquant des flammes ardentes, ainsi que de mystérieux motifs sur les plumes de sa queue. Face à un ennemi, il déploie ses ailes pour l'intimider par son imposante silhouette. En battant ses ailes robustes, il peut même exploiter les courants aériens pour créer des tourbillons de flammes."}
+{"id":1505189,"jp":"リーモの綿毛はとてもふわふわで、電気の火花を散らし、雷を呼ぶことができる。性格は気難しく、うとうとしたり機嫌がよさそうに見えていたかと思えば、つぎの瞬間に攻撃的になることもある。","fr":"Le duvet particulièrement moelleux de Leemo produit des étincelles électriques et peut attirer la foudre. Son tempérament est difficile à cerner : alors qu'il semble somnoler paisiblement ou être de bonne humeur, il peut devenir agressif l'instant suivant."}
+{"id":1505190,"jp":"ルリィフは孤高で誇り高く、七弦琴で奏でる音色は鮮明かつ情熱的。『ヘビメタ』のような曲調で、周囲の空気を震わせることができる。","fr":"Solitaire et fier, Lurif joue des mélodies intenses et passionnées sur sa cithare à sept cordes. Ses compositions, semblables à du « heavy metal », sont capables de faire vibrer l'air qui l'entoure."}
+{"id":1505191,"jp":"ルルネフィは正義感にあふれた堂々とした性格。竪琴は袋のような形に成長し、なかには雷属性の星脈エネルギーが充満している。弱い者がいじめられているのを見ると『正義の心』が発動し、相手がだれであろうと雷を召喚して『懲罰』を与える。","fr":"Lurnefi possède un tempérament noble et un sens aigu de la justice. Sa lyre a évolué pour prendre la forme d'une poche remplie d'Énergie de Foudre des veines stellaires. Lorsqu'il voit un être sans défense se faire maltraiter, son « Cœur de justice » s'éveille. Il invoque alors la foudre pour infliger un « Châtiment » au responsable, quel qu'il soit."}
 {"id":1505194,"jp":"頭部にはふたつの小さな玉が浮いている。これは放電するための主な器官で、動きに合わせてぴょこぴょこと動く。","fr":"Deux petites boules flottent sur sa tête. Ce sont ses principaux organes de décharge, et elles bougent par à-coups en suivant ses mouvements."}
+{"id":1505195,"jp":"雷の力を引き寄せ、操ることができる。落ち着いた雰囲気や変わり映えしない環境を嫌うため、音や眩しい光でその静けさを破ろうとする。","fr":"Il est capable d'attirer et de manipuler la puissance de la foudre. Détestant les atmosphères paisibles et les environnements monotones, il cherche constamment à rompre leur tranquillité par des bruits retentissants et des lumières éblouissantes."}
+{"id":1505196,"jp":"ヴォルテストはある意味では、雷の意志の化身ともいえる。厳かな性格をしており、持ちまえの雷元素は嵐の危険を象徴する。雷鳴の威力と無秩序な凶暴性は、自然の力に対する畏怖を抱かせる。","fr":"Voltest peut, en un sens, être considéré comme l'incarnation de la volonté de la foudre. Son tempérament solennel et l'élément Foudre qui l'habite symbolisent le danger des tempêtes. La puissance de son tonnerre et sa férocité indomptable inspirent une profonde révérence envers les forces de la nature."}
+{"id":1505197,"jp":"暗く静かな場所を好む気性の荒い小型キボ。体力は低く、移動速度もはやくない。飛行は完全に魔力に依存していて、背中の小さな翼は戦闘と体勢維持のためだけに使われている。","fr":"Un petit Kibo au tempérament irascible, qui affectionne les endroits sombres et silencieux. Son endurance est faible et ses déplacements peu rapides. Son vol repose entièrement sur la magie, tandis que les petites ailes de son dos servent uniquement au combat et au maintien de son équilibre."}
+{"id":1505198,"jp":"光や音にとても敏感で短気なキボ。長時間の浮遊飛行ができる。ほかのキボが近づいてくることに気づくと、そっと背後に回り込み、油断している隙にその不気味な『笑顔』で驚かせる。","fr":"Un Kibo irascible, particulièrement sensible à la lumière et aux bruits. Il peut flotter dans les airs pendant de longues périodes. Lorsqu'il remarque l'approche d'un autre Kibo, il se glisse discrètement derrière lui et profite d'un moment d'inattention pour l'effrayer avec son inquiétant « sourire »."}
+{"id":1505201,"jp":"幼体期のブルーダが見た夢のように、成長したブルーシィグナはとても華麗な姿へと変貌した。夢が叶ったと誇らしげに胸を張り、より楽観的な性格に。時折、こっそり「グワグワ」と本性を露わにする笑い声を漏らすこともあるが、全体的には優雅なキボだ。","fr":"À l'image du rêve qu'il nourrissait lorsqu'il était encore un jeune Bluda, Blue Cygna s'est métamorphosé en une créature d'une grande splendeur. Fier d'avoir réalisé son rêve, il bombe le torse et affiche un tempérament encore plus optimiste. Il lui arrive de laisser échapper un petit rire en faisant « coin-coin », révélant ainsi sa véritable nature. Il n'en demeure pas moins un Kibo très élégant."}
 {"id":1505202,"jp":"勇気のアウラ","fr":"Aura du courage"}
+{"id":1505203,"jp":"世界各地に生息する、とても温厚な性格のキボ。荷運びの能力に優れ、見つけた食べものやおもしろいと感じたものを背中に載せるのが好き。しかし、運んでいるうちに落としてしまうので、いつも悩んでいる。","fr":"Un Kibo au tempérament particulièrement doux, que l'on rencontre partout dans le monde. Excellent transporteur, il aime déposer sur son dos les aliments qu'il trouve et les objets qui éveillent sa curiosité. Malheureusement, il les fait régulièrement tomber en chemin, ce qui lui cause bien des soucis."}
+{"id":1505204,"jp":"大人しく優雅な外見に反して、キノカはとても活発だ。その体は俊敏で力強く、森のなかを自由自在に駆け抜ける。よく林の小川のほとりを歩き回っている。","fr":"Contrairement à ce que suggère son apparence paisible et gracieuse, Kinoka est particulièrement vif. Son corps agile et puissant lui permet de parcourir librement la forêt. On le rencontre souvent en train de se promener le long des ruisseaux forestiers."}
+{"id":1505205,"jp":"ブラウディは一対の巨大で美しい角を持ち、その角は鋭く頑丈だ。体の植物組織は層状になっており、色鮮やかな模様が浮かんでいる。この層構造が、動くときの身を守る盾となっている。","fr":"Browdy possède une magnifique paire de bois imposants, acérés et robustes. Les tissus végétaux qui recouvrent son corps sont disposés en couches ornées de motifs aux couleurs éclatantes. Cette structure stratifiée constitue un véritable bouclier qui le protège lors de ses déplacements."}
+{"id":1505206,"jp":"美しい青緑の毛皮を持ち、森を歩く姿は軽やかさと優雅さに溢れている。ほとんどのファウンディはエルフの言葉を理解できるため、いざという時は肩を並べて敵と戦ってくれると言われている。","fr":"Doté d'un magnifique pelage bleu-vert, il parcourt la forêt avec une légèreté et une grâce remarquables. La plupart des Foundy comprennent la langue des Elfes. On raconte qu'en cas de danger, ils combattent à leurs côtés."}
+{"id":1505207,"jp":"ロックフレイはよく見られる元素生物で、その外見は火鉢を思わせる。\nおとなしいロックフレイは、旅する者たちの間では、自然の照明として重宝されている……ただし、好奇心旺盛な彼らが不意に近づいてきて、火傷しないよう気をつけよう。","fr":"Rockflay est une créature élémentaire courante dont l'apparence rappelle celle d'un brasero.\nD'un tempérament docile, Rockflay est particulièrement apprécié des voyageurs comme source d'éclairage naturelle… Prenez toutefois garde à ne pas vous brûler lorsque ces créatures curieuses s'approchent soudainement."}
+{"id":1505208,"jp":"フィーロックはフィドロ時代の穏やかな性格を受け継いでおり、みずからほかの者を襲うことはない。しかし怒りを買えば、たちまち危険な姿に豹変し、高温の炎を宿した無数の岩を操って敵めがけて放つ。","fr":"Fyrock a conservé le tempérament paisible qu'il possédait lorsqu'il était encore un Fidoro et n'attaque jamais spontanément les autres créatures. Toutefois, si l'on provoque sa colère, il prend aussitôt une forme redoutable et projette vers ses ennemis d'innombrables roches imprégnées de flammes brûlantes."}
+{"id":1505209,"jp":"グルルのしっぽはキノコそっくりで、食べられる上に再生する。\n味はおいしいが、特に栄養はない。眠っている時間以外はいつもぐるぐる眩暈を起こしており、決まったルートをふらふら歩き回っては頭を地面にぶつけている。","fr":"La queue de Gururu ressemble à s'y méprendre à un champignon. Elle est comestible et repousse naturellement.\nBien que savoureuse, elle ne possède aucune valeur nutritive particulière. Lorsqu'il ne dort pas, Gururu souffre constamment de vertiges. Il titube le long d'un itinéraire précis et se cogne régulièrement la tête contre le sol."}
+{"id":1505213,"jp":"とても個体数がすくなく、幽霊のように行動が謎めいたキボ。体には美しい文様が描かれている。独特の美的センスの持ち主で、湾曲する線が滑らかで、エッジが規則的であるほど美しいと感じるのだとか。","fr":"Un Kibo extrêmement peu répandu, dont le comportement est aussi mystérieux que celui d'un fantôme. Son corps est orné de magnifiques motifs. Il possède un sens esthétique bien particulier : plus les courbes sont fluides et les contours réguliers, plus il trouve une chose belle."}
 {"id":1505214,"jp":"メイズキーパー","fr":"Maze Keeper"}
+{"id":1505215,"jp":"竜王時代の遺跡を探索していると、気づかないうちにこの構造体に狙われているかもしれない。\n感覚が鋭く、動きもはやい。劣勢になるとメイズキーパーは撤退したふりをして、暗闇からほかの構造体を呼び寄せ、取り囲んでくる。","fr":"Lors de l'exploration des ruines de l'ère du Roi-dragon, cette structure artificielle pourrait vous prendre pour cible à votre insu.\nDoté de sens aiguisés et de mouvements rapides, le Gardien du labyrinthe feint de battre en retraite lorsqu'il se trouve en difficulté, avant d'attirer d'autres structures depuis les ténèbres pour vous encercler."}
+{"id":1505216,"jp":"モーモはまっすぐな性格で、心に正義を宿している。体は小さいが、ほかのキボが困っていると迷うことなく走っていって、持ちまえの力で助けてあげる。","fr":"Momo possède un tempérament intègre et un profond sens de la justice. Malgré sa petite taille, il accourt sans hésiter lorsqu'un autre Kibo se trouve en difficulté, mettant toute sa force à son service."}
+{"id":1505217,"jp":"力持ちになったフレイモは、助けられるキボも増えた。必要とされることに喜びを感じ、すこし褒めるだけで喜んで力を貸してくれる。だが、騙されていたと知ると怒りをあらわにし、頭の鋭い角で容赦なく騙した相手を突き飛ばす。","fr":"Devenu plus fort, Flamo peut désormais venir en aide à davantage de Kibo. Il éprouve une grande joie à se sentir utile, et quelques compliments suffisent pour qu'il prête volontiers sa force. Toutefois, lorsqu'il découvre qu'on s'est joué de lui, il laisse éclater sa colère et projette sans ménagement le responsable à l'aide de sa corne acérée."}
+{"id":1505219,"jp":"フラウは小柄で楕円形の体をしており、全身がふわふわの毛で覆われている。休むときはその毛のなかに身を隠すように丸くなり、遠くから見ると空飛ぶ小さな毛玉のようだ。","fr":"Furau possède un petit corps ovale entièrement recouvert d'une fourrure duveteuse. Lorsqu'il se repose, il se roule en boule comme pour se dissimuler dans son propre pelage. De loin, il ressemble à une petite boule de poils volante."}
+{"id":1505220,"jp":"ボールモウは活発でやんちゃな性格で、悪戯を好む。耳が発達したことで聴覚は非常に鋭く、暗闇のなかでも敵の数や位置を正確に読み取れる。先回りして待ち伏せたり身を隠したりしながら奇襲のタイミングを窺う、まさに天性のハンターである。","fr":"Vif et espiègle, Ballmow adore faire des farces. Ses oreilles très développées lui confèrent une ouïe exceptionnelle, lui permettant de déterminer avec précision le nombre et la position de ses ennemis, même dans l'obscurité. Capable de devancer ses proies ou de se dissimuler en attendant le moment propice pour les surprendre, il possède un véritable instinct de chasseur."}
+{"id":1505222,"jp":"チーコは体が小さく、まるで真っ白なもち団子のようにかわいらしい。尾の先にある丸みを帯びた氷の結晶からは、かすかな魔力が漂っている。警戒心が強く臆病な性格で、大半の時間を洞窟のなかで過ごすため、野外でその姿を見かけることは滅多にない。","fr":"Chico possède un petit corps aussi adorable qu'une boulette de mochi d'un blanc immaculé. Le cristal de glace arrondi situé à l'extrémité de sa queue dégage une légère aura magique. Méfiant et timide, il passe la majeure partie de son temps dans les grottes, si bien qu'il est rare de l'apercevoir à l'extérieur."}
+{"id":1505224,"jp":"剣のような長い牙から、ガルティガーの名が付けられた。非常に鋭い爪は伸縮自在で、前足と首回りは頑丈な骨質に覆われており、戦闘において攻防一体の動きを可能とする。気性が荒く、縄張り意識も強い。敵と遭遇するとためらうことなく攻撃を仕掛ける。","fr":"Galtiger doit son nom à ses longues canines semblables à des épées. Ses griffes extrêmement acérées sont rétractiles, tandis que ses pattes avant et son cou sont recouverts de solides plaques osseuses lui permettant d'allier attaque et défense au combat. Particulièrement féroce et territorial, il attaque sans hésitation lorsqu'il rencontre un ennemi."}
+{"id":1505226,"jp":"フラテールは跳躍力が高く、毛並みはよりふさふさになっている。背中には葉のような小型の羽がある。完全に開くことはできないが、飛び跳ねたあと羽を使って滑空することができ、とても優雅に着地する。","fr":"Flatail possède une grande capacité de saut et un pelage devenu encore plus touffu. De petites ailes semblables à des feuilles poussent sur son dos. Bien qu'il ne puisse pas les déployer entièrement, elles lui permettent de planer après un bond et d'atterrir avec une grande élégance."}
+{"id":1505227,"jp":"クローネックは優雅な姿をしている。王冠のような角は完全に成熟した証だ。自分の角をとても大事にしており、角に光沢があるほどほかのキボから憧れられる。クローネックが頭を上げて歩いているときは、角を誇示しているのだ。","fr":"Kronek possède une silhouette élégante. Ses bois en forme de couronne témoignent de sa pleine maturité. Il leur accorde une grande importance, car plus ils sont brillants, plus ils suscitent l'admiration des autres Kibo. Lorsqu'un Kronek marche la tête haute, c'est pour exhiber fièrement ses bois."}
+{"id":1505229,"jp":"おのれの代表作となる作品に使われるべき素材を求め、世界中を旅しているウェイバー。建築には一家言あり、環境によって作る巣穴やダムが異なる。能力が上がるにつれて、ウェイバーにも自信と自負が芽生え、簡単には譲歩しなくなる。","fr":"Waver parcourt le monde à la recherche de matériaux dignes de son futur chef-d'œuvre. Il possède ses propres convictions en matière d'architecture et adapte la construction de ses terriers et barrages à son environnement. À mesure que ses talents se développent, sa confiance et sa fierté grandissent, le rendant de moins en moins disposé à faire des concessions."}
 {"id":1505234,"jp":"ラル","fr":"Ral"}
 {"id":1505235,"jp":"村長","fr":"Chef du village"}
+{"id":1505237,"jp":"明るく活発で自由奔放なクックルは、風のようにあちこち駆けまわる。使い切れないほどの過剰なエネルギーを持っていて、好奇心に駆られていろいろと奇妙な行動をとる。","fr":"Joyeux, vif et épris de liberté, Cookle court dans tous les sens comme le vent. Il possède une Énergie si débordante qu'il ne parvient jamais à l'épuiser. Sa curiosité le pousse à adopter toutes sortes de comportements étranges."}
+{"id":1505238,"jp":"体重と身長が大幅に増し、目つきも鋭くなったクックルク。\n成長にともなって、幼少期よりも悩みの種が増え、成熟した内面を体現するかのように、鳴き声もクールな「クゥ」に変化した。","fr":"Cookluk a considérablement gagné en taille et en poids, et son regard est devenu plus perçant.\nEn grandissant, il connaît davantage de préoccupations que durant son enfance. Comme pour refléter sa maturité intérieure, son cri s'est transformé en un « Kou » plein d'assurance."}
 {"id":1505239,"jp":"ロイレー","fr":"Roiree"}
+{"id":1505241,"jp":"個体数が極めてすくないキボ。性格は無邪気で楽観的、陽気で好奇心旺盛、そして遊ぶことが大好き。いつもふわふわ浮かびながら漂い、身軽で、まるで捕捉することのできない光のようにすばやい。","fr":"Un Kibo dont les individus sont extrêmement rares. Innocent, optimiste, joyeux et débordant de curiosité, il adore jouer. Il flotte constamment dans les airs avec une légèreté remarquable, aussi rapide et insaisissable qu'un rayon de lumière."}
 {"id":1505242,"jp":"スターリンクの印","fr":"Marque du Lien stellaire"}
+{"id":1505243,"jp":"笑般若は薄暗い場所に好んで出没する気分屋で、笑いながら火を噴いたり、子どもに悪戯したりする。だれかを驚かせたときはとても喜び、遊び心が強い。しかし、相手が自分に気づかないと拗ねて、激しく怒り出す！","fr":"Le Hannya rieur est une créature lunatique qui affectionne les endroits peu éclairés. Il aime cracher du feu en riant et jouer des tours aux enfants. Très joueur, il éprouve une grande joie lorsqu'il parvient à effrayer quelqu'un. Toutefois, si sa victime ne remarque pas sa présence, il se vexe et entre dans une colère noire !"}
+{"id":1505244,"jp":"憤怨坊の周りには、常に鬼火が漂っている。気まぐれでマイペースな性格をしており、自分に逆らう者は大声で非難する。その声は様々な音が混ざり合ったかのようにガヤガヤしている。音さえ聞こえれば、遠くからでもその存在に気づける。","fr":"Des feux follets flottent constamment autour du Moine rancunier. Capricieux et indépendant, il réprimande bruyamment quiconque ose s'opposer à lui. Sa voix ressemble à un brouhaha composé d'une multitude de sons entremêlés. Il suffit de l'entendre pour détecter sa présence, même à grande distance."}
+{"id":1505246,"jp":"シュラークは刺激を求め、勝利に強くこだわる性質を持つ。速度、持久力、動きの難易度、環境の妨害など、あらゆる面で他者と競い合う。勝てば活気づき、負ければうなだれる――だがそれも、つぎの競争の知らせが届くまでのこと。","fr":"Shrark recherche constamment de nouvelles sensations et accorde une importance particulière à la victoire. Il se mesure aux autres dans tous les domaines : vitesse, endurance, difficulté des mouvements ou obstacles environnementaux. La victoire le remplit d'enthousiasme, tandis que la défaite lui fait baisser la tête… Du moins, jusqu'à l'annonce de la prochaine compétition."}
+{"id":1505247,"jp":"とても頭の切れる夜行性のキボ。身を守る術がまったくないように見えるが、実はその賢い頭脳でさまざまな強力な天敵と渡りあい、ときには逆に獲物を盗みとることさえある。","fr":"Un Kibo nocturne à l'intelligence particulièrement vive. Bien qu'il semble dépourvu de moyens de défense, son ingéniosité lui permet de tenir tête à de nombreux prédateurs redoutables. Il parvient même parfois à leur dérober leurs propres proies."}
+{"id":1505248,"jp":"ニィトールは幼いニャアホにさまざまな技を教え、その代わりにニャアホが捕獲した獲物から報酬を受け取っている。ニィトールの生徒には、ときどきほかの種族のキボも混ざっていることがある。","fr":"Neetor enseigne diverses techniques aux jeunes Nyaho et reçoit en échange une part des proies qu'ils capturent. Il arrive parfois que des Kibo d'autres espèces se joignent à ses élèves."}
+{"id":1505249,"jp":"体が驚くほど軽くて、風が吹けばすぐに飛び立っていく。噂によると、一部の個体は幼いころに大陸一周旅行を達成し、海風に吹かれるまま海上へ出て、やがて世界の果てまで到達したらしい。","fr":"Son corps est d'une légèreté surprenante, et le moindre souffle de vent suffit à le faire décoller. Selon certaines rumeurs, quelques individus auraient fait le tour du continent dès leur plus jeune âge, avant de se laisser emporter par la brise marine jusqu'aux confins du monde."}
+{"id":1505250,"jp":"全身がふわふわの綿毛で覆われたキボ。ポポティのように風に任せて流されるだけでなく、自力で空中に浮かび、飛んでいく方向を制御することもできる。","fr":"Un Kibo entièrement recouvert d'un duvet moelleux. Contrairement à Popoty, qui se laisse simplement porter par le vent, il peut flotter dans les airs par ses propres moyens et même contrôler sa direction de vol."}
 {"id":1505251,"jp":"シークリッド・竜形態","fr":"Seekrid : forme de dragon"}
+{"id":1505254,"jp":"スピークルのほとんどは密林の奥深くに生息する。またよく、森と共生する妖精の一種だと思われている。スピークルに認められれば、清らかな心を持つ者の証とされ、森の妖精たちの輪に加わり、ともに舞い踊ることを許されるという。","fr":"La plupart des Speakle vivent dans les profondeurs des forêts luxuriantes. Ils sont souvent considérés comme une espèce de fées vivant en harmonie avec la forêt. On raconte que gagner la confiance d'un Speakle est la preuve d'un cœur pur et permet de rejoindre la ronde des fées sylvestres pour danser à leurs côtés."}
+{"id":1505255,"jp":"ピアッドはその純粋さと友好的さで親しまれ、いつも自由気ままにゆっくり漂いながらさまざまな地域に向かう。\nまわりで音楽が奏でられると、ピアッドは生き生きと目を輝かせ、演奏に加わる。","fr":"Apprécié pour sa pureté et sa bienveillance, Piad dérive lentement et librement au gré de ses envies, parcourant différentes régions.\nLorsque de la musique résonne à proximité, ses yeux s'illuminent et il se joint avec enthousiasme à la représentation."}
+{"id":1505256,"jp":"楽観的で明るい性格のフログーレは、音楽を愛するすべての生きものに友好的だ。だれかが落ち込んでいるときや、ネガティブな感情を感知したときは、音楽を奏でて相手を励まそうとする。","fr":"Optimiste et joyeux, Frogure se montre amical envers toutes les créatures qui aiment la musique. Lorsqu'il remarque que quelqu'un est abattu ou perçoit des émotions négatives, il tente de lui remonter le moral en jouant de la musique."}
+{"id":1505257,"jp":"フログレーミはとても自信に満ちており、周囲の音波の流れを操り、強力な音域を作り出すことができる。この音域内では、どんな者が生み出す音楽もフログレーミの音をかき消せない――いつもこの豪胆なやり方で、周囲にみずからの登場を知らしめるのだ！","fr":"Frogremi déborde de confiance en lui et peut manipuler les ondes sonores environnantes pour créer un puissant domaine sonore. À l'intérieur de ce domaine, aucune musique ne peut couvrir la sienne. C'est toujours de cette manière audacieuse qu'il annonce son arrivée à tous ceux qui l'entourent !"}
+{"id":1505258,"jp":"モーキュンは風船のような形をしたキボで、オジー旅団のマスコットとして都市国家フリス内でよく見かけられる。体のなかは空洞で丸く膨らんでおり、自然と宙に浮かぶ。性格は温和で親しみやすく、長きにわたり、知恵ある種族と生活をともにしてきた。","fr":"Mokyun est un Kibo en forme de ballon, fréquemment aperçu dans la Cité-État de Fleece en tant que mascotte de la brigade Ozzy. Son corps creux et arrondi flotte naturellement dans les airs. Doux et sociable, il partage depuis très longtemps la vie des peuples doués d'intelligence."}
+{"id":1505259,"jp":"クロディーメはおとなしく、わかりやすい性格で、たいていの場合はのんびりしている。身の危険に晒されたり、心配ごとを抱えていたりするときは、感情の変化がはっきりとわかる。","fr":"Clodime possède un tempérament docile et des émotions faciles à déchiffrer. Il passe généralement son temps à se détendre. Lorsqu'il se trouve en danger ou que quelque chose le préoccupe, ses changements d'humeur deviennent immédiatement perceptibles."}
 {"id":1505263,"jp":"メイズゲイザー","fr":"Maze Gazer"}
 {"id":1505266,"jp":"立派な体躯のキボで、強靭な筋肉、優れた馬力と持久力、そして驚異の体重を誇る。非常に優れた記憶力の持ち主で、幼いころに一番食べていた草の味まで覚えている。","fr":"Un Kibo à la carrure imposante, doté de muscles puissants, d'une force de traction et d'une endurance remarquables, et d'un poids stupéfiant. Sa mémoire est excellente : il se souvient même du goût de l'herbe qu'il mangeait le plus quand il était petit."}
 {"id":1505269,"jp":"赤蠍針の射手","fr":"Archer des Scorpions rouges"}
+{"id":1505270,"jp":"寡黙で神出鬼没な赤蠍団の遠距離射手。通常は単独で行動している。\n矢尻に毒を塗る赤蠍針の射手もいるが、獲物の売値が下がってしまううえ、ポーション代もばかにならず、外せば丸損になる。だからこそ彼らは出し惜しみして、めったにこの手を使わない。","fr":"Un tireur à longue distance des Scorpions rouges, taciturne et insaisissable, qui opère généralement seul.\nCertains archers à l'aiguillon des Scorpions rouges enduisent leurs pointes de flèches de poison. Toutefois, cela réduit la valeur marchande de leurs proies, les potions coûtent cher et chaque tir manqué représente une perte sèche. C'est pourquoi ils se montrent économes et recourent rarement à cette méthode."}
 {"id":1505271,"jp":"赤蠍螯の暴徒","fr":"Cogneur des Scorpions rouges"}
 {"id":1505273,"jp":"赤蠍甲の闘士","fr":"Lutteur des Scorpions rouges"}
 {"id":1505275,"jp":"赤蠍爪の略奪者","fr":"Pillard des Scorpions rouges"}
+{"id":1505276,"jp":"動きの素早い赤蠍団のメンバー。手にした2本の曲刀は、武器としてだけでなく、錠前破りや土掘り、家屋の解体にも用いられる。\nとはいえ、鋭い刃を持ちながらも、彼らは正面からの戦闘を嫌い、奇襲や多勢で圧倒することを好む。","fr":"Un membre particulièrement agile des Scorpions rouges. Ses deux lames recourbées ne servent pas uniquement d'armes, mais également à forcer des serrures, creuser la terre ou démolir des habitations.\nMalgré le tranchant de leurs lames, ces individus détestent les affrontements directs et préfèrent tendre des embuscades ou submerger leurs adversaires par leur supériorité numérique."}
 {"id":1505280,"jp":"狂化キャバード","fr":"Cabbird enragé"}
+{"id":1505281,"jp":"スーニヤに完全に侵蝕されたキャバード。外見には侵蝕以前の特徴がある程度残り、かつての習性や性格、記憶も一部とどめているが、生命の在り方は完全に変質している。あらゆる面で原生の凶獣とほぼ同一の特性を示す。","fr":"Un Cabbird entièrement corrompu par Sunya. Son apparence conserve certaines caractéristiques antérieures à l'érosion, ainsi qu'une partie de ses anciennes habitudes, de sa personnalité et de ses souvenirs. Toutefois, sa nature profonde a entièrement changé. À tous égards, il présente désormais des caractéristiques presque identiques à celles d'une Bête maudite originelle."}
 {"id":1505282,"jp":"ダルクナイト","fr":"Darc Knight"}
 {"id":1505284,"jp":"ダルクコマンド","fr":"Darc Commander"}
 {"id":1505286,"jp":"イビルアイ","fr":"Evil Eye"}
 {"id":1505288,"jp":"進化教団女祭司","fr":"Prêtresse du Culte de l'Évolution"}
+{"id":1505289,"jp":"戦闘に参加する進化教団の一般信徒。顔には豹女のマスクを着け、教団で共通の動きやすい女性用戦闘服をまとう。力を発動する際、両手首にカルマの円環魔法陣が現れる。","fr":"Une adepte ordinaire du Culte de l'Évolution participant aux combats. Elle porte un masque de femme-léopard et une tenue de combat féminine standard du culte, conçue pour faciliter ses mouvements. Lorsqu'elle libère sa puissance, des cercles de sortilège de Karma apparaissent autour de ses poignets."}
 {"id":1505290,"jp":"進化教団護教家","fr":"Apologète du Culte de l'Évolution"}
+{"id":1505291,"jp":"戦闘に参加する進化教団の一般信徒。熊のマスクを着け、進化教団の接近戦用戦闘服を着ている。がっしりとした体格と、そこから繰り出される重いハンマーの一撃が、進化教団の最下層の戦力となる。","fr":"Un adepte ordinaire du Culte de l'Évolution participant aux combats. Il porte un masque d'ours et une tenue du culte adaptée aux affrontements rapprochés. Sa constitution robuste et les lourds coups de marteau qu'elle lui permet d'asséner représentent le premier échelon des forces du Culte de l'Évolution."}
 {"id":1505292,"jp":"進化教団宣教師","fr":"Missionnaire du Culte de l'Évolution"}
 {"id":1505296,"jp":"チョフコ","fr":"Chofuko"}
+{"id":1505297,"jp":"チョフコは勇猛な性格で好奇心が強く、あちこちに突進するのが好きだ。\n刺激を受けると体内から灼熱の炎を放ち、頭頂部や体の一部の毛を燃やして敵を威嚇する。","fr":"Chofuko possède un tempérament intrépide et une grande curiosité. Il adore se lancer dans des ruées dans toutes les directions.\nLorsqu'il est provoqué, il libère des flammes brûlantes depuis l'intérieur de son corps, enflammant les poils au sommet de sa tête et sur certaines parties de son corps pour intimider ses ennemis."}
 {"id":1505298,"jp":"フィアラーガ","fr":"Fiaraga"}
 {"id":1505310,"jp":"断牙キングラーガ","fr":"Kingraga Croc-brisé"}
+{"id":1505311,"jp":"雷のごとくはやく、雷のごとく凶暴で、雷のごとく騒がしい！その体躯は同種よりもはるかに大きく、黄金に輝くたてがみと反り返った鋭い牙を備えている。消えることのない戦闘欲、これぞキングラーガ。すべてのボアラーガの頂点に君臨する絶対的な王である。","fr":"Rapide comme l'éclair, féroce comme la foudre et bruyant comme le tonnerre ! Bien plus imposant que ses congénères, il arbore une crinière dorée resplendissante et des défenses recourbées et acérées. Une soif de combat inextinguible, voilà ce qui définit Kingraga, le roi absolu qui règne sur tous les Boaraga."}
 {"id":1505312,"jp":"狂化ハルシヨン","fr":"Halcyon enragé"}
+{"id":1505313,"jp":"スーニヤに完全に侵蝕されたハルシヨン。外見はスーニヤの侵蝕を受けるまえの特徴がある程度残っており、かつての習性や性格、記憶も一部そのままだが、生命の在り方はすっかり変わってしまった。あらゆる面で原生の凶獣とほぼ同一の特性を示す。","fr":"Un Halcyon entièrement corrompu par Sunya. Son apparence conserve certaines caractéristiques antérieures à l'Érosion de Sunya, ainsi qu'une partie de ses anciennes habitudes, de sa personnalité et de ses souvenirs. Toutefois, sa nature profonde a entièrement changé. À tous égards, il présente désormais des caractéristiques presque identiques à celles d'une Bête maudite originelle."}
 {"id":1505314,"jp":"狂化トリマンダ","fr":"Trimanda enragé"}
+{"id":1505315,"jp":"スーニヤに完全に侵蝕されたトリマンダ。外見はスーニヤの侵蝕を受けるまえの特徴がある程度残っており、かつての習性や性格、記憶も一部そのままだが、生命の在り方はすっかり変わってしまった。あらゆる面で原生の凶獣とほぼ同一の特性を示す。","fr":"Un Trimanda entièrement corrompu par Sunya. Son apparence conserve certaines caractéristiques antérieures à l'Érosion de Sunya, ainsi qu'une partie de ses anciennes habitudes, de sa personnalité et de ses souvenirs. Toutefois, sa nature profonde a entièrement changé. À tous égards, il présente désormais des caractéristiques presque identiques à celles d'une Bête maudite originelle."}
 {"id":1505316,"jp":"狂化ライカウモ","fr":"Raikaumo enragé"}
+{"id":1505317,"jp":"スーニヤに完全に侵蝕されたライカウモ。外見はスーニヤの侵蝕を受けるまえの特徴がある程度残っており、かつての習性や性格、記憶も一部そのままだが、生命の在り方はすっかり変わってしまった。あらゆる面で原生の凶獣とほぼ同一の特性を示す。","fr":"Un Raikaumo entièrement corrompu par Sunya. Son apparence conserve certaines caractéristiques antérieures à l'Érosion de Sunya, ainsi qu'une partie de ses anciennes habitudes, de sa personnalité et de ses souvenirs. Toutefois, sa nature profonde a entièrement changé. À tous égards, il présente désormais des caractéristiques presque identiques à celles d'une Bête maudite originelle."}
 {"id":1505318,"jp":"狂化スカーレック","fr":"Scarleck enragé"}
+{"id":1505319,"jp":"スーニヤに完全に侵蝕されたスカーレック。外見はスーニヤの侵蝕を受けるまえの特徴がある程度残っており、かつての習性や性格、記憶も一部そのままだが、生命の在り方はすっかり変わってしまった。あらゆる面で原生の凶獣とほぼ同一の特性を示す。","fr":"Un Scarleck entièrement corrompu par Sunya. Son apparence conserve certaines caractéristiques antérieures à l'Érosion de Sunya, ainsi qu'une partie de ses anciennes habitudes, de sa personnalité et de ses souvenirs. Toutefois, sa nature profonde a entièrement changé. À tous égards, il présente désormais des caractéristiques presque identiques à celles d'une Bête maudite originelle."}
 {"id":1505320,"jp":"スーニヤ竜兵","fr":"Soldat-dragon de Sunya"}
 {"id":1505322,"jp":"エツィオ","fr":"Ezio"}
 {"id":1505324,"jp":"赤蠍眼の術士","fr":"Mage des Scorpions rouges"}
@@ -9269,6 +9450,9 @@
 {"id":1505330,"jp":"審問の堅壁騎士","fr":"Chevalier rempart de l'Inquisition"}
 {"id":1505332,"jp":"星脈琥珀","fr":"Ambre de veine stellaire"}
 {"id":1505334,"jp":"異彩のキャベッコ","fr":"Cabbeco Variante"}
+{"id":1505335,"jp":"霧隠れの森の奥深くに潜む、おぼろげな伝説。強い執念に惹きつけられて姿を現すが、返すのは気まぐれな悪戯ばかり。真実か幻か。夢か現実か。これこそ、触れることのできない妖精の蝶である。","fr":"Une légende évanescente tapie dans les profondeurs de la Forêt des Brumes. Attirée par les désirs les plus ardents, elle se manifeste pour n'offrir en retour que des farces capricieuses. Vérité ou illusion ? Rêve ou réalité ? Tel est ce papillon féerique que nul ne peut toucher."}
+{"id":1505336,"jp":"霧隠れの森の奥深くに潜み、昼は姿を隠し、夜になると現れるという謎めいた悪夢。夜を覆う濃い霧のように、だれもその正体を見極めることはできない。","fr":"Un mystérieux cauchemar qui, dit-on, se tapit dans les profondeurs de la Forêt des Brumes, se dissimulant le jour pour réapparaître à la nuit tombée. À l'image de l'épais brouillard qui enveloppe la nuit, sa véritable nature demeure insaisissable."}
+{"id":1505338,"jp":"タナの子孫の勇ましく力強いフィンヴォルフ。幼いころからハンターのテララとともにシャルル村で育ち、深い絆で結ばれている。勇敢で恐れ知らずで、どんな危険にも怯まないウルは、タナと同じように忠実で頼りになる。","fr":"Un Finwolf courageux et puissant, descendant de Tana. Depuis son plus jeune âge, il a grandi aux côtés de la chasseuse Terara au Village de Charlulu, et tous deux partagent un Lien profond. Brave et intrépide, Uru ne recule devant aucun danger. Tout comme Tana, il est d'une loyauté et d'une fiabilité exemplaires."}
 {"id":1505347,"jp":"カニア","fr":"Kania"}
 {"id":1505351,"jp":"フィアーク","fr":"Fearc"}
 {"id":1505353,"jp":"ニートミット","fr":"Neetmit"}
@@ -9278,6 +9462,7 @@
 {"id":1505361,"jp":"ララッポ","fr":"Larappo"}
 {"id":1505363,"jp":"幽藍のスカーレック","fr":"Scarleck bleu spectral"}
 {"id":1505364,"jp":"ウーチ","fr":"Uchi"}
+{"id":1505365,"jp":"ジェイディオンは極寒の氷海の深淵に生息していて、遠隔攻撃と術を扱う技巧に長けている。未知の探索を好み、深海に沈んだ人工物にも興味を示すが、岸に姿を現すことは滅多にない。","fr":"Jeidion vit dans les abysses des mers glaciales et excelle dans les attaques à distance ainsi que dans la maîtrise des arts magiques. Il aime explorer l'inconnu et s'intéresse notamment aux objets artificiels engloutis dans les profondeurs marines. Il est toutefois très rare de l'apercevoir près du rivage."}
 {"id":1505366,"jp":"狂化オータミット","fr":"Otamit enragé"}
 {"id":1505368,"jp":"狂化レオバーンド","fr":"Leoburnd enragé"}
 {"id":1505370,"jp":"狂化アズドラーン","fr":"Azdrahn enragé"}
@@ -9307,7 +9492,12 @@
 {"id":1505400,"jp":"キアラ","fr":"Kiara"}
 {"id":1505401,"jp":"星彩のガヤック","fr":"Gayak étoilé"}
 {"id":1505402,"jp":"赤蠍団のメンバー","fr":"Membre des Scorpions rouges"}
+{"id":1505403,"jp":"葉野菜そっくりなキボ。土のなかに潜るのが大好きでいつもご機嫌。怒るとぶつかってくることもあるが、殺傷力は皆無だ。キャベッコの野菜の部分は本体から分離することができない。無理に分離させると、キャベッコは二度と目覚めなくなってしまうという。","fr":"Un Kibo ressemblant à s'y méprendre à un légume à feuilles. Il adore s'enfouir dans la terre et affiche constamment une bonne humeur communicative. Il peut donner des coups de corps lorsqu'il est en colère, mais ceux-ci sont totalement inoffensifs. La partie végétale de Cabbeco est indissociable de son corps. On raconte que si elle est arrachée de force, Cabbeco ne se réveillera jamais."}
+{"id":1505404,"jp":"さまざまな生物の特徴を融合しながら、本質はまったく異なる奇怪な凶獣。シャドウブレイズを突き動かすものは、『捕食』への強烈な渇望。この凶獣にとっては同種すら餌となる。","fr":"Une étrange Bête maudite réunissant les caractéristiques de nombreuses créatures, tout en possédant une nature fondamentalement différente. Shadowblaze est animé par une soif insatiable de « dévoration ». Pour cette Bête maudite, même ses congénères ne sont que de simples proies."}
+{"id":1505405,"jp":"ボアラーガはこの世界に広く生息する雑食性のキボ。丸々とした体と頭部の前方にある奇妙な角、背中にある独特なたてがみが暴れん坊の印象を与えている。","fr":"Boaraga est un Kibo omnivore largement répandu à travers le monde. Son corps arrondi, l'étrange corne située à l'avant de sa tête et sa crinière dorsale caractéristique lui donnent une véritable allure de fauteur de troubles."}
 {"id":1505406,"jp":"スパイトホーン","fr":"Spitehorn"}
+{"id":1505407,"jp":"全身に鋭い棘が生えた、見るからに獰猛な巨鳥。通り過ぎたあとには骨と霜しか残らないため、不吉の象徴とされている。その存在は冬の凍てつく風と同じく破壊的だが、同時に生命の循環の一部でもある。","fr":"Un oiseau gigantesque à l'apparence féroce, dont le corps est entièrement hérissé d'épines acérées. Ne laissant derrière lui que des ossements et du givre, il est considéré comme un symbole de mauvais augure. Son existence est aussi destructrice que les vents glacials de l'hiver, mais elle fait également partie du cycle de la vie."}
+{"id":1505411,"jp":"古めかしい衣をまとい、頭に謎めいた札を貼った少女。\n陰気な雰囲気と青白い肌のせいで、見知らぬひとを不安にさせてしまう。だがそれ以上に、彼女のほうが見知らぬひとに飛び上がるほど驚いてしまうことのほうが多い。","fr":"Une jeune fille vêtue d'habits anciens, portant un mystérieux talisman collé sur le front.\nSon aura lugubre et sa peau pâle mettent les inconnus mal à l'aise. Pourtant, c'est bien souvent elle qui sursaute de frayeur lorsqu'elle rencontre quelqu'un qu'elle ne connaît pas."}
 {"id":1505412,"jp":"フレイムラーガ","fr":"Flameraga"}
 {"id":1505414,"jp":"禍津丸","fr":"Magatsumaru"}
 {"id":1505416,"jp":"操作が完了しました。","fr":"Opération terminée."}
@@ -9374,6 +9564,7 @@
 {"id":1505477,"jp":"その名前はすでに使用されています。","fr":"Ce nom est déjà utilisé."}
 {"id":1505478,"jp":"入力内容に使用できない文字が含まれています。","fr":"Le texte saisi contient des caractères non autorisés."}
 {"id":1505479,"jp":"使用できない文字が含まれています。","fr":"Contient des caractères non autorisés."}
+{"id":1505480,"jp":"UID:{0}\nお客様のアカウントは利用停止されています。ご不明点がございましたら、カスタマーサポートまでご連絡ください。\n停止解除日時：{1}\n停止理由：{2}","fr":"UID:{0}\nVotre compte a été suspendu. Pour toute question, veuillez contacter le service client.\nDate et heure de fin de suspension : {1}\nMotif de suspension : {2}"}
 {"id":1505481,"jp":"初期データはカスタマイズ済みです。","fr":"Les données initiales ont déjà été personnalisées."}
 {"id":1505482,"jp":"無効なターゲットです。","fr":"Cible invalide."}
 {"id":1505483,"jp":"アクセサリー情報はリクエスト済みです。","fr":"Les informations de l'accessoire ont déjà été demandées."}
@@ -10743,19 +10934,28 @@
 {"id":1506847,"jp":"第2期テスト","fr":"2e phase de test"}
 {"id":1506848,"jp":"星脈ノード","fr":"Nœud de veine stellaire"}
 {"id":1506849,"jp":"採石場","fr":"Carrière"}
+{"id":1506850,"jp":"<color=#3f892e>閃錫採鉱場</color>で<color=#3f892e>塵石</color>と<color=#3f892e>黄玉</color>の1日あたりの産出量アップ","fr":"Hausse de la production quotidienne de <color=#3f892e>pierre de poussière</color> et de <color=#3f892e>topaze</color> dans la <color=#3f892e>mine d'étain scintillant</color>"}
 {"id":1506851,"jp":"採鉱場","fr":"Mine"}
+{"id":1506852,"jp":"<color=#3f892e>閃錫採鉱場</color>で<color=#3f892e>閃錫</color>の1日あたりの産出量アップ","fr":"Hausse de la production quotidienne d'<color=#3f892e>étain scintillant</color> dans la <color=#3f892e>mine d'étain scintillant</color>"}
 {"id":1506853,"jp":"元素祭壇","fr":"Autel élémentaire"}
 {"id":1506854,"jp":"<color=#3f892e>元素の微粒子</color>の毎日の産出量が増加","fr":"Hausse de la production quotidienne de <color=#3f892e>particules élémentaires</color>"}
 {"id":1506855,"jp":"採集小屋","fr":"Cabane de cueillette"}
+{"id":1506856,"jp":"<color=#3f892e>果樹園</color>で<color=#3f892e>ムーンベリー</color>の産出を解放","fr":"Débloque la production de <color=#3f892e>baies lunaires</color> dans le <color=#3f892e>verger</color>"}
 {"id":1506857,"jp":"星輝採鉱場","fr":"Mine d'éclat stellaire"}
+{"id":1506858,"jp":"<color=#3f892e>星輝採鉱場</color>で<color=#3f892e>砕けた星輝鉱</color>の1日あたりの産出量アップ","fr":"Hausse de la production quotidienne de <color=#3f892e>minerai d'éclat stellaire concassé</color> dans la <color=#3f892e>mine d'éclat stellaire</color>"}
+{"id":1506859,"jp":"山の頂に鎮座し、硬い甲殻をまとう。角を突き合わせることはギガンシャウラにとって名誉をかけた闘いで、ぶつかり合うたびに力量と地位を争うことになる。","fr":"Il trône au sommet des montagnes, revêtu d'une carapace résistante. Pour Giganshaura, croiser les cornes constitue un combat d'honneur. Chaque affrontement est une occasion de mesurer sa puissance et de défendre son rang."}
 {"id":1506860,"jp":"絶景スポット","fr":"Point de vue"}
 {"id":1506861,"jp":"キボの謎解き","fr":"Énigme de Kibo"}
 {"id":1506862,"jp":"探索チャレンジ","fr":"Défi d'exploration"}
 {"id":1506863,"jp":"ウミィ発見","fr":"Découverte d'Umii"}
 {"id":1506864,"jp":"エリート挑戦","fr":"Défi d'élite"}
 {"id":1506865,"jp":"伐木場","fr":"Camp de bûcherons"}
+{"id":1506866,"jp":"<color=#3f892e>果樹園</color>で<color=#3f892e>軟らかい木</color>、<color=#3f892e>繊維</color>の1日あたりの産出量アップ","fr":"Hausse de la production quotidienne de <color=#3f892e>bois tendre</color> et de <color=#3f892e>fibres</color> dans le <color=#3f892e>verger</color>"}
+{"id":1506867,"jp":"<color=#3f892e>果樹園</color>で<color=#3f892e>ユースベリー</color>の産出を解放","fr":"Débloque la production de <color=#3f892e>baies de jouvence</color> dans le <color=#3f892e>verger</color>"}
 {"id":1506868,"jp":"<color=#3f892e>餌やり場</color>でキボのタマゴの産出を追加で解放","fr":"Débloque une production supplémentaire d'œufs de Kibo à l'<color=#3f892e>aire de nourrissage</color>"}
 {"id":1506869,"jp":"霧隠れの森の奥深くに潜み、昼は姿を隠して、夜になると現れるという謎めいた悪夢のような存在。","fr":"Existence mystérieuse, comme sortie d'un cauchemar, tapie au fond de la Forêt Voile-Brume : elle se cacherait le jour et apparaîtrait la nuit."}
+{"id":1506870,"jp":"<color=#3f892e>果樹園</color>で<color=#3f892e>リッチモモ</color>の産出を解放","fr":"Débloque la production de <color=#3f892e>pêches savoureuses</color> dans le <color=#3f892e>verger</color>"}
+{"id":1506871,"jp":"<color=#3f892e>餌やり場</color>で<color=#3f892e>獣肉</color>、<color=#3f892e>鳥肉</color>の1日あたりの産出量アップ","fr":"Hausse de la production quotidienne de <color=#3f892e>viande de bête</color> et de <color=#3f892e>volaille</color> dans l'<color=#3f892e>aire de nourrissage</color>"}
 {"id":1506875,"jp":"<color=#3f892e>元素の微粒子</color>の保管上限アップ","fr":"Hausse de la limite de stockage des <color=#3f892e>particules élémentaires</color>"}
 {"id":1506876,"jp":"荒野の主。それは力と威厳を表す暴風雨の中心。雷のようにはやく、雷のように凶暴で、雷のように騒々しい！","fr":"Maître des terres sauvages, centre de la tempête qui incarne la force et la majesté. Rapide comme la foudre, féroce comme la foudre, bruyant comme la foudre !"}
 {"id":1506877,"jp":"<color=#3f892e>果樹園</color>で果実の1日あたりの産出量アップ","fr":"Hausse de la production quotidienne de fruits au <color=#3f892e>verger</color>"}
