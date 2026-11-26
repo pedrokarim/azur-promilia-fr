@@ -1,0 +1,48 @@
+# Vérifie le français puis publie les fichiers lus par le patcher dans la release « latest ».
+# Le patcher télécharge :
+#   https://github.com/<compte>/azur-promilia-fr/releases/download/latest/strings.fr.jsonl
+name: Publier la traduction
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'fr/**'
+      - 'strings.translatable.jsonl'
+      - 'scripts/**'
+      - '.github/workflows/release.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release
+  cancel-in-progress: true
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Vérifier le français
+        run: node scripts/fr.mjs check
+      - name: Fabriquer les fichiers
+        run: |
+          node scripts/fr.mjs build --fallback en
+          node scripts/fr.mjs build --fallback jp
+          node scripts/fr.mjs build --accent-test
+          node scripts/fr.mjs stats | tee dist/stats.txt
+      - name: Publier dans la release « latest »
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! gh release view latest > /dev/null 2>&1; then
+            gh release create latest --prerelease --title "Traduction française (dernière version)" \
+              --notes "Mise à jour automatique à chaque modification de fr/strings.fr.jsonl."
+          fi
+          gh release upload latest dist/strings.fr.jsonl dist/strings.fr-jp.jsonl \
+            dist/strings.accent-test.jsonl dist/stats.txt --clobber

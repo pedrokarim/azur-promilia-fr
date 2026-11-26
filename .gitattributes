@@ -1,0 +1,2 @@
+# Fins de ligne LF partout, y compris pour le fichier amont (déjà en LF dans git).
+* text=auto eol=lf
