@@ -40313,7 +40313,7 @@
 {"id":1537334,"jp":"触ってもいいかな。","fr":"Je peux le toucher ?"}
 {"id":1537335,"jp":"たしかに……うっかりスノーブルのアイスと間違えちゃいそうなのだ……！","fr":"C'est vrai… On pourrait presque confondre ça avec une glace de Snowble… !"}
 {"id":1537336,"jp":"はっ、いかんいかん！食べもののことを考えてる場合じゃない！","fr":"Ah, non, non, non ! Ce n'est pas le moment de penser à manger !"}
-{"id":1537337,"jp":"手を伸ばして地面を撫でる。指先からぞくりとするような冷えきった感覚が伝わってきた。\n生命の気配はどこにも感じられない。","fr":"Tu tends la main pour effleurer le sol. Un froid glacial, à donner des frissons, remonte du bout de tes doigts.\nAucune trace de vie, nulle part."}
+{"id":1537337,"jp":"手を伸ばして地面を撫でる。指先からぞくりとするような冷えきった感覚が伝わってきた。\n生命の気配はどこにも感じられない。","fr":"Vous tendez la main pour effleurer le sol. Un froid glacial, à donner des frissons, remonte du bout de vos doigts.\nAucune trace de vie, nulle part."}
 {"id":1537338,"jp":"気をつけるのだ！スーニヤの侵蝕は見た目が変化するだけじゃない。\nここは、カルマの巡りから外れた文字どおり『死の大地』……","fr":"Fais attention ! L'Érosion de Sunya ne change pas seulement l'apparence des choses.\nIci, on est hors du cycle du Karma : c'est littéralement une « terre de mort »…"}
 {"id":1537339,"jp":"だけど、どうしてこの谷でスーニヤ侵蝕が？\n生命の存在しない場所でしか発生しないはずなのに……","fr":"Mais pourquoi y a-t-il de l'Érosion de Sunya dans cette vallée ?\nNormalement, ça ne se produit que dans les endroits dépourvus de vie…"}
 {"id":1537340,"jp":"おい、あれはなんだ！？黒い球体があるぞ！","fr":"Hé, c'est quoi, ça !? Il y a une sphère noire !"}
@@ -40383,98 +40383,750 @@
 {"id":1537404,"jp":"しーんとしてるな……\nこういうとこって危険が潜んでそうで、なんだかソワソワしちゃうのだ。","fr":"C'est drôlement silencieux…\nCe genre d'endroit, on dirait toujours qu'un danger s'y cache, ça me rend toute nerveuse."}
 {"id":1537405,"jp":"意外と臆病なんだな。ルミィは。","fr":"T'es plus froussarde que je pensais, Lumi."}
 {"id":1537406,"jp":"臆病じゃない！\nあたしはただ、下等生物とやり合いたくないだけなのだ！","fr":"Je ne suis pas froussarde !\nJe n'ai juste pas envie de me frotter à des créatures inférieures !"}
+{"id":1537407,"jp":"怖いんなら叫んでみろ。大声でさ。","fr":"Si t'as peur, crie un bon coup. Bien fort."}
+{"id":1537408,"jp":"だから！怖くなんて……","fr":"Mais puisque je te dis ! Je n'ai pas peur…"}
+{"id":1537409,"jp":"ほらほら、一緒に――？","fr":"Allez, allez, tous ensemble… ?"}
+{"id":1537410,"jp":"怖くなんかないって言ってるのだ！叫ぶ必要もなぁーーい！！","fr":"Je te dis que je n'ai pas peur ! Et je n'ai pas besoin de crieeer !!"}
+{"id":1537411,"jp":"どうだ！すこしは落ちついたか？","fr":"Alors ! Ça va un peu mieux ?"}
+{"id":1537412,"jp":"はあ……負けた気分なのだ。","fr":"Pfff… J'ai l'impression d'avoir perdu."}
+{"id":1537413,"jp":"ルミィ、テララ、手がかりは見つかった？","fr":"Lumi, Terara, vous avez trouvé des indices ?"}
+{"id":1537414,"jp":"目ぼしいものはとくにないな……\nでも、落ちてる羽根はどんどん増えてきてる。","fr":"Rien de bien intéressant…\nMais il y a de plus en plus de plumes par terre."}
+{"id":1537415,"jp":"ほんとに翼人がこのあたりにいるんだな。\nしょっちゅうケンカふっかけられてるって言ってたけど、原因はなんなのだ？","fr":"Il y a vraiment des Ailés dans le coin, alors.\nTu disais qu'ils vous cherchent souvent des noises, mais pourquoi, au juste ?"}
+{"id":1537416,"jp":"片方に翼があって片方にしっぽがあるから、お互いが気に食わないとか、\nそういうのはカンベンしてほしいのだ。","fr":"Si c'est parce que les uns ont des ailes et les autres une queue, et que vous ne vous supportez pas,\nce genre d'histoire, très peu pour moi."}
+{"id":1537417,"jp":"さすがにそんなんじゃ……いや、わからないな。\nもしかしたら、それも理由のひとつかも。","fr":"Quand même pas pour ça… Quoique, j'en sais rien.\nÇa fait peut-être partie des raisons."}
+{"id":1537418,"jp":"なあ、翼とか羽根って、意味あるか？\n飛んでもアタシの脚ならすぐ追いつけるしさ……\nずっと飛び続けるのもムリなんだろ〜？","fr":"Dis, à quoi ça sert vraiment, les ailes et les plumes ?\nMême en volant, je pourrais les rattraper en un rien de temps avec mes jambes…\nEt puis, ils ne peuvent pas voler indéfiniment, pas vrai~ ?"}
+{"id":1537419,"jp":"こら！暗にルミィさまのことを貶めるのはやめるのだ！","fr":"Hé ! Arrête de rabaisser la grande Lumi par sous-entendus !"}
+{"id":1537420,"jp":"あたしからすれば、しっぽこそ使い道がないのだ！","fr":"Si tu veux mon avis, c'est la queue qui ne sert à rien !"}
+{"id":1537421,"jp":"なんだと！しっぽには山ほどいいところがあるだろ！","fr":"Quoi ! Une queue, ça a plein d'avantages !"}
+{"id":1537422,"jp":"羽根だって、いろいろと便利なのだ！","fr":"Les ailes aussi, c'est pratique pour plein de choses !"}
 {"id":1537423,"jp":"しっぽ！","fr":"Les queues !"}
 {"id":1537424,"jp":"はーね！","fr":"Les ai-les !"}
+{"id":1537425,"jp":"星臨者！どっちがいいと思う？","fr":"Enfant des étoiles ! À ton avis, c'est quoi le mieux ?"}
 {"id":1537426,"jp":"しっぽ派かな。","fr":"Plutôt les queues, je dirais."}
 {"id":1537427,"jp":"羽根派かな。","fr":"Plutôt les ailes, je dirais."}
 {"id":1537428,"jp":"どっちもすばらしい！","fr":"Les deux sont magnifiques !"}
+{"id":1537429,"jp":"そんなことで争わないで。","fr":"Ne vous disputez pas pour si peu."}
+{"id":1537430,"jp":"さっすが～星臨者はわかってるな！","fr":"Je savais bien que l'Enfant des étoiles comprenait~ !"}
+{"id":1537431,"jp":"あとで特別にアタシのを触らせてやる。\n大事に手入れしてる極上のしっぽだぞ！","fr":"Plus tard, je te laisserai toucher la mienne, faveur spéciale.\nC'est une queue de premier choix, je la bichonne !"}
+{"id":1537432,"jp":"よくぞ言った。星臨者はアビィの背から見る景色を気に入っていたからな。\n空を飛べるのは、それだけで素晴らしいことなのだ！","fr":"Bien dit. L'Enfant des étoiles adorait la vue depuis le dos d'Abby, après tout.\nRien que de pouvoir voler, c'est merveilleux !"}
+{"id":1537433,"jp":"ちぇー！星臨者はウルにだって乗ったことあるし！\n今度ウルのふわふわでサラサラなしっぽを触らせてやる。そうすればよさがわかるはずだ！","fr":"Tss ! L'Enfant des étoiles a déjà monté Uru, aussi !\nLa prochaine fois, je te laisserai toucher la queue d'Uru, toute douce et soyeuse. Là, tu verras ce que ça a de bien !"}
+{"id":1537434,"jp":"えー！それじゃ意味が……って、\nなんかこの言い争い自体に意味ない気がしてきたな。","fr":"Hein ! Mais alors ça ne sert à rien… Attends,\nj'ai l'impression que c'est cette dispute elle-même qui ne sert à rien."}
+{"id":1537435,"jp":"たしかに。ケンカしてたのは翼人となのに、\nルミィと意地を張りあう必要はないな……","fr":"C'est vrai. C'est avec les Ailés qu'on se dispute,\nalors pas besoin de me chamailler avec Lumi…"}
+{"id":1537436,"jp":"はあーあ、やっぱり人間には、このキモチはわかんないかぁ……","fr":"Pff, de toute façon, un être humain peut pas comprendre ce qu'on ressent…"}
+{"id":1537437,"jp":"まったく、やれやれだ。","fr":"Franchement, quelle histoire."}
+{"id":1537438,"jp":"フン……ところで、ここが翼人のテリトリーだと言ってたな……\nそれなら、翼人たちはシフォンの居場所を知ってるかもしれないぞ。","fr":"Hmph… Au fait, tu disais que c'était le territoire des Ailés, ici…\nAlors les Ailés savent peut-être où est Chiffon."}
+{"id":1537439,"jp":"いっそのこと、声をかけて聞いてみるのはどうなのだ？","fr":"Et si on les appelait pour leur demander, tout simplement ?"}
+{"id":1537440,"jp":"聞くまえにケンカにならなきゃいいけどな……","fr":"Du moment que ça tourne pas à la bagarre avant même qu'on pose la question…"}
+{"id":1537441,"jp":"まっ、うっかりヤツらに出くわしても心配はいらないぞ。\nこのシャルル村いちのハンターがついてるからな！","fr":"Bah, même si on tombe sur eux par hasard, pas d'inquiétude.\nVous avez avec vous la meilleure chasseuse du Village de Charlulu !"}
+{"id":1537442,"jp":"星臨者？どうしたのだ。","fr":"Enfant des étoiles ? Qu'est-ce qu'il y a ?"}
+{"id":1537443,"jp":"もし、この森にこれと同じ花が咲いてたら、\nここまで探しにきたのが無駄になってしまうなって……","fr":"Je me disais que, si la même fleur pousse dans cette forêt,\ntout ce chemin n'aura servi à rien…"}
+{"id":1537444,"jp":"大丈夫だろ。すくなくともアタシはこのあたりでその花を見たことはない。","fr":"Ça devrait aller. En tout cas, moi, j'ai jamais vu cette fleur dans le coin."}
+{"id":1537445,"jp":"うむ、ウィスパーツリーはロースランサに生える植物なのだ。\nほかの場所で見ることはほとんどない。","fr":"Oui, l'arbre Murmure pousse à Lors Lains.\nOn n'en voit presque jamais ailleurs."}
+{"id":1537446,"jp":"まあ、この森がどうかは……","fr":"Bon, quant à savoir si dans cette forêt…"}
 {"id":1537447,"jp":"待て！！","fr":"Attends !!"}
+{"id":1537448,"jp":"この獲物は、アタシがもらったわ。","fr":"Ce gibier est à moi."}
+{"id":1537449,"jp":"はあぁ？この翼人のガキが。\nおとなから狩りの掟を教わってないのか！？","fr":"Hein ? Sale gamine d'Ailée.\nLes adultes t'ont jamais appris les règles de la chasse !?"}
+{"id":1537450,"jp":"獲物の所有権はとどめの矢を放った者にある。そうでしょ？","fr":"Le gibier appartient à celui qui décoche la flèche finale. Pas vrai ?"}
+{"id":1537451,"jp":"アタシがドゥルを角に追い込まなきゃ、出る幕もなかったくせに！","fr":"Sans moi pour coincer le Dur, t'aurais même pas eu ta chance !"}
+{"id":1537452,"jp":"あーでもないこーでもない！これだからしっぽ族は。","fr":"Toujours à pinailler ! C'est bien les porte-queues, ça."}
+{"id":1537453,"jp":"こっちのセリフだ、このチビ！","fr":"C'est moi qui devrais dire ça, microbe !"}
+{"id":1537454,"jp":"ふん、これで満足か？だれの得にもならなかったな。","fr":"Pff, t'es contente, là ? Personne n'y a gagné."}
 {"id":1537455,"jp":"あっ、ドゥルが！","fr":"Ah, le Dur !"}
+{"id":1537456,"jp":"これが翼人だ。昔っからアタシらにちょっかい出してきてさ。\nウザいったらありゃしない！","fr":"Voilà ce que c'est, un Ailé. Ça fait une éternité qu'ils viennent nous chercher des noises.\nIls sont trop pénibles !"}
 {"id":1537457,"jp":"知り合いなのか？","fr":"Tu la connais ?"}
+{"id":1537458,"jp":"まあな。まえも狩りのときにやりあったことがある。","fr":"Ouais. On s'est déjà accrochées pendant une chasse."}
+{"id":1537459,"jp":"さっきの矢……タイミングも風向きも、指先の感覚もバッチリだったのに……\n当たらないなんておかしいわ。","fr":"Cette flèche… Le moment, le sens du vent, la sensation au bout des doigts, tout était parfait…\nC'est bizarre qu'elle ait raté."}
+{"id":1537460,"jp":"フラミー、どうしてかわかる？\nやっぱり横から邪魔するやつがいたせいかな？","fr":"Flammy, tu sais pourquoi ?\nC'est parce que quelqu'un m'a gênée sur le côté, hein ?"}
+{"id":1537461,"jp":"ピッピッ、チッチィー？","fr":"Piou piou, tchi-tchii ?"}
+{"id":1537462,"jp":"おい、だれが邪魔したって！？\nアンタが邪魔しなきゃとっくに捕まえてたっての！","fr":"Hé, qui a gêné qui !?\nSi tu t'en étais pas mêlée, je l'aurais attrapé depuis longtemps !"}
+{"id":1537463,"jp":"うん、フラミーの言う通りね！\nアイツがいなければドゥルは捕まえられてたはずよ！","fr":"Oui, Flammy a raison !\nSans elle, on aurait attrapé le Dur, c'est sûr !"}
+{"id":1537464,"jp":"おい、キボに向かって皮肉ってんじゃない！こっちの話を聞けよ！","fr":"Hé, arrête de me lancer des piques à travers ton Kibo ! Écoute-moi quand je parle !"}
+{"id":1537465,"jp":"あ！見たことのない人間！","fr":"Ah ! Un être humain que je n'ai jamais vu !"}
+{"id":1537466,"jp":"はじめまして、アタシはミィティ。翼人の天才的な弓使いよ。\nそれからこの子はアタシのキボ、フラミーっていうの。","fr":"Enchantée, moi, c'est Mitty. Archère de génie des Ailés.\nEt lui, c'est mon Kibo, Flammy."}
+{"id":1537467,"jp":"あ……えっと。僕は{playerName}。みんなには、星臨者って呼ばれてる。|あ……えっと。私は{playerName}。みんなには、星臨者って呼ばれてるよ。","fr":"Ah… euh. Moi, c'est {playerName}. Tout le monde m'appelle l'Enfant des étoiles.|Ah… euh. Moi, c'est {playerName}. Tout le monde m'appelle l'Enfant des étoiles."}
+{"id":1537468,"jp":"お隣にいる妖精さんはお仲間？\n妖精って、伝説上の存在じゃなかったんだ。","fr":"La fée à côté de toi, c'est une amie à toi ?\nAlors les fées, ce n'est pas qu'une légende."}
+{"id":1537469,"jp":"ほう？翼人もこのルミィさまの伝説を知ってるのか。なかなか見どころがある。","fr":"Tiens ? Même les Ailés connaissent la légende de la grande Lumi ? Voilà quelqu'un de prometteur."}
+{"id":1537470,"jp":"さすが、羽根を持つ同志なのだ！","fr":"Ah, entre ailées, on se comprend !"}
+{"id":1537471,"jp":"おい！アタシを無視すんなって！もしかして聞こえてないのか？","fr":"Hé ! Faites pas comme si j'étais pas là ! Vous m'entendez pas, ou quoi ?"}
+{"id":1537472,"jp":"うーん、おかしいな。さっきからなんだか、弱ったキボの鳴き声が聞こえるような……\nいったいどこから――","fr":"Hmm, c'est bizarre. Depuis tout à l'heure, j'ai l'impression d'entendre les cris d'un Kibo mal en point…\nD'où ça peut bien venir…"}
+{"id":1537473,"jp":"あら！これはこれは、自称最強ハンターのテララさん？\nどーりでアンタ以外にそんな声を出せるヤツはいないもんね？","fr":"Oh ! Mais ce ne serait pas Terara, la soi-disant meilleure chasseuse ?\nPas étonnant, personne d'autre que toi ne pourrait pousser un cri pareil, hein ?"}
+{"id":1537474,"jp":"コイツ……アタシの矛は飾りじゃないぞ！","fr":"Espèce de… Ma lance, c'est pas de la déco !"}
+{"id":1537475,"jp":"ふぅん、それじゃあ、アタシの弓が飾りに見えたってわけ？","fr":"Tiens donc, tu veux dire que mon arc, lui, a l'air d'être de la déco ?"}
 {"id":1537476,"jp":"争いを止める。","fr":"Arrêter la dispute."}
 {"id":1537477,"jp":"話題をそらす。","fr":"Changer de sujet."}
+{"id":1537478,"jp":"いっそここで決闘したら？","fr":"Et si vous régliez ça en duel, ici et maintenant ?"}
+{"id":1537479,"jp":"ふたりとも落ち着いて。いまはもっと大事なことがある。","fr":"Calmez-vous, toutes les deux. Il y a plus important pour l'instant."}
+{"id":1537480,"jp":"ふん、星臨者が言うならしかたないな。あとで覚えてろよ。","fr":"Pff, si l'Enfant des étoiles le dit, je veux bien. Mais tu perds rien pour attendre."}
+{"id":1537481,"jp":"その言葉、そっくりそのまま返すわ。","fr":"Je te retourne le compliment."}
+{"id":1537482,"jp":"ところで、お昼にはなにを食べるのが好きかな？","fr":"Au fait, qu'est-ce que vous aimez manger, à midi ?"}
 {"id":1537483,"jp":"おいおい……","fr":"Oh, allez…"}
+{"id":1537484,"jp":"そんなわざとらしい話題のそらし方じゃ……","fr":"Si tu crois qu'en changeant de sujet aussi grossièrement…"}
+{"id":1537485,"jp":"そうね、アタシはエイプル添えの炙り肉が好きよ。","fr":"Voyons… moi, j'aime la viande grillée accompagnée d'Aple."}
 {"id":1537486,"jp":"ん～今日はルルカのお手製料理だったけどさ。\nいつもはだいたい携帯してる干し肉を食べることが多いんだ。","fr":"Mmh~ aujourd'hui, c'était un plat maison de Luruka.\nMais d'habitude, je mange surtout la viande séchée que je garde sur moi."}
+{"id":1537487,"jp":"って、真面目に答えてるし！","fr":"Et en plus, elles répondent sérieusement !"}
+{"id":1537488,"jp":"ちなみにあたしはフルーツと野菜のパイがだーい好きなのだ！","fr":"Pour info, moi, j'adore la tourte aux fruits et aux légumes !"}
+{"id":1537489,"jp":"こうなったらしかたない。ここで白黒つけたら？","fr":"Puisque c'est comme ça, pourquoi ne pas régler ça ici, une bonne fois pour toutes ?"}
+{"id":1537490,"jp":"その勝負、僕が預かろう。審判は任せて！|その勝負、私が預かるよ。審判は任せて！","fr":"Ce duel, je m'en charge. Je serai l'arbitre !|Ce duel, je m'en charge. Je serai l'arbitre !"}
+{"id":1537491,"jp":"待てまて！星臨者のおふざけに乗っちゃダメだぞ！","fr":"Attendez, attendez ! Ne marchez pas dans les bêtises de l'Enfant des étoiles !"}
+{"id":1537492,"jp":"ミィティ、僕らがここに来たのは、はぐれた仲間を探すためなんだ。|ミィティ、私たちがここに来たのは、はぐれた仲間を探すためなの。","fr":"Mitty, on est ici pour retrouver nos compagnons perdus.|Mitty, on est ici pour retrouver nos compagnons perdus."}
+{"id":1537493,"jp":"この花に見覚えはないかな？","fr":"Cette fleur, elle te dit quelque chose ?"}
+{"id":1537494,"jp":"間違いないわ！これ、先生がつけてる花ね！","fr":"Aucun doute ! C'est la fleur que porte ma maîtresse !"}
+{"id":1537495,"jp":"どうして先生のものをアンタが持ってるの？","fr":"Pourquoi est-ce que c'est toi qui as la fleur de ma maîtresse ?"}
 {"id":1537496,"jp":"先生？","fr":"Un professeur ?"}
+{"id":1537497,"jp":"そうよ。ちょっとまえに<ruby=ホークガル>鷹主</ruby>さまが助けた方で、すごい弓使いよ。","fr":"Oui. Une femme que le Seigneur Faucon a sauvée il y a peu. Une archère extraordinaire."}
+{"id":1537498,"jp":"弓を教えるかわりに、はぐれた仲間を探すのを \n手伝ってほしいと頼まれてるの。","fr":"Elle m'apprend à tirer à l'arc, et en échange,\nelle m'a demandé de l'aider à retrouver les compagnons dont elle a été séparée."}
+{"id":1537499,"jp":"探してるのはたしか、人間と妖精だって言ってたけど……","fr":"Elle cherche un être humain et une fée, si je me souviens bien…"}
 {"id":1537500,"jp":"それって――","fr":"Cela veut dire –"}
 {"id":1537501,"jp":"ルミィ＆ミィティ","fr":"Lumi & Mitty"}
+{"id":1537502,"jp":"あたしたちのことなのだ！\nアンタたちのことじゃん！","fr":"C'est nous !\nC'est vous !"}
+{"id":1537503,"jp":"アンタたちのことじゃん！","fr":"C'est vous !"}
+{"id":1537504,"jp":"その先生の名前って、もしかしてシンフォーリア？","fr":"Ta maîtresse, elle ne s'appellerait pas Symphoria, par hasard ?"}
+{"id":1537505,"jp":"そうよ！シンフォーリア先生！","fr":"Si ! Maîtresse Symphoria !"}
+{"id":1537506,"jp":"やったぁー！やっとシフォンが見つかったのだ！","fr":"Ouaiiis ! On a enfin retrouvé Chiffon !"}
+{"id":1537507,"jp":"ミィティ、シンフォーリアのところに連れてってくれる？","fr":"Mitty, tu peux nous emmener voir Symphoria ?"}
+{"id":1537508,"jp":"もちろんいいわ。\nでも……いま先生がどこにいるか、アタシも知らないの。","fr":"Bien sûr.\nMais… je ne sais pas non plus où est ma maîtresse en ce moment."}
+{"id":1537509,"jp":"先生はいま仲間の狩りに同行してるのよ。アンタたちを探すためにね。\nこのあたりの山地はかなり広いから、探そうとしても簡単に見つからないと思う。","fr":"Elle accompagne les nôtres à la chasse. Justement pour vous chercher.\nLes montagnes du coin sont immenses, ça m'étonnerait que vous la trouviez facilement en la cherchant."}
+{"id":1537510,"jp":"でも、心配はいらないわ。狩りが終わったら合図があるから。\nそのときに行けば、きっと先生にも会えるはずよ。","fr":"Mais ne vous en faites pas. Il y aura un signal quand la chasse sera finie.\nSi on y va à ce moment-là, vous pourrez la voir, c'est sûr."}
+{"id":1537511,"jp":"それなら、待つしかないかぁ。\nシフォン！あとちょっとで会えるのだ！","fr":"Alors il n'y a plus qu'à attendre.\nChiffon ! Encore un petit peu et on se retrouve !"}
+{"id":1537512,"jp":"あ、でもね。このシャルル村の狼しっぽ娘は、里に連れて行く気はないから！","fr":"Ah, mais par contre, la Queue-de-loup du Village de Charlulu, là, pas question que je l'emmène au village !"}
+{"id":1537513,"jp":"はあぁ？なんだよ。\n狩りから手ぶらで帰って、里の連中に笑われるとこを見られたくないのか？　","fr":"Hein ? Qu'est-ce que tu racontes ?\nTu veux pas que je te voie rentrer bredouille de la chasse et subir les moqueries des gens de ton village ?"}
+{"id":1537514,"jp":"こ、今回の任務は偵察だもの……！獲物があろうとなかろうと関係ないわ！","fr":"C-cette fois, notre mission, c'est de la reconnaissance… ! Gibier ou pas, ça ne compte pas !"}
+{"id":1537515,"jp":"このごろ鷹の連峰に、見たことのない生きものがたくさん現れてね。\nアタシたちも手を焼いてるの。","fr":"Ces derniers temps, plein de créatures jamais vues sont apparues dans les Monts du Faucon.\nOn a du mal à s'en débarrasser."}
+{"id":1537516,"jp":"先生が言うには、『凶獣』って名前らしいわ。","fr":"D'après ma maîtresse, on les appelle des « Bêtes maudites »."}
+{"id":1537517,"jp":"凶獣？そっちにも出たのか！","fr":"Des Bêtes maudites ? Il y en a chez vous aussi !?"}
+{"id":1537518,"jp":"近ごろヤツらの動きがやけに活発なのだ。原因はいったい――","fr":"Ces derniers temps, elles sont drôlement actives. Qu'est-ce qui peut bien…"}
+{"id":1537519,"jp":"どうしたのだ？これはさっき言ってた合図じゃないのか？","fr":"Qu'est-ce qu'il y a ? Ce n'est pas le signal dont tu parlais ?"}
+{"id":1537520,"jp":"違う！これは翼人の救援信号だ！","fr":"Non ! C'est le signal de détresse des Ailés !"}
+{"id":1537521,"jp":"ごめん。狩りに出た仲間になにかあったみたい。すぐに行かなきゃ！\nアンタたちは里で待ってて！場所はそこの狼しっぽ娘が知ってるわ！","fr":"Désolée. Il a dû arriver quelque chose aux autres, à la chasse. Je dois y aller tout de suite !\nAttendez-moi au village ! La Queue-de-loup, là, sait où il est !"}
+{"id":1537522,"jp":"ミィティの行ったほうに厄介な凶獣の気配がする！\nひとりで行かせたら危ないぞ。","fr":"Je sens une Bête maudite coriace du côté où Mitty est partie !\nC'est dangereux de la laisser y aller seule."}
+{"id":1537523,"jp":"どーするんだ？翼人の里には行かないのか？","fr":"Alors, on fait quoi ? On va pas au Village des Ailés ?"}
+{"id":1537524,"jp":"まあ、あの里にはたしかに忍び込んだことがあるけどさ。\nそんときは翼人どもに気づかれて追い出されてるんだよな……","fr":"Bon, c'est vrai que je me suis déjà faufilée dans ce village.\nMais les emplumés m'avaient repérée et mise dehors…"}
+{"id":1537525,"jp":"ミィティを助けないと。","fr":"Il faut aider Mitty."}
+{"id":1537526,"jp":"シンフォーリアも駆けつけるはずだよ。","fr":"Symphoria va sûrement accourir, elle aussi."}
+{"id":1537527,"jp":"凶獣はみんなの敵だよ。一緒に倒そう。","fr":"Les Bêtes maudites sont l'ennemi de tous. Battons-les ensemble."}
+{"id":1537528,"jp":"おぉ！なんだか頼もしくなったのだ！","fr":"Oh ! Te voilà drôlement fiable, dis donc !"}
+{"id":1537529,"jp":"そのとーり！この気配をシフォンが見逃すはずない！","fr":"Exactement ! Chiffon ne laisserait jamais passer une présence pareille !"}
+{"id":1537530,"jp":"いやいや……そりゃ理屈じゃそうだけど。","fr":"Non, non… En théorie, d'accord, mais bon."}
+{"id":1537531,"jp":"ぐだぐだ言ってる場合じゃない！行こう！","fr":"C'est pas le moment de tergiverser ! On y va !"}
+{"id":1537532,"jp":"あああ！もう知らないぞ！","fr":"Rhaaa ! Je m'en lave les mains !"}
+{"id":1537533,"jp":"アタシは凶獣をボコりに行くんだからな！\nあの翼もちどもを助けるためじゃない！","fr":"Moi, je vais tabasser des Bêtes maudites, hein !\nPas aider ces emplumés !"}
+{"id":1537534,"jp":"……これで最後でしょうか？","fr":"… C'étaient les dernières ?"}
+{"id":1537535,"jp":"隊長……凶獣の気配、すべて消失……！","fr":"Capitaine… Plus aucune présence de Bête maudite… !"}
+{"id":1537536,"jp":"恐ろしい敵だったな。\nシンフォーリアの助言に従い、コアを破壊していなければ危ういところだった。","fr":"C'était un ennemi redoutable.\nSi on n'avait pas suivi le conseil de Symphoria et détruit les noyaux, on aurait été en mauvaise posture."}
+{"id":1537537,"jp":"よくやったぞ、ミィティ。","fr":"Beau travail, Mitty."}
+{"id":1537538,"jp":"さっきまで怖い顔で、引き止めようとしてたのに……","fr":"Et dire que tout à l'heure, tu faisais une tête terrible en essayant de la retenir…"}
+{"id":1537539,"jp":"コホン！あれはただ、心配していたんだ。","fr":"Hum hum ! Je m'inquiétais pour elle, c'est tout."}
+{"id":1537540,"jp":"隊長も、ミィティのことはよくわかってんだろ？\nあの気性は父親譲りだ！最後の一瞬まで戦い抜くぜ。","fr":"Toi aussi, capitaine, tu la connais bien, Mitty, pas vrai ?\nCe caractère, elle le tient de son père ! Elle se battra jusqu'au dernier instant."}
+{"id":1537541,"jp":"敵の数があと数百増えたって、仲間を置いて逃げるなんてことはねぇよ。","fr":"Même avec quelques centaines d'ennemis de plus, elle ne fuirait jamais en abandonnant les siens."}
+{"id":1537542,"jp":"ふ……ふん！この程度……準備運動にもならないわ！","fr":"P-pff ! Ça… ça ne m'a même pas servi d'échauffement !"}
+{"id":1537543,"jp":"はは、足がまだ震えてるぞ？","fr":"Ha ha, tes jambes tremblent encore, hein ?"}
 {"id":1537544,"jp":"ふ、震えてなんか！","fr":"J-je ne tremble pas du tout !"}
+{"id":1537545,"jp":"撤収だ。リンカ、鷹笛を吹き鳴らせ。皆に危機が去ったことを伝えるんだ。","fr":"On se replie. Rinka, souffle dans le sifflet à faucon. Préviens tout le monde que le danger est écarté."}
+{"id":1537546,"jp":"隊長……その必要はなさそうだよ。あそこに……","fr":"Capitaine… je crois que ce ne sera pas nécessaire. Regarde là-bas…"}
+{"id":1537547,"jp":"「<ruby=くそっ>バグザッ</ruby>」！またわらわらと！","fr":"« <ruby=Bon sang>Bagza</ruby> » ! Les voilà encore qui arrivent en masse !"}
 {"id":1537548,"jp":"そ……そんな……","fr":"N-non, pas possible…"}
+{"id":1537549,"jp":"体勢を立て直せ！迎撃だ！","fr":"Reformez les rangs ! On les intercepte !"}
+{"id":1537550,"jp":"ふぅ！やっと追いつけたのだ！","fr":"Ouf ! On y est enfin !"}
+{"id":1537551,"jp":"ミィティ、助けに来たよ！","fr":"Mitty, on vient t'aider !"}
+{"id":1537552,"jp":"ミィティ、その方たちは？","fr":"Mitty, qui sont ces gens ?"}
+{"id":1537553,"jp":"シンフォーリア先生が探してた仲間です！","fr":"Ce sont les compagnons que Maîtresse Symphoria cherchait !"}
+{"id":1537554,"jp":"そうだったか。すまない……\nもてなしたいところだが、いまは状況が――","fr":"Je vois. Pardonnez-nous…\nNous aimerions vous accueillir comme il se doit, mais pour l'heure, la situation…"}
+{"id":1537555,"jp":"説明はいらない。一緒に戦うよ。","fr":"Pas besoin d'explications. On se bat avec vous."}
+{"id":1537556,"jp":"おもてなしは戦いのあとで。","fr":"On verra l'accueil après le combat."}
+{"id":1537557,"jp":"仲間が世話になった恩を返すよ。","fr":"Vous avez veillé sur notre amie, à nous de vous rendre la pareille."}
+{"id":1537558,"jp":"ああ！ともに戦おう！右手は任せたぞ、俺たちは左の群れを叩く。","fr":"Oui ! Battons-nous ensemble ! Je vous laisse le flanc droit, nous frappons la horde de gauche."}
+{"id":1537559,"jp":"アンタに背中を任せるなんて……","fr":"Devoir compter sur toi pour couvrir mes arrières…"}
+{"id":1537560,"jp":"な、なんでもないわ！フラミー、行くよ！","fr":"C-ce n'est rien ! Flammy, on y va !"}
+{"id":1537561,"jp":"ふぅ！やっと一段落なのだ！","fr":"Ouf ! On peut enfin souffler !"}
+{"id":1537562,"jp":"おい！あとできっちり決着をつけるぞ！","fr":"Hé ! On règle nos comptes plus tard, et pour de bon !"}
+{"id":1537563,"jp":"望むところよ！里の入口で待ってるわ！覚悟してきなさい！","fr":"Avec plaisir ! Je t'attendrai à l'entrée du village ! Prépare-toi !"}
 {"id":1537564,"jp":"むむぅーー！","fr":"Grrr !"}
 {"id":1537565,"jp":"ピイィー……","fr":"Piiiii…"}
 {"id":1537566,"jp":"この咆哮は――","fr":"Ce rugissement –"}
 {"id":1537567,"jp":"ま、またぁ！？","fr":"E-encore !?"}
+{"id":1537568,"jp":"ちょうどいい！どっちがたくさん倒せるか、勝負だ！","fr":"Ça tombe bien ! On fait un concours : celle qui en abat le plus a gagné !"}
+{"id":1537569,"jp":"ふん！アンタに吠え面かかせてやるわ！","fr":"Pff ! Je vais te faire ravaler ta fierté !"}
 {"id":1537570,"jp":"シンフォーリア！","fr":"Symphoria !"}
+{"id":1537571,"jp":"かわいいシフォン、ひとりで大変だったのだ？","fr":"Ma petite Chiffon, ça n'a pas été trop dur, toute seule ?"}
+{"id":1537572,"jp":"私は大丈夫ですよ、ルミィ。\nそちらは？おケガはありませんでしたか……？","fr":"Je vais bien, Lumi.\nEt vous ? Pas de blessure… ?"}
+{"id":1537573,"jp":"こっちも大丈夫だったよ。","fr":"Pour nous aussi, tout s'est bien passé."}
+{"id":1537574,"jp":"星臨者さま……よかったです！","fr":"Enfant des étoiles… Quel soulagement !"}
+{"id":1537575,"jp":"星臨者さまにもしものことがあったら、私……","fr":"S'il vous était arrivé quoi que ce soit, je…"}
+{"id":1537576,"jp":"ちょっとケガしたけどもう治ったよ。","fr":"J'ai pris quelques coups, mais c'est déjà guéri."}
+{"id":1537577,"jp":"泣かないで！もうすっかり元気だよ。","fr":"Ne pleure pas ! Je suis en pleine forme."}
+{"id":1537578,"jp":"それより、シンフォーリアが心配で。","fr":"Surtout, c'est pour toi que je m'inquiétais, Symphoria."}
+{"id":1537579,"jp":"おケガをしたのですか！？傷はどこに？痛みは？","fr":"Vous avez une blessure !? Où ça ? Vous avez mal ?"}
+{"id":1537580,"jp":"ご、ごめんなさい。私ったら。","fr":"P-pardon. Qu'est-ce qui me prend…"}
+{"id":1537581,"jp":"ありがとうございます……星臨者さま。\nご心配をおかけしました。","fr":"Merci… Enfant des étoiles.\nJe suis désolée de vous avoir causé du souci."}
+{"id":1537582,"jp":"申し訳ありません。\n守ると言ったのに、お役に立てませんでした……","fr":"Je suis navrée.\nJ'avais promis de vous protéger, et je n'ai été d'aucune aide…"}
+{"id":1537583,"jp":"空から落ちる途中で気を失って、\n意識が戻ったときには翼人の里だったんです……","fr":"J'ai perdu connaissance pendant la chute,\net quand je suis revenue à moi, j'étais au Village des Ailés…"}
+{"id":1537584,"jp":"すぐに探しに行くこともできず、\nこうして星臨者さまに見つけていただくなんて……","fr":"Je n'ai même pas pu partir à votre recherche tout de suite,\net c'est vous qui avez fini par me retrouver…"}
+{"id":1537585,"jp":"まあまあ……あれは完全な事故！だーれも悪くないのだ！\nそれよりも、こうしてまた会えたことに感謝しないと！","fr":"Allons, allons… C'était un accident, voilà tout ! Personne n'y est pour rien !\nRéjouissons-nous plutôt de nous retrouver !"}
+{"id":1537586,"jp":"……ええ、そうですね！","fr":"… Oui, vous avez raison !"}
+{"id":1537587,"jp":"ところで、こちらにはどうやって来たのですか？","fr":"Au fait, comment avez-vous fait pour venir jusqu'ici ?"}
+{"id":1537588,"jp":"うーん、話せば長くなるのだ……","fr":"Hmm, c'est une longue histoire…"}
+{"id":1537589,"jp":"ここ数日のことをシンフォーリアに伝えた。","fr":"Vous avez raconté à Symphoria tout ce qui s'est passé ces derniers jours."}
+{"id":1537590,"jp":"そうだったのですね。テララさん、それにシャルル村の皆さんも……\n星臨者さまを助けてくださって、ありがとうございました！","fr":"Je vois. Mademoiselle Terara, et vous tous, au Village de Charlulu…\nMerci d'avoir aidé l'Enfant des étoiles !"}
 {"id":1537591,"jp":"いいっていいって！","fr":"Pas de quoi, pas de quoi !"}
+{"id":1537592,"jp":"それと、さん付けはなし！なんかくすぐったい。","fr":"Et laisse tomber le « mademoiselle » ! Ça me chatouille."}
+{"id":1537593,"jp":"わかりました。では、テララと。","fr":"Entendu. Alors, ce sera Terara."}
+{"id":1537594,"jp":"あたしたちも、シフォンを助けてくれた翼人にお礼を言わなきゃ。","fr":"Nous aussi, on doit remercier les Ailés qui ont aidé Chiffon."}
+{"id":1537595,"jp":"ありがとう、ミィティ。","fr":"Merci, Mitty."}
+{"id":1537596,"jp":"えっ！ア、アタシはなにもしてないわ。\n先生には弓の扱いを教えてもらったくらいだし！","fr":"Hein ! M-moi, je n'ai rien fait.\nTout ce que j'ai fait, c'est apprendre l'arc avec ma maîtresse !"}
+{"id":1537597,"jp":"あ！そうだ、アビィはどこなのだ？一緒じゃないのか？","fr":"Ah ! Au fait, où est Abby ? Elle n'est pas avec vous ?"}
+{"id":1537598,"jp":"アビィはすこしケガが重くて、まだ目を開けていないのです。","fr":"Abby est plus gravement blessée, elle n'a pas encore rouvert les yeux."}
+{"id":1537599,"jp":"ですが、心配はいりません。\nイグドラシルの挿し木の庭で回復していますから。","fr":"Mais ne vous inquiétez pas.\nElle se remet dans le jardin de la bouture d'Yggdrasil."}
+{"id":1537600,"jp":"この谷にも<color=#fed196>イグドラシルのひと枝</color>があったのか。\nということは、<color=#fed196>ガーデナー</color>もここに……？","fr":"Il y avait donc aussi une <color=#fed196>branche d'Yggdrasil</color> dans cette vallée.\nÇa voudrait dire qu'un <color=#fed196>jardinier</color> est ici aussi… ?"}
+{"id":1537601,"jp":"ええ、星臨者さまたちを探す途中でお会いしました。","fr":"Oui, je l'ai rencontrée en vous cherchant."}
+{"id":1537602,"jp":"知り合ったばかりですが、とても誠実で信頼できるガーデナーです。\n彼女が看ていてくれれば、アビィもきっとよくなるでしょう。","fr":"Nous venons à peine de faire connaissance, mais c'est une jardinière très sincère, digne de confiance.\nSi c'est elle qui veille sur Abby, Abby ira mieux, j'en suis sûre."}
+{"id":1537603,"jp":"おい、ちょっと待った！さっきからなんの話をしてるんだ？\nアビィ？イグドラシルの挿し木？ガーデナー？まったくついていけてないぞ！","fr":"Hé, minute ! De quoi vous parlez, depuis tout à l'heure ?\nAbby ? Une bouture d'Yggdrasil ? Une jardinière ? J'y comprends rien !"}
+{"id":1537604,"jp":"アビィ以外は、僕も……|アビィ以外は、私も……","fr":"Pareil pour moi, à part Abby…|Pareil pour moi, à part Abby…"}
+{"id":1537605,"jp":"覚えることがまた増えた！|覚えることがまた増えた！","fr":"Encore des trucs à retenir !|Encore des trucs à retenir !"}
+{"id":1537606,"jp":"やれやれ……戦いが終わったばかりなのに、今度は説明タイムか。\nちょっとは休みたいのだ……","fr":"Pfff… À peine le combat fini, voilà déjà l'heure des explications.\nJ'aimerais bien me reposer un peu…"}
+{"id":1537607,"jp":"ふふ、アビィは私たちの仲間。碧いドラゴンの幼獣です。","fr":"Hihi, Abby est notre compagne de route. Un jeune dragon azur."}
+{"id":1537608,"jp":"イグドラシルの挿し木は、ウッドエルフが世界中に植えているイグドラシルの枝で……\nあたり一帯の大地を癒し、浄化してくれます。","fr":"Une bouture d'Yggdrasil, c'est une branche d'Yggdrasil que les Elfes des bois plantent partout dans le monde…\nElle soigne et purifie la terre tout autour d'elle."}
+{"id":1537609,"jp":"そのようなイグドラシルの挿し木を守護する\nウッドエルフがガーデナーと呼ばれているんです。","fr":"On appelle « jardiniers » les Elfes des bois\nqui veillent sur ces boutures d'Yggdrasil."}
+{"id":1537610,"jp":"この谷にそんな不思議な場所があったのか？すごいな、はじめて聞いたぞ！","fr":"Il y avait un endroit aussi mystérieux dans cette vallée ? Incroyable, c'est la première fois que j'en entends parler !"}
+{"id":1537611,"jp":"たしかに……辺鄙な山奥かと思えば、つぎからつぎへと秘密がでてくる。\nおもしろい場所なのだ！","fr":"C'est vrai… Je croyais que c'était un coin perdu au fond des montagnes, mais les secrets n'arrêtent pas de surgir.\nQuel endroit intéressant !"}
+{"id":1537612,"jp":"ねえ……その、立ち話もなんじゃない？続きは里に帰ってからにしたら。\n凶獣ももう倒したし、ここにいる必要はもうないでしょ。","fr":"Dites… euh, on ne va pas discuter ici debout, si ? On pourrait continuer au village.\nLes Bêtes maudites sont vaincues, plus besoin de rester ici."}
+{"id":1537613,"jp":"アンタたちには助けてもらった恩がある。\nみんなだって、お礼が言いたいはずよ！","fr":"Vous nous avez sauvés, on vous doit une fière chandelle.\nTout le monde voudra vous remercier, c'est sûr !"}
+{"id":1537614,"jp":"ん〜……翼人の里か。アンタたちが行くなら、ついてくしかないけど……","fr":"Hmm… Le Village des Ailés, hein. Si vous y allez, je suppose que j'ai pas d'autre choix que de vous accompagner…"}
+{"id":1537615,"jp":"そういえば、翼人の里でなにかやらかしたんだったな。\nイヤならひとりで戻っててもいいんだぞ？","fr":"Au fait, tu as fait une bêtise au Village des Ailés, c'est ça ?\nSi ça t'embête, tu peux rentrer toute seule, tu sais ?"}
+{"id":1537616,"jp":"いやいやいや！行く、行くよ！\n星臨者をちゃんとガイドしなかったってルルカに思われたら、\nぜーったいに大目玉を食らうからな！","fr":"Non, non, non ! J'y vais, j'y vais !\nSi Luruka pense que j'ai mal guidé l'Enfant des étoiles,\nje vais me faire passer un savon comme jamais !"}
+{"id":1537617,"jp":"ふふ、翼人の皆さんはとても親切で優しいですから。きっと大丈夫です。","fr":"Hihi, les Ailés sont très gentils et attentionnés. Tout ira bien, j'en suis sûre."}
+{"id":1537618,"jp":"ザンク隊長！こちらは問題ありませんか？","fr":"Capitaine Zank ! Tout va bien de ce côté ?"}
+{"id":1537619,"jp":"ああ！そちらも無事だったようだな。\nシンフォーリアも、仲間と合流できたようでなによりだ。","fr":"Oui ! Vous aussi, vous vous en êtes sortis, on dirait.\nEt Symphoria, je suis content que tu aies retrouvé tes compagnons."}
+{"id":1537620,"jp":"ありがとうございます。\nこちらにも凶獣が押し寄せたようですが、皆さんがご無事でよかったです。","fr":"Merci beaucoup.\nIl semble que les Bêtes maudites aient déferlé de ce côté aussi, mais je suis soulagée que tout le monde soit sain et sauf."}
+{"id":1537621,"jp":"ああ、傷を負った者もいるが、さいわいなことに大事はないようだ。\nこれも鷹神さまのご加護だな。","fr":"Oui, il y a des blessés, mais rien de grave, heureusement.\nC'est la protection du dieu Faucon."}
+{"id":1537622,"jp":"勇士たちよ、助太刀に感謝する。\n諸君らが前に立ち、凶獣の群れを食い止めてくれたおかげで、乗り越えることができた。","fr":"Vous avez fait preuve de bravoure, merci de votre renfort.\nC'est grâce à vous, en première ligne pour contenir la horde, que nous avons pu tenir bon."}
+{"id":1537623,"jp":"すまない、さきほどは戦況が急を要していたので、挨拶が遅れてしまったな。\n俺はザンク、翼衛戦士隊の隊長だ。","fr":"Pardon, le combat pressait tant que je ne me suis pas présenté plus tôt.\nJe suis Zank, capitaine des guerriers de la Garde ailée."}
+{"id":1537624,"jp":"はじめまして、僕は {playerName}。|はじめまして、私は {playerName}。","fr":"Bonjour, je m'appelle {playerName}.|Bonjour, je m'appelle {playerName}."}
+{"id":1537625,"jp":"この大妖精のことは、ルミィさまと呼ぶといい！","fr":"Et cette Grande Fée, tu peux l'appeler « Dame Lumi » !"}
+{"id":1537626,"jp":"ンン……アタシはテララだ……よろしく。","fr":"Hum… Moi, c'est Terara… Salut."}
+{"id":1537627,"jp":"あれれ〜？いきなり声が小さくなったのだ。\nいつもなら、「アタシはシャルル村の最強ハンターだ！」とか言いそうなのにな～","fr":"Tiens, tiens~ ? Ta voix est soudain devenue toute petite.\nD'habitude, tu crierais quelque chose comme : « Je suis la meilleure chasseuse du Village de Charlulu ! »~"}
 {"id":1537628,"jp":"こら、黙ってろ……！","fr":"Hé, tais-toi…!"}
+{"id":1537629,"jp":"はは！諸君らに翼衛戦士を代表して礼を言う。\n君たちの助けがなければ、我々のなかから空に還る者が出ていただろう。","fr":"Ha ha ! Au nom des guerriers de la Garde ailée, je vous remercie tous.\nSans votre aide, certains d'entre nous seraient retournés au ciel."}
+{"id":1537630,"jp":"シャルル村のテララ……君の村と俺たちの里との関係は良好とは言えない。\nだが、こうして助けてくれたことには感謝している。","fr":"Terara du Village de Charlulu… Les relations entre ton village et le nôtre sont loin d'être bonnes.\nMais je te suis reconnaissant de nous avoir aidés."}
+{"id":1537631,"jp":"心に刻んでおこう。借りがひとつできた。","fr":"Je le graverai dans mon cœur. Nous t'en devons une."}
+{"id":1537632,"jp":"ふん……アタシは星臨者を助けただけだ。勘違いすんな……","fr":"Pff… J'ai juste aidé l'Enfant des étoiles. Va pas te faire des idées…"}
+{"id":1537633,"jp":"ふんっ、狼の口から虎の牙が生えてこないとはこのことね。\n立派な言葉なんて期待するだけ無駄だわ。","fr":"Pff, une gueule de loup ne fera jamais pousser des crocs de tigre, comme on dit.\nInutile d'espérer de jolies paroles de sa part."}
+{"id":1537634,"jp":"ミィティにも助けられたよ。弓の腕前もすごかった。","fr":"Toi aussi, Mitty, tu nous as été d'une grande aide. Et tu tires à l'arc comme personne."}
+{"id":1537635,"jp":"アタシが……？ほ、ほんと……？えへへ。","fr":"Moi… ? C-c'est vrai… ? Héhé."}
+{"id":1537636,"jp":"さっきの戦いでも、私が教えた戦術を実践していましたね？\n上達のはやさに驚きました。","fr":"Pendant ce combat aussi, vous avez appliqué la tactique que je vous ai enseignée, n'est-ce pas ?\nVos progrès si rapides m'ont étonnée."}
+{"id":1537637,"jp":"そ！そんなこと……！\nあ、アタシ、みんなのようすを見てくるから！","fr":"M-mais non… !\nJ-je vais voir comment vont les autres !"}
+{"id":1537638,"jp":"強がってるくせに、すーぐ照れるのだ。","fr":"Elle joue les dures, mais elle rougit pour un rien."}
+{"id":1537639,"jp":"ところで、気になっていたのですが……この森の凶獣の数は明らかにおかしいですね。\n皆さんを探すあいだにも、幾度となく凶獣に遭遇しました。","fr":"Au fait, une chose me préoccupe… Il y a beaucoup trop de Bêtes maudites dans cette forêt.\nEn vous cherchant, j'en ai croisé à maintes reprises."}
+{"id":1537640,"jp":"もしかしたら、なにか異変が起こっているかもしれません……","fr":"Il se passe peut-être quelque chose d'anormal…"}
+{"id":1537641,"jp":"諸君、ひとつ頼みがある。\nもうすこし手を貸してもらえないだろうか。","fr":"Mes amis, j'ai une faveur à vous demander.\nAccepteriez-vous de nous aider encore un peu ?"}
+{"id":1537642,"jp":"先刻からモールが負傷者のようすを見ているんだが、自力では動けない者が数名いるようでな。\n重傷の者は里まで運んでやらねばならない。","fr":"Mole s'occupe des blessés depuis tout à l'heure, mais plusieurs ne peuvent pas se déplacer seuls.\nIl faut porter les plus gravement atteints jusqu'au village."}
+{"id":1537643,"jp":"だが、いまの状況は安全とは言い難いだろう……","fr":"Mais pour l'instant, on ne peut pas dire que la situation soit sûre…"}
+{"id":1537644,"jp":"そこで、諸君に里まで護衛を頼みたいんだ。\nもちろん、相応の報酬は用意させてもらう。","fr":"Alors j'aimerais que vous nous escortiez jusqu'au village.\nBien entendu, nous vous offrirons une récompense digne de ce nom."}
+{"id":1537645,"jp":"星臨者さま、どう思われますか？","fr":"Enfant des étoiles, qu'en pensez-vous ?"}
+{"id":1537646,"jp":"もともと里に行くつもりだった。","fr":"Je comptais aller au village de toute façon."}
+{"id":1537647,"jp":"報酬が出るならもちろんいいよ！","fr":"S'il y a une récompense, c'est d'accord !"}
+{"id":1537648,"jp":"また戦うことになるのかな……","fr":"Il va encore falloir se battre… ?"}
+{"id":1537649,"jp":"ご安心を、このあたりに凶獣の気配はもうありません。\n念のため護衛はあったほうがよいですが、襲われる可能性は低いですよ。","fr":"Soyez sans crainte, il n'y a plus aucune présence de Bête maudite dans les environs.\nUne escorte reste plus prudente, mais il y a peu de chances qu'on nous attaque."}
+{"id":1537650,"jp":"ああ、助かる！すぐに皆に知らせよう！","fr":"Ah, merci ! Je préviens tout le monde !"}
 {"id":1537651,"jp":"よいしょ。","fr":"Hop-là."}
+{"id":1537652,"jp":"ふわぁ～いい感じなのだ～","fr":"Waouh~ c'est trop agréable~"}
+{"id":1537653,"jp":"なあ、星臨者。肩に妖精を乗せるってどんな感じだ？すこしは重く感じるのか？","fr":"Dis, Enfant des étoiles. Ça fait quoi d'avoir une fée sur l'épaule ? Elle est un peu lourde ?"}
+{"id":1537654,"jp":"エイプルがひとつ乗ってるくらいかな？","fr":"Comme un Aple posé dessus, je dirais ?"}
+{"id":1537655,"jp":"ピーチィが乗ってるのと同じ。","fr":"Pareil qu'un Peachy perché là."}
+{"id":1537656,"jp":"へぇー？エイプルくらいか。妖精ってそれなりに重いんだなー？","fr":"Ah ouais ? Un Aple, quand même. C'est plutôt lourd, une fée, en fait ?"}
+{"id":1537657,"jp":"ピーチィか！見た目からじゃわからないもんだな……","fr":"Un Peachy ! Comme quoi, faut pas se fier aux apparences…"}
+{"id":1537658,"jp":"こらこら！ルミィさまはそんなに重くないぞ。\nもっとちゃんと感じてみるのだ！！","fr":"Hé, hé ! La grande Lumi n'est pas si lourde que ça.\nConcentre-toi mieux pour sentir !!"}
+{"id":1537659,"jp":"あれ、たしかに軽くなったような……？\nいまは落ち葉が肩に落ちたくらい。","fr":"Tiens, c'est vrai que tu as l'air plus légère… ?\nLà, on dirait une feuille morte tombée sur mon épaule."}
+{"id":1537660,"jp":"とーぜんなのだ！あたしたち妖精は、世界いち優雅で軽やかな種族！\n重さなんて概念とは無縁の存在なのだ！","fr":"Évidemment ! Nous, les fées, sommes le peuple le plus gracieux et le plus léger du monde !\nLa notion même de poids nous est étrangère !"}
+{"id":1537661,"jp":"さあ、はやく行こう！この話はやめやめ！","fr":"Allez, dépêchons-nous ! Fin de la discussion !"}
+{"id":1537662,"jp":"（うぅ～星臨者が重く感じないように、ずっと羽ばたかなきゃいけなくなったのだ。\nふつーに飛ぶよりツライぞ……）","fr":"(Uuugh~ maintenant, je dois battre des ailes sans arrêt pour que l'Enfant des étoiles ne me trouve pas lourde.\nC'est plus fatigant que de voler normalement…)"}
+{"id":1537663,"jp":"（せっかく肩に乗ったのにぃ〜！）","fr":"(Dire que j'avais enfin réussi à monter sur son épaule~ !)"}
+{"id":1537664,"jp":"やっぱり高いな。まえに潜り込んだときも、かなり骨を折ったんだ……","fr":"C'est haut, quand même. La dernière fois que je m'y suis faufilée, ça m'a donné du fil à retordre…"}
+{"id":1537665,"jp":"真っすぐ行けるなら近いけど、この高さだ……歩いて登るのは時間がかかるぞ。","fr":"Ce serait tout près si on pouvait y aller tout droit, mais à cette hauteur… Grimper à pied, ça va prendre du temps."}
+{"id":1537666,"jp":"いつもはどうやって上まで行ってるの？","fr":"Comment vous montez là-haut, d'habitude ?"}
+{"id":1537667,"jp":"ア、アタシたちは翼人よ。飛んで行くに決まってるでしょ。\nもちろん……アタシだって、そうよ！","fr":"N-nous sommes des Ailés, voyons. On y va en volant, évidemment.\nBien sûr… moi aussi, je vole !"}
+{"id":1537669,"jp":"フフン、この程度の高さ、ルミィさまの強くてしなやかな羽根をもってすればなんてことない！\n木の実を摘むのとそう変わらないのだ！","fr":"Hé hé, pour les ailes puissantes et souples de la grande Lumi, une hauteur pareille, c'est rien du tout !\nC'est à peine plus dur que de cueillir des noix !"}
+{"id":1537670,"jp":"なんで、みんなして疑いの目を向けるのだ？","fr":"Pourquoi vous me regardez tous avec cet air méfiant ?"}
+{"id":1537671,"jp":"まるで「不安だな、ルミィなんかちょっとした風で\nすぐ飛ばされそう」とでも言いたげだ！","fr":"On dirait que vous pensez : « J'ai un doute, Lumi pourrait être emportée\npar le moindre coup de vent » !"}
+{"id":1537672,"jp":"いや、疑ってるわけじゃないって。","fr":"Mais non, on doute pas de toi."}
+{"id":1537673,"jp":"ただ、ルミィだけ飛んでっても、ほかのメンツがさ。\nケガしてるヤツもいるし、星臨者も……\nそうだ、ルミィ、星臨者を連れて一緒に飛べないのか？","fr":"C'est juste que si Lumi monte toute seule, et les autres, alors ?\nIl y a des blessés, et l'Enfant des étoiles aussi…\nTiens, Lumi, tu pourrais pas emporter l'Enfant des étoiles avec toi ?"}
 {"id":1537674,"jp":"うーっ……","fr":"Mmgh…"}
 {"id":1537675,"jp":"そんな無茶だって……","fr":"C'est trop demander…"}
+{"id":1537676,"jp":"よっ、力持ち！頼れる〜","fr":"Vas-y, la costaude ! On compte sur toi~"}
+{"id":1537677,"jp":"フン！大妖精にできないことはない！\nいまこそそれを証明するときなのだ！","fr":"Pff ! Rien n'est impossible pour une Grande Fée !\nC'est le moment de le prouver !"}
 {"id":1537678,"jp":"勝手に期待するな！","fr":"Pas d'espoirs sans qu'on te le demande !"}
+{"id":1537679,"jp":"ま、まあ、やってできないことはない。","fr":"B-bon, ce n'est pas comme si j'en étais incapable."}
+{"id":1537680,"jp":"そこまで言うなら、やってやるのだ！","fr":"Puisque tu insistes, je vais le faire !"}
+{"id":1537681,"jp":"そ、そうだぞ！大妖精の偉大さを見せてやるのだ！","fr":"C-c'est ça ! Je vais vous montrer la grandeur d'une Grande Fée !"}
+{"id":1537682,"jp":"ふぅ、ダメなのだ、これが全力……","fr":"Pfff, rien à faire, c'est tout ce que j'ai…"}
 {"id":1537683,"jp":"諦めんのはやっ！","fr":"Tu abandonnes déjà !"}
+{"id":1537684,"jp":"（木の枝で小突かれた程度にしか感じなかった。本当に力を入れたのかな？）","fr":"(J'ai juste eu l'impression qu'on me tapotait avec une brindille. Elle a vraiment forcé ?)"}
 {"id":1537685,"jp":"ピシャアッ！","fr":"Pishaah !"}
+{"id":1537686,"jp":"パモーラ、それにスカイホークたち！","fr":"Pamora, et les Skyhawk aussi !"}
+{"id":1537687,"jp":"こいつらが来たなら安心だ。\n重傷の者と諸君らを乗せて、上まで飛んでくれる！","fr":"Avec eux, on est tranquilles.\nIls vont emmener là-haut les blessés graves, et vous aussi !"}
+{"id":1537688,"jp":"高いところが苦手な者はいないだろうな？","fr":"Personne ici n'a le vertige, j'espère ?"}
 {"id":1537689,"jp":"たぶん……","fr":"Sans doute…"}
+{"id":1537690,"jp":"星臨者はパモーラに乗るといいわ。この子は<ruby=ホークガル>鷹主</ruby>さまのキボなの。\nこのなかで一番はやく、安定して飛べる。","fr":"Toi, Enfant des étoiles, tu devrais monter sur Pamora. C'est le Kibo du Seigneur Faucon.\nC'est elle qui vole le plus vite et le plus sûrement de tous."}
 {"id":1537691,"jp":"ルミィも一緒に来る？","fr":"Tu viens aussi, Lumi ?"}
+{"id":1537692,"jp":"ルミィは、自分の羽根で飛べるよね。","fr":"Lumi, tu peux voler avec tes propres ailes, non ?"}
 {"id":1537693,"jp":"もちろんなのだ！","fr":"Bien sûr que je viens !"}
+{"id":1537694,"jp":"やだやだ～！便乗できるときはするのがあたしの信条！\nそれに、あたしと星臨者はもう一心同体なのだ！","fr":"Non, non~ ! Ma devise : quand on peut se faire porter, on se fait porter !\nEt puis, l'Enfant des étoiles et moi, on ne fait plus qu'un !"}
 {"id":1537695,"jp":"掴まったか。","fr":"Bien accroché ?"}
 {"id":1537696,"jp":"皆、準備はいいな？","fr":"Tout le monde est prêt ?"}
+{"id":1537697,"jp":"ま！待て！まだ心の準備が……","fr":"A-attends ! Je suis pas encore prête…"}
+{"id":1537698,"jp":"それではスカイホーク、出発だ！","fr":"Bien, Skyhawk, en route !"}
 {"id":1537699,"jp":"うわああ！！","fr":"Waaaah !!"}
+{"id":1537700,"jp":"このさきが風隠れ岩よ。","fr":"Le Roc Coupe-Vent est juste là-devant."}
+{"id":1537701,"jp":"おぉ！あんな高いところに集落が！さすがは翼人なのだ。","fr":"Oh ! Un village tout là-haut ! C'est bien les Ailés, ça."}
+{"id":1537702,"jp":"うっ……まだ胸がドキドキしてるよ……","fr":"Ugh… mon cœur bat encore à cent à l'heure…"}
+{"id":1537703,"jp":"ん？アンタ、なんで仲間と一緒に行かないんだ？","fr":"Hm ? Pourquoi tu restes pas avec les tiens, toi ?"}
+{"id":1537704,"jp":"スカイホークに乗ったくらいで腰を抜かすなんて……","fr":"Être toute retournée après un simple vol en Skyhawk…"}
+{"id":1537705,"jp":"おい、ケンカ売ってんのか……","fr":"Hé, tu me cherches ?…"}
 {"id":1537706,"jp":"え、なんて？","fr":"Hein ? Comment ?"}
+{"id":1537707,"jp":"おい！いきなり大声出すなって！","fr":"Hé ! Crie pas comme ça d'un coup !"}
+{"id":1537708,"jp":"た、助けてくれた感謝を伝えたかっただけよ……","fr":"J-je voulais juste te remercier de nous avoir aidés…"}
+{"id":1537709,"jp":"お、おう……どういたしまして。","fr":"Ah, euh… de rien."}
+{"id":1537710,"jp":"見事な戦いぶりだったよ。アタシが見くびってたわ。","fr":"Tu t'es battue comme une reine. Je t'avais sous-estimée."}
+{"id":1537711,"jp":"えっ、そ、そうか……そっちもなかなかだったぞ！","fr":"Ah, euh, vraiment… ? T'étais pas mal non plus !"}
 {"id":1537712,"jp":"そんなこと……","fr":"Non, je n'ai pas…"}
+{"id":1537713,"jp":"アタシはまだまだなの……もっと頑張らなきゃ……","fr":"Moi, j'ai encore beaucoup de chemin à faire… Je dois faire plus d'efforts…"}
+{"id":1537714,"jp":"いきなり弱気になって。どうしたんだ？","fr":"D'où ça sort, ce coup de blues ? Qu'est-ce qui t'arrive ?"}
 {"id":1537715,"jp":"なんでもないわ！","fr":"Ce n'est rien !"}
 {"id":1537716,"jp":"変なヤツ……","fr":"Quel drôle de type…"}
+{"id":1537717,"jp":"だけど、翼人も……ちゃんと感謝できるんだな……","fr":"N'empêche… les Ailés aussi savent dire merci, finalement…"}
+{"id":1537718,"jp":"テララ、大丈夫ですか？","fr":"Terara, tout va bien ?"}
+{"id":1537719,"jp":"あっ……ああ、もちろん！\nちょっとここで休んでくから、気にしないでさきに行っててくれ！","fr":"Ah… ouais, bien sûr !\nJe vais me reposer un peu ici, t'en fais pas pour moi, partez devant !"}
 {"id":1537720,"jp":"……わかりました。","fr":"… Compris."}
+{"id":1537721,"jp":"ううっ、スカイホークは野生的なのだ。\nさすがのルミィさまもちょっとクラクラするぞ。","fr":"Ouille, les Skyhawk, c'est sauvage.\nMême la grande Lumi a un peu la tête qui tourne."}
+{"id":1537722,"jp":"はぁーあ、アビィが恋しいのだ……","fr":"Haaa, Abby me manque…"}
 {"id":1537723,"jp":"アビィ、大丈夫かな？","fr":"Abby va bien, tu crois ?"}
+{"id":1537724,"jp":"心配はいりません。\nアビィが目覚めたら、ガーデナーがすぐに知らせをくれるはずです。","fr":"Ne vous inquiétez pas.\nQuand Abby se réveillera, la jardinière nous préviendra aussitôt."}
+{"id":1537725,"jp":"そのガーデナーってどんなヤツなのだ？","fr":"Qui c'est, cette jardinière ?"}
+{"id":1537726,"jp":"メーツァという方で……その、いろいろな意味ですごい方ですよ。","fr":"Elle s'appelle Metsa… et, comment dire, elle est impressionnante à bien des égards."}
 {"id":1537727,"jp":"メーツァ……？","fr":"Metsa… ?"}
+{"id":1537728,"jp":"はい、『お姉さん』みたいに優しくて面倒見がよくて……\nすこし不思議なところもありますが、とても頼れる方です。","fr":"Oui, elle est douce et attentionnée, comme une « grande sœur »…\nElle a un petit côté étrange, mais on peut vraiment compter sur elle."}
+{"id":1537729,"jp":"西の森の奥にあるエヴァーガーデンに住んでいるのですが、\nめったに外に出ないので、谷でも彼女を知る者はほとんどいないそうです。","fr":"Elle vit au Jardin d'Evergreen, au fond de la forêt de l'ouest,\nmais elle sort très rarement, si bien que presque personne dans la vallée ne la connaît, paraît-il."}
+{"id":1537730,"jp":"詳しいお話はアビィを迎えに行くときにでも。","fr":"Je vous en dirai plus quand nous irons chercher Abby."}
+{"id":1537731,"jp":"メーツァ姉さんもきっと、星臨者さまに会えるのを楽しみにしているはずです。","fr":"Sœur Metsa a sûrement hâte de vous rencontrer, elle aussi, Enfant des étoiles."}
+{"id":1537732,"jp":"みんな！アタシたちの里、風隠れ岩はこのさきよ！もうじき着くわ！","fr":"Tout le monde ! Notre village, le Roc Coupe-Vent, est juste devant ! On y est presque !"}
+{"id":1537733,"jp":"もう着くの？翼人の里って、崖のうえにあるんだと思ってた。","fr":"On arrive déjà ? Je croyais que le Village des Ailés était en haut d'une falaise."}
+{"id":1537734,"jp":"そうね、里があるのは崖のうえだけど\n麓に外から来た者を出迎えるところがあるの。","fr":"Oui, le village est en haut de la falaise,\nmais en bas, on a un endroit pour accueillir les gens de l'extérieur."}
+{"id":1537735,"jp":"よーし、いっくぞ〜！\n散々な一日も終わり！やっと休めるのだ！","fr":"Allez, c'est parti~ !\nCette journée catastrophique est terminée ! Je vais enfin pouvoir me reposer !"}
 {"id":1537736,"jp":"ノオミ！戻ったぞ！","fr":"Noomi ! Je suis de retour !"}
+{"id":1537737,"jp":"ザンク隊長！おケガはありませんか？\nさきほど襲撃を受けたという知らせが入って……シャーマンさまがお薬を用意しています！","fr":"Capitaine Zank ! Vous n'êtes pas blessé ?\nOn vient d'apprendre que votre groupe avait été attaqué… La chamane a préparé des remèdes !"}
+{"id":1537738,"jp":"助かる。さあ、リンカ。\nおまえは負傷者と一緒にシャーマンのところに行って、治療を受けてこい。","fr":"Merci. Allez, Rinka.\nVa avec les blessés voir la chamane, et fais-toi soigner."}
+{"id":1537739,"jp":"いやいや！オレはこの通り元気だって！","fr":"Non, non ! Je pète la forme, tu vois bien !"}
+{"id":1537740,"jp":"強がっても傷は消えませんよ。シンフォーリア先生も言っていたでしょう？\n凶獣にやられた傷はちゃんと治療しなければ危険だって……","fr":"Jouer les durs ne fera pas disparaître vos blessures. Maîtresse Symphoria vous l'a dit, non ?\nLes blessures infligées par les Bêtes maudites sont dangereuses si on ne les soigne pas comme il faut…"}
+{"id":1537741,"jp":"傷口から侵蝕が広がれば、\nあなたも凶獣になってしまうかもしれないんですよ？","fr":"Si l'Érosion se propage depuis la plaie,\nvous pourriez devenir une Bête maudite, vous aussi !"}
+{"id":1537742,"jp":"ええ、ノオミさんの言うとおりです。凶獣の力の源はスーニヤですから……\n処置しなければ、体内のカルマが侵蝕されてしまうかもしれません。油断は禁物ですよ。","fr":"Oui, Noomi a raison. La force des Bêtes maudites vient de la Sunya…\nSans soins, le Karma de votre corps pourrait être rongé. Ne baissez pas votre garde."}
+{"id":1537743,"jp":"ほら、先生の話を聞くんだ、若造が……\nつまらん意地と勇敢さを履き違えるな。いますぐ行って来い！","fr":"Allez, écoute donc Maîtresse Symphoria, tête brûlée…\nNe confonds pas l'entêtement idiot et le courage. Vas-y tout de suite !"}
+{"id":1537744,"jp":"あ、ああ……わかったよ、行ってくる。","fr":"B-bon… d'accord, j'y vais."}
+{"id":1537745,"jp":"諸君、負傷者の護衛を手伝ってくれて感謝する！そして、風隠れ岩へようこそ！\nここは鷹神さまの加護を受けた翼人の栄光の地だ。","fr":"Merci à vous tous d'avoir escorté les blessés ! Et bienvenue au Roc Coupe-Vent !\nC'est la terre de gloire des Ailés, bénie par le dieu Faucon."}
+{"id":1537746,"jp":"シャルル村と雰囲気が違うね。","fr":"L'ambiance n'est pas la même qu'au Village de Charlulu."}
+{"id":1537747,"jp":"ごめん、高所恐怖症で……","fr":"Pardon, j'ai le vertige…"}
+{"id":1537748,"jp":"だろだろ？シャルル村のほうが賑わってるよな。","fr":"Hein, pas vrai ? C'est bien plus animé au Village de Charlulu."}
+{"id":1537749,"jp":"ハハハ！果たしてそうかな？\n風隠れ岩は、たしかにシャルル村ほど繁栄はしていないが……","fr":"Ha ha ha ! Tu crois ça ?\nC'est vrai, le Roc Coupe-Vent n'est pas aussi prospère que le Village de Charlulu…"}
+{"id":1537750,"jp":"空を飛ぶ鷹は小さくとも、五臓のすべてがそなわっている。\n風隠れ岩は切り立った崖の上にあり、飛び回れるおかげで、\nシャルル村では手に入らない資源もたくさん採れるんだ。","fr":"Mais le faucon a beau être petit, il a tout ce qu'il faut dans le ventre.\nLe Roc Coupe-Vent est perché sur des falaises abruptes, et comme nous pouvons voler,\nnous récoltons bien des ressources introuvables au Village de Charlulu."}
+{"id":1537751,"jp":"たしかに、人間にはすこし高すぎたかもしれないな？\nだが、これも勇敢さに磨きをかけるいい機会だ！","fr":"C'est vrai que c'est peut-être un peu haut pour un être humain, hein ?\nMais c'est l'occasion idéale d'aiguiser son courage !"}
+{"id":1537752,"jp":"それはそうと……ここまで送ったんだから、報酬はちゃーんと払ってもらうのだ。","fr":"Au fait… on vous a escortés jusqu'ici, alors tu vas bien nous payer notre récompense, hein."}
+{"id":1537753,"jp":"フウ～勇猛なルミィさまも、さっきの凶獣との戦いでへとへとなのだ！\nなにか食べないと、もう飛べないぞ……","fr":"Ouf~ Même la vaillante Lumi est épuisée après ce combat contre les Bêtes maudites !\nSi je ne mange pas quelque chose, je ne pourrai plus voler…"}
+{"id":1537754,"jp":"翼人がうらやましいな。飛ばないときは地面に足をつければいいなんて……","fr":"J'envie les Ailés. Quand ils ne volent pas, il leur suffit de poser les pieds par terre…"}
+{"id":1537755,"jp":"ルミィも足はあるじゃないか。なんで使わないんだ？","fr":"Toi aussi, t'as des pieds, Lumi. Pourquoi tu t'en sers pas ?"}
 {"id":1537756,"jp":"そっ、それは……！","fr":"C-c'est que… !"}
+{"id":1537757,"jp":"もしかして、地面に立つと小さすぎて見えないとか――","fr":"Ou alors, une fois par terre, tu es si petite qu'on ne te voit plus…"}
+{"id":1537758,"jp":"しーっ！星臨者さま、その件に触れてはいけません！","fr":"Chut ! Enfant des étoiles, il ne faut surtout pas aborder ce sujet !"}
+{"id":1537759,"jp":"ハハハ、心配するな！大恩ある者を空腹にしておくわけにはいかないからな。\n俺にまかせておいてくれ！","fr":"Ha ha ha, pas d'inquiétude ! Pas question de laisser le ventre vide à ceux à qui nous devons tant.\nLaissez-moi faire !"}
+{"id":1537760,"jp":"さきに森であったことを<ruby=ホークガル>鷹主</ruby>さまに報告してくる。\nそのあと、皆の食事を準備しよう。","fr":"Je vais d'abord rendre compte au Seigneur Faucon de ce qui s'est passé dans la forêt.\nEnsuite, je ferai préparer un repas pour tout le monde."}
+{"id":1537761,"jp":"ミィティ、おまえが里を案内して差し上げろ。\nホークガルさまも、先生の仲間にご挨拶したいだろう。\n食事の支度が整うころにホークガルさまのもとへお連れするんだ！","fr":"Mitty, c'est toi qui feras visiter le village à nos invités.\nLe Seigneur Faucon voudra sûrement saluer les compagnons de Maîtresse Symphoria.\nQuand le repas sera prêt, tu les conduiras auprès du Seigneur Faucon !"}
 {"id":1537762,"jp":"えっ？アタシが？","fr":"Hein ? Moi ?"}
+{"id":1537763,"jp":"<ruby=ホークガル>鷹主</ruby>に会いに行くって！？アハハ……別に、そんな気を使ってもらわなくても……\nアタシらは勝手に歩き回って、てきとーになんか食べて帰るからさ！","fr":"Aller voir le Seigneur Faucon !? Ahaha… Franchement, pas la peine de vous donner tout ce mal…\nNous, on va se balader un peu, manger un bout quelque part, et rentrer !"}
+{"id":1537764,"jp":"星臨者の仲間も無事見つかったんだ！ここに長居する必要はないだろ？","fr":"On a retrouvé l'amie de l'Enfant des étoiles saine et sauve ! Pas besoin de traîner ici, si ?"}
+{"id":1537765,"jp":"星臨者さま、翼人の里には長いあいだお世話になりました。\n離れるまえに<ruby=ホークガル>鷹主</ruby>さまにはご挨拶したいのですが……","fr":"Enfant des étoiles, le Village des Ailés m'a longtemps accueillie.\nAvant de partir, j'aimerais présenter mes respects au Seigneur Faucon…"}
+{"id":1537766,"jp":"なにも言わずに立ち去るのは、「<ruby=イグドラシル>聖樹</ruby>」の導きにも反します。\n星臨者さまがよろしければですが……","fr":"Partir sans un mot irait aussi contre les enseignements de l'« <ruby=Yggdrasil>Arbre sacré</ruby> ».\nSi cela vous convient, bien sûr…"}
 {"id":1537767,"jp":"ゆっくりして行こう。","fr":"Prenons notre temps."}
 {"id":1537768,"jp":"やっぱり帰ろうか？","fr":"On rentre, finalement ?"}
+{"id":1537769,"jp":"アンタがそう言うなら、まあ……","fr":"Si tu le dis, bon…"}
+{"id":1537770,"jp":"こら！翼人たちの翼がしおれちゃったのだ！","fr":"Hé ! Regarde, les ailes des Ailés se sont toutes affaissées !"}
+{"id":1537771,"jp":"星臨者、せっかくの厚意だぞ！\nそれにルミィさまは、なにか食べなきゃもう飛べないのだ〜！","fr":"Enfant des étoiles, c'est une offre généreuse !\nEt puis, la grande Lumi ne pourra plus voler si elle ne mange pas quelque chose~ !"}
+{"id":1537772,"jp":"ねえ、シンフォーリア先生、ほんとに帰っちゃうの？\nもう2、3日くらい泊まっていってもいいじゃない。","fr":"Dites, Maîtresse Symphoria, vous partez vraiment ?\nVous pourriez bien rester encore deux ou trois jours."}
+{"id":1537773,"jp":"ミィティ……私には使命があるのです。\n星臨者さまを故郷、ロースランサに連れ帰らなくては。","fr":"Mitty… J'ai une mission.\nJe dois emmener l'Enfant des étoiles jusqu'à ma terre natale, Lors Lains."}
+{"id":1537774,"jp":"星臨者さまの降臨は世界が変わる兆し。\n各地で凶獣の動きが活発になっている理由も……\n大賢者さまのもとに星臨者さまをお連れすれば、わかるかもしれません。","fr":"La venue de l'Enfant des étoiles est le signe que le monde change.\nEt la raison pour laquelle les Bêtes maudites s'agitent partout…\nnous la découvrirons peut-être en menant l'Enfant des étoiles auprès du Grand Sage."}
+{"id":1537775,"jp":"翼人の皆さんには、すでに凶獣に対抗する術を授けました。\nここに残って皆さんの力になりたくはありますが、そろそろお別れのときです……","fr":"J'ai déjà transmis aux Ailés de quoi lutter contre les Bêtes maudites.\nJ'aimerais rester ici pour vous aider, mais l'heure de nous séparer est venue…"}
+{"id":1537776,"jp":"助けていただいたご恩は、決して忘れません。","fr":"Je n'oublierai jamais votre aide."}
 {"id":1537777,"jp":"うう……","fr":"Uuu…"}
 {"id":1537778,"jp":"（ミィティ……）","fr":"(Mitty…)"}
+{"id":1537779,"jp":"ん……わかった！それじゃ、もう行こう！\nアタシが直々に風隠れ岩を案内してあげる！","fr":"Mm… d'accord ! Alors, on y va !\nJe vais vous faire visiter le Roc Coupe-Vent en personne !"}
+{"id":1537780,"jp":"では……私はさきに荷物をまとめてきます。\nのちほど、『<ruby=ホークガル>鷹主</ruby>』さまのもとでお会いしましょう。","fr":"Bien… Je vais d'abord rassembler mes affaires.\nRetrouvons-nous plus tard auprès du « Seigneur Faucon »."}
+{"id":1537781,"jp":"フフン、ミィティはほんとーにシフォンのことが好きなのだ。\nまったく、罪作りだな～","fr":"Hé hé, Mitty adore vraiment Chiffon.\nElle en fait, des ravages, celle-là~"}
+{"id":1537782,"jp":"みんなが話している<ruby=ホークガル>鷹主</ruby>って何者なの？","fr":"C'est qui, ce Seigneur Faucon dont tout le monde parle ?"}
+{"id":1537783,"jp":"<ruby=ホークガル>鷹主</ruby>は名前じゃないの。アタシたちの首領の称号よ！","fr":"Seigneur Faucon, ce n'est pas un nom. C'est le titre de notre chef !"}
+{"id":1537784,"jp":"鷹神さまから授かった鋭い羽の槍を掲げ、空駆けるハンターの頂点！\nそれが<ruby=ホークガル>鷹主</ruby>！","fr":"Brandir la lance aux plumes acérées offerte par le dieu Faucon, et dominer tous les chasseurs du ciel !\nC'est ça, être Seigneur Faucon !"}
+{"id":1537785,"jp":"カンタンに言うと、翼人の里の長ってことだ！","fr":"Pour faire simple, c'est le chef du Village des Ailés !"}
+{"id":1537786,"jp":"シンフォーリアを助けてくれたんだし、お礼を言わないと。","fr":"Ils ont aidé Symphoria, il faut que je les remercie."}
+{"id":1537787,"jp":"ここは風隠れ岩の鍛冶屋よ。食料や薬草をいろんな武器と交換できるの。","fr":"Ici, c'est la forge du Roc Coupe-Vent. On peut y échanger de la nourriture ou des herbes médicinales contre toutes sortes d'armes."}
+{"id":1537788,"jp":"んー？……ここに並んでるの、弓矢と槍ばかりじゃないか。盾みたいな防具もないし。","fr":"Hmm ? … Il n'y a que des arcs, des flèches et des lances, ici. Même pas une armure, ni un bouclier."}
+{"id":1537789,"jp":"防具？そんなんいらねぇって！","fr":"Une armure ? On n'a pas besoin de ça !"}
+{"id":1537790,"jp":"すばやささえありゃ、全部かわせるだろ！\n敵に攻撃されるまえにぶっ倒しちまえばいいのさ！","fr":"Si t'es assez rapide, tu esquives tout !\nSuffit d'abattre l'ennemi avant qu'il t'attaque !"}
+{"id":1537791,"jp":"翼人にとっちゃ、勇気と技量こそ最大の防御だ！","fr":"Pour nous, les Ailés, le courage et l'adresse sont la meilleure des défenses !"}
+{"id":1537792,"jp":"うわぁ〜過激すぎるのだ！\n翼人ってみんなそんな戦い方をしてるのか？","fr":"Waouh~ c'est beaucoup trop violent !\nTous les Ailés se battent comme ça ?"}
+{"id":1537793,"jp":"アタシに聞くんじゃないわよ！","fr":"Ne me demande pas à moi !"}
+{"id":1537794,"jp":"おぉ！食べもののにおい！\nなにかおいしいものはあるかな〜","fr":"Oh ! Ça sent la nourriture !\nVoyons voir s'il y a quelque chose de bon~"}
+{"id":1537795,"jp":"レッチルフにエイプルに……おいおい、肉がないぞ？\n翼人はいつから野菜と果物が主食になったんだ？","fr":"Du Retchilf, des Aple… Hé, attends, il y a pas de viande ?\nDepuis quand les Ailés mangent surtout des légumes et des fruits ?"}
+{"id":1537796,"jp":"量もすくなすぎる！これで満腹になれるのか？\nもしかして……翼人の胃はチッチ並みか！？","fr":"Et les portions sont minuscules ! On peut se remplir le ventre avec ça ?\nMe dis pas que… les Ailés ont un estomac de Chicchi !?"}
+{"id":1537797,"jp":"そんなわけないでしょ！アタシたちだってちゃんと食べるわよ！","fr":"Bien sûr que non ! Nous aussi, on mange comme il faut !"}
+{"id":1537798,"jp":"はぁ、毎日こんなんばっか食べてるから、背が伸びないんだな……\nこんなんじゃ片手で倒せちゃうぞ。","fr":"Pfff, à manger des trucs pareils tous les jours, pas étonnant que tu grandisses pas…\nÀ ce rythme, je te mets au tapis d'une seule main."}
 {"id":1537799,"jp":"なっ、なによ……！","fr":"Qu-quoi… !"}
+{"id":1537800,"jp":"もう行くわよ！あとで本気のごちそうを見せてあげる！\nそれで、アンタの口を塞いでやるから！","fr":"Allez, on y va ! Tout à l'heure, je te montrerai un vrai festin !\nEt là, tu la fermeras !"}
+{"id":1537801,"jp":"あっ、ちょっ、ちょっと待て！\nまだな〜んにも食べてないのだぁ〜！","fr":"Hé, a-attends un peu !\nJe n'ai encore absolument rieeen mangé~ !"}
+{"id":1537802,"jp":"傷こそ、翼人戦士の勲章だよ！","fr":"Les cicatrices, ce sont les médailles d'un guerrier ailé !"}
+{"id":1537803,"jp":"……あなたは勲章が多すぎるのよ。\nとにかくこの薬を飲んで。何日か安静にすれば治るはずだから。","fr":"… Toi, tu en as beaucoup trop, des médailles.\nBref, bois ce remède. Quelques jours de repos, et tu seras sur pied."}
+{"id":1537804,"jp":"ぐうぅっ……これ、すごく苦いぞ……","fr":"Beurk… C'est super amer…"}
 {"id":1537805,"jp":"わかる。","fr":"Je comprends."}
 {"id":1537806,"jp":"あっ！キミたちか！","fr":"Oh ! Vous voilà !"}
-{"id":1537813,"jp":"これは……豆？","fr":"C'est… un haricot ?"}
+{"id":1537807,"jp":"紹介するわ。アタシたちのシャーマン、サトゥルよ。","fr":"Je vous présente notre chamane, Saturn."}
+{"id":1537808,"jp":"あなたたちは……シンフォーリアさんの仲間の方々ね？\n里の皆を助けてくれてありがとう。皆さんに鷹神さまのご加護があらんことを！","fr":"Vous êtes… les compagnons de Symphoria, n'est-ce pas ?\nMerci d'avoir aidé tout le monde au village. Que le dieu Faucon vous protège !"}
+{"id":1537809,"jp":"リンカ、ケガは大丈夫？","fr":"Rinka, tes blessures, ça va ?"}
+{"id":1537810,"jp":"大丈夫だって！……いててて！","fr":"Ça va, je te dis ! … Aïe, aïe, aïe !"}
+{"id":1537811,"jp":"無理はしないほうが……","fr":"Tu ne devrais pas forcer…"}
+{"id":1537812,"jp":"こ、これくらい平気だって！……そうだ、キミたちにこれをあげるよ！","fr":"Ç-ça, c'est rien du tout ! … Ah, au fait, tenez, c'est pour vous !"}
+{"id":1537813,"jp":"これは……豆？","fr":"C'est… une fève ?"}
+{"id":1537814,"jp":"ああ。風隠れ岩の名物『タカ豆』っていうんだ！\n高い崖でしか取れないから、よそでは見たことがないだろ。","fr":"Ouais. C'est la spécialité du Roc Coupe-Vent, la « fève de faucon » !\nÇa pousse que sur les hautes falaises, alors vous en avez sûrement jamais vu ailleurs."}
+{"id":1537815,"jp":"それ、あなたが食べる分でしょう？……あげて大丈夫なの？","fr":"Ce sont tes rations, non ? … Tu peux vraiment les donner ?"}
+{"id":1537816,"jp":"へ、平気だって！助けてもらった恩は返す！それが翼人の掟だから！","fr":"Ç-ça va, je te dis ! Quand on te sauve, tu rends la pareille ! C'est la loi des Ailés !"}
 {"id":1537817,"jp":"じゃあ、半分こ。","fr":"Alors, on partage."}
 {"id":1537818,"jp":"味見する分だけ。","fr":"Juste de quoi goûter."}
 {"id":1537819,"jp":"あっ、いいね！","fr":"Oh, super !"}
+{"id":1537820,"jp":"うわぁ！キボがいーっぱいいるぞ！","fr":"Waouh ! Il y a plein de Kibo !"}
+{"id":1537821,"jp":"ここはキボたちの訓練所よ。教えてるのは鷹匠のパルカ。","fr":"Ici, c'est le terrain d'entraînement des Kibo. C'est Parka, la fauconnière, qui s'en occupe."}
+{"id":1537822,"jp":"スカイホークは鷹神さまの末裔……それに翼人の大切な戦友でもあるから、みんな頼りにしてるわ。","fr":"Les Skyhawk descendent du dieu Faucon… et ce sont aussi de précieux compagnons d'armes pour les Ailés, alors tout le monde compte sur eux."}
 {"id":1537823,"jp":"さあ、お食べ。","fr":"Allez, mange."}
+{"id":1537824,"jp":"おぉっ、なにを食べてるのだ〜？","fr":"Oooh, qu'est-ce qu'ils mangent~ ?"}
+{"id":1537825,"jp":"って、草ばっかりなのだ……ガヤックと同じものを食べてるのか？","fr":"Mais ce n'est que de l'herbe… Ils mangent la même chose que les Gayak ?"}
+{"id":1537826,"jp":"変だぞ。スカイホークは魚や肉が好きじゃなかったか……？","fr":"Bizarre. Les Skyhawk aiment pas plutôt le poisson et la viande… ?"}
 {"id":1537827,"jp":"それはそうだけど……","fr":"Certes, mais…"}
+{"id":1537828,"jp":"おぉ、パモーラなのだ！たしか<ruby=ホークガル>鷹主</ruby>のキボだったか？\n周りのスカイホークとなんだかぜんぜん違うぞ？","fr":"Oh, c'est Pamora ! C'est bien le Kibo du Seigneur Faucon, non ?\nElle ne ressemble pas du tout aux autres Skyhawk autour."}
+{"id":1537829,"jp":"当たりまえでしょ！パモーラは鷹神さまに選ばれた特別なキボなんだから。\n雷の翼に疾風の羽根、簡単に頭を垂れない誇り高さ！","fr":"Évidemment ! Pamora est un Kibo spécial, choisi par le dieu Faucon.\nDes ailes de foudre, des plumes vives comme la bourrasque, et une fierté qui ne courbe pas la tête facilement !"}
+{"id":1537830,"jp":"さっきは乗せてくれて、ありがとう。|さっきは乗せてくれて、ありがとう。","fr":"Merci pour le vol de tout à l'heure.|Merci pour le vol de tout à l'heure."}
+{"id":1537831,"jp":"凛々しいね、すごくかっこいい。|凛々しいね、すごくかっこいい。","fr":"Quelle prestance… Tu as vraiment la classe.|Quelle prestance… Tu as vraiment la classe."}
+{"id":1537832,"jp":"雷鳴よ、僕に力を！|雷鳴よ、私に力を！","fr":"Ô tonnerre, donne-moi ta force !|Ô tonnerre, donne-moi ta force !"}
+{"id":1537833,"jp":"フフン、完全に無視されたのだ。","fr":"Hé hé, elle fait complètement comme si tu n'existais pas."}
+{"id":1537834,"jp":"あはは……いつものことよ。\nパモーラは<ruby=ホークガル>鷹主</ruby>さまにしか反応しないの。アタシもよく無視されてるわ。","fr":"Ahaha… C'est toujours comme ça.\nPamora ne réagit qu'au Seigneur Faucon. Moi aussi, elle m'ignore souvent."}
+{"id":1537835,"jp":"ええっ！すごいじゃない！パモーラが応えるなんて！","fr":"Hein !? C'est incroyable ! Pamora t'a répondu !"}
+{"id":1537836,"jp":"いつもは<ruby=ホークガル>鷹主</ruby>さまにしか反応しないのよ。アタシだってよく無視されてるのに。","fr":"D'habitude, elle ne réagit qu'au Seigneur Faucon. Même moi, elle m'ignore souvent."}
+{"id":1537837,"jp":"アンタ、パモーラと仲良くなれそうね。","fr":"On dirait que Pamora et toi, vous pourriez bien vous entendre."}
+{"id":1537838,"jp":"そっちのピーチィはミィティのキボか？すごく懐いてるな。","fr":"Et ce Peachy, là, c'est le Kibo de Mitty ? Il a l'air très attaché à toi."}
+{"id":1537839,"jp":"そうよ、この子はフラミー。いつも一緒にいる、アタシの大切な友達よ。","fr":"Oui, lui, c'est Flammy. Mon ami précieux, toujours à mes côtés."}
+{"id":1537840,"jp":"フーン、ちっちゃいな……なんだか似てるぞ……","fr":"Hmm, il est tout petit… Il me rappelle quelqu'un…"}
 {"id":1537841,"jp":"だれとよ！？","fr":"Avec qui, au juste !?"}
+{"id":1537842,"jp":"（なるほど……ちっちゃい子が言うところによると、\nちっちゃい子のちっちゃい子が、やっぱりちっちゃくて主に似てると……）","fr":"(Je vois… D'après la petite, le petit de la petite\nest petit lui aussi, et il ressemble à sa maîtresse…)"}
+{"id":1537843,"jp":"むー？いま、すっごく失礼なことを考えただろう！","fr":"Hmm ? Tu viens de penser un truc super malpoli, pas vrai !"}
+{"id":1537844,"jp":"ふぅ～いい眺めなのだ！","fr":"Ouf~ quelle vue !"}
+{"id":1537845,"jp":"あそこにある大きな彫像はなに？","fr":"C'est quoi, cette grande statue, là-bas ?"}
+{"id":1537846,"jp":"あれは、鷹神さま。空を翔ける風隠れ岩の守り神よ。","fr":"Ça, c'est le dieu Faucon. Le protecteur du Roc Coupe-Vent, qui règne sur le ciel."}
+{"id":1537847,"jp":"すごいでしょ？鷹神さまは、あの頂からいつもアタシたちを見てるんだから。\n風隠れ岩から芽吹の谷までね！","fr":"Impressionnant, hein ? Depuis ce sommet, le dieu Faucon veille toujours sur nous.\nDu Roc Coupe-Vent jusqu'à la Vallée des Bourgeons !"}
+{"id":1537848,"jp":"アタシたちは鷹神さまへの感謝と敬意を示すために、\n空に最も近い頂きを選んで、像を立てたのよ。","fr":"Pour témoigner notre gratitude et notre respect au dieu Faucon,\nnous avons choisi le sommet le plus proche du ciel pour y ériger sa statue."}
+{"id":1537849,"jp":"たしかに鷹神もカッコいいけどさ、大狼さまには負けるよな！","fr":"C'est vrai qu'il a la classe, le dieu Faucon, mais il arrive pas à la cheville du Seigneur Grand Loup !"}
+{"id":1537850,"jp":"あ、アンタね……アタシだって大狼の像は見たことあるわ。\nちっちゃくて、鷹神さまとは比べものにならないじゃない！","fr":"D-dis donc, toi… Moi aussi, je l'ai vue, la statue du Grand Loup.\nElle est minuscule, rien à voir avec celle du dieu Faucon !"}
+{"id":1537851,"jp":"ふーん？大きさで勝ち負けが決まるのか。\nなら、アンタみたいなチビは、アタシに勝てるわけないってことだな！","fr":"Ah ouais ? C'est la taille qui décide qui gagne ?\nAlors un microbe comme toi a aucune chance de me battre !"}
+{"id":1537852,"jp":"くうぅ……今日は客だから許してあげるわ！\nいつか絶対、痛いめに遭わせてやるんだから！","fr":"Grrr… Aujourd'hui, tu es notre invitée, alors je te pardonne !\nMais un jour, je te le ferai payer, c'est promis !"}
+{"id":1537853,"jp":"<ruby=ホークガル>鷹主</ruby>さま！","fr":"Seigneur Faucon !"}
 {"id":1537854,"jp":"彼女が……","fr":"Donc elle…"}
+{"id":1537855,"jp":"ようこそ。不屈の強者にして血を浴びた戦士。恐れ知らずの勇者よ――","fr":"Bienvenue à vous, cœurs indomptables, lames trempées dans le sang, âmes sans peur…"}
+{"id":1537856,"jp":"ザンクから聞いたぞ。\n君たちが凶獣の爪から同胞を守ってくれたと……","fr":"Zank m'a tout raconté.\nVous avez protégé les nôtres des griffes des Bêtes maudites…"}
+{"id":1537857,"jp":"君たちがいなければ……\nいまごろは空を見上げ、血族の魂を見送っていたことだろう。","fr":"Sans vous…\nnous serions, à l'heure qu'il est, en train de lever les yeux au ciel pour accompagner les âmes des nôtres."}
+{"id":1537858,"jp":"この里の長はずいぶん若いな……\nシャルル村のじじとはぜーんぜん違うぞ……？","fr":"Elle est drôlement jeune, celle qui dirige ce village…\nRien à voir avec le vieux papy du Village de Charlulu… ?"}
+{"id":1537859,"jp":"私は、風隠れ岩、17代目<ruby=ホークガル>鷹主</ruby>――ファランタ。","fr":"Je suis Faridah, 17e Seigneur Faucon du Roc Coupe-Vent."}
+{"id":1537860,"jp":"遠路はるばるよく来てくれた。\n君たちに鷹神の加護があらんことを。","fr":"Merci d'avoir fait un si long chemin jusqu'ici.\nQue le dieu Faucon vous protège."}
+{"id":1537861,"jp":"<ruby=ホークガル>鷹主</ruby>さま、こちらは私がずっと探していた仲間……\nルミィと星臨者さまです。","fr":"Seigneur Faucon, voici les compagnons que je cherchais depuis si longtemps…\nLumi et l'Enfant des étoiles."}
+{"id":1537862,"jp":"星臨者、なんかじっと見られてるぞ……","fr":"Enfant des étoiles, elle te dévisage drôlement…"}
 {"id":1537863,"jp":"顔になにかついてる？","fr":"J'ai quelque chose sur le visage ?"}
+{"id":1537864,"jp":"失礼なことをしたかな？","fr":"J'ai fait quelque chose d'impoli ?"}
 {"id":1537865,"jp":"（見つめ返す）","fr":"(Soutenir son regard)"}
+{"id":1537866,"jp":"待てまて。変なムードにするのはやめるのだ！","fr":"Attendez, attendez ! Arrêtez de mettre une ambiance bizarre !"}
+{"id":1537867,"jp":"失礼。風隠れ岩にも人間の隊商が通りかかることはあるが……\n君のような不思議な気をまとう人間を見たのははじめてでな。","fr":"Pardon. Des caravanes humaines passent parfois par le Roc Coupe-Vent…\nmais je n'avais encore jamais vu d'être humain enveloppé d'une aura aussi étrange que la tienne."}
+{"id":1537868,"jp":"鷹神が授けてくれたこの目の鋭さで捉えることができた。\nその気……まったく驚いたものだ。","fr":"C'est grâce à l'acuité du regard que m'a donnée le dieu Faucon que j'ai pu la percevoir.\nCette aura… m'a vraiment stupéfaite."}
+{"id":1537869,"jp":"驚いたって顔じゃないけど……","fr":"Tu n'as pourtant pas l'air si stupéfaite…"}
+{"id":1537870,"jp":"ザンクに聞いたぞ。シンフォーリアは君たちとともに旅立つと。","fr":"Zank m'a dit que Symphoria allait partir en voyage avec vous."}
+{"id":1537871,"jp":"親交を温める時間がないのは残念だが……\nさておき、我々には救われた恩がある。このまま手ぶらで帰すわけにはいかない。","fr":"Il est regrettable que nous n'ayons pas le temps de resserrer nos liens…\nQuoi qu'il en soit, vous nous avez sauvés, et nous vous sommes redevables. Nous ne pouvons pas vous laisser repartir les mains vides."}
+{"id":1537872,"jp":"ザンク、ここに運んでくれ。","fr":"Zank, apporte-le ici."}
+{"id":1537873,"jp":"なんだなんだ？すっごーくいいニオイがするぞ！？","fr":"Qu'est-ce que c'est, qu'est-ce que c'est ? Ça sent super bon !?"}
+{"id":1537874,"jp":"ハハハ！そうだろう！これぞ風隠れ岩自慢の一品料理！","fr":"Ha ha ha ! N'est-ce pas ! Voici le plat qui fait la fierté du Roc Coupe-Vent !"}
+{"id":1537875,"jp":"強火で焼いたタキトビにタカ豆と香辛料をふりかけた。\n翼人ならだれもが舌鼓を打つ絶品だ！","fr":"Du saute-cascade grillé à feu vif, saupoudré de fèves de faucon et d'épices.\nUn délice dont tous les Ailés se lèchent les babines !"}
+{"id":1537876,"jp":"ん……アタシの分まであるのか？","fr":"Hm… il y a même une part pour moi ?"}
+{"id":1537877,"jp":"君はシャルル村の者か……なるほど？\n以前こっそり風隠れ岩に忍び込んだのは、君だな。","fr":"Tu viens du Village de Charlulu… Je vois.\nC'est toi qui t'es faufilée en douce au Roc Coupe-Vent, l'autre jour."}
+{"id":1537878,"jp":"へへ……えっとぉ、はじめまして。アタシはテララ。","fr":"Héhé… euh, enchantée. Moi, c'est Terara."}
+{"id":1537879,"jp":"ああ、ようこそ。\nシャルル村の村長にもよろしく伝えてくれ。","fr":"Oui, sois la bienvenue.\nTransmets mes salutations au Chef du Village de Charlulu."}
+{"id":1537880,"jp":"わかった。でも、これをもらうのはさすがに遠慮しとくよ……","fr":"D'accord. Mais ça, franchement, je peux pas l'accepter…"}
+{"id":1537881,"jp":"いいや、受け取ってくれ。\nささやかなものだが……受けた恩は必ず返す。それが翼人の掟だ。","fr":"Si, accepte-le.\nCe n'est pas grand-chose… mais nous rendons toujours ce qu'on a fait pour nous. C'est la loi des Ailés."}
+{"id":1537882,"jp":"（翼人って乱暴なヤツばっかだと思ったけど、いいヤツもいるんだな……）","fr":"(Je croyais que les Ailés étaient tous des brutes, mais il y en a des sympas, en fait…)"}
+{"id":1537883,"jp":"じゃ、じゃあ遠慮なく……ありがとな。","fr":"B-bon, alors je me sers… Merci."}
+{"id":1537884,"jp":"<ruby=ホークガル>鷹主</ruby>さま、こちらではいろいろとお世話になりました。","fr":"Seigneur Faucon, merci pour tout ce que vous avez fait pour moi ici."}
+{"id":1537885,"jp":"こちらこそ。おかげで我々も凶獣と戦えるようになった。\n君がいなければ、あれを倒す術すらわからないままだったろう。","fr":"C'est à nous de te remercier. Grâce à toi, nous pouvons désormais combattre les Bêtes maudites.\nSans toi, nous ne saurions même pas comment les abattre."}
+{"id":1537886,"jp":"シンフォーリアよ、君は我が一族の「<ruby=天空のまれびと>イェクウ</ruby>」だ。\n困ったときはいつでも私を頼ってほしい。","fr":"Symphoria, tu es la « <ruby=Hôte du ciel>Yekuu</ruby> » de notre clan.\nSi un jour tu as besoin d'aide, compte sur moi."}
 {"id":1537887,"jp":"はい。心から感謝を。","fr":"Oui. Mes remerciements sincères."}
+{"id":1537888,"jp":"うむ。さて、これ以上は引き止めまい。","fr":"Bien. Je ne vous retiendrai pas plus longtemps."}
+{"id":1537889,"jp":"山を下る道のりは長い。スカイホークに乗って行け。","fr":"La route pour redescendre de la montagne est longue. Prenez les Skyhawk."}
+{"id":1537890,"jp":"ただし、シャルル村との境までだ。","fr":"Mais seulement jusqu'à la frontière du Village de Charlulu."}
+{"id":1537891,"jp":"十分です。ありがとうございます。","fr":"C'est amplement suffisant. Merci beaucoup."}
 {"id":1537892,"jp":"ピィ―！","fr":"Piii !"}
 {"id":1537893,"jp":"パモーラ、頼んだぞ。","fr":"Pamora, je compte sur toi."}
+{"id":1537894,"jp":"振り落とされないようにね！","fr":"Accrochez-vous bien !"}
 {"id":1537895,"jp":"はあぁ……やっと――","fr":"Haaah… enfin –"}
 {"id":1537896,"jp":"到着したのだ……","fr":"On est arrivés…"}
+{"id":1537897,"jp":"ありがとう、パモーラ。ほかのみんなも。","fr":"Merci, Pamora. Et merci à vous tous."}
 {"id":1537898,"jp":"シュカーッ！","fr":"Shkaa !"}
+{"id":1537899,"jp":"この子、星臨者を見て喉を鳴らしてるけど……まさか食べようとしてるのか……？","fr":"Celui-là, il te regarde en se pourléchant le bec… Il compte pas te manger, quand même… ?"}
+{"id":1537900,"jp":"きっと、さきほど<ruby=ホークガル>鷹主</ruby>さまにいただいた魚が食べたいのでしょう。\nタキトビはスカイホークの大好物だと、風隠れ岩の鷹匠が教えてくれました。","fr":"Il doit avoir envie du poisson que nous a offert le Seigneur Faucon tout à l'heure.\nLa fauconnière du Roc Coupe-Vent m'a dit que le saute-cascade était le mets préféré des Skyhawk."}
 {"id":1537901,"jp":"あげる。","fr":"Lui en donner."}
 {"id":1537902,"jp":"あげない。","fr":"Ne rien donner."}
+{"id":1537903,"jp":"魚を投げると、スカイホークは器用に丸呑みした。","fr":"Vous avez lancé le poisson, et le Skyhawk l'a avalé tout rond, avec adresse."}
+{"id":1537904,"jp":"落ち込んでいるようです。私の分をあげましょう。","fr":"On dirait qu'il est tout déçu. Je vais lui donner ma part."}
+{"id":1537905,"jp":"シンフォーリアが魚を投げると、スカイホークは器用に丸呑みした。","fr":"Symphoria a lancé son poisson, et le Skyhawk l'a avalé tout rond, avec adresse."}
 {"id":1537906,"jp":"シュカーッ♪","fr":"Shkaa ! ♪"}
+{"id":1537907,"jp":"まだ食べたいなら、こちらにありますよ。","fr":"Si tu en veux encore, il y en a ici."}
 {"id":1537908,"jp":"グルル。","fr":"Grrr."}
 {"id":1537909,"jp":"ピシャアアーッ！","fr":"Pishaaaah !"}
+{"id":1537910,"jp":"あ……行ってしまいましたね。","fr":"Oh… Il est parti."}
+{"id":1537911,"jp":"パモーラのヤツ〜プライドが高いのだ。","fr":"Quelle fierté, cette Pamora~ !"}
 {"id":1537912,"jp":"これ、やるよ。","fr":"Tiens, c'est pour toi."}
 {"id":1537913,"jp":"テララは食べないの？","fr":"Tu ne manges pas, Terara ?"}
+{"id":1537914,"jp":"アタシは魚より肉の方が好きなんだ！\nそれに、翼人の食べものなんかに興味ない。","fr":"Moi, je préfère la viande au poisson !\nEt puis, la bouffe des Ailés, ça m'intéresse pas."}
+{"id":1537915,"jp":"いらないならあたしがもらうのだ！\nこっちはもうおなかペコペコだからな〜！","fr":"Si tu n'en veux pas, je le prends !\nJ'ai l'estomac dans les talons, moi~ !"}
 {"id":1537916,"jp":"あ——ん……","fr":"Aaah…"}
+{"id":1537917,"jp":"なあ……それ、どんな味がするんだ？","fr":"Dis… ça a quel goût ?"}
+{"id":1537918,"jp":"フフン、まだ食べてないのだ！\nまったく……パモーラみたいに強がっちゃって……そのうち後悔するぞ？\n今回は返してやる。ルミィさまは肉なんて食べないからな！","fr":"Hé hé, je n'y ai pas encore touché !\nFranchement… à jouer les dures comme Pamora… tu vas finir par le regretter, tu sais ?\nPour cette fois, je te le rends. La grande Lumi ne mange pas de viande, de toute façon !"}
+{"id":1537919,"jp":"うぅ……まあひとくち食べるくらいなら……","fr":"Mmh… bon, juste une bouchée, alors…"}
+{"id":1537920,"jp":"テララは警戒するように、においを嗅いだあと、舌先でぺろりと舐めた。","fr":"Terara l'a reniflé avec méfiance, puis y a donné un petit coup de langue."}
 {"id":1537921,"jp":"こ……これは……","fr":"C-c'est…"}
+{"id":1537922,"jp":"星臨者……前言撤回だ！こっ、この魚……！","fr":"Enfant des étoiles… Je retire ce que j'ai dit ! C-ce poisson… !"}
+{"id":1537923,"jp":"（僕も食べてみよう……）|（私も食べてみよう……）","fr":"(Je vais goûter aussi…)|(Je vais goûter aussi…)"}
+{"id":1537924,"jp":"（おいしい！こんなにおいしい焼き魚ははじめてだ！\nこの独特の歯ごたえ……噛んだ瞬間、鍔迫り合いのように跳ね返ってくる……\nこれは、滝に挑んだ自然の勇者しか持ち得ない力強さ！）|（おいしい！ここまでおいしい焼き魚ははじめて！\nこの独特の歯ごたえ……噛んだ瞬間、鍔迫り合いのように跳ね返ってくる……\nこれは、滝に挑んだ自然の勇者しか持ち得ない力強さ！）","fr":"(Délicieux ! Je n'ai jamais mangé de poisson grillé aussi bon !\nCette fermeté unique… Dès qu'on mord dedans, ça résiste comme deux lames qui se croisent…\nC'est une force que seul possède un héros de la nature qui a défié les cascades !)|(Délicieux ! Je n'ai jamais mangé de poisson grillé aussi bon !\nCette fermeté unique… Dès qu'on mord dedans, ça résiste comme deux lames qui se croisent…\nC'est une force que seul possède un héros de la nature qui a défié les cascades !)"}
+{"id":1537925,"jp":"（香辛料をほとんど使わず、シンプルに焼いただけなのに生臭さがまったくない！\n自然のうまみが口のなかに広がってる！）","fr":"(Presque pas d'épices, une simple cuisson, et pourtant aucune odeur de poisson !\nToute la saveur naturelle se répand dans la bouche !)"}
+{"id":1537926,"jp":"心の声が長すぎるのだ！","fr":"Ton monologue intérieur est beaucoup trop long !"}
+{"id":1537927,"jp":"おい、この魚、うますぎるぞ！ウルも食べてみな！","fr":"Hé, ce poisson est trop bon ! Goûte, Uru !"}
 {"id":1537928,"jp":"どーだ！うまいだろ！","fr":"Alors ! C'est bon, non !"}
+{"id":1537929,"jp":"足りなければ、私の分も差し上げます。あまり肉は食べませんので。","fr":"Si ce n'est pas assez, je vous donne aussi ma part. Je mange peu de viande."}
+{"id":1537930,"jp":"シンフォーリア、あの……気になってたんだけど……","fr":"Symphoria, dis… il y a un truc qui me tracasse…"}
+{"id":1537931,"jp":"翼人の里って、食料不足だったりする？","fr":"Le Village des Ailés manque de nourriture, c'est ça ?"}
+{"id":1537932,"jp":"え……？どうしてそう思われたのですか？","fr":"Pardon… ? Qu'est-ce qui vous fait penser ça ?"}
 {"id":1537933,"jp":"屋台で見かけた料理。","fr":"Le plat vu aux stands."}
+{"id":1537934,"jp":"リンカとシャーマンの話。","fr":"Ce que Rinka et la chamane ont dit."}
+{"id":1537935,"jp":"スカイホークのおねだり。","fr":"Le Skyhawk qui réclamait à manger."}
+{"id":1537936,"jp":"翼人の部族は狩りで生活してるから、\n本来はしっかりした食事が必要なはず。","fr":"Les Ailés vivent de la chasse,\nalors normalement, il leur faut des repas consistants."}
+{"id":1537937,"jp":"だけど、屋台に並んでたのは、果物とすこしの肉だけだった……\nきっと狩りがうまくいってないんじゃないかな。","fr":"Mais sur les étals, il n'y avait que des fruits et un peu de viande…\nLa chasse ne doit pas bien marcher."}
+{"id":1537938,"jp":"リンカがタカ豆をくれたとき、シャーマンが……\n僕に渡したらリンカの食べものがなくなると言ってたんだ。|リンカがタカ豆をくれたとき、シャーマンが……\n私に渡したらリンカの食べものがなくなると言ってたの。","fr":"Quand Rinka m'a donné les fèves de faucon, la chamane a dit…\nqu'en me les donnant, Rinka n'aurait plus rien à manger.|Quand Rinka m'a donné les fèves de faucon, la chamane a dit…\nqu'en me les donnant, Rinka n'aurait plus rien à manger."}
+{"id":1537939,"jp":"お礼に渡そうとするくらい、貴重な食料だったんだよね。\nだから、まずい状況になってるんじゃないかと思ったんだ。|お礼に渡そうとするくらい、貴重な食料だったんだよね。\nだから、まずい状況になってるんじゃないかと思ったの。","fr":"C'était une nourriture assez précieuse pour être offerte en remerciement.\nAlors je me suis dit que la situation devait être grave.|C'était une nourriture assez précieuse pour être offerte en remerciement.\nAlors je me suis dit que la situation devait être grave."}
+{"id":1537940,"jp":"翼人はもともと肉を好んで食べていたって、テララも言ってた。\nきっと食生活を変えなきゃいけないくらい、まずい状況なんだ。|翼人はもともと肉を好んで食べていたって、テララも言ってた。\nきっと食生活を変えなきゃいけないくらい、まずい状況なんでしょ。","fr":"Terara m'a dit qu'à la base, les Ailés aimaient la viande.\nS'ils ont dû changer leur façon de manger, c'est que ça va vraiment mal.|Terara m'a dit qu'à la base, les Ailés aimaient la viande.\nS'ils ont dû changer leur façon de manger, c'est que ça va vraiment mal."}
+{"id":1537941,"jp":"スカイホークたちは焼き魚を食べても\nおなかいっぱいになってなかった。","fr":"Même après le poisson grillé,\nles Skyhawk n'étaient pas rassasiés."}
+{"id":1537942,"jp":"スカイホークは翼人にとって家族同然……\n食べものをあげないなんてありえない。","fr":"Pour les Ailés, les Skyhawk sont comme de la famille…\nImpossible qu'ils les privent de nourriture."}
+{"id":1537943,"jp":"きっと食料の供給に問題があるんだ。","fr":"Il doit y avoir un problème d'approvisionnement."}
+{"id":1537944,"jp":"星臨者さま……あなたのお考えどおりです。","fr":"Enfant des étoiles… Vous avez vu juste."}
+{"id":1537945,"jp":"翼人は誇り高い種族。\n戦いの功績は高らかに語っても、外の者に身内の悩みを明かすことはありません。","fr":"Les Ailés sont un peuple fier.\nIls racontent haut et fort leurs exploits au combat, mais ne confient jamais leurs soucis aux étrangers."}
+{"id":1537946,"jp":"ですが、食料が不足しているのは確実です。\nおそらく、そこらじゅうに出没する凶獣のせいで、\n狩りがままならないのでしょう。","fr":"Pourtant, ils manquent de nourriture, c'est certain.\nAvec toutes ces Bêtes maudites qui rôdent partout,\nils ne peuvent sans doute plus chasser comme il le faudrait."}
+{"id":1537947,"jp":"おそらく、そこらじゅうに出没する凶獣のせいで、狩りがままならないのでしょう。","fr":"Avec toutes ces Bêtes maudites qui rôdent partout, ils ne peuvent sans doute plus chasser comme il le faudrait."}
+{"id":1537948,"jp":"ううっ……そんな話をされたら、焼き魚の味がぁ……","fr":"Ugh… Si tu me racontes ça, le poisson grillé n'a plus le même goût…"}
+{"id":1537949,"jp":"実はさ、最近アタシらが翼人連中と揉めてたのも、狩場の縄張りのせいなんだ。","fr":"En fait, si on se prenait la tête avec les Ailés ces derniers temps, c'est à cause des territoires de chasse."}
+{"id":1537950,"jp":"まえは風導の森を境にして、狩場を分けてたんだけど……","fr":"Avant, on se partageait les terrains de chasse, avec la Forêt du Vent-Guide comme frontière…"}
+{"id":1537951,"jp":"最近は連中が約束を破って、理由も言わずにシャルル村の狩場に入ってくる。\nそれでいつも小競り合いになってるんだ。","fr":"Mais depuis peu, ils rompent l'accord et viennent chasser sur le territoire du Village de Charlulu sans rien expliquer.\nEt ça finit toujours en bagarre."}
+{"id":1537952,"jp":"このまえ、こっそり風隠れ岩に侵入したのも、\nヤツらがなにか企んでるんじゃないかと思ったからでさ。","fr":"L'autre fois, si je me suis infiltrée en douce au Roc Coupe-Vent,\nc'est parce que je me disais qu'ils mijotaient un truc."}
+{"id":1537953,"jp":"思い返すと……あのころからずっと、食料に困ってたのかもな。","fr":"Quand j'y repense… ils manquaient peut-être déjà de nourriture à l'époque."}
+{"id":1537954,"jp":"元凶は鷹の連峰の凶獣でしょう。\n翼人たちの獲物がシャルル村の縄張りに逃げたから、生きるために約束した境を越えるしかなかったのです。","fr":"La cause, ce sont sans doute les Bêtes maudites des Monts du Faucon.\nLe gibier des Ailés a fui vers le territoire du Village de Charlulu : pour survivre, ils n'avaient d'autre choix que de franchir la frontière convenue."}
+{"id":1537955,"jp":"村に戻って村長に報告しよう。ついでに翼人のことも聞いてみる。","fr":"Retournons au village faire notre rapport au Chef du village. J'en profiterai pour lui poser des questions sur les Ailés."}
+{"id":1537956,"jp":"うん、そうだな。\nまあ、無事に星臨者の仲間を見つけたし、アタシも大手を振って村に帰れる！","fr":"Ouais, t'as raison.\nBon, on a retrouvé l'amie de l'Enfant des étoiles saine et sauve, je peux rentrer au village la tête haute !"}
+{"id":1537957,"jp":"さあ、ウル！家に帰るぞ！","fr":"Allez, Uru ! On rentre à la maison !"}
 {"id":1537958,"jp":"こら、起きろ！！","fr":"Hé, réveille-toi !!"}
+{"id":1537959,"jp":"はっ！？だ、だれだ！敵襲かぁ！？","fr":"Hein !? Q-qui est là ! On nous attaque !?"}
+{"id":1537960,"jp":"なんだぁ、テララと星臨者か……","fr":"Ah, c'est juste Terara et l'Enfant des étoiles…"}
+{"id":1537961,"jp":"あとはシャアモンと……んん？おっきいシャアモンもいるのか？","fr":"Et puis la Shaamon et… hein ? Il y a aussi une grande Shaamon ?"}
+{"id":1537962,"jp":"妖精とエルフは違うのだ！","fr":"Les fées et les Elfes, ce n'est pas la même chose !"}
+{"id":1537963,"jp":"はじめまして、私はシンフォーリア。星臨者さまのお伴をしています。","fr":"Enchantée, je suis Symphoria. J'accompagne l'Enfant des étoiles."}
+{"id":1537964,"jp":"おおぉ……高貴なエルフがシャルル村に……？","fr":"Ooooh… Une noble Elfe, au Village de Charlulu… ?"}
+{"id":1537965,"jp":"星臨者、仲間が見つかってよかったなぁ……じゃ、オレ寝るわ。","fr":"Enfant des étoiles, content que t'aies retrouvé tes compagnons… Bon, moi, je vais dormir."}
+{"id":1537966,"jp":"この……いいかげんに……","fr":"Toi… ça commence à bien faire…"}
 {"id":1537967,"jp":"おーきーろー！！","fr":"Ré-veille-toi !!"}
+{"id":1537968,"jp":"いてててぇ！起きてる！起きてるってぇ！","fr":"Aïe, aïe, aïe ! Je suis réveillé ! Je suis réveillé, j'te dis !"}
+{"id":1537969,"jp":"ソール！いつもいつも手抜きすんのは大目に見てたけど、\n門の見張りしてるときに寝るなんて、どーいうつもりだ！？","fr":"Sol ! Que tu tires au flanc tous les jours, je fermais les yeux, mais\ndormir pendant ton tour de garde à la porte, tu te fiches de qui !?"}
+{"id":1537970,"jp":"勘弁してくれよぅ……昨日の夜からずっと見張りしてて……\nふわぁーあぁ……","fr":"Pitié… je monte la garde depuis hier soir…\nHooaaah…"}
+{"id":1537971,"jp":"昼間はさ、ちったぁ休めるけど、夜はずっと目を開けてなきゃなんねぇ……\nほら、オレの目を見てくれよ、腫れてんだろぉ……","fr":"Le jour, je peux souffler un peu, mais la nuit, faut garder les yeux ouverts tout le temps…\nRegarde mes yeux, ils sont tout gonflés…"}
+{"id":1537972,"jp":"そんなことがあったのか……これも凶獣のせいか？","fr":"Ah, c'est comme ça… C'est encore la faute des Bêtes maudites ?"}
+{"id":1537973,"jp":"そーだぜ……おかしなキボに続いて、今度は凶獣！\nオレがどんだけ大変な思いをしているか……って、こんなのおまえに言ったってわかんねぇだろうけどな！","fr":"Ouais… D'abord des Kibo bizarres, et maintenant des Bêtes maudites !\nSi tu savais ce que j'en bave… Enfin, même si je te le disais, tu comprendrais pas !"}
+{"id":1537974,"jp":"あはは……ごめんごめん。誤解してた……","fr":"Haha… Pardon, pardon. Je t'avais mal jugé…"}
+{"id":1537975,"jp":"まぁいいや。いまカニアが村長と見張りの交代時間を相談してるから……\nちったぁよくなるだろうしな。","fr":"Bah, c'est pas grave. Kania est en train de voir avec le chef pour changer les tours de garde…\nça devrait aller un peu mieux."}
+{"id":1537976,"jp":"ふむ、村長は家か。あたしたちも行こう。村長にはやく伝えないとな！","fr":"Hmm, le Chef du village est chez lui, alors. Allons-y aussi. Il faut le prévenir au plus vite !"}
+{"id":1537977,"jp":"あっ！そうだ、ソール。パミー族がふたり来なかったか？","fr":"Ah ! Au fait, Sol. T'aurais pas vu passer deux Pammy ?"}
 {"id":1537978,"jp":"パミーってなんだぁ？","fr":"C'est quoi, un Pammy ?"}
+{"id":1537979,"jp":"えっとな……背が低くて、大きな耳で……\nそうだ！ボアラーガを連れたふたり組だ！","fr":"Ben… Ils sont petits, avec de grandes oreilles…\nAh, je sais ! Deux qui se baladent avec des Boaraga !"}
+{"id":1537980,"jp":"ああ！わかったわかった。そのふたりなら、村にいるぞ。\nそういやぁ、テララに道を教えてもらったって言ってたな。","fr":"Ah ! J'y suis, j'y suis. Ces deux-là, ils sont au village.\nD'ailleurs, ils ont dit que c'était Terara qui leur avait indiqué le chemin."}
+{"id":1537981,"jp":"村にいるってことは……ほんとに、あの地図でシャルル村にたどり着いたのか！？","fr":"Au village… ? Alors cette carte leur a vraiment permis de trouver le Village de Charlulu !?"}
+{"id":1537982,"jp":"ほーらな。言っただろ！アタシは村一番のハンター！\nガイドなんてラクショーだってさ！","fr":"Ah, tu vois ! Je te l'avais dit ! Je suis la meilleure chasseuse du village !\nServir de guide, c'est fastoche !"}
 {"id":1537983,"jp":"いやぁ……","fr":"Eh bien…"}
+{"id":1537984,"jp":"話を聞いたら、その地図で逆方向に行っちまったらしいぞ？\nちょうど木の実を採りに出たやつがいて、連れ帰ったらしい。","fr":"Paraît qu'avec cette carte, ils sont partis dans le mauvais sens, hein ?\nQuelqu'un qui était sorti cueillir des noix les a croisés et ramenés."}
 {"id":1537985,"jp":"え……それって……","fr":"Hein… tu veux dire que…"}
+{"id":1537986,"jp":"アタシが描いた地図をちゃんと見てなかったのか！？\nはぁ……あんなに細かく描いてやったのになあ……","fr":"Ils ont même pas bien regardé la carte que je leur ai dessinée !?\nPfff… Et moi qui l'avais faite avec tous les détails…"}
+{"id":1537987,"jp":"いやいや、その地図のせいなのだ！","fr":"Mais non, mais non, c'est la faute de la carte !"}
+{"id":1537988,"jp":"まったく、この狼しっぽ娘のガイドでシフォンを見つけられたのは、\nほんとに運がよかったのだ……","fr":"Franchement, avoir retrouvé Chiffon avec Queue-de-loup comme guide,\nc'est vraiment un coup de chance…"}
 {"id":1537989,"jp":"そうだね……","fr":"C'est vrai…"}
+{"id":1537990,"jp":"村長……最近、門番の仕事が大変なことになっています。\nおかしくなったキボに凶獣、それに翼持ちの連中まで……！","fr":"Chef… ces derniers temps, le travail de garde à la porte devient vraiment difficile.\nDes Kibo devenus bizarres, des Bêtes maudites, et maintenant même ces emplumés… !"}
+{"id":1537991,"jp":"このままじゃ、みんなの疲労が溜まる一方で……","fr":"Si ça continue, la fatigue ne va faire que s'accumuler…"}
+{"id":1537992,"jp":"うむ……苦労しているのはわかっておる……\nラルをここに呼んだのも、民兵隊から手を回せないかと思ったからでな。","fr":"Hmm… Je sais bien que tu as du mal…\nSi j'ai fait venir Ral, c'est justement pour voir si la milice pouvait vous donner un coup de main."}
+{"id":1537993,"jp":"ああ、村のために戦うのは私の責務だ……村長の指示に従おう。","fr":"Oui, me battre pour le village est mon devoir… Je suivrai les ordres du chef."}
+{"id":1537994,"jp":"じっちゃん！たっだいまー！","fr":"Papy ! Je suis rentrée !"}
+{"id":1537995,"jp":"ほっほ。ソザンカさまに感謝を。\n星臨者よ、仲間が見つかったようじゃな。","fr":"Ho ho. Rendons grâce à Sozanka.\nEnfant des étoiles, il semble que tu aies retrouvé tes compagnons."}
+{"id":1537996,"jp":"これも大狼さまのご加護だな！祈りが通じたんだ！","fr":"C'est la protection du Seigneur Grand Loup ! Nos prières ont été entendues !"}
+{"id":1537997,"jp":"はじめまして、村長さま。\nシンフォーリアと申します。星臨者さまの旅に同行しています。","fr":"Enchantée, Chef du village.\nJe me nomme Symphoria. J'accompagne l'Enfant des étoiles dans son voyage."}
+{"id":1537998,"jp":"おお……ウッドエルフか。お目にかかるのはひさしぶりじゃのう。","fr":"Oh… une Elfe des bois. Ça faisait bien longtemps que je n'en avais pas rencontré."}
+{"id":1537999,"jp":"エルフに会ったことが？","fr":"Tu as déjà rencontré des Elfes ?"}
+{"id":1538000,"jp":"うむ、若い時分にロースランサまで行ったことがあってのう……\nあの老いた予言者……ルカ……いや、シラルカだったかの……？","fr":"Oui, dans ma jeunesse, je suis allé jusqu'à Lors Lains…\nCe vieux prophète… Luka… non, c'était Shiraluka… ?"}
+{"id":1538001,"jp":"もしや、大賢者シャラカのことでしょうか？","fr":"Voulez-vous parler du Grand Sage Sharaka ?"}
+{"id":1538002,"jp":"そうじゃそうじゃ！\nシャラカとはネクターバのエキスを飲みながら、三日三晩語り明かしたものじゃ。","fr":"Mais oui, c'est ça !\nSharaka et moi avons passé trois jours et trois nuits à discuter en buvant de l'extrait de Nectarba."}
+{"id":1538003,"jp":"師の昔馴染みのお方でしたか。\nそれでは、我が師に代わってご挨拶をさせてください。","fr":"Vous êtes donc une vieille connaissance de mon maître.\nAlors permettez-moi de vous saluer en son nom."}
+{"id":1538004,"jp":"ほう、あの老翁の弟子か。道理でどうりで……\nだが、まだまだ成長途中のようじゃな。このまま精進なさい。","fr":"Oh, une disciple de ce vieil homme ? Voilà qui explique bien des choses…\nMais il te reste encore beaucoup à apprendre. Poursuis tes efforts."}
+{"id":1538005,"jp":"あの……見ただけでおわかりに？","fr":"Euh… Vous l'avez deviné rien qu'en me regardant ?"}
+{"id":1538006,"jp":"ほっほ、ウッドエルフのことは、それなりに知っておる。","fr":"Ho ho, je connais assez bien les Elfes des bois."}
+{"id":1538007,"jp":"も〜！じっちゃん、まーた話をでっかくして！","fr":"Rhooo ! Papy, tu en rajoutes encore !"}
+{"id":1538008,"jp":"なあ、アンタたちも真に受けすぎるなよ？\nおとぎ話だと思って聞いてればいーからさ。","fr":"Dites, prenez pas tout ça trop au sérieux, hein ?\nÉcoutez ça comme un conte, ça suffit."}
+{"id":1538009,"jp":"そうだ！じっちゃん、ここには大事な話があって来たんだ！","fr":"Ah oui ! Papy, on a un truc important à te dire !"}
+{"id":1538010,"jp":"翼人の里と凶獣の脅威について、村長に話した。\n話を聞き終わったあと、村長は長いあいだ沈黙していた。","fr":"Vous avez parlé au Chef du village du Village des Ailés et de la menace des Bêtes maudites.\nUne fois le récit terminé, le Chef est resté longtemps silencieux."}
+{"id":1538011,"jp":"ふむ……最近、翼人たちがシャルル村の縄張りで狩りをすることが増えてな。\nわしらの関係は悪化しておった。","fr":"Hmm… Ces derniers temps, les Ailés chassent de plus en plus souvent sur le territoire du Village de Charlulu.\nNos relations s'étaient dégradées."}
+{"id":1538012,"jp":"やむを得ぬ事情だろうとは思っておったが……\n長きにわたるわだかまりで、わしらは交流を絶っておる。たしかめる術もなくてのう。","fr":"Je me doutais bien qu'ils y étaient contraints…\nMais après tant d'années de rancœur, nous avons coupé les ponts. Je n'avais aucun moyen de m'en assurer."}
+{"id":1538013,"jp":"翼人と獣人は、ずっと対立してるの？","fr":"Les Ailés et les Furriens ont toujours été en conflit ?"}
+{"id":1538014,"jp":"どうしてそんなに関係が悪化したの？","fr":"Pourquoi vos relations se sont autant dégradées ?"}
+{"id":1538015,"jp":"ん？最近は獲物が奪われることが増えてたけど……\nそのまえにもなんかあったのか？","fr":"Hein ? Ces derniers temps, ils nous volent de plus en plus de gibier, mais…\nil s'est passé un truc avant ça ?"}
+{"id":1538016,"jp":"テララよ……この話はなんどもしておるぞ。\nおぬし、真面目に聞いていなかったようじゃな？","fr":"Terara… je t'ai raconté cette histoire je ne sais combien de fois.\nTu n'écoutais pas, on dirait ?"}
+{"id":1538017,"jp":"えっ、そ、そうだっけ！？","fr":"Hein ? A-ah bon !?"}
+{"id":1538018,"jp":"いい機会じゃ。あらためて説明するとしよう――","fr":"C'est l'occasion. Laisse-moi tout réexpliquer…"}
+{"id":1538019,"jp":"おぬしも知ってのとおり……\nわしらの先祖がシャルル村に移り住んだのは、百朔ほど前のことじゃ。","fr":"Comme tu le sais…\nnos ancêtres se sont installés au Village de Charlulu il y a une centaine de lunes."}
+{"id":1538020,"jp":"だが翼人は違う。彼らは先祖代々この芽吹の谷に住んでおった。","fr":"Mais pour les Ailés, c'est différent. Ils vivent dans la Vallée des Bourgeons depuis des générations."}
+{"id":1538021,"jp":"彼らから見れば、わしらシャルル村の住民はよそ者なんじゃ。\nだから、わしらの主張する『縄張り』については、最初から火種を抱えておった。","fr":"À leurs yeux, nous autres du Village de Charlulu sommes des étrangers.\nCe que nous appelons notre « territoire » était donc un sujet brûlant dès le départ."}
+{"id":1538022,"jp":"わしが村長になってからも、それぞれの土地をめぐり、数え切れない争いがあった。","fr":"Depuis que je suis Chef du village, il y a eu d'innombrables conflits au sujet des terres de chacun."}
+{"id":1538023,"jp":"いまの境界線を決めるときにも、大きな犠牲を払っておる……","fr":"Fixer la frontière actuelle nous a déjà coûté de lourds sacrifices…"}
+{"id":1538024,"jp":"じゃからの……翼人たちがその境界を越えてまで、獲物を求めるようすを見れば、\n凶獣の問題が深刻だということは想像がつく。","fr":"C'est pourquoi… quand je vois les Ailés franchir cette frontière pour trouver du gibier,\nj'imagine sans peine à quel point le problème des Bêtes maudites est grave."}
+{"id":1538025,"jp":"たしかに、翼人のとこに出た凶獣はすごい数だったな……","fr":"C'est vrai qu'il y avait un paquet de Bêtes maudites chez les Ailés…"}
+{"id":1538026,"jp":"ええ、それに翼人の里の食料不足も深刻でした……私がこの目で見ています。","fr":"Oui, et la pénurie de nourriture au Village des Ailés est grave, elle aussi… Je l'ai vue de mes propres yeux."}
+{"id":1538027,"jp":"ふむ……つまり、凶獣が争いの元凶というわけじゃな……\nこのままでは翼人だけでなく、シャルル村も危険じゃのう。","fr":"Hmm… Les Bêtes maudites sont donc à l'origine du conflit…\nSi ça continue, le Village de Charlulu sera en danger lui aussi, et pas seulement les Ailés."}
+{"id":1538028,"jp":"だが、逆に考えれば……今回のことは翼人との接点になるかもしれぬ。","fr":"Mais, à l'inverse… cette affaire pourrait nous rapprocher des Ailés."}
+{"id":1538029,"jp":"ともに手を取り、凶獣と戦うことができれば、双方にとってよい結果になるはずじゃ。","fr":"Si nous unissons nos forces pour combattre les Bêtes maudites, les deux camps ont tout à y gagner."}
+{"id":1538030,"jp":"翼人と手を結ぶってことですか！？そんな……","fr":"Vous voulez dire, vous allier aux Ailés !? Mais…"}
+{"id":1538031,"jp":"村長、忘れたんですか！？\nあいつらは、ついこのあいだも境界を越えてきたばかりです！\nおれたちのハンターを傷つけて、獲物を奪ったんですよ！","fr":"Chef, vous avez oublié !?\nPas plus tard que l'autre jour, ils ont encore franchi la frontière !\nIls ont blessé nos chasseurs et volé notre gibier !"}
+{"id":1538032,"jp":"村を守る手も足りないっていうのに、連中を助ける余裕なんて！","fr":"On n'a même pas assez de bras pour protéger le village, alors aider ces gens-là… !"}
+{"id":1538033,"jp":"翼人なんて、放っておけばいいんです！","fr":"Les Ailés, on n'a qu'à les laisser se débrouiller !"}
+{"id":1538034,"jp":"落ち着かんか、カニア。","fr":"Calme-toi donc, Kania."}
+{"id":1538035,"jp":"ぐっ……すみません。おれは見回りに、行ってきます。","fr":"Gh… Pardon. Je vais faire ma ronde."}
+{"id":1538036,"jp":"では、私も失礼しよう。","fr":"Alors je vais prendre congé, moi aussi."}
+{"id":1538037,"jp":"待たぬか。ラル、おぬしはどう思っておるんじゃ？","fr":"Attends donc. Ral, qu'en penses-tu, toi ?"}
+{"id":1538038,"jp":"翼人と手を結ぶ話か？村長の決断に従うだけだ。","fr":"L'alliance avec les Ailés ? Je me rangerai à la décision du chef, voilà tout."}
+{"id":1538039,"jp":"だが……私の責務は村を守ること。\n翼人どもが村の縄張りに侵入してくるなら、容赦はしない。","fr":"Mais… mon devoir est de protéger le village.\nSi ces Ailés empiètent sur notre territoire, je ne ferai pas de quartier."}
+{"id":1538040,"jp":"ふむ……これでわかったかのう？\nこの話をまとめるのは、そう容易いことではない。","fr":"Hmm… Tu comprends, maintenant ?\nRallier tout le monde à cette idée n'a rien de simple."}
+{"id":1538041,"jp":"シャルル村にも、翼人にも、きっかけが必要なんじゃ……","fr":"Le Village de Charlulu comme les Ailés ont besoin d'une occasion…"}
+{"id":1538042,"jp":"食料不足の問題から切り込む。","fr":"Commencer par la pénurie de nourriture."}
+{"id":1538043,"jp":"翼人の若き鷹主と交渉する。","fr":"Négocier avec le jeune Seigneur Faucon des Ailés."}
+{"id":1538044,"jp":"いま、翼人たちが抱える一番の問題は食料不足……\nもしも、それを解決できれば、手を結ぶきっかけになるかもしれない。","fr":"Le plus gros problème des Ailés, en ce moment, c'est le manque de nourriture…\nSi on arrive à le régler, ça pourrait être l'occasion de s'allier."}
+{"id":1538045,"jp":"あの翼持ちの連中が、ほんとに手助けを受け入れると思うか？\nヤツらは誇りを命より大事にしてる。同じハンターだから、わかるんだ。","fr":"Tu crois vraiment que ces emplumés accepteraient de l'aide ?\nPour eux, la fierté compte plus que la vie. Je suis chasseuse aussi, alors je le sais."}
+{"id":1538046,"jp":"ですが、翼人の方々にとって、食料不足は無視できない深刻な問題。\nすくなくとも手を取り合う糸口にはなるはずです。","fr":"Pourtant, pour les Ailés, le manque de nourriture est un problème grave, impossible à ignorer.\nCe serait au moins un premier pas pour se tendre la main."}
+{"id":1538047,"jp":"それに、いまの翼人たちの<ruby=ホークガル>鷹主</ruby>はファランタ……\nまだ若い彼女となら、過去のわだかまりを捨てて、手を結べる可能性はあるよ。","fr":"Et puis, le Seigneur Faucon actuel des Ailés, c'est Faridah…\nElle est encore jeune : avec elle, on pourrait laisser de côté les vieilles rancunes et s'allier."}
+{"id":1538048,"jp":"そういえば、あの<ruby=ホークガル>鷹主</ruby>、じっちゃんによろしくって言ってたぞ！","fr":"Ah, d'ailleurs, ce Seigneur Faucon m'a dit de passer le bonjour à Papy !"}
+{"id":1538049,"jp":"翼人の食料不足を解決できれば……\n<ruby=ホークガル>鷹主</ruby>さまはきっと、シャルル村と手を結んでくれるはずです。","fr":"Si nous réglons la pénurie de nourriture des Ailés…\nle Seigneur Faucon acceptera sûrement de s'allier au Village de Charlulu."}
+{"id":1538050,"jp":"うん。それにシャルル村だってさ。\n十分な食料を準備しておくのは、後々のためになるはずだよ。","fr":"Oui. Et pour le Village de Charlulu aussi.\nFaire des réserves de nourriture, ça servira pour plus tard."}
+{"id":1538051,"jp":"このさき翼人と同じ状況に陥ったとしても、備えがあれば困ることはないしね。","fr":"Si un jour on se retrouve dans la même situation que les Ailés, avec des réserves, on n'aura pas de souci."}
+{"id":1538052,"jp":"ほっほ、どうやらおぬしらには、もう計画があるようじゃな。","fr":"Ho ho, on dirait que vous avez déjà un plan."}
+{"id":1538053,"jp":"裏山を開拓したおかげで……\n人手さえあれば、食料は準備できるはず。","fr":"Grâce aux terres défrichées sur la montagne de derrière…\navec assez de bras, on devrait pouvoir produire de la nourriture."}
+{"id":1538054,"jp":"あの土地をうまく活用しているようじゃな。\nウーチからも話は聞いておる。裏山の農作物は順調に育っておるようじゃ。","fr":"Tu as l'air de bien mettre ces terres à profit.\nUchi m'en a parlé aussi. Les cultures de la montagne de derrière poussent bien, à ce qu'il paraît."}
+{"id":1538055,"jp":"だが、この村の者はほとんど、畑を耕したことがない。\n狩りのほかは、果物を採集することしか知らない者ばかりじゃ。","fr":"Mais presque personne au village n'a jamais labouré un champ.\nÀ part chasser, ils ne savent que cueillir des fruits."}
+{"id":1538056,"jp":"星臨者よ……村の者が畑に興味を持ち、作業を覚えるのは容易なことではないぞ。","fr":"Enfant des étoiles… Donner aux villageois le goût des champs et leur apprendre le travail, ce ne sera pas une mince affaire."}
 {"id":1538057,"jp":"なんとかやってみる。","fr":"Je vais me débrouiller."}
+{"id":1538058,"jp":"星臨者さまはこの村に土地を持っているのですか？\nつまり、ここで植物を育てられると……？","fr":"Enfant des étoiles, vous possédez des terres dans ce village ?\nCe qui veut dire que vous pouvez faire pousser des plantes ici… ?"}
+{"id":1538059,"jp":"いや、あれは……土地というより、広大な農園なのだ。\n鍛冶に料理に土いじり、なんだってできる！","fr":"Eh bien, c'est… plus qu'un terrain, c'est une immense ferme.\nForge, cuisine, jardinage, on peut tout y faire !"}
+{"id":1538060,"jp":"すごい……！見に行ってもよろしいですか？\n植物の世話は……その、得意ではありませんが、力になれるかもしれません！","fr":"Incroyable… ! Puis-je aller la voir ?\nJe ne suis pas… très douée pour m'occuper des plantes, mais je pourrai peut-être vous aider !"}
+{"id":1538061,"jp":"ほっほ、なにか困ったことがあれば言いなさい。\nわしとこの村がおぬしの力になる。","fr":"Ho ho, si tu rencontres la moindre difficulté, dis-le-moi.\nLe village et moi, nous t'aiderons."}
+{"id":1538062,"jp":"アタシも星臨者の畑仕事ってヤツを手伝うぞ！じっちゃん、またな！","fr":"Moi aussi, je vais aider l'Enfant des étoiles à faire ses « travaux des champs » ! Papy, à plus !"}
+{"id":1538063,"jp":"待て、テララ。畑のことはあの若者に任せておくんじゃ。\nおぬしには頼みたいことがあるからのう。","fr":"Attends, Terara. Les champs, laisse donc la jeunesse s'en occuper.\nJ'ai quelque chose à te demander."}
+{"id":1538064,"jp":"星臨者よ、さきに行きなさい。わしはテララと話がある。","fr":"Enfant des étoiles, va devant. J'ai à parler avec Terara."}
+{"id":1538065,"jp":"じっちゃんからの仕事じゃ、しかたないな……\n星臨者、あとでアタシにも畑仕事ってヤツ、教えてくれよ！","fr":"Si c'est un boulot de Papy, j'ai pas le choix…\nEnfant des étoiles, tu m'apprendras tes « travaux des champs », après !"}
+{"id":1538066,"jp":"リリカ、こちらに『タナの火祭り』で必要なものをまとめました。","fr":"Lyrica, j'ai rassemblé ici tout ce qu'il nous faut pour la « fête du feu de Tana »."}
+{"id":1538067,"jp":"うーん、必要な農作物の量がすごく多いね……\nいまの畑じゃ狭すぎて、この量はちょっとさばけないかも……","fr":"Hmm, il nous faut une sacrée quantité de récoltes…\nLe champ actuel est trop petit, je ne sais pas si on pourra fournir autant…"}
 {"id":1538068,"jp":"ルルカ、戻ったよ。","fr":"Luruka, je suis de retour."}
+{"id":1538069,"jp":"あっ、星臨者さま。\nこちらは……星臨者さまが仰っていたエルフのお連れの方ですね。","fr":"Ah, Enfant des étoiles.\nEt voici… l'Elfe qui vous accompagne, celle dont vous m'aviez parlé, n'est-ce pas ?"}
+{"id":1538070,"jp":"はじめまして、シンフォーリアと申します。","fr":"Enchantée, je m'appelle Symphoria."}
+{"id":1538071,"jp":"エルフの方は、みなさん綺麗ですね……","fr":"Vous êtes si belles, vous, les Elfes…"}
+{"id":1538072,"jp":"あっ！ご、ごめんなさい。つい、見惚れてしまいました。\nわたしはルルカ……シャルル村のシャーマンです。","fr":"Oh ! P-pardon. Je n'ai pas pu m'empêcher de vous admirer.\nJe suis Luruka… la chamane du Village de Charlulu."}
+{"id":1538073,"jp":"オイラはリリカ！ボスのために、この農園を管理してるんだ！","fr":"Et moi, c'est Lyrica ! Je gère cette ferme pour le Chef !"}
+{"id":1538074,"jp":"農園とその管理者……ですか？\n星臨者さま、知らないうちに仲間がたくさん増えましたね。","fr":"Une ferme, et sa gérante… ?\nEnfant des étoiles, vous vous êtes fait beaucoup d'amis sans que je le sache."}
+{"id":1538075,"jp":"ボス！今日はどんなご用でしょうか！","fr":"Chef ! Qu'est-ce qui t'amène aujourd'hui ?"}
+{"id":1538076,"jp":"村長との話をルルカとリリカに伝えた。","fr":"Vous avez raconté à Luruka et à Lyrica votre discussion avec le Chef du village."}
+{"id":1538077,"jp":"この農園でもっとたくさんの作物を育てて、食料不足を解決する、ということですか……","fr":"Faire pousser beaucoup plus de cultures dans cette ferme pour régler la pénurie de nourriture, c'est bien ça… ?"}
+{"id":1538078,"jp":"そーいうこと！そんで翼人と手を組んで、凶獣を倒すのだ！","fr":"Exactement ! Et après, on s'allie aux Ailés et on écrase les Bêtes maudites !"}
+{"id":1538079,"jp":"よさそうな話だけど……いまのままじゃ畑が狭くてさ。\nタナの火祭りで必要なものすら、さばけそうにないんだ……","fr":"Ça a l'air bien, mais pour l'instant, le champ est trop petit.\nOn n'arrivera même pas à fournir ce qu'il faut pour la fête du feu de Tana…"}
+{"id":1538080,"jp":"なら、<color=#fed196>畑を増やせば</color>いい！\nこの土地の豊かなカルマは、すっごい可能性を秘めてるのだ！","fr":"Alors il n'y a qu'à <color=#fed196>agrandir les champs</color> !\nLe Karma abondant de cette terre a un potentiel énorme !"}
+{"id":1538081,"jp":"あの<color=#fed196>雑草を抜けば</color>、畑は増やせるぞ！","fr":"Si on <color=#fed196>arrache ces mauvaises herbes</color>, on pourra agrandir les champs !"}
+{"id":1538082,"jp":"雑草……あの腰まであるタンタロマでしょうか？","fr":"Les mauvaises herbes… Vous voulez parler de ces Tantaloma qui montent jusqu'à la taille ?"}
+{"id":1538083,"jp":"あれって、そんな名前だったのか？","fr":"C'est comme ça que ça s'appelle ?"}
+{"id":1538084,"jp":"ええ、タンタロマは谷でよく見かける植物で……\n綿毛が風に乗って種を広げるので、錦朔に入るとどんどん増えるのです。","fr":"Oui, le Tantaloma est une plante courante dans la vallée…\nSes graines s'envolent avec leur duvet, alors elle se multiplie très vite quand arrive la Lune de brocart."}
+{"id":1538085,"jp":"うん、あれを抜いちゃえば、たしかに畑を広くできる！","fr":"Oui, si on arrache tout ça, on pourra vraiment agrandir le champ !"}
+{"id":1538086,"jp":"それでは私にお任せを。\nハイガーデンでも植物のお手入れをずっとしていましたから。","fr":"Alors laissez-moi faire.\nÀ High Garden, je me suis longtemps occupée des plantes."}
+{"id":1538087,"jp":"うんうん！シフォンに任せておけばだいじょーぶ。\nハイガーデンの言うこと聞かない魔法植物だってお手のもの！タンタロマなんてすぐなのだ〜！","fr":"Oui, oui ! Avec Chiffon, tout ira bien.\nMême les plantes magiques indisciplinées de High Garden, elle s'en occupe les doigts dans le nez ! Des Tantaloma, ce sera vite réglé~ !"}
+{"id":1538088,"jp":"休まなくて大丈夫？|休まなくて大丈夫？","fr":"Tu ne veux pas te reposer d'abord ?|Tu ne veux pas te reposer d'abord ?"}
+{"id":1538089,"jp":"こういうのは僕が……|こういうのは私が……","fr":"Ce genre de chose, c'est plutôt à moi de…|Ce genre de chose, c'est plutôt à moi de…"}
+{"id":1538090,"jp":"大丈夫です！私も皆さんのお役に立ちたいですし、お手伝いできるのはうれしいです。","fr":"Tout va bien ! Moi aussi, je veux être utile à tout le monde, et je suis heureuse de pouvoir aider."}
+{"id":1538091,"jp":"ごめんなさい。お手伝いしたいのですが……\nわたしは火祭りの準備にかかりきりで……","fr":"Je suis désolée. J'aimerais vous aider, mais…\nje suis complètement prise par les préparatifs de la fête du feu…"}
+{"id":1538092,"jp":"大丈夫！農園のことは任せて。","fr":"Ne t'en fais pas ! Laisse-moi la ferme."}
+{"id":1538093,"jp":"ありがとうございます。では、わたしは戻りますね。","fr":"Merci beaucoup. Alors je retourne à mes préparatifs."}
+{"id":1538094,"jp":"やっと終わったぁ～もう眠いのだぁ……","fr":"C'est enfin fini~ J'ai trop sommeil…"}
+{"id":1538095,"jp":"お疲れさま、シンフォーリア。ここに座って、ちょっと休もう。","fr":"Beau travail, Symphoria. Viens t'asseoir, on va souffler un peu."}
+{"id":1538096,"jp":"ふぅ……気持ちのよい汗をかきました。\nひさしぶりに時間をかけて土地の手入れをしたら、なんだか懐かしい気分です。","fr":"Ouf… Voilà une sueur bien agréable.\nÇa faisait longtemps que je n'avais pas pris le temps de soigner une terre, ça me rend nostalgique."}
+{"id":1538097,"jp":"ここは……本当に美しい場所ですね。\n辺境の土地ではありますが、ロースランサにも負けていません……","fr":"Cet endroit… est vraiment magnifique.\nC'est une terre reculée, mais elle n'a rien à envier à Lors Lains…"}
+{"id":1538098,"jp":"シャルル村、そして風隠れ岩……\n獣人たちの集落は、私の想像とはまったく違いました。","fr":"Le Village de Charlulu, et le Roc Coupe-Vent…\nLes villages des Furriens n'ont rien à voir avec ce que j'imaginais."}
+{"id":1538099,"jp":"その……てっきり、もっと荒々しい、未開の地かと思っていたんです。","fr":"C'est que… je me les figurais plus rudes, plus sauvages."}
+{"id":1538100,"jp":"ですが、ここで出会った皆さんは、優しく素朴で……\n谷の外の方々と同じように、故郷と幸せのために精一杯生きています。","fr":"Mais les gens que j'ai rencontrés ici sont gentils et simples…\nComme ceux de l'extérieur de la vallée, ils vivent de toutes leurs forces pour leur terre et leur bonheur."}
+{"id":1538101,"jp":"それに村長さまも……\n大賢者シャラカとお知り合いだなんて、きっと博識な方に違いありません。","fr":"Et le Chef du village aussi…\nConnaître le Grand Sage Sharaka… ce doit être un homme d'une grande érudition."}
+{"id":1538102,"jp":"凶獣さえいなければ……ここは穏やかで平和な楽園のはずなんです……","fr":"S'il n'y avait pas les Bêtes maudites… cet endroit serait un paradis calme et paisible…"}
+{"id":1538103,"jp":"うん、僕もここが好きだ。|うん、私もここが好き。","fr":"Oui, moi aussi, j'aime cet endroit.|Oui, moi aussi, j'aime cet endroit."}
+{"id":1538104,"jp":"凶獣に壊させたりしない。|凶獣に壊させたりしないよ。","fr":"Je ne laisserai pas les Bêtes maudites le détruire.|Je ne laisserai pas les Bêtes maudites le détruire."}
+{"id":1538105,"jp":"ここの平穏を守りたい。|ここの平穏を守りたい。","fr":"Je veux protéger la paix d'ici.|Je veux protéger la paix d'ici."}
+{"id":1538106,"jp":"そうですね。もともとこの谷に降りたのは予定外のこと。\n星臨者さまを見つけたらすぐにロースランサへ向かうつもりでした……","fr":"Oui. Au départ, descendre dans cette vallée n'était pas prévu.\nJe comptais partir pour Lors Lains dès que je vous retrouverais…"}
+{"id":1538107,"jp":"ですが、いまは星臨者さまと同じ気持ちです。\nこんな素敵な場所が、凶獣に踏み荒らされるのを見過ごすことはできません。","fr":"Mais à présent, je ressens la même chose que vous.\nJe ne peux pas laisser les Bêtes maudites piétiner un endroit aussi merveilleux."}
+{"id":1538108,"jp":"いいえ……お礼なんて。これは、私の意思でもありますから。","fr":"Non… Ne me remerciez pas. C'est aussi ma propre volonté."}
+{"id":1538109,"jp":"そうだ。これを返しておくよ。|そうそう。これを返しておくね。","fr":"Ah oui. Je te rends ça.|Ah oui. Je te rends ça."}
+{"id":1538110,"jp":"これは……私のウィスパーフラワー？","fr":"C'est… ma Fleur-murmure ?"}
+{"id":1538111,"jp":"この花を手がかりに、シンフォーリアを見つけたんだ。|この花を手がかりに、シンフォーリアを見つけたの。","fr":"C'est grâce à cette fleur que je t'ai retrouvée, Symphoria.|C'est grâce à cette fleur que je t'ai retrouvée, Symphoria."}
+{"id":1538112,"jp":"目が覚めてすぐに、私を探しに出たとルミィから聞きました。\nどうしてそんな無茶を……","fr":"Lumi m'a raconté que vous avez pris la route pour me chercher dès votre réveil.\nPourquoi une telle imprudence…"}
+{"id":1538113,"jp":"心配だったから……|心配だったから……","fr":"Parce que je m'inquiétais…|Parce que je m'inquiétais…"}
+{"id":1538114,"jp":"だって特別な存在だから。|だって特別な存在だもん。","fr":"Parce que tu es quelqu'un de spécial.|Parce que tu es quelqu'un de spécial."}
+{"id":1538115,"jp":"仲間なんだ。放っておけない。|仲間だもん。放っておけないよ。","fr":"Tu fais partie de l'équipe. Je ne pouvais pas te laisser tomber.|Tu fais partie de l'équipe. Je ne pouvais pas te laisser tomber."}
 {"id":1538116,"jp":"あ……","fr":"Oh…"}
+{"id":1538117,"jp":"シンフォーリア？どうかした？","fr":"Symphoria ? Quelque chose ne va pas ?"}
+{"id":1538118,"jp":"ただ……あのシャドウブレイズとの戦いのときも、こうして私を探しに来てくれたことも……","fr":"C'est juste que… pendant le combat contre Shadowblaze, et là encore, en venant me chercher ainsi…"}
+{"id":1538119,"jp":"私の使命は星臨者さまを守ること……なのに、私のほうが守られている気がして……","fr":"Ma mission est de vous protéger, Enfant des étoiles… et pourtant, j'ai l'impression que c'est moi qu'on protège…"}
+{"id":1538120,"jp":"なんども助けてくださって、本当にありがとうございます。","fr":"Merci, vraiment, de m'avoir secourue tant de fois."}
+{"id":1538121,"jp":"翼人の里にいるときも、星臨者さまのことが心配で……\n崖の端に立ち、風のなかにあなたの気配を探していました。","fr":"Même au Village des Ailés, je m'inquiétais pour vous…\nJe me tenais au bord de la falaise et je cherchais votre présence dans le vent."}
+{"id":1538122,"jp":"この谷ではぐれたまま、もう会えないかもしれないと思うと、怖くて……","fr":"À l'idée d'avoir perdu votre trace dans cette vallée, et de ne peut-être jamais vous revoir, j'avais si peur…"}
+{"id":1538123,"jp":"もしかしたら、ウィスパーフラワーが繋いでくれたおかげで、\nまたお会いできたのかもしれませんね……","fr":"C'est peut-être grâce au lien de la Fleur-murmure\nque nous avons pu nous retrouver…"}
+{"id":1538124,"jp":"そうだ、星臨者さま。\nウィスパーフラワーの由来はお聞きになりましたか？","fr":"Au fait, Enfant des étoiles.\nConnaissez-vous l'origine du nom de la Fleur-murmure ?"}
+{"id":1538125,"jp":"ルミィからすこしだけ。ウィスパーツリーの葉は遠距離の通信に使える。\nでも、花はそうじゃないから、あまり持ち歩かれることはないって。","fr":"Un peu, par Lumi. Les feuilles de l'arbre Murmure servent à communiquer de loin.\nMais pas les fleurs, alors on n'en porte pas souvent sur soi, m'a-t-elle dit."}
+{"id":1538126,"jp":"はい。ウィスパーツリーの葉を使えば、\n遠く離れた方々とも時間と空間を超えて交流することができます。","fr":"Oui. Grâce aux feuilles de l'arbre Murmure,\non peut échanger avec des personnes éloignées, par-delà le temps et l'espace."}
+{"id":1538127,"jp":"風に乗せた言葉は……心の隔たりや偏見を超えて、想いを届けてくれます。","fr":"Les mots confiés au vent… franchissent les distances entre les cœurs et les préjugés, et portent ce que l'on ressent."}
+{"id":1538128,"jp":"その花びらの一枚一枚が、素敵な出会いを引き寄せると言われているんですよ。","fr":"On dit que chacun des pétales de cette fleur attire de belles rencontres."}
+{"id":1538129,"jp":"なんだか、星臨者さまと似ていますね……\nたった数日で、こんなに仲間に囲まれて。","fr":"C'est un peu comme vous, Enfant des étoiles…\nEn quelques jours à peine, tant de compagnons se sont rassemblés autour de vous."}
+{"id":1538130,"jp":"まるで輝く絆が皆さんの心を結びつけているようです……\nきっと、それこそが『星臨者』の持つ特別な力なんですね。","fr":"Comme si un lien lumineux unissait le cœur de chacun…\nC'est sûrement là le pouvoir particulier d'un « Enfant des étoiles »."}
+{"id":1538131,"jp":"星臨者ってなんなのかまだわからない。|星臨者ってなんなのかまだわからない。","fr":"Je ne sais toujours pas ce qu'est un Enfant des étoiles.|Je ne sais toujours pas ce qu'est un Enfant des étoiles."}
+{"id":1538132,"jp":"どうすればいいのか、迷ってる……|どうすればいいのか、迷ってる……","fr":"Je ne sais pas quoi faire…|Je ne sais pas quoi faire…"}
+{"id":1538133,"jp":"もしかして、それが僕の使命？|もしかして、それが私の使命？","fr":"C'est peut-être ça, ma mission ?|C'est peut-être ça, ma mission ?"}
+{"id":1538134,"jp":"星臨者さまの迷いや不安はわかります。\nですが、私は信じているんです。あなたならきっとみずからの道を見つけられると……","fr":"Je comprends vos doutes et vos inquiétudes, Enfant des étoiles.\nMais j'y crois. Je crois que vous saurez trouver votre propre voie…"}
+{"id":1538135,"jp":"あなたは、特別な存在ですから。","fr":"Parce que vous êtes quelqu'un de spécial."}
 {"id":1538136,"jp":"特別な……？","fr":"Spécial… ?"}
+{"id":1538137,"jp":"ええ、星臨者さま。\n実は……あなたを探す任務を受けたとき、最初はとても不安だったんです。","fr":"Oui, Enfant des étoiles.\nÀ vrai dire… quand on m'a confié la mission de vous retrouver, j'étais très inquiète au début."}
+{"id":1538138,"jp":"星臨者はこの大陸の伝説において、『奇跡』であり、『英雄』でもある存在……","fr":"Dans les légendes de ce continent, l'Enfant des étoiles incarne à la fois le « miracle » et l'« héroïsme »…"}
+{"id":1538139,"jp":"強く勇敢で、万事に優れ、大陸の命運を変える力を持っている……","fr":"Une force et un courage sans égal, des talents en tout, et le pouvoir de changer le destin du continent…"}
+{"id":1538140,"jp":"大賢者シャラカから使命を託されたときは……\n私に星臨者さまの側にいる資格があるのか、会ったときどのように接すればよいのかも、わからなくて……","fr":"Quand le Grand Sage Sharaka m'a confié cette mission…\nje ne savais pas si j'étais digne de me tenir à vos côtés, ni comment me comporter lors de notre rencontre…"}
+{"id":1538141,"jp":"ですが、あなたは……想像していた『星臨者』とはまったく違いました。","fr":"Mais vous… vous n'aviez rien à voir avec l'« Enfant des étoiles » que j'imaginais."}
 {"id":1538142,"jp":"見た目が？","fr":"Mon apparence ?"}
-{"id":1538144,"jp":"がっかりさせた？","fr":"Ça t'a déçu ?"}
+{"id":1538143,"jp":"ごめん、やっぱり頼りないかな。","fr":"Pardon, je ne suis pas très fiable, c'est ça ?"}
+{"id":1538144,"jp":"がっかりさせた？","fr":"Ça t'a déçue ?"}
+{"id":1538145,"jp":"い、いいえ！そうではありません。","fr":"N-non ! Ce n'est pas ça."}
+{"id":1538146,"jp":"あなたは伝説の英雄のように遠い存在ではなかったと、言いたかったんです。\n星臨者さまとは、まだお会いしたばかりですが……","fr":"Je voulais dire que vous n'étiez pas un être lointain, comme les héros des légendes.\nNous venons à peine de nous rencontrer, Enfant des étoiles, mais…"}
+{"id":1538147,"jp":"あなたには迷いも、喜びや悲しみもあって\nそれでも、翼人たちの苦境を見れば、すぐに手を差し伸べて――","fr":"Vous avez des doutes, des joies et des peines…\net pourtant, devant la détresse des Ailés, vous leur avez aussitôt tendu la main…"}
+{"id":1538148,"jp":"私たちに寄り添ってくれる。\n頼もしくて……私が思っていたよりもずっと、優しい方でした。","fr":"Vous restez près de nous.\nVous êtes quelqu'un de fiable… et de bien plus bienveillant que je ne l'imaginais."}
+{"id":1538149,"jp":"ですから、星臨者さま……","fr":"C'est pourquoi, Enfant des étoiles…"}
+{"id":1538150,"jp":"任務のためではなく、私は……\n本当の意味であなたの信頼できる仲間になりたい。","fr":"Pas pour ma mission, mais… je veux devenir,\nau vrai sens du terme, une alliée sur qui vous pouvez compter."}
+{"id":1538151,"jp":"つぎにあなたが『落ちる』ときは、両手を『掴んで』離しません。\nもう二度と、ひとりで危険に立ち向かわせたりしない――","fr":"La prochaine fois que vous « tomberez », je « saisirai » vos deux mains sans jamais les lâcher.\nPlus jamais je ne vous laisserai affronter le danger sans moi…"}
 {"id":1538165,"jp":"うん、そうしよう。","fr":"Oui, faisons ça."}
 {"id":1538190,"jp":"くうぅ！","fr":"Gaaah !"}
 {"id":1538195,"jp":"それじゃ、遠慮なく！","fr":"Alors je ne me retiens pas !"}
