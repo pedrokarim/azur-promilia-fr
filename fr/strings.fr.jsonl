@@ -1,0 +1,750 @@
+{"id":1495183,"jp":"炎刃","fr":"Lame ardente"}
+{"id":1495185,"jp":"破勢","fr":"Force brisante"}
+{"id":1495187,"jp":"極鋭","fr":"Tranchant ultime"}
+{"id":1495189,"jp":"鋭進","fr":"Percée acérée"}
+{"id":1495191,"jp":"同調","fr":"Synchronie"}
+{"id":1495193,"jp":"共鳴","fr":"Résonance"}
+{"id":1495195,"jp":"熱風","fr":"Vent brûlant"}
+{"id":1495197,"jp":"損傷","fr":"Blessure"}
+{"id":1495199,"jp":"同調強化","fr":"Synchronie renforcée"}
+{"id":1495201,"jp":"星の恩寵","fr":"Grâce des étoiles"}
+{"id":1495203,"jp":"蓄積","fr":"Réserve"}
+{"id":1495205,"jp":"協動","fr":"Coopération"}
+{"id":1495207,"jp":"援護","fr":"Couverture"}
+{"id":1495209,"jp":"蓄撃","fr":"Frappe accumulée"}
+{"id":1495211,"jp":"シナジー","fr":"Synergie"}
+{"id":1495213,"jp":"チャージ","fr":"Charge"}
+{"id":1495215,"jp":"協調","fr":"Harmonie"}
+{"id":1495217,"jp":"冥風","fr":"Vent ténébreux"}
+{"id":1495219,"jp":"超限","fr":"Surpassement"}
+{"id":1495221,"jp":"累積","fr":"Cumul"}
+{"id":1495226,"jp":"連携","fr":"Coordination"}
+{"id":1495228,"jp":"暴勢","fr":"Déchaînement"}
+{"id":1495230,"jp":"創流の円環Ⅰ","fr":"Cercle de la genèse Ⅰ"}
+{"id":1495231,"jp":"敵を倒す","fr":"Vaincre les ennemis"}
+{"id":1495232,"jp":"全員生存でクリア","fr":"Réussir avec toute l'équipe en vie"}
+{"id":1495234,"jp":"創流の円環Ⅱ","fr":"Cercle de la genèse Ⅱ"}
+{"id":1495235,"jp":"創流の円環Ⅲ","fr":"Cercle de la genèse Ⅲ"}
+{"id":1495236,"jp":"創流の円環Ⅳ","fr":"Cercle de la genèse Ⅳ"}
+{"id":1495237,"jp":"創流の円環Ⅴ","fr":"Cercle de la genèse Ⅴ"}
+{"id":1495238,"jp":"創流の円環Ⅵ","fr":"Cercle de la genèse Ⅵ"}
+{"id":1495239,"jp":"創流の円環Ⅶ","fr":"Cercle de la genèse Ⅶ"}
+{"id":1495240,"jp":"悠久の円環Ⅰ","fr":"Cercle de l'éternité Ⅰ"}
+{"id":1495242,"jp":"悠久の円環Ⅱ","fr":"Cercle de l'éternité Ⅱ"}
+{"id":1495243,"jp":"悠久の円環Ⅲ","fr":"Cercle de l'éternité Ⅲ"}
+{"id":1495244,"jp":"悠久の円環Ⅳ","fr":"Cercle de l'éternité Ⅳ"}
+{"id":1495245,"jp":"悠久の円環Ⅴ","fr":"Cercle de l'éternité Ⅴ"}
+{"id":1495246,"jp":"悠久の円環Ⅵ","fr":"Cercle de l'éternité Ⅵ"}
+{"id":1495247,"jp":"悠久の円環Ⅶ","fr":"Cercle de l'éternité Ⅶ"}
+{"id":1495248,"jp":"潮汐の円環Ⅰ","fr":"Cercle des marées Ⅰ"}
+{"id":1495249,"jp":"潮汐の円環Ⅱ","fr":"Cercle des marées Ⅱ"}
+{"id":1495250,"jp":"潮汐の円環Ⅲ","fr":"Cercle des marées Ⅲ"}
+{"id":1495251,"jp":"潮汐の円環Ⅳ","fr":"Cercle des marées Ⅳ"}
+{"id":1495252,"jp":"潮汐の円環Ⅴ","fr":"Cercle des marées Ⅴ"}
+{"id":1495253,"jp":"潮汐の円環Ⅵ","fr":"Cercle des marées Ⅵ"}
+{"id":1495254,"jp":"潮汐の円環Ⅶ","fr":"Cercle des marées Ⅶ"}
+{"id":1495255,"jp":"創流の円環","fr":"Cercle de la genèse"}
+{"id":1495256,"jp":"悠久の円環","fr":"Cercle de l'éternité"}
+{"id":1495257,"jp":"潮汐の円環","fr":"Cercle des marées"}
+{"id":1495258,"jp":"見習いハンターの短刀","fr":"Couteau d'apprenti chasseur"}
+{"id":1495260,"jp":"簡易クラフト","fr":"Fabrication simple"}
+{"id":1495261,"jp":"見習いハンターの軽鎧","fr":"Armure légère d'apprenti chasseur"}
+{"id":1495263,"jp":"見習いハンターの脚甲","fr":"Jambières d'apprenti chasseur"}
+{"id":1495267,"jp":"見習いハンターの指輪","fr":"Anneau d'apprenti chasseur"}
+{"id":1495269,"jp":"流浪者の剣","fr":"Épée du vagabond"}
+{"id":1495271,"jp":"森の守り手の刃","fr":"Lame du gardien sylvestre"}
+{"id":1495273,"jp":"流浪者の鎧","fr":"Armure du vagabond"}
+{"id":1495275,"jp":"流浪者の脚甲","fr":"Jambières du vagabond"}
+{"id":1495277,"jp":"流浪者の耳飾り","fr":"Boucle d'oreille du vagabond"}
+{"id":1495279,"jp":"流浪者の指輪","fr":"Anneau du vagabond"}
+{"id":1495281,"jp":"森の守り手のマント","fr":"Cape du gardien sylvestre"}
+{"id":1495283,"jp":"森の守り手のパンツ","fr":"Pantalon du gardien sylvestre"}
+{"id":1495285,"jp":"森の守り手の耳飾り","fr":"Boucle d'oreille du gardien sylvestre"}
+{"id":1495287,"jp":"森の守り手の指輪","fr":"Anneau du gardien sylvestre"}
+{"id":1495289,"jp":"歴戦の勇士の剣","fr":"Épée du vétéran"}
+{"id":1495291,"jp":"農園-武器工房","fr":"Ferme - Atelier d'armes"}
+{"id":1495292,"jp":"依頼-蒼雷の護りⅠ","fr":"Commande - Protection de la foudre azur Ⅰ"}
+{"id":1495293,"jp":"斥候のダガー","fr":"Dague de l'éclaireur"}
+{"id":1495295,"jp":"依頼-烈炎の護りⅠ","fr":"Commande - Protection des flammes ardentes Ⅰ"}
+{"id":1495296,"jp":"歴戦の勇士の鎧","fr":"Armure du vétéran"}
+{"id":1495298,"jp":"歴戦の勇士の脚甲","fr":"Jambières du vétéran"}
+{"id":1495300,"jp":"歴戦の勇士の耳飾り","fr":"Boucle d'oreille du vétéran"}
+{"id":1495302,"jp":"歴戦の勇士の指輪","fr":"Anneau du vétéran"}
+{"id":1495304,"jp":"斥候のマント","fr":"Cape de l'éclaireur"}
+{"id":1495306,"jp":"斥候の下衣","fr":"Pantalon de l'éclaireur"}
+{"id":1495308,"jp":"斥候の耳飾り","fr":"Boucle d'oreille de l'éclaireur"}
+{"id":1495310,"jp":"斥候の指輪","fr":"Anneau de l'éclaireur"}
+{"id":1495312,"jp":"流光の音","fr":"Son de lumière filante"}
+{"id":1495314,"jp":"依頼-急流の護りⅢ","fr":"Commande - Protection des rapides Ⅲ"}
+{"id":1495315,"jp":"依頼-急流の護りⅡ","fr":"Commande - Protection des rapides Ⅱ"}
+{"id":1495316,"jp":"流光の響き","fr":"Écho de lumière filante"}
+{"id":1495318,"jp":"依頼-烈炎の護りⅢ","fr":"Commande - Protection des flammes ardentes Ⅲ"}
+{"id":1495319,"jp":"依頼-烈炎の護りⅡ","fr":"Commande - Protection des flammes ardentes Ⅱ"}
+{"id":1495320,"jp":"望月の香り","fr":"Parfum de pleine lune"}
+{"id":1495322,"jp":"青流の華","fr":"Fleur du courant bleu"}
+{"id":1495324,"jp":"裂空の双刃","fr":"Lames jumelles fend-ciel"}
+{"id":1495326,"jp":"依頼-蒼雷の護りⅢ","fr":"Commande - Protection de la foudre azur Ⅲ"}
+{"id":1495327,"jp":"依頼-蒼雷の護りⅡ","fr":"Commande - Protection de la foudre azur Ⅱ"}
+{"id":1495328,"jp":"嵐追","fr":"Chasse-tempête"}
+{"id":1495330,"jp":"遠征者の決意","fr":"Résolution de l'expéditionnaire"}
+{"id":1495332,"jp":"遠征者の戦歌","fr":"Chant de guerre de l'expéditionnaire"}
+{"id":1495334,"jp":"依頼-常青の庇護Ⅲ","fr":"Commande - Abri de verdure éternelle Ⅲ"}
+{"id":1495335,"jp":"依頼-常青の庇護Ⅱ","fr":"Commande - Abri de verdure éternelle Ⅱ"}
+{"id":1495336,"jp":"山岳の威","fr":"Puissance des cimes"}
+{"id":1495338,"jp":"渡河の勁","fr":"Vigueur du gué"}
+{"id":1495340,"jp":"黎明の啓","fr":"Révélation de l'aube"}
+{"id":1495342,"jp":"鉄火の響き","fr":"Écho du fer et du feu"}
+{"id":1495344,"jp":"夜明けの序曲","fr":"Prélude de l'aube"}
+{"id":1495346,"jp":"夕暮れの終曲","fr":"Final du crépuscule"}
+{"id":1495348,"jp":"雷棘の髪飾り","fr":"Barrette aux épines de foudre"}
+{"id":1495350,"jp":"雷鳴の残り火","fr":"Braises du tonnerre"}
+{"id":1495352,"jp":"先駆けの旗","fr":"Étendard de l'avant-garde"}
+{"id":1495354,"jp":"決戦に挑む意志","fr":"Volonté face au combat décisif"}
+{"id":1495356,"jp":"依頼-丘陵の辺境Ⅲ","fr":"Commande - Confins des collines Ⅲ"}
+{"id":1495357,"jp":"依頼-丘陵の辺境Ⅱ","fr":"Commande - Confins des collines Ⅱ"}
+{"id":1495358,"jp":"立ちのぼる朝霧","fr":"Brume matinale qui s'élève"}
+{"id":1495360,"jp":"沸き立つ雲霞","fr":"Nuées bouillonnantes"}
+{"id":1495362,"jp":"未完の征途","fr":"Campagne inachevée"}
+{"id":1495364,"jp":"未完の荒路","fr":"Route sauvage inachevée"}
+{"id":1495366,"jp":"激流","fr":"Torrent"}
+{"id":1495368,"jp":"渦巻く潮","fr":"Marée tourbillonnante"}
+{"id":1495370,"jp":"庭の箴言","fr":"Maxime du jardin"}
+{"id":1495372,"jp":"激流の怒り","fr":"Colère du torrent"}
+{"id":1495374,"jp":"星雲の共鳴","fr":"Résonance des nébuleuses"}
+{"id":1495376,"jp":"依頼-厚岩の重盾Ⅴ","fr":"Commande - Lourd bouclier de roc Ⅴ"}
+{"id":1495377,"jp":"依頼-厚岩の重盾Ⅳ","fr":"Commande - Lourd bouclier de roc Ⅳ"}
+{"id":1495378,"jp":"心の回響","fr":"Écho du cœur"}
+{"id":1495380,"jp":"依頼-烈炎の護りⅤ","fr":"Commande - Protection des flammes ardentes Ⅴ"}
+{"id":1495381,"jp":"依頼-烈炎の護りⅣ","fr":"Commande - Protection des flammes ardentes Ⅳ"}
+{"id":1495382,"jp":"閃光の空隙","fr":"Faille fulgurante"}
+{"id":1495384,"jp":"依頼-急熾の守りⅤ","fr":"Commande - Garde des braises vives Ⅴ"}
+{"id":1495385,"jp":"依頼-急熾の守りⅣ","fr":"Commande - Garde des braises vives Ⅳ"}
+{"id":1495386,"jp":"紅金の耳飾り","fr":"Boucle d'oreille d'or rouge"}
+{"id":1495388,"jp":"翡翠の羽","fr":"Plume de martin-pêcheur"}
+{"id":1495390,"jp":"星降る腕輪","fr":"Bracelet de pluie d'étoiles"}
+{"id":1495392,"jp":"依頼-丘陵の辺境Ⅴ","fr":"Commande - Confins des collines Ⅴ"}
+{"id":1495393,"jp":"依頼-丘陵の辺境Ⅳ","fr":"Commande - Confins des collines Ⅳ"}
+{"id":1495394,"jp":"炎華の指輪","fr":"Anneau de fleur ardente"}
+{"id":1495396,"jp":"流雲の指輪","fr":"Anneau des nuages errants"}
+{"id":1495398,"jp":"夜空のマント","fr":"Cape du ciel nocturne"}
+{"id":1495400,"jp":"依頼-急流の護りⅤ","fr":"Commande - Protection des rapides Ⅴ"}
+{"id":1495401,"jp":"依頼-急流の護りⅣ","fr":"Commande - Protection des rapides Ⅳ"}
+{"id":1495402,"jp":"調和の靴","fr":"Souliers de l'harmonie"}
+{"id":1495404,"jp":"依頼-厳寒の壁Ⅴ","fr":"Commande - Rempart du grand froid Ⅴ"}
+{"id":1495405,"jp":"依頼-厳寒の壁Ⅳ","fr":"Commande - Rempart du grand froid Ⅳ"}
+{"id":1495406,"jp":"迅雷の狩人","fr":"Chasseur fulgurant"}
+{"id":1495408,"jp":"寒月のかんざし","fr":"Épingle de lune hivernale"}
+{"id":1495410,"jp":"森の音珠","fr":"Perles chantantes de la forêt"}
+{"id":1495412,"jp":"雷切りの羽","fr":"Plume tranche-foudre"}
+{"id":1495414,"jp":"氷河の断絶","fr":"Fracture du glacier"}
+{"id":1495416,"jp":"緑野の風吟","fr":"Chant du vent des prairies"}
+{"id":1495418,"jp":"勇者の鋭意","fr":"Ardeur du héros"}
+{"id":1495420,"jp":"依頼-蒼雷の護りⅤ","fr":"Commande - Protection de la foudre azur Ⅴ"}
+{"id":1495421,"jp":"依頼-蒼雷の護りⅣ","fr":"Commande - Protection de la foudre azur Ⅳ"}
+{"id":1495422,"jp":"勇者の物語","fr":"Récit du héros"}
+{"id":1495424,"jp":"依頼-常青の庇護Ⅴ","fr":"Commande - Abri de verdure éternelle Ⅴ"}
+{"id":1495425,"jp":"依頼-常青の庇護Ⅳ","fr":"Commande - Abri de verdure éternelle Ⅳ"}
+{"id":1495426,"jp":"曙光の降臨","fr":"Avènement de l'aurore"}
+{"id":1495428,"jp":"残影の彼岸花","fr":"Lycoris rémanent"}
+{"id":1495430,"jp":"日輪の誓い","fr":"Serment du soleil"}
+{"id":1495432,"jp":"明けの明星","fr":"Étoile du matin"}
+{"id":1495434,"jp":"散りゆく月華","fr":"Clair de lune épars"}
+{"id":1495436,"jp":"灼ける長い道","fr":"Longue route brûlante"}
+{"id":1495438,"jp":"斜紋のマント","fr":"Cape en sergé"}
+{"id":1495440,"jp":"依頼-大気の護りⅤ","fr":"Commande - Protection des airs Ⅴ"}
+{"id":1495441,"jp":"依頼-大気の護りⅣ","fr":"Commande - Protection des airs Ⅳ"}
+{"id":1495442,"jp":"凱旋の響き","fr":"Écho du triomphe"}
+{"id":1495444,"jp":"依頼-日月の守りⅤ","fr":"Commande - Garde du soleil et de la lune Ⅴ"}
+{"id":1495445,"jp":"依頼-日月の守りⅣ","fr":"Commande - Garde du soleil et de la lune Ⅳ"}
+{"id":1495446,"jp":"石心","fr":"Cœur de pierre"}
+{"id":1495448,"jp":"宵咲きの花","fr":"Fleur du soir"}
+{"id":1495450,"jp":"天に鳴く雷","fr":"Tonnerre des cieux"}
+{"id":1495452,"jp":"山骨","fr":"Ossature des monts"}
+{"id":1495454,"jp":"宵の三日月","fr":"Croissant du soir"}
+{"id":1495456,"jp":"撃日の指輪","fr":"Anneau frappe-soleil"}
+{"id":1495458,"jp":"破砕の調べ","fr":"Mélodie fracassante"}
+{"id":1495460,"jp":"風破る鋒","fr":"Pointe fend-vent"}
+{"id":1495462,"jp":"風の祝福","fr":"Bénédiction du vent"}
+{"id":1495464,"jp":"冥夜の魂砕き","fr":"Brise-âme de la nuit noire"}
+{"id":1495466,"jp":"落雷の判決","fr":"Verdict de la foudre"}
+{"id":1495468,"jp":"翼風の腕輪","fr":"Bracelet du vent ailé"}
+{"id":1495470,"jp":"雷鳴の断罪","fr":"Condamnation du tonnerre"}
+{"id":1495472,"jp":"冥夜の心砕き","fr":"Brise-cœur de la nuit noire"}
+{"id":1495474,"jp":"蒼穹の鎧","fr":"Armure du firmament"}
+{"id":1495476,"jp":"蒼穹の戦靴","fr":"Bottes de guerre du firmament"}
+{"id":1495478,"jp":"深く沈む淵","fr":"Gouffre sans fond"}
+{"id":1495480,"jp":"幽月の耳飾り","fr":"Boucle d'oreille de lune voilée"}
+{"id":1495482,"jp":"陽に灼ける道","fr":"Route brûlée par le soleil"}
+{"id":1495484,"jp":"奈落の崖","fr":"Falaise de l'abîme"}
+{"id":1495486,"jp":"寒日の陽光","fr":"Soleil d'hiver"}
+{"id":1495488,"jp":"赤焔の余燼","fr":"Braises de la flamme rouge"}
+{"id":1495490,"jp":"律の帰する詩","fr":"Poème de l'unisson"}
+{"id":1495492,"jp":"律の帰する音","fr":"Son de l'unisson"}
+{"id":1495494,"jp":"霜降りの花","fr":"Fleur de givre"}
+{"id":1495496,"jp":"空を灼く花","fr":"Fleur qui embrase le ciel"}
+{"id":1495498,"jp":"光を讃える歌","fr":"Hymne à la lumière"}
+{"id":1495500,"jp":"森と風の誓い","fr":"Serment de la forêt et du vent"}
+{"id":1495502,"jp":"砕け雪の結晶","fr":"Cristal de neige brisé"}
+{"id":1495504,"jp":"燃ゆる天穹","fr":"Voûte céleste embrasée"}
+{"id":1495506,"jp":"光にじむ祈り","fr":"Prière nimbée de lumière"}
+{"id":1495508,"jp":"森わたる祈り","fr":"Prière à travers bois"}
+{"id":1495510,"jp":"樹海の影","fr":"Ombre de la forêt profonde"}
+{"id":1495512,"jp":"戯れる朝露","fr":"Rosée espiègle"}
+{"id":1495514,"jp":"泉の祝福","fr":"Bénédiction de la source"}
+{"id":1495516,"jp":"樹海が結ぶ誓い","fr":"Serment de la forêt profonde"}
+{"id":1495518,"jp":"聖なる輝きの残響","fr":"Écho de l'éclat sacré"}
+{"id":1495520,"jp":"止まぬ漣","fr":"Ondulations sans fin"}
+{"id":1495522,"jp":"青の礼讃","fr":"Éloge du bleu"}
+{"id":1495524,"jp":"聖輝の恩寵","fr":"Grâce de l'éclat sacré"}
+{"id":1495526,"jp":"星息の流転","fr":"Cycle du souffle stellaire"}
+{"id":1495528,"jp":"星息の光","fr":"Lumière du souffle stellaire"}
+{"id":1495530,"jp":"翠の息吹","fr":"Souffle de verdure"}
+{"id":1495532,"jp":"日月の輪転","fr":"Ronde du soleil et de la lune"}
+{"id":1495534,"jp":"青き生命","fr":"Vie verdoyante"}
+{"id":1495536,"jp":"星河の波","fr":"Vagues du fleuve d'étoiles"}
+{"id":1495538,"jp":"旅風を肩に","fr":"Vent du voyage sur les épaules"}
+{"id":1495540,"jp":"戦意の刻み","fr":"Empreinte de l'esprit combatif"}
+{"id":1495542,"jp":"波濤の壁","fr":"Muraille des flots"}
+{"id":1495544,"jp":"山を負う印","fr":"Emblème du porteur de montagne"}
+{"id":1495546,"jp":"天激の波浪","fr":"Flots déchaînés des cieux"}
+{"id":1495548,"jp":"磐途の遺痕","fr":"Traces du chemin de roc"}
+{"id":1495552,"jp":"暗華繚乱","fr":"Sombre floraison"}
+{"id":1495554,"jp":"烈陽","fr":"Soleil ardent"}
+{"id":1495556,"jp":"山折川断","fr":"Monts brisés, fleuves tranchés"}
+{"id":1495558,"jp":"潮鳴の声","fr":"Voix de la marée"}
+{"id":1495560,"jp":"迅霆断岳","fr":"Foudre fend-cimes"}
+{"id":1495562,"jp":"雷極","fr":"Foudre absolue"}
+{"id":1495564,"jp":"雲嘯風吟","fr":"Nuées qui sifflent, vent qui chante"}
+{"id":1495566,"jp":"不滅の炎光","fr":"Flamme immortelle"}
+{"id":1495568,"jp":"霜雪万朔","fr":"Givre de dix mille lunes"}
+{"id":1495570,"jp":"無光の囁き","fr":"Murmure sans lumière"}
+{"id":1495572,"jp":"古木のお告げ","fr":"Oracle du vieil arbre"}
+{"id":1495574,"jp":"輝光の亀裂","fr":"Fissure radieuse"}
+{"id":1495576,"jp":"潮汐の聖典","fr":"Écritures des marées"}
+{"id":1495578,"jp":"無瑕の重刃","fr":"Lourde lame immaculée"}
+{"id":1495580,"jp":"鋭利な心魂","fr":"Âme acérée"}
+{"id":1495582,"jp":"英傑の守護","fr":"Protection du champion"}
+{"id":1495584,"jp":"翔舞","fr":"Danse envolée"}
+{"id":1495586,"jp":"攻撃力","fr":"ATQ"}
+{"id":1495587,"jp":"物理防御力","fr":"DÉF physique"}
+{"id":1495588,"jp":"魔法防御力","fr":"DÉF magique"}
+{"id":1495590,"jp":"攻撃力%","fr":"ATQ%"}
+{"id":1495591,"jp":"物理防御力%","fr":"DÉF physique%"}
+{"id":1495592,"jp":"魔法防御力%","fr":"DÉF magique%"}
+{"id":1495595,"jp":"会心ダメージ","fr":"DGT CRIT"}
+{"id":1495596,"jp":"回復効果増加","fr":"Bonus de soins"}
+{"id":1495597,"jp":"無属性ダメージ増幅","fr":"Amplif. DGT neutres"}
+{"id":1495598,"jp":"火属性ダメージ増幅","fr":"Amplif. DGT de Feu"}
+{"id":1495599,"jp":"風属性ダメージ増幅","fr":"Amplif. DGT de Vent"}
+{"id":1495600,"jp":"地属性ダメージ増幅","fr":"Amplif. DGT de Terre"}
+{"id":1495601,"jp":"木属性ダメージ増幅","fr":"Amplif. DGT de Bois"}
+{"id":1495602,"jp":"氷属性ダメージ増幅","fr":"Amplif. DGT de Glace"}
+{"id":1495603,"jp":"水属性ダメージ増幅","fr":"Amplif. DGT d'Eau"}
+{"id":1495604,"jp":"雷属性ダメージ増幅","fr":"Amplif. DGT de Foudre"}
+{"id":1495605,"jp":"光属性ダメージ増幅","fr":"Amplif. DGT de Lumière"}
+{"id":1495606,"jp":"闇属性ダメージ増幅","fr":"Amplif. DGT de Ténèbres"}
+{"id":1495607,"jp":"EX強度","fr":"Puissance EX"}
+{"id":1495608,"jp":"エネルギー回復増幅","fr":"Amplif. recharge d'Énergie"}
+{"id":1495609,"jp":"回復効果アップ","fr":"Soins augmentés"}
+{"id":1495610,"jp":"ブレイク効率","fr":"Efficacité de brise"}
+{"id":1495611,"jp":"防御力","fr":"DÉF"}
+{"id":1495613,"jp":"エネルギー回復増幅%","fr":"Amplif. recharge d'Énergie %"}
+{"id":1495614,"jp":"ブレイク値","fr":"Valeur de brise"}
+{"id":1495615,"jp":"雷属性ダメージ","fr":"DGT de Foudre"}
+{"id":1495616,"jp":"火属性ダメージ","fr":"DGT de Feu"}
+{"id":1495617,"jp":"風属性ダメージ","fr":"DGT de Vent"}
+{"id":1495618,"jp":"氷属性ダメージ","fr":"DGT de Glace"}
+{"id":1495620,"jp":"光属性ダメージ","fr":"DGT de Lumière"}
+{"id":1495621,"jp":"闇属性ダメージ","fr":"DGT de Ténèbres"}
+{"id":1495622,"jp":"地属性ダメージ","fr":"DGT de Terre"}
+{"id":1495623,"jp":"水属性ダメージ","fr":"DGT d'Eau"}
+{"id":1495624,"jp":"回復効果アップ%","fr":"Effet de soin accru %"}
+{"id":1495625,"jp":"木属性ダメージ","fr":"DGT de Bois"}
+{"id":1495626,"jp":"防御力%","fr":"DÉF %"}
+{"id":1495627,"jp":"無属性ダメージ","fr":"DGT neutres"}
+{"id":1495628,"jp":"蒼雷の護り","fr":"Protection de foudre azur"}
+{"id":1495629,"jp":"烈炎の護り","fr":"Protection des flammes ardentes"}
+{"id":1495630,"jp":"大気の護り","fr":"Protection des airs"}
+{"id":1495631,"jp":"厚岩の重盾","fr":"Lourd bouclier de roc"}
+{"id":1495632,"jp":"常青の庇護","fr":"Abri d'éternelle verdure"}
+{"id":1495633,"jp":"急流の護り","fr":"Protection du torrent"}
+{"id":1495634,"jp":"厳寒の壁","fr":"Mur du grand froid"}
+{"id":1495635,"jp":"日月の守り","fr":"Garde du soleil et de la lune"}
+{"id":1495636,"jp":"急熾の守り","fr":"Garde des braises vives"}
+{"id":1495637,"jp":"丘陵の辺境","fr":"Confins des collines"}
+{"id":1495638,"jp":"ノーマル","fr":"Normal"}
+{"id":1495639,"jp":"アンコモン","fr":"Peu commun"}
+{"id":1495640,"jp":"レア","fr":"Rare"}
+{"id":1495641,"jp":"エピック","fr":"Épique"}
+{"id":1495642,"jp":"レジェンド","fr":"Légendaire"}
+{"id":1495643,"jp":"初心者","fr":"Débutant"}
+{"id":1495644,"jp":"中級者","fr":"Intermédiaire"}
+{"id":1495645,"jp":"上級者","fr":"Avancé"}
+{"id":1495646,"jp":"大空の調べ","fr":"Mélodie des cieux"}
+{"id":1495647,"jp":"星月の和音","fr":"Accord des astres"}
+{"id":1495648,"jp":"秘刃の破勢","fr":"Assaut de la lame secrète"}
+{"id":1495649,"jp":"反復の楽章","fr":"Mouvement en reprise"}
+{"id":1495650,"jp":"旅路の錬磨","fr":"Trempe du voyage"}
+{"id":1495651,"jp":"破陣の勇志","fr":"Bravoure qui rompt les rangs"}
+{"id":1495652,"jp":"鋒砕き","fr":"Brise-pointe"}
+{"id":1495653,"jp":"隙をつく影","fr":"Ombre qui guette la faille"}
+{"id":1495654,"jp":"慈悲の光","fr":"Lumière de miséricorde"}
+{"id":1495655,"jp":"反復の奏で","fr":"Ritournelle"}
+{"id":1495674,"jp":"シャルル村に到着する","fr":"Arriver au Village de Charlulu"}
+{"id":1495677,"jp":"スカイホーク飛行","fr":"Vol à dos de Skyhawk"}
+{"id":1495681,"jp":"迫り来る災いの影","fr":"L'ombre du fléau qui approche"}
+{"id":1495683,"jp":"百朔を経た再会","fr":"Retrouvailles après cent lunes"}
+{"id":1495685,"jp":"災厄の終焉","fr":"La fin de la calamité"}
+{"id":1495687,"jp":"フリスへようこそ","fr":"Bienvenue à Fleece"}
+{"id":1495689,"jp":"分かち合う歓び","fr":"La joie du partage"}
+{"id":1495691,"jp":"迫りくる嵐","fr":"La tempête qui vient"}
+{"id":1495693,"jp":"それぞれの事情","fr":"Chacun ses raisons"}
+{"id":1495695,"jp":"送料はいくら？","fr":"Combien pour le port ?"}
+{"id":1495697,"jp":"本当におめでとう！","fr":"Toutes mes félicitations !"}
+{"id":1495699,"jp":"わざとじゃないよ！","fr":"C'était pas exprès !"}
+{"id":1495701,"jp":"夜も眠れず","fr":"Nuits blanches"}
+{"id":1495703,"jp":"モウー！","fr":"Meuh !"}
+{"id":1495705,"jp":"未来のマイスター","fr":"Graine de maître artisan"}
+{"id":1495709,"jp":"エースパイロット","fr":"As du pilotage"}
+{"id":1495711,"jp":"毒とともに舞う","fr":"Danser avec le poison"}
+{"id":1495715,"jp":"華麗なる自信","fr":"Une superbe assurance"}
+{"id":1495717,"jp":"幸運の虹","fr":"L'arc-en-ciel de la chance"}
+{"id":1495719,"jp":"来たからには","fr":"Puisqu'on est là"}
+{"id":1495725,"jp":"過剰労働禁止","fr":"Surmenage interdit"}
+{"id":1495729,"jp":"絆は賢者の石なり","fr":"Le Lien est la pierre philosophale"}
+{"id":1495731,"jp":"一緒に歌おう","fr":"Chantons ensemble"}
+{"id":1495733,"jp":"肉食系クロディーメ？","fr":"Clodime carnivore ?"}
+{"id":1495737,"jp":"森の白影","fr":"L'ombre blanche de la forêt"}
+{"id":1495739,"jp":"鹿と友達に","fr":"L'amitié d'un cerf"}
+{"id":1495741,"jp":"霊木の蘇生","fr":"La renaissance de l'arbre spirituel"}
+{"id":1495743,"jp":"真相は貝殻一枚の価値","fr":"La vérité vaut un coquillage"}
+{"id":1495745,"jp":"恩恵石の利点とは……","fr":"Les pierres de bienfait, ça sert à quoi…"}
+{"id":1495747,"jp":"正義はしっぽにあり","fr":"La justice est au bout de la queue"}
+{"id":1495749,"jp":"爆発は芸術だ","fr":"L'explosion, c'est de l'art"}
+{"id":1495753,"jp":"ケアと新生","fr":"Soin et renouveau"}
+{"id":1495755,"jp":"近所迷惑にご注意","fr":"Pensez aux voisins"}
+{"id":1495757,"jp":"恩寵の甘露","fr":"Le nectar de grâce"}
+{"id":1495759,"jp":"悪い子、いい子","fr":"Méchante fille, gentille fille"}
+{"id":1495761,"jp":"桃縁は紅の札に巡る","fr":"Les amours en fleur suivent le talisman écarlate"}
+{"id":1495771,"jp":"キャバードは弱くない","fr":"Les Cabbird ne sont pas faibles"}
+{"id":1495772,"jp":"キャバードに倒される","fr":"Se faire battre par un Cabbird"}
+{"id":1495775,"jp":"帽子が整理しきれない","fr":"Trop de chapeaux à ranger"}
+{"id":1495777,"jp":"安住の地","fr":"Un havre de paix"}
+{"id":1495778,"jp":"農園を解放する","fr":"Débloquer la ferme"}
+{"id":1495779,"jp":"より大きくより強く","fr":"Plus grand, plus fort"}
+{"id":1495781,"jp":"いつか別荘に住む","fr":"Un jour, une villa"}
+{"id":1495783,"jp":"いつか大別荘に住む！","fr":"Un jour, une grande villa !"}
+{"id":1495785,"jp":"荒地の開墾","fr":"Défrichage des terres"}
+{"id":1495787,"jp":"中型農場","fr":"Exploitation moyenne"}
+{"id":1495789,"jp":"大型農場","fr":"Grande exploitation"}
+{"id":1495791,"jp":"フリスのここが好き","fr":"Ce que j'aime à Fleece"}
+{"id":1495793,"jp":"改装の沼は海より深し","fr":"La déco, un gouffre plus profond que la mer"}
+{"id":1495795,"jp":"極上のなめらかさ","fr":"Une douceur exquise"}
+{"id":1495799,"jp":"ふたりだけの秘密","fr":"Notre petit secret"}
+{"id":1495801,"jp":"一騎当千","fr":"Un contre mille"}
+{"id":1495802,"jp":"キボの鞍を製造する","fr":"Fabriquer une selle de Kibo"}
+{"id":1495803,"jp":"一騎フログレーミ当千","fr":"Un Frogremi contre mille"}
+{"id":1495805,"jp":"一騎モルフォーレ当千","fr":"Un Morphore contre mille"}
+{"id":1495807,"jp":"一騎グランザロス当千","fr":"Un Granzaros contre mille"}
+{"id":1495809,"jp":"一騎スカイホーク当千","fr":"Un Skyhawk contre mille"}
+{"id":1495811,"jp":"一騎メテオール当千","fr":"Un Staray contre mille"}
+{"id":1495821,"jp":"備えあれば憂いなし","fr":"Mieux vaut prévenir que guérir"}
+{"id":1495827,"jp":"金麦パン焼きの熟練者","fr":"As du pain au blé d'or"}
+{"id":1495829,"jp":"まだ食べられる？","fr":"Encore faim ?"}
+{"id":1495831,"jp":"ポポクッキー愛好家","fr":"Fan des biscuits Popo"}
+{"id":1495837,"jp":"見習い料理人","fr":"Premiers pas en cuisine"}
+{"id":1495838,"jp":"10種類の料理を作る","fr":"Cuisiner 10 plats différents"}
+{"id":1495840,"jp":"20種類の料理を作る","fr":"Cuisiner 20 plats différents"}
+{"id":1495842,"jp":"30種類の料理を作る","fr":"Cuisiner 30 plats différents"}
+{"id":1495843,"jp":"村で一番の剣","fr":"La meilleure épée du village"}
+{"id":1495849,"jp":"ステラカード長者","fr":"Riche en cartes Stella"}
+{"id":1495851,"jp":"探索名人・芽吹の谷","fr":"As de l'exploration : Vallée des Bourgeons"}
+{"id":1495853,"jp":"探索名人・フリス","fr":"As de l'exploration : Fleece"}
+{"id":1495855,"jp":"わあ！金色……","fr":"Waouh ! C'est tout doré…"}
+{"id":1495859,"jp":"自らの手で","fr":"De mes propres mains"}
+{"id":1495861,"jp":"休まず耕す","fr":"Labourer sans relâche"}
+{"id":1495863,"jp":"一粒の重み","fr":"Le poids d'un grain"}
+{"id":1495867,"jp":"熟練伐採工","fr":"Hache chevronnée"}
+{"id":1495869,"jp":"狂暴伐採工","fr":"Hache furieuse"}
+{"id":1495873,"jp":"熟練採掘工","fr":"Pioche chevronnée"}
+{"id":1495875,"jp":"狂暴採掘工","fr":"Pioche furieuse"}
+{"id":1495879,"jp":"蔵を満たす者","fr":"Grenier bien rempli"}
+{"id":1495883,"jp":"豊富な財力","fr":"Une bourse bien garnie"}
+{"id":1495885,"jp":"巨万の富","fr":"Des richesses immenses"}
+{"id":1495887,"jp":"街の大富豪","fr":"Grande fortune de la ville"}
+{"id":1495889,"jp":"商いの奇才","fr":"Génie du commerce"}
+{"id":1495891,"jp":"ピン！新しい注文です","fr":"Ding ! Nouvelle commande"}
+{"id":1495893,"jp":"運命のビッグオーダー","fr":"La grosse commande du destin"}
+{"id":1495897,"jp":"モーレンのお買いもの","fr":"Les emplettes de Morwyn"}
+{"id":1495899,"jp":"湯水のように","fr":"Dépenser sans compter"}
+{"id":1495901,"jp":"上客","fr":"Clientèle de choix"}
+{"id":1495903,"jp":"真の上客","fr":"Clientèle d'exception"}
+{"id":1495905,"jp":"キボリソース管理士","fr":"Gestionnaire des ressources Kibo"}
+{"id":1495906,"jp":"精密派遣を行う","fr":"Effectuer une affectation de précision"}
+{"id":1495907,"jp":"おなかいっぱい！","fr":"Le ventre plein !"}
+{"id":1495909,"jp":"点火の匠","fr":"As de l'allumage"}
+{"id":1495911,"jp":"点火？お安い御用","fr":"Allumage ? Rien de plus facile"}
+{"id":1495913,"jp":"伐採の匠","fr":"As du bûcheronnage"}
+{"id":1495915,"jp":"伐採？楽勝だよ","fr":"Bûcheronnage ? Trop facile"}
+{"id":1495917,"jp":"元素の匠","fr":"As des éléments"}
+{"id":1495919,"jp":"元素？朝飯前さ","fr":"Éléments ? Les doigts dans le nez"}
+{"id":1495921,"jp":"畑仕事の匠","fr":"As des travaux des champs"}
+{"id":1495923,"jp":"畑仕事？お手のもの","fr":"Travaux des champs ? Ça me connaît"}
+{"id":1495925,"jp":"水やりの匠","fr":"As de l'arrosage"}
+{"id":1495929,"jp":"採掘の匠","fr":"As du minage"}
+{"id":1495933,"jp":"世話の匠","fr":"As des soins"}
+{"id":1495935,"jp":"世話？手慣れたものさ","fr":"Soins ? J'ai l'habitude"}
+{"id":1495937,"jp":"鍛造の匠","fr":"As de la forge"}
+{"id":1495939,"jp":"鍛造？お安い御用","fr":"Forge ? Rien de plus facile"}
+{"id":1495941,"jp":"クラフトの匠","fr":"As de l'artisanat"}
+{"id":1495943,"jp":"クラフト？余裕だよ","fr":"Artisanat ? Fastoche"}
+{"id":1495945,"jp":"ブラック親方","fr":"Cadences infernales"}
+{"id":1495947,"jp":"芽吹の谷ワープ理論","fr":"Téléportation : Vallée des Bourgeons"}
+{"id":1495951,"jp":"星旅・芽吹の谷","fr":"Voyage stellaire : Vallée des Bourgeons"}
+{"id":1495953,"jp":"星旅・都市国家フリス","fr":"Voyage stellaire : Cité-État de Fleece"}
+{"id":1495955,"jp":"芽吹の谷の挑戦者","fr":"Challenger de la Vallée des Bourgeons"}
+{"id":1495957,"jp":"フリスの挑戦者","fr":"Challenger de Fleece"}
+{"id":1495959,"jp":"星律奏鳴・芽吹の谷","fr":"Sonate stellaire : Vallée des Bourgeons"}
+{"id":1495961,"jp":"星律奏鳴・フリス","fr":"Sonate stellaire : Fleece"}
+{"id":1495963,"jp":"新たな街へ","fr":"Vers une nouvelle ville"}
+{"id":1495964,"jp":"フリスに入る","fr":"Entrer dans Fleece"}
+{"id":1495989,"jp":"ソザンカの驚嘆","fr":"L'émerveillement de Sozanka"}
+{"id":1495993,"jp":"ワイルド・ドライブ","fr":"Chevauchée sauvage"}
+{"id":1495999,"jp":"孵化する時が来た","fr":"L'heure d'éclore"}
+{"id":1496001,"jp":"初心者レベル","fr":"Niveau débutant"}
+{"id":1496003,"jp":"謎解きの達人","fr":"As des énigmes"}
+{"id":1496005,"jp":"忍耐力の極み","fr":"Patience à toute épreuve"}
+{"id":1496007,"jp":"伏兵だ！","fr":"Une embuscade !"}
+{"id":1496009,"jp":"大自然の恵み","fr":"Les dons de la nature"}
+{"id":1496011,"jp":"大自然は気前がいい","fr":"La nature est généreuse"}
+{"id":1496013,"jp":"見つけたら見逃さない","fr":"Rien ne m'échappe"}
+{"id":1496015,"jp":"芽吹の谷の乗り手","fr":"As de la selle : Vallée des Bourgeons"}
+{"id":1496017,"jp":"芽吹の谷のプロ投手","fr":"As du lancer : Vallée des Bourgeons"}
+{"id":1496027,"jp":"芽吹の谷の建設名人","fr":"As de la construction : Vallée des Bourgeons"}
+{"id":1496029,"jp":"芽吹の谷の洞窟の主","fr":"Terreur des grottes : Vallée des Bourgeons"}
+{"id":1496031,"jp":"フリスの乗り手","fr":"As de la selle : Fleece"}
+{"id":1496033,"jp":"フリスのプロ投手","fr":"As du lancer : Fleece"}
+{"id":1496037,"jp":"フリスのドゥル管理者","fr":"Gestionnaire des Dur : Fleece"}
+{"id":1496041,"jp":"フリスの洞窟の主","fr":"Terreur des grottes : Fleece"}
+{"id":1496043,"jp":"フリスのコンボの戦神","fr":"Divinité des combos : Fleece"}
+{"id":1496045,"jp":"『シャーマンの手記』","fr":"« Les notes du chaman »"}
+{"id":1496047,"jp":"『魔法の鍬物語集』","fr":"« Contes de la houe magique »"}
+{"id":1496049,"jp":"縁巻集成","fr":"Recueil de rouleaux"}
+{"id":1496051,"jp":"書跡拾遺","fr":"Écrits glanés"}
+{"id":1496053,"jp":"元素を操る者","fr":"Maîtrise des éléments"}
+{"id":1496055,"jp":"星辰の知恵・1","fr":"Sagesse des astres 1"}
+{"id":1496057,"jp":"星辰の知恵・2","fr":"Sagesse des astres 2"}
+{"id":1496059,"jp":"星辰の知恵・3","fr":"Sagesse des astres 3"}
+{"id":1496061,"jp":"星辰の知恵・4","fr":"Sagesse des astres 4"}
+{"id":1496063,"jp":"星辰の知恵・5","fr":"Sagesse des astres 5"}
+{"id":1496065,"jp":"星辰の知恵・6","fr":"Sagesse des astres 6"}
+{"id":1496067,"jp":"群星の弦鳴を傾聴する","fr":"Écouter les cordes des étoiles"}
+{"id":1496069,"jp":"識海の弦現を洞観する","fr":"Contempler les cordes de l'océan de l'esprit"}
+{"id":1496071,"jp":"星吟旅謡の弦歌","fr":"Cordes de la ballade des étoiles"}
+{"id":1496073,"jp":"きみしか見えない","fr":"Je n'ai d'yeux que pour toi"}
+{"id":1496075,"jp":"きみたちしか見えない","fr":"Je n'ai d'yeux que pour vous"}
+{"id":1496079,"jp":"昇臨の一番手","fr":"Une première ascension"}
+{"id":1496081,"jp":"昇臨の五番手","fr":"Cinq ascensions"}
+{"id":1496083,"jp":"昇臨の十番手","fr":"Dix ascensions"}
+{"id":1496087,"jp":"育成上手","fr":"Sens de l'entraînement"}
+{"id":1496089,"jp":"育成の匠","fr":"As de l'entraînement"}
+{"id":1496091,"jp":"眩しすぎる","fr":"Trop éblouissant"}
+{"id":1496093,"jp":"名馬に名鞍","fr":"À beau destrier, belle selle"}
+{"id":1496095,"jp":"伝世の宝","fr":"Trésor ancestral"}
+{"id":1496097,"jp":"ちゃんとした身なり","fr":"Une tenue correcte"}
+{"id":1496099,"jp":"一家の大事なもの","fr":"Le patrimoine familial"}
+{"id":1496101,"jp":"ドロップしまくり","fr":"Butin à foison"}
+{"id":1496103,"jp":"キラキラになって","fr":"Brille de mille feux"}
+{"id":1496105,"jp":"選べないよ！","fr":"Je n'arrive pas à choisir !"}
+{"id":1496107,"jp":"目にも違いがある","fr":"Des yeux dépareillés"}
+{"id":1496109,"jp":"本当に？","fr":"Vraiment ?"}
+{"id":1496111,"jp":"天の配剤","fr":"Un coup de la providence"}
+{"id":1496113,"jp":"おかしくない？","fr":"Bizarre, non ?"}
+{"id":1496115,"jp":"こっちを狙ってる！？","fr":"On m'en veut ?!"}
+{"id":1496117,"jp":"いっしょに成長しよう","fr":"Grandir ensemble"}
+{"id":1496119,"jp":"一緒に成長しよう","fr":"Grandissons ensemble"}
+{"id":1496121,"jp":"超おいしい","fr":"Trop bon"}
+{"id":1496123,"jp":"キボコレクター","fr":"Collection de Kibo"}
+{"id":1496129,"jp":"良材は林の如く","fr":"Une forêt de talents"}
+{"id":1496131,"jp":"上品は雲の如く","fr":"Une nuée d'excellence"}
+{"id":1496133,"jp":"強者集結","fr":"L'élite réunie"}
+{"id":1496136,"jp":"激レア","fr":"Super rare"}
+{"id":1496138,"jp":"激激激レア","fr":"Super super super rare"}
+{"id":1496140,"jp":"幸先がよい","fr":"De bon augure"}
+{"id":1496144,"jp":"群星の輝き","fr":"L'éclat des étoiles"}
+{"id":1496146,"jp":"キラキラ","fr":"Ça brille"}
+{"id":1496148,"jp":"目を閉じてないと","fr":"Mieux vaut fermer les yeux"}
+{"id":1496150,"jp":"これはめずらしい","fr":"Voilà qui est rare"}
+{"id":1496156,"jp":"舞い降りたピンクの子","fr":"Une boule rose tombée du ciel"}
+{"id":1496158,"jp":"気に入った？わかるよ","fr":"Ça te plaît ? Je comprends"}
+{"id":1496166,"jp":"びっくり黄金伝説！","fr":"Incroyable légende dorée !"}
+{"id":1496168,"jp":"希望はきみとともに","fr":"L'espoir est avec toi"}
+{"id":1496170,"jp":"立派に育ったね","fr":"Comme tu as grandi"}
+{"id":1496172,"jp":"育成マスター","fr":"Maîtrise de l'entraînement"}
+{"id":1496174,"jp":"真・育成マスター","fr":"Vraie maîtrise de l'entraînement"}
+{"id":1496176,"jp":"これぞ礎","fr":"Voilà la base"}
+{"id":1496178,"jp":"キモかわいい","fr":"Moche et mignon"}
+{"id":1496180,"jp":"保護条約からの警告","fr":"Avertissement de la convention de protection"}
+{"id":1496192,"jp":"ポテンシャル大解放","fr":"Potentiel libéré"}
+{"id":1496194,"jp":"どこで手に入れたの","fr":"Où as-tu trouvé ça ?"}
+{"id":1496196,"jp":"初期形態こそ最強","fr":"La forme de base, c'est la meilleure"}
+{"id":1496204,"jp":"大砲で蚊を撃つ","fr":"Un marteau-pilon pour une mouche"}
+{"id":1496206,"jp":"7日休まず","fr":"7 jours sans relâche"}
+{"id":1496208,"jp":"30日休まず","fr":"30 jours sans relâche"}
+{"id":1496210,"jp":"365日休まず","fr":"365 jours sans relâche"}
+{"id":1496212,"jp":"いつかまた逢える","fr":"On se reverra un jour"}
+{"id":1496213,"jp":"合計7日ログインする","fr":"Se connecter 7 jours au total"}
+{"id":1496214,"jp":"時の痕跡","fr":"Les traces du temps"}
+{"id":1496216,"jp":"365回の出逢い","fr":"365 rencontres"}
+{"id":1496218,"jp":"星が生まれた日","fr":"Le jour où une étoile est née"}
+{"id":1496220,"jp":"こんにちは","fr":"Bonjour"}
+{"id":1496221,"jp":"マルチモードに入る","fr":"Passer en mode multijoueur"}
+{"id":1496222,"jp":"全員、注目！","fr":"Tout le monde, écoutez !"}
+{"id":1496224,"jp":"堂々と！","fr":"Sans complexe !"}
+{"id":1496226,"jp":"一緒に遊ぼう！","fr":"Jouons ensemble !"}
+{"id":1496227,"jp":"フレンドを追加する","fr":"Ajouter un ami"}
+{"id":1496233,"jp":"スタンプを送信する","fr":"Envoyer un autocollant"}
+{"id":1496236,"jp":"真髄を捉えたね","fr":"Tu as saisi l'essence"}
+{"id":1496238,"jp":"最後まで見る？","fr":"Tu vas lire jusqu'au bout ?"}
+{"id":1496240,"jp":"180回の出逢い","fr":"180 rencontres"}
+{"id":1496241,"jp":"180日ログインする","fr":"Se connecter 180 jours"}
+{"id":1496242,"jp":"俗世の百景","fr":"Cent scènes d'ici-bas"}
+{"id":1496246,"jp":"戯縁の仙狐","fr":"Renard céleste aux liens espiègles"}
+{"id":1496248,"jp":"車いっぱいのパン","fr":"Une charrette pleine de pain"}
+{"id":1496250,"jp":"合法の輝くキボ","fr":"Un Kibo brillant, en toute légalité"}
+{"id":1496252,"jp":"これがラーガの覇者か","fr":"Voilà donc le maître des Raga"}
+{"id":1496256,"jp":"我こそラーガ種の王","fr":"Je suis le roi des Raga"}
+{"id":1496264,"jp":"どこのバタバタ蛾？","fr":"C'est quoi, cette mite qui s'agite ?"}
+{"id":1496270,"jp":"挑戦者はどっちだ！","fr":"Qui défie qui ?!"}
+{"id":1496300,"jp":"猪突猛進禁止！","fr":"Foncer tête baissée : interdit !"}
+{"id":1496302,"jp":"猪突猛進絶対禁止！","fr":"Foncer tête baissée : absolument interdit !"}
+{"id":1496304,"jp":"猪突猛進全力禁止！","fr":"Foncer tête baissée : interdit à fond !"}
+{"id":1496306,"jp":"神技・キングラーガ","fr":"Technique divine : Kingraga"}
+{"id":1496308,"jp":"神技・ギガンシャウラ","fr":"Technique divine : Giganshaura"}
+{"id":1496310,"jp":"神技・モルフォーレ","fr":"Technique divine : Morphore"}
+{"id":1496312,"jp":"神技・ナイトフォール","fr":"Technique divine : Vespervamp"}
+{"id":1496314,"jp":"神技・スパイトホーン","fr":"Technique divine : Spitehorn"}
+{"id":1496316,"jp":"神技・セレーシャ","fr":"Technique divine : Celesha"}
+{"id":1496318,"jp":"神技・ライカウモ","fr":"Technique divine : Raikaumo"}
+{"id":1496320,"jp":"神技・アマルテイア","fr":"Technique divine : Amalthea"}
+{"id":1496322,"jp":"神技・フレイムラーガ","fr":"Technique divine : Flameraga"}
+{"id":1496324,"jp":"属性へのこだわり","fr":"Fidèle à son élément"}
+{"id":1496328,"jp":"領域発動！","fr":"Domaine activé !"}
+{"id":1496330,"jp":"運はこちらに味方した","fr":"La chance est de notre côté"}
+{"id":1496332,"jp":"所詮まぐれにすぎない","fr":"Ce n'était qu'un coup de chance"}
+{"id":1496334,"jp":"楽勝、大勝利！","fr":"Facile, victoire écrasante !"}
+{"id":1496336,"jp":"決死の勝利に乾杯","fr":"Trinquons à une victoire in extremis"}
+{"id":1496340,"jp":"強者のはじまり","fr":"Premiers pas vers la gloire"}
+{"id":1496342,"jp":"すこし得意なだけだよ","fr":"Je me débrouille, c'est tout"}
+{"id":1496344,"jp":"これが真のマスターだ","fr":"Ça, c'est de la maîtrise"}
+{"id":1496354,"jp":"本気を出すまでもない","fr":"Pas besoin de forcer"}
+{"id":1496356,"jp":"みんなの手柄だよ！","fr":"C'est grâce à tout le monde !"}
+{"id":1496360,"jp":"すでに佳境に入った","fr":"On arrive au meilleur moment"}
+{"id":1496362,"jp":"勝者は常に勝つ！","fr":"Les gagnants gagnent toujours !"}
+{"id":1496364,"jp":"遠吠え平原の強者","fr":"La terreur des Plaines hurlantes"}
+{"id":1496368,"jp":"風隠れ岩の雛鷹","fr":"Jeune faucon du Roc Coupe-Vent"}
+{"id":1496370,"jp":"シャルル村の不敗伝説","fr":"Légende invaincue du Village de Charlulu"}
+{"id":1496372,"jp":"制覇！芽吹の谷","fr":"Conquête de la Vallée des Bourgeons !"}
+{"id":1496374,"jp":"フリスで頭角を現す","fr":"L'étoile montante de Fleece"}
+{"id":1496388,"jp":"プレイスキルがすべて","fr":"Tout est dans la technique"}
+{"id":1496390,"jp":"来いよ、兄弟……","fr":"Viens donc, frangin…"}
+{"id":1496392,"jp":"力こそ王者の証","fr":"La force fait les rois"}
+{"id":1496394,"jp":"痛いのはぜんぶ回避！","fr":"J'esquive tout ce qui fait mal !"}
+{"id":1496396,"jp":"触れてから言いな","fr":"Commence par me toucher"}
+{"id":1496400,"jp":"ふん、その程度の攻撃","fr":"Hmpf, c'est ça, ton attaque ?"}
+{"id":1496402,"jp":"かすり傷ひとつない","fr":"Pas une égratignure"}
+{"id":1496404,"jp":"これが実力だ","fr":"Voilà le vrai talent"}
+{"id":1496406,"jp":"響鳴する星","fr":"Étoiles en résonance"}
+{"id":1496408,"jp":"これが連携だ","fr":"Ça, c'est du travail d'équipe"}
+{"id":1496410,"jp":"きみはひとりじゃない","fr":"Nous sommes avec toi"}
+{"id":1496412,"jp":"必殺技は通常攻撃","fr":"Mon coup fatal ? L'attaque normale"}
+{"id":1496414,"jp":"もうやめられない","fr":"Impossible d'arrêter"}
+{"id":1496418,"jp":"揺るぎなき同盟","fr":"Alliance inébranlable"}
+{"id":1496420,"jp":"これが阿吽の呼吸だ","fr":"Voilà ce qu'on appelle être en phase"}
+{"id":1496422,"jp":"一緒なら大丈夫","fr":"Ensemble, tout ira bien"}
+{"id":1496424,"jp":"伝家の宝刀","fr":"L'arme secrète"}
+{"id":1496426,"jp":"円熟の境地","fr":"Au sommet de son art"}
+{"id":1496428,"jp":"入門から熟練まで","fr":"Des premiers pas à la maîtrise"}
+{"id":1496430,"jp":"寝てな！","fr":"Au dodo !"}
+{"id":1496432,"jp":"全員、床に伏せろ！","fr":"Tout le monde à terre !"}
+{"id":1496434,"jp":"文句は星極スキルに","fr":"Plaignez-vous à ma Compétence Zénith stellaire"}
+{"id":1496436,"jp":"プロのトドメ","fr":"Coup de grâce de pro"}
+{"id":1496441,"jp":"ボスに敗北する","fr":"Perdre contre un boss"}
+{"id":1496444,"jp":"水沝淼！","fr":"Goutte, rivière, océan !"}
+{"id":1496448,"jp":"疾風に立ち向かえ！","fr":"Affronte la bourrasque !"}
+{"id":1496450,"jp":"木林森！","fr":"Arbre, bosquet, forêt !"}
+{"id":1496452,"jp":"土圭垚！","fr":"Terre, butte, montagne !"}
+{"id":1496454,"jp":"我こそ、轟雷！","fr":"Je suis le tonnerre grondant !"}
+{"id":1496456,"jp":"光あれ……！","fr":"Que la lumière soit… !"}
+{"id":1496458,"jp":"深淵をすでに凝視した","fr":"J'ai déjà contemplé l'abîme"}
+{"id":1496460,"jp":"極限を見届けるとき","fr":"Témoin de l'extrême"}
+{"id":1496466,"jp":"終わりにしよう","fr":"Finissons-en"}
+{"id":1496468,"jp":"コンボマスター","fr":"As des combos"}
+{"id":1496470,"jp":"コンボの神","fr":"Combos divins"}
+{"id":1496472,"jp":"超スゴ腕！","fr":"Quel talent !"}
+{"id":1496474,"jp":"一気呵成","fr":"D'une seule traite"}
+{"id":1496476,"jp":"行雲流水","fr":"Nuage errant, eau vive"}
+{"id":1496478,"jp":"破竹の勢い！","fr":"Une lancée irrésistible !"}
+{"id":1496482,"jp":"神通力","fr":"Pouvoir surnaturel"}
+{"id":1496484,"jp":"剣は紫霆の舞いが如く","fr":"L'épée danse comme la foudre violette"}
+{"id":1496486,"jp":"食べてこその力","fr":"La force vient en mangeant"}
+{"id":1496488,"jp":"フルスイング","fr":"Plein élan"}
+{"id":1496490,"jp":"ハンターの魂は不滅","fr":"L'âme des chasseurs est immortelle"}
+{"id":1496492,"jp":"旋風乱舞","fr":"Tourbillon frénétique"}
+{"id":1496494,"jp":"アウラとともに","fr":"En compagnie des Aura"}
+{"id":1496496,"jp":"飛炎と銀火の散花","fr":"Fleurs de flammes et de feu d'argent"}
+{"id":1496500,"jp":"百折不撓","fr":"Inflexible"}
+{"id":1496504,"jp":"疾矢飛電","fr":"Flèche vive, éclair volant"}
+{"id":1496506,"jp":"餓竜のブレス×300","fr":"Souffle du dragon affamé ×300"}
+{"id":1496508,"jp":"蝶音疾葉","fr":"Chant de papillon, feuilles vives"}
+{"id":1496510,"jp":"縁って不思議","fr":"Mystérieux, les liens du destin"}
+{"id":1496516,"jp":"真の守護神","fr":"Un vrai ange gardien"}
+{"id":1496518,"jp":"力をもって陰陽を断つ","fr":"Trancher le yin et le yang par la force"}
+{"id":1496520,"jp":"ニャーオ！","fr":"Miaaou !"}
+{"id":1496522,"jp":"死体が働いている","fr":"Un cadavre au travail"}
+{"id":1496524,"jp":"激闘の果て","fr":"Au terme d'un combat acharné"}
+{"id":1496526,"jp":"クリア！","fr":"Terminé !"}
+{"id":1496530,"jp":"極限の勝利","fr":"Victoire ultime"}
+{"id":1496532,"jp":"ひとりで十分","fr":"Pas besoin de renfort"}
+{"id":1496534,"jp":"力を合わせれば","fr":"L'union fait la force"}
+{"id":1496536,"jp":"毎週の集まり","fr":"Rendez-vous hebdomadaire"}
+{"id":1496538,"jp":"もう古い付き合い","fr":"De vieilles connaissances"}
+{"id":1496542,"jp":"日進月歩","fr":"Des progrès constants"}
+{"id":1496544,"jp":"日課は真剣に","fr":"Le quotidien, ça se prend au sérieux"}
+{"id":1496548,"jp":"討伐のエキスパート","fr":"Expertise en traque"}
+{"id":1496550,"jp":"討伐のプロ","fr":"Traque de pro"}
+{"id":1496552,"jp":"討伐のマスター","fr":"Maîtrise de la traque"}
+{"id":1496554,"jp":"すべて入庫","fr":"Tout en stock"}
+{"id":1496556,"jp":"安定した補給","fr":"Ravitaillement régulier"}
+{"id":1496558,"jp":"蓄積が力となる","fr":"L'accumulation fait la force"}
+{"id":1496560,"jp":"星降る軌跡・1","fr":"Sillage d'étoiles filantes 1"}
+{"id":1496562,"jp":"星降る軌跡・2","fr":"Sillage d'étoiles filantes 2"}
+{"id":1496564,"jp":"どこでも輝く","fr":"Briller partout"}
+{"id":1496566,"jp":"救世主","fr":"Providence"}
+{"id":1496568,"jp":"挨拶しておかないと？","fr":"On se dit bonjour ?"}
+{"id":1496570,"jp":"へへっ、よくやった！","fr":"Héhé, bien joué !"}
+{"id":1496572,"jp":"だれもが認める","fr":"Approbation unanime"}
+{"id":1496574,"jp":"初心者のヒーロー","fr":"L'idole des débutants"}
+{"id":1496576,"jp":"三重奏","fr":"Trio"}
+{"id":1496582,"jp":"みんなの希望の星","fr":"L'étoile d'espoir de tous"}
+{"id":1496584,"jp":"星が刻む時","fr":"Quand les étoiles sonnent l'heure"}
+{"id":1496585,"jp":"伝説の詩篇","fr":"Chants légendaires"}
+{"id":1496586,"jp":"余暇の邂逅","fr":"Rencontres au gré des loisirs"}
+{"id":1496587,"jp":"星遊漫記","fr":"Flâneries stellaires"}
+{"id":1496588,"jp":"遥かな大地","fr":"Terres lointaines"}
+{"id":1496589,"jp":"盤石の礎","fr":"Des fondations solides"}
+{"id":1496590,"jp":"工造の名匠","fr":"Maîtrise artisanale"}
+{"id":1496591,"jp":"すべてポケットに","fr":"Tout dans la poche"}
+{"id":1496592,"jp":"農園マスター","fr":"As de la ferme"}
+{"id":1496593,"jp":"伴星同行","fr":"Étoiles compagnes"}
+{"id":1496594,"jp":"星巡る旅路","fr":"Voyage au fil des étoiles"}
+{"id":1496595,"jp":"命萌ゆる旅","fr":"Le voyage où germe la vie"}
+{"id":1496596,"jp":"隠世の宝庫","fr":"Trésors d'un monde caché"}
+{"id":1496597,"jp":"満天の星絆","fr":"Un ciel de liens étoilés"}
+{"id":1496598,"jp":"無垢な星海","fr":"Pure mer d'étoiles"}
+{"id":1496599,"jp":"星絆の縁","fr":"Le destin des liens étoilés"}
+{"id":1496600,"jp":"星縁の奇遇","fr":"Hasard des destins étoilés"}
+{"id":1496601,"jp":"星辰の漫遊","fr":"Promenade sous les astres"}
+{"id":1496602,"jp":"歴戦の栄光","fr":"Gloire des vétérans"}
+{"id":1496603,"jp":"栄光の証","fr":"Preuve de gloire"}
+{"id":1496604,"jp":"熱血ファイター","fr":"Fougue au combat"}
+{"id":1496605,"jp":"百般の武芸","fr":"Tous les arts martiaux"}
+{"id":1496606,"jp":"剣閃の調べ","fr":"Mélodie des lames"}
+{"id":1496607,"jp":"ログインする","fr":"Se connecter"}
+{"id":1496613,"jp":"敵を30体倒す","fr":"Vaincre 30 ennemis"}
+{"id":1496627,"jp":"芽吹の谷","fr":"Vallée des Bourgeons"}
+{"id":1496629,"jp":"都市国家フリス","fr":"Cité-État de Fleece"}
+{"id":1496630,"jp":"フリス","fr":"Fleece"}
+{"id":1496631,"jp":"シャルル村","fr":"Village de Charlulu"}
+{"id":1496643,"jp":"メーツァのHP回復球","fr":"Orbe de PV de Metsa"}
+{"id":1496644,"jp":"シンフォーリア_奥義","fr":"Symphoria_Technique ultime"}
+{"id":1496648,"jp":"寒悠悠 通常攻撃4発","fr":"Han Youyou Attaque normale 4 tirs"}
+{"id":1496649,"jp":"寒悠悠 通常攻撃5発","fr":"Han Youyou Attaque normale 5 tirs"}
+{"id":1496651,"jp":"ミィティ 通常攻撃3","fr":"Mitty Attaque normale 3"}
+{"id":1496652,"jp":"ミィティ 通常攻撃4","fr":"Mitty Attaque normale 4"}
+{"id":1496653,"jp":"ミィティ 通常攻撃5","fr":"Mitty Attaque normale 5"}
+{"id":1496656,"jp":"小凶獣スキル","fr":"Compétence de petite Bête maudite"}
+{"id":1496658,"jp":"テララ-奥義地面燃焼","fr":"Terara-Technique ultime embrasement du sol"}
+{"id":1496659,"jp":"ノノフィールド","fr":"Zone de Nono"}
+{"id":1496660,"jp":"バブル","fr":"Bulle"}
+{"id":1496661,"jp":"波浪","fr":"Houle"}
+{"id":1496662,"jp":"モーレン弾1","fr":"Projectile de Morwyn 1"}
+{"id":1496663,"jp":"モーレン弾2","fr":"Projectile de Morwyn 2"}
+{"id":1496664,"jp":"モーレン弾3","fr":"Projectile de Morwyn 3"}
+{"id":1496670,"jp":"敵集め_シャル","fr":"Regroupement d'ennemis_Shalle"}
+{"id":1496673,"jp":"モルフォーレ刃光","fr":"Éclat de lame de Morphore"}
+{"id":1496674,"jp":"刺尾の巨鷹刃光","fr":"Éclat de lame du Faucon géant à queue épineuse"}
+{"id":1496675,"jp":"刺尾の巨鷹の霧眼石","fr":"Pierre d'œil de brume du Faucon géant à queue épineuse"}
+{"id":1496681,"jp":"叩きつけダメージ","fr":"DGT de coup écrasant"}
+{"id":1496682,"jp":"ファランタ地面効果","fr":"Effet au sol de Faridah"}
+{"id":1496683,"jp":"キメラ奥義-引き寄せ","fr":"Technique ultime de Chimère-Attraction"}
+{"id":1496685,"jp":"リリィシールド","fr":"Bouclier de Lily"}
+{"id":1496701,"jp":"蘭香子 棺桶","fr":"Cercueil de Lan Xiangzi"}
+{"id":1496703,"jp":"蘭香子 陣符","fr":"Talisman de cercle de Lan Xiangzi"}
+{"id":1496704,"jp":"丹砂_協同攻撃","fr":"Cinabre_Attaque conjointe"}
+{"id":1496705,"jp":"風のシールド","fr":"Bouclier de vent"}
+{"id":1496706,"jp":"アマルテイア_水球","fr":"Amalthea_Orbe d'eau"}
+{"id":1496709,"jp":"タレット","fr":"Tourelle"}
+{"id":1496710,"jp":"タレット2","fr":"Tourelle 2"}
+{"id":1496711,"jp":"暗焔ブラックホール","fr":"Trou noir de flamme sombre"}
+{"id":1496712,"jp":"マップマーカー","fr":"Marqueur de carte"}
+{"id":1496715,"jp":"巨岩","fr":"Rocher géant"}
+{"id":1496716,"jp":"ブラックホール","fr":"Trou noir"}
+{"id":1496717,"jp":"スキルプール-石柱","fr":"Réserve de compétences-Pilier de pierre"}
+{"id":1496718,"jp":"スキルプール-石壁","fr":"Réserve de compétences-Mur de pierre"}
+{"id":1496719,"jp":"スキルプール-石籠","fr":"Réserve de compétences-Cage de pierre"}
+{"id":1496727,"jp":"破壊可能な木樽","fr":"Tonneau en bois destructible"}
+{"id":1496728,"jp":"破壊可能な木箱1","fr":"Caisse en bois destructible 1"}
+{"id":1496729,"jp":"破壊可能な壺","fr":"Jarre destructible"}
+{"id":1496730,"jp":"破壊可能な木箱2","fr":"Caisse en bois destructible 2"}
+{"id":1496783,"jp":"空気壁120","fr":"Mur invisible 120"}
+{"id":1496797,"jp":"BWスーニヤの侵蝕","fr":"BW Érosion de Sunya"}
+{"id":1496798,"jp":"謎解き_持続ダメージ","fr":"Énigme_DGT sur la durée"}
+{"id":1496799,"jp":"攻撃","fr":"Attaque"}
+{"id":1496800,"jp":"防御","fr":"Défense"}
+{"id":1496801,"jp":"エネルギー上限","fr":"Énergie max"}
+{"id":1496802,"jp":"ダメージ増幅","fr":"Amplification des DGT"}
+{"id":1496803,"jp":"ダメージ軽減","fr":"Réduction des DGT"}
+{"id":1496804,"jp":"被回復効果増加","fr":"Bonus de soins reçus"}
+{"id":1496805,"jp":"防御力貫通%","fr":"Pénétration de DÉF %"}
+{"id":1496808,"jp":"クールタイム短縮","fr":"Réduction du temps de recharge"}
+{"id":1496809,"jp":"重量","fr":"Poids"}
+{"id":1496810,"jp":"移動速度","fr":"Vitesse de déplacement"}
+{"id":1496811,"jp":"ダッシュ速度係数補正","fr":"Modificateur de vitesse de sprint"}
+{"id":1496812,"jp":"歩行速度","fr":"Vitesse de marche"}
+{"id":1496813,"jp":"エンゲージ速度","fr":"Vitesse d'engagement"}
+{"id":1496814,"jp":"マウントジャンプ高度","fr":"Hauteur de saut en monture"}
+{"id":1496815,"jp":"マウントジャンプ距離","fr":"Distance de saut en monture"}
+{"id":1496816,"jp":"戦闘中の歩行速度","fr":"Vitesse de marche en combat"}
+{"id":1496817,"jp":"戦闘外の走行速度","fr":"Vitesse de course hors combat"}
+{"id":1496818,"jp":"マウントジャンプ可能","fr":"Saut en monture possible"}
+{"id":1496819,"jp":"マウントダッシュ可能","fr":"Sprint en monture possible"}
+{"id":1496825,"jp":"無属性ダメージ軽減","fr":"Réduction des DGT neutres"}
+{"id":1496826,"jp":"火属性ダメージ軽減","fr":"Réduction des DGT de Feu"}
+{"id":1496827,"jp":"風属性ダメージ軽減","fr":"Réduction des DGT de Vent"}
+{"id":1496828,"jp":"地属性ダメージ軽減","fr":"Réduction des DGT de Terre"}
+{"id":1496829,"jp":"木属性ダメージ軽減","fr":"Réduction des DGT de Bois"}
+{"id":1496830,"jp":"氷属性ダメージ軽減","fr":"Réduction des DGT de Glace"}
+{"id":1496831,"jp":"水属性ダメージ軽減","fr":"Réduction des DGT d'Eau"}
+{"id":1496832,"jp":"雷属性ダメージ軽減","fr":"Réduction des DGT de Foudre"}
+{"id":1496833,"jp":"光属性ダメージ軽減","fr":"Réduction des DGT de Lumière"}
+{"id":1496834,"jp":"闇属性ダメージ軽減","fr":"Réduction des DGT de Ténèbres"}
+{"id":1496835,"jp":"会心ダメージ軽減","fr":"Réduction des DGT CRIT"}
+{"id":1496837,"jp":"旋回速度","fr":"Vitesse de rotation"}
+{"id":1496838,"jp":"物理防御力固定貫通","fr":"Pénétration fixe de DÉF physique"}
+{"id":1496839,"jp":"魔法防御力固定貫通","fr":"Pénétration fixe de DÉF magique"}
+{"id":1496840,"jp":"毎秒HP回復","fr":"PV récupérés par seconde"}
+{"id":1496841,"jp":"毎秒エネルギー回復","fr":"Énergie récupérée par seconde"}
+{"id":1496842,"jp":"シールド値","fr":"Valeur de bouclier"}
+{"id":1496843,"jp":"ヘイト値","fr":"Valeur de menace"}
+{"id":1496844,"jp":"基本中断優先度","fr":"Priorité d'interruption de base"}
+{"id":1496845,"jp":"攻撃トークン","fr":"Jeton d'attaque"}
+{"id":1496847,"jp":"カウンター発動閾値","fr":"Seuil de déclenchement de contre"}
+{"id":1496848,"jp":"シールド付与増幅","fr":"Amplification des boucliers octroyés"}
+{"id":1496849,"jp":"被シールド増幅","fr":"Amplification des boucliers reçus"}
+{"id":1496850,"jp":"シールド効果増加","fr":"Bonus d'effet de bouclier"}
+{"id":1496851,"jp":"通常攻撃ダメージ増幅","fr":"Amplification des DGT d'Attaque normale"}
+{"id":1496856,"jp":"被スキルダメージ増幅","fr":"Amplification des DGT de compétence subis"}
+{"id":1496857,"jp":"落下攻撃ダメージ増幅","fr":"Amplification des DGT d'attaque plongeante"}
+{"id":1496861,"jp":"急速エネルギー","fr":"Énergie rapide"}
+{"id":1496862,"jp":"急速エネルギー上限","fr":"Énergie rapide max"}

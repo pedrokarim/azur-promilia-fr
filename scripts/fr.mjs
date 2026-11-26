@@ -116,12 +116,27 @@ function loadGlossary() {
     .sort((a, b) => b.jp.length - a.jp.length);
 }
 
+const KATAKANA = /^[゠-ヿ]+$/;
+const KATAKANA_CHAR = /[゠-ヿ]/;
+
+/** Vrai si `term` apparaît dans `text` comme un mot : un nom en katakana (シャル) ne doit pas
+ * être trouvé au milieu d'un autre mot en katakana (ポテンシャル). */
+function containsTerm(text, term) {
+  if (!KATAKANA.test(term)) return text.includes(term);
+  for (let i = text.indexOf(term); i !== -1; i = text.indexOf(term, i + 1)) {
+    const before = text[i - 1] ?? '';
+    const after = text[i + term.length] ?? '';
+    if (!KATAKANA_CHAR.test(before) && !KATAKANA_CHAR.test(after)) return true;
+  }
+  return false;
+}
+
 /** Termes du glossaire présents dans un texte japonais, sans ceux inclus dans un terme plus long. */
 function termsIn(jp, glossary) {
   const found = [];
   let rest = jp;
   for (const term of glossary) {
-    if (!rest.includes(term.jp)) continue;
+    if (!containsTerm(rest, term.jp)) continue;
     found.push(term);
     rest = rest.split(term.jp).join('\u0000');
   }

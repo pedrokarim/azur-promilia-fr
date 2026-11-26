@@ -62,7 +62,9 @@ Une fois choisi pour un personnage, le registre ne change plus, sauf si l'histoi
 - Les menus sont étroits : le français est en général plus long que l'anglais. Pour les statistiques, les abréviations habituelles des jeux en français : ATQ, DÉF, PV, Taux CRIT, DGT CRIT.
 - Les répliques gardent les hésitations et onomatopées du japonais sous une forme française naturelle (うっ, rendu « Ugh » en anglais, devient « Aïe » ou « Argh » selon le contexte).
 - Les noms propres restent ceux du glossaire. Quand l'anglais officiel (site, X @AzurPromilia_EN) et l'anglais des fans diffèrent, l'officiel l'emporte : il est noté dans la colonne `en` du glossaire.
-- La typographie française (« », espaces insécables, apostrophe ’) dépend du test de la police du jeu, pas encore fait. D'ici là : guillemets « » sans espace insécable, apostrophe droite '.
+- Typographie, en attendant le test de la police du jeu : guillemets « » avec une espace ordinaire à l'intérieur, une espace ordinaire avant ! ? : ;, l'apostrophe droite ' et le caractère … (pour …… aussi). Si la police passe le test, un script remplacera ces espaces par des insécables sur toutes les lignes.
+- Titres de succès et de rang qui désignent le joueur : tournures sans accord (« As des combos », « Terreur des grottes »).
+- Noms de Kibo et de boss : ceux de l'anglais, invariables (Staray, Cabbird, Kingraga…). Plusieurs sont confirmés par le site officiel.
 
 ## Décisions prises
 

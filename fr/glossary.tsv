@@ -80,3 +80,53 @@ jp	en	fr	kind	status	note
 闇属性	Dark	Ténèbres	element	approved	
 竜人	Dragonborn	Draconien	people	approved	Nom officiel anglais « Dragonborn » (fiche d’Abby). Féminin « Draconienne ». Les Azdrahn (アズドラーン) en sont une sous-espèce.
 御霊さま	Elder Spirits	Esprits anciens	lore	approved	Nom officiel anglais « Elder Spirits » ; l’anglais des fans dit « Honored Spirits ». Les esprits que prient les Furriens de Charlulu.
+ダメージ	DMG	DGT	stat	approved	Abréviation dans les libellés et descriptions : « DGT de Feu », « DGT neutres ».
+ダメージ軽減	DMG Reduction	Réduction des DGT	stat	approved	
+増幅	Boost	Amplification	stat	approved	« Amplif. » dans les libellés de statistiques (« Amplif. DGT de Feu », « Amplif. recharge d’Énergie % ») ; « Amplification » en entier dans les noms d’effets. Distinct de 増加 (hausse, augmentation).
+無属性	Neutral	neutre	element	approved	« DGT neutres ».
+シールド	Shield	Bouclier	mechanic	approved	
+奥義	Ultimate	Technique ultime	mechanic	approved	
+神技	Divine Art	Technique divine	mechanic	approved	« Technique divine : <nom> ».
+クールタイム	Cooldown	temps de recharge	mechanic	approved	
+貫通	Penetration	Pénétration	stat	approved	
+ブレイク値	Break Value	Valeur de brise	stat	approved	
+EX強度	EX Intensity	Puissance EX	stat	approved	
+ヘイト値	Aggro	Valeur de menace	stat	approved	
+蓄積	Accumulation	Réserve	mechanic	approved	À ne pas confondre avec 累積.
+累積	Stack	Cumul	mechanic	approved	
+同調	Sync	Synchronie	mechanic	approved	Effets d’équipe : 同調, 協動, 協調 et 連携 restent quatre mots distincts.
+協動	Cooperation	Coopération	mechanic	approved	
+協調	Harmony	Harmonie	mechanic	approved	
+連携	Coordination	Coordination	mechanic	approved	
+円環	Ring	Cercle	mechanic	approved	« Cercle de l’éternité Ⅲ » : les chiffres romains restent.
+依頼	Request	Commande	mechanic	approved	Commandes de l’atelier de la ferme : « Commande - … Ⅳ ».
+ノーマル	Normal	Normal	rarity	approved	Raretés : Normal, Peu commun, Rare, Épique, Légendaire.
+アンコモン	Uncommon	Peu commun	rarity	approved	
+レア	Rare	Rare	rarity	approved	
+エピック	Epic	Épique	rarity	approved	
+レジェンド	Legendary	Légendaire	rarity	approved	
+農園	Farm	ferme	place	approved	La ferme du joueur. 農場 = exploitation.
+農場	Ranch	exploitation	place	approved	
+都市国家フリス	City-State of Fleece	Cité-État de Fleece	place	approved	
+遠吠え平原	Howling Plains	Plaines hurlantes	place	approved	
+風隠れ岩	Windhide Rock	Roc Coupe-Vent	place	approved	Le village des Ailés.
+ワープ	Warp	téléportation	mechanic	approved	
+ダッシュ	Dash	sprint	mechanic	approved	
+マウント	Mount	monture	mechanic	approved	
+スタンプ	Sticker	autocollant	ui	approved	
+ステラカード	Stella Card	carte Stella	item	approved	
+輝くキボ	Shiny Kibo	Kibo brillant	creature	approved	Variante rare d’un Kibo.
+ラーガ	Raga	Raga	creature	approved	Invariable : « les Raga ».
+メテオール	Staray	Staray	creature	official	Nom officiel anglais (site officiel). Les noms de Kibo restent ceux de l’anglais, invariables.
+ナイトフォール	Vespervamp	Vespervamp	creature	official	Nom officiel anglais (site officiel).
+点火	Ignition	Allumage	kibo_job	approved	Métiers des Kibo à la ferme : Allumage, Bûcheronnage, Éléments, Travaux des champs, Arrosage, Minage, Soins, Forge, Artisanat.
+伐採	Logging	Bûcheronnage	kibo_job	approved	
+畑仕事	Farming	Travaux des champs	kibo_job	approved	
+水やり	Watering	Arrosage	kibo_job	approved	
+採掘	Mining	Minage	kibo_job	approved	
+鍛造	Forging	Forge	kibo_job	approved	
+クラフト	Crafting	Artisanat	kibo_job	approved	
+短刀	Dagger	Couteau	equipment	approved	Équipement : ダガー Dague, 剣 Épée, 刃 Lame, 鎧 Armure, 脚甲 Jambières, 耳飾り Boucle d’oreille, 指輪 Anneau, 腕輪 Bracelet, マント Cape, 髪飾り Barrette, 戦靴 Bottes de guerre.
+見習いハンター	Apprentice Hunter	apprenti chasseur	equipment	approved	Nom de set.
+森の守り手	Forest Guardian	gardien sylvestre	equipment	approved	Nom de set.
+アマルテイア	Amalthea	Amalthea	creature	approved	Forme anglaise gardée, pas « Amalthée ».
