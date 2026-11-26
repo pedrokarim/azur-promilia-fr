@@ -16,6 +16,7 @@ Ce dépôt traduit en français le client PC japonais d'Azur Promilia. Il est fo
 - Les termes listés dans le champ `terms` d'une ligne de travail s'emploient tels quels.
 - Variables et balises identiques au japonais, sinon la ligne est refusée.
 - Une décision de traduction nouvelle (registre d'un personnage, terme absent du glossaire) s'ajoute au glossaire ou à `fr/context.md` avec le statut `proposed`, et se signale dans le compte rendu. Ne jamais passer un terme en `approved` : c'est le mainteneur qui valide.
+- Une ligne qui cite un 「titre」 (quête, objet, rang) reprend la traduction déjà faite de ce titre, au mot près : `node scripts/fr.mjs titles work/<lot>.jsonl --fix` aligne les citations du lot.
 - Avant de rendre un lot : `node scripts/fr.mjs check` doit finir sans erreur.
 
 ## Découper le travail entre plusieurs agents
