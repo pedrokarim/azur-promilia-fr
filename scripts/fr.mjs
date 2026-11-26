@@ -216,8 +216,13 @@ function check() {
   for (const row of french.byJp.values()) {
     for (const term of termsIn(row.jp, glossary)) {
       // La colonne fr peut lister des variantes acceptées : « Amplification | Amplif. ».
-      // Apostrophe droite ou courbe : même mot.
-      const fold = (text) => text.toLowerCase().replace(/’/g, "'");
+      // Apostrophe droite ou courbe : même mot. Fin de mot en -e, -s, -es ignorée : le terme
+      // reste reconnu au pluriel et au féminin (« veines stellaires », « Ailée »).
+      const fold = (text) =>
+        text
+          .toLowerCase()
+          .replace(/\u2019/g, "'")
+          .replace(/(\p{L}{3,}?)(?:es|e|s)(?!\p{L})/gu, '$1');
       const variants = term.fr.split('|').map((v) => fold(v.trim()));
       if (!variants.some((variant) => fold(row.fr).includes(variant))) {
         glossaryWarnings.push(`id ${row.id ?? '?'} : « ${term.jp} » devrait donner « ${term.fr} »`);
