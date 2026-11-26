@@ -1,6 +1,8 @@
+{"id":1495182,"jp":"チーム全体の風属性ダメージが<color=#EF903D>20%</color>増加する。","fr":"Augmente de <color=#EF903D>20 %</color> les DGT de Vent de toute l'équipe."}
 {"id":1495183,"jp":"炎刃","fr":"Lame ardente"}
 {"id":1495185,"jp":"破勢","fr":"Force brisante"}
 {"id":1495187,"jp":"極鋭","fr":"Tranchant ultime"}
+{"id":1495188,"jp":"チーム全体の会心率が<color=#EF903D>15%</color>上昇し、会心ダメージが<color=#EF903D>30%</color>増加する。","fr":"Augmente de <color=#EF903D>15 %</color> le Taux CRIT et de <color=#EF903D>30 %</color> les DGT CRIT de toute l'équipe."}
 {"id":1495189,"jp":"鋭進","fr":"Percée acérée"}
 {"id":1495191,"jp":"同調","fr":"Synchronie"}
 {"id":1495193,"jp":"共鳴","fr":"Résonance"}
@@ -23,6 +25,7 @@
 {"id":1495230,"jp":"創流の円環Ⅰ","fr":"Cercle de la genèse Ⅰ"}
 {"id":1495231,"jp":"敵を倒す","fr":"Vaincre les ennemis"}
 {"id":1495232,"jp":"全員生存でクリア","fr":"Réussir avec toute l'équipe en vie"}
+{"id":1495233,"jp":"120秒以内に敵を倒す","fr":"Vaincre les ennemis en moins de 120 secondes"}
 {"id":1495234,"jp":"創流の円環Ⅱ","fr":"Cercle de la genèse Ⅱ"}
 {"id":1495235,"jp":"創流の円環Ⅲ","fr":"Cercle de la genèse Ⅲ"}
 {"id":1495236,"jp":"創流の円環Ⅳ","fr":"Cercle de la genèse Ⅳ"}
@@ -439,6 +442,7 @@
 {"id":1496063,"jp":"星辰の知恵・5","fr":"Sagesse des astres 5"}
 {"id":1496065,"jp":"星辰の知恵・6","fr":"Sagesse des astres 6"}
 {"id":1496067,"jp":"群星の弦鳴を傾聴する","fr":"Écouter les cordes des étoiles"}
+{"id":1496068,"jp":"キャラクターを5名獲得する","fr":"Obtenir 5 personnages"}
 {"id":1496069,"jp":"識海の弦現を洞観する","fr":"Contempler les cordes de l'océan de l'esprit"}
 {"id":1496071,"jp":"星吟旅謡の弦歌","fr":"Cordes de la ballade des étoiles"}
 {"id":1496073,"jp":"きみしか見えない","fr":"Je n'ai d'yeux que pour toi"}
@@ -598,6 +602,7 @@
 {"id":1496506,"jp":"餓竜のブレス×300","fr":"Souffle du dragon affamé ×300"}
 {"id":1496508,"jp":"蝶音疾葉","fr":"Chant de papillon, feuilles vives"}
 {"id":1496510,"jp":"縁って不思議","fr":"Mystérieux, les liens du destin"}
+{"id":1496512,"jp":"獄焔燃え尽き千罪を裁く","fr":"Feu infernal éteint, mille péchés jugés"}
 {"id":1496516,"jp":"真の守護神","fr":"Un vrai ange gardien"}
 {"id":1496518,"jp":"力をもって陰陽を断つ","fr":"Trancher le yin et le yang par la force"}
 {"id":1496520,"jp":"ニャーオ！","fr":"Miaaou !"}
@@ -943,6 +948,7 @@
 {"id":1497204,"jp":"氷属性ダメージアップ","fr":"Hausse des DGT de Glace"}
 {"id":1497205,"jp":"水属性ダメージアップ","fr":"Hausse des DGT d'Eau"}
 {"id":1497212,"jp":"無","fr":"Aucun"}
+{"id":1497213,"jp":"与ダメージ増加（3スタック）","fr":"Hausse des DGT infligés (3 cumuls)"}
 {"id":1497220,"jp":"鋭刃","fr":"Lame acérée"}
 {"id":1497221,"jp":"累勢","fr":"Élan cumulé"}
 {"id":1497222,"jp":"壁立","fr":"Mur dressé"}
@@ -1296,6 +1302,7 @@
 {"id":1497784,"jp":"耐性値が上昇する。","fr":"Augmente la valeur de résistance."}
 {"id":1498077,"jp":"友愛団子","fr":"Dango de l'amitié"}
 {"id":1498079,"jp":"幸運の蒸しパン","fr":"Brioche vapeur porte-bonheur"}
+{"id":1498097,"jp":"料理効果：風属性+10%","fr":"Effet du plat : Vent +10%"}
 {"id":1498106,"jp":"料理効果：攻撃+5%","fr":"Effet du plat : ATQ +5%"}
 {"id":1498142,"jp":"豪奢な毛皮","fr":"Fourrure luxueuse"}
 {"id":1498145,"jp":"厚葉の植物","fr":"Plante à feuilles épaisses"}
@@ -1398,6 +1405,7 @@
 {"id":1498304,"jp":"食べられる幸せ","fr":"Le bonheur de manger"}
 {"id":1498306,"jp":"『蛟龍戯珠』","fr":"« Le dragon joue avec la perle »"}
 {"id":1498308,"jp":"カンフー小熊猫","fr":"Panda roux kung-fu"}
+{"id":1498309,"jp":"実際のところポンポンは正式にカンフーを習ったことはなく、実力も不安定だ。だけど幸いにも、パミーの愛らしい見た目とごく稀に発動する機転のおかげで、いつも危機を乗り越えることができる。ポンポン曰く、「これが実力だっ！」。","fr":"En vérité, Pengpeng n'a jamais appris le kung-fu dans les règles, et son niveau est très inégal. Heureusement, son allure adorable de Pammy et de très rares éclairs de génie lui permettent toujours de se tirer d'affaire. Comme le dit Pengpeng : « Ça, c'est du vrai talent ! »"}
 {"id":1498310,"jp":"マスターの修行","fr":"L'entraînement du maître"}
 {"id":1498312,"jp":"武への一途な思い","fr":"Dévotion aux arts martiaux"}
 {"id":1498314,"jp":"武侠活劇","fr":"Épopée wuxia"}
@@ -1510,6 +1518,7 @@
 {"id":1498584,"jp":"準備は万端です。","fr":"Tout est prêt."}
 {"id":1498608,"jp":"いっしょに遊びたい？","fr":"On joue ensemble ?"}
 {"id":1498620,"jp":"また会えて嬉しいぞ！","fr":"Quel plaisir de se revoir !"}
+{"id":1498647,"jp":"翼の傷？\nあんなの、ちょっと掠っただけ。\nもう治ってきてるし、たいしたことない。\n\n……で、でもまあ、一応感謝しとくわ。気にかけてくれたわけだし！？\n……とにかく！心配いらないわ、アタシは大丈夫！","fr":"La blessure à mon aile ?\nCe n'était qu'une égratignure.\nÇa cicatrise déjà, ce n'est rien du tout.\n\n… M-mais bon, je te remercie quand même. Après tout, tu t'es fait du souci pour moi !?\n… Bref ! Pas la peine de t'inquiéter, je vais très bien !"}
 {"id":1498680,"jp":"ここにいる。","fr":"Je suis là."}
 {"id":1498693,"jp":"お宝？どこ？","fr":"Un trésor ? Où ça ?"}
 {"id":1498700,"jp":"うん？","fr":"Hm ?"}
@@ -1683,6 +1692,7 @@
 {"id":1499190,"jp":"高波に乗って！","fr":"Sur la crête de la vague !"}
 {"id":1499207,"jp":"行くよ！","fr":"C'est parti !"}
 {"id":1499208,"jp":"わたしの声に応えて！","fr":"Réponds à mon appel !"}
+{"id":1499209,"jp":"すみません。期待に添えず……","fr":"Pardon. Je n'ai pas su être à la hauteur…"}
 {"id":1499214,"jp":"侮らないでよね！","fr":"Faut pas me sous-estimer !"}
 {"id":1499216,"jp":"雷轟電撃！","fr":"Fracas du tonnerre !"}
 {"id":1499218,"jp":"よし！","fr":"Bien !"}
@@ -2171,6 +2181,7 @@
 {"id":1500503,"jp":"バシャ……バシャ……","fr":"Plouf… plouf…"}
 {"id":1500505,"jp":"出てきて。","fr":"Sors de là."}
 {"id":1500506,"jp":"おー。","fr":"Ooh."}
+{"id":1500507,"jp":"探検は……ここから、はじまる……","fr":"L'exploration… commence… ici…"}
 {"id":1500510,"jp":"え？","fr":"Hein ?"}
 {"id":1500511,"jp":"くうーっ……！","fr":"Nnngh… !"}
 {"id":1500512,"jp":"っしょ！……ふう。","fr":"Hop ! … Ouf."}
@@ -2179,6 +2190,7 @@
 {"id":1500520,"jp":"ふふーん、みーっけ！","fr":"Hé hé, trouvé !"}
 {"id":1500524,"jp":"これも集めておく？","fr":"On ramasse ça aussi ?"}
 {"id":1500525,"jp":"ぜーんぶ詰めたよ！","fr":"J'ai tout mis dans le sac !"}
+{"id":1500526,"jp":"これくらいなら、らくらく！","fr":"Si ce n'est que ça, c'est du gâteau !"}
 {"id":1500527,"jp":"もっと探しに行く？","fr":"On va en chercher d'autres ?"}
 {"id":1500541,"jp":"これも因果かあ……","fr":"Ça aussi, c'est écrit…"}
 {"id":1500544,"jp":"これにて功徳円満！","fr":"Et voilà, des mérites bien gagnés !"}
@@ -2528,6 +2540,7 @@
 {"id":1501476,"jp":"うん、いい感じ！","fr":"Oui, ça se présente bien !"}
 {"id":1501489,"jp":"狙いは完璧！","fr":"Visée parfaite !"}
 {"id":1501490,"jp":"やあぁぁぁっ……！","fr":"Yaaaah… !"}
+{"id":1501505,"jp":"頂点に立つ捕食者は、弱い獲物には関心がないわ。\nまずは縄張りを脅かす真の敵を探し出し、稲妻の如く迅速に打ち倒す。\nそして、その生態系を巧みに支配し、『王』となる。\n私の仲間は、まさに『王』にふさわしい存在よ。","fr":"Un prédateur au sommet de la chaîne ne s'intéresse pas aux proies faibles.\nIl commence par débusquer le vrai ennemi qui menace son territoire, puis l'abat avec la vitesse de l'éclair.\nEnsuite, il règne avec habileté sur son écosystème et devient « roi ».\nMon compagnon est bel et bien digne du titre de « roi »."}
 {"id":1501512,"jp":"佳境に入ったわね。","fr":"On arrive au moment décisif."}
 {"id":1501513,"jp":"ともに行きましょう。","fr":"Allons-y ensemble."}
 {"id":1501514,"jp":"必要な準備よ。","fr":"Il faut bien se préparer."}
@@ -2600,6 +2613,7 @@
 {"id":1501932,"jp":"う――んんん……！","fr":"Hmmmnn… !"}
 {"id":1501933,"jp":"待ってってばぁ！","fr":"Pas si vite !"}
 {"id":1501934,"jp":"えぇええ――ん！","fr":"Ouiiin !"}
+{"id":1501958,"jp":"ペイペイは、ちゃんとお返しを用意します！","fr":"Peipei préparera un beau cadeau en retour !"}
 {"id":1501971,"jp":"うう――っ。","fr":"Hnnn…"}
 {"id":1501985,"jp":"チャット背景","fr":"Fonds de discussion"}
 {"id":1501987,"jp":"チャット吹き出し","fr":"Bulles de discussion"}
@@ -2883,6 +2897,7 @@
 {"id":1502700,"jp":"逸品の金麦","fr":"Blé doré d'exception"}
 {"id":1502701,"jp":"至高の金麦","fr":"Blé doré suprême"}
 {"id":1502702,"jp":"輝く金麦","fr":"Blé doré étincelant"}
+{"id":1502704,"jp":"特殊な金麦。偶然にも、過剰なカルマエネルギーを吸収して育った。心地良いまばゆい光に染まっており、非常に貴重なものといえる。","fr":"Un blé doré hors du commun. Par hasard, il a poussé en absorbant un excès d'énergie de Karma. Baigné d'une lumière éclatante et agréable, il est extrêmement précieux."}
 {"id":1502705,"jp":"普通のシンゲツイモ","fr":"Patate Nouvelle-Lune ordinaire"}
 {"id":1502707,"jp":"上質なシンゲツイモ","fr":"Patate Nouvelle-Lune de qualité"}
 {"id":1502708,"jp":"極上のシンゲツイモ","fr":"Patate Nouvelle-Lune supérieure"}
@@ -3102,6 +3117,7 @@
 {"id":1503149,"jp":"高らかな勝利・蛍","fr":"Victoire retentissante : Lueur"}
 {"id":1503153,"jp":"断空の翼・蛍","fr":"Ailes fend-ciel : Lueur"}
 {"id":1503157,"jp":"天光の凝華・蛍","fr":"Cristal de lumière céleste : Lueur"}
+{"id":1503160,"jp":"メインストーリー依頼第一章 1-2","fr":"Mission principale, chapitre 1 : 1-2"}
 {"id":1503162,"jp":"大狼の影・蛍","fr":"Ombre du Grand Loup : Lueur"}
 {"id":1503166,"jp":"潮水のエコー・蛍","fr":"Écho de la marée : Lueur"}
 {"id":1503170,"jp":"荊棘を破る者・蛍","fr":"Brise-ronces : Lueur"}
@@ -3333,6 +3349,7 @@
 {"id":1503856,"jp":"ジェイディオンの反響","fr":"Écho de Jeidion"}
 {"id":1503858,"jp":"蒜絨の反響","fr":"Écho de Suanrong"}
 {"id":1503860,"jp":"イエローダの反響","fr":"Écho de Yellowda"}
+{"id":1503861,"jp":"イエローダ、イエローアルビの源脈の育成に使用できる。","fr":"Sert à développer la veine source de Yellowda et de Yellowalbi."}
 {"id":1503862,"jp":"ウルの反響","fr":"Écho d'Uru"}
 {"id":1503864,"jp":"ブルルの反響","fr":"Écho de Bururu"}
 {"id":1503866,"jp":"パモーラの反響","fr":"Écho de Pamora"}
@@ -3411,6 +3428,7 @@
 {"id":1504130,"jp":"極上の蜜漬けピクルス","fr":"Pickles au miel supérieurs"}
 {"id":1504132,"jp":"逸品の蜜漬けピクルス","fr":"Pickles au miel d'exception"}
 {"id":1504134,"jp":"至高の蜜漬けピクルス","fr":"Pickles au miel suprêmes"}
+{"id":1504193,"jp":"上質なさっぱりリーフサラダ","fr":"Salade de feuilles rafraîchissante de qualité"}
 {"id":1504263,"jp":"普通の二色のペペアメ","fr":"Bonbon bicolore au Pepe ordinaire"}
 {"id":1504265,"jp":"上質な二色のペペアメ","fr":"Bonbon bicolore au Pepe de qualité"}
 {"id":1504266,"jp":"極上の二色のペペアメ","fr":"Bonbon bicolore au Pepe supérieur"}
@@ -3764,6 +3782,7 @@
 {"id":1504924,"jp":"光が眩しすぎる","fr":"Une lumière trop éblouissante"}
 {"id":1504925,"jp":"リド","fr":"Lido"}
 {"id":1504927,"jp":"本の記載によれば","fr":"D'après le livre"}
+{"id":1504928,"jp":"『「<ruby=スターリンク>星絆</ruby>」の手引き』という本を読んだんだけど、『キボファイト』をするとキボと絆を結びやすくなる、って書いてあったんだ。","fr":"J'ai lu un livre intitulé « Guide du Lien stellaire », et il disait qu'en faisant des « Duels de Kibo », on se lie plus facilement avec les Kibo."}
 {"id":1504929,"jp":"ちょっと笑っただけで","fr":"J'ai juste ri un peu"}
 {"id":1504931,"jp":"静かに処理する","fr":"Régler ça en silence"}
 {"id":1504933,"jp":"遺跡周辺の掃討","fr":"Nettoyage des abords des ruines"}
@@ -3885,6 +3904,7 @@
 {"id":1505242,"jp":"スターリンクの印","fr":"Marque du Lien stellaire"}
 {"id":1505251,"jp":"シークリッド・竜形態","fr":"Seekrid : forme de dragon"}
 {"id":1505263,"jp":"メイズゲイザー","fr":"Maze Gazer"}
+{"id":1505266,"jp":"立派な体躯のキボで、強靭な筋肉、優れた馬力と持久力、そして驚異の体重を誇る。非常に優れた記憶力の持ち主で、幼いころに一番食べていた草の味まで覚えている。","fr":"Un Kibo à la carrure imposante, doté de muscles puissants, d'une force de traction et d'une endurance remarquables, et d'un poids stupéfiant. Sa mémoire est excellente : il se souvient même du goût de l'herbe qu'il mangeait le plus quand il était petit."}
 {"id":1505269,"jp":"赤蠍針の射手","fr":"Archer des Scorpions rouges"}
 {"id":1505271,"jp":"赤蠍螯の暴徒","fr":"Cogneur des Scorpions rouges"}
 {"id":1505273,"jp":"赤蠍甲の闘士","fr":"Lutteur des Scorpions rouges"}
@@ -3976,6 +3996,7 @@
 {"id":1505922,"jp":"キボが存在しません。","fr":"Ce Kibo n'existe pas."}
 {"id":1505965,"jp":"すでにフレンドです。","fr":"Déjà amis."}
 {"id":1505978,"jp":"送信内容が空です。","fr":"Le message est vide."}
+{"id":1506046,"jp":"この機能はまだ解放されていません（エラーコード：10935）。","fr":"Cette fonction n'est pas encore débloquée (code d'erreur : 10935)."}
 {"id":1506082,"jp":"マップに移動中です。","fr":"Déplacement vers la carte."}
 {"id":1506110,"jp":"修復済みです。","fr":"Déjà réparé."}
 {"id":1506122,"jp":"マップ内にいません。","fr":"Hors de la carte."}
@@ -4079,6 +4100,7 @@
 {"id":1506915,"jp":"チーム編成","fr":"Composition d'équipe"}
 {"id":1506916,"jp":"キボレベル","fr":"Niveau de Kibo"}
 {"id":1506917,"jp":"デッキ編成","fr":"Composition du deck"}
+{"id":1506944,"jp":"戦闘中は調律を行えません。","fr":"Impossible de procéder à l'Accordage en combat."}
 {"id":1507165,"jp":"金麦パン","fr":"Pain de blé doré"}
 {"id":1507166,"jp":"コーンクラッカー","fr":"Crackers au maïs"}
 {"id":1507167,"jp":"弾けるどっきりコーン","fr":"Maïs surprise éclaté"}
@@ -4211,10 +4233,12 @@
 {"id":1507695,"jp":"リュドミラ","fr":"Lyudmila"}
 {"id":1507703,"jp":"ミラ","fr":"Mira"}
 {"id":1507711,"jp":"グレイス","fr":"Grace"}
+{"id":1507718,"jp":"修行時のステータス獲得量+16%。絆アシストの発動確率+60%。\n絆アシストの効果+15%。\nデザートの購入上限+1。\n修行を手伝ってくれる確率がわずかに上昇する。","fr":"Statistiques gagnées à l'entraînement +16%. Chance de déclencher l'Assistance de Lien +60%.\nEffet de l'Assistance de Lien +15%.\nLimite d'achat de desserts +1.\nAugmente légèrement la chance de recevoir de l'aide à l'entraînement."}
 {"id":1507721,"jp":"薄金鬼 Lv.Max","fr":"Oni d'or pâle Niv. max"}
 {"id":1507743,"jp":"グルル Lv.Max","fr":"Gururu Niv. max"}
 {"id":1507781,"jp":"輝く薄金鬼","fr":"Oni d'or pâle brillant"}
 {"id":1507793,"jp":"輝くホワッポ","fr":"Howapo brillant"}
+{"id":1507796,"jp":"輝くホワッポ Lv.Max","fr":"Howapo brillant Niv. Max"}
 {"id":1507798,"jp":"輝くメーフォン","fr":"Meefon brillant"}
 {"id":1507801,"jp":"輝くメーガルム","fr":"Megalm brillant"}
 {"id":1507807,"jp":"輝くグルル","fr":"Gururu brillant"}
@@ -4364,6 +4388,7 @@
 {"id":1508272,"jp":"真ん中のコップ。","fr":"Le gobelet du milieu."}
 {"id":1508273,"jp":"右のコップ。","fr":"Le gobelet de droite."}
 {"id":1508274,"jp":"じっくり観察する……","fr":"Observer attentivement…"}
+{"id":1508276,"jp":"麦畑へピクニックに行く。","fr":"Aller pique-niquer dans les champs de blé."}
 {"id":1508277,"jp":"森へ散歩に行く。","fr":"Aller se promener en forêt."}
 {"id":1508278,"jp":"山頂へ雲を見に行く。","fr":"Monter au sommet regarder les nuages."}
 {"id":1508283,"jp":"抜刀。","fr":"Dégainer."}
@@ -4381,9 +4406,12 @@
 {"id":1508540,"jp":"ブルーダ～ブルーダ～","fr":"Bluda~ Bluda~"}
 {"id":1508542,"jp":"ブルーダ？ブルーダ？","fr":"Bluda ? Bluda ?"}
 {"id":1508592,"jp":"小玉が気づいた！","fr":"Xiaoyu a compris !"}
+{"id":1508602,"jp":"<cspace=-0.06em><b><color=#70a7d5>困惑するクレア：</color></b></cspace>","fr":"<cspace=-0.06em><b><color=#70a7d5>Claire, perplexe :</color></b></cspace>"}
 {"id":1508798,"jp":"私が出場するの？","fr":"C'est moi qui dois combattre ?"}
+{"id":1508887,"jp":"小玉がその露店に歩み寄った。露店には滋養強壮の薬酒や、百朔ものときを超えて伝わる骨董品、そして上質な茶葉が並んでいる。どれもこれも、胡散臭さが漂っている……","fr":"Xiaoyu s'est approchée de l'étal. On y trouvait des vins médicinaux fortifiants, des antiquités transmises depuis plus de cent lunes et des feuilles de thé de qualité. Tout cela sentait l'arnaque à plein nez…"}
 {"id":1508930,"jp":"「狐の慧眼」！","fr":"« L'Œil perçant du renard » !"}
 {"id":1508958,"jp":"ポニーロ！？","fr":"Un Poniro ?!"}
+{"id":1509120,"jp":"優しく勇敢で、驚くほど怪力なペガサスナイト。千代に、単純明快な力で敵を制する術を教える。\n『シャル』の初期サポートボーナスを8獲得する。","fr":"Une chevalière pégase douce, courageuse et d'une force étonnante. Elle enseigne à Chiyo l'art de vaincre l'ennemi par la force, simplement et sans détour.\nOctroie 8 points de bonus de soutien initial de « Shalle »."}
 {"id":1509199,"jp":"狩猟パス","fr":"Permis de chasse"}
 {"id":1509203,"jp":"スイーツ","fr":"Douceurs"}
 {"id":1509206,"jp":"落ち込み","fr":"Moral en berne"}
@@ -4593,6 +4621,7 @@
 {"id":1509695,"jp":"長夜の月影","fr":"Clair de lune de la longue nuit"}
 {"id":1509697,"jp":"下ごしらえの名手","fr":"As de la préparation"}
 {"id":1509699,"jp":"フリスビーの名手","fr":"As du frisbee"}
+{"id":1509700,"jp":"フリスビーくらい、千代が必ず捉えてみせる！修行時のステータス獲得量+10%、ユニ消費量+10%。","fr":"Un frisbee ? Chiyo l'attrapera à coup sûr ! Statistiques gagnées à l'entraînement +10%, coût en Uni +10%."}
 {"id":1509701,"jp":"骨取りの名手","fr":"As de la chasse aux os"}
 {"id":1509703,"jp":"洞察秋毫","fr":"Une perspicacité sans faille"}
 {"id":1509705,"jp":"科学の剣技革命","fr":"La révolution scientifique de l'escrime"}
@@ -4655,6 +4684,7 @@
 {"id":1509829,"jp":"モフリーネの協力","fr":"L'aide de Downybrinny"}
 {"id":1509832,"jp":"フレイムラーガの協力","fr":"L'aide de Flameraga"}
 {"id":1509834,"jp":"薄金鬼の助力","fr":"L'assistance de l'Oni d'or pâle"}
+{"id":1509844,"jp":"お腹いっぱい食べて、千代は活気に満ち溢れ、やる気十分。修行時のステータス獲得量+15%、ユニ消費量+25%、集中消費量+25%。","fr":"Le ventre plein, Chiyo déborde d'énergie et de motivation. Statistiques gagnées à l'entraînement +15%, coût en Uni +25%, coût en Concentration +25%."}
 {"id":1509855,"jp":"法力の修習","fr":"Étude : Magie"}
 {"id":1509856,"jp":"勇気の修行","fr":"Entraînement : Courage"}
 {"id":1509857,"jp":"縁結びの修習","fr":"Étude : Nouer les liens"}
@@ -4905,6 +4935,7 @@
 {"id":1510550,"jp":"道しるべ草の導き","fr":"Le guide des herbes balises"}
 {"id":1510553,"jp":"順列石柱","fr":"Piliers à permutation"}
 {"id":1510556,"jp":"ソザンカのはしご","fr":"L'échelle de Sozanka"}
+{"id":1510558,"jp":"トーテムを<color={highlight}>正確に</color>積み上げるほど、スコアが高くなります。\n位置がズレると、トーテムポールは崩れ落ちてしまいます。","fr":"Plus vous empilez les totems avec <color={highlight}>précision</color>, plus votre score est élevé.\nUn totem mal placé fait s'écrouler le mât totémique."}
 {"id":1510560,"jp":"石像の修復","fr":"Restauration des statues"}
 {"id":1510563,"jp":"自由作業","fr":"Travail libre"}
 {"id":1510565,"jp":"指定派遣","fr":"Affectation désignée"}
@@ -4965,9 +4996,11 @@
 {"id":1510871,"jp":"幻域獣","fr":"Bêtes du domaine illusoire"}
 {"id":1510874,"jp":"マウントおやつ袋","fr":"Sac de friandises pour monture"}
 {"id":1510876,"jp":"農園採集施設","fr":"Installation de collecte de la ferme"}
+{"id":1510882,"jp":"キャラクター訓練【源千代：その3】","fr":"Entraînement de personnage【Minamoto Chiyo : partie 3】"}
 {"id":1510886,"jp":"レーザーギミック","fr":"Mécanisme laser"}
 {"id":1510889,"jp":"造影儀","fr":"Imageur"}
 {"id":1510891,"jp":"回転足場","fr":"Plateformes rotatives"}
+{"id":1510892,"jp":"装置を操作すると、マップ上の足場を回転させて移動ルートを変更できます。\n足場を正しい位置まで回転させれば、<color={highlight}>次の地点へ進む</color>ことができます。","fr":"Actionnez le mécanisme pour faire pivoter les plateformes de la carte et modifier l'itinéraire.\nUne fois les plateformes tournées dans la bonne position, vous pourrez <color={highlight}>avancer jusqu'au point suivant</color>."}
 {"id":1510906,"jp":"沃土","fr":"Terre fertile"}
 {"id":1510908,"jp":"武器工房","fr":"Atelier d'armes"}
 {"id":1510910,"jp":"キボ源脈","fr":"Veine source des Kibo"}
@@ -4996,8 +5029,10 @@
 {"id":1511042,"jp":"テララを選択","fr":"Choisir Terara"}
 {"id":1511096,"jp":"だけど、弱点もある。","fr":"Mais il a aussi un point faible."}
 {"id":1511108,"jp":"試してみろ！","fr":"Allez, on essaie !"}
+{"id":1511198,"jp":"キボの近くで<actionkey>MainInput/MainPetCatch</actionkey> を押すと、星絆状態に入ります。","fr":"Appuyez sur <actionkey>MainInput/MainPetCatch</actionkey> près d'un Kibo pour passer en mode Lien stellaire."}
 {"id":1511214,"jp":"キボをタップして騎乗","fr":"Toucher un Kibo pour le chevaucher"}
 {"id":1511278,"jp":"先へ進みましょう。","fr":"Continuons."}
+{"id":1511650,"jp":"まずは<actionkey>GamepadUI/GamepadUI_West</actionkey> で、千代さんがこの間にどんな新しい剣技を習得したか見てみましょう！","fr":"Pour commencer, <actionkey>GamepadUI/GamepadUI_West</actionkey> : voyons quelles nouvelles techniques d'épée Chiyo a apprises entre-temps !"}
 {"id":1511703,"jp":"科学","fr":"Science"}
 {"id":1511704,"jp":"手帳","fr":"Carnet"}
 {"id":1511705,"jp":"特殊効果なし","fr":"Aucun effet spécial"}
@@ -5124,6 +5159,7 @@
 {"id":1511986,"jp":"カンフーマスター！","fr":"Experte en kung-fu !"}
 {"id":1511988,"jp":"進退自在","fr":"Avancer et reculer à sa guise"}
 {"id":1511991,"jp":"おいしい！","fr":"Délicieux !"}
+{"id":1511993,"jp":"えっ、まえのごはんからまだ1時間しか経ってないのか！？","fr":"Quoi, ça fait seulement une heure depuis le dernier repas !?"}
 {"id":1511994,"jp":"おかわり！","fr":"Encore une assiette !"}
 {"id":1511997,"jp":"大いなる神霊の加護","fr":"La protection des grands esprits"}
 {"id":1511999,"jp":"御霊の声","fr":"La voix des Esprits anciens"}
@@ -5222,6 +5258,7 @@
 {"id":1512216,"jp":"1号建築エリア","fr":"Zone de construction 1"}
 {"id":1512218,"jp":"2号建築エリア","fr":"Zone de construction 2"}
 {"id":1512219,"jp":"Lv.1牧場","fr":"Pâturage Nv. 1"}
+{"id":1512287,"jp":"<color=#ef903d>完全な獣皮</color>の1日あたりの産出量<color=#ef903d>+72</color>","fr":"Production quotidienne de <color=#ef903d>peau de bête intacte</color> <color=#ef903d>+72</color>"}
 {"id":1512288,"jp":"作業台","fr":"Établi"}
 {"id":1512290,"jp":"キボの食堂","fr":"Cantine des Kibo"}
 {"id":1512292,"jp":"溶鉱炉","fr":"Fonderie"}
@@ -5815,6 +5852,23 @@
 {"id":1513292,"jp":"星の輪Ⅱ","fr":"Anneau stellaire Ⅱ"}
 {"id":1513293,"jp":"星の輪Ⅲ","fr":"Anneau stellaire Ⅲ"}
 {"id":1513294,"jp":"星の実","fr":"Fruit des étoiles"}
+{"id":1513387,"jp":"ファイエルのアクティブスキルを15回発動する","fr":"Utiliser 15 fois la compétence active de Fayel"}
+{"id":1513619,"jp":"アイロのアクティブスキルを3回発動する","fr":"Utiliser 3 fois la compétence active d'Airo"}
+{"id":1513851,"jp":"サラマンドの6種の潜在能力をすべてランクAにする","fr":"Faire passer les 6 potentiels de Salamand au rang A"}
+{"id":1514077,"jp":"ラズリンのレベルを70にする","fr":"Amener Lazurin au niveau 70"}
+{"id":1514303,"jp":"ルビッツのアクティブスキルを3回発動する","fr":"Utiliser 3 fois la compétence active de Rubbits"}
+{"id":1514529,"jp":"サンディのレベルを90にする","fr":"Amener Sandy au niveau 90"}
+{"id":1514755,"jp":"クローネックのアクティブスキルを15回発動する","fr":"Utiliser 15 fois la compétence active de Kronek"}
+{"id":1514981,"jp":"ガドリの6種の潜在能力をすべてランクEにする","fr":"Faire passer les 6 potentiels de Gadori au rang E"}
+{"id":1515219,"jp":"ニィトールの6種の潜在能力をすべてランクAにする","fr":"Faire passer les 6 potentiels de Neetor au rang A"}
+{"id":1515451,"jp":"モーニャの6種の潜在能力をすべてランクCにする","fr":"Faire passer les 6 potentiels de Monya au rang C"}
+{"id":1515683,"jp":"クロディーメの6種の潜在能力をすべてランクEにする","fr":"Faire passer les 6 potentiels de Clodime au rang E"}
+{"id":1515909,"jp":"キラミィのアクティブスキルを50回発動する","fr":"Utiliser 50 fois la compétence active de Kiramy"}
+{"id":1516147,"jp":"バッティのレベルを70にする","fr":"Amener Batty au niveau 70"}
+{"id":1516373,"jp":"青華の幼狐のアクティブスキルを3回発動する","fr":"Utiliser 3 fois la compétence active du Renardeau de Qinghua"}
+{"id":1516611,"jp":"獄鬼面のアクティブスキルを50回発動する","fr":"Utiliser 50 fois la compétence active du Masque d'oni infernal"}
+{"id":1516843,"jp":"イエローアルビのアクティブスキルを15回発動する","fr":"Utiliser 15 fois la compétence active de Yellowalbi"}
+{"id":1517075,"jp":"カエアのアクティブスキルを3回発動する","fr":"Utiliser 3 fois la compétence active de Kaea"}
 {"id":1517159,"jp":"進化教団アーチャー","fr":"Archer du Culte de l'Évolution"}
 {"id":1517161,"jp":"書籍","fr":"Livres"}
 {"id":1517162,"jp":"マウント","fr":"Montures"}
@@ -6087,6 +6141,7 @@
 {"id":1517663,"jp":"強敵を恐れるな！","fr":"Aucune peur face aux ennemis redoutables !"}
 {"id":1517664,"jp":"危機討伐・一","fr":"Traque de crise I"}
 {"id":1517667,"jp":"キングラーガを倒す","fr":"Vaincre Kingraga"}
+{"id":1517670,"jp":"取引注文を完了する・二","fr":"Terminer des commandes commerciales II"}
 {"id":1517673,"jp":"星絆の道のり・三","fr":"Chemin du Lien stellaire III"}
 {"id":1517675,"jp":"星祝の階段・三","fr":"Marches de la Bénédiction stellaire III"}
 {"id":1517677,"jp":"アニマレベルアップⅡ","fr":"Montée de niveau d'Anima Ⅱ"}
@@ -6226,6 +6281,7 @@
 {"id":1518106,"jp":"キボを鍛える・六","fr":"Entraîner des Kibo VI"}
 {"id":1518108,"jp":"キボを鍛える・七","fr":"Entraîner des Kibo VII"}
 {"id":1518110,"jp":"キボを鍛える・八","fr":"Entraîner des Kibo VIII"}
+{"id":1518111,"jp":"3匹のキボの源脈を最大まで強化する","fr":"Renforcer au maximum la veine source de 3 Kibo"}
 {"id":1518112,"jp":"秀才の資質を持つキボ","fr":"Kibo aux aptitudes brillantes"}
 {"id":1518115,"jp":"逸才の資質を持つキボ","fr":"Kibo aux aptitudes hors du commun"}
 {"id":1518120,"jp":"因子の実を与える・一","fr":"Donner un fruit à facteurs I"}
@@ -6662,6 +6718,7 @@
 {"id":1519046,"jp":"――パミー郵便局","fr":"– La Poste des Pammy"}
 {"id":1519056,"jp":"――夢からの伝言","fr":"– Un message venu du rêve"}
 {"id":1519058,"jp":"システム通知","fr":"Avis système"}
+{"id":1519067,"jp":"親愛なる星臨者様：\nイベント「御霊の戦歌」はまもなく終了します。プレイ時間を適切に管理し、期間中にイベントへご参加のうえ、報酬をお受け取りください。\n\nこれからの旅も順調でありますように。","fr":"À l'Enfant des étoiles :\nL'événement « Chant de guerre des Esprits anciens » touche bientôt à sa fin. Veillez à bien gérer votre temps de jeu, participez à l'événement tant qu'il dure et récupérez vos récompenses.\n\nQue la suite de votre voyage se passe sans encombre."}
 {"id":1519073,"jp":"誕生日のお祝い","fr":"Vœux d'anniversaire"}
 {"id":1519074,"jp":"匿名","fr":"Anonyme"}
 {"id":1519084,"jp":"農園から出る","fr":"Quitter la ferme"}
@@ -6933,6 +6990,7 @@
 {"id":1519567,"jp":"スピーカー","fr":"Haut-parleurs"}
 {"id":1519568,"jp":"携帯","fr":"Appareil portable"}
 {"id":1519569,"jp":"画質自動調整","fr":"Réglage graphique automatique"}
+{"id":1519570,"jp":"星絆エイムモード照準アシスト","fr":"Aide à la visée en mode visée du Lien stellaire"}
 {"id":1519571,"jp":"照準アシスト強度","fr":"Intensité de l'aide à la visée"}
 {"id":1519572,"jp":"コントローラー設定","fr":"Réglages de la manette"}
 {"id":1519574,"jp":"デッドゾーン範囲設定","fr":"Zone morte"}
@@ -7156,6 +7214,7 @@
 {"id":1520006,"jp":"おなかは空いてる？","fr":"Tu as faim ?"}
 {"id":1520008,"jp":"考えてることは……","fr":"Ce que j'ai en tête……"}
 {"id":1520010,"jp":"頼りになるね","fr":"On peut compter sur toi"}
+{"id":1520017,"jp":"手紙を書くのも話すのも、意味がちゃんと伝わればそれでいいんだよ。","fr":"Qu'on écrive une lettre ou qu'on parle, l'important, c'est que le sens passe."}
 {"id":1520018,"jp":"別に下手じゃないよ","fr":"Ce n'est pas si mauvais"}
 {"id":1520022,"jp":"歯茎の問題かも","fr":"Ça vient peut-être des gencives"}
 {"id":1520024,"jp":"まずは診てもらおう","fr":"Fais-toi d'abord examiner"}
@@ -7331,6 +7390,7 @@
 {"id":1520676,"jp":"星臨者、読む","fr":"L'Enfant des étoiles lit"}
 {"id":1520678,"jp":"ペイペイ、書く","fr":"Peipei écrit"}
 {"id":1520685,"jp":"おとな","fr":"Adulte"}
+{"id":1520714,"jp":"ケロ！星臨者は輝く星彩の{0}を逃してしまったのかケロ？それはもったいない！でも大丈夫、つぎにまた希少なキボが現れたら、コロコロがまた教えにくるケロ！","fr":"Coâ ! L'Enfant des étoiles a laissé filer le {0} étoilé brillant, coâ ? Quel dommage ! Mais pas d'inquiétude : la prochaine fois qu'un Kibo rare apparaîtra, Korokoro reviendra prévenir l'Enfant des étoiles, coâ !"}
 {"id":1520797,"jp":"星彩のシュネルフ","fr":"Schnelf étoilé"}
 {"id":1520799,"jp":"異彩のレイニィ","fr":"Rainy Variante"}
 {"id":1520800,"jp":"星彩のレイニィ","fr":"Rainy étoilé"}
@@ -7858,6 +7918,7 @@
 {"id":1521591,"jp":"超大型","fr":"Très grand"}
 {"id":1521593,"jp":"序章編成‐アビィ","fr":"Équipe du prologue - Abby"}
 {"id":1521594,"jp":"序章編成‐キャベッコ","fr":"Équipe du prologue - Cabbeco"}
+{"id":1521595,"jp":"ミィティ試練クエスト-フラミー","fr":"Quête d'épreuve de Mitty : Flammy"}
 {"id":1521612,"jp":"汎生類","fr":"Espèces communes"}
 {"id":1521613,"jp":"異生類","fr":"Espèces étrangères"}
 {"id":1521614,"jp":"獣形族","fr":"Famille bestiale"}
@@ -8195,6 +8256,7 @@
 {"id":1522317,"jp":"破壊","fr":"Brise"}
 {"id":1522319,"jp":"猛攻","fr":"Assaut"}
 {"id":1522321,"jp":"増幅","fr":"Amplification"}
+{"id":1522385,"jp":"普通のトマトミートボールを使用しました。チーム全員のEX強度が50アップし、EX会心率が4%アップし、300秒間継続します。","fr":"Boulettes de viande à la tomate ordinaires utilisées : la Puissance EX de toute l'équipe augmente de 50 et son Taux CRIT EX de 4 % pendant 300 secondes."}
 {"id":1522569,"jp":"散らばった","fr":"Épars"}
 {"id":1522570,"jp":"魅惑的な","fr":"Envoûtant"}
 {"id":1522571,"jp":"疎遠な","fr":"Éloigné"}
@@ -8271,6 +8333,7 @@
 {"id":1522649,"jp":"ソーシャルホイール","fr":"Roue sociale"}
 {"id":1522651,"jp":"主人公の装飾","fr":"Ornements du personnage principal"}
 {"id":1522655,"jp":"特殊アイテム","fr":"Objets spéciaux"}
+{"id":1522681,"jp":"日渡りの塵影「塑流圜影III」を完了する","fr":"Terminer « Ombre cyclique du flux modelé III » des Ombres de poussière du Passe-Soleil"}
 {"id":1522697,"jp":"街のショップ-フリス","fr":"Boutique de Fleece"}
 {"id":1522703,"jp":"イトーン書房","fr":"Librairie Iton"}
 {"id":1522711,"jp":"第1段階","fr":"Phase 1"}
@@ -9732,6 +9795,7 @@
 {"id":1524551,"jp":"貫通ダメージ","fr":"DGT de pénétration"}
 {"id":1524559,"jp":"疾転","fr":"Rotation vive"}
 {"id":1524564,"jp":"エネルギー回復増幅。","fr":"Amplification de récupération d'Énergie."}
+{"id":1524565,"jp":"星極チャージ回復速度が{0}上昇する。","fr":"Augmente de {0} la vitesse de récupération de la Charge Zénith stellaire."}
 {"id":1524570,"jp":"雄髪","fr":"Crinière vaillante"}
 {"id":1524578,"jp":"鋭守","fr":"Défense acérée"}
 {"id":1524583,"jp":"凶蝕","fr":"Érosion funeste"}
@@ -9753,12 +9817,19 @@
 {"id":1524779,"jp":"一進一退の勝負！","fr":"Un combat indécis !"}
 {"id":1524792,"jp":"今日も風は凪いでいる","fr":"Aujourd'hui encore, le vent est calme"}
 {"id":1525102,"jp":"火 - 謎解きスキル","fr":"Feu - Compétence d'énigme"}
+{"id":1525117,"jp":"前方の扇状範囲へウォーターボールを複数放ち、エネミーに<color=#02a0e9>水属性ダメージ</color>を与える。","fr":"Lance plusieurs boules d'eau en éventail vers l'avant et inflige des <color=#02a0e9>DGT d'Eau</color> aux ennemis."}
 {"id":1525248,"jp":"氷・謎解きスキル","fr":"Glace - Compétence d'énigme"}
 {"id":1525340,"jp":"風・謎解きスキル","fr":"Vent - Compétence d'énigme"}
+{"id":1525369,"jp":"対象に花の弾を放つ。エネミーに命中した後に爆発し、<color=#74bc74>木属性ダメージ</color>を与える。","fr":"Tire une balle florale sur la cible. Elle explose au contact d'un ennemi et inflige des <color=#74bc74>DGT de Bois</color>."}
+{"id":1525629,"jp":"光の力を集め、対象地点の上空に光の槍を1本召喚する。命中したエネミーに攻撃力の{0}分の<color=#cfb55d>光属性ダメージ</color>を与える。","fr":"Concentre la puissance de la lumière et invoque 1 lance de lumière au-dessus de la zone ciblée. Inflige aux ennemis touchés des <color=#cfb55d>DGT de Lumière</color> égaux à {0} de l'ATQ."}
+{"id":1525803,"jp":"刻印1つにつき、自身の会心ダメージが2.2%増加する（最大10スタック）。","fr":"Augmente ses DGT CRIT de 2,2 % par Sceau (jusqu'à 10 cumuls)."}
 {"id":1525992,"jp":"特殊スキル","fr":"Compétence spéciale"}
+{"id":1526009,"jp":"上を向いて咆哮し、周囲のエネミーに最大で攻撃力の{0}分の<color=#69c0bd>氷属性ダメージ</color>を与える。命中したエネミーの移動速度を15%低下させる（効果時間：10秒）。","fr":"Lève la tête et rugit : inflige aux ennemis proches jusqu'à {0} de l'ATQ en <color=#69c0bd>DGT de Glace</color>. Réduit de 15 % la vitesse de déplacement des ennemis touchés (durée : 10 s)."}
 {"id":1526010,"jp":"騎乗スキル","fr":"Compétence de monture"}
 {"id":1526261,"jp":"空中戦","fr":"Combat aérien"}
 {"id":1526262,"jp":"チャージショット","fr":"Tir chargé"}
+{"id":1526340,"jp":"地面を強く叩き、エネミーに最大で攻撃力の{0}分の<color=#6f75d4>雷属性ダメージ</color>を与える。","fr":"Frappe violemment le sol et inflige aux ennemis jusqu'à {0} de l'ATQ en <color=#6f75d4>DGT de Foudre</color>."}
+{"id":1526618,"jp":"敵に突進し、雷電エネルギーを放出して、敵に最大で攻撃力の320%の<color=#6f75d4>雷属性ダメージ</color>を与える。","fr":"Fonce sur l'ennemi et libère une énergie électrique qui lui inflige jusqu'à 320 % de l'ATQ en <color=#6f75d4>DGT de Foudre</color>."}
 {"id":1526770,"jp":"チャージ攻撃・1段目","fr":"Attaque chargée - 1er coup"}
 {"id":1526771,"jp":"チャージ攻撃・2段目","fr":"Attaque chargée - 2e coup"}
 {"id":1526773,"jp":"ジャンプ攻撃","fr":"Attaque sautée"}
@@ -9846,6 +9917,11 @@
 {"id":1527263,"jp":"混血","fr":"Métis"}
 {"id":1527264,"jp":"妖狐","fr":"Renard spirituel"}
 {"id":1527265,"jp":"ドロッププレビュー","fr":"Aperçu du butin"}
+{"id":1527288,"jp":"凶獣に囲まれたふたり。ルミィは究極魔法を使おうとするが、シンフォーリアに止められる。膠着する状況のなか、ふたりは隙を突いて包囲を突破した。","fr":"Lumi et Symphoria sont cernées par des Bêtes maudites. Lumi veut lancer sa magie ultime, mais Symphoria l'en empêche. La situation s'enlise, puis toutes deux profitent d'une ouverture pour briser l'encerclement."}
+{"id":1527526,"jp":"渦のなかのスーニヤのエネルギーがカルマを侵食していく。幸いにもメーツァが、スーニヤを退けて浄化することができる「聖樹の護符」を持ってきた。一行はその加護を頼りにさらに深部を探索することにした……","fr":"Dans le tourbillon, l'énergie de la Sunya ronge peu à peu le Karma. Heureusement, Metsa a apporté des « Talismans de l'Arbre sacré », capables de repousser et de purifier la Sunya. Fort de cette protection, le groupe décide de s'enfoncer plus loin…"}
+{"id":1527665,"jp":"フリスへ向かう途中、蘭香子は突然フラウとブルーダに襲われた……","fr":"En route pour Fleece, Lan Xiangzi a soudain été attaquée par un Furau et un Bluda…"}
+{"id":1527667,"jp":"小玉を追いかける途中、突然怪しい者を見つけた……","fr":"En pleine poursuite de Xiaoyu, voilà qu'une personne suspecte apparaît soudain…"}
+{"id":1527795,"jp":"半朔の間に、灶娘はすでに小宝へ密かに思いを寄せていた。彼女の話によれば、小宝は巡回兵として偵察任務に就き、すでに砦を出発したという。悪縁の気配が次第に強まるのを感じ、一刻も早く郭小宝を見つけ出さなければならなかった。","fr":"En une demi-lune, Zao Niang s'était déjà secrètement éprise de Xiaobao. D'après elle, Xiaobao, soldat de patrouille, était parti en mission de reconnaissance et avait déjà quitté le fort. La présence des liens funestes se faisait de plus en plus forte : il fallait retrouver Guo Xiaobao au plus vite."}
 {"id":1527826,"jp":"ルミィ","fr":"Lumi"}
 {"id":1527828,"jp":"シフォン、危ない！","fr":"Chiffon, attention !"}
 {"id":1527829,"jp":"反撃のチャンス！","fr":"C'est le moment de contre-attaquer !"}
@@ -9979,6 +10055,7 @@
 {"id":1528651,"jp":"リアン","fr":"Lian"}
 {"id":1528659,"jp":"直接話してみようか？","fr":"On essaie de lui parler directement ?"}
 {"id":1528674,"jp":"追いかけてみよう。","fr":"Suivons-la."}
+{"id":1528679,"jp":"相変わらずの心配性だな。\n村長といい、あたしの実力はわかってるくせに。","fr":"Toujours à s'inquiéter pour un rien, hein.\nEt le chef du village pareil, alors qu'ils savent très bien de quoi je suis capable."}
 {"id":1528688,"jp":"リヤ","fr":"Riya"}
 {"id":1528690,"jp":"これで足りるかな。","fr":"Ça suffira ?"}
 {"id":1528691,"jp":"フィル","fr":"Phil"}
@@ -10137,6 +10214,7 @@
 {"id":1529706,"jp":"ラル、ケガは大丈夫？","fr":"Raru, comment va ta blessure ?"}
 {"id":1529713,"jp":"民兵隊隊員・グーグ","fr":"Guug, membre de la milice"}
 {"id":1529721,"jp":"うん、楽しみ。","fr":"Oui, j'ai hâte."}
+{"id":1529736,"jp":"ああ。子どものころ、師の付き添いで一度来たことがあるが。それもずいぶん昔の話だ。","fr":"Oui. Enfant, j'ai accompagné mon maître ici une fois. Mais cela remonte à bien longtemps."}
 {"id":1529750,"jp":"ええ、あなたは……？","fr":"Oui, vous êtes…… ?"}
 {"id":1529761,"jp":"あむ、あむっ！","fr":"Miam, miam !"}
 {"id":1529768,"jp":"楽しみだよ。","fr":"J'ai hâte."}
@@ -10200,6 +10278,7 @@
 {"id":1530226,"jp":"あれ？いない？","fr":"Hein ? Plus personne ?"}
 {"id":1530229,"jp":"これは……舞台？","fr":"C'est…… une scène ?"}
 {"id":1530244,"jp":"幽霊の村人","fr":"Villageois fantôme"}
+{"id":1530248,"jp":"陰の気が濃い？それってつまり、う……うぅ……","fr":"Une énergie yin très dense ? Ça veut dire que… que… hiii…"}
 {"id":1530260,"jp":"きゃー！！","fr":"Aaaah !!"}
 {"id":1530261,"jp":"また戻ってきたのか？","fr":"On est encore revenus ?"}
 {"id":1530279,"jp":"男の声","fr":"Voix d'homme"}
@@ -10243,6 +10322,7 @@
 {"id":1530541,"jp":"あはは……","fr":"Ah ah……"}
 {"id":1530584,"jp":"まだあるのか！？","fr":"Il y en a encore !?"}
 {"id":1530608,"jp":"凶獣だ！","fr":"Une Bête maudite !"}
+{"id":1530626,"jp":"あの装置のなかにあるのはタマゴみたいなのだ。","fr":"On dirait qu'il y a un œuf dans ce mécanisme."}
 {"id":1530640,"jp":"よ～しっ！","fr":"Allez !"}
 {"id":1530647,"jp":"扉が開いたのだ！","fr":"La porte s'est ouverte !"}
 {"id":1530655,"jp":"飛び移るのだ！","fr":"Il faut sauter dessus !"}
@@ -10348,3 +10428,93 @@
 {"id":1531317,"jp":"植物が好きな少女","fr":"Jeune fille passionnée de plantes"}
 {"id":1531324,"jp":"見習いファイター","fr":"Combattant débutant"}
 {"id":1531352,"jp":"これは……","fr":"C'est……"}
+{"id":1531357,"jp":"あれは……凶獣！？","fr":"C'est… une Bête maudite ?!"}
+{"id":1531360,"jp":"小玉！どこにいるの！","fr":"Xiaoyu ! Où es-tu ?!"}
+{"id":1531361,"jp":"ここは……居峡関？","fr":"C'est… le col de Juxia ?"}
+{"id":1531366,"jp":"逞しい兵士","fr":"Soldat robuste"}
+{"id":1531379,"jp":"衛兵","fr":"Garde"}
+{"id":1531390,"jp":"戦熊","fr":"Ours de guerre"}
+{"id":1531391,"jp":"オォーン！","fr":"Groooar !"}
+{"id":1531392,"jp":"後方支援兵士","fr":"Soldat de soutien arrière"}
+{"id":1531401,"jp":"灶娘","fr":"Zao Niang"}
+{"id":1531403,"jp":"見回りの兵士","fr":"Soldat en patrouille"}
+{"id":1531411,"jp":"外向的な新兵","fr":"Recrue sociable"}
+{"id":1531414,"jp":"真面目な新兵","fr":"Recrue sérieuse"}
+{"id":1531418,"jp":"ん？だれかいるのか？","fr":"Hum ? Il y a quelqu'un ?"}
+{"id":1531420,"jp":"逃げ足がはやいね……","fr":"Quelle rapidité pour prendre la fuite…"}
+{"id":1531422,"jp":"うん！追いかけよう！","fr":"Oui ! Partons à sa poursuite !"}
+{"id":1531431,"jp":"灶娘は……いないか。","fr":"Zao Niang… n'est pas là, on dirait."}
+{"id":1531444,"jp":"ワゥ……","fr":"Ouaf…"}
+{"id":1531446,"jp":"小玉……","fr":"Xiaoyu…"}
+{"id":1531451,"jp":"うん、よかった。","fr":"Oui, tant mieux."}
+{"id":1531452,"jp":"小玉！どこへ行くの？","fr":"Xiaoyu ! Où vas-tu ?"}
+{"id":1531621,"jp":"はあ、一戦交えないと、話もできないのかな……","fr":"Pff, faut-il vraiment se battre avant de pouvoir discuter…"}
+{"id":1532050,"jp":"最近は共通語だけじゃなく、応急手当ても勉強しているの。\nあなたを驚かせたいんですって――あっ、ごめんなさい。\nいまの……聞かなかったことにしてくれる？","fr":"Ces derniers temps, elle étudie les premiers secours en plus de la langue commune.\nElle veut créer la surprise, paraît-il… Oh, pardon.\nCe que je viens de dire… on fait comme si de rien n'était ?"}
+{"id":1532583,"jp":"こちらのキャバードなんだけど、まだお願いしたいことがあるみたいなの。\n助けてあげてねケロ！","fr":"Ce Cabbird aurait encore un service à demander.\nIl faudrait l'aider, coâ !"}
+{"id":1533315,"jp":"それは構わないけど、ラリンおばあちゃんが……","fr":"Ça ne me dérange pas, mais mamie Larin…"}
+{"id":1533655,"jp":"そういうことなら、しかたない……","fr":"Si c'est comme ça, tant pis…"}
+{"id":1534619,"jp":"今日も、鍛錬頑張らなきゃ……！","fr":"Aujourd'hui encore, je dois m'entraîner dur… !"}
+{"id":1534810,"jp":"やっぱりきみたちのだったのか……悪いことをしたな……\nでも、いきなり手を出さなくてもいいのに。|やっぱりきみたちのだったんだね……悪いことをしたね……\nでも、いきなり手を出さなくてもいいのに。","fr":"Alors c'était bien à vous… J'ai mal agi…\nMais vous n'étiez pas obligés d'attaquer comme ça, sans prévenir.|Alors c'était bien à vous… Pardon, j'ai mal agi…\nMais vous n'étiez pas obligés d'attaquer sans prévenir."}
+{"id":1535469,"jp":"ほのかな花の香りがして、おいしいね。","fr":"Il y a un léger parfum de fleur, c'est délicieux."}
+{"id":1536307,"jp":"なんだか、懐かしい……","fr":"Étrange… ça me semble familier…"}
+{"id":1536493,"jp":"話が違う！\n貝殻10個って約束だったはずよ！","fr":"Ce n'est pas ce qu'on avait dit !\nOn s'était mis d'accord sur 10 coquillages !"}
+{"id":1536861,"jp":"若者よ、はじめて見たときから思っておった……\nおぬしはわしが若き時分に会った友とよく似ておる。\nもしかして血の繋がりがあったりしてな。","fr":"Ah, jeunesse… j'y pense depuis notre première rencontre…\nTu ressembles fort à un ami que j'avais dans mes jeunes années.\nPeut-être avez-vous un lien de sang, qui sait."}
+{"id":1537486,"jp":"ん～今日はルルカのお手製料理だったけどさ。\nいつもはだいたい携帯してる干し肉を食べることが多いんだ。","fr":"Mmh~ aujourd'hui, c'était un plat maison de Luruka.\nMais d'habitude, je mange surtout la viande séchée que je garde sur moi."}
+{"id":1538446,"jp":"あれ？シャーマンさま、どうしてここに！？","fr":"Hein ? Chamane, que faites-vous ici !?"}
+{"id":1539231,"jp":"うーん、この子ってまさか……","fr":"Hmm, ce petit être, ce ne serait pas…"}
+{"id":1539349,"jp":"待ってください！\n<ruby=ホークガル>鷹主</ruby>さま、どこに行くんですか？","fr":"Attendez !\nSeigneur Faucon, où allez-vous ?"}
+{"id":1539796,"jp":"ミィティを見守るだけのつもりが、大変なこと続きだったのだ～\nでかい鳥も出たし……まあ、無事任務も果たせて、めでたしめでた……","fr":"Je comptais juste veiller sur Mitty, mais les ennuis se sont enchaînés~\nEt puis cet oiseau géant… Enfin, la mission est accomplie sans encombre, tout est bien qui finit bi…"}
+{"id":1540261,"jp":"こっちは集め終わったよ！\nなんだか、よく見るとこのフレイザーの葉って、地面に散らばった火種みたいだね。","fr":"J'ai fini de ramasser par ici !\nEn regardant bien, ces feuilles de fraser ressemblent à des braises éparpillées sur le sol."}
+{"id":1541133,"jp":"ここのカルマはたしかにほかの場所に比べて安定しているわ……\nあの方の力が、いまもここを守っているのでしょうね。","fr":"Le Karma d'ici est en effet plus stable qu'ailleurs…\nSon pouvoir doit encore veiller sur ces lieux aujourd'hui."}
+{"id":1542001,"jp":"もはや……ここまでなのでしょうか……","fr":"Est-ce donc… la fin…"}
+{"id":1542017,"jp":"「私の歩みは、お前とともにあるーー」","fr":"« Mes pas accompagneront toujours les tiens… »"}
+{"id":1542264,"jp":"キボたちを除けば、あなたはこの谷で出会ったはじめてのお友達。\n私にとって、あなたと過ごした時間は本当にかけがえのないものだった。","fr":"Les Kibo mis à part, tu es la première amie que je me sois faite dans cette vallée.\nLe temps passé avec toi a vraiment été précieux pour moi."}
+{"id":1542899,"jp":"けど、ここはちょっと狭いから、本領は発揮できないかも……","fr":"Mais c'est un peu étroit ici, il ne pourra peut-être pas montrer tout son potentiel…"}
+{"id":1543823,"jp":"フリスに来る旅行者さんはみんな疑問に思うみたいだけど。\n単純な理由でね……","fr":"Tous les voyageurs qui viennent à Fleece se posent la question, on dirait.\nLa raison est simple…"}
+{"id":1544741,"jp":"そんな……わたくしはこのさき、どうすればよいのでしょうか……\n幽霊でないなら、消えることもできないではありませんか！","fr":"Non… Que vais-je devenir désormais…\nSi je ne suis pas un fantôme, je ne peux même pas disparaître !"}
+{"id":1545086,"jp":"アハハ、その通り！\nなかに入ってるのは、すべてフリスの葡萄園で醸造された上質なワインだよ。\n領主さまがロージア帝国の皇室のために、特別に用意された品だ。","fr":"Ha ha, tout juste !\nCe qu'il y a dedans, c'est du vin de qualité, tout entier produit dans les vignobles de Fleece.\nLe seigneur l'a fait préparer spécialement pour la famille impériale de l'Empire de Rosia."}
+{"id":1545093,"jp":"この樽、酒の匂いがまったくしないのだ……","fr":"Ces tonneaux ne sentent pas du tout l'alcool…"}
+{"id":1545671,"jp":"雨だ！雨が降ってきたのだ！","fr":"La pluie ! Il se met à pleuvoir !"}
+{"id":1546340,"jp":"そう。うちはここでね。\n一番サクサクのシュガーパイを『看破』して、\n『勇気』を振り絞って一気に30個平らげちゃうつもり！","fr":"Exactement. Voilà mon plan.\nJe vais « percer à jour » la tarte au sucre la plus croustillante,\npuis rassembler tout mon « courage » pour en engloutir 30 d'un coup !"}
+{"id":1546628,"jp":"もちろん！うちのボスだって食えるさ！2杯でも！","fr":"Bien sûr ! Notre boss aussi peut en manger ! Et même deux bols !"}
+{"id":1547590,"jp":"ああ、任せておけ。民兵隊は皆、私が鍛えたんだ。\nケガしたときの指導も、私が務めてきた。","fr":"Oui, comptez sur moi. Tous les membres de la milice, c'est moi qui les ai entraînés.\nEt c'est aussi moi qui encadrais ceux qui se remettaient d'une blessure."}
+{"id":1548269,"jp":"ひとつくらいならバレないはずーー","fr":"Personne ne remarquera s'il en manque un seul…"}
+{"id":1548623,"jp":"えへへっ。そうだったらうれしいな。","fr":"Héhé. Si c'est vrai, ça me fait plaisir."}
+{"id":1548861,"jp":"キボファイトは奥が深く、その道のりも長く険しいにゃ。\nだれもが認めるスーパーグランドマスターを目指して、\nこれからも頑張ってね、ファイターさん！","fr":"Le Duel de Kibo est un art profond, et sa voie est longue et ardue, nya.\nEn route vers le titre de Super Grand Maître que tous reconnaîtront :\nbon courage pour la suite !"}
+{"id":1549534,"jp":"ふぅ……危うくバレちゃうところだった……","fr":"Ouf… j'ai failli me faire prendre…"}
+{"id":1550475,"jp":"うん、悪くないね。僕も混ぜて！|うん、悪くないね。私も混ぜて！","fr":"Ouais, pas mal. Je suis de la partie !|Ouais, pas mal. Je suis de la partie !"}
+{"id":1550518,"jp":"あ、あれっ？\nこの石、なんだか妙にあたたかい……","fr":"T-tiens ?\nCette pierre est étrangement chaude…"}
+{"id":1551345,"jp":"だから、もう僕に慣れてるんだと思う。すごく近づいてもあまり気にしていないみたい。\nそれに、あの子はとても賢いんだ。\nすこし怒りっぽいけど、こちらから手出しさえしなければ、攻撃してくることはめったにないんだよ。","fr":"C'est pour ça qu'il est habitué à moi, je crois. Même quand je m'approche tout près, ça n'a pas l'air de le gêner.\nEt puis, il est très intelligent.\nIl s'énerve un peu facilement, mais tant qu'on ne le provoque pas, il attaque rarement."}
+{"id":1551609,"jp":"ここまでの出来事を伝えた。","fr":"Récit de tout ce qui s'est passé jusqu'ici."}
+{"id":1552505,"jp":"そうです。家宅に賊が入るなど、小事ではございません。それを軽んじるのは……","fr":"Exactement. Un cambriolage n'est pas une mince affaire. Le prendre à la légère serait…"}
+{"id":1552632,"jp":"メルトレイク……いまはもう雷の音はしてないみたいだ。\nけど、念のため調査しておいたほうが良さそうだね。|メルトレイク……いまはもう雷の音はしてないみたいね。\nけど、念のため調査しておいたほうが良さそう。","fr":"Melt Lake… on dirait que le tonnerre s'est tu.\nMais par précaution, mieux vaut aller enquêter.|Melt Lake… on dirait que le tonnerre s'est tu.\nMais par précaution, il vaudrait mieux aller enquêter."}
+{"id":1553461,"jp":"だから私、考えてるの。どうしたらまた笑顔になってくれるのかなって。","fr":"Alors je réfléchis. Comment faire pour qu'il retrouve le sourire ?"}
+{"id":1553651,"jp":"シロロ&寒悠悠&{playerName}","fr":"Shiroro & Han Youyou & {playerName}"}
+{"id":1554115,"jp":"……やはり隠せませんね。わたしは確かにこのフログーレを知っています。\nおそらくマチルダ院長の友人、リンデアンナさんのキボだと思われます。","fr":"… Je ne peux décidément rien cacher. Oui, je connais ce Frogure.\nC'est sans doute le Kibo de Lindeanna, une amie de la directrice Matilda."}
+{"id":1554422,"jp":"はあ、そうだ……いまは船を川に降ろすことさえできない。\nもしボマークの数がまた増えたら、川一帯が大変な目に遭うだろうな。","fr":"Ah, oui… En ce moment, je ne peux même pas mettre mon bateau à l'eau.\nSi le nombre de Bomark augmente encore, toute la rivière va en pâtir."}
+{"id":1555841,"jp":"シンフォーリアの加勢によって戦闘に完全勝利し、凶獣はすべて殲滅された。星臨者は彼女から、アビィがイグドラシルの若木のもとで傷を癒していると聞かされた。だが急を要するのは、やはり翼人の負傷者を里まで護送することだろう。","fr":"Grâce au renfort de Symphoria, le combat s'est soldé par une victoire totale et toutes les Bêtes maudites ont été anéanties. Symphoria a appris à l'Enfant des étoiles qu'Abby soignait ses blessures auprès de la jeune pousse d'Yggdrasil. Mais le plus urgent reste d'escorter les Ailés blessés jusqu'à leur village."}
+{"id":1555946,"jp":"大会が幕を閉じ、村民たちがそれぞれ動き出した。そんな折、道端にうずくまる一匹のモフンガが星臨者の目を引く。どうやら助けが必要なようだ……","fr":"Le tournoi s'est achevé et les villageois sont repartis chacun de leur côté. C'est alors qu'un Mohunga recroquevillé au bord du chemin attire l'attention de l'Enfant des étoiles. Il semble avoir besoin d'aide…"}
+{"id":1556551,"jp":"ティティとノノが中立都市フリスへ仕入れに行こうとしている。ふたりは、あなたが最近気を張りすぎているのではないかと心配し、気分転換にフリスまで一緒に行こうと誘ってくれた。","fr":"Tiffy et Nono s'apprêtent à partir s'approvisionner à Fleece, la cité neutre. Elles trouvent que l'Enfant des étoiles est bien sur les nerfs ces derniers temps et lui proposent de les accompagner à Fleece pour se changer les idées."}
+{"id":1556751,"jp":"リリカの購買店で金麦の種を4つ購入する","fr":"Acheter 4 graines de blé doré à la boutique de Lyrica"}
+{"id":1557394,"jp":"リサおばあちゃんと話す","fr":"Parler à mamie Lisa"}
+{"id":1558323,"jp":"最近のマルチプレイ履歴","fr":"Historique multijoueur récent"}
+{"id":1558473,"jp":"スタミナが上限に達しています。","fr":"L'endurance a atteint sa limite."}
+{"id":1560155,"jp":"キャラクターは現在寮に入居できません。","fr":"Ce personnage ne peut pas s'installer au dortoir pour le moment."}
+{"id":1560295,"jp":"メイン／サブストーリークエスト","fr":"Quêtes principales / annexes"}
+{"id":1562032,"jp":"まもなくマッチングを終了します！残り%d秒","fr":"La recherche de partenaires va bientôt s'arrêter ! Encore %d s"}
+{"id":1562957,"jp":"普通のキボのタマゴ-ガドリ","fr":"Œuf de Kibo ordinaire - Gadori"}
+{"id":1563076,"jp":"具合の悪いところはないかしら？","fr":"Pas de douleur quelque part ?"}
+{"id":1658549,"jp":"チーム全体の水・光属性ダメージが10%増加する（300秒間）。","fr":"Augmente de 10 % les DGT d'Eau et de Lumière de toute l'équipe (pendant 300 s)."}
+{"id":1658630,"jp":"上限に達していない時に変異が発生すると、<color={highlight}>因子はそのまま追加される</color>だけだけど……","fr":"Si une mutation se produit sous la limite, <color={highlight}>le facteur est simplement ajouté</color>, mais…"}
+{"id":1659144,"jp":"ファイアボールを放ってエネミーを攻撃する。さらに、自身もファイアボールに変わってエネミーへ突進し、<color=#d25556>火属性ダメージ</color>を与える。自身のHPが高い時は会心率が上昇する。","fr":"Lance une boule de feu sur les ennemis, puis se transforme à son tour en boule de feu pour foncer sur eux et leur infliger des <color=#d25556>DGT de Feu</color>. Le Taux CRIT augmente quand les PV sont élevés."}
+{"id":1659836,"jp":"ち、ちがう。ノノ、寝てない……すぅ……","fr":"N-non. Nono, dort pas… zzz…"}
+{"id":1659928,"jp":"んん……星臨者さま……","fr":"Mmh… Enfant des étoiles…"}
+{"id":1661708,"jp":"いつも温かな笑顔を浮かべ、春風のように穏やかなウッドエルフの少女。\n故郷のロースランサでは、次世代で随一の弓の使い手と認められ、郷の警備も任されていた期待の新星。\n使命を背負い、新たな旅路をゆくいまも、\n故郷と同胞の祝福はそよ風のように彼女に寄り添っている。","fr":"Une jeune Elfe des bois au sourire toujours chaleureux, douce comme une brise de printemps.\nDans sa terre natale de Lors Lains, elle était reconnue comme la meilleure archère de la nouvelle génération, une étoile montante à qui l'on avait même confié la garde du village.\nAujourd'hui encore, alors qu'elle suit un nouveau chemin, chargée de sa mission,\nles bénédictions de sa terre natale et des siens l'accompagnent comme une brise légère."}
+{"id":1662057,"jp":"キボファイト中、同時に出撃できるキボは最大<color={highlight}>3体まで</color>です。\nフィールドにすでに3体いる場合は、現在のキボの中から1体を選んで<color={highlight}>入れ替え</color>る必要があります。","fr":"En Duel de Kibo, il est possible d'engager jusqu'à <color={highlight}>3 Kibo</color> à la fois.\nSi 3 Kibo sont déjà sur le terrain, il faut en choisir un parmi eux à <color={highlight}>remplacer</color>."}
+{"id":1662231,"jp":"異なる種類のキボ40体とスターリンクする","fr":"Nouer un Lien stellaire avec 40 espèces de Kibo différentes"}
+{"id":1662398,"jp":"この名前、ちょっと大げさじゃない？なんだかすごく派手な秘密の武器みたいで……もしかして、きみがもってるこっちのイメージってこんな感じなの？","fr":"Ce nom n'est pas un peu exagéré ? On dirait une arme secrète tape-à-l'œil… C'est donc l'image que je donne ?"}
+{"id":1662752,"jp":"瘴気の渦のなか、星臨者と小玉は凶獣との戦闘を開始し、居峡関の兵士たちも次第に加わっていった。この感覚は岐路の幻境というより、まるで……","fr":"Au cœur du tourbillon de miasmes, l'Enfant des étoiles et Xiaoyu ont engagé le combat contre les Bêtes maudites, et les soldats de la col de Juxia sont peu à peu venus prêter main-forte. Cette sensation ressemblait moins à une Illusion de la croisée des chemins qu'à…"}
+{"id":1663628,"jp":"潮汐の円環が更新されました。","fr":"Le Cercle des marées a été mis à jour."}
+{"id":1663648,"jp":"クロディーメが他のキボたちと混ざってしまいました。クロディーメが全部で何体いるか、コロコロのために数えてあげましょう。\n他のキボを驚かせないように気をつけてください。","fr":"Les Clodime se sont mélangés aux autres Kibo. Comptez combien il y a de Clodime en tout pour aider Korokoro.\nAttention à ne pas effrayer les autres Kibo."}
+{"id":1664252,"jp":"ルイーザの家の玄関には、自家製の魚の塩漬けがつるされている。ある日帰宅すると、心優しき者が残したフルーツ風味の魚の塩漬けレシピが置いてあった。ルイーザがそのレシピを試してみると、自分のレシピを使ったものよりはるかにおいしく仕上がった！","fr":"À l'entrée de la maison de Louisa pend du poisson salé fait maison. Un jour, en rentrant, elle a trouvé une recette de poisson salé aux fruits laissée par une âme charitable. Louisa l'a essayée, et le résultat était bien meilleur qu'avec sa propre recette !"}
+{"id":1664439,"jp":"<actionkey>GamepadUI/GamepadUI_West</actionkey> で<color={highlight}>エンディング</color>へ","fr":"<actionkey>GamepadUI/GamepadUI_West</actionkey> : voir la <color={highlight}>fin</color>"}
