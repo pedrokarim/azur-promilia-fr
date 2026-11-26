@@ -19802,137 +19802,317 @@
 {"id":1517948,"jp":"ファイト・芽吹の谷・四","fr":"Duel - Vallée des Bourgeons IV"}
 {"id":1517949,"jp":"芽吹の谷のキボファイト・エリアレベルを10にする","fr":"Atteindre le niveau de zone 10 du Duel de Kibo dans la Vallée des Bourgeons"}
 {"id":1517950,"jp":"ファイト・フリス・一","fr":"Duel à Fleece I"}
+{"id":1517951,"jp":"フリスのキボファイト・エリアレベルを3にする","fr":"Atteindre le niveau de zone 3 du Duel de Kibo à Fleece"}
 {"id":1517952,"jp":"ファイト・フリス・二","fr":"Duel à Fleece II"}
+{"id":1517953,"jp":"フリスのキボファイト・エリアレベルを5にする","fr":"Atteindre le niveau de zone 5 du Duel de Kibo à Fleece"}
 {"id":1517954,"jp":"ファイト・フリス・三","fr":"Duel à Fleece III"}
+{"id":1517955,"jp":"フリスのキボファイト・エリアレベルを8にする","fr":"Atteindre le niveau de zone 8 du Duel de Kibo à Fleece"}
+{"id":1517956,"jp":"キボファイト・参陣対決に1回参加する","fr":"Participer 1 fois au Duel de Kibo - Confrontation amicale"}
+{"id":1517957,"jp":"誘いの時、友情の勝負！","fr":"Invitez vos amis, place au duel de l'amitié !"}
+{"id":1517958,"jp":"キボファイト・星冠杯に1回参加する","fr":"Participer 1 fois au Duel de Kibo - Coupe de la couronne stellaire"}
+{"id":1517959,"jp":"ファイトの頂点、すなわち星冠の名を冠せよ！","fr":"Atteignez le sommet des duels et décrochez la couronne stellaire !"}
 {"id":1517960,"jp":"星絆の道のり・二","fr":"Chemin du Lien stellaire II"}
+{"id":1517961,"jp":"キャラクター1体のレベルを50にする","fr":"Monter 1 personnage au niveau 50"}
 {"id":1517962,"jp":"星絆の道のり・四","fr":"Chemin du Lien stellaire IV"}
+{"id":1517963,"jp":"キャラクター2体のレベルを60にする","fr":"Monter 2 personnages au niveau 60"}
 {"id":1517964,"jp":"星絆の道のり・五","fr":"Chemin du Lien stellaire V"}
+{"id":1517965,"jp":"キャラクター3体のレベルを70にする","fr":"Monter 3 personnages au niveau 70"}
 {"id":1517966,"jp":"星絆の道のり・六","fr":"Chemin du Lien stellaire VI"}
+{"id":1517967,"jp":"キャラクター3体のレベルを80にする","fr":"Monter 3 personnages au niveau 80"}
 {"id":1517968,"jp":"星絆の道のり・七","fr":"Chemin du Lien stellaire VII"}
+{"id":1517969,"jp":"キャラクター3体のレベルを90にする","fr":"Monter 3 personnages au niveau 90"}
 {"id":1517970,"jp":"星絆の道のり・八","fr":"Chemin du Lien stellaire VIII"}
+{"id":1517971,"jp":"キャラクター1体のレベルを100にする","fr":"Monter 1 personnage au niveau 100"}
 {"id":1517972,"jp":"星絆の道のり・九","fr":"Chemin du Lien stellaire IX"}
+{"id":1517973,"jp":"キャラクター3体のレベルを100にする","fr":"Monter 3 personnages au niveau 100"}
 {"id":1517974,"jp":"星絆の道のり・十","fr":"Chemin du Lien stellaire X"}
+{"id":1517975,"jp":"キャラクター5体のレベルを100にする","fr":"Monter 5 personnages au niveau 100"}
 {"id":1517976,"jp":"彼女とともに・一","fr":"À ses côtés I"}
+{"id":1517977,"jp":"キャラクターのレベルを1回上げる","fr":"Augmenter 1 fois le niveau d'un personnage"}
+{"id":1517978,"jp":"編成中のキャラクター3体にアニマを装備する","fr":"Équiper un Anima sur chacun des 3 personnages de l'équipe"}
 {"id":1517979,"jp":"輝かしい記憶・二","fr":"Souvenirs radieux II"}
+{"id":1517980,"jp":"アニマ1個のレベルを50にする","fr":"Monter 1 Anima au niveau 50"}
 {"id":1517981,"jp":"輝かしい記憶・三","fr":"Souvenirs radieux III"}
+{"id":1517982,"jp":"アニマ3個のレベルを70にする","fr":"Monter 3 Anima au niveau 70"}
 {"id":1517983,"jp":"輝かしい記憶・四","fr":"Souvenirs radieux IV"}
+{"id":1517984,"jp":"アニマ3個のレベルを90にする","fr":"Monter 3 Anima au niveau 90"}
 {"id":1517985,"jp":"輝かしい記憶・五","fr":"Souvenirs radieux V"}
+{"id":1517986,"jp":"アニマ1個のレベルを100にする","fr":"Monter 1 Anima au niveau 100"}
 {"id":1517987,"jp":"輝かしい記憶・六","fr":"Souvenirs radieux VI"}
+{"id":1517988,"jp":"アニマ3個のレベルを100にする","fr":"Monter 3 Anima au niveau 100"}
 {"id":1517989,"jp":"輝かしい記憶・七","fr":"Souvenirs radieux VII"}
+{"id":1517990,"jp":"アニマ5個のレベルを100にする","fr":"Monter 5 Anima au niveau 100"}
+{"id":1517991,"jp":"アニマのレベルを1回上げる","fr":"Augmenter 1 fois le niveau d'un Anima"}
 {"id":1517992,"jp":"想いを伝える・一","fr":"Dire ses sentiments I"}
+{"id":1517993,"jp":"任意のキャラクターに1回プレゼントを贈る","fr":"Offrir 1 cadeau à un personnage au choix"}
 {"id":1517994,"jp":"二人の関係は、少しずつ築いていくものよ。だから……ちゃんとプレゼントを選んで、渡してみなさい。","fr":"Une relation se construit petit à petit. Alors… choisis bien un cadeau et essaie de l'offrir."}
 {"id":1517995,"jp":"想いを伝える・二","fr":"Dire ses sentiments II"}
+{"id":1517996,"jp":"任意のキャラクターに5回プレゼントを贈る","fr":"Offrir 5 cadeaux à un personnage au choix"}
 {"id":1517997,"jp":"心を通わせる・一","fr":"Cœurs à l'unisson I"}
+{"id":1517998,"jp":"キャラクター1体の好感度をレベル5にする","fr":"Atteindre le niveau d'affinité 5 avec 1 personnage"}
 {"id":1517999,"jp":"互いを知ろうとする意志さえあれば、心を通わせることなんて自然と叶うものさ！","fr":"Pourvu qu'on ait la volonté de se connaître, se rapprocher vient tout seul, tu sais !"}
 {"id":1518000,"jp":"心を通わせる・二","fr":"Cœurs à l'unisson II"}
+{"id":1518001,"jp":"キャラクター1体の好感度をレベル10にする","fr":"Atteindre le niveau d'affinité 10 avec 1 personnage"}
+{"id":1518002,"jp":"キャラクター1体の星祝を昇臨度IVにする","fr":"Porter la Bénédiction stellaire de 1 personnage au rang d'Ascension IV"}
+{"id":1518003,"jp":"キャラクター1体の星祝を昇臨度VIIIにする","fr":"Porter la Bénédiction stellaire de 1 personnage au rang d'Ascension VIII"}
 {"id":1518004,"jp":"星祝の階段・五","fr":"Marches de la Bénédiction stellaire V"}
+{"id":1518005,"jp":"キャラクター3体の星祝を昇臨度VIIIにする","fr":"Porter la Bénédiction stellaire de 3 personnages au rang d'Ascension VIII"}
 {"id":1518006,"jp":"星祝の階段・六","fr":"Marches de la Bénédiction stellaire VI"}
+{"id":1518007,"jp":"キャラクター1体の星祝を昇臨度XIIにする","fr":"Porter la Bénédiction stellaire de 1 personnage au rang d'Ascension XII"}
 {"id":1518008,"jp":"星祝の階段・七","fr":"Marches de la Bénédiction stellaire VII"}
+{"id":1518009,"jp":"キャラクター3体の星祝を昇臨度XIIにする","fr":"Porter la Bénédiction stellaire de 3 personnages au rang d'Ascension XII"}
 {"id":1518010,"jp":"星祝の階段・八","fr":"Marches de la Bénédiction stellaire VIII"}
+{"id":1518011,"jp":"キャラクター5体の星祝を昇臨度XIIにする","fr":"Porter la Bénédiction stellaire de 5 personnages au rang d'Ascension XII"}
+{"id":1518012,"jp":"任意のキャラクターに装備を5つ装備する","fr":"Munir un personnage au choix de 5 équipements"}
+{"id":1518013,"jp":"装備が整うほど、戦力も強くなる！","fr":"Plus vos équipements sont complets, plus votre puissance de combat augmente !"}
 {"id":1518014,"jp":"準備万端・一","fr":"Tout est prêt I"}
 {"id":1518015,"jp":"キャラクターに青色レアリティ以上の装備を5つ装備する","fr":"Équiper 5 pièces d'équipement de rareté bleue ou supérieure sur un personnage"}
+{"id":1518016,"jp":"装備のランクが高ければ高いほど、戦力も強くなる！","fr":"Plus le rang de vos équipements est élevé, plus votre puissance de combat augmente !"}
 {"id":1518017,"jp":"準備万端・二","fr":"Tout est prêt II"}
 {"id":1518018,"jp":"キャラクターに紫色レアリティ以上の装備を5つ装備する","fr":"Équiper 5 pièces d'équipement de rareté violette ou supérieure sur un personnage"}
 {"id":1518019,"jp":"準備万端・三","fr":"Tout est prêt III"}
 {"id":1518020,"jp":"キャラクターに金色レアリティ以上の装備を5つ装備する","fr":"Équiper 5 pièces d'équipement de rareté dorée ou supérieure sur un personnage"}
 {"id":1518021,"jp":"装備強化・二","fr":"Amélioration d'équipement II"}
+{"id":1518022,"jp":"1つの装備を+3まで強化する","fr":"Renforcer 1 équipement jusqu'à +3"}
 {"id":1518023,"jp":"装備強化・三","fr":"Amélioration d'équipement III"}
+{"id":1518024,"jp":"1つの装備を+6まで強化する","fr":"Renforcer 1 équipement jusqu'à +6"}
 {"id":1518025,"jp":"装備強化・四","fr":"Amélioration d'équipement IV"}
+{"id":1518026,"jp":"3つの装備を+6まで強化する","fr":"Renforcer 3 équipements jusqu'à +6"}
 {"id":1518027,"jp":"全身武装・一","fr":"Équipement de pied en cap I"}
+{"id":1518028,"jp":"任意のキャラクターのすべての装備を+6まで強化する","fr":"Renforcer tous les équipements d'un personnage au choix jusqu'à +6"}
 {"id":1518029,"jp":"強者には鋭き刃を！","fr":"Aux forts, une lame acérée !"}
 {"id":1518030,"jp":"全身武装・二","fr":"Équipement de pied en cap II"}
+{"id":1518031,"jp":"任意のキャラクターのすべての装備を+9まで強化する","fr":"Renforcer tous les équipements d'un personnage au choix jusqu'à +9"}
 {"id":1518032,"jp":"全身武装・三","fr":"Équipement de pied en cap III"}
 {"id":1518033,"jp":"任意のキャラクターのすべての装備を+12まで強化する","fr":"Renforcer tous les équipements d'un personnage au choix jusqu'à +12"}
 {"id":1518034,"jp":"装備強化・五","fr":"Amélioration d'équipement V"}
+{"id":1518035,"jp":"1つの装備を+15まで強化する","fr":"Renforcer 1 équipement jusqu'à +15"}
 {"id":1518036,"jp":"入魂研磨・一","fr":"Polissage inspiré I"}
 {"id":1518037,"jp":"装備の★を1回増やす","fr":"Ajouter 1 ★ à un équipement"}
+{"id":1518038,"jp":"精巧な技術で鍛え、光沢を引き出し見事な器へ","fr":"Forgez avec finesse, révélez l'éclat du métal et créez une pièce d'exception."}
 {"id":1518039,"jp":"入魂研磨・二","fr":"Polissage inspiré II"}
+{"id":1518040,"jp":"1つの装備を★2にする","fr":"Porter 1 équipement à ★2"}
 {"id":1518041,"jp":"入魂研磨・三","fr":"Polissage inspiré III"}
+{"id":1518042,"jp":"1つの装備を★3にする","fr":"Porter 1 équipement à ★3"}
 {"id":1518043,"jp":"入魂研磨・四","fr":"Polissage inspiré IV"}
+{"id":1518044,"jp":"3つの装備を★3にする","fr":"Porter 3 équipements à ★3"}
 {"id":1518045,"jp":"全身武装・四","fr":"Équipement de pied en cap IV"}
+{"id":1518046,"jp":"任意のキャラクターのすべての装備を★3にする","fr":"Porter tous les équipements d'un personnage au choix à ★3"}
 {"id":1518047,"jp":"全身武装・五","fr":"Équipement de pied en cap V"}
+{"id":1518048,"jp":"任意のキャラクターのすべての装備を★4にする","fr":"Porter tous les équipements d'un personnage au choix à ★4"}
 {"id":1518049,"jp":"全身武装・六","fr":"Équipement de pied en cap VI"}
+{"id":1518050,"jp":"任意のキャラクターのすべての装備を★5にする","fr":"Porter tous les équipements d'un personnage au choix à ★5"}
+{"id":1518051,"jp":"メロウミー1匹とスターリンクする","fr":"Former un Lien stellaire avec 1 Mellowmee"}
+{"id":1518052,"jp":"次にスターリンクすべきキボは……メロウミーだ。","fr":"Le prochain Kibo avec lequel former un Lien stellaire sera… Mellowmee."}
+{"id":1518053,"jp":"ピョンルー1匹とスターリンクする","fr":"Former un Lien stellaire avec 1 Pyonloo"}
+{"id":1518054,"jp":"次にスターリンクすべきキボは……ピョンルーだ。","fr":"Le prochain Kibo avec lequel former un Lien stellaire sera… Pyonloo."}
 {"id":1518055,"jp":"キボの多様性・一","fr":"Diversité des Kibo I"}
+{"id":1518056,"jp":"異なる種類のキボ10匹とスターリンクする","fr":"Former un Lien stellaire avec 10 espèces différentes de Kibo"}
 {"id":1518057,"jp":"キボの多様性・二","fr":"Diversité des Kibo II"}
+{"id":1518058,"jp":"異なる種類のキボ30匹とスターリンクする","fr":"Former un Lien stellaire avec 30 espèces différentes de Kibo"}
 {"id":1518059,"jp":"キボの多様性・三","fr":"Diversité des Kibo III"}
+{"id":1518060,"jp":"異なる種類のキボ40匹とスターリンクする","fr":"Former un Lien stellaire avec 40 espèces différentes de Kibo"}
 {"id":1518061,"jp":"キボの多様性・四","fr":"Diversité des Kibo IV"}
+{"id":1518062,"jp":"異なる種類のキボ50匹とスターリンクする","fr":"Former un Lien stellaire avec 50 espèces différentes de Kibo"}
+{"id":1518063,"jp":"アマルテイア1匹とスターリンクする","fr":"Former un Lien stellaire avec 1 Amalthea"}
+{"id":1518064,"jp":"次にスターリンクすべきキボは……アマルテイアだ。","fr":"Le prochain Kibo avec lequel former un Lien stellaire sera… Amalthea."}
+{"id":1518065,"jp":"セレーシャ1匹とスターリンクする","fr":"Former un Lien stellaire avec 1 Celesha"}
+{"id":1518066,"jp":"次にスターリンクすべきキボは……セレーシャだ。","fr":"Le prochain Kibo avec lequel former un Lien stellaire sera… Celesha."}
 {"id":1518067,"jp":"キボの相棒・一","fr":"Partenaires Kibo I"}
 {"id":1518068,"jp":"キボの相棒・二","fr":"Partenaires Kibo II"}
+{"id":1518069,"jp":"キボ30匹とスターリンクする","fr":"Former un Lien stellaire avec 30 Kibo"}
 {"id":1518070,"jp":"キボの相棒・三","fr":"Partenaires Kibo III"}
+{"id":1518071,"jp":"キボ50匹とスターリンクする","fr":"Former un Lien stellaire avec 50 Kibo"}
 {"id":1518072,"jp":"キボの相棒・四","fr":"Partenaires Kibo IV"}
+{"id":1518073,"jp":"キボ100匹とスターリンクする","fr":"Former un Lien stellaire avec 100 Kibo"}
+{"id":1518074,"jp":"ガヤック1匹とスターリンクする","fr":"Former un Lien stellaire avec 1 Gayak"}
+{"id":1518075,"jp":"次にスターリンクするキボは……ガヤック","fr":"Le prochain Kibo avec lequel former un Lien stellaire sera… Gayak !"}
 {"id":1518076,"jp":"キボ成長・一","fr":"Croissance des Kibo I"}
+{"id":1518077,"jp":"任意のキボを1回進化させる","fr":"Faire évoluer 1 Kibo au choix"}
+{"id":1518078,"jp":"キボは進化すると、見た目がガラリと変わるんだよ～","fr":"Quand un Kibo évolue, son apparence change du tout au tout !"}
 {"id":1518079,"jp":"キボを育てる・三","fr":"Élever des Kibo III"}
+{"id":1518080,"jp":"レベル50のキボを1匹所持する","fr":"Posséder 1 Kibo de niveau 50"}
 {"id":1518081,"jp":"絆を育む・二","fr":"Renforcer le Lien II"}
+{"id":1518082,"jp":"チーム編成にレベル60のキボを3匹入れる","fr":"Inclure 3 Kibo de niveau 60 dans l'équipe"}
 {"id":1518083,"jp":"絆を育む・三","fr":"Renforcer le Lien III"}
+{"id":1518084,"jp":"チーム編成にレベル70のキボを3匹入れる","fr":"Inclure 3 Kibo de niveau 70 dans l'équipe"}
 {"id":1518085,"jp":"絆を育む・四","fr":"Renforcer le Lien IV"}
+{"id":1518086,"jp":"チーム編成にレベル80のキボを3匹入れる","fr":"Inclure 3 Kibo de niveau 80 dans l'équipe"}
 {"id":1518087,"jp":"絆を育む・五","fr":"Renforcer le Lien V"}
+{"id":1518088,"jp":"チーム編成にレベル90のキボを3匹入れる","fr":"Inclure 3 Kibo de niveau 90 dans l'équipe"}
 {"id":1518089,"jp":"キボを育てる・四","fr":"Élever des Kibo IV"}
+{"id":1518090,"jp":"レベル100のキボを1匹所持する","fr":"Posséder 1 Kibo de niveau 100"}
 {"id":1518091,"jp":"キボとともに成長・六","fr":"Grandir avec les Kibo VI"}
+{"id":1518092,"jp":"チーム編成にレベル100のキボを3匹入れる","fr":"Inclure 3 Kibo de niveau 100 dans l'équipe"}
+{"id":1518093,"jp":"キボのレベルアップ・五","fr":"Hausse de niveau des Kibo V"}
+{"id":1518094,"jp":"レベル100のキボを6匹所持する","fr":"Posséder 6 Kibo de niveau 100"}
 {"id":1518095,"jp":"キボを鍛える・一","fr":"Entraîner des Kibo I"}
+{"id":1518096,"jp":"任意のキボの源脈を強化する","fr":"Renforcer la veine source d'un Kibo au choix"}
 {"id":1518097,"jp":"キボの源脈をレベルアップさせることで、より強力な味方になってくれるはずだ。","fr":"Monter la veine source d'un Kibo en fera sans doute un allié encore plus puissant."}
 {"id":1518098,"jp":"キボを鍛える・二","fr":"Entraîner des Kibo II"}
+{"id":1518099,"jp":"任意のキボの源脈を段階IIにする","fr":"Porter la veine source d'un Kibo au choix au rang II"}
 {"id":1518100,"jp":"キボを鍛える・三","fr":"Entraîner des Kibo III"}
+{"id":1518101,"jp":"2匹のキボの源脈を段階IIにする","fr":"Porter la veine source de 2 Kibo au rang II"}
 {"id":1518102,"jp":"キボを鍛える・四","fr":"Entraîner des Kibo IV"}
+{"id":1518103,"jp":"2匹のキボの源脈を段階IIIにする","fr":"Porter la veine source de 2 Kibo au rang III"}
 {"id":1518104,"jp":"キボを鍛える・五","fr":"Entraîner des Kibo V"}
+{"id":1518105,"jp":"2匹のキボの源脈を段階IVにする","fr":"Porter la veine source de 2 Kibo au rang IV"}
 {"id":1518106,"jp":"キボを鍛える・六","fr":"Entraîner des Kibo VI"}
+{"id":1518107,"jp":"2匹のキボの源脈を段階Vにする","fr":"Porter la veine source de 2 Kibo au rang V"}
 {"id":1518108,"jp":"キボを鍛える・七","fr":"Entraîner des Kibo VII"}
+{"id":1518109,"jp":"2匹のキボの源脈を最大まで強化する","fr":"Renforcer au maximum la veine source de 2 Kibo"}
 {"id":1518110,"jp":"キボを鍛える・八","fr":"Entraîner des Kibo VIII"}
 {"id":1518111,"jp":"3匹のキボの源脈を最大まで強化する","fr":"Renforcer au maximum la veine source de 3 Kibo"}
 {"id":1518112,"jp":"秀才の資質を持つキボ","fr":"Kibo aux aptitudes brillantes"}
+{"id":1518113,"jp":"資質が「秀才」のキボ1匹とスターリンクする","fr":"Former un Lien stellaire avec 1 Kibo d'aptitude « Talentueux »"}
+{"id":1518114,"jp":"優秀な資質を持つキボは、戦闘でより強い戦力となる。","fr":"Les Kibo aux aptitudes remarquables sont de puissants alliés au combat."}
 {"id":1518115,"jp":"逸才の資質を持つキボ","fr":"Kibo aux aptitudes hors du commun"}
+{"id":1518116,"jp":"資質が「逸才」のキボ1匹とスターリンクする","fr":"Former un Lien stellaire avec 1 Kibo d'aptitude « Prodige »"}
+{"id":1518117,"jp":"資質が「天賦の才」のキボ1匹とスターリンクする","fr":"Former un Lien stellaire avec 1 Kibo d'aptitude « Génie inné »"}
 {"id":1518118,"jp":"潜在能力の実を使用して、キボの潜在能力を1回強化する","fr":"Utiliser un fruit de potentiel pour renforcer 1 fois le potentiel d'un Kibo"}
 {"id":1518119,"jp":"潜在能力の実、キボの潜在能力を伸ばすのにうってつけのアイテムだ！","fr":"Le fruit de potentiel est l'objet idéal pour développer le potentiel d'un Kibo !"}
 {"id":1518120,"jp":"因子の実を与える・一","fr":"Donner un fruit à facteurs I"}
+{"id":1518121,"jp":"因子の実を使い、キボ因子を1回変更する","fr":"Utiliser un fruit de facteur pour modifier 1 fois un facteur de Kibo"}
 {"id":1518122,"jp":"お連れのキボの因子に納得がいかない？そんなときは因子の実に頼ろう！","fr":"Les facteurs du Kibo qui vous accompagne ne vous satisfont pas ? Dans ce cas, comptez sur le fruit à facteurs !"}
 {"id":1518123,"jp":"キボ因子変異・一","fr":"Mutation de facteurs des Kibo I"}
+{"id":1518124,"jp":"キボ因子を5回変異させる","fr":"Effectuer 5 mutations de facteurs de Kibo"}
 {"id":1518125,"jp":"キボ因子変異・二","fr":"Mutation de facteurs des Kibo II"}
+{"id":1518126,"jp":"キボ因子を10回変異させる","fr":"Effectuer 10 mutations de facteurs de Kibo"}
 {"id":1518127,"jp":"因子の実を与える・二","fr":"Donner un fruit à facteurs II"}
+{"id":1518128,"jp":"紫色レアリティの因子の実を1回使用する","fr":"Utiliser 1 fruit de facteur violet"}
 {"id":1518129,"jp":"因子の実を与える・三","fr":"Donner un fruit à facteurs III"}
+{"id":1518130,"jp":"金色レアリティの因子の実を1回使用する","fr":"Utiliser 1 fruit de facteur doré"}
+{"id":1518131,"jp":"因子を8個持ったキボを1匹所持する","fr":"Posséder 1 Kibo doté de 8 facteurs"}
+{"id":1518132,"jp":"キボの相棒、因子はバッチリ！","fr":"Un compagnon Kibo aux facteurs impeccables !"}
+{"id":1518133,"jp":"上質な因子を持つキボ・一","fr":"Kibo aux facteurs de qualité I"}
+{"id":1518134,"jp":"紫色の因子を4個持ったキボを1匹所持する","fr":"Posséder 1 Kibo doté de 4 facteurs violets"}
+{"id":1518135,"jp":"キボの仲間、優秀な因子！","fr":"Un compagnon Kibo aux facteurs remarquables !"}
+{"id":1518136,"jp":"上質な因子を持つキボ・二","fr":"Kibo aux facteurs de qualité II"}
+{"id":1518137,"jp":"紫色の因子を6個持ったキボを1匹所持する","fr":"Posséder 1 Kibo doté de 6 facteurs violets"}
+{"id":1518138,"jp":"芽吹の谷のボス・フログレーミを倒す","fr":"Vaincre Frogremi, boss de la Vallée des Bourgeons"}
+{"id":1518139,"jp":"フログレーミ、勝負だ！","fr":"Frogremi, je te défie !"}
+{"id":1518140,"jp":"芽吹の谷のボス・グルルを倒す","fr":"Vaincre Gururu, boss de la Vallée des Bourgeons"}
 {"id":1518141,"jp":"グルル、勝負だ！","fr":"Gururu, à nous deux !"}
+{"id":1518142,"jp":"芽吹の谷のボス・クリムゾルを倒す","fr":"Vaincre Crimzol, boss de la Vallée des Bourgeons"}
 {"id":1518143,"jp":"クリムゾル、勝負だ！","fr":"Crimzol, à nous deux !"}
+{"id":1518144,"jp":"芽吹の谷のボス・グランザロスを倒す","fr":"Vaincre Granzaros, boss de la Vallée des Bourgeons"}
+{"id":1518145,"jp":"グランザロス、勝負だ！","fr":"Granzaros, je te défie !"}
+{"id":1518146,"jp":"芽吹の谷のボス・フィーロックを倒す","fr":"Vaincre Fyrock, boss de la Vallée des Bourgeons"}
+{"id":1518147,"jp":"フィーロック、勝負だ！","fr":"Fyrock, je te défie !"}
+{"id":1518148,"jp":"フリスのボス・ブルーシィグナを倒す","fr":"Vaincre Blue Cygna, boss de Fleece"}
+{"id":1518149,"jp":"ブルーシィグナ、勝負だ！","fr":"Blue Cygna, je te défie !"}
+{"id":1518150,"jp":"ボス・コボルターグを倒す","fr":"Vaincre le boss Koborutaagu"}
+{"id":1518151,"jp":"フリスのボス・コボルターグを倒す","fr":"Vaincre Koborutaagu, boss de Fleece"}
+{"id":1518152,"jp":"コボルターグ、勝負だ！","fr":"Koborutaagu, je te défie !"}
+{"id":1518153,"jp":"フリスのボス・メーガルムを倒す","fr":"Vaincre Maegalum, boss de Fleece"}
+{"id":1518154,"jp":"メーガルムよ、勝負だ！","fr":"Maegalum, je te défie !"}
+{"id":1518155,"jp":"フリスのボス・メイルジャークを倒す","fr":"Vaincre Mailjark, boss de Fleece"}
 {"id":1518156,"jp":"クルイサメ、勝負だ！","fr":"Raging Shark, à nous deux !"}
+{"id":1518157,"jp":"フリスのボス・ガルティガーを倒す","fr":"Vaincre Galtiger, boss de Fleece"}
+{"id":1518158,"jp":"ガルティガー、勝負だ！","fr":"Galtiger, je te défie !"}
+{"id":1518159,"jp":"フリスのボス・グルマンクを倒す","fr":"Vaincre Gourmank, boss de Fleece"}
 {"id":1518160,"jp":"グルマンク、勝負だ！","fr":"Gourmank, à nous deux !"}
+{"id":1518161,"jp":"ボス・ファウンディを倒す","fr":"Vaincre le boss Foundy"}
+{"id":1518162,"jp":"フリスのボス・ファウンディを倒す","fr":"Vaincre Foundy, boss de Fleece"}
+{"id":1518163,"jp":"ファウンディ、勝負だ！","fr":"Foundy, je te défie !"}
+{"id":1518164,"jp":"ボス・ニートミットを倒す","fr":"Vaincre le boss Niitomitto"}
+{"id":1518165,"jp":"フリスのボス・ニートミットを倒す","fr":"Vaincre Niitomitto, boss de Fleece"}
+{"id":1518166,"jp":"ニートミット、勝負だ！","fr":"Niitomitto, je te défie !"}
 {"id":1518167,"jp":"ギガンシャウラを倒す","fr":"Vaincre Giganshaura"}
+{"id":1518168,"jp":"芽吹の谷のギガンシャウラを倒す","fr":"Vaincre Giganshaura dans la Vallée des Bourgeons"}
+{"id":1518169,"jp":"ギガンシャウラ、勝負だ！","fr":"Giganshaura, je te défie !"}
 {"id":1518170,"jp":"ナイトフォールを倒す","fr":"Vaincre Vespervamp"}
+{"id":1518171,"jp":"芽吹の谷のナイトフォールを倒す","fr":"Vaincre Vespervamp dans la Vallée des Bourgeons"}
+{"id":1518172,"jp":"ナイトフォール、勝負だ！","fr":"Vespervamp, je te défie !"}
 {"id":1518173,"jp":"ライカウモを倒す","fr":"Vaincre Raikaumo"}
+{"id":1518174,"jp":"フリスのライカウモを倒す","fr":"Vaincre Raikaumo à Fleece"}
 {"id":1518175,"jp":"ライカウモ、勝負だ！","fr":"Raikaumo, à nous deux !"}
+{"id":1518176,"jp":"フレイムキングラーガを倒す","fr":"Vaincre Flame Kingraga"}
+{"id":1518177,"jp":"フリスのフレイムキングラーガを倒す","fr":"Vaincre Flame Kingraga à Fleece"}
+{"id":1518178,"jp":"フレイムラーガ、勝負だ！","fr":"Flameraga, je te défie !"}
 {"id":1518179,"jp":"セレーシャを倒す","fr":"Vaincre Celesha"}
+{"id":1518180,"jp":"フリスのセレーシャを倒す","fr":"Vaincre Celesha à Fleece"}
 {"id":1518181,"jp":"セレーシャ、勝負だ！","fr":"Celesha, à nous deux !"}
 {"id":1518182,"jp":"アマルテイアを倒す","fr":"Vaincre Amalthea"}
+{"id":1518183,"jp":"フリスのアマルテイアを倒す","fr":"Vaincre Amalthea à Fleece"}
+{"id":1518184,"jp":"アマルテイア、勝負だ！","fr":"Amalthea, je te défie !"}
 {"id":1518185,"jp":"超えるべき壁・一","fr":"Un mur à franchir I"}
+{"id":1518186,"jp":"ボスまたは特異体キボを1回倒す","fr":"Vaincre 1 boss ou Kibo anormal"}
+{"id":1518187,"jp":"仲間と共に強敵に挑み、さらなる高みを目指そう！","fr":"Affrontez de redoutables adversaires avec vos compagnons et visez toujours plus haut !"}
 {"id":1518188,"jp":"超えるべき壁・二","fr":"Un mur à franchir II"}
+{"id":1518189,"jp":"ボスまたは特異体キボを5回倒す","fr":"Vaincre 5 boss ou Kibo anormaux"}
 {"id":1518190,"jp":"超えるべき壁・三","fr":"Un mur à franchir III"}
+{"id":1518191,"jp":"ボスまたは特異体キボを10回倒す","fr":"Vaincre 10 boss ou Kibo anormaux"}
 {"id":1518192,"jp":"芽吹の谷の探索・二","fr":"Exploration de la Vallée des Bourgeons II"}
+{"id":1518193,"jp":"芽吹の谷の探索レベルを5にする","fr":"Atteindre le niveau d'exploration 5 dans la Vallée des Bourgeons"}
 {"id":1518194,"jp":"芽吹の谷の探索・三","fr":"Exploration de la Vallée des Bourgeons III"}
+{"id":1518195,"jp":"芽吹の谷の探索レベルを7にする","fr":"Atteindre le niveau d'exploration 7 dans la Vallée des Bourgeons"}
 {"id":1518196,"jp":"フリスの探索・一","fr":"Exploration de Fleece I"}
+{"id":1518197,"jp":"フリスの探索レベルを3にする","fr":"Atteindre le niveau d'exploration 3 à Fleece"}
 {"id":1518198,"jp":"星の軌跡はやがて、フリスの地に遍く刻まれることだろう。","fr":"Le Sillage stellaire finira par être gravé partout sur les terres de Fleece."}
 {"id":1518199,"jp":"フリスの探索・二","fr":"Exploration de Fleece II"}
+{"id":1518200,"jp":"フリスの探索レベルを5にする","fr":"Atteindre le niveau d'exploration 5 à Fleece"}
 {"id":1518201,"jp":"フリスの探索・三","fr":"Exploration de Fleece III"}
+{"id":1518202,"jp":"フリスの探索レベルを7にする","fr":"Atteindre le niveau d'exploration 7 à Fleece"}
 {"id":1518203,"jp":"開拓の道・一","fr":"La voie des pionniers I"}
+{"id":1518204,"jp":"マップ難易度・智慧の星泉の突破クエストをクリアする","fr":"Terminer la quête de Percée de difficulté du monde - Source stellaire de la sagesse"}
+{"id":1518205,"jp":"プロミリア、我と共鳴せよ！","fr":"Promilia, entre en résonance avec moi !"}
 {"id":1518206,"jp":"開拓の道・二","fr":"La voie des pionniers II"}
+{"id":1518207,"jp":"マップ難易度・躍動の星湧の突破クエストをクリアする","fr":"Terminer la quête de Percée de difficulté du monde - Jaillissement stellaire de la vitalité"}
 {"id":1518208,"jp":"開拓の道・三","fr":"La voie des pionniers III"}
+{"id":1518209,"jp":"マップ難易度・瑩明の星洄の突破クエストをクリアする","fr":"Terminer la quête de Percée de difficulté du monde - Tourbillon stellaire de la clarté"}
+{"id":1518210,"jp":"ごろごろグラゴを1回クリアする","fr":"Terminer 1 fois Grago en roulade"}
 {"id":1518211,"jp":"ごろごろグラゴにかけては、誰にも負けない自信がある！","fr":"Personne ne me bat quand il s'agit de Grago qui roule, j'en ai la certitude !"}
+{"id":1518212,"jp":"キャバードに変身を1回クリアする","fr":"Terminer 1 fois Transformation en Cabbird"}
 {"id":1518213,"jp":"キャバードに変身することにかけては、誰にも負けない自信がある！","fr":"Personne ne me bat quand il s'agit de se transformer en Cabbird, j'en ai la certitude !"}
+{"id":1518214,"jp":"巣に帰るドゥルを1回クリアする","fr":"Terminer 1 fois Le retour de Dur au nid"}
 {"id":1518215,"jp":"巣に帰るドゥルにかけては、誰にも負けない自信がある！","fr":"Personne ne me bat quand il s'agit de Dur qui rentre au nid, j'en ai la certitude !"}
+{"id":1518216,"jp":"マウントの試練を1回クリアする","fr":"Terminer 1 fois une épreuve de monture"}
+{"id":1518217,"jp":"リィフの演奏で★3に到達する","fr":"Obtenir ★3 dans Mélodie de Riif"}
+{"id":1518218,"jp":"リィフの演奏にかけては、誰にも負けない自信がある！","fr":"Personne ne peut me surpasser dans la Mélodie de Riif, j'en suis persuadé !"}
+{"id":1518219,"jp":"輝印の祭壇を1回クリアする","fr":"Terminer 1 fois Autel du Sceau rayonnant"}
+{"id":1518220,"jp":"輝印の祭壇を私以上にうまく扱える者なんていない！","fr":"Personne ne maîtrise l'autel du Sceau rayonnant mieux que moi !"}
+{"id":1518221,"jp":"ソザンカのはしごで★3を獲得する","fr":"Obtenir ★3 dans Échelle de Sozanka"}
 {"id":1518222,"jp":"ソザンカのはしごにかけては、誰にも負けない自信がある！","fr":"Personne ne me bat quand il s'agit de l'échelle de Sozanka, j'en ai la certitude !"}
+{"id":1518223,"jp":"湧き出るアウラを1回クリアする","fr":"Terminer 1 fois Jaillissement des Aura"}
 {"id":1518224,"jp":"湧き出るアウラにかけては、誰にも負けない自信がある！","fr":"Personne ne me bat quand il s'agit de l'Aura qui jaillit, j'en ai la certitude !"}
+{"id":1518225,"jp":"キボの相棒で★3を獲得する","fr":"Obtenir ★3 dans Compagnon Kibo"}
+{"id":1518226,"jp":"私以上に仲間のキボの扱いが得意な者はいない！","fr":"Personne ne sait mieux s'occuper de ses compagnons Kibo que moi !"}
 {"id":1518227,"jp":"キボについていく・一","fr":"Suivre le Kibo I"}
+{"id":1518228,"jp":"キボの謎解きを1回クリアする","fr":"Résoudre 1 énigme de Kibo"}
+{"id":1518229,"jp":"難しい謎解き？キボの相棒を頼れば怖くない！","fr":"Une énigme difficile ? Rien à craindre avec mon compagnon Kibo !"}
 {"id":1518230,"jp":"キボについていく・二","fr":"Suivre le Kibo II"}
+{"id":1518231,"jp":"キボの謎解きを5回クリアする","fr":"Résoudre 5 énigmes de Kibo"}
 {"id":1518232,"jp":"キボについていく・三","fr":"Suivre le Kibo III"}
+{"id":1518233,"jp":"キボの謎解きを10回クリアする","fr":"Résoudre 10 énigmes de Kibo"}
 {"id":1518234,"jp":"キボについていく・四","fr":"Suivre le Kibo IV"}
 {"id":1518235,"jp":"旅のサプライズ・一","fr":"Surprises de voyage I"}
+{"id":1518236,"jp":"フィールドの宝箱を1個開ける","fr":"Ouvrir 1 coffre au trésor dans le monde"}
+{"id":1518237,"jp":"冒険には、宝箱がつきものだろう。","fr":"Que serait une aventure sans coffres au trésor ?"}
 {"id":1518238,"jp":"旅のサプライズ・二","fr":"Surprises de voyage II"}
+{"id":1518239,"jp":"フィールドの宝箱を10個開ける","fr":"Ouvrir 10 coffres au trésor dans le monde"}
 {"id":1518240,"jp":"旅のサプライズ・三","fr":"Surprises de voyage III"}
+{"id":1518241,"jp":"フィールドの宝箱を20個開ける","fr":"Ouvrir 20 coffres au trésor dans le monde"}
 {"id":1518242,"jp":"希望の孵化・一","fr":"Éclosion d'espoir I"}
+{"id":1518243,"jp":"フィールドでキボのタマゴを1個獲得する","fr":"Obtenir 1 œuf de Kibo dans le monde"}
 {"id":1518244,"jp":"謎のキボのタマゴからは、一体どんなキボが生まれるのかしら～","fr":"Quel genre de Kibo naîtra de cet œuf mystérieux, je me demande~"}
 {"id":1518245,"jp":"希望の孵化・二","fr":"Éclosion d'espoir II"}
+{"id":1518246,"jp":"フィールドでキボのタマゴを5個獲得する","fr":"Obtenir 5 œufs de Kibo dans le monde"}
 {"id":1518247,"jp":"希望の孵化・三","fr":"Éclosion d'espoir III"}
+{"id":1518248,"jp":"芽吹の谷のすべての星脈ノードを解放する","fr":"Débloquer tous les nœuds de veine stellaire de la Vallée des Bourgeons"}
 {"id":1518249,"jp":"星脈貫通、芽吹の谷！","fr":"Veines stellaires, percez la Vallée des Bourgeons !"}
+{"id":1518250,"jp":"フリスのすべての星脈ノードを解放する","fr":"Débloquer tous les nœuds de veine stellaire de Fleece"}
 {"id":1518251,"jp":"星脈貫通、フリス！","fr":"Veines stellaires, percez Fleece !"}
+{"id":1518252,"jp":"芽吹の谷のすべての臨時ノードを解放する","fr":"Débloquer tous les nœuds temporaires de la Vallée des Bourgeons"}
+{"id":1518253,"jp":"足跡広がる、芽吹の谷！","fr":"Des empreintes aux quatre coins de la Vallée des Bourgeons !"}
+{"id":1518254,"jp":"芽吹の谷の星律収集レベルを3にする","fr":"Atteindre le niveau de collecte du Rythme des étoiles 3 dans la Vallée des Bourgeons"}
 {"id":1518255,"jp":"星が初めて降り立った芽吹の谷で、星々の調べが次第に響き渡るのだった。","fr":"Dans la Vallée des Bourgeons, où les étoiles sont descendues pour la première fois, leur mélodie se met peu à peu à résonner."}
+{"id":1518256,"jp":"フリスの星律収集レベルを3にする","fr":"Atteindre le niveau de collecte du Rythme des étoiles 3 à Fleece"}
 {"id":1518257,"jp":"星が初めて降り立ったフリスで、星々の調べが次第に響き渡るのだった。","fr":"À Fleece, où les étoiles sont descendues pour la première fois, leur mélodie se met peu à peu à résonner."}
+{"id":1518258,"jp":"カメラモードでキャラクターの写真を1枚撮る","fr":"Prendre 1 photo d'un personnage en mode photo"}
 {"id":1518259,"jp":"旅路での出会いはすべて縁。この瞬間を写真に残しておこう。","fr":"Chaque rencontre du voyage est un fruit du destin. Immortalisez cet instant en photo."}
 {"id":1518260,"jp":"なし","fr":"Aucun"}
+{"id":1518261,"jp":"Backspaceキー","fr":"Touche Retour arrière"}
 {"id":1518262,"jp":"Deleteキー","fr":"Touche Suppr"}
 {"id":1518263,"jp":"Tabキー","fr":"Touche Tab"}
 {"id":1518264,"jp":"Clearキー","fr":"Touche Clear"}
@@ -19984,6 +20164,7 @@
 {"id":1518310,"jp":"Xキー","fr":"Touche X"}
 {"id":1518311,"jp":"Yキー","fr":"Touche Y"}
 {"id":1518312,"jp":"Zキー","fr":"Touche Z"}
+{"id":1518313,"jp":"ScrollLockキー","fr":"Touche Arrêt défil"}
 {"id":1518314,"jp":"右Shiftキー","fr":"Touche Maj droite"}
 {"id":1518315,"jp":"左Shiftキー","fr":"Touche Maj gauche"}
 {"id":1518316,"jp":"右Ctrlキー","fr":"Touche Ctrl droite"}
@@ -19999,20 +20180,39 @@
 {"id":1518326,"jp":"アプリケーションキー","fr":"Touche Menu"}
 {"id":1518327,"jp":"CapsLockキー","fr":"Touche Verr. Maj"}
 {"id":1518328,"jp":"NumLockキー","fr":"Touche Verr. Num"}
+{"id":1518329,"jp":"PrintScreenキー","fr":"Touche Impr. écran"}
 {"id":1518330,"jp":"芽吹の谷・Ⅰ","fr":"Vallée des Bourgeons Ⅰ"}
 {"id":1518331,"jp":"難易度：簡単","fr":"Difficulté : facile"}
+{"id":1518332,"jp":"つぎの目標は3連勝だ！","fr":"Mon prochain objectif : 3 victoires consécutives !"}
+{"id":1518333,"jp":"うっ……あなたってずいぶん強いのね。","fr":"Ouh… Quelle force impressionnante !"}
+{"id":1518334,"jp":"よし、さっさと片付けちゃおっと。","fr":"Bon, autant en finir rapidement."}
 {"id":1518335,"jp":"……わかった。どっちの戦術がより上か……勝負しよう。","fr":"… Entendu. Voyons laquelle de nos deux tactiques est la meilleure… Battons-nous."}
+{"id":1518336,"jp":"願ってもないよ！思う存分、戦おう！","fr":"Je n'attendais que ça ! Battons-nous à cœur joie !"}
 {"id":1518337,"jp":"芽吹の谷・Ⅲ","fr":"Vallée des Bourgeons Ⅲ"}
+{"id":1518338,"jp":"谷に吹き荒れる風が、私の勝利を告げている……","fr":"Le vent qui souffle dans la vallée annonce ma victoire…"}
 {"id":1518339,"jp":"芽吹の谷・Ⅳ","fr":"Vallée des Bourgeons Ⅳ"}
+{"id":1518340,"jp":"え？ちゃんと手加減してちょうだいね。","fr":"Hein ? Un peu d'indulgence, d'accord ?"}
+{"id":1518341,"jp":"今日の谷の気温は……確かにファイトにぴったりだ。","fr":"La température dans la vallée aujourd'hui… Elle est effectivement idéale pour un duel."}
+{"id":1518342,"jp":"俺の実力をみせてやる！","fr":"Je vais montrer de quoi je suis capable !"}
 {"id":1518343,"jp":"芽吹の谷・Ⅱ","fr":"Vallée des Bourgeons Ⅱ"}
 {"id":1518344,"jp":"負けたほうがミドゥの作ったパイをぜんぶ食べるんだぞ！","fr":"Celui qui perd mange toutes les tartes que Midu a préparées !"}
+{"id":1518345,"jp":"おなかペコペコ……終わるまで持つかな？","fr":"J'ai le ventre vide… Est-ce que je vais tenir jusqu'à la fin ?"}
+{"id":1518346,"jp":"じゅ、準備、できました……","fr":"J-J'ai terminé mes préparatifs…"}
 {"id":1518347,"jp":"芽吹の谷・Ⅴ","fr":"Vallée des Bourgeons Ⅴ"}
+{"id":1518348,"jp":"準備はばっちりだよ、さあ、はじめよう！","fr":"Tout est prêt, allez, on commence !"}
+{"id":1518349,"jp":"ケガをしないように気をつけて。","fr":"Attention à ne pas se blesser."}
+{"id":1518350,"jp":"いいだろう、ファイト開始だ。","fr":"Très bien, que le duel commence."}
+{"id":1518351,"jp":"いいだろう、軽く手合わせしよう。","fr":"Très bien, échangeons quelques coups pour nous échauffer."}
 {"id":1518352,"jp":"わたしに対決を挑んでくるなんてめずらしいね。じゃあ、はやくはじめよう！","fr":"C'est rare que tu me lances un défi. Alors, commençons vite !"}
 {"id":1518353,"jp":"本気でいかせてもらう。そちらもそうであることを願う。","fr":"Je vais y mettre toute ma force. J'espère que c'est aussi ton cas."}
+{"id":1518354,"jp":"キボたちのいい運動になるだろう。","fr":"Ce sera un bon exercice pour les Kibo."}
 {"id":1518355,"jp":"あまり本気を出さないでくれ……わたしのキボたちが怪我をしないか心配なんだ……","fr":"Ne mets pas toute ta force… j'ai peur que mes Kibo soient blessés…"}
+{"id":1518356,"jp":"準備ができたらはじめよう。","fr":"Commençons dès que tout sera prêt."}
+{"id":1518357,"jp":"ちょうどいい、今日は調子も悪くない。いざ、勝負！","fr":"Ça tombe bien, je suis plutôt en forme aujourd'hui. Place au duel !"}
 {"id":1518358,"jp":"芽吹の谷・Ⅵ","fr":"Vallée des Bourgeons Ⅵ"}
 {"id":1518359,"jp":"ははは、よし！ぐずぐずしてないで、思いっきり勝負しよう！","fr":"Ha ha, parfait ! Ne traînons pas, battons-nous de toutes nos forces !"}
 {"id":1518360,"jp":"こちらは迷うことなんてなにもないよ。さっそくはじめよう！","fr":"De mon côté, je n'ai aucune hésitation. Commençons tout de suite !"}
+{"id":1518361,"jp":"いいね。暇を持て余すより一勝負したほうがマシだ。","fr":"Bonne idée. Un duel vaut mieux que de rester à ne rien faire."}
 {"id":1518362,"jp":"いざという時に怯んではだめだぞ。それじゃ面白くないからな。","fr":"Il ne faut pas faiblir au moment décisif. Sinon, ce ne serait pas amusant."}
 {"id":1518363,"jp":"あなたとキボのコンビネーションが一体どれほどのものか、見せてもらおう。","fr":"Voyons ce que vaut le duo que tu formes avec ton Kibo."}
 {"id":1518364,"jp":"芽吹の谷・Ⅸ","fr":"Vallée des Bourgeons Ⅸ"}
@@ -20020,41 +20220,91 @@
 {"id":1518366,"jp":"そこまであなたが戦いたいのなら、こちらも無下にはできないな。","fr":"Si tu tiens tant à te battre, je ne peux pas te refuser."}
 {"id":1518367,"jp":"ちょっといまは用があるからな……さっさと終わらせよう！","fr":"J'ai un peu à faire en ce moment… finissons-en vite !"}
 {"id":1518368,"jp":"見回りというのはすこしの気の緩みも許されないが、あなたの誘いとあらば……","fr":"Une ronde ne tolère pas le moindre relâchement, mais si c'est toi qui m'invites…"}
+{"id":1518369,"jp":"大水晶の下での対決か……これは、運命を感じるね！","fr":"Un duel sous le grand cristal… On dirait un signe du destin !"}
 {"id":1518370,"jp":"芽吹の谷・Ⅶ","fr":"Vallée des Bourgeons Ⅶ"}
+{"id":1518371,"jp":"見回りの合間の気晴らしとしては……悪くないな。","fr":"Pour se distraire entre deux patrouilles… Ce n'est pas une mauvaise idée."}
 {"id":1518372,"jp":"キノコがひとつ、キノコがふたつ……キボファイト？問題ない。この場所にはすっかり慣れている。","fr":"Un champignon, deux champignons… Un Duel de Kibo ? Aucun problème. Je connais parfaitement cet endroit."}
+{"id":1518373,"jp":"それじゃあ……よろしく頼む。","fr":"Eh bien… Que le meilleur gagne."}
+{"id":1518374,"jp":"わかった……その挑戦、受けよう。","fr":"Très bien… J'accepte ce défi."}
 {"id":1518375,"jp":"そのキボファイト、本気で受けて立とう。よろしく頼む。","fr":"Ce Duel de Kibo, je l'accepte de tout cœur. Je compte sur toi."}
 {"id":1518376,"jp":"わたしと勝負する気か？だったら安心して。退屈なんてさせないから。","fr":"Tu veux te battre contre moi ? Alors rassure-toi. Tu ne vas pas t'ennuyer."}
 {"id":1518377,"jp":"君も私と同じくらいやる気満々みたいだな。なら、思いきり勝負しよう！","fr":"Ta motivation vaut la mienne, on dirait. Alors, battons-nous de toutes nos forces !"}
+{"id":1518378,"jp":"適当にお茶を濁すような真似はしないわよ。","fr":"Je ne ferai pas les choses à moitié."}
 {"id":1518379,"jp":"ちょうどいい、日頃の観察の成果を試させてもらうとするか。","fr":"Parfait, voyons ce que donnent mes observations de tous les jours."}
 {"id":1518380,"jp":"フリス・Ⅱ","fr":"Fleece Ⅱ"}
+{"id":1518381,"jp":"おもしろい対決になりそうだ。","fr":"Ce duel promet d'être intéressant."}
 {"id":1518382,"jp":"キボファイトはあまり得意ではないが、真剣にやるよ……","fr":"Le Duel de Kibo n'est pas mon fort, mais je m'y mets sérieusement…"}
+{"id":1518383,"jp":"さあ来い、ぐずぐずしている時間はない。","fr":"Allez, pas de temps à perdre."}
+{"id":1518384,"jp":"こっちはやる気満々だ！","fr":"Je déborde de motivation !"}
 {"id":1518385,"jp":"正々堂々と勝負だ！","fr":"Un duel loyal, à la régulière !"}
 {"id":1518386,"jp":"フリス・Ⅲ","fr":"Fleece Ⅲ"}
 {"id":1518387,"jp":"フリス・Ⅳ","fr":"Fleece Ⅳ"}
+{"id":1518388,"jp":"ぐずぐずするな、さっさとやれ。","fr":"Assez tergiversé, passons à l'action."}
+{"id":1518389,"jp":"こっちの準備はいつでもできているぞ！","fr":"De mon côté, tout est prêt depuis longtemps !"}
+{"id":1518390,"jp":"戦いの主導権を握るのはどっちか、ためしてみるかい？","fr":"Et si on voyait qui prendra l'initiative dans ce combat ?"}
+{"id":1518391,"jp":"戦うからには、絶対に手は抜かないよ。","fr":"Puisqu'on va se battre, je ne ferai aucune concession."}
 {"id":1518392,"jp":"フリス・Ⅴ","fr":"Fleece Ⅴ"}
+{"id":1518393,"jp":"ここまで張り合いのある相手は久しぶりです！","fr":"Cela faisait longtemps que je n'avais pas affronté quelqu'un d'aussi redoutable !"}
 {"id":1518394,"jp":"緊迫した冒険をしてる間には、こんな機会はそうそうないよね……","fr":"Pendant une aventure aussi tendue, de telles occasions sont rares, n'est-ce pas…"}
 {"id":1518395,"jp":"フリス・Ⅶ","fr":"Fleece Ⅶ"}
 {"id":1518396,"jp":"私とキボたちが農場で鍛え上げたすごい技を見せてやろう！","fr":"Je vais te montrer les techniques extraordinaires que mes Kibo et moi avons affûtées à l'exploitation !"}
+{"id":1518397,"jp":"気をつけて。今日のわたし、けっこう調子いいからね。","fr":"Attention, je suis particulièrement en forme aujourd'hui."}
+{"id":1518398,"jp":"うーん……ちゃんと本気でお相手します……","fr":"Hmm… Je ferai de mon mieux pendant ce duel…"}
 {"id":1518399,"jp":"フリス・Ⅷ","fr":"Fleece Ⅷ"}
+{"id":1518400,"jp":"私に挑戦するのか？なら、本気を見せてもらうよ。","fr":"Un défi ? Alors, je veux voir toute la détermination de mon adversaire."}
 {"id":1518401,"jp":"もしかしたら、キボファイトの最中に幸運が訪れるかもしれないね！","fr":"La chance viendra peut-être en plein Duel de Kibo !"}
 {"id":1518402,"jp":"すくなくとも、水面を眺めてぼーっとしているよりはマシだ……","fr":"Au moins, c'est mieux que de regarder l'eau dans le vide…"}
 {"id":1518403,"jp":"すこし音を出せば、魚たちが寄ってくるかもしれないね。","fr":"Si l'on fait un peu de bruit, les poissons viendront peut-être."}
 {"id":1518404,"jp":"お前との対決も、時間の無駄というわけではなさそうだ。","fr":"Se battre contre toi ne sera peut-être pas une perte de temps."}
+{"id":1518405,"jp":"退屈しのぎに、すこし相手をしてやろう。","fr":"Un petit duel devrait suffire à tromper l'ennui."}
+{"id":1518406,"jp":"手強い相手ほど血が騒ぐ！","fr":"Plus l'adversaire est redoutable, plus mon sang bouillonne !"}
 {"id":1518407,"jp":"うーん……この勝負、つまらない展開にならないことを願う。","fr":"Hum… j'espère que ce combat ne tournera pas à l'ennui."}
+{"id":1518408,"jp":"ファイト中に気を抜いたりはしない……","fr":"Je ne baisserai pas ma garde pendant le duel…"}
 {"id":1518409,"jp":"フリス・Ⅸ","fr":"Fleece Ⅸ"}
+{"id":1518410,"jp":"体をもう一度動かしてみるのも悪くない……","fr":"Un peu d'exercice supplémentaire ne me ferait pas de mal…"}
 {"id":1518411,"jp":"ここの風はとても心地いい。こんなところでするファイトはきっと楽しいだろう。","fr":"Le vent est très agréable ici. Un duel dans un tel endroit sera sûrement amusant."}
+{"id":1518412,"jp":"はやくあなたのキボを見せてよ！","fr":"Vite, j'ai hâte de voir les Kibo que je vais affronter !"}
 {"id":1518413,"jp":"フリス・Ⅰ","fr":"Fleece Ⅰ"}
+{"id":1518414,"jp":"戦うのは別にいいけど、先攻はこっちにさせてよね！","fr":"Je veux bien me battre, mais c'est moi qui attaque en premier !"}
+{"id":1518415,"jp":"はじめるまえに、もう一度、編成を見直してみたら？","fr":"Et si on vérifiait une dernière fois la composition de l'équipe avant de commencer ?"}
+{"id":1518416,"jp":"いまは用事もないですから、一勝負付き合いますよ。","fr":"Je n'ai rien de prévu pour le moment, alors je veux bien faire un duel."}
+{"id":1518417,"jp":"来いよ！ちょうど体を動かしたかったんだ！","fr":"Allez ! J'avais justement envie de me dégourdir les jambes !"}
+{"id":1518418,"jp":"背がちっちゃいからって、手加減しないでよね！","fr":"Pas de traitement de faveur à cause de ma petite taille !"}
+{"id":1518419,"jp":"ちょうど休憩時間だし、ひと勝負しない？","fr":"C'est justement l'heure de la pause. On fait un duel ?"}
+{"id":1518420,"jp":"勝負の腕前、見させてもらうよ！","fr":"Voyons un peu ce que vaut mon adversaire au combat !"}
+{"id":1518421,"jp":"甘く見るなよ、勝負の経験は豊富なんだ！","fr":"Attention à ne pas me sous-estimer, j'ai beaucoup d'expérience en duel !"}
 {"id":1518422,"jp":"フリス・Ⅵ","fr":"Fleece Ⅵ"}
+{"id":1518423,"jp":"あなたとファイトできてよかった……","fr":"Ce duel m'a fait vraiment plaisir…"}
 {"id":1518424,"jp":"いまからファイトをはじめるの？\nなんだかわくわくしてきたわね！","fr":"Tu vas commencer le duel maintenant ?\nÇa me met en joie !"}
 {"id":1518425,"jp":"難易度：普通","fr":"Difficulté : normale"}
+{"id":1518426,"jp":"今度はそう簡単に勝たせはしない！","fr":"Cette fois, la victoire ne sera pas aussi facile !"}
 {"id":1518427,"jp":"芽吹の谷・Ⅷ","fr":"Vallée des Bourgeons Ⅷ"}
+{"id":1518428,"jp":"ここ最近は、さぼってないからね。","fr":"Ces derniers temps, je n'ai pas négligé mon entraînement."}
+{"id":1518429,"jp":"まだ遊び足りない！もう一回！もう一回やろう！","fr":"Je ne me suis pas encore assez amusé ! Encore ! On recommence !"}
+{"id":1518430,"jp":"あまり無理をするなよ。怪我でもしたら大変だ。","fr":"Inutile de trop forcer. Ce serait terrible de se blesser."}
+{"id":1518431,"jp":"俺の腕もまた一段と上がってるからな！","fr":"Moi aussi, j'ai encore amélioré ma technique !"}
+{"id":1518432,"jp":"どうしていつも、おなかがすいている時に限って……","fr":"Pourquoi faut-il que ça arrive toujours quand j'ai faim…"}
 {"id":1518433,"jp":"今回は、準備万端だ。","fr":"Cette fois, tout est prêt."}
+{"id":1518434,"jp":"今回もやりすぎないでね。","fr":"Pas d'excès cette fois non plus, d'accord ?"}
+{"id":1518435,"jp":"まだやる気か？今度は負けないぞ！","fr":"Encore un duel ? Cette fois, je ne perdrai pas !"}
+{"id":1518436,"jp":"今回はどんな戦術を使うのか、見せてもらおう。","fr":"Voyons quelles tactiques seront employées cette fois-ci."}
 {"id":1518437,"jp":"全力で勝負だ！","fr":"Un duel à fond !"}
 {"id":1518438,"jp":"はやく、はやく！","fr":"Vite, vite !"}
+{"id":1518439,"jp":"今回こそ絶対に勝ってみせる！","fr":"Cette fois, je remporterai la victoire, c'est certain !"}
+{"id":1518440,"jp":"今度はどんな新しいキボを使うつもりだ？","fr":"Quels nouveaux Kibo vais-je affronter cette fois-ci ?"}
+{"id":1518441,"jp":"今回も先手をもらうぞ！","fr":"Cette fois encore, j'attaque en premier !"}
+{"id":1518442,"jp":"準備万端だ、はじめよう！","fr":"Tout est prêt, commençons !"}
+{"id":1518443,"jp":"今回も手加減しちゃダメだよ！","fr":"Pas de retenue cette fois non plus !"}
 {"id":1518444,"jp":"ちょうど他に用もないし、もう一勝負付き合ってやろう。","fr":"Je n'ai rien d'autre à faire, alors je veux bien faire un autre duel avec toi."}
 {"id":1518445,"jp":"もしかして、またファイトのコツをつかんだのか？だったら、早く見せてみろ！","fr":"Tu aurais encore saisi le truc du duel ? Alors montre-le vite !"}
+{"id":1518446,"jp":"まだやるのか？もちろん私は問題ないぞ！","fr":"On continue ? Ça ne me pose aucun problème !"}
+{"id":1518447,"jp":"まさかこんなに強くなっていたとは。さあ、勝負だ！","fr":"Je ne m'attendais pas à de tels progrès. Allez, place au duel !"}
 {"id":1518448,"jp":"芽吹の谷・Ⅹ","fr":"Vallée des Bourgeons Ⅹ"}
 {"id":1518449,"jp":"フリス・Ⅹ","fr":"Fleece Ⅹ"}
+{"id":1518450,"jp":"芽吹の谷エリアで、さらに多くのファイターを解放する","fr":"Débloquer davantage de combattants dans la Vallée des Bourgeons"}
+{"id":1518451,"jp":"都市国家フリスエリアのファイターをさらに解放する","fr":"Débloquer davantage de combattants dans la Cité-État de Fleece"}
+{"id":1518452,"jp":"芽吹の谷 チャレンジ依頼","fr":"Missions de défi de la Vallée des Bourgeons"}
+{"id":1518453,"jp":"フリス チャレンジ依頼","fr":"Missions de défi de Fleece"}
 {"id":1518454,"jp":"見習いⅤ","fr":"Apprentissage Ⅴ"}
 {"id":1518455,"jp":"ルーキーⅠ以下のランクで敗北しても、ポイントは減少しません。","fr":"Aux rangs inférieurs ou égaux à Recrue Ⅰ, une défaite ne fait pas perdre de points."}
 {"id":1518456,"jp":"見習いⅣ","fr":"Apprentissage Ⅳ"}
@@ -20111,6 +20361,7 @@
 {"id":1518516,"jp":"負けず嫌い全開！","fr":"Mauvais perdant jusqu'au bout !"}
 {"id":1518517,"jp":"ロック","fr":"Rock"}
 {"id":1518518,"jp":"速攻で決めたい","fr":"Gagner vite"}
+{"id":1518519,"jp":"勝負が終わったらご飯に行こう","fr":"Un repas après le duel"}
 {"id":1518520,"jp":"食後のお楽しみ","fr":"Le plaisir après le repas"}
 {"id":1518521,"jp":"コツを掴んだら","fr":"Une fois le coup pris"}
 {"id":1518522,"jp":"レイル","fr":"Reil"}
@@ -20133,6 +20384,7 @@
 {"id":1518539,"jp":"予想外の強敵","fr":"Un rival inattendu"}
 {"id":1518540,"jp":"勇者になる試練","fr":"L'épreuve des héros"}
 {"id":1518541,"jp":"底知れぬ相手","fr":"Un adversaire insondable"}
+{"id":1518542,"jp":"いままでで一番強い相手","fr":"L'adversaire le plus redoutable à ce jour"}
 {"id":1518543,"jp":"伝説の勝負師","fr":"Le duelliste légendaire"}
 {"id":1518544,"jp":"伝説になるまえに","fr":"Avant de devenir une légende"}
 {"id":1518545,"jp":"ファイトは情熱から！","fr":"Le duel naît de la passion !"}
@@ -20165,6 +20417,7 @@
 {"id":1518572,"jp":"シャドゥ","fr":"Shadow"}
 {"id":1518573,"jp":"穏やかな執着","fr":"Une obsession tranquille"}
 {"id":1518574,"jp":"シェリーン","fr":"Shereen"}
+{"id":1518575,"jp":"ファイトの自由を求めて","fr":"En quête de liberté dans les duels"}
 {"id":1518576,"jp":"モリーン","fr":"Maureen"}
 {"id":1518577,"jp":"泥酔のファイト","fr":"Duel en état d'ivresse"}
 {"id":1518578,"jp":"ルドルフ","fr":"Rudolf"}
@@ -20185,6 +20438,7 @@
 {"id":1518593,"jp":"リチャード","fr":"Richard"}
 {"id":1518594,"jp":"メルトレイクの苦闘","fr":"Lutte acharnée à Melt Lake"}
 {"id":1518595,"jp":"スーザン","fr":"Susan"}
+{"id":1518596,"jp":"古き国のファイトの知恵","fr":"La sagesse martiale d'un ancien royaume"}
 {"id":1518597,"jp":"運命のファイト","fr":"Le duel du destin"}
 {"id":1518598,"jp":"ヘンリエッタ","fr":"Henrietta"}
 {"id":1518599,"jp":"メイド長の最終試練","fr":"L'épreuve finale de la gouvernante"}
@@ -20192,6 +20446,7 @@
 {"id":1518601,"jp":"パイパー","fr":"Piper"}
 {"id":1518602,"jp":"優しいファイトの掟","fr":"Les règles douces du duel"}
 {"id":1518603,"jp":"イヴリン","fr":"Evelyn"}
+{"id":1518605,"jp":"飛空船エンジニアの気晴らし","fr":"La distraction d'un ingénieur de dirigeable"}
 {"id":1518606,"jp":"ライティ","fr":"Lighty"}
 {"id":1518607,"jp":"飛空船乗り場の少女","fr":"La fille de l'embarcadère des dirigeables"}
 {"id":1518608,"jp":"クレア","fr":"Claire"}
@@ -20205,11 +20460,21 @@
 {"id":1518616,"jp":"ベクター","fr":"Vector"}
 {"id":1518618,"jp":"少年の腕試し","fr":"Le garçon met ses talents à l'épreuve"}
 {"id":1518619,"jp":"スタンカ","fr":"Stanka"}
+{"id":1518620,"jp":"気軽さ第一の親善ファイト","fr":"Un duel amical sans prise de tête"}
 {"id":1518621,"jp":"ブリギッテ","fr":"Brigitte"}
+{"id":1518622,"jp":"異国を旅する者のファイトタイム","fr":"L'heure du duel pour un voyageur étranger"}
 {"id":1518623,"jp":"雲三顧","fr":"Yun Sangu"}
+{"id":1518624,"jp":"商会業務の合間のファイト","fr":"Un duel entre deux affaires commerciales"}
 {"id":1518625,"jp":"楚期","fr":"Chu Qi"}
+{"id":1518626,"jp":"静かな水面下に隠された実力","fr":"Une force cachée sous des eaux paisibles"}
 {"id":1518627,"jp":"ボードイン","fr":"Baudouin"}
+{"id":1518628,"jp":"乗務員のファイトの心得","fr":"Le savoir-faire en duel d'un membre d'équipage"}
+{"id":1518629,"jp":"操縦士の戦術アップグレード","fr":"Le perfectionnement tactique du pilote"}
+{"id":1518630,"jp":"豊作の願いとファイトの情熱","fr":"Espoir de récoltes abondantes et passion des duels"}
 {"id":1518632,"jp":"寸分違わぬ計算","fr":"Un calcul au millimètre"}
+{"id":1518633,"jp":"未熟から熟練へと至る成長ファイト","fr":"Du novice à l'expert, progresser par les duels"}
+{"id":1518634,"jp":"勝負度外視の対決の楽しみ","fr":"Le plaisir du duel au-delà de la victoire"}
+{"id":1518636,"jp":"帝国行商のファイトスタイル","fr":"Le style de combat d'un marchand ambulant de l'Empire"}
 {"id":1518637,"jp":"商会責任者の決断","fr":"La décision du chef de la compagnie"}
 {"id":1518638,"jp":"ダブルキル","fr":"Double élimination"}
 {"id":1518639,"jp":"トリプルキル","fr":"Triple élimination"}
@@ -20233,26 +20498,44 @@
 {"id":1518657,"jp":"エリートファイター","fr":"Élite du duel"}
 {"id":1518658,"jp":"伝説のファイター","fr":"Légende du duel"}
 {"id":1518659,"jp":"近接","fr":"Mêlée"}
+{"id":1518660,"jp":"近接攻撃が得意なキボ。","fr":"Kibo spécialisés dans les attaques de mêlée."}
 {"id":1518661,"jp":"遠隔","fr":"Distance"}
+{"id":1518662,"jp":"遠隔攻撃が得意なキボ。","fr":"Kibo spécialisés dans les attaques à distance."}
 {"id":1518663,"jp":"生存能力が高いキボ。","fr":"Kibo à forte capacité de survie."}
+{"id":1518664,"jp":"味方を回復できるキボ。","fr":"Kibo capables de soigner leurs alliés."}
+{"id":1518665,"jp":"味方にさまざまなバフを付与できるキボ。","fr":"Kibo capables de conférer divers effets de Renforcement à leurs alliés."}
 {"id":1518666,"jp":"持続","fr":"Persistance"}
 {"id":1518667,"jp":"フィールド上で継続的にダメージを与えたり、回復できるキボ。","fr":"Un Kibo capable d'infliger des DGT ou de soigner en continu sur le terrain."}
 {"id":1518668,"jp":"爆発","fr":"Explosion"}
 {"id":1518669,"jp":"フィールド上で瞬間的に大ダメージを与えたり、回復できるキボ。","fr":"Un Kibo capable d'infliger de lourds DGT ou de soigner instantanément sur le terrain."}
 {"id":1518670,"jp":"成長","fr":"Croissance"}
+{"id":1518671,"jp":"フィールド上で成長し続けるキボ。","fr":"Kibo qui continuent de se développer sur le champ de bataille."}
 {"id":1518672,"jp":"操作","fr":"Commandes"}
+{"id":1518673,"jp":"敵に行動妨害効果を付与できるキボ。","fr":"Kibo capables d'entraver les actions ennemies."}
+{"id":1518674,"jp":"味方を強化できるキボ。","fr":"Kibo capables de renforcer leurs alliés."}
 {"id":1518675,"jp":"弱体化","fr":"Affaiblissement"}
+{"id":1518676,"jp":"敵を弱体化できるキボ。","fr":"Kibo capables d'affaiblir leurs ennemis."}
+{"id":1518677,"jp":"味方のエネルギーを回復できるキボ。","fr":"Kibo capables de restaurer l'Énergie de leurs alliés."}
 {"id":1518678,"jp":"配置","fr":"Placement"}
+{"id":1518679,"jp":"味方に配置コストを提供できるキボ。","fr":"Kibo capables de fournir des points de déploiement à leurs alliés."}
+{"id":1518680,"jp":"フィールド上の天候を変えられるキボ。","fr":"Kibo capables de modifier les conditions météorologiques du champ de bataille."}
 {"id":1518681,"jp":"シュネルフを召喚する","fr":"Invoquer un Schnelf"}
+{"id":1518682,"jp":"マスティーバを召喚する","fr":"Invoquer un Mustiva"}
 {"id":1518683,"jp":"タウリックを召喚する","fr":"Invoquer un Taurick"}
+{"id":1518684,"jp":"クローネックを召喚する","fr":"Invoquer un Kronek"}
+{"id":1518685,"jp":"自由に操作して戦闘に勝利する","fr":"Remporter un combat en utilisant les commandes manuelles"}
 {"id":1518686,"jp":"ピーチィを召喚する","fr":"Invoquer un Peachy"}
+{"id":1518687,"jp":"入手したばかりのキボを召喚する","fr":"Invoquer un Kibo récemment obtenu"}
+{"id":1518688,"jp":"キャラクターのスキルを発動する","fr":"Activer une compétence de personnage"}
 {"id":1518689,"jp":"カメレウスを召喚する","fr":"Invoquer un Chameleus"}
 {"id":1518690,"jp":"マグマロスを召喚する","fr":"Invoquer un Magmaros"}
 {"id":1518691,"jp":"ツルネフィを召喚する","fr":"Invoquer un Tsurnefi"}
+{"id":1518692,"jp":"タイダレストを召喚する","fr":"Invoquer un Tidalest"}
 {"id":1518693,"jp":"メロウミーを召喚する","fr":"Invoquer un Mellowmee"}
 {"id":1518694,"jp":"クリムゾルを召喚する","fr":"Invoquer un Crimzol"}
 {"id":1518695,"jp":"サラマンドを召喚する","fr":"Invoquer un Salamand"}
 {"id":1518696,"jp":"ルルネフィを召喚する","fr":"Invoquer un Lurnefi"}
+{"id":1518697,"jp":"キボが3匹になるまで召喚する","fr":"Invoquer des Kibo jusqu'à en avoir 3"}
 {"id":1518698,"jp":"召喚","fr":"Invocation"}
 {"id":1518699,"jp":"人文","fr":"Sciences humaines"}
 {"id":1518700,"jp":"伝説","fr":"Légendes"}
@@ -20264,11 +20547,13 @@
 {"id":1518706,"jp":"医学","fr":"Médecine"}
 {"id":1518707,"jp":"遊戯","fr":"Jeux"}
 {"id":1518708,"jp":"その1","fr":"Partie 1"}
+{"id":1518710,"jp":"『世界を巡る元素の理について』","fr":"« Les lois des éléments qui parcourent le monde »"}
 {"id":1518711,"jp":"その2","fr":"Partie 2"}
 {"id":1518713,"jp":"タナの火祭り","fr":"La fête du feu de Tana"}
 {"id":1518714,"jp":"その3","fr":"Partie 3"}
 {"id":1518717,"jp":"不明","fr":"Inconnu"}
 {"id":1518720,"jp":"村民-バルプ","fr":"Villageois - Barp"}
+{"id":1518722,"jp":"シャルル村の住民、メーツァ","fr":"Metsa, habitant du Village de Charlulu"}
 {"id":1518724,"jp":"ゾーラ","fr":"Zola"}
 {"id":1518727,"jp":"シャルル村の村長","fr":"Chef du village de Charlulu"}
 {"id":1518729,"jp":"名もなき古代の獣人","fr":"Furrien anonyme des temps anciens"}
@@ -20288,12 +20573,18 @@
 {"id":1518774,"jp":"秦時","fr":"Qin Shi"}
 {"id":1518776,"jp":"モレ","fr":"Morre"}
 {"id":1518779,"jp":"フリス街角日報社","fr":"Le Quotidien des rues de Fleece"}
+{"id":1518782,"jp":"フリスハーベストホール","fr":"Halle des récoltes de Fleece"}
 {"id":1518785,"jp":"ミランダ・ウッド","fr":"Miranda Wood"}
 {"id":1518787,"jp":"カルノン療養院","fr":"Sanatorium Carnon"}
 {"id":1518789,"jp":"シャイン","fr":"Shine"}
+{"id":1518791,"jp":"未解決ミステリー編集部","fr":"Comité éditorial des mystères non résolus"}
 {"id":1518795,"jp":"森番","fr":"Garde forestier"}
+{"id":1518797,"jp":"エリック・モンクェット","fr":"Eric Monquette"}
+{"id":1518799,"jp":"『カラフル・ドリームナイト』主催団体","fr":"Comité organisateur de la « Nuit des rêves multicolores »"}
 {"id":1518802,"jp":"イトーン苦雪出版社","fr":"Éditions Neige-Amère d'Iton"}
 {"id":1518804,"jp":"ジョシー","fr":"Josie"}
+{"id":1518809,"jp":"ロージア魔法の心出版社","fr":"Éditions du Cœur magique de Rosia"}
+{"id":1518812,"jp":"『金穂の家』宣伝委員会","fr":"Comité de promotion de la « Maison des épis dorés »"}
 {"id":1518815,"jp":"アヴァリアン万識書庫","fr":"Bibliothèque universelle d'Avalian"}
 {"id":1518817,"jp":"フリス鉱業協会","fr":"Association minière de Fleece"}
 {"id":1518820,"jp":"アビィ？","fr":"Abby ?"}
@@ -20304,20 +20595,25 @@
 {"id":1518835,"jp":"トシュア","fr":"Toshua"}
 {"id":1518837,"jp":"フリス保安官 ギルス","fr":"Gilles, shérif de Fleece"}
 {"id":1518871,"jp":"大狼の物語はいまもシャルル村で語り継がれている。しかし、大狼とその末裔である白い狼たちの姿は谷から消えてしまったようだ。","fr":"L'histoire du Grand Loup se raconte encore au Village de Charlulu. Pourtant, le Grand Loup et ses descendants, les loups blancs, semblent avoir disparu de la vallée."}
+{"id":1518872,"jp":"キボの特殊個体に関する考察および研究","fr":"Observations et recherches sur les individus atypiques parmi les Kibo"}
 {"id":1518873,"jp":"匿名の何者かによる、フリスの学者の文体を模したキボの特殊個体に関する『論文』。","fr":"Un « article » anonyme sur les individus spéciaux de Kibo, imitant le style d'un érudit de Fleece."}
 {"id":1518874,"jp":"スノーガ観察日記","fr":"Journal d'observation des Snowga"}
 {"id":1518875,"jp":"バルプが記したモフンガの観察日記。絆を結ばなくても、ふたつの星のような心はすでに寄り添いあっている。","fr":"Le journal d'observation des Mohunga tenu par Barp. Même sans avoir noué de Lien, leurs deux cœurs, pareils à deux étoiles, sont déjà proches l'un de l'autre."}
 {"id":1518876,"jp":"おどし祭りの招待状","fr":"Invitation à la fête de l'Épouvante"}
 {"id":1518877,"jp":"シャルル村の住民が偉大なる森の女神へ送ったおどし祭りの招待状。まさか……あの森の守護者から本当に返事が届くとは。","fr":"Une invitation à la fête de l'Épouvante, envoyée par des habitants du Village de Charlulu à la grande déesse de la forêt. Qui aurait cru que le gardien de la forêt répondrait pour de bon…"}
 {"id":1518878,"jp":"ゾーラの手紙","fr":"Lettre de Zola"}
+{"id":1518880,"jp":"豊穣とソザンカに捧げる賛歌","fr":"Hymne à l'abondance et à Sozanka"}
 {"id":1518882,"jp":"今日食べたもの","fr":"Ce que j'ai mangé aujourd'hui"}
 {"id":1518883,"jp":"名もなき古代の獣人の手記。古びた粘土板に刻まれた数日分の食事記録から、当時の獣人たちの食習慣が垣間見える。","fr":"Le carnet d'un ancien Furrien anonyme. Quelques jours de repas gravés sur une vieille tablette d'argile laissent entrevoir les habitudes alimentaires des Furriens d'alors."}
 {"id":1518884,"jp":"大地はチーズである","fr":"La terre est un fromage"}
 {"id":1518885,"jp":"古代の獣人の世界観を語った詩。素朴なおとぎ話のようだ。","fr":"Un poème sur la vision du monde des anciens Furriens. On dirait un conte simple."}
+{"id":1518886,"jp":"我らがシャーマンに力を捧げよ！！","fr":"Offrez votre force à notre chamane !"}
 {"id":1518887,"jp":"獣人らしい熱さが感じられる勧誘の皮製巻物。呼びかけに応えれば、シャーマンを保護する集会に参加できる。","fr":"Un parchemin de cuir de recrutement, plein de la ferveur propre aux Furriens. Y répondre permet de rejoindre une assemblée qui protège les chamanes."}
 {"id":1518888,"jp":"監視塔の伝言板","fr":"Tableau de messages de la tour de guet"}
 {"id":1518889,"jp":"シャルル村監視塔の依頼板に張られたメモ。監視塔の戦士たちの日常が記録されている。","fr":"Une note affichée sur le panneau de missions de la tour de guet du Village de Charlulu. Elle consigne le quotidien des guerriers de la tour de guet."}
+{"id":1518890,"jp":"真紅、紺碧、新緑の伝説","fr":"La légende de l'écarlate, de l'azur et du vert printanier"}
 {"id":1518892,"jp":"シャルル村の掟","fr":"Les règles du Village de Charlulu"}
+{"id":1518893,"jp":"シャルル村の十の掟。村民は厳守すべし。","fr":"Les dix préceptes du Village de Charlulu. Tous les habitants doivent les respecter scrupuleusement."}
 {"id":1518895,"jp":"鷹匠の手記","fr":"Notes d'un fauconnier"}
 {"id":1518897,"jp":"シャルル村の貝殻伝説","fr":"La légende des coquillages du Village de Charlulu"}
 {"id":1518899,"jp":"淬沙の衍化石書","fr":"Livre de pierre de l'évolution du sable trempé"}
@@ -20332,13 +20628,19 @@
 {"id":1518909,"jp":"風化して剥がれた石碑","fr":"Stèle érodée et écaillée"}
 {"id":1518910,"jp":"欠けた典籍","fr":"Ouvrage incomplet"}
 {"id":1518911,"jp":"落ちていた断片","fr":"Fragment trouvé par terre"}
+{"id":1518912,"jp":"獣人の村民が友に宛てた手紙","fr":"Lettre d'un villageois Furrien à un ami"}
 {"id":1518913,"jp":"竜王時代の遺跡の碑文","fr":"Inscription des ruines de l'ère du Roi dragon"}
 {"id":1518914,"jp":"遺跡に残された瓦","fr":"Tuile restée dans les ruines"}
+{"id":1518915,"jp":"ハイガーデンからの返書","fr":"Lettre de réponse de High Garden"}
 {"id":1518916,"jp":"ハイガーデン議会からガーデナー・メーツァに宛てられた正式な返書。","fr":"La réponse officielle du Conseil de High Garden à la jardinière Metsa."}
+{"id":1518917,"jp":"フリス田園わらべうた全集","fr":"Recueil complet des comptines champêtres de Fleece"}
+{"id":1518919,"jp":"ロンリーランド・フリス編","fr":"Lonely Land - Édition de Fleece"}
+{"id":1518921,"jp":"メメジケン旅館の宣伝広告","fr":"Publicité de l'auberge Memejiken"}
 {"id":1518923,"jp":"金穂の家　来訪者記録","fr":"Maison des Épis d'or : registre des visiteurs"}
 {"id":1518925,"jp":"魔法の鍬物語集","fr":"Contes de la houe magique"}
 {"id":1518926,"jp":"フリス地方に伝わる童話集。地元の風習をテーマとした物語が多い。","fr":"Un recueil de contes de la région de Fleece. Beaucoup d'histoires ont pour thème les coutumes locales."}
 {"id":1518927,"jp":"学者エイダの手帳","fr":"Carnet de recherche d'Ada"}
+{"id":1518929,"jp":"芽吹の谷の鉱石の手引書","fr":"Guide des minerais de la Vallée des Bourgeons"}
 {"id":1518931,"jp":"秦時の手紙","fr":"Lettre de Qin Shi"}
 {"id":1518932,"jp":"だれかが置き忘れた手紙。 \n文章からすると、恋文のようだが……想いを寄せる相手は意外な存在のようだ。","fr":"Une lettre oubliée par quelqu'un.\nD'après le texte, on dirait une lettre d'amour… mais la personne visée semble être une présence inattendue."}
 {"id":1518933,"jp":"モレの日記","fr":"Journal de Morre"}
@@ -20346,14 +20648,24 @@
 {"id":1518935,"jp":"錬金秘術","fr":"Arcanes de l'alchimie"}
 {"id":1518937,"jp":"ボロボロの薬レシピ","fr":"Recette de remède en lambeaux"}
 {"id":1518939,"jp":"切り取られた新聞記事","fr":"Article de journal découpé"}
+{"id":1518941,"jp":"エイダの家計簿：4,000ユニ買いもの挑戦","fr":"Livre de comptes d'Ada : le défi des achats à 4 000 Uni"}
+{"id":1518943,"jp":"辰王朝玉石器特集オークションカタログ","fr":"Catalogue spécial de vente aux enchères d'objets en jade de la dynastie Chen"}
 {"id":1518944,"jp":"【フリスハーベストホールオークションハウス】辰王朝玉石器特集に出品される競売品の紹介文。","fr":"【Maison de ventes de la Halle des Moissons de Fleece】 Présentation des lots de la vente spéciale d'objets de jade de la dynastie Chen."}
+{"id":1518945,"jp":"わたしはグレイターグになった","fr":"Je me suis transformé en Gureitaagu"}
 {"id":1518947,"jp":"葡萄栽培の手引き","fr":"Guide de la culture de la vigne"}
+{"id":1518949,"jp":"カルノン療養院メッセージ帳","fr":"Livre d'or du sanatorium de Carnon"}
 {"id":1518950,"jp":"カルノン療養院メッセージ帳の1ページ。来訪者からの意見収集用で、来訪者のメッセージと施設側の返答が含まれている。","fr":"Une page du livre d'or du sanatorium de Carnon. Destiné à recueillir les avis des visiteurs, il contient leurs messages et les réponses de l'établissement."}
+{"id":1518951,"jp":"シャインキャンディショップ創業記念のお知らせ","fr":"Annonce de l'anniversaire de la confiserie Shine"}
 {"id":1518952,"jp":"シャインキャンディショップの創業記念セールのお知らせ。各種のお得なセットの詳細を紹介している。","fr":"Un avis de soldes pour l'anniversaire de la fondation de la Confiserie Shine. Il détaille divers lots avantageux."}
+{"id":1518953,"jp":"プロミリアの10の未解決ミステリーシリーズ","fr":"Les 10 grands mystères non résolus de Promilia"}
 {"id":1518954,"jp":"プロミリア大陸各地の異聞を集めた冊子。シリーズ化されているようだ。","fr":"Un fascicule qui rassemble des récits insolites de toutes les régions du continent de Promilia. Il semble faire partie d'une série."}
+{"id":1518955,"jp":"星臨者の広く知られた千の偉大な事実","fr":"Mille faits remarquables et bien connus sur l'Enfant des étoiles"}
+{"id":1518957,"jp":"奇物価値保証付き特集オークションカタログ","fr":"Catalogue spécial de vente aux enchères de curiosités à valeur garantie"}
 {"id":1518958,"jp":"【フリスハーベストホールオークションハウス】奇物価値保証付き特集オークションに出品される競売品の紹介文。","fr":"【Maison de ventes de la Halle des Moissons de Fleece】 Présentation des lots de la vente spéciale d'objets rares à valeur garantie."}
 {"id":1518959,"jp":"森番日誌","fr":"Journal du garde forestier"}
+{"id":1518961,"jp":"船に残された別れの手紙","fr":"Lettre d'adieu laissée à bord du navire"}
 {"id":1518962,"jp":"エリック・モンクェットは祖父の死後、ついにゴンドーロを離れる決心をした。出発前、彼はこの別れの手紙を残した。","fr":"À la mort de son grand-père, Eric Monquet s'est enfin décidé à quitter Gondolo. Avant son départ, il a laissé cette lettre d'adieu."}
+{"id":1518963,"jp":"『カラフル・ドリームナイト』チラシ","fr":"Prospectus de la « Nuit des rêves multicolores »"}
 {"id":1518965,"jp":"領主邸の今日の出来事","fr":"Aujourd'hui au manoir du seigneur"}
 {"id":1518966,"jp":"ナナチャに焦点を当てた特集記事。領主邸でメイド長として忙しく働くナナチャの一日が書かれている。","fr":"Un article spécial consacré à Nanacha. Il raconte une journée de Nanacha, cheffe des domestiques très occupée au manoir du seigneur."}
 {"id":1518967,"jp":"麦畑の風と歌","fr":"Le vent et le chant des champs de blé"}
@@ -20363,63 +20675,114 @@
 {"id":1518972,"jp":"祈雲に伝わる民間伝承のひとつ。かつて栄華を極め、いまは失意のなかにある武士が謎の渡り影と出会う物語。","fr":"Un récit populaire de Qiyun. L'histoire d'un samouraï, jadis au sommet de la gloire et aujourd'hui abattu, qui rencontre une mystérieuse ombre voyageuse."}
 {"id":1518973,"jp":"眠れるぬいぐるみ","fr":"La peluche endormie"}
 {"id":1518974,"jp":"子どもたちに愛されるかわいらしい童話。モフリーネがこっそりおもちゃ屋にやって来て、ぬいぐるみのふりをする物語。","fr":"Un joli conte aimé des enfants. Downybrinny se glisse en cachette dans un magasin de jouets et se fait passer pour une peluche."}
+{"id":1518976,"jp":"『キボファイト』宣伝ポスター","fr":"Affiche promotionnelle du « Duel de Kibo »"}
 {"id":1518977,"jp":"『キボファイト地区選抜大会』を告知する宣伝ポスター。","fr":"Une affiche annonçant le « Tournoi de sélection de district du Duel de Kibo »."}
+{"id":1518978,"jp":"ミステリーサークル奇聞","fr":"Étranges récits des cercles de culture"}
 {"id":1518980,"jp":"フリス歴史書","fr":"Histoire de Fleece"}
 {"id":1518981,"jp":"エルフたちの言葉で、フリスが発展する歴史の一部を記している。","fr":"Il consigne, dans la langue des elfes, une partie de l'histoire du développement de Fleece."}
 {"id":1518982,"jp":"坑道作業安全心得","fr":"Consignes de sécurité dans les galeries"}
+{"id":1518983,"jp":"一見普通だが、実は不気味な鉱員たちの就業規則。","fr":"Un règlement de travail des mineurs qui semble ordinaire au premier abord, mais qui se révèle inquiétant."}
 {"id":1518984,"jp":"グルルに関する手紙","fr":"Lettre au sujet de Gururu"}
 {"id":1518985,"jp":"寒悠悠が機関鳶で至急届けさせた短い手紙。非常に慌ただしい筆跡で書かれている。","fr":"Une courte lettre que Han Youyou a fait livrer en urgence par un milan mécanique. Elle est écrite d'une main très fébrile."}
 {"id":1518986,"jp":"『いい子の悪い夢』","fr":"« Le cauchemar de l'enfant sage »"}
+{"id":1518987,"jp":"どうすればいい子になれるのだろうか？","fr":"Comment devenir un enfant sage ?"}
+{"id":1518988,"jp":"『フリス建国史考』（抜粋）","fr":"« Étude historique de la fondation de Fleece » (extrait)"}
 {"id":1518989,"jp":"『フリス建国史考』","fr":"« Étude sur la fondation de Fleece »"}
+{"id":1518990,"jp":"『フリス民話集』（抜粋）","fr":"« Recueil de contes populaires de Fleece » (extrait)"}
 {"id":1518991,"jp":"『フリス民話集』","fr":"« Contes populaires de Fleece »"}
 {"id":1518992,"jp":"事故報告書","fr":"Rapport d'accident"}
 {"id":1518993,"jp":"依頼公告","fr":"Avis de mission"}
+{"id":1518994,"jp":"『郭小宝の手紙（一）』","fr":"« Lettre de Guo Xiaobao (I) »"}
+{"id":1518995,"jp":"『郭小宝の手紙（二）』","fr":"« Lettre de Guo Xiaobao (II) »"}
 {"id":1518996,"jp":"手書きの貨物リスト","fr":"Liste de marchandises manuscrite"}
 {"id":1518998,"jp":"飛空船の積荷リスト","fr":"Liste de cargaison du dirigeable"}
 {"id":1519000,"jp":"ボマークに関する手紙","fr":"Lettre au sujet de Bomark"}
 {"id":1519001,"jp":"依頼の手紙","fr":"Lettre de mission"}
 {"id":1519002,"jp":"ノノ-チシキは力なり","fr":"Nono - Le savoir, c'est le pouvoir"}
 {"id":1519003,"jp":"ミィティ-飛行訓練","fr":"Mitty - Entraînement au vol"}
+{"id":1519004,"jp":"アビィ-はむはむするの","fr":"Abby - Miam miam"}
 {"id":1519005,"jp":"テララ-狩りの心得","fr":"Terara - L'art de la chasse"}
+{"id":1519006,"jp":"ファランタ-碧き空の下で","fr":"Faridah - Sous le ciel azur"}
 {"id":1519007,"jp":"ファランタ-帰還","fr":"Faridah - Le retour"}
 {"id":1519008,"jp":"メーツァ-新生","fr":"Metsa - Renaissance"}
+{"id":1519009,"jp":"アビィ-エネルギー補給","fr":"Abby - Recharge d'Énergie"}
+{"id":1519010,"jp":"ポンポン-カンフーの極意","fr":"Pengpeng - Les secrets du kung-fu"}
 {"id":1519011,"jp":"ペイペイ-修行中","fr":"Peipei - À l'entraînement"}
 {"id":1519012,"jp":"ルルカ-霊の呼び声","fr":"Luruka - L'appel des esprits"}
+{"id":1519013,"jp":"モーレン-キッチンの秘密","fr":"Morwyn - Les secrets de la cuisine"}
+{"id":1519014,"jp":"シャル-夜に羽ばたく想い","fr":"Shalle - Pensées qui s'envolent dans la nuit"}
 {"id":1519015,"jp":"モーレン-星夜の追憶","fr":"Morwyn - Souvenirs d'une nuit étoilée"}
 {"id":1519016,"jp":"蘭香子-千朔の夢\n","fr":"Lan Xiangzi - Le rêve des mille nouvelles lunes\n"}
+{"id":1519017,"jp":"シンフォーリア-風が語る願い","fr":"Symphoria - Les souhaits murmurés par le vent"}
+{"id":1519018,"jp":"シャル-寄り添う思い出","fr":"Shalle - Des souvenirs à nos côtés"}
+{"id":1519019,"jp":"リリィ-スイーツタイム","fr":"Lily - L'heure des douceurs"}
+{"id":1519020,"jp":"ルルカ-籠いっぱいの薬草","fr":"Luruka - Un panier rempli d'herbes médicinales"}
 {"id":1519021,"jp":"蘭香子-闇に潜む者","fr":"Lan Xiangzi - Une présence dans l'ombre"}
+{"id":1519022,"jp":"塗山小玉-儚き紙に心寄せ","fr":"Tushan Xiaoyu - Des sentiments confiés au papier fragile"}
 {"id":1519023,"jp":"塗山小玉-花ノ舞","fr":"Tushan Xiaoyu - Danse des fleurs"}
+{"id":1519024,"jp":"キャスベル-メイドの羽休め","fr":"Cathbelle - Le repos de la servante"}
+{"id":1519025,"jp":"メーツァ-木漏れ日の眼差し","fr":"Metsa - Un regard sous la lumière des feuillages"}
 {"id":1519026,"jp":"寒悠悠-暴走機関鳶","fr":"Han Youyou - Le milan mécanique déchaîné"}
 {"id":1519027,"jp":"ルビーナ-月下の秘儀","fr":"Ruby - Rite secret sous la lune"}
+{"id":1519028,"jp":"ルビーナ-イタズラ大作戦","fr":"Ruby - Opération grandes farces"}
+{"id":1519029,"jp":"カタル-かわいい木登り","fr":"Katalua - Une adorable escalade"}
 {"id":1519030,"jp":"アニス-痛くな～い♪","fr":"Anais - Même pas maaal ♪"}
+{"id":1519031,"jp":"メイプル-未来のスター","fr":"Maple - Future étoile"}
+{"id":1519032,"jp":"ペイペイ-はじめてのおつかい","fr":"Peipei - Les premières courses"}
+{"id":1519033,"jp":"キャスベル-徹底掃除！","fr":"Cathbelle - Grand nettoyage !"}
+{"id":1519034,"jp":"「伝書契約」を確認する","fr":"Consulter le « Contrat de messagerie »"}
 {"id":1519035,"jp":"確認","fr":"Confirmer"}
 {"id":1519036,"jp":"報酬の一時保管","fr":"Récompenses en attente"}
 {"id":1519037,"jp":"辰藍第三星","fr":"Troisième étoile de Chenlan"}
 {"id":1519038,"jp":"バッグの容量がいっぱいのため、報酬を一時的にメールでお送りしました。バッグの空きを確保してからお受け取りください。","fr":"Votre sac est plein : les récompenses vous ont été envoyées provisoirement par courrier. Libérez de la place dans votre sac avant de les récupérer."}
+{"id":1519039,"jp":"農園の違反設置に関する警告","fr":"Avertissement concernant les installations non conformes de la ferme"}
+{"id":1519040,"jp":"『アズールプロミリア』運営チーム","fr":"L'équipe d'Azur Promilia"}
 {"id":1519042,"jp":"キボの一時保管通知","fr":"Avis : Kibo en garde temporaire"}
+{"id":1519043,"jp":"パミー郵便局の職員：ポポ","fr":"Popo, employé du bureau de poste Pammy"}
+{"id":1519045,"jp":"「伝書契約」有効期限間近のお知らせ","fr":"Expiration prochaine du « Contrat de messagerie »"}
 {"id":1519046,"jp":"――パミー郵便局","fr":"– La Poste des Pammy"}
+{"id":1519048,"jp":"「伝書契約」終了のお知らせ","fr":"Expiration du « Contrat de messagerie »"}
+{"id":1519050,"jp":"「旅跡テスト」チャージ還元報酬","fr":"Récompenses de remboursement des recharges du test « Traces du voyage »"}
+{"id":1519052,"jp":"漫遊記の期限切れ間近のお知らせ","fr":"Expiration prochaine du Carnet de voyage"}
 {"id":1519053,"jp":"親愛なる星臨者様：\n現在ご購入いただいている{0} は、あと {1} で終了となります。漫遊記レベルにご注意ください。","fr":"À l'Enfant des étoiles :\nVotre achat actuel, {0}, prendra fin dans {1}. Faites attention à votre niveau de Carnet de voyage."}
+{"id":1519054,"jp":"天道の余塵-潮汐の円環終了間近のお知らせ","fr":"Fin prochaine des Poussières de la voie céleste - Cercle des marées"}
 {"id":1519056,"jp":"――夢からの伝言","fr":"– Un message venu du rêve"}
+{"id":1519057,"jp":"チャット機能は一時的に使用できません。","fr":"Le chat est temporairement indisponible."}
 {"id":1519058,"jp":"システム通知","fr":"Avis système"}
 {"id":1519059,"jp":"{0}、チャット機能の利用が制限されました。{1}後に復旧予定です。","fr":"{0}, l'accès à la fonction de discussion est restreint. Rétablissement prévu dans {1}."}
+{"id":1519060,"jp":"{1}がリセットされました。","fr":"Réinitialisation de {1} effectuée."}
 {"id":1519061,"jp":"{0}、あなたの{1}はリセットされました。ご理解とご支援に感謝いたします。","fr":"{0}, la réinitialisation de votre {1} a été effectuée. Merci de votre compréhension et de votre soutien."}
+{"id":1519062,"jp":"カスタムテキストの内容がすべてリセットされました。","fr":"Tous les textes personnalisés ont été réinitialisés."}
 {"id":1519063,"jp":"{0}、ゲーム内のカスタムテキストの内容がすべてリセットされました。ご理解とご支援に感謝いたします。","fr":"{0}, tous les textes personnalisés du jeu ont été réinitialisés. Merci de votre compréhension et de votre soutien."}
+{"id":1519064,"jp":"イベント「花逢ひの縁契りて」終了間近のお知らせ","fr":"Fin prochaine de l'événement « Liens scellés sous les fleurs »"}
+{"id":1519066,"jp":"イベント「御霊の戦歌」終了間近のお知らせ","fr":"Fin prochaine de l'événement « Chant de guerre des Esprits anciens »"}
 {"id":1519067,"jp":"親愛なる星臨者様：\nイベント「御霊の戦歌」はまもなく終了します。プレイ時間を適切に管理し、期間中にイベントへご参加のうえ、報酬をお受け取りください。\n\nこれからの旅も順調でありますように。","fr":"À l'Enfant des étoiles :\nL'événement « Chant de guerre des Esprits anciens » touche bientôt à sa fin. Veillez à bien gérer votre temps de jeu, participez à l'événement tant qu'il dure et récupérez vos récompenses.\n\nQue la suite de votre voyage se passe sans encombre."}
+{"id":1519068,"jp":"イベント「刃鳴散る！狩猟の祭典」終了間近のお知らせ","fr":"Fin prochaine de l'événement « Fracas des lames ! La fête de la chasse »"}
+{"id":1519070,"jp":"星冠杯シーズン終了および期間限定外見回収のお知らせ","fr":"Fin de saison de la Coupe de la couronne stellaire et retrait des apparences temporaires"}
 {"id":1519071,"jp":"――星冠杯運営委員会","fr":"– Comité d'organisation de la Coupe de la couronne stellaire"}
 {"id":1519073,"jp":"誕生日のお祝い","fr":"Vœux d'anniversaire"}
 {"id":1519074,"jp":"匿名","fr":"Anonyme"}
+{"id":1519077,"jp":"公式アカウントの友だち追加","fr":"Suivre le compte officiel"}
+{"id":1519078,"jp":"『アズールプロミリア』ピィピィ","fr":"Piipii d'Azur Promilia"}
 {"id":1519079,"jp":"星臨者様、\nYostar ID連携のお礼として、ささやかなプレゼントをご用意しました。\nぜひお受け取りください！","fr":"À l'Enfant des étoiles,\nPour vous remercier d'avoir lié votre Yostar ID, nous avons préparé un petit cadeau.\nRécupérez-le sans attendre !"}
+{"id":1519080,"jp":"Webイベント「キボキャンプ大作戦」報酬配布","fr":"Distribution des récompenses de l'événement web « Opération campement des Kibo »"}
+{"id":1519082,"jp":"Webイベント「集結！キボの巣穴に挑め」報酬配布","fr":"Distribution des récompenses de l'événement web « Rassemblement ! À l'assaut du terrier des Kibo »"}
 {"id":1519084,"jp":"農園から出る","fr":"Quitter la ferme"}
 {"id":1519085,"jp":"デイリー","fr":"Quotidien"}
 {"id":1519086,"jp":"パーティ募集","fr":"Recherche d'équipe"}
 {"id":1519087,"jp":"Lv.10見聞の証","fr":"Preuve d'expérience Niv. 10"}
+{"id":1519088,"jp":"星識レベルを10にする","fr":"Atteindre le niveau de Savoir stellaire 10"}
+{"id":1519089,"jp":"累計購入制限：{0}/{1}","fr":"Limite totale d'achat : {0}/{1}"}
 {"id":1519090,"jp":"Lv.20見聞の証","fr":"Preuve d'expérience Niv. 20"}
 {"id":1519091,"jp":"Lv.30見聞の証","fr":"Preuve d'expérience Niv. 30"}
+{"id":1519092,"jp":"星識レベルを30にする","fr":"Atteindre le niveau de Savoir stellaire 30"}
 {"id":1519093,"jp":"Lv.40見聞の証","fr":"Preuve d'expérience Niv. 40"}
 {"id":1519094,"jp":"Lv.50見聞の証","fr":"Preuve d'expérience Niv. 50"}
 {"id":1519095,"jp":"Lv.55見聞の証","fr":"Preuve d'expérience Niv. 55"}
+{"id":1519096,"jp":"星識レベルを55にする","fr":"Atteindre le niveau de Savoir stellaire 55"}
 {"id":1519097,"jp":"Lv.60見聞の証","fr":"Preuve d'expérience Niv. 60"}
 {"id":1519098,"jp":"Lv.65見聞の証","fr":"Preuve d'expérience Niv. 65"}
+{"id":1519099,"jp":"星識レベルを65にする","fr":"Atteindre le niveau de Savoir stellaire 65"}
 {"id":1519100,"jp":"Lv.70見聞の証","fr":"Preuve d'expérience Niv. 70"}
 {"id":1519101,"jp":"Lv.10拡張旅券","fr":"Passeport étendu Niv. 10"}
 {"id":1519102,"jp":"Lv.20拡張旅券","fr":"Passeport étendu Niv. 20"}
@@ -20430,7 +20793,12 @@
 {"id":1519107,"jp":"Lv.60拡張旅券","fr":"Passeport étendu Niv. 60"}
 {"id":1519108,"jp":"Lv.65拡張旅券","fr":"Passeport étendu Niv. 65"}
 {"id":1519109,"jp":"Lv.70拡張旅券","fr":"Passeport étendu Niv. 70"}
+{"id":1519110,"jp":"毎日購入制限：{0}/{1}","fr":"Limite quotidienne d'achat : {0}/{1}"}
+{"id":1519111,"jp":"毎月購入制限：{0}/{1}","fr":"Limite mensuelle d'achat : {0}/{1}"}
 {"id":1519112,"jp":"ユニ×5,000","fr":"Uni ×5 000"}
+{"id":1519113,"jp":"旅立ちのトランク・雲遊","fr":"Malle de départ - Errance dans les nuages"}
+{"id":1519114,"jp":"旅立ちのトランク・秘蔵","fr":"Malle de départ - Trésors cachés"}
+{"id":1519115,"jp":"旅立ちのトランク・追憶","fr":"Malle de départ - Souvenirs"}
 {"id":1519116,"jp":"天工の造物・尋星","fr":"Œuvre céleste : Quête d'étoiles"}
 {"id":1519117,"jp":"天工の造物・問曜","fr":"Œuvre céleste : Question aux astres"}
 {"id":1519118,"jp":"天工の造物・霊息","fr":"Œuvre céleste : Souffle spirituel"}
@@ -20440,12 +20808,22 @@
 {"id":1519122,"jp":"星輝の錦箱","fr":"Coffret de brocart d'éclat stellaire"}
 {"id":1519123,"jp":"星曜の宝箱","fr":"Coffre au trésor astral"}
 {"id":1519124,"jp":"璇璣商会の観測の錦袋","fr":"Bourse de brocart d'Observation de la Compagnie Xuanji"}
+{"id":1519125,"jp":"毎週購入制限：{0}/{1}","fr":"Limite hebdomadaire d'achat : {0}/{1}"}
 {"id":1519126,"jp":"璇璣商会の観測の秘箱","fr":"Coffret secret d'Observation de la Compagnie Xuanji"}
+{"id":1519127,"jp":"パミー郵便局のスタミナ速達","fr":"Livraison express d'endurance du bureau de poste Pammy"}
+{"id":1519128,"jp":"冒険者ギルドのキボ補給","fr":"Fournitures pour Kibo de la Guilde des aventuriers"}
+{"id":1519129,"jp":"冒険者ギルドの週間訓練物資","fr":"Fournitures d'entraînement hebdomadaires de la Guilde des aventuriers"}
+{"id":1519130,"jp":"冒険者ギルドの月間訓練物資","fr":"Fournitures d'entraînement mensuelles de la Guilde des aventuriers"}
+{"id":1519131,"jp":"モルフォーレ・愉快な登場","fr":"Morphore - Une entrée joyeuse"}
 {"id":1519132,"jp":"熱き対峙","fr":"Face-à-face brûlant"}
 {"id":1519133,"jp":"幽夜の礼儀","fr":"L'étiquette de la nuit obscure"}
 {"id":1519134,"jp":"躍動する活力","fr":"Vitalité bondissante"}
 {"id":1519135,"jp":"ピクセルの奇想","fr":"Fantaisie en pixels"}
+{"id":1519136,"jp":"塗山小玉・桃色うさぎの宴","fr":"Tushan Xiaoyu - Le banquet des lapins roses"}
 {"id":1519137,"jp":"アビィ・羽夢の頌歌","fr":"Abby : Ode aux rêves de plumes"}
+{"id":1519138,"jp":"星臨者スキン・煌めく夜の誓い","fr":"Apparence de l'Enfant des étoiles - Serment de la nuit scintillante"}
+{"id":1519139,"jp":"乗りもの・神輝の聖蒜鳥","fr":"Monture - Suanniao sacré à la splendeur divine"}
+{"id":1519140,"jp":"乗りもの・シュガードウ号","fr":"Monture - Sugardew"}
 {"id":1519141,"jp":"翠緑の秘苑","fr":"Jardin secret émeraude"}
 {"id":1519142,"jp":"100星虹","fr":"100 Arcs stellaires"}
 {"id":1519143,"jp":"400星虹","fr":"400 Arcs stellaires"}
@@ -20493,7 +20871,9 @@
 {"id":1519192,"jp":"漫遊記追憶","fr":"Souvenirs du Carnet de voyage"}
 {"id":1519193,"jp":"期間限定コレクション","fr":"Collection à durée limitée"}
 {"id":1519194,"jp":"キボの衣替え","fr":"Garde-robe des Kibo"}
+{"id":1519195,"jp":"エレキカッター・ピクセルの奇想","fr":"Elekicutter - Fantaisie pixellisée"}
 {"id":1519196,"jp":"新規マウント登場！","fr":"Nouvelle monture disponible !"}
+{"id":1519197,"jp":"プレミアム漫遊記アドバンス","fr":"Carnet de voyage premium avancé"}
 {"id":1519198,"jp":"目標地点1","fr":"Objectif 1"}
 {"id":1519199,"jp":"キボスポット1","fr":"Point Kibo 1"}
 {"id":1519200,"jp":"採集地点1","fr":"Point de cueillette 1"}
@@ -20512,53 +20892,101 @@
 {"id":1519214,"jp":"飛行/遊泳","fr":"Vol / Nage"}
 {"id":1519215,"jp":"陸上/遊泳","fr":"Terre / Nage"}
 {"id":1519216,"jp":"滑空翼","fr":"Ailes planantes"}
+{"id":1519217,"jp":"特殊マウント。特定のコンテンツで騎乗可能。","fr":"Monture spéciale. Peut être chevauchée dans certaines activités."}
 {"id":1519218,"jp":"ブレイオスの鞍","fr":"Selle de Breios"}
+{"id":1519219,"jp":"ブレイオスに騎乗するための鞍。","fr":"Selle permettant de chevaucher Breios."}
 {"id":1519221,"jp":"サラマンドの鞍","fr":"Selle de Salamand"}
+{"id":1519222,"jp":"サラマンドに騎乗するための鞍。","fr":"Selle permettant de chevaucher Salamand."}
 {"id":1519224,"jp":"カメレウスの鞍","fr":"Selle de Chameleus"}
+{"id":1519225,"jp":"カメレウスに騎乗するための鞍。","fr":"Selle permettant de chevaucher Chameleus."}
 {"id":1519227,"jp":"ハーチャの鞍","fr":"Selle de Harcha"}
+{"id":1519228,"jp":"ハーチャに騎乗するための鞍。","fr":"Selle permettant de chevaucher Harcha."}
 {"id":1519230,"jp":"スカーレックの鞍","fr":"Selle de Scarlek"}
+{"id":1519231,"jp":"スカーレックに騎乗するための鞍。","fr":"Selle permettant de chevaucher Scarleck."}
 {"id":1519233,"jp":"フィンヴォルフの鞍","fr":"Selle de Finwolf"}
+{"id":1519234,"jp":"フィンヴォルフに騎乗するための鞍。","fr":"Selle permettant de chevaucher Finwolf."}
 {"id":1519236,"jp":"アズドラーンの鞍","fr":"Selle de Azdrahn"}
+{"id":1519237,"jp":"アズドラーンに騎乗するための鞍。","fr":"Selle permettant de chevaucher Azdrahn."}
 {"id":1519239,"jp":"メテオールの鞍","fr":"Selle de Staray"}
+{"id":1519240,"jp":"メテオールに騎乗するための鞍。","fr":"Selle permettant de chevaucher Staray."}
 {"id":1519242,"jp":"スカイホークの鞍","fr":"Selle de Skyhawk"}
+{"id":1519243,"jp":"スカイホークに騎乗するための鞍。","fr":"Selle permettant de chevaucher Skyhawk."}
 {"id":1519245,"jp":"ウルの鞍","fr":"Selle de Ur"}
+{"id":1519246,"jp":"ウルに騎乗するための鞍。","fr":"Selle permettant de chevaucher Uru."}
 {"id":1519248,"jp":"ギガンシャウラの鞍","fr":"Selle de Giganshaura"}
+{"id":1519249,"jp":"ギガンシャウラに騎乗するための鞍。","fr":"Selle permettant de chevaucher Giganshaura."}
 {"id":1519251,"jp":"フォローグの鞍","fr":"Selle de Follog"}
+{"id":1519252,"jp":"フォローグに騎乗するための鞍。","fr":"Selle permettant de chevaucher Follog."}
 {"id":1519254,"jp":"レオバーンドの鞍","fr":"Selle de Leoburnd"}
+{"id":1519255,"jp":"レオバーンドに騎乗するための鞍。","fr":"Selle permettant de chevaucher Leoburnd."}
 {"id":1519257,"jp":"ライカウモの鞍","fr":"Selle de Raikaumo"}
+{"id":1519258,"jp":"ライカウモに騎乗するための鞍。","fr":"Selle permettant de chevaucher Raikaumo."}
 {"id":1519260,"jp":"トランゴの鞍","fr":"Selle de Trango"}
+{"id":1519261,"jp":"トランゴに騎乗するための鞍。","fr":"Selle permettant de chevaucher Trango."}
 {"id":1519263,"jp":"パモーラの鞍","fr":"Selle de Pamora"}
+{"id":1519264,"jp":"パモーラに騎乗するための鞍。","fr":"Selle permettant de chevaucher Pamora."}
 {"id":1519266,"jp":"シーロックの鞍","fr":"Selle de Searock"}
+{"id":1519267,"jp":"シーロックに騎乗するための鞍。","fr":"Selle permettant de chevaucher Searock."}
 {"id":1519269,"jp":"クックルクの鞍","fr":"Selle de Cookluk"}
+{"id":1519270,"jp":"クックルクに騎乗するための鞍。","fr":"Selle permettant de chevaucher Cookluk."}
 {"id":1519272,"jp":"ニィトールの鞍","fr":"Selle de Neetor"}
+{"id":1519273,"jp":"ニィトールに騎乗するための鞍。","fr":"Selle permettant de chevaucher Neetor."}
 {"id":1519275,"jp":"キングラーガの鞍","fr":"Selle de Kingraga"}
+{"id":1519276,"jp":"キングラーガに騎乗するための鞍。","fr":"Selle permettant de chevaucher Kingraga."}
 {"id":1519278,"jp":"ボアラーガの鞍","fr":"Selle de Boaraga"}
+{"id":1519279,"jp":"ボアラーガに騎乗するための鞍。","fr":"Selle permettant de chevaucher Boaraga."}
 {"id":1519281,"jp":"ファウンディの鞍","fr":"Selle de Foundy"}
+{"id":1519282,"jp":"ファウンディに騎乗するための鞍。","fr":"Selle permettant de chevaucher Foundy."}
 {"id":1519284,"jp":"グランザロスの鞍","fr":"Selle de Granzaros"}
+{"id":1519285,"jp":"グランザロスに騎乗するための鞍。","fr":"Selle permettant de chevaucher Granzaros."}
 {"id":1519287,"jp":"マグマロスの鞍","fr":"Selle de Magmaros"}
+{"id":1519288,"jp":"マグマロスに騎乗するための鞍。","fr":"Selle permettant de chevaucher Magmaros."}
 {"id":1519290,"jp":"ガヤックの鞍","fr":"Selle de Gayak"}
+{"id":1519291,"jp":"ガヤックに騎乗するための鞍。","fr":"Selle permettant de chevaucher Gayak."}
 {"id":1519293,"jp":"タウリックの鞍","fr":"Selle de Taurick"}
+{"id":1519294,"jp":"タウリックに騎乗するための鞍。","fr":"Selle permettant de chevaucher Taurick."}
 {"id":1519296,"jp":"クローネックの鞍","fr":"Selle de Kronek"}
+{"id":1519297,"jp":"クローネックに騎乗するための鞍。","fr":"Selle permettant de chevaucher Kronek."}
 {"id":1519299,"jp":"マスティーバの鞍","fr":"Selle de Mustiva"}
+{"id":1519300,"jp":"マスティーバに騎乗するための鞍。","fr":"Selle permettant de chevaucher Mustiva."}
 {"id":1519302,"jp":"キャバードの鞍","fr":"Selle de Cabbird"}
+{"id":1519303,"jp":"キャバードに騎乗するための鞍。","fr":"Selle permettant de chevaucher Cabbird."}
 {"id":1519305,"jp":"モルフォーレの鞍","fr":"Selle de Morphore"}
+{"id":1519306,"jp":"モルフォーレに騎乗するための鞍。","fr":"Selle permettant de chevaucher Morphore."}
 {"id":1519308,"jp":"ガルティガーの鞍","fr":"Selle de Galtiger"}
+{"id":1519309,"jp":"ガルティガーに騎乗するための鞍。","fr":"Selle permettant de chevaucher Galtiger."}
 {"id":1519311,"jp":"ヘヴィーロの鞍","fr":"Selle de Heavyro"}
+{"id":1519312,"jp":"ヘヴィーロに騎乗するための鞍。","fr":"Selle permettant de chevaucher Heavyro."}
 {"id":1519314,"jp":"クロディーメの鞍","fr":"Selle de Clodime"}
+{"id":1519315,"jp":"クロディーメに騎乗するための鞍。","fr":"Selle permettant de chevaucher Clodime."}
 {"id":1519317,"jp":"フログレーミの鞍","fr":"Selle de Frogremi"}
+{"id":1519318,"jp":"フログレーミに騎乗するための鞍。","fr":"Selle permettant de chevaucher Frogremi."}
 {"id":1519320,"jp":"ホーミーロウの鞍","fr":"Selle de Homilow"}
+{"id":1519321,"jp":"ホーミーロウに騎乗するための鞍。","fr":"Selle permettant de chevaucher Homilow."}
 {"id":1519323,"jp":"グルマンクの鞍","fr":"Selle de Gourmank"}
+{"id":1519324,"jp":"グルマンクに騎乗するための鞍。","fr":"Selle permettant de chevaucher Gourmank."}
 {"id":1519326,"jp":"ウィングリフの鞍","fr":"Selle de Wingriff"}
+{"id":1519327,"jp":"ウィングリフに騎乗するための鞍。","fr":"Selle permettant de chevaucher Wingriff."}
 {"id":1519329,"jp":"ラディーバの鞍","fr":"Selle de Radiiba"}
+{"id":1519330,"jp":"ラディーバに騎乗するための鞍。","fr":"Selle permettant de chevaucher Radiiba."}
 {"id":1519332,"jp":"チェシャバットの鞍","fr":"Selle de Cheshabat"}
+{"id":1519333,"jp":"チェシャバットに騎乗するための鞍。","fr":"Selle permettant de chevaucher Cheshabat."}
 {"id":1519335,"jp":"メイルジャークの鞍","fr":"Selle de Mailjark"}
+{"id":1519336,"jp":"メイルジャークに騎乗するための鞍。","fr":"Selle permettant de chevaucher Mailjark."}
 {"id":1519338,"jp":"ロイレーの鞍","fr":"Selle de Roiree"}
+{"id":1519339,"jp":"ロイレーに騎乗するための鞍。","fr":"Selle permettant de chevaucher Roiree."}
 {"id":1519341,"jp":"ホワッポの鞍","fr":"Selle de Howapo"}
+{"id":1519342,"jp":"ホワッポに騎乗するための鞍。","fr":"Selle permettant de chevaucher Howapo."}
 {"id":1519344,"jp":"ナイトフォールの鞍","fr":"Selle de Vespervamp"}
+{"id":1519345,"jp":"ナイトフォールに騎乗するための鞍。","fr":"Selle permettant de chevaucher Vespervamp."}
 {"id":1519347,"jp":"ガイアの鞍","fr":"Selle de Gaia"}
+{"id":1519348,"jp":"ガイアに騎乗するための鞍。","fr":"Selle permettant de chevaucher Gaia."}
 {"id":1519350,"jp":"ドラグブレイズの鞍","fr":"Selle de Dragblaze"}
+{"id":1519351,"jp":"ドラグブレイズに騎乗するための鞍。","fr":"Selle permettant de chevaucher Dragblaze."}
 {"id":1519353,"jp":"フィーロックの鞍","fr":"Selle de Fyrock"}
+{"id":1519354,"jp":"フィーロックに騎乗するための鞍。","fr":"Selle permettant de chevaucher Fyrock."}
 {"id":1519356,"jp":"ララッポの鞍","fr":"Selle de Rarappo"}
+{"id":1519357,"jp":"ララッポに騎乗するための鞍。","fr":"Selle permettant de chevaucher Rarappo."}
 {"id":1519359,"jp":"異脈の星巣","fr":"Nid stellaire des veines aberrantes"}
 {"id":1519360,"jp":"カメラ操作","fr":"Contrôle de la caméra"}
 {"id":1519361,"jp":"カメラ感度","fr":"Sensibilité de la caméra"}
@@ -20586,6 +21014,7 @@
 {"id":1519383,"jp":"マップ","fr":"Carte"}
 {"id":1519384,"jp":"メニュー／終了","fr":"Menu / Quitter"}
 {"id":1519385,"jp":"農園操作","fr":"Commandes de la ferme"}
+{"id":1519386,"jp":"農園へ移動/農園を出る","fr":"Rejoindre la ferme/Quitter la ferme"}
 {"id":1519387,"jp":"基本グラフィック","fr":"Graphismes de base"}
 {"id":1519388,"jp":"フレームレート","fr":"Fréquence d'images"}
 {"id":1519393,"jp":"上限なし","fr":"Illimitée"}
@@ -20615,6 +21044,7 @@
 {"id":1519423,"jp":"アカウント設定","fr":"Réglages du compte"}
 {"id":1519424,"jp":"引き換えコード","fr":"Code d'échange"}
 {"id":1519425,"jp":"クリックして交換","fr":"Cliquer pour échanger"}
+{"id":1519426,"jp":"『アズールプロミリア』利用規約","fr":"Conditions d'utilisation d'Azur Promilia"}
 {"id":1519427,"jp":"確認する","fr":"Confirmer"}
 {"id":1519428,"jp":"ミニマップの回転","fr":"Rotation de la minicarte"}
 {"id":1519429,"jp":"方向固定","fr":"Direction fixe"}
@@ -20622,6 +21052,7 @@
 {"id":1519431,"jp":"リソースの整合性","fr":"Intégrité des ressources"}
 {"id":1519432,"jp":"チェックを開始する","fr":"Lancer la vérification"}
 {"id":1519433,"jp":"位置リセット","fr":"Réinitialiser la position"}
+{"id":1519434,"jp":"現在のアカウントからログアウト","fr":"Se déconnecter du compte actuel"}
 {"id":1519435,"jp":"ログアウト","fr":"Se déconnecter"}
 {"id":1519436,"jp":"テキスト言語","fr":"Langue du texte"}
 {"id":1519437,"jp":"中国語","fr":"Chinois"}
@@ -20629,9 +21060,20 @@
 {"id":1519447,"jp":"メールボックス","fr":"Boîte aux lettres"}
 {"id":1519448,"jp":"敵のマーク","fr":"Marqueurs ennemis"}
 {"id":1519449,"jp":"垂直同期","fr":"Synchronisation verticale"}
+{"id":1519450,"jp":"戦闘カメラの自動リセット","fr":"Réinitialisation automatique de la caméra de combat"}
+{"id":1519451,"jp":"キャラスキル使用時のカメラ演出","fr":"Effets de caméra des compétences de personnage"}
+{"id":1519452,"jp":"キボスキル使用時のカメラ演出","fr":"Effets de caméra des compétences de Kibo"}
+{"id":1519453,"jp":"キボ召喚時のカメラ演出","fr":"Effets de caméra lors de l'invocation de Kibo"}
+{"id":1519454,"jp":"ブレイク時のカメラ演出","fr":"Effets de caméra lors d'une brise"}
+{"id":1519455,"jp":"キャラ切り替え時のカメラ演出","fr":"Effets de caméra lors du changement de personnage"}
+{"id":1519456,"jp":"キボ協力攻撃時のカメラ演出","fr":"Effets de caméra des attaques coopératives de Kibo"}
+{"id":1519457,"jp":"『アズールプロミリア』プライバシーポリシー","fr":"Politique de confidentialité d'Azur Promilia"}
 {"id":1519458,"jp":"『アズールプロミリア』お子様向けプライバシーポリシー","fr":"Politique de confidentialité d'« Azur Promilia » pour les enfants"}
+{"id":1519459,"jp":"『アズールプロミリア』個人情報収集リスト","fr":"Liste des données personnelles collectées par Azur Promilia"}
+{"id":1519460,"jp":"『アズールプロミリア』第三者共有個人情報リスト","fr":"Liste des données personnelles partagées avec des tiers par Azur Promilia"}
 {"id":1519461,"jp":"マウントを召喚","fr":"Invoquer la monture"}
 {"id":1519462,"jp":"キボを召喚／呼び戻す","fr":"Invoquer / Rappeler le Kibo"}
+{"id":1519463,"jp":"チーム編成変更時のキボ入れ替えを確認","fr":"Confirmer le remplacement des Kibo lors d'un changement d'équipe"}
 {"id":1519464,"jp":"アカウント削除","fr":"Supprimer le compte"}
 {"id":1519465,"jp":"削除する","fr":"Supprimer"}
 {"id":1519466,"jp":"カラー設定","fr":"Réglages des couleurs"}
@@ -20656,26 +21098,37 @@
 {"id":1519491,"jp":"常時オン","fr":"Toujours activée"}
 {"id":1519492,"jp":"カスタマーサポート","fr":"Assistance clientèle"}
 {"id":1519493,"jp":"キボの食堂が空です","fr":"La cantine des Kibo est vide"}
+{"id":1519494,"jp":"キャラクターのシャドウ品質","fr":"Qualité des ombres des personnages"}
+{"id":1519495,"jp":"グローバルイルミネーション","fr":"Illumination globale"}
 {"id":1519496,"jp":"AO品質","fr":"Qualité AO"}
 {"id":1519497,"jp":"反射品質","fr":"Qualité des reflets"}
 {"id":1519498,"jp":"被写界深度","fr":"Profondeur de champ"}
 {"id":1519499,"jp":"ブルーム効果","fr":"Effet de halo"}
 {"id":1519500,"jp":"スキン精度","fr":"Précision des apparences"}
+{"id":1519505,"jp":"フィールドボスの登場演出","fr":"Animation d'apparition des boss mondiaux"}
 {"id":1519506,"jp":"群衆の密度","fr":"Densité de la foule"}
 {"id":1519507,"jp":"VRAM使用状況","fr":"Utilisation de la VRAM"}
 {"id":1519508,"jp":"透明度","fr":"Opacité"}
+{"id":1519509,"jp":"キャラクタースキルの不透明度","fr":"Opacité des effets de compétence des personnages"}
 {"id":1519510,"jp":"キボスキルの不透明度","fr":"Opacité des compétences de Kibo"}
 {"id":1519511,"jp":"味方スキルの不透明度","fr":"Opacité des compétences alliées"}
+{"id":1519512,"jp":"敵スキルエフェクトの不透明度","fr":"Opacité des effets de compétence ennemis"}
 {"id":1519513,"jp":"芝生品質","fr":"Qualité de l'herbe"}
 {"id":1519519,"jp":"シャドウタイプ","fr":"Type d'ombre"}
+{"id":1519522,"jp":"移動方向カメラアシスト","fr":"Assistance de la caméra lors des déplacements"}
 {"id":1519523,"jp":"キボファイトの招待","fr":"Invitations au Duel de Kibo"}
 {"id":1519524,"jp":"プロミリア漫遊記","fr":"Carnet de voyage de Promilia"}
 {"id":1519525,"jp":"マルチモード","fr":"Mode multijoueur"}
 {"id":1519526,"jp":"同時表示人数","fr":"Joueurs affichés simultanément"}
 {"id":1519527,"jp":"デバイス負荷","fr":"Charge de l'appareil"}
 {"id":1519528,"jp":"リソースダウンロード","fr":"Téléchargement des ressources"}
+{"id":1519529,"jp":"新バージョンのリソース事前ダウンロード","fr":"Prétéléchargement des ressources de la nouvelle version"}
 {"id":1519530,"jp":"ダウンロードへ","fr":"Télécharger"}
 {"id":1519531,"jp":"ダウンロード完了","fr":"Téléchargement terminé"}
+{"id":1519532,"jp":"キャラダメージ表示の不透明度","fr":"Opacité de l'affichage des DGT des personnages"}
+{"id":1519533,"jp":"キボダメージ表示の不透明度","fr":"Opacité de l'affichage des DGT des Kibo"}
+{"id":1519534,"jp":"味方ダメージ表示の不透明度","fr":"Opacité de l'affichage des DGT des alliés"}
+{"id":1519535,"jp":"敵ダメージ表示の不透明度","fr":"Opacité de l'affichage des DGT des ennemis"}
 {"id":1519536,"jp":"ショートカットバッグ","fr":"Sac de raccourcis"}
 {"id":1519537,"jp":"マウントホイール","fr":"Roue des montures"}
 {"id":1519538,"jp":"キボホイール","fr":"Roue des Kibo"}
@@ -20686,6 +21139,9 @@
 {"id":1519543,"jp":"スペイン語キーボード","fr":"Clavier espagnol"}
 {"id":1519544,"jp":"ロシア語キーボード","fr":"Clavier russe"}
 {"id":1519545,"jp":"自動（システム準拠）","fr":"Auto (selon le système)"}
+{"id":1519546,"jp":"他プレイヤーのキボを非表示","fr":"Masquer les Kibo des autres joueurs"}
+{"id":1519547,"jp":"他のユニットのエフェクトを非表示","fr":"Masquer les effets des autres unités"}
+{"id":1519548,"jp":"マルチモード時のメインエリア内の群衆密度","fr":"Densité de la foule dans la zone principale (multijoueur)"}
 {"id":1519549,"jp":"エフェクト品質","fr":"Qualité des effets"}
 {"id":1519550,"jp":"入力操作","fr":"Commandes de saisie"}
 {"id":1519551,"jp":"ターゲット方式","fr":"Mode de ciblage"}
@@ -20693,8 +21149,10 @@
 {"id":1519553,"jp":"カメラ方向優先","fr":"Priorité à la direction de la caméra"}
 {"id":1519554,"jp":"距離優先","fr":"Priorité à la distance"}
 {"id":1519555,"jp":"夜間プッシュ通知（原初の潮プッシュ通知オン時に有効）","fr":"Notification push nocturne (active lorsque les notifications push de la Marée originelle sont activées)"}
+{"id":1519556,"jp":"飛行騎乗ショートカット操作","fr":"Commandes rapides des montures volantes"}
 {"id":1519557,"jp":"連続ジャンプ","fr":"Sauts consécutifs"}
 {"id":1519558,"jp":"長押しジャンプ","fr":"Maintenir pour sauter"}
+{"id":1519559,"jp":"オートプレイ獲得報酬倍率","fr":"Multiplicateur des récompenses du jeu automatique"}
 {"id":1519560,"jp":"1倍で受取","fr":"Recevoir x1"}
 {"id":1519561,"jp":"2倍で受取","fr":"Recevoir x2"}
 {"id":1519562,"jp":"3倍で受取","fr":"Recevoir x3"}
@@ -20708,11 +21166,18 @@
 {"id":1519570,"jp":"星絆エイムモード照準アシスト","fr":"Aide à la visée en mode visée du Lien stellaire"}
 {"id":1519571,"jp":"照準アシスト強度","fr":"Intensité de l'aide à la visée"}
 {"id":1519572,"jp":"コントローラー設定","fr":"Réglages de la manette"}
+{"id":1519573,"jp":"コントローラー振動強度","fr":"Intensité des vibrations de la manette"}
 {"id":1519574,"jp":"デッドゾーン範囲設定","fr":"Zone morte"}
 {"id":1519575,"jp":"カメラ水平反転","fr":"Inverser la caméra horizontalement"}
 {"id":1519576,"jp":"カメラ垂直反転","fr":"Inverser la caméra verticalement"}
+{"id":1519577,"jp":"HUD右側のボタンガイドを非表示","fr":"Masquer les indications de commandes à droite du HUD"}
 {"id":1519578,"jp":"キーコンフィグ","fr":"Configuration des touches"}
+{"id":1519579,"jp":"『アズールプロミリア』資金決済法","fr":"Azur Promilia - Loi sur les services de paiement"}
+{"id":1519580,"jp":"『アズールプロミリア』特定商取引法","fr":"Azur Promilia - Loi sur les transactions commerciales spécifiques"}
+{"id":1519584,"jp":"コントローラーのスピーカー音量","fr":"Volume du haut-parleur de la manette"}
 {"id":1519585,"jp":"耕作をはじめる","fr":"Commencer à cultiver"}
+{"id":1519586,"jp":"飛行モードで高度を上げる","fr":"Prendre de l'altitude en mode vol"}
+{"id":1519587,"jp":"飛行モードで高度を下げる","fr":"Perdre de l'altitude en mode vol"}
 {"id":1519588,"jp":"コントロール","fr":"Commandes"}
 {"id":1519589,"jp":"グラフィック","fr":"Graphismes"}
 {"id":1519590,"jp":"音声","fr":"Audio"}
@@ -20727,23 +21192,37 @@
 {"id":1519599,"jp":"所持品画面を開く","fr":"Ouvrir l'inventaire"}
 {"id":1519600,"jp":"チーム編成画面を開く","fr":"Ouvrir la composition d'équipe"}
 {"id":1519601,"jp":"マップを開く","fr":"Ouvrir la carte"}
+{"id":1519602,"jp":"キャラクター画面を開く","fr":"Ouvrir le menu des personnages"}
 {"id":1519603,"jp":"メインメニューを開く","fr":"Ouvrir le menu principal"}
 {"id":1519604,"jp":"農園へ移動","fr":"Aller à la ferme"}
 {"id":1519605,"jp":"クエスト画面を開く","fr":"Ouvrir l'écran des quêtes"}
 {"id":1519606,"jp":"キボ画面を開く","fr":"Ouvrir l'écran des Kibo"}
 {"id":1519607,"jp":"フレームレート設定","fr":"Fréquence d'images"}
+{"id":1519608,"jp":"30FPS|60FPS|無制限","fr":"30 FPS|60 FPS|Illimité"}
 {"id":1519610,"jp":"グラフィック全体品質","fr":"Qualité graphique générale"}
+{"id":1519611,"jp":"カスタマイズ|低|中|高|最高","fr":"Personnalisé|Faible|Moyen|Élevé|Ultra"}
 {"id":1519612,"jp":"低|中|高","fr":"Faible|Moyenne|Élevée"}
+{"id":1519615,"jp":"すべてをミュートにする","fr":"Couper tous les sons"}
+{"id":1519617,"jp":"方向固定|カメラの向き","fr":"Direction fixe|Orientation de la caméra"}
+{"id":1519618,"jp":"リソース整合性のチェック","fr":"Vérifier l'intégrité des ressources"}
 {"id":1519619,"jp":"中国語（簡体字）","fr":"Chinois (simplifié)"}
 {"id":1519620,"jp":"解像度設定","fr":"Résolution"}
+{"id":1519622,"jp":"活躍度クエスト画面を開く","fr":"Ouvrir le menu des quêtes d'activité"}
 {"id":1519623,"jp":"メールボックスを開く","fr":"Ouvrir la boîte aux lettres"}
 {"id":1519624,"jp":"心得画面を開く","fr":"Ouvrir l'écran des savoir-faire"}
 {"id":1519625,"jp":"星旅の記録を開く","fr":"Ouvrir la Chronique du voyage stellaire"}
 {"id":1519626,"jp":"キボを召喚/呼び戻す","fr":"Invoquer / Rappeler le Kibo"}
+{"id":1519627,"jp":"獲得したキボの詳細を表示","fr":"Afficher les détails des Kibo obtenus"}
 {"id":1519628,"jp":"明るさ","fr":"Luminosité"}
+{"id":1519631,"jp":"パフォーマンス|バランス|クオリティ","fr":"Performance|Équilibré|Qualité"}
+{"id":1519632,"jp":"ウィンドウ|ボーダーレス|フルスクリーン","fr":"Fenêtré|Sans bordure|Plein écran"}
+{"id":1519633,"jp":"低密度|中密度|高密度","fr":"Faible densité|Densité moyenne|Forte densité"}
+{"id":1519634,"jp":"ダメージのフォントサイズ","fr":"Taille du texte des DGT"}
 {"id":1519635,"jp":"非表示|小|中|大","fr":"Masqué|Petit|Moyen|Grand"}
 {"id":1519636,"jp":"中|高","fr":"Moyen|Élevé"}
 {"id":1519637,"jp":"獲得済み実績を確認","fr":"Voir les succès obtenus"}
+{"id":1519638,"jp":"ソーシャルホイールを開く","fr":"Ouvrir la roue sociale"}
+{"id":1519639,"jp":"OFF|集中時のみオン|常時オン","fr":"Désactivé|Uniquement en Concentration|Toujours activé"}
 {"id":1519640,"jp":"GI品質","fr":"Qualité GI"}
 {"id":1519641,"jp":"ブルーム","fr":"Halo"}
 {"id":1519643,"jp":"ポータブル生産を開く","fr":"Ouvrir la production portative"}
@@ -20830,8 +21309,10 @@
 {"id":1519725,"jp":"アーティストの武器屋","fr":"L'armurerie de l'artiste"}
 {"id":1519726,"jp":"展示会への招待","fr":"Invitation à l'exposition"}
 {"id":1519727,"jp":"この小説がすごい","fr":"Ce roman est formidable"}
+{"id":1519728,"jp":"サプライズに次ぐサプライズ","fr":"De surprise en surprise"}
 {"id":1519729,"jp":"ときめきのプレゼント","fr":"Un cadeau palpitant"}
 {"id":1519730,"jp":"親愛なるお客さま","fr":"À notre chère clientèle"}
+{"id":1519731,"jp":"ハッピー金麦穂カーニバル","fr":"Joyeux carnaval des épis de blé doré"}
 {"id":1519732,"jp":"体調伺い","fr":"Des nouvelles de ta santé"}
 {"id":1519733,"jp":"朝食","fr":"Petit-déjeuner"}
 {"id":1519734,"jp":"外へ出かける","fr":"Sortir"}
@@ -20849,26 +21330,47 @@
 {"id":1519746,"jp":"超記憶","fr":"Mémoire prodigieuse"}
 {"id":1519747,"jp":"探検","fr":"Exploration"}
 {"id":1519748,"jp":"救済","fr":"Salut"}
+{"id":1519749,"jp":"キボファイト大会、来てね！","fr":"Viens au tournoi de Duel de Kibo !"}
+{"id":1519750,"jp":"まったく、あんたってやつはにゃ……","fr":"Décidément, toi alors, nya…"}
 {"id":1519751,"jp":"ありがとうにゃ！","fr":"Merci, nya !"}
+{"id":1519752,"jp":"金麦穂カーニバルの日は時間あるかにゃ？","fr":"Tu es libre le jour du carnaval des épis de blé doré, nya ?"}
+{"id":1519753,"jp":"あの……私って、あなたにとって……","fr":"Euh… Qu'est-ce que je représente pour toi…"}
 {"id":1519754,"jp":"協力への期待","fr":"Espoir de coopération"}
 {"id":1519755,"jp":"修行について","fr":"À propos de l'entraînement"}
 {"id":1519756,"jp":"朧影について","fr":"À propos d'Oborokage"}
 {"id":1519757,"jp":"桜とお茶","fr":"Fleurs de cerisier et thé"}
 {"id":1519758,"jp":"決戦の刻","fr":"L'heure du combat final"}
+{"id":1519759,"jp":"『異彩のキボ』が出現中！","fr":"Un Kibo Variante est apparu !"}
+{"id":1519760,"jp":"『輝くキボ』が出現中！","fr":"Un Kibo brillant est apparu !"}
+{"id":1519761,"jp":"『輝く異彩キボ』出没中！","fr":"Un Kibo Variante brillant a été repéré !"}
+{"id":1519762,"jp":"『星彩のキボ』が出現中！","fr":"Un Kibo étoilé est apparu !"}
+{"id":1519763,"jp":"『輝く星彩キボ』　出没中！","fr":"Un Kibo étoilé brillant a été repéré !"}
+{"id":1519764,"jp":"星臨者、おめでとうケロ！","fr":"Félicitations, Enfant des étoiles, coâ !"}
+{"id":1519765,"jp":"『異彩のキボ』が消えたケロ！","fr":"Le Kibo Variante a disparu, coâ !"}
+{"id":1519766,"jp":"『輝くキボ』が消えたケロ！","fr":"Le Kibo brillant a disparu, coâ !"}
+{"id":1519767,"jp":"『輝く異彩のキボ』が消えたケロ！","fr":"Le Kibo Variante brillant a disparu, coâ !"}
+{"id":1519768,"jp":"『星彩のキボ』が消えちゃったケロ！","fr":"Le Kibo étoilé a disparu, coâ !"}
+{"id":1519769,"jp":"『輝く星彩のキボ』が消えたケロ！","fr":"Le Kibo étoilé brillant a disparu, coâ !"}
 {"id":1519770,"jp":"メルトレイク畔の誘い","fr":"Invitation au bord du lac Melt"}
+{"id":1519771,"jp":"『凶獣ハンター大会』開催！","fr":"Le tournoi de chasse aux Bêtes maudites commence !"}
 {"id":1519772,"jp":"やめておこう……","fr":"Mieux vaut éviter……"}
 {"id":1519773,"jp":"もしかして、試してみようとしてる……？きみの才能なら、とんでもない大惨事を引き起こせそうだよ。","fr":"Tu comptes peut-être l'essayer… ? Avec ton talent, tu pourrais provoquer une catastrophe monumentale."}
 {"id":1519775,"jp":"それも一種の木偶……","fr":"Une sorte de pantin, donc……"}
 {"id":1519776,"jp":"辰王朝には『朴念仁』とかいう人種がいるらしいよ。これも考えようによっては木の人形と言えるよね？","fr":"Il paraît qu'à la dynastie Chen, on trouve des gens qu'on appelle des « blocs de bois ». Vu sous un certain angle, on peut dire que ce sont des pantins en bois, non ?"}
 {"id":1519777,"jp":"もし会えたら……","fr":"Si cette rencontre a lieu……"}
+{"id":1519778,"jp":"わかった。もし会ったら、必ず教えるよ。","fr":"D'accord. Si je les croise, je ne manquerai pas de le signaler."}
+{"id":1519779,"jp":"味はたしかに悪くないね","fr":"C'est vrai que ce n'est pas mauvais"}
+{"id":1519780,"jp":"ちゃんと届いたよ。うん、おいしかった。","fr":"C'est bien arrivé. Et oui, c'était délicieux."}
 {"id":1519781,"jp":"長々と説明して……","fr":"Après toutes ces explications……"}
 {"id":1519782,"jp":"長々と説明してたけど、結局やったのは『丸める』部分だけだったんだね……","fr":"Tu as fait de longues explications, mais au final, tu n'as fait que la partie « rouler en boule »…"}
 {"id":1519783,"jp":"今度一緒に作ろう！","fr":"La prochaine fois, faisons-le ensemble !"}
 {"id":1519784,"jp":"ポンポンマスター","fr":"Maître Pengpeng"}
 {"id":1519785,"jp":"今度一緒に作ろう。丸めるとこを担当するから、あとはポンポンマスターに任せるよ。","fr":"Faisons-le ensemble la prochaine fois. Je m'occuperai de rouler les boules, et pour le reste, je m'en remets au Maître Pengpeng."}
+{"id":1519786,"jp":"いつもおもしろいことが起こるね","fr":"Il se passe toujours quelque chose d'amusant"}
 {"id":1519787,"jp":"桃林ではいつもおもしろいことが起こるね。その子のことは、なんだかこっちまでうれしくなるよ。","fr":"Il se passe toujours des choses amusantes au bois des pêchers. Cette petite, rien que d'y penser, ça me met en joie."}
 {"id":1519788,"jp":"そのとおりだね","fr":"C'est bien ça"}
 {"id":1519789,"jp":"小玉の言うとおりだと思う。一枚目の花びらをちぎったとき、もう答えは決まってたんだね。","fr":"Xiaoyu a raison, je crois. Quand tu as arraché le premier pétale, la réponse était déjà décidée."}
+{"id":1519790,"jp":"縁って本当に不思議……","fr":"Les liens du destin sont vraiment mystérieux…"}
 {"id":1519791,"jp":"縁って本当に不思議だね。小玉が待ち続けてたことに、意味があったんだ。","fr":"Le destin est vraiment mystérieux. Que Xiaoyu ait continué d'attendre avait un sens."}
 {"id":1519792,"jp":"ルーツは同じなのかも","fr":"Peut-être avons-nous les mêmes racines"}
 {"id":1519793,"jp":"もしかしたらすべての生命がひとつの海のひと雫で、最後は同じ海に帰っていくのかもしれないね。","fr":"Peut-être que toutes les vies sont des gouttes d'une même mer, et qu'elles retournent à la fin dans cette même mer."}
@@ -20882,32 +21384,52 @@
 {"id":1519801,"jp":"毎日、外で探検して髪が乱れて困ってたんだ。整えてもらえたらうれしいな。","fr":"À force d'explorer dehors chaque jour, mes cheveux sont tout ébouriffés. Ça me ferait plaisir que tu les arranges."}
 {"id":1519802,"jp":"温かい森の日常だね","fr":"Quelle douce vie en forêt"}
 {"id":1519803,"jp":"それが森の日常なのか……とても温かいね。読むだけで心が穏やかになる……","fr":"Alors voilà le quotidien de la forêt… Il est tout chaleureux. Rien qu'en le lisant, le cœur s'apaise…"}
+{"id":1519804,"jp":"鼻についちゃったかな？","fr":"J'en ai sur le nez ?"}
 {"id":1519805,"jp":"炙り肉を食べてたときに、うっかり鼻にソースをつけちゃったかな？だからずっとにおいがするのかも。","fr":"Quand tu mangeais de la viande grillée, tu as peut-être mis de la sauce sur ton nez sans le faire exprès ? C'est sûrement pour ça que ça sent tout le temps."}
 {"id":1519806,"jp":"大丈夫、手伝うよ！","fr":"Pas de souci, je vais aider !"}
+{"id":1519807,"jp":"怖がらないで。絶対ににおいのもとを見つけてあげる！","fr":"Rien à craindre. Je trouverai d'où vient cette odeur, c'est promis !"}
+{"id":1519808,"jp":"病気じゃないみたい……","fr":"Ça ne ressemble pas à une maladie…"}
 {"id":1519809,"jp":"そんな症状はじめて聞いた。病気とは思えないよ……とにかく落ち着いて、戻るまで待っててね！","fr":"Je n'ai jamais entendu parler de tels symptômes. Ça ne ressemble pas à une maladie… En tout cas, reste calme et patiente jusqu'au retour !"}
+{"id":1519810,"jp":"ひとつ残しておいて――","fr":"Il faudra m'en garder un…"}
 {"id":1519811,"jp":"もっとたくさん食べて","fr":"Mange encore"}
 {"id":1519812,"jp":"テララは成長期なんだからさ、気にしないでたくさん食べて。","fr":"Terara est en pleine croissance, alors ne t'en fais pas et mange à ta faim."}
 {"id":1519813,"jp":"一緒に狩りに行こうか","fr":"Une partie de chasse ensemble ?"}
 {"id":1519814,"jp":"肉を焼くより、テララと一緒に狩りに行くことのほうが楽しみだよ。","fr":"Plutôt que de faire griller de la viande, ce que j'attends avec impatience, c'est d'aller chasser avec Terara."}
+{"id":1519815,"jp":"そんなに奥が深いんだ……","fr":"C'est donc si complexe…"}
 {"id":1519816,"jp":"シャーマンの舞にそんな深い意味があるなんて……まだまだシャルル村について知らないことがたくさんあるね。","fr":"Les danses des chamanes ont une signification aussi profonde… Il y a encore bien des choses que j'ignore sur le Village de Charlulu."}
 {"id":1519817,"jp":"教えてほしい！","fr":"Apprends-moi !"}
 {"id":1519818,"jp":"うん、いいよ！でも、まだシャルル村の舞に慣れてないんだ。そのうち、教えてもらえないかな？","fr":"Oui, d'accord ! Mais je n'ai pas encore l'habitude des danses du Village de Charlulu. Tu pourras me les apprendre un jour ?"}
 {"id":1519819,"jp":"観る専門でいいかな！","fr":"Je peux me contenter de regarder !"}
 {"id":1519820,"jp":"ルルカが舞うときはいつも真剣に見てるんだ！ルルカの舞う姿のほうが綺麗だから、観ることに徹するよ！","fr":"Quand Luruka danse, je la regarde toujours avec attention ! Sa danse est plus belle, alors je me contente de regarder !"}
+{"id":1519821,"jp":"ほら、返事が届いたよ！","fr":"Regarde, une réponse est arrivée !"}
 {"id":1519822,"jp":"ミィティ、実は返事が届くのを楽しみにしてるよね？がっかりさせないよ。ほら、届いた。","fr":"Mitty, en fait, tu attends avec impatience que la réponse arrive, non ? Je ne vais pas te décevoir. Tiens, elle est arrivée."}
 {"id":1519823,"jp":"きみの努力は見てるよ","fr":"Je vois tous tes efforts"}
+{"id":1519824,"jp":"ミィティの努力はいつもちゃんと見てるよ。","fr":"Je vois bien tous les efforts que fait Mitty."}
+{"id":1519825,"jp":"新しい矢？試してみたいな","fr":"Une nouvelle flèche ? J'aimerais l'essayer"}
+{"id":1519826,"jp":"新しい矢？試してみたいな――貸してくれるなら。","fr":"Une nouvelle flèche ? J'aimerais l'essayer… Si on veut bien me la prêter."}
+{"id":1519827,"jp":"すぐに対処したのは正しい判断だよ","fr":"Intervenir immédiatement était la bonne décision"}
 {"id":1519828,"jp":"果汁が乾いてしまうと、綺麗にするのが大変だと聞いたよ。戻って正解だったね。","fr":"J'ai entendu dire que quand le jus de fruit sèche, c'est difficile à nettoyer. Tu as bien fait de rentrer."}
 {"id":1519829,"jp":"明日また続ければいい","fr":"Tu pourras continuer demain"}
 {"id":1519830,"jp":"大丈夫。鍛錬は長い道のりだからね。明日、また頑張ろう！","fr":"Ça va aller. L'entraînement est un long chemin. Reprenons demain avec courage !"}
+{"id":1519831,"jp":"リラックスして、気にしてないよ","fr":"Pas d'inquiétude, ça ne me dérange pas"}
 {"id":1519832,"jp":"そんなに自分にプレッシャーをかけないで。どんなときも、カタルの味方だよ。","fr":"Ne te mets pas autant la pression. Quoi qu'il arrive, je suis de ton côté, Katalua."}
+{"id":1519833,"jp":"ちょうどチケットがあるよ","fr":"J'ai justement des tickets"}
 {"id":1519834,"jp":"モーレンお嬢さま","fr":"Dame Morwyn"}
 {"id":1519835,"jp":"実は、時間が取れなかった客のために、特別に追加公演があるんだ。ちょうどチケットを2枚持ってるよ。","fr":"En fait, il y a une représentation supplémentaire spéciale pour les clients qui n'avaient pas pu venir. J'ai justement deux billets."}
+{"id":1519836,"jp":"その質問はちょっと……","fr":"Cette question est un peu…"}
 {"id":1519837,"jp":"きみが聞きたいこと、公演の話題とはすこしズレてるかな……直接質問したら、きっとパミーたちは嫌がるよ。","fr":"Ce que tu veux savoir s'éloigne un peu du sujet du spectacle… Si tu leur poses directement la question, les Pammy n'apprécieront sûrement pas."}
 {"id":1519838,"jp":"お疲れさま！落ちついたら、一緒にほかの公演を観に行って、気分転換しようよ。","fr":"Bon travail ! Quand les choses seront retombées, allons voir d'autres spectacles ensemble pour nous changer les idées."}
+{"id":1519839,"jp":"挑戦するのが好きなんだ","fr":"J'aime relever des défis"}
 {"id":1519840,"jp":"チャレンジするのが好きなんだ。もちろん、サウナに一番興味があるよ！","fr":"J'aime relever des défis. Bien sûr, c'est le sauna qui m'intéresse le plus !"}
+{"id":1519841,"jp":"リラックスするのもいいよね","fr":"Ça fait du bien de se détendre aussi"}
 {"id":1519842,"jp":"一日の疲れを癒やすには、アロマオイルとハーブをいれたお風呂が一番だよね。","fr":"Pour effacer la fatigue d'une journée, rien ne vaut un bain avec de l'huile aromatique et des herbes, non ?"}
+{"id":1519843,"jp":"ちょっと待って。『事前に』って……","fr":"Un instant. « À l'avance », ça veut dire…"}
+{"id":1519844,"jp":"ちょっと待って。『事前に』ってつまり……","fr":"Un instant. Par « à l'avance », il faut comprendre que…"}
+{"id":1519845,"jp":"パモーラの気持ちはわかるよ","fr":"Je comprends ce que ressent Pamora"}
 {"id":1519846,"jp":"飛空船は大きいから、空中の障害物みたいで飛行を妨げると感じたのかもしれないね。","fr":"Le dirigeable est grand : il a peut-être eu l'air d'un obstacle en plein ciel qui gêne le vol."}
+{"id":1519847,"jp":"種族を問わず空に憧れる者はいるよ","fr":"Quelle que soit son espèce, chacun peut rêver du ciel"}
 {"id":1519848,"jp":"どんな種族にも、大地の束縛から逃れたいと願う者はいるものだよ。","fr":"Quelle que soit l'espèce, il y en a toujours qui rêvent d'échapper à l'emprise de la terre."}
+{"id":1519849,"jp":"ほかの可能性があるかも","fr":"Il existe peut-être d'autres possibilités"}
 {"id":1519850,"jp":"いつか、飛空船よりも高く、はやく……それに、いろんな空の飛び方を見つけだすかもしれないね。そんな予感がするよ。","fr":"Un jour, on trouvera peut-être des façons de voler plus haut et plus vite que les dirigeables… et de bien d'autres manières. J'ai un pressentiment."}
 {"id":1519851,"jp":"同じく眠い……","fr":"Moi aussi, j'ai sommeil……"}
 {"id":1519852,"jp":"そうだね。いくら眠っても足りないような気がする。そろそろしっかり休むべきかも。","fr":"C'est vrai. J'ai l'impression que même en dormant beaucoup, ce n'est jamais assez. Il serait temps de bien me reposer."}
@@ -20915,21 +21437,31 @@
 {"id":1519854,"jp":"不思議だね！ノノが夢で見た場所を一緒に探検するのが楽しみだよ。","fr":"C'est étrange ! J'ai hâte d'explorer avec Nono les lieux qu'elle a vus en rêve."}
 {"id":1519855,"jp":"プロ意識が高いね！","fr":"Quel professionnalisme !"}
 {"id":1519856,"jp":"夢のなかでも探検してるんだ？ノノは本当にプロ意識が高いね！","fr":"Tu explores même dans tes rêves ? Nono, quel professionnalisme !"}
+{"id":1519857,"jp":"キボを探して一緒に行くよ","fr":"Je vais chercher un Kibo pour nous accompagner"}
 {"id":1519858,"jp":"ちょっと待ってね。グランザロスを捕まえて、秘密通路を掘ってあげるよ。","fr":"Attends un peu. Je vais attraper un Granzaros et te creuser un passage secret."}
+{"id":1519859,"jp":"火薬の量どうなってるの","fr":"Mais quelle quantité de poudre a été utilisée ?!"}
 {"id":1519860,"jp":"花火で秘密通路を爆破したって……『ちょっと』火薬を増やしただけって言わなかった！？","fr":"Tu as fait sauter le passage secret avec des feux d'artifice ?… Tu n'avais pas dit que tu avais seulement mis « un peu » plus de poudre ?!"}
+{"id":1519861,"jp":"急いでても名前は書かないと……","fr":"Même dans la précipitation, il faut signer…"}
 {"id":1519862,"jp":"急いでても名前くらい書かなきゃ、助けられないよ。寒悠悠だってことは察しがついたけどさ。","fr":"Même pressé, il faut au moins écrire son nom, sinon je ne peux pas aider. J'avais bien deviné que c'était Han Youyou, cela dit."}
+{"id":1519863,"jp":"身の安全を確保したいな","fr":"Je préfère assurer ma sécurité"}
 {"id":1519864,"jp":"さきに確認しておくけど、人形のなかに変なものは入っていないよね？たとえば火薬とか。","fr":"Je vérifie d'abord : il n'y a rien de bizarre dans la poupée, n'est-ce pas ? De la poudre, par exemple."}
 {"id":1519865,"jp":"報酬はどれくらい？","fr":"Quelle est la récompense ?"}
 {"id":1519866,"jp":"星臨者は清廉潔白、歳上の方に対してはなおさら。騙すなんてできると思う？……もっと報酬を上乗せしてくれなきゃ。","fr":"Un Enfant des étoiles est irréprochable, surtout envers les personnes plus âgées. Tu crois vraiment que je pourrais les tromper ?… Il faudra augmenter la récompense."}
+{"id":1519867,"jp":"有効な手段か確認したいな……","fr":"J'aimerais vérifier si cette méthode est efficace…"}
 {"id":1519868,"jp":"なんだかおもしろそうだけど……そんな手口で本当に騙せるのかな？","fr":"Ça a l'air amusant, mais… est-ce qu'une ruse pareille pourrait vraiment tromper quelqu'un ?"}
 {"id":1519869,"jp":"だまされないぞ！","fr":"Je ne me ferai pas avoir !"}
 {"id":1519871,"jp":"どこに天才機関師が？","fr":"Où est le mécanicien de génie ?"}
 {"id":1519872,"jp":"うんうん、そのとおりだね。でも、きみの言う『腕がよくて頼りになる機関師』って、どこにいるの？まったく見あたらないけど……","fr":"Oui, oui, c'est ça. Mais où est-il, ton « mécanicien habile et fiable » ? Je n'en vois aucun…"}
 {"id":1519873,"jp":"やめておくよ……","fr":"Je vais m'abstenir……"}
 {"id":1519874,"jp":"ここは安全第一だよ。どうして、あんな暗器の罠をわざわざ仕掛けたりするんだろう？","fr":"Ici, la sécurité d'abord. Pourquoi aller installer exprès des pièges à armes dissimulées comme ça ?"}
+{"id":1519875,"jp":"つぎはさきに手紙で教えて……","fr":"La prochaine fois, j'aimerais être prévenu par lettre…"}
+{"id":1519877,"jp":"昔の先生たちはどう思うかな……","fr":"Que penseraient les anciens professeurs de tout ça…"}
+{"id":1519879,"jp":"すばらしい絵の腕前だね","fr":"Quel talent pour la peinture"}
 {"id":1519880,"jp":"こんなふうに描いてくれたなんて……正直、美化されすぎてて、だれかわからなかったよ。","fr":"Tu m'as dessiné comme ça… Franchement, c'était tellement embelli que je n'ai pas reconnu la personne."}
+{"id":1519881,"jp":"その芸術は斬新すぎる……","fr":"Cet art est beaucoup trop avant-gardiste…"}
 {"id":1519882,"jp":"鏡花州のみんなが、花火で打ち上げられる肖像画を囲んで見物するなんて……そんな芸術はあまりに斬新すぎるよ！やめておこう！","fr":"Tous les habitants du Cap Jinghua qui se rassemblent autour d'un portrait lancé en feu d'artifice… Un art aussi novateur, c'est trop ! Mieux vaut y renoncer !"}
 {"id":1519883,"jp":"緊急事態、緊急事態！","fr":"Urgence, urgence !"}
+{"id":1519885,"jp":"これは見物しておかないと","fr":"Je ne peux pas manquer ce spectacle"}
 {"id":1519887,"jp":"正しくは……","fr":"Le mot juste est……"}
 {"id":1519888,"jp":"『グルメ』だよ。","fr":"« Gourmet »."}
 {"id":1519889,"jp":"サインください！","fr":"Un autographe, s'il vous plaît !"}
@@ -20937,17 +21469,22 @@
 {"id":1519891,"jp":"大切にするね","fr":"J'en prendrai grand soin"}
 {"id":1519892,"jp":"ポンポンのサイン、将来プレミアがつくかな？がんばって！","fr":"L'autographe de Pengpeng, il vaudra peut-être cher plus tard ? Courage !"}
 {"id":1519893,"jp":"本当に招待されたの？","fr":"Cette invitation est bien réelle ?"}
+{"id":1519894,"jp":"本当に『招待』されて、食べに行ったのかな？","fr":"S'agissait-il vraiment d'une « invitation » à manger ?"}
 {"id":1519895,"jp":"賢くなったね","fr":"Tu as gagné en sagesse"}
+{"id":1519896,"jp":"『グルメ』、ちゃんと書けるようになったね。","fr":"Le mot « gourmet » est enfin bien orthographié."}
 {"id":1519897,"jp":"綱引きとは……？","fr":"Un tir à la corde…… ?"}
 {"id":1519898,"jp":"ポンポンの名前で、料理の会計が割引になるの？それとも綱引きする羽目になったりする？","fr":"Au nom de Pengpeng, l'addition du repas est réduite ? Ou bien on risque de finir à jouer à la corde ?"}
 {"id":1519899,"jp":"うんうん、がんばるよ","fr":"Oui, oui, je vais faire de mon mieux"}
 {"id":1519900,"jp":"ポンポンマスター、お墨つきありがとうございます。一生懸命がんばります！","fr":"Maître Pengpeng, merci pour votre aval. Je ferai de mon mieux !"}
 {"id":1519901,"jp":"ペイペイと戦うって？","fr":"Combattre Peipei ?"}
 {"id":1519902,"jp":"えっ？ペイペイと戦わなくちゃいけないの？……本当に？","fr":"Hein ? Il faut que je me batte contre Peipei ?… Vraiment ?"}
+{"id":1519903,"jp":"引き分けになったら……","fr":"Et en cas d'égalité…"}
 {"id":1519904,"jp":"引き分けになったら、吉逸楼で卓を囲んで、握手して仲直りするのかな？","fr":"En cas de match nul, est-ce qu'on s'attablera à la maison Jiyi pour se serrer la main et se réconcilier ?"}
 {"id":1519905,"jp":"昼まで眠ってない？","fr":"Tu ne dors pas jusqu'à midi ?"}
 {"id":1519906,"jp":"陽が高く昇ってから、一日がはじまるなんてことはないよね？","fr":"La journée ne commence pas seulement quand le soleil est déjà haut, hein ?"}
+{"id":1519907,"jp":"『入門』の『秘伝書』？","fr":"Un « manuel secret » d'« initiation » ?"}
 {"id":1519908,"jp":"あの……入門と秘伝って言葉が並んでるのは矛盾してないかな？","fr":"Euh… ça ne fait pas contradiction de mettre côte à côte les mots « initiation » et « technique secrète » ?"}
+{"id":1519909,"jp":"きっとマスターの崇拝者だね","fr":"Ce sont sûrement des admirateurs du maître"}
 {"id":1519910,"jp":"そいつらはポンポンの弟子になりたくて、こっそり技を盗みに来たんだね。きっとそうだよ！","fr":"Ces gens-là voulaient devenir disciples de Pengpeng et sont venus voler ses techniques en cachette. Ça ne peut être que ça !"}
 {"id":1519911,"jp":"成長したね、ポンポン","fr":"Tu as bien grandi, Pengpeng"}
 {"id":1519912,"jp":"おお、ポンポンに成長のときが！？悩むのは自然なことだよ、乗り越えたら新たな境地に達することができるはず。","fr":"Oh, l'heure de grandir est venue pour Pengpeng ?! C'est naturel de se tourmenter, et une fois surmonté, on atteindra un nouveau stade."}
@@ -20957,53 +21494,79 @@
 {"id":1519916,"jp":"そう思えただけで、もう天下一のスタート地点に立ってるんだよ！","fr":"Rien que d'avoir pensé ça, tu es déjà sur la ligne de départ du meilleur du monde !"}
 {"id":1519917,"jp":"これも料理だよ","fr":"Ça aussi, c'est de la cuisine"}
 {"id":1519918,"jp":"これも野菜で作る肉料理のひとつだよ。ほら、シャルル村にいたときに作ったことがある！","fr":"C'est aussi un plat de viande fait avec des légumes. Tiens, j'en ai déjà préparé quand j'étais au Village de Charlulu !"}
+{"id":1519919,"jp":"人の種族のポテンシャルは無限大……","fr":"Le potentiel de l'humanité est illimité…"}
 {"id":1519920,"jp":"食べたことはないけど、人の種族のポテンシャルは果てしないね……新しい料理を開発する能力も含めて。","fr":"Je n'en ai jamais mangé, mais le potentiel des humains est sans limites… y compris la capacité d'inventer de nouveaux plats."}
 {"id":1519921,"jp":"ちょっと気になる……","fr":"Ça m'intrigue un peu……"}
 {"id":1519922,"jp":"どこにあるの？つぎは一緒に連れて行って。食べてみるよ。","fr":"C'est où ? La prochaine fois, emmène-moi avec toi. J'en goûterai."}
 {"id":1519923,"jp":"安全第一だよ","fr":"La sécurité avant tout"}
+{"id":1519924,"jp":"安全第一でいこう。怪我しないように気をつけてね。","fr":"La sécurité avant tout. Attention à ne pas se blesser."}
+{"id":1519925,"jp":"きみの実力はわかってる","fr":"Je connais bien ces capacités"}
 {"id":1519926,"jp":"そんな言葉を真に受ける必要はないよ。シンフォーリアはもう十分すごいんだから。","fr":"Inutile de prendre ces paroles au sérieux. Symphoria est déjà formidable."}
+{"id":1519927,"jp":"まさかそういうこと……？","fr":"Ne me dis pas que c'est ça… ?"}
+{"id":1519928,"jp":"エイプルを頭に乗せて、的になってほしいってこと？","fr":"Il faudrait que je pose un Aple sur ma tête pour servir de cible ?"}
 {"id":1519929,"jp":"安心して","fr":"Pas d'inquiétude"}
 {"id":1519930,"jp":"安心して。預かっておくよ。郵便局よりずっと信用できるよね。","fr":"Rassure-toi. Je le garde. C'est bien plus fiable que la poste, non ?"}
+{"id":1519931,"jp":"たまにはうっかりするんだね","fr":"Même les meilleurs ont parfois des moments d'inattention"}
 {"id":1519932,"jp":"しっかり者のシンフォーリアがそんなミスをするなんて、めずらしいね。","fr":"Que Symphoria, si méticuleuse, commette une telle erreur : c'est rare."}
 {"id":1519933,"jp":"遠慮なくいただくよ！","fr":"J'accepte avec plaisir !"}
 {"id":1519934,"jp":"ありがとう、遠慮なくいただくね！シンフォーリアの故郷の果物がおいしいって、ずっと聞いてたから！","fr":"Merci, j'accepte sans façon ! On m'a toujours dit que les fruits du pays de Symphoria étaient délicieux !"}
+{"id":1519935,"jp":"いい結末が待ってるかも","fr":"Une belle fin nous attend peut-être"}
 {"id":1519936,"jp":"そんなに心配しないで、連載中なんだから、物語はまだ終わってないよ――もしかしたら、大団円が待ってるかも？","fr":"Ne t'inquiète pas autant, c'est un feuilleton en cours : l'histoire n'est pas terminée. Peut-être qu'un heureux dénouement nous attend ?"}
 {"id":1519937,"jp":"いまを生きよう","fr":"Vivons le moment présent"}
 {"id":1519938,"jp":"わからないけど……だからこそ、後悔のないように精一杯生きよう。","fr":"Je ne sais pas… mais justement, vivons à fond, pour ne rien regretter."}
+{"id":1519939,"jp":"愛の力を軽く見ないで！","fr":"Ne sous-estime jamais le pouvoir de l'amour !"}
 {"id":1519941,"jp":"仲間なんだから","fr":"Entre compagnons"}
+{"id":1519942,"jp":"遠慮なんてしなくていいよ。仲間なんだから。","fr":"Pas besoin de faire tant de manières. Nous sommes compagnons, après tout."}
 {"id":1519943,"jp":"別れの手紙かと！","fr":"J'ai cru à une lettre d'adieu !"}
+{"id":1519945,"jp":"自分にとっても大切な思い出だよ","fr":"C'est aussi un souvenir précieux pour moi"}
 {"id":1519946,"jp":"直接言ってくれたらよかったのに。もしかして、はずかしい？なんてね、冗談。同じ気持ちだよ……大切な思い出だからね。","fr":"Tu aurais pu me le dire directement. Un peu de gêne, peut-être ? Je plaisante. Moi aussi, je ressens la même chose… ce sont des souvenirs précieux."}
+{"id":1519947,"jp":"あ、たしかに自分のだ……","fr":"Ah, c'est effectivement à moi…"}
 {"id":1519948,"jp":"ありがとう！たしかに置き忘れたよ。戦うとき持ち歩くのに不便だから、置いておいたらそのまま忘れちゃって。","fr":"Merci ! Oui, je l'avais oublié. C'était gênant de le porter au combat, alors je l'ai posé et je l'ai laissé là."}
+{"id":1519949,"jp":"補修が綺麗すぎる……！","fr":"La réparation est beaucoup trop soignée… !"}
 {"id":1519950,"jp":"いやいや、十分だよ！むしろあの補修が綺麗すぎて、ただの袋がグレードアップしたと言ってもいいくらい……","fr":"Mais non, c'est largement suffisant ! Cette réparation est même si propre qu'on pourrait dire que ce simple sac a été amélioré…"}
+{"id":1519951,"jp":"つぎは子鹿にもあげよう","fr":"La prochaine fois, pensons aussi au faon"}
 {"id":1519952,"jp":"ありがとう。このフルーツ、とてもおいしいよね。きみの子鹿も気に入るかも。今度たくさん採ってくるよ。","fr":"Merci. Ce fruit est délicieux, n'est-ce pas ? Ton faon l'aimera sûrement aussi. J'irai en cueillir plein la prochaine fois."}
+{"id":1519953,"jp":"ちょっとしたおすそわけだよ","fr":"C'est juste un petit quelque chose à partager"}
 {"id":1519954,"jp":"最近すごくおいしいフルーツを食べたから、だれかにあげたいと思ったんだ。気楽に受け取って。","fr":"J'ai mangé récemment un fruit très bon, et j'ai voulu en donner à quelqu'un. Prends-le sans cérémonie."}
 {"id":1519955,"jp":"フルーツの捧げもの！","fr":"Une offrande de fruits !"}
 {"id":1519957,"jp":"メーツァのおかげだね","fr":"C'est grâce à toi, Metsa"}
 {"id":1519959,"jp":"穏やかな日常だね","fr":"Quelle vie paisible"}
+{"id":1519961,"jp":"思わず夢見てしまう……","fr":"Je ne peux pas m'empêcher d'en rêver…"}
 {"id":1519962,"jp":"メーツァの話を聞いてると、その美しい夢のなかに入りたくなっちゃうよ。","fr":"En écoutant Metsa, on a envie d'entrer dans ce beau rêve."}
 {"id":1519963,"jp":"よろこんで！","fr":"Avec plaisir !"}
+{"id":1519964,"jp":"じゃあ遠慮なく！盛り上げるのは得意技だからね！","fr":"Alors, sans hésiter ! Mettre de l'ambiance, c'est ma spécialité !"}
 {"id":1519965,"jp":"照れるよ……","fr":"Tu vas me faire rougir……"}
 {"id":1519966,"jp":"ただの散歩なのに、そんなふうに言われるとすこし恥ずかしいな……でも、あんなデートなら、これからもたくさんしたいよ。","fr":"Ce n'était qu'une promenade, mais si tu le dis comme ça, ça me met un peu mal à l'aise… Pourtant, des rendez-vous comme celui-là, j'en veux encore plein à l'avenir."}
+{"id":1519967,"jp":"いっそぜんぶ休みにしちゃおう！","fr":"Autant faire de chaque jour un jour de repos !"}
+{"id":1519969,"jp":"どの森も特別なんだよね","fr":"Chaque forêt a quelque chose d'unique"}
 {"id":1519970,"jp":"わかるよ！どの森にもそれぞれの個性があるよね。そんなふうに森を区別する『印』が、きっと『家のような感覚』なんだろうね！","fr":"Je comprends ! Chaque forêt a sa personnalité. Ce « repère » qui distingue une forêt, c'est sûrement ça, « se sentir chez soi » !"}
+{"id":1519971,"jp":"待ってて、すぐ出発するよ！","fr":"Attends-moi, je pars tout de suite !"}
 {"id":1519972,"jp":"いつでも行くからね！お菓子まで用意してもらったのに、メーツァに足を運ばせるわけにはいかないよ。","fr":"J'irai quand tu veux ! Tu m'as même préparé des gâteaux, je ne vais pas laisser Metsa se déplacer."}
 {"id":1519973,"jp":"すごく楽しみ！","fr":"J'ai tellement hâte !"}
+{"id":1519974,"jp":"楽しみだな！ぜんぶ食べてみるね。","fr":"J'ai hâte ! Je goûterai à tout."}
+{"id":1519975,"jp":"なんだか申し訳ない……","fr":"Ça me met un peu mal à l'aise…"}
 {"id":1519976,"jp":"ごめんね、とても乱暴な形で森に踏み込んでしまったけど……受け入れてもらえたこと、すごくうれしく思ってるよ。","fr":"Pardon pour mon entrée si brutale dans la forêt… mais ça me fait vraiment plaisir que tu m'aies accepté."}
 {"id":1519977,"jp":"だれからの手紙かな？","fr":"De qui vient cette lettre ?"}
 {"id":1519978,"jp":"名もなき送り主","fr":"Expéditeur sans nom"}
+{"id":1519979,"jp":"ごめん……きみはだれ？","fr":"Pardon… Qui es-tu ?"}
 {"id":1519980,"jp":"当ててみようかな……","fr":"Je vais essayer de deviner……"}
 {"id":1519981,"jp":"アビィの字に似てる","fr":"On dirait l'écriture d'Abby"}
 {"id":1519982,"jp":"もしかしてアビィ？","fr":"Ce serait Abby ?"}
 {"id":1519983,"jp":"奇跡だね","fr":"C'est un miracle"}
 {"id":1519984,"jp":"なんて自由なんだ","fr":"Quelle liberté !"}
+{"id":1519985,"jp":"手紙がこうして届いたことが奇跡だよ。","fr":"C'est un miracle que cette lettre soit arrivée jusqu'à nous."}
 {"id":1519986,"jp":"字を教えてあげるよ","fr":"Je vais t'apprendre à écrire"}
 {"id":1519987,"jp":"『星臨者』だよ……帰ったら書き方を教えてあげるね。あと、署名のしかたも。","fr":"C'est « Enfant des étoiles »… Je t'apprendrai à l'écrire en rentrant. Et à signer aussi."}
 {"id":1519988,"jp":"戻るまで待っててね！","fr":"Attends mon retour !"}
+{"id":1519989,"jp":"おいしいものをたくさん買って帰るから！待っててね！","fr":"Je rapporterai plein de bonnes choses à manger ! Attends-moi !"}
 {"id":1519990,"jp":"つぎはもっと作るよ","fr":"J'en ferai davantage la prochaine fois"}
 {"id":1519991,"jp":"つぎに出かけるまえは、もっとたくさんの料理を用意しておくよ。","fr":"Avant notre prochaine sortie, je préparerai beaucoup plus de plats."}
 {"id":1519992,"jp":"ごめん、つぎは必ず","fr":"Pardon, la prochaine fois, promis"}
 {"id":1519993,"jp":"ごめんね、最近ちょっと忙しくて……帰ったら絶対、一緒に遊ぶから。約束するよ。","fr":"Pardon, ces derniers temps, j'ai eu un peu trop à faire… Dès notre retour, on jouera ensemble, c'est promis."}
 {"id":1519994,"jp":"運動するのはどう？","fr":"Et si tu faisais de l'exercice ?"}
 {"id":1519995,"jp":"運動してみるのはどうかな？時間つぶしになるし、体も鍛えられる！それに運動したあとは、気分もよくなるよ。","fr":"Et si tu faisais un peu d'exercice ? Ça fait passer le temps, et ça muscle ! En plus, après le sport, on se sent mieux."}
+{"id":1519996,"jp":"どこへ遊びに行きたい？","fr":"Où aimerais-tu aller jouer ?"}
+{"id":1519997,"jp":"いいね、今度はどこで遊ぶ？アビィが決めていいよ！","fr":"Bonne idée ! Où irons-nous jouer la prochaine fois ? À toi de choisir, Abby !"}
 {"id":1519998,"jp":"いや！大丈夫……","fr":"Non ! Ça va……"}
 {"id":1520000,"jp":"ちょっとした問題","fr":"Un petit problème"}
 {"id":1520001,"jp":"日々の暮らしに失敗はつきもの。ちゃんと謝って、同じことを繰り返さなければ『いい子』だよ。","fr":"Les échecs font partie du quotidien. Si tu t'excuses bien et que tu ne recommences pas, tu es un « gentil enfant »."}
@@ -21014,34 +21577,58 @@
 {"id":1520008,"jp":"考えてることは……","fr":"Ce que j'ai en tête……"}
 {"id":1520009,"jp":"これからもずっと一緒に、いろんな場所に遊びに行って、たくさんおいしいものを食べて、ずっと楽しく過ごせたらって考えてるよ！","fr":"Je pense qu'on pourrait continuer à aller ensemble dans plein d'endroits, manger plein de bonnes choses, et passer de bons moments pour toujours !"}
 {"id":1520010,"jp":"頼りになるね","fr":"On peut compter sur toi"}
+{"id":1520011,"jp":"さすがシャルル村の最強ハンター、頼りになるよ。","fr":"On peut vraiment compter sur la meilleure chasseuse du Village de Charlulu."}
+{"id":1520012,"jp":"約束、たしかに受け取ったよ","fr":"Promesse bien reçue"}
+{"id":1520013,"jp":"はいはい。その約束、ありがたく受け取っておくよ！","fr":"Oui, oui. J'accepte cette promesse avec plaisir !"}
+{"id":1520014,"jp":"署名が「テララだぞ」……？","fr":"La signature dit « C'est Terara ! »… ?"}
 {"id":1520015,"jp":"代わりに書いてくれただれかに、「テララだぞ！」って言ったの？律儀なひとだったんだね。","fr":"Tu as dit « C'est Terara ! » à la personne qui a écrit à ta place ? Quelle personne consciencieuse."}
+{"id":1520016,"jp":"意味が伝わればいいよね","fr":"L'essentiel, c'est que le message soit compris"}
 {"id":1520017,"jp":"手紙を書くのも話すのも、意味がちゃんと伝わればそれでいいんだよ。","fr":"Qu'on écrive une lettre ou qu'on parle, l'important, c'est que le sens passe."}
 {"id":1520018,"jp":"別に下手じゃないよ","fr":"Ce n'est pas si mauvais"}
 {"id":1520019,"jp":"テララの字、別に下手じゃないよ。ひとつひとつの線をきちっと丁寧に書いてる。","fr":"L'écriture de Terara n'est pas mauvaise. Chaque trait est tracé avec soin."}
+{"id":1520020,"jp":"わかった、もっと鍛錬するよ！","fr":"D'accord, je vais m'entraîner davantage !"}
 {"id":1520021,"jp":"わかった。じゃあ、つぎ見回りするときは、テララが獣を追い払ってるあいだ、隣で鍛錬してるよ。","fr":"D'accord. Alors, à ta prochaine ronde, pendant que Terara chasse les bêtes, je m'entraînerai à côté."}
 {"id":1520022,"jp":"歯茎の問題かも","fr":"Ça vient peut-être des gencives"}
 {"id":1520023,"jp":"歯に問題があるとはかぎらないよ。歯茎が炎症を起こしてる可能性もある。","fr":"Ce n'est pas forcément un problème de dents. Les gencives sont peut-être enflammées."}
 {"id":1520024,"jp":"まずは診てもらおう","fr":"Fais-toi d'abord examiner"}
 {"id":1520025,"jp":"肉をガツガツ食べられるかどうかで悩むより、まずはルルカに診てもらおう！","fr":"Plutôt que de t'inquiéter de pouvoir dévorer de la viande, va d'abord te faire examiner par Luruka !"}
+{"id":1520026,"jp":"炙り肉はこっちで準備するよ","fr":"Je m'occuperai de préparer la viande grillée"}
+{"id":1520027,"jp":"まずは病気を治して、炙り肉はこっちで準備するから。","fr":"La priorité, c'est de guérir. Je m'occuperai de préparer la viande grillée."}
 {"id":1520028,"jp":"素敵な場所だよ","fr":"C'est un endroit merveilleux"}
 {"id":1520029,"jp":"シャルル村は本当にすばらしい場所だよ。たくさんの温もりを感じた。あのとき、手を差し伸べてくれたテララのおかげだよ。","fr":"Le Village de Charlulu est vraiment un endroit merveilleux. J'y ai senti beaucoup de chaleur. C'est grâce à Terara, qui m'a tendu la main à ce moment-là."}
 {"id":1520030,"jp":"テララらしいね","fr":"Tout à fait Terara"}
 {"id":1520031,"jp":"『あちこち駆け回る』って……テララらしい！けど、たしかにいつもあちこち駆け回ってるよね。","fr":"« Courir partout »… c'est bien du Terara ! Et c'est vrai qu'elle court toujours partout."}
+{"id":1520032,"jp":"天地は広いし探検は終わらない","fr":"Le monde est vaste et l'exploration sans fin"}
 {"id":1520033,"jp":"そうだね、この世界にはまだまだ探検すべきところがたくさんあると思うよ。一緒にもっと遠い場所まで見に行こう。","fr":"Oui, il y a encore plein d'endroits à explorer dans ce monde. Allons voir plus loin ensemble."}
+{"id":1520034,"jp":"いつものテララに戻ったね。","fr":"Je retrouve enfin la Terara que je connais."}
+{"id":1520035,"jp":"いつものテララだ、また会おうね！","fr":"C'est bien la Terara que je connais. À bientôt !"}
+{"id":1520036,"jp":"返事を待つ時間って長く感じるね……","fr":"Le temps paraît si long lorsqu'on attend une réponse…"}
 {"id":1520037,"jp":"うん、直接話すほうがいいと思う！返事を待つ時間は、長く感じるからね。","fr":"Oui, je pense qu'il vaut mieux se parler directement ! Le temps d'attente d'une réponse paraît long."}
 {"id":1520038,"jp":"これが以心伝心……","fr":"Voilà ce qu'on appelle communiquer sans mots……"}
+{"id":1520040,"jp":"絶対に効く方法があるよ","fr":"Je connais une méthode infaillible"}
 {"id":1520041,"jp":"親を呼ぶのは？絶対に効くはずだよ。子どもたちが一番恐れてることだからね。","fr":"Et si tu appelais leurs parents ? Ça marchera à coup sûr. C'est ce que les enfants craignent le plus."}
+{"id":1520042,"jp":"面と向かって言えないのは……","fr":"Si c'est difficile à dire en face…"}
+{"id":1520043,"jp":"それは、口にすると恥ずかしい言葉があるからかな？","fr":"C'est peut-être parce que certaines choses sont gênantes à dire à voix haute ?"}
 {"id":1520044,"jp":"リラックスしよう","fr":"Détendons-nous"}
+{"id":1520046,"jp":"じゃんけんで解決しよう","fr":"Réglons ça à pierre-papier-ciseaux"}
 {"id":1520047,"jp":"ふたりにじゃんけんをしてもらって、勝ったほうのものにすればいいと思うよ。","fr":"Je pense que tu devrais leur faire jouer à pierre-feuille-ciseaux, et choisir celui du gagnant."}
+{"id":1520048,"jp":"責任の所在をはっきりさせよう","fr":"Clarifions les responsabilités de chacun"}
 {"id":1520049,"jp":"そういう問題を解決するのは、きみの責任じゃないと思う。すべてを抱え込まないほうがいいよ。","fr":"Résoudre ce genre de problèmes n'est pas ta responsabilité, je crois. Ne porte pas tout sur tes épaules."}
 {"id":1520050,"jp":"村長はどうしてる？","fr":"Que fait le chef du village ?"}
 {"id":1520052,"jp":"本当に気になる……","fr":"Ça m'intrigue vraiment……"}
 {"id":1520054,"jp":"調合が知りたいな","fr":"J'aimerais connaître la préparation"}
+{"id":1520056,"jp":"ほしい、すごく役立つよ！","fr":"Ça m'intéresse, ce sera très utile !"}
 {"id":1520058,"jp":"実はわからないんだ","fr":"En fait, je ne sais pas"}
 {"id":1520060,"jp":"文字どおりの意味かな","fr":"C'est sans doute au sens littéral"}
 {"id":1520061,"jp":"文字どおりに解釈すれば、『星から降りてきた者』っていう意味だよね。ルルカはどういう意味だと思う？教えてほしいな。","fr":"Pris au pied de la lettre, ça veut dire « celui qui est descendu des étoiles », non ? Qu'en penses-tu, Luruka ? J'aimerais le savoir."}
+{"id":1520062,"jp":"自分が『最も輝く星』なら……","fr":"Si je suis « l'étoile la plus brillante »…"}
 {"id":1520063,"jp":"伝承って、おもしろいね。もしも自分が『最も輝く星』なら、ルルカはきっと星雲だね。星の輝きを静かに守り続けているから。","fr":"Les légendes sont intéressantes. Si je suis « l'étoile la plus brillante », alors Luruka est sûrement la nébuleuse, car elle protège en silence l'éclat des étoiles."}
+{"id":1520064,"jp":"会えるのを楽しみにしてるよ","fr":"J'ai hâte qu'on se retrouve"}
+{"id":1520066,"jp":"迷うこともあったけど……","fr":"J'ai parfois hésité sur le chemin à suivre…"}
+{"id":1520068,"jp":"ぜんぶ温かい思い出だよ","fr":"Ce sont tous de chaleureux souvenirs"}
+{"id":1520070,"jp":"実は……よくわからなくて","fr":"En réalité… Je ne sais pas trop"}
 {"id":1520071,"jp":"よくわからないけど……気にかけてくれてるのかな？気のせいでなければいいけど。","fr":"Je ne comprends pas bien… mais tu te soucies de moi ? J'espère ne pas me tromper."}
+{"id":1520072,"jp":"それなら手伝ってくれる？","fr":"Dans ce cas, pourrais-tu m'aider ?"}
 {"id":1520073,"jp":"えっと、怪我をしたグラゴを探してるところなんだ。見かけたら連絡して。あの子に薬を塗ってあげないと。","fr":"Euh, je cherche un Grago blessé. Si tu le vois, préviens-moi. Je dois lui mettre de l'onguent."}
 {"id":1520074,"jp":"きっと忙しいよね？","fr":"Tu dois être bien occupé, non ?"}
 {"id":1520075,"jp":"見回り？きっと忙しくしてるんだろうね。手が空いたら、手伝いに行くよ。","fr":"Une ronde ? Tu dois être très occupée. Quand j'aurai du temps libre, je viendrai t'aider."}
@@ -21049,41 +21636,76 @@
 {"id":1520077,"jp":"すごいすごい、さすがミィティ！\n何日か会わないあいだにまた上達したんだね。うれしいよ。","fr":"Génial, génial, bravo Mitty !\nTu as encore progressé en quelques jours sans te voir. Ça me fait plaisir."}
 {"id":1520078,"jp":"もっと詳しく教えて","fr":"Raconte-m'en davantage"}
 {"id":1520079,"jp":"電で気絶させた？きみは怪我してないんだよね？どういう技なんだろう。すごく気になる！","fr":"Tu l'as assommé avec de la foudre ? Tu n'as pas été blessée, au moins ? Quelle technique ! Ça m'intrigue énormément !"}
+{"id":1520080,"jp":"そいつがグラゴを……！","fr":"C'est donc cette créature qui s'en est prise à Grago… !"}
 {"id":1520081,"jp":"話を聞いた感じ、そいつが例のグラゴを傷つけた元凶だったんだろうね。あのかわいそうな子のために怒ってくれて、ありがとう！","fr":"D'après ce que tu racontes, c'était sans doute lui, le responsable qui a blessé ce Grago. Merci de t'être mise en colère pour ce pauvre petit !"}
 {"id":1520082,"jp":"自分を信じて！","fr":"Crois en toi !"}
 {"id":1520083,"jp":"ミィティの能力を疑ったことなんて一度もないよ！だからミィティも自信を持って。きみにできないことなんてないんだから。","fr":"Je n'ai jamais douté des capacités de Mitty ! Alors aie confiance toi aussi. Il n'y a rien que tu ne puisses faire."}
+{"id":1520084,"jp":"また一歩まえに進んだね","fr":"Encore un pas en avant"}
 {"id":1520085,"jp":"ミィティから手紙が届くたび、いい知らせを聞けて嬉しいよ。成長の証としてぜんぶ保管しておかなくちゃ！","fr":"Chaque lettre de Mitty m'apporte de bonnes nouvelles, ça me fait plaisir. Je dois toutes les garder comme preuve de ta croissance !"}
 {"id":1520086,"jp":"武器を作ってほしい！","fr":"Fabrique-moi une arme !"}
+{"id":1520088,"jp":"さみしいってことかな？","fr":"C'est un sentiment de solitude, peut-être ?"}
 {"id":1520089,"jp":"要するにさみしいんだよね？明日、おいしいものを持って、お茶を飲みに行くよ。","fr":"En résumé, tu te sens seule, n'est-ce pas ? Demain, j'apporterai de bonnes choses et on prendra le thé ensemble."}
+{"id":1520090,"jp":"ごめん、最近忙しくて……","fr":"Pardon, j'ai eu beaucoup à faire dernièrement…"}
 {"id":1520091,"jp":"ごめんごめん、最近やることが本当にたくさんあって……でも、安心して。きみを忘れてなんかいないからね！","fr":"Pardon, pardon, j'ai vraiment eu beaucoup à faire ces derniers temps… mais rassure-toi, je ne t'ai pas oubliée !"}
+{"id":1520092,"jp":"サプライズってうれしいよね","fr":"Les surprises font toujours plaisir, n'est-ce pas ?"}
 {"id":1520094,"jp":"だれだってそうだよ","fr":"C'est pareil pour tout le monde"}
 {"id":1520096,"jp":"成長した証だと思うよ","fr":"C'est la preuve que tu as grandi"}
 {"id":1520097,"jp":"すこしずつ自分の心に打ち勝って、過去の影を恐れなくなったんだね。いいことだよ。","fr":"Peu à peu, tu as vaincu ton propre cœur et tu ne crains plus l'ombre du passé. C'est bien."}
+{"id":1520098,"jp":"さらなる挑戦があれば……","fr":"S'il existait un défi encore plus grand…"}
 {"id":1520099,"jp":"空はとても広いものだよ。もしかしたら、ミィティに必要なのは、なにもかもが新しい景色なのかもしれないね。","fr":"Le ciel est immense. Peut-être que ce dont Mitty a besoin, c'est d'un paysage entièrement nouveau."}
 {"id":1520100,"jp":"後半は日記みたいだね","fr":"La seconde moitié ressemble à un journal"}
 {"id":1520101,"jp":"手紙の書き方、すごく斬新だね。うしろのほうは日記みたいになってる。","fr":"Ta façon d'écrire des lettres est très originale. La fin ressemble à un journal."}
+{"id":1520102,"jp":"これって、本当に受け取ってよかったのかな？","fr":"Était-ce vraiment une bonne idée d'accepter ça ?"}
+{"id":1520103,"jp":"これって、本当に自分宛かな？","fr":"Est-ce vraiment à moi que c'est destiné ?"}
+{"id":1520104,"jp":"手紙がもらえてすごくうれしいよ","fr":"Recevoir cette lettre me fait énormément plaisir"}
+{"id":1520105,"jp":"こんにちは。カタルと会えてうれしいよ。","fr":"Bonjour. Ça me fait plaisir de rencontrer Katalua."}
+{"id":1520106,"jp":"だれかに代筆してもらったりした？","fr":"Quelqu'un d'autre a écrit cette lettre à ta place ?"}
 {"id":1520107,"jp":"この手紙も、子どもたちに手伝ってもらって書いたのかな？","fr":"Cette lettre aussi, tu l'as écrite avec l'aide des enfants ?"}
+{"id":1520108,"jp":"今日の分はもう受け取ったよ","fr":"J'ai déjà reçu le courrier d'aujourd'hui"}
+{"id":1520109,"jp":"今日の手紙はすべて読み終えたよ。","fr":"J'ai terminé de lire toutes les lettres d'aujourd'hui."}
 {"id":1520110,"jp":"本当に毎日届くの？","fr":"Ça arrive vraiment tous les jours ?"}
 {"id":1520111,"jp":"この量だと、一通一通に返事をするのはかなり難しいよ……うれしいけどね。","fr":"Avec une telle quantité, répondre à chaque lettre est très difficile… même si ça me fait plaisir."}
+{"id":1520112,"jp":"つぎは直接来てもいいよ","fr":"La prochaine fois, tu peux venir en personne"}
+{"id":1520113,"jp":"つぎは堂々とそばに立って見てよ。","fr":"La prochaine fois, viens te tenir à mes côtés pour regarder, sans te cacher."}
 {"id":1520114,"jp":"手合わせしてみる？","fr":"On s'affronte ?"}
 {"id":1520115,"jp":"そんなに気になるなら、訓練場で思いっきり勝負しようよ。","fr":"Si ça t'intéresse tant, affrontons-nous à fond sur le terrain d'entraînement."}
+{"id":1520116,"jp":"正体がバレちゃった……","fr":"Ma véritable identité a été découverte…"}
 {"id":1520117,"jp":"ついにバレたか……そう、実は伝説で語られている負け知らずの戦士なんだ……","fr":"Ça y est, ça se sait… oui, en réalité, je suis le guerrier invaincu dont parle la légende…"}
+{"id":1520118,"jp":"堅い盾ならいい相棒になれそう","fr":"Un bouclier solide ferait un bon compagnon"}
+{"id":1520119,"jp":"堅い盾と鋭い剣。最高の相棒になれるね！","fr":"Un bouclier solide et une épée tranchante. Nous formerions un duo idéal !"}
 {"id":1520120,"jp":"守ってくれる？","fr":"Tu me protégeras ?"}
+{"id":1520121,"jp":"実は羽化したばかりなんだ。カタルに守ってほしいな。","fr":"En fait, je viens tout juste de sortir de mon cocon. J'aimerais que Katalua me protège."}
+{"id":1520122,"jp":"前向きな自己暗示が必要だね！","fr":"Il faut un peu d'autosuggestion positive !"}
+{"id":1520123,"jp":"きみならできる、きみならできる、きみならできる……","fr":"Tu peux y arriver, tu peux y arriver, tu peux y arriver…"}
+{"id":1520124,"jp":"『いつか』より今日……","fr":"Aujourd'hui plutôt qu'« un jour »…"}
+{"id":1520125,"jp":"今日こそ旅に出るのにぴったりの日だよ。","fr":"Aujourd'hui est le jour idéal pour partir en voyage."}
+{"id":1520126,"jp":"旅に出たら宿屋で名前を言って","fr":"En voyage, pense à donner ton nom à l'auberge"}
 {"id":1520127,"jp":"これから泊まる宿屋に、きみが来たら半値にするように言っておくよ。名前を伝えてみて。","fr":"Je dirai à l'auberge où je vais loger de te faire un tarif demi-prix quand tu viendras. Dis mon nom."}
 {"id":1520128,"jp":"ずっと住みたいくらい","fr":"J'aimerais presque vivre ici pour toujours"}
 {"id":1520129,"jp":"もう頑張りたくない、冒険なんてどうでもいい……シャルル村にずっと住みたい。いいかな？","fr":"Je n'ai plus envie de me donner du mal, l'aventure, je m'en fiche… Je veux vivre au Village de Charlulu pour toujours. Je peux ?"}
 {"id":1520130,"jp":"喜んで手伝うよ","fr":"Je t'aide avec plaisir"}
 {"id":1520131,"jp":"ハクオンさま","fr":"Seigneur Hakuon"}
+{"id":1520132,"jp":"役に立てるなら、いくらでも頼って構わないよ。","fr":"Si je peux être utile, il ne faut surtout pas hésiter à compter sur moi."}
 {"id":1520133,"jp":"報酬について……","fr":"À propos de la récompense……"}
+{"id":1520134,"jp":"報酬については、会って話し合うってことかな？","fr":"Nous discuterons donc de la récompense lorsque nous nous verrons ?"}
 {"id":1520135,"jp":"お断りするよ……","fr":"Je préfère refuser……"}
 {"id":1520136,"jp":"悪いけど、お断りするよ。目指しているのは星の海だからね。","fr":"Je regrette, mais c'est non. Ce que je vise, c'est la mer d'étoiles."}
 {"id":1520137,"jp":"モーレンらしいね","fr":"C'est bien Morwyn"}
 {"id":1520138,"jp":"とてもモーレンらしいスタイルだね。楽しみにしてるよ。","fr":"C'est un style très Morwyn. J'ai hâte."}
 {"id":1520139,"jp":"一緒にやるのはどう？","fr":"Pourquoi ne pas le faire ensemble ?"}
+{"id":1520140,"jp":"どうせなら、ふたりで踊るのはどうかな？","fr":"Tant qu'à faire, pourquoi ne pas danser ensemble, rien que nous deux ?"}
 {"id":1520141,"jp":"失敗した……","fr":"J'ai échoué……"}
 {"id":1520142,"jp":"えっ？しまった……きみに楽器を贈ろうと思ってたんだけど……","fr":"Hein ? Zut… je comptais t'offrir un instrument…"}
+{"id":1520143,"jp":"モーレンはもう完璧だよ","fr":"Morwyn est déjà parfaite"}
+{"id":1520144,"jp":"自分から見れば、きみはもう完璧な存在だよ。","fr":"À mes yeux, tu es déjà parfaite."}
+{"id":1520145,"jp":"心に従ってみたらどうかな","fr":"Pourquoi ne pas écouter ton cœur ?"}
+{"id":1520146,"jp":"もっと見つめてくれても、いいんだよ。","fr":"Tu peux continuer à me regarder, tu sais."}
+{"id":1520147,"jp":"まだまだ鍛錬しないと……","fr":"Je dois encore beaucoup m'entraîner…"}
 {"id":1520148,"jp":"どっちも完璧じゃないかもしれない、まだまだ鍛錬が必要だね。一緒に強くなろう！","fr":"Ni l'un ni l'autre n'est peut-être parfait, il faut s'entraîner encore. Devenons plus forts ensemble !"}
+{"id":1520149,"jp":"実は味見しちゃったんだ","fr":"En fait, j'y ai déjà goûté"}
 {"id":1520150,"jp":"きみの代わりに『アフターミッドナイト』を味見したよ。すこし変わった味わいだった。きっと気に入ると思うよ。","fr":"J'ai goûté l'« Après minuit » à ta place. Il a une saveur un peu particulière. Je pense qu'il te plaira."}
+{"id":1520151,"jp":"時間があえば一緒に飲もう","fr":"Prenons un verre ensemble quand nous aurons le temps"}
+{"id":1520152,"jp":"約束だよ。今度、一緒にフリスに行こう。","fr":"C'est promis. La prochaine fois, nous irons ensemble à Fleece."}
 {"id":1520153,"jp":"ふたりきりで？","fr":"Rien que nous deux ?"}
 {"id":1520154,"jp":"それって、一日中ずっと一緒ってことかな？楽しみだよ。","fr":"Tu veux dire qu'on serait ensemble toute la journée ? J'ai hâte."}
 {"id":1520155,"jp":"いまから楽しみだよ。","fr":"J'ai déjà hâte"}
@@ -21094,7 +21716,10 @@
 {"id":1520160,"jp":"「{playerName}」にとって、きみはもうとっくに「モーレン」――唯一無二の存在だよ。","fr":"Pour « {playerName} », tu es depuis longtemps « Morwyn », un être unique au monde."}
 {"id":1520161,"jp":"光栄だよ","fr":"C'est un honneur"}
 {"id":1520162,"jp":"シャルへ","fr":"À Shalle"}
+{"id":1520163,"jp":"ペガサスナイトとともに歩めるなんて、光栄だよ。","fr":"C'est un honneur de cheminer aux côtés d'un chevalier pégase."}
 {"id":1520164,"jp":"頑張るね","fr":"Je vais faire de mon mieux"}
+{"id":1520165,"jp":"きみとロイレーの期待を裏切らないように頑張るよ。","fr":"Je ferai de mon mieux pour être à la hauteur de tes attentes et de celles de Roiree."}
+{"id":1520166,"jp":"連れ去られてたかも……","fr":"Il aurait pu s'agir d'un enlèvement…"}
 {"id":1520167,"jp":"信じたのが悪人じゃなくてよかったね。そうでなければ、ロイレーを連れ去られてたかもしれないよ。","fr":"Heureusement que celui en qui tu as eu confiance n'était pas un méchant. Sinon, on aurait peut-être emporté Roiree."}
 {"id":1520168,"jp":"気をつけて。きみたちどちらも、その……怪我しないように……","fr":"Fais attention. Vous deux, enfin… ne vous blessez pas…"}
 {"id":1520169,"jp":"演武の場所はどこ？","fr":"Où aura lieu la démonstration ?"}
@@ -21109,9 +21734,16 @@
 {"id":1520178,"jp":"これ、戦闘の携行食なの？てっきりどこかの高級レストランが作った料理かと思ったよ！","fr":"C'est une ration de combat ? J'aurais cru un plat d'un grand restaurant !"}
 {"id":1520179,"jp":"模範的存在だね！","fr":"Un vrai modèle !"}
 {"id":1520180,"jp":"どこから見ても、シャルはペガサスナイトの模範的存在だね！","fr":"Sous tous les angles, Shalle est le modèle même du chevalier pégase !"}
+{"id":1520181,"jp":"『ツインフェザー』はシャルにふさわしいよ","fr":"Le titre de « Double plume » convient parfaitement à Shalle"}
+{"id":1520182,"jp":"身分がどうあれ、シャルはその称号にふさわしいよ。","fr":"Quel que soit son statut, Shalle mérite ce titre."}
+{"id":1520183,"jp":"きみとともに歩む者は……","fr":"La personne qui chemine à tes côtés…"}
 {"id":1520184,"jp":"じゃあ、きみとともに歩む者の称号は『ツインフェザーの対になる者』なんてどう？","fr":"Alors, que dirais-tu, comme titre pour qui marche à tes côtés : « Le pendant des Plumes jumelles » ?"}
+{"id":1520185,"jp":"お互いの夢のために……","fr":"Pour nos rêves à tous les deux…"}
 {"id":1520186,"jp":"夢のために……それからシャルのために、これからも頑張るよ！","fr":"Pour mon rêve… et pour Shalle, je continuerai à faire de mon mieux !"}
 {"id":1520187,"jp":"遠慮なく頼って","fr":"Tu peux compter sur moi"}
+{"id":1520188,"jp":"遠慮なく頼ってね！同じようにきみを頼るから。","fr":"N'hésite pas à compter sur moi ! Je compterai aussi sur toi."}
+{"id":1520189,"jp":"いまだけじゃなく、未来も……","fr":"Pas seulement aujourd'hui, mais aussi à l'avenir…"}
+{"id":1520190,"jp":"夢が叶ったあとも、一緒に長く美しい旅を続けよう。","fr":"Même lorsque ton rêve se réalisera, poursuivons ensemble ce long et merveilleux voyage."}
 {"id":1520191,"jp":"いいかんじだね","fr":"Ça me paraît bien"}
 {"id":1520192,"jp":"鷹主さま","fr":"Seigneur Faucon"}
 {"id":1520193,"jp":"ファランタの言葉はすごく丁寧だし、不適切なところなんかまったくないよ！","fr":"Faridah s'exprime avec beaucoup de politesse, il n'y a rien d'inapproprié !"}
@@ -21125,45 +21757,66 @@
 {"id":1520201,"jp":"ファランタは赤辛子がすごく好きみたいだから、赤辛子の話をしてみるのはどうかな。","fr":"Faridah a l'air d'adorer la sauce au piment rouge, alors pourquoi ne pas parler de sauce au piment rouge ?"}
 {"id":1520202,"jp":"わからない……","fr":"Je ne sais pas……"}
 {"id":1520203,"jp":"うーん……わからない。いつも思いついたことを書いてるだけだから。","fr":"Hum… je ne sais pas. J'écris toujours ce qui me passe par la tête."}
+{"id":1520204,"jp":"毎日赤辛子を食べてるね……","fr":"Du piment rouge tous les jours…"}
 {"id":1520206,"jp":"出た！感嘆符！","fr":"Le voilà ! Un point d'exclamation !"}
 {"id":1520207,"jp":"ファランタが『！』を使うの、はじめて見た。記念すべき一回目が赤辛子に対してだなんて……","fr":"C'est la première fois que je vois Faridah utiliser un « ! ». Et pour sa toute première fois, c'est pour la sauce au piment rouge…"}
 {"id":1520208,"jp":"胃腸に注意して","fr":"Ménage ton estomac"}
 {"id":1520210,"jp":"赤辛子のにおいが！","fr":"Ça sent la sauce au piment rouge !"}
 {"id":1520211,"jp":"今日も赤辛子を食べたよね！手紙から赤辛子のにおいがするよ！","fr":"Tu as encore mangé de la sauce au piment rouge aujourd'hui ! La lettre sent la sauce au piment rouge !"}
+{"id":1520212,"jp":"『昨日は』食べなかった？","fr":"Pas « hier » ?"}
 {"id":1520213,"jp":"昨日は食べなかったってことは、ほかの日は毎日食べてるってこと……？","fr":"Si tu n'en as pas mangé hier, ça veut dire que tu en manges tous les autres jours… ?"}
+{"id":1520214,"jp":"赤辛子ソース没収か……","fr":"La sauce au piment rouge a donc été confisquée…"}
 {"id":1520215,"jp":"シャーマンの手際のよさからすると、胃が痛くなったのははじめてじゃなさそうだね……よくやった、シャーマン。","fr":"Vu l'habileté du chamane, ce n'est sans doute pas la première fois que son estomac lui joue des tours… Bien joué, chamane."}
 {"id":1520216,"jp":"その感じはまさか……","fr":"Cette sensation, ce serait……"}
 {"id":1520217,"jp":"勘違いじゃなければ、その感覚は『期待』と呼べるもの、かな。","fr":"Si je ne me trompe pas, cette sensation s'appelle de l'« attente », non ?"}
+{"id":1520218,"jp":"一緒に赤辛子を食べる……","fr":"Manger du piment rouge ensemble…"}
 {"id":1520219,"jp":"どうしても一緒に食べなきゃいけないなら……レッチルフにしてもいいかな？","fr":"S'il faut vraiment manger ensemble… on peut choisir le Retchilf ?"}
 {"id":1520220,"jp":"忙しくないよ！","fr":"Je ne suis pas occupé !"}
 {"id":1520221,"jp":"返事はすぐに書けるし、いつでも一緒に行けるよ！待ってて！","fr":"Je peux répondre tout de suite et je peux venir quand tu veux ! Attends-moi !"}
 {"id":1520222,"jp":"受け取ったよ","fr":"Bien reçu"}
 {"id":1520223,"jp":"ノノへ","fr":"À Nono"}
 {"id":1520224,"jp":"ちゃんと届いたよ。ほら、届いてなかったら返事なんて書けないからね……","fr":"La lettre est bien arrivée. Tiens, si elle n'était pas arrivée, je n'aurais pas pu répondre…"}
+{"id":1520225,"jp":"手紙の宛名が『宛名』……","fr":"Le destinataire de la lettre est « Destinataire »…"}
 {"id":1520226,"jp":"ノノが書いた宛名はちょっと曖昧だけど……信頼できる郵便局のおかげでちゃんと届いたよ！","fr":"L'adresse écrite par Nono est un peu vague… mais grâce à la poste, en qui on peut avoir confiance, elle est bien arrivée !"}
+{"id":1520227,"jp":"手紙を送るのは宝探しと似てるかも","fr":"Envoyer des lettres ressemble un peu à une chasse au trésor"}
 {"id":1520228,"jp":"結果から見ると、宝探しと手紙を送るのは似たようなものだね。宝の地図をだれかに託して届けてもらってるようなものだし！","fr":"En fin de compte, chasser les trésors et envoyer des lettres, c'est à peu près pareil. C'est comme confier une carte au trésor à quelqu'un pour qu'il la livre !"}
 {"id":1520229,"jp":"宝の隠し場所は……","fr":"La cachette du trésor est……"}
 {"id":1520230,"jp":"安全のために、宝の隠し場所はむやみに教えないほうがいいんじゃないかな？信頼してもらえてうれしいけど！","fr":"Par sécurité, il vaudrait mieux ne pas dévoiler à tout va les cachettes des trésors, non ? Ça me touche que tu me fasses confiance, ceci dit !"}
+{"id":1520231,"jp":"やっぱり宛名が違うかな……","fr":"Le nom du destinataire est peut-être encore incorrect…"}
 {"id":1520232,"jp":"届ける相手の名前を書くところに『宛名』って書いちゃダメだよ。面倒なら「星臨者へ」って書くだけでいいから。","fr":"Dans la case du destinataire, il ne faut pas écrire « destinataire ». Si c'est trop pénible, écris simplement « À l'Enfant des étoiles »."}
 {"id":1520233,"jp":"大切に保管するよ……","fr":"Je vais le garder précieusement……"}
 {"id":1520234,"jp":"ありがとう、もらった手紙は大切に保管しておくよ。手紙を読むと、そのときの気持ちを思い出せるから。","fr":"Merci, je garderai précieusement les lettres que tu m'envoies. En les lisant, je retrouve ce que je ressentais à ce moment-là."}
+{"id":1520235,"jp":"懐かしい感じがする……","fr":"Ça me rappelle de vieux souvenirs…"}
 {"id":1520236,"jp":"よくわからないけど、この道はなんだか懐かしい感じがする……もしかしたら、本当になにか見つかるかもね！","fr":"Je ne sais pas trop, mais ce chemin me paraît étrangement familier… peut-être qu'on va vraiment trouver quelque chose !"}
+{"id":1520237,"jp":"正しい宛名だ、ごほうびあげなきゃ！","fr":"Le bon destinataire ! Ça mérite une récompense !"}
 {"id":1520238,"jp":"今回は宛名を正しく書けたね。ごほうびにバターシュガーパンを――と思ったけど、渡すのは雨が止んだあとになるかな。残念。","fr":"Cette fois, tu as bien écrit l'adresse. En récompense, un pain beurre-sucre… enfin, c'était mon idée, mais je ne pourrai te le remettre qu'une fois la pluie arrêtée. Dommage."}
+{"id":1520239,"jp":"貴重なお休みなんだから","fr":"Ce sont de précieux jours de repos, après tout"}
+{"id":1520241,"jp":"宝の隠し場所を隠せるようになったけど……","fr":"La cachette du trésor est désormais bien dissimulée, mais…"}
 {"id":1520242,"jp":"宝の隠し場所を隠せるようになるのはすばらしいけど……辰王朝には「ここに銀三百両なし」っていう、古い格言があってね……","fr":"Savoir cacher la cachette du trésor est admirable… mais à la dynastie Chen, il existe un vieil adage : « Ici, il n'y a pas trois cents taels d'argent »…"}
+{"id":1520243,"jp":"『キラキラ』ね！わかったよ","fr":"« Tout ce qui brille », c'est compris !"}
 {"id":1520244,"jp":"ノノは宝の価値を『キラキラ』で判断するんだね！つぎ、なにを贈るべきかわかったよ。","fr":"Nono juge la valeur d'un trésor à son « éclat » ! Je sais maintenant quoi offrir la prochaine fois."}
+{"id":1520245,"jp":"心配しないで、教えるから","fr":"Pas d'inquiétude, je vais tout expliquer"}
 {"id":1520246,"jp":"封筒に入らないものは、小包で郵送すればいいんだよ。今度、一緒に郵便局に行こう。やり方を教えてあげる。","fr":"Ce qui ne tient pas dans une enveloppe, on peut l'envoyer par colis. La prochaine fois, allons ensemble à la poste. Je t'expliquerai comment faire."}
+{"id":1520247,"jp":"ノノならきっと大冒険家になれる","fr":"Nono deviendra sûrement une grande aventurière"}
 {"id":1520249,"jp":"諦めちゃダメ！","fr":"N'abandonne pas !"}
 {"id":1520250,"jp":"探検への情熱をずっと持ち続けてるノノはすごく偉いよ。ノノが続けたいと願う限り、いつだって応援するからね。","fr":"Nono garde toujours sa passion pour l'exploration, c'est admirable. Tant que Nono voudra continuer, je la soutiendrai."}
+{"id":1520251,"jp":"『結構』の使い方が違うような……","fr":"Ce n'est pas vraiment ainsi qu'on emploie « assez »…"}
 {"id":1520252,"jp":"『結構』って言い方はちょっとあれだけど……言いたいことはわかるよ！探検はたしかにやめられないね。","fr":"Dire « pas mal » est un peu bizarre… mais je comprends ce que tu veux dire ! L'exploration, impossible d'arrêter, en effet."}
+{"id":1520253,"jp":"手紙がもらえてすごくうれしいよ。","fr":"Recevoir cette lettre me fait énormément plaisir."}
 {"id":1520254,"jp":"手紙をもらえて、すごくうれしかったよ。別れたあとも、ずっと気にかけてくれていたなんて、思ってもみなかった。","fr":"Ta lettre m'a fait très plaisir. Je n'aurais jamais imaginé que tu penserais encore à moi après notre séparation."}
 {"id":1520255,"jp":"特別な縁？","fr":"Un destin particulier ?"}
 {"id":1520256,"jp":"『特別な縁』？なんだか謎めいてるね……楽しみにしてるよ。","fr":"Un « lien particulier » ? Voilà qui est mystérieux… j'ai hâte."}
+{"id":1520257,"jp":"つぎに助けが必要なときは……","fr":"La prochaine fois qu'il faudra de l'aide…"}
 {"id":1520258,"jp":"つぎに助けが必要なときは、まっさきに小玉にお願いするよ。もちろん、なんの面倒にも遭わないことを願っているけど。","fr":"La prochaine fois que j'aurai besoin d'aide, je demanderai d'abord à Xiaoyu. En espérant, bien sûr, ne pas avoir d'ennuis."}
+{"id":1520259,"jp":"本当は楽しんでるくせに","fr":"Au fond, ça t'amuse, avoue-le"}
 {"id":1520260,"jp":"だれかの縁を守るのを助けたあと、いつも幸せそうな顔をしてる。本当はきみも楽しんでるんじゃない……？","fr":"Après avoir aidé à protéger le destin de quelqu'un, tu as toujours l'air heureuse. Au fond, tu t'amuses aussi, non… ?"}
+{"id":1520261,"jp":"今度はこっちが助ける番かな？","fr":"C'est peut-être à mon tour d'aider ?"}
 {"id":1520262,"jp":"「助けが必要なら声かけて」って言ってたのに、今度はこっちに助けを求めるなんて。持ちつ持たれつだね！","fr":"Tu disais « si tu as besoin d'aide, dis-le », et maintenant c'est toi qui me demandes de l'aide. Un échange de bons procédés !"}
 {"id":1520263,"jp":"すぐ行くよ！","fr":"J'arrive tout de suite !"}
 {"id":1520264,"jp":"なになに？噂話が聞けるって？待ってて、すぐ行くから！","fr":"Quoi, quoi ? On peut entendre des ragots ? Attends, j'arrive tout de suite !"}
+{"id":1520265,"jp":"たしかにおいしかった！","fr":"C'était vraiment délicieux !"}
 {"id":1520266,"jp":"小玉の手紙を受け取ってから食べに行ってみたよ。たしかにおいしいね！これからは、きみと一緒に食べることにするよ。","fr":"Après avoir reçu la lettre de Xiaoyu, j'ai essayé d'aller y manger. C'est vraiment délicieux ! Désormais, ce sera avec toi."}
+{"id":1520267,"jp":"これからもっとたくさん素敵なことが","fr":"Encore plein de belles choses nous attendent"}
 {"id":1520268,"jp":"もしかしたら、悲しい出来事も貴重な経験なのかもしれないよ。それに未来には、たくさんの素敵な出来事が待ってるんだから。","fr":"Peut-être que les événements tristes sont aussi des expériences précieuses. Et l'avenir nous réserve plein de belles choses."}
 {"id":1520269,"jp":"同じ気持ちだよ","fr":"Je ressens la même chose"}
 {"id":1520270,"jp":"小玉と仲間になれたことは、これ以上ないくらい素敵な縁だったよ。","fr":"Faire équipe avec Xiaoyu a été une rencontre merveilleuse, on ne peut rêver mieux."}
@@ -21171,35 +21824,90 @@
 {"id":1520272,"jp":"そんなに生き生きと書かれてる物語なんて、気になっちゃうな。今度、青華郷に行ったとき、見せてくれない？","fr":"Une histoire racontée de façon si vivante, ça me donne envie de la lire. La prochaine fois que j'irai au village de Qinghua, tu me la montreras ?"}
 {"id":1520273,"jp":"初心をずっと大切にね","fr":"N'oublie jamais tes débuts"}
 {"id":1520274,"jp":"小玉が初心を忘れなかったから、みんな幸せを見つけられたんだ。「狐の力、天にも勝る」ってやつだね！","fr":"C'est parce que Xiaoyu n'a pas oublié son intention première que tout le monde a trouvé le bonheur. « Le pouvoir du renard surpasse le ciel », comme on dit !"}
+{"id":1520275,"jp":"きっとこれが信じる力……","fr":"C'est sûrement le pouvoir de la foi…"}
 {"id":1520276,"jp":"想いは世界に影響を与えるって聞いたよ……信じる気持ちが十分に強ければ、きっと幸せな結末にたどり着ける。","fr":"On dit que les sentiments influencent le monde… si la foi est assez forte, on atteindra sûrement une fin heureuse."}
+{"id":1520277,"jp":"きみの口から直接教えてくれるのを待っている。","fr":"J'attendrai de l'entendre de ta propre bouche."}
 {"id":1520278,"jp":"きみがそこまで言うなら、答えは会ったときに聞くことにするね。やっぱり、面と向かって話したほうがいいこともあるから。","fr":"Si tu y tiens tant, j'entendrai la réponse quand on se verra. Il y a des choses qui valent mieux d'être dites en face."}
+{"id":1520279,"jp":"天花祭を一緒に過ごしたいな……","fr":"J'aimerais passer la fête des fleurs célestes ensemble…"}
 {"id":1520280,"jp":"いいね、また綺麗な桃の花が楽しめる！お気に入りのお菓子も用意したから、あとは会いに行くだけ！","fr":"Super, on va encore profiter des belles fleurs de pêcher ! J'ai aussi préparé tes friandises préférées, il ne reste qu'à aller te voir !"}
 {"id":1520281,"jp":"どんなお話なのかな？","fr":"Quel genre d'histoire est-ce ?"}
+{"id":1520283,"jp":"この募集要項は怪しすぎる……","fr":"Cette annonce de recrutement est beaucoup trop suspecte…"}
+{"id":1520285,"jp":"手紙の宛先を間違えてるよ。","fr":"Il y a une erreur dans l'adresse de la lettre."}
 {"id":1520287,"jp":"大儲け！","fr":"Le gros lot !"}
 {"id":1520288,"jp":"ユニがいっぱい！大儲けだね！\n冗談だよ。リリィ、もう一度お知らせをよく見て。騙されないように気をつけてね……","fr":"Plein d'Uni ! Quel gros lot !\nJe plaisante. Lily, relis bien l'annonce. Fais attention à ne pas te faire avoir…"}
+{"id":1520289,"jp":"リリィ、よくやったね！","fr":"Bravo, Lily !"}
 {"id":1520290,"jp":"リリィ、よくやったね！楽して手に入れようとするなんてひどい連中だね！ユニは大事だけど、正しい方法で手に入れないとね。","fr":"Bien joué, Lily ! Quelles crapules, vouloir se procurer ça sans effort ! Les Uni sont importants, mais il faut les obtenir de la bonne façon."}
 {"id":1520291,"jp":"詐欺集団といえば……","fr":"À propos des escrocs……"}
+{"id":1520293,"jp":"失敗から学ぶってこと。","fr":"C'est en faisant des erreurs qu'on apprend."}
 {"id":1520294,"jp":"なんといってもリリィにとってひとりでのお出かけははじめてだしね。失敗から学ぶこともあるよ。","fr":"Après tout, c'est la première fois que Lily sort seule. On peut aussi apprendre de ses échecs."}
+{"id":1520295,"jp":"もう準備はできているよ。","fr":"Tout est déjà prêt."}
 {"id":1520297,"jp":"あなたのフレンド","fr":"Ton amie"}
+{"id":1520298,"jp":"リリィの手紙は面白くて、読むのが楽しいよ。","fr":"Les lettres de Lily sont amusantes, c'est un plaisir de les lire."}
 {"id":1520300,"jp":"リラックスしよう！","fr":"Détends-toi !"}
+{"id":1520302,"jp":"正解はないのかもしれないね。","fr":"Il n'y a peut-être pas de bonne réponse."}
 {"id":1520304,"jp":"親友、星臨者","fr":"Amitiés, l'Enfant des étoiles"}
 {"id":1520305,"jp":"花の気持ちは？","fr":"Et les sentiments de la fleur ?"}
+{"id":1520307,"jp":"自分も一輪の『温室の花』を知ってるよ……","fr":"Je connais aussi une « fleur de serre »…"}
+{"id":1520309,"jp":"いつでも声をかけてね。","fr":"Je suis toujours disponible en cas de besoin."}
 {"id":1520311,"jp":"あなたの星臨者","fr":"Ton Enfant des étoiles"}
+{"id":1520312,"jp":"どこかで直接会って話そうか。","fr":"Et si nous nous retrouvions quelque part pour en parler ?"}
+{"id":1520314,"jp":"こっちこそ、リリィと一緒にいられてとても楽しい。","fr":"Moi aussi, je passe de merveilleux moments avec Lily."}
 {"id":1520316,"jp":"好みのスタイルだよ！","fr":"C'est tout à fait mon style !"}
+{"id":1520318,"jp":"こういう内装スタイルだったの……","fr":"C'était donc ce style de décoration intérieure…"}
+{"id":1520320,"jp":"できるだけ行くようにするよ。","fr":"J'essaierai de venir aussi souvent que possible."}
+{"id":1520322,"jp":"パートナーになるなら……","fr":"Si nous devenions partenaires…"}
 {"id":1520323,"jp":"赤色炎光","fr":"Flamme écarlate"}
+{"id":1520325,"jp":"主催者はなかなか見る目があるね！","fr":"L'organisateur a vraiment bon goût !"}
+{"id":1520327,"jp":"巡回展を開くのはどうかな？","fr":"Pourquoi ne pas organiser une exposition itinérante ?"}
+{"id":1520329,"jp":"聞き覚えのある名前だね……","fr":"Ce nom me dit quelque chose…"}
 {"id":1520330,"jp":"封印者","fr":"As des sceaux"}
+{"id":1520332,"jp":"本はもう手に入れたよ……","fr":"J'ai déjà obtenu le livre…"}
+{"id":1520334,"jp":"ネタバレは気にしないよ。","fr":"Ça ne me dérange pas de connaître la suite."}
+{"id":1520336,"jp":"なにそれ、おもしろそう！","fr":"Qu'est-ce que c'est ? Ça a l'air amusant !"}
+{"id":1520338,"jp":"ちょっと気になってきたよ……","fr":"Ça commence à éveiller ma curiosité…"}
+{"id":1520340,"jp":"『おもしろい』もの……","fr":"Quelque chose d'« amusant »…"}
 {"id":1520342,"jp":"この名前のセンス……","fr":"Quel drôle de nom……"}
+{"id":1520344,"jp":"きみの作品には自信を持ってるよ！","fr":"J'ai toute confiance en tes créations !"}
+{"id":1520346,"jp":"じゃあ、旅行の計画はこっちで準備するよ。","fr":"Dans ce cas, je m'occuperai de préparer le voyage."}
+{"id":1520348,"jp":"もし理にかなっていなかったら？","fr":"Et si ce n'était pas raisonnable ?"}
 {"id":1520350,"jp":"特別な要求はないよ。","fr":"Aucune demande particulière"}
 {"id":1520352,"jp":"ご丁寧に……","fr":"Quelle politesse……"}
 {"id":1520354,"jp":"この食事の手配は……","fr":"À propos de ces repas……"}
+{"id":1520356,"jp":"いっそ一緒に祝祭を楽むっていうのはどうかな？","fr":"Pourquoi ne pas simplement profiter de la fête ensemble ?"}
+{"id":1520358,"jp":"事前に注意事項を教えてもらえますか？","fr":"Pourrais-je connaître les précautions à prendre à l'avance ?"}
 {"id":1520360,"jp":"なんて冷たい文字……","fr":"Quels mots glacials……"}
+{"id":1520362,"jp":"『気遣い』と受け取ってもいい？","fr":"Puis-je y voir une marque d'attention ?"}
+{"id":1520364,"jp":"あー、徹夜といえば……","fr":"Ah, en parlant de nuits blanches…"}
+{"id":1520366,"jp":"結局、選べないじゃないか？","fr":"Finalement, impossible de choisir, non ?"}
+{"id":1520368,"jp":"やっぱり早起きしよう……","fr":"Je vais finalement me lever tôt…"}
+{"id":1520370,"jp":"この独特な料理法は……","fr":"Cette méthode de cuisine si particulière…"}
+{"id":1520372,"jp":"なら、きみもすこしリラックスして！","fr":"Dans ce cas, détends-toi un peu aussi !"}
+{"id":1520374,"jp":"同行する者のほうが重要だよ。","fr":"C'est la personne qui nous accompagne qui compte le plus."}
 {"id":1520376,"jp":"今度はこっちの番！","fr":"À mon tour, cette fois !"}
+{"id":1520378,"jp":"なんだか若返った気がする……","fr":"J'ai l'impression d'avoir rajeuni…"}
 {"id":1520380,"jp":"全部やり遂げた！","fr":"J'ai tout terminé !"}
+{"id":1520381,"jp":"全部できたよ！ご褒美の花丸をちょうだい！","fr":"J'ai tout fait ! Je mérite une petite étoile en récompense !"}
+{"id":1520382,"jp":"きみの署名について……","fr":"À propos de ta signature…"}
+{"id":1520384,"jp":"なんだか急にシリアスになった気がするよ。","fr":"Tout semble soudain beaucoup plus sérieux."}
+{"id":1520385,"jp":"傷口の話だと、アニスは急に真剣になるね……","fr":"Anais devient soudain très sérieuse lorsqu'il est question de blessures…"}
+{"id":1520386,"jp":"安心して、体は丈夫だから！","fr":"Pas d'inquiétude, j'ai une santé de fer !"}
 {"id":1520388,"jp":"署名が変わってる……","fr":"La signature a changé……"}
+{"id":1520389,"jp":"あれ、署名が役職に戻ったのかな……","fr":"Tiens, la signature indique de nouveau le titre professionnel…"}
+{"id":1520390,"jp":"項目がたくさんあるね！","fr":"Il y a beaucoup de points à vérifier !"}
 {"id":1520392,"jp":"本当に大丈夫！","fr":"Tout va vraiment bien !"}
+{"id":1520394,"jp":"断りにくい雰囲気だね……","fr":"Difficile de refuser dans ces conditions…"}
 {"id":1520396,"jp":"心配させてごめん……","fr":"Pardon de t'avoir inquiété……"}
+{"id":1520398,"jp":"自分のことはちゃんと大事にするよ。","fr":"Je prendrai bien soin de moi."}
+{"id":1520400,"jp":"むしろ嬉しい感じがする……","fr":"En fait, ça me fait plutôt plaisir…"}
+{"id":1520402,"jp":"きみが監督してくれたおかげだよ！","fr":"C'est grâce à ta supervision !"}
+{"id":1520404,"jp":"アニスに頼りっぱなしだ……","fr":"Je compte beaucoup trop sur Anais…"}
+{"id":1520405,"jp":"アニスに頼りすぎてどんどんダメになっちゃうね……","fr":"À force de compter sur Anais, je vais finir par ne plus savoir me débrouiller…"}
+{"id":1520406,"jp":"きみのためにも、自分の身はしっかり守るよ。","fr":"Pour toi aussi, je veillerai à ma sécurité."}
 {"id":1520408,"jp":"逆に書かれているよ","fr":"C'est écrit à l'envers"}
+{"id":1520409,"jp":"ペイペイ、宛名と名前、逆に書いてない？","fr":"Peipei, tu n'aurais pas inversé le nom de l'expéditeur et celui du destinataire ?"}
 {"id":1520410,"jp":"秘蔵","fr":"Trésor secret"}
+{"id":1520411,"jp":"ペイペイからのはじめての手紙だ。大切にするね！","fr":"C'est la première lettre de Peipei. Je la garderai précieusement !"}
+{"id":1520412,"jp":"パミー郵便局を支援するよ","fr":"Je soutiendrai le bureau de poste Pammy"}
 {"id":1520414,"jp":"1番まえ","fr":"Premier rang"}
 {"id":1520416,"jp":"返信者……","fr":"La personne qui répond……"}
 {"id":1520418,"jp":"返信者（星臨者）","fr":"Réponse (Enfant des étoiles)"}
@@ -21216,7 +21924,9 @@
 {"id":1520435,"jp":"凄腕の武術パミー","fr":"Pammy experte en arts martiaux"}
 {"id":1520437,"jp":"ペイペイの支持者","fr":"Soutien de Peipei"}
 {"id":1520438,"jp":"大きくなったね……","fr":"Tu as bien grandi……"}
+{"id":1520439,"jp":"うぅ……ペイペイ、本当に大きくなったね……","fr":"Snif… Peipei a vraiment bien grandi…"}
 {"id":1520440,"jp":"パミー武館！？","fr":"Dojo Pammy !?"}
+{"id":1520441,"jp":"パミー武館、別の意味でとても威力がある気がする……","fr":"L'école d'arts martiaux Pammy semble redoutable, mais dans un tout autre sens…"}
 {"id":1520443,"jp":"遠慮無用","fr":"Sans retenue"}
 {"id":1520445,"jp":"噂を断つ星臨者","fr":"L'Enfant des étoiles qui fait taire les rumeurs"}
 {"id":1520447,"jp":"褒める","fr":"Féliciter"}
@@ -21233,21 +21943,39 @@
 {"id":1520470,"jp":"はい、ありがとう。","fr":"Oui, merci"}
 {"id":1520472,"jp":"まさか気づかれた？","fr":"Elle l'a remarqué ?"}
 {"id":1520474,"jp":"今後ともよろしくね。","fr":"Au plaisir de poursuivre cette collaboration"}
+{"id":1520476,"jp":"きみもよく頑張ってるよ。","fr":"Tu fais aussi beaucoup d'efforts."}
 {"id":1520478,"jp":"気をつけるね。","fr":"Je ferai attention"}
 {"id":1520480,"jp":"まだまだだよ。","fr":"J'ai encore beaucoup à apprendre"}
 {"id":1520482,"jp":"ついでだよ。","fr":"Ce n'était rien"}
+{"id":1520483,"jp":"ついでにやっただけだから、気にしないで。","fr":"J'en ai simplement profité pour le faire, rien de plus."}
+{"id":1520484,"jp":"きみを守りたいんだよ。","fr":"J'ai envie de te protéger."}
+{"id":1520486,"jp":"必要なときは声をかけてね。","fr":"N'hésite pas à faire appel à moi en cas de besoin."}
 {"id":1520488,"jp":"楽しみにしてる。","fr":"J'ai hâte"}
 {"id":1520490,"jp":"無理しないでね。","fr":"Ne force pas trop"}
 {"id":1520492,"jp":"ひとが多いね……","fr":"Il y a tant de monde……"}
 {"id":1520494,"jp":"大切なひとだよ。","fr":"Tu comptes beaucoup pour moi"}
 {"id":1520496,"jp":"最高の友達だよ。","fr":"Notre amitié est sans égale"}
+{"id":1520498,"jp":"もう1匹の子猫だにゃ。","fr":"Un autre petit chaton, nya."}
+{"id":1520499,"jp":"メイプルは……もちろん子猫の仲間だにゃ〜","fr":"Maple est… bien sûr une camarade des chatons, nya~"}
 {"id":1520500,"jp":"噂を真に受けないでね","fr":"Ne crois pas les rumeurs"}
+{"id":1520502,"jp":"そんなに褒められると照れるよ","fr":"Tant de compliments me font rougir"}
+{"id":1520504,"jp":"また今度ゆっくり話そうよ。","fr":"Prenons le temps de discuter une prochaine fois."}
+{"id":1520505,"jp":"いいよ。今度会ったときに、またゆっくり話そうね。","fr":"D'accord. La prochaine fois que nous nous verrons, nous prendrons le temps de discuter."}
+{"id":1520506,"jp":"書を尽く信ずれば則ち書なきに如かず","fr":"Mieux vaut n'avoir aucun livre que de croire aveuglément tout ce qu'on y lit"}
+{"id":1520508,"jp":"修行で大切なのは継続だよ","fr":"La régularité est essentielle dans l'Entraînement"}
+{"id":1520510,"jp":"必要なら、私が助けるよ","fr":"Je donnerai un coup de main si nécessaire"}
+{"id":1520512,"jp":"抜刀の話を詳しく聞かせて？","fr":"Pourrais-je en apprendre davantage sur l'art du dégainement ?"}
 {"id":1520514,"jp":"千代になら託せるよ","fr":"Je peux le confier à Chiyo"}
+{"id":1520516,"jp":"自分もあの刀がすごく気になるよ……","fr":"Ce sabre éveille aussi beaucoup ma curiosité…"}
+{"id":1520518,"jp":"千代の助けが必要だよ！","fr":"J'ai besoin de l'aide de Chiyo !"}
 {"id":1520520,"jp":"期待の高まる絶景","fr":"Un panorama très attendu"}
+{"id":1520522,"jp":"お茶菓子はこっちで準備するよ","fr":"Je m'occuperai des douceurs pour accompagner le thé"}
 {"id":1520524,"jp":"千代の猛特訓","fr":"L'entraînement intensif de Chiyo"}
 {"id":1520526,"jp":"気にしないで","fr":"Ne t'en fais pas"}
+{"id":1520528,"jp":"そのときが来たら、私が見届けるよ","fr":"Quand le moment viendra, je serai là pour y assister"}
 {"id":1520530,"jp":"すぐ行くよ。","fr":"J'arrive tout de suite"}
 {"id":1520532,"jp":"既読。","fr":"Lu"}
+{"id":1520533,"jp":"確認したよ。見に行ってみよう。","fr":"J'ai vérifié. Allons voir ça."}
 {"id":1520534,"jp":"購読を解除する。","fr":"Se désabonner"}
 {"id":1520537,"jp":"ポンポン（爪印）","fr":"Pengpeng (empreinte de patte)"}
 {"id":1520539,"jp":"縁待つ小玉より","fr":"Xiaoyu, dans l'attente du destin"}
@@ -21261,6 +21989,7 @@
 {"id":1520566,"jp":"相方","fr":"Partenaire"}
 {"id":1520569,"jp":"若き旅人","fr":"Jeune âme voyageuse"}
 {"id":1520585,"jp":"星のひと","fr":"Être des étoiles"}
+{"id":1520586,"jp":"こんにちは。\n手紙、かいたよ。\nお友だち、なって。","fr":"Bonjour.\nAbby a écrit une lettre.\nOn devient amis ?"}
 {"id":1520587,"jp":"せーりんしゃ","fr":"Nanfan des étoiles"}
 {"id":1520593,"jp":"テララだぞ！","fr":"C'est Terara !"}
 {"id":1520598,"jp":"親愛なる星臨者さま","fr":"À l'Enfant des étoiles, avec toute mon affection"}
@@ -21273,6 +22002,7 @@
 {"id":1520642,"jp":"あなたの友達\nリリィ","fr":"Ton amie\nLily"}
 {"id":1520645,"jp":"あなたの親友\nリリィ","fr":"Ta meilleure amie\nLily"}
 {"id":1520647,"jp":"あなたの\nリリィ","fr":"Ta dévouée\nLily"}
+{"id":1520649,"jp":"連邦のレジェンド級武器アーティスト","fr":"Artiste en armement de rang Légendaire de la Fédération"}
 {"id":1520651,"jp":"疾雷の赤色炎光","fr":"Flamme écarlate de l'éclair fulgurant"}
 {"id":1520653,"jp":"魔眼を封じし者","fr":"Qui scelle l'œil magique"}
 {"id":1520661,"jp":"子どもたち","fr":"Les enfants"}
@@ -21288,7 +22018,16 @@
 {"id":1520678,"jp":"ペイペイ、書く","fr":"Peipei écrit"}
 {"id":1520682,"jp":"星臨大人","fr":"Vénérable Enfant des étoiles"}
 {"id":1520685,"jp":"おとな","fr":"Adulte"}
+{"id":1520694,"jp":"{playerName}さんへ","fr":"À l'attention de {playerName}"}
 {"id":1520714,"jp":"ケロ！星臨者は輝く星彩の{0}を逃してしまったのかケロ？それはもったいない！でも大丈夫、つぎにまた希少なキボが現れたら、コロコロがまた教えにくるケロ！","fr":"Coâ ! L'Enfant des étoiles a laissé filer le {0} étoilé brillant, coâ ? Quel dommage ! Mais pas d'inquiétude : la prochaine fois qu'un Kibo rare apparaîtra, Korokoro reviendra prévenir l'Enfant des étoiles, coâ !"}
+{"id":1520718,"jp":"{playerName}さんならいつでも大歓迎にゃ","fr":"{playerName} sera toujours bien accueilli ici, nya !"}
+{"id":1520720,"jp":"おはようございます！パミー郵便局にようこそ！","fr":"Bonjour ! Bienvenue au bureau de poste Pammy !"}
+{"id":1520721,"jp":"郵便サービスの利用なら大歓迎ですよ！","fr":"Nous sommes ravis de vous accueillir pour tous vos besoins postaux !"}
+{"id":1520724,"jp":"おや……？まだ眠らないんですか？","fr":"Oh… ? Vous ne dormez pas encore ?"}
+{"id":1520725,"jp":"郵便サービスのご利用、ありがとうございます！","fr":"Merci d'avoir utilisé nos services postaux !"}
+{"id":1520726,"jp":"安心してください！ゼッタイに届けますから！","fr":"Soyez sans crainte ! Votre courrier arrivera à destination, c'est promis !"}
+{"id":1520728,"jp":"ううっ……！ポポのシゴトを邪魔しないでくださいっ！","fr":"Grr… ! Ne dérangez pas Popo pendant son travail !"}
+{"id":1520767,"jp":"観戦モード中に終了を選択すると、報酬を受け取れる。","fr":"Sélectionnez Quitter en mode spectateur pour recevoir vos récompenses."}
 {"id":1520797,"jp":"星彩のシュネルフ","fr":"Schnelf étoilé"}
 {"id":1520799,"jp":"異彩のレイニィ","fr":"Rainy Variante"}
 {"id":1520800,"jp":"星彩のレイニィ","fr":"Rainy étoilé"}
@@ -21353,6 +22092,7 @@
 {"id":1520874,"jp":"星彩のメテオール","fr":"Staray étoilé"}
 {"id":1520876,"jp":"星彩のエレキリー","fr":"Electrilly étoilé"}
 {"id":1520877,"jp":"星彩のエレキカッター","fr":"Elekicutter étoilé"}
+{"id":1520880,"jp":"謎に満ちたキボ。まだ情報はない。","fr":"Un Kibo entouré de mystères. Aucune information disponible pour le moment."}
 {"id":1520881,"jp":"星彩のペガサスノヴァ","fr":"Pegasus Nova étoilé"}
 {"id":1520882,"jp":"星彩のスノボウ","fr":"Snobow étoilé"}
 {"id":1520883,"jp":"星彩のスノウミー","fr":"Snowmy étoilé"}
@@ -21516,6 +22256,7 @@
 {"id":1521119,"jp":"星彩の綺華の霊狐","fr":"Renard spirituel aux fleurs splendides étoilé"}
 {"id":1521121,"jp":"星彩の夢華の九尾","fr":"Renard à neuf queues aux fleurs oniriques étoilé"}
 {"id":1521122,"jp":"星稜の塔","fr":"Tour de la Crête stellaire"}
+{"id":1521125,"jp":"ヴィヴィアンのグリフォン","fr":"Griffon de Vivian"}
 {"id":1521127,"jp":"星彩のサピッツ","fr":"Sapittsu étoilé"}
 {"id":1521129,"jp":"星彩のサピーラス","fr":"Sapiirasu étoilé"}
 {"id":1521130,"jp":"星彩のコボルターグ","fr":"Koborutaagu étoilé"}
@@ -21755,45 +22496,124 @@
 {"id":1521399,"jp":"生存強化系","fr":"Renforcement de la survie"}
 {"id":1521400,"jp":"自身デバフ系","fr":"Auto-affaiblissement"}
 {"id":1521401,"jp":"対象弱体化系","fr":"Lignée d'affaiblissement de cible"}
+{"id":1521402,"jp":"普通の恩恵のキボのタマゴ","fr":"Œuf de Kibo à la bénédiction ordinaire"}
+{"id":1521403,"jp":"未知のキボが孵化するタマゴ。","fr":"Un œuf dont éclot un Kibo inconnu."}
+{"id":1521405,"jp":"リリカが見つけたタマゴ。星彩のキボが孵化する。","fr":"Un œuf découvert par Lyrica. Un Kibo étoilé en éclot."}
+{"id":1521406,"jp":"普通の豊穣のキボのタマゴ","fr":"Œuf de Kibo ordinaire d'abondance"}
+{"id":1521407,"jp":"星彩の豊壌キボのタマゴ","fr":"Œuf de Kibo étoilé de fertilité"}
 {"id":1521408,"jp":"キャベッコのタマゴ","fr":"Œuf de Cabbeco"}
+{"id":1521409,"jp":"キャベッコを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Cabbeco."}
 {"id":1521411,"jp":"ピーチィのタマゴ","fr":"Œuf de Peachy"}
+{"id":1521412,"jp":"ピーチィを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Peachy."}
 {"id":1521413,"jp":"ドロゲコのタマゴ","fr":"Œuf de Drogeko"}
+{"id":1521414,"jp":"ドロゲコを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Drogeko."}
 {"id":1521415,"jp":"アイシィのタマゴ","fr":"Œuf de Icy"}
+{"id":1521416,"jp":"アイシィを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Icy."}
 {"id":1521417,"jp":"ウィンディのタマゴ","fr":"Œuf de Windy"}
+{"id":1521418,"jp":"ウィンディを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Windy."}
 {"id":1521419,"jp":"ウッディのタマゴ","fr":"Œuf de Woody"}
+{"id":1521420,"jp":"ウッディを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Woody."}
 {"id":1521421,"jp":"グルルのタマゴ","fr":"Œuf de Gururu"}
+{"id":1521422,"jp":"グルルを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Gururu."}
 {"id":1521423,"jp":"フーモのタマゴ","fr":"Œuf de Fumo"}
+{"id":1521424,"jp":"フーモを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Fumo."}
 {"id":1521425,"jp":"メロウミーのタマゴ","fr":"Œuf de Mellowmee"}
+{"id":1521426,"jp":"メロウミーを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Mellowmee."}
 {"id":1521427,"jp":"フィフィのタマゴ","fr":"Œuf de Fifi"}
+{"id":1521428,"jp":"フィフィを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Fifi."}
 {"id":1521429,"jp":"サンディのタマゴ","fr":"Œuf de Sandy"}
+{"id":1521430,"jp":"サンディを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Sandy."}
 {"id":1521431,"jp":"リーモのタマゴ","fr":"Œuf de Leemo"}
+{"id":1521432,"jp":"リーモを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Leemo."}
 {"id":1521433,"jp":"ツーモのタマゴ","fr":"Œuf de Tsumo"}
+{"id":1521434,"jp":"ツーモを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Tsumo."}
 {"id":1521435,"jp":"レイニィのタマゴ","fr":"Œuf de Rainy"}
+{"id":1521436,"jp":"レイニィを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Rainy."}
 {"id":1521437,"jp":"ガドリのタマゴ","fr":"Œuf de Gadori"}
+{"id":1521438,"jp":"ガドリを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Gadori."}
 {"id":1521439,"jp":"ハーチャのタマゴ","fr":"Œuf de Harcha"}
+{"id":1521440,"jp":"ハーチャを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Harcha."}
 {"id":1521441,"jp":"カメレウスのタマゴ","fr":"Œuf de Chameleus"}
+{"id":1521442,"jp":"カメレウスを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Chameleus."}
 {"id":1521443,"jp":"ドゥルのタマゴ","fr":"Œuf de Dur"}
+{"id":1521444,"jp":"ドゥルを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Dur."}
 {"id":1521445,"jp":"トランゴのタマゴ","fr":"Œuf de Trango"}
+{"id":1521446,"jp":"トランゴを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Trango."}
+{"id":1521448,"jp":"希少な豊壌キボのタマゴ","fr":"Œuf de Kibo rare de fertilité"}
+{"id":1521449,"jp":"健康な豊壌キボのタマゴ","fr":"Œuf de Kibo vigoureux de fertilité"}
+{"id":1521450,"jp":"普通のキボのタマゴ・火","fr":"Œuf ordinaire de Kibo - Feu"}
+{"id":1521451,"jp":"火属性のキボが孵化するタマゴ。","fr":"Un œuf dont éclot un Kibo de Feu."}
+{"id":1521453,"jp":"普通のキボのタマゴ・水","fr":"Œuf ordinaire de Kibo - Eau"}
+{"id":1521454,"jp":"水属性のキボが孵化するタマゴ。","fr":"Un œuf dont éclot un Kibo d'Eau."}
+{"id":1521456,"jp":"普通のキボのタマゴ・氷","fr":"Œuf ordinaire de Kibo - Glace"}
+{"id":1521457,"jp":"氷属性のキボが孵化するタマゴ。","fr":"Un œuf dont éclot un Kibo de Glace."}
+{"id":1521459,"jp":"普通のキボのタマゴ・風","fr":"Œuf ordinaire de Kibo - Vent"}
+{"id":1521460,"jp":"風属性のキボが孵化するタマゴ。","fr":"Un œuf dont éclot un Kibo de Vent."}
+{"id":1521462,"jp":"普通のキボのタマゴ・木","fr":"Œuf ordinaire de Kibo - Bois"}
+{"id":1521463,"jp":"木属性のキボが孵化するタマゴ。","fr":"Un œuf dont éclot un Kibo de Bois."}
+{"id":1521465,"jp":"普通のキボのタマゴ・土","fr":"Œuf ordinaire de Kibo - Terre"}
+{"id":1521466,"jp":"地属性のキボが孵化するタマゴ。","fr":"Un œuf dont éclot un Kibo de Terre."}
+{"id":1521468,"jp":"普通のキボのタマゴ・雷","fr":"Œuf ordinaire de Kibo - Foudre"}
+{"id":1521469,"jp":"雷属性のキボが孵化するタマゴ。","fr":"Un œuf dont éclot un Kibo de Foudre."}
+{"id":1521471,"jp":"普通のキボのタマゴ・光","fr":"Œuf ordinaire de Kibo - Lumière"}
+{"id":1521472,"jp":"光属性のキボが孵化するタマゴ。","fr":"Un œuf dont éclot un Kibo de Lumière."}
+{"id":1521474,"jp":"普通のキボのタマゴ・闇","fr":"Œuf ordinaire de Kibo - Ténèbres"}
+{"id":1521475,"jp":"闇属性のキボが孵化するタマゴ。","fr":"Un œuf dont éclot un Kibo de Ténèbres."}
 {"id":1521477,"jp":"ハルウのタマゴ","fr":"Œuf de Haru"}
+{"id":1521478,"jp":"ハルウを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Haru."}
 {"id":1521479,"jp":"ロッコロのタマゴ","fr":"Œuf de Rokkoro"}
+{"id":1521480,"jp":"ロッコロを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Rokkoro."}
 {"id":1521481,"jp":"ルビッツのタマゴ","fr":"Œuf de Rubbits"}
+{"id":1521482,"jp":"ルビッツを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Rubbits."}
+{"id":1521483,"jp":"モフンガを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Mohunga."}
 {"id":1521484,"jp":"ホークルのタマゴ","fr":"Œuf de Hawkle"}
+{"id":1521485,"jp":"ホークルを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Hawkle."}
 {"id":1521486,"jp":"フラーメのタマゴ","fr":"Œuf de Flame"}
+{"id":1521487,"jp":"フラーメを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Flame."}
 {"id":1521488,"jp":"グラゴのタマゴ","fr":"Œuf de Grago"}
+{"id":1521489,"jp":"グラゴを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Grago."}
 {"id":1521490,"jp":"サラマンドのタマゴ","fr":"Œuf de Salamand"}
+{"id":1521491,"jp":"サラマンドを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Salamand."}
 {"id":1521492,"jp":"シードロのタマゴ","fr":"Œuf de Seedro"}
+{"id":1521493,"jp":"シードロを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Seedro."}
 {"id":1521494,"jp":"ピョンルーのタマゴ","fr":"Œuf de Pyonloo"}
+{"id":1521495,"jp":"ピョンルーを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Pyonloo."}
 {"id":1521496,"jp":"ブルーダのタマゴ","fr":"Œuf de Bluda"}
+{"id":1521497,"jp":"ブルーダを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Bluda."}
 {"id":1521498,"jp":"アイロのタマゴ","fr":"Œuf de Airo"}
+{"id":1521499,"jp":"アイロを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Airo."}
 {"id":1521500,"jp":"ホーミィのタマゴ","fr":"Œuf de Homy"}
+{"id":1521501,"jp":"ホーミィを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Homy."}
 {"id":1521502,"jp":"チョノコのタマゴ","fr":"Œuf de Chonoko"}
+{"id":1521503,"jp":"チョノコを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Chonoko."}
 {"id":1521504,"jp":"チーキィのタマゴ","fr":"Œuf de Cheeky"}
+{"id":1521505,"jp":"チーキィを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Cheeky."}
 {"id":1521506,"jp":"ニャアホのタマゴ","fr":"Œuf de Nyaho"}
+{"id":1521507,"jp":"ニャアホを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Nyaho."}
+{"id":1521508,"jp":"ビリバーが孵化するタマゴ","fr":"Un œuf dont éclot un Biliver."}
+{"id":1521509,"jp":"モーモが孵化するタマゴ","fr":"Un œuf dont éclot un Momo."}
+{"id":1521510,"jp":"リーフォが孵化するタマゴ","fr":"Un œuf dont éclot un Leafo."}
 {"id":1521517,"jp":"クックのタマゴ","fr":"Œuf de Cook"}
+{"id":1521518,"jp":"クックを孵化できるタマゴ","fr":"Un œuf dont peut éclore un Cook."}
 {"id":1521519,"jp":"恒光の氷鱗のタマゴ","fr":"Œuf d'Écaille de glace à la lumière éternelle"}
 {"id":1521522,"jp":"恒光の金穂のタマゴ","fr":"Œuf d'Épi doré à la lumière éternelle"}
 {"id":1521525,"jp":"恒光の甘露のタマゴ","fr":"Œuf de Nectar à la lumière éternelle"}
+{"id":1521528,"jp":"恒光のネビュリオンのタマゴ","fr":"Œuf de Nebulion à la lumière éternelle"}
+{"id":1521529,"jp":"孵化すると必ずネビュリオンを獲得できる。","fr":"Garantit l'obtention d'un Nebulion à l'éclosion."}
+{"id":1521531,"jp":"恒光のモフリーネのタマゴ","fr":"Œuf de Downybrinny à la lumière éternelle"}
+{"id":1521532,"jp":"孵化すると必ずモフリーネを獲得できる。","fr":"Garantit l'obtention d'un Downybrinny à l'éclosion."}
+{"id":1521534,"jp":"恒光の青華の子ぎつねのタマゴ","fr":"Œuf de renardeau de Qinghua à la lumière éternelle"}
+{"id":1521535,"jp":"孵化すると必ず青華の幼狐を獲得できる。","fr":"Garantit l'obtention d'un renardeau de Qinghua à l'éclosion."}
 {"id":1521537,"jp":"恒光のシルガのタマゴ","fr":"Œuf de Drafi à la lumière éternelle"}
+{"id":1521538,"jp":"孵化すると必ずドラフィを獲得できる。","fr":"Garantit l'obtention d'un Dorafi à l'éclosion."}
+{"id":1521540,"jp":"恒光のラズリンのタマゴ","fr":"Œuf de Lazurin à la lumière éternelle"}
+{"id":1521541,"jp":"孵化すると必ずラズリンを獲得できる。","fr":"Garantit l'obtention d'un Lazurin à l'éclosion."}
+{"id":1521543,"jp":"恒光のスノボウのタマゴ","fr":"Œuf de Snobow à la lumière éternelle"}
+{"id":1521544,"jp":"孵化すると必ずスノボウを獲得できる。","fr":"Garantit l'obtention d'un Snobow à l'éclosion."}
+{"id":1521546,"jp":"恒光のグリファのタマゴ","fr":"Œuf de Griffa à la lumière éternelle"}
+{"id":1521547,"jp":"孵化すると必ずグリファを獲得できる。","fr":"Garantit l'obtention d'un Griffa à l'éclosion."}
+{"id":1521549,"jp":"恒光のエレキリーのタマゴ","fr":"Œuf d'Electrilly à la lumière éternelle"}
+{"id":1521550,"jp":"孵化すると必ずエレキリーを獲得できる。","fr":"Garantit l'obtention d'un Electrilly à l'éclosion."}
 {"id":1521552,"jp":"曙光のタマゴ","fr":"Œuf de l'aube"}
 {"id":1521557,"jp":"ざらざらの","fr":"Rugueux"}
 {"id":1521558,"jp":"つるつるの","fr":"Lisse"}
@@ -21811,6 +22631,16 @@
 {"id":1521570,"jp":"普通のサイズの","fr":"De taille moyenne"}
 {"id":1521571,"jp":"小さな","fr":"Petit"}
 {"id":1521572,"jp":"とても小さな","fr":"Très petit"}
+{"id":1521573,"jp":"同行者のステータスを9%継承","fr":"Hérite de 9 % des statistiques du compagnon"}
+{"id":1521574,"jp":"同行者のステータスを10%継承","fr":"Hérite de 10 % des statistiques du compagnon"}
+{"id":1521575,"jp":"同行者のステータスを11%継承","fr":"Hérite de 11 % des statistiques du compagnon"}
+{"id":1521576,"jp":"同行者のステータスを12%継承","fr":"Hérite de 12 % des statistiques du compagnon"}
+{"id":1521577,"jp":"同行者のステータスを13%継承","fr":"Hérite de 13 % des statistiques du compagnon"}
+{"id":1521578,"jp":"同行者のステータスを14%継承","fr":"Hérite de 14 % des statistiques du compagnon"}
+{"id":1521579,"jp":"同行者のステータスを15%継承","fr":"Hérite de 15 % des statistiques du compagnon"}
+{"id":1521580,"jp":"同行者のステータスを16%継承","fr":"Hérite de 16 % des statistiques du compagnon"}
+{"id":1521581,"jp":"同行者のステータスを17%継承","fr":"Hérite de 17 % des statistiques du compagnon"}
+{"id":1521582,"jp":"同行者のステータスを18%継承","fr":"Hérite de 18 % des statistiques du compagnon"}
 {"id":1521583,"jp":"タフ","fr":"Robuste"}
 {"id":1521584,"jp":"孤高","fr":"Solitaire"}
 {"id":1521585,"jp":"頑丈","fr":"Solide"}
@@ -21820,9 +22650,25 @@
 {"id":1521589,"jp":"中型","fr":"Moyen"}
 {"id":1521590,"jp":"大型","fr":"Grand"}
 {"id":1521591,"jp":"超大型","fr":"Très grand"}
+{"id":1521592,"jp":"クエスト編成‐シュネルフ","fr":"Équipe de quête - Schnelf"}
 {"id":1521593,"jp":"序章編成‐アビィ","fr":"Équipe du prologue - Abby"}
 {"id":1521594,"jp":"序章編成‐キャベッコ","fr":"Équipe du prologue - Cabbeco"}
 {"id":1521595,"jp":"ミィティ試練クエスト-フラミー","fr":"Quête d'épreuve de Mitty : Flammy"}
+{"id":1521596,"jp":"チュートリアル-星臨者-フログレーミ","fr":"Tutoriel - Enfant des étoiles - Frogremi"}
+{"id":1521597,"jp":"戦闘EXチュートリアル-テララ-ルビートル","fr":"Tutoriel de combat EX - Terara - Rubeetle"}
+{"id":1521599,"jp":"小玉イベント（初期）-クックルク","fr":"Événement de Xiaoyu (initial) - Cookluk"}
+{"id":1521600,"jp":"小玉イベント（初期）-スカイホーク","fr":"Événement de Xiaoyu (initial) - Skyhawk"}
+{"id":1521601,"jp":"小玉イベント（初期）-フログレーミ","fr":"Événement de Xiaoyu (initial) - Frogremi"}
+{"id":1521602,"jp":"小玉イベント（Lv.40）-クックルク","fr":"Événement de Xiaoyu (Niv. 40) - Cookluk"}
+{"id":1521603,"jp":"小玉イベント（Lv.40）-スカイホーク","fr":"Événement de Xiaoyu (Niv. 40) - Skyhawk"}
+{"id":1521604,"jp":"小玉イベント（Lv.40）-フログレーミ","fr":"Événement de Xiaoyu (Niv. 40) - Frogremi"}
+{"id":1521605,"jp":"小玉イベント（Lv.60）-クックルク","fr":"Événement de Xiaoyu (Niv. 60) - Cookluk"}
+{"id":1521606,"jp":"小玉イベント（Lv.60）-スカイホーク","fr":"Événement de Xiaoyu (Niv. 60) - Skyhawk"}
+{"id":1521607,"jp":"小玉イベント（Lv.60）-フログレーミ","fr":"Événement de Xiaoyu (Niv. 60) - Frogremi"}
+{"id":1521608,"jp":"小玉イベント（Lv.80）-クックルク","fr":"Événement de Xiaoyu (Niv. 80) - Cookluk"}
+{"id":1521609,"jp":"小玉イベント（Lv.80）-スカイホーク","fr":"Événement de Xiaoyu (Niv. 80) - Skyhawk"}
+{"id":1521610,"jp":"小玉イベント（Lv.80）-フログレーミ","fr":"Événement de Xiaoyu (Niv. 80) - Frogremi"}
+{"id":1521611,"jp":"ルダリスボス戦 – 大狼ウル","fr":"Combat de boss de Rudalis - Grand Loup Uru"}
 {"id":1521612,"jp":"汎生類","fr":"Espèces communes"}
 {"id":1521613,"jp":"異生類","fr":"Espèces étrangères"}
 {"id":1521614,"jp":"獣形族","fr":"Famille bestiale"}
@@ -21922,9 +22768,28 @@
 {"id":1521708,"jp":"蒜鳥系","fr":"Lignée de l'Oiseau-ail"}
 {"id":1521709,"jp":"イエローアルビ系","fr":"Lignée de Yellowalbi"}
 {"id":1521710,"jp":"疾歩","fr":"Pas vif"}
+{"id":1521711,"jp":"キャバードの初期スキン","fr":"Apparence par défaut de Cabbird"}
+{"id":1521712,"jp":"キャバードが生まれ持った、もともとの姿。","fr":"L'apparence naturelle de Cabbird, qu'il possède depuis sa naissance."}
+{"id":1521713,"jp":"モルフォーレの初期スキン","fr":"Apparence par défaut de Morphore"}
+{"id":1521714,"jp":"モルフォーレが生まれ持った、もともとの姿。","fr":"L'apparence naturelle de Morphore, qu'il possède depuis sa naissance."}
+{"id":1521715,"jp":"タウリックの初期スキン","fr":"Apparence par défaut de Taurick"}
+{"id":1521716,"jp":"タウリックが生まれ持った、もともとの姿。","fr":"L'apparence naturelle de Taurick, qu'il possède depuis sa naissance."}
+{"id":1521717,"jp":"クローネックの初期スキン","fr":"Apparence par défaut de Kronek"}
+{"id":1521718,"jp":"クローネックが生まれ持った、もともとの姿。","fr":"L'apparence naturelle de Kronek, qu'il possède depuis sa naissance."}
+{"id":1521719,"jp":"マスティーバの初期スキン","fr":"Apparence par défaut de Mustiva"}
+{"id":1521720,"jp":"マスティーバが生まれ持った、もともとの姿。","fr":"L'apparence naturelle de Mustiva, qu'il possède depuis sa naissance."}
+{"id":1521721,"jp":"エレキカッターの初期スキン","fr":"Apparence par défaut d'Elekicutter"}
+{"id":1521722,"jp":"エレキカッターが生まれ持った、もともとの姿。","fr":"L'apparence naturelle d'Elekicutter, qu'il possède depuis sa naissance."}
 {"id":1521723,"jp":"大空の飛翔","fr":"Envol dans l'azur"}
+{"id":1521724,"jp":"細部のすべてが、高空のために備えられている。","fr":"Chaque détail a été pensé pour les hautes altitudes."}
 {"id":1521726,"jp":"愉快な登場","fr":"Entrée joyeuse"}
+{"id":1521729,"jp":"燃える拳に熱き炎、その装いは情熱の具現。","fr":"Des poings ardents et des flammes brûlantes. Cette tenue incarne la passion."}
+{"id":1521731,"jp":"暗い色調の幻想が、その内に織り込まれている。","fr":"Une fantaisie aux teintes sombres se mêle à chacun de ses fils."}
+{"id":1521733,"jp":"やる気満々、元気いっぱい。運動するのに最適だ。","fr":"Débordante de motivation et de vitalité. Une tenue idéale pour faire de l'exercice."}
+{"id":1521734,"jp":"マスティーバ用の衣装セット――生命は運動にあり！","fr":"Un ensemble vestimentaire pour Mustiva. La vie, c'est le mouvement !"}
+{"id":1521735,"jp":"クラシックなピクセル風のスキン。独特で神秘的。","fr":"Une apparence classique en pixel art, singulière et mystérieuse."}
 {"id":1521737,"jp":"ふわふわ桜ホイップ","fr":"Crème fouettée aux fleurs de cerisier"}
+{"id":1521739,"jp":"キャバード用の装い。うららかな春のように舞う。","fr":"Une tenue pour Cabbird, qui virevolte avec la douceur d'une journée printanière."}
 {"id":1521740,"jp":"確率（極高）","fr":"Probabilité (très élevée)"}
 {"id":1521741,"jp":"確率（高）","fr":"Probabilité (élevée)"}
 {"id":1521742,"jp":"確率（中）","fr":"Probabilité (moyenne)"}
@@ -21983,6 +22848,8 @@
 {"id":1521795,"jp":"回転","fr":"Rotation"}
 {"id":1521796,"jp":"傾き","fr":"Inclinaison"}
 {"id":1521797,"jp":"デフォルトシーン","fr":"Scène par défaut"}
+{"id":1521798,"jp":"グリーンバック・モデルルーム","fr":"Studio photo sur fond vert"}
+{"id":1521799,"jp":"グレーバック・モデルルーム","fr":"Studio photo sur fond gris"}
 {"id":1521800,"jp":"自分","fr":"Soi-même"}
 {"id":1521801,"jp":"チームメンバー","fr":"Membres de l'équipe"}
 {"id":1521802,"jp":"汎用NPC","fr":"PNJ génériques"}
@@ -21991,6 +22858,7 @@
 {"id":1521805,"jp":"その他のキボ","fr":"Autres Kibo"}
 {"id":1521806,"jp":"その他のキボの名前","fr":"Noms des autres Kibo"}
 {"id":1521807,"jp":"その他のNPCの名前","fr":"Noms des autres PNJ"}
+{"id":1521808,"jp":"4Kスクリーンショット","fr":"Capture d'écran 4K"}
 {"id":1521809,"jp":"走る","fr":"Courir"}
 {"id":1521810,"jp":"倒れる","fr":"S'effondrer"}
 {"id":1521811,"jp":"起きる","fr":"Se relever"}
@@ -22024,11 +22892,18 @@
 {"id":1521839,"jp":"アイコン「寒悠悠」","fr":"Icône « Han Youyou »"}
 {"id":1521840,"jp":"「寒悠悠」獲得で解放","fr":"Se débloque avec Han Youyou"}
 {"id":1521841,"jp":"アイコン「ポンポン」","fr":"Icône « Pengpeng »"}
+{"id":1521842,"jp":"「ポンポン」獲得で解放","fr":"Se débloque à l'obtention de Pengpeng"}
+{"id":1521843,"jp":"「ポンポン」入手後に解放","fr":"Se débloque après l'obtention de Pengpeng"}
 {"id":1521844,"jp":"アイコン「塗山小玉」","fr":"Icône « Tushan Xiaoyu »"}
+{"id":1521845,"jp":"「塗山小玉」獲得で解放","fr":"Se débloque à l'obtention de Tushan Xiaoyu"}
 {"id":1521846,"jp":"アイコン「リリィ」","fr":"Icône « Lily »"}
 {"id":1521847,"jp":"「リリィ」獲得で解放","fr":"Se débloque avec Lily"}
 {"id":1521848,"jp":"アイコン「ルビーナ」","fr":"Icône « Ruby »"}
+{"id":1521849,"jp":"「ルビーナ」獲得で解放","fr":"Se débloque à l'obtention de Ruby"}
+{"id":1521850,"jp":"アイコン「シンフォーリア」","fr":"Icône « Symphoria »"}
+{"id":1521851,"jp":"「シンフォーリア」獲得で解放","fr":"Se débloque à l'obtention de Symphoria"}
 {"id":1521852,"jp":"アイコン「メーツァ」","fr":"Icône « Metsa »"}
+{"id":1521853,"jp":"「メーツァ」獲得で解放","fr":"Se débloque à l'obtention de Metsa"}
 {"id":1521854,"jp":"アイコン「アビィ」","fr":"Icône « Abby »"}
 {"id":1521855,"jp":"「アビィ」獲得で解放","fr":"Se débloque avec Abby"}
 {"id":1521856,"jp":"アイコン「テララ」","fr":"Icône « Terara »"}
@@ -22036,28 +22911,53 @@
 {"id":1521858,"jp":"アイコン「ルルカ」","fr":"Icône « Luruka »"}
 {"id":1521859,"jp":"「ルルカ」獲得で解放","fr":"Se débloque avec Luruka"}
 {"id":1521860,"jp":"アイコン「ミィティ」","fr":"Icône « Mitty »"}
+{"id":1521861,"jp":"「ミィティ」獲得で解放","fr":"Se débloque à l'obtention de Mitty"}
 {"id":1521862,"jp":"アイコン「カタル」","fr":"Icône « Katalua »"}
 {"id":1521863,"jp":"「カタル」獲得で解放","fr":"Se débloque avec Katalua"}
 {"id":1521864,"jp":"アイコン「モーレン」","fr":"Icône « Morwyn »"}
+{"id":1521865,"jp":"「モーレン」獲得で解放","fr":"Se débloque à l'obtention de Morwyn"}
 {"id":1521866,"jp":"アイコン「シャル」","fr":"Icône « Shalle »"}
 {"id":1521867,"jp":"「シャル」獲得で解放","fr":"Se débloque avec Shalle"}
+{"id":1521868,"jp":"アイコン「ファランタ」","fr":"Icône « Faridah »"}
+{"id":1521869,"jp":"「ファランタ」獲得で解放","fr":"Se débloque à l'obtention de Faridah"}
+{"id":1521870,"jp":"アイコン「キャスベル」","fr":"Icône « Cathbelle »"}
+{"id":1521871,"jp":"「キャスベル」獲得で解放","fr":"Se débloque à l'obtention de Cathbelle"}
 {"id":1521872,"jp":"アイコン「アニス」","fr":"Icône « Anais »"}
 {"id":1521873,"jp":"「アニス」獲得で解放","fr":"Se débloque avec Anais"}
 {"id":1521874,"jp":"アイコン「ノノ」","fr":"Icône « Nono »"}
 {"id":1521875,"jp":"「ノノ」獲得で解放","fr":"Se débloque avec Nono"}
 {"id":1521876,"jp":"アイコン「ペイペイ」","fr":"Icône « Peipei »"}
+{"id":1521877,"jp":"「ペイペイ」獲得で解放","fr":"Se débloque à l'obtention de Peipei"}
 {"id":1521878,"jp":"アイコン「蘭香子」","fr":"Icône « Lan Xiangzi »"}
 {"id":1521879,"jp":"「蘭香子」獲得で解放","fr":"Se débloque avec Lan Xiangzi"}
 {"id":1521880,"jp":"アイコン「メイプル」","fr":"Icône « Maple »"}
+{"id":1521881,"jp":"「メイプル」獲得で解放","fr":"Se débloque à l'obtention de Maple"}
 {"id":1521882,"jp":"「愉快な登場」","fr":"« Entrée joyeuse »"}
+{"id":1521883,"jp":"アイコン「愉快な登場」","fr":"Icône « Entrée joyeuse »"}
+{"id":1521884,"jp":"装飾「モルフォーレ・愉快な登場」獲得で解放","fr":"Se débloque à l'obtention de l'ornement « Morphore - Une entrée joyeuse »"}
 {"id":1521887,"jp":"「熱き対峙」","fr":"« Face-à-face brûlant »"}
 {"id":1521888,"jp":"アイコン「熱き対峙」","fr":"Icône « Face-à-face brûlant »"}
+{"id":1521889,"jp":"装飾「タウリック・熱き対峙」獲得で解放","fr":"Se débloque à l'obtention de l'ornement « Taurick - Confrontation ardente »"}
 {"id":1521891,"jp":"「幽夜の礼儀」","fr":"« L'étiquette de la nuit obscure »"}
+{"id":1521892,"jp":"アイコン「幽夜の礼儀」","fr":"Icône « L'étiquette de la nuit obscure »"}
+{"id":1521893,"jp":"装飾「クローネック・幽夜の礼儀」を獲得すると解放","fr":"Se débloque à l'obtention de l'ornement « Kronek - Élégance de la nuit obscure »"}
 {"id":1521895,"jp":"「躍動する活力」","fr":"« Vitalité bondissante »"}
+{"id":1521896,"jp":"アイコン「躍動する活力」","fr":"Icône « Vitalité bondissante »"}
+{"id":1521897,"jp":"装飾「マスティーバ・躍動する活力」獲得で解放","fr":"Se débloque à l'obtention de l'ornement « Mustiva - Vitalité débordante »"}
 {"id":1521899,"jp":"「ピクセルの奇想」","fr":"« Fantaisie en pixels »"}
+{"id":1521900,"jp":"アイコン「ピクセルの奇想」","fr":"Icône « Fantaisie en pixels »"}
+{"id":1521901,"jp":"装飾「エレキカッター・ピクセルの奇想」獲得で解放","fr":"Se débloque à l'obtention de l'ornement « Elekicutter - Fantaisie pixellisée »"}
 {"id":1521904,"jp":"「桃色うさぎの宴」","fr":"« Festin du lapin rose »"}
+{"id":1521905,"jp":"アイコン「桃色うさぎの宴」","fr":"Icône « Festin du lapin rose »"}
+{"id":1521906,"jp":"装飾「塗山小玉・桃色うさぎの宴」獲得で解放","fr":"Se débloque à l'obtention de l'ornement « Tushan Xiaoyu - Le banquet des lapins roses »"}
+{"id":1521907,"jp":"1匹、2匹、3匹……うーん、耳がたくさんある。","fr":"Un, deux, trois… Hmm, ça fait beaucoup d'oreilles."}
 {"id":1521909,"jp":"「朧月夜のベール」","fr":"« Voile de lune brumeuse »"}
+{"id":1521910,"jp":"アイコン「朧月夜のベール」","fr":"Icône « Voile de lune brumeuse »"}
+{"id":1521911,"jp":"「メーツァ・翠緑の秘苑」を獲得すると解放","fr":"Se débloque à l'obtention de « Metsa : Jardin secret émeraude »"}
 {"id":1521914,"jp":"「月に宿る流虹」","fr":"« Arc-en-ciel niché dans la lune »"}
+{"id":1521915,"jp":"アイコン「月に宿る流虹」","fr":"Icône « Arc-en-ciel niché dans la lune »"}
+{"id":1521916,"jp":"「塗山小玉・春還る花亭」を獲得すると解放","fr":"Se débloque à l'obtention de « Tushan Xiaoyu : Pavillon du printemps revenu »"}
+{"id":1521919,"jp":"アイコン「宝物発見！」","fr":"Icône « Trésor trouvé ! »"}
 {"id":1521923,"jp":"アイコン「陰陽調和」","fr":"Icône « Équilibre du yin et du yang »"}
 {"id":1521927,"jp":"アイコン「光陰一体」","fr":"Icône « Lumière et ombre à l'unisson »"}
 {"id":1521935,"jp":"アイコン「魂魄安寧」","fr":"Icône « Âmes en paix »"}
