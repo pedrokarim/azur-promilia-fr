@@ -298,10 +298,13 @@ function importWork(options) {
  * Pose les espaces insécables du français au moment de fabriquer le fichier du jeu : avant
  * ! ? : ; », après «. Les traducteurs écrivent des espaces ordinaires, le résultat reste
  * uniforme. Testé en jeu le 26/11/2026 : la police affiche l'insécable U+00A0, mais pas
- * l'espace fine U+202F (carré), qu'on n'emploie donc jamais.
+ * l'espace fine U+202F (carré), qu'on n'emploie donc jamais. Les « …… » et les tildes
+ * pleine chasse (～, 〜) venus du japonais deviennent « … » et « ~ ».
  */
 function frenchSpacing(text) {
   return text
+    .replace(/\u2026{2,}|\.{3,}/g, '\u2026')
+    .replace(/[\uff5e\u301c]/g, '~')
     .replace(/[ \u202f]+([!?:;»])/g, '\u00a0$1')
     .replace(/«[ \u202f]+/g, '«\u00a0');
 }
