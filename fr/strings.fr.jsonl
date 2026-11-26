@@ -47840,23 +47840,143 @@
 {"id":1543445,"jp":"なるほど。ただの旅行者ではなさそうだと思っていたけど、\nまさか同業者だったとは！出身はどこなんだい？","fr":"Ah, je comprends mieux. Je me doutais que vous n'étiez pas de simples voyageurs,\nmais de là à rencontrer des gens du métier ! Vous êtes d'où ?"}
 {"id":1543446,"jp":"芽吹の谷！","fr":"Vallée des Bourgeons !"}
 {"id":1543447,"jp":"芽吹の谷？ふむ、聞いたことのない地名だなあ……","fr":"La Vallée des Bourgeons ? Mmh… ce nom ne me dit rien."}
+{"id":1543448,"jp":"フリスから北の山を越えた場所にあるのだ。","fr":"C'est de l'autre côté des montagnes, au nord de Fleece."}
+{"id":1543449,"jp":"北の山……？あっちは未開の地じゃないのかい？\n昔は交易路があったらしいけど、渓谷に凶獣が出るって噂でさ。\nいまではだれも近づかないと聞いてたよ。","fr":"Les montagnes du nord… ? C'est pas une région sauvage, par là ?\nIl paraît qu'il y avait une route marchande autrefois, mais on raconte qu'il y a des Bêtes maudites dans la vallée.\nÀ ce qu'on m'a dit, plus personne n'ose s'en approcher."}
+{"id":1543450,"jp":"まさか、まだ住んでいる者がいたとは……","fr":"J'aurais jamais cru qu'il y avait encore des gens qui vivaient là-bas…"}
+{"id":1543451,"jp":"そういえば……谷には獣人の集落があったというよね……\nもしかして……","fr":"Maintenant que j'y pense… On dit qu'il y avait un village de Furriens dans la vallée…\nTu veux dire que…"}
+{"id":1543452,"jp":"なんだなんだ！あたしたちを疑ってるのか？","fr":"Hé, c'est quoi, ces questions ? Tu te méfies de nous ?"}
+{"id":1543453,"jp":"いやいや！これも職業柄でね！\n行商は情報収集が一番大事なんだよ。","fr":"Mais non, mais non ! C'est le métier qui veut ça !\nQuand on est marchand ambulant, le plus important, c'est de se tenir au courant."}
+{"id":1543454,"jp":"さっきの話だけど……\nアイオリアンの伝説は、フリスじゃ子どもでも知ってることなんだ。\nだれも知らないような情報が欲しいなら……頼れるのはひとりだけ！","fr":"Pour en revenir à ce qu'on disait…\nÀ Fleece, même les gamins connaissent la légende de l'Éolien.\nSi vous voulez apprendre quelque chose que personne ne sait, il n'y a qu'une personne qui puisse vous renseigner !"}
+{"id":1543455,"jp":"こらこら、もったいぶるのはやめるのだ！","fr":"Allez, tu vas le dire, oui ?"}
+{"id":1543456,"jp":"へへっ、そのひとりというのが、フリスの領主さまだ！\n領主さまはアイオリアンと契約を結んだ、風の守護者に最も近い方なのさ！","fr":"Hé hé, c'est le seigneur de Fleece !\nElle a passé un pacte avec l'Éolien. Personne n'est plus proche qu'elle du Gardien du vent !"}
+{"id":1543457,"jp":"領主さまに会うなら……これを持っていくといい。","fr":"Si vous comptez la voir… prenez ça."}
+{"id":1543458,"jp":"これは……お手紙でしょうか？","fr":"C'est… une lettre ?"}
+{"id":1543459,"jp":"ここで商売をする者なら、領主さまを知らない者はいないよ。\n<color=#fed196>『鉄輪の貴婦人』</color>なんて呼ばれてるけど、実際はとても気さくな方でね。\n行商にもよく助言をくれる御方さ。","fr":"Tous les marchands du coin la connaissent.\nOn l'appelle <color=#fed196>la Dame aux roues de fer</color>, mais elle est très facile à aborder.\nElle donne souvent des conseils aux marchands ambulants."}
+{"id":1543460,"jp":"手紙にはあなたたちに助けてもらった経緯が書いてある。\n読めば、領主さまはきっと厚くもてなしてくれるよ。\nアイオリアンのこともそのとき、聞いてみればいい。","fr":"Dans la lettre, je raconte comment vous m'avez tiré d'affaire.\nQuand elle l'aura lue, je suis sûr qu'elle vous recevra à bras ouverts.\nVous pourrez en profiter pour lui parler de l'Éolien."}
+{"id":1543461,"jp":"ありがとうございます。\nですが、領主さまにはどうすれば会えるのでしょう？","fr":"Je vous remercie.\nComment pouvons-nous la rencontrer ?"}
 {"id":1543462,"jp":"それも簡単さ！","fr":"Ça aussi, c'est facile !"}
+{"id":1543463,"jp":"行商が口笛を吹くと、キボがゆっくりと降りてきた。","fr":"Le marchand a sifflé et un Kibo est descendu lentement."}
 {"id":1543464,"jp":"わあ～！こんにちは！","fr":"Waaah~ ! Bonjour !"}
+{"id":1543465,"jp":"この子はフリス地方のキボで、モーキュンっていうんだよ。\nとても賢くてね。フリスに訪れる者を助けてくれるんだ。","fr":"C'est un Kibo de la région de Fleece. On appelle ça un Mokyun.\nLes Mokyuns sont très malins. Ils viennent en aide aux gens de passage à Fleece."}
+{"id":1543466,"jp":"この子に案内してもらえば、領主さまの屋敷まで楽に行けるはずさ。","fr":"Avec lui pour guide, vous devriez trouver le manoir sans mal."}
+{"id":1543467,"jp":"キボが道案内をしてくれるなんて……すごいなぁ。","fr":"Un Kibo qui nous montre le chemin… C'est incroyable."}
+{"id":1543468,"jp":"もしかして、リリィの故郷では人の種族とキボの仲が悪かったりするの？","fr":"Dis, Lily, chez toi, les gens s'entendent mal avec les Kibo ?"}
 {"id":1543469,"jp":"えっと……うん。","fr":"Euh… oui."}
+{"id":1543470,"jp":"フリスのことは従者から聞いたことがあったけど、\n来てみたら驚くことばかりだったよ。","fr":"On m'avait parlé de Fleece à la maison,\nmais depuis que je suis ici, je vais de surprise en surprise."}
+{"id":1543471,"jp":"フリスはキボが共生するモデル都市みたいなもんさ。\n特に街なかでは、キボが暮らしの一部になってる。","fr":"Pour la cohabitation avec les Kibo, Fleece est une ville modèle, en quelque sorte.\nEn ville surtout, les Kibo font partie du quotidien."}
+{"id":1543472,"jp":"あっ！もうこんな時間だ！\nそろそろ商会に顔を出さないと。","fr":"Oh ! Déjà cette heure-là ?\nIl faut que je passe à la compagnie."}
+{"id":1543473,"jp":"助けてくれたこと、本当にありがとう。\nこれはここまで護衛してくれたお礼だよ。またどこかで！","fr":"Merci encore de m'avoir aidé.\nTenez, c'est pour m'avoir escorté jusqu'ici. À la prochaine !"}
+{"id":1543474,"jp":"話し上手なヤツだったのだ……","fr":"Il avait de la tchatche, celui-là…"}
+{"id":1543475,"jp":"さすが行商。話がうまいね。","fr":"On voit qu'il est marchand. Il sait y faire avec les mots."}
+{"id":1543476,"jp":"行商らしいひとだったね。","fr":"Un vrai marchand ambulant, celui-là."}
+{"id":1543477,"jp":"おい！なんの話をしてるんだ？\nのんびりしてないで行こう！はやく、そこらじゅう見て回りたいよ！","fr":"Hé ! De quoi vous parlez ?\nAllez, on y va ! J'ai trop envie de voir tout ce qu'il y a par ici !"}
+{"id":1543478,"jp":"残念だけど、そのまえにフリスの領主に会わないとなのだ。","fr":"Il va falloir attendre un peu. On doit d'abord voir le seigneur de Fleece."}
 {"id":1543479,"jp":"領主……ってなんだ？","fr":"Un seigneur… c'est quoi ?"}
+{"id":1543480,"jp":"ここの村長みたいなもの。","fr":"C'est un peu comme le Chef du village, mais ici."}
+{"id":1543481,"jp":"そ、それって！じっちゃんみたいに長話するってことか！？\nはやくあっちこっち見て回りたいのに……","fr":"A-attends ! Ça veut dire qu'elle va nous faire des discours à rallonge comme Papi ?!\nMoi, j'ai envie d'aller voir ce qu'il y a partout…"}
+{"id":1543482,"jp":"ですが、悪いことではありませんよ。\n領主さまからはいろいろ情報を得られるはずです。","fr":"Voyez le bon côté des choses.\nElle devrait pouvoir nous apprendre beaucoup de choses."}
+{"id":1543483,"jp":"そうだぞ！それに領主のもてなしなら、\nおいしいものもたくさんあるはずなのだ！これぞ一挙両得ってヤツ！","fr":"Exactement ! Et si elle nous reçoit au manoir,\nla grande Lumi aura sûrement plein de bonnes choses à manger ! D'une pierre deux coups !"}
+{"id":1543484,"jp":"そっか……みんなは領主さまに会うんだね？\n大事な用だと思うから、ここでお別れしよう。","fr":"Ah, d'accord… Vous allez tous voir le seigneur ?\nÇa a l'air important. Je vais vous laisser ici, alors."}
+{"id":1543485,"jp":"わたしはフリスのギルドを見に行くつもりなの。\nそろそろ、騎士の修行をはじめないといけないから！","fr":"Moi, je vais faire un tour à la guilde de Fleece.\nIl est temps que je commence mon Entraînement de chevalier !"}
+{"id":1543486,"jp":"終わったらまた会おうね。","fr":"On se retrouve quand on aura fini !"}
 {"id":1543487,"jp":"楽しんできてね。","fr":"Amuse-toi bien."}
+{"id":1543488,"jp":"うん！ここまでありがとう！","fr":"Oui ! Merci pour tout !"}
+{"id":1543489,"jp":"リリィさん、とてもよい方でしたね。","fr":"Vous ne trouvez pas que Lily est charmante ?"}
+{"id":1543490,"jp":"うんうん！礼儀正しくて親切で……すごく感じがいいのだ！","fr":"Oh oui ! Polie, serviable… La grande Lumi l'aime bien !"}
+{"id":1543491,"jp":"テララも、ちょっとは見習うべきだぞ！","fr":"Tu devrais en prendre de la graine, Terara !"}
+{"id":1543492,"jp":"なーに共通語でこそこそ言ってるんだ？","fr":"Qu'est-ce que vous fabriquez à chuchoter en langue commune ?"}
+{"id":1543493,"jp":"おい、ルミィ……そのニヤついた顔！\nアタシの悪口を言ってたな！？","fr":"Hé, Lumi… C'est quoi, ce petit sourire ?\nTu disais du mal de moi, hein ?!"}
+{"id":1543494,"jp":"まさか！考えすぎなのだ～","fr":"Mais voyons ! Tu te fais des idées…"}
+{"id":1543495,"jp":"ふふっ、それでは、この子に案内してもらいましょうか。","fr":"Hi hi. Et si nous laissions ce petit Kibo nous guider ?"}
+{"id":1543496,"jp":"でっか！\nこのあたりがぜんぶ、領主の家なのか？","fr":"C'est immense !\nTout ça, c'est chez elle ?"}
+{"id":1543497,"jp":"ふむふむ、人間の建てたものにしては悪くないのだ。","fr":"Hum, hum… Les êtres humains se sont drôlement bien débrouillés avec cette bâtisse."}
 {"id":1543498,"jp":"……ん？なんの音だ？","fr":"… Hm ? C'est quoi, ce bruit ?"}
+{"id":1543499,"jp":"あわわわわ、待てまてまて！\nあたしたちは不法侵入者じゃないぞ！やめるのだぁ——","fr":"Aaah, attends, attends, attends !\nOn n'est pas des intrus ! Arrêêête…"}
+{"id":1543500,"jp":"こちらに、どのようなご用件でしょうか？","fr":"Que puis-je faire pour vous ?"}
+{"id":1543501,"jp":"あ、えっと……実は……","fr":"Ah, euh… En fait…"}
 {"id":1543502,"jp":"お答えください。","fr":"Répondez, je vous prie."}
 {"id":1543503,"jp":"ベルちゃん！","fr":"Bell-chan !"}
 {"id":1543504,"jp":"きゃっ！","fr":"Kyaa !"}
+{"id":1543505,"jp":"斧を持って走り回るなんていけないわ。\nメイドは、いつも優雅に！","fr":"On ne court pas partout avec une hache.\nUne femme de chambre se doit de rester gracieuse en toute circonstance !"}
+{"id":1543506,"jp":"あらまあ、お客さまでしたか。","fr":"Oh, pardonnez-moi, vous êtes nos hôtes."}
+{"id":1543507,"jp":"ごきげんよう。フリス領主邸へようこそ。","fr":"Bonjour. Bienvenue au manoir du seigneur de Fleece."}
+{"id":1543508,"jp":"私、メイド長のナナチャと申します。\nこちらはキャスベル。","fr":"Je m'appelle Nanacha. Je suis la gouvernante.\nVoici Cathbelle."}
 {"id":1543509,"jp":"ごきげんよう。","fr":"Bien le bonjour."}
+{"id":1543510,"jp":"皆さま、フリスに来たのははじめてでしょうか？\n領主さまに面会をご希望ですか？","fr":"Est-ce votre première visite à Fleece ?\nSouhaitez-vous rencontrer le seigneur ?"}
+{"id":1543511,"jp":"うぅ……{playerName}！ここは任せたのだ！","fr":"Euh… {playerName} ! La grande Lumi te laisse parler !"}
+{"id":1543512,"jp":"領主さまに用事があって……","fr":"On a quelque chose à demander au seigneur…"}
+{"id":1543513,"jp":"僕らは行商で……|私たちは行商で……","fr":"On fait du commerce ambulant et…|On fait du commerce ambulant et…"}
 {"id":1543514,"jp":"行商、ですか？","fr":"Des marchands ambulants ?"}
+{"id":1543515,"jp":"それじゃ誤解されるのだ！","fr":"Mais tu vas lui faire croire qu'on est marchands !"}
+{"id":1543516,"jp":"すみません、私たちは領主さまにお会いしたいのです。","fr":"Excusez-nous. Nous souhaiterions rencontrer le seigneur."}
 {"id":1543517,"jp":"こちらが紹介状です。","fr":"Voici notre lettre de recommandation."}
+{"id":1543518,"jp":"なるほどなるほど……赤蠍団から行商を救い、\n迷子になったトランゴ探しを手伝ってくださった……と。","fr":"Je vois… Vous avez sauvé un marchand des griffes des Scorpions rouges,\npuis vous avez aidé à chercher les Trangos qui s'étaient égarés…"}
+{"id":1543519,"jp":"わかりました。長旅でお疲れでしょう。\nどうぞこちらへ。邸内でおくつろぎください。","fr":"Je comprends. Vous devez avoir besoin de repos après ce long voyage.\nPar ici, je vous prie. Vous pourrez vous installer à l'intérieur."}
+{"id":1543520,"jp":"さきほどは、ベルちゃんが驚かせてしまいましたよね？","fr":"Bell-chan vous a fait peur tout à l'heure, n'est-ce pas ?"}
+{"id":1543521,"jp":"ごめんなさい。この子は屋敷の警備を任されているので。\nいつもピリピリしていますが、悪気はないのです。","fr":"Veuillez l'excuser. C'est elle qui veille sur le manoir.\nElle est toujours sur le qui-vive, mais elle ne vous voulait aucun mal."}
+{"id":1543522,"jp":"ベルちゃん、お庭の手入れには斧を使わない約束だったでしょう？","fr":"Bell-chan, tu avais promis de laisser la hache tranquille quand tu t'occupes du jardin, tu te souviens ?"}
+{"id":1543523,"jp":"申し訳ございません。\nまたハサミを壊してしまいまして……","fr":"Je vous prie de m'excuser.\nJ'ai encore cassé la cisaille…"}
+{"id":1543524,"jp":"このメイド……ってのも獣人なのか？","fr":"La bonne, là… C'est une Furrienne, elle aussi ?"}
+{"id":1543525,"jp":"さあ、お入りください。","fr":"Je vous en prie, entrez."}
+{"id":1543526,"jp":"では、領主さまにお知らせして参ります。\nベルちゃん、お茶を淹れてちょうだい。","fr":"Je vais prévenir le seigneur de votre arrivée.\nBell-chan, prépare du thé, s'il te plaît."}
 {"id":1543527,"jp":"かしこまりました。","fr":"Très bien."}
+{"id":1543528,"jp":"こちらのお菓子は、すべてフリスの名物です。\nとくにこのペペアメは……","fr":"Toutes ces friandises sont des spécialités de Fleece.\nCes bonbons Pépé, en particulier…"}
+{"id":1543529,"jp":"おぉ～っ！食べていいのか？","fr":"Oooh ! Lumi peut goûter ?"}
+{"id":1543530,"jp":"もちろんです。ご自由におくつろぎください。","fr":"Bien sûr. Faites comme chez vous."}
+{"id":1543531,"jp":"やったやったぁ！遠慮なくいただくぞ！","fr":"Youpi ! Alors Lumi va se régaler !"}
+{"id":1543532,"jp":"こんなでっかい家が存在するんだな……\nいったい、どうやって建てたんだ？","fr":"J'avais jamais vu une baraque aussi grande…\nComment ils ont bien pu construire un truc pareil ?"}
+{"id":1543533,"jp":"たしかに立派なお屋敷だよね。","fr":"C'est vrai qu'il en impose, ce manoir."}
+{"id":1543534,"jp":"でも、なんかこういう家に住むのって……\n息苦しい感じもするな。","fr":"Mais vivre dans une baraque pareille…\nJ'aurais l'impression d'étouffer."}
+{"id":1543535,"jp":"でっかい獣に飲み込まれたみたいでさ……\nちょっと息が詰まる感じがしないか？","fr":"On se croirait dans le ventre d'une bête géante…\nT'as pas l'impression de manquer d'air, toi aussi ?"}
 {"id":1543536,"jp":"野生の直感ってやつ？","fr":"C'est l'instinct sauvage ?"}
 {"id":1543537,"jp":"照明が暗いからかも？","fr":"Peut-être à cause de la lumière trop sombre ?"}
+{"id":1543538,"jp":"わかんないな……広すぎて寂しいだけかも。\nウルもここに来てから元気ないしさ。","fr":"Je sais pas… C'est peut-être juste trop grand, on s'y sent seul.\nMême Uru a perdu son entrain depuis qu'on est là."}
+{"id":1543539,"jp":"アタシらは小屋とか野営地で過ごすのに慣れてるからな。\nデカすぎる家は落ち着かないんだ。","fr":"Nous, on a l'habitude des cabanes et des bivouacs.\nDans les grandes maisons comme ça, j'arrive pas à me détendre."}
+{"id":1543540,"jp":"やっぱ、アタシには広い野原が性に合ってるよ……","fr":"Je me sens quand même mieux dehors, avec de l'herbe à perte de vue…"}
+{"id":1543541,"jp":"ペペアメ～、ペペアメ～","fr":"Des bonbons Pépé, des bonbons Pépé…"}
+{"id":1543542,"jp":"う～ん！あっまい！これぞ幸せの味なのだ！","fr":"Mmm ! C'est tout sucré ! Ça a le goût du bonheur !"}
+{"id":1543543,"jp":"{playerName}、キミも食べてみるといい！","fr":"{playerName}, goûte, toi aussi !"}
+{"id":1543544,"jp":"まったく違う甘さがふたつ……\nまろやかなのにすっぱくて、ふしぎな味だね。","fr":"Il y a deux saveurs sucrées bien distinctes…\nC'est doux, et en même temps ça pique un peu. C'est drôle comme goût."}
+{"id":1543545,"jp":"うむうむ！フリスに来たのはだいぶまえのことだけど\nこの味はずっと忘れられなかったのだ！","fr":"Mmh-mmh ! Ça fait un bail que Lumi n'est pas venue à Fleece,\nmais elle se souvient encore du goût !"}
+{"id":1543546,"jp":"レシピが知りたいな。あとで調べてみよう。","fr":"J'aimerais bien avoir la recette. Je la chercherai plus tard."}
+{"id":1543547,"jp":"この、車椅子に座っているのは……","fr":"Cette personne en fauteuil roulant, c'est…"}
+{"id":1543548,"jp":"『鉄輪の貴婦人』……おそらくフリスの領主さまでしょう。","fr":"« La Dame aux roues de fer »… C'est sans doute le seigneur de Fleece."}
+{"id":1543549,"jp":"きっと車椅子に座っているから、\nそう呼ばれるようになったのですね。","fr":"Je suppose que c'est à cause de son fauteuil\nqu'on l'appelle ainsi."}
+{"id":1543550,"jp":"だけど、この車椅子は木で作られてるみたいだよ。\nどうして『鉄輪』なんだろう？","fr":"On dirait pourtant que son fauteuil est en bois.\nPourquoi « roues de fer », alors ?"}
+{"id":1543551,"jp":"鋭い眼差しと厳格そうなお顔……\n『鉄輪』はこの方の威厳と鉄の如き意志を表しているのかもしれません。","fr":"Quel regard perçant… Elle a l'air sévère.\nLe fer évoque peut-être l'autorité qu'elle dégage et sa volonté de fer."}
+{"id":1543552,"jp":"もうすぐ会うことになるんだよね……緊張するなあ。","fr":"On va la rencontrer d'un instant à l'autre… J'ai un peu le trac."}
+{"id":1543553,"jp":"ここにもモーキュンがいる。\nフリスのみんなは、このキボが本当に好きなんだね。","fr":"Tiens, il y a des Mokyuns ici aussi.\nLes gens de Fleece adorent vraiment ces Kibos."}
+{"id":1543554,"jp":"モーキュン！モーキュン！","fr":"Mokyun ! Mokyun !"}
+{"id":1543555,"jp":"ふむふむ。この子たちはここで働いてる……らしいぞ？","fr":"Mmh, mmh… On dirait bien qu'ils travaillent ici, ces petits."}
+{"id":1543556,"jp":"まさか、モーキュンは接客までできるのか？\nこのキボにそんな才能があるとは！","fr":"Attends, les Mokyuns savent même recevoir les visiteurs ?\nLumi ne leur connaissait pas ce talent !"}
 {"id":1543557,"jp":"モーキューーン！","fr":"Mokyuuun !"}
+{"id":1543558,"jp":"え、だれかを送ってる……？\n階段を上がったり下がったりして？","fr":"Hein, ils raccompagnent quelqu'un… ?\nEn montant et en descendant l'escalier ?"}
+{"id":1543559,"jp":"うーん……どういう意味なのだ？","fr":"Mmm… Qu'est-ce que ça peut bien vouloir dire ?"}
+{"id":1543560,"jp":"はぁーあ……ペペアメももうすぐなくなるのに、\n領主はずいぶん待たせてくれるのだ……","fr":"Pfff… Y a presque plus de bonbons Pépé,\net le seigneur fait toujours attendre Lumi…"}
+{"id":1543561,"jp":"……領主さまへの暴言は看過できません。","fr":"… Je ne peux pas vous laisser parler ainsi du seigneur."}
+{"id":1543562,"jp":"うわあっ！？いつからいたのだ！\nびっくりしたぞ！","fr":"Aaah ! T'es là depuis quand ?\nT'as fait peur à Lumi !"}
+{"id":1543563,"jp":"おや……？なぜ慌てるのですか？\nなにか後ろめたいことでもおありなのでしょうか？","fr":"Tiens… ? Pourquoi cet affolement ?\nAuriez-vous quelque chose à vous reprocher ?"}
+{"id":1543564,"jp":"い、いきなり現れたからなのだ！","fr":"C-c'est parce que t'as surgi de nulle part !"}
+{"id":1543565,"jp":"そうですか。申し訳ございません。\n私の勘違いだったようです。","fr":"Je vois. Veuillez m'excuser.\nJ'ai dû mal comprendre."}
+{"id":1543566,"jp":"領主さまがお呼びです。\nご案内いたしますので、こちらへどうぞ。","fr":"Le seigneur vous attend.\nSi vous voulez bien me suivre, c'est par ici."}
+{"id":1543567,"jp":"あのメイドに歓迎されてなさそーなのだ……","fr":"On dirait que la bonne préférerait nous voir ailleurs…"}
+{"id":1543568,"jp":"突然の訪問ですから、警戒されるのも当然です。\n時間をかけて、信頼関係を築かなければ。","fr":"Nous sommes venus sans prévenir. Il est normal qu'elle se méfie.\nIl nous faudra du temps pour gagner sa confiance."}
 {"id":1543569,"jp":"フリスへようこそ。","fr":"Bienvenue à Fleece."}
+{"id":1543570,"jp":"私は領主のヤルタ・ヘルウェン。","fr":"Je suis Yalta Helwen, le seigneur de Fleece."}
+{"id":1543571,"jp":"はじめまして、領主さま。突然お邪魔して申し訳ありません。","fr":"Ravie de faire votre connaissance, madame. Veuillez excuser cette visite impromptue."}
+{"id":1543572,"jp":"ウッドエルフか……めずらしい客だ。\nフリスでロースランサの者を見るのはひさしぶりだよ。","fr":"Une Elfe des bois… Voilà une visite peu ordinaire.\nIl y a longtemps que je n'ai vu personne de Lors Lains à Fleece."}
+{"id":1543573,"jp":"正確には……近隣の芽吹の谷から旅をして参りました。","fr":"À vrai dire… nous venons de la Vallée des Bourgeons, tout près d'ici."}
+{"id":1543574,"jp":"芽吹の谷……？あの閉ざされた渓谷か？","fr":"La Vallée des Bourgeons… ? Cette vallée coupée du monde ?"}
+{"id":1543575,"jp":"なにはともあれ、かしこまる必要はない。\nどこから来た者であろうと、フリスは歓迎する。","fr":"Quoi qu'il en soit, épargnez-vous les formalités.\nD'où que vous veniez, Fleece vous ouvre ses portes."}
+{"id":1543576,"jp":"聞くところによれば、貴方たちは赤蠍団を撃退し、\nフリスにとって大事な行商を救ってくれたそうじゃないか。感謝する。","fr":"On m'a dit que vous aviez repoussé les Scorpions rouges\net sauvé un marchand qui compte beaucoup pour Fleece. Je vous en remercie."}
+{"id":1543577,"jp":"とんでもありません。できることをしただけですから。","fr":"Je vous en prie. Nous avons fait ce que nous pouvions."}
+{"id":1543578,"jp":"貴方がたの様子を見るに、\nここに来たのは、それ以外の用があるのだろう？","fr":"À voir vos mines,\nje dirais que vous êtes ici pour une autre raison. Je me trompe ?"}
+{"id":1543579,"jp":"実はアイオリアンに会いに来たんだ。|実はアイオリアンに会いに来たの。","fr":"En fait, on est là pour rencontrer l'Éolien.|En fait, on est là pour rencontrer l'Éolien."}
+{"id":1543580,"jp":"最近フリスで不審者を見かけなかった？","fr":"Tu as vu des gens louches à Fleece ces derniers temps ?"}
+{"id":1543581,"jp":"不審者なら山ほどいるさ。","fr":"Des gens louches ? Il y en a à la pelle."}
+{"id":1543582,"jp":"広場には異国の者が集まっている。\n変わった服装の連中ばかりで、疑わしいと言えば、だれもが疑わしいだろう。","fr":"La place est pleine de gens venus de l'étranger.\nIls portent tous de drôles d'habits. Si ça suffit pour éveiller vos soupçons, vous pouvez tous les soupçonner."}
+{"id":1543583,"jp":"いいえ、領主さま。\n私たちが言っているのはそのような意味では……","fr":"Non, madame.\nCe que nous voulions dire, c'est que…"}
+{"id":1543584,"jp":"遠回しに言う必要はない。率直に話をしよう。","fr":"Épargnons-nous les détours. Parlons franchement."}
 {"id":1543616,"jp":"わかりました……","fr":"Compris…"}
 {"id":1543625,"jp":"ならば結構。","fr":"Alors ça va."}
 {"id":1543631,"jp":"特にない。","fr":"Rien de particulier."}
@@ -49529,20 +49649,120 @@
 {"id":1550869,"jp":"これからまた、「特製のカイキンギョ料理」が食べられるようになったから、だよ。","fr":"C'est parce que, désormais, on va de nouveau pouvoir déguster des « spécialités à base de Kaikingyo » !"}
 {"id":1550870,"jp":"食事を待っていると、突然、村の門から騒ぎが聞こえた。","fr":"Alors que vous attendiez le repas, une agitation soudaine s'est fait entendre du côté des portes du village."}
 {"id":1550871,"jp":"{playerName}さま、私が新しく作ったお薬を試してみませんか？","fr":"{playerName}, aimeriez-vous essayer le nouveau médicament que j'ai préparé ?"}
+{"id":1550872,"jp":"それ……見た目がちょっとこわいけど……","fr":"Euh… Ça n'a pas l'air très rassurant, ton truc…"}
+{"id":1550873,"jp":"ふふ……キボに関する素材をいろいろ入れたので、\n見た目はちょっとぐちゃぐちゃしてますが……","fr":"Héhé… J'ai utilisé toutes sortes d'ingrédients provenant de Kibo,\nce qui explique son aspect un peu étrange, mais…"}
+{"id":1550874,"jp":"効果はすごくある気がします。さあ、はやく試してみましょう。","fr":"Je pense qu'il sera très efficace. Allez, essayons-le sans plus attendre !"}
+{"id":1550875,"jp":"……じゃあ飲んでみるよ！","fr":"… Bon, je vais essayer de le boire !"}
+{"id":1550876,"jp":"全力で薬を飲み干した。","fr":"Prenant votre courage à deux mains, vous avez avalé la potion d'un trait."}
 {"id":1550877,"jp":"どうでしょうか？","fr":"Qu'en pensez-vous ?"}
+{"id":1550878,"jp":"ちょっと頭がふらふらする……","fr":"J'ai un peu la tête qui tourne…"}
 {"id":1550879,"jp":"あ、あの……？","fr":"E-euh… ?"}
+{"id":1550880,"jp":"ん？僕を探してる？|ん？私を探してる？","fr":"Hmm ? Tu me cherchais ?|Hmm ? Tu me cherchais ?"}
+{"id":1550881,"jp":"あの、リーフォって……星臨者さんのキボですよね……？","fr":"Euh, Leafo… C'est bien votre Kibo, Enfant des étoiles… ?"}
+{"id":1550882,"jp":"そうだけど……どうしたの？","fr":"Oui, pourquoi… ? Il y a un problème ?"}
+{"id":1550883,"jp":"あの……実はですね……チィルが助けを求めてきたんですけど……","fr":"Eh bien… En réalité… Chill est venu me demander de l'aide…"}
+{"id":1550884,"jp":"どうやらリーフォのことで悩んでいるみたいで……","fr":"Il semblerait que quelque chose en rapport avec Leafo le tracasse…"}
+{"id":1550885,"jp":"えっ？！リーフォがなにかしたの？","fr":"Hein !? Qu'est-ce que Leafo a fait ?"}
+{"id":1550886,"jp":"もしかして、リーフォとチィルが喧嘩してるとか……？","fr":"Ne me dis pas que Leafo et Chill se sont disputés… ?"}
+{"id":1550887,"jp":"詳しくはわからないんですが……\nチィルはすごく落ち込んでいるみたいです。","fr":"Je ne connais pas les détails, mais…\nChill semble vraiment abattu."}
 {"id":1550888,"jp":"チィル","fr":"Chill"}
+{"id":1550889,"jp":"この様子から察するに……リーフォに巣を奪われてしまった、とか？","fr":"À en juger par son comportement… Leafo lui aurait pris son nid, peut-être ?"}
+{"id":1550890,"jp":"（いや、ちょっと待って……！なんで急にキボの話がわかるようになったの？）","fr":"(Non, attends un peu… ! Depuis quand est-ce que je comprends ce que disent les Kibo ?)"}
+{"id":1550891,"jp":"え？いまチィルの巣の話をしましたか？……？","fr":"Hein ? Vous venez de parler du nid de Chill… ?"}
+{"id":1550892,"jp":"チィルの巣なら、村の外のすぐ近くにありますよ。","fr":"Le nid de Chill se trouve juste à la sortie du village."}
+{"id":1550893,"jp":"なるほど。それじゃあ、ちょっと様子を見てくるよ。","fr":"Je vois. Dans ce cas, je vais aller voir ce qui se passe."}
 {"id":1550894,"jp":"うぅ！う！","fr":"Uuh ! Uh !"}
+{"id":1550895,"jp":"この先だよね？わかった！","fr":"C'est un peu plus loin, c'est ça ? D'accord !"}
 {"id":1550896,"jp":"これは――リーフォ？","fr":"Ça, c'est… un Leafo ?"}
+{"id":1550897,"jp":"待って、このキャベッコはなにを……！？","fr":"Attends, mais qu'est-ce que ce Cabbeco est en train de faire… !?"}
+{"id":1550898,"jp":"まずい、急いでリーフォを助けないと！","fr":"Mince, il faut vite que j'aille secourir Leafo !"}
+{"id":1550899,"jp":"キュウ～キュウ！\n（やっと出られた！やったー！）","fr":"Kyouuu, kyou !\n(Enfin dehors ! Hourra !)"}
+{"id":1550900,"jp":"……それにしても、どうやってこんな穴にはまったのかな？","fr":"… Mais comment as-tu fait pour te retrouver coincé dans un trou pareil ?"}
+{"id":1550901,"jp":"キュウ……キュウ！キュウ？\n（ボクもわからないよ……ずいぶん長い間はまってたから。\nそうだ、なにかに蹴られているような気がした……！）","fr":"Kyou… Kyou ! Kyou ?\n(Je ne sais pas non plus… Ça faisait super longtemps que j'étais coincé.\nAh, mais oui ! J'ai l'impression que quelqu'un me donnait des coups de patte… !)"}
 {"id":1550902,"jp":"う……ううう！う！","fr":"Uh… uuuh ! Uh !"}
+{"id":1550903,"jp":"え？これはきみの巣なの！？","fr":"Hein ? C'est ton nid, ça !?"}
+{"id":1550904,"jp":"えっと……もう……巣の形をしてないみたいだね。","fr":"Euh… On dirait que… ça ne ressemble plus vraiment à un nid."}
+{"id":1550905,"jp":"コホン。いい、リーフォ？とにかくチィルに謝らないと。\nそれと、これからはほかのキボの巣を踏み荒らしちゃだめ。わかった？","fr":"Hum, hum. Écoute bien, Leafo. Tu dois d'abord présenter tes excuses à Chill.\nEt à l'avenir, interdiction de piétiner les nids des autres Kibo. Compris ?"}
+{"id":1550906,"jp":"キュウ……キュウ？\n（えっ、これってキミの巣だったの？……ごめんなさい……）","fr":"Kyou… Kyou ?\n(Hein ? C'était ton nid, ça ?… Pardon…)"}
+{"id":1550907,"jp":"キュウ……キュウ……\n（{playerName}、これからどうすればいいの……？）","fr":"Kyou… Kyou…\n({playerName}, qu'est-ce que je dois faire, maintenant… ?)"}
+{"id":1550908,"jp":"そうだね……ネコヒゲ草を採ってきてここに敷き直せば、巣は直せると思う。","fr":"Voyons… Si on va chercher de l'herbe à moustaches de chat pour en tapisser le fond, on devrait pouvoir réparer le nid."}
 {"id":1550909,"jp":"うぅ……？","fr":"Uuh… ?"}
+{"id":1550910,"jp":"キュウ！\n（わかった！手伝うよ！）","fr":"Kyou !\n(D'accord ! Je vais t'aider !)"}
+{"id":1550911,"jp":"よし、巣のなかはネコヒゲ草を敷き詰めることができたし、外の土も固め直せたね。\nこれなら、チルルに大丈夫って伝えられるかな。","fr":"Voilà, on a entièrement tapissé le nid d'herbe à moustaches de chat et on a bien retassé la terre autour.\nAvec ça, on devrait pouvoir rassurer Chilul."}
+{"id":1550912,"jp":"キュウキュウ！\n（これからはちゃんと気をつけるよ、約束する！）","fr":"Kyou kyou !\n(Je ferai bien attention à partir de maintenant, promis !)"}
 {"id":1550913,"jp":"キュポッ……","fr":"Kyupo…"}
+{"id":1550914,"jp":"（ここでルビッツを見かけるなんてめずらしいな。\nでも……なんだか悲しそうに見える……）|（ここでルビッツを見かけるなんてめずらしいかも。\nでも……なんだか悲しそうに見える……）","fr":"(C'est rare de croiser un Rubbit par ici.\nMais… il a l'air plutôt triste…)|(C'est plutôt rare de croiser un Rubbit par ici.\nMais… il a l'air plutôt triste…)"}
+{"id":1550915,"jp":"（ん？なにか合図を送ってる？）","fr":"(Hmm ? Il essaie de me faire signe ?)"}
+{"id":1550916,"jp":"ルビッツ、どうしたの？","fr":"Rubbit, qu'est-ce qui t'arrive ?"}
+{"id":1550917,"jp":"キュポ……キュポキュポ……キュポ……","fr":"Kyupo… Kyupo kyupo… Kyupo…"}
+{"id":1550918,"jp":"え？メロウミーが僕のことを紹介したの？","fr":"Hein ? C'est Mellowmee qui t'a parlé de moi ?"}
+{"id":1550919,"jp":"リーフォがきみの巣の入口を踏み壊した……？","fr":"Leafo a piétiné et détruit l'entrée de ton terrier… ?"}
+{"id":1550920,"jp":"……しかも、リーフォはきみのことも踏みそうになった……？","fr":"… Et en plus, il a failli te marcher dessus… ?"}
+{"id":1550921,"jp":"（リーフォ、またきみか！）|（リーフォ、またきみなのね！）","fr":"(Leafo, encore toi !)|(Leafo, encore toi !)"}
+{"id":1550922,"jp":"ねえ、きみの巣まで連れて行ってくれない？リーフォを捕まえるからさ。","fr":"Dis, tu veux bien me conduire jusqu'à ton terrier ? Je vais mettre la patte sur Leafo."}
+{"id":1550923,"jp":"キュウ？キュウキュウ！\n（{playerName}！遊びに来たの？）","fr":"Kyou ? Kyou kyou !\n({playerName} ! Tu viens jouer avec moi ?)"}
 {"id":1550924,"jp":"キュポッキュポンッ！","fr":"Kyupo kyupon !"}
+{"id":1550925,"jp":"リーフォ、もしかしてルビッツの巣の入り口を\n踏んで壊しちゃったんじゃない？","fr":"Dis-moi, Leafo, tu n'aurais pas écrasé\nl'entrée du terrier de Rubbit, par hasard ?"}
+{"id":1550926,"jp":"キュウキュウ？\n（壊した？そんなことしてないよ？）","fr":"Kyou kyou ?\n(Écrasé ? Mais je n'ai rien fait de pareil, moi !)"}
+{"id":1550927,"jp":"キュウキュウ……キュウキュウ！\n（いまさっきも、キャベッコと楽しく遊んでたしね！\nただあの子はすごい足が速いから、追いかけても全然捕まえられないんだけど……）","fr":"Kyou kyou… Kyou kyou !\n(Je jouais encore avec un Cabbeco à l'instant, on s'amusait bien !\nMais il court super vite, alors j'ai beau lui courir après, impossible de l'attraper…)"}
+{"id":1550928,"jp":"（追いかけても、って……\nそういうことをしてたから、この前キャベッコに蹴られたんだ）|（追いかけても、って……\nそういうことをしてたから、この前キャベッコに蹴られたのね）","fr":"(Lui courir après, hein…\nJe comprends mieux pourquoi le Cabbeco t'a donné des coups de patte l'autre jour.)|(Lui courir après, hein…\nC'est donc pour ça que le Cabbeco t'a donné des coups de patte l'autre jour.)"}
+{"id":1550929,"jp":"キュウ、キュウキュウ！\n（それにこのまえ、「メロウミーの巣に飛び乗らないように」って言ったでしょ。\nだからいまは、岩づたいに跳んでるんだ！ね、気をつけてるでしょ？）","fr":"Kyou, kyou kyou !\n(Et puis, l'autre jour, tu m'as dit de « ne plus sauter sur les nids des Mellowmee », tu te souviens ?\nAlors maintenant, je saute de rocher en rocher ! Tu vois, je fais attention !)"}
 {"id":1550930,"jp":"キュポッー！","fr":"Kyupoo !"}
+{"id":1550931,"jp":"え？そこの岩の下がルビッツの巣穴の入口だったの……？","fr":"Hein ? L'entrée du terrier de Rubbit se trouvait sous ce rocher… ?"}
+{"id":1550932,"jp":"どうやら……完全に踏み潰されちゃってるみたいだね……","fr":"On dirait que… l'entrée a été complètement écrasée…"}
+{"id":1550933,"jp":"キュウ……キュウ？\n（う……またやっちゃった？）","fr":"Kyou… Kyou ?\n(Euh… J'ai encore fait une bêtise ?)"}
+{"id":1550934,"jp":"きみ、もしかしてルビッツを踏みそうになったりした？","fr":"Tu n'aurais pas aussi failli marcher sur Rubbit, par hasard ?"}
+{"id":1550935,"jp":"キュウ？キュウ……キュキュウ！\n（そうなのかな？……あっ、思い出した！\nたしかこのあたりで赤くてキラキラしたものを見たよ！）","fr":"Kyou ? Kyou… Kyou kyou !\n(Ah bon ?… Oh, je me souviens !\nJ'ai vu quelque chose de rouge qui scintillait dans les environs !)"}
+{"id":1550936,"jp":"キュウキュウ！\n（あれ、キミだったの！？すごくきれいだね！）","fr":"Kyou kyou !\n(C'était toi !? Qu'est-ce que tu es beau !)"}
+{"id":1550937,"jp":"キュウ……\n（あ、いや、じゃなくて……ごめんなさい……わざと踏もうとしたわけじゃないんだ。\nここがキミの巣だって知らなくて……）","fr":"Kyou…\n(Ah, non, ce n'est pas ce que je voulais dire… Pardon… Je n'ai pas fait exprès de te marcher dessus.\nJe ne savais pas que c'était ton terrier…)"}
+{"id":1550938,"jp":"キュウ、キュウ……\n（ボク、手助けしないと……でも、どうすればいいんだろう……）","fr":"Kyou, kyou…\n(Il faut que je t'aide… Mais qu'est-ce que je pourrais faire… ?)"}
+{"id":1550939,"jp":"とにかく、まずは石を積み上げて、ルビッツの巣を直してあげよう。","fr":"Pour commencer, remettons les pierres en place pour réparer le terrier de Rubbit."}
+{"id":1550940,"jp":"キュウキュウ！\n（わかった、頑張るよ！）","fr":"Kyou kyou !\n(D'accord, je vais faire de mon mieux !)"}
+{"id":1550941,"jp":"よし、石を全部積み直せたね。これなら踏みつぶされることはないはずだ！|よし、石を全部積み直せたね。これなら踏みつぶされることはないはずよ！","fr":"Voilà, toutes les pierres sont de nouveau en place. Avec ça, personne ne devrait pouvoir écraser l'entrée !|Voilà, toutes les pierres sont de nouveau en place. Avec ça, personne ne devrait pouvoir écraser l'entrée !"}
+{"id":1550942,"jp":"キュウキュウ！\n（ボクも、もうここを踏まないから！）","fr":"Kyou kyou !\n(Et moi, je ne marcherai plus jamais ici !)"}
+{"id":1550943,"jp":"キュポッ、キュポンッ！","fr":"Kyupo, kyupon !"}
+{"id":1550944,"jp":"（そういえば、ここ何日かリーフォを見てない気がするけど……）","fr":"(Tiens, maintenant que j'y pense, ça fait quelques jours que je n'ai pas vu Leafo…)"}
+{"id":1550945,"jp":"（またどこかでトラブルを起こしたりして……？）","fr":"(Il n'aurait pas encore semé la pagaille quelque part… ?)"}
+{"id":1550946,"jp":"どうしたの？まさかリーフォのことじゃないよね……？","fr":"Qu'est-ce qui t'arrive ? Ne me dis pas que c'est encore à cause de Leafo… ?"}
+{"id":1550947,"jp":"（思った通りか……）|（思った通りね……）","fr":"(C'est bien ce que je pensais…)|(C'est bien ce que je pensais…)"}
+{"id":1550948,"jp":"今度はなにをしたの、リーフォ？","fr":"Leafo, qu'est-ce que tu as encore fait, cette fois ?"}
 {"id":1550949,"jp":"ゴゴッ……ンゴゴゴ！","fr":"Gogo… ngogogo !"}
+{"id":1550950,"jp":"……巣に貯めておいたエイプルがなくなった……\nもしかしたら、エイプル泥棒がいるかも……って？","fr":"… L'Aple que tu avais mis de côté dans ton nid a disparu…\nEt tu penses qu'il y a peut-être un voleur d'Aples, c'est ça ?"}
+{"id":1550951,"jp":"それに、近くにリーフォの毛がある……？","fr":"Et tu as aussi trouvé des poils de Leafo à proximité… ?"}
+{"id":1550952,"jp":"わかった。いっしょにリーフォを探して聞いてみよう。","fr":"D'accord. Allons chercher Leafo ensemble pour lui demander des explications."}
+{"id":1550953,"jp":"キュウキュウ！キュー！\n（フィンヴォルフ、お願い！この毛がだれのものか嗅いでみて）","fr":"Kyou kyou ! Kyouuu !\n(Finwolf, s'il te plaît ! Renifle ces poils pour savoir à qui ils appartiennent.)"}
 {"id":1550954,"jp":"ワォン？ウゥゥ……","fr":"Ouon ? Uuu…"}
+{"id":1550955,"jp":"つまり……これはキャバードの匂い？","fr":"Autrement dit… C'est l'odeur d'un Cabbird ?"}
+{"id":1550956,"jp":"キュウ？\n（キャバード？キャベッコじゃなくて？）","fr":"Kyou ?\n(Un Cabbird ? Pas un Cabbeco ?)"}
+{"id":1550957,"jp":"本当にキャバードだったのかな？\nでも、たしかに……巣の近くにあった足跡もキャバードのものに似てたかも。","fr":"C'était vraiment un Cabbird ?\nMaintenant que j'y pense… Les empreintes près du nid ressemblaient effectivement à celles d'un Cabbird."}
+{"id":1550958,"jp":"でも、いったいどのキャバードなんだろう？","fr":"Mais de quel Cabbird peut-il bien s'agir ?"}
 {"id":1550959,"jp":"ウゥー！ワオン！","fr":"Uuu ! Ouon !"}
+{"id":1550960,"jp":"え、すぐ近くにいるって？","fr":"Hein ? Tu dis qu'il est tout près d'ici ?"}
+{"id":1550961,"jp":"キュウ……キュウ！\n（変な物音がした気がする、そっちに行ってみよう！）","fr":"Kyou… Kyou !\n(J'ai l'impression d'avoir entendu un drôle de bruit. Allons voir par là !)"}
+{"id":1550962,"jp":"キュウ、キュウ。\n（キャバード、キミに聞きたいことがあるんだ）","fr":"Kyou, kyou.\n(Cabbird, j'ai quelque chose à te demander.)"}
 {"id":1550963,"jp":"コッ、ココ？","fr":"Cot, cot-cot ?"}
+{"id":1550964,"jp":"リーフォはキャバードに用件を説明した。\nほどなくして、フィンヴォルフはキャベッコ、メロウミー、そしてルビッツを連れてやって来た。","fr":"Leafo expliqua la situation au Cabbird.\nPeu après, Finwolf arriva en compagnie du Cabbeco, du Mellowmee et du Rubbit."}
+{"id":1550965,"jp":"（あれ……なんでこんなにたくさんのキボが集まってきたんだ？）|（あれ……なんでこんなにたくさんのキボが集まってきたの？）","fr":"(Tiens… Pourquoi autant de Kibo se sont-ils rassemblés ici ?)|(Tiens… Pourquoi autant de Kibo se sont-ils rassemblés ici ?)"}
+{"id":1550966,"jp":"（こうなったら、リーフォに任せよう。\nこの子もそろそろ友達との付き合い方を学ぶべきだし）","fr":"(Bon, je vais laisser Leafo s'en occuper.\nIl est grand temps qu'il apprenne à bien s'entendre avec ses amis.)"}
+{"id":1550967,"jp":"コッココ……\n（ごめんなさい、あのエイプルはたしかにぼくが……）","fr":"Cot-cot-cot…\n(Pardon, c'est bien moi qui ai pris cet Aple…)"}
+{"id":1550968,"jp":"コッコ！？\n（え、あんたがやったの？リーフォじゃなくて！？）","fr":"Cot-cot !?\n(Hein ? C'était toi ? Pas Leafo !?)"}
+{"id":1550969,"jp":"キュウキュウ！\n（だから、ボクじゃないって言ったでしょ！）","fr":"Kyou kyou !\n(Tu vois, je t'avais bien dit que ce n'était pas moi !)"}
+{"id":1550970,"jp":"コッココ……\n（ぼく、ボアラーガから隠れてて、そしたらこの巣に落ちて、どういうわけか……そこにエイプルがあって……）","fr":"Cot-cot-cot…\n(J'essayais de me cacher d'un Boaraga, mais je suis tombé dans ce nid et, je ne sais pas comment… Il y avait un Aple dedans…)"}
+{"id":1550971,"jp":"コッココ、ココッ……\n（エイプルがほしかったけど、木になってるのは手が届かなくて……\nエイプルを返すまえにあなたたちに見つかっちゃった……）","fr":"Cot-cot-cot, cot-cot…\n(Je voulais trouver un autre Aple, mais ceux qui poussent dans les arbres sont trop hauts pour moi…\nVous m'avez trouvé avant que je puisse rendre l'Aple…)"}
+{"id":1550972,"jp":"ココッコ……\n（ごめんなさい、頑張って返すよ……このあたり、もうエイプルはあまりないみたいけど……）","fr":"Cot-cot-cot…\n(Pardon, je vais faire de mon mieux pour te le rendre… Mais on dirait qu'il ne reste plus beaucoup d'Aples dans les environs…)"}
+{"id":1550973,"jp":"コッコ、コッコ……\n（そういうことだったのか……けど、エイプルなんてもうどこにもないよ……）","fr":"Cot-cot, cot-cot…\n(Alors, c'est ce qui s'est passé… Mais il n'y a plus d'Aples nulle part…)"}
+{"id":1550974,"jp":"キュウ？キュウ～！\n（ちょっと待って、この近くならユースベリーがあるはず！）","fr":"Kyou ? Kyouuu !\n(Attendez un peu, il devrait y avoir des baies de Jouvence tout près d'ici !)"}
+{"id":1550975,"jp":"キュウキュウ？\n（エイプルがないなら、ユースベリーで代わりにどう？）","fr":"Kyou kyou ?\n(S'il n'y a plus d'Aples, que dirais-tu de baies de Jouvence à la place ?)"}
+{"id":1550976,"jp":"キュウキュウ、キュウ！\n（ユースベリー、いい匂いですごくおいしそう。考えるだけでよだれが出そうだ！）","fr":"Kyou kyou, kyou !\n(Les baies de Jouvence sentent tellement bon et ont l'air trop délicieuses. Rien que d'y penser, j'en ai l'eau à la bouche !)"}
+{"id":1550977,"jp":"キュウキュウ！\n（ユースベリーを食べたら、ご先祖さまみたいに大きいしっぽが生えるんだ。ふわふわできれいなしっぽ！）","fr":"Kyou kyou !\n(En mangeant des baies de Jouvence, on peut avoir une grande queue comme celle de mes ancêtres ! Une jolie queue toute douce et touffue !)"}
+{"id":1550978,"jp":"キュポッ！？\n（お、大きいしっぽ！？それってぼくも……）","fr":"Kyupo !?\n(U-Une grande queue !? Alors, moi aussi, je pourrais…)"}
+{"id":1550979,"jp":"ワフ。\n（あなたの場合は……たぶん無理だ）","fr":"Wouf.\n(Dans ton cas… Ça m'étonnerait.)"}
+{"id":1550980,"jp":"コケッコ……\n（リーフォが言ってるのは自分の先祖のことだよ。あんたはもっと大きな塩……ほら、塩結晶とかになるだけだよ……）","fr":"Cot-cot-cot…\n(Leafo parle de ses propres ancêtres. Toi, tu deviendras juste un plus gros morceau de sel… Enfin, un cristal de sel ou quelque chose comme ça…)"}
+{"id":1550981,"jp":"キュポッ！\n（クリムゾルだよ！）","fr":"Kyupo !\n(Un Crimzol, ça s'appelle !)"}
+{"id":1550982,"jp":"コケーッ？\n（そうなの？）","fr":"Cot-cooot ?\n(Ah bon ?)"}
+{"id":1550983,"jp":"キュポッ、キュポンッ？\n（食べたことないけど、ユースベリーって本当にそんなにすごいのか？）","fr":"Kyupo, kyupon ?\n(Je n'en ai jamais mangé, mais les baies de Jouvence sont vraiment aussi extraordinaires ?)"}
+{"id":1550984,"jp":"ウォン。\n（そう言われると、ちょっと気になってきた）","fr":"Wouf.\n(À t'entendre, ça commence à m'intriguer.)"}
+{"id":1550985,"jp":"キュウ、キュウ！\n（とにかく！ユースベリーは不思議とおいしいから、ついてきてよ！）","fr":"Kyou, kyou !\n(Enfin bref ! Les baies de Jouvence sont incroyablement délicieuses, alors suivez-moi !)"}
 {"id":1551030,"jp":"行っておいで。","fr":"Vas-y, file."}
 {"id":1551034,"jp":"キュウ、キュウ！","fr":"Kyuu, kyuu !"}
 {"id":1551038,"jp":"お薬は効きましたか？","fr":"Le remède a fait effet ?"}
