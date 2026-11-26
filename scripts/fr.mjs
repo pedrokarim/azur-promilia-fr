@@ -14,6 +14,7 @@
 //   import <fichier> [--dry-run]  reverse un fichier de travail rempli dans fr/strings.fr.jsonl
 //   build [options]               fabrique le fichier lu par le patcher
 //   orphans [--move]              liste (ou range dans fr/orphans.jsonl) les lignes orphelines
+//   titles [fichier] [--fix]      aligne les titres cités entre « » sur leur traduction
 //
 // Aucune dépendance : Node 20 ou plus suffit.
 
@@ -358,10 +359,45 @@ function orphans(options) {
   }
 }
 
-const COMMANDS = { stats, check, todo, import: importWork, build, orphans };
+/**
+ * Aligne les titres cités sur leur traduction : quand une ligne japonaise cite un seul
+ * 「titre」 déjà traduit ailleurs, la citation française entre « » reprend ce texte exact
+ * (sinon le joueur lit « Le loup pour guide » dans la liste des quêtes et « Le guide du loup »
+ * dans l'objectif). Des guillemets français à l'intérieur du titre deviennent des " droits.
+ * Sans --fix, liste seulement les écarts. Avec un fichier, travaille sur ce lot de travail.
+ */
+function titles(options) {
+  const french = loadFrench();
+  const titleOf = new Map([...french.byJp.values()].map((row) => [row.jp, row.fr]));
+  const file = options._[0] ? resolve(options._[0]) : FRENCH_FILE;
+  const rows = readJsonl(file, { label: 'titres' }).rows;
+  const fixed = [];
+  for (const row of rows) {
+    if (typeof row.fr !== 'string' || !row.fr) continue;
+    const quotes = [...row.jp.matchAll(/「([^「」]+)」/g)];
+    if (quotes.length !== 1) continue;
+    const title = titleOf.get(quotes[0][1]);
+    const open = row.fr.indexOf('«');
+    const close = row.fr.lastIndexOf('»');
+    if (!title || open === -1 || close <= open || row.fr.split('«').length !== 2) continue;
+    const wanted = title.replace(/«\s*/g, '"').replace(/\s*»/g, '"');
+    if (row.fr.slice(open + 1, close).trim() === wanted) continue;
+    const next = `${row.fr.slice(0, open)}« ${wanted} »${row.fr.slice(close + 1)}`;
+    fixed.push({ id: row.id, before: row.fr, after: next });
+    row.fr = next;
+  }
+  for (const change of fixed) console.log(`id ${change.id} : ${change.before}\n    → ${change.after}`);
+  if (options.fix && fixed.length) {
+    if (file === FRENCH_FILE) writeJsonl(FRENCH_FILE, rows);
+    else writeJsonl(file, rows);
+  }
+  console.log(`${fixed.length} citation(s) ${options.fix ? 'alignée(s)' : 'à aligner (ajouter --fix)'}.`);
+}
+
+const COMMANDS = { stats, check, todo, import: importWork, build, orphans, titles };
 const [command, ...rest] = process.argv.slice(2);
 if (!COMMANDS[command]) {
-  console.log('Commandes : stats | check | todo | import <fichier> | build | orphans');
+  console.log('Commandes : stats | check | todo | import <fichier> | build | orphans | titles');
   process.exitCode = command ? 1 : 0;
 } else {
   try {

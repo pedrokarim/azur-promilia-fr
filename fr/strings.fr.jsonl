@@ -33,6 +33,7 @@
 {"id":1495238,"jp":"創流の円環Ⅵ","fr":"Cercle de la genèse Ⅵ"}
 {"id":1495239,"jp":"創流の円環Ⅶ","fr":"Cercle de la genèse Ⅶ"}
 {"id":1495240,"jp":"悠久の円環Ⅰ","fr":"Cercle de l'éternité Ⅰ"}
+{"id":1495241,"jp":"240秒以内に敵を倒す","fr":"Vaincre un ennemi en moins de 240 secondes"}
 {"id":1495242,"jp":"悠久の円環Ⅱ","fr":"Cercle de l'éternité Ⅱ"}
 {"id":1495243,"jp":"悠久の円環Ⅲ","fr":"Cercle de l'éternité Ⅲ"}
 {"id":1495244,"jp":"悠久の円環Ⅳ","fr":"Cercle de l'éternité Ⅳ"}
@@ -53,6 +54,7 @@
 {"id":1495260,"jp":"簡易クラフト","fr":"Fabrication simple"}
 {"id":1495261,"jp":"見習いハンターの軽鎧","fr":"Armure légère d'apprenti chasseur"}
 {"id":1495263,"jp":"見習いハンターの脚甲","fr":"Jambières d'apprenti chasseur"}
+{"id":1495265,"jp":"見習いハンターの耳飾り","fr":"Boucles d'oreilles d'apprenti chasseur"}
 {"id":1495267,"jp":"見習いハンターの指輪","fr":"Anneau d'apprenti chasseur"}
 {"id":1495269,"jp":"流浪者の剣","fr":"Épée du vagabond"}
 {"id":1495271,"jp":"森の守り手の刃","fr":"Lame du gardien sylvestre"}
@@ -184,6 +186,7 @@
 {"id":1495490,"jp":"律の帰する詩","fr":"Poème de l'unisson"}
 {"id":1495492,"jp":"律の帰する音","fr":"Son de l'unisson"}
 {"id":1495494,"jp":"霜降りの花","fr":"Fleur de givre"}
+{"id":1495495,"jp":"一対の耳飾り。\n冬、細枝に霜の花が結ぶ。","fr":"Une paire de boucles d'oreilles.\nEn hiver, des fleurs de givre éclosent sur les fines branches."}
 {"id":1495496,"jp":"空を灼く花","fr":"Fleur qui embrase le ciel"}
 {"id":1495498,"jp":"光を讃える歌","fr":"Hymne à la lumière"}
 {"id":1495500,"jp":"森と風の誓い","fr":"Serment de la forêt et du vent"}
@@ -257,6 +260,7 @@
 {"id":1495616,"jp":"火属性ダメージ","fr":"DGT de Feu"}
 {"id":1495617,"jp":"風属性ダメージ","fr":"DGT de Vent"}
 {"id":1495618,"jp":"氷属性ダメージ","fr":"DGT de Glace"}
+{"id":1495619,"jp":"スキルクールタイム短縮%","fr":"Réduction du temps de recharge des compétences%"}
 {"id":1495620,"jp":"光属性ダメージ","fr":"DGT de Lumière"}
 {"id":1495621,"jp":"闇属性ダメージ","fr":"DGT de Ténèbres"}
 {"id":1495622,"jp":"地属性ダメージ","fr":"DGT de Terre"}
@@ -293,168 +297,414 @@
 {"id":1495653,"jp":"隙をつく影","fr":"Ombre qui guette la faille"}
 {"id":1495654,"jp":"慈悲の光","fr":"Lumière de miséricorde"}
 {"id":1495655,"jp":"反復の奏で","fr":"Ritournelle"}
+{"id":1495673,"jp":"シャルル村へようこそ！","fr":"Bienvenue au Village de Charlulu !"}
 {"id":1495674,"jp":"シャルル村に到着する","fr":"Arriver au Village de Charlulu"}
+{"id":1495675,"jp":"どんぐりお宝探検隊！登場！","fr":"Voici la brigade des trésors des glands !"}
+{"id":1495676,"jp":"メインストーリー「狼の導き」をクリアする","fr":"Terminer l'histoire principale « Le loup pour guide »"}
 {"id":1495677,"jp":"スカイホーク飛行","fr":"Vol à dos de Skyhawk"}
+{"id":1495678,"jp":"メインストーリー「迫り来る影」をクリアする","fr":"Terminer l'histoire principale « L'ombre qui approche »"}
+{"id":1495679,"jp":"万朔の夢ここに巡り逢う","fr":"Ici se rencontrent les rêves de dix mille lunes"}
+{"id":1495680,"jp":"メインストーリー「森と霧のガーデン」をクリアする","fr":"Terminer l'histoire principale « Le jardin des bois et des brumes »"}
 {"id":1495681,"jp":"迫り来る災いの影","fr":"L'ombre du fléau qui approche"}
+{"id":1495682,"jp":"メインストーリー「分かれ道」をクリアする","fr":"Terminer l'histoire principale « À la croisée des chemins »"}
 {"id":1495683,"jp":"百朔を経た再会","fr":"Retrouvailles après cent lunes"}
+{"id":1495684,"jp":"メインストーリー「舞い散る雪のように」をクリアする","fr":"Terminer l'histoire principale « Comme des flocons dansants »"}
 {"id":1495685,"jp":"災厄の終焉","fr":"La fin de la calamité"}
+{"id":1495686,"jp":"メインストーリー「約束された願いの星」をクリアする","fr":"Terminer l'histoire principale « L'étoile des vœux promise »"}
 {"id":1495687,"jp":"フリスへようこそ","fr":"Bienvenue à Fleece"}
+{"id":1495688,"jp":"メインストーリー「フリスへようこそ」をクリアする","fr":"Terminer l'histoire principale « Bienvenue à Fleece »"}
 {"id":1495689,"jp":"分かち合う歓び","fr":"La joie du partage"}
 {"id":1495691,"jp":"迫りくる嵐","fr":"La tempête qui vient"}
+{"id":1495692,"jp":"メインストーリー「暗雲の嵐の下で」をクリアする","fr":"Terminer l'histoire principale « Sous les sombres nuages de l'orage »"}
 {"id":1495693,"jp":"それぞれの事情","fr":"Chacun ses raisons"}
+{"id":1495694,"jp":"サブストーリー「謎めいた村長さん」をクリアする","fr":"Terminer l'histoire secondaire « L'énigmatique Chef du village »"}
 {"id":1495695,"jp":"送料はいくら？","fr":"Combien pour le port ?"}
+{"id":1495696,"jp":"サブストーリー「宝石をめぐる争い」をクリアする","fr":"Terminer l'histoire secondaire « La querelle des joyaux »"}
 {"id":1495697,"jp":"本当におめでとう！","fr":"Toutes mes félicitations !"}
+{"id":1495698,"jp":"サブストーリー「ミィティの飛翔の儀」をクリアする","fr":"Terminer l'histoire secondaire « Le rite d'envol de Mitty »"}
 {"id":1495699,"jp":"わざとじゃないよ！","fr":"C'était pas exprès !"}
+{"id":1495700,"jp":"サブストーリー「リオリオ」をクリアする","fr":"Terminer l'histoire secondaire « Rio-Rio »"}
 {"id":1495701,"jp":"夜も眠れず","fr":"Nuits blanches"}
+{"id":1495702,"jp":"サブストーリー「夢を捕らえる者」をクリアする","fr":"Terminer l'histoire secondaire « L'attrape-rêves »"}
 {"id":1495703,"jp":"モウー！","fr":"Meuh !"}
+{"id":1495704,"jp":"サブストーリー「軟弱な鼻」をクリアする","fr":"Terminer l'histoire secondaire « Un nez bien fragile »"}
 {"id":1495705,"jp":"未来のマイスター","fr":"Graine de maître artisan"}
+{"id":1495706,"jp":"サブストーリー「一族の栄光を背負う」をクリアする","fr":"Terminer l'histoire secondaire « Porter la gloire du clan »"}
+{"id":1495707,"jp":"そそっかしい小さな庭師","fr":"Un petit jardinier bien maladroit"}
+{"id":1495708,"jp":"サブストーリー「巣を荒らしたのはだれ」をクリアする","fr":"Terminer l'histoire secondaire « Qui a saccagé le nid ? »"}
 {"id":1495709,"jp":"エースパイロット","fr":"As du pilotage"}
+{"id":1495710,"jp":"サブストーリー「飛行の軌跡をたどって」をクリアする","fr":"Terminer l'histoire secondaire « Sur les traces du vol »"}
 {"id":1495711,"jp":"毒とともに舞う","fr":"Danser avec le poison"}
+{"id":1495712,"jp":"サブストーリー「波に乗って飛べ」をクリアする","fr":"Terminer l'histoire secondaire « S'envoler au gré des vagues »"}
+{"id":1495713,"jp":"キャバード……本当にかわいい……","fr":"Cabbird… vraiment trop adorable…"}
 {"id":1495715,"jp":"華麗なる自信","fr":"Une superbe assurance"}
+{"id":1495716,"jp":"サブストーリー「美しい秘密」をクリアする","fr":"Terminer l'histoire secondaire « Un beau secret »"}
 {"id":1495717,"jp":"幸運の虹","fr":"L'arc-en-ciel de la chance"}
+{"id":1495718,"jp":"サブストーリー「神秘のモフモフ」をクリアする","fr":"Terminer l'histoire secondaire « La mystérieuse boule de poils »"}
 {"id":1495719,"jp":"来たからには","fr":"Puisqu'on est là"}
+{"id":1495722,"jp":"サブストーリー「お願い、笑って」をクリアする","fr":"Terminer l'histoire secondaire « Un sourire, s'il te plaît »"}
+{"id":1495723,"jp":"坑道は我が家にして根本","fr":"La mine, mon foyer et mes racines"}
+{"id":1495724,"jp":"サブストーリー「秘密基地」をクリアする","fr":"Terminer l'histoire secondaire « La base secrète »"}
 {"id":1495725,"jp":"過剰労働禁止","fr":"Surmenage interdit"}
+{"id":1495726,"jp":"サブストーリー「トランゴ大調査」をクリアする","fr":"Terminer l'histoire secondaire « La grande enquête sur Trango »"}
+{"id":1495727,"jp":"キボの保護はみんなの責任","fr":"Protéger les Kibo, c'est l'affaire de tous"}
+{"id":1495728,"jp":"サブストーリー「森の奇縁」をクリアする","fr":"Terminer l'histoire secondaire « Un étrange lien au cœur de la forêt »"}
 {"id":1495729,"jp":"絆は賢者の石なり","fr":"Le Lien est la pierre philosophale"}
+{"id":1495730,"jp":"サブストーリー「失われた錬金の儀式」をクリアする","fr":"Terminer l'histoire secondaire « Le rituel alchimique perdu »"}
 {"id":1495731,"jp":"一緒に歌おう","fr":"Chantons ensemble"}
+{"id":1495732,"jp":"サブストーリー「一緒に歌おう」をクリアする","fr":"Terminer l'histoire secondaire « Chantons ensemble »"}
 {"id":1495733,"jp":"肉食系クロディーメ？","fr":"Clodime carnivore ?"}
+{"id":1495734,"jp":"サブストーリー「メェメェがおがお」をクリアする","fr":"Terminer l'histoire secondaire « Bêê-bêê, graou-graou »"}
+{"id":1495735,"jp":"クロディーメ型ポポティ","fr":"Popoty de type Clodime"}
+{"id":1495736,"jp":"サブストーリー「モフモフ危機一髪」をクリアする","fr":"Terminer l'histoire secondaire « Une boule de poils en péril »"}
 {"id":1495737,"jp":"森の白影","fr":"L'ombre blanche de la forêt"}
+{"id":1495738,"jp":"サブストーリー「森を守る白い影」をクリアする","fr":"Terminer l'histoire secondaire « L'ombre blanche qui protège la forêt »"}
 {"id":1495739,"jp":"鹿と友達に","fr":"L'amitié d'un cerf"}
+{"id":1495740,"jp":"サブストーリー「鹿と友達に」をクリアする","fr":"Terminer l'histoire secondaire « L'amitié d'un cerf »"}
 {"id":1495741,"jp":"霊木の蘇生","fr":"La renaissance de l'arbre spirituel"}
+{"id":1495742,"jp":"サブストーリー「ツリィフと巨樹の家」をクリアする","fr":"Terminer l'histoire secondaire « Treeff et la maison de l'arbre géant »"}
 {"id":1495743,"jp":"真相は貝殻一枚の価値","fr":"La vérité vaut un coquillage"}
+{"id":1495744,"jp":"サブストーリー「貝殻怪談」をクリアする","fr":"Terminer l'histoire secondaire « Le conte effrayant des coquillages »"}
 {"id":1495745,"jp":"恩恵石の利点とは……","fr":"Les pierres de bienfait, ça sert à quoi…"}
+{"id":1495746,"jp":"サブストーリー「究極の奥義『恩恵石』」をクリアする","fr":"Terminer l'histoire secondaire « Technique ultime suprême : \"Pierre de bienfait\" »"}
 {"id":1495747,"jp":"正義はしっぽにあり","fr":"La justice est au bout de la queue"}
+{"id":1495748,"jp":"サブストーリー「しっぽの誘惑」をクリアする","fr":"Terminer l'histoire secondaire « La tentation de la queue »"}
 {"id":1495749,"jp":"爆発は芸術だ","fr":"L'explosion, c'est de l'art"}
+{"id":1495750,"jp":"サブストーリー「火と波の協奏曲」をクリアする","fr":"Terminer l'histoire secondaire « Concerto du feu et des vagues »"}
+{"id":1495751,"jp":"カマキリの腕に流れる信仰","fr":"La foi qui anime les bras de la mante"}
+{"id":1495752,"jp":"サブストーリー「導電のエコー」をクリアする","fr":"Terminer l'histoire secondaire « Échos électriques »"}
 {"id":1495753,"jp":"ケアと新生","fr":"Soin et renouveau"}
+{"id":1495754,"jp":"サブストーリー「森にもお手入れを」をクリアする","fr":"Terminer l'histoire secondaire « Prendre aussi soin de la forêt »"}
 {"id":1495755,"jp":"近所迷惑にご注意","fr":"Pensez aux voisins"}
+{"id":1495756,"jp":"サブストーリー「騒々しい隣人」をクリアする","fr":"Terminer l'histoire secondaire « Les voisins bruyants »"}
 {"id":1495757,"jp":"恩寵の甘露","fr":"Le nectar de grâce"}
+{"id":1495758,"jp":"サブストーリー「恩寵の甘露」をクリアする","fr":"Terminer l'histoire secondaire « Le nectar de grâce »"}
 {"id":1495759,"jp":"悪い子、いい子","fr":"Méchante fille, gentille fille"}
+{"id":1495760,"jp":"アビィのキャラクエスト「美しき秘宝」をクリアする","fr":"Terminer la quête de personnage d'Abby « Un trésor magnifique »"}
 {"id":1495761,"jp":"桃縁は紅の札に巡る","fr":"Les amours en fleur suivent le talisman écarlate"}
+{"id":1495763,"jp":"重量オーバー……してない？","fr":"En surcharge… non ?"}
+{"id":1495764,"jp":"サブストーリー「ドタバタ配送の旅」をクリアする","fr":"Terminer l'histoire secondaire « Une livraison mouvementée »"}
+{"id":1495765,"jp":"村の門集合、ベリー持参","fr":"Rendez-vous à la porte du village, avec des baies"}
+{"id":1495766,"jp":"『監視塔の伝言板』を読む","fr":"Lire « Le panneau d'affichage de la tour de guet »"}
+{"id":1495767,"jp":"みんなが知らないことを話そう","fr":"Parlons de ce que personne ne sait"}
+{"id":1495768,"jp":"『星臨者の広く知られた千の偉大な事実』を読む","fr":"Lire « Les mille grands faits bien connus sur l'Enfant des étoiles »"}
+{"id":1495769,"jp":"行商ショップへようこそ","fr":"Bienvenue chez le marchand ambulant"}
+{"id":1495770,"jp":"任意の行商ショップの商品をすべて購入する","fr":"Acheter tous les articles d'une boutique ambulante"}
 {"id":1495771,"jp":"キャバードは弱くない","fr":"Les Cabbird ne sont pas faibles"}
 {"id":1495772,"jp":"キャバードに倒される","fr":"Se faire battre par un Cabbird"}
+{"id":1495773,"jp":"キャバードは本当に弱くないよ","fr":"Les Cabbird sont loin d'être faibles"}
+{"id":1495774,"jp":"キャバードに5回倒される","fr":"Subir 5 défaites face à un Cabbird"}
 {"id":1495775,"jp":"帽子が整理しきれない","fr":"Trop de chapeaux à ranger"}
+{"id":1495776,"jp":"ポポにパミー郵便局から追い出される","fr":"Se faire expulser du bureau de poste Pammy par Popo"}
 {"id":1495777,"jp":"安住の地","fr":"Un havre de paix"}
 {"id":1495778,"jp":"農園を解放する","fr":"Débloquer la ferme"}
 {"id":1495779,"jp":"より大きくより強く","fr":"Plus grand, plus fort"}
+{"id":1495780,"jp":"農園形態が第2段階になる","fr":"Faire passer la ferme au stade 2"}
 {"id":1495781,"jp":"いつか別荘に住む","fr":"Un jour, une villa"}
+{"id":1495782,"jp":"農園レベルを30にする","fr":"Atteindre le niveau 30 de la ferme"}
 {"id":1495783,"jp":"いつか大別荘に住む！","fr":"Un jour, une grande villa !"}
+{"id":1495784,"jp":"農園レベルを50にする","fr":"Atteindre le niveau 50 de la ferme"}
 {"id":1495785,"jp":"荒地の開墾","fr":"Défrichage des terres"}
+{"id":1495786,"jp":"土地を30区画開墾する","fr":"Défricher 30 parcelles de terrain"}
 {"id":1495787,"jp":"中型農場","fr":"Exploitation moyenne"}
+{"id":1495788,"jp":"土地を50区画開墾する","fr":"Défricher 50 parcelles de terrain"}
 {"id":1495789,"jp":"大型農場","fr":"Grande exploitation"}
+{"id":1495790,"jp":"土地を100区画開墾する","fr":"Défricher 100 parcelles de terrain"}
 {"id":1495791,"jp":"フリスのここが好き","fr":"Ce que j'aime à Fleece"}
+{"id":1495792,"jp":"フリス風の寮を1つ建設して配置する","fr":"Construire et placer 1 dortoir de style Fleece"}
 {"id":1495793,"jp":"改装の沼は海より深し","fr":"La déco, un gouffre plus profond que la mer"}
+{"id":1495794,"jp":"装飾系の設備を配置する","fr":"Placer une installation décorative"}
 {"id":1495795,"jp":"極上のなめらかさ","fr":"Une douceur exquise"}
+{"id":1495796,"jp":"寮でキャラクターの靴下を1回脱がせてみる","fr":"Retirer les chaussettes d'un personnage 1 fois dans le dortoir"}
+{"id":1495797,"jp":"しーっ……このさきは心を込めて","fr":"Chut… la suite demande du cœur"}
+{"id":1495798,"jp":"寮でパジャマのふれあい画面に入る","fr":"Accéder à l'écran d'interaction en pyjama dans le dortoir"}
 {"id":1495799,"jp":"ふたりだけの秘密","fr":"Notre petit secret"}
+{"id":1495800,"jp":"パジャマの特殊なふれあいを100回発生させる","fr":"Déclencher 100 interactions spéciales en pyjama"}
 {"id":1495801,"jp":"一騎当千","fr":"Un contre mille"}
 {"id":1495802,"jp":"キボの鞍を製造する","fr":"Fabriquer une selle de Kibo"}
 {"id":1495803,"jp":"一騎フログレーミ当千","fr":"Un Frogremi contre mille"}
+{"id":1495804,"jp":"フログレーミの鞍を製造する","fr":"Fabriquer une selle de Frogremi"}
 {"id":1495805,"jp":"一騎モルフォーレ当千","fr":"Un Morphore contre mille"}
+{"id":1495806,"jp":"モルフォーレの鞍を製造する","fr":"Fabriquer une selle de Morphore"}
 {"id":1495807,"jp":"一騎グランザロス当千","fr":"Un Granzaros contre mille"}
+{"id":1495808,"jp":"グランザロスの鞍を製造する","fr":"Fabriquer une selle de Granzaros"}
 {"id":1495809,"jp":"一騎スカイホーク当千","fr":"Un Skyhawk contre mille"}
+{"id":1495810,"jp":"スカイホークの鞍を製造する","fr":"Fabriquer une selle de Skyhawk"}
 {"id":1495811,"jp":"一騎メテオール当千","fr":"Un Staray contre mille"}
+{"id":1495812,"jp":"メテオールの鞍を製造する","fr":"Fabriquer une selle de Staray"}
+{"id":1495813,"jp":"これで大物が捕まえられる・1","fr":"De quoi capturer de grosses prises - 1"}
+{"id":1495814,"jp":"上質なステラカードを製作する","fr":"Fabriquer une carte Stella de qualité"}
+{"id":1495815,"jp":"これで大物が捕まえられる・2","fr":"De quoi capturer de grosses prises - 2"}
+{"id":1495816,"jp":"閃耀のステラカードを製作する","fr":"Fabriquer une carte Stella resplendissante"}
+{"id":1495817,"jp":"これで大物が捕まえられる・3","fr":"De quoi capturer de grosses prises - 3"}
+{"id":1495818,"jp":"奇跡のステラカードを製作する","fr":"Fabriquer une carte Stella miraculeuse"}
+{"id":1495819,"jp":"これで大物が捕まえられる・4","fr":"De quoi capturer de grosses prises - 4"}
+{"id":1495820,"jp":"流光のステラカードを製作する","fr":"Fabriquer une carte Stella chatoyante"}
 {"id":1495821,"jp":"備えあれば憂いなし","fr":"Mieux vaut prévenir que guérir"}
+{"id":1495822,"jp":"農園でステラカードを500枚製作する","fr":"Fabriquer 500 cartes Stella à la ferme"}
+{"id":1495823,"jp":"ステラカードはいくらあってもいい","fr":"On n'a jamais trop de cartes Stella"}
+{"id":1495824,"jp":"農園でステラカードを1000枚製作する","fr":"Fabriquer 1 000 cartes Stella à la ferme"}
+{"id":1495825,"jp":"でもさすがに多すぎる気がする","fr":"Mais là, ça commence à faire beaucoup"}
+{"id":1495826,"jp":"農園でステラカードを5000枚製作する","fr":"Fabriquer 5 000 cartes Stella à la ferme"}
 {"id":1495827,"jp":"金麦パン焼きの熟練者","fr":"As du pain au blé d'or"}
+{"id":1495828,"jp":"農園で普通の金麦パンを100個作る","fr":"Préparer 100 pains ordinaires au blé doré à la ferme"}
 {"id":1495829,"jp":"まだ食べられる？","fr":"Encore faim ?"}
+{"id":1495830,"jp":"農園で普通の金麦パンを500個作る","fr":"Préparer 500 pains ordinaires au blé doré à la ferme"}
 {"id":1495831,"jp":"ポポクッキー愛好家","fr":"Fan des biscuits Popo"}
+{"id":1495832,"jp":"農園で普通のポポクッキー（小）を100個作る","fr":"Préparer 100 biscuits Popo ordinaires (petits) à la ferme"}
+{"id":1495833,"jp":"ポポクッキー熱狂的愛好家","fr":"Une passion dévorante pour les biscuits Popo"}
+{"id":1495834,"jp":"農園で普通のポポクッキー（小）を500個作る","fr":"Préparer 500 biscuits Popo ordinaires (petits) à la ferme"}
+{"id":1495835,"jp":"だれに食べさせるんだ？","fr":"Mais qui va manger tout ça ?"}
+{"id":1495836,"jp":"農園で普通のポポクッキー（小）を1000個作る","fr":"Préparer 1 000 biscuits Popo ordinaires (petits) à la ferme"}
 {"id":1495837,"jp":"見習い料理人","fr":"Premiers pas en cuisine"}
 {"id":1495838,"jp":"10種類の料理を作る","fr":"Cuisiner 10 plats différents"}
 {"id":1495840,"jp":"20種類の料理を作る","fr":"Cuisiner 20 plats différents"}
 {"id":1495842,"jp":"30種類の料理を作る","fr":"Cuisiner 30 plats différents"}
 {"id":1495843,"jp":"村で一番の剣","fr":"La meilleure épée du village"}
+{"id":1495844,"jp":"農園で装備の指定製造を行う","fr":"Fabriquer un équipement sur mesure à la ferme"}
+{"id":1495845,"jp":"武器が強くないと話にならない","fr":"Sans armes puissantes, autant laisser tomber"}
+{"id":1495846,"jp":"農園で装備の指定製造を10回行う","fr":"Fabriquer 10 fois des équipements sur mesure à la ferme"}
+{"id":1495848,"jp":"農園で装備の指定製造を100回行う","fr":"Fabriquer 100 fois des équipements sur mesure à la ferme"}
 {"id":1495849,"jp":"ステラカード長者","fr":"Riche en cartes Stella"}
+{"id":1495850,"jp":"ステラカードを1000枚所持する","fr":"Posséder 1 000 cartes Stella"}
 {"id":1495851,"jp":"探索名人・芽吹の谷","fr":"As de l'exploration : Vallée des Bourgeons"}
+{"id":1495852,"jp":"芽吹の谷のすべてのフィールド採集設備を解放する","fr":"Débloquer toutes les installations de collecte de la Vallée des Bourgeons"}
 {"id":1495853,"jp":"探索名人・フリス","fr":"As de l'exploration : Fleece"}
+{"id":1495854,"jp":"フリスのすべてのフィールド採集設備を解放する","fr":"Débloquer toutes les installations de collecte de Fleece"}
 {"id":1495855,"jp":"わあ！金色……","fr":"Waouh ! C'est tout doré…"}
+{"id":1495856,"jp":"黄金化した作物を収穫する","fr":"Récolter une culture dorée"}
+{"id":1495857,"jp":"わあ！金色がいっぱい……","fr":"Waouh ! Tout cet or…"}
+{"id":1495858,"jp":"黄金化した作物を10個収穫する","fr":"Récolter 10 cultures dorées"}
 {"id":1495859,"jp":"自らの手で","fr":"De mes propres mains"}
+{"id":1495860,"jp":"手動で作物を50個収穫する","fr":"Récolter 50 cultures à la main"}
 {"id":1495861,"jp":"休まず耕す","fr":"Labourer sans relâche"}
+{"id":1495862,"jp":"手動で作物を100個収穫する","fr":"Récolter 100 cultures à la main"}
 {"id":1495863,"jp":"一粒の重み","fr":"Le poids d'un grain"}
+{"id":1495864,"jp":"手動で作物を200個収穫する","fr":"Récolter 200 cultures à la main"}
+{"id":1495865,"jp":"自分で伐採しないと駄目？","fr":"Il faut vraiment couper les arbres soi-même ?"}
+{"id":1495866,"jp":"道具で木を伐採し、木材または果物を100個集める","fr":"Abattre des arbres avec un outil et collecter 100 unités de bois ou de fruits"}
 {"id":1495867,"jp":"熟練伐採工","fr":"Hache chevronnée"}
+{"id":1495868,"jp":"道具で木を伐採し、木材または果物を500個集める","fr":"Abattre des arbres avec un outil et collecter 500 unités de bois ou de fruits"}
 {"id":1495869,"jp":"狂暴伐採工","fr":"Hache furieuse"}
+{"id":1495870,"jp":"道具で木を伐採し、木材または果物を1000個集める","fr":"Abattre des arbres avec un outil et collecter 1 000 unités de bois ou de fruits"}
+{"id":1495871,"jp":"自分で採掘しないと駄目？","fr":"Il faut vraiment miner soi-même ?"}
+{"id":1495872,"jp":"道具で鉱石を採掘し、石材または鉱物を100個集める","fr":"Extraire du minerai avec un outil et collecter 100 unités de pierre ou de minéraux"}
 {"id":1495873,"jp":"熟練採掘工","fr":"Pioche chevronnée"}
+{"id":1495874,"jp":"道具で鉱石を採掘し、石材または鉱物を500個集める","fr":"Extraire du minerai avec un outil et collecter 500 unités de pierre ou de minéraux"}
 {"id":1495875,"jp":"狂暴採掘工","fr":"Pioche furieuse"}
+{"id":1495877,"jp":"あれもこれも食べられる","fr":"Tout se mange !"}
+{"id":1495878,"jp":"フィールドで素材を100回採集する","fr":"Collecter 100 fois des matériaux en extérieur"}
 {"id":1495879,"jp":"蔵を満たす者","fr":"Grenier bien rempli"}
+{"id":1495880,"jp":"フィールドで素材を500回採集する","fr":"Collecter 500 fois des matériaux en extérieur"}
+{"id":1495881,"jp":"世界の終わりも怖くない！","fr":"Même pas peur de la fin du monde !"}
+{"id":1495882,"jp":"フィールドで素材を1000回採集する","fr":"Collecter 1 000 fois des matériaux en extérieur"}
 {"id":1495883,"jp":"豊富な財力","fr":"Une bourse bien garnie"}
+{"id":1495884,"jp":"農園コインを80万獲得する","fr":"Obtenir 800 000 pièces de ferme"}
 {"id":1495885,"jp":"巨万の富","fr":"Des richesses immenses"}
+{"id":1495886,"jp":"農園コインを1500万獲得する","fr":"Obtenir 15 000 000 de pièces de ferme"}
 {"id":1495887,"jp":"街の大富豪","fr":"Grande fortune de la ville"}
+{"id":1495888,"jp":"農園コインを4500万獲得する","fr":"Obtenir 45 000 000 de pièces de ferme"}
 {"id":1495889,"jp":"商いの奇才","fr":"Génie du commerce"}
+{"id":1495890,"jp":"任意の商品の価格が35%上昇した時に売却する","fr":"Vendre un produit lorsque son prix a augmenté de 35%"}
 {"id":1495891,"jp":"ピン！新しい注文です","fr":"Ding ! Nouvelle commande"}
+{"id":1495892,"jp":"農園取引所の注文を10件完了する","fr":"Honorer 10 commandes au comptoir de la ferme"}
 {"id":1495893,"jp":"運命のビッグオーダー","fr":"La grosse commande du destin"}
+{"id":1495894,"jp":"農園取引所の注文を100件完了する","fr":"Honorer 100 commandes au comptoir de la ferme"}
+{"id":1495895,"jp":"運命のウルトラオーダー","fr":"L'ultra-commande du destin"}
+{"id":1495896,"jp":"農園取引所の注文を1000件完了する","fr":"Honorer 1 000 commandes au comptoir de la ferme"}
 {"id":1495897,"jp":"モーレンのお買いもの","fr":"Les emplettes de Morwyn"}
 {"id":1495899,"jp":"湯水のように","fr":"Dépenser sans compter"}
+{"id":1495900,"jp":"単価が1000農園コインを超える商品を購入する","fr":"Acheter un produit dont le prix unitaire dépasse 1 000 pièces de ferme"}
 {"id":1495901,"jp":"上客","fr":"Clientèle de choix"}
+{"id":1495902,"jp":"中級難易度の注文を完了する","fr":"Honorer une commande de difficulté intermédiaire"}
 {"id":1495903,"jp":"真の上客","fr":"Clientèle d'exception"}
+{"id":1495904,"jp":"中級難易度の注文を10件完了する","fr":"Honorer 10 commandes de difficulté intermédiaire"}
 {"id":1495905,"jp":"キボリソース管理士","fr":"Gestionnaire des ressources Kibo"}
 {"id":1495906,"jp":"精密派遣を行う","fr":"Effectuer une affectation de précision"}
 {"id":1495907,"jp":"おなかいっぱい！","fr":"Le ventre plein !"}
+{"id":1495908,"jp":"キボの食堂に料理を50個セットする","fr":"Placer 50 plats dans la cantine des Kibo"}
 {"id":1495909,"jp":"点火の匠","fr":"As de l'allumage"}
+{"id":1495910,"jp":"「点火」の職種評価が40を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Allumage supérieure à 40"}
 {"id":1495911,"jp":"点火？お安い御用","fr":"Allumage ? Rien de plus facile"}
+{"id":1495912,"jp":"「点火」の職種評価が65を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Allumage supérieure à 65"}
 {"id":1495913,"jp":"伐採の匠","fr":"As du bûcheronnage"}
+{"id":1495914,"jp":"「伐採」の職種評価が40を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Bûcheronnage supérieure à 40"}
 {"id":1495915,"jp":"伐採？楽勝だよ","fr":"Bûcheronnage ? Trop facile"}
+{"id":1495916,"jp":"「伐採」の職種評価が65を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Bûcheronnage supérieure à 65"}
 {"id":1495917,"jp":"元素の匠","fr":"As des éléments"}
+{"id":1495918,"jp":"「元素」の職種評価が40を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Élément supérieure à 40"}
 {"id":1495919,"jp":"元素？朝飯前さ","fr":"Éléments ? Les doigts dans le nez"}
+{"id":1495920,"jp":"「元素」の職種評価が65を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Élément supérieure à 65"}
 {"id":1495921,"jp":"畑仕事の匠","fr":"As des travaux des champs"}
+{"id":1495922,"jp":"「畑仕事」の職種評価が40を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Travaux des champs supérieure à 40"}
 {"id":1495923,"jp":"畑仕事？お手のもの","fr":"Travaux des champs ? Ça me connaît"}
+{"id":1495924,"jp":"「畑仕事」の職種評価が65を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Travaux des champs supérieure à 65"}
 {"id":1495925,"jp":"水やりの匠","fr":"As de l'arrosage"}
+{"id":1495926,"jp":"「水やり」の職種評価が40を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Arrosage supérieure à 40"}
+{"id":1495927,"jp":"水やり？ついでにやっちゃうよ","fr":"L'arrosage ? Autant s'en occuper au passage"}
+{"id":1495928,"jp":"「水やり」の職種評価が65を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Arrosage supérieure à 65"}
 {"id":1495929,"jp":"採掘の匠","fr":"As du minage"}
+{"id":1495930,"jp":"「採鉱」の職種評価が40を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Minage supérieure à 40"}
+{"id":1495931,"jp":"採掘？お茶の子さいさい","fr":"Le Minage ? Un jeu d'enfant"}
+{"id":1495932,"jp":"「採鉱」の職種評価が65を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Minage supérieure à 65"}
 {"id":1495933,"jp":"世話の匠","fr":"As des soins"}
+{"id":1495934,"jp":"「世話」の職種評価が40を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Soins supérieure à 40"}
 {"id":1495935,"jp":"世話？手慣れたものさ","fr":"Soins ? J'ai l'habitude"}
+{"id":1495936,"jp":"「世話」の職種評価が65を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Soins supérieure à 65"}
 {"id":1495937,"jp":"鍛造の匠","fr":"As de la forge"}
+{"id":1495938,"jp":"「鍛造」の職種評価が40を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Forge supérieure à 40"}
 {"id":1495939,"jp":"鍛造？お安い御用","fr":"Forge ? Rien de plus facile"}
+{"id":1495940,"jp":"「鍛造」の職種評価が65を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Forge supérieure à 65"}
 {"id":1495941,"jp":"クラフトの匠","fr":"As de l'artisanat"}
+{"id":1495942,"jp":"「クラフト」の職種評価が40を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Artisanat supérieure à 40"}
 {"id":1495943,"jp":"クラフト？余裕だよ","fr":"Artisanat ? Fastoche"}
+{"id":1495944,"jp":"「クラフト」の職種評価が65を超えるキボを獲得する","fr":"Obtenir un Kibo avec une aptitude en Artisanat supérieure à 65"}
 {"id":1495945,"jp":"ブラック親方","fr":"Cadences infernales"}
+{"id":1495946,"jp":"キボを空腹状態のまま24時間連続で労働させる","fr":"Faire travailler un Kibo affamé pendant 24 heures consécutives"}
 {"id":1495947,"jp":"芽吹の谷ワープ理論","fr":"Téléportation : Vallée des Bourgeons"}
+{"id":1495948,"jp":"芽吹の谷の星脈ノードをすべて解放する","fr":"Débloquer tous les nœuds de veine stellaire de la Vallée des Bourgeons"}
+{"id":1495949,"jp":"都市国家フリスワープ理論","fr":"Théorie de la téléportation dans la Cité-État de Fleece"}
+{"id":1495950,"jp":"フリスの星脈ノードをすべて解放する","fr":"Débloquer tous les nœuds de veine stellaire de Fleece"}
 {"id":1495951,"jp":"星旅・芽吹の谷","fr":"Voyage stellaire : Vallée des Bourgeons"}
+{"id":1495952,"jp":"芽吹の谷の探索レベルを10にする","fr":"Atteindre le niveau d'exploration 10 de la Vallée des Bourgeons"}
 {"id":1495953,"jp":"星旅・都市国家フリス","fr":"Voyage stellaire : Cité-État de Fleece"}
+{"id":1495954,"jp":"フリスの探索レベルを10にする","fr":"Atteindre le niveau d'exploration 10 de Fleece"}
 {"id":1495955,"jp":"芽吹の谷の挑戦者","fr":"Challenger de la Vallée des Bourgeons"}
+{"id":1495956,"jp":"芽吹の谷に出現するすべてのボスと特異体のキボを倒す","fr":"Vaincre tous les boss et Kibo anormaux de la Vallée des Bourgeons"}
 {"id":1495957,"jp":"フリスの挑戦者","fr":"Challenger de Fleece"}
+{"id":1495958,"jp":"フリスに出現するすべてのボスと特異体のキボを倒す","fr":"Vaincre tous les boss et Kibo anormaux de Fleece"}
 {"id":1495959,"jp":"星律奏鳴・芽吹の谷","fr":"Sonate stellaire : Vallée des Bourgeons"}
+{"id":1495960,"jp":"芽吹の谷の星律収集レベルが5に到達する","fr":"Atteindre le niveau 5 de collecte des mélodies stellaires dans la Vallée des Bourgeons"}
 {"id":1495961,"jp":"星律奏鳴・フリス","fr":"Sonate stellaire : Fleece"}
+{"id":1495962,"jp":"フリスの星律収集レベルが5に到達する","fr":"Atteindre le niveau 5 de collecte des mélodies stellaires à Fleece"}
 {"id":1495963,"jp":"新たな街へ","fr":"Vers une nouvelle ville"}
 {"id":1495964,"jp":"フリスに入る","fr":"Entrer dans Fleece"}
+{"id":1495965,"jp":"芽吹の谷のキボマスター・1","fr":"Maîtrise des Kibo de la Vallée des Bourgeons - 1"}
+{"id":1495966,"jp":"遠吠え平原エリアの全種類のキボとスターリンクする","fr":"Établir un Lien stellaire avec toutes les espèces de Kibo des Plaines hurlantes"}
+{"id":1495967,"jp":"芽吹の谷のキボマスター・2","fr":"Maîtrise des Kibo de la Vallée des Bourgeons - 2"}
+{"id":1495968,"jp":"風導の森エリアの全種類のキボとスターリンクする","fr":"Établir un Lien stellaire avec toutes les espèces de Kibo de la Forêt du Vent guide"}
+{"id":1495969,"jp":"芽吹の谷のキボマスター・3","fr":"Maîtrise des Kibo de la Vallée des Bourgeons - 3"}
+{"id":1495970,"jp":"霧隠れの森エリアの全種類のキボとスターリンクする","fr":"Établir un Lien stellaire avec toutes les espèces de Kibo de la Forêt voilée de brume"}
+{"id":1495971,"jp":"芽吹の谷のキボマスター・4","fr":"Maîtrise des Kibo de la Vallée des Bourgeons - 4"}
+{"id":1495972,"jp":"鷹の連峰エリアの全種類のキボとスターリンクする","fr":"Établir un Lien stellaire avec toutes les espèces de Kibo de la Chaîne des Faucons"}
+{"id":1495973,"jp":"芽吹の谷のキボマスター・5","fr":"Maîtrise des Kibo de la Vallée des Bourgeons - 5"}
+{"id":1495974,"jp":"影蝕の崖エリアの全種類のキボとスターリンクする","fr":"Établir un Lien stellaire avec toutes les espèces de Kibo des Falaises rongées par l'ombre"}
+{"id":1495975,"jp":"芽吹の谷の真のキボマスター","fr":"Maîtrise absolue des Kibo de la Vallée des Bourgeons"}
+{"id":1495976,"jp":"芽吹の谷エリアの全種類のキボとスターリンクする","fr":"Établir un Lien stellaire avec toutes les espèces de Kibo de la Vallée des Bourgeons"}
+{"id":1495977,"jp":"フリスのキボマスター・1","fr":"Maîtrise des Kibo de Fleece - 1"}
+{"id":1495979,"jp":"フリスのキボマスター・2","fr":"Maîtrise des Kibo de Fleece - 2"}
+{"id":1495980,"jp":"メルトレイクエリアの全種類のキボとスターリンクする","fr":"Établir un Lien stellaire avec toutes les espèces de Kibo du lac Melt"}
+{"id":1495981,"jp":"フリスのキボマスター・3","fr":"Maîtrise des Kibo de Fleece - 3"}
+{"id":1495982,"jp":"迷霧の森エリアの全種類のキボとスターリンクする","fr":"Établir un Lien stellaire avec toutes les espèces de Kibo de la Forêt des Brumes égarantes"}
+{"id":1495983,"jp":"フリスのキボマスター・4","fr":"Maîtrise des Kibo de Fleece - 4"}
+{"id":1495984,"jp":"戦禍の痕エリアの全種類のキボとスターリンクする","fr":"Établir un Lien stellaire avec toutes les espèces de Kibo des Cicatrices de guerre"}
+{"id":1495985,"jp":"フリスの真のキボマスター","fr":"Maîtrise absolue des Kibo de Fleece"}
+{"id":1495986,"jp":"フリスの全種類のキボとスターリンクする","fr":"Établir un Lien stellaire avec toutes les espèces de Kibo de Fleece"}
+{"id":1495987,"jp":"目指せ変身キボマスター","fr":"En route vers la maîtrise des transformations de Kibo"}
+{"id":1495988,"jp":"3種類のキボ変身試練をクリアする","fr":"Terminer 3 types d'épreuves de transformation de Kibo"}
 {"id":1495989,"jp":"ソザンカの驚嘆","fr":"L'émerveillement de Sozanka"}
+{"id":1495990,"jp":"任意のソザンカのはしごで★3に到達する","fr":"Obtenir ★3 dans une épreuve de l'échelle de Sozanka"}
+{"id":1495991,"jp":"地のアウラを終わらせる者","fr":"La fin de l'aura terrestre"}
+{"id":1495992,"jp":"任意の湧き出るアウラで★3を獲得する","fr":"Obtenir ★3 dans une épreuve d'aura jaillissante"}
 {"id":1495993,"jp":"ワイルド・ドライブ","fr":"Chevauchée sauvage"}
+{"id":1495994,"jp":"任意のマウントの試練で★3を獲得する","fr":"Obtenir ★3 dans une épreuve de monture"}
+{"id":1495995,"jp":"タマゴが先か、キボが先か？","fr":"Qui de l'œuf ou du Kibo est arrivé en premier ?"}
+{"id":1495996,"jp":"フィールドでキボのタマゴを獲得する","fr":"Obtenir un œuf de Kibo en extérieur"}
+{"id":1495997,"jp":"命あるかぎり殻から出る道は拓ける","fr":"Tant qu'il y a de la vie, une coquille peut s'ouvrir"}
+{"id":1495998,"jp":"フィールドでキボのタマゴを10個獲得する","fr":"Obtenir 10 œufs de Kibo en extérieur"}
 {"id":1495999,"jp":"孵化する時が来た","fr":"L'heure d'éclore"}
+{"id":1496000,"jp":"フィールドでキボのタマゴを100個獲得する","fr":"Obtenir 100 œufs de Kibo en extérieur"}
 {"id":1496001,"jp":"初心者レベル","fr":"Niveau débutant"}
+{"id":1496002,"jp":"キボの謎解きを20回クリアする","fr":"Résoudre 20 énigmes de Kibo"}
 {"id":1496003,"jp":"謎解きの達人","fr":"As des énigmes"}
+{"id":1496004,"jp":"キボの謎解きを50回クリアする","fr":"Résoudre 50 énigmes de Kibo"}
 {"id":1496005,"jp":"忍耐力の極み","fr":"Patience à toute épreuve"}
+{"id":1496006,"jp":"キボの謎解きを100回クリアする","fr":"Résoudre 100 énigmes de Kibo"}
 {"id":1496007,"jp":"伏兵だ！","fr":"Une embuscade !"}
+{"id":1496008,"jp":"ミミックとスターリンクする","fr":"Établir un Lien stellaire avec un Mimikku"}
 {"id":1496009,"jp":"大自然の恵み","fr":"Les dons de la nature"}
+{"id":1496010,"jp":"フィールドのランダム宝箱を20回開ける","fr":"Ouvrir 20 coffres aléatoires en extérieur"}
 {"id":1496011,"jp":"大自然は気前がいい","fr":"La nature est généreuse"}
+{"id":1496012,"jp":"フィールドのランダム宝箱を50回開ける","fr":"Ouvrir 50 coffres aléatoires en extérieur"}
 {"id":1496013,"jp":"見つけたら見逃さない","fr":"Rien ne m'échappe"}
+{"id":1496014,"jp":"フィールドのランダム宝箱を100回開ける","fr":"Ouvrir 100 coffres aléatoires en extérieur"}
 {"id":1496015,"jp":"芽吹の谷の乗り手","fr":"As de la selle : Vallée des Bourgeons"}
+{"id":1496016,"jp":"芽吹の谷エリアのすべてのマウントの試練をクリアする","fr":"Terminer toutes les épreuves de monture de la Vallée des Bourgeons"}
 {"id":1496017,"jp":"芽吹の谷のプロ投手","fr":"As du lancer : Vallée des Bourgeons"}
+{"id":1496018,"jp":"芽吹の谷エリアのすべてのごろごろグラゴをクリアする","fr":"Terminer toutes les épreuves des Grago roulants de la Vallée des Bourgeons"}
+{"id":1496019,"jp":"芽吹の谷のキャバード守護神","fr":"Divinité protectrice des Cabbird de la Vallée des Bourgeons"}
+{"id":1496021,"jp":"芽吹の谷のドゥル管理者","fr":"Protection des Duru de la Vallée des Bourgeons"}
+{"id":1496023,"jp":"芽吹の谷の竜王時代の遺産","fr":"L'héritage de l'ère du roi dragon dans la Vallée des Bourgeons"}
+{"id":1496024,"jp":"芽吹の谷エリアのすべての輝印の祭壇をクリアする","fr":"Terminer toutes les épreuves des autels du sceau rayonnant de la Vallée des Bourgeons"}
+{"id":1496025,"jp":"芽吹の谷のリズムマスター","fr":"Maîtrise du rythme de la Vallée des Bourgeons"}
+{"id":1496026,"jp":"芽吹の谷エリアのすべてのリィフの演奏をクリアする","fr":"Terminer toutes les épreuves musicales de Riif dans la Vallée des Bourgeons"}
 {"id":1496027,"jp":"芽吹の谷の建設名人","fr":"As de la construction : Vallée des Bourgeons"}
 {"id":1496029,"jp":"芽吹の谷の洞窟の主","fr":"Terreur des grottes : Vallée des Bourgeons"}
+{"id":1496030,"jp":"芽吹の谷エリアのすべての湧き出るアウラをクリアする","fr":"Terminer toutes les épreuves d'aura jaillissante de la Vallée des Bourgeons"}
 {"id":1496031,"jp":"フリスの乗り手","fr":"As de la selle : Fleece"}
+{"id":1496032,"jp":"フリスエリアのすべてのマウントの試練をクリアする","fr":"Terminer toutes les épreuves de monture de Fleece"}
 {"id":1496033,"jp":"フリスのプロ投手","fr":"As du lancer : Fleece"}
+{"id":1496034,"jp":"フリスエリアのすべてのごろごろグラゴをクリアする","fr":"Terminer toutes les épreuves des Grago roulants de Fleece"}
+{"id":1496035,"jp":"フリスのキャバード守護神","fr":"Divinité protectrice des Cabbird de Fleece"}
 {"id":1496037,"jp":"フリスのドゥル管理者","fr":"Gestionnaire des Dur : Fleece"}
+{"id":1496039,"jp":"フリスのリズムマスター","fr":"Maîtrise du rythme de Fleece"}
+{"id":1496040,"jp":"フリスエリアのすべてのリィフの演奏をクリアする","fr":"Terminer toutes les épreuves musicales de Riif à Fleece"}
 {"id":1496041,"jp":"フリスの洞窟の主","fr":"Terreur des grottes : Fleece"}
+{"id":1496042,"jp":"フリスエリアのすべての湧き出るアウラをクリアする","fr":"Terminer toutes les épreuves d'aura jaillissante de Fleece"}
 {"id":1496043,"jp":"フリスのコンボの戦神","fr":"Divinité des combos : Fleece"}
+{"id":1496044,"jp":"フリスエリアのすべてのキボの相棒をクリアする","fr":"Terminer toutes les épreuves des compagnons Kibo de Fleece"}
 {"id":1496045,"jp":"『シャーマンの手記』","fr":"« Les notes du chaman »"}
+{"id":1496046,"jp":"読みもの『シャーマンの手記』をすべて集める","fr":"Collecter tous les volumes des « Notes du chamane »"}
 {"id":1496047,"jp":"『魔法の鍬物語集』","fr":"« Contes de la houe magique »"}
+{"id":1496048,"jp":"読みもの『魔法の鍬物語集』をすべて集める","fr":"Collecter tous les volumes des « Contes de la houe magique »"}
 {"id":1496049,"jp":"縁巻集成","fr":"Recueil de rouleaux"}
+{"id":1496050,"jp":"読みものを20種類集める","fr":"Collecter 20 types de lectures"}
 {"id":1496051,"jp":"書跡拾遺","fr":"Écrits glanés"}
+{"id":1496052,"jp":"読みものを50種類集める","fr":"Collecter 50 types de lectures"}
 {"id":1496053,"jp":"元素を操る者","fr":"Maîtrise des éléments"}
+{"id":1496054,"jp":"9種類の元素のキボの謎解きをそれぞれ1回クリアする","fr":"Résoudre une énigme de Kibo pour chacun des 9 éléments"}
 {"id":1496055,"jp":"星辰の知恵・1","fr":"Sagesse des astres 1"}
+{"id":1496056,"jp":"星識レベルを20にする","fr":"Atteindre le niveau de Savoir stellaire 20"}
 {"id":1496057,"jp":"星辰の知恵・2","fr":"Sagesse des astres 2"}
+{"id":1496058,"jp":"星識レベルを40にする","fr":"Atteindre le niveau de Savoir stellaire 40"}
 {"id":1496059,"jp":"星辰の知恵・3","fr":"Sagesse des astres 3"}
+{"id":1496060,"jp":"星識レベルを50にする","fr":"Atteindre le niveau de Savoir stellaire 50"}
 {"id":1496061,"jp":"星辰の知恵・4","fr":"Sagesse des astres 4"}
+{"id":1496062,"jp":"星識レベルを60にする","fr":"Atteindre le niveau de Savoir stellaire 60"}
 {"id":1496063,"jp":"星辰の知恵・5","fr":"Sagesse des astres 5"}
+{"id":1496064,"jp":"星識レベルを70にする","fr":"Atteindre le niveau de Savoir stellaire 70"}
 {"id":1496065,"jp":"星辰の知恵・6","fr":"Sagesse des astres 6"}
+{"id":1496066,"jp":"星識レベルを80にする","fr":"Atteindre le niveau de Savoir stellaire 80"}
 {"id":1496067,"jp":"群星の弦鳴を傾聴する","fr":"Écouter les cordes des étoiles"}
 {"id":1496068,"jp":"キャラクターを5名獲得する","fr":"Obtenir 5 personnages"}
 {"id":1496069,"jp":"識海の弦現を洞観する","fr":"Contempler les cordes de l'océan de l'esprit"}
+{"id":1496070,"jp":"キャラクターを10名獲得する","fr":"Obtenir 10 personnages"}
 {"id":1496071,"jp":"星吟旅謡の弦歌","fr":"Cordes de la ballade des étoiles"}
+{"id":1496072,"jp":"キャラクターを20名獲得する","fr":"Obtenir 20 personnages"}
 {"id":1496073,"jp":"きみしか見えない","fr":"Je n'ai d'yeux que pour toi"}
+{"id":1496074,"jp":"1名のキャラクターの好感度を10にする","fr":"Atteindre le niveau d'affinité 10 avec 1 personnage"}
 {"id":1496075,"jp":"きみたちしか見えない","fr":"Je n'ai d'yeux que pour vous"}
+{"id":1496076,"jp":"5名のキャラクターの好感度を10にする","fr":"Atteindre le niveau d'affinité 10 avec 5 personnages"}
+{"id":1496077,"jp":"両目はきみたちに釘付け","fr":"Impossible de détourner le regard"}
+{"id":1496078,"jp":"10名のキャラクターの好感度を10にする","fr":"Atteindre le niveau d'affinité 10 avec 10 personnages"}
 {"id":1496079,"jp":"昇臨の一番手","fr":"Une première ascension"}
+{"id":1496080,"jp":"1名のキャラクターの星祝を昇臨度XIIにする","fr":"Atteindre le rang d'Ascension XII de la Bénédiction stellaire de 1 personnage"}
 {"id":1496081,"jp":"昇臨の五番手","fr":"Cinq ascensions"}
+{"id":1496082,"jp":"5名のキャラクターの星祝を昇臨度XIIにする","fr":"Atteindre le rang d'Ascension XII de la Bénédiction stellaire de 5 personnages"}
 {"id":1496083,"jp":"昇臨の十番手","fr":"Dix ascensions"}
+{"id":1496084,"jp":"10名のキャラクターの星祝を昇臨度XIIにする","fr":"Atteindre le rang d'Ascension XII de la Bénédiction stellaire de 10 personnages"}
+{"id":1496085,"jp":"レベル100おめでとう！","fr":"Félicitations pour le niveau 100 !"}
+{"id":1496086,"jp":"1名のキャラクターのレベルを100にする","fr":"Monter 1 personnage au niveau 100"}
 {"id":1496087,"jp":"育成上手","fr":"Sens de l'entraînement"}
+{"id":1496088,"jp":"5名のキャラクターのレベルを100にする","fr":"Monter 5 personnages au niveau 100"}
 {"id":1496089,"jp":"育成の匠","fr":"As de l'entraînement"}
+{"id":1496090,"jp":"10名のキャラクターのレベルを100にする","fr":"Monter 10 personnages au niveau 100"}
 {"id":1496091,"jp":"眩しすぎる","fr":"Trop éblouissant"}
+{"id":1496092,"jp":"金色レアリティの装備を獲得する","fr":"Obtenir un équipement de rareté dorée"}
 {"id":1496093,"jp":"名馬に名鞍","fr":"À beau destrier, belle selle"}
+{"id":1496094,"jp":"金色レアリティ装備を+15まで強化する","fr":"Améliorer un équipement de rareté dorée jusqu'à +15"}
 {"id":1496095,"jp":"伝世の宝","fr":"Trésor ancestral"}
+{"id":1496096,"jp":"金色レアリティ装備を★6にする","fr":"Faire atteindre ★6 à un équipement de rareté dorée"}
 {"id":1496097,"jp":"ちゃんとした身なり","fr":"Une tenue correcte"}
 {"id":1496099,"jp":"一家の大事なもの","fr":"Le patrimoine familial"}
 {"id":1496101,"jp":"ドロップしまくり","fr":"Butin à foison"}
@@ -4409,7 +4659,7 @@
 {"id":1508602,"jp":"<cspace=-0.06em><b><color=#70a7d5>困惑するクレア：</color></b></cspace>","fr":"<cspace=-0.06em><b><color=#70a7d5>Claire, perplexe :</color></b></cspace>"}
 {"id":1508798,"jp":"私が出場するの？","fr":"C'est moi qui dois combattre ?"}
 {"id":1508887,"jp":"小玉がその露店に歩み寄った。露店には滋養強壮の薬酒や、百朔ものときを超えて伝わる骨董品、そして上質な茶葉が並んでいる。どれもこれも、胡散臭さが漂っている……","fr":"Xiaoyu s'est approchée de l'étal. On y trouvait des vins médicinaux fortifiants, des antiquités transmises depuis plus de cent lunes et des feuilles de thé de qualité. Tout cela sentait l'arnaque à plein nez…"}
-{"id":1508930,"jp":"「狐の慧眼」！","fr":"« L'Œil perçant du renard » !"}
+{"id":1508930,"jp":"「狐の慧眼」！","fr":"« L'œil perçant du renard » !"}
 {"id":1508958,"jp":"ポニーロ！？","fr":"Un Poniro ?!"}
 {"id":1509120,"jp":"優しく勇敢で、驚くほど怪力なペガサスナイト。千代に、単純明快な力で敵を制する術を教える。\n『シャル』の初期サポートボーナスを8獲得する。","fr":"Une chevalière pégase douce, courageuse et d'une force étonnante. Elle enseigne à Chiyo l'art de vaincre l'ennemi par la force, simplement et sans détour.\nOctroie 8 points de bonus de soutien initial de « Shalle »."}
 {"id":1509199,"jp":"狩猟パス","fr":"Permis de chasse"}
@@ -8137,28 +8387,28 @@
 {"id":1521879,"jp":"「蘭香子」獲得で解放","fr":"Se débloque avec Lan Xiangzi"}
 {"id":1521880,"jp":"アイコン「メイプル」","fr":"Icône « Maple »"}
 {"id":1521882,"jp":"「愉快な登場」","fr":"« Entrée joyeuse »"}
-{"id":1521887,"jp":"「熱き対峙」","fr":"« Face-à-face ardent »"}
-{"id":1521888,"jp":"アイコン「熱き対峙」","fr":"Icône « Face-à-face ardent »"}
-{"id":1521891,"jp":"「幽夜の礼儀」","fr":"« Étiquette de la nuit profonde »"}
+{"id":1521887,"jp":"「熱き対峙」","fr":"« Face-à-face brûlant »"}
+{"id":1521888,"jp":"アイコン「熱き対峙」","fr":"Icône « Face-à-face brûlant »"}
+{"id":1521891,"jp":"「幽夜の礼儀」","fr":"« L'étiquette de la nuit obscure »"}
 {"id":1521895,"jp":"「躍動する活力」","fr":"« Vitalité bondissante »"}
-{"id":1521899,"jp":"「ピクセルの奇想」","fr":"« Fantaisie pixélisée »"}
+{"id":1521899,"jp":"「ピクセルの奇想」","fr":"« Fantaisie en pixels »"}
 {"id":1521904,"jp":"「桃色うさぎの宴」","fr":"« Festin du lapin rose »"}
-{"id":1521909,"jp":"「朧月夜のベール」","fr":"« Voile d'une nuit de lune brumeuse »"}
-{"id":1521914,"jp":"「月に宿る流虹」","fr":"« Arc-en-ciel au clair de lune »"}
-{"id":1521923,"jp":"アイコン「陰陽調和」","fr":"Icône « Harmonie du yin et du yang »"}
+{"id":1521909,"jp":"「朧月夜のベール」","fr":"« Voile de lune brumeuse »"}
+{"id":1521914,"jp":"「月に宿る流虹」","fr":"« Arc-en-ciel niché dans la lune »"}
+{"id":1521923,"jp":"アイコン「陰陽調和」","fr":"Icône « Équilibre du yin et du yang »"}
 {"id":1521927,"jp":"アイコン「光陰一体」","fr":"Icône « Lumière et ombre à l'unisson »"}
-{"id":1521935,"jp":"アイコン「魂魄安寧」","fr":"Icône « Paix des âmes »"}
+{"id":1521935,"jp":"アイコン「魂魄安寧」","fr":"Icône « Âmes en paix »"}
 {"id":1521947,"jp":"アイコン「風の囁き」","fr":"Icône « Murmure du vent »"}
-{"id":1521975,"jp":"アイコン「幻惑」","fr":"Icône « Envoûtement »"}
+{"id":1521975,"jp":"アイコン「幻惑」","fr":"Icône « Éblouissement »"}
 {"id":1522007,"jp":"桃花あでやかに","fr":"Splendeur des fleurs de pêcher"}
-{"id":1522012,"jp":"「幽庭の浮き舟」","fr":"« Barque flottante du jardin secret »"}
-{"id":1522017,"jp":"「羽夢の頌歌」","fr":"« Ode aux rêves emplumés »"}
+{"id":1522012,"jp":"「幽庭の浮き舟」","fr":"« La barque flottante du jardin secret »"}
+{"id":1522017,"jp":"「羽夢の頌歌」","fr":"« Ode aux rêves de plumes »"}
 {"id":1522022,"jp":"「星降る刻」","fr":"« À l'heure des étoiles filantes »"}
 {"id":1522024,"jp":"「星啓の刻」","fr":"« À l'heure de la révélation stellaire »"}
 {"id":1522036,"jp":"「星旅・芽吹の谷」","fr":"« Voyage stellaire : Vallée des Bourgeons »"}
 {"id":1522046,"jp":"「黄昏の余燼」","fr":"« Braises du crépuscule »"}
 {"id":1522051,"jp":"「春日の桃影」","fr":"« Ombres de pêcher au printemps »"}
-{"id":1522055,"jp":"「制覇！芽吹の谷」","fr":"« Vallée des Bourgeons conquise ! »"}
+{"id":1522055,"jp":"「制覇！芽吹の谷」","fr":"« Conquête de la Vallée des Bourgeons ! »"}
 {"id":1522058,"jp":"芽吹の谷を制覇した証","fr":"Preuve de la conquête de la Vallée des Bourgeons"}
 {"id":1522063,"jp":"フリスで輝いた証","fr":"Preuve d'un éclat remarquable à Fleece"}
 {"id":1522099,"jp":"物語の始まり","fr":"Le début de l'histoire"}
@@ -8206,7 +8456,7 @@
 {"id":1522219,"jp":"厳かなプレリュード","fr":"Prélude solennel"}
 {"id":1522224,"jp":"高温注意","fr":"Attention, haute température"}
 {"id":1522225,"jp":"スタンド「高温注意」","fr":"Présentoir « Attention, haute température »"}
-{"id":1522228,"jp":"スタンド「熱き対峙」","fr":"Présentoir « Face-à-face ardent »"}
+{"id":1522228,"jp":"スタンド「熱き対峙」","fr":"Présentoir « Face-à-face brûlant »"}
 {"id":1522232,"jp":"アイコン","fr":"Icône"}
 {"id":1522233,"jp":"アイコンフレーム","fr":"Cadre d'icône"}
 {"id":1522234,"jp":"ベース","fr":"Socle"}
@@ -8229,13 +8479,13 @@
 {"id":1522272,"jp":"名誉村民","fr":"Honneur du village"}
 {"id":1522277,"jp":"預言の子","fr":"Enfant de la prophétie"}
 {"id":1522278,"jp":"称号「預言の子」","fr":"Titre « Enfant de la prophétie »"}
-{"id":1522284,"jp":"称号「見習い」","fr":"Titre « Novice »"}
+{"id":1522284,"jp":"称号「見習い」","fr":"Titre « Apprentissage »"}
 {"id":1522285,"jp":"星冠杯段位の証明","fr":"Preuve du rang en Coupe de la Couronne stellaire"}
-{"id":1522287,"jp":"称号「ルーキー」","fr":"Titre « Débutant »"}
+{"id":1522287,"jp":"称号「ルーキー」","fr":"Titre « Recrue »"}
 {"id":1522289,"jp":"称号「エリート」","fr":"Titre « Élite »"}
-{"id":1522291,"jp":"称号「エキスパート」","fr":"Titre « Expert »"}
-{"id":1522293,"jp":"称号「マスター」","fr":"Titre « Maître »"}
-{"id":1522295,"jp":"称号「レジェンド」","fr":"Titre « Légende »"}
+{"id":1522291,"jp":"称号「エキスパート」","fr":"Titre « Expertise »"}
+{"id":1522293,"jp":"称号「マスター」","fr":"Titre « Maîtrise »"}
+{"id":1522295,"jp":"称号「レジェンド」","fr":"Titre « Légendaire »"}
 {"id":1522296,"jp":"覇者","fr":"Au sommet"}
 {"id":1522298,"jp":"ファイトアイドル","fr":"Idole du combat"}
 {"id":1522300,"jp":"・第1章","fr":"・Chapitre 1"}
