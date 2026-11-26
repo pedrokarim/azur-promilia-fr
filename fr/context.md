@@ -55,6 +55,19 @@ Le japonais marque la politesse par la forme des verbes et par les suffixes, le 
 
 Une fois choisi pour un personnage, le registre ne change plus, sauf si l'histoire le fait évoluer (rapprochement, dispute) : le noter alors dans ce fichier.
 
+## Registres établis
+
+Relevés dans les dialogues déjà traduits. Un traducteur les applique tels quels ; un cas nouveau s'ajoute ici.
+
+- Lumi tutoie tout le monde et parle d'elle à la troisième personne (« la grande Lumi », « la Grande Fée »).
+- Symphoria (surnom « Chiffon ») vouvoie le joueur et les PNJ.
+- Le joueur tutoie ses compagnons et vouvoie qui le vouvoie.
+- Tutoient : Terara, Mitty, Komugi, Ruby, Lily, Han Youyou, Xiaoyu (« renarde céleste »), Peipei (à la troisième personne), Maple (« nya »), le Chef du village, le Seigneur Faucon, Joy, Gladia, le boulanger.
+- Vouvoient : Shiroro, Chilul, Lan Xiangzi, Sans-Nom (« Sire Sans-Nom »), Nanacha (« Mademoiselle » pour Komugi), l'infirmière, les compagnies Tianjiang et Goyard.
+- Lan Xiangzi enfant et son père, Abby (phrases d'enfant), Peipei : parlent d'eux à la troisième personne.
+- Chiyo : « Dame Chiyo », finit ses phrases par « nya ».
+- Le joueur est appelé « Âme chevaleresque » (侠客さん), « duelliste » (ファイターさん), « jeune pousse » par les anciens : jamais une forme accordée.
+
 ## Règles d'écriture
 
 - Traduire depuis le japonais. L'anglais sert à comprendre une ligne ambiguë, à vérifier un nom officiel, pas à être retraduit.

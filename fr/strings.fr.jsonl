@@ -15326,10 +15326,910 @@
 {"id":1514095,"jp":"アイシィのレベルを70にする","fr":"Monter Icy au niveau 70"}
 {"id":1514096,"jp":"アイシィのレベルを80にする","fr":"Monter Icy au niveau 80"}
 {"id":1514097,"jp":"アイシィのレベルを90にする","fr":"Monter Icy au niveau 90"}
+{"id":1514098,"jp":"アイシィのレベルを100にする","fr":"Monter Icy au niveau 100"}
+{"id":1514099,"jp":"アイシィの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels d'Icy au rang E"}
+{"id":1514100,"jp":"アイシィの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels d'Icy au rang D"}
+{"id":1514101,"jp":"アイシィの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels d'Icy au rang C"}
+{"id":1514102,"jp":"アイシィの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels d'Icy au rang B"}
+{"id":1514103,"jp":"アイシィの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels d'Icy au rang A"}
+{"id":1514104,"jp":"アイシィの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels d'Icy au rang S"}
+{"id":1514105,"jp":"アイシエルのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active d'Iciel"}
+{"id":1514106,"jp":"アイシエルのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active d'Iciel"}
+{"id":1514107,"jp":"アイシエルのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active d'Iciel"}
+{"id":1514108,"jp":"アイシエルのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active d'Iciel"}
+{"id":1514109,"jp":"アイシエルのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active d'Iciel"}
+{"id":1514110,"jp":"アイシエルのレベルを30にする","fr":"Monter Iciel au niveau 30"}
+{"id":1514111,"jp":"アイシエルのレベルを50にする","fr":"Monter Iciel au niveau 50"}
+{"id":1514112,"jp":"アイシエルのレベルを60にする","fr":"Monter Iciel au niveau 60"}
+{"id":1514113,"jp":"アイシエルのレベルを70にする","fr":"Monter Iciel au niveau 70"}
+{"id":1514114,"jp":"アイシエルのレベルを80にする","fr":"Monter Iciel au niveau 80"}
+{"id":1514115,"jp":"アイシエルのレベルを90にする","fr":"Monter Iciel au niveau 90"}
+{"id":1514116,"jp":"アイシエルのレベルを100にする","fr":"Monter Iciel au niveau 100"}
+{"id":1514117,"jp":"アイシエルの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels d'Iciel au rang E"}
+{"id":1514118,"jp":"アイシエルの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels d'Iciel au rang D"}
+{"id":1514119,"jp":"アイシエルの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels d'Iciel au rang C"}
+{"id":1514120,"jp":"アイシエルの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels d'Iciel au rang B"}
+{"id":1514121,"jp":"アイシエルの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels d'Iciel au rang A"}
+{"id":1514122,"jp":"アイシエルの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels d'Iciel au rang S"}
+{"id":1514123,"jp":"フローゼストのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Frozest"}
+{"id":1514124,"jp":"フローゼストのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Frozest"}
+{"id":1514125,"jp":"フローゼストのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Frozest"}
+{"id":1514126,"jp":"フローゼストのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Frozest"}
+{"id":1514127,"jp":"フローゼストのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Frozest"}
+{"id":1514128,"jp":"フローゼストのレベルを30にする","fr":"Monter Frozest au niveau 30"}
+{"id":1514129,"jp":"フローゼストのレベルを50にする","fr":"Monter Frozest au niveau 50"}
+{"id":1514130,"jp":"フローゼストのレベルを60にする","fr":"Monter Frozest au niveau 60"}
+{"id":1514131,"jp":"フローゼストのレベルを70にする","fr":"Monter Frozest au niveau 70"}
+{"id":1514132,"jp":"フローゼストのレベルを80にする","fr":"Monter Frozest au niveau 80"}
+{"id":1514133,"jp":"フローゼストのレベルを90にする","fr":"Monter Frozest au niveau 90"}
+{"id":1514134,"jp":"フローゼストのレベルを100にする","fr":"Monter Frozest au niveau 100"}
+{"id":1514135,"jp":"フローゼストの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Frozest au rang E"}
+{"id":1514136,"jp":"フローゼストの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Frozest au rang D"}
+{"id":1514137,"jp":"フローゼストの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Frozest au rang C"}
+{"id":1514138,"jp":"フローゼストの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Frozest au rang B"}
+{"id":1514139,"jp":"フローゼストの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Frozest au rang A"}
+{"id":1514140,"jp":"フローゼストの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Frozest au rang S"}
+{"id":1514141,"jp":"ハーチャのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Harcha"}
+{"id":1514142,"jp":"ハーチャのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Harcha"}
+{"id":1514143,"jp":"ハーチャのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Harcha"}
+{"id":1514144,"jp":"ハーチャのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Harcha"}
+{"id":1514145,"jp":"ハーチャのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Harcha"}
+{"id":1514146,"jp":"ハーチャのレベルを30にする","fr":"Monter Harcha au niveau 30"}
+{"id":1514147,"jp":"ハーチャのレベルを50にする","fr":"Monter Harcha au niveau 50"}
+{"id":1514148,"jp":"ハーチャのレベルを60にする","fr":"Monter Harcha au niveau 60"}
+{"id":1514149,"jp":"ハーチャのレベルを70にする","fr":"Monter Harcha au niveau 70"}
+{"id":1514150,"jp":"ハーチャのレベルを80にする","fr":"Monter Harcha au niveau 80"}
+{"id":1514151,"jp":"ハーチャのレベルを90にする","fr":"Monter Harcha au niveau 90"}
+{"id":1514152,"jp":"ハーチャのレベルを100にする","fr":"Monter Harcha au niveau 100"}
+{"id":1514153,"jp":"ハーチャの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Harcha au rang E"}
+{"id":1514154,"jp":"ハーチャの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Harcha au rang D"}
+{"id":1514155,"jp":"ハーチャの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Harcha au rang C"}
+{"id":1514156,"jp":"ハーチャの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Harcha au rang B"}
+{"id":1514157,"jp":"ハーチャの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Harcha au rang A"}
+{"id":1514158,"jp":"ハーチャの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Harcha au rang S"}
+{"id":1514159,"jp":"フーモのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Fumo"}
+{"id":1514160,"jp":"フーモのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Fumo"}
+{"id":1514161,"jp":"フーモのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Fumo"}
+{"id":1514162,"jp":"フーモのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Fumo"}
+{"id":1514163,"jp":"フーモのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Fumo"}
+{"id":1514164,"jp":"フーモのレベルを30にする","fr":"Monter Fumo au niveau 30"}
+{"id":1514165,"jp":"フーモのレベルを50にする","fr":"Monter Fumo au niveau 50"}
+{"id":1514166,"jp":"フーモのレベルを60にする","fr":"Monter Fumo au niveau 60"}
+{"id":1514167,"jp":"フーモのレベルを70にする","fr":"Monter Fumo au niveau 70"}
+{"id":1514168,"jp":"フーモのレベルを80にする","fr":"Monter Fumo au niveau 80"}
+{"id":1514169,"jp":"フーモのレベルを90にする","fr":"Monter Fumo au niveau 90"}
+{"id":1514170,"jp":"フーモのレベルを100にする","fr":"Monter Fumo au niveau 100"}
+{"id":1514171,"jp":"フーモの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Fumo au rang E"}
+{"id":1514172,"jp":"フーモの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Fumo au rang D"}
+{"id":1514173,"jp":"フーモの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Fumo au rang C"}
+{"id":1514174,"jp":"フーモの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Fumo au rang B"}
+{"id":1514175,"jp":"フーモの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Fumo au rang A"}
+{"id":1514176,"jp":"フーモの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Fumo au rang S"}
+{"id":1514177,"jp":"フリィフのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Friff"}
+{"id":1514178,"jp":"フリィフのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Friff"}
+{"id":1514179,"jp":"フリィフのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Friff"}
+{"id":1514180,"jp":"フリィフのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Friff"}
+{"id":1514181,"jp":"フリィフのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Friff"}
+{"id":1514182,"jp":"フリィフのレベルを30にする","fr":"Monter Friff au niveau 30"}
+{"id":1514183,"jp":"フリィフのレベルを50にする","fr":"Monter Friff au niveau 50"}
+{"id":1514184,"jp":"フリィフのレベルを60にする","fr":"Monter Friff au niveau 60"}
+{"id":1514185,"jp":"フリィフのレベルを70にする","fr":"Monter Friff au niveau 70"}
+{"id":1514186,"jp":"フリィフのレベルを80にする","fr":"Monter Friff au niveau 80"}
+{"id":1514187,"jp":"フリィフのレベルを90にする","fr":"Monter Friff au niveau 90"}
+{"id":1514188,"jp":"フリィフのレベルを100にする","fr":"Monter Friff au niveau 100"}
+{"id":1514189,"jp":"フリィフの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Friff au rang E"}
+{"id":1514190,"jp":"フリィフの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Friff au rang D"}
+{"id":1514191,"jp":"フリィフの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Friff au rang C"}
+{"id":1514192,"jp":"フリィフの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Friff au rang B"}
+{"id":1514193,"jp":"フリィフの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Friff au rang A"}
+{"id":1514194,"jp":"フリィフの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Friff au rang S"}
+{"id":1514195,"jp":"フルネフィのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Furnefi"}
+{"id":1514196,"jp":"フルネフィのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Furnefi"}
+{"id":1514197,"jp":"フルネフィのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Furnefi"}
+{"id":1514198,"jp":"フルネフィのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Furnefi"}
+{"id":1514199,"jp":"フルネフィのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Furnefi"}
+{"id":1514200,"jp":"フルネフィのレベルを30にする","fr":"Monter Furnefi au niveau 30"}
+{"id":1514201,"jp":"フルネフィのレベルを50にする","fr":"Monter Furnefi au niveau 50"}
+{"id":1514202,"jp":"フルネフィのレベルを60にする","fr":"Monter Furnefi au niveau 60"}
+{"id":1514203,"jp":"フルネフィのレベルを70にする","fr":"Monter Furnefi au niveau 70"}
+{"id":1514204,"jp":"フルネフィのレベルを80にする","fr":"Monter Furnefi au niveau 80"}
+{"id":1514205,"jp":"フルネフィのレベルを90にする","fr":"Monter Furnefi au niveau 90"}
+{"id":1514206,"jp":"フルネフィのレベルを100にする","fr":"Monter Furnefi au niveau 100"}
+{"id":1514207,"jp":"フルネフィの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Furnefi au rang E"}
+{"id":1514208,"jp":"フルネフィの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Furnefi au rang D"}
+{"id":1514209,"jp":"フルネフィの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Furnefi au rang C"}
+{"id":1514210,"jp":"フルネフィの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Furnefi au rang B"}
+{"id":1514211,"jp":"フルネフィの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Furnefi au rang A"}
+{"id":1514212,"jp":"フルネフィの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Furnefi au rang S"}
+{"id":1514213,"jp":"ウィンディのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Windy"}
+{"id":1514214,"jp":"ウィンディのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Windy"}
+{"id":1514215,"jp":"ウィンディのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Windy"}
+{"id":1514216,"jp":"ウィンディのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Windy"}
+{"id":1514217,"jp":"ウィンディのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Windy"}
+{"id":1514218,"jp":"ウィンディのレベルを30にする","fr":"Monter Windy au niveau 30"}
+{"id":1514219,"jp":"ウィンディのレベルを50にする","fr":"Monter Windy au niveau 50"}
+{"id":1514220,"jp":"ウィンディのレベルを60にする","fr":"Monter Windy au niveau 60"}
+{"id":1514221,"jp":"ウィンディのレベルを70にする","fr":"Monter Windy au niveau 70"}
+{"id":1514222,"jp":"ウィンディのレベルを80にする","fr":"Monter Windy au niveau 80"}
+{"id":1514223,"jp":"ウィンディのレベルを90にする","fr":"Monter Windy au niveau 90"}
+{"id":1514224,"jp":"ウィンディのレベルを100にする","fr":"Monter Windy au niveau 100"}
+{"id":1514225,"jp":"ウィンディの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Windy au rang E"}
+{"id":1514226,"jp":"ウィンディの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Windy au rang D"}
+{"id":1514227,"jp":"ウィンディの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Windy au rang C"}
+{"id":1514228,"jp":"ウィンディの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Windy au rang B"}
+{"id":1514229,"jp":"ウィンディの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Windy au rang A"}
+{"id":1514230,"jp":"ウィンディの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Windy au rang S"}
+{"id":1514231,"jp":"ウィンデルのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Windel"}
+{"id":1514232,"jp":"ウィンデルのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Windel"}
+{"id":1514233,"jp":"ウィンデルのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Windel"}
+{"id":1514234,"jp":"ウィンデルのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Windel"}
+{"id":1514235,"jp":"ウィンデルのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Windel"}
+{"id":1514236,"jp":"ウィンデルのレベルを30にする","fr":"Monter Windel au niveau 30"}
+{"id":1514237,"jp":"ウィンデルのレベルを50にする","fr":"Monter Windel au niveau 50"}
+{"id":1514238,"jp":"ウィンデルのレベルを60にする","fr":"Monter Windel au niveau 60"}
+{"id":1514239,"jp":"ウィンデルのレベルを70にする","fr":"Monter Windel au niveau 70"}
+{"id":1514240,"jp":"ウィンデルのレベルを80にする","fr":"Monter Windel au niveau 80"}
+{"id":1514241,"jp":"ウィンデルのレベルを90にする","fr":"Monter Windel au niveau 90"}
+{"id":1514242,"jp":"ウィンデルのレベルを100にする","fr":"Monter Windel au niveau 100"}
+{"id":1514243,"jp":"ウィンデルの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Windel au rang E"}
+{"id":1514244,"jp":"ウィンデルの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Windel au rang D"}
+{"id":1514245,"jp":"ウィンデルの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Windel au rang C"}
+{"id":1514246,"jp":"ウィンデルの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Windel au rang B"}
+{"id":1514247,"jp":"ウィンデルの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Windel au rang A"}
+{"id":1514248,"jp":"ウィンデルの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Windel au rang S"}
+{"id":1514249,"jp":"テンペストのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Tempest"}
+{"id":1514250,"jp":"テンペストのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Tempest"}
+{"id":1514251,"jp":"テンペストのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Tempest"}
+{"id":1514252,"jp":"テンペストのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Tempest"}
+{"id":1514253,"jp":"テンペストのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Tempest"}
+{"id":1514254,"jp":"テンペストのレベルを30にする","fr":"Monter Tempest au niveau 30"}
+{"id":1514255,"jp":"テンペストのレベルを50にする","fr":"Monter Tempest au niveau 50"}
+{"id":1514256,"jp":"テンペストのレベルを60にする","fr":"Monter Tempest au niveau 60"}
+{"id":1514257,"jp":"テンペストのレベルを70にする","fr":"Monter Tempest au niveau 70"}
+{"id":1514258,"jp":"テンペストのレベルを80にする","fr":"Monter Tempest au niveau 80"}
+{"id":1514259,"jp":"テンペストのレベルを90にする","fr":"Monter Tempest au niveau 90"}
+{"id":1514260,"jp":"テンペストのレベルを100にする","fr":"Monter Tempest au niveau 100"}
+{"id":1514261,"jp":"テンペストの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Tempest au rang E"}
+{"id":1514262,"jp":"テンペストの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Tempest au rang D"}
+{"id":1514263,"jp":"テンペストの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Tempest au rang C"}
+{"id":1514264,"jp":"テンペストの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Tempest au rang B"}
+{"id":1514265,"jp":"テンペストの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Tempest au rang A"}
+{"id":1514266,"jp":"テンペストの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Tempest au rang S"}
+{"id":1514267,"jp":"ドゥルのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Dur"}
+{"id":1514268,"jp":"ドゥルのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Dur"}
+{"id":1514269,"jp":"ドゥルのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Dur"}
+{"id":1514270,"jp":"ドゥルのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Dur"}
+{"id":1514271,"jp":"ドゥルのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Dur"}
+{"id":1514272,"jp":"ドゥルのレベルを30にする","fr":"Monter Dur au niveau 30"}
+{"id":1514273,"jp":"ドゥルのレベルを50にする","fr":"Monter Dur au niveau 50"}
+{"id":1514274,"jp":"ドゥルのレベルを60にする","fr":"Monter Dur au niveau 60"}
+{"id":1514275,"jp":"ドゥルのレベルを70にする","fr":"Monter Dur au niveau 70"}
+{"id":1514276,"jp":"ドゥルのレベルを80にする","fr":"Monter Dur au niveau 80"}
+{"id":1514277,"jp":"ドゥルのレベルを90にする","fr":"Monter Dur au niveau 90"}
+{"id":1514278,"jp":"ドゥルのレベルを100にする","fr":"Monter Dur au niveau 100"}
+{"id":1514279,"jp":"ドゥルの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Dur au rang E"}
+{"id":1514280,"jp":"ドゥルの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Dur au rang D"}
+{"id":1514281,"jp":"ドゥルの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Dur au rang C"}
+{"id":1514282,"jp":"ドゥルの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Dur au rang B"}
+{"id":1514283,"jp":"ドゥルの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Dur au rang A"}
+{"id":1514284,"jp":"ドゥルの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Dur au rang S"}
+{"id":1514285,"jp":"ガヤックのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Gayak"}
+{"id":1514286,"jp":"ガヤックのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Gayak"}
+{"id":1514287,"jp":"ガヤックのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Gayak"}
+{"id":1514288,"jp":"ガヤックのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Gayak"}
+{"id":1514289,"jp":"ガヤックのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Gayak"}
+{"id":1514290,"jp":"ガヤックのレベルを30にする","fr":"Monter Gayak au niveau 30"}
+{"id":1514291,"jp":"ガヤックのレベルを50にする","fr":"Monter Gayak au niveau 50"}
+{"id":1514292,"jp":"ガヤックのレベルを60にする","fr":"Monter Gayak au niveau 60"}
+{"id":1514293,"jp":"ガヤックのレベルを70にする","fr":"Monter Gayak au niveau 70"}
+{"id":1514294,"jp":"ガヤックのレベルを80にする","fr":"Monter Gayak au niveau 80"}
+{"id":1514295,"jp":"ガヤックのレベルを90にする","fr":"Monter Gayak au niveau 90"}
+{"id":1514296,"jp":"ガヤックのレベルを100にする","fr":"Monter Gayak au niveau 100"}
+{"id":1514297,"jp":"ガヤックの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Gayak au rang E"}
+{"id":1514298,"jp":"ガヤックの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Gayak au rang D"}
+{"id":1514299,"jp":"ガヤックの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Gayak au rang C"}
+{"id":1514300,"jp":"ガヤックの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Gayak au rang B"}
+{"id":1514301,"jp":"ガヤックの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Gayak au rang A"}
+{"id":1514302,"jp":"ガヤックの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Gayak au rang S"}
 {"id":1514303,"jp":"ルビッツのアクティブスキルを3回発動する","fr":"Utiliser 3 fois la compétence active de Rubbits"}
+{"id":1514304,"jp":"ルビッツのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Rubbits"}
+{"id":1514305,"jp":"ルビッツのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Rubbits"}
+{"id":1514306,"jp":"ルビッツのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Rubbits"}
+{"id":1514307,"jp":"ルビッツのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Rubbits"}
+{"id":1514308,"jp":"ルビッツのレベルを30にする","fr":"Monter Rubbits au niveau 30"}
+{"id":1514309,"jp":"ルビッツのレベルを50にする","fr":"Monter Rubbits au niveau 50"}
+{"id":1514310,"jp":"ルビッツのレベルを60にする","fr":"Monter Rubbits au niveau 60"}
+{"id":1514311,"jp":"ルビッツのレベルを70にする","fr":"Monter Rubbits au niveau 70"}
+{"id":1514312,"jp":"ルビッツのレベルを80にする","fr":"Monter Rubbits au niveau 80"}
+{"id":1514313,"jp":"ルビッツのレベルを90にする","fr":"Monter Rubbits au niveau 90"}
+{"id":1514314,"jp":"ルビッツのレベルを100にする","fr":"Monter Rubbits au niveau 100"}
+{"id":1514315,"jp":"ルビッツの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Rubbits au rang E"}
+{"id":1514316,"jp":"ルビッツの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Rubbits au rang D"}
+{"id":1514317,"jp":"ルビッツの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Rubbits au rang C"}
+{"id":1514318,"jp":"ルビッツの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Rubbits au rang B"}
+{"id":1514319,"jp":"ルビッツの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Rubbits au rang A"}
+{"id":1514320,"jp":"ルビッツの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Rubbits au rang S"}
+{"id":1514321,"jp":"ルビートルのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Rubeetle"}
+{"id":1514322,"jp":"ルビートルのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Rubeetle"}
+{"id":1514323,"jp":"ルビートルのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Rubeetle"}
+{"id":1514324,"jp":"ルビートルのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Rubeetle"}
+{"id":1514325,"jp":"ルビートルのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Rubeetle"}
+{"id":1514326,"jp":"ルビートルのレベルを30にする","fr":"Monter Rubeetle au niveau 30"}
+{"id":1514327,"jp":"ルビートルのレベルを50にする","fr":"Monter Rubeetle au niveau 50"}
+{"id":1514328,"jp":"ルビートルのレベルを60にする","fr":"Monter Rubeetle au niveau 60"}
+{"id":1514329,"jp":"ルビートルのレベルを70にする","fr":"Monter Rubeetle au niveau 70"}
+{"id":1514330,"jp":"ルビートルのレベルを80にする","fr":"Monter Rubeetle au niveau 80"}
+{"id":1514331,"jp":"ルビートルのレベルを90にする","fr":"Monter Rubeetle au niveau 90"}
+{"id":1514332,"jp":"ルビートルのレベルを100にする","fr":"Monter Rubeetle au niveau 100"}
+{"id":1514333,"jp":"ルビートルの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Rubeetle au rang E"}
+{"id":1514334,"jp":"ルビートルの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Rubeetle au rang D"}
+{"id":1514335,"jp":"ルビートルの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Rubeetle au rang C"}
+{"id":1514336,"jp":"ルビートルの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Rubeetle au rang B"}
+{"id":1514337,"jp":"ルビートルの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Rubeetle au rang A"}
+{"id":1514338,"jp":"ルビートルの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Rubeetle au rang S"}
+{"id":1514339,"jp":"クリムゾルのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Crimzol"}
+{"id":1514340,"jp":"クリムゾルのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Crimzol"}
+{"id":1514341,"jp":"クリムゾルのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Crimzol"}
+{"id":1514342,"jp":"クリムゾルのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Crimzol"}
+{"id":1514343,"jp":"クリムゾルのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Crimzol"}
+{"id":1514344,"jp":"クリムゾルのレベルを30にする","fr":"Monter Crimzol au niveau 30"}
+{"id":1514345,"jp":"クリムゾルのレベルを50にする","fr":"Monter Crimzol au niveau 50"}
+{"id":1514346,"jp":"クリムゾルのレベルを60にする","fr":"Monter Crimzol au niveau 60"}
+{"id":1514347,"jp":"クリムゾルのレベルを70にする","fr":"Monter Crimzol au niveau 70"}
+{"id":1514348,"jp":"クリムゾルのレベルを80にする","fr":"Monter Crimzol au niveau 80"}
+{"id":1514349,"jp":"クリムゾルのレベルを90にする","fr":"Monter Crimzol au niveau 90"}
+{"id":1514350,"jp":"クリムゾルのレベルを100にする","fr":"Monter Crimzol au niveau 100"}
+{"id":1514351,"jp":"クリムゾルの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Crimzol au rang E"}
+{"id":1514352,"jp":"クリムゾルの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Crimzol au rang D"}
+{"id":1514353,"jp":"クリムゾルの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Crimzol au rang C"}
+{"id":1514354,"jp":"クリムゾルの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Crimzol au rang B"}
+{"id":1514355,"jp":"クリムゾルの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Crimzol au rang A"}
+{"id":1514356,"jp":"クリムゾルの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Crimzol au rang S"}
+{"id":1514357,"jp":"ウッディのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Woody"}
+{"id":1514358,"jp":"ウッディのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Woody"}
+{"id":1514359,"jp":"ウッディのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Woody"}
+{"id":1514360,"jp":"ウッディのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Woody"}
+{"id":1514361,"jp":"ウッディのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Woody"}
+{"id":1514362,"jp":"ウッディのレベルを30にする","fr":"Monter Woody au niveau 30"}
+{"id":1514363,"jp":"ウッディのレベルを50にする","fr":"Monter Woody au niveau 50"}
+{"id":1514364,"jp":"ウッディのレベルを60にする","fr":"Monter Woody au niveau 60"}
+{"id":1514365,"jp":"ウッディのレベルを70にする","fr":"Monter Woody au niveau 70"}
+{"id":1514366,"jp":"ウッディのレベルを80にする","fr":"Monter Woody au niveau 80"}
+{"id":1514367,"jp":"ウッディのレベルを90にする","fr":"Monter Woody au niveau 90"}
+{"id":1514368,"jp":"ウッディのレベルを100にする","fr":"Monter Woody au niveau 100"}
+{"id":1514369,"jp":"ウッディの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Woody au rang E"}
+{"id":1514370,"jp":"ウッディの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Woody au rang D"}
+{"id":1514371,"jp":"ウッディの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Woody au rang C"}
+{"id":1514372,"jp":"ウッディの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Woody au rang B"}
+{"id":1514373,"jp":"ウッディの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Woody au rang A"}
+{"id":1514374,"jp":"ウッディの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Woody au rang S"}
+{"id":1514375,"jp":"ウッデルのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Woodel"}
+{"id":1514376,"jp":"ウッデルのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Woodel"}
+{"id":1514377,"jp":"ウッデルのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Woodel"}
+{"id":1514378,"jp":"ウッデルのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Woodel"}
+{"id":1514379,"jp":"ウッデルのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Woodel"}
+{"id":1514380,"jp":"ウッデルのレベルを30にする","fr":"Monter Woodel au niveau 30"}
+{"id":1514381,"jp":"ウッデルのレベルを50にする","fr":"Monter Woodel au niveau 50"}
+{"id":1514382,"jp":"ウッデルのレベルを60にする","fr":"Monter Woodel au niveau 60"}
+{"id":1514383,"jp":"ウッデルのレベルを70にする","fr":"Monter Woodel au niveau 70"}
+{"id":1514384,"jp":"ウッデルのレベルを80にする","fr":"Monter Woodel au niveau 80"}
+{"id":1514385,"jp":"ウッデルのレベルを90にする","fr":"Monter Woodel au niveau 90"}
+{"id":1514386,"jp":"ウッデルのレベルを100にする","fr":"Monter Woodel au niveau 100"}
+{"id":1514387,"jp":"ウッデルの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Woodel au rang E"}
+{"id":1514388,"jp":"ウッデルの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Woodel au rang D"}
+{"id":1514389,"jp":"ウッデルの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Woodel au rang C"}
+{"id":1514390,"jp":"ウッデルの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Woodel au rang B"}
+{"id":1514391,"jp":"ウッデルの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Woodel au rang A"}
+{"id":1514392,"jp":"ウッデルの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Woodel au rang S"}
+{"id":1514393,"jp":"バインデストのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Bindest"}
+{"id":1514394,"jp":"バインデストのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Bindest"}
+{"id":1514395,"jp":"バインデストのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Bindest"}
+{"id":1514396,"jp":"バインデストのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Bindest"}
+{"id":1514397,"jp":"バインデストのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Bindest"}
+{"id":1514398,"jp":"バインデストのレベルを30にする","fr":"Monter Bindest au niveau 30"}
+{"id":1514399,"jp":"バインデストのレベルを50にする","fr":"Monter Bindest au niveau 50"}
+{"id":1514400,"jp":"バインデストのレベルを60にする","fr":"Monter Bindest au niveau 60"}
+{"id":1514401,"jp":"バインデストのレベルを70にする","fr":"Monter Bindest au niveau 70"}
+{"id":1514402,"jp":"バインデストのレベルを80にする","fr":"Monter Bindest au niveau 80"}
+{"id":1514403,"jp":"バインデストのレベルを90にする","fr":"Monter Bindest au niveau 90"}
+{"id":1514404,"jp":"バインデストのレベルを100にする","fr":"Monter Bindest au niveau 100"}
+{"id":1514405,"jp":"バインデストの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Bindest au rang E"}
+{"id":1514406,"jp":"バインデストの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Bindest au rang D"}
+{"id":1514407,"jp":"バインデストの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Bindest au rang C"}
+{"id":1514408,"jp":"バインデストの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Bindest au rang B"}
+{"id":1514409,"jp":"バインデストの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Bindest au rang A"}
+{"id":1514410,"jp":"バインデストの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Bindest au rang S"}
+{"id":1514411,"jp":"ピーチィのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Peachy"}
+{"id":1514412,"jp":"ピーチィのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Peachy"}
+{"id":1514413,"jp":"ピーチィのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Peachy"}
+{"id":1514414,"jp":"ピーチィのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Peachy"}
+{"id":1514415,"jp":"ピーチィのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Peachy"}
+{"id":1514416,"jp":"ピーチィのレベルを30にする","fr":"Monter Peachy au niveau 30"}
+{"id":1514417,"jp":"ピーチィのレベルを50にする","fr":"Monter Peachy au niveau 50"}
+{"id":1514418,"jp":"ピーチィのレベルを60にする","fr":"Monter Peachy au niveau 60"}
+{"id":1514419,"jp":"ピーチィのレベルを70にする","fr":"Monter Peachy au niveau 70"}
+{"id":1514420,"jp":"ピーチィのレベルを80にする","fr":"Monter Peachy au niveau 80"}
+{"id":1514421,"jp":"ピーチィのレベルを90にする","fr":"Monter Peachy au niveau 90"}
+{"id":1514422,"jp":"ピーチィのレベルを100にする","fr":"Monter Peachy au niveau 100"}
+{"id":1514423,"jp":"ピーチィの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Peachy au rang E"}
+{"id":1514424,"jp":"ピーチィの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Peachy au rang D"}
+{"id":1514425,"jp":"ピーチィの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Peachy au rang C"}
+{"id":1514426,"jp":"ピーチィの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Peachy au rang B"}
+{"id":1514427,"jp":"ピーチィの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Peachy au rang A"}
+{"id":1514428,"jp":"ピーチィの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Peachy au rang S"}
+{"id":1514429,"jp":"メルッポのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Meluppo"}
+{"id":1514430,"jp":"メルッポのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Meluppo"}
+{"id":1514431,"jp":"メルッポのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Meluppo"}
+{"id":1514432,"jp":"メルッポのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Meluppo"}
+{"id":1514433,"jp":"メルッポのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Meluppo"}
+{"id":1514434,"jp":"メルッポのレベルを30にする","fr":"Monter Meluppo au niveau 30"}
+{"id":1514435,"jp":"メルッポのレベルを50にする","fr":"Monter Meluppo au niveau 50"}
+{"id":1514436,"jp":"メルッポのレベルを60にする","fr":"Monter Meluppo au niveau 60"}
+{"id":1514437,"jp":"メルッポのレベルを70にする","fr":"Monter Meluppo au niveau 70"}
+{"id":1514438,"jp":"メルッポのレベルを80にする","fr":"Monter Meluppo au niveau 80"}
+{"id":1514439,"jp":"メルッポのレベルを90にする","fr":"Monter Meluppo au niveau 90"}
+{"id":1514440,"jp":"メルッポのレベルを100にする","fr":"Monter Meluppo au niveau 100"}
+{"id":1514441,"jp":"メルッポの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Meluppo au rang E"}
+{"id":1514442,"jp":"メルッポの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Meluppo au rang D"}
+{"id":1514443,"jp":"メルッポの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Meluppo au rang C"}
+{"id":1514444,"jp":"メルッポの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Meluppo au rang B"}
+{"id":1514445,"jp":"メルッポの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Meluppo au rang A"}
+{"id":1514446,"jp":"メルッポの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Meluppo au rang S"}
+{"id":1514447,"jp":"スカーレックのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Scarleck"}
+{"id":1514448,"jp":"スカーレックのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Scarleck"}
+{"id":1514449,"jp":"スカーレックのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Scarleck"}
+{"id":1514450,"jp":"スカーレックのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Scarleck"}
+{"id":1514451,"jp":"スカーレックのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Scarleck"}
+{"id":1514452,"jp":"スカーレックのレベルを30にする","fr":"Monter Scarleck au niveau 30"}
+{"id":1514453,"jp":"スカーレックのレベルを50にする","fr":"Monter Scarleck au niveau 50"}
+{"id":1514454,"jp":"スカーレックのレベルを60にする","fr":"Monter Scarleck au niveau 60"}
+{"id":1514455,"jp":"スカーレックのレベルを70にする","fr":"Monter Scarleck au niveau 70"}
+{"id":1514456,"jp":"スカーレックのレベルを80にする","fr":"Monter Scarleck au niveau 80"}
+{"id":1514457,"jp":"スカーレックのレベルを90にする","fr":"Monter Scarleck au niveau 90"}
+{"id":1514458,"jp":"スカーレックのレベルを100にする","fr":"Monter Scarleck au niveau 100"}
+{"id":1514459,"jp":"スカーレックの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Scarleck au rang E"}
+{"id":1514460,"jp":"スカーレックの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Scarleck au rang D"}
+{"id":1514461,"jp":"スカーレックの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Scarleck au rang C"}
+{"id":1514462,"jp":"スカーレックの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Scarleck au rang B"}
+{"id":1514463,"jp":"スカーレックの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Scarleck au rang A"}
+{"id":1514464,"jp":"スカーレックの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Scarleck au rang S"}
+{"id":1514465,"jp":"リーモのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Leemo"}
+{"id":1514466,"jp":"リーモのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Leemo"}
+{"id":1514467,"jp":"リーモのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Leemo"}
+{"id":1514468,"jp":"リーモのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Leemo"}
+{"id":1514469,"jp":"リーモのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Leemo"}
+{"id":1514470,"jp":"リーモのレベルを30にする","fr":"Monter Leemo au niveau 30"}
+{"id":1514471,"jp":"リーモのレベルを50にする","fr":"Monter Leemo au niveau 50"}
+{"id":1514472,"jp":"リーモのレベルを60にする","fr":"Monter Leemo au niveau 60"}
+{"id":1514473,"jp":"リーモのレベルを70にする","fr":"Monter Leemo au niveau 70"}
+{"id":1514474,"jp":"リーモのレベルを80にする","fr":"Monter Leemo au niveau 80"}
+{"id":1514475,"jp":"リーモのレベルを90にする","fr":"Monter Leemo au niveau 90"}
+{"id":1514476,"jp":"リーモのレベルを100にする","fr":"Monter Leemo au niveau 100"}
+{"id":1514477,"jp":"リーモの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Leemo au rang E"}
+{"id":1514478,"jp":"リーモの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Leemo au rang D"}
+{"id":1514479,"jp":"リーモの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Leemo au rang C"}
+{"id":1514480,"jp":"リーモの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Leemo au rang B"}
+{"id":1514481,"jp":"リーモの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Leemo au rang A"}
+{"id":1514482,"jp":"リーモの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Leemo au rang S"}
+{"id":1514483,"jp":"ルリィフのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Lurif"}
+{"id":1514484,"jp":"ルリィフのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Lurif"}
+{"id":1514485,"jp":"ルリィフのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Lurif"}
+{"id":1514486,"jp":"ルリィフのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Lurif"}
+{"id":1514487,"jp":"ルリィフのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Lurif"}
+{"id":1514488,"jp":"ルリィフのレベルを30にする","fr":"Monter Lurif au niveau 30"}
+{"id":1514489,"jp":"ルリィフのレベルを50にする","fr":"Monter Lurif au niveau 50"}
+{"id":1514490,"jp":"ルリィフのレベルを60にする","fr":"Monter Lurif au niveau 60"}
+{"id":1514491,"jp":"ルリィフのレベルを70にする","fr":"Monter Lurif au niveau 70"}
+{"id":1514492,"jp":"ルリィフのレベルを80にする","fr":"Monter Lurif au niveau 80"}
+{"id":1514493,"jp":"ルリィフのレベルを90にする","fr":"Monter Lurif au niveau 90"}
+{"id":1514494,"jp":"ルリィフのレベルを100にする","fr":"Monter Lurif au niveau 100"}
+{"id":1514495,"jp":"ルリィフの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Lurif au rang E"}
+{"id":1514496,"jp":"ルリィフの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Lurif au rang D"}
+{"id":1514497,"jp":"ルリィフの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Lurif au rang C"}
+{"id":1514498,"jp":"ルリィフの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Lurif au rang B"}
+{"id":1514499,"jp":"ルリィフの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Lurif au rang A"}
+{"id":1514500,"jp":"ルリィフの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Lurif au rang S"}
+{"id":1514501,"jp":"ルルネフィのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Lurnefi"}
+{"id":1514502,"jp":"ルルネフィのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Lurnefi"}
+{"id":1514503,"jp":"ルルネフィのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Lurnefi"}
+{"id":1514504,"jp":"ルルネフィのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Lurnefi"}
+{"id":1514505,"jp":"ルルネフィのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Lurnefi"}
+{"id":1514506,"jp":"ルルネフィのレベルを30にする","fr":"Monter Lurnefi au niveau 30"}
+{"id":1514507,"jp":"ルルネフィのレベルを50にする","fr":"Monter Lurnefi au niveau 50"}
+{"id":1514508,"jp":"ルルネフィのレベルを60にする","fr":"Monter Lurnefi au niveau 60"}
+{"id":1514509,"jp":"ルルネフィのレベルを70にする","fr":"Monter Lurnefi au niveau 70"}
+{"id":1514510,"jp":"ルルネフィのレベルを80にする","fr":"Monter Lurnefi au niveau 80"}
+{"id":1514511,"jp":"ルルネフィのレベルを90にする","fr":"Monter Lurnefi au niveau 90"}
+{"id":1514512,"jp":"ルルネフィのレベルを100にする","fr":"Monter Lurnefi au niveau 100"}
+{"id":1514513,"jp":"ルルネフィの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Lurnefi au rang E"}
+{"id":1514514,"jp":"ルルネフィの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Lurnefi au rang D"}
+{"id":1514515,"jp":"ルルネフィの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Lurnefi au rang C"}
+{"id":1514516,"jp":"ルルネフィの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Lurnefi au rang B"}
+{"id":1514517,"jp":"ルルネフィの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Lurnefi au rang A"}
+{"id":1514518,"jp":"ルルネフィの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Lurnefi au rang S"}
+{"id":1514519,"jp":"サンディのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Sandy"}
+{"id":1514520,"jp":"サンディのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Sandy"}
+{"id":1514521,"jp":"サンディのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Sandy"}
+{"id":1514522,"jp":"サンディのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Sandy"}
+{"id":1514523,"jp":"サンディのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Sandy"}
+{"id":1514524,"jp":"サンディのレベルを30にする","fr":"Monter Sandy au niveau 30"}
+{"id":1514525,"jp":"サンディのレベルを50にする","fr":"Monter Sandy au niveau 50"}
+{"id":1514526,"jp":"サンディのレベルを60にする","fr":"Monter Sandy au niveau 60"}
+{"id":1514527,"jp":"サンディのレベルを70にする","fr":"Monter Sandy au niveau 70"}
+{"id":1514528,"jp":"サンディのレベルを80にする","fr":"Monter Sandy au niveau 80"}
 {"id":1514529,"jp":"サンディのレベルを90にする","fr":"Amener Sandy au niveau 90"}
+{"id":1514530,"jp":"サンディのレベルを100にする","fr":"Monter Sandy au niveau 100"}
+{"id":1514531,"jp":"サンディの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Sandy au rang E"}
+{"id":1514532,"jp":"サンディの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Sandy au rang D"}
+{"id":1514533,"jp":"サンディの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Sandy au rang C"}
+{"id":1514534,"jp":"サンディの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Sandy au rang B"}
+{"id":1514535,"jp":"サンディの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Sandy au rang A"}
+{"id":1514536,"jp":"サンディの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Sandy au rang S"}
+{"id":1514537,"jp":"サンデルのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Sandel"}
+{"id":1514538,"jp":"サンデルのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Sandel"}
+{"id":1514539,"jp":"サンデルのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Sandel"}
+{"id":1514540,"jp":"サンデルのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Sandel"}
+{"id":1514541,"jp":"サンデルのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Sandel"}
+{"id":1514542,"jp":"サンデルのレベルを30にする","fr":"Monter Sandel au niveau 30"}
+{"id":1514543,"jp":"サンデルのレベルを50にする","fr":"Monter Sandel au niveau 50"}
+{"id":1514544,"jp":"サンデルのレベルを60にする","fr":"Monter Sandel au niveau 60"}
+{"id":1514545,"jp":"サンデルのレベルを70にする","fr":"Monter Sandel au niveau 70"}
+{"id":1514546,"jp":"サンデルのレベルを80にする","fr":"Monter Sandel au niveau 80"}
+{"id":1514547,"jp":"サンデルのレベルを90にする","fr":"Monter Sandel au niveau 90"}
+{"id":1514548,"jp":"サンデルのレベルを100にする","fr":"Monter Sandel au niveau 100"}
+{"id":1514549,"jp":"サンデルの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Sandel au rang E"}
+{"id":1514550,"jp":"サンデルの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Sandel au rang D"}
+{"id":1514551,"jp":"サンデルの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Sandel au rang C"}
+{"id":1514552,"jp":"サンデルの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Sandel au rang B"}
+{"id":1514553,"jp":"サンデルの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Sandel au rang A"}
+{"id":1514554,"jp":"サンデルの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Sandel au rang S"}
+{"id":1514555,"jp":"ヴォルテストのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Voltest"}
+{"id":1514556,"jp":"ヴォルテストのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Voltest"}
+{"id":1514557,"jp":"ヴォルテストのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Voltest"}
+{"id":1514558,"jp":"ヴォルテストのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Voltest"}
+{"id":1514559,"jp":"ヴォルテストのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Voltest"}
+{"id":1514560,"jp":"ヴォルテストのレベルを30にする","fr":"Monter Voltest au niveau 30"}
+{"id":1514561,"jp":"ヴォルテストのレベルを50にする","fr":"Monter Voltest au niveau 50"}
+{"id":1514562,"jp":"ヴォルテストのレベルを60にする","fr":"Monter Voltest au niveau 60"}
+{"id":1514563,"jp":"ヴォルテストのレベルを70にする","fr":"Monter Voltest au niveau 70"}
+{"id":1514564,"jp":"ヴォルテストのレベルを80にする","fr":"Monter Voltest au niveau 80"}
+{"id":1514565,"jp":"ヴォルテストのレベルを90にする","fr":"Monter Voltest au niveau 90"}
+{"id":1514566,"jp":"ヴォルテストのレベルを100にする","fr":"Monter Voltest au niveau 100"}
+{"id":1514567,"jp":"ヴォルテストの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Voltest au rang E"}
+{"id":1514568,"jp":"ヴォルテストの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Voltest au rang D"}
+{"id":1514569,"jp":"ヴォルテストの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Voltest au rang C"}
+{"id":1514570,"jp":"ヴォルテストの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Voltest au rang B"}
+{"id":1514571,"jp":"ヴォルテストの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Voltest au rang A"}
+{"id":1514572,"jp":"ヴォルテストの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Voltest au rang S"}
+{"id":1514573,"jp":"モルフォーレのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Morphore"}
+{"id":1514574,"jp":"モルフォーレのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Morphore"}
+{"id":1514575,"jp":"モルフォーレのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Morphore"}
+{"id":1514576,"jp":"モルフォーレのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Morphore"}
+{"id":1514577,"jp":"モルフォーレのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Morphore"}
+{"id":1514578,"jp":"モルフォーレのレベルを30にする","fr":"Monter Morphore au niveau 30"}
+{"id":1514579,"jp":"モルフォーレのレベルを50にする","fr":"Monter Morphore au niveau 50"}
+{"id":1514580,"jp":"モルフォーレのレベルを60にする","fr":"Monter Morphore au niveau 60"}
+{"id":1514581,"jp":"モルフォーレのレベルを70にする","fr":"Monter Morphore au niveau 70"}
+{"id":1514582,"jp":"モルフォーレのレベルを80にする","fr":"Monter Morphore au niveau 80"}
+{"id":1514583,"jp":"モルフォーレのレベルを90にする","fr":"Monter Morphore au niveau 90"}
+{"id":1514584,"jp":"モルフォーレのレベルを100にする","fr":"Monter Morphore au niveau 100"}
+{"id":1514585,"jp":"モルフォーレの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Morphore au rang E"}
+{"id":1514586,"jp":"モルフォーレの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Morphore au rang D"}
+{"id":1514587,"jp":"モルフォーレの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Morphore au rang C"}
+{"id":1514588,"jp":"モルフォーレの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Morphore au rang B"}
+{"id":1514589,"jp":"モルフォーレの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Morphore au rang A"}
+{"id":1514590,"jp":"モルフォーレの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Morphore au rang S"}
+{"id":1514591,"jp":"ファウンディのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Foundy"}
+{"id":1514592,"jp":"ファウンディのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Foundy"}
+{"id":1514593,"jp":"ファウンディのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Foundy"}
+{"id":1514594,"jp":"ファウンディのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Foundy"}
+{"id":1514595,"jp":"ファウンディのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Foundy"}
+{"id":1514596,"jp":"ファウンディのレベルを30にする","fr":"Monter Foundy au niveau 30"}
+{"id":1514597,"jp":"ファウンディのレベルを50にする","fr":"Monter Foundy au niveau 50"}
+{"id":1514598,"jp":"ファウンディのレベルを60にする","fr":"Monter Foundy au niveau 60"}
+{"id":1514599,"jp":"ファウンディのレベルを70にする","fr":"Monter Foundy au niveau 70"}
+{"id":1514600,"jp":"ファウンディのレベルを80にする","fr":"Monter Foundy au niveau 80"}
+{"id":1514601,"jp":"ファウンディのレベルを90にする","fr":"Monter Foundy au niveau 90"}
+{"id":1514602,"jp":"ファウンディのレベルを100にする","fr":"Monter Foundy au niveau 100"}
+{"id":1514603,"jp":"ファウンディの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Foundy au rang E"}
+{"id":1514604,"jp":"ファウンディの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Foundy au rang D"}
+{"id":1514605,"jp":"ファウンディの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Foundy au rang C"}
+{"id":1514606,"jp":"ファウンディの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Foundy au rang B"}
+{"id":1514607,"jp":"ファウンディの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Foundy au rang A"}
+{"id":1514608,"jp":"ファウンディの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Foundy au rang S"}
+{"id":1514609,"jp":"グルルのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Gururu"}
+{"id":1514610,"jp":"グルルのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Gururu"}
+{"id":1514611,"jp":"グルルのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Gururu"}
+{"id":1514612,"jp":"グルルのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Gururu"}
+{"id":1514613,"jp":"グルルのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Gururu"}
+{"id":1514614,"jp":"グルルのレベルを30にする","fr":"Monter Gururu au niveau 30"}
+{"id":1514615,"jp":"グルルのレベルを50にする","fr":"Monter Gururu au niveau 50"}
+{"id":1514616,"jp":"グルルのレベルを60にする","fr":"Monter Gururu au niveau 60"}
+{"id":1514617,"jp":"グルルのレベルを70にする","fr":"Monter Gururu au niveau 70"}
+{"id":1514618,"jp":"グルルのレベルを80にする","fr":"Monter Gururu au niveau 80"}
+{"id":1514619,"jp":"グルルのレベルを90にする","fr":"Monter Gururu au niveau 90"}
+{"id":1514620,"jp":"グルルのレベルを100にする","fr":"Monter Gururu au niveau 100"}
+{"id":1514621,"jp":"グルルの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Gururu au rang E"}
+{"id":1514622,"jp":"グルルの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Gururu au rang D"}
+{"id":1514623,"jp":"グルルの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Gururu au rang C"}
+{"id":1514624,"jp":"グルルの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Gururu au rang B"}
+{"id":1514625,"jp":"グルルの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Gururu au rang A"}
+{"id":1514626,"jp":"グルルの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Gururu au rang S"}
+{"id":1514627,"jp":"ネビュリオンのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Nebulion"}
+{"id":1514628,"jp":"ネビュリオンのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Nebulion"}
+{"id":1514629,"jp":"ネビュリオンのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Nebulion"}
+{"id":1514630,"jp":"ネビュリオンのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Nebulion"}
+{"id":1514631,"jp":"ネビュリオンのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Nebulion"}
+{"id":1514632,"jp":"ネビュリオンのレベルを30にする","fr":"Monter Nebulion au niveau 30"}
+{"id":1514633,"jp":"ネビュリオンのレベルを50にする","fr":"Monter Nebulion au niveau 50"}
+{"id":1514634,"jp":"ネビュリオンのレベルを60にする","fr":"Monter Nebulion au niveau 60"}
+{"id":1514635,"jp":"ネビュリオンのレベルを70にする","fr":"Monter Nebulion au niveau 70"}
+{"id":1514636,"jp":"ネビュリオンのレベルを80にする","fr":"Monter Nebulion au niveau 80"}
+{"id":1514637,"jp":"ネビュリオンのレベルを90にする","fr":"Monter Nebulion au niveau 90"}
+{"id":1514638,"jp":"ネビュリオンのレベルを100にする","fr":"Monter Nebulion au niveau 100"}
+{"id":1514639,"jp":"ネビュリオンの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Nebulion au rang E"}
+{"id":1514640,"jp":"ネビュリオンの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Nebulion au rang D"}
+{"id":1514641,"jp":"ネビュリオンの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Nebulion au rang C"}
+{"id":1514642,"jp":"ネビュリオンの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Nebulion au rang B"}
+{"id":1514643,"jp":"ネビュリオンの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Nebulion au rang A"}
+{"id":1514644,"jp":"ネビュリオンの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Nebulion au rang S"}
+{"id":1514645,"jp":"キングラーガのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Kingraga"}
+{"id":1514646,"jp":"キングラーガのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Kingraga"}
+{"id":1514647,"jp":"キングラーガのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Kingraga"}
+{"id":1514648,"jp":"キングラーガのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Kingraga"}
+{"id":1514649,"jp":"キングラーガのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Kingraga"}
+{"id":1514650,"jp":"キングラーガのレベルを30にする","fr":"Monter Kingraga au niveau 30"}
+{"id":1514651,"jp":"キングラーガのレベルを50にする","fr":"Monter Kingraga au niveau 50"}
+{"id":1514652,"jp":"キングラーガのレベルを60にする","fr":"Monter Kingraga au niveau 60"}
+{"id":1514653,"jp":"キングラーガのレベルを70にする","fr":"Monter Kingraga au niveau 70"}
+{"id":1514654,"jp":"キングラーガのレベルを80にする","fr":"Monter Kingraga au niveau 80"}
+{"id":1514655,"jp":"キングラーガのレベルを90にする","fr":"Monter Kingraga au niveau 90"}
+{"id":1514656,"jp":"キングラーガのレベルを100にする","fr":"Monter Kingraga au niveau 100"}
+{"id":1514657,"jp":"キングラーガの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Kingraga au rang E"}
+{"id":1514658,"jp":"キングラーガの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Kingraga au rang D"}
+{"id":1514659,"jp":"キングラーガの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Kingraga au rang C"}
+{"id":1514660,"jp":"キングラーガの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Kingraga au rang B"}
+{"id":1514661,"jp":"キングラーガの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Kingraga au rang A"}
+{"id":1514662,"jp":"キングラーガの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Kingraga au rang S"}
+{"id":1514663,"jp":"モーモのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Momo"}
+{"id":1514664,"jp":"モーモのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Momo"}
+{"id":1514665,"jp":"モーモのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Momo"}
+{"id":1514666,"jp":"モーモのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Momo"}
+{"id":1514667,"jp":"モーモのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Momo"}
+{"id":1514668,"jp":"モーモのレベルを30にする","fr":"Monter Momo au niveau 30"}
+{"id":1514669,"jp":"モーモのレベルを50にする","fr":"Monter Momo au niveau 50"}
+{"id":1514670,"jp":"モーモのレベルを60にする","fr":"Monter Momo au niveau 60"}
+{"id":1514671,"jp":"モーモのレベルを70にする","fr":"Monter Momo au niveau 70"}
+{"id":1514672,"jp":"モーモのレベルを80にする","fr":"Monter Momo au niveau 80"}
+{"id":1514673,"jp":"モーモのレベルを90にする","fr":"Monter Momo au niveau 90"}
+{"id":1514674,"jp":"モーモのレベルを100にする","fr":"Monter Momo au niveau 100"}
+{"id":1514675,"jp":"モーモの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Momo au rang E"}
+{"id":1514676,"jp":"モーモの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Momo au rang D"}
+{"id":1514677,"jp":"モーモの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Momo au rang C"}
+{"id":1514678,"jp":"モーモの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Momo au rang B"}
+{"id":1514679,"jp":"モーモの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Momo au rang A"}
+{"id":1514680,"jp":"モーモの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Momo au rang S"}
+{"id":1514681,"jp":"フレイモのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Flamo"}
+{"id":1514682,"jp":"フレイモのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Flamo"}
+{"id":1514683,"jp":"フレイモのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Flamo"}
+{"id":1514684,"jp":"フレイモのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Flamo"}
+{"id":1514685,"jp":"フレイモのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Flamo"}
+{"id":1514686,"jp":"フレイモのレベルを30にする","fr":"Monter Flamo au niveau 30"}
+{"id":1514687,"jp":"フレイモのレベルを50にする","fr":"Monter Flamo au niveau 50"}
+{"id":1514688,"jp":"フレイモのレベルを60にする","fr":"Monter Flamo au niveau 60"}
+{"id":1514689,"jp":"フレイモのレベルを70にする","fr":"Monter Flamo au niveau 70"}
+{"id":1514690,"jp":"フレイモのレベルを80にする","fr":"Monter Flamo au niveau 80"}
+{"id":1514691,"jp":"フレイモのレベルを90にする","fr":"Monter Flamo au niveau 90"}
+{"id":1514692,"jp":"フレイモのレベルを100にする","fr":"Monter Flamo au niveau 100"}
+{"id":1514693,"jp":"フレイモの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Flamo au rang E"}
+{"id":1514694,"jp":"フレイモの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Flamo au rang D"}
+{"id":1514695,"jp":"フレイモの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Flamo au rang C"}
+{"id":1514696,"jp":"フレイモの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Flamo au rang B"}
+{"id":1514697,"jp":"フレイモの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Flamo au rang A"}
+{"id":1514698,"jp":"フレイモの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Flamo au rang S"}
+{"id":1514699,"jp":"タウリックのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Taurick"}
+{"id":1514700,"jp":"タウリックのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Taurick"}
+{"id":1514701,"jp":"タウリックのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Taurick"}
+{"id":1514702,"jp":"タウリックのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Taurick"}
+{"id":1514703,"jp":"タウリックのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Taurick"}
+{"id":1514704,"jp":"タウリックのレベルを30にする","fr":"Monter Taurick au niveau 30"}
+{"id":1514705,"jp":"タウリックのレベルを50にする","fr":"Monter Taurick au niveau 50"}
+{"id":1514706,"jp":"タウリックのレベルを60にする","fr":"Monter Taurick au niveau 60"}
+{"id":1514707,"jp":"タウリックのレベルを70にする","fr":"Monter Taurick au niveau 70"}
+{"id":1514708,"jp":"タウリックのレベルを80にする","fr":"Monter Taurick au niveau 80"}
+{"id":1514709,"jp":"タウリックのレベルを90にする","fr":"Monter Taurick au niveau 90"}
+{"id":1514710,"jp":"タウリックのレベルを100にする","fr":"Monter Taurick au niveau 100"}
+{"id":1514711,"jp":"タウリックの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Taurick au rang E"}
+{"id":1514712,"jp":"タウリックの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Taurick au rang D"}
+{"id":1514713,"jp":"タウリックの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Taurick au rang C"}
+{"id":1514714,"jp":"タウリックの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Taurick au rang B"}
+{"id":1514715,"jp":"タウリックの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Taurick au rang A"}
+{"id":1514716,"jp":"タウリックの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Taurick au rang S"}
+{"id":1514717,"jp":"リーフォのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Leafo"}
+{"id":1514718,"jp":"リーフォのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Leafo"}
+{"id":1514719,"jp":"リーフォのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Leafo"}
+{"id":1514720,"jp":"リーフォのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Leafo"}
+{"id":1514721,"jp":"リーフォのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Leafo"}
+{"id":1514722,"jp":"リーフォのレベルを30にする","fr":"Monter Leafo au niveau 30"}
+{"id":1514723,"jp":"リーフォのレベルを50にする","fr":"Monter Leafo au niveau 50"}
+{"id":1514724,"jp":"リーフォのレベルを60にする","fr":"Monter Leafo au niveau 60"}
+{"id":1514725,"jp":"リーフォのレベルを70にする","fr":"Monter Leafo au niveau 70"}
+{"id":1514726,"jp":"リーフォのレベルを80にする","fr":"Monter Leafo au niveau 80"}
+{"id":1514727,"jp":"リーフォのレベルを90にする","fr":"Monter Leafo au niveau 90"}
+{"id":1514728,"jp":"リーフォのレベルを100にする","fr":"Monter Leafo au niveau 100"}
+{"id":1514729,"jp":"リーフォの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Leafo au rang E"}
+{"id":1514730,"jp":"リーフォの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Leafo au rang D"}
+{"id":1514731,"jp":"リーフォの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Leafo au rang C"}
+{"id":1514732,"jp":"リーフォの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Leafo au rang B"}
+{"id":1514733,"jp":"リーフォの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Leafo au rang A"}
+{"id":1514734,"jp":"リーフォの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Leafo au rang S"}
+{"id":1514735,"jp":"フラテールのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Flatail"}
+{"id":1514736,"jp":"フラテールのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Flatail"}
+{"id":1514737,"jp":"フラテールのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Flatail"}
+{"id":1514738,"jp":"フラテールのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Flatail"}
+{"id":1514739,"jp":"フラテールのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Flatail"}
+{"id":1514740,"jp":"フラテールのレベルを30にする","fr":"Monter Flatail au niveau 30"}
+{"id":1514741,"jp":"フラテールのレベルを50にする","fr":"Monter Flatail au niveau 50"}
+{"id":1514742,"jp":"フラテールのレベルを60にする","fr":"Monter Flatail au niveau 60"}
+{"id":1514743,"jp":"フラテールのレベルを70にする","fr":"Monter Flatail au niveau 70"}
+{"id":1514744,"jp":"フラテールのレベルを80にする","fr":"Monter Flatail au niveau 80"}
+{"id":1514745,"jp":"フラテールのレベルを90にする","fr":"Monter Flatail au niveau 90"}
+{"id":1514746,"jp":"フラテールのレベルを100にする","fr":"Monter Flatail au niveau 100"}
+{"id":1514747,"jp":"フラテールの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Flatail au rang E"}
+{"id":1514748,"jp":"フラテールの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Flatail au rang D"}
+{"id":1514749,"jp":"フラテールの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Flatail au rang C"}
+{"id":1514750,"jp":"フラテールの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Flatail au rang B"}
+{"id":1514751,"jp":"フラテールの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Flatail au rang A"}
+{"id":1514752,"jp":"フラテールの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Flatail au rang S"}
+{"id":1514753,"jp":"クローネックのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Kronek"}
+{"id":1514754,"jp":"クローネックのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Kronek"}
 {"id":1514755,"jp":"クローネックのアクティブスキルを15回発動する","fr":"Utiliser 15 fois la compétence active de Kronek"}
+{"id":1514756,"jp":"クローネックのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Kronek"}
+{"id":1514757,"jp":"クローネックのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Kronek"}
+{"id":1514758,"jp":"クローネックのレベルを30にする","fr":"Monter Kronek au niveau 30"}
+{"id":1514759,"jp":"クローネックのレベルを50にする","fr":"Monter Kronek au niveau 50"}
+{"id":1514760,"jp":"クローネックのレベルを60にする","fr":"Monter Kronek au niveau 60"}
+{"id":1514761,"jp":"クローネックのレベルを70にする","fr":"Monter Kronek au niveau 70"}
+{"id":1514762,"jp":"クローネックのレベルを80にする","fr":"Monter Kronek au niveau 80"}
+{"id":1514763,"jp":"クローネックのレベルを90にする","fr":"Monter Kronek au niveau 90"}
+{"id":1514764,"jp":"クローネックのレベルを100にする","fr":"Monter Kronek au niveau 100"}
+{"id":1514765,"jp":"クローネックの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Kronek au rang E"}
+{"id":1514766,"jp":"クローネックの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Kronek au rang D"}
+{"id":1514767,"jp":"クローネックの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Kronek au rang C"}
+{"id":1514768,"jp":"クローネックの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Kronek au rang B"}
+{"id":1514769,"jp":"クローネックの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Kronek au rang A"}
+{"id":1514770,"jp":"クローネックの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Kronek au rang S"}
+{"id":1514771,"jp":"ビリバーのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Biliver"}
+{"id":1514772,"jp":"ビリバーのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Biliver"}
+{"id":1514773,"jp":"ビリバーのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Biliver"}
+{"id":1514774,"jp":"ビリバーのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Biliver"}
+{"id":1514775,"jp":"ビリバーのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Biliver"}
+{"id":1514776,"jp":"ビリバーのレベルを30にする","fr":"Monter Biliver au niveau 30"}
+{"id":1514777,"jp":"ビリバーのレベルを50にする","fr":"Monter Biliver au niveau 50"}
+{"id":1514778,"jp":"ビリバーのレベルを60にする","fr":"Monter Biliver au niveau 60"}
+{"id":1514779,"jp":"ビリバーのレベルを70にする","fr":"Monter Biliver au niveau 70"}
+{"id":1514780,"jp":"ビリバーのレベルを80にする","fr":"Monter Biliver au niveau 80"}
+{"id":1514781,"jp":"ビリバーのレベルを90にする","fr":"Monter Biliver au niveau 90"}
+{"id":1514782,"jp":"ビリバーのレベルを100にする","fr":"Monter Biliver au niveau 100"}
+{"id":1514783,"jp":"ビリバーの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Biliver au rang E"}
+{"id":1514784,"jp":"ビリバーの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Biliver au rang D"}
+{"id":1514785,"jp":"ビリバーの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Biliver au rang C"}
+{"id":1514786,"jp":"ビリバーの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Biliver au rang B"}
+{"id":1514787,"jp":"ビリバーの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Biliver au rang A"}
+{"id":1514788,"jp":"ビリバーの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Biliver au rang S"}
+{"id":1514789,"jp":"ウェイバーのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Waver"}
+{"id":1514790,"jp":"ウェイバーのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Waver"}
+{"id":1514791,"jp":"ウェイバーのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Waver"}
+{"id":1514792,"jp":"ウェイバーのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Waver"}
+{"id":1514793,"jp":"ウェイバーのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Waver"}
+{"id":1514794,"jp":"ウェイバーのレベルを30にする","fr":"Monter Waver au niveau 30"}
+{"id":1514795,"jp":"ウェイバーのレベルを50にする","fr":"Monter Waver au niveau 50"}
+{"id":1514796,"jp":"ウェイバーのレベルを60にする","fr":"Monter Waver au niveau 60"}
+{"id":1514797,"jp":"ウェイバーのレベルを70にする","fr":"Monter Waver au niveau 70"}
+{"id":1514798,"jp":"ウェイバーのレベルを80にする","fr":"Monter Waver au niveau 80"}
+{"id":1514799,"jp":"ウェイバーのレベルを90にする","fr":"Monter Waver au niveau 90"}
+{"id":1514800,"jp":"ウェイバーのレベルを100にする","fr":"Monter Waver au niveau 100"}
+{"id":1514801,"jp":"ウェイバーの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Waver au rang E"}
+{"id":1514802,"jp":"ウェイバーの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Waver au rang D"}
+{"id":1514803,"jp":"ウェイバーの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Waver au rang C"}
+{"id":1514804,"jp":"ウェイバーの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Waver au rang B"}
+{"id":1514805,"jp":"ウェイバーの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Waver au rang A"}
+{"id":1514806,"jp":"ウェイバーの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Waver au rang S"}
+{"id":1514807,"jp":"マスティーバのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Mustiva"}
+{"id":1514808,"jp":"マスティーバのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Mustiva"}
+{"id":1514809,"jp":"マスティーバのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Mustiva"}
+{"id":1514810,"jp":"マスティーバのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Mustiva"}
+{"id":1514811,"jp":"マスティーバのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Mustiva"}
+{"id":1514812,"jp":"マスティーバのレベルを30にする","fr":"Monter Mustiva au niveau 30"}
+{"id":1514813,"jp":"マスティーバのレベルを50にする","fr":"Monter Mustiva au niveau 50"}
+{"id":1514814,"jp":"マスティーバのレベルを60にする","fr":"Monter Mustiva au niveau 60"}
+{"id":1514815,"jp":"マスティーバのレベルを70にする","fr":"Monter Mustiva au niveau 70"}
+{"id":1514816,"jp":"マスティーバのレベルを80にする","fr":"Monter Mustiva au niveau 80"}
+{"id":1514817,"jp":"マスティーバのレベルを90にする","fr":"Monter Mustiva au niveau 90"}
+{"id":1514818,"jp":"マスティーバのレベルを100にする","fr":"Monter Mustiva au niveau 100"}
+{"id":1514819,"jp":"マスティーバの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Mustiva au rang E"}
+{"id":1514820,"jp":"マスティーバの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Mustiva au rang D"}
+{"id":1514821,"jp":"マスティーバの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Mustiva au rang C"}
+{"id":1514822,"jp":"マスティーバの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Mustiva au rang B"}
+{"id":1514823,"jp":"マスティーバの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Mustiva au rang A"}
+{"id":1514824,"jp":"マスティーバの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Mustiva au rang S"}
+{"id":1514825,"jp":"チョノコのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Chonoko"}
+{"id":1514826,"jp":"チョノコのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Chonoko"}
+{"id":1514827,"jp":"チョノコのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Chonoko"}
+{"id":1514828,"jp":"チョノコのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Chonoko"}
+{"id":1514829,"jp":"チョノコのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Chonoko"}
+{"id":1514830,"jp":"チョノコのレベルを30にする","fr":"Monter Chonoko au niveau 30"}
+{"id":1514831,"jp":"チョノコのレベルを50にする","fr":"Monter Chonoko au niveau 50"}
+{"id":1514832,"jp":"チョノコのレベルを60にする","fr":"Monter Chonoko au niveau 60"}
+{"id":1514833,"jp":"チョノコのレベルを70にする","fr":"Monter Chonoko au niveau 70"}
+{"id":1514834,"jp":"チョノコのレベルを80にする","fr":"Monter Chonoko au niveau 80"}
+{"id":1514835,"jp":"チョノコのレベルを90にする","fr":"Monter Chonoko au niveau 90"}
+{"id":1514836,"jp":"チョノコのレベルを100にする","fr":"Monter Chonoko au niveau 100"}
+{"id":1514837,"jp":"チョノコの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Chonoko au rang E"}
+{"id":1514838,"jp":"チョノコの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Chonoko au rang D"}
+{"id":1514839,"jp":"チョノコの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Chonoko au rang C"}
+{"id":1514840,"jp":"チョノコの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Chonoko au rang B"}
+{"id":1514841,"jp":"チョノコの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Chonoko au rang A"}
+{"id":1514842,"jp":"チョノコの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Chonoko au rang S"}
+{"id":1514843,"jp":"ピョンルーのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Pyonloo"}
+{"id":1514844,"jp":"ピョンルーのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Pyonloo"}
+{"id":1514845,"jp":"ピョンルーのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Pyonloo"}
+{"id":1514846,"jp":"ピョンルーのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Pyonloo"}
+{"id":1514847,"jp":"ピョンルーのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Pyonloo"}
+{"id":1514848,"jp":"ピョンルーのレベルを30にする","fr":"Monter Pyonloo au niveau 30"}
+{"id":1514849,"jp":"ピョンルーのレベルを50にする","fr":"Monter Pyonloo au niveau 50"}
+{"id":1514850,"jp":"ピョンルーのレベルを60にする","fr":"Monter Pyonloo au niveau 60"}
+{"id":1514851,"jp":"ピョンルーのレベルを70にする","fr":"Monter Pyonloo au niveau 70"}
+{"id":1514852,"jp":"ピョンルーのレベルを80にする","fr":"Monter Pyonloo au niveau 80"}
+{"id":1514853,"jp":"ピョンルーのレベルを90にする","fr":"Monter Pyonloo au niveau 90"}
+{"id":1514854,"jp":"ピョンルーのレベルを100にする","fr":"Monter Pyonloo au niveau 100"}
+{"id":1514855,"jp":"ピョンルーの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Pyonloo au rang E"}
+{"id":1514856,"jp":"ピョンルーの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Pyonloo au rang D"}
+{"id":1514857,"jp":"ピョンルーの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Pyonloo au rang C"}
+{"id":1514858,"jp":"ピョンルーの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Pyonloo au rang B"}
+{"id":1514859,"jp":"ピョンルーの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Pyonloo au rang A"}
+{"id":1514860,"jp":"ピョンルーの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Pyonloo au rang S"}
+{"id":1514861,"jp":"フライリーのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Flyly"}
+{"id":1514862,"jp":"フライリーのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Flyly"}
+{"id":1514863,"jp":"フライリーのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Flyly"}
+{"id":1514864,"jp":"フライリーのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Flyly"}
+{"id":1514865,"jp":"フライリーのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Flyly"}
+{"id":1514866,"jp":"フライリーのレベルを30にする","fr":"Monter Flyly au niveau 30"}
+{"id":1514867,"jp":"フライリーのレベルを50にする","fr":"Monter Flyly au niveau 50"}
+{"id":1514868,"jp":"フライリーのレベルを60にする","fr":"Monter Flyly au niveau 60"}
+{"id":1514869,"jp":"フライリーのレベルを70にする","fr":"Monter Flyly au niveau 70"}
+{"id":1514870,"jp":"フライリーのレベルを80にする","fr":"Monter Flyly au niveau 80"}
+{"id":1514871,"jp":"フライリーのレベルを90にする","fr":"Monter Flyly au niveau 90"}
+{"id":1514872,"jp":"フライリーのレベルを100にする","fr":"Monter Flyly au niveau 100"}
+{"id":1514873,"jp":"フライリーの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Flyly au rang E"}
+{"id":1514874,"jp":"フライリーの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Flyly au rang D"}
+{"id":1514875,"jp":"フライリーの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Flyly au rang C"}
+{"id":1514876,"jp":"フライリーの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Flyly au rang B"}
+{"id":1514877,"jp":"フライリーの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Flyly au rang A"}
+{"id":1514878,"jp":"フライリーの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Flyly au rang S"}
+{"id":1514879,"jp":"メテオールのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Staray"}
+{"id":1514880,"jp":"メテオールのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Staray"}
+{"id":1514881,"jp":"メテオールのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Staray"}
+{"id":1514882,"jp":"メテオールのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Staray"}
+{"id":1514883,"jp":"メテオールのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Staray"}
+{"id":1514884,"jp":"メテオールのレベルを30にする","fr":"Monter Staray au niveau 30"}
+{"id":1514885,"jp":"メテオールのレベルを50にする","fr":"Monter Staray au niveau 50"}
+{"id":1514886,"jp":"メテオールのレベルを60にする","fr":"Monter Staray au niveau 60"}
+{"id":1514887,"jp":"メテオールのレベルを70にする","fr":"Monter Staray au niveau 70"}
+{"id":1514888,"jp":"メテオールのレベルを80にする","fr":"Monter Staray au niveau 80"}
+{"id":1514889,"jp":"メテオールのレベルを90にする","fr":"Monter Staray au niveau 90"}
+{"id":1514890,"jp":"メテオールのレベルを100にする","fr":"Monter Staray au niveau 100"}
+{"id":1514891,"jp":"メテオールの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Staray au rang E"}
+{"id":1514892,"jp":"メテオールの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Staray au rang D"}
+{"id":1514893,"jp":"メテオールの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Staray au rang C"}
+{"id":1514894,"jp":"メテオールの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Staray au rang B"}
+{"id":1514895,"jp":"メテオールの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Staray au rang A"}
+{"id":1514896,"jp":"メテオールの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Staray au rang S"}
+{"id":1514897,"jp":"スウィーガのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Sweega"}
+{"id":1514898,"jp":"スウィーガのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Sweega"}
+{"id":1514899,"jp":"スウィーガのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Sweega"}
+{"id":1514900,"jp":"スウィーガのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Sweega"}
+{"id":1514901,"jp":"スウィーガのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Sweega"}
+{"id":1514902,"jp":"スウィーガのレベルを30にする","fr":"Monter Sweega au niveau 30"}
+{"id":1514903,"jp":"スウィーガのレベルを50にする","fr":"Monter Sweega au niveau 50"}
+{"id":1514904,"jp":"スウィーガのレベルを60にする","fr":"Monter Sweega au niveau 60"}
+{"id":1514905,"jp":"スウィーガのレベルを70にする","fr":"Monter Sweega au niveau 70"}
+{"id":1514906,"jp":"スウィーガのレベルを80にする","fr":"Monter Sweega au niveau 80"}
+{"id":1514907,"jp":"スウィーガのレベルを90にする","fr":"Monter Sweega au niveau 90"}
+{"id":1514908,"jp":"スウィーガのレベルを100にする","fr":"Monter Sweega au niveau 100"}
+{"id":1514909,"jp":"スウィーガの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Sweega au rang E"}
+{"id":1514910,"jp":"スウィーガの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Sweega au rang D"}
+{"id":1514911,"jp":"スウィーガの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Sweega au rang C"}
+{"id":1514912,"jp":"スウィーガの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Sweega au rang B"}
+{"id":1514913,"jp":"スウィーガの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Sweega au rang A"}
+{"id":1514914,"jp":"スウィーガの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Sweega au rang S"}
+{"id":1514915,"jp":"ホーミィのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Homy"}
+{"id":1514916,"jp":"ホーミィのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Homy"}
+{"id":1514917,"jp":"ホーミィのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Homy"}
+{"id":1514918,"jp":"ホーミィのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Homy"}
+{"id":1514919,"jp":"ホーミィのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Homy"}
+{"id":1514920,"jp":"ホーミィのレベルを30にする","fr":"Monter Homy au niveau 30"}
+{"id":1514921,"jp":"ホーミィのレベルを50にする","fr":"Monter Homy au niveau 50"}
+{"id":1514922,"jp":"ホーミィのレベルを60にする","fr":"Monter Homy au niveau 60"}
+{"id":1514923,"jp":"ホーミィのレベルを70にする","fr":"Monter Homy au niveau 70"}
+{"id":1514924,"jp":"ホーミィのレベルを80にする","fr":"Monter Homy au niveau 80"}
+{"id":1514925,"jp":"ホーミィのレベルを90にする","fr":"Monter Homy au niveau 90"}
+{"id":1514926,"jp":"ホーミィのレベルを100にする","fr":"Monter Homy au niveau 100"}
+{"id":1514927,"jp":"ホーミィの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Homy au rang E"}
+{"id":1514928,"jp":"ホーミィの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Homy au rang D"}
+{"id":1514929,"jp":"ホーミィの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Homy au rang C"}
+{"id":1514930,"jp":"ホーミィの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Homy au rang B"}
+{"id":1514931,"jp":"ホーミィの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Homy au rang A"}
+{"id":1514932,"jp":"ホーミィの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Homy au rang S"}
+{"id":1514933,"jp":"ワオッキーのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Waokki"}
+{"id":1514934,"jp":"ワオッキーのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Waokki"}
+{"id":1514935,"jp":"ワオッキーのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Waokki"}
+{"id":1514936,"jp":"ワオッキーのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Waokki"}
+{"id":1514937,"jp":"ワオッキーのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Waokki"}
+{"id":1514938,"jp":"ワオッキーのレベルを30にする","fr":"Monter Waokki au niveau 30"}
+{"id":1514939,"jp":"ワオッキーのレベルを50にする","fr":"Monter Waokki au niveau 50"}
+{"id":1514940,"jp":"ワオッキーのレベルを60にする","fr":"Monter Waokki au niveau 60"}
+{"id":1514941,"jp":"ワオッキーのレベルを70にする","fr":"Monter Waokki au niveau 70"}
+{"id":1514942,"jp":"ワオッキーのレベルを80にする","fr":"Monter Waokki au niveau 80"}
+{"id":1514943,"jp":"ワオッキーのレベルを90にする","fr":"Monter Waokki au niveau 90"}
+{"id":1514944,"jp":"ワオッキーのレベルを100にする","fr":"Monter Waokki au niveau 100"}
+{"id":1514945,"jp":"ワオッキーの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Waokki au rang E"}
+{"id":1514946,"jp":"ワオッキーの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Waokki au rang D"}
+{"id":1514947,"jp":"ワオッキーの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Waokki au rang C"}
+{"id":1514948,"jp":"ワオッキーの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Waokki au rang B"}
+{"id":1514949,"jp":"ワオッキーの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Waokki au rang A"}
+{"id":1514950,"jp":"ワオッキーの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Waokki au rang S"}
+{"id":1514951,"jp":"グルマンクのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Gourmank"}
+{"id":1514952,"jp":"グルマンクのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Gourmank"}
+{"id":1514953,"jp":"グルマンクのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Gourmank"}
+{"id":1514954,"jp":"グルマンクのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Gourmank"}
+{"id":1514955,"jp":"グルマンクのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Gourmank"}
+{"id":1514956,"jp":"グルマンクのレベルを30にする","fr":"Monter Gourmank au niveau 30"}
+{"id":1514957,"jp":"グルマンクのレベルを50にする","fr":"Monter Gourmank au niveau 50"}
+{"id":1514958,"jp":"グルマンクのレベルを60にする","fr":"Monter Gourmank au niveau 60"}
+{"id":1514959,"jp":"グルマンクのレベルを70にする","fr":"Monter Gourmank au niveau 70"}
+{"id":1514960,"jp":"グルマンクのレベルを80にする","fr":"Monter Gourmank au niveau 80"}
+{"id":1514961,"jp":"グルマンクのレベルを90にする","fr":"Monter Gourmank au niveau 90"}
+{"id":1514962,"jp":"グルマンクのレベルを100にする","fr":"Monter Gourmank au niveau 100"}
+{"id":1514963,"jp":"グルマンクの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Gourmank au rang E"}
+{"id":1514964,"jp":"グルマンクの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Gourmank au rang D"}
+{"id":1514965,"jp":"グルマンクの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Gourmank au rang C"}
+{"id":1514966,"jp":"グルマンクの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Gourmank au rang B"}
+{"id":1514967,"jp":"グルマンクの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Gourmank au rang A"}
+{"id":1514968,"jp":"グルマンクの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Gourmank au rang S"}
+{"id":1514969,"jp":"ガドリのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Gadori"}
+{"id":1514970,"jp":"ガドリのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Gadori"}
+{"id":1514971,"jp":"ガドリのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Gadori"}
+{"id":1514972,"jp":"ガドリのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Gadori"}
+{"id":1514973,"jp":"ガドリのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Gadori"}
+{"id":1514974,"jp":"ガドリのレベルを30にする","fr":"Monter Gadori au niveau 30"}
+{"id":1514975,"jp":"ガドリのレベルを50にする","fr":"Monter Gadori au niveau 50"}
+{"id":1514976,"jp":"ガドリのレベルを60にする","fr":"Monter Gadori au niveau 60"}
+{"id":1514977,"jp":"ガドリのレベルを70にする","fr":"Monter Gadori au niveau 70"}
+{"id":1514978,"jp":"ガドリのレベルを80にする","fr":"Monter Gadori au niveau 80"}
+{"id":1514979,"jp":"ガドリのレベルを90にする","fr":"Monter Gadori au niveau 90"}
+{"id":1514980,"jp":"ガドリのレベルを100にする","fr":"Monter Gadori au niveau 100"}
 {"id":1514981,"jp":"ガドリの6種の潜在能力をすべてランクEにする","fr":"Faire passer les 6 potentiels de Gadori au rang E"}
+{"id":1514982,"jp":"ガドリの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Gadori au rang D"}
+{"id":1514983,"jp":"ガドリの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Gadori au rang C"}
+{"id":1514984,"jp":"ガドリの6種の潜在能力をすべてランクBにする","fr":"Porter les 6 potentiels de Gadori au rang B"}
+{"id":1514985,"jp":"ガドリの6種の潜在能力をすべてランクAにする","fr":"Porter les 6 potentiels de Gadori au rang A"}
+{"id":1514986,"jp":"ガドリの6種の潜在能力をすべてランクSにする","fr":"Porter les 6 potentiels de Gadori au rang S"}
+{"id":1514987,"jp":"チーキィのアクティブスキルを3回発動する","fr":"Activer 3 fois la compétence active de Cheeky"}
+{"id":1514988,"jp":"チーキィのアクティブスキルを10回発動する","fr":"Activer 10 fois la compétence active de Cheeky"}
+{"id":1514989,"jp":"チーキィのアクティブスキルを15回発動する","fr":"Activer 15 fois la compétence active de Cheeky"}
+{"id":1514990,"jp":"チーキィのアクティブスキルを25回発動する","fr":"Activer 25 fois la compétence active de Cheeky"}
+{"id":1514991,"jp":"チーキィのアクティブスキルを50回発動する","fr":"Activer 50 fois la compétence active de Cheeky"}
+{"id":1514992,"jp":"チーキィのレベルを30にする","fr":"Monter Cheeky au niveau 30"}
+{"id":1514993,"jp":"チーキィのレベルを50にする","fr":"Monter Cheeky au niveau 50"}
+{"id":1514994,"jp":"チーキィのレベルを60にする","fr":"Monter Cheeky au niveau 60"}
+{"id":1514995,"jp":"チーキィのレベルを70にする","fr":"Monter Cheeky au niveau 70"}
+{"id":1514996,"jp":"チーキィのレベルを80にする","fr":"Monter Cheeky au niveau 80"}
+{"id":1514997,"jp":"チーキィのレベルを90にする","fr":"Monter Cheeky au niveau 90"}
+{"id":1514998,"jp":"チーキィのレベルを100にする","fr":"Monter Cheeky au niveau 100"}
+{"id":1514999,"jp":"チーキィの6種の潜在能力をすべてランクEにする","fr":"Porter les 6 potentiels de Cheeky au rang E"}
+{"id":1515000,"jp":"チーキィの6種の潜在能力をすべてランクDにする","fr":"Porter les 6 potentiels de Cheeky au rang D"}
+{"id":1515001,"jp":"チーキィの6種の潜在能力をすべてランクCにする","fr":"Porter les 6 potentiels de Cheeky au rang C"}
 {"id":1515219,"jp":"ニィトールの6種の潜在能力をすべてランクAにする","fr":"Faire passer les 6 potentiels de Neetor au rang A"}
 {"id":1515451,"jp":"モーニャの6種の潜在能力をすべてランクCにする","fr":"Faire passer les 6 potentiels de Monya au rang C"}
 {"id":1515683,"jp":"クロディーメの6種の潜在能力をすべてランクEにする","fr":"Faire passer les 6 potentiels de Clodime au rang E"}
@@ -21705,112 +22605,783 @@
 {"id":1531794,"jp":"手数料は落札された場合のみをいただくので、\nその点はご安心を。","fr":"Nous ne prélevons de commission que si l'objet trouve preneur,\naucune inquiétude à avoir sur ce point."}
 {"id":1531795,"jp":"デイブ","fr":"Dave"}
 {"id":1531796,"jp":"つぎはまったく新しい植物の栽培だな……","fr":"Prochaine étape : cultiver une plante toute nouvelle…"}
+{"id":1531797,"jp":"アエルータのように宙を飛び、\nマンドラゴンのように耳障りな悲鳴を上げ、さらにできれば……","fr":"Une plante qui volerait dans les airs comme une Aeruta,\npousserait des cris à te percer les tympans comme un Mandragon, et, si possible…"}
+{"id":1531798,"jp":"フラムールのように爆発する。\nふむ！それなら間違いなく素晴らしい効果が出る。","fr":"exploserait comme un Flamur.\nHmm ! Là, l'effet serait forcément magnifique."}
 {"id":1531799,"jp":"ちょっと狂ってるね？","fr":"Tu n'es pas un peu fou ?"}
+{"id":1531800,"jp":"狂ってるだと？\nお前の度胸は、俺の末娘のレニーにも及ばないんだな！","fr":"Complètement fou, tu dis ?\nTu as moins de cran que ma petite dernière, Lenny !"}
+{"id":1531801,"jp":"あの娘にこの考えを話したら、大喜びしていたんだ。","fr":"Quand je lui ai parlé de cette idée, elle était ravie."}
+{"id":1531802,"jp":"こんにちは！領主さまを訪ねてきたお客さまでしょうか？","fr":"Bonjour ! Vous venez rendre visite au seigneur ?"}
 {"id":1531803,"jp":"いまは面会できる？","fr":"On peut le voir maintenant ?"}
 {"id":1531804,"jp":"観光に来ただけ。","fr":"Juste en visite touristique."}
+{"id":1531805,"jp":"わかりました。手帳にお客さまの名前があるか確認を……\nあっ、違いました！","fr":"Très bien. Je regarde si votre nom figure dans mon carnet…\nAh, non, ce n'est pas ça !"}
+{"id":1531806,"jp":"コホン、お客さま、少々お待ちを。\nすぐに訪問者名簿を確認して、あなたの情報が登録されているか\n確認してまいります。","fr":"Hem hem. Un petit instant, je vous prie.\nJe vais consulter tout de suite le registre des visiteurs\npour vérifier que vos informations y figurent bien."}
+{"id":1531807,"jp":"どうぞごゆっくりご覧ください～","fr":"Je vous en prie, prenez tout votre temps pour regarder~"}
 {"id":1531808,"jp":"エーファ","fr":"Eva"}
+{"id":1531809,"jp":"こ……こんにちは。\n料理が口に合わなかったら、遠慮なく教えてくれ……","fr":"B… bonjour.\nSi la cuisine n'est pas à ton goût, n'hésite pas à me le dire…"}
+{"id":1531810,"jp":"ペペを入れすぎじゃない？","fr":"Il n'y a pas\ntrop de Pepe\ndedans ?"}
+{"id":1531811,"jp":"お父さんはどうしていないの？","fr":"Pourquoi ton\npère n'est pas là ?"}
+{"id":1531812,"jp":"ふぅ……満足してくれたならよかった。","fr":"Ouf… Tant mieux si ça t'a plu."}
+{"id":1531813,"jp":"見ての通り、僕はシェフとしての経験がすくなくて、\n一人前にはほど遠いから……","fr":"Comme tu vois, je n'ai pas beaucoup d'expérience en cuisine,\net je suis encore loin d'être un vrai chef…"}
+{"id":1531814,"jp":"ぜんぶの料理がこんなふうに作れたら、\nもしかしたら……あっ、ご、ごめん！","fr":"Si j'arrivais à réussir tous mes plats comme ça,\npeut-être que… Ah, d… désolé !"}
+{"id":1531815,"jp":"と、とにかく、認めてくれて本当にありがとう！","fr":"En… enfin bref, merci beaucoup de reconnaître mon travail !"}
+{"id":1531816,"jp":"えっ！？ご、ごめん！つい無意識に……","fr":"Hein !? D… désolé ! J'ai eu la main lourde sans m'en rendre compte…"}
+{"id":1531817,"jp":"あなたの言う通り……ペペの刺激的な香りは、\nすべてのお客さまが受け入れられるわけじゃない。","fr":"Tu as raison… L'arôme piquant du Pepe,\nce n'est pas tous les clients qui l'apprécient."}
+{"id":1531818,"jp":"ぼ……僕はしっかり反省するよ！","fr":"J… je vais sérieusement me remettre en question !"}
+{"id":1531819,"jp":"あの……実は、父はもう歳をとってしまって、\n厨房に立つことができなくなってしまったんだ……","fr":"Eh bien… en fait, mon père a pris de l'âge,\net il ne peut plus tenir les fourneaux…"}
+{"id":1531820,"jp":"だからほとんどの時間は、僕が手伝ってる……","fr":"Alors la plupart du temps, c'est moi qui donne un coup de main…"}
+{"id":1531821,"jp":"僕は小さい頃から父に料理を教わってきたんだ。\nいつかきっと……こ、超えられる！……たぶん。","fr":"Mon père m'apprend à cuisiner depuis que je suis tout petit.\nUn jour, c'est sûr… je le d… dépasserai ! …Enfin, peut-être."}
 {"id":1531822,"jp":"カルロ","fr":"Carlo"}
+{"id":1531823,"jp":"これほど気を揉むことが多いのに、\nどうしてぐっすり眠れるものか……","fr":"Avec tous ces soucis,\ncomment veux-tu que je dorme sur mes deux oreilles…"}
 {"id":1531824,"jp":"幸運を祈る。","fr":"Bonne chance."}
+{"id":1531825,"jp":"ああ、多すぎるほどだ。","fr":"Oh oui, bien trop."}
+{"id":1531826,"jp":"トランゴの貨物輸送の安全問題、店舗の防火・防犯対策問題、\nそれに飛空船の遅延問題……","fr":"La sécurité des convois de marchandises à dos de Trango, la prévention des incendies et des vols dans les boutiques,\net les retards des dirigeables, par-dessus le marché…"}
+{"id":1531827,"jp":"どれかひとつでも問題が起きれば、休む暇もなくなるんだ！","fr":"Qu'un seul de ces problèmes éclate, et je n'ai plus une minute de répit !"}
+{"id":1531828,"jp":"はあ、ありがとう。でも運が役に立つなら、\n毎日こんなに悩むこともないだろうに。","fr":"Ah, merci. Mais si la chance servait à quelque chose,\nje ne me ferais pas autant de souci tous les jours."}
 {"id":1531829,"jp":"アルバート・アクート","fr":"Albert Acuto"}
+{"id":1531830,"jp":"覚えておくがいい。\n世のなか、単独行動は結局損をするのだ。","fr":"Retiens bien ceci.\nEn ce monde, celui qui agit seul finit toujours perdant."}
+{"id":1531831,"jp":"我々の仲間に加わり、ともに栄華を極めないか？","fr":"Pourquoi ne pas rejoindre nos rangs pour atteindre la gloire ensemble ?"}
 {"id":1531832,"jp":"バリー","fr":"Barry"}
+{"id":1531833,"jp":"ボスの意見に賛成だ、俺たちはだれと一緒にやるか好きに選べるし、\n嫌になればすぐに離れられる。最高に自由だ！","fr":"Je suis d'accord avec le boss : on choisit librement avec qui on travaille,\net si on en a assez, on part aussitôt. La liberté totale !"}
 {"id":1531834,"jp":"クライド","fr":"Clyde"}
+{"id":1531835,"jp":"人を雇うなら、うちの団長と話してみよう。","fr":"Si tu veux engager du monde, va parler à notre chef."}
 {"id":1531836,"jp":"きみは彼の部下？","fr":"Tu travailles pour lui ?"}
 {"id":1531837,"jp":"彼は信用できない。","fr":"Je ne peux pas lui faire confiance."}
+{"id":1531838,"jp":"うむ……そうとも言えますね。","fr":"Hmm… On peut voir les choses comme ça."}
+{"id":1531839,"jp":"だが、いまの相場なら、どこに行っても\n食べるために働いてるだけじゃないですか。","fr":"Mais vu les tarifs d'aujourd'hui, où qu'on aille,\non travaille juste pour manger, vous ne trouvez pas ?"}
+{"id":1531840,"jp":"ふっ、それも当然のこと。","fr":"Heh, c'est bien normal."}
+{"id":1531841,"jp":"信頼がそれほど簡単に得られるなら、\n我々の業界で雇用契約を結ぶ必要もないでしょうね。","fr":"Si la confiance s'obtenait si facilement,\non n'aurait pas besoin de contrats d'embauche dans notre métier."}
+{"id":1531842,"jp":"賞金よりも、自分の身の安全と自由のほうが大事だわ。","fr":"Ma sécurité et ma liberté comptent plus que n'importe quelle prime."}
 {"id":1531843,"jp":"ウォリック","fr":"Warwick"}
+{"id":1531844,"jp":"用があるなら、さっさと言ってくれ。","fr":"Si tu veux quelque chose, dis-le vite."}
+{"id":1531845,"jp":"ドッキリ鉱山へ連れて行ってくれない？","fr":"Tu peux m'emmener\nà la mine\nde la Frousse ?"}
 {"id":1531846,"jp":"いや、なんでもない。","fr":"Non, laisse tomber."}
+{"id":1531847,"jp":"鉱山だと？あそこは子どものおままごとの場所じゃないぞ！","fr":"La mine ? C'est pas un terrain de jeu pour les gamins !"}
+{"id":1531848,"jp":"行きたいなら止めはしないが、\nまずは採鉱作業マニュアルを真面目に学んでこい。\nさもないとオレは責任を取れないぞ！","fr":"Si tu veux y aller, je ne t'en empêcherai pas,\nmais commence par étudier sérieusement le manuel d'extraction minière.\nSinon, je ne réponds de rien !"}
+{"id":1531849,"jp":"なんでもない？なら、またな。","fr":"Rien ? Alors à plus."}
 {"id":1531850,"jp":"モルガン","fr":"Morgan"}
+{"id":1531851,"jp":"ようこそ、ようこそ……我が友よ。","fr":"Bienvenue, bienvenue… Entrez donc, entrez."}
+{"id":1531852,"jp":"なにかお求めですか？\nそれとも冒険で得た宝物を売りたいのでしょうか？","fr":"Vous cherchez quelque chose ?\nOu vous voulez vendre des trésors rapportés de vos aventures ?"}
+{"id":1531853,"jp":"ここにはなにがあるの？","fr":"Qu'est-ce que\nvous avez ?"}
+{"id":1531854,"jp":"こっちのものを狙うなよ。","fr":"Pas touche\nà mes affaires."}
+{"id":1531855,"jp":"ああ、それは山ほどありますよ。\n大きいものならロジニア連邦の燃機から、\n小さいものなら祈雲の装飾品まで、なんでも用意できます。","fr":"Oh, j'en ai à revendre.\nDu plus gros, comme les moteurs à combustion de la Fédération de Roginia,\nau plus petit, comme les bijoux de Qiyun, je peux tout vous procurer."}
+{"id":1531856,"jp":"ただ、価格の面では……\n市場の相場よりすこし高くなりますが、ご理解いただけますよね？","fr":"Seulement, côté prix…\nc'est un peu au-dessus du cours du marché, mais vous comprenez, n'est-ce pas ?"}
+{"id":1531857,"jp":"おやおや、そう言わないでくださいよ。","fr":"Allons, allons, ne dites pas ça."}
+{"id":1531858,"jp":"わたしはあくまで行商人で、強盗ではありません。\n持ちつ持たれつの商売をしています。","fr":"Je ne suis qu'un colporteur, pas un brigand.\nMon commerce profite à tout le monde."}
+{"id":1531859,"jp":"考えてみてください。もし本当に違法なことをしていたら、警備隊の目のまえで平然とやっていられると思いますか？","fr":"Réfléchissez. Si je faisais vraiment quelque chose d'illégal, vous croyez que je pourrais m'y livrer tranquillement sous le nez de la garde ?"}
 {"id":1531860,"jp":"フォルカ","fr":"Folka"}
+{"id":1531861,"jp":"時に産業が多すぎるのも悩みの種になる……あなたもそう思わないでしょうか？","fr":"Avoir trop d'affaires, c'est parfois un vrai casse-tête… Vous ne trouvez pas ?"}
+{"id":1531862,"jp":"そういう悩みはないけど。","fr":"Je n'ai pas\nce genre de\nsouci."}
 {"id":1531863,"jp":"気持ちはわかる。","fr":"Je comprends ce que tu ressens."}
+{"id":1531864,"jp":"そうですか？悪気はなかったんですが、失礼をお詫びします。","fr":"Ah bon ? Je ne voulais pas vous offenser, veuillez excuser ma maladresse."}
+{"id":1531865,"jp":"ええ、あなたは大きな家業を持っているように見えますから。","fr":"Oui, c'est que vous avez l'air d'avoir une grande entreprise familiale."}
+{"id":1531866,"jp":"ジャスティスはいつも細々としたことを言ってくるが、僕が彼を雇ったのは、そうした面倒を処理させるためです。","fr":"Justice me rebat toujours les oreilles avec des détails, mais je l'ai engagé justement pour qu'il s'occupe de ce genre de tracas."}
+{"id":1531867,"jp":"期日通りに一族の配当を出せるなら、ほかの問題など全く重要ではないんですからね。","fr":"Tant que les dividendes de la famille sont versés à temps, le reste n'a strictement aucune importance."}
 {"id":1531868,"jp":"ジャスティス","fr":"Justice"}
+{"id":1531869,"jp":"前回の帳簿ですが、そのなかのふたつの項目の計算が……","fr":"Pour le dernier livre de comptes, le calcul de deux de ses postes…"}
+{"id":1531870,"jp":"特別なことのない一日だね。","fr":"Une journée sans rien de spécial."}
+{"id":1531871,"jp":"バーナビーが一番おもしろいと思ったあの探検、僕はすこしもおもしろいとは思わなかったけどね……","fr":"L'expédition que Barnaby trouve la plus amusante ? Moi, je ne l'ai pas trouvée amusante du tout…"}
 {"id":1531872,"jp":"ベルト","fr":"Belt"}
+{"id":1531873,"jp":"シアさんの教えはすべて覚えたわ！頑張る！","fr":"J'ai retenu tout ce que Shia m'a appris ! Je vais faire de mon mieux !"}
 {"id":1531874,"jp":"ピエール","fr":"Pierre"}
+{"id":1531875,"jp":"アマルテイアとセレーシャが、あなたがたを守ってくれるように。","fr":"Qu'Amalthea et Celesha vous protègent."}
+{"id":1531876,"jp":"喜んでお手伝いいたします。","fr":"Avec grand plaisir."}
+{"id":1531877,"jp":"庭の手入れを担当してるの？","fr":"C'est vous qui\nvous occupez\ndu jardin ?"}
+{"id":1531878,"jp":"いまのところ大丈夫だよ。","fr":"Tout va bien\npour l'instant."}
+{"id":1531879,"jp":"その通りでございます。","fr":"C'est exact."}
+{"id":1531880,"jp":"領主さまの評価に応えるため、すべてを整然と管理しなければなりません。","fr":"Pour être digne de la confiance du seigneur, je dois tout tenir dans un ordre parfait."}
+{"id":1531881,"jp":"なにかご要望があれば、いつでも申し付けください。","fr":"Si vous avez besoin de quoi que ce soit, n'hésitez pas à me le demander."}
+{"id":1531882,"jp":"ヘルウェンのような田舎の領主が、こんなに立派だとは思いませんでしたよ。","fr":"Je ne m'attendais pas à trouver une demeure aussi splendide chez un seigneur de province comme Helwen."}
+{"id":1531883,"jp":"ここでそう言うのはちょっと……","fr":"Dire ça ici,\nc'est un peu…"}
+{"id":1531884,"jp":"それがどうした？私は彼らを褒めていますよ。帝国の中心から遠く離れた辺境の地で、これほど立派な構えを用意できて偉いだと思いますよ。","fr":"Et alors ? Je fais leur éloge. Avoir bâti une demeure aussi digne sur une terre reculée, si loin du cœur de l'Empire, c'est admirable, je trouve."}
+{"id":1531885,"jp":"やはりロージア帝国辺境でのあの冒険が一番面白かったな！","fr":"Quand même, c'est l'aventure aux confins de l'Empire de Rosia qui était la plus amusante !"}
 {"id":1531886,"jp":"なにかあった？","fr":"Il s'est passé quelque chose ?"}
+{"id":1531887,"jp":"あのときは、シュネルフの大群に夜中まで追いかけられ、大樹に登ってようやく難を逃れたんだ！","fr":"Ce jour-là, une horde de Schnelf m'a poursuivi jusqu'au milieu de la nuit, et je ne m'en suis tiré qu'en grimpant dans un arbre immense !"}
+{"id":1531888,"jp":"ハッハッハ、あのときの俺は足が震えていて、危うく枝から落ちそうになっていたぞ。","fr":"Hahaha, à ce moment-là, j'avais les jambes qui tremblaient tellement que j'ai failli tomber de la branche !"}
+{"id":1531889,"jp":"覚えておきなさい、私たちが豊穣を讃えるのは、収穫の瞬間の喜びを味わうためだけではないのです。","fr":"Retenez bien ceci : si nous célébrons l'abondance, ce n'est pas seulement pour goûter la joie de l'instant où l'on récolte."}
+{"id":1531890,"jp":"それまでの苦労と耕作こそが、祝福を捧げるに値する事業なのです。","fr":"Ce sont le labeur et les cultures qui la précèdent qui méritent vraiment notre bénédiction."}
+{"id":1531891,"jp":"気安く声をかけないでもらいたい。","fr":"Ne m'adressez pas la parole avec tant de familiarité."}
 {"id":1531892,"jp":"わかった……","fr":"Compris…"}
 {"id":1531893,"jp":"それでいい。","fr":"C'est mieux ainsi."}
+{"id":1531894,"jp":"そなたのまえにいるのは、忠義と名前を失った孤独な亡霊。","fr":"Celui qui se tient devant vous n'est qu'un fantôme solitaire qui a perdu sa loyauté et son nom."}
+{"id":1531895,"jp":"深く関われば、そなたも不幸になるだろう。","fr":"Si vous vous liez trop à moi, le malheur vous frappera aussi."}
+{"id":1531896,"jp":"皆シャルル村の物語に興味津々のようじゃな。ほっほ、嬉しいかぎりじゃ。","fr":"On dirait que l'histoire du Village de Charlulu vous intéresse beaucoup. Ho ho, j'en suis ravi."}
+{"id":1531897,"jp":"……ソザンカさまの加護のもと、我らは百朔をさまよい、苦難を乗り越え……\nついに芽吹の谷へとたどり着き、定住した。","fr":"… Sous la protection de Sozanka, nous avons erré pendant cent lunes, surmonté bien des épreuves…\npour enfin atteindre la Vallée des Bourgeons et nous y établir."}
+{"id":1531898,"jp":"ここは故郷であり、伝承であり、そして未来でもある。","fr":"Cet endroit est notre foyer, notre légende, et aussi notre avenir."}
+{"id":1531899,"jp":"この子か？もう随分長くわしのそばに寄り添ってくれておる。","fr":"Celui-ci ? Il est à mes côtés depuis bien longtemps déjà."}
+{"id":1531900,"jp":"言葉は通じなくとも、心を通わせることができる。\nキボとは本当に奇妙な生きものじゃのう。","fr":"Nous ne parlons pas la même langue, et pourtant nos cœurs se comprennent.\nLes Kibo sont vraiment d'étranges créatures, hein ?"}
+{"id":1531901,"jp":"それに、特性を見つけて育ててやれば……","fr":"Et si tu découvres leurs particularités et que tu les cultives…"}
+{"id":1531902,"jp":"目に見える以上の恩恵をもたらしてくれる。","fr":"ils t'apportent des bienfaits qui dépassent tout ce que l'on voit."}
 {"id":1531903,"jp":"ほっほ……","fr":"Hô hô…"}
+{"id":1531904,"jp":"あれを見たのか、ふむ……","fr":"Tu as vu ça, hmm…"}
+{"id":1531905,"jp":"あれは竜人が残したもので、わしらもなかに入ったことはない。","fr":"Ce sont les Draconiens qui l'ont laissé, et aucun de nous n'y est jamais entré."}
+{"id":1531906,"jp":"あの巨大な建物の以外にも、森のなかには竜王時代の遺物がたくさん散らばっておる。","fr":"En plus de cet immense édifice, la forêt est jonchée de vestiges de l'ère du Roi dragon."}
+{"id":1531907,"jp":"ここは昔、大きな集落だったのかもしれぬな。\n廃墟を見るだけで、かつての壮大な光景が想像できるほどだ。","fr":"Il y avait peut-être autrefois une grande cité, ici.\nRien qu'à voir les ruines, on devine sans peine sa splendeur passée."}
+{"id":1531908,"jp":"ここまで朽ち果てるとは、実に痛ましいことじゃな。","fr":"La voir tombée en ruine à ce point, c'est vraiment navrant."}
+{"id":1531909,"jp":"かの女神のおかげで、シャルル村の皆はここで安らかに暮らせておる。","fr":"C'est grâce à cette déesse que tous les habitants du Village de Charlulu peuvent vivre ici en paix."}
+{"id":1531910,"jp":"女神は静寂を好むようで、公の場に姿を現したことはなく、\nシャルル村の皆も邪魔をすることはない。","fr":"La déesse semble aimer le calme, elle ne s'est jamais montrée en public,\net personne au Village de Charlulu ne vient la déranger."}
+{"id":1531911,"jp":"たまに深い森で迷った者がいるが、女神の恩恵を受けて、村へ帰ることができたそうじゃ。","fr":"Il arrive que des gens se perdent au fond des bois, mais on dit que, par la grâce de la déesse, ils ont pu rentrer au village."}
+{"id":1531912,"jp":"彼らの話では、とても慈愛に満ちた女神で、その顔を見るだけで森の生命力を感じられるらしい。","fr":"D'après eux, c'est une déesse pleine de bonté, et rien qu'en voyant son visage, on sent la force vitale de la forêt."}
+{"id":1531913,"jp":"……最近どうしておるかのう？","fr":"… Je me demande comment elle va, ces temps-ci ?"}
+{"id":1531914,"jp":"今回の一件で、シャルル村と風隠れ岩で百朔近く続いた\nわだかまりもようやく消えて、結束することができた。","fr":"Grâce à cette affaire, la rancœur qui durait depuis près de cent lunes entre le Village de Charlulu\net le Roc Coupe-Vent s'est enfin dissipée, et nous avons pu nous unir."}
+{"id":1531915,"jp":"星臨者よ、心配はいらんぞ。\n芽吹の谷の未来については<ruby=ホークガル>鷹主</ruby>とよく話し合うつもりだ。","fr":"Ne t'en fais pas, Enfant des étoiles.\nJ'ai bien l'intention de discuter de l'avenir de la Vallée des Bourgeons avec le Seigneur Faucon."}
+{"id":1531916,"jp":"つぎは、おぬしが旅に出る番じゃな、ほっほ……","fr":"Maintenant, c'est à ton tour de prendre la route, ho ho…"}
+{"id":1531917,"jp":"わしが若かった頃のように、あちこちを旅して……","fr":"Comme moi quand j'étais jeune, à voyager de-ci de-là…"}
+{"id":1531918,"jp":"（村長がまた長話をはじめそう。とりあえずここを離れよう……）","fr":"(Le Chef du village va encore se lancer dans une de ses longues histoires. Éclipsons-nous pour l'instant…)"}
+{"id":1531919,"jp":"貝殻を通貨にするのは、そんなにめずらしいことなの？","fr":"Des coquillages comme monnaie, c'est si rare que ça ?"}
+{"id":1531920,"jp":"この貝殻は土のなかから掘り出されたもので、\n耳に当てると、ザザーって音が聞こえるんだって。","fr":"Ces coquillages ont été déterrés du sol,\net il paraît que si on en colle un contre son oreille, on entend un « chhh »."}
+{"id":1531921,"jp":"村長は、それが海の声だって言ってた。","fr":"Le Chef du village dit que c'est la voix de la mer."}
+{"id":1531922,"jp":"海ってどんなもの？だれが貝殻を土に埋めたの？","fr":"C'est quoi, la mer ? Et qui a enterré les coquillages dans le sol ?"}
+{"id":1531923,"jp":"星臨者は心配になったりしない？","fr":"Ça ne t'inquiète jamais, Enfant des étoiles ?"}
+{"id":1531924,"jp":"カルマーナは芽吹の谷のエネルギーの源。\nなのに、こんなにも堂々と谷に立ってる。","fr":"Karmana, c'est la source d'énergie de la Vallée des Bourgeons.\nEt pourtant, tout est là, à découvert, au beau milieu de la vallée."}
+{"id":1531925,"jp":"周囲に柵がないだけじゃなくて、見張りすら置かれてない。","fr":"Il n'y a même pas de clôture autour, ni le moindre garde."}
+{"id":1531926,"jp":"もし悪者に狙われたら、\n私たち、大変なことになるじゃないかって……","fr":"Si des malfaiteurs s'y attaquaient,\non serait dans un sacré pétrin, non… ?"}
+{"id":1531927,"jp":"こうしたらどうかな？\n私たちひとりひとりが小分けにして、\nだれにも見つからない場所へ隠しておくとか……","fr":"Et si on faisait comme ça ?\nChacun de nous en prendrait un petit bout\net irait le cacher là où personne ne le trouvera…"}
+{"id":1531928,"jp":"たとえば――村長の帽子のなかとかね！\nそうすれば、悪いやつに壊されることもないし！どう？","fr":"Par exemple… dans le chapeau du Chef du village !\nComme ça, aucun méchant ne pourra rien casser ! Qu'est-ce que t'en dis ?"}
+{"id":1531929,"jp":"ティナナが言っていたんです……\n星臨者さんが……木材をたくさん集めるのを手伝ってくれたって……","fr":"Tinana m'a dit…\nque vous l'aviez aidée… à ramasser beaucoup de bois…"}
+{"id":1531930,"jp":"ありがとうございます……","fr":"Merci beaucoup…"}
+{"id":1531931,"jp":"わたしの彫刻の技術は……ご先祖さまから伝わるもので、\n母の母の母の母の時代から、うちは彫刻をなりわいにしています。","fr":"Mon talent de sculptrice… me vient de mes ancêtres :\ndepuis l'époque de la mère de la mère de la mère de ma mère, ma famille vit de la sculpture."}
+{"id":1531932,"jp":"いまも、村にはわたしのご先祖さまが彫った木彫りがあって……\nこの村の歴史を記録しているんです……","fr":"Aujourd'hui encore, il y a au village des sculptures sur bois faites par mes ancêtres…\nqui gardent la mémoire de l'histoire du village…"}
+{"id":1531933,"jp":"そしていまは……わたしも記録者のひとりになりました……","fr":"Et maintenant… je suis devenue, moi aussi, l'une de celles qui la consignent…"}
+{"id":1531934,"jp":"星臨者さん、あれは未完成品なんかじゃないんですよ……","fr":"Enfant des étoiles, ces sculptures ne sont pas inachevées, vous savez…"}
+{"id":1531935,"jp":"あれは罪を犯した先祖の木彫りです。\nわたしたちの風習では、目鼻を彫ることは許されないんです……","fr":"Ce sont des sculptures d'ancêtres qui ont commis des fautes.\nChez nous, la coutume interdit de leur sculpter les yeux et le nez…"}
+{"id":1531936,"jp":"彼らがアウラの原初の姿に還り、\n再びソザンカさまの導きを受けられるよう願って……","fr":"Dans l'espoir qu'ils retournent à la forme originelle de l'Aura\net puissent de nouveau être guidés par Sozanka…"}
+{"id":1531937,"jp":"もしかしたら……彼らが心を改めれば、\nソザンカさまが目鼻立ちを彫ってくださるかもしれません……","fr":"Peut-être que… s'ils se repentent,\nSozanka leur sculptera lui-même les traits du visage…"}
+{"id":1531938,"jp":"タナの火祭りと言えばさ、おもしろいことを思い出したんだ。","fr":"En parlant de la fête du feu de Tana, ça me rappelle un truc marrant."}
+{"id":1531939,"jp":"シャルル村の掟では、タナが満ちる夜に\n他人のお尻を蹴ることは厳しく禁じられてる。","fr":"D'après les règles du Village de Charlulu, la nuit où Tana est pleine,\nil est strictement interdit de botter les fesses de quelqu'un."}
+{"id":1531940,"jp":"でも、それ以外の時なら蹴ってもいいってわけじゃないんだ。","fr":"Mais ça ne veut pas dire qu'on peut le faire le reste du temps."}
+{"id":1531941,"jp":"なぜかって？10倍の力で蹴り返されるからだよ！\nそれに比べれば、村長の『お仕置き』なんて、痛くも痒くもない。","fr":"Pourquoi ? Parce qu'on te le rend dix fois plus fort !\nÀ côté de ça, la « punition » du Chef du village, ça ne fait même pas mal."}
+{"id":1531942,"jp":"忠告しなかったとは言わせないからな。","fr":"Tu ne pourras pas dire que je ne t'ai rien dit !"}
+{"id":1531943,"jp":"この店の立地、すごくいいだろ？\nボクの父の父の父が選び抜いた場所なんだ。","fr":"Elle est super bien placée, ma boutique, hein ?\nC'est le père du père de mon père qui a choisi cet emplacement avec soin."}
+{"id":1531944,"jp":"交換したがるヤツもいるけど、絶対に交換しないよ。\n息子の息子の息子へと受け継いでいくんだ……","fr":"Il y en a qui voudraient me l'échanger, mais jamais je ne l'échangerai.\nElle passera au fils du fils de mon fils…"}
+{"id":1531945,"jp":"でも、ほかのヤツと違うのはさ、\nボクのご先祖さまが商人だったかどうか、よくわからないところなんだ。","fr":"Mais ce qui me distingue des autres,\nc'est que je ne sais pas trop si mon ancêtre était marchand."}
+{"id":1531946,"jp":"凶獣に襲われた子どもたちを守るために、\n道半ばで命を落としたらしいんだけど……","fr":"Il paraît qu'il est mort en chemin,\nen protégeant des enfants attaqués par des Bêtes maudites…"}
+{"id":1531947,"jp":"へへっ、でも大丈夫だよ、ご先祖さま！\n子孫は無事に芽吹の谷へとたどり着いたんだから！","fr":"Hé hé, mais t'en fais pas, l'ancêtre !\nTes descendants sont bien arrivés dans la Vallée des Bourgeons !"}
+{"id":1531948,"jp":"貝殻をたくさん稼げるよう、ボクを見守っていてくれ……！","fr":"Veille sur moi pour que je gagne plein de coquillages… !"}
+{"id":1531949,"jp":"ああ！あの子にもう会ったのか。\nあの子と仲良くしてやってくれよ。","fr":"Ah ! Tu l'as déjà rencontrée ?\nPrends bien soin d'elle, d'accord ?"}
+{"id":1531950,"jp":"ん？まだ気づいてなかったのか？\nカタルは俺の同族なんだ、ハハハ！","fr":"Hm ? Tu ne l'avais pas encore remarqué ?\nKatalua est de la même tribu que moi, hahaha !"}
+{"id":1531951,"jp":"村の者は皆、騒々しいザンバの末裔の俺たちのなかに\nカタルみたいば内気な子がいるのを不思議がっているがな。","fr":"Au village, tout le monde trouve étrange qu'une enfant aussi timide que Katalua\nsoit née parmi nous, les bruyants descendants de Zamba."}
+{"id":1531952,"jp":"だが、あの子が持ってる代々伝わる盾こそ、\nその実力の証さ。","fr":"Mais le bouclier qu'elle porte, transmis de génération en génération,\nest la preuve de sa vraie valeur."}
+{"id":1531953,"jp":"見た目で見くびると、痛い目を見るぞ。","fr":"Si tu la sous-estimes à cause de son allure, tu le regretteras."}
+{"id":1531954,"jp":"ハッハッハ！俺たち獣人の歴史を知らなければ、この言葉を聞いて奇妙に思うのも無理はない！","fr":"Hahaha ! Si tu ne connais pas l'histoire de nous autres Furriens, normal que cette expression te paraisse bizarre !"}
+{"id":1531955,"jp":"俺たちの伝説では、ソザンカは偉大なシャーマンだった。世界をよりよく理解するため、自分の足であらゆる土地を感じ取ろうと決めたんだ。","fr":"Dans nos légendes, Sozanka était un grand chamane. Pour mieux comprendre le monde, il avait décidé d'aller sentir chaque terre de ses propres pieds."}
+{"id":1531956,"jp":"そこで彼は旅立ったが、彼のローブはとても長くてな。芽吹の谷を離れてから一日一晩たっても、まだローブの裾が見えてた。","fr":"Alors il est parti, mais sa robe était si longue qu'un jour et une nuit après son départ de la Vallée des Bourgeons, on en voyait encore le bas."}
+{"id":1531957,"jp":"「そんなに長いんだ！」と、みんな口々に驚いた。","fr":"« Elle est si longue que ça ! » s'écriaient les gens, ébahis."}
+{"id":1531958,"jp":"だから俺たちは、『ソザンカのローブ』で驚きの気持ちを表すんだ。おもしろいだろう！","fr":"Voilà pourquoi on dit « Par la robe de Sozanka » quand on est étonné. Marrant, hein !"}
+{"id":1531959,"jp":"私が身につけているのは、翼人に代々伝わる知恵なの。\nこれで同胞たちを守れたらと思ってるわ。","fr":"Ce que je porte en moi, c'est un savoir que les Ailés se transmettent depuis des générations.\nJ'espère qu'il me permettra de protéger les miens."}
+{"id":1531960,"jp":"翼人にもシャーマンがいるの？","fr":"Les Ailés\nont aussi\ndes chamanes ?"}
+{"id":1531961,"jp":"鷹神さまを信仰してるよね。","fr":"Tu vénères\nle dieu Faucon,\nhein ?"}
+{"id":1531962,"jp":"見てのとおりよ。私の務めもまた、同胞たちを癒すことなの。","fr":"Comme tu le vois. Ma mission à moi aussi, c'est de soigner les miens."}
+{"id":1531963,"jp":"シャルル村のシャーマンは薬の調合がとても得意だと聞いているわ。\n機会があれば、ぜひ彼女と交流してみたいわね……","fr":"On m'a dit que la chamane du Village de Charlulu était très douée pour préparer les remèdes.\nSi l'occasion se présente, j'aimerais beaucoup échanger avec elle…"}
+{"id":1531964,"jp":"私はまだ……同世代のシャーマンに会ったことがないから。","fr":"Je n'ai encore jamais… rencontré de chamane de mon âge."}
+{"id":1531965,"jp":"そう。私たちは風隠れ岩の最も高い峰を、鷹神さまに捧げたの。","fr":"Oui. Nous avons consacré le plus haut sommet du Roc Coupe-Vent au dieu Faucon."}
+{"id":1531966,"jp":"そのご加護があってこそ、翼人は果てしない空を翔けられるというわけ。","fr":"C'est grâce à sa protection que les Ailés peuvent voler dans le ciel infini."}
+{"id":1531967,"jp":"鷹神さまはもう長いこと姿を現していないけど、\n私たちはずっと、鷹神さまに静かに見守られていると信じているわ。","fr":"Le dieu Faucon ne s'est plus montré depuis longtemps,\nmais nous croyons qu'il veille toujours sur nous en silence."}
+{"id":1531968,"jp":"森に吹く風は、ときに鷹神さまのささやきとなる。\n私は翼のかすかな震えで、それを聞いているの。","fr":"Le vent qui souffle dans la forêt devient parfois le murmure du dieu Faucon.\nJe l'entends au léger frémissement de mes ailes."}
+{"id":1531969,"jp":"鷹神を信仰しているんだね。","fr":"Alors tu vénères\nle dieu Faucon."}
+{"id":1531970,"jp":"食物繊維？なんだそりゃ。","fr":"Des fibres ? C'est quoi, ce truc ?"}
+{"id":1531971,"jp":"でもこの前、お前の提案を聞いて、\nお前が育てた野菜で炙り肉を包んで食べてみてから……","fr":"Mais l'autre jour, j'ai suivi ton conseil :\nj'ai enroulé de la viande grillée dans les légumes que tu cultives…"}
+{"id":1531972,"jp":"たしかに腹の調子がずいぶんよくなったな！","fr":"Et c'est vrai que mon ventre va beaucoup mieux !"}
+{"id":1531973,"jp":"なんで、いままで畑仕事をしようと思わなかったんだろうな？","fr":"Comment ça se fait que je n'aie jamais pensé aux travaux des champs avant ?"}
+{"id":1531974,"jp":"それはもちろん俺の炙り肉のおかげだ！\n俺の炙り肉ははやくてうまい、村の一日分の食糧を賄えるぞ。","fr":"Ça, c'est grâce à ma viande grillée, bien sûr !\nMa viande grillée, c'est rapide et délicieux, de quoi nourrir tout le village pendant une journée."}
+{"id":1531975,"jp":"だけどな、ずっと火のそばにいなきゃいけなくて、\n暑くてたまらなかったんだ。","fr":"Mais il fallait que je reste près du feu tout le temps,\net la chaleur était insupportable."}
+{"id":1531976,"jp":"お前が畑仕事をはじめてくれたおかげで、ずいぶん楽になった。","fr":"Depuis que tu cultives les champs, ça me soulage bien."}
+{"id":1531977,"jp":"空いた時間で、いろんな料理も研究できるからな！","fr":"Avec le temps libre, je peux étudier toutes sortes de plats !"}
+{"id":1531978,"jp":"このさき、俺の得意料理がなんになるか、\n楽しみにしてろよ！","fr":"Attends un peu de voir\nquelle sera ma prochaine spécialité !"}
+{"id":1531979,"jp":"俺たちは<ruby=ホークガル>鷹主</ruby>が誇る翼衛戦士だ。風隠れ岩は俺たちが守る。","fr":"Nous sommes les guerriers de la Garde ailée, la fierté du Seigneur Faucon. C'est nous qui protégeons le Roc Coupe-Vent."}
 {"id":1531980,"jp":"鷹神翼衛について……","fr":"À propos de l'Aile du dieu Faucon…"}
 {"id":1531981,"jp":"なにか助言はある？","fr":"Un conseil ?"}
+{"id":1531982,"jp":"俺が率いる民兵隊は、風隠れ岩を守る重要な武装戦力だ。","fr":"La milice que je dirige est la principale force armée qui défend le Roc Coupe-Vent."}
+{"id":1531983,"jp":"相手が狂ったキボであれ、凶獣であれ、さらには……侵入者であれ、奴らを撃退できる自信がある。","fr":"Kibo devenus fous, Bêtes maudites, voire… intrus : je suis sûr de pouvoir les repousser."}
+{"id":1531984,"jp":"シャルル村にも民兵隊があると聞いた。もし時間さえあれば、ぜひ一度手合わせしてみたいものだ。","fr":"On m'a dit que le Village de Charlulu avait aussi une milice. Si j'en ai le temps un jour, j'aimerais bien me mesurer à eux."}
+{"id":1531985,"jp":"もし真夜中に山で道に迷ったら、あの光る大きなキノコをたどるといい。風隠れ岩に戻ってこられる。","fr":"Si tu te perds dans la montagne en pleine nuit, suis ces grands champignons lumineux. Ils te ramèneront au Roc Coupe-Vent."}
+{"id":1531986,"jp":"あれはソードタケだ。山道を歩く者のために、俺たちが植えたものだ。","fr":"Ce sont des Épéchampis. Nous les avons plantés pour ceux qui marchent sur les sentiers de montagne."}
+{"id":1531987,"jp":"たとえ空を翔けられなくても、彼らは俺たちの大切な同胞だ。","fr":"Même s'ils ne peuvent pas voler, ils restent des nôtres, et nous tenons à eux."}
+{"id":1531988,"jp":"<ruby=ホークガル>鷹主</ruby>とは、日々の振る舞いが非の打ちどころなく、\n戦士たちの完璧な手本でもある存在です。","fr":"Le Seigneur Faucon a une conduite irréprochable au quotidien,\net c'est un modèle parfait pour les guerriers."}
+{"id":1531989,"jp":"隊員の戦闘訓練はどうやってるの？","fr":"Comment entraînez-vous\nvos troupes\nau combat ?"}
+{"id":1531990,"jp":"なんだか楽しそうだね。","fr":"Vous avez l'air\nde vous amuser."}
+{"id":1531991,"jp":"戦闘に関しては、隊員たちに翼人の強みと弱みを十分に理解させるようにしています。","fr":"Au combat, je veille à ce que mes hommes comprennent bien les forces et les faiblesses des Ailés."}
+{"id":1531992,"jp":"閉鎖的で雑然とした場所を避け、\n短時間かつ最小限の犠牲で最高の戦果を挙げること。","fr":"Éviter les endroits fermés et encombrés,\net obtenir les meilleurs résultats en peu de temps, avec le moins de pertes possible."}
+{"id":1531993,"jp":"これは私たちの血に流れる本能であり、\n先人たちが百朔にわたり奮戦して積み重ねてきた経験でもあります。","fr":"C'est un instinct qui coule dans nos veines,\net aussi l'expérience accumulée par nos aînés au fil de cent lunes de durs combats."}
+{"id":1531994,"jp":"シャルル村のあの子、彫刻の腕前がとても精巧なんですよね。","fr":"La petite du Village de Charlulu sculpte avec une finesse remarquable."}
+{"id":1531995,"jp":"ほら、この姿勢、この表情、あと翼の細部を……","fr":"Regardez, cette pose, cette expression, et les détails des ailes…"}
+{"id":1531996,"jp":"あまりにも生き生きとしています……まるで小さくなった<ruby=ホークガル>鷹主</ruby>みたいですね。","fr":"C'est d'un réalisme… On dirait le Seigneur Faucon en miniature."}
+{"id":1531997,"jp":"今回届いたのは、空を飛ぶ<ruby=ホークガル>鷹主</ruby>、演説中の鷹主、戦闘中の鷹主、眠りにつく鷹主……","fr":"Dans cette livraison, il y a le Seigneur Faucon en vol, le Seigneur Faucon en plein discours, le Seigneur Faucon au combat, le Seigneur Faucon endormi…"}
 {"id":1531998,"jp":"本当に楽しみです……","fr":"J'ai hâte, vraiment…"}
+{"id":1531999,"jp":"戦闘に関しては、隊員たちに翼人の強みと弱みを\n十分に理解させるようにしています。","fr":"Au combat, je veille à ce que mes hommes comprennent bien\nles forces et les faiblesses des Ailés."}
+{"id":1532000,"jp":"閉鎖的で雑然とした場所を避け、\n短期決戦かつ最小限の犠牲で最高の戦果を挙げること。","fr":"Éviter les endroits fermés et encombrés,\net obtenir les meilleurs résultats par une bataille éclair, avec le moins de pertes possible."}
+{"id":1532001,"jp":"これは私たちの血に流れる本能であり、\n先達の百朔にわたる戦いから、得られた経験でもあります。","fr":"C'est un instinct qui coule dans nos veines,\net aussi l'expérience que nos aînés ont tirée de cent lunes de combats."}
+{"id":1532002,"jp":"久しぶりだ、イェクウ。\n鷹神が、君に風を追う力を授けんことを。","fr":"Ça faisait longtemps, Yekuu.\nQue le dieu Faucon t'accorde la force de poursuivre le vent."}
+{"id":1532003,"jp":"「鷹主」になる要領は……","fr":"Pour devenir « Seigneur Faucon », il faut…"}
+{"id":1532004,"jp":"パモーラについて話してもいい？","fr":"On peut parler\nde Pamora ?"}
 {"id":1532005,"jp":"翼人の成人式は……","fr":"La cérémonie de passage à l'âge adulte des Ailés, c'est…"}
 {"id":1532006,"jp":"先代の「鷹主」は……","fr":"Le précédent « Seigneur Faucon »…"}
+{"id":1532007,"jp":"長老たちのほうは大丈夫？","fr":"Les anciens,\nça va aller ?"}
+{"id":1532008,"jp":"……不屈な心、強靭な羽翼、熟練した戦技、高き空の領地への深い理解……","fr":"… Un cœur indomptable, des ailes robustes, une grande maîtrise du combat, une profonde connaissance de notre domaine dans les hauteurs du ciel…"}
+{"id":1532009,"jp":"どれも重要だが、根本ではない。","fr":"Tout cela compte, mais ce n'est pas l'essentiel."}
+{"id":1532010,"jp":"災いが訪れ、すべての者が君を見つめるとき、心にあるのが戦うことなのか、それとも一族の安否なのか。","fr":"Quand le malheur frappe et que tous les regards se tournent vers toi, qu'y a-t-il dans ton cœur : le combat, ou la sécurité de ton clan ?"}
+{"id":1532011,"jp":"<ruby=ホークガル>鷹主</ruby>になる要領とは、決してどれほど高く飛べるか、どれほど長く戦えるかではない……","fr":"Pour devenir Seigneur Faucon, ce qui compte n'est jamais la hauteur de ton vol, ni la durée de tes combats…"}
+{"id":1532012,"jp":"一族を守る決意が、どれほど固いかだ。","fr":"C'est la fermeté de ta résolution à protéger le clan."}
+{"id":1532013,"jp":"この子のことか？これほど気性の荒いスカイホークは見たことがない。","fr":"Tu parles d'elle ? Je n'ai jamais vu de Skyhawk au tempérament aussi farouche."}
+{"id":1532014,"jp":"その骨の髄まで染みついた野性が、だれよりも強く自由を追い求めさせている。","fr":"Cette sauvagerie qui l'imprègne jusqu'à la moelle la pousse à rechercher la liberté plus ardemment que quiconque."}
+{"id":1532015,"jp":"どれほど激しい嵐でも、この子を止められない。むしろ、さらに意気込みを掻き立てるだけだ。","fr":"Aucune tempête, aussi violente soit-elle, ne peut l'arrêter. Au contraire, ça ne fait qu'attiser son ardeur."}
+{"id":1532016,"jp":"とはいえ、この子の安全を思うと、あまり限界に挑むことを楽しみすぎるのは望ましくない。","fr":"Cela dit, pour sa sécurité, il vaudrait mieux qu'elle ne prenne pas trop de plaisir à repousser ses limites."}
+{"id":1532017,"jp":"もし本当にひどい傷を負ってしまったら、世話できるのは私だけだ。ほかの者は皆、この子に……","fr":"Si un jour elle était gravement blessée, je serais le seul à pouvoir la soigner. Tous les autres, elle les…"}
+{"id":1532018,"jp":"ああ、いまはそうとも限らないか……星臨者、君ならやってみられるかもしれない。","fr":"Ah, ce n'est peut-être plus tout à fait vrai… Enfant des étoiles, toi, tu pourrais peut-être essayer."}
+{"id":1532019,"jp":"あくまで試してみてもいいと言っているだけだが。","fr":"Je dis seulement que tu peux essayer, rien de plus."}
+{"id":1532020,"jp":"翼人は生まれつき飛べるわけではない。我々も体系的な訓練を受ける必要がある。","fr":"Les Ailés ne naissent pas en sachant voler. Nous aussi, nous devons suivre un entraînement rigoureux."}
+{"id":1532021,"jp":"空への恐怖を克服し、豊かで強靭な翼を誇りに思い、鷹ような鋭い視力を磨き上げ、鷹神さまに己の決意を証明してはじめて、我らは受練者を一人前の翼人と認める。","fr":"Il faut vaincre sa peur du ciel, être fier d'ailes fournies et robustes, aiguiser une vue perçante comme celle du faucon et prouver sa détermination au dieu Faucon : alors seulement, nous reconnaissons l'apprenti comme un Ailé à part entière."}
+{"id":1532022,"jp":"ミィティは、ずっと最初の段階でつまずいていたため……","fr":"Mitty, elle, n'arrivait pas à passer la toute première étape…"}
+{"id":1532023,"jp":"だが、もうそんなことで彼女を縛ることはできない。","fr":"Mais ce genre de chose ne peut plus l'entraver."}
+{"id":1532024,"jp":"どうした、星臨者。君も我々に認められたいのか？","fr":"Qu'y a-t-il, Enfant des étoiles ? Toi aussi, tu veux obtenir notre reconnaissance ?"}
+{"id":1532025,"jp":"そうだ。ミィティは私の師匠の娘だ。君も気づいたはず、あの子には無限の可能性が秘められていることに。","fr":"Oui. Mitty est la fille de mon maître. Tu l'as sûrement remarqué toi aussi : cette petite renferme un potentiel sans limites."}
+{"id":1532026,"jp":"師の後継者として、私は常に、師のような優れた指導者であらねばならないと自分に課してきた。","fr":"En tant que successeur de mon maître, je me suis toujours imposé d'être un guide aussi remarquable que lui."}
+{"id":1532027,"jp":"風隠れ岩により広い未来をもたらすだけでなく、ミィティを抜きん出た翼人に育て上げなければならない。","fr":"Je dois non seulement ouvrir un avenir plus vaste au Roc Coupe-Vent, mais aussi faire de Mitty une Ailée d'exception."}
+{"id":1532028,"jp":"師の魂は風の音のなかで、すべてを聞き取っている。いつか会うとき、胸に恥じるものを抱えていたくはない。","fr":"L'âme de mon maître entend tout dans le bruit du vent. Le jour où je le retrouverai, je ne veux rien avoir dont je doive rougir."}
+{"id":1532029,"jp":"あまり心配しなくていい。長老たちはただ、しばらく冷静に考える時間が必要なだけだ。","fr":"Ne t'inquiète pas trop. Les anciens ont simplement besoin d'un peu de temps pour réfléchir à tête reposée."}
+{"id":1532030,"jp":"彼らは我々の一族で最も徳の高く尊敬されている者たちだ。そして多くの若者が幼子から一人前の翼人戦士へと成長する姿を見守ってきた、皆の大家長でもある。","fr":"Ce sont les membres les plus vertueux et les plus respectés de notre clan. Ce sont aussi les patriarches de nous tous, eux qui ont vu bien des jeunes passer de l'enfance au rang de guerriers ailés accomplis."}
+{"id":1532031,"jp":"反対は一時的なものに過ぎないと信じている。彼らは自分たちの経験に頼りすぎているだけだ。","fr":"Je suis convaincu que leur opposition n'est que passagère. Ils se fient simplement trop à leur propre expérience."}
+{"id":1532032,"jp":"時間を与えれば、一族にとって最善の決断をしてくれるだろう。","fr":"Si on leur laisse du temps, ils prendront la meilleure décision pour le clan."}
 {"id":1532033,"jp":"長老たちは大丈夫？","fr":"Les anciens vont bien ?"}
+{"id":1532034,"jp":"あまり心配しなくていい。\n長老たちはただ、しばらく冷静に考える時間が必要なだけだ。","fr":"Ne t'inquiète pas trop.\nLes anciens ont simplement besoin d'un peu de temps pour réfléchir à tête reposée."}
+{"id":1532035,"jp":"彼らは我々の一族で最も徳の高く尊敬されている者たちだ。\nそして多くの若者が幼子から一人前の翼人戦士へと\n成長する姿を見守ってきた、皆の大家長でもある。","fr":"Ce sont les membres les plus vertueux et les plus respectés de notre clan.\nCe sont aussi les patriarches de nous tous, eux qui ont vu bien des jeunes\npasser de l'enfance au rang de guerriers ailés accomplis."}
+{"id":1532036,"jp":"反対は一時的なものに過ぎないと信じている。\n彼らは自分たちの経験に頼りすぎているだけだ。","fr":"Je suis convaincu que leur opposition n'est que passagère.\nIls se fient simplement trop à leur propre expérience."}
+{"id":1532037,"jp":"フリス冒険者ギルドへようこそ！\n依頼を受けるなら、こっちで手続きしてにゃ～","fr":"Bienvenue à la Guilde des aventuriers de Fleece !\nSi tu veux prendre une mission, c'est ici qu'on s'occupe des formalités, nya~"}
+{"id":1532038,"jp":"それから、キボファイト関連の依頼も、\nここで受け付けてるよ！","fr":"Et les missions liées au Duel de Kibo,\nc'est aussi ici que ça se passe !"}
+{"id":1532039,"jp":"いろんなファイターに挑んで、\nキボファイトを思いっきり楽しんでね～","fr":"Défie toutes sortes de duellistes\net profite à fond du Duel de Kibo~"}
+{"id":1532040,"jp":"あんなことがあったけど……\nこういうときこそ元気を出して、すこしでもみんなを助けなきゃ。","fr":"Après ce qui s'est passé…\nc'est justement dans ces moments-là qu'il faut garder le moral et aider tout le monde, même un peu."}
+{"id":1532041,"jp":"あっ！フリス冒険者ギルドへようこそ！\n住民の依頼を受ける？それとも、キボファイトに挑戦するかにゃ？","fr":"Ah ! Bienvenue à la Guilde des aventuriers de Fleece !\nTu veux accepter une mission d'un habitant ? Ou te lancer dans un Duel de Kibo, nya ?"}
+{"id":1532042,"jp":"フリス冒険者ギルドへようこそ！\n住民の依頼を受ける？それとも、キボファイトに挑戦するかにゃ？","fr":"Bienvenue à la Guilde des aventuriers de Fleece !\nTu veux accepter une mission d'un habitant ? Ou te lancer dans un Duel de Kibo, nya ?"}
+{"id":1532043,"jp":"こんにちは。なにかお手伝いできることはあるかしら？","fr":"Bonjour. Je peux vous aider en quelque chose ?"}
+{"id":1532044,"jp":"療養院では、キボも治療するの？","fr":"Vous soignez\naussi les Kibo\nau sanatorium ?"}
 {"id":1532045,"jp":"テララは、どうかな？","fr":"Et Terara, comment va-t-elle ?"}
+{"id":1532046,"jp":"ええ。キボはみんなのお友達だから、\nここでも治療や療養を受け付けているのよ。","fr":"Oui. Les Kibo sont les amis de tout le monde,\nalors nous les accueillons ici aussi, pour des soins et du repos."}
+{"id":1532047,"jp":"でも最近、キボが突然暴走して怪我をする事件が増えていて、\nベッドがすこし足りなくなってきたわ……","fr":"Mais ces derniers temps, il y a de plus en plus de Kibo qui deviennent soudain incontrôlables et se blessent,\net nous commençons à manquer de lits…"}
+{"id":1532048,"jp":"役に立てるのは嬉しいけれど、やっぱりみんなが無事で、\n怪我をせずにいてくれるのが一番ね。","fr":"Je suis contente de pouvoir aider, mais ce que je préfère, au fond,\nc'est que tout le monde reste sain et sauf."}
+{"id":1532049,"jp":"テララ？親切で力持ちだから、人手不足の療養院には大助かりよ！","fr":"Terara ? Elle est gentille et costaude, alors pour un sanatorium qui manque de bras, c'est une aide précieuse !"}
 {"id":1532050,"jp":"最近は共通語だけじゃなく、応急手当ても勉強しているの。\nあなたを驚かせたいんですって――あっ、ごめんなさい。\nいまの……聞かなかったことにしてくれる？","fr":"Ces derniers temps, elle étudie les premiers secours en plus de la langue commune.\nElle veut créer la surprise, paraît-il… Oh, pardon.\nCe que je viens de dire… on fait comme si de rien n'était ?"}
 {"id":1532051,"jp":"ラカイ","fr":"Rakai"}
+{"id":1532052,"jp":"兄のバルーンを見なかったか？いつも身をかがめて準備をしていてね……まあたいていの場合、いざ動こうとした時には、とっくに力が尽きているのだが。","fr":"Tu n'aurais pas vu mon frère Balloon ? Il est toujours accroupi à se préparer… mais la plupart du temps, au moment de bouger, il est déjà à bout de forces."}
 {"id":1532053,"jp":"リグ","fr":"Rig"}
+{"id":1532054,"jp":"テララから話は聞いているぞ！名前はなんだっけ……まあいいや、とにかくシャルル村での生活を楽しんでくれ。","fr":"Terara m'a parlé de toi ! Comment tu t'appelles, déjà… Bah, peu importe. En tout cas, profite bien de la vie au Village de Charlulu."}
 {"id":1532055,"jp":"鉄牙","fr":"Croc-de-fer"}
+{"id":1532056,"jp":"こんにちは、なにか手伝うことはあるか？","fr":"Bonjour, je peux t'aider en quelque chose ?"}
 {"id":1532057,"jp":"ロッチ","fr":"Rocchi"}
+{"id":1532058,"jp":"会話……いつでもできるように準備しておかないと。……って、ひゃっ！わ、私に話しかけてるの？えっと、こ、こんにちは、よ、ようこそ……うぅ、やっぱりやめておこう……","fr":"Une conversation… Il faut que je me prépare à en tenir une à tout moment. … Hiii ! T… tu me parles ? Euh, b… bonjour, b… bienvenue… Ooh… Non, autant laisser tomber…"}
 {"id":1532059,"jp":"ヴォロ","fr":"Volo"}
+{"id":1532060,"jp":"自分はこの村で一番役に立つから、なにかあったらいつでも声をかけて！","fr":"Je suis la personne la plus utile du village, alors si tu as besoin de quoi que ce soit, appelle-moi !"}
 {"id":1532061,"jp":"シャール","fr":"Shar"}
+{"id":1532062,"jp":"暇なときは、よくここにきてぶらぶらするんだ……","fr":"Quand j'ai du temps libre, je viens souvent traîner par ici…"}
 {"id":1532063,"jp":"ブカ","fr":"Buka"}
+{"id":1532064,"jp":"ここは地形が険しい。翼が無いなら、十分に注意することだ。","fr":"Le terrain est accidenté, ici. Si tu n'as pas d'ailes, fais très attention."}
 {"id":1532065,"jp":"アルガン","fr":"Argan"}
+{"id":1532066,"jp":"ねえ、一緒に見回りに行かない？","fr":"Dis, tu viens faire une patrouille avec moi ?"}
 {"id":1532067,"jp":"ロンサル","fr":"Ronsal"}
+{"id":1532068,"jp":"日々の生活では、節約できるところは節約するべきだ。そうすれば、助けが必要なとき、役立つものを出して手伝うことができるからな。","fr":"Au quotidien, il faut économiser partout où on peut. Comme ça, quand quelqu'un a besoin d'aide, on a de quoi lui donner un coup de main."}
 {"id":1532069,"jp":"グタ","fr":"Guta"}
+{"id":1532070,"jp":"気をつけて。この付近にはとても危険なキボがいる。","fr":"Fais attention. Il y a un Kibo très dangereux dans le coin."}
 {"id":1532071,"jp":"岩背","fr":"Dos-de-roc"}
+{"id":1532072,"jp":"ここにきたばかりの頃は、このキノコの大きさが信じられなかったよ……でもいまはもう慣れたけどね。","fr":"Au début, je n'en revenais pas de la taille de ces champignons… mais maintenant, ça ne me fait plus rien."}
 {"id":1532073,"jp":"アミ","fr":"Ami"}
+{"id":1532074,"jp":"かわいいキボがどこにいるか知っているのか？","fr":"Tu sais où sont les Kibo mignons ?"}
 {"id":1532075,"jp":"カルティ","fr":"Carty"}
+{"id":1532076,"jp":"村の至るところにかわいいキボがいる。それって、とても素晴らしいことだと思わない？","fr":"Il y a des Kibo mignons partout dans le village. C'est merveilleux, tu ne trouves pas ?"}
 {"id":1532077,"jp":"チャル","fr":"Charu"}
+{"id":1532078,"jp":"ティナナの屋台に新しいベリーは並んでいるかな……","fr":"Je me demande si l'étal de Tinana a de nouvelles baies…"}
 {"id":1532079,"jp":"ラム","fr":"Ram"}
+{"id":1532080,"jp":"ガヤックと力比べしてみようかな……","fr":"Et si j'allais me mesurer à un Gayak…"}
 {"id":1532081,"jp":"ミレイ","fr":"Mirei"}
+{"id":1532082,"jp":"フリスにきたのは初めて？豊穫の庭に入ったことは？空港には行ってみた？","fr":"C'est la première fois que tu viens à Fleece ? Tu connais déjà le Jardin de l'Abondance ? Et l'aéroport, tu l'as visité ?"}
 {"id":1532083,"jp":"アデル","fr":"Adel"}
+{"id":1532084,"jp":"こ、こんにちは、フリスへようこそ……","fr":"B… bonjour, bienvenue à Fleece…"}
 {"id":1532085,"jp":"ファビアン","fr":"Fabian"}
+{"id":1532086,"jp":"こんにちは。私は仕事の合間にあぜ道に立つのが好きなんだ。そうすれば、休むときにこの麦畑をゆっくり眺められるからな。","fr":"Bonjour. Entre deux tâches, j'aime me poster sur le chemin entre les champs. Comme ça, quand je me repose, je peux contempler tranquillement ce champ de blé."}
 {"id":1532087,"jp":"セドリック","fr":"Cedric"}
+{"id":1532088,"jp":"フリスを訪れた旅の方？歓迎するわ。フリスは素晴らしいところだけど、悪知恵を働かせるひとには気をつけてね。","fr":"Tu es de passage à Fleece ? Bienvenue à toi. Fleece est un endroit merveilleux, mais méfie-toi des gens qui manigancent."}
 {"id":1532089,"jp":"ジュリア","fr":"Julia"}
+{"id":1532090,"jp":"さっきまで、驚くようなことがないか、考えていたの。","fr":"Jusqu'à l'instant, je me demandais s'il allait se passer quelque chose de surprenant."}
 {"id":1532091,"jp":"ヴァレリア","fr":"Valeria"}
+{"id":1532092,"jp":"無意味なためらいに時間を浪費するのは好きでじゃなくて……","fr":"Je n'aime pas perdre mon temps en hésitations inutiles…"}
 {"id":1532093,"jp":"アニエス","fr":"Agnes"}
+{"id":1532094,"jp":"準備をすべて整えておけば、多くの厄介ごとは起こらないわ。","fr":"Si on prépare tout à l'avance, bien des ennuis n'arrivent jamais."}
 {"id":1532095,"jp":"セカシ","fr":"Sekashi"}
+{"id":1532096,"jp":"見たものが必ずしも真実とは限らない……世のなかにはそういうこともある……","fr":"Ce qu'on voit n'est pas toujours la vérité… Le monde est parfois ainsi fait…"}
 {"id":1532097,"jp":"ガスパル","fr":"Gaspard"}
+{"id":1532098,"jp":"やあ友よ、元気そうだな。楽しいことがありますように。","fr":"Salut à toi ! Tu as l'air en forme. Que de bonnes choses t'arrivent."}
 {"id":1532099,"jp":"アンビ","fr":"Ambi"}
+{"id":1532100,"jp":"農作業が全然終わらないなぁ……って、自分に話しかけてたの？ごめん、ちょうど畑に行く準備をしているところなんだ。","fr":"Les travaux des champs, ça n'en finit jamais… Hein, c'est à moi que tu parlais ? Pardon, j'allais justement partir aux champs."}
 {"id":1532101,"jp":"イレ","fr":"Ire"}
 {"id":1532102,"jp":"な、なにか用……？","fr":"Q-qu'est-ce que vous voulez… ?"}
 {"id":1532103,"jp":"ティエリ","fr":"Thierry"}
+{"id":1532104,"jp":"何事もはやく行動すべきだ。時間を無駄にしてはならない。","fr":"En toute chose, il faut agir vite. Le temps ne doit pas être gaspillé."}
 {"id":1532105,"jp":"エリス","fr":"Elise"}
+{"id":1532106,"jp":"なんだか……機嫌がよさそうね。","fr":"Tu as l'air… de bonne humeur."}
 {"id":1532107,"jp":"ブノワ","fr":"Benoit"}
+{"id":1532108,"jp":"さっきまで考えごとをしていてね……いま、ようやく我に返ったよ。","fr":"J'avais la tête ailleurs jusqu'à l'instant… je reviens tout juste sur terre."}
+{"id":1532109,"jp":"もう、決めたのか。オリヴァー。","fr":"Alors, ta décision est prise, Oliver ?"}
+{"id":1532110,"jp":"はい！クエンティンさん！","fr":"Oui, monsieur Quentin !"}
+{"id":1532111,"jp":"みんなと凶獣の戦いを見て、胸の炎に火がついたんだ！","fr":"En voyant tout le monde combattre la Bête maudite, j'ai senti une flamme s'allumer en moi !"}
+{"id":1532112,"jp":"決めたよ！立派な鉱員になるだけじゃなく、\nグランドマスターも目指すって！","fr":"C'est décidé ! Je ne vais pas seulement devenir un bon mineur,\nje vais aussi viser le titre de Grand Maître !"}
+{"id":1532113,"jp":"キボの仲間と力を合わせれば、\n採掘だって、きっとずっとはかどるはず！","fr":"En unissant mes forces à celles de Kibo,\nle travail à la mine ira sûrement bien plus vite !"}
+{"id":1532114,"jp":"オリヴァー……なら、頑張れよ。みんな応援してるぞ！","fr":"Oliver… Alors donne-toi à fond. On est tous derrière toi !"}
+{"id":1532115,"jp":"怖かったよ。あんなに大きな飛空船が、\n火をあげながら落ちてくるなんて！","fr":"J'ai eu tellement peur. Un dirigeable aussi énorme,\nqui tombe du ciel en flammes !"}
+{"id":1532116,"jp":"一瞬、世界の終わりかと思った。\nいま、思い出しても、まだ足が震えるよ……","fr":"Pendant un instant, j'ai cru que c'était la fin du monde.\nRien que d'y repenser, j'en ai encore les jambes qui tremblent…"}
 {"id":1532117,"jp":"ギズモ","fr":"Gizmo"}
+{"id":1532118,"jp":"あと、どれくらいやるんだよ。","fr":"On en a encore pour combien de temps ?"}
+{"id":1532119,"jp":"辛抱しろ、アヴァロ。\n一刻もはやく、昇降機を動かせるようにしなきゃならない。","fr":"Patience, Avaro.\nIl faut remettre l'élévateur en marche au plus vite."}
+{"id":1532120,"jp":"フリスの荷物は飛空船頼みだ。\nこんなことになった以上、金麦穂カーニバル並みの物量を運ぶには、\n古い水路を使うしかないんだよ。","fr":"Les marchandises de Fleece dépendent des dirigeables.\nMaintenant que c'est arrivé, pour transporter autant de marchandises que pendant le Carnaval de l'Épi doré,\nil n'y a pas d'autre moyen que l'ancien canal."}
+{"id":1532121,"jp":"フリスのことを、よそ者の私が評するのは控えるべきでしょうが……","fr":"Ce n'est sans doute pas à l'étranger que je suis de juger Fleece…"}
+{"id":1532122,"jp":"いまのフリスは、百朔に一度の大変革のさなかにあるのかもしれません。\nそれをみずから体験するとは、まことに……不思議な経験です。","fr":"Mais il se peut que Fleece traverse en ce moment un bouleversement comme on n'en voit qu'une fois en cent lunes.\nEn être témoin en personne, c'est une expérience… bien étrange."}
+{"id":1532123,"jp":"あいつら、いったいなんなんだ。居心地が悪いったらない。","fr":"C'est qui, ces gens-là ? Je suis mal à l'aise avec eux dans les parages."}
+{"id":1532124,"jp":"見たまえ！輝く鎧、厳しい軍紀。\nこれぞ我が帝国軍人の雄姿！この怠惰な街に欠けていた精神だ。","fr":"Regardez-moi ça ! Des armures étincelantes, une discipline de fer.\nVoilà la fière allure de nos soldats impériaux ! C'est l'esprit qui manquait à cette ville paresseuse."}
+{"id":1532125,"jp":"とはいえ、一国の軍が公然と中立都市に駐留するとは。\n教皇さまは、なにをお考えなのだろう……","fr":"Tout de même, qu'une armée étrangère stationne ouvertement dans une ville neutre…\nQue peut bien penser Sa Sainteté le Pape…"}
+{"id":1532126,"jp":"大嵐は、ずっと前からあったけどさ。\nあの日の冒険者たちの戦いを思い出すと、胸が熱くなるよ。","fr":"La Grande Tempête, elle est là depuis toujours, d'accord.\nMais quand je repense au combat des aventuriers ce jour-là, ça me réchauffe le cœur."}
+{"id":1532127,"jp":"昔からある景色でも、あの戦いで、新たな意味が加わったんだな。","fr":"Même un paysage qui existe depuis longtemps a pris un nouveau sens avec ce combat."}
+{"id":1532128,"jp":"ロジニア連邦には、ボタンをひとつ押すだけで\n絵を描く機械があるらしい。あれで、この大嵐の景色を残せたらいいな。","fr":"Il paraît que la Fédération de Roginia a une machine qui fait une image\nrien qu'en appuyant sur un bouton. Avec ça, j'aimerais bien immortaliser la Grande Tempête."}
+{"id":1532129,"jp":"風車塔と呼ばれる巨大な建物。\nその大きな羽根は、そよ風を受けて絶え間なく回り続けている。","fr":"Un immense bâtiment qu'on appelle une tour-moulin.\nSes grandes ailes tournent sans relâche sous la brise."}
+{"id":1532130,"jp":"これは『イオーク大風車』。\nフリスでいちばん大きな風車塔なのだ。","fr":"Voici le « Grand moulin d'Iork ».\nC'est la plus grande tour-moulin de Fleece !"}
+{"id":1532131,"jp":"昔のフリスの者は、風が吹き続ける限り、\nこの土地は豊かであり続けると信じていた。","fr":"Autrefois, les gens de Fleece croyaient que tant que le vent soufflerait,\ncette terre resterait fertile."}
+{"id":1532132,"jp":"回り続ける風車は、その象徴であり、\n心の支えと言ってもいいくらいなのだ。","fr":"Le moulin qui tourne sans fin en est le symbole,\non pourrait même dire qu'il les aidait à tenir bon !"}
+{"id":1532133,"jp":"この像……アマルテイアじゃないか。","fr":"Cette statue… mais c'est Amalthea !"}
 {"id":1532134,"jp":"アマルテイア？","fr":"Amalthea ?"}
+{"id":1532135,"jp":"『恩寵の甘露』、アマルテイアなのだ。\n星脈の力で余分な養分を大地へ返す、いいやつだぞ。","fr":"C'est « Le nectar de grâce », Amalthea !\nElle se sert de la puissance de la veine stellaire pour rendre à la terre les nutriments en trop. Elle est vraiment chouette !"}
+{"id":1532136,"jp":"伝説では、一粒の涙で砂漠に花を咲かせるらしい。\nフリスの麦が毎朔豊作なのも、アマルテイアのおかげなのだ。","fr":"D'après la légende, une seule de ses larmes ferait fleurir le désert.\nSi le blé de Fleece donne une récolte abondante chaque lune, c'est aussi grâce à Amalthea !"}
+{"id":1532137,"jp":"アマルテイアは、認めた相手に試練を与えるのだ。\n星臨者も、いつか会うことになるんじゃないか。","fr":"Amalthea soumet à des épreuves ceux qu'elle reconnaît.\nToi aussi, Enfant des étoiles, tu la rencontreras peut-être un jour."}
+{"id":1532138,"jp":"『恩寵の甘露』アマルテイアをかたどった噴水。","fr":"Une fontaine à l'effigie d'Amalthea, « Le nectar de grâce »."}
+{"id":1532139,"jp":"像の手の宝珠から清らかな水がこんこんと湧き出し、\n眺めていると心まで晴れ渡る。","fr":"Une eau limpide jaillit sans fin de l'orbe que tient la statue,\net rien qu'à la contempler, on a le cœur plus léger."}
+{"id":1532140,"jp":"半分空いた赤ワインのグラスの下に、\n『ワンド7』の絵柄が描かれたカードが挟まっている。","fr":"Sous un verre de vin rouge à moitié vide\nest glissée une carte qui représente le « Sept de Bâtons »."}
+{"id":1532141,"jp":"こ、このカードから、かすかにスーニヤを感じるぞ！？","fr":"C… cette carte dégage une faible trace de Sunya !?"}
+{"id":1532142,"jp":"どこかで、似たカードを見た気がする……","fr":"J'ai l'impression d'avoir déjà vu une carte du même genre quelque part…"}
+{"id":1532143,"jp":"とにかく、片づけよう。\nスーニヤの気配があるものを、ここに残しておけない。","fr":"En tout cas, débarrassons-nous-en.\nOn ne peut pas laisser ici un objet qui porte la trace de la Sunya."}
+{"id":1532144,"jp":"ここがフリスのキボファイト協会なのだ！","fr":"C'est ici, l'Association de Duel de Kibo de Fleece !"}
 {"id":1532145,"jp":"にぎやかな場所だね。","fr":"Quel endroit animé."}
+{"id":1532146,"jp":"キボファイト協会には、その地域で最高の腕前を持つ者たちが集まるのだ。","fr":"À l'Association de Duel de Kibo, on retrouve les plus doués de la région !"}
+{"id":1532147,"jp":"どの協会にも、それぞれの特色があるぞ。\nグランドマスターになりたいなら、ちょくちょく顔を出すのだ！","fr":"Chaque Association a sa propre personnalité.\nSi tu veux devenir Grand Maître, passe souvent !"}
 {"id":1532148,"jp":"住民【A】","fr":"Habitant [A]"}
+{"id":1532149,"jp":"天江商会って、何者なんだ？\n辰王朝を代表して、ゴヤード商会と張り合えるなんて。","fr":"La Compagnie Tianjiang, c'est qui, au juste ?\nReprésenter la dynastie Chen et tenir tête à la Compagnie Goyard, rien que ça…"}
 {"id":1532150,"jp":"住民【B】","fr":"Habitant B"}
+{"id":1532151,"jp":"会長がやり手らしい。たった数朔で、\n小さな商人の集まりを、あそこまで大きくしたんだとさ。","fr":"Il paraît que leur président est un sacré gaillard. En quelques lunes à peine,\nil a fait d'une petite association de marchands ce qu'elle est aujourd'hui."}
+{"id":1532152,"jp":"フリスにまで商売を広げるなんて……\nどんな人物なんだ、その会長ってのは？","fr":"Étendre leur commerce jusqu'à Fleece…\nQuel genre de personne est-ce, ce président ?"}
+{"id":1532153,"jp":"頼むよ。ゴヤード商会の館に入れるよう、紹介してくれないか！","fr":"Je t'en prie ! Recommande-moi pour que je puisse entrer au siège de la Compagnie Goyard !"}
 {"id":1532154,"jp":"商人【A】","fr":"Marchand A"}
+{"id":1532155,"jp":"できないことはないが……商売もしないのに、なにしに行くんだ？","fr":"Ce n'est pas impossible, mais… si tu n'y vas pas pour commercer, qu'est-ce que tu veux y faire ?"}
+{"id":1532156,"jp":"ただの商会館じゃないんだぞ。\nあそこに、どれだけめずらしい宝が展示されてるか知ってるのか？","fr":"Ce n'est pas un simple siège de compagnie !\nTu sais combien de trésors rares y sont exposés ?"}
+{"id":1532157,"jp":"あの宝を拝めるなら、全財産を失っても惜しくないよ！","fr":"Si je pouvais contempler ces trésors, je perdrais toute ma fortune sans regret !"}
+{"id":1532158,"jp":"お前がそれでいいなら……","fr":"Si ça te va…"}
+{"id":1532159,"jp":"イオーク大風車と呼ばれる巨大な建築物。","fr":"Un immense édifice appelé le Grand moulin d'Iork."}
+{"id":1532160,"jp":"いつからかフリスはそよ風が吹かなくなり、風車も回らなくなった。","fr":"Un beau jour, la brise a cessé de souffler sur Fleece, et le moulin s'est arrêté de tourner."}
+{"id":1532161,"jp":"『鉄輪の貴婦人』ヘルウィンの肖像画。","fr":"Portrait de Helwen, « la Dame aux roues de fer »."}
+{"id":1532162,"jp":"領主ヘルウィンの鋭い瞳は、訪れる客をひとりひとり見定めているかのようだ。","fr":"Le regard perçant du seigneur Helwen semble jauger chaque visiteur, un par un."}
 {"id":1532163,"jp":"あれは……！？","fr":"C'est… !?"}
+{"id":1532164,"jp":"台を上げ下げする仕掛けか……？\nあっ、わかったぞ！きっとおやつを運ぶためのものなのだ！","fr":"Un mécanisme pour monter et descendre une plateforme… ?\nAh, j'ai compris ! C'est sûrement pour transporter les goûters !"}
+{"id":1532165,"jp":"（床に車輪を固定する留め具がある……）","fr":"(Il y a des attaches au sol pour bloquer des roues…)"}
+{"id":1532166,"jp":"領主ヘルウィンはきっと、これで階を行き来しているんだ。","fr":"Le seigneur Helwen doit s'en servir pour passer d'un étage à l'autre."}
+{"id":1532167,"jp":"フリスとその周辺の地形が描かれた地図。","fr":"Une carte de Fleece et de ses environs."}
+{"id":1532168,"jp":"北はロージア帝国と隣接し、西にはアヴァリアン、南には辰王朝。\nフリスは商業の要衝という名に恥じない都市だ。","fr":"Au nord, l'Empire de Rosia ; à l'ouest, Avalian ; au sud, la dynastie Chen.\nFleece mérite bien son nom de carrefour commercial."}
+{"id":1532169,"jp":"飛空船の航路も描かれてる。うーん、でも……なんかおかしいのだ。","fr":"Les routes des dirigeables sont aussi tracées. Hmm, mais… il y a un truc qui cloche !"}
+{"id":1532170,"jp":"フリスの飛空船はあちこちへ飛んでいたはずなのに。\nこの地図には……ロージア帝国行きの航路しか残ってないぞ？","fr":"Les dirigeables de Fleece allaient un peu partout, pourtant.\nSur cette carte… il ne reste que la route vers l'Empire de Rosia ?"}
 {"id":1532171,"jp":"詳しく見てみようか？","fr":"Si on regardait de plus près ?"}
 {"id":1532172,"jp":"いいえ。","fr":"Non."}
+{"id":1532173,"jp":"北にはロージア帝国、南には辰王朝、西にはシャルル村とアヴァリアンがある。\n大きな勢力に囲まれたフリスは、まさに商業の要衝と言える。","fr":"Au nord, l'Empire de Rosia ; au sud, la dynastie Chen ; à l'ouest, le Village de Charlulu et Avalian.\nEntourée de grandes puissances, Fleece est un vrai carrefour commercial."}
+{"id":1532174,"jp":"シャルル村も……大きな勢力と言えるか……？","fr":"Le Village de Charlulu… compte comme une grande puissance… ?"}
+{"id":1532175,"jp":"地図にはフリスの飛空船の航路が記されている。\n各地に通じていたはずの航路は、何故かいまではロージア帝国との往復便一本だけになっている。","fr":"La carte indique les routes des dirigeables de Fleece.\nCes routes qui desservaient autrefois tout le pays se réduisent aujourd'hui, allez savoir pourquoi, à une seule liaison aller-retour avec l'Empire de Rosia."}
+{"id":1532176,"jp":"なあ、聞こえたか？昨晩の――","fr":"Dis, tu as entendu ? Hier soir…"}
+{"id":1532177,"jp":"聞こえたよ！町のすぐ外だったろ。怖くて一晩中ろくに眠れなかった！","fr":"Oui ! C'était juste à l'extérieur de la ville, non ? J'avais tellement peur que je n'ai presque pas fermé l'œil de la nuit !"}
+{"id":1532178,"jp":"まさか、魔女の噂は本当なのか？","fr":"Ne me dis pas que la rumeur sur la sorcière est vraie ?"}
+{"id":1532179,"jp":"わあ！キボがいっぱいいるぞ！すっごく楽しそうなのだ！","fr":"Waouh ! Il y a plein de Kibo ! Ça a l'air trop amusant !"}
+{"id":1532180,"jp":"『カラフルパレード団』……パミーたちが開いた、キボと一緒に遊べる遊園地なんだって。","fr":"La « Troupe de la Parade multicolore »… Il paraît que c'est un parc d'attractions ouvert par des Pammy, où l'on peut jouer avec des Kibo."}
+{"id":1532181,"jp":"そんなの楽しいに決まってるのだ！はやく見に行こう！","fr":"Évidemment que c'est amusant ! Allons vite voir !"}
+{"id":1532182,"jp":"竜王時代に造られた祭壇のようだ。","fr":"On dirait un autel construit à l'ère du Roi dragon."}
+{"id":1532183,"jp":"ここは執言者の祭壇。かつて征服王と辰王が、ここで和平条約を結んだのだ。","fr":"C'est l'autel du Gardien de la Parole. Autrefois, le Roi conquérant et le roi Chen y ont signé un traité de paix !"}
+{"id":1532184,"jp":"この場所こそ、フリスのはじまりと言ってもいい。\nフリスのみんなにとって、とても大切な場所なのだ。","fr":"On peut dire que c'est ici que Fleece a commencé.\nC'est un endroit très important pour tous les gens de Fleece !"}
+{"id":1532185,"jp":"そんなに重要な場所なら、入場料を取って公開すれば、フリスにかなりの収入をもたらせるはず――","fr":"Si c'est un lieu aussi important, l'ouvrir au public avec un droit d'entrée rapporterait de jolis revenus à Fleece…"}
+{"id":1532186,"jp":"いい考えに思えたが、遺跡の保護を考えてその案は取り下げた。","fr":"L'idée semblait bonne, mais elle a été abandonnée pour préserver les ruines."}
+{"id":1532187,"jp":"直接、突っ込むのは無理なのだ。入口にはハイエルフの封印があるし。","fr":"Impossible de foncer dedans comme ça ! Il y a un sceau des Hauts Elfes à l'entrée."}
+{"id":1532188,"jp":"でも、このルミィさまがいるんだから、そんな面倒なことをする必要はない！","fr":"Mais avec la grande Lumi ici, pas besoin de se compliquer la vie !"}
+{"id":1532189,"jp":"アイオリアン！嵐を止めるのだ！ルミィさまが遊びにきたぞ！","fr":"Éolien ! Arrête la tempête ! La grande Lumi est venue jouer !"}
+{"id":1532190,"jp":"風よ、静まれ！いや、違う……嵐よ、消えろ！","fr":"Vent, calme-toi ! Non, attends… Tempête, disparais !"}
+{"id":1532191,"jp":"おかしいのだ。アイオリアンのやつ！どうしてこの大妖精の言うことまで聞かなくなったのだ？","fr":"C'est bizarre ! Qu'est-ce qu'il a, cet Éolien ? Pourquoi il n'écoute même plus la Grande Fée ?"}
+{"id":1532192,"jp":"嵐のなかに入るには、別の方法を考えるしかなさそうだね。","fr":"On dirait qu'il va falloir trouver un autre moyen d'entrer dans la tempête."}
+{"id":1532193,"jp":"ここは壬陽関。辰王朝が設けた関所なのだ。","fr":"Ici, c'est le col de Renyang. Un poste-frontière installé par la dynastie Chen !"}
+{"id":1532194,"jp":"ずっと南へ進むと鏡花州がある。用ができたらまた来よう。","fr":"Tout au sud, il y a le Cap Jinghua. Revenons quand on aura affaire là-bas."}
+{"id":1532195,"jp":"このさきはロージア帝国の領土なのだ。","fr":"Plus loin, c'est le territoire de l'Empire de Rosia !"}
+{"id":1532196,"jp":"ロージア帝国って、どんな国なの？","fr":"C'est quel genre de pays, l'Empire de Rosia ?"}
+{"id":1532197,"jp":"魔法をなにより重視してる国だけど……\nみんな白くてキラキラした格好をしてて、おもしろくないのだ。","fr":"C'est un pays où la magie compte plus que tout, mais…\ntout le monde y porte des tenues blanches qui brillent, c'est pas drôle !"}
+{"id":1532198,"jp":"ロージア帝国ではグリフォンが尊ばれていて、ウィングリフの像や工芸品があちこちにある。","fr":"Dans l'Empire de Rosia, on vénère les griffons, et il y a des statues et des objets d'artisanat à l'effigie des Wingriff partout."}
+{"id":1532199,"jp":"ウィングリフはかわいいけど、ひとつのキボしか好きにならないなんて、もったいないのだ！","fr":"Les Wingriff sont mignons, mais n'aimer qu'un seul Kibo, quel gâchis !"}
+{"id":1532200,"jp":"終刻の風塁へ続く道は、ハイエルフの魔法で封印されている。","fr":"La route qui mène au Rempart du Vent de l'Heure finale est scellée par la magie des Hauts Elfes."}
+{"id":1532201,"jp":"いまは入れそうにないね。別の手段を探そう。","fr":"On ne peut pas entrer pour l'instant. Cherchons un autre moyen."}
+{"id":1532202,"jp":"この花、すごくきれいに咲いてるのだ！","fr":"Cette fleur est magnifiquement épanouie !"}
+{"id":1532203,"jp":"風のカラマに満ちているのを感じる……","fr":"Je la sens gorgée de Karma du Vent…"}
+{"id":1532204,"jp":"ここも風の星脈の支流のひとつみたいなのだ。","fr":"Ici aussi, on dirait un affluent de la veine stellaire du Vent !"}
+{"id":1532205,"jp":"廃棄された高架水路。長い歳月に蝕まれているが、その残骸からかつての姿をうかがうことができる。","fr":"Un aqueduc surélevé abandonné. Rongé par les années, ses vestiges laissent pourtant deviner ce qu'il fut."}
 {"id":1532206,"jp":"ロージア帝国兵","fr":"Soldat de l'Empire de Rosia"}
+{"id":1532207,"jp":"ここは帝国の所有地だ。近づくな！","fr":"Ce terrain appartient à l'Empire. N'approchez pas !"}
+{"id":1532208,"jp":"飛空船が……あんな事故に遭うなんて……","fr":"Un dirigeable… victime d'un accident pareil…"}
+{"id":1532209,"jp":"カルノン療養院へようこそ、星臨者ちゃん。","fr":"Bienvenue au sanatorium Carnon, mon chou des étoiles."}
+{"id":1532210,"jp":"すこしでも体に異常を感じたら、すぐに教えてね。","fr":"Si tu sens le moindre souci de santé, dis-le-moi tout de suite."}
+{"id":1532211,"jp":"ご機嫌よう。こんなところでお会いするとは。","fr":"Bien le bonjour. Je ne m'attendais pas à vous croiser ici."}
+{"id":1532212,"jp":"どうかしましたか？やるべきことがあるのでは？","fr":"Que se passe-t-il ? N'avez-vous pas des choses à faire ?"}
+{"id":1532213,"jp":"別に、叱るつもりはありませんが……","fr":"Ce n'est pas que je veuille vous gronder…"}
+{"id":1532214,"jp":"ゆったりと過ごせる時間は貴重です。\nどうぞ、おくつろぎください。","fr":"Les moments de détente sont précieux.\nJe vous en prie, mettez-vous à votre aise."}
+{"id":1532215,"jp":"夜も更けました。あまり大きな音は立てないように。","fr":"La nuit est déjà avancée. Veillez à ne pas faire trop de bruit."}
+{"id":1532216,"jp":"なにかご用の際は、私にお声がけください。","fr":"Si vous avez besoin de quoi que ce soit, adressez-vous à moi."}
+{"id":1532217,"jp":"陰謀、脅迫、ありもしない罪を着せること……","fr":"Complots, menaces, accusations de crimes qui n'ont jamais eu lieu…"}
+{"id":1532218,"jp":"あの帝国らしいやり口ですね。","fr":"C'est bien la manière de cet Empire."}
+{"id":1532219,"jp":"ロージア帝国の人が、みんな悪いわけじゃないよ。","fr":"Les gens de l'Empire\nde Rosia ne sont pas\ntous mauvais."}
+{"id":1532220,"jp":"ええ……よいか悪いかは、\nそれぞれの行いで判断すべきですね。","fr":"Oui… Bon ou mauvais,\nchacun devrait être jugé sur ses actes."}
+{"id":1532221,"jp":"お客さまにはお茶とお菓子を、敵には斧を。\nそれが、フリスのメイドの流儀です。","fr":"Du thé et des gâteaux pour les invités, la hache pour les ennemis.\nTelle est la règle des domestiques de Fleece."}
+{"id":1532222,"jp":"いえ、お茶菓子のことは、今はナナチャ様に任せておきましょう。","fr":"Non, laissons les gâteaux du thé à Dame Nanacha pour le moment."}
+{"id":1532223,"jp":"順番を守ってお待ちください。まもなく開演です！","fr":"Veuillez attendre votre tour. Le spectacle commence bientôt !"}
+{"id":1532224,"jp":"いろんな場所で公演してきたの？","fr":"Tu as joué\ndans beaucoup\nd'endroits ?"}
 {"id":1532225,"jp":"今回の目玉はなに？","fr":"C'est quoi, la vedette cette fois ?"}
+{"id":1532226,"jp":"もちろん！ウッドエルフの森からタルシスの赤い砂漠まで、\nプロミリアじゅうがわたしたちの舞台だよ。","fr":"Bien sûr ! Des forêts des Elfes des bois aux déserts rouges de Tharsis,\ntoute Promilia est notre scène."}
+{"id":1532227,"jp":"エルフも、獣人も、鬼人も、\nみんな公演を大絶賛してくれてる！","fr":"Elfes, Furriens, Oni,\ntout le monde adore nos spectacles !"}
+{"id":1532228,"jp":"興味があったら、ぜひ見に来てね！","fr":"Si ça t'intéresse, viens nous voir, surtout !"}
+{"id":1532229,"jp":"とんでもなくすごい大芝居をする予定なの。\nグランドマスターも招待してるよ～","fr":"On prépare un spectacle absolument grandiose.\nOn a même invité le Grand Maître~"}
+{"id":1532230,"jp":"でも、詳しい内容はまだ秘密！","fr":"Mais les détails, c'est encore un secret !"}
 {"id":1532231,"jp":"バナナ","fr":"Banane"}
+{"id":1532232,"jp":"こんにちは、お客さま……\nキボのショーを見に来たの～？","fr":"Bonjour, bonjour, chère clientèle…\nVous venez voir le spectacle de Kibo~ ?"}
+{"id":1532233,"jp":"キボのショー？大丈夫なの？","fr":"Un spectacle\nde Kibo ? Ce n'est\npas dangereux ?"}
+{"id":1532234,"jp":"一緒に参加できたりする？","fr":"Je peux\nparticiper\naussi ?"}
+{"id":1532235,"jp":"誤解しないでくださいね～\nキボに無理強いはしませんし、公演中に傷つけることもありません。","fr":"Ne vous méprenez pas~\nNous ne forçons jamais les Kibo, et ils ne sont jamais blessés pendant les spectacles."}
+{"id":1532236,"jp":"ここのキボたちは、自分の特技を見せたくて、\n舞台に上がっているんです～","fr":"Les Kibo d'ici montent sur scène\nparce qu'ils ont envie de montrer leurs talents~"}
+{"id":1532237,"jp":"わたしたちは……その機会を用意しているんです～","fr":"Nous… nous leur en donnons simplement l'occasion~"}
+{"id":1532238,"jp":"あの可愛い子たちと、触れ合ってみたい？\nいいですね～とても素敵です……","fr":"Vous aimeriez jouer avec ces adorables petits ?\nComme c'est charmant~ C'est merveilleux…"}
+{"id":1532239,"jp":"こちらに情報をご記入ください。\n後日、パミー郵便局から届くお便りも、お見逃しなく……","fr":"Veuillez inscrire vos coordonnées ici.\nEt ne manquez pas la lettre qui vous arrivera plus tard de la Poste des Pammy…"}
+{"id":1532240,"jp":"うーん、今日はお客さんに、なんの必殺技を見せようか？","fr":"Hmm, quel coup fatal je vais montrer au public, aujourd'hui ?"}
 {"id":1532241,"jp":"必殺技？","fr":"Coup fatal ?"}
+{"id":1532242,"jp":"僕も必殺技を覚えられる？|私も必殺技を覚えられる？","fr":"Moi aussi, je peux apprendre un coup fatal ?|Moi aussi, je peux apprendre un coup fatal ?"}
+{"id":1532243,"jp":"必殺技とは、パ！パ！ミー！ミー！","fr":"Le coup fatal, c'est Pa ! Pa ! Mi ! Mi !"}
+{"id":1532244,"jp":"パミー流の真髄がわかれば、\n必殺技は自然に出せるようになるんだ！","fr":"Une fois que tu as saisi l'essence du style Pammy,\nles coups fatals viennent tout seuls !"}
+{"id":1532245,"jp":"もちろん！パミー流の真髄さえつかめば、\nだれでも必殺技を使えるぞ！","fr":"Bien sûr ! Du moment qu'on saisit l'essence du style Pammy,\nn'importe qui peut utiliser des coups fatals !"}
+{"id":1532246,"jp":"自由自在に使えるようになるために、\nまずは公演を見るところからはじめよう！","fr":"Pour savoir t'en servir comme tu veux,\ncommence par regarder un spectacle !"}
+{"id":1532247,"jp":"チケットはココのところで買ってね。\nいまならセット券がお得だよ！","fr":"Les billets, c'est ici qu'on les achète.\nEn ce moment, les billets groupés sont une vraie affaire !"}
+{"id":1532248,"jp":"ここで出会ったのも、運命の導き……占いはいかが？","fr":"Si nous nous rencontrons ici, c'est que le destin l'a voulu… Une petite séance de divination, ça vous dit ?"}
+{"id":1532249,"jp":"では、お言葉に甘えて。","fr":"Eh bien,\nj'accepte\nvolontiers."}
+{"id":1532250,"jp":"きみの占い……当たるの？","fr":"Vos prédictions…\nelles sont\njustes ?"}
+{"id":1532251,"jp":"どれどれ……おや、黒い剣と赤いハートの組み合わせ。","fr":"Voyons… Oh, l'Épée noire associée au Cœur rouge."}
+{"id":1532252,"jp":"感情と現実の激しい衝突、噛み合う運命の歯車……","fr":"Un choc violent entre les sentiments et la réalité, les rouages du destin qui s'engrènent…"}
+{"id":1532253,"jp":"お客さま、遠い未来、なにかを選ばねばならないとき……\nどうか慎重に、心の声に耳を傾けてね。","fr":"Un jour, dans un avenir lointain, quand vous devrez faire un choix…\nagissez avec prudence, et écoutez la voix de votre cœur."}
+{"id":1532254,"jp":"当たるかどうかを決めるのは、お客さまの心。","fr":"Ce qui décide de leur justesse, c'est votre cœur."}
+{"id":1532255,"jp":"占いとは、ときに心の奥で最も知りたかった答えを、\n問いより先に差し出すだけのものだから。","fr":"Car la divination ne fait parfois que vous tendre, avant même la question,\nla réponse que vous vouliez le plus connaître au fond de votre cœur."}
+{"id":1532256,"jp":"自分の選択を、疑わないでね？","fr":"Ne doutez pas de vos choix, d'accord ?"}
 {"id":1532257,"jp":"ココ","fr":"Coco"}
+{"id":1532258,"jp":"こ、こんにちは。なにかお探し……ですか？","fr":"B… bonjour. Vous cherchez… quelque chose ?"}
 {"id":1532259,"jp":"眺めてるだけだよ。","fr":"Je regarde, c'est tout."}
+{"id":1532260,"jp":"すこし緊張してるみたいだね。","fr":"On dirait que\nle stress vous\ngagne un peu."}
+{"id":1532261,"jp":"あっ、はい。ごゆっくり……あの……","fr":"Ah, o… oui. Prenez votre temps… Euh…"}
 {"id":1532262,"jp":"うぅ、すみません！","fr":"Aïe, pardon !"}
+{"id":1532263,"jp":"ええと、実は行商をはじめたばかりで……","fr":"Euh, en fait, je viens à peine de commencer le colportage…"}
+{"id":1532264,"jp":"ご迷惑になっていないといいのですが。うぅ。","fr":"J'espère que je ne vous dérange pas. Mmh…"}
 {"id":1532265,"jp":"タタラヤ","fr":"Tataraya"}
+{"id":1532266,"jp":"お気に入りは見つかりましたか？\nどうぞ、ご自由にお選びください！","fr":"Vous avez trouvé votre bonheur ?\nJe vous en prie, choisissez librement !"}
 {"id":1532267,"jp":"商売は順調？","fr":"Les affaires vont bien ?"}
+{"id":1532268,"jp":"今は欲しいものがないかな。","fr":"Rien ne me tente\npour l'instant."}
+{"id":1532269,"jp":"オークションの熱気にはおよばないけど、\nここならではのお客様にも出会えるんだ。","fr":"Ça n'a pas la fièvre des enchères,\nmais ici, je croise des clients qu'on ne voit nulle part ailleurs."}
+{"id":1532270,"jp":"それに、にぎやかな雰囲気のなかで、\nお客さんと商談するのは大好きだち！","fr":"Et puis, discuter affaires avec les clients dans une ambiance animée,\nj'adore ça !"}
+{"id":1532271,"jp":"大丈夫！一目惚れしてもらえるだけの\n品をそろえる自信はある。","fr":"Pas d'inquiétude ! J'ai bon espoir de réunir\ndes articles qui vous plairont au premier coup d'œil."}
+{"id":1532272,"jp":"そのときは、またごひいきに！","fr":"Ce jour-là, revenez me voir !"}
 {"id":1532273,"jp":"キラヤ","fr":"Kiraya"}
+{"id":1532274,"jp":"ここの若者は、ほとんどフリスの市街地に働きに出てしまいました。\n町に残る者は、減る一方です。","fr":"La plupart des jeunes d'ici sont partis travailler dans le centre de Fleece.\nCeux qui restent en ville sont de moins en moins nombreux."}
+{"id":1532275,"jp":"それなら、どうしてきみは残ってるの？","fr":"Alors pourquoi\nvous restez,\nvous ?"}
+{"id":1532276,"jp":"ゴンドーロには、お年寄りがまだたくさん暮らしていますから。\n私まで出ていったら、だれも面倒を見てあげられなくなる。","fr":"Parce qu'il y a encore beaucoup de personnes âgées à Gondolo.\nSi je partais moi aussi, plus personne ne pourrait s'occuper d'elles."}
+{"id":1532277,"jp":"このところ、町の周りで爆発音がよく聞こえるの。","fr":"Ces derniers temps, on entend souvent des explosions autour de la ville."}
+{"id":1532278,"jp":"すこし心配です。みんなの眠りを妨げなければいいけれど……","fr":"Ça m'inquiète un peu. J'espère que ça n'empêche pas tout le monde de dormir…"}
+{"id":1532279,"jp":"オチャドゥ農園へようこそ、親愛なる友よ。","fr":"Bienvenue à la ferme d'Ochadu. Quel plaisir de vous recevoir parmi nous."}
+{"id":1532280,"jp":"すでに主人の招待を受けておいでなら、\n次のワインサロンに、ぜひお越しください。","fr":"Si vous avez déjà reçu l'invitation du maître,\nne manquez surtout pas le prochain salon du vin."}
+{"id":1532281,"jp":"最高のおもてなしと、極上のワインをご用意しております。\nきっとご満足いただけるでしょう。","fr":"Nous vous réservons un accueil des plus soignés et des vins d'exception.\nRien ne manquera à votre plaisir."}
 {"id":1532282,"jp":"ゾーエ","fr":"Zoe"}
+{"id":1532283,"jp":"クエンティンから聞いたよ。\nあんたたち、飛空船が落ちるところを見らしいね？","fr":"Quentin m'a raconté.\nVous avez vu le dirigeable tomber, vous deux ?"}
 {"id":1532284,"jp":"リオ","fr":"Rio"}
+{"id":1532285,"jp":"うん、ちょうど休憩してて……\nはあ、あんな恐ろしいもの、見なきゃよかった……","fr":"Oui, on faisait justement une pause…\nPfff, j'aurais préféré ne jamais voir un truc aussi horrible…"}
+{"id":1532286,"jp":"そういえば、墜落のとき、アイオリアンを見た人がいるみたい。","fr":"D'ailleurs, il paraît que quelqu'un a vu l'Éolien au moment du crash."}
+{"id":1532287,"jp":"アイオリアン？あの大きな竜巻のなかにいるんじゃなかったか？","fr":"L'Éolien ? Il n'était pas censé être dans cette grande tornade ?"}
+{"id":1532288,"jp":"フリスは……これからどうなっちゃうんだろう。","fr":"Qu'est-ce que Fleece… va devenir ?"}
+{"id":1532289,"jp":"キボたちの様子はどうだ？","fr":"Comment vont les Kibo ?"}
+{"id":1532290,"jp":"突然の揺れに驚いてたけど、すぐに落ち着いたよ。","fr":"Ils ont été surpris par la secousse, mais ils se sont vite calmés."}
+{"id":1532291,"jp":"坑道のなかまで揺れが伝わるとはな……","fr":"Dire que la secousse s'est fait sentir jusque dans les galeries…"}
+{"id":1532292,"jp":"あんな騒ぎを起こして、\nあの幽霊村の人たちに恨まれないかな？","fr":"Avec tout le chahut qu'on a causé,\nles gens du village fantôme ne vont pas nous en vouloir ?"}
+{"id":1532293,"jp":"まさか！冒険者も言ってたじゃないか。\nあの幽霊たちは悪いやつじゃない。\nこっちも被害者なんだから、恨まれたりするもんか！","fr":"Pas du tout ! Les aventuriers l'ont dit eux-mêmes, non ?\nCes fantômes ne sont pas méchants.\nOn est des victimes, nous aussi, alors pourquoi ils nous en voudraient !"}
 {"id":1532294,"jp":"なあ……そうだよな？","fr":"Hein… c'est ça, non ?"}
+{"id":1532295,"jp":"やっぱり、若いうちに仕事を変えたほうがいいかな……","fr":"Je devrais peut-être changer de métier tant que je suis jeune…"}
+{"id":1532296,"jp":"アイオリアンの出現、帝国の動き……","fr":"L'apparition de l'Éolien, les manœuvres de l'Empire…"}
+{"id":1532297,"jp":"この世界は、変わりはじめているのですね。","fr":"Le monde commence à changer, n'est-ce pas ?"}
+{"id":1532298,"jp":"あまり心配していないみたいだね？","fr":"Ça n'a pas l'air\nde trop vous\ninquiéter ?"}
+{"id":1532299,"jp":"ナナチャは、アイオリアンのことをどれくらい知ってるの？","fr":"Nanacha, que\nsavez-vous de\nl'Éolien ?"}
+{"id":1532300,"jp":"私は領主さまのご判断と、皆さまの尽力を信じております。","fr":"J'ai foi dans le jugement du seigneur et dans les efforts de chacun."}
+{"id":1532301,"jp":"そして……フリスに風が吹く限り、\nこの街はどんな危機も乗り越えられるということも。","fr":"Et aussi… tant que le vent soufflera sur Fleece,\ncette ville surmontera n'importe quelle crise."}
+{"id":1532302,"jp":"ですから、私たちメイドの仕事は、\n皆さまがお戻りになる前に、\n快適なお部屋とおいしいお茶菓子を整えることです。","fr":"C'est pourquoi notre travail de domestiques\nest de préparer des chambres confortables et de délicieux gâteaux pour le thé\navant le retour de chacun."}
+{"id":1532303,"jp":"領主さまから伺ったことがあります。\nアイオリアンは皆のよき友であり、フリスの守護者なのだと。","fr":"Je l'ai entendu de la bouche du seigneur :\nl'Éolien est un bon ami pour tous, et le protecteur de Fleece."}
+{"id":1532304,"jp":"私は領主さまを信じております。\n今の事態にも、きっとなにか誤解があるのでしょう。","fr":"J'ai foi en notre seigneur.\nLa situation actuelle doit reposer sur quelque malentendu."}
+{"id":1532305,"jp":"……どうか、ご自分を大切になさってください、お客さま。","fr":"… Je vous en prie, prenez bien soin de vous."}
+{"id":1532306,"jp":"ご安心ください、お客さま。\n今夜の公演は、予定どおり行います。","fr":"Ne vous inquiétez pas.\nLe spectacle de ce soir aura lieu comme prévu."}
+{"id":1532307,"jp":"今の状況も、あまり心配してないみたいだね。","fr":"La situation actuelle\nn'a pas l'air de vous\ninquiéter non plus."}
+{"id":1532308,"jp":"街はさまざまな人が集まって成り立つものです、\n親愛なるお客さま。","fr":"Une ville se construit avec toutes sortes de gens,\nvoyez-vous."}
+{"id":1532309,"jp":"フリス、帝国、連邦、イトーン、辰王朝……\n私の公演を楽しんでくださるなら、\n舞台の前にだれがいるかなど、気にする必要があるでしょうか？","fr":"Fleece, l'Empire, la Fédération, Iton, la dynastie Chen…\nTant qu'ils apprécient mon spectacle,\nai-je besoin de me soucier de qui se trouve devant la scène ?"}
+{"id":1532310,"jp":"それに……このような状況のなか、\nこの街がどこへ向かうのか……興味はありませんか？","fr":"Et puis… dans une situation pareille,\nsavoir vers où va cette ville… cela ne vous intrigue pas ?"}
+{"id":1532311,"jp":"ロージア帝国の連中、よその街へ、\nあんなに堂々と踏み込んでくるなんて！","fr":"Ces gens de l'Empire de Rosia, entrer aussi effrontément\ndans la ville des autres !"}
+{"id":1532312,"jp":"もっと本を読んで、礼儀を学ぶべきだ！","fr":"Ils feraient mieux de lire un peu plus et d'apprendre les bonnes manières !"}
+{"id":1532313,"jp":"この街の尊厳が、踏みにじられている。","fr":"La dignité de cette ville est bafouée."}
+{"id":1532314,"jp":"保護の名で征服し、公正の名で奪う……\n今、この街を襲っているのは、そういう災厄だ。","fr":"Conquérir au nom de la protection, piller au nom de la justice…\nVoilà le fléau qui s'abat aujourd'hui sur cette ville."}
+{"id":1532315,"jp":"鎧が栄誉と大義を守らず、槍が正義と使命を貫かぬのなら、\nすべてに……なんの意味があるというのか……","fr":"Si l'armure ne protège ni l'honneur ni la juste cause, si la lance ne sert ni la justice ni le devoir,\nalors à quoi bon… tout cela…"}
+{"id":1532316,"jp":"こんなことが起きて、\n領主さまも相当な重圧を感じておられるだろうね。","fr":"Avec ce qui se passe,\nle seigneur doit subir une pression énorme."}
+{"id":1532317,"jp":"今、心配しても仕方ない。\n俺たち衛兵は、まず市民の安全を守る。\nほかのことは、そのあとだ。","fr":"Ça ne sert à rien de s'inquiéter pour l'instant.\nNous, les gardes, on veille d'abord à la sécurité des citoyens.\nLe reste viendra après."}
+{"id":1532318,"jp":"帝国が、この時期に辰王朝とのフリスでの均衡を崩すとはな……","fr":"Dire que l'Empire rompt l'équilibre avec la dynastie Chen à Fleece en un moment pareil…"}
+{"id":1532319,"jp":"アルマンは勘の鋭い男だ。\nこの機会をつかんで、我々を街から締め出そうとするだろう。","fr":"Armand est un homme perspicace.\nIl va saisir l'occasion pour nous chasser de la ville."}
 {"id":1532320,"jp":"どうするつもり？","fr":"Qu'est-ce que tu comptes faire ?"}
+{"id":1532321,"jp":"なすべきことをするまでだ。\nゴヤード商会は手強いが、それは我が天江商会も同じこと。","fr":"Je ferai simplement ce qui doit être fait.\nLa Compagnie Goyard est redoutable, mais notre Compagnie Tianjiang l'est tout autant."}
+{"id":1532322,"jp":"この程度の荒波を越えられずに、\n会長の恩にどう報いればよいのだ。","fr":"Si nous ne sommes pas capables de traverser une tempête de cette ampleur,\ncomment pourrions-nous rendre au président ses bienfaits ?"}
+{"id":1532323,"jp":"ゴヤード商会とフリスの物流は、飛空船に大きく依存しています。\n今回の事件では、帝国だけでなく、商会も甚大な損害を受けました。","fr":"La logistique de la Compagnie Goyard à Fleece dépend largement des dirigeables.\nDans cet incident, l'Empire n'est pas le seul à avoir subi de lourdes pertes : la compagnie aussi."}
+{"id":1532324,"jp":"ただ、今の状況を考えると、事業を広げる機会になるかもしれませんね……","fr":"Toutefois, vu la situation actuelle, ce pourrait être l'occasion d'étendre nos affaires…"}
+{"id":1532325,"jp":"輸送力が不足する今、一時的に陸路で代替できれば……\nフリスでのゴヤード商会の商圏を、一気に広げられるかもしれません。","fr":"Alors que la capacité de transport fait défaut, si nous pouvions la remplacer un temps par la voie terrestre…\nnous pourrions étendre d'un coup le marché de la Compagnie Goyard à Fleece."}
+{"id":1532326,"jp":"先日の事件では、大きな被害もあったけど……","fr":"L'incident de l'autre jour a fait beaucoup de dégâts, mais…"}
+{"id":1532327,"jp":"フリスは、強い街だよ。みんな頑張っているから、\nきっとすぐに、前と同じ姿を取り戻せるはず！","fr":"Fleece est une ville forte. Tout le monde fait de son mieux,\nalors on retrouvera sûrement très vite notre visage d'avant !"}
+{"id":1532328,"jp":"手伝えることがあったら、いつでも言ってね。","fr":"Si je peux\naider en quoi\nque ce soit,\ndis-le-moi."}
+{"id":1532329,"jp":"星臨者さんはフリスを救った英雄だよ。\nもう、この街のために十分尽くしてくれたもん。","fr":"C'est toi qui as sauvé Fleece, Enfant des étoiles.\nTu as déjà fait bien plus que ta part pour cette ville."}
+{"id":1532330,"jp":"おばあさまの期待に応えて、みんなの信頼に報いるためにも、\nわたしももっと頑張らなくちゃ！","fr":"Pour répondre aux attentes de Grand-mère et me montrer digne de la confiance de tous,\nje dois redoubler d'efforts, moi aussi !"}
+{"id":1532331,"jp":"いつでも遊びに戻ってきてね、星臨者さん。\nフリスは、いつでもあなたを歓迎するから！","fr":"Reviens quand tu veux, Enfant des étoiles.\nFleece t'accueillera toujours !"}
+{"id":1532332,"jp":"こんばんは、星臨者さん。今日はいい一日だった？","fr":"Bonsoir, Enfant des étoiles. Ta journée s'est bien passée ?"}
+{"id":1532333,"jp":"コムギは、これからどうするの？","fr":"Komugi, qu'est-ce\nque tu vas faire\nmaintenant ?"}
+{"id":1532334,"jp":"事件は無事に収まったけど、\nフリスの置かれた立場や、その価値は変わってない……","fr":"L'incident s'est bien terminé,\nmais la position de Fleece et ce qu'elle représente n'ont pas changé…"}
+{"id":1532335,"jp":"わたしは……ここを、強くて自由な街にしたいの。","fr":"Je veux… faire de cette ville une ville forte et libre."}
+{"id":1532336,"jp":"できる限り力になるよ。\n客人や星臨者としてではなく、コムギの友達として。","fr":"Je t'aiderai autant que je pourrai.\nPas au titre d'hôte ou d'Enfant des étoiles, mais par amitié pour toi, Komugi."}
 {"id":1532337,"jp":"ふっ……！","fr":"Hop… !"}
+{"id":1532338,"jp":"ありがとう、{playerName}さん。\nアイオリアンのそよ風が、いつまでもあなたを守りますように。","fr":"Merci, {playerName}.\nQue la brise de l'Éolien te protège toujours."}
 {"id":1532339,"jp":"領主ヘルウェン","fr":"Seigneur Helwen"}
+{"id":1532340,"jp":"フリスは、いつでも貴方を歓迎する、星臨者。","fr":"Fleece t'accueillera toujours, Enfant des étoiles."}
+{"id":1532341,"jp":"ここでの時間を、存分に楽しんでおくれ。","fr":"Profite pleinement de ton séjour ici."}
+{"id":1532342,"jp":"ありがとうございます、星臨者さま。\nあなたのご尽力のおかげで、フリスは以前の平穏を取り戻すことができました。","fr":"Merci, Enfant des étoiles.\nGrâce à vos efforts, Fleece a retrouvé sa paix d'antan."}
+{"id":1532343,"jp":"おいしいお茶菓子を用意して、\nいつでもくつろぎに戻られるのを、お待ちしております。","fr":"Je vous préparerai de délicieux gâteaux pour le thé,\net j'attendrai que vous reveniez vous détendre, quand vous le voudrez."}
+{"id":1532344,"jp":"ご冗談を。メイドがお客さまに\n手伝わせるわけにはまいりません。ただ――","fr":"Vous plaisantez. Une domestique ne saurait laisser un invité\nmettre la main à la pâte. Cependant…"}
+{"id":1532345,"jp":"お時間がございましたら、お嬢さまのおそばにいて\n差し上げてください。","fr":"Si vous en avez le temps, restez auprès de Mademoiselle,\nje vous en prie."}
+{"id":1532346,"jp":"フリスの新たな領主として、\nお嬢さまはあまりにも大きな重圧を背負っておられます。\n今こそ、あなたのような方の支えが必要なのです。","fr":"En tant que nouveau seigneur de Fleece,\nMademoiselle porte un fardeau bien trop lourd.\nC'est maintenant plus que jamais qu'elle a besoin du soutien de quelqu'un comme vous."}
+{"id":1532347,"jp":"どうか、お願いいたします。星臨者さま。","fr":"Je vous en prie, Enfant des étoiles."}
+{"id":1532348,"jp":"フリス冒険ギルドへようこそ！\n住民の依頼を受ける？それとも、キボファイトに挑戦するかにゃ？","fr":"Bienvenue à la Guilde des aventuriers de Fleece !\nTu veux accepter une mission d'un habitant ? Ou te lancer dans un Duel de Kibo, nya ?"}
+{"id":1532349,"jp":"あっ、冒険者さん。\n時間があったら、キボファイト協会へ来てにゃ。","fr":"Ah, mon partenaire d'aventure !\nSi tu as le temps, passe à l'Association de Duel de Kibo, nya."}
+{"id":1532350,"jp":"今度は準備万端で、全力のキボファイトを挑むにゃ！必ず来てね！","fr":"La prochaine fois, je serai prête à fond et je te défierai en Duel de Kibo de toutes mes forces, nya ! Viens, surtout !"}
+{"id":1532351,"jp":"アイオリアンは千朔が過ぎても、自らの責務を果たした……","fr":"Même après mille lunes, l'Éolien a accompli son devoir…"}
+{"id":1532352,"jp":"それに比べれば、私の嘆きなど、どれほどのものだろう。","fr":"À côté de cela, que pèse donc mon chagrin ?"}
+{"id":1532353,"jp":"……新たな旅へ出るときなのかもしれんな。","fr":"… Il est peut-être temps pour moi de partir pour un nouveau voyage."}
+{"id":1532354,"jp":"みんなと凶獣の戦いを見て、胸の炎に火がついたんです！","fr":"En voyant tout le monde combattre les Bêtes maudites, j'ai senti une flamme s'allumer en moi !"}
+{"id":1532355,"jp":"フリスが賑やかな地であるとはかねてより耳にしていた。","fr":"J'avais depuis longtemps entendu dire que Fleece était un lieu animé."}
+{"id":1532356,"jp":"たしかに、たしかに……来た甲斐があった。","fr":"En effet, en effet… le voyage en valait la peine."}
+{"id":1532357,"jp":"もしさらに上質なキボと出会い、ともに旅をすれば、なおのこと風情があるかもしれない。","fr":"Si je rencontrais un Kibo de meilleure qualité encore pour voyager avec moi, le périple n'en aurait que plus de charme."}
+{"id":1532358,"jp":"みんな忙しいんだし、わたしももっとがんばらなきゃ！","fr":"Tout le monde est très occupé, alors je dois redoubler d'efforts moi aussi !"}
+{"id":1532359,"jp":"コムギは遊びにいかないの？","fr":"Tu ne vas pas\nt'amuser un peu,\nKomugi ?"}
 {"id":1532360,"jp":"無理はしないでね。","fr":"Ne te force pas trop."}
+{"id":1532361,"jp":"遊ぶのはあとでいくらでもできるから、いまはお仕事に集中しないと！","fr":"Je pourrai m'amuser autant que je veux plus tard. Là, je dois me concentrer sur le travail !"}
+{"id":1532362,"jp":"き、きっとあるよね？遊ぶ時間……","fr":"J'en… j'en aurai bien un jour, hein ? Du temps pour m'amuser…"}
+{"id":1532363,"jp":"まあ、大変なこともあるけど、おばあさまの負担を減らせるように頑張らなきゃ。","fr":"Bon, il y a des moments difficiles, mais je dois faire de mon mieux pour alléger le fardeau de Grand-mère."}
+{"id":1532364,"jp":"わたしなら平気だよ！みんなで思いっきり楽しんできて！","fr":"Moi, ça va ! Allez-y et amusez-vous à fond !"}
+{"id":1532365,"jp":"この昇降機の軸受け……そろそろ交換時期だな。","fr":"Les roulements de cet élévateur… il va bientôt falloir les changer."}
 {"id":1532366,"jp":"見ただけでわかるの？","fr":"Ça se voit au premier coup d'œil ?"}
 {"id":1532367,"jp":"毎日見ているからな。","fr":"Je le regarde tous les jours."}
+{"id":1532368,"jp":"昔のゴンドーロはフリスの貨物集散地で、水路を使って各地に荷物を運んでいたんだ。","fr":"Autrefois, Gondolo était le centre de fret de Fleece, et les marchandises partaient partout par les canaux."}
+{"id":1532369,"jp":"飛空船ができてから、ゴンドーロは昔ほど賑わっていないけど……","fr":"Depuis l'arrivée des dirigeables, Gondolo n'est plus aussi animée qu'avant, mais…"}
+{"id":1532370,"jp":"だからといって、水路や設備の手入れを怠るわけにはいかない。","fr":"Ce n'est pas une raison pour négliger l'entretien des canaux et des installations."}
+{"id":1532371,"jp":"アイオリアンの嵐は、いまも変わらず壮観だな。","fr":"La tempête de l'Éolien est toujours aussi impressionnante."}
+{"id":1532372,"jp":"『鉄輪の貴婦人』が冗談めかして言っていたよ。この嵐は、もはやアイオリアンが築いた壁以上のものだと。","fr":"« La Dame aux roues de fer » disait en plaisantant que cette tempête était désormais bien plus qu'un mur bâti par l'Éolien."}
+{"id":1532373,"jp":"嵐は風の星脈の一部になったんだ。たとえフリスが消え、アイオリアンが去ったとしても、嵐は残り続けるだろう。","fr":"La tempête fait maintenant partie de la veine stellaire du Vent. Même si Fleece disparaissait et que l'Éolien s'en allait, elle subsisterait."}
+{"id":1532374,"jp":"嵐が黒くなった時は、フリスも終わりかと思ったよ。","fr":"Quand la tempête est devenue noire, j'ai cru que c'en était fini de Fleece."}
+{"id":1532375,"jp":"だが、フリスはこれからも栄え続ける。消えたりしないと信じているよ。","fr":"Mais Fleece continuera de prospérer. Moi, je crois qu'elle ne disparaîtra pas."}
+{"id":1532376,"jp":"ロジニア連邦には、ボタンをひとつ押すだけで\n絵を描く機械があるらしい。あれで、この大嵐の景色をもっとたくさん残せたらいいな。","fr":"Il paraît que la Fédération de Roginia a une machine qui fait une image\nrien qu'en appuyant sur un bouton. Avec ça, j'aimerais bien immortaliser la Grande Tempête encore et encore."}
+{"id":1532377,"jp":"飛空船で畑を耕せないかな……","fr":"Je me demande si on pourrait labourer un champ avec un dirigeable…"}
+{"id":1532378,"jp":"広場をむやみにうろつかないようにね。危ないからさ。","fr":"Ne traîne pas sans raison sur la place. C'est dangereux."}
+{"id":1532379,"jp":"芽吹の谷はどこも平穏そのものだね。\nメーツァに伝えて、安心させてあげよう。|芽吹の谷はどこも平穏そのものみたい。\nメーツァに伝えて、安心させてあげよう。","fr":"La Vallée des Bourgeons est parfaitement paisible, partout.\nAllons le dire à Metsa pour la rassurer.|On dirait que la Vallée des Bourgeons est parfaitement paisible, partout.\nAllons le dire à Metsa pour la rassurer."}
+{"id":1532380,"jp":"アルマロの挑戦、開始！","fr":"Le défi d'Armaro commence !"}
+{"id":1532381,"jp":"【v1.0未実装 寮テキスト】","fr":"【v1.0 non implémenté : texte du dortoir】"}
+{"id":1532382,"jp":"しーっ……ここでちょっとサボってるの。内緒にして。ね？","fr":"Chut… je me la coule douce ici, en cachette. Tu garderas le secret, hein ?"}
+{"id":1532383,"jp":"まったく、サボり上手なんだから……","fr":"Toi alors, tu sais\nt'y prendre pour\nte la couler douce…"}
+{"id":1532384,"jp":"いまはなにを読んでるの？","fr":"Tu lis quoi,\nen ce moment ?"}
+{"id":1532385,"jp":"だって、あんたが用意してくれたこの部屋、\nほんとに居心地がいいんだもん。","fr":"Ben oui, cette chambre que tu m'as préparée,\nelle est vraiment trop confortable."}
+{"id":1532386,"jp":"侠客さんも、一日中走り回って疲れてるでしょ？\nほら、座ってひと息つこう？","fr":"Toi aussi, Âme chevaleresque, tu as couru partout toute la journée, non ?\nAllez, viens t'asseoir et souffler un peu."}
+{"id":1532387,"jp":"そうだね、じゃあ一緒にサボっちゃおうかな。","fr":"Tu as raison, alors je vais me la couler douce avec toi."}
+{"id":1532388,"jp":"えっへへ～これはね、最近出たばっかりのやつ！\n緑林の義賊に花の精が恩返しする物語だよ。","fr":"Hé hé~ Celui-là, il vient tout juste de sortir !\nC'est l'histoire d'un esprit des fleurs qui rend la pareille à un brigand au grand cœur des forêts."}
+{"id":1532389,"jp":"でも……夢中になっておやつをこぼしちゃって。\nなんとか綺麗にしようとしてたんだ……えへへ。","fr":"Mais… j'étais tellement captivée que j'ai renversé mon goûter dessus.\nJ'essayais tant bien que mal de nettoyer… hé hé."}
+{"id":1532390,"jp":"そんなところもかわいいね。","fr":"Même ça, c'est mignon chez toi."}
+{"id":1532391,"jp":"そうだ！今日ね、またおもしろい話を聞いちゃったの！","fr":"Ah, oui ! Aujourd'hui, j'ai encore entendu une histoire marrante !"}
 {"id":1532392,"jp":"今度はどんな噂話？","fr":"C'est quelle rumeur, cette fois ?"}
+{"id":1532393,"jp":"すこしまえ、鏡花州でキボのタマゴを手に入れたひとがいてね。\nものすごくめずらしいやつだからって\n大事にだいじーにして、あちこちで自慢してたんだって。","fr":"Il y a quelque temps, quelqu'un au Cap Jinghua a mis la main sur un œuf de Kibo.\nComme c'était soi-disant un spécimen super rare,\nil le chouchoutait comme un trésor et s'en vantait partout."}
+{"id":1532394,"jp":"でね、殻が破れるところを見せびらかすために\n近所のみんなを呼んで集めたんだけど……\n出てきたのはなんと！ただのキャベッコだったんだって！","fr":"Et alors, pour frimer au moment de l'éclosion,\nil a rassemblé tout le voisinage, mais…\nce qui en est sorti, tiens-toi bien, c'était un simple Cabbeco !"}
+{"id":1532395,"jp":"小玉って、本当に情報通だよね……","fr":"Xiaoyu, tu es vraiment au courant de tout…"}
+{"id":1532396,"jp":"もちろん！巷のどんな縁だって、\nうちの耳に入らないものはないんだから！","fr":"Évidemment ! Pas une rencontre en ville\nn'échappe à mes oreilles !"}
+{"id":1532397,"jp":"あーあ……借りを作っちゃったなあ。","fr":"Ah là là… me voilà avec une dette."}
+{"id":1532398,"jp":"えっとね……\n今日、本を買いに行ったんだけど、手持ちのお金が足りなくて。\nお店のおばあちゃんが「小銭はいいよ」って言ってくれたんだけど。","fr":"Eh bien…\naujourd'hui, je suis allée acheter un livre, mais je n'avais pas assez d'argent sur moi.\nLa vieille dame de la boutique m'a dit : « Laisse donc la petite monnaie. »"}
+{"id":1532399,"jp":"でもでも、いわれのない贈りもので因果を作っちゃったら大変でしょ。\nだから、ただで甘えるわけにはいかなくて。","fr":"Mais quand même, accepter un cadeau qu'on n'a pas mérité, ça crée un enchaînement de causes et d'effets, et ce serait embêtant, non ?\nAlors je ne pouvais pas profiter de sa gentillesse comme ça."}
+{"id":1532400,"jp":"どうすることにしたの？","fr":"Et qu'est-ce que tu as décidé de faire ?"}
+{"id":1532401,"jp":"お礼に散らかってた本棚を整理することにしたよ！","fr":"Pour la remercier, j'ai décidé de ranger sa bibliothèque, qui était en désordre !"}
+{"id":1532402,"jp":"えへへ……ついでにまだ読んでないおもしろい本が\n見つかっちゃったりして。","fr":"Hé hé…\nEt au passage, il se pourrait que j'aie trouvé un livre intéressant que je n'avais pas encore lu."}
+{"id":1532403,"jp":"小玉、なに考えてるの？","fr":"Xiaoyu, à quoi tu penses ?"}
 {"id":1532404,"jp":"あっ、侠客さん……","fr":"Oh, Âme chevaleresque…"}
+{"id":1532405,"jp":"ちょっとね、考えごとをしてたの。\n命って、いつだって引きあって、巡り会い、互いを知って、\n寄り添っていくものなんだなって……","fr":"Oh, je réfléchissais à un truc.\nLes vies s'attirent toujours, se croisent, apprennent à se connaître,\net finissent par cheminer ensemble…"}
+{"id":1532406,"jp":"いつも思うの。縁ってほんとーに不思議だよね。","fr":"Je me dis toujours que le destin, c'est vraiment mystérieux."}
+{"id":1532407,"jp":"小玉の縁結びはすごく意義のあることだよ。","fr":"Nouer les liens,\ncomme tu le fais,\nXiaoyu, c'est\nvraiment précieux."}
+{"id":1532408,"jp":"僕と小玉の縁も、なかなか不思議だけどね。|私と小玉の縁も、なかなか不思議だけどね。","fr":"Le destin qui nous relie, toi et moi, est assez mystérieux aussi.|Le destin qui nous relie, toi et moi, est assez mystérieux aussi."}
+{"id":1532409,"jp":"みんなをここに集めたきみの功績ははかり知れないね！","fr":"Tu as réuni tout le monde ici : on te doit énormément !"}
+{"id":1532410,"jp":"えへへ、そうだね。うちにとってすっごく大事な縁だから。\nずっと手放さないように、大切にするよ。","fr":"Hé hé, c'est vrai. C'est une rencontre qui compte énormément pour moi.\nJe vais la chérir pour ne jamais la laisser filer."}
+{"id":1532411,"jp":"いまのところ順調だね。","fr":"Pour l'instant,\ntout va bien."}
+{"id":1532412,"jp":"丁香お姉さんが、お部屋はいつだって\nぴかぴかにしなきゃって言ってました。\nだから、がんばってお掃除してます！","fr":"Grande sœur Dingxiang a dit qu'une chambre devait toujours\nêtre impeccable.\nAlors Peipei fait de son mieux pour faire le ménage !"}
 {"id":1532413,"jp":"ペイペイは偉いね！","fr":"Bravo, Peipei !"}
 {"id":1532414,"jp":"手伝おうか？","fr":"Un coup de main ?"}
+{"id":1532415,"jp":"えへへ……そんなことありませんよ。\nペイペイはもっともっと、がんばらなきゃいけません。","fr":"Hé hé… Pas du tout, voyons.\nPeipei doit faire encore beaucoup, beaucoup plus d'efforts."}
+{"id":1532416,"jp":"武侠への第一歩は、できることをしっかりやること――\nお芝居でも、そう言ってました！","fr":"Le premier pas pour devenir un héros wuxia, c'est de bien faire ce qu'on peut faire…\nC'est ce qu'ils disaient dans la pièce de théâtre !"}
+{"id":1532417,"jp":"いえ、大丈夫です！\nこれはペイペイがやるべきことですから！","fr":"Non, ça va !\nC'est à Peipei de le faire !"}
+{"id":1532418,"jp":"星臨者さんが会いにきてくれただけで、\nとってもうれしいです。\nだから、座ってゆっくりしててくださいね！","fr":"Rien que ta visite,\nça rend Peipei très heureuse.\nAlors assieds-toi et repose-toi !"}
+{"id":1532419,"jp":"星臨者さんは本物の武侠に会ったこと、ありますか？","fr":"Enfant des étoiles, tu as déjà rencontré un vrai héros wuxia ?"}
+{"id":1532420,"jp":"やっぱり画帖に描いてあるみたいに、\n『しゅっ』っと飛び上がって、『はぁっ！』と\n悪党さんをやっつけちゃうんでしょうか。","fr":"Est-ce qu'ils bondissent vraiment d'un « fiou ! »\ncomme dans les livres d'images, et qu'ils terrassent\nles méchants d'un « hiya ! » ?"}
+{"id":1532421,"jp":"うーん……だいたいそんな感じかな？","fr":"Hmm… à peu près, oui ?"}
+{"id":1532422,"jp":"ペイペイ、本物を見たことはないんですけど……\nときどき、星臨者さんがそうなのかなって、\n思うことがあります。","fr":"Peipei n'en a jamais vu en vrai, mais…\nparfois, Peipei se dit\nque c'est peut-être ce que tu es, Enfant des étoiles."}
+{"id":1532423,"jp":"ペイペイは武侠になりたいの？","fr":"Tu veux devenir une héroïne wuxia, Peipei ?"}
+{"id":1532424,"jp":"はい！ペイペイはすごくすごく\nすごーい武侠になりたいのです！","fr":"Oui ! Peipei veut devenir une héroïne wuxia super, super,\nsuper géniale !"}
+{"id":1532425,"jp":"そうすれば、みんなのことを守れるし、\nそれから……えと……暗くてこわい部屋の隅っこも\nこわくなくなるはずです……！","fr":"Comme ça, Peipei pourra protéger tout le monde, et puis…\neuh… les coins sombres et effrayants des chambres\nne lui feront plus peur… !"}
 {"id":1532426,"jp":"ふっ……はあっ！","fr":"Hop… haah !"}
+{"id":1532427,"jp":"カンフーの研究中かな？","fr":"Tu étudies le kung-fu ?"}
+{"id":1532428,"jp":"はい！ペイペイ、画帖で新しい技を見つけたのです！","fr":"Oui ! Peipei a trouvé une nouvelle technique dans un livre d'images !"}
+{"id":1532429,"jp":"こうやって……こう！\n……どうですか、竹みたいにどっしり立って、\n風が吹いても倒れません。","fr":"Comme ça… et hop !\n… Alors ? Peipei tient droit comme un bambou,\net même le vent ne la fait pas tomber."}
+{"id":1532430,"jp":"機会があれば教えて欲しいな。","fr":"J'aimerais bien que tu me l'apprennes, à l'occasion."}
+{"id":1532431,"jp":"えっ……！？で、でも、ペイペイ、\nまだ完全にはものにできてなくて……","fr":"Hein… !? M… mais Peipei\nne la maîtrise pas encore complètement…"}
+{"id":1532432,"jp":"でも、もし星臨者さんがほんとに習いたいなら、\nペイペイ、もっともっとがんばって練習して……\n教えられるようになりますっ！","fr":"Mais si tu veux vraiment l'apprendre, Enfant des étoiles,\nPeipei va s'entraîner encore beaucoup, beaucoup plus…\npour pouvoir te l'enseigner !"}
+{"id":1532433,"jp":"ペイペイの修行、見てくれてましたか？\nペイペイ、すこしは強くなれてるでしょうか？","fr":"Tu as regardé l'entraînement de Peipei ?\nPeipei est devenue un peu plus forte ?"}
+{"id":1532434,"jp":"うん、動きにキレがあったよ！","fr":"Oui, tes gestes\nétaient\nprécis !"}
+{"id":1532435,"jp":"いまのはなんていう技なの？","fr":"Elle s'appelle\ncomment, cette\ntechnique ?"}
+{"id":1532436,"jp":"本当ですか？うれしいです！\nペイペイ、毎日ちゃんとまじめに修行してるんですよ。","fr":"C'est vrai ? Peipei est trop contente !\nPeipei s'entraîne sérieusement tous les jours, tu sais."}
+{"id":1532437,"jp":"その……ときどき、修行しているうちに、\n眠くなってしまうこともあるけど……えへへ……","fr":"C'est que… parfois, pendant l'entraînement,\nPeipei a un peu sommeil… hé hé…"}
+{"id":1532438,"jp":"うーん……名前は覚えてなくて……\nお芝居を見て覚えたんですけど。","fr":"Hmm… Peipei ne se souvient plus du nom…\nElle l'a appris en regardant une pièce."}
 {"id":1532439,"jp":"えーと……たしか……","fr":"Voyons… je crois que c'était…"}
+{"id":1532440,"jp":"あ、思い出しました！\n『天を頂き地に降り立つ――乾坤反転功！』\n……だったはずです！","fr":"Ah, ça y est, ça revient !\n« Toucher le ciel, fouler la terre : Art du Renversement de Ciel et Terre ! »\n… C'était ça, normalement !"}
+{"id":1532441,"jp":"（いた。ファランタだ……）","fr":"(Trouvé. C'est Faridah…)"}
+{"id":1532442,"jp":"えへへ、いただきまーす！","fr":"Hé hé, bon appétit !"}
+{"id":1532443,"jp":"ここにあるのは摘んだばかりのレッチルフか……\n必要なのは、干したものだよね。","fr":"Ici, ce sont des Retchilf fraîchement cueillis…\nIl nous faut des séchés, non ?"}
+{"id":1532444,"jp":"エイプルがこんなにたくさん……？\nそういえば『激辛エイプル』は、レッチルフとエイプルを使うけど\nもしかして……","fr":"Autant d'Aple… ?\nD'ailleurs, l'« Aple ultra épicé » se prépare avec du Retchilf et de l'Aple,\nalors peut-être que…"}
+{"id":1532445,"jp":"このフラムールは食用じゃないよね……？","fr":"Ce Flamur ne se mange pas, si… ?"}
+{"id":1532446,"jp":"ふぅ……これくらいで足りるかな。","fr":"Ouf… ça devrait suffire ?"}
 {"id":1532447,"jp":"うぅ……おなかが……","fr":"Aïe… mon ventre…"}
+{"id":1532448,"jp":"（なんだか変な声が聞こえるような。行ってみよう）","fr":"(On dirait que j'entends une voix bizarre. Allons voir.)"}
+{"id":1532449,"jp":"この川の魚はどれも大きくて、身が締まってる。","fr":"Les poissons de cette rivière sont tous gros, avec une chair bien ferme."}
+{"id":1532450,"jp":"これを食べたら、アビィも元気になるかな？","fr":"Si Abby en mange, elle reprendra des forces ?"}
+{"id":1532451,"jp":"【v1.0未実装 アニマクエストテキスト】","fr":"【v1.0 non implémenté : texte de quête d'Anima】"}
+{"id":1532452,"jp":"（いろいろ準備したけど……『月下の秘儀』って、結局どういうものなんだろう？）","fr":"(J'ai fait plein de préparatifs, mais… le « Rite secret au clair de lune », c'est quoi, au juste ?)"}
+{"id":1532453,"jp":"待ち合わせ場所は……ここか――","fr":"Le lieu du rendez-vous… c'est ici…"}
+{"id":1532454,"jp":"ここにはいない、ここにはいないよ……","fr":"Pas ici, pas ici…"}
+{"id":1532455,"jp":"わぁっ、見つかっちゃった――\nすごい！わたし上手にかくれたつもりなのに！","fr":"Waah, tu m'as trouvée !\nIncroyable ! Je croyais m'être super bien cachée !"}
+{"id":1532456,"jp":"ミドゥもすごかったよ。\nずっと探してたから、こっちはもう足が疲れちゃった。","fr":"Toi aussi, Midu, tu t'es bien débrouillée.\nJe t'ai cherchée si longtemps que j'en ai mal aux jambes."}
+{"id":1532457,"jp":"本当に？えへへ……でもわたしもつかれちゃった。\nじゃあ、また今度遊ぼうね。","fr":"C'est vrai ? Hé hé… Mais moi aussi, je suis fatiguée.\nAlors on rejouera une autre fois."}
+{"id":1532458,"jp":"一緒に遊んでくれてありがとう、星臨者さん！","fr":"Merci d'avoir joué avec moi, Enfant des étoiles !"}
+{"id":1532459,"jp":"こいつら、結構すばしっこいな……やっと全部捕まえた！|こいつら、結構すばしっこいね……やっと全部捕まえた！","fr":"Ils sont plutôt vifs, ceux-là… Enfin, je les ai tous attrapés !|Ils sont plutôt vifs, ceux-là… Enfin, je les ai tous attrapés !"}
+{"id":1532460,"jp":"まだ波紋が残ってる……泳いで去ったばかりみたいだな。 |まだ波紋が残ってる……泳いで去ったばかりみたいだね。","fr":"Il reste encore des remous… On dirait qu'il vient juste de filer à la nage.|Il reste encore des remous… On dirait qu'il vient juste de filer à la nage."}
+{"id":1532461,"jp":"尾びれが見えた気がする……右の方に泳いでったな。|尾びれが見えた気がする……右の方に泳いでったね。","fr":"J'ai cru voir une nageoire… Il est parti vers la droite.|J'ai cru voir une nageoire… Il est parti vers la droite."}
+{"id":1532462,"jp":"ここにいたんだね……やっと見つけたよ。","fr":"Enfin, te voilà… Je t'ai cherché partout."}
+{"id":1532463,"jp":"もしかしてユニの群れまで案内してくれたのか？\n本当に気の利くいいユラナゴだ。|もしかしてユニの群れまで案内してくれたの？\n本当に気の利くいいユラナゴね。","fr":"Tu m'as montré le chemin jusqu'à ce banc d'Uni ?\nQuel Yuranago attentionné, vraiment.|Tu m'as montré le chemin jusqu'à ce banc d'Uni ?\nQuel Yuranago attentionné, vraiment !"}
+{"id":1532464,"jp":"なんだ、きみだったのか。 |なんだ、きみだったんだ。","fr":"Ah, c'était toi.|Ah, c'était toi."}
+{"id":1532466,"jp":"エイプルを置いて行ってる？\nはは……そんなのなくても、傷つけたりはしないのに。|エイプルを置いて行ってる？\nふふ……そんなのなくても、傷つけたりはしないのに。","fr":"Ils laissent des Aple derrière eux ?\nHaha… Même sans ça, je ne leur ferais pas de mal.|Ils laissent des Aple derrière eux ?\nHé hé… Même sans ça, je ne leur ferais pas de mal."}
+{"id":1532467,"jp":"どうして暴走したボアラーガが急に現れたんだ？|どうして暴走したボアラーガが急に現れたの？","fr":"Pourquoi des Boaraga déchaînés sont-ils apparus tout à coup ?|Pourquoi des Boaraga déchaînés sont-ils apparus tout à coup ?"}
+{"id":1532468,"jp":"安全のために、あいつらを道から追い払わないと。|安全のために、あの子たちを道から遠ざけなきゃ。","fr":"Pour la sécurité de tous, je dois les chasser de la route.|Pour la sécurité de tous, il faut éloigner ces petits de la route."}
+{"id":1532469,"jp":"ふぅ……これでもう安全だ。 |ふぅ……これでもう安全ね。","fr":"Ouf… Il n'y a plus de danger.|Ouf… Plus de danger, maintenant."}
+{"id":1532470,"jp":"助けてくれ――！なんでまだこんなにたくさんいるんだ！","fr":"À l'aide ! Pourquoi il y en a encore autant !"}
+{"id":1532471,"jp":"やっぱりロックだ。助けてあげよう。","fr":"C'est bien Rock. Allons l'aider."}
+{"id":1532473,"jp":"このファイエルたち、すごく怒ってるみたい……\nそれにますます凶暴さが増してる。とにかく一度落ち着かせないと。|ファイエルたち、すごく怒ってるみたい……\nそれにますます凶暴さが増してる。とにかく一度落ち着かせないと。","fr":"Ces Fayel ont l'air vraiment en colère…\nEt ils deviennent de plus en plus agressifs. Il faut d'abord les calmer.|Les Fayel ont l'air vraiment en colère…\nEt ils deviennent de plus en plus agressifs. Il faut d'abord les calmer."}
+{"id":1532474,"jp":"よしよし、これからはいい子にして、暴れないようにね。","fr":"Là, là, sois sage à partir de maintenant, et ne fais plus de grabuge, d'accord ?"}
+{"id":1532475,"jp":"あいつらめ、イタズラしやがって……！","fr":"Ces maudites bestioles et leurs farces… !"}
+{"id":1532476,"jp":"ああ、星臨者さん。実はウィンデルの連中がイタズラ好きで困っているんです。\nウィンデルっていうのは、風導の森にいるんですが。","fr":"Ah, Enfant des étoiles. En fait, les Windel adorent faire des farces, et ça nous pose bien des problèmes.\nLes Windel, ce sont ceux qui vivent dans la Forêt du Vent-Guide."}
+{"id":1532477,"jp":"このまえ薬草を採りに風導の森へ行ったときなんて、大変でしたよ。\nせっかく集めた薬草が旋風でぜんぶ吹き飛ばされたんですから！","fr":"L'autre jour, pendant ma cueillette d'herbes médicinales dans la Forêt du Vent-Guide, quelle galère !\nUn tourbillon a emporté toutes les herbes que j'avais eu tant de mal à ramasser !"}
+{"id":1532478,"jp":"結局、無駄足で終わってしまいました。\nあいつらにすこしお仕置きができたらいいと思ってるんですが……","fr":"Au final, tout ce chemin pour rien.\nJ'aimerais bien qu'on leur donne une petite leçon…"}
+{"id":1532479,"jp":"僕が手伝おうか？|私が手伝おうか？","fr":"Vous voulez un coup de main ?|Vous voulez un coup de main ?"}
+{"id":1532480,"jp":"本当ですか？助かります！\nつぎ、ウィンデルを見かけたらすこしこらしめてやってください！\nそうすればもう悪さしなくなるはずです！","fr":"C'est vrai ? Vous me sauvez !\nLa prochaine fois que vous voyez un Windel, donnez-lui une petite leçon !\nComme ça, ils devraient arrêter leurs bêtises !"}
+{"id":1532481,"jp":"あなたの行動が、近くのレインエルたちを刺激してしまったようだ……","fr":"Vos actions semblent avoir agité les Rainel des environs…"}
+{"id":1532482,"jp":"これだけあれば大丈夫そう。チルルに届けに行こう。","fr":"Ça devrait suffire. Allons les apporter à Chilul."}
+{"id":1532483,"jp":"これだけあれば十分だろう。モモに届けに行こう。","fr":"Ça devrait largement suffire. Allons les apporter à Momo."}
+{"id":1532484,"jp":"これだけあれば十分だろう。ティナナに届けに行こう。","fr":"Ça devrait largement suffire. Allons les apporter à Tinana."}
+{"id":1532485,"jp":"いい香りだ……僕もひとつ食べたくなるな。|すごくいい匂い……私まで食べたくなっちゃう。","fr":"Ça sent bon… J'en mangerais bien un aussi.|Ça sent super bon… Ça me donne envie d'en manger aussi."}
+{"id":1532486,"jp":"【実装対象外／新芽山谷随机任务CBS041-CBS050.xlsx】\n","fr":"【Non implémenté／新芽山谷随机任务CBS041-CBS050.xlsx】\n"}
+{"id":1532487,"jp":"ノオミに見せに行こう。","fr":"Allons le montrer à Noomi."}
+{"id":1532488,"jp":"撮れた、ジョルに見せよう。","fr":"C'est dans la boîte. Allons le montrer à Jol."}
+{"id":1532489,"jp":"「おめでとう！コロコロのサプライズチラシを発見したね！」","fr":"« Félicitations ! Tu as trouvé un prospectus surprise de Korokoro ! »"}
+{"id":1532490,"jp":"これだけあれば十分だ。ラクシャに届けよう。|これだけ集まれば十分だね。ラクシャに届けよう。","fr":"Ça suffira largement. Allons l'apporter à Raksha.|Avec tout ça, ça devrait suffire. Allons l'apporter à Raksha."}
+{"id":1532491,"jp":"この鉱石……端っこの形がちょっと変だ。|この鉱石……端っこの形がちょっと変だね。","fr":"Ce minerai… le bord a une forme un peu bizarre.|Ce minerai… le bord a une forme un peu bizarre."}
+{"id":1532492,"jp":"まるでなにかにかじられたみたい……","fr":"On dirait que quelque chose l'a grignoté…"}
 {"id":1532493,"jp":"周りを探してみよう。","fr":"Cherchons aux alentours."}
+{"id":1532494,"jp":"なにも見つからなかった。","fr":"Rien trouvé."}
 {"id":1532495,"jp":"えっ……ルビッツ！？","fr":"Hein… des Rubbits ?!"}
+{"id":1532496,"jp":"こいつらを倒せば、鉱石のありかがわかるかも。","fr":"Si je bats ces bestioles, je saurai peut-être où est le minerai."}
+{"id":1532497,"jp":"なるほど……鉱石は全部ここに運ばれていたのか。","fr":"Je vois… Tout le minerai a donc été transporté ici."}
+{"id":1532498,"jp":"まったく、働き者のルビッツだな……\nでもおかげで、この鉱石は全部僕のものだ。 |本当に働き者のルビッツだね……\nでもおかげで、この鉱石は全部私のもの！","fr":"Ah là là, ces Rubbits sont de vrais bourreaux de travail…\nMais grâce à eux, tout ce minerai est à moi.|Ces Rubbits travaillent vraiment dur…\nMais grâce à eux, tout ce minerai est à moi !"}
+{"id":1532499,"jp":"これだけあれば十分だな。サララに届けよう。|これで足りるはずだね。サララに渡しに行こう。","fr":"Ça devrait suffire. Allons l'apporter à Sarara.|Ça devrait aller. Allons le donner à Sarara."}
+{"id":1532500,"jp":"この手紙……宛名はザニアと書かれているな。シャルル村の女の子みたい。|この手紙……宛名はザニアだ。シャルル村の女の子みたい。","fr":"Cette lettre… elle est adressée à Zania. Une fille du Village de Charlulu, on dirait.|Cette lettre… est adressée à Zania. On dirait une fille du Village de Charlulu."}
+{"id":1532501,"jp":"彼女に渡してあげよう。","fr":"Allons la lui remettre."}
+{"id":1532502,"jp":"【実装対象外／新芽山谷随机任务CBS051-CBS060.xlsx】\n","fr":"【Non implémenté／新芽山谷随机任务CBS051-CBS060.xlsx】\n"}
+{"id":1532503,"jp":"これですこしは冷静になったか？もう勝手に放電するなよ。|これで落ち着いた？もう勝手に雷を放たないでね。","fr":"Tu t'es un peu calmé ? Ne lance plus de décharges comme ça.|Tu t'es calmé ? Ne lance plus d'éclairs comme ça, d'accord ?"}
+{"id":1532504,"jp":"【実装対象外／新芽山谷随机任务CBS061-CBS070.xlsx】\n","fr":"【Non implémenté／新芽山谷随机任务CBS061-CBS070.xlsx】\n"}
+{"id":1532505,"jp":"「ただいまパミーの奇跡工房で調査募集イベントを開催中！\nハルシヨンの写真を一枚、パミー郵便局のポポ宛に送れば、コロコロからご褒美がもらえるよ！\nさぁ、参加してみよう！」","fr":"« En ce moment, l'Atelier des miracles des Pammy organise une grande enquête !\nEnvoie une photo d'un Halcyon à Popo, à la Poste des Pammy, et Korokoro te donnera une récompense !\nAllez, participe ! »"}
+{"id":1532506,"jp":"「ただいまパミーの奇跡工房で調査募集イベントを開催中！\nルビッツの写真を一枚、パミー郵便局のポポ宛に送れば、コロコロからご褒美がもらえるよ！\nさぁ、参加してみよう！」","fr":"« En ce moment, l'Atelier des miracles des Pammy organise une grande enquête !\nEnvoie une photo d'un Rubbits à Popo, à la Poste des Pammy, et Korokoro te donnera une récompense !\nAllez, participe ! »"}
+{"id":1532507,"jp":"これだけあれば十分かな。リヤに届けに行こう。","fr":"Ça devrait suffire. Allons les apporter à Riya."}
+{"id":1532508,"jp":"まったく、食い意地の張ったドゥルだな…… |ほんとに、食いしん坊のドゥルだね……","fr":"Ah là là, quel goinfre, ce Dur…|Vraiment, quel gourmand, ce Dur…"}
+{"id":1532509,"jp":"本当にお守りがあった……これは、エルネストのものか？|本当にお守りがあった……これは、エルネストのものかな？","fr":"Il y avait vraiment un porte-bonheur… C'est celui d'Ernest ?|Il y avait vraiment un porte-bonheur… Ce serait celui d'Ernest ?"}
+{"id":1532510,"jp":"この毛……やっぱりすごく柔らかい。エンカクに渡しに行こう。","fr":"Ce pelage… il est vraiment tout doux. Allons le donner à Enkaku."}
+{"id":1532511,"jp":"この結晶、色もツヤもきれい。これならカークも喜ぶかな。","fr":"Ces cristaux ont une couleur et un éclat superbes. Kirk sera sûrement content."}
+{"id":1532512,"jp":"この鱗粉、色もツヤもきれい。これならベシーも喜んでくれるかな。","fr":"Cette poudre d'écailles a une couleur et un éclat superbes. J'espère que Bessie sera contente."}
+{"id":1532513,"jp":"【実装対象外／新芽山谷随机任务CBS071-CBS080.xlsx】\n","fr":"【Non implémenté／新芽山谷随机任务CBS071-CBS080.xlsx】\n"}
+{"id":1532514,"jp":"鱗をキアラに届けよう。","fr":"Apportons les écailles à Kiara."}
+{"id":1532515,"jp":"この羽がほんとに火打石の代わりになるのか？不思議だな……|これが火打石の代わりになるなんて、不思議ね……","fr":"Cette plume peut vraiment remplacer un silex ? Étrange…|Que ça puisse remplacer un silex, c'est étrange…"}
+{"id":1532516,"jp":"よし、上手く撮れた。これをラニに見せよう。","fr":"Bien, la photo est réussie. Allons la montrer à Rani."}
+{"id":1532517,"jp":"【実装対象外／弗利斯随机任务OBS021-OBS030.xlsx】\n","fr":"【Non implémenté／弗利斯随机任务OBS021-OBS030.xlsx】\n"}
+{"id":1532518,"jp":"【実装対象外／弗利斯随机任务OBS011-OBS020.xlsx】\n","fr":"【Non implémenté／弗利斯随机任务OBS011-OBS020.xlsx】\n"}
+{"id":1532519,"jp":"（もう錆びてるね……）","fr":"(Il est déjà rouillé…)"}
+{"id":1532520,"jp":"（使いこなすには、まず錆を落とさないと……）","fr":"(Pour bien s'en servir, il faut d'abord enlever la rouille…)"}
+{"id":1532521,"jp":"（なにこれ……盗まれた物がいっぱい！）","fr":"(Qu'est-ce que c'est… Plein d'objets volés !)"}
+{"id":1532522,"jp":"ボボォッ？ボボォーッ！","fr":"Bobooh ? Bobooooh !"}
 {"id":1532523,"jp":"ボボォ、ボボ……","fr":"Bobooh, bobo…"}
+{"id":1532524,"jp":"ふん、いくら喚いても無駄だ！一緒に牢屋行きだよ！","fr":"Hmph, tu peux brailler tant que tu veux ! Tu viens en prison avec moi !"}
+{"id":1532525,"jp":"（痛い目を見たから、もう作物を荒らしたりはしないだろう）","fr":"(Après cette leçon, ils ne viendront sûrement plus saccager les cultures.)"}
+{"id":1532526,"jp":"（でも、シアさんの言う『導き』って、このことなのかな……？）","fr":"(Mais c'est donc ça, la « voie » dont parlait Shia… ?)"}
+{"id":1532527,"jp":"たしかになにか鳴き声がする……いったいなんだろう……|たしかになにか鳴き声がする……いったいなに……？","fr":"On entend bien un cri… Qu'est-ce que ça peut être…|On entend bien un cri… Qu'est-ce que c'est… ?"}
+{"id":1532528,"jp":"【実装対象外／弗利斯随机任务OBS001-OBS010.xlsx】\n","fr":"【Non implémenté／弗利斯随机任务OBS001-OBS010.xlsx】\n"}
+{"id":1532529,"jp":"でも、なんでずっと鳴いていたんだ……？いや、ひとまずウォリスに報告しよう……|でも、なんでずっと鳴いてたの……？ううん、ともかくウォリスに報告しよう……","fr":"Mais pourquoi il criait sans arrêt… ? Non, allons d'abord faire notre rapport à Wallis…|Mais pourquoi il criait tout le temps… ? Bon, allons quand même prévenir Wallis…"}
+{"id":1532530,"jp":"（1匹目のメイメイ。邪魔されたせいか、不思議そうに「メイ」と鳴いた）","fr":"(Premier Meimei. Peut-être agacé d'avoir été dérangé, il a poussé un « Méi » perplexe.)"}
+{"id":1532531,"jp":"（2匹目のメイメイ。まん丸の瞳でこちらを見つめ、殻からふわふわの頭を覗かせている）","fr":"(Deuxième Meimei. Il me fixe de ses yeux tout ronds, sa tête duveteuse dépassant de sa coquille.)"}
+{"id":1532532,"jp":"（……おかしいな、さっきより体が重くなった気がする）","fr":"(… Bizarre, j'ai l'impression que mon corps est plus lourd que tout à l'heure.)"}
+{"id":1532533,"jp":"（3匹目のメイメイ。なるほど、ここに隠れていたのか）","fr":"(Troisième Meimei. Je vois, c'est donc là qu'il se cachait.)"}
+{"id":1532534,"jp":"（……ま、待て、頭がくらくらする……これって、なにかの病気なのか？）|（……ま、待って、頭がくらくらする……これって、なにかの病気なのかな？）","fr":"(… A… attends, j'ai la tête qui tourne… C'est une sorte de maladie ?)|(… A… attends, j'ai la tête qui tourne… Ce serait une maladie ?)"}
 {"id":1532535,"jp":"アンドレ","fr":"Andre"}
+{"id":1532536,"jp":"ここは特に問題なさそうだな……","fr":"Rien de particulier par ici, on dirait…"}
+{"id":1532537,"jp":"ここは……ん！？なにかが一瞬走り抜けたような……？","fr":"Ici… Hein !? Quelque chose vient de filer, non… ?"}
+{"id":1532538,"jp":"僕も見た！追いかけよう！|私も見た！追いかけよう！","fr":"Moi aussi, je l'ai vu ! Poursuivons-le !|Moi aussi, je l'ai vu ! Poursuivons-le !"}
+{"id":1532539,"jp":"これは……シードロか？","fr":"C'est… un Seedro ?"}
+{"id":1532540,"jp":"なんだか迷っているみたいだね……？","fr":"On dirait qu'il est un peu perdu… ?"}
+{"id":1532541,"jp":"間一髪でしたね。おかげで火災にならずに済みました。","fr":"C'était moins une. Grâce à vous, on a évité un incendie."}
 {"id":1532542,"jp":"ジュル！","fr":"Jyuru !"}
+{"id":1532543,"jp":"ご苦労さまでした。ここから先は我々に任せてください。\nこの子は安全な場所に移します。","fr":"Merci pour votre aide. Laissez-nous faire à partir d'ici.\nNous allons mettre ce petit à l'abri."}
+{"id":1532544,"jp":"ああ、そうだ。こちらがあなたへの報酬です。どうぞお受け取りください。","fr":"Ah, c'est vrai. Voici votre récompense. Je vous en prie, acceptez-la."}
+{"id":1532545,"jp":"森の防火は、みんなの責任です。\n日頃からご理解とご協力をいただき、感謝いたします！","fr":"La prévention des incendies de forêt est l'affaire de tous.\nMerci de votre compréhension et de votre coopération au quotidien !"}
+{"id":1532546,"jp":"（このスパナは必要な道具だね……）","fr":"(Cette clé à molette fait partie des outils qu'il lui faut…)"}
+{"id":1532547,"jp":"（このペンチはパイパーの物だろう。持っていこう）","fr":"(Cette pince doit être à Piper. Je l'emporte.)"}
+{"id":1532548,"jp":"（このハンマーの柄にパイパーの名前が……まさか自分がもう一本持ってること忘れてたのか？）","fr":"(Le nom de Piper est sur le manche de ce marteau… Elle aurait oublié qu'elle en avait déjà un autre ?)"}
+{"id":1532549,"jp":"（これだけあれば十分かな？宝箱ポーション、待ってろよ！）|（これだけあれば十分かな？宝箱ポーション！待っててよ！）","fr":"(Ça devrait suffire, non ? Potion du coffre au trésor, attends-moi !)|(Ça devrait suffire, non ? Potion du coffre au trésor ! Attends-moi !)"}
+{"id":1532550,"jp":"【実装対象外／弗利斯随机任务OBS051-OBS060.xlsx】\n","fr":"【Non implémenté／弗利斯随机任务OBS051-OBS060.xlsx】\n"}
+{"id":1532551,"jp":"【実装対象外／弗利斯随机任务OBS031-OBS040.xlsx】\n","fr":"【Non implémenté／弗利斯随机任务OBS031-OBS040.xlsx】\n"}
+{"id":1532552,"jp":"（これくらいで足りるかな）","fr":"(Ça devrait suffire, non ?)"}
+{"id":1532553,"jp":"【実装対象外／弗利斯随机任务OBS001-OBS010.xlsx】","fr":"【Non implémenté／弗利斯随机任务OBS001-OBS010.xlsx】"}
+{"id":1532554,"jp":"【実装対象外／弗利斯随机任务OBS071-OBS080.xlsx】\n","fr":"【Non implémenté／弗利斯随机任务OBS071-OBS080.xlsx】\n"}
+{"id":1532555,"jp":"光る欠片はこれで十分だろう。シャネルのところに持って帰ろう。","fr":"Ça fait assez de fragments lumineux. Rapportons-les à Chanel."}
+{"id":1532556,"jp":"お前たち悪党だったのか！\n今度は大風車のなかのキボを狙っているのか！","fr":"Alors vous êtes des malfaiteurs !\nEt cette fois, vous vous en prenez aux Kibo du grand moulin !"}
+{"id":1532557,"jp":"ニャアホたちにもしものことが起きるまえに、\nみんな助け出さないと！","fr":"Il faut tous les sauver\navant qu'il n'arrive malheur aux Nyaho !"}
 {"id":1532558,"jp":"風車の管理者","fr":"Gardien du moulin"}
+{"id":1532559,"jp":"うちの子たちを助けてくれてありがとう！","fr":"Merci d'avoir sauvé mes petits !"}
+{"id":1532560,"jp":"もし落ちたら、いつでも私のところへ来なさい。\nニャアホが飛んで戻してくれるよ！","fr":"Si jamais tu tombes, viens me voir quand tu veux.\nLes Nyaho te ramèneront en volant !"}
+{"id":1532561,"jp":"ありがとう、おじいさん！","fr":"Merci, grand-père !"}
+{"id":1532562,"jp":"それと、風車の回転軸もやつらに壊されてしまった……\n上まで登りたいなら、先に直さないといけないよ。","fr":"Et puis, ils ont aussi cassé l'axe de rotation du moulin…\nSi tu veux grimper jusqu'en haut, il faudra d'abord le réparer."}
+{"id":1532563,"jp":"わわわ！本当に全部動き出した！！","fr":"Waouh ! Tout s'est vraiment remis en marche !!"}
+{"id":1532564,"jp":"これで残りの悪党を探しに上へ行けるね！","fr":"Maintenant, on peut monter chercher le reste de ces malfaiteurs !"}
+{"id":1532565,"jp":"高すぎてジャンプしても届かないのだ……\nほかの方法を考えよう！","fr":"C'est trop haut, même en sautant on n'y arrive pas…\nTrouvons un autre moyen !"}
 {"id":1532566,"jp":"進化教団信者","fr":"Fidèle du Culte de l'Évolution"}
+{"id":1532567,"jp":"我々の計画を邪魔するな！！","fr":"Ne vous mêlez pas de nos plans !!"}
+{"id":1532568,"jp":"別の道を探すしかないのだ！","fr":"Il n'y a plus qu'à chercher un autre chemin !"}
+{"id":1532569,"jp":"高いな……でも、この大妖精さまは\nこれくらい怖くないのだ！","fr":"C'est haut… mais la Grande Fée\nn'a pas peur de si peu !"}
+{"id":1532570,"jp":"そこまでだ！我々の計画を邪魔するな！","fr":"Halte-là ! Ne vous mêlez pas de nos plans !"}
+{"id":1532571,"jp":"魔法弾だぞ。避けるのだ！","fr":"Un projectile magique ! Esquive !"}
 {"id":1532572,"jp":"撤退だ！転送魔法！","fr":"Repli ! Magie de téléportation !"}
 {"id":1532573,"jp":"なに……うん？","fr":"Quoi… hein ?"}
 {"id":1532574,"jp":"く、来るな――！","fr":"N-n'approchez pas – !"}
+{"id":1532575,"jp":"やっつけすぎて、足場まで落としちゃったのだ！\nフフーン、これを伝って上に行こう！","fr":"À force de taper fort, on a même fait tomber l'échafaudage !\nHé hé, servons-nous-en pour grimper !"}
 {"id":1532577,"jp":"ここからどうぞ！","fr":"Par ici, je vous en prie !"}
 {"id":1532579,"jp":"この気配は……","fr":"Cette présence…"}
 {"id":1532580,"jp":"また敵だ！","fr":"Encore des ennemis !"}
@@ -28801,7 +30372,7 @@
 {"id":1660120,"jp":"あっ……えっと……","fr":"Ah… euh…"}
 {"id":1660122,"jp":"ニャ～","fr":"Miaou~"}
 {"id":1660123,"jp":"む？何者だ！","fr":"Hm ? Qui va là !"}
-{"id":1660125,"jp":"アイオリアンの！？","fr":"D'Aeolian !?"}
+{"id":1660125,"jp":"アイオリアンの！？","fr":"D'Éolien !?"}
 {"id":1660126,"jp":"うん、そうだよね……","fr":"Oui, c'est vrai…"}
 {"id":1660129,"jp":"そういうこと。","fr":"Voilà."}
 {"id":1660134,"jp":"承知しました。","fr":"Entendu."}
