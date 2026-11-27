@@ -59731,33 +59731,67 @@
 {"id":1559536,"jp":"先に使用できないキボを入れ替えてください。","fr":"Veuillez d'abord remplacer les Kibo indisponibles."}
 {"id":1559537,"jp":"{0}匹のキボを編成するとファイトを開始できます。","fr":"Formez une équipe de {0} Kibo pour commencer le duel."}
 {"id":1559538,"jp":"禁止されたスキルを変更してください。","fr":"Veuillez remplacer les compétences interdites."}
+{"id":1559539,"jp":"このステージでは使用できないスキルが含まれています。再度選択してください。","fr":"Votre sélection contient des compétences inutilisables dans cette épreuve. Veuillez modifier votre sélection."}
+{"id":1559540,"jp":"チーム内に使用できないキボがいます。入れ替えてください。","fr":"Votre équipe contient des Kibo inutilisables dans cette épreuve. Veuillez les remplacer."}
+{"id":1559541,"jp":"第{0}章チャレンジ成功","fr":"Défi du chapitre {0} réussi"}
 {"id":1559542,"jp":"ノーマルモード","fr":"Mode normal"}
 {"id":1559543,"jp":"ハードモード","fr":"Mode difficile"}
 {"id":1559544,"jp":"潜行","fr":"Plongée"}
+{"id":1559545,"jp":"最大レベルに達しています","fr":"Niveau maximal atteint"}
+{"id":1559546,"jp":"次のレベル ({0}/{1})","fr":"Niveau suivant ({0}/{1})"}
+{"id":1559547,"jp":"キボの生息地情報を解放可能","fr":"Les informations sur l'habitat du Kibo peuvent être débloquées"}
+{"id":1559548,"jp":"このキボは名前の変更ができません。","fr":"Impossible de renommer ce Kibo."}
 {"id":1559549,"jp":"キボの名前を変更","fr":"Renommer le Kibo"}
+{"id":1559550,"jp":"名前に特殊文字は使用できません。","fr":"Les noms ne peuvent pas contenir de caractères spéciaux."}
+{"id":1559551,"jp":"キボの名前は空にできません。","fr":"Le nom d'un Kibo ne peut pas être vide."}
+{"id":1559552,"jp":"注意！<color=#FF7E6D>自然ポイント</color>の獲得が上限に達しています。以下のキボとお別れしますか？","fr":"Attention ! Vous avez atteint la limite d'obtention de <color=#FF7E6D>points de nature</color>. Voulez-vous tout de même vous séparer des Kibo suivants ?"}
+{"id":1559553,"jp":"現在のキボ小屋は空です","fr":"L'Enclos à Kibo actuel est vide"}
 {"id":1559554,"jp":"小屋並び替え","fr":"Trier les enclos"}
+{"id":1559555,"jp":"現在の小屋を整理して並び替えますか？","fr":"Voulez-vous réorganiser le contenu de cet enclos ?"}
+{"id":1559556,"jp":"この機能は未解放で、今後実装予定です。","fr":"Cette fonctionnalité n'est pas encore disponible. Elle sera ajoutée lors d'une prochaine mise à jour."}
+{"id":1559557,"jp":"現在、キボを確認できません。","fr":"Impossible de consulter les Kibo pour le moment."}
+{"id":1559558,"jp":"キボの数が上限に達しました。","fr":"Vous avez atteint le nombre maximal de Kibo."}
+{"id":1559559,"jp":"関連する可能性のある因子","fr":"Facteurs potentiellement associés"}
+{"id":1559560,"jp":"条件に一致する因子は現在ありません。","fr":"Aucun facteur ne correspond actuellement aux critères."}
+{"id":1559561,"jp":"<color={0}><size=18>速</size></color> {1}","fr":"<color={0}><size=18>VIT</size></color> {1}"}
 {"id":1559562,"jp":"~孵化~","fr":"~Éclosion~"}
+{"id":1559563,"jp":"このタマゴの孵化をキャンセルしますか？","fr":"Voulez-vous annuler l'incubation de cet œuf ?"}
 {"id":1559564,"jp":"解放レベル：{0}","fr":"Niveau de déblocage : {0}"}
+{"id":1559565,"jp":"このキボは<color=#ff7e6d>{0}</color>に装備されています。装備を外して選択しますか？","fr":"Ce Kibo est actuellement équipé par <color=#ff7e6d>{0}</color>. Le retirer pour le sélectionner ?"}
+{"id":1559566,"jp":"マウントの装備を外しました","fr":"Monture retirée"}
+{"id":1559567,"jp":"このキボは現在マウントとして装備中です。装備を外して選択しますか？","fr":"Ce Kibo est actuellement équipé comme monture. Le retirer pour le sélectionner ?"}
 {"id":1559568,"jp":"現在、騎乗状態です。","fr":"Actuellement en selle."}
+{"id":1559569,"jp":"キボのアクティブスキル","fr":"Compétence active de Kibo"}
 {"id":1559570,"jp":"キボの協力攻撃スキル","fr":"Compétence d'attaque coopérative du Kibo"}
 {"id":1559571,"jp":"キボのその他スキル","fr":"Autres compétences du Kibo"}
+{"id":1559572,"jp":"フレンドの育成回数が上限に達しているため、育成に失敗しました。","fr":"Impossible de procéder à l'entraînement, car votre ami a atteint sa limite d'entraînements."}
 {"id":1559573,"jp":"メインの遺伝元","fr":"Source génétique principale"}
 {"id":1559574,"jp":"サブの遺伝元","fr":"Source génétique secondaire"}
 {"id":1559575,"jp":"注意","fr":"Attention"}
+{"id":1559576,"jp":"自然ポイントが不足しています。","fr":"Points de nature insuffisants."}
 {"id":1559577,"jp":"未獲得","fr":"Non obtenu"}
 {"id":1559578,"jp":"孵化完了","fr":"Éclosion terminée"}
 {"id":1559579,"jp":"残りの孵化時間","fr":"Temps d'éclosion restant"}
+{"id":1559580,"jp":"残りの孵化時間 <color=#27e3a3>{0}</color>","fr":"Temps restant avant l'éclosion : <color=#27e3a3>{0}</color>"}
+{"id":1559581,"jp":"<color=#27e3a3>孵化完了</color>","fr":"<color=#27e3a3>Éclosion terminée</color>"}
 {"id":1559582,"jp":"推奨：Lv.{0}","fr":"Recommandé : Niv. {0}"}
 {"id":1559583,"jp":"討伐開始","fr":"Lancer la chasse"}
 {"id":1559584,"jp":"チームに編成済み","fr":"Déjà dans l'équipe"}
+{"id":1559585,"jp":"リーダーを{0}に譲渡しました。","fr":"Le rôle de chef d'équipe a été transféré à {0}."}
 {"id":1559586,"jp":"絆Lv.{0}","fr":"Lien Niv. {0}"}
 {"id":1559587,"jp":"探索度：{0}","fr":"Taux d'exploration : {0}"}
+{"id":1559588,"jp":"このエリアではマップを開けません。","fr":"Impossible d'ouvrir la carte dans cette zone."}
 {"id":1559589,"jp":"探索・{0}","fr":"Exploration - {0}"}
+{"id":1559590,"jp":"現在のマーカー付近の星脈ノードにワープしますか？","fr":"Voulez-vous vous téléporter au nœud de veine stellaire situé près du marqueur actuel ?"}
+{"id":1559591,"jp":"合計で{0}を{1}個獲得","fr":"Total obtenu : {0} ×{1}"}
 {"id":1559592,"jp":"探索レベル","fr":"Niveau d'exploration"}
 {"id":1559593,"jp":"次のレベル","fr":"Niveau suivant"}
 {"id":1559594,"jp":"探索度 {0}","fr":"Taux d'exploration {0}"}
 {"id":1559595,"jp":"スターリンク未完了","fr":"Lien stellaire inachevé"}
+{"id":1559596,"jp":"このキボを追跡しますか？","fr":"Voulez-vous suivre la trace de ce Kibo ?"}
+{"id":1559597,"jp":"<color=#d89503>{0}</color>周辺に出現","fr":"Apparaît aux alentours de <color=#d89503>{0}</color>"}
 {"id":1559598,"jp":"珍種のキボ","fr":"Kibo d'espèce rare"}
+{"id":1559599,"jp":"現在の地区の星律を所持していません。","fr":"Vous ne possédez pas la Loi stellaire de cette région."}
 {"id":1559600,"jp":"マーカーを作成","fr":"Créer un marqueur"}
 {"id":1559601,"jp":"情報更新","fr":"Mise à jour des infos"}
 {"id":1559602,"jp":"冒険の足跡","fr":"Traces d'aventure"}
@@ -59765,25 +59799,51 @@
 {"id":1559604,"jp":"エリア観測","fr":"Observation de la zone"}
 {"id":1559605,"jp":"絶景ガイド","fr":"Guide des panoramas"}
 {"id":1559606,"jp":"-{0}探索","fr":"-{0} exploration"}
+{"id":1559607,"jp":"（{0}で2倍UPを解放）","fr":"(Bonus ×2 débloqué avec {0})"}
 {"id":1559608,"jp":"ワープ","fr":"Téléportation"}
 {"id":1559609,"jp":"作業一時中断","fr":"Suspendre le travail"}
 {"id":1559610,"jp":"採集上限","fr":"Limite de récolte"}
 {"id":1559611,"jp":"追跡解除","fr":"Arrêter le suivi"}
 {"id":1559612,"jp":"現在の満腹度：{0}","fr":"Satiété actuelle : {0}"}
+{"id":1559613,"jp":"{0}秒後に-{1}へ移動","fr":"Déplacement vers -{1} dans {0} secondes"}
+{"id":1559614,"jp":"近くに珍種のキボ<{0}>が現れました。","fr":"Un Kibo d'espèce rare <{0}> est apparu à proximité."}
 {"id":1559615,"jp":"{0}秒後に集計開始","fr":"Comptage dans {0} secondes"}
+{"id":1559616,"jp":"{0}秒以内にチャレンジを完了してください。","fr":"Terminez le défi en {0} secondes maximum."}
+{"id":1559617,"jp":"追跡ターゲットの付近に到達しました。追跡を停止します。","fr":"Vous êtes à proximité de la cible recherchée. Le suivi est désactivé."}
+{"id":1559618,"jp":"キャラの満腹度が{0}の時、2秒ごとに{1}%のHPを回復、","fr":"Lorsque la satiété du personnage est de {0}, récupération de {1}% des PV toutes les 2 secondes,"}
+{"id":1559619,"jp":"マウントの満腹度{0}、移動速度{1}%","fr":"Satiété de la monture : {0}, vitesse de déplacement : {1}%"}
 {"id":1559620,"jp":"アンケート","fr":"Sondage"}
 {"id":1559621,"jp":"料理はありません。","fr":"Aucun plat."}
+{"id":1559622,"jp":"生産完了したアイテムはありません。","fr":"Aucun objet n'a terminé son cycle de production."}
+{"id":1559623,"jp":"牧場は最高レベルに達しています。","fr":"Le pâturage a atteint son niveau maximal."}
 {"id":1559624,"jp":"{0} 畑小屋","fr":"Cabane de champ {0}"}
+{"id":1559625,"jp":"必要な水量：{0}/{1}","fr":"Quantité d'eau nécessaire : {0}/{1}"}
 {"id":1559626,"jp":"収穫可能","fr":"Récolte possible"}
 {"id":1559627,"jp":"{0}後に成熟","fr":"Maturité dans {0}"}
+{"id":1559628,"jp":"完全な成長に必要な水量","fr":"Quantité d'eau nécessaire pour atteindre la maturité"}
 {"id":1559629,"jp":"配置を解除","fr":"Retirer du poste"}
 {"id":1559630,"jp":"~{0}の派遣~","fr":"~Affectation : {0}~"}
 {"id":1559631,"jp":"~牧場の派遣~","fr":"~Affectation au pâturage~"}
+{"id":1559633,"jp":"キボがいないため、この料理は作れません","fr":"Impossible de préparer ce plat sans Kibo"}
+{"id":1559634,"jp":"アイテム{0}が不足しています","fr":"Quantité insuffisante de {0}"}
+{"id":1559635,"jp":"調理鍋Lv.{0}で解放","fr":"Se débloque avec la Marmite Niv. {0}"}
+{"id":1559636,"jp":"キボの満腹度が足りないため、作業できません。","fr":"Ce Kibo a trop faim pour travailler."}
+{"id":1559637,"jp":"キボは現在食事中です。","fr":"Ce Kibo est actuellement en train de manger."}
+{"id":1559638,"jp":"フィールド設備の管理には管理人の配属が必要です。","fr":"La gestion des installations en extérieur nécessite l'affectation d'un responsable."}
+{"id":1559639,"jp":"収穫できる生産物がありません。","fr":"Aucun produit à récolter."}
+{"id":1559640,"jp":"収益が上限に達するまで：{0}","fr":"Temps restant avant d'atteindre le plafond de revenus : {0}"}
 {"id":1559641,"jp":"野生のキボが作業中","fr":"Un Kibo sauvage travaille"}
 {"id":1559642,"jp":"残り時間：{0}","fr":"Temps restant : {0}"}
 {"id":1559643,"jp":"まもなく上限に到達","fr":"Limite bientôt atteinte"}
 {"id":1559644,"jp":"上限に達しました。","fr":"Limite atteinte."}
+{"id":1559645,"jp":"<color=#819965>作業中</color>","fr":"<color=#819965>Au travail</color>"}
+{"id":1559646,"jp":"<color=#ba3f2e>キボ未派遣</color>","fr":"<color=#ba3f2e>Aucun Kibo en Affectation</color>"}
+{"id":1559647,"jp":"<color=#ba3f2e>満腹度不足</color>","fr":"<color=#ba3f2e>Satiété insuffisante</color>"}
+{"id":1559648,"jp":"<color=#87725A>待機中</color>","fr":"<color=#87725A>En attente</color>"}
+{"id":1559649,"jp":"<color=#e0923e>倉庫がいっぱいです。</color>","fr":"<color=#e0923e>L'entrepôt est plein.</color>"}
 {"id":1559650,"jp":"総合評価","fr":"Évaluation globale"}
+{"id":1559651,"jp":"このキボは作業中のため、キャンセルできません。","fr":"Impossible d'annuler l'Affectation de ce Kibo, car il est actuellement au travail."}
+{"id":1559652,"jp":"農園本部がいっぱいのため、キボを派遣できません。","fr":"Impossible d'envoyer des Kibo en Affectation, car le quartier général de la ferme est plein."}
 {"id":1559655,"jp":"キボ未派遣","fr":"Aucun Kibo en affectation"}
 {"id":1559656,"jp":"倉庫がいっぱいです。","fr":"L'entrepôt est plein."}
 {"id":1559657,"jp":"{0}キボ牧場","fr":"Pâturage à Kibo {0}"}
