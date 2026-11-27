@@ -55329,19 +55329,69 @@
 {"id":1553858,"jp":"ノノ、ざいこ、もってる。かいがら、3つでいいよ。","fr":"Nono… a du stock. Trois coquillages… ça suffit."}
 {"id":1553859,"jp":"なっ……！？キミたち、ずるいぞ！","fr":"Quoi… !? Hé, c'est pas du jeu, vous deux !"}
 {"id":1553860,"jp":"市場がどうとか知らないよ。\nけど、どの物資が貝殻いくつなのかは、村のみんなで話しあって決めた結果なんだ！\nソザンカ様にちかって、ボクは嘘なんかついてないからね！","fr":"J'y connais rien, moi, à vos histoires de marché !\nMais le nombre de coquillages que coûte chaque marchandise, c'est tout le village qui en a décidé ensemble !\nJe te jure sur Dame Sozanka que je ne mens pas !"}
+{"id":1553861,"jp":"なるほど……そういえば、なぜシャルル村の通貨は貝殻なんだ？|なるほど……そういえば、どうしてシャルル村の通貨は貝殻なの？","fr":"Je vois… Au fait, pourquoi les coquillages servent-ils de monnaie au Village de Charlulu ?|Je vois… Au fait, pourquoi les coquillages servent-ils de monnaie au Village de Charlulu ?"}
+{"id":1553862,"jp":"『つうか』？なにそれ。\nよくわかんないけど、これはボクらが生まれるずっとまえから決まってたことだよ。","fr":"De « monnaie » ? C'est quoi, ça ?\nJe comprends pas trop, mais ça a été décidé bien avant notre naissance."}
+{"id":1553863,"jp":"なぜ貝殻にしたかっていうと……","fr":"Quant à savoir pourquoi les coquillages ont été choisis, c'est parce que…"}
 {"id":1553864,"jp":"ドゥルッ！？","fr":"Duru !?"}
+{"id":1553865,"jp":"あっ！それ、ボクが集めてる月光麻だぞ！こら待て、逃げるな！","fr":"Hé ! C'est le chanvre lunaire que j'ai ramassé, ça ! Reviens ici, petit voleur !"}
+{"id":1553866,"jp":"フン、罰が当たったのよ。ソザンカ様さまは、なんだってお見通しなんだから！\n貝殻は3つで間違いなかったってことね。","fr":"Hmpf, c'est bien fait pour toi ! Dame Sozanka voit absolument tout !\nC'est donc bien trois coquillages, comme je le disais."}
+{"id":1553867,"jp":"カークがいなくなったのだ……\nそうだ、ティナナは知ってるか？いろんなものと交換できるのが『貝殻』になった理由を。","fr":"Et voilà, Kirk est parti…\nDis, Tinana, tu sais pourquoi on utilise des coquillages pour obtenir toutes sortes de marchandises ?"}
+{"id":1553868,"jp":"貝殻？うーん、たしか、村のお年寄りたちが言ってたような……","fr":"Les coquillages ? Hmm… Il me semble que les anciens du village en avaient parlé…"}
+{"id":1553869,"jp":"ティナナ！ドゥルが果物を盗んでったぞ！","fr":"Tinana ! Un Dur t'a volé tes fruits !"}
+{"id":1553870,"jp":"えっ！？ちょっとドゥル、だめよ！","fr":"Quoi !? Hé, Dur ! Tu n'as pas le droit !"}
+{"id":1553871,"jp":"……ほら、見たでしょう？結局いつもこうなるんです。","fr":"… Vous voyez ? C'est exactement ce qui se passe à chaque fois."}
+{"id":1553872,"jp":"これがいわゆる『呪い』ってやつか……","fr":"C'est donc ça, cette fameuse « Malédiction »…"}
+{"id":1553873,"jp":"と、とにかく、ほかをあたってみよう。","fr":"E-enfin, essayons de nous renseigner ailleurs."}
 {"id":1553874,"jp":"師匠！火加減はどう？","fr":"Maître ! Comment est le feu ?"}
+{"id":1553875,"jp":"まだ足りない、もっと大きく燃やすんだ！でないと、こいつが溶けない！","fr":"C'est pas encore assez chaud ! Il faut attiser les flammes ! Sinon, ça ne fondra jamais !"}
+{"id":1553876,"jp":"よお、星臨者、今日はどうした？装備を修理しにきたのか？","fr":"Salut, Enfant des étoiles ! Qu'est-ce qui t'amène aujourd'hui ? Tu viens faire réparer ton équipement ?"}
+{"id":1553877,"jp":"うわ、すごい炎！いったいなにをしてるのだ？","fr":"Waouh, quelles flammes ! Mais qu'est-ce que tu fabriques ?"}
+{"id":1553878,"jp":"鉱石を錬成してるんだ。こいつはなにかと手間ががかってな。","fr":"Je raffine du minerai. Celui-ci demande pas mal de travail, tu vois."}
+{"id":1553879,"jp":"辺鄙なところにある村なのに、こんなに優れた鍛冶屋さんがいるんですね……！","fr":"Qui aurait cru trouver un forgeron aussi talentueux dans un village aussi reculé… !"}
+{"id":1553880,"jp":"ははっ！この技術は先祖から代々からのものでな。\n俺はそれを受け継いで、ちょっと改良しただけに過ぎないさ。","fr":"Ah ah ! Cette technique se transmet dans ma famille depuis des générations.\nJe n'ai fait qu'hériter de ce savoir-faire et y apporter quelques améliorations."}
+{"id":1553881,"jp":"……そうだ、とくに用がないならちょっと離れてくれ。\nこの作業は少々危険なんでな。","fr":"… Au fait, si vous n'avez besoin de rien, reculez un peu.\nCe que je fais est assez dangereux."}
+{"id":1553882,"jp":"あの……実は、聞きたいことがあって……","fr":"Dis… En fait, j'aurais une question à te poser…"}
+{"id":1553883,"jp":"貝殻にまつわる疑問をエンカクに伝えた。","fr":"Vous avez fait part à Enkaku de vos interrogations au sujet des coquillages."}
+{"id":1553884,"jp":"貝殻か……？そうだな……あれはたしか……","fr":"Les coquillages… ? Voyons voir… Si je me souviens bien…"}
+{"id":1553885,"jp":"わわっ！し、師匠！溶鉱炉が、溶鉱炉が燃えてるよー！","fr":"Aaaah ! M-maître ! Le fourneau ! Le fourneau est en feu !"}
+{"id":1553886,"jp":"おおそうか、なら準備は整ったな。","fr":"Ah, parfait ! On va pouvoir commencer, alors."}
+{"id":1553887,"jp":"ちがう！火事だってば、か・じ！","fr":"Mais non ! Il y a un incendie ! Un IN-CEN-DIE !"}
+{"id":1553888,"jp":"なんだと！？ああっ、ソザンカのローブよ！お、俺の溶鉱炉が！","fr":"QUOI !? Par la robe de Sozanka ! M-mon fourneau !"}
 {"id":1553889,"jp":"やっぱり……のろい。","fr":"Je le savais… la malédiction."}
 {"id":1553890,"jp":"い、行こうなのだ……","fr":"A-allons-y…"}
+{"id":1553891,"jp":"いらっしゃいませ、星臨者さん。\nなにか気に入ったものがあれば、どうぞ手に取って……","fr":"Bienvenue, Enfant des étoiles.\nSi quelque chose vous plaît, n'hésitez pas à le prendre pour l'examiner…"}
+{"id":1553892,"jp":"ちょっと待つのだ！この近くにドゥルはいないのだ！？","fr":"Attends une seconde ! Il n'y a pas de Dur dans les environs, au moins !?"}
 {"id":1553893,"jp":"いません！","fr":"Aucun !"}
+{"id":1553894,"jp":"近くで燃えてるものはないのだ！？","fr":"Rien n'est en train de brûler dans les parages !?"}
 {"id":1553895,"jp":"ない。","fr":"Rien."}
+{"id":1553896,"jp":"いいか、チルル、よく聞くのだ。\nこのあと急ぎの用事とか、緊急事態が起きる予定とかはないのだ？","fr":"Très bien, Chilul, écoute attentivement la grande Lumi.\nTu n'as pas de course urgente à faire ni de catastrophe prévue dans les prochaines minutes ?"}
+{"id":1553897,"jp":"よ、用事はないですけど……\n緊急事態に関しては、わたしにもわかりません……","fr":"J-je n'ai rien de prévu, non…\nQuant aux catastrophes, je ne saurais pas vous dire…"}
+{"id":1553898,"jp":"ではいまだ！星臨者よ、チルルに質問をぶつけるのだ！","fr":"Alors, c'est le moment ! Enfant des étoiles, pose vite ta question à Chilul !"}
+{"id":1553899,"jp":"チルル、よく聞いてくれ。この質問は、すこし危険なんだ……|チルル、よく聞いて。この質問は、すこし危険なの……","fr":"Chilul, écoute-moi bien. La question que je vais te poser est un peu dangereuse…|Chilul, écoute-moi bien. La question que je vais te poser est un peu dangereuse…"}
 {"id":1553900,"jp":"きみは……知ってる？","fr":"Toi… tu sais ?"}
+{"id":1553901,"jp":"知ってるとは、なにを……？","fr":"Si je connais… quoi exactement ?"}
+{"id":1553902,"jp":"シャルル村の、貝殻なのだ……","fr":"Les coquillages du Village de Charlulu…"}
 {"id":1553903,"jp":"か……貝殻？","fr":"D-des coquillages ?"}
+{"id":1553904,"jp":"そうです。貝殻がなぜ取り引きに使われるようになったのか、知ってますか？","fr":"Exactement. Savez-vous pourquoi les coquillages sont utilisés pour les échanges commerciaux ?"}
+{"id":1553905,"jp":"取り引きに使われる理由ですか……？","fr":"Pourquoi on utilise les coquillages pour les échanges… ?"}
 {"id":1553906,"jp":"知らない？","fr":"Tu ne sais pas ?"}
+{"id":1553907,"jp":"ごめんなさい。わたしには、わかりません……","fr":"Je suis désolée, je ne le sais pas…"}
 {"id":1553908,"jp":"そうだったのか……","fr":"Donc c'était ça…"}
+{"id":1553909,"jp":"みんな、チルルの店でなにしてるんだ？\nなんか楽しいことでもあったのか？","fr":"Hé, qu'est-ce que vous faites tous dans la boutique de Chilul ?\nIl se passe quelque chose d'amusant ?"}
+{"id":1553910,"jp":"テララ、まえに貝殻のことを質問したんだけど、覚えてる？","fr":"Terara, tu te souviens de la question que je t'avais posée au sujet des coquillages ?"}
+{"id":1553911,"jp":"貝殻？……それってもしかして、\n「なんで村で貝殻が使われてるか？」って話だったか？","fr":"Les coquillages ?… Ah, tu parles de cette question :\n« Pourquoi on utilise des coquillages au village ? »"}
 {"id":1553912,"jp":"それはさ……","fr":"C'est parce que…"}
 {"id":1553913,"jp":"ぐきゅるるるる……","fr":"Grrrrrgle…"}
+{"id":1553914,"jp":"うぐっ！きゅ、急にお腹が……！もしかして、昨日の肉が焼けてなかったのか！？","fr":"Argh ! J-j'ai soudainement mal au ventre… ! La viande d'hier était peut-être mal cuite !?"}
+{"id":1553915,"jp":"ご、ごめん！ちょ、ちょっと急用が……ま、またな！","fr":"D-désolée ! J-j'ai une petite urgence… À-à plus tard !"}
+{"id":1553916,"jp":"なんてすさまじい『呪い』なのだ……","fr":"Quelle terrifiante « Malédiction »…"}
+{"id":1553917,"jp":"……そういえば、この貝殻って……どこかで拾えるのかもしれませんよね……？","fr":"… Maintenant que j'y pense, il est peut-être possible de ramasser ces coquillages quelque part… ?"}
+{"id":1553918,"jp":"みなさん、谷へ行きましょう！\n貝殻が天然のものなら、きっとどこかにあるはずですから！","fr":"Tout le monde, allons dans la vallée !\nSi ces coquillages sont d'origine naturelle, nous devrions bien pouvoir en trouver quelque part !"}
+{"id":1553919,"jp":"ぼうけんの……けはい。","fr":"Ça sent… l'aventure."}
 {"id":1553920,"jp":"いいね、行こう！","fr":"Bonne idée, allons-y !"}
+{"id":1553921,"jp":"もし本当に見つかったら、あたしたちは大金持ちになれるのだ！？","fr":"Si on en trouve vraiment, la grande Lumi et ses amis vont devenir richissimes !?"}
+{"id":1553922,"jp":"うーん……探せば見つかるとは言ったものの、どこから探せばいいのでしょうか……","fr":"Hmm… J'ai bien dit qu'il suffisait de chercher, mais par où devrions-nous commencer… ?"}
+{"id":1553923,"jp":"まさかの無計画なのだ！","fr":"Comment ça !? Tu n'as même pas de plan !?"}
 {"id":1553927,"jp":"鼻、詰まってるのだ！","fr":"Ton nez est bouché !"}
 {"id":1553928,"jp":"平原から探してみる？","fr":"On commence par chercher dans la plaine ?"}
 {"id":1553929,"jp":"川辺から探してみる？","fr":"On commence par chercher au bord de la rivière ?"}
