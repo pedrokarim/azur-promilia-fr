@@ -58523,12 +58523,32 @@
 {"id":1558436,"jp":"リソースチェックには時間がかかります。実行しますか？","fr":"La vérification des ressources peut prendre un certain temps. Voulez-vous continuer ?"}
 {"id":1558437,"jp":"リソース整合性をチェック中......\n進行状況：%sGB/%sGB","fr":"Vérification de l'intégrité des ressources…\nProgression : %s Go/%s Go"}
 {"id":1558438,"jp":"スタック状態を解除して、最寄りの出現地点へ戻ります。よろしいですか？","fr":"Cette opération vous débloquera et vous ramènera au point de réapparition le plus proche. Voulez-vous continuer ?"}
+{"id":1558439,"jp":"ログイン画面に戻ります。よろしいですか？","fr":"Voulez-vous revenir à l'écran de connexion ?"}
+{"id":1558440,"jp":"ゲームを終了しますか？","fr":"Voulez-vous quitter le jeu ?"}
+{"id":1558441,"jp":"原初の潮が不足しています。","fr":"Vous n'avez pas assez de Marée originelle."}
+{"id":1558442,"jp":"このステージのチーム編成が設定されていません。","fr":"Aucune composition d'équipe n'a été définie pour ce niveau."}
 {"id":1558443,"jp":"%sが不足しています","fr":"Il manque %s"}
 {"id":1558444,"jp":"\"繁栄度%s","fr":"\"Prospérité %s"}
 {"id":1558445,"jp":"フレンドを訪問する","fr":"Rendre visite à un ami"}
 {"id":1558446,"jp":"招待コードを入力","fr":"Saisir le code d'invitation"}
+{"id":1558447,"jp":"正しい招待コードを入力して農園に入ってください","fr":"Veuillez saisir un code d'invitation valide pour accéder à la ferme"}
+{"id":1558448,"jp":"今週の強力なキボとのスターリンク回数が上限に達しました。","fr":"Vous avez atteint la limite hebdomadaire de Liens stellaires avec des Kibo puissants."}
+{"id":1558449,"jp":"%sと深い信頼関係を築きました！子どもを託してくれました！","fr":"Vous avez établi une profonde relation de confiance avec %s ! Ce Kibo vous a confié son petit !"}
+{"id":1558450,"jp":"逃げてしまいました。どうやら機嫌を損ねたようです……","fr":"Le Kibo s'est enfui. Il semblerait que vous l'ayez contrarié…"}
+{"id":1558451,"jp":"このキボはロックされています","fr":"Ce Kibo est verrouillé"}
+{"id":1558452,"jp":"このキボは現在%sに装備中です。解除して選択しますか？","fr":"Ce Kibo accompagne actuellement %s. Voulez-vous le retirer pour le sélectionner ?"}
+{"id":1558453,"jp":"このキボは現在レンタル中です。解除して選択しますか？","fr":"Ce Kibo est actuellement prêté. Voulez-vous mettre fin au prêt pour le sélectionner ?"}
 {"id":1558454,"jp":"キボの名前を変更する","fr":"Renommer le Kibo"}
 {"id":1558455,"jp":"名前入力","fr":"Saisir un nom"}
+{"id":1558456,"jp":"名前は空欄にできません。","fr":"Le nom ne peut pas être vide."}
+{"id":1558457,"jp":"名前にスペースは使用できません。","fr":"Le nom ne peut pas contenir d'espaces."}
+{"id":1558458,"jp":"現在、追加のステータスボーナスはありません。","fr":"Aucun bonus de statistiques supplémentaire pour le moment."}
+{"id":1558459,"jp":"注意！<color=#FF7E6D>高レベルのキボ</color> が含まれています。以下のキボとお別れしてもよろしいですか？","fr":"Attention ! La sélection contient des <color=#FF7E6D>Kibo de haut niveau</color>. Voulez-vous vraiment vous séparer des Kibo suivants ?"}
+{"id":1558460,"jp":"このキボとお別れしてもよろしいですか？","fr":"Voulez-vous vraiment vous séparer de ce Kibo ?"}
+{"id":1558461,"jp":"<color=#FF7E6D>出撃中のキボ</color> が含まれています。このキボとお別れしてもよろしいですか？","fr":"La sélection contient des <color=#FF7E6D>Kibo déployés</color>. Voulez-vous vraiment vous séparer de ces Kibo ?"}
+{"id":1558462,"jp":"<color=#FF7E6D>高レベルの出撃中のキボ</color> が含まれています。このキボとお別れしてもよろしいですか？","fr":"La sélection contient des <color=#FF7E6D>Kibo de haut niveau déployés</color>. Voulez-vous vraiment vous séparer de ces Kibo ?"}
+{"id":1558463,"jp":"本日お別れによる星絆メダルの獲得は上限に達しました。","fr":"Vous avez atteint la limite quotidienne de médailles de Lien stellaire pouvant être obtenues en vous séparant de vos Kibo."}
+{"id":1558464,"jp":"星識レベルが {0} に達すると、レベル上限がアップします。","fr":"Hausse de la limite de niveau lorsque votre niveau de Savoir stellaire atteint {0}."}
 {"id":1558465,"jp":"お別れ確認","fr":"Confirmation des adieux"}
 {"id":1558466,"jp":"幼体期","fr":"Stade juvénile"}
 {"id":1558467,"jp":"成長期","fr":"Croissance"}
@@ -58536,14 +58556,51 @@
 {"id":1558469,"jp":"完全体","fr":"Forme parfaite"}
 {"id":1558470,"jp":"名前を変更しました。","fr":"Nom modifié."}
 {"id":1558471,"jp":"解放しました。","fr":"Débloqué."}
+{"id":1558472,"jp":"キボをロックしました。","fr":"Kibo verrouillé."}
 {"id":1558473,"jp":"スタミナが上限に達しています。","fr":"L'endurance a atteint sa limite."}
+{"id":1558474,"jp":"このキボの遺伝子再構成回数は上限に達しています。","fr":"Ce Kibo a atteint sa limite de reconstructions génétiques."}
+{"id":1558475,"jp":"このキボには条件に一致する因子がありません。","fr":"Ce Kibo ne possède aucun facteur répondant aux conditions requises."}
+{"id":1558476,"jp":"このキボの因子は最大数に達しています。","fr":"Ce Kibo a atteint le nombre maximal de facteurs."}
+{"id":1558477,"jp":"このキボのスタミナが不足しています。","fr":"Ce Kibo n'a pas assez d'endurance."}
+{"id":1558478,"jp":"このキボのレベルが最大に達しています。","fr":"Ce Kibo a atteint son niveau maximal."}
+{"id":1558479,"jp":"輝く因子を外すと、輝く効果が失われます。よろしいですか？","fr":"Retirer un facteur brillant entraînera la perte de l'effet brillant. Voulez-vous continuer ?"}
+{"id":1558480,"jp":"先天因子は変更できません。","fr":"Les facteurs innés ne peuvent pas être modifiés."}
 {"id":1558481,"jp":"先天・{0}","fr":"Inné : {0}"}
+{"id":1558482,"jp":"キボは超変異因子を最大{0}個まで装備できます。","fr":"Un Kibo peut équiper jusqu'à {0} facteurs d'hypermutation."}
+{"id":1558483,"jp":"原初の潮が上限に達しており、これ以上回復できません。","fr":"Votre Marée originelle a atteint sa limite maximale. Impossible d'en restaurer davantage."}
+{"id":1558484,"jp":"これ以上、原初の潮を増やすことはできません。","fr":"Impossible d'augmenter davantage votre Marée originelle."}
+{"id":1558485,"jp":"{0}を使用して、原初の潮を{1}回復する。","fr":"Utiliser {0} pour restaurer {1} points de Marée originelle."}
 {"id":1558486,"jp":"消費","fr":"Coût"}
+{"id":1558487,"jp":"{0}が不足しているため、回復できません。","fr":"Quantité de {0} insuffisante pour effectuer la restauration."}
+{"id":1558488,"jp":"（回復ごとに消費量が増加します。）","fr":"(Le coût augmente à chaque restauration.)"}
+{"id":1558489,"jp":"原初の潮の本日の購入回数が上限に達しました。","fr":"Vous avez atteint la limite quotidienne d'achats de Marée originelle."}
+{"id":1558490,"jp":"回復回数が更新されました。画面を再読み込みしてください。","fr":"Le nombre de restaurations a été actualisé. Veuillez recharger l'écran."}
+{"id":1558491,"jp":"%sが不足しているため、回復できません。","fr":"Quantité de %s insuffisante pour effectuer la restauration."}
+{"id":1558492,"jp":"原初の潮を回復するアイテムを所持していません。","fr":"Vous ne possédez aucun objet permettant de restaurer la Marée originelle."}
 {"id":1558493,"jp":"ロック済","fr":"Verrouillé"}
+{"id":1558494,"jp":"この装備は他のキャラクターが装備中です。入れ替えますか？","fr":"Cet équipement est actuellement utilisé par un autre personnage. Voulez-vous procéder à l'échange ?"}
+{"id":1558495,"jp":"装備のレベルは最大です。","fr":"Cet équipement a atteint son niveau maximal."}
 {"id":1558496,"jp":"%s点セット：","fr":"Set de %s pièces : "}
 {"id":1558497,"jp":"カスタムセット","fr":"Set personnalisé"}
 {"id":1558498,"jp":"保存しました。","fr":"Enregistré."}
+{"id":1558499,"jp":"このキャラクターは%sを装備していません。","fr":"Ce personnage n'est pas équipé de %s."}
+{"id":1558500,"jp":"装備セットの名前を変更する","fr":"Renommer l'ensemble d'équipement"}
+{"id":1558501,"jp":"セット名は空欄にできません。","fr":"Le nom de l'ensemble ne peut pas être vide."}
+{"id":1558502,"jp":"キャラクターが装備していないため、保存できません。","fr":"Impossible d'enregistrer l'ensemble : le personnage ne porte aucun équipement."}
+{"id":1558503,"jp":"セット装備が空のため、装着できません。","fr":"Impossible d'équiper cet ensemble : il ne contient aucun équipement."}
+{"id":1558504,"jp":"セット装備を選択してください。","fr":"Veuillez sélectionner un ensemble d'équipement."}
+{"id":1558505,"jp":"使用する素材の経験値が必要量を大きく上回ります。このまま強化しますか？","fr":"L'EXP fournie par les matériaux sélectionnés dépasse largement la quantité nécessaire. Voulez-vous tout de même procéder à l'amélioration ?"}
+{"id":1558506,"jp":"この装備は選択できません。","fr":"Cet équipement ne peut pas être sélectionné."}
+{"id":1558507,"jp":"素材を選択してください。","fr":"Veuillez sélectionner des matériaux."}
+{"id":1558508,"jp":"まだ装備を入手していません。","fr":"Vous n'avez encore obtenu aucun équipement."}
+{"id":1558509,"jp":"メッセージの送信が頻繁すぎるため、しばらく時間を空けてから送信してください。","fr":"Vous envoyez des messages trop fréquemment. Veuillez patienter avant d'envoyer un nouveau message."}
+{"id":1558510,"jp":"{0}が連れているキボを変更しますか？","fr":"Voulez-vous changer le Kibo qui accompagne {0} ?"}
+{"id":1558511,"jp":"チームには少なくとも1名の行動可能なキャラが必要です。","fr":"L'équipe doit comprendre au moins 1 personnage en état d'agir."}
 {"id":1558512,"jp":"待機に設定しました。","fr":"Mis en attente."}
+{"id":1558513,"jp":"このチームで出撃します。","fr":"Déploiement de cette équipe."}
+{"id":1558514,"jp":"現在のチームプリセットはまだ出撃チームに設定されていません。このまま退出してもよろしいですか？","fr":"La composition d'équipe actuelle n'a pas encore été définie comme équipe déployée. Voulez-vous tout de même quitter ?"}
+{"id":1558515,"jp":"まだこのキボを発見していません。引き続き探索しましょう。","fr":"Vous n'avez pas encore découvert ce Kibo. Poursuivez votre exploration !"}
+{"id":1558516,"jp":"キボが選択されていません。","fr":"Aucun Kibo sélectionné."}
 {"id":1558517,"jp":"チーム1","fr":"Équipe 1"}
 {"id":1558518,"jp":"チーム2","fr":"Équipe 2"}
 {"id":1558519,"jp":"チーム3","fr":"Équipe 3"}
@@ -58556,6 +58613,9 @@
 {"id":1558526,"jp":"チーム10","fr":"Équipe 10"}
 {"id":1558527,"jp":"スロット%s","fr":"Emplacement %s"}
 {"id":1558528,"jp":"未成年者利用規約","fr":"Conditions d'utilisation pour les mineurs"}
+{"id":1558529,"jp":"このチャットを削除しますか？","fr":"Voulez-vous supprimer cette conversation ?"}
+{"id":1558530,"jp":"メッセージを入力してください。","fr":"Veuillez saisir un message."}
+{"id":1558531,"jp":"新着メッセージ：{0}件","fr":"Nouveaux messages : {0}"}
 {"id":1558532,"jp":"レベル{0}","fr":"Niv. {0}"}
 {"id":1558537,"jp":"釣り竿がありません。","fr":"Pas de canne à pêche."}
 {"id":1558538,"jp":"釣り竿を選択","fr":"Choisir une canne"}
