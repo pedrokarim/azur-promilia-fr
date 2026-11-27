@@ -52189,52 +52189,302 @@
 {"id":1547674,"jp":"ていうか、アンタみたいなちっこいのが\nこんなの食いきれるわけ……って、え！？","fr":"Et puis, une petite crevette comme toi,\nça peut pas finir toute cette viande… Hein !?"}
 {"id":1547675,"jp":"おいしい、もっと……ううぅ、なくなっちゃった……","fr":"Miam, encore… Bouhouhou… Y en a plus…"}
 {"id":1547676,"jp":"ごめんなさい。","fr":"Pardon."}
+{"id":1547677,"jp":"だいじょーぶだいじょーぶ！\nまた狩りに行けばいいだけだからさ。肉なんていくらでもあるって！","fr":"Mais non, t'en fais pas !\nOn n'aura qu'à retourner chasser. C'est pas la viande qui manque !"}
+{"id":1547678,"jp":"ええ、たくさん食べたほうが傷の治りもはやくなります。\nまだおなかは空いていますか？","fr":"En effet, bien manger aidera vos blessures à guérir plus vite.\nAvez-vous encore faim ?"}
+{"id":1547679,"jp":"……アビィ、いっぱいおいしいもの見つける。みんなと『わけあう』。","fr":"… Abby va trouver plein de bonnes choses. Et les « partager » avec tout le monde."}
+{"id":1547680,"jp":"せーりんしゃ……てつだって。","fr":"Enfant des étoiles… Aide Abby."}
 {"id":1547681,"jp":"ん？","fr":"Hm ?"}
+{"id":1547682,"jp":"この石みたいに硬い殻を割ると、\nチシキの果肉が食べられるんだ。香りもさわやかだよ。","fr":"Si tu brises cette coque dure comme de la pierre,\ntu pourras manger la chair du Chishiki. Ça sent bon et frais, en plus."}
+{"id":1547683,"jp":"『ヤシ頭』っていうのは、融通がきかなくて、\nチシキの殻みたいに頭が硬いっていう意味なんだって。","fr":"Quand on traite quelqu'un de « tête de noix de coco », ça veut dire qu'il est borné\net qu'il a la tête aussi dure que la coque d'un Chishiki."}
+{"id":1547684,"jp":"アビィ、覚えた。\nおもしろいことと、おいしいもののこと、もっと聞きたい。","fr":"Abby a retenu !\nAbby veut apprendre encore plein de trucs rigolos et de choses bonnes à manger."}
+{"id":1547685,"jp":"あれ、むいたら、おいしいかな？","fr":"Et ça, si Abby l'épluche, c'est bon ?"}
+{"id":1547686,"jp":"見たほうがはやいね。行ってみよう。","fr":"Le mieux, c'est d'aller voir. Viens !"}
+{"id":1547687,"jp":"うぅ……ちょっとピリピリする。","fr":"Mmh… Ça pique un peu."}
+{"id":1547688,"jp":"これはお薬になるんだ。\n食べすぎると舌がしびれちゃうよ。","fr":"On s'en sert pour fabriquer des médicaments.\nSi tu en manges trop, tu ne sentiras plus ta langue."}
+{"id":1547689,"jp":"……う。した、びりびり。","fr":"… Mmh. La langue d'Abby, elle picote."}
+{"id":1547690,"jp":"アビィ、おぼえた。\nへんなもの見たら、まずせーりんしゃにきく。","fr":"Abby a retenu.\nSi Abby voit un truc bizarre, elle demande d'abord à Enfant des étoiles."}
+{"id":1547691,"jp":"火、みたい。あったかそう。おいしい？","fr":"On dirait du feu. Ça a l'air chaud. C'est bon ?"}
+{"id":1547692,"jp":"フラムールは食べちゃだめだよ。\n料理に使ったりしたら……","fr":"Il ne faut surtout pas manger de Flamur.\nSi tu en mettais dans tes plats…"}
 {"id":1547693,"jp":"だめなの？","fr":"Pas permis ?"}
 {"id":1547694,"jp":"燃えちゃうよ……","fr":"Ça va prendre feu…"}
+{"id":1547695,"jp":"火の傘、食べたら、死んじゃうよ。","fr":"Si Abby mange le champignon de feu, Abby va mourir."}
+{"id":1547696,"jp":"じゃいらない……悪いキノコ。","fr":"Alors Abby en veut pas… Méchant champignon."}
+{"id":1547697,"jp":"フラムールは食べられないけど、\n火薬にもなるし、すごい威力なんだよ。","fr":"Le Flamur ne se mange pas, mais on peut en faire de la poudre explosive.\nIl a une puissance impressionnante, tu sais."}
+{"id":1547698,"jp":"アビィも、すごい『いちょう』もってる。負けない！","fr":"Abby aussi, elle a un « estomac » super puissant ! Abby va gagner !"}
+{"id":1547699,"jp":"ふーふー！キノコ、もうあつくない。\nアビィの勝ち。","fr":"Pouf, pouf ! Le champignon est plus chaud.\nAbby a gagné !"}
+{"id":1547700,"jp":"（アビィとキノコを比べたわけじゃないんだけど……）","fr":"(Je ne cherchais pourtant pas à comparer Abby à un champignon…)"}
+{"id":1547701,"jp":"もっと食べもの見つける。みんな、おなかいっぱいにする。","fr":"Abby va trouver encore plus à manger. Tout le monde aura le ventre bien plein."}
+{"id":1547702,"jp":"アビィと釣りや狩りをして……大収穫の一日だった。\nみんなにご馳走するにも十分だ。帰るまえに、アビィは行きたい場所があるようだ。","fr":"Vous avez passé la journée à pêcher et à chasser avec Abby… La récolte fut particulièrement fructueuse.\nVous avez de quoi offrir un festin à tout le monde. Mais avant de rentrer, Abby semble vouloir passer quelque part."}
+{"id":1547703,"jp":"おなかぐーぐー……サクサクの、たべたい。\nアビィ、どこにあるか知ってる。","fr":"Le ventre d'Abby fait grou-grou… Abby veut manger un truc qui croque.\nAbby sait où en trouver."}
+{"id":1547704,"jp":"これサクサク、それに、ピカピカ！","fr":"Ça fait croc-croc, et ça brille aussi !"}
+{"id":1547705,"jp":"味……『おうち』とちょっとちがう。","fr":"Le goût… C'est pas tout à fait comme à la « maison »."}
+{"id":1547706,"jp":"『おうち』の石は、すっごくピカピカで、\nちょっとはむはむするだけで、おなかいっぱい。","fr":"Les cailloux de la « maison », ils brillent beaucoup, beaucoup !\nAbby en croque juste un petit peu et son ventre est tout plein."}
+{"id":1547707,"jp":"アビィ、おうちに帰りたくなった？","fr":"Ta maison commence à te manquer, Abby ?"}
+{"id":1547708,"jp":"おうち……帰っても、アビィ、ひとりぼっち。","fr":"La maison… Même si Abby rentre, Abby sera toute seule."}
+{"id":1547709,"jp":"パパとママ、悪いやつをやっつけてる。\n『おうち』にいない。","fr":"Papa et maman sont partis battre les méchants.\nIls sont pas à la « maison »."}
+{"id":1547710,"jp":"だからアビィは森で、キボとかくれんぼしてた！","fr":"Alors Abby jouait à cache-cache avec les Kibo dans la forêt !"}
+{"id":1547711,"jp":"でも、アビィの翼とツノが、おっきくなってから……","fr":"Mais depuis que les ailes et les cornes d'Abby ont grandi…"}
+{"id":1547712,"jp":"キボたち、みんなかくれて、遊んでくれない。","fr":"Les Kibo se cachent tous. Ils veulent plus jouer avec Abby."}
+{"id":1547713,"jp":"ママ、言ってた。アビィがおっきくなって、\n竜の『いげん』があるから、みんな怖がってるって。","fr":"Maman a dit que maintenant qu'Abby a grandi,\nelle a la « prestance » des dragons, et que ça fait peur à tout le monde."}
 {"id":1547714,"jp":"アビィ……怖いの？","fr":"Abby… fait peur ?"}
 {"id":1547715,"jp":"アビィ……","fr":"Abby…"}
+{"id":1547716,"jp":"でも、シンフォーリアお姉ちゃん、怖がらない。","fr":"Mais grande sœur Symphoria, elle a pas peur."}
+{"id":1547717,"jp":"アビィのことばがわかって、遊んでくれて、\nいい子のなり方も、おしえてくれた。","fr":"Elle comprend ce qu'Abby dit, elle joue avec Abby,\net elle lui a appris à être une gentille fille."}
+{"id":1547718,"jp":"だからシンフォーリアと一緒にロースランサを出たの？","fr":"C'est pour ça que tu as quitté Lors Lains avec Symphoria ?"}
+{"id":1547719,"jp":"うん、アビィ、いい子のなり方、ならいたい。","fr":"Oui ! Abby veut apprendre à être une gentille fille."}
+{"id":1547720,"jp":"シンフォーリアを目標にしてるの？\nウッドエルフとアズドラーンじゃ、\nいい子の基準もすこし違うかもしれないよ。","fr":"Tu veux prendre Symphoria pour modèle ?\nLes Elfes des bois et les Azdrahn n'ont peut-être pas tout à fait\nla même idée de ce que signifie être une gentille fille."}
+{"id":1547721,"jp":"アビィ……ほかのなかまとも、ちがう。","fr":"Mais Abby… Elle est pas comme les autres Azdrahn non plus."}
+{"id":1547722,"jp":"パパとママが、アビィは……えっと、『せんぞがえり』だって。","fr":"Papa et maman disent qu'Abby est… Euh… Un « retour aux ancêtres »."}
+{"id":1547723,"jp":"（先祖返り……？そういえばシンフォーリアが、\n人形態を持つアズドラーンはとてもめずらしいと言ってたっけ）","fr":"(Un retour aux caractéristiques ancestrales… ? Maintenant que j'y pense, Symphoria m'avait dit\nqu'il était très rare qu'un Azdrahn possède une forme humanoïde.)"}
+{"id":1547724,"jp":"アビィ、強くなって、いっぱいはむはむする。\nそうすると、キボたち……もっととおくに逃げちゃう。","fr":"Abby devient de plus en plus forte et mange de plus en plus.\nEt les Kibo… Ils s'enfuient encore plus loin."}
+{"id":1547725,"jp":"みんなと違うのは、アビィが特別だからだよ。","fr":"Si tu es différente des autres, Abby, c'est parce que tu es unique."}
+{"id":1547726,"jp":"アビィ、力が『とくべつ』強いから、\nメーツァお姉ちゃんのドーム、こわしちゃった？","fr":"C'est parce qu'Abby est « particulièrement » forte\nqu'elle a cassé le dôme de grande sœur Metsa ?"}
+{"id":1547727,"jp":"コホン、そういう意味じゃなくて……","fr":"Hum hum… Ce n'est pas vraiment ce que je voulais dire…"}
+{"id":1547728,"jp":"『みんなと違って特別』だってことだよ。\nたくさんの宝石のなかで、一番輝く一粒みたいにね。","fr":"Je veux dire que ta différence fait de toi quelqu'un d'unique.\nComme une pierre précieuse qui brille plus fort que toutes les autres."}
 {"id":1547729,"jp":"アビィ、ピカピカ？","fr":"Abby brille ?"}
+{"id":1547730,"jp":"どう？すこし元気が出たかな？","fr":"Alors ? Tu te sens un peu mieux ?"}
+{"id":1547731,"jp":"アビィ、もっと……遊びたい。","fr":"Abby veut… Encore jouer."}
+{"id":1547732,"jp":"その後は遊びという名目の食べ放題タイムがはじまった。\nいろんな鉱石を味見したアビィは一番輝く石をひとつ選び抜いて、\nこっそり隠した。","fr":"Ce qui devait être un moment de jeu se transforma alors en véritable buffet à volonté.\nAprès avoir goûté toutes sortes de minerais, Abby choisit la pierre la plus brillante de toutes\net la dissimula en cachette."}
+{"id":1547733,"jp":"ふぅ……ふぅ。おなかいっぱい。","fr":"Ouf… Ouf… Abby a le ventre tout plein."}
+{"id":1547734,"jp":"食材も十分だね。\nルマにおいしい料理の作り方を教えてもらいに行こう。","fr":"On a aussi suffisamment d'ingrédients.\nAllons demander à Ruma de nous apprendre à préparer un bon petit plat."}
+{"id":1547735,"jp":"料理を習いたい？ああ、それなら……\n煮込み肉の作り方を教えてあげようかねえ。","fr":"Vous voulez apprendre à cuisiner ? Ah, dans ce cas…\nQue diriez-vous d'apprendre à préparer un ragoût de viande ?"}
+{"id":1547736,"jp":"あんたたちは、村のためにずいぶんと力を貸してくれただろう？\nあたしには料理くらいしか、返せるものがないからねえ。","fr":"Vous en avez fait des choses pour notre village, tous les deux !\nEt à part ma cuisine, je n'ai pas grand-chose à vous offrir en retour."}
+{"id":1547737,"jp":"時間をかけて煮込むだけでできる料理さ。\nはじめてでも肉をやわらかく、いい香りに仕上げられる。","fr":"Il suffit de laisser mijoter tranquillement.\nMême la première fois, on peut obtenir une viande bien tendre et délicieusement parfumée."}
+{"id":1547738,"jp":"おいしそう。せーりんしゃに、おしえて？","fr":"Ça a l'air bon ! Tu peux apprendre à Enfant des étoiles ?"}
+{"id":1547739,"jp":"僕は料理を習うとして、アビィは？|私は料理を習うとして、アビィは？","fr":"D'accord, je vais apprendre à cuisiner. Et toi, Abby ?|D'accord, je vais apprendre à cuisiner. Et toi, Abby ?"}
+{"id":1547740,"jp":"いっぱいはむはむする！\nそれから、『りはびり』おわらせる。","fr":"Abby va faire plein de miam miam !\nEt après, Abby aura fini sa « rééducation »."}
+{"id":1547741,"jp":"アビィちゃんはなにが好きなんだい？\n煮込みにはいろんな食材の味が溶け込むからねえ。\n種類が多いほど、味わいも豊かになるよ。","fr":"Et toi, ma petite Abby, qu'est-ce que tu aimes manger ?\nDans un ragoût, les saveurs de tous les ingrédients se mélangent.\nPlus on en met de différents, plus le plat a de goût."}
 {"id":1547742,"jp":"お肉。","fr":"De la viande."}
 {"id":1547743,"jp":"フラムール。","fr":"Flamur."}
 {"id":1547744,"jp":"ピカピカの鉱石。","fr":"Minerai brillant."}
+{"id":1547745,"jp":"お肉！いっぱいいっぱい入れてほしい。","fr":"De la viande ! Abby en veut plein, plein, plein !"}
+{"id":1547746,"jp":"アビィ、しってる。それ、はむはむだめなやつ。","fr":"Abby sait ! Ça, c'est un truc qu'il faut pas manger."}
+{"id":1547747,"jp":"そうだよ。アビィ、しっかり覚えられたね。","fr":"Exactement ! Tu as bien retenu la leçon, Abby."}
+{"id":1547748,"jp":"おやおや、鉱石は煮込みには使えないよ。\nほかの食材を入れようねえ。","fr":"Oh là là, on ne met pas de minerai dans un ragoût, voyons.\nChoisissons plutôt d'autres ingrédients."}
+{"id":1547749,"jp":"じゃあ、アビィが絶対に気に入る一品を作ろう――\n『特製・お肉たっぷりシンゲツイモの煮込み』！","fr":"Alors, préparons un plat qu'Abby va forcément adorer…\nNotre ragoût spécial de patates Nouvelle-Lune et de viande à gogo !"}
+{"id":1547750,"jp":"りょーり、もうできる？","fr":"C'est bientôt prêt, le miam-miam ?"}
+{"id":1547751,"jp":"ルマが言うには、あとは煮込むだけだって。\n待ってるあいだに、みんなを食事に誘いに行こう。","fr":"D'après Ruma, il ne reste plus qu'à laisser mijoter.\nEn attendant, allons inviter tout le monde à manger."}
+{"id":1547752,"jp":"おいしいもの、みんなで『わけあう』","fr":"Les bonnes choses, on les « partage » avec tout le monde !"}
+{"id":1547753,"jp":"んじゃ、遠慮なくいただくぞ！","fr":"Eh bien, je vais pas me faire prier !"}
+{"id":1547754,"jp":"お招き、ありがとうございます。","fr":"Merci beaucoup pour votre invitation."}
+{"id":1547755,"jp":"アビィ、元気になったから、お薬のまない……","fr":"Abby va mieux, alors Abby prend plus de médicament…"}
+{"id":1547756,"jp":"今回は薬膳料理ではなく、滋養のあるスープですよ。","fr":"Cette fois-ci, ce n'est pas un plat médicinal, mais une soupe nourrissante."}
 {"id":1547757,"jp":"じよう……スープ？","fr":"Soupe… nourrissante ?"}
+{"id":1547758,"jp":"温かいうちに飲んでくださいね。\nたくさんありますから、全部飲んでも大丈夫です。","fr":"Buvez-la pendant qu'elle est encore chaude.\nIl y en a largement assez, vous pouvez tout boire."}
+{"id":1547759,"jp":"ははっ、安心しろって！\nルルカの料理の腕は薬作りとは違うからさ！","fr":"Haha ! T'inquiète pas !\nLuruka est bien meilleure en cuisine que pour préparer ses médicaments !"}
+{"id":1547760,"jp":"ううっ……悪かったよ！もう言わない！","fr":"Aïe… Pardon ! Je le dirai plus !"}
+{"id":1547761,"jp":"うんっ……アビィ、強い子。","fr":"Mmh… Abby est une fille courageuse."}
+{"id":1547762,"jp":"アビィは勇気を振りしぼり、一気にスープを飲みほした。","fr":"Prenant son courage à deux mains, Abby avala toute la soupe d'un trait."}
+{"id":1547763,"jp":"うぅ……『りはびり』、これで成功？","fr":"Mmh… Abby a réussi sa « rééducation », maintenant ?"}
+{"id":1547764,"jp":"ルルカの滋養スープなら、栄養ばっちりだね。\nリハビリその2、いっぱい食べていっぱい飲む、完了だよ！","fr":"Avec la soupe de Luruka, tu as fait le plein de nutriments !\nDeuxième étape de la rééducation : bien manger et bien boire. Mission accomplie !"}
+{"id":1547765,"jp":"アビィ、うれしい。今日、ピカピカ。","fr":"Abby est contente. Aujourd'hui, tout brille !"}
+{"id":1547766,"jp":"ずっと、みんなと遊びたい！","fr":"Abby veut jouer avec tout le monde pour toujours !"}
 {"id":1547767,"jp":"かくれんぼ、しよ？","fr":"On joue à cache-cache ?"}
+{"id":1547768,"jp":"ごめんな！今日はルルカと薬草探しをする約束があるんだ。\nぜんぶ薬膳料理に使っちゃったからさ！","fr":"Pardon, Abby ! J'ai promis à Luruka qu'on irait chercher des plantes médicinales aujourd'hui.\nOn a épuisé toutes nos réserves en préparant ses plats médicinaux !"}
+{"id":1547769,"jp":"もう行くよ。また今度、遊ぼう！","fr":"On doit y aller. On rejouera ensemble une autre fois !"}
 {"id":1547770,"jp":"アビィ、待ってる。","fr":"Abby attend."}
 {"id":1547771,"jp":"……ふぁぁ。","fr":"… Haaam."}
+{"id":1547772,"jp":"眠くなっちゃったかな？\n休めるところに行こうか。","fr":"Tu commences à avoir sommeil ?\nAllons trouver un endroit où tu pourras te reposer."}
+{"id":1547773,"jp":"ぐーぐーのまえにお話、ききたい……","fr":"Abby veut une histoire avant de faire dodo…"}
+{"id":1547774,"jp":"それじゃ、『キャバードと7羽のキャベッコ』の話をしようか。","fr":"Alors, que dirais-tu de l'histoire du « Cabbird et des sept Cabbeco » ?"}
+{"id":1547775,"jp":"アビィ……『ピカピカのぼうけん』、ききたい。","fr":"Abby… veut entendre « L'aventure qui brille »."}
 {"id":1547776,"jp":"それはどんなお話？","fr":"C'est quelle sorte d'histoire ?"}
+{"id":1547777,"jp":"パパとママ、まえに話してくれた。\nアビィ、せーりんしゃに、話してあげる。","fr":"Papa et maman l'ont déjà racontée à Abby.\nAbby va la raconter à Enfant des étoiles."}
+{"id":1547778,"jp":"『むかしむかし、とくべつな小さな竜がいました。\nほかのみんなと、ちょっとちがう竜でした』","fr":"« Il était une fois un petit dragon très spécial.\nIl était un peu différent de tous les autres dragons. »"}
+{"id":1547779,"jp":"『小さな竜は、じぶんを怖がらない友だちを、\nさがしていました』","fr":"« Le petit dragon cherchait un ami\nqui n'aurait pas peur de lui. »"}
+{"id":1547780,"jp":"『パパとママは言いました。\nいちばんピカピカのものを見つけたら、ねがいがかなうよ』","fr":"« Papa et maman lui ont dit :\nSi tu trouves la chose qui brille le plus au monde, ton vœu se réalisera. »"}
+{"id":1547781,"jp":"『竜は森でさがしてさがして、たくさん石を見つけました。\nだけど、どれもピカピカがたりません』","fr":"« Le dragon a cherché et cherché dans la forêt. Il a trouvé plein de cailloux.\nMais aucun ne brillait assez fort. »"}
+{"id":1547782,"jp":"『顔をあげると、お空のお星さまが、チカチカ光っていました』","fr":"« Quand il a levé la tête, il a vu les petites étoiles qui scintillaient dans le ciel. »"}
+{"id":1547783,"jp":"『……だけど、小さな竜がどんなに高くとんでも、\nお星さまにはとどきません』","fr":"« … Mais le petit dragon avait beau voler très, très haut,\nil n'arrivait pas à toucher les étoiles. »"}
+{"id":1547784,"jp":"『小さな竜は、みんなにききました。\nだれか、ピカピカなもの、知らない？』","fr":"« Le petit dragon a demandé à tout le monde :\nQuelqu'un sait où trouver quelque chose qui brille très fort ? »"}
+{"id":1547785,"jp":"『アーチャーは言いました。\nウィスパーリーフから、こぼれる露をさがしてごらん』","fr":"« L'archer lui a dit :\nVa chercher les gouttes de rosée qui tombent des feuilles du Whisperleaf. »"}
+{"id":1547786,"jp":"『商人は言いました。\nせりで、いちばんかがやく宝石をさがしてごらん』","fr":"« Le marchand lui a dit :\nVa chercher le joyau qui brille le plus à la vente aux enchères. »"}
+{"id":1547787,"jp":"みんな、ちがうことを言う……アビィ、だれの言うこと、きけばいい？","fr":"Tout le monde dit des choses différentes… Abby doit écouter qui ?"}
+{"id":1547788,"jp":"みんな、それぞれ自分の答えを持っているんだよ。\nアビィだって、きっと自分の答えを見つけられる。","fr":"Chacun a sa propre réponse à cette question, tu sais.\nJe suis certain que tu trouveras la tienne, Abby."}
 {"id":1547789,"jp":"アビィの……こたえ。","fr":"La réponse… d'Abby."}
 {"id":1547790,"jp":"すぅ……すぅ。","fr":"Zzz… zzz."}
 {"id":1547791,"jp":"じゃまする悪い子","fr":"Méchante enfant qui dérange"}
 {"id":1547792,"jp":"フララ〜！","fr":"Furara~ !"}
+{"id":1547793,"jp":"アビィたちのかくれんぼ、じゃまする悪い子。やっつける！","fr":"Méchant ! Tu gâches notre partie de cache-cache. Abby va te battre !"}
+{"id":1547794,"jp":"お料理じょうずなおばあちゃん、チルルお姉ちゃん、\nせーりんしゃ、見なかった？","fr":"Mamie qui cuisine bien, grande sœur Chilul,\nvous avez pas vu Enfant des étoiles ?"}
+{"id":1547795,"jp":"見てないねえ。一緒に遊びに行ったんじゃなかったのかい？","fr":"Non, je n'ai pas vu Enfant des étoiles. Vous n'étiez pas partis jouer ensemble ?"}
+{"id":1547796,"jp":"ひとりで戻ってきたんですか……？\nまた、おなかが空いたんでしょうか。","fr":"Vous êtes revenue toute seule… ?\nVous avez encore faim, peut-être ?"}
+{"id":1547797,"jp":"おやおや、アビィちゃんはちっちゃいのに、よく食べるねえ。\nいっぱい並べたご馳走が、ぜんぶ食べられちゃったよ。","fr":"Eh bien, ma petite Abby, tu as un sacré appétit pour ta taille !\nTu as dévoré tout le festin que je vous avais préparé."}
+{"id":1547798,"jp":"わたしの木彫りも、ぱくっと呑まれちゃった。\n変なものばかり食べて、おなか壊さない、かな？","fr":"Vous avez même avalé ma sculpture en bois d'une seule bouchée.\nÀ force de manger des choses aussi étranges, vous n'allez pas avoir mal au ventre ?"}
+{"id":1547799,"jp":"アビィ……みんなの食べもの、はむはむしちゃった……\nみんな、おなかすいてる……","fr":"Abby… a mangé toute la nourriture des autres…\nMaintenant, tout le monde a faim…"}
+{"id":1547800,"jp":"アビィ……へんなものばっかりはむはむする……\nみんなと、ちがう……","fr":"Abby… mange toujours des trucs bizarres…\nAbby est pas comme les autres…"}
 {"id":1547801,"jp":"アビィ……悪い子。","fr":"Abby… méchante enfant."}
 {"id":1547802,"jp":"だれ？","fr":"Qui est là ?"}
+{"id":1547803,"jp":"ラルたいちょう、モフモフ、せーりんしゃ見なかった？","fr":"Capitaine Ral, Tout-Doux, vous avez pas vu Enfant des étoiles ?"}
+{"id":1547804,"jp":"ふむ？星臨者はお前の療養に付き合っていたはずだが。","fr":"Hein ? Enfant des étoiles devait pourtant t'accompagner pendant ta rééducation."}
+{"id":1547805,"jp":"さきに言っておくが、私も相棒も今日は調子が悪くてな……\n手合わせは勘弁してくれ。","fr":"Je te préviens tout de suite, mon compagnon et moi ne sommes pas très en forme aujourd'hui…\nAlors, épargne-nous un combat d'entraînement."}
 {"id":1547806,"jp":"クゥン……","fr":"Kyuun…"}
+{"id":1547807,"jp":"モフモフ、怖がらないで。アビィ、いじめたりしない。","fr":"Tout-Doux, aie pas peur. Abby va pas te faire de mal."}
+{"id":1547808,"jp":"クゥーン……キュン……","fr":"Gniii… Gnii…"}
+{"id":1547809,"jp":"悪気はないんだろうが、こいつは本気で怯えてるんだ。\n強い竜族には、生まれながらに威圧感があるからな。","fr":"Je sais que tu ne lui veux aucun mal, mais il est vraiment terrifié.\nLes membres les plus puissants du Clan des dragons dégagent naturellement une aura intimidante."}
+{"id":1547810,"jp":"みんな、こわがってる。悪い子。","fr":"Tout le monde a peur. Abby est méchante."}
+{"id":1547811,"jp":"でも……アビィ……なにもしてない……","fr":"Mais… Abby… a rien fait…"}
+{"id":1547812,"jp":"けんか、したくない……ただ、みんなと、遊びたい……","fr":"Abby veut pas se battre… Abby veut juste jouer avec tout le monde…"}
 {"id":1547813,"jp":"……それも、悪い子？","fr":"… Ça aussi, c'est méchant ?"}
+{"id":1547814,"jp":"アビィ？どうしたんだ？\n天気もいいし、一緒に狩りにでも行くか！","fr":"Abby ? Qu'est-ce qui t'arrive ?\nIl fait beau aujourd'hui, ça te dit d'aller chasser ensemble ?"}
+{"id":1547815,"jp":"お姉ちゃん、アビィさんはまだ休養が必要なの。\nゆっくりしてもらわなくちゃ。","fr":"Grande sœur, Abby a encore besoin de repos.\nIl faut la laisser reprendre des forces tranquillement."}
+{"id":1547816,"jp":"森でかくれんぼしてたら、\nせーりんしゃ、いなくなった。","fr":"Abby jouait à cache-cache dans la forêt avec Enfant des étoiles,\nmais Enfant des étoiles a disparu."}
+{"id":1547817,"jp":"え？星臨者が？どこに行ったんだ？アタシたちは見てないけど。","fr":"Hein ? Enfant des étoiles ? Où ça ? Nous, on n'a rien vu."}
 {"id":1547818,"jp":"はやく探さなくては。","fr":"Il faut vite les chercher."}
 {"id":1547819,"jp":"せーりんしゃ、どこ？","fr":"Enfant des étoiles, où es-tu ?"}
+{"id":1547820,"jp":"せーりんしゃは村を出る。あなたから離れる。","fr":"Enfant des étoiles va quitter le village. Tu vas être abandonnée."}
+{"id":1547821,"jp":"また、ひとりぼっちになる。","fr":"Tu seras encore toute seule."}
+{"id":1547822,"jp":"エヴァーガーデンでも……ロースランサでも……","fr":"Que ce soit au Jardin d'Evergreen… ou à Lors Lains…"}
 {"id":1547823,"jp":"エルフ","fr":"Elfe"}
+{"id":1547824,"jp":"相棒よ、ともに行こう、凶獣を討ち払うために！","fr":"Mon compagnon, partons ensemble terrasser les Bêtes maudites !"}
 {"id":1547825,"jp":"ビィー！","fr":"Bii !"}
 {"id":1547826,"jp":"アビィ、てつだう！","fr":"Abby aide !"}
+{"id":1547827,"jp":"幼子よ、これは遊びではない。\nもっと大きくなってから、また来なさい。","fr":"Petite, ce n'est pas un jeu.\nReviens lorsque tu seras plus grande."}
 {"id":1547828,"jp":"相棒、行くぞ。","fr":"Partenaire, allons-y."}
 {"id":1547829,"jp":"ビィ～ビィ～！","fr":"Bii~ Bii~ !"}
+{"id":1547830,"jp":"……アビィも、てつだいたい。","fr":"… Abby aussi, veut aider."}
+{"id":1547831,"jp":"……アビィ、やくにたてない。","fr":"… Abby sert à rien."}
+{"id":1547832,"jp":"シンフォーリアお姉ちゃん、アビィ……","fr":"Grande sœur Symphoria, Abby…"}
+{"id":1547833,"jp":"一緒に遊びたいのですか？","fr":"Vous aimeriez que nous jouions ensemble ?"}
+{"id":1547834,"jp":"ごめんなさい。いまはルダリスの脅威が目前に迫っているのです。\n私はすぐに出発しなければ。","fr":"Je suis désolée. La menace de Rudalis est désormais imminente.\nJe dois partir sur-le-champ."}
+{"id":1547835,"jp":"アビィ、おてつだいする！みんなといっしょに、\n悪いやつ、やっつける！","fr":"Abby va aider ! Avec tout le monde,\nAbby va battre le méchant !"}
+{"id":1547836,"jp":"よしよし、安心して待ってるのだ。\nシフォンにはこのルミィさまがついてる！","fr":"Allons, allons, attends-nous sagement, sans t'inquiéter !\nChiffon a la grande Lumi à ses côtés !"}
+{"id":1547837,"jp":"アビィは子どもらしく、遊んで待っているといい。","fr":"Toi, Abby, profite de ton enfance. Amuse-toi en attendant notre retour."}
+{"id":1547838,"jp":"ええ、危険が去ったらすぐに戻ります。","fr":"Oui, je reviendrai dès que le danger sera écarté."}
+{"id":1547839,"jp":"うぅ……シンフォーリアお姉ちゃんも、行っちゃうの……","fr":"Mmh… Grande sœur Symphoria s'en va aussi…"}
+{"id":1547840,"jp":"メーツァの言うことをきいて、おとなしくリハビリして\n待ってるんだぞ。","fr":"Écoute bien Metsa, fais sagement tes exercices de rééducation\net attends notre retour."}
+{"id":1547841,"jp":"……うん。アビィ、いい子で、待ってる。","fr":"… D'accord. Abby va être sage et attendre."}
+{"id":1547842,"jp":"アビィ、強くない、から。","fr":"Parce qu'Abby… est pas assez forte."}
+{"id":1547843,"jp":"アビィ、シャルル村へ行ってくるわ。\nお留守番はお願いね。","fr":"Abby, je vais au Village de Charlulu.\nJe compte sur toi pour garder la maison, d'accord ?"}
+{"id":1547844,"jp":"アビィも……てつだいたい！うぅ……","fr":"Abby aussi… veut aider ! Mmh…"}
+{"id":1547845,"jp":"いいえ、ケガがまだ治っていないでしょう。\nゆっくり休んで、お薬も忘れず飲むのよ。","fr":"Non, tes blessures ne sont pas encore guéries, voyons.\nRepose-toi bien et n'oublie pas de prendre ton médicament."}
 {"id":1547846,"jp":"お薬……にがいよう。","fr":"Le remède… est amer."}
+{"id":1547847,"jp":"はぁ……せっかく作ったお薬なのに、\nアビィはどうして飲んでくれないのかしら。","fr":"Pfff… Je me suis donné tant de mal pour préparer ce médicament.\nPourquoi Abby refuse-t-elle de le prendre ?"}
+{"id":1547848,"jp":"もしかして、私があれこれ言って外で遊ばせないから、\nお薬を飲みたくない？","fr":"Peut-être refuse-t-elle de prendre son médicament parce que je lui impose trop de règles\net que je ne la laisse pas jouer dehors ?"}
+{"id":1547849,"jp":"ちがう……そうじゃないの……","fr":"Non… C'est pas ça…"}
+{"id":1547850,"jp":"悪い子、きらわれちゃう。","fr":"Personne aime les méchants enfants."}
 {"id":1547851,"jp":"おまえも……アビィ？","fr":"Toi aussi… Abby ?"}
+{"id":1547852,"jp":"どうして、みんな、おまえのこと、怖がらない？","fr":"Pourquoi personne a peur de toi ?"}
+{"id":1547853,"jp":"わたしは、みんなに好かれる、いい子だから。","fr":"Parce que je suis une gentille fille et que tout le monde m'aime."}
+{"id":1547854,"jp":"怖がらないで……アビィ、そっとするから。","fr":"Aie pas peur… Abby va faire tout doucement."}
+{"id":1547855,"jp":"そっと？いろんなものをこわしてきたくせに。","fr":"Tout doucement ? Après tout ce que tu as déjà cassé ?"}
 {"id":1547856,"jp":"わざとじゃない。","fr":"Pas exprès."}
+{"id":1547857,"jp":"わざとじゃなくても、悪いことをしたの。","fr":"Même si tu ne l'as pas fait exprès, tu as quand même fait des bêtises."}
+{"id":1547858,"jp":"悪い子は、みんなにきらわれる。","fr":"Les méchants enfants, personne ne les aime."}
+{"id":1547859,"jp":"うぅ……アビィのこと、きらわないで。","fr":"Bouhou… Aimez encore Abby, s'il vous plaît."}
+{"id":1547860,"jp":"わたしが手伝ってあげる、アビィ██・████。","fr":"Je vais t'aider, Abby██・████."}
+{"id":1547861,"jp":"わたしが、いい子にしてあげる。","fr":"Je vais faire de toi une gentille fille."}
 {"id":1547862,"jp":"いい……子。","fr":"Gentille… enfant."}
+{"id":1547863,"jp":"そう。言うことをきけば、みんな、好きになってくれる。","fr":"C'est ça. Si tu fais tout ce qu'on te dit, tout le monde t'aimera."}
+{"id":1547864,"jp":"アビィ……いい子にする。","fr":"Abby… va être sage."}
 {"id":1547865,"jp":"……ん？ピカピカ？","fr":"… Hm ? Ça brille ?"}
+{"id":1547866,"jp":"アビィ……アビィ、起きて！","fr":"Abby… Abby, réveille-toi !"}
+{"id":1547867,"jp":"せーりんしゃ……さがしに来てくれたの？","fr":"Enfant des étoiles… Tu es là pour chercher Abby ?"}
 {"id":1547868,"jp":"ほんとうにそうかな？","fr":"Est-ce vraiment le cas ?"}
+{"id":1547869,"jp":"パパとママの帰り、ずっと待ってたね。\nシンフォーリア……それに、メーツァのことも……","fr":"Tu as attendu longtemps le retour de ton papa et de ta maman, n'est-ce pas ?\nCelui de Symphoria… et de Metsa aussi…"}
+{"id":1547870,"jp":"ほんとに、来てくれるかな？","fr":"Mais est-ce qu'ils viendront vraiment te chercher ?"}
 {"id":1547871,"jp":"みんな、みんな……","fr":"Tout le monde, tout le monde…"}
+{"id":1547872,"jp":"せーりんしゃ、かくれんぼ、アビィと同じくらいすごい！","fr":"Enfant des étoiles joue aussi bien à cache-cache qu'Abby !"}
+{"id":1547873,"jp":"せーりんしゃなら、ぜったいにアビィを見つけてくれる！","fr":"Enfant des étoiles retrouvera toujours Abby !"}
+{"id":1547874,"jp":"アビィ、しってる。ひとりで待つのは、さみしい。","fr":"Abby sait. Attendre toute seule, c'est triste."}
+{"id":1547875,"jp":"アビィ、怖い。だれも来てくれなかったら……ひとりぼっち。","fr":"Abby a peur. Si personne vient… Abby sera toute seule."}
+{"id":1547876,"jp":"でもだいじょうぶ。\nアビィ、かくれんぼで、いいほうほう、見つけた。","fr":"Mais c'est pas grave.\nEn jouant à cache-cache, Abby a trouvé une bonne idée."}
+{"id":1547877,"jp":"いっしょに、目をつぶろう……\n100から1までかぞえたら、来てくれる。","fr":"On ferme les yeux ensemble…\nSi Abby compte de 100 jusqu'à 1, tu viendras."}
+{"id":1547880,"jp":"バイバイ、いい子のアビィ。","fr":"Au revoir, gentille petite Abby."}
+{"id":1547881,"jp":"せーりんしゃ……うぅ……どこにいるの！","fr":"Enfant des étoiles… Bouhou… T'es où !?"}
 {"id":1547882,"jp":"怖い夢を見てるの？","fr":"Tu fais un mauvais rêve ?"}
 {"id":1547883,"jp":"もう大丈夫だよ。","fr":"C'est fini, tout va bien."}
+{"id":1547884,"jp":"すごく怖い夢、見た。\n夢のなかで……アビィ、みんなにきらわれた。","fr":"Abby a fait un rêve qui faisait très peur.\nDans le rêve… Plus personne aimait Abby."}
+{"id":1547885,"jp":"どうやったら、いい子になれるの？\nシンフォーリアお姉ちゃんみたいになる？\nそれとも、ルルカお姉ちゃん？","fr":"Comment Abby fait pour être une gentille fille ?\nIl faut être comme grande sœur Symphoria ?\nOu comme grande sœur Luruka ?"}
+{"id":1547886,"jp":"アビィ、そんなふうに見つめられても……僕も正解は知らないんだ。|アビィ、そんなふうに見つめられても……私も正解は知らないの。","fr":"Abby, même si tu me regardes avec ces grands yeux… Je ne connais pas non plus la bonne réponse.|Abby, même si tu me regardes avec ces grands yeux… Je ne connais pas non plus la bonne réponse."}
+{"id":1547887,"jp":"せーりんしゃも知らない？","fr":"Enfant des étoiles sait pas non plus ?"}
+{"id":1547888,"jp":"僕は記憶がないから……わからないことはたくさんあるよ。|私は記憶がないから……わからないことはたくさんあるよ。","fr":"J'ai perdu la mémoire, tu sais… Il y a beaucoup de choses que j'ignore.|J'ai perdu la mémoire, tu sais… Il y a beaucoup de choses que j'ignore."}
+{"id":1547889,"jp":"たとえば――自分がいったい何者なのか。","fr":"Par exemple, qui je suis vraiment."}
+{"id":1547890,"jp":"それから、はじめて会ったとき、\nアビィはどうして助けてくれたのか、とかもね。","fr":"Ou encore pourquoi tu m'as porté secours\nlors de notre première rencontre, Abby."}
+{"id":1547891,"jp":"みんな、あぶないとケガする……ケガすると、いたい。","fr":"Quand les gens sont en danger, ils se font mal… Et quand on se fait mal, ça fait mal."}
+{"id":1547892,"jp":"アビィ、てつだう。\n悪いやつを追いはらって、みんなを守る！","fr":"Alors Abby veut aider.\nAbby chasse les méchants et protège tout le monde !"}
+{"id":1547893,"jp":"悪いやつがいなくなれば、\nみんな、アビィといっしょにいてくれる。","fr":"Quand il y aura plus de méchants,\ntout le monde restera avec Abby."}
+{"id":1547894,"jp":"危険もかえりみずに、勇敢に飛び出していく。\nアビィは、もう十分いい子だよ。","fr":"Tu te précipites courageusement au secours des autres, sans même penser au danger.\nTu es déjà une très gentille fille, Abby."}
+{"id":1547895,"jp":"でも、アビィにはもっと楽しく、自由でいてほしいな。","fr":"Mais j'aimerais que tu t'amuses davantage et que tu te sentes plus libre."}
+{"id":1547896,"jp":"言うことをきく子……だめなの？","fr":"C'est pas bien… d'être une fille qui obéit ?"}
+{"id":1547897,"jp":"駄目じゃないよ。\nただ、みんなと同じになろうとして、自分をおさえこむと、\nそんなふうに不安そうに相手を伺うことになるから。","fr":"Si, bien sûr.\nMais si tu t'empêches d'être toi-même pour ressembler à tout le monde,\ntu finiras par guetter la moindre réaction des autres, de peur de leur déplaire."}
+{"id":1547898,"jp":"ほんとはね、アビィがアビィのままでいるときの笑顔が\n一番キラキラしてるんだ。","fr":"Tu sais, c'est quand tu es vraiment toi-même, Abby,\nque ton sourire brille le plus."}
+{"id":1547899,"jp":"アビィ……そのままでいいの？\n言うことをきかなくても？","fr":"Abby… peut rester comme elle est ?\nMême si Abby obéit pas toujours ?"}
+{"id":1547900,"jp":"うん。食いしんぼうでも、甘えん坊でも……\nやりたいことをやって、いいんだよ。","fr":"Oui. Tu as le droit d'être gourmande, de réclamer des câlins…\nEt de faire les choses dont tu as envie."}
+{"id":1547901,"jp":"もし……アビィが、まちがえたら？","fr":"Et si… Abby fait une bêtise ?"}
+{"id":1547902,"jp":"そのときは、一緒になんとかする方法を探すよ。","fr":"Alors, on cherchera ensemble un moyen d'arranger les choses."}
+{"id":1547903,"jp":"メーツァのドームも直す方法だって\nちゃんと考えるから、心配しなくていいよ。","fr":"On trouvera aussi une solution pour réparer le dôme de Metsa.\nTu n'as pas besoin de t'inquiéter pour ça."}
+{"id":1547904,"jp":"うん！せーりんしゃがいれば、アビィ、なにも怖くない。","fr":"Oui ! Avec Enfant des étoiles, Abby a plus peur de rien !"}
+{"id":1547905,"jp":"もう、怖い夢、見ない。","fr":"Abby fera plus de vilains cauchemars."}
+{"id":1547906,"jp":"いっぱいぐーぐーして……いっぱいうんどうして、いっぱいはむはむする。\nアビィ、ぜんぶやった！","fr":"Abby a fait plein de dodo… Abby a beaucoup bougé et fait plein de miam miam.\nAbby a tout fait !"}
+{"id":1547907,"jp":"リハビリの内容、ちゃんと覚えてるんだね。","fr":"Tu as bien retenu toutes les étapes de ta rééducation, dis donc."}
+{"id":1547908,"jp":"アビィ、ちゃんと『りはびり』できた？\nにがいお薬、もう飲みたくない……","fr":"Abby a bien fait sa « rééducation » ?\nAbby veut plus prendre le médicament amer…"}
+{"id":1547909,"jp":"うん、もうすっかり回復したよ！\nメーツァにも教えてあげなくちゃ！","fr":"Oui, tu es complètement guérie maintenant !\nIl faut qu'on aille annoncer la bonne nouvelle à Metsa !"}
+{"id":1547910,"jp":"おかえりなさい。\nその顔……なにかいいことがあったのね。","fr":"Vous voilà de retour !\nÀ voir ta petite mine réjouie, il a dû t'arriver quelque chose de bien."}
+{"id":1547911,"jp":"アビィ、『りはびり』ちゃんとできた！","fr":"Abby a réussi sa « rééducation » !"}
+{"id":1547912,"jp":"ふふっ、ご褒美はなにがいいかしら？","fr":"Hihi, qu'est-ce qui te ferait plaisir comme récompense ?"}
+{"id":1547913,"jp":"今日……おいしいもの、いっぱいはむはむして……\nみんなと、遊んだ……","fr":"Aujourd'hui… Abby a mangé plein de bonnes choses…\nEt Abby a joué avec tout le monde…"}
+{"id":1547914,"jp":"うれしかった。ごほうび、いらない。","fr":"Abby était contente. Abby a pas besoin de récompense."}
+{"id":1547915,"jp":"じゃあ、『なでなで』と『よしよし』もいらない？","fr":"Alors, même pas besoin de petites caresses ni de gros câlins ?"}
+{"id":1547916,"jp":"ううっ！なでなでして、よしよしして！","fr":"Mmh ! Si ! Abby veut des caresses et des câlins !"}
+{"id":1547917,"jp":"それなら、回復のお祝いをみんなでするのはどうかしら？","fr":"Dans ce cas, que dirais-tu de fêter ta guérison tous ensemble ?"}
+{"id":1547918,"jp":"うん！アビィ、狩りいく！\nみんなと、うれしい気持ち、『わけあう』。","fr":"Oui ! Abby va aller chasser !\nAbby veut « partager » sa joie avec tout le monde."}
+{"id":1547919,"jp":"みんな、好きな食べもの……ぜんぶちがう。","fr":"Tout le monde… aime des choses différentes."}
+{"id":1547920,"jp":"テララ、炙り肉好き。アビィも、好き。","fr":"Terara aime la viande grillée. Abby aussi, elle aime ça."}
+{"id":1547921,"jp":"お肉好きじゃない子には、えっと……フルーツあげる。","fr":"Pour ceux qui aiment pas la viande, euh… Abby va donner des fruits."}
+{"id":1547922,"jp":"モフモフたいちょうには……『ポポクッキー』用意する！","fr":"Et pour capitaine Tout-Doux… Abby va préparer des « biscuits Popo » !"}
+{"id":1547923,"jp":"いろんな相手との付き合い方がわかったみたいね。","fr":"On dirait que tu as appris à t'entendre avec toutes sortes de personnes."}
+{"id":1547924,"jp":"アビィはみんなの好みを、よく知っているみたいだわ。","fr":"Abby semble très bien connaître les goûts de chacun."}
+{"id":1547925,"jp":"星臨者、これはきっと、あなたのおかげね。","fr":"Enfant des étoiles, c'est certainement grâce à toi."}
+{"id":1547926,"jp":"えへへ、せーりんしゃ、おしえてくれた。\nみんなとちがっても、いっしょに遊べる。","fr":"Hihi, Enfant des étoiles a expliqué à Abby.\nMême si on est différents, on peut jouer ensemble."}
+{"id":1547927,"jp":"アビィ、そのままで、いちばんピカピカ。","fr":"C'est quand Abby reste Abby qu'elle brille le plus !"}
+{"id":1547928,"jp":"ええ、その通りだわ。\nたとえば、まったく同じ形をした木の葉の一枚一枚を\nアビィは好きになれるかしら。","fr":"Oui, c'est exactement ça.\nImagine que toutes les feuilles aient exactement la même forme.\nPourrais-tu apprécier chacune d'entre elles, Abby ?"}
+{"id":1547929,"jp":"……ぜんぶいっしょだと、見わけつかない。","fr":"… Si elles sont toutes pareilles, Abby peut pas les reconnaître."}
+{"id":1547930,"jp":"ええ。ガーデンには、同じ葉は一枚もないわ……\nけれど、こんなにも調和した緑を紡いでいるでしょう。","fr":"Exactement. Dans le Jardin, il n'y a pas deux feuilles identiques…\nEt pourtant, toutes ces nuances de vert se mêlent en parfaite harmonie, tu ne trouves pas ?"}
+{"id":1547931,"jp":"私にも、孤独な時期があったわ。\nけれど、このガーデンと、ガーデンに草木をひとつひとつ運んでくれた\nキボたちが、その時間を傍で支えてくれたの。","fr":"Moi aussi, j'ai connu une période de solitude.\nMais ce Jardin et les Kibo qui y ont apporté chaque plante, une à une,\nm'ont tenu compagnie et soutenue pendant cette période."}
+{"id":1547932,"jp":"メーツァお姉ちゃんの庭は、お姉ちゃんの『ピカピカの石』？","fr":"Le jardin de grande sœur Metsa, c'est sa « pierre qui brille » ?"}
+{"id":1547933,"jp":"『ピカピカの石』？\n変わったたとえだけれど……ええ、そうだと思うわ。","fr":"Ma « pierre qui brille » ?\nVoilà une drôle de comparaison… Mais oui, je crois bien."}
+{"id":1547934,"jp":"ここは私の使命が実る場所。たったひとつの宝物よ。","fr":"C'est ici que ma mission porte ses fruits. C'est mon trésor le plus précieux."}
+{"id":1547935,"jp":"アビィはどうかしら？自分の『ピカピカ』はもう見つかった？","fr":"Et toi, Abby ? As-tu déjà trouvé ce qui brille le plus à tes yeux ?"}
+{"id":1547936,"jp":"うん！アビィ、夢で見た。","fr":"Oui ! Abby l'a vu dans son rêve."}
+{"id":1547937,"jp":"そうなのね。いつか、夢のお話、聞かせてもらえたらうれしいわ。","fr":"Ah, je vois. J'aimerais beaucoup que tu me racontes ce rêve un jour."}
+{"id":1547938,"jp":"さあ、もう遅い時間よ。おやすみできる場所に行きなさい。","fr":"Allez, il se fait tard. Va donc t'installer quelque part pour dormir."}
+{"id":1547939,"jp":"……せーりんしゃ、まだ行かないで。","fr":"… Enfant des étoiles, pars pas encore."}
+{"id":1547940,"jp":"せーりんしゃ、『りはびり』てつだってくれた。\nアビィ、ごほうびあげる。","fr":"Enfant des étoiles a aidé Abby pour sa « rééducation ».\nAbby va donner une récompense."}
+{"id":1547941,"jp":"この夜景が、アビィのくれるご褒美？","fr":"C'est cette belle vue nocturne que tu voulais m'offrir, Abby ?"}
 {"id":1547942,"jp":"綺麗だね。","fr":"C'est beau."}
+{"id":1547943,"jp":"せーりんしゃ、目、つぶって。","fr":"Enfant des étoiles, ferme les yeux."}
+{"id":1547944,"jp":"ん……もう、あけていい。","fr":"Mmh… C'est bon, tu peux les ouvrir."}
 {"id":1547945,"jp":"これ、あげる。","fr":"Tiens, c'est pour toi."}
+{"id":1547946,"jp":"これは、ずっと探してたピカピカの石だよね？\nもらってもいいの？","fr":"Mais c'est la pierre qui brille que tu cherchais depuis tout ce temps, non ?\nTu veux vraiment me la donner ?"}
+{"id":1547947,"jp":"うん。アビィ、せーりんしゃのこと、よろこばせたい。","fr":"Oui. Abby veut faire plaisir à Enfant des étoiles."}
+{"id":1547948,"jp":"この石、アビィの魔力入れた。こわれない。","fr":"Abby a mis sa magie dans la pierre. Elle peut plus se casser."}
+{"id":1547949,"jp":"ずっと、せーりんしゃといっしょ。","fr":"Elle restera toujours avec Enfant des étoiles."}
+{"id":1547950,"jp":"アビィが、そばにいるみたいに。","fr":"Comme si Abby était toujours à côté de toi."}
+{"id":1547951,"jp":"ありがとう、アビィ。\nお返しはなにが欲しいかな？","fr":"Merci, Abby.\nQu'est-ce qui te ferait plaisir en retour ?"}
+{"id":1547952,"jp":"アビィ、たからもの、もう見つけた。","fr":"Abby a déjà trouvé son trésor."}
+{"id":1547953,"jp":"アビィはプレゼントした鉱石が喜ばれたとわかると、\nもっといいものを贈るためにピカピカの石を探しはじめた。\nふたりは疲れ果てるまで鉱脈から別の鉱脈へと足を運んだ。","fr":"En voyant à quel point son cadeau vous faisait plaisir, Abby se mit à chercher\ndes pierres encore plus brillantes pour vous en offrir de plus belles.\nVous avez parcouru les gisements ensemble jusqu'à épuisement."}
 {"id":1547954,"jp":"つかれた……","fr":"Quelle fatigue…"}
+{"id":1547955,"jp":"お休みまえのお話は聞きたいかな？","fr":"Tu veux que je te raconte une histoire avant de dormir ?"}
+{"id":1547956,"jp":"うー、聞きたいけど、アビィ、ねむたい……","fr":"Mmh, Abby veut bien, mais Abby a sommeil…"}
+{"id":1547957,"jp":"あ、ピカピカの虫さん――","fr":"Oh, une petite bestiole qui brille…"}
+{"id":1547958,"jp":"うぅ……逃げちゃった。","fr":"Mmh… Elle s'est sauvée."}
+{"id":1547959,"jp":"変なものばっかり食べちゃだめだよ、アビィ。","fr":"Il ne faut pas manger tout ce qui te passe sous le nez, Abby."}
+{"id":1547960,"jp":"自分から、飛んできたもん……","fr":"Mais c'est elle qui est venue voler près d'Abby…"}
+{"id":1547961,"jp":"やっぱりアビィ、へん……？\nせーりんしゃも、アビィのこと、きらいになる？","fr":"Abby est quand même bizarre… ?\nEnfant des étoiles aussi va plus aimer Abby ?"}
 {"id":1547962,"jp":"ほんと？えへへ……","fr":"Vraiment ? Hé hé…"}
+{"id":1547963,"jp":"それじゃ、これからも遊んでくれる？","fr":"Alors, tu voudras encore jouer avec Abby ?"}
+{"id":1547964,"jp":"せーりんしゃの手、ぽかぽか。気持ちいい。","fr":"La main d'Enfant des étoiles, elle est toute chaude. Ça fait du bien."}
+{"id":1547965,"jp":"ねむい。アビィ、ぐーぐーする……","fr":"Abby a sommeil. Abby va faire dodo…"}
+{"id":1547966,"jp":"ん、もっとなでなでして。","fr":"Mmh… Encore des petites caresses, s'il te plaît."}
+{"id":1547967,"jp":"さあ、おやすみなさい。","fr":"Allez, bonne nuit."}
+{"id":1547968,"jp":"ずーっとなでなでして……","fr":"Fais des petites caresses à Abby pour toujours…"}
 {"id":1547969,"jp":"ふわぁ～","fr":"Haaam~"}
 {"id":1547970,"jp":"すー……すー……","fr":"Zzz… zzz…"}
 {"id":1547971,"jp":"すー……くぅー……","fr":"Zzz… mmm…"}
+{"id":1547972,"jp":"（やっと眠ったみたい……）","fr":"(On dirait qu'elle a enfin trouvé le sommeil…)"}
 {"id":1547973,"jp":"せーりんしゃ……","fr":"Enfant des étoiles…"}
+{"id":1547974,"jp":"アビィ……めーわくかけた……","fr":"Abby… a fait des ennuis…"}
 {"id":1547978,"jp":"大丈夫だよ、アビィ。","fr":"Ça va aller, Abby."}
 {"id":1547980,"jp":"もうさみしくないよ。","fr":"Tu n'es plus seule."}
 {"id":1547981,"jp":"やくそく……","fr":"Promis…"}
