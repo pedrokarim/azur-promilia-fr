@@ -54102,6 +54102,7 @@
 {"id":1552631,"jp":"雷の音、メルトレイクから聞こえてきたと思う……","fr":"Il me semble que le tonnerre venait du lac Melt…"}
 {"id":1552632,"jp":"メルトレイク……いまはもう雷の音はしてないみたいだ。\nけど、念のため調査しておいたほうが良さそうだね。|メルトレイク……いまはもう雷の音はしてないみたいね。\nけど、念のため調査しておいたほうが良さそう。","fr":"Melt Lake… on dirait que le tonnerre s'est tu.\nMais par précaution, mieux vaut aller enquêter.|Melt Lake… on dirait que le tonnerre s'est tu.\nMais par précaution, il vaudrait mieux aller enquêter."}
 {"id":1552633,"jp":"そうだ、ウォルフがなにか知ってるかも。\n朝、街に行ったんだけど、メルトレイクの雷のことを話してたから。","fr":"Je l'ai vu de mes propres yeux !\nDe la foudre qui s'abat sur le lac Melt… J'avais jamais vu un truc pareil !"}
+{"id":1552634,"jp":"僕、この目で見たんだ！\nメルトレイクに雷が落ちるなんて……あんなの、見たことないよ！","fr":"Je l'ai vu de mes propres yeux !\nLa foudre qui s'abat sur le lac Melt… Je n'avais jamais vu ça !"}
 {"id":1552635,"jp":"雷が落ちたの？","fr":"La foudre est tombée ?"}
 {"id":1552636,"jp":"もしかして、昨夜のメルトレイクの話？","fr":"Vous parlez de ce qui s'est passé au lac Melt hier soir ?"}
 {"id":1552637,"jp":"{playerName}も見たの？真っくらやみと雷のなかで光った目を！","fr":"Toi aussi, t'as vu ça, {playerName} ? Ces yeux qui brillaient dans l'obscurité au milieu des éclairs !"}
@@ -54170,11 +54171,60 @@
 {"id":1552700,"jp":"キュキュキュキュオン！","fr":"Kyu-kyu-kyu-kyuon !"}
 {"id":1552701,"jp":"警備隊がすぐ駆けつけてきて、エレキカッターに麻痺させられた赤蠍団のメンバーを連行していく","fr":"La garde est rapidement arrivée sur les lieux et a emmené les membres des Scorpions rouges, paralysés par l'Elekicutter."}
 {"id":1552702,"jp":"事件の犯人は、あの密猟者たちだったね。\nあの連中が小型のエネルギー装置を使って、エレキカッターをおびき寄せていたんだ。","fr":"Ces braconniers étaient donc bien à l'origine de toute cette histoire.\nIls avaient utilisé un petit dispositif énergétique pour attirer l'Elekicutter."}
+{"id":1552703,"jp":"その装置を見つけたら、エレキカッターたちは去ってくれるのかな？","fr":"Tu crois que les Elekicutters partiront si on retrouve ce dispositif ?"}
+{"id":1552704,"jp":"うまくいけば、エレキカッターはその装置を住処に持って帰るんじゃないかな。\n食べ物を巣に持ち帰るキボみたいにね。","fr":"Avec un peu de chance, l'Elekicutter emportera le dispositif dans son repaire.\nUn peu comme les Kibo qui rapportent de la nourriture dans leur nid."}
+{"id":1552705,"jp":"それじゃあ、装置を探しに行こう。","fr":"Alors, allons chercher ce dispositif."}
+{"id":1552706,"jp":"なるほど、こんなところに隠してあったんだ。しかも周囲をちゃんと偽装して……\nエレキカッターが見つけられなかったわけだね。","fr":"Je vois, c'est donc là qu'il était caché. Ils ont même pris soin de le camoufler dans le décor…\nPas étonnant que l'Elekicutter n'ait pas réussi à le trouver."}
+{"id":1552707,"jp":"赤蠍団の連中が作ったものとは思えないな。装置自体もカモフラージュも精巧だぞ……","fr":"J'ai du mal à croire que les Scorpions rouges aient fabriqué ça. Le dispositif comme le camouflage sont sacrément sophistiqués…"}
+{"id":1552708,"jp":"彼らの雇い主が技術を提供したんじゃないかな。本当、ずる賢いね。","fr":"Je parie que leur employeur leur a fourni la technologie. Ils sont vraiment sournois."}
+{"id":1552709,"jp":"密猟者を捕まえ続けるよ。そうすれば、いずれ黒幕もシッポを出すと思う。","fr":"Je vais continuer à traquer les braconniers. Celui qui tire les ficelles finira bien par se trahir."}
+{"id":1552710,"jp":"とにかくいまは、エレキカッターの問題を解決することに専念しようよ。","fr":"En attendant, concentrons-nous sur le problème des Elekicutters."}
+{"id":1552711,"jp":"どうぞ、エレキカッター。これが欲しかったんでしょ？","fr":"Tiens, Elekicutter. C'est bien ce que tu voulais, non ?"}
+{"id":1552712,"jp":"どこか静かな場所でゆっくり食事をしてね。\nまた悪いやつに騙されないように、気をつけるんだよ？","fr":"Trouve-toi un coin tranquille pour savourer ton repas.\nEt fais attention à ne plus te faire avoir par des méchants, d'accord ?"}
 {"id":1552713,"jp":"……キュン。","fr":"… Kyun."}
+{"id":1552714,"jp":"落ち着きがあるし、なんだか神秘的だし、背中は『孤高』て感じだし……\nなんてカッコいいんだ……","fr":"Il est si calme, si mystérieux… Même de dos, il dégage une aura de noble solitaire…\nQu'est-ce qu'il a la classe…"}
+{"id":1552715,"jp":"ほお？もうお前はあの丸い目が怖くないのか？","fr":"Oh ? Tu n'as plus peur de ses grands yeux ronds ?"}
+{"id":1552716,"jp":"しょ、正体もわかったんだし、怖くないよ！","fr":"M-maintenant que je sais ce que c'est, je n'ai plus peur !"}
+{"id":1552717,"jp":"これで、メルトレイクから変な雷が聞こえてくることもないね……\nみんなぐっすり眠れるよ、きっと。","fr":"On n'entendra plus ces étranges coups de tonnerre venant du lac Melt…\nTout le monde pourra enfin dormir sur ses deux oreilles."}
+{"id":1552718,"jp":"ああ、なにもかも無駄だったってわけじゃないさ。\nめずらしいキボをこの目で見られたんだしな。","fr":"Oui, au moins, on n'aura pas fait tout ça pour rien.\nOn a quand même pu voir un Kibo rare de nos propres yeux."}
+{"id":1552719,"jp":"無駄だなんてとんでもないよ、しっかり収穫はあったって。","fr":"Pour rien ? Tu plaisantes ! On a même trouvé un petit trésor !"}
+{"id":1552720,"jp":"さっき、立ち去るまえのエレキカッターが、足元になにかあるって合図をくれたの。\nで、よくよく確認したら、これが落ちてたんだ！","fr":"Juste avant de partir, l'Elekicutter m'a fait signe qu'il y avait quelque chose à ses pieds.\nJ'ai regardé de plus près et voilà ce que j'ai trouvé !"}
+{"id":1552721,"jp":"エレキカッターが持っていかなかったってことは、私たちへのプレゼントっていう意味だよね？\nそれなら、ありがたくもらおうじゃない！","fr":"S'il ne l'a pas emporté, c'est qu'il voulait nous en faire cadeau, non ?\nDans ce cas, acceptons-le avec plaisir !"}
+{"id":1552722,"jp":"すごい、冒険の記念品だ！","fr":"Génial ! Un souvenir de notre aventure !"}
+{"id":1552723,"jp":"まるで……エレキカッターからの贈りものだね。","fr":"On dirait bien… un cadeau de l'Elekicutter."}
+{"id":1552724,"jp":"ふふっ、そうかもしれないね！","fr":"Héhé, c'est bien possible !"}
+{"id":1552725,"jp":"めずらしいキボに会って、悪党を倒して、\nおもしろい記念品まで手に入って……完璧な冒険だったね！","fr":"On a rencontré un Kibo rare, vaincu des bandits,\net même rapporté un super souvenir… C'était l'aventure parfaite !"}
+{"id":1552726,"jp":"{playerName}、またおもしろいことがあったら、絶対に呼んでよね！","fr":"{playerName}, la prochaine fois qu'il se passe quelque chose d'intéressant, n'oublie surtout pas de m'appeler !"}
+{"id":1552727,"jp":"{playerName}、わざわざここまで足を運んでもらったこと、感謝する！","fr":"{playerName}, merci d'avoir fait tout ce chemin jusqu'ici !"}
+{"id":1552728,"jp":"トラブルでもあったの？","fr":"Il y a un problème ?"}
+{"id":1552729,"jp":"恥ずかしい話なんだが……最近、フリス周辺で異常事態が頻発していてな。\n警備隊だけでは手が回らなくなっているんだ。","fr":"Je ne suis pas très fier de l'admettre, mais… les incidents étranges se multiplient aux alentours de Fleece ces derniers temps.\nLa garde ne parvient plus à gérer la situation seule."}
 {"id":1552730,"jp":"異常事態……？","fr":"Un incident anormal… ?"}
+{"id":1552731,"jp":"植物が異常な成長をしているんだ。\n農家の畑に植えられた作物が一晩でひとよりも大きくなったり、果樹が一日で開花して実を付けたり……\n信じられない報告が相次いでいる。","fr":"Les plantes poussent à une vitesse anormale.\nDes cultures dépassent la taille d'un être humain en une seule nuit, des arbres fruitiers fleurissent et donnent des fruits en une journée…\nLes signalements les plus invraisemblables s'enchaînent."}
+{"id":1552732,"jp":"いまのところ人的被害はないのだが、あまりにも頻繁に起こっていてな。\nだれかが裏で糸を引いている可能性もあるんじゃないかと考えている……","fr":"Pour l'instant, personne n'a été blessé, mais ces phénomènes se produisent bien trop souvent.\nJe commence à me demander si quelqu'un ne tire pas les ficelles dans l'ombre…"}
+{"id":1552733,"jp":"でもそれって、悪いことでもないんじゃないか？\n作物がはやく育つのなら、それだけ食料も増えるってことだろう？","fr":"Mais ce n'est pas forcément une mauvaise chose, si ?\nSi les cultures poussent plus vite, ça veut dire qu'on aura plus de nourriture, non ?"}
+{"id":1552734,"jp":"そうだといいんだが……なにしろ、食物の異常な成長は制御不能なんだ。\n巨大化した作物が道を塞いだり、家屋を押し潰すという報告まで出ている。\n放置すれば、フリス全体に被害が及ぶかもしれない。","fr":"J'aimerais bien… Malheureusement, cette croissance anormale est incontrôlable.\nOn nous a même signalé des cultures gigantesques qui bloquent les routes ou écrasent des maisons.\nSi on ne fait rien, tout Fleece risque d'en subir les conséquences."}
+{"id":1552735,"jp":"とにかく、いまは人手が本当に足りていない状況だ。どうか力を貸してほしい。","fr":"Quoi qu'il en soit, nous manquons cruellement de personnel. Nous avons vraiment besoin de ton aide."}
+{"id":1552736,"jp":"感謝する。では早速、処理しきれていない報告が一件あるので調査を頼みたい。\n街外れの麦畑にとんでもなく巨大な麦の束が現れたんだが、\nその頂上から助けを呼ぶ声が聞こえるらしいんだ。","fr":"Merci. Pour commencer, j'aimerais que tu enquêtes sur un signalement dont nous n'avons pas encore pu nous occuper.\nUne gigantesque touffe de blé est apparue dans un champ à la sortie de la ville,\net apparemment, on entend quelqu'un appeler au secours depuis son sommet."}
+{"id":1552737,"jp":"……って、うわ！この麦、いくらなんでも大きすぎじゃないか！？","fr":"… Mais… Wah ! C'est complètement démesuré, ce blé !"}
+{"id":1552738,"jp":"たしかに「とんでもなく巨大」だね……","fr":"Effectivement, « gigantesque » est bien le mot…"}
+{"id":1552739,"jp":"たーすーけーてーくーだーさーいー！","fr":"Aaaaau secoooours, s'il vous plaîîît !"}
+{"id":1552740,"jp":"あれ？いまの声って……","fr":"Hein ? Cette voix…"}
 {"id":1552741,"jp":"だれかいませんかー！","fr":"Il y a quelqu'un~ !"}
+{"id":1552742,"jp":"この声、どこかで聞いたような……もしかしてシロロ？","fr":"Il me semble avoir déjà entendu cette voix quelque part… Ce serait Shiroro ?"}
+{"id":1552743,"jp":"待ってて、シロロ！すぐ助けるから！","fr":"Tiens bon, Shiroro ! J'arrive !"}
+{"id":1552744,"jp":"ふぅ……やっと助かりました。ありがとうございます！","fr":"Ouf… Enfin sur la terre ferme. Merci beaucoup !"}
 {"id":1552745,"jp":"大丈夫？ケガはない？","fr":"Ça va ? Pas de blessure ?"}
+{"id":1552746,"jp":"だ、大丈夫です！ぶら下がってたせいですこし目眩がするだけですから！","fr":"Ç-ça va ! J'ai juste un peu le vertige à force d'être resté en l'air !"}
+{"id":1552747,"jp":"で、どうして麦に引っかかってたのだ？","fr":"Alors, comment tu t'es retrouvé à pendouiller dans ce blé ?"}
+{"id":1552748,"jp":"仕事から帰っている途中、この辺りで奇妙なエネルギーの揺らぎを感じたんです。\nなので近づいて調べてみようとしたら、この麦がグングン伸びはじめてきまして……！","fr":"En rentrant du travail, j'ai senti une étrange fluctuation d'Énergie dans les environs.\nJe me suis donc approché pour examiner le phénomène, mais le blé s'est soudain mis à pousser à toute vitesse… !"}
+{"id":1552749,"jp":"で、気づいたときには麦のてっぺんに吊るされていました……\n皆さんが助けてくれなかったら、降りるのに苦労したことでしょう。","fr":"Avant même que je comprenne ce qui se passait, je me suis retrouvé suspendu tout en haut du blé…\nSans votre aide, j'aurais eu bien du mal à redescendre."}
 {"id":1552750,"jp":"プ……","fr":"Pf…"}
+{"id":1552751,"jp":"こんなことになるなんて、思ってもみませんでした……","fr":"Jamais je n'aurais imaginé que ça tournerait ainsi…"}
+{"id":1552752,"jp":"それで、近くに怪しい人物はいなかった？","fr":"Et tu n'as vu personne de suspect dans les environs ?"}
+{"id":1552753,"jp":"いえ、とくに見かけませんでしたよ。\n……それから、奇妙なエネルギーの異常の方なんですが、麦が伸びきったところで消えてしまったんですよね。","fr":"Non, je n'ai remarqué personne en particulier.\n… Quant à cette étrange fluctuation d'Énergie, elle a disparu dès que le blé a cessé de pousser."}
+{"id":1552754,"jp":"一度ジルスのところに戻って報告しようか。","fr":"On retourne voir Jils pour lui faire notre rapport ?"}
+{"id":1552755,"jp":"なるほど、それでシロロがいなかったのか。","fr":"Je vois, c'est donc pour ça que Shiroro était introuvable."}
+{"id":1552756,"jp":"ごめんなさい。不用心でした……","fr":"Je suis désolé. J'aurais dû faire preuve de plus de prudence…"}
 {"id":1552760,"jp":"そっか……うーん……","fr":"Je vois… Hmm…"}
 {"id":1552762,"jp":"あれ、コムギ？","fr":"Tiens, Komugi ?"}
 {"id":1552766,"jp":"アマルテイア……","fr":"Amalthea…"}
