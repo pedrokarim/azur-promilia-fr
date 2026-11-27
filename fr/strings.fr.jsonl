@@ -57376,36 +57376,61 @@
 {"id":1557284,"jp":"焔光の原石を5つ採集する","fr":"Récolter 5 pierres brutes de lueur ardente"}
 {"id":1557285,"jp":"鉱石を返却する","fr":"Rendre le minerai"}
 {"id":1557286,"jp":"鉱石をネビュリオンに返す。","fr":"Rendre le minerai à Nebulion."}
+{"id":1557287,"jp":"リリカの悩みを解決する","fr":"Résoudre le problème de Lyrica"}
+{"id":1557288,"jp":"リリカに結果を知らせる","fr":"Informer Lyrica du résultat"}
 {"id":1557289,"jp":"結果を知らせる","fr":"Annoncer le résultat"}
 {"id":1557290,"jp":"サンディアと話す","fr":"Parler à Sandia"}
 {"id":1557291,"jp":"牧場へ向かう","fr":"Aller au pâturage"}
 {"id":1557292,"jp":"農場を調査する","fr":"Inspecter l'exploitation"}
+{"id":1557293,"jp":"目的地へ向かい、獣肉を置く","fr":"Se rendre à destination et déposer la viande de bête"}
 {"id":1557294,"jp":"獣肉を置く","fr":"Déposer la viande de bête"}
 {"id":1557295,"jp":"メーフィの痕跡を探す","fr":"Chercher les traces de Meafy"}
 {"id":1557296,"jp":"ワオッキーを追い払う","fr":"Chasser les Waokki"}
 {"id":1557297,"jp":"周囲を調べる","fr":"Examiner les environs"}
 {"id":1557298,"jp":"メーフィを見つける","fr":"Trouver Meafy"}
 {"id":1557299,"jp":"メイプルと話す","fr":"Parler à Maple"}
+{"id":1557300,"jp":"レニーとラニーに状況を尋ねる","fr":"Interroger Lenny et Rani sur la situation"}
 {"id":1557301,"jp":"なにが起きたか尋ねる","fr":"Demander ce qui s'est passé"}
 {"id":1557302,"jp":"ウォルフと話す","fr":"Parler à Wolf"}
+{"id":1557303,"jp":"メルトレイクについて……","fr":"À propos du lac Melt…"}
+{"id":1557304,"jp":"メルトレイクへ向かい、状況を確認する","fr":"Se rendre au lac Melt pour évaluer la situation"}
 {"id":1557305,"jp":"メルトレイクへ向かう","fr":"Aller à Melt Lake"}
+{"id":1557306,"jp":"ウォルフが言っていたキボを見つける","fr":"Retrouver le Kibo dont Wolf a parlé"}
+{"id":1557307,"jp":"エレキカッターとエレキリーを見つける","fr":"Retrouver Elekicutter et Electrilly"}
+{"id":1557308,"jp":"エレキカッターとエレキリーを倒す","fr":"Vaincre Elekicutter et Electrilly"}
 {"id":1557309,"jp":"エレキカッターを倒す","fr":"Vaincre Elekicutter"}
 {"id":1557310,"jp":"赤蠍団を一掃する","fr":"Anéantir les Scorpions rouges"}
 {"id":1557311,"jp":"赤蠍団を倒す","fr":"Vaincre les Scorpions rouges"}
+{"id":1557312,"jp":"エレキカッターが求めるエネルギー装置を見つける","fr":"Trouver le dispositif d'Énergie recherché par Elekicutter"}
+{"id":1557313,"jp":"エネルギー装置を見つける","fr":"Trouver le dispositif d'Énergie"}
+{"id":1557314,"jp":"エレキカッターにエネルギー装置を渡す","fr":"Remettre le dispositif d'Énergie à Elekicutter"}
+{"id":1557315,"jp":"エネルギー装置をプレゼントする","fr":"Offrir le dispositif d'Énergie"}
+{"id":1557316,"jp":"エネルギー装置をエレキカッターに渡す。","fr":"Remettre le dispositif d'Énergie à Elekicutter."}
 {"id":1557317,"jp":"ロフィと話す","fr":"Parler à Rofi"}
+{"id":1557318,"jp":"みんなが何を話しているか聞く","fr":"Écouter la conversation du groupe"}
+{"id":1557319,"jp":"ボマークの出現場所へ向かう","fr":"Se rendre à l'endroit où apparaissent les Bomark"}
 {"id":1557320,"jp":"川から荷物を拾う","fr":"Récupérer la cargaison dans la rivière"}
 {"id":1557321,"jp":"ボマークを倒す","fr":"Vaincre le Bomark"}
 {"id":1557322,"jp":"岸の石を調べる","fr":"Examiner les pierres de la rive"}
 {"id":1557323,"jp":"ルビーナに軟木を渡す","fr":"Donner le bois tendre à Ruby"}
+{"id":1557324,"jp":"軟らかい木を10個納品する","fr":"Livrer 10 morceaux de bois tendre"}
+{"id":1557325,"jp":"ルビーナの装置を設置する","fr":"Installer le dispositif de Ruby"}
+{"id":1557326,"jp":"落ち着いて知らせを待つ","fr":"Patienter en attendant des nouvelles"}
 {"id":1557327,"jp":"ゴンドーロへ向かう","fr":"Aller à Gondolo"}
 {"id":1557328,"jp":"アニスの悩みを聞く","fr":"Écouter les soucis d'Anais"}
 {"id":1557329,"jp":"なにかお困りですか？","fr":"Quelque chose vous tracasse ?"}
+{"id":1557330,"jp":"アニスを手伝って種を見つける","fr":"Aider Anais à trouver les graines"}
 {"id":1557331,"jp":"フリスへ戻る","fr":"Retourner à Fleece"}
 {"id":1557332,"jp":"花の種を渡す","fr":"Remettre les graines de fleurs"}
 {"id":1557333,"jp":"迷跡の森に戻る","fr":"Retourner à la Forêt aux Traces perdues"}
 {"id":1557334,"jp":"状況を確認しに行く","fr":"Aller voir où en est la situation"}
 {"id":1557335,"jp":"赤蠍団を阻止する","fr":"Arrêter les Scorpions rouges"}
+{"id":1557336,"jp":"フォーリーの傷の具合を確認する","fr":"Examiner les blessures de Foley"}
+{"id":1557337,"jp":"フォーリーの傷を手当てする","fr":"Soigner les blessures de Foley"}
+{"id":1557338,"jp":"フォーリーについて進む","fr":"Suivre Foley"}
+{"id":1557339,"jp":"スーニヤの侵蝕の痕跡を浄化する","fr":"Purifier les Traces d'Érosion de Sunya"}
 {"id":1557340,"jp":"シロロと話す","fr":"Parler à Shiroro"}
+{"id":1557341,"jp":"一緒にチラシを配りに行く","fr":"Aller distribuer des prospectus ensemble"}
 {"id":1557342,"jp":"園芸展へ向かう","fr":"Aller à l'exposition d'horticulture"}
 {"id":1557343,"jp":"ポポティを撫でる","fr":"Caresser le Popoty"}
 {"id":1557344,"jp":"原因を伝える","fr":"Annoncer la cause"}
@@ -57418,13 +57443,18 @@
 {"id":1557351,"jp":"薬を塗るのを手伝う","fr":"Aider à appliquer le remède"}
 {"id":1557352,"jp":"ティーガに薬を塗る","fr":"Appliquer le remède à Tiga"}
 {"id":1557353,"jp":"翌朝まで待つ","fr":"Attendre le matin"}
+{"id":1557354,"jp":"ティーガの様子を見に行く","fr":"Aller voir comment se porte Tiga"}
 {"id":1557355,"jp":"ティーガを護送する","fr":"Escorter Tiga"}
 {"id":1557356,"jp":"果樹園に戻る","fr":"Retourner au verger"}
 {"id":1557357,"jp":"メルトレイクを離れる","fr":"Quitter Melt Lake"}
+{"id":1557358,"jp":"怪我をした観光客と話す","fr":"Parler au touriste blessé"}
 {"id":1557359,"jp":"観光客に薬草を渡す","fr":"Donner des herbes médicinales au touriste"}
+{"id":1557360,"jp":"観光客にネコヒゲ草を渡す。","fr":"Remettre l'herbe à moustaches de chat au touriste."}
 {"id":1557361,"jp":"キボの所在地へ向かう","fr":"Aller là où se trouve le Kibo"}
 {"id":1557362,"jp":"ブラウディに近づく","fr":"Approcher de Browdy"}
 {"id":1557363,"jp":"観光客を救出する","fr":"Secourir le touriste"}
+{"id":1557364,"jp":"シンフォーリアに尋ねる","fr":"Demander conseil à Symphoria"}
+{"id":1557365,"jp":"ブラウディに近づいてみる","fr":"Essayer de s'approcher du Browdy"}
 {"id":1557366,"jp":"観光客の写真を撮る","fr":"Photographier le touriste"}
 {"id":1557367,"jp":"観光客と話す","fr":"Parler au touriste"}
 {"id":1557368,"jp":"フレイムを救出する","fr":"Secourir Flame"}
@@ -57435,34 +57465,53 @@
 {"id":1557373,"jp":"果樹園へ向かう","fr":"Aller au verger"}
 {"id":1557374,"jp":"ボアラーガを追い払う","fr":"Chasser les Boaraga"}
 {"id":1557375,"jp":"ボアラーガの牙を拾う","fr":"Ramasser la défense du Boaraga"}
+{"id":1557376,"jp":"猪の牙をヴォルフに渡す","fr":"Remettre la défense de sanglier à Volf"}
+{"id":1557377,"jp":"猪の牙をヴォルフに渡す。","fr":"Remettre la défense de sanglier à Volf."}
 {"id":1557378,"jp":"柵を突き破る","fr":"Défoncer la clôture"}
 {"id":1557379,"jp":"果樹園に入る","fr":"Entrer dans le verger"}
 {"id":1557380,"jp":"テララに起こされる","fr":"Être réveillé par Terara"}
 {"id":1557381,"jp":"サトゥルと話す","fr":"Parler à Saturn"}
+{"id":1557382,"jp":"鷹の連峰へ行って手がかりを探す","fr":"Se rendre dans les Monts du Faucon pour chercher des indices"}
+{"id":1557383,"jp":"メテオールについていく","fr":"Suivre Staray"}
 {"id":1557384,"jp":"ファイエルを追い払う","fr":"Chasser Fayel"}
 {"id":1557385,"jp":"フィルの治療","fr":"Soigner Phil"}
+{"id":1557386,"jp":"フィルにシーリリィを飲ませる。","fr":"Faire boire du Sea Lily à Phil."}
+{"id":1557387,"jp":"キボとのコンビネーションを見せる","fr":"Faire une démonstration de votre coopération avec votre Kibo"}
+{"id":1557388,"jp":"コンビネーションを見せる","fr":"Faire une démonstration de coopération"}
 {"id":1557389,"jp":"フィルと話す","fr":"Parler à Phil"}
 {"id":1557390,"jp":"イグネストを追い払う","fr":"Chasser l'Ignest"}
 {"id":1557391,"jp":"フィルの様子を見る","fr":"Voir comment va Phil"}
 {"id":1557392,"jp":"メテオールを探す","fr":"Chercher Staray"}
+{"id":1557393,"jp":"メテオールをフィルのもとへ連れ帰る","fr":"Ramener Staray auprès de Phil"}
 {"id":1557394,"jp":"リサおばあちゃんと話す","fr":"Parler à mamie Lisa"}
+{"id":1557395,"jp":"リサおばあちゃんの悩み","fr":"Les soucis de Mamie Lisa"}
+{"id":1557396,"jp":"『奇妙な笑顔』を調べる","fr":"Enquêter sur le « sourire étrange »"}
 {"id":1557397,"jp":"不審な点を調査","fr":"Enquêter sur les indices suspects"}
 {"id":1557398,"jp":"ニャバットを追い払う","fr":"Chasser les Titterbat"}
+{"id":1557399,"jp":"リサおばあちゃんに返事をする","fr":"Répondre à Mamie Lisa"}
 {"id":1557400,"jp":"笑顔の正体","fr":"Le secret du sourire"}
 {"id":1557401,"jp":"坑道へ向かう","fr":"Aller à la galerie de mine"}
+{"id":1557402,"jp":"『秘密基地』に入って調査する","fr":"Entrer dans la « base secrète » et l'explorer"}
 {"id":1557403,"jp":"イザベルと話す","fr":"Parler à Isabel"}
 {"id":1557404,"jp":"万事、整った。","fr":"Tout est prêt."}
+{"id":1557405,"jp":"『宝物』をイザベルに渡す","fr":"Remettre le « trésor » à Isabel"}
+{"id":1557406,"jp":"『宝物』をイザベルに渡す。","fr":"Remettre le « trésor » à Isabel."}
 {"id":1557407,"jp":"ローザと話す","fr":"Parler à Rosa"}
 {"id":1557408,"jp":"ローザの依頼","fr":"Mission de Rosa"}
 {"id":1557409,"jp":"ポリーを探す","fr":"Chercher Polly"}
+{"id":1557410,"jp":"トランゴの生存状況を調べる（0/3）","fr":"Vérifier les conditions de survie des Trango (0/3)"}
+{"id":1557411,"jp":"トランゴの生存状況を調査する（1/3）","fr":"Vérifier les conditions de survie des Trango (1/3)"}
+{"id":1557412,"jp":"トランゴの生存状況を調査する（2/3）","fr":"Vérifier les conditions de survie des Trango (2/3)"}
 {"id":1557413,"jp":"付近の住民に話を聞く","fr":"Interroger les habitants des environs"}
 {"id":1557414,"jp":"ポリーを追いかける","fr":"Courir après Polly"}
+{"id":1557415,"jp":"近くで夜になるのを待つ","fr":"Attendre la tombée de la nuit dans les environs"}
 {"id":1557416,"jp":"夜になるのを待つ","fr":"Attendre la nuit"}
 {"id":1557417,"jp":"トランゴを観察する","fr":"Observer Trango"}
 {"id":1557418,"jp":"観察する","fr":"Observer"}
 {"id":1557419,"jp":"行商を制圧する","fr":"Maîtriser les colporteurs"}
 {"id":1557420,"jp":"トランゴをなだめる","fr":"Apaiser Trango"}
 {"id":1557421,"jp":"餌やり","fr":"Nourrissage"}
+{"id":1557422,"jp":"トランゴにポポクッキーを食べさせ、回復を助ける。","fr":"Donner un biscuit Popo au Trango pour l'aider à reprendre des forces."}
 {"id":1557423,"jp":"朝まで待つ","fr":"Attendre le matin"}
 {"id":1557424,"jp":"状況を報告する","fr":"Faire un rapport sur la situation"}
 {"id":1557425,"jp":"ハリエットと話す","fr":"Parler à Harriet"}
@@ -57470,22 +57519,30 @@
 {"id":1557427,"jp":"果樹園の付近を調べる","fr":"Fouiller près du verger"}
 {"id":1557428,"jp":"麦畑の近くを調べる","fr":"Fouiller près du champ de blé"}
 {"id":1557429,"jp":"本を買う","fr":"Acheter le livre"}
+{"id":1557430,"jp":"モフリーネを追いかける","fr":"Poursuivre Downybrinny"}
 {"id":1557431,"jp":"茂みの冠を開く","fr":"Ouvrir la couronne de buissons"}
 {"id":1557432,"jp":"ティティと話す","fr":"Parler à Tiffy"}
 {"id":1557433,"jp":"ティティとノノと話す","fr":"Parler à Tiffy et Nono"}
+{"id":1557434,"jp":"カークとティナナに尋ねる","fr":"Interroger Kirk et Tinana"}
+{"id":1557435,"jp":"モモとエンカクに尋ねる","fr":"Interroger Momo et Enkaku"}
 {"id":1557436,"jp":"チルルに尋ねる","fr":"Interroger Chilul"}
 {"id":1557437,"jp":"遠吠え平原へ向かう","fr":"Aller aux Plaines hurlantes"}
 {"id":1557438,"jp":"貝殻を探す","fr":"Chercher des coquillages"}
+{"id":1557439,"jp":"カルマーナ湖畔へ向かう","fr":"Se rendre sur les rives du lac Karmana"}
 {"id":1557440,"jp":"タイダレストを倒す","fr":"Vaincre le Tidalest"}
 {"id":1557441,"jp":"村長に教えを請う","fr":"Demander conseil au chef du village"}
 {"id":1557442,"jp":"棚を調べる","fr":"Examiner l'étagère"}
 {"id":1557443,"jp":"ビリバーを獲得する","fr":"Obtenir un Biliver"}
 {"id":1557444,"jp":"リーフォを獲得する","fr":"Obtenir un Leafo"}
 {"id":1557445,"jp":"モーモを獲得する","fr":"Obtenir un Momo"}
+{"id":1557446,"jp":"テララとキボファイトを1回行う","fr":"Disputer un Duel de Kibo contre Terara"}
 {"id":1557447,"jp":"キボファイトを行う","fr":"Faire un Duel de Kibo"}
+{"id":1557448,"jp":"ティティとノノに話しかける","fr":"Parler à Tiffy et Nono"}
 {"id":1557449,"jp":"探検隊集結","fr":"Rassemblement de l'équipe d'expédition"}
 {"id":1557450,"jp":"鷹の連峰へ向かう","fr":"Aller aux Monts du Faucon"}
 {"id":1557451,"jp":"ぷーちゃんの後を追う","fr":"Suivre Pu-chan"}
+{"id":1557452,"jp":"襲ってくるボアラーガを撃退する","fr":"Repousser les Boaraga qui vous attaquent"}
+{"id":1557453,"jp":"ボアラーガの生息地を離れる","fr":"Quitter l'habitat des Boaraga"}
 {"id":1557454,"jp":"宝石洞窟へ向かう","fr":"Aller à la grotte aux gemmes"}
 {"id":1557455,"jp":"マグマロスを倒す","fr":"Vaincre le Magmaros"}
 {"id":1557456,"jp":"安全な場所に到着","fr":"Atteindre un endroit sûr"}
@@ -57500,8 +57557,11 @@
 {"id":1557465,"jp":"カークに尋ねる","fr":"Interroger Kirk"}
 {"id":1557466,"jp":"村長について行く","fr":"Suivre le chef du village"}
 {"id":1557467,"jp":"ボアラーガを倒す","fr":"Vaincre le Boaraga"}
+{"id":1557468,"jp":"村長について宝の隠し場所へ","fr":"Suivre le Chef du village jusqu'à la cachette du trésor"}
+{"id":1557469,"jp":"村長のお宝を掘り起こす","fr":"Déterrer le trésor du Chef du village"}
 {"id":1557470,"jp":"お宝を掘り起こす","fr":"Déterrer le trésor"}
 {"id":1557471,"jp":"お宝の内容を調べる","fr":"Regarder en quoi consiste le trésor"}
+{"id":1557472,"jp":"村長を手伝って宝箱をきれいにする","fr":"Aider le Chef du village à nettoyer le coffre au trésor"}
 {"id":1557473,"jp":"ラリンと話す","fr":"Parler à Larin"}
 {"id":1557474,"jp":"ラリンの依頼","fr":"Mission de Larin"}
 {"id":1557475,"jp":"バレットを探す","fr":"Trouver Barrett"}
