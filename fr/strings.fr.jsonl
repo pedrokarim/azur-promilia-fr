@@ -58617,38 +58617,98 @@
 {"id":1558530,"jp":"メッセージを入力してください。","fr":"Veuillez saisir un message."}
 {"id":1558531,"jp":"新着メッセージ：{0}件","fr":"Nouveaux messages : {0}"}
 {"id":1558532,"jp":"レベル{0}","fr":"Niv. {0}"}
+{"id":1558533,"jp":"現在メッセージを送信できません。しばらくしてからお試しください。","fr":"Impossible d'envoyer des messages pour le moment. Veuillez réessayer ultérieurement."}
+{"id":1558534,"jp":"チャンネルを切り替えました。","fr":"Canal changé."}
+{"id":1558535,"jp":"指定したチャンネルは存在しません。","fr":"Le canal indiqué n'existe pas."}
+{"id":1558536,"jp":"指定したチャンネルは満員です。","fr":"Le canal indiqué est complet."}
 {"id":1558537,"jp":"釣り竿がありません。","fr":"Pas de canne à pêche."}
 {"id":1558538,"jp":"釣り竿を選択","fr":"Choisir une canne"}
 {"id":1558539,"jp":"餌がありません。","fr":"Pas d'appât."}
 {"id":1558540,"jp":"餌を選択","fr":"Choisir un appât"}
 {"id":1558541,"jp":"未発見","fr":"Non découvert"}
+{"id":1558542,"jp":"最小サイズ：{0}cm","fr":"Taille minimale : {0} cm"}
+{"id":1558543,"jp":"最大サイズ：{0}cm","fr":"Taille maximale : {0} cm"}
 {"id":1558544,"jp":"魚の残り数：{0}","fr":"Poissons restants : {0}"}
+{"id":1558545,"jp":"この餌は魚に好まれていないようです。別の餌に変えますか？","fr":"Les poissons ne semblent pas apprécier cet appât. Voulez-vous en utiliser un autre ?"}
 {"id":1558546,"jp":"魚に逃げられました。","fr":"Le poisson s'est échappé."}
 {"id":1558547,"jp":"残り{0}匹","fr":"Restant : {0}"}
+{"id":1558549,"jp":"釣り竿が設定されていません。","fr":"Aucune canne à pêche sélectionnée."}
+{"id":1558550,"jp":"餌が設定されていません。","fr":"Aucun appât sélectionné."}
+{"id":1558551,"jp":"ここではもう魚を釣れないようです。別の場所に移動してみましょう。","fr":"Il semble qu'il n'y ait plus de poissons à pêcher ici. Essayez de changer d'endroit."}
+{"id":1558552,"jp":"キャラクター切替のクールタイム中です。","fr":"Le changement de personnage est en cours de temps de recharge."}
+{"id":1558553,"jp":"テンプレート切替のクールタイム中です。","fr":"Le changement de configuration est en cours de temps de recharge."}
 {"id":1558554,"jp":"スキル属性","fr":"Élément de la compétence"}
+{"id":1558555,"jp":"同名のアニマを使用すると、ランクアップできます。","fr":"Utiliser une Anima du même nom permet d'augmenter son rang."}
+{"id":1558556,"jp":"強化に使用できる素材がありません。","fr":"Aucun matériau disponible pour l'amélioration."}
+{"id":1558557,"jp":"現在のレベルは上限です。限界突破を行いますか？","fr":"La limite de niveau actuelle est atteinte. Voulez-vous effectuer une Percée ?"}
+{"id":1558558,"jp":"素材を使ってレベルアップできます。同名のアニマを使ってランクアップすることも可能です。","fr":"Utilisez des matériaux pour augmenter le niveau. Vous pouvez également augmenter le rang en utilisant une Anima du même nom."}
 {"id":1558559,"jp":"ログインエラー","fr":"Erreur de connexion"}
+{"id":1558560,"jp":"ログインサーバーの準備が完了していません。しばらくしてからお試しください。","fr":"Le serveur de connexion n'est pas encore prêt. Veuillez réessayer ultérieurement."}
+{"id":1558561,"jp":"電話番号の形式が正しくありません。","fr":"Le format du numéro de téléphone est incorrect."}
+{"id":1558562,"jp":"パスワードの形式が正しくありません。","fr":"Le format du mot de passe est incorrect."}
+{"id":1558563,"jp":"プライバシーポリシーに同意してください。","fr":"Veuillez accepter la politique de confidentialité."}
+{"id":1558564,"jp":"入力されたパスワードが一致しません。","fr":"Les mots de passe saisis ne correspondent pas."}
+{"id":1558565,"jp":"正しい電話番号を入力してください。","fr":"Veuillez saisir un numéro de téléphone valide."}
 {"id":1558566,"jp":"変更しました。","fr":"Modifié."}
+{"id":1558567,"jp":"現在のアカウントのパスワードは変更されました。再度ログインしてください。","fr":"Le mot de passe de votre compte a été modifié. Veuillez vous reconnecter."}
+{"id":1558568,"jp":"正しい認証コードを入力してください。","fr":"Veuillez saisir un code de vérification valide."}
+{"id":1558569,"jp":"再送信（{time}）","fr":"Renvoyer ({time})"}
 {"id":1558570,"jp":"認証コードを送信","fr":"Envoyer le code de vérification"}
 {"id":1558571,"jp":"商品購入","fr":"Achat d'objet"}
+{"id":1558572,"jp":"電話番号を入力してください。","fr":"Veuillez saisir votre numéro de téléphone."}
+{"id":1558573,"jp":"SMSを送信しました。","fr":"SMS envoyé."}
+{"id":1558574,"jp":"商品の情報を更新してください。","fr":"Veuillez actualiser les informations du produit."}
 {"id":1558575,"jp":"在庫数","fr":"Stock"}
 {"id":1558576,"jp":"売り切れ","fr":"Épuisé"}
 {"id":1558577,"jp":"アカウント切替","fr":"Changer de compte"}
+{"id":1558578,"jp":"電話番号が入力されていません。","fr":"Aucun numéro de téléphone saisi."}
+{"id":1558579,"jp":"パスワードが入力されていません。","fr":"Aucun mot de passe saisi."}
+{"id":1558580,"jp":"ログインモジュールの初期化に失敗しました。","fr":"Échec de l'initialisation du module de connexion."}
 {"id":1558581,"jp":"ログイン中です。","fr":"Connexion en cours…"}
 {"id":1558582,"jp":"アカウント：","fr":"Compte :"}
 {"id":1558583,"jp":"ログイン","fr":"Connexion"}
+{"id":1558584,"jp":"ログインに失敗しました。","fr":"Échec de la connexion."}
+{"id":1558585,"jp":"正しい名前を入力してください。","fr":"Veuillez saisir un nom valide."}
+{"id":1558586,"jp":"正しい身分証明書番号を入力してください。","fr":"Veuillez saisir un numéro de pièce d'identité valide."}
 {"id":1558587,"jp":"差出人：","fr":"De :"}
+{"id":1558588,"jp":"体型を再選択すると、すべての選択がリセットされます。よろしいですか？","fr":"Sélectionner une nouvelle morphologie réinitialisera tous vos choix. Voulez-vous continuer ?"}
+{"id":1558589,"jp":"ランダムなキャラ外見を選択すると、すべての選択がリセットされます。よろしいですか？","fr":"Sélectionner une apparence aléatoire pour votre personnage réinitialisera tous vos choix. Voulez-vous continuer ?"}
+{"id":1558590,"jp":"キャラ外見の切替を確定しますか？今回の変更は保存されません。","fr":"Voulez-vous confirmer le changement d'apparence du personnage ? Les modifications actuelles ne seront pas enregistrées."}
+{"id":1558591,"jp":"この名前はすでに使用されています。別の名前をお試しください。","fr":"Ce nom est déjà utilisé. Veuillez en choisir un autre."}
 {"id":1558592,"jp":"あなたの名前は……","fr":"Votre nom…"}
+{"id":1558593,"jp":"変更が保存されません。終了しますか？","fr":"Vos modifications ne seront pas enregistrées. Voulez-vous tout de même quitter ?"}
+{"id":1558594,"jp":"素材が不足しています。手動で選択してください。","fr":"Matériaux insuffisants. Veuillez les sélectionner manuellement."}
+{"id":1558595,"jp":"現在の最大レベルに達しています。","fr":"La limite de niveau actuelle est atteinte."}
 {"id":1558596,"jp":"突破ヒント","fr":"Indice de percée"}
 {"id":1558597,"jp":"突破成功","fr":"Percée réussie"}
 {"id":1558598,"jp":"リスト","fr":"Liste"}
+{"id":1558599,"jp":"強化済みの装備が素材として選択されています。よろしいですか？","fr":"Des équipements déjà améliorés ont été sélectionnés comme matériaux. Voulez-vous continuer ?"}
+{"id":1558600,"jp":"レアリティの高い装備が素材として選択されています。よろしいですか？","fr":"Des équipements de rareté élevée ont été sélectionnés comme matériaux. Voulez-vous continuer ?"}
+{"id":1558601,"jp":"現在の設定を保存して適用しますか？","fr":"Voulez-vous enregistrer et appliquer les paramètres actuels ?"}
+{"id":1558602,"jp":"一部の変更はマップを切り替えることで反映されます。","fr":"Certaines modifications prendront effet après un changement de carte."}
+{"id":1558603,"jp":"ニックネームを入力してください。","fr":"Veuillez saisir un pseudonyme."}
+{"id":1558604,"jp":"この称号は未解放です。","fr":"Ce titre n'a pas encore été débloqué."}
 {"id":1558605,"jp":"選択中の称号","fr":"Titre sélectionné"}
 {"id":1558606,"jp":"称号未解放","fr":"Titre non débloqué"}
 {"id":1558607,"jp":"プレフィックスを選択","fr":"Choisir le préfixe"}
 {"id":1558608,"jp":"サフィックスを選択","fr":"Choisir le suffixe"}
+{"id":1558609,"jp":"称号が選択されていません。","fr":"Aucun titre sélectionné."}
+{"id":1558610,"jp":"キボが第4成長段階に達すると解放されます。","fr":"Se débloque lorsque le Kibo atteint le 4e stade de croissance."}
 {"id":1558611,"jp":"プレフィックス","fr":"Préfixe"}
 {"id":1558612,"jp":"サフィックス","fr":"Suffixe"}
 {"id":1558613,"jp":"称号を変更しました。","fr":"Titre modifié."}
+{"id":1558614,"jp":"すべての星祝が付与されました。","fr":"Toutes les Bénédictions stellaires ont été accordées."}
+{"id":1558615,"jp":"昇臨するにはキャラレベルの上昇が必要です。\nレベルアップ画面に移動しますか？","fr":"Vous devez augmenter le niveau du personnage pour procéder à son Ascension.\nVoulez-vous accéder à l'écran de montée en niveau ?"}
+{"id":1558616,"jp":"レベルが{0}に達すると、さらに昇臨できます。","fr":"Une nouvelle Ascension sera possible une fois le niveau {0} atteint."}
+{"id":1558617,"jp":"レベルアップ画面に移動","fr":"Accéder à l'écran de montée en niveau"}
+{"id":1558618,"jp":"星識レベルを{0}にするとレベルアップ可能","fr":"Montée en niveau disponible au niveau de Savoir stellaire {0}"}
+{"id":1558619,"jp":"[%s]-[%s]に移動してください。","fr":"Veuillez vous rendre à [%s]-[%s]."}
+{"id":1558620,"jp":"前提クエスト[%s]をクリアしてください。","fr":"Veuillez d'abord terminer la quête [%s]."}
+{"id":1558621,"jp":"[%s]時までお待ちください。","fr":"Veuillez patienter jusqu'à [%s] h."}
+{"id":1558622,"jp":"当日の[%s]時までに完了してください。","fr":"Veuillez terminer cette tâche avant [%s] h aujourd'hui."}
+{"id":1558623,"jp":"[%s]時から[%s]時の間までお待ちください。","fr":"Veuillez attendre la plage horaire comprise entre [%s] h et [%s] h."}
 {"id":1558624,"jp":"未開始","fr":"Non commencé"}
+{"id":1558625,"jp":"通貨が不足しています。","fr":"Solde de monnaie insuffisant."}
 {"id":1558627,"jp":"所持","fr":"Possédé"}
 {"id":1558638,"jp":"提出確定","fr":"Confirmer l'envoi"}
 {"id":1558642,"jp":"初期設定に戻す","fr":"Rétablir les valeurs par défaut"}
