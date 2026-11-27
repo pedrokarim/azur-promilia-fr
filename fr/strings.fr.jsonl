@@ -59475,31 +59475,91 @@
 {"id":1559275,"jp":"{0}分{1}秒","fr":"{0} min {1} s"}
 {"id":1559276,"jp":"エリアクエスト-{0}","fr":"Quête de zone - {0}"}
 {"id":1559277,"jp":"このキボはロックされています。ロックを解除し、お別れ対象として選択しますか？","fr":"Ce Kibo est verrouillé. Voulez-vous le déverrouiller et le sélectionner pour vous en séparer ?"}
+{"id":1559278,"jp":"このキボは異彩キボです。本当にお別れしてもよろしいですか？","fr":"Ce Kibo est une Variante. Voulez-vous vraiment vous en séparer ?"}
+{"id":1559279,"jp":"このキボは輝くキボです。本当にお別れしてもよろしいですか？","fr":"Il s'agit d'un Kibo brillant. Voulez-vous vraiment vous en séparer ?"}
+{"id":1559280,"jp":"このキボは輝く異彩キボです。本当にお別れしてもよろしいですか？","fr":"Ce Kibo brillant est une Variante. Voulez-vous vraiment vous en séparer ?"}
+{"id":1559281,"jp":"このキボは特殊個体のキボです。本当にお別れしてもよろしいですか？","fr":"Ce Kibo est un spécimen spécial. Voulez-vous vraiment vous en séparer ?"}
+{"id":1559282,"jp":"このキボは星彩キボです。本当にお別れしてもよろしいですか？","fr":"Il s'agit d'un Kibo étoilé. Voulez-vous vraiment vous en séparer ?"}
+{"id":1559283,"jp":"このキボは輝く星彩キボです。本当にお別れしてもよろしいですか？","fr":"Il s'agit d'un Kibo brillant étoilé. Voulez-vous vraiment vous en séparer ?"}
+{"id":1559284,"jp":"このキボは出撃中のため、お別れできません。","fr":"Impossible de vous séparer de ce Kibo, car il fait partie de l'équipe active."}
+{"id":1559285,"jp":"このキボは農園にいるため、お別れできません。","fr":"Impossible de vous séparer de ce Kibo, car il se trouve dans la ferme."}
+{"id":1559286,"jp":"このキボは騎乗中のため、お別れできません。","fr":"Impossible de vous séparer de ce Kibo, car vous l'utilisez actuellement comme monture."}
+{"id":1559287,"jp":"条件を満たすキボがいません。","fr":"Aucun Kibo ne remplit les conditions."}
+{"id":1559288,"jp":"条件を満たすキボをすべて選択しました。","fr":"Tous les Kibo remplissant les conditions ont été sélectionnés."}
+{"id":1559289,"jp":"まずお別れしたいキボを選択してください。","fr":"Sélectionnez d'abord les Kibo dont vous souhaitez vous séparer."}
+{"id":1559290,"jp":"本日のキボのお別れ追加報酬が上限に達しました。本当にお別れしますか？","fr":"Vous avez atteint la limite quotidienne de récompenses supplémentaires obtenues en vous séparant de vos Kibo. Voulez-vous vraiment continuer ?"}
+{"id":1559291,"jp":"このキボのタマゴとお別れすると以下の報酬を獲得できます。本当にお別れしますか？","fr":"Vous obtiendrez les récompenses suivantes en vous séparant de cet œuf de Kibo. Voulez-vous vraiment continuer ?"}
 {"id":1559292,"jp":"背景紹介","fr":"Contexte"}
+{"id":1559293,"jp":"<color=#9D814F>あと探索Ptを{0}獲得すると</color><color=#E0923E>次の段階</color>に進めます。","fr":"<color=#9D814F>Obtenez encore {0} pts d'exploration pour passer à </color><color=#E0923E>l'étape suivante</color>."}
+{"id":1559294,"jp":"<color=#9D814F>最大の探索段階を達成しました。</color>","fr":"<color=#9D814F>Vous avez atteint le stade d'exploration maximal.</color>"}
+{"id":1559295,"jp":"{0}-{1}探索完了","fr":"Exploration de {0}-{1} terminée"}
+{"id":1559296,"jp":"撮影クエスト中は録画モードに切り替えできません。","fr":"Impossible de passer en mode vidéo pendant une quête de photographie."}
+{"id":1559297,"jp":"このアイテムは所持しています。","fr":"Vous possédez déjà cet objet."}
 {"id":1559298,"jp":"製作中","fr":"En fabrication"}
 {"id":1559299,"jp":"追跡開始","fr":"Suivi lancé"}
+{"id":1559300,"jp":"追跡がまもなく失敗します。残り{0}秒","fr":"Le suivi est sur le point d'échouer. Temps restant : {0} s"}
+{"id":1559301,"jp":"ターゲットとの距離が遠すぎます。もう少し近づいてみましょう。","fr":"Vous êtes trop loin de la cible. Essayez de vous en rapprocher."}
+{"id":1559306,"jp":"現在の状態ではキャラを切り替えられません。","fr":"Impossible de changer de personnage dans votre état actuel."}
+{"id":1559307,"jp":"現在の状態ではチーム編成を使用できません。","fr":"Impossible d'accéder à la composition d'équipe dans votre état actuel."}
+{"id":1559308,"jp":"現在の状態ではバッグを開けません。","fr":"Impossible d'ouvrir l'inventaire dans votre état actuel."}
+{"id":1559309,"jp":"現在の状態ではキャラ画面を開けません。","fr":"Impossible d'ouvrir le menu des personnages dans votre état actuel."}
+{"id":1559310,"jp":"現在の状態では農園に入れません。","fr":"Impossible d'accéder à la ferme dans votre état actuel."}
+{"id":1559311,"jp":"現在の状態ではワープできません。","fr":"Téléportation impossible dans votre état actuel."}
+{"id":1559312,"jp":"現在の状態ではインタラクトできません。","fr":"Impossible d'interagir dans votre état actuel."}
+{"id":1559313,"jp":"現在の状態では挑戦を開始できません。","fr":"Impossible de commencer un défi dans votre état actuel."}
+{"id":1559314,"jp":"再挑戦すると現在の進行状況がリセットされます。よろしいですか？","fr":"Recommencer le défi réinitialisera votre progression actuelle. Continuer ?"}
 {"id":1559315,"jp":"ファイトスキル","fr":"Compétence de duel"}
 {"id":1559316,"jp":"ファイト特性","fr":"Traits de duel"}
 {"id":1559317,"jp":"データなし","fr":"Aucune donnée"}
 {"id":1559318,"jp":"外見変更の確認","fr":"Confirmer le changement d'apparence"}
+{"id":1559319,"jp":"外見を変更してもよろしいですか？","fr":"Voulez-vous vraiment modifier votre apparence ?"}
+{"id":1559320,"jp":"アイテムショップは未解放です。","fr":"La boutique d'objets n'a pas encore été débloquée."}
+{"id":1559321,"jp":"レベル%sになると昇臨が可能になります。","fr":"L'Ascension devient disponible au niveau %s."}
+{"id":1559322,"jp":"お試しキボは変更できません。","fr":"Impossible de changer les Kibo d'essai."}
+{"id":1559323,"jp":"調整はまだ完了していません。外見変更を終了しますか？","fr":"La personnalisation n'est pas terminée. Voulez-vous quitter l'écran de modification de l'apparence ?"}
+{"id":1559324,"jp":"この姿で外見変更を完了しますか？","fr":"Voulez-vous confirmer cette nouvelle apparence ?"}
+{"id":1559325,"jp":"今回の外見変更の調整をリセットしますか？今回の変更は保存されません。","fr":"Voulez-vous réinitialiser les réglages de votre apparence ? Les modifications actuelles ne seront pas enregistrées."}
+{"id":1559326,"jp":"ランダム外見を生成しますか？今回の変更は保存されません。","fr":"Voulez-vous générer une apparence aléatoire ? Les modifications actuelles ne seront pas enregistrées."}
 {"id":1559327,"jp":"接続失敗","fr":"Échec de connexion"}
+{"id":1559328,"jp":"メッセージがタイムアウトしました。","fr":"Le délai d'attente du message a expiré."}
+{"id":1559329,"jp":"メッセージの送信がタイムアウトしました。","fr":"Le délai d'envoi du message a expiré."}
 {"id":1559330,"jp":"再接続","fr":"Se reconnecter"}
+{"id":1559331,"jp":"接続が切れました。再試行しますか？","fr":"Connexion perdue. Voulez-vous réessayer ?"}
 {"id":1559332,"jp":"再接続に失敗しました","fr":"Échec de la reconnexion"}
 {"id":1559333,"jp":"データ更新中","fr":"Mise à jour des données"}
+{"id":1559334,"jp":"再接続に失敗しました。メイン画面に戻ります。","fr":"Échec de la reconnexion. Retour à l'écran principal."}
+{"id":1559335,"jp":"戦闘終了を待っています。","fr":"En attente de la fin du combat."}
 {"id":1559336,"jp":"（任意）","fr":"(Facultatif)"}
 {"id":1559337,"jp":"{0}秒後に再開","fr":"Reprise dans {0} secondes"}
+{"id":1559338,"jp":"任意の場所をタップして閉じる","fr":"Appuyez n'importe où pour fermer"}
 {"id":1559339,"jp":"ステータス上昇","fr":"Hausse de statistiques"}
+{"id":1559340,"jp":"戦闘に突入中、現在はスターリンクできません。","fr":"Un combat est sur le point de commencer. Le Lien stellaire est actuellement indisponible."}
 {"id":1559341,"jp":"種の収集数","fr":"Graines collectées"}
 {"id":1559342,"jp":"昇臨度","fr":"Niveau d'ascension"}
 {"id":1559343,"jp":"常時解放","fr":"Toujours débloqué"}
+{"id":1559344,"jp":"リスト内のキャラクターアイコンを長押しで詳細表示","fr":"Maintenir l'icône d'un personnage dans la liste pour afficher ses détails"}
+{"id":1559345,"jp":"リスト内のキボを長押しで詳細表示","fr":"Maintenir un Kibo dans la liste pour afficher ses détails"}
+{"id":1559346,"jp":"一部クエスト報酬のプレビュー","fr":"Aperçu d'une partie des récompenses de quête"}
 {"id":1559347,"jp":"向かう","fr":"Aller"}
 {"id":1559348,"jp":"進行中","fr":"En cours"}
+{"id":1559349,"jp":"戦闘中のため、キボとスターリンクできません。","fr":"Impossible d'activer le Lien stellaire avec un Kibo pendant un combat."}
+{"id":1559350,"jp":"現在のチームの平均レベルが低すぎます。続行しますか？","fr":"Le niveau moyen de votre équipe actuelle est trop faible. Continuer ?"}
+{"id":1559351,"jp":"推奨チーム平均レベル：Lv.{0}+","fr":"Niveau moyen recommandé pour l'équipe : Niv. {0}+"}
+{"id":1559352,"jp":"チームの出撃キャラが定員に達していません。よろしいですか？","fr":"Votre équipe n'est pas au complet. Voulez-vous tout de même continuer ?"}
+{"id":1559353,"jp":"現在のマップではチーム編成を編集できません。","fr":"Impossible de modifier la composition de l'équipe dans cette zone."}
+{"id":1559354,"jp":"飛行中は編成を変更できません。","fr":"Impossible de modifier la composition de l'équipe en plein vol."}
+{"id":1559355,"jp":"ボスエリアへワープしますか？","fr":"Voulez-vous vous téléporter dans la zone du boss ?"}
 {"id":1559356,"jp":"ボーナス一覧","fr":"Liste des bonus"}
 {"id":1559357,"jp":"<昇臨度{0}>","fr":"<Niveau d'ascension {0}>"}
 {"id":1559358,"jp":"星祝一覧","fr":"Liste des Bénédictions stellaires"}
 {"id":1559359,"jp":"授与済み","fr":"Accordé"}
 {"id":1559360,"jp":"未授与","fr":"Non accordé"}
 {"id":1559361,"jp":"昇臨済み","fr":"Ascension effectuée"}
+{"id":1559362,"jp":"これ以上強化できません。","fr":"Le niveau d'amélioration maximal est atteint."}
+{"id":1559363,"jp":"サーバーメンテナンス中です。しばらくお待ちください。","fr":"Maintenance du serveur en cours. Veuillez patienter."}
+{"id":1559364,"jp":"装備中のパーツが外れる可能性があります。続行しますか？","fr":"Certains éléments actuellement équipés risquent d'être retirés. Continuer ?"}
+{"id":1559365,"jp":"キャラクターの満腹度を回復できる料理がありません。","fr":"Vous ne possédez aucun plat permettant de restaurer la satiété du personnage."}
+{"id":1559366,"jp":"キボの満腹度を回復できる料理がありません。","fr":"Vous ne possédez aucun plat permettant de restaurer la satiété des Kibo."}
 {"id":1559367,"jp":"強化へ","fr":"Aller au renforcement"}
 {"id":1559373,"jp":"キボ未装備","fr":"Aucun Kibo équipé"}
 {"id":1559375,"jp":"壺に隠れているウミィ","fr":"Umii caché dans une jarre"}
