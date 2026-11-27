@@ -59378,9 +59378,44 @@
 {"id":1559178,"jp":"チャージ攻撃を発動し、「ニャンニャンラッシュ」を獲得する {0}/{1}","fr":"Déclencher une Attaque chargée pour obtenir l'effet « Ruée nyan-nyan » {0}/{1}"}
 {"id":1559179,"jp":"「ニャンニャンラッシュ」がある間に通常攻撃の連続攻撃を最後まで発動し、エネミーに命中させる {0}/{1}","fr":"Sous l'effet « Ruée nyan-nyan », réaliser un combo complet d'Attaques normales en touchant un ennemi {0}/{1}"}
 {"id":1559180,"jp":"星響スキルを発動し、木棺・初期型を召喚する {0}/{1}","fr":"Activer la Compétence Écho stellaire pour invoquer le Cercueil de bois · Prototype {0}/{1}"}
+{"id":1559181,"jp":"木棺がフィールド上にある時に通常攻撃を4段目まで発動し、木棺を1段階強化する {0}/{1}","fr":"Lorsque le Cercueil de bois est sur le terrain, enchaîner les Attaques normales jusqu'au 4e coup pour l'améliorer d'un niveau {0}/{1}"}
+{"id":1559182,"jp":"星響スキルを発動し、木棺を召喚する {0}/{1}","fr":"Activer la Compétence Écho stellaire pour invoquer le Cercueil de bois {0}/{1}"}
+{"id":1559183,"jp":"星極スキルを発動し、木棺をもう一度召喚する {0}/{1}","fr":"Activer la Compétence Zénith stellaire pour invoquer à nouveau le Cercueil de bois {0}/{1}"}
+{"id":1559184,"jp":"星響スキルを発動し、チーム全体のHPを回復する {0}/{1}","fr":"Activer la Compétence Écho stellaire pour restaurer les PV de toute l'équipe {0}/{1}"}
+{"id":1559185,"jp":"星極スキルを発動し、チーム全体のHPを継続的に回復する {0}/{1}","fr":"Activer la Compétence Zénith stellaire pour restaurer progressivement les PV de toute l'équipe {0}/{1}"}
+{"id":1559186,"jp":"星響スキルでEXダメージを与えた後、弾薬を補充できる {0}/{1}","fr":"Il est possible de recharger les munitions après avoir infligé des DGT EX avec la Compétence Écho stellaire {0}/{1}"}
+{"id":1559187,"jp":"攻撃ボタンを連打または長押しして、強化通常攻撃の全コンボを発動する {0}/{1}","fr":"Appuyer plusieurs fois sur le bouton d'attaque ou le maintenir pour réaliser un combo complet d'Attaques normales renforcées {0}/{1}"}
+{"id":1559188,"jp":"星極スキルでEXダメージを与えた後、弾薬を補充できる {0}/{1}","fr":"Il est possible de recharger les munitions après avoir infligé des DGT EX avec la Compétence Zénith stellaire {0}/{1}"}
+{"id":1559189,"jp":"星響スキルを発動し、火の刻印を獲得する {0}/{1}","fr":"Activer la Compétence Écho stellaire pour obtenir un Sceau de Feu {0}/{1}"}
+{"id":1559190,"jp":"火の刻印を獲得した後、通常攻撃の5段目で消費し、火属性のEXダメージを与える {0}/{1}","fr":"Après avoir obtenu un Sceau de Feu, le consommer avec le 5e coup de l'Attaque normale pour infliger des DGT EX de Feu {0}/{1}"}
+{"id":1559191,"jp":"星響スキルまたは星極スキルを発動し、「陰陽合一」を獲得する {0}/{1}","fr":"Activer la Compétence Écho stellaire ou la Compétence Zénith stellaire pour obtenir l'effet « Union du yin et du yang » {0}/{1}"}
+{"id":1559192,"jp":"「陰陽合一」がある間に攻撃ボタンを長押しし、光った後に離して強化チャージ攻撃を発動する {0}/{1}","fr":"Sous l'effet « Union du yin et du yang », maintenir le bouton d'attaque, puis le relâcher après le signal lumineux pour déclencher une Attaque chargée renforcée {0}/{1}"}
+{"id":1559193,"jp":"「陰陽合一」がある間に強化チャージ攻撃を4段目まで発動する {0}/{1}","fr":"Sous l'effet « Union du yin et du yang », enchaîner les Attaques chargées renforcées jusqu'au 4e coup {0}/{1}"}
+{"id":1559194,"jp":"エネミーが攻撃する時、タイミングを合わせて回避し、ジャスト回避を発動する {0}/{1}","fr":"Esquiver une attaque ennemie au bon moment pour déclencher une Esquive parfaite {0}/{1}"}
+{"id":1559195,"jp":"ジャスト回避を発動した後、攻撃ボタンを押してカウンターを発動する {0}/{1}","fr":"Après une Esquive parfaite, appuyer sur le bouton d'attaque pour contre-attaquer {0}/{1}"}
+{"id":1559196,"jp":"エネミーが攻撃する時、タイミングを合わせて防御し、ジャストパリィを発動する {0}/{1}","fr":"Se mettre en garde au bon moment lors d'une attaque ennemie pour déclencher une parade parfaite {0}/{1}"}
+{"id":1559197,"jp":"ジャストパリィを発動した後、攻撃ボタンを押して反撃する {0}/{1}","fr":"Après une parade parfaite, appuyer sur le bouton d'attaque pour contre-attaquer {0}/{1}"}
+{"id":1559198,"jp":"エネミーが攻撃する時、タイミングを合わせて防御し、ジャストパリィを連続で発動する {0}/{1}","fr":"Se mettre en garde au bon moment face aux attaques ennemies pour enchaîner les parades parfaites {0}/{1}"}
+{"id":1559199,"jp":"エネミーの攻撃が命中する直前に防御し、ジャストパリィで攻撃をはね返す {0}/{1}","fr":"Se mettre en garde juste avant qu'une attaque ennemie ne touche pour la repousser avec une parade parfaite {0}/{1}"}
+{"id":1559200,"jp":"ギガンシャウラを攻撃して体勢ゲージを1つ目の協力攻撃ポイントまで削り、キボと一緒にスターリンク攻撃を発動する {0}/{1}","fr":"Attaquer Gigan Shaula pour réduire sa Jauge de posture jusqu'au premier seuil d'attaque conjointe, puis déclencher une attaque de Lien stellaire avec votre Kibo {0}/{1}"}
+{"id":1559201,"jp":"ギガンシャウラを攻撃して体勢ゲージを2つ目の協力攻撃ポイントまで削り、スターリンク攻撃をもう一度発動する {0}/{1}","fr":"Attaquer Gigan Shaula pour réduire sa Jauge de posture jusqu'au deuxième seuil d'attaque conjointe, puis déclencher une nouvelle attaque de Lien stellaire {0}/{1}"}
+{"id":1559202,"jp":"エネミーがブレイク状態に入った。今のうちに一気に倒す","fr":"L'ennemi est en état de brise. Profitez-en pour l'achever !"}
+{"id":1559203,"jp":"星極スキルでエネミーにダメージを与えてチーム全体のHPを回復し、同時に「蝶生の種」と「霊木の種」を生成する","fr":"Utiliser la Compétence Zénith stellaire pour infliger des DGT aux ennemis, restaurer les PV de toute l'équipe et générer simultanément des « Graines de papillon » et des « Graines d'arbre spirituel »"}
+{"id":1559204,"jp":"「ニャンニャンラッシュ」がある間に星響スキルの2段目を発動する","fr":"Sous l'effet « Ruée nyan-nyan », activer le deuxième stade de la Compétence Écho stellaire"}
+{"id":1559205,"jp":"倒したエネミーのウェーブ数：{1}","fr":"Nombre de vagues d'ennemis vaincues : {1}"}
+{"id":1559206,"jp":"「業火」を6獲得するまで、チャージ攻撃、星響スキル、星閃スキル、星極スキルを発動する {0}/{1}","fr":"Utiliser des Attaques chargées, des Compétences Écho stellaire, des compétences Éclair stellaire et des Compétences Zénith stellaire jusqu'à obtenir 6 cumuls de « Flammes infernales » {0}/{1}"}
+{"id":1559207,"jp":"通常攻撃の3段目以降は各段で「業火」を消費できる。攻撃ボタンを連打して「業火」を6消費し、「鬼手」に6回連携攻撃させる {0}/{1}","fr":"À partir du 3e coup de l'Attaque normale, chaque coup peut consommer des « Flammes infernales ». Appuyer plusieurs fois sur le bouton d'attaque pour consommer 6 cumuls de « Flammes infernales » et déclencher 6 attaques de Coordination de la « Main démoniaque » {0}/{1}"}
+{"id":1559208,"jp":"指定の場所へ移動し、チュートリアルを完了する","fr":"Rejoindre l'emplacement indiqué pour terminer le tutoriel"}
 {"id":1559209,"jp":"遺跡守衛に勝利する","fr":"Vaincre le gardien des ruines"}
+{"id":1559210,"jp":"スカーレックに勝利する","fr":"Vaincre Scarleck"}
+{"id":1559211,"jp":"ソザンカのはしごをクリアする\n「このクエストには追加の宝箱はありません。」","fr":"Terminer l'épreuve de l'échelle de Sozanka\n« Cette quête ne contient aucun coffre supplémentaire. »"}
+{"id":1559212,"jp":"他の元素のキボが必要です","fr":"Un Kibo d'un autre élément est nécessaire"}
 {"id":1559213,"jp":"次の凶獣が来ます","fr":"La prochaine Bête maudite arrive"}
+{"id":1559214,"jp":"凶獣をすべて倒しました","fr":"Toutes les Bêtes maudites ont été vaincues"}
+{"id":1559215,"jp":"落ち葉の山の下に何かが隠されているようだ。吹き飛ばすか、火をつければ……","fr":"Quelque chose semble se cacher sous ce tas de feuilles mortes. Peut-être qu'en les dispersant ou en y mettant le feu…"}
+{"id":1559216,"jp":"巨大な岩を壊せそうだ……","fr":"Cet énorme rocher semble pouvoir être brisé…"}
 {"id":1559217,"jp":"追跡失敗","fr":"Échec du suivi"}
+{"id":1559218,"jp":"騎乗中はこのチャレンジを開始できません。","fr":"Impossible de commencer ce défi sur une monture."}
 {"id":1559219,"jp":"水面に着陸できません","fr":"Atterrissage impossible sur l'eau"}
 {"id":1559220,"jp":"木製の宝箱","fr":"Coffre en bois"}
 {"id":1559221,"jp":"上層","fr":"Couche supérieure"}
@@ -59388,6 +59423,7 @@
 {"id":1559223,"jp":"下層","fr":"Couche inférieure"}
 {"id":1559224,"jp":"入手","fr":"Obtenir"}
 {"id":1559225,"jp":"鉄の宝箱","fr":"Coffre de fer"}
+{"id":1559226,"jp":"報酬の受け取りが必要です。","fr":"Vous devez récupérer votre récompense."}
 {"id":1559227,"jp":"護衛開始","fr":"Commencer l'escorte"}
 {"id":1559228,"jp":"アイテムを渡す","fr":"Donner l'objet"}
 {"id":1559229,"jp":"卵を抱く","fr":"Couver l'œuf"}
@@ -59400,11 +59436,32 @@
 {"id":1559236,"jp":"押す","fr":"Pousser"}
 {"id":1559237,"jp":"ルビーナを探す","fr":"Chercher Ruby"}
 {"id":1559238,"jp":"ルビーナを見つけた。","fr":"Ruby retrouvée."}
+{"id":1559239,"jp":"<color=#DAA520>ルビーナ</color>がどこにいるか探してみよう！","fr":"Partons à la recherche de <color=#DAA520>Ruby</color> !"}
+{"id":1559240,"jp":"<color=#DAA520>ルビーナ</color>を見つける","fr":"Trouver <color=#DAA520>Ruby</color>"}
+{"id":1559241,"jp":"<color=#DAA520>フーモ</color>を探す","fr":"Chercher <color=#DAA520>Fumo</color>"}
+{"id":1559242,"jp":"<color=#DAA520>フーモ</color>を見つけた","fr":"Vous avez trouvé <color=#DAA520>Fumo</color>"}
+{"id":1559243,"jp":"<color=#DAA520>フーモ</color>がどこにいるか探してみよう！","fr":"Partons à la recherche de <color=#DAA520>Fumo</color> !"}
+{"id":1559244,"jp":"<color=#DAA520>フーモ</color>を見つける","fr":"Trouver <color=#DAA520>Fumo</color>"}
 {"id":1559245,"jp":"ケリーを探す","fr":"Chercher Kelly"}
+{"id":1559246,"jp":"<color=#DAA520>ケリー</color>を発見！","fr":"Vous avez trouvé <color=#DAA520>Kelly</color> !"}
+{"id":1559247,"jp":"<color=#DAA520>ケリー</color>はどこ？","fr":"Où se cache <color=#DAA520>Kelly</color> ?"}
+{"id":1559248,"jp":"<color=#DAA520>ケリー</color>を見つける","fr":"Trouver <color=#DAA520>Kelly</color>"}
 {"id":1559249,"jp":"オージーを探す","fr":"Chercher Ozzie"}
+{"id":1559250,"jp":"<color=#DAA520>オージー</color>を発見！","fr":"Vous avez trouvé <color=#DAA520>Aussie</color> !"}
+{"id":1559251,"jp":"<color=#DAA520>オージー</color>はどこ？","fr":"Où se cache <color=#DAA520>Aussie</color> ?"}
+{"id":1559252,"jp":"<color=#DAA520>オージー</color>を見つける","fr":"Trouver <color=#DAA520>Aussie</color>"}
 {"id":1559253,"jp":"アビィを探す","fr":"Chercher Abby"}
+{"id":1559254,"jp":"<color=#DAA520>アビィ</color>を発見！","fr":"Vous avez trouvé <color=#DAA520>Abby</color> !"}
+{"id":1559255,"jp":"<color=#DAA520>アビィ</color>はどこ？","fr":"Où se cache <color=#DAA520>Abby</color> ?"}
+{"id":1559256,"jp":"<color=#DAA520>アビィ</color>を見つける","fr":"Trouver <color=#DAA520>Abby</color>"}
+{"id":1559257,"jp":"やっほー、星臨者！\n\n今日のログイン報酬、確認したか？","fr":"Coucou, Enfant des étoiles !\n\nTu as pensé à regarder ta récompense de connexion du jour ?"}
 {"id":1559258,"jp":"残り：","fr":"Restant :"}
 {"id":1559259,"jp":"一時採集動作中","fr":"Récolte provisoire en cours"}
+{"id":1559260,"jp":"このキャラクターは採集できません。","fr":"Ce personnage ne peut pas effectuer de collecte."}
+{"id":1559261,"jp":"「{0}」に食べられました。","fr":"« {0} » vous a dévoré."}
+{"id":1559262,"jp":"凶獣のウェーブをクリア","fr":"Repousser la vague de Bêtes maudites"}
+{"id":1559263,"jp":"スーニヤの侵蝕を浄化する","fr":"Purifier l'Érosion de Sunya"}
+{"id":1559264,"jp":"アップデートが見つかりました。アップデートを完了するにはゲームを再起動する必要があります。","fr":"Une mise à jour est disponible. Vous devez redémarrer le jeu pour terminer son installation."}
 {"id":1559265,"jp":"光球の収集数","fr":"Orbes de lumière collectés"}
 {"id":1559266,"jp":"長押し／救助","fr":"Appui long / Secourir"}
 {"id":1559267,"jp":"連打／復活","fr":"Marteler / Ressusciter"}
@@ -59412,9 +59469,12 @@
 {"id":1559269,"jp":"今日","fr":"Aujourd'hui"}
 {"id":1559270,"jp":"翌日","fr":"Lendemain"}
 {"id":1559271,"jp":"2日後","fr":"Dans 2 jours"}
+{"id":1559272,"jp":"左右にスライドして目標時間を調整","fr":"Faire glisser vers la gauche ou la droite pour régler l'heure souhaitée"}
 {"id":1559273,"jp":"{0}日{1}時","fr":"{0} j {1} h"}
 {"id":1559274,"jp":"{0}時{1}分","fr":"{0} h {1} min"}
 {"id":1559275,"jp":"{0}分{1}秒","fr":"{0} min {1} s"}
+{"id":1559276,"jp":"エリアクエスト-{0}","fr":"Quête de zone - {0}"}
+{"id":1559277,"jp":"このキボはロックされています。ロックを解除し、お別れ対象として選択しますか？","fr":"Ce Kibo est verrouillé. Voulez-vous le déverrouiller et le sélectionner pour vous en séparer ?"}
 {"id":1559292,"jp":"背景紹介","fr":"Contexte"}
 {"id":1559298,"jp":"製作中","fr":"En fabrication"}
 {"id":1559299,"jp":"追跡開始","fr":"Suivi lancé"}
