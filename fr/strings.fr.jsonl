@@ -51814,20 +51814,70 @@
 {"id":1547297,"jp":"ほら、これをあげよう。","fr":"Tiens, prends donc ceci."}
 {"id":1547298,"jp":"シャインキャンディショップの\nぜんぶのアメが入った試食セットさ。","fr":"C'est un assortiment de dégustation qui contient\n toutes les confiseries de la confiserie Shine."}
 {"id":1547299,"jp":"すべてのペペアメを食べてはじめて、\nペペアメのおいしさのわけがわかる。\n試してみなさい。","fr":"Ce n'est qu'après avoir goûté à toutes les variétés de bonbons Pepe\nque tu comprendras ce qui les rend si délicieux.\nAllez, essaie donc !"}
+{"id":1547300,"jp":"なるほど。まずはすべてのペペアメを食べることから……","fr":"Je vois. Il faut donc commencer par goûter à tous les bonbons Pepe…"}
+{"id":1547301,"jp":"ありがとう、シャイン。","fr":"Merci, Shine."}
+{"id":1547302,"jp":"ははっ、ペペアメのおいしさを広められるのは、\nわたしの喜びなんだ。","fr":"Haha ! Rien ne me fait plus plaisir que de faire découvrir\nles délicieux bonbons Pepe."}
+{"id":1547303,"jp":"あれ、今日はどうしたの？","fr":"Tiens, qu'est-ce qui t'amène aujourd'hui ?"}
+{"id":1547304,"jp":"フリスの郷土料理について、話を聞きたくて。","fr":"On aimerait en savoir plus sur la cuisine traditionnelle des Fleece."}
+{"id":1547305,"jp":"このあたりの名物料理をご存じでしょうか？","fr":"Connaîtriez-vous quelques spécialités culinaires de la région ?"}
+{"id":1547306,"jp":"うーん、なにが『名物』なのかはわからないけど……","fr":"Hmm, je ne sais pas trop ce qu'on peut appeler une « spécialité », mais…"}
+{"id":1547307,"jp":"マウロおじいちゃんが作るペペのパスタは\nすっごくおいしいよ！","fr":"Les pâtes au Pepe que prépare papi Mauro\nsont super bonnes !"}
+{"id":1547308,"jp":"そのレシピを教えてもらうことはできるかな？","fr":"Tu crois qu'il pourrait nous apprendre sa recette ?"}
+{"id":1547309,"jp":"うーん、マウロおじいちゃんはいまいないんだ。","fr":"Hmm, papi Mauro n'est pas là en ce moment."}
+{"id":1547310,"jp":"だけど、おじいちゃんが残したレシピがあったはず……\nちょっと待ってて！","fr":"Mais il me semble que papi a laissé sa recette quelque part…\nAttendez un peu !"}
 {"id":1547311,"jp":"ふぅ……お待たせ！","fr":"Ouf… Pardon de vous avoir fait attendre !"}
 {"id":1547312,"jp":"これだよ！","fr":"Le voilà !"}
+{"id":1547313,"jp":"マッシマさん、ありがとうございます。","fr":"Merci beaucoup, Massima."}
+{"id":1547314,"jp":"どういたしまして。でも……","fr":"De rien. Mais…"}
 {"id":1547315,"jp":"はい？","fr":"Oui ?"}
+{"id":1547316,"jp":"お姉ちゃん、料理は得意？","fr":"Dis, grande sœur, tu cuisines bien ?"}
+{"id":1547317,"jp":"正直なところ……得意とは言えません。\nですが、できるようになりたいと思っています……","fr":"À vrai dire… Je ne peux pas prétendre être douée.\nMais j'aimerais apprendre à mieux cuisiner…"}
 {"id":1547318,"jp":"なんのために？","fr":"Pour quoi faire ?"}
 {"id":1547319,"jp":"そっかぁ。うん……","fr":"Je vois. Oui…"}
+{"id":1547320,"jp":"じゃあ、シャルお姉ちゃん、ひとつ約束してくれる？","fr":"Alors, grande sœur Shalle, tu peux me promettre quelque chose ?"}
 {"id":1547321,"jp":"なんでしょう？","fr":"Qu'est-ce que c'est ?"}
+{"id":1547322,"jp":"内緒だよ？耳を貸して……","fr":"Ça reste entre nous, d'accord ? Approche ton oreille…"}
+{"id":1547323,"jp":"マッシマはシャルの耳元に口を寄せ、ひそひそと囁いた……","fr":"Massima approcha ses lèvres de l'oreille de Shalle et lui murmura quelques mots…"}
 {"id":1547324,"jp":"はい……必ず。","fr":"Oui… sans faute."}
 {"id":1547325,"jp":"なにを話してたの？","fr":"De quoi parliez-vous ?"}
+{"id":1547326,"jp":"あっ、いえ！なんでもありません！","fr":"Ah, non ! Ce n'est rien du tout !"}
+{"id":1547327,"jp":"おお〜、完成したんだね！","fr":"Oooh, ça y est, c'est prêt !"}
+{"id":1547328,"jp":"お口に合うでしょうか？","fr":"J'espère que ce sera à votre goût."}
+{"id":1547329,"jp":"シャルさん、自分では食べてみた？","fr":"Dis, Shalle, tu y as goûté toi-même ?"}
+{"id":1547330,"jp":"うぅ……その、すこし緊張してしまって。","fr":"Euh… Eh bien, j'étais un peu trop nerveuse."}
+{"id":1547331,"jp":"おなかが空いちゃった。食べていいかな？","fr":"J'ai faim, moi. Je peux goûter ?"}
+{"id":1547332,"jp":"あっ、{playerName}さま！いつからそちらに？","fr":"Ah, {playerName} ! Depuis quand êtes-vous là ?"}
+{"id":1547333,"jp":"ぜんぜん気づかなかったよ！","fr":"Je ne t'avais même pas remarqué !"}
+{"id":1547334,"jp":"楽しすぎて、まわりが見えてなかったのかな？","fr":"Vous vous amusiez tellement que vous ne faisiez plus attention à ce qui vous entourait ?"}
+{"id":1547335,"jp":"{playerName}さま、よろしければどうぞ、\nお食べください。","fr":"{playerName}, si le cœur vous en dit,\nje vous en prie, goûtez."}
+{"id":1547336,"jp":"シャルはさきに食べないの？","fr":"Tu ne veux pas goûter en premier, Shalle ?"}
+{"id":1547337,"jp":"あ、そうですね。では、いただきます……","fr":"Ah, vous avez raison. Dans ce cas, je vais goûter…"}
+{"id":1547338,"jp":"すこし……味が違うような……","fr":"Le goût est… un peu différent, on dirait…"}
 {"id":1547339,"jp":"シャル、元気出して。","fr":"Shalle, courage."}
+{"id":1547340,"jp":"落ち込んでいるわけではないのです、ただ……","fr":"Ce n'est pas que je sois découragée, c'est simplement que…"}
 {"id":1547341,"jp":"ただ？","fr":"Seulement ?"}
+{"id":1547342,"jp":"やはり皆さんが作ってくださった料理とは\n味がすこし違う気がして……","fr":"J'ai vraiment l'impression que le goût est légèrement différent\nde celui des plats que tout le monde m'a préparés…"}
 {"id":1547343,"jp":"なにが原因だと思う？","fr":"Quelle est la cause, à ton avis ?"}
+{"id":1547344,"jp":"もしかして……まだ教えていただけていない\nコツがあるのかもしれません……","fr":"Peut-être… y a-t-il encore quelques astuces\nque l'on ne m'a pas apprises…"}
+{"id":1547345,"jp":"なら、時間を見つけて\nもう一度聞いてみるのがよさそうだね……","fr":"Dans ce cas, on devrait trouver un moment\npour retourner leur poser la question…"}
 {"id":1547346,"jp":"シャル？","fr":"Shalle ?"}
 {"id":1547347,"jp":"なにか考えごとかな？","fr":"Perdue dans tes pensées ?"}
+{"id":1547348,"jp":"すこし考えていたのです。\nこのまえの料理に足りないもの、間違えたこと。\nあの微妙な違いがどこから生まれたのか、と……","fr":"J'étais en train de réfléchir.\nÀ ce qui manquait à mes plats de l'autre jour, aux erreurs que j'ai pu commettre.\nJ'aimerais comprendre d'où vient cette subtile différence de goût…"}
+{"id":1547349,"jp":"そんなこと、悩む必要ないと思うよ。","fr":"Je ne pense pas que tu aies besoin de te tracasser autant."}
+{"id":1547350,"jp":"ですが、それではどうすればあの料理の味を\n再現できるのか、わからないままになってしまいます……","fr":"Mais si je laisse les choses en l'état, je ne saurai jamais\ncomment retrouver le goût de ces plats…"}
+{"id":1547351,"jp":"実際に聞いてみればわかるって。\nほら、行こう。","fr":"Il suffit d'aller leur demander, tu verras.\nAllez, viens."}
 {"id":1547352,"jp":"いますぐ出てって！","fr":"Sortez tout de suite !"}
+{"id":1547353,"jp":"あんたのレビューなんか要らないってば！","fr":"Je t'ai dit que je n'avais pas besoin de ta critique !"}
+{"id":1547354,"jp":"ふん、いずれ後悔することになるぞ。","fr":"Hum, tu finiras par le regretter."}
+{"id":1547355,"jp":"今日はこのまま帰ってやる。\n真剣に考えてみるんだな。","fr":"Je vais te laisser tranquille pour aujourd'hui.\nTu ferais bien d'y réfléchir sérieusement."}
+{"id":1547356,"jp":"出ていって。あんたなんかお呼びじゃないんだから。","fr":"Dehors ! Personne ne veut de toi ici."}
+{"id":1547357,"jp":"さっきあの男が店に入ってきて。\n最初は普通のお客さんだと思ったんだけど……","fr":"Cet homme est entré dans ma boutique tout à l'heure.\nAu début, je pensais que c'était un client ordinaire…"}
+{"id":1547358,"jp":"「注文は結構。ロージア帝国最大の\nグルメ月刊誌に載る気はあるか？」\nなんて、聞いてきたの。","fr":"« Pas la peine de commander. Ça t'intéresserait de figurer\n dans le plus grand magazine gastronomique mensuel de l'Empire de Rosia ? »\nVoilà ce qu'il m'a demandé."}
+{"id":1547359,"jp":"丁重にお断りしたんだけど、\n「それなら、近いうちに悪い記事が載るだろう」って。","fr":"J'ai poliment décliné son offre,\net il m'a répondu : « Dans ce cas, attends-toi à voir bientôt paraître un article qui ne te fera pas de cadeau. »"}
+{"id":1547360,"jp":"どうしてそんな……卑劣です！","fr":"Comment peut-il se permettre une chose pareille… C'est ignoble !"}
+{"id":1547361,"jp":"おや、お前たちは……\nさっき店で見かけたな。なんの用だ？","fr":"Tiens, vous deux…\nJe vous ai vus dans la boutique tout à l'heure. Qu'est-ce que vous voulez ?"}
+{"id":1547362,"jp":"俺にグルメレポートを書いてほしいなら――\n高くつくぞ？","fr":"Si vous voulez que je rédige une critique gastronomique…\nÇa risque de vous coûter cher, vous savez ?"}
+{"id":1547363,"jp":"きみが書いてるのは、グルメレポートなんかじゃないよね。","fr":"Ce que tu écris, ça n'a rien à voir avec de la critique gastronomique, pas vrai ?"}
 {"id":1547367,"jp":"なんだか怪しいよね。","fr":"Il y a quelque chose de louche."}
 {"id":1547369,"jp":"はぁ……","fr":"Haaa…"}
 {"id":1547370,"jp":"シャイン……","fr":"Shine…"}
