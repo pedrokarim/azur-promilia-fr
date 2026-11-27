@@ -58709,29 +58709,88 @@
 {"id":1558623,"jp":"[%s]時から[%s]時の間までお待ちください。","fr":"Veuillez attendre la plage horaire comprise entre [%s] h et [%s] h."}
 {"id":1558624,"jp":"未開始","fr":"Non commencé"}
 {"id":1558625,"jp":"通貨が不足しています。","fr":"Solde de monnaie insuffisant."}
+{"id":1558626,"jp":"ショップが更新されました。商品を再選択してください。","fr":"La boutique a été actualisée. Veuillez sélectionner à nouveau vos articles."}
 {"id":1558627,"jp":"所持","fr":"Possédé"}
+{"id":1558629,"jp":"現在のテクノロジー研究をキャンセルしますか？使用した素材は返却されます。","fr":"Voulez-vous annuler la recherche technologique en cours ? Les matériaux utilisés vous seront restitués."}
+{"id":1558630,"jp":"データが更新されました。ホーム画面に戻ってください。","fr":"Les données ont été actualisées. Veuillez revenir à l'écran d'accueil."}
+{"id":1558631,"jp":"このキーは変更できません","fr":"Cette touche ne peut pas être modifiée"}
+{"id":1558632,"jp":"キボの対応する潜在能力が上限に達しているため、潜在能力の実を与えられません。","fr":"Le potentiel correspondant de ce Kibo a atteint sa limite maximale. Vous ne pouvez plus lui donner de fruit de potentiel."}
+{"id":1558633,"jp":"問題が発生したようです。現在のチュートリアルをスキップしますか？","fr":"Un problème semble être survenu. Voulez-vous passer le tutoriel actuel ?"}
+{"id":1558634,"jp":"チュートリアル中は遷移できません。","fr":"Impossible de changer de zone pendant le tutoriel."}
+{"id":1558635,"jp":"チュートリアル中はワープできません。","fr":"La téléportation est indisponible pendant le tutoriel."}
+{"id":1558636,"jp":"左右の矢印を押すとページを切り替えられます。読み終わると閉じられます。","fr":"Utilisez les flèches gauche et droite pour changer de page. Vous pourrez fermer cette fenêtre une fois la lecture terminée."}
+{"id":1558637,"jp":"アイテム数が不足しているため、提出できません。","fr":"Nombre d'objets insuffisant pour effectuer la livraison."}
 {"id":1558638,"jp":"提出確定","fr":"Confirmer l'envoi"}
+{"id":1558639,"jp":"希少品質のアイテムが消費されます。提出を確定しますか？","fr":"Des objets de qualité rare seront consommés. Voulez-vous confirmer la livraison ?"}
+{"id":1558640,"jp":"提出すると、選択したキボはキボの保管庫から取り除かれます。提出を確定しますか？","fr":"Les Kibo sélectionnés seront retirés de votre espace de stockage de Kibo après la livraison. Voulez-vous confirmer ?"}
+{"id":1558641,"jp":"本当にログアウトしますか？","fr":"Voulez-vous vraiment vous déconnecter ?"}
 {"id":1558642,"jp":"初期設定に戻す","fr":"Rétablir les valeurs par défaut"}
+{"id":1558643,"jp":"本当に初期設定に戻しますか？","fr":"Voulez-vous vraiment rétablir les paramètres par défaut ?"}
+{"id":1558644,"jp":"ボイスパックダウンロード","fr":"Téléchargement des packs vocaux"}
+{"id":1558645,"jp":"データ削除を伴うクローズドβテスト版のため、最終的な品質を表すものではありません。","fr":"Cette version bêta fermée implique une réinitialisation des données et ne reflète pas la qualité finale du jeu."}
+{"id":1558646,"jp":"ダウンロード可能なボイスパックは現在ありません。","fr":"Aucun pack vocal disponible au téléchargement pour le moment."}
 {"id":1558647,"jp":"リソースチェック","fr":"Contrôle des ressources"}
+{"id":1558648,"jp":"ゲームリソースの整合性のチェックを行いますか？","fr":"Voulez-vous vérifier l'intégrité des ressources du jeu ?"}
+{"id":1558649,"jp":"マークの上限に達しました。","fr":"Le nombre maximal de marqueurs est atteint."}
+{"id":1558650,"jp":"入力制限に達しました。","fr":"La limite de saisie est atteinte."}
 {"id":1558651,"jp":"サブクエスト","fr":"Quête secondaire"}
+{"id":1558652,"jp":"購入画面へ移動しますか？","fr":"Voulez-vous accéder à l'écran d'achat ?"}
+{"id":1558653,"jp":"「旅跡テスト」期間中、iOS版はチャージに対応していません。チャージをご希望の場合は、PC版、Android版、HarmonyOS版にログインするか、公式サイトのウェブチャージをご利用ください。","fr":"Pendant le « Test des traces du voyage », les achats de monnaie ne sont pas disponibles sur iOS. Pour effectuer un achat, veuillez vous connecter sur PC, Android ou HarmonyOS, ou utiliser le service de recharge en ligne du site officiel."}
+{"id":1558654,"jp":"現在iOSプラットフォームのため、チャージできません。別のプラットフォームに切り替えてお試しください。","fr":"Les achats de monnaie ne sont actuellement pas disponibles sur iOS. Veuillez changer de plateforme et réessayer."}
+{"id":1558655,"jp":"ランクアップ済みのアニマが素材として選ばれています。","fr":"Une Anima dont le rang a déjà été augmenté a été sélectionnée comme matériau."}
+{"id":1558656,"jp":"強化済みのアニマが素材として選ばれています。","fr":"Une Anima déjà améliorée a été sélectionnée comme matériau."}
+{"id":1558657,"jp":"高レアリティのアニマが素材として選択されています。","fr":"Une Anima de rareté élevée a été sélectionnée comme matériau."}
+{"id":1558658,"jp":"このまま続けてもよろしいですか？","fr":"Voulez-vous vraiment continuer ?"}
+{"id":1558659,"jp":"- 空き枠を押してキャラクターを編成 -","fr":"- Appuyez sur un emplacement libre pour ajouter un personnage à l'équipe -"}
 {"id":1558660,"jp":"ショップの閉店まで：","fr":"Fermeture de la boutique dans :"}
+{"id":1558661,"jp":"ショップがリセットされました。","fr":"La boutique a été réinitialisée."}
+{"id":1558662,"jp":"商品は売り切れました。","fr":"Cet article est en rupture de stock."}
+{"id":1558663,"jp":"購入に必要なアイテムが不足しています。","fr":"Vous ne possédez pas suffisamment d'objets pour effectuer cet achat."}
 {"id":1558664,"jp":"スターアビス","fr":"Star Abyss"}
+{"id":1558665,"jp":"キャラクター%sを獲得しました。","fr":"Personnage obtenu : %s."}
+{"id":1558666,"jp":"解放条件を満たしていません。","fr":"Les conditions de déblocage ne sont pas remplies."}
 {"id":1558667,"jp":"成長時間","fr":"Temps de croissance"}
 {"id":1558668,"jp":"収穫数","fr":"Récoltes"}
 {"id":1558669,"jp":"在庫：{0}","fr":"Stock : {0}"}
+{"id":1558670,"jp":"{0}を取り除きますか？\n果樹以外の種は返却されません。\n1分以内は、キボがこの畑に種をまきません。","fr":"Voulez-vous retirer {0} ?\nSeules les graines d'arbres fruitiers seront restituées.\nLes Kibo ne sèmeront aucune graine sur cette parcelle pendant 1 minute."}
 {"id":1558671,"jp":"成熟","fr":"Maturité"}
 {"id":1558672,"jp":"装備製造/強化","fr":"Fabrication / amélioration d'équipement"}
 {"id":1558673,"jp":"キボを育てる","fr":"Élever des Kibo"}
 {"id":1558674,"jp":"レベル%sで解放","fr":"Débloqué au niv. %s"}
 {"id":1558675,"jp":"%sの好感度+%s","fr":"Affection de %s +%s"}
+{"id":1558676,"jp":"現在のレベルまで戻りました。これ以上下げられません。","fr":"Vous êtes revenu au niveau actuel. Impossible de descendre davantage."}
+{"id":1558677,"jp":"必要なアイテムが不足しており、目標レベルまで強化できません。","fr":"Vous ne possédez pas suffisamment d'objets pour atteindre le niveau souhaité."}
+{"id":1558678,"jp":"空き人口が不足しており、研究を開始できません。","fr":"Population disponible insuffisante pour lancer la recherche."}
+{"id":1558679,"jp":"素材が不足しており、研究を開始できません。","fr":"Matériaux insuffisants pour lancer la recherche."}
+{"id":1558680,"jp":"栽培スペースが不足しています。","fr":"Espace de culture insuffisant."}
+{"id":1558681,"jp":"%sはあと%sで%s段階に到達します。","fr":"%s atteindra dans %s le stade %s."}
+{"id":1558682,"jp":"%sは水やりが必要です。","fr":"%s nécessite un Arrosage."}
 {"id":1558683,"jp":"%sを収穫できます。","fr":"Récolte de %s possible."}
+{"id":1558684,"jp":"現在、作業中のキボがいます。","fr":"Des Kibo sont actuellement au travail."}
+{"id":1558685,"jp":"キャラクターの満腹度を補充してください。","fr":"Veuillez nourrir le personnage pour rétablir sa satiété."}
+{"id":1558686,"jp":"現在のマップでは使用できません。","fr":"Utilisation impossible sur la carte actuelle."}
+{"id":1558687,"jp":"チーム名を入力してください。","fr":"Veuillez saisir un nom d'équipe."}
+{"id":1558689,"jp":"障害物があるため建築できません。","fr":"Construction impossible en raison d'un obstacle."}
+{"id":1558690,"jp":"キャラクターがレベル{0}になると強化可能です。","fr":"Amélioration disponible lorsque le personnage atteint le niveau {0}."}
+{"id":1558691,"jp":"キャラクターが昇臨{0}になると強化可能です。","fr":"Amélioration disponible lorsque le personnage atteint le rang d'Ascension {0}."}
+{"id":1558692,"jp":"キャラクターがレベル{1}、かつ昇臨{2}になると解放されます。","fr":"Se débloque lorsque le personnage atteint le niveau {1} et le rang d'Ascension {2}."}
+{"id":1558693,"jp":"適切な属性のキボを選択してください。","fr":"Veuillez sélectionner un Kibo de l'élément approprié."}
+{"id":1558694,"jp":"該当するマウントを装備してください。","fr":"Veuillez équiper la monture correspondante."}
 {"id":1558695,"jp":"絆Lv.","fr":"Lien Niv."}
+{"id":1558696,"jp":"<color=#76777D>（好感度が</color><color=#FF7E6D>{0}</color><color=#76777D>に到達）</color>","fr":"<color=#76777D>(Affinité requise : </color><color=#FF7E6D>{0}</color><color=#76777D>)</color>"}
+{"id":1558697,"jp":"<color=#4F525D>（好感度が</color><color=#27AE89>{0}</color><color=#4F525D>に到達）</color>","fr":"<color=#4F525D>(Affinité requise : </color><color=#27AE89>{0}</color><color=#4F525D>)</color>"}
 {"id":1558698,"jp":"{0}との好感度+","fr":"Affection avec {0} +"}
 {"id":1558700,"jp":"無料で入手","fr":"Obtenir gratuitement"}
+{"id":1558701,"jp":"仕掛けを投げました。魚がかかるのを待っています。","fr":"Vous avez lancé votre ligne. Attendez qu'un poisson morde à l'hameçon."}
 {"id":1558702,"jp":"新スキル解放：","fr":"Nouvelle compétence débloquée :"}
 {"id":1558703,"jp":"新スキル","fr":"Nouvelle compétence"}
+{"id":1558704,"jp":"加工で <p={0} w=30 h=30/> x{1}を獲得可能","fr":"Transformation permettant d'obtenir <p={0} w=30 h=30/> x{1}"}
+{"id":1558705,"jp":"報酬を受け取っていません。終了しますか？","fr":"Vous n'avez pas récupéré vos récompenses. Voulez-vous tout de même quitter ?"}
 {"id":1558706,"jp":"釣りを終了しますか？","fr":"Arrêter la pêche ?"}
+{"id":1558707,"jp":"現在おすすめのキボはありません。","fr":"Aucun Kibo recommandé pour le moment."}
+{"id":1558708,"jp":"釣った魚の数：{0}匹","fr":"Nombre de poissons pêchés : {0}"}
 {"id":1558709,"jp":"収集進捗{0}{1}","fr":"Progression de la collection {0}{1}"}
+{"id":1558711,"jp":"資源が上限に達しているため、受け取れません。","fr":"Impossible de récupérer les ressources : la limite de stockage est atteinte."}
 {"id":1558714,"jp":"{0}日後に期限切れ","fr":"Expire dans {0} j"}
 {"id":1558717,"jp":"ウェブサイト","fr":"Site web"}
 {"id":1558723,"jp":"装備推奨：","fr":"Équipement recommandé :"}
