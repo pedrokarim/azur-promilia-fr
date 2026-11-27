@@ -54391,20 +54391,70 @@
 {"id":1552920,"jp":"ボググ……！","fr":"Bogugu… !"}
 {"id":1552921,"jp":"あ、隠れちゃったね。","fr":"Ah, il s'est caché."}
 {"id":1552922,"jp":"臆病だけど、好奇心はあるみたいね。まあ、そっとしておいてあげましょう。","fr":"Il est craintif, mais il a l'air plutôt curieux. Enfin, laissons-le tranquille."}
+{"id":1552923,"jp":"日も暮れてきたし、このハーブと種を持って帰らないと。","fr":"Le soleil commence à se coucher. Il faut que je rapporte ces herbes et ces graines."}
+{"id":1552924,"jp":"それじゃあ、街まで送るよ。","fr":"Alors, je te raccompagne en ville."}
+{"id":1552925,"jp":"ジョイ、頼まれていた花の種、採ってきたわよ。","fr":"Joy, je t'ai rapporté les graines de fleurs que tu m'avais demandées."}
 {"id":1552926,"jp":"ありがとう、アニス！","fr":"Merci, Anais !"}
+{"id":1552927,"jp":"そういえば、危険なことはなかったかしら？\n森が穏やかじゃないって最近きいたのよね。","fr":"Au fait, vous n'avez rien rencontré de dangereux ?\nJ'ai entendu dire que la forêt n'était plus aussi paisible ces derniers temps."}
+{"id":1552928,"jp":"物を落としたけど、見つかったし、とくに問題はなかったわ。","fr":"J'ai perdu quelque chose en chemin, mais on l'a retrouvé. À part ça, rien à signaler."}
+{"id":1552929,"jp":"ところで……「森が穏やかじゃない」って、なにかあったの？","fr":"Au fait… Qu'est-ce que tu veux dire par « la forêt n'est plus aussi paisible » ? Il s'est passé quelque chose ?"}
+{"id":1552930,"jp":"実は、密かに木を伐採しているひとたちが森にいるという噂があるの。\nずっと捕まえられなくて、警備隊も頭を抱えているらしいわ……","fr":"En fait, il paraît que des gens abattent clandestinement des arbres dans la forêt.\nIls échappent toujours à la garde, qui ne sait plus quoi faire…"}
+{"id":1552931,"jp":"違法な伐採っていうこと？それじゃあ、森に住むキボたちが……","fr":"Du Bûcheronnage illégal ? Mais alors, les Kibo qui vivent dans la forêt…"}
+{"id":1552932,"jp":"それなら、僕が時間を見つけてもう一度森へ様子を見に行ってくるよ。|それなら、僕が時間を見つけてもう一度森へ様子を見に行ってくるよ。","fr":"Dans ce cas, je retournerai dans la forêt pour voir ce qui s'y passe dès que j'aurai un moment.|Dans ce cas, je retournerai dans la forêt pour voir ce qui s'y passe dès que j'aurai un moment."}
+{"id":1552933,"jp":"わたしも一緒に行かせて。森のかわいい子たちも、\nちゃんとお世話をしてあげたいの。","fr":"Laisse-moi t'accompagner. Ces adorables petites créatures de la forêt,\nje tiens à m'assurer qu'elles vont bien."}
 {"id":1552934,"jp":"ボググ……","fr":"Bogugu…"}
 {"id":1552935,"jp":"ボグッ！","fr":"Bogu !"}
 {"id":1552936,"jp":"ボグッ……","fr":"Bogu…"}
+{"id":1552937,"jp":"たかがキボのくせに手間取らせやがって……\nこのまえは、お前たちが木のつるを操れるなんて知らなかったから斧を盗まれちまった。\nけどよ、今回はそうはいかねえぞ。","fr":"Saletés de Kibo, vous nous en faites voir de toutes les couleurs…\nLa dernière fois, je savais pas que vous pouviez contrôler les lianes, alors vous avez réussi à me piquer ma hache.\nMais cette fois, ça se passera pas comme ça !"}
+{"id":1552938,"jp":"兄貴、あいつら言葉なんかわかんねえんだし、\nさっさと木を切り倒しちまおうぜ。親分にも急かされてるしさ。","fr":"Chef, de toute façon, ils comprennent rien à ce qu'on raconte.\nAllez, abattons ces arbres qu'on en finisse. Le patron nous presse, en plus."}
+{"id":1552939,"jp":"ああ、さっさと伐採を終わらせて、こいつらは捕まえて酒代にするか。\nちょうど金が足りなくて困ってたからな――","fr":"Ouais, finissons vite le Bûcheronnage. Après, on capture ces bestioles et on les revend pour se payer à boire.\nÇa tombe bien, je commençais à manquer de fric…"}
+{"id":1552940,"jp":"やめるんだ！|やめて！","fr":"Arrêtez !|Arrêtez !"}
+{"id":1552941,"jp":"森とこの子たちを傷つけることは許さないわ！","fr":"Je ne vous laisserai pas faire de mal à la forêt ni à ces petites créatures !"}
+{"id":1552942,"jp":"ふぅ……やっと静かになったね。","fr":"Ouf… Enfin un peu de tranquillité."}
+{"id":1552943,"jp":"犯人を止められてよかった……けれど、この子たちは……","fr":"Heureusement qu'on a pu arrêter ces bandits… Mais ces pauvres petits…"}
+{"id":1552944,"jp":"あら、このリンディ、怪我しているわ……","fr":"Oh, ce Lindy est blessé…"}
+{"id":1552945,"jp":"赤蠍団にやられたんだろうね。","fr":"Ce sont sûrement les Scorpions rouges qui lui ont fait ça."}
+{"id":1552946,"jp":"（でも、この種のキボは、こんなに脆いタイプじゃないような……）","fr":"(Pourtant, les Kibo de cette espèce ne sont pas censés être aussi fragiles…)"}
+{"id":1552947,"jp":"わたしが診察するわ。急救キットを持っているしね。","fr":"Je vais l'examiner. J'ai une trousse de premiers secours sur moi."}
+{"id":1552948,"jp":"いい子ね、動かないでちょうだい。傷の手当てをするから。","fr":"Voilà, c'est bien. Ne bouge pas, je vais soigner ta blessure."}
 {"id":1552949,"jp":"ボグ……ボグ……","fr":"Bogu… Bogu…"}
+{"id":1552950,"jp":"暴れちゃだめよ、もっと痛くなっちゃうわ。","fr":"Ne te débats pas comme ça, tu vas te faire encore plus mal."}
+{"id":1552951,"jp":"さあ、星満の果実を食べて。元気が出るわよ。","fr":"Tiens, mange ce fruit étoilé. Ça te redonnera des forces."}
+{"id":1552952,"jp":"助けたいって気持ち、伝わっているかしら？\nわたしの言葉はわからないかもしれないけど……","fr":"Est-ce que tu sens que je veux simplement t'aider ?\nMême si tu ne comprends peut-être pas mes paroles…"}
+{"id":1552953,"jp":"呼吸が弱まってる気がするね。","fr":"J'ai l'impression que sa respiration s'affaiblit."}
+{"id":1552954,"jp":"おかしいわね、調子が戻らないわ……\n傷は深くないし、手当てだってしたのに……","fr":"C'est étrange, son état ne s'améliore pas…\nSa blessure n'est pourtant pas profonde et je l'ai bien soignée…"}
+{"id":1552955,"jp":"……この弱り方、傷だけが原因ではない気がするわ。","fr":"… Je ne pense pas que cette blessure suffise à expliquer son état de faiblesse."}
+{"id":1552956,"jp":"なんていうか……\n森が苦しんでいて、それに引きづられるようにこの子も病にむしばまれている……そんな気がするの。","fr":"Comment dire…\nJ'ai l'impression que la forêt souffre et que sa souffrance se répercute sur ce petit, comme si elle le rongeait de l'intérieur…"}
+{"id":1552957,"jp":"もしかして……赤蠍団の伐採以外にも、問題が起きているってこと？","fr":"Tu crois que… la forêt aurait un autre problème, en plus du Bûcheronnage des Scorpions rouges ?"}
+{"id":1552958,"jp":"本当に森が病んでいるなら、原因を突き止めなくちゃ。","fr":"Si la forêt est vraiment malade, il faut absolument en trouver la cause."}
+{"id":1552959,"jp":"ねえリンディ、森のなかで一番苦しいと感じる場所ってどこかしら？","fr":"Dis-moi, Lindy, à quel endroit de la forêt ressens-tu le plus de douleur ?"}
 {"id":1552960,"jp":"ボグッ……！","fr":"Bogu… !"}
 {"id":1552961,"jp":"ボググ！","fr":"Bogugu !"}
+{"id":1552962,"jp":"この子たちが案内してくれてる。ついていきましょう。","fr":"Ces petits nous montrent le chemin. Suivons-les."}
+{"id":1552963,"jp":"これは……スーニヤの侵蝕！？","fr":"C'est… l'Érosion de Sunya !?"}
+{"id":1552964,"jp":"森のなかで、こんなに侵蝕が広がっていたなんて……\nこれじゃあリンディが弱ってしまうのも無理ないわね。","fr":"Dire que l'Érosion s'était propagée à ce point dans la forêt…\nPas étonnant que Lindy soit aussi faible."}
+{"id":1552965,"jp":"{playerName}ちゃん、この汚染…なんとかできるかしら？","fr":"{playerName}, cette contamination… Tu crois que tu pourrais y faire quelque chose ?"}
+{"id":1552966,"jp":"そうだね……やってみるよ。","fr":"Hmm… Je vais essayer."}
+{"id":1552967,"jp":"よかった……生命の気配が戻ってきてる……！\n周りの植物も元気になったわ！","fr":"Quel soulagement… Je sens la vie revenir… !\nMême les plantes autour de nous reprennent des forces !"}
+{"id":1552968,"jp":"リンディ、具合はどうかしら？","fr":"Alors, Lindy, comment tu te sens ?"}
 {"id":1552969,"jp":"ボググ～","fr":"Bogugu~"}
+{"id":1552970,"jp":"よかった、回復したみたいだね！","fr":"Super, on dirait qu'il a retrouvé toutes ses forces !"}
+{"id":1552971,"jp":"あら、この子、わたしたちを完全に信じてくれているのね。\nフードを触らせてくれるなんて……","fr":"Oh, ce petit nous fait désormais entièrement confiance.\nIl me laisse même toucher sa capuche…"}
+{"id":1552972,"jp":"大切なのは、病になった子だけが手当を必要としているわけじゃないってことね。\n森そのものにも、いたわる気持ちがないといけないわ。","fr":"Il ne faut pas oublier que les petites créatures malades ne sont pas les seules à avoir besoin de soins.\nLa forêt elle-même mérite toute notre attention."}
 {"id":1552973,"jp":"ボグ！ボグ～","fr":"Bogu ! Bogu~"}
+{"id":1552974,"jp":"この子が守っていた木……それからの贈りもののようね。\nいうなれば、森からの感謝の気持ち……かしら。","fr":"On dirait que c'est un cadeau de l'arbre que ce petit protégeait…\nUne façon pour la forêt de nous exprimer sa gratitude, peut-être."}
+{"id":1552975,"jp":"いい子ね、大切にするわ。","fr":"Adorable petit, j'en prendrai grand soin."}
 {"id":1552976,"jp":"ポグ～","fr":"Pogu~"}
+{"id":1552977,"jp":"テララ、新しいキボの相棒がたくさんできたよ！","fr":"Terara, j'ai plein de nouveaux compagnons Kibo !"}
+{"id":1552978,"jp":"はやっ！？さすがだな！キボもみんなアンタにすごくなついてるし！","fr":"Déjà !? Eh ben, chapeau ! En plus, tes Kibo ont tous l'air de t'adorer !"}
 {"id":1552979,"jp":"天賦の才ってやつ！","fr":"C'est ce qu'on appelle un talent naturel !"}
 {"id":1552980,"jp":"愛嬌があるからね！","fr":"C'est mon charme !"}
+{"id":1552981,"jp":"こら、ウル！星臨者の周りを嗅ぎまわるんじゃない！","fr":"Hé, Uru ! Arrête de renifler l'Enfant des étoiles sous toutes les coutures !"}
 {"id":1552982,"jp":"コホン！まあいいか！","fr":"Hum ! Bon, tant pis !"}
+{"id":1552983,"jp":"こんなにたくさん相棒ができたんだし、そろそろ<color=#fed196>キボファイト</color>をはじめるか！","fr":"Maintenant que tu as autant de compagnons, ça te dit de te lancer dans le <color=#fed196>Duel de Kibo</color> ?"}
 {"id":1552984,"jp":"キボファイト？","fr":"Un Duel de Kibo ?"}
+{"id":1552985,"jp":"あぁ！キボ同士で勝負するんだ。\nキボと絆を深めるにはもってこいだぞ！","fr":"Ouais ! C'est une compétition où les Kibo s'affrontent.\nIl n'y a rien de mieux pour renforcer ton Lien avec eux !"}
+{"id":1552986,"jp":"ケガをするようなもんじゃないから、安心しろって。","fr":"T'inquiète, c'est pas le genre de combat où on risque de se blesser."}
 {"id":1553000,"jp":"もちろん。行こう！","fr":"Bien sûr. Allons-y !"}
 {"id":1553022,"jp":"メーン！","fr":"Mêên !"}
 {"id":1553024,"jp":"どうしよう！","fr":"Qu'est-ce qu'on fait !"}
