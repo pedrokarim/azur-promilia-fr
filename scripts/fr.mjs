@@ -24,6 +24,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const UPSTREAM_FILE = join(ROOT, 'strings.translatable.jsonl');
+const CLIENT_FILE = join(ROOT, 'fr', 'client-3273853.jsonl');
 const FRENCH_FILE = join(ROOT, 'fr', 'strings.fr.jsonl');
 const ORPHANS_FILE = join(ROOT, 'fr', 'orphans.jsonl');
 const GLOSSARY_FILE = join(ROOT, 'fr', 'glossary.tsv');
@@ -83,11 +84,32 @@ function writeJsonl(path, rows) {
   writeFileSync(path, rows.map((row) => JSON.stringify(row)).join('\n') + (rows.length ? '\n' : ''));
 }
 
-function loadUpstream() {
+function loadSource() {
   const { rows, problems } = readJsonl(UPSTREAM_FILE, { label: 'amont', repair: true });
   const byJp = new Map();
+  const upstreamIds = new Set();
   for (const row of rows) {
     if (typeof row.jp === 'string' && row.jp && !byJp.has(row.jp)) byJp.set(row.jp, row);
+    upstreamIds.add(row.id);
+  }
+  const client = readJsonl(CLIENT_FILE, { label: 'client 3273853' });
+  if (client.problems.length) throw new Error(client.problems.join('\n'));
+  const clientTexts = new Set();
+  const clientIds = new Set();
+  for (const { id, jp } of client.rows) {
+    if (!Number.isSafeInteger(id) || id < 0 || typeof jp !== 'string' || !jp.trim()) {
+      throw new Error('Entrée du client 3273853 sans identifiant ou texte japonais valide');
+    }
+    if (clientTexts.has(jp) || clientIds.has(id)) {
+      throw new Error(`Entrée du client 3273853 en double (id ${id})`);
+    }
+    clientTexts.add(jp);
+    clientIds.add(id);
+    // L’amont prend le relais dès qu’il publie le texte ou réutilise son emplacement.
+    if (byJp.has(jp) || upstreamIds.has(id)) continue;
+    const row = { id, jp, en: '', src: 'client-3273853' };
+    rows.push(row);
+    byJp.set(jp, row);
   }
   return { rows, byJp, problems };
 }
@@ -188,7 +210,7 @@ function percent(part, total) {
 // --- commandes ----------------------------------------------------------------------------
 
 function stats() {
-  const upstream = loadUpstream();
+  const upstream = loadSource();
   const french = loadFrench();
   const translated = [...upstream.byJp.keys()].filter((jp) => french.byJp.has(jp)).length;
   const orphans = [...french.byJp.keys()].filter((jp) => !upstream.byJp.has(jp)).length;
@@ -196,7 +218,7 @@ function stats() {
   const charsDone = [...upstream.byJp.keys()]
     .filter((jp) => french.byJp.has(jp))
     .reduce((sum, jp) => sum + jp.length, 0);
-  console.log(`Textes du jeu       ${upstream.byJp.size}`);
+  console.log(`Textes recensés      ${upstream.byJp.size}`);
   console.log(`Traduits en français ${translated} (${percent(translated, upstream.byJp.size)})`);
   console.log(`Caractères japonais  ${charsDone} / ${chars} (${percent(charsDone, chars)})`);
   console.log(`Lignes orphelines    ${orphans}`);
@@ -204,7 +226,7 @@ function stats() {
 }
 
 function check() {
-  const upstream = loadUpstream();
+  const upstream = loadSource();
   const french = loadFrench();
   const errors = [...french.problems];
   for (const row of french.byJp.values()) {
@@ -240,7 +262,7 @@ function check() {
 }
 
 function todo(options) {
-  const upstream = loadUpstream();
+  const upstream = loadSource();
   const french = loadFrench();
   const limit = Number(options.limit ?? 200);
   const pattern = options.grep ? new RegExp(options.grep, 'u') : null;
@@ -266,7 +288,7 @@ function todo(options) {
 function importWork(options) {
   const file = options._[0];
   if (!file) throw new Error('Indique le fichier de travail : node scripts/fr.mjs import <fichier>');
-  const upstream = loadUpstream();
+  const upstream = loadSource();
   const french = loadFrench();
   const { rows, problems } = readJsonl(resolve(file), { label: 'travail' });
   let added = 0;
@@ -313,7 +335,7 @@ function frenchSpacing(text) {
 function build(options) {
   const fallback = options.fallback ?? 'en';
   if (!['en', 'jp'].includes(fallback)) throw new Error('--fallback vaut « en » ou « jp »');
-  const upstream = loadUpstream();
+  const upstream = loadSource();
   const french = loadFrench();
   let fromFrench = 0;
   const output = [];
@@ -346,7 +368,7 @@ function build(options) {
 }
 
 function orphans(options) {
-  const upstream = loadUpstream();
+  const upstream = loadSource();
   const french = loadFrench();
   const kept = [];
   const lost = [];

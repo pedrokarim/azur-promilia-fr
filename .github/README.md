@@ -26,6 +26,7 @@ Le launcher se traduit à part, avec [azur-promilia-fr-launcher](https://github.
 | Fichier | Rôle |
 |---|---|
 | `strings.translatable.jsonl` | Le japonais et l'anglais de l'amont. On ne le modifie jamais à la main : il se met à jour depuis promiliafans/i18n. |
+| `fr/client-3273853.jsonl` | Textes japonais vérifiés sur le build 3273853, en attendant leur arrivée dans l’amont. L’amont prend le relais dès qu’il reprend le texte ou son identifiant. |
 | `fr/strings.fr.jsonl` | Le français, une ligne `{"id", "jp", "fr"}` par texte traduit, triée par `id`. |
 | `fr/context.md` | L'univers, le personnage du joueur, les personnages et leur registre, les règles d'écriture. À lire avant de traduire. |
 | `fr/glossary.tsv` | Noms et termes, avec leur traduction et leur statut (`official`, `client`, `proposed`, `approved`). |
