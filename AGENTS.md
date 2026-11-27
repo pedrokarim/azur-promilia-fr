@@ -19,6 +19,11 @@ Ce dépôt traduit en français le client PC japonais d'Azur Promilia. Il est fo
 - Une ligne qui cite un 「titre」 (quête, objet, rang) reprend la traduction déjà faite de ce titre, au mot près : `node scripts/fr.mjs titles work/<lot>.jsonl --fix` aligne les citations du lot.
 - Avant de rendre un lot : `node scripts/fr.mjs check` doit finir sans erreur.
 
+## Maintenance des menus fixes
+
+- Suivre [la procédure de maintenance des menus](docs/static-ui-maintenance.md) pour identifier la table réellement chargée et comparer les clés après chaque mise à jour du jeu.
+- Les repères de recherche propres à la machine sont dans `work/build-3273853-audit/local-notes.md`.
+
 ## Découper le travail entre plusieurs agents
 
 Chaque agent reçoit un lot distinct, tiré par `todo` avec un `--grep` ou une tranche différente, et l'écrit dans son propre fichier de `work/`. Un personnage ou une quête se traduit d'un seul tenant par le même agent, pour que le registre reste cohérent. L'import se fait lot par lot, puis `check`.
