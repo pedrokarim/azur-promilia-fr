@@ -57770,16 +57770,27 @@
 {"id":1557678,"jp":"実験結果","fr":"Résultats de l'expérience"}
 {"id":1557679,"jp":"ウィンベルを入手する","fr":"Obtenir un Winbell"}
 {"id":1557680,"jp":"ハルシヨンの粉塵を集める村民たち","fr":"Les villageois qui récoltent de la poudre d'Halcyon"}
+{"id":1557681,"jp":"純粋な水晶を集める村民たち","fr":"Les villageois qui récoltent des cristaux purs"}
+{"id":1557682,"jp":"清らかな新水を集める村民たち","fr":"Les villageois qui recueillent de l'eau pure"}
+{"id":1557683,"jp":"土を集めている村民を調べる","fr":"Aller voir les villageois qui recueillent de la terre"}
+{"id":1557684,"jp":"ファウンディについていく","fr":"Suivre Foundy"}
 {"id":1557685,"jp":"素材を注ぐ","fr":"Verser les matériaux"}
+{"id":1557686,"jp":"ウィンベル1個、ハルシヨンの粉塵1個、純粋な水晶1個、清らかな水1個、紅熱の土1個をイグドラシルの苗に注ぐ","fr":"Déposer sur la Pousse d'Yggdrasil 1 Winbell, 1 poudre d'Halcyon, 1 cristal pur, 1 eau pure et 1 terre incandescente"}
 {"id":1557687,"jp":"サラと話す","fr":"Parler à Sara"}
 {"id":1557688,"jp":"ルルカのもとへ向かう","fr":"Aller voir Luruka"}
 {"id":1557689,"jp":"テララについていく","fr":"Suivre Terara"}
+{"id":1557690,"jp":"ラルから情報を聞き出す","fr":"Obtenir des renseignements auprès de Ral"}
 {"id":1557691,"jp":"ハルシヨンを倒す","fr":"Vaincre le Halcyon"}
+{"id":1557692,"jp":"ペニーを村へ送り届ける","fr":"Raccompagner Penny au village"}
 {"id":1557693,"jp":"護送する","fr":"Escorter"}
+{"id":1557694,"jp":"道を塞ぐキボを撃退する","fr":"Repousser les Kibo qui bloquent le passage"}
 {"id":1557695,"jp":"ラルに状況を報告する","fr":"Faire un rapport à Ral sur la situation"}
 {"id":1557696,"jp":"ラルに報告する","fr":"Faire un rapport à Ral"}
+{"id":1557697,"jp":"ルルカに手掛かりを尋ねる","fr":"Demander des indices à Luruka"}
 {"id":1557698,"jp":"薬材不足","fr":"Manque de plantes médicinales"}
+{"id":1557699,"jp":"ユースベリーを3個採集する","fr":"Récolter 3 baies de jouvence"}
 {"id":1557700,"jp":"ユースベリーを渡す","fr":"Remettre les baies de jouvence"}
+{"id":1557701,"jp":"ユースベリーをルルカに渡す。","fr":"Remettre les baies de jouvence à Luruka."}
 {"id":1557702,"jp":"ヤアルに煎じ薬を渡す","fr":"Donner la décoction à Yaal"}
 {"id":1557703,"jp":"煎じ薬を渡す","fr":"Donner la décoction"}
 {"id":1557704,"jp":"ヤアルに薬湯を渡す。","fr":"Donner la tisane médicinale à Yaal."}
@@ -57790,46 +57801,86 @@
 {"id":1557709,"jp":"ルルカに知らせる","fr":"Prévenir Luruka"}
 {"id":1557710,"jp":"情報をまとめる","fr":"Rassembler les informations"}
 {"id":1557711,"jp":"室内から出る","fr":"Sortir de la pièce"}
+{"id":1557712,"jp":"夜のとばりが下りるのを待つ","fr":"Attendre la tombée de la nuit"}
 {"id":1557713,"jp":"さらに奥へ進む","fr":"Aller encore plus loin"}
 {"id":1557714,"jp":"土地の異変を調査する","fr":"Enquêter sur les changements étranges de la terre"}
 {"id":1557715,"jp":"凶獣を探す","fr":"Chercher la Bête maudite"}
 {"id":1557716,"jp":"不眠の真相","fr":"La vérité sur l'insomnie"}
 {"id":1557717,"jp":"妙な噂を耳にする","fr":"Entendre une drôle de rumeur"}
+{"id":1557718,"jp":"なにやら妙な噂があるらしい","fr":"Une étrange rumeur semble circuler"}
 {"id":1557719,"jp":"蘭香子の近況を気遣う","fr":"Prendre des nouvelles de Lan Xiangzi"}
+{"id":1557720,"jp":"奇妙な噂を立ち聞きする","fr":"Écouter discrètement les étranges rumeurs"}
+{"id":1557721,"jp":"緊張した様子の市民たちの会話を立ち聞きする","fr":"Écouter discrètement la conversation des habitants nerveux"}
+{"id":1557722,"jp":"ひそひそ話をする行商たちの会話を立ち聞きする","fr":"Écouter discrètement les marchands ambulants qui chuchotent entre eux"}
+{"id":1557723,"jp":"大げさに驚く市民たちの会話を立ち聞きする","fr":"Écouter discrètement la conversation des habitants qui s'exclament avec étonnement"}
+{"id":1557724,"jp":"蘭香子を2階の寝室に送り届ける","fr":"Raccompagner Lan Xiangzi jusqu'à sa chambre au deuxième étage"}
+{"id":1557725,"jp":"幽霊騒ぎについて引き続き話し合う","fr":"Poursuivre la discussion au sujet des apparitions de fantômes"}
+{"id":1557726,"jp":"ホールに戻り、情報を聞けそうな相手を探す","fr":"Retourner dans le hall et chercher quelqu'un susceptible de fournir des renseignements"}
 {"id":1557727,"jp":"行商たちに話を聞く","fr":"Interroger les colporteurs"}
 {"id":1557728,"jp":"キャスベルに話を聞く","fr":"Interroger Cathbelle"}
+{"id":1557729,"jp":"庭園にいる人たちから情報を集める","fr":"Recueillir des renseignements auprès des personnes présentes dans le jardin"}
+{"id":1557730,"jp":"これまでに得た情報をまとめる","fr":"Faire le point sur les informations recueillies jusqu'à présent"}
+{"id":1557731,"jp":"邸宅に戻り、深夜まで待つ","fr":"Retourner au manoir et attendre minuit"}
 {"id":1557732,"jp":"深夜まで待つ","fr":"Attendre minuit"}
+{"id":1557733,"jp":"夜間に領主の邸宅を巡回する","fr":"Effectuer une ronde nocturne dans le manoir du seigneur"}
+{"id":1557734,"jp":"ティーテーブルを調べる","fr":"Examiner la table à thé"}
 {"id":1557735,"jp":"地面を調べる","fr":"Examiner le sol"}
 {"id":1557736,"jp":"書斎の扉を調べる","fr":"Examiner la porte du bureau"}
 {"id":1557737,"jp":"油絵を調べる","fr":"Examiner la peinture à l'huile"}
+{"id":1557738,"jp":"夜の見回りを続け、2階を見に行く","fr":"Poursuivre la ronde nocturne et inspecter le deuxième étage"}
+{"id":1557739,"jp":"夜の見回りの結果について話し合う","fr":"Discuter des résultats de la ronde nocturne"}
+{"id":1557740,"jp":"キャスベルが問題を起こさないよう、こっそりついていく","fr":"Suivre discrètement Cathbelle pour éviter qu'elle ne cause des problèmes"}
+{"id":1557741,"jp":"引き続きキャスベルについていく","fr":"Continuer à suivre Cathbelle"}
+{"id":1557742,"jp":"問題解決、領主邸を離れる","fr":"Le problème étant résolu, quitter le manoir du seigneur"}
 {"id":1557743,"jp":"塗山小玉と話す","fr":"Parler à Tushan Xiaoyu"}
+{"id":1557744,"jp":"小玉にここにいる理由を尋ねる","fr":"Demander à Xiaoyu pourquoi elle se trouve ici"}
 {"id":1557745,"jp":"小玉について進む","fr":"Suivre Xiaoyu"}
+{"id":1557746,"jp":"縁の糸で繋がった少女と話す","fr":"Parler à la jeune fille liée par les fils du destin"}
 {"id":1557747,"jp":"保安官シロロと話す","fr":"Parler au shérif Shiroro"}
 {"id":1557748,"jp":"エヴィナを見つける","fr":"Trouver Evina"}
 {"id":1557749,"jp":"エリナを探す","fr":"Chercher Elina"}
 {"id":1557750,"jp":"塗山小玉を探す","fr":"Chercher Tushan Xiaoyu"}
 {"id":1557751,"jp":"縁の糸の導きに従う","fr":"Suivre le guide des fils du destin"}
+{"id":1557752,"jp":"こそこそしている者を問いただす","fr":"Interroger l'individu au comportement suspect"}
 {"id":1557753,"jp":"アインスを問い詰める","fr":"Presser Eins de questions"}
 {"id":1557754,"jp":"ゴンドーロに戻る","fr":"Retourner à Gondolo"}
+{"id":1557755,"jp":"領主邸に戻って支援を求める","fr":"Retourner au manoir du seigneur pour demander de l'aide"}
+{"id":1557756,"jp":"アインス兄妹のことをナナチャに伝える","fr":"Parler à Nanacha du frère et de la sœur Eins"}
+{"id":1557757,"jp":"ゴンドーロに戻って手紙を届ける","fr":"Retourner à Gondolo pour remettre la lettre"}
+{"id":1557758,"jp":"領主邸に戻りナナチャを探す","fr":"Retourner au manoir du seigneur et retrouver Nanacha"}
 {"id":1557759,"jp":"小玉と話す","fr":"Parler à Xiaoyu"}
+{"id":1557760,"jp":"宴会の準備作業を開始する","fr":"Commencer les préparatifs du banquet"}
+{"id":1557761,"jp":"カラフルパレード団へ向かい、装飾品を購入する","fr":"Se rendre auprès de la troupe de la Parade multicolore pour acheter des décorations"}
 {"id":1557762,"jp":"装飾品を買い入れる","fr":"Acheter des décorations"}
+{"id":1557763,"jp":"メイメイハウスへ向かい、食物を調達する","fr":"Se rendre à la Maison Meimei pour acheter des provisions"}
 {"id":1557764,"jp":"食べものを買い入れる","fr":"Acheter de la nourriture"}
+{"id":1557765,"jp":"ゴンドーロへ向かい、アインス兄妹を探す","fr":"Se rendre à Gondolo pour retrouver le frère et la sœur Eins"}
+{"id":1557766,"jp":"周辺の町民に知らせに行く","fr":"Aller prévenir les habitants des environs"}
+{"id":1557767,"jp":"通りにいる町民に知らせに行く","fr":"Aller prévenir les habitants dans la rue"}
+{"id":1557768,"jp":"運河沿いの町民に知らせに行く","fr":"Aller prévenir les habitants le long du canal"}
+{"id":1557769,"jp":"準備完了！舞踏会が始まるのを待とう！","fr":"Tout est prêt ! Il ne reste plus qu'à attendre le début du bal !"}
 {"id":1557770,"jp":"小玉を見つける","fr":"Trouver Xiaoyu"}
 {"id":1557771,"jp":"小玉についていく","fr":"Suivre Xiaoyu"}
+{"id":1557772,"jp":"小玉になぜここに来たのか聞く","fr":"Demander à Xiaoyu pourquoi elle est venue ici"}
 {"id":1557773,"jp":"エインズと話す","fr":"Parler à Ains"}
 {"id":1557774,"jp":"エリーナと話す","fr":"Parler à Elina"}
 {"id":1557775,"jp":"アビィの見舞いに行く","fr":"Rendre visite à Abby"}
 {"id":1557776,"jp":"アビィを見つける","fr":"Trouver Abby"}
 {"id":1557777,"jp":"どこかへ隠れる","fr":"Se cacher quelque part"}
+{"id":1557778,"jp":"ラル教官のもとへ向かう","fr":"Rejoindre l'instructeur Ral"}
 {"id":1557779,"jp":"リハビリ訓練","fr":"Entraînement de rééducation"}
 {"id":1557780,"jp":"アビィの腹を満たす","fr":"Rassasier Abby"}
+{"id":1557781,"jp":"ルマおばあちゃんと話す","fr":"Parler à Mamie Ruma"}
+{"id":1557782,"jp":"食卓へ行き、食事が始まるのを待つ","fr":"S'installer à table et attendre le début du repas"}
 {"id":1557783,"jp":"ごちそうを堪能する","fr":"Savourer le festin"}
 {"id":1557784,"jp":"チシキの実を採集する","fr":"Cueillir des fruits de Chishiki"}
 {"id":1557785,"jp":"風銅鉱を採集する","fr":"Récolter du minerai de cuivre du vent"}
 {"id":1557786,"jp":"星輝鉱を採集する","fr":"Récolter du minerai d'éclat stellaire"}
+{"id":1557787,"jp":"ルマおばあちゃんのところへ戻る","fr":"Retourner auprès de Mamie Ruma"}
 {"id":1557788,"jp":"アビィを休ませる","fr":"Laisser Abby se reposer"}
 {"id":1557789,"jp":"アビィの夢","fr":"Le rêve d'Abby"}
 {"id":1557790,"jp":"アビィの夢を感知する","fr":"Percevoir le rêve d'Abby"}
+{"id":1557791,"jp":"メーツァによい知らせを伝える","fr":"Annoncer la bonne nouvelle à Metsa"}
 {"id":1557792,"jp":"アビィのプレゼント","fr":"Le cadeau d'Abby"}
 {"id":1557793,"jp":"星臨者を探す","fr":"Chercher l'Enfant des étoiles"}
 {"id":1557794,"jp":"悪い子を討伐する","fr":"Vaincre le méchant"}
@@ -57838,6 +57889,7 @@
 {"id":1557797,"jp":"だれか星臨者を見た？","fr":"Quelqu'un a vu l'Enfant des étoiles ?"}
 {"id":1557798,"jp":"助けて","fr":"À l'aide"}
 {"id":1557799,"jp":"アビィを待つ","fr":"Attendre Abby"}
+{"id":1557800,"jp":"みんなに何か手伝えることがないか聞いてみる","fr":"Demander à chacun s'il a besoin d'aide"}
 {"id":1557801,"jp":"アビィは手伝いたい","fr":"Abby veut aider"}
 {"id":1557802,"jp":"キラキラに近づく","fr":"Approcher de la lueur scintillante"}
 {"id":1557803,"jp":"悪い子の記録","fr":"Dossier d'un méchant"}
@@ -57846,11 +57898,19 @@
 {"id":1557806,"jp":"「いい子」のアビィ","fr":"Abby, la « Gentille fille »"}
 {"id":1557807,"jp":"ここはどこ","fr":"Où est-ce ?"}
 {"id":1557808,"jp":"農園拡張","fr":"Agrandissement de la ferme"}
+{"id":1557809,"jp":"『農園拡張許可』を提出する","fr":"Remettre le « Permis d'agrandissement de la ferme »"}
 {"id":1557810,"jp":"寮の昇格について","fr":"À propos de l'amélioration du dortoir"}
 {"id":1557811,"jp":"群星の試練を完了する","fr":"Terminer l'Épreuve des étoiles"}
 {"id":1557812,"jp":"群星の試練に入る","fr":"Entrer dans l'Épreuve des étoiles"}
+{"id":1557813,"jp":"キボファイトについて知る","fr":"Se familiariser avec le Duel de Kibo"}
+{"id":1557814,"jp":"テララから報酬を受け取る","fr":"Récupérer la récompense auprès de Terara"}
 {"id":1557815,"jp":"強者との対決","fr":"Affrontement avec les puissants"}
+{"id":1557816,"jp":"ルルカとキボファイトをする","fr":"Disputer un Duel de Kibo contre Luruka"}
 {"id":1557817,"jp":"ミィティと話す","fr":"Parler à Mitty"}
+{"id":1557818,"jp":"ミィティとキボファイトをする","fr":"Disputer un Duel de Kibo contre Mitty"}
+{"id":1557819,"jp":"村長とキボファイトをする","fr":"Disputer un Duel de Kibo contre le Chef du village"}
+{"id":1557820,"jp":"ファランタとキボファイトをする","fr":"Disputer un Duel de Kibo contre Faridah"}
+{"id":1557821,"jp":"シロロとキボファイトをする","fr":"Disputer un Duel de Kibo contre Shiroro"}
 {"id":1557822,"jp":"シャルと話す","fr":"Parler à Shalle"}
 {"id":1557824,"jp":"キャスベルと話す","fr":"Parler à Cathbelle"}
 {"id":1557826,"jp":"コムギと話す","fr":"Parler à Komugi"}
