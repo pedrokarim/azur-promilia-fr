@@ -57912,74 +57912,134 @@
 {"id":1557820,"jp":"ファランタとキボファイトをする","fr":"Disputer un Duel de Kibo contre Faridah"}
 {"id":1557821,"jp":"シロロとキボファイトをする","fr":"Disputer un Duel de Kibo contre Shiroro"}
 {"id":1557822,"jp":"シャルと話す","fr":"Parler à Shalle"}
+{"id":1557823,"jp":"シャルとキボファイトをする","fr":"Disputer un Duel de Kibo contre Shalle"}
 {"id":1557824,"jp":"キャスベルと話す","fr":"Parler à Cathbelle"}
+{"id":1557825,"jp":"キャスベルとキボファイトをする","fr":"Disputer un Duel de Kibo contre Cathbelle"}
 {"id":1557826,"jp":"コムギと話す","fr":"Parler à Komugi"}
+{"id":1557827,"jp":"コムギとキボファイトをする","fr":"Disputer un Duel de Kibo contre Komugi"}
+{"id":1557828,"jp":"マスターチャレンジの受付係と話す","fr":"Parler à la personne chargée de l'accueil du Défi des Maîtres"}
 {"id":1557829,"jp":"試練をクリアする","fr":"Réussir l'épreuve"}
+{"id":1557830,"jp":"冷静なファイターとキボファイトをする","fr":"Disputer un Duel de Kibo contre le duelliste calme"}
 {"id":1557831,"jp":"会話する","fr":"Discuter"}
+{"id":1557832,"jp":"情熱的なファイターとキボファイトをする","fr":"Disputer un Duel de Kibo contre le duelliste passionné"}
+{"id":1557833,"jp":"慎重なファイターとキボファイトをする","fr":"Disputer un Duel de Kibo contre le duelliste prudent"}
 {"id":1557834,"jp":"高台へ向かう","fr":"Aller sur les hauteurs"}
+{"id":1557835,"jp":"メイプルとキボファイトをする","fr":"Disputer un Duel de Kibo contre Maple"}
 {"id":1557836,"jp":"リリカの大作戦","fr":"Le grand plan de Lyrica"}
+{"id":1557837,"jp":"星煌ファイトリーグ・芽吹の章をクリアする","fr":"Terminer la Ligue de duel Splendeur stellaire - Chapitre des Bourgeons"}
+{"id":1557838,"jp":"『星煌ファイトリーグ』について","fr":"À propos de la « Ligue de duel Splendeur stellaire »"}
+{"id":1557839,"jp":"リリカに必要物資を届ける","fr":"Livrer les fournitures nécessaires à Lyrica"}
 {"id":1557840,"jp":"必要素材を渡す","fr":"Remettre les matériaux nécessaires"}
 {"id":1557841,"jp":"素材をリリカに渡す","fr":"Donner les matériaux à Lyrica"}
+{"id":1557842,"jp":"きらめき珍品で買い物を1回完了する","fr":"Effectuer 1 achat aux Curiosités scintillantes"}
+{"id":1557843,"jp":"作業台で取引所を製作し、農園に設置する","fr":"Fabriquer un Comptoir d'échange à l'Établi et l'installer dans la ferme"}
 {"id":1557844,"jp":"商品を1回売却する","fr":"Vendre des marchandises 1 fois"}
+{"id":1557845,"jp":"オーダーボードでオーダーを1件完了する","fr":"Honorer 1 Commande du tableau des commandes"}
 {"id":1557846,"jp":"テララの誘い","fr":"L'invitation de Terara"}
 {"id":1557847,"jp":"前方を探索する","fr":"Explorer devant soi"}
 {"id":1557848,"jp":"青い砂の流れを導く","fr":"Guider le flux de sable bleu"}
+{"id":1557849,"jp":"固く閉ざされた扉を開く","fr":"Ouvrir la porte hermétiquement fermée"}
 {"id":1557850,"jp":"大橋を渡る","fr":"Traverser le grand pont"}
 {"id":1557851,"jp":"行く手を阻む敵を倒す","fr":"Vaincre les ennemis qui bloquent le chemin"}
 {"id":1557852,"jp":"廃墟の部屋を調べる","fr":"Fouiller la pièce en ruine"}
 {"id":1557853,"jp":"廃墟から脱出する","fr":"S'échapper des ruines"}
+{"id":1557854,"jp":"メインストーリー依頼『故郷を離れて』を完了する","fr":"Terminer la Mission de l'histoire principale « Quitter sa terre natale »"}
+{"id":1557855,"jp":"村長の家に行って村長を探す","fr":"Retrouver le Chef du village chez lui"}
+{"id":1557856,"jp":"広場へ向かい、みんなに挨拶する","fr":"Se rendre sur la place pour saluer tout le monde"}
 {"id":1557857,"jp":"メーツァを探す","fr":"Trouver Metsa"}
 {"id":1557858,"jp":"フレンドたちと話す","fr":"Parler à ses amis"}
 {"id":1557859,"jp":"村長の話を聞く","fr":"Écouter le chef du village"}
+{"id":1557860,"jp":"ポポのところへ行き、助けを求める手紙を確認する","fr":"Retrouver Popo et consulter la lettre demandant de l'aide"}
+{"id":1557861,"jp":"助けを求める手紙を確認する","fr":"Consulter la lettre demandant de l'aide"}
 {"id":1557862,"jp":"ジルスと話す","fr":"Parler à Jils"}
 {"id":1557863,"jp":"巨大な麦へ向かう","fr":"Aller vers le blé géant"}
 {"id":1557864,"jp":"巨大な麦を刈り倒す","fr":"Abattre le blé géant"}
+{"id":1557865,"jp":"ジルスに状況を報告する","fr":"Faire un rapport sur la situation à Jils"}
+{"id":1557866,"jp":"領主の邸宅へ向かい、書籍を確認する","fr":"Se rendre au manoir du seigneur pour consulter les livres"}
 {"id":1557867,"jp":"書籍を調べる","fr":"Examiner les livres"}
 {"id":1557868,"jp":"コムギに書物を見せる","fr":"Montrer le livre à Komugi"}
+{"id":1557869,"jp":"ジルスに状況を知らせる","fr":"Informer Jils de la situation"}
+{"id":1557870,"jp":"ハーヴェイの報告を確認する","fr":"Consulter le rapport de Harvey"}
 {"id":1557871,"jp":"コロコロに状況を伺う","fr":"Demander à Korokoro où en est la situation"}
+{"id":1557872,"jp":"クエスト掲示板を確認する","fr":"Consulter le tableau des quêtes"}
 {"id":1557873,"jp":"『恩寵の甘露』","fr":"« Le nectar de grâce »"}
 {"id":1557874,"jp":"ジルスに地図を借りる","fr":"Emprunter une carte à Jils"}
 {"id":1557875,"jp":"迷跡の森へ向かう","fr":"Aller à la Forêt aux Traces perdues"}
 {"id":1557876,"jp":"燐光を追う","fr":"Suivre la lueur phosphorescente"}
 {"id":1557877,"jp":"アマルテイアを追う","fr":"Suivre Amalthea"}
+{"id":1557878,"jp":"アマルテイアの力を解放する","fr":"Libérer le pouvoir d'Amalthea"}
+{"id":1557879,"jp":"村長はあなたとテララに何か頼みたいことがあるようだ","fr":"Le Chef du village semble avoir un service à vous demander, à Terara et à vous"}
 {"id":1557880,"jp":"村長の依頼","fr":"Mission du chef du village"}
 {"id":1557881,"jp":"テララに追いつく","fr":"Rattraper Terara"}
 {"id":1557882,"jp":"ハルシィを追い払う","fr":"Chasser Halcy"}
 {"id":1557883,"jp":"テララを起こす","fr":"Réveiller Terara"}
 {"id":1557884,"jp":"ニィバットと交流する","fr":"Faire connaissance avec le Nybat"}
 {"id":1557885,"jp":"ハルシィたちを倒す","fr":"Vaincre les Halcy"}
+{"id":1557886,"jp":"村長から霧隠れの森の現状を聞く","fr":"Interroger le Chef du village sur la situation actuelle de la forêt des Brumes"}
+{"id":1557887,"jp":"霧隠れの森の様子を確認する","fr":"Aller vérifier la situation dans la forêt des Brumes"}
+{"id":1557888,"jp":"星識レベル25でフリスのマップが解放される","fr":"La carte de Fleece se débloque au niveau de Savoir stellaire 25"}
+{"id":1557889,"jp":"解放条件を満たす必要があります","fr":"Les conditions de déblocage doivent être remplies"}
+{"id":1557890,"jp":"シャインキャンディショップへ買い出しに向かう","fr":"Se rendre à la confiserie de Shine pour faire des achats"}
 {"id":1557891,"jp":"キャンディを購入する","fr":"Acheter des bonbons"}
+{"id":1557892,"jp":"ブックスタンドへ買い出しに向かう","fr":"Se rendre au kiosque à livres pour faire des achats"}
+{"id":1557893,"jp":"江離の香料店へ買い出しに向かう","fr":"Se rendre à la boutique d'épices de Jiang Li pour faire des achats"}
 {"id":1557894,"jp":"謎めいた者に追いつく","fr":"Rattraper la personne mystérieuse"}
 {"id":1557895,"jp":"謎の『行商』と話す","fr":"Parler au mystérieux « colporteur »"}
 {"id":1557896,"jp":"考えを整理する","fr":"Remettre ses idées en ordre"}
 {"id":1557897,"jp":"襲来した赤蠍団を倒す","fr":"Vaincre les Scorpions rouges qui attaquent"}
+{"id":1557898,"jp":"約束の場所へ行き、塗山小玉を待つ","fr":"Se rendre au lieu convenu et attendre Tushan Xiaoyu"}
 {"id":1557899,"jp":"塗山小玉を待つ","fr":"Attendre Tushan Xiaoyu"}
+{"id":1557900,"jp":"農園の調理鍋で普通品質の潤いトマトのオムレツを1つ作る","fr":"Préparer 1 omelette aux tomates juteuses de qualité ordinaire dans la Marmite de la ferme"}
+{"id":1557901,"jp":"シャルと話し、潤いトマトのオムレツを1つ渡す","fr":"Parler à Shalle et lui remettre 1 omelette aux tomates juteuses"}
+{"id":1557902,"jp":"シャルに潤いトマトの卵炒めを食べさせる","fr":"Faire goûter à Shalle les œufs sautés aux tomates juteuses"}
+{"id":1557903,"jp":"シャインキャンディショップへ向かう","fr":"Se rendre à la confiserie de Shine"}
+{"id":1557904,"jp":"ハーベストフィールズの農場に向かい、マッシマを探す","fr":"Se rendre à l'exploitation des Champs des Moissons pour retrouver Massima"}
 {"id":1557905,"jp":"指定地点で待つ","fr":"Attendre à l'endroit indiqué"}
+{"id":1557906,"jp":"普通品質の濃厚トマトパスタを作る","fr":"Préparer des pâtes à la sauce tomate onctueuse de qualité ordinaire"}
 {"id":1557907,"jp":"リリカに料理を渡す","fr":"Donner le plat à Lyrica"}
+{"id":1557908,"jp":"リリカに美食を味わってもらう","fr":"Faire déguster un délicieux plat à Lyrica"}
 {"id":1557909,"jp":"シャルを慰める","fr":"Consoler Shalle"}
+{"id":1557911,"jp":"普通品質の二色のペペアメを作る","fr":"Préparer un bonbon Pepe bicolore de qualité ordinaire"}
+{"id":1557912,"jp":"普通品質のハニーハーベストを作る","fr":"Préparer une Moisson de miel de qualité ordinaire"}
 {"id":1557913,"jp":"レックスと話す","fr":"Parler à Rex"}
+{"id":1557914,"jp":"シャインキャンディショップへ向かい、シャインと話す","fr":"Se rendre à la confiserie de Shine et parler à Shine"}
+{"id":1557915,"jp":"近くの帝国市民を探して、レックスの行方を聞き出す","fr":"Chercher un citoyen de l'Empire dans les environs pour savoir où se trouve Rex"}
+{"id":1557916,"jp":"レックスの行方を尋ねる","fr":"Se renseigner sur les allées et venues de Rex"}
 {"id":1557917,"jp":"レックスを足止めする","fr":"Retenir Rex"}
+{"id":1557918,"jp":"レックスが雇った赤蠍団を倒す","fr":"Vaincre les Scorpions rouges engagés par Rex"}
 {"id":1557919,"jp":"セロロ","fr":"Seroro"}
+{"id":1557920,"jp":"メイメイハウスへ向かい、フェデリカをなだめる","fr":"Se rendre à la Maison Meimei pour calmer Federica"}
+{"id":1557921,"jp":"冒険者ギルドのメイプルを手伝って依頼を処理する","fr":"Aider Maple à traiter les Missions de la Guilde des aventuriers"}
 {"id":1557922,"jp":"話しかける","fr":"Adresser la parole"}
 {"id":1557923,"jp":"小玉を探す","fr":"Trouver Xiaoyu"}
 {"id":1557924,"jp":"壬陽関へ向かう","fr":"Aller au col de Renyang"}
+{"id":1557925,"jp":"城の守備兵に居峡関の場所を聞く","fr":"Demander aux gardes du château où se trouve le col de Juxia"}
 {"id":1557926,"jp":"兵士に話を聞く","fr":"Parler au soldat"}
 {"id":1557927,"jp":"ポールと話す","fr":"Parler à Paul"}
 {"id":1557928,"jp":"居峡関の様子を聞く","fr":"Se renseigner sur le col de Juxia"}
 {"id":1557929,"jp":"居峡関の入口へ向かう","fr":"Aller à l'entrée du col de Juxia"}
 {"id":1557930,"jp":"居峡関にたどり着く","fr":"Atteindre le col de Juxia"}
+{"id":1557931,"jp":"積み上がった石を調べる","fr":"Examiner l'amas de pierres"}
+{"id":1557932,"jp":"体格のいい兵士についていく","fr":"Suivre le soldat à la carrure imposante"}
 {"id":1557933,"jp":"訓練を完了する","fr":"Terminer l'entraînement"}
+{"id":1557934,"jp":"周囲を調べ、小玉を探す","fr":"Fouiller les environs à la recherche de Xiaoyu"}
 {"id":1557935,"jp":"側で話を聞く","fr":"Écouter à côté"}
+{"id":1557936,"jp":"周りの様子を見て、情報を聞き出す","fr":"Observer les alentours et recueillir des renseignements"}
 {"id":1557937,"jp":"近くの衛兵と話す","fr":"Parler au garde voisin"}
 {"id":1557938,"jp":"周囲の新兵と話す","fr":"Parler aux recrues des environs"}
 {"id":1557939,"jp":"戦熊の厩舎を見に行く","fr":"Aller voir l'écurie des ours de guerre"}
+{"id":1557940,"jp":"満開の大きな桃の木を調べる","fr":"Examiner le grand pêcher en pleine floraison"}
 {"id":1557941,"jp":"厨房の近くへ向かう","fr":"Aller près de la cuisine"}
 {"id":1557942,"jp":"郭小宝を追いかける","fr":"Courir après Guo Xiaobao"}
 {"id":1557943,"jp":"兵舎に戻って休む","fr":"Retourner se reposer à la caserne"}
 {"id":1557944,"jp":"見回りの兵士と話す","fr":"Parler au soldat en ronde"}
+{"id":1557945,"jp":"宿舎を調べ、ベッドで休む","fr":"Inspecter les quartiers et se reposer dans le lit"}
 {"id":1557946,"jp":"ベッドで休む","fr":"Se reposer dans le lit"}
 {"id":1557947,"jp":"木箱を調べる","fr":"Examiner la caisse en bois"}
 {"id":1557948,"jp":"武器立てを調べる","fr":"Examiner le râtelier d'armes"}
+{"id":1557949,"jp":"ベッドの上の手紙を確認する","fr":"Examiner la lettre posée sur le lit"}
+{"id":1557950,"jp":"書きかけの家族宛の手紙","fr":"Lettre inachevée destinée à la famille"}
+{"id":1557951,"jp":"同じテントの新兵と話す","fr":"Parler à la nouvelle recrue qui partage votre tente"}
 {"id":1557952,"jp":"郭小宝を追跡する","fr":"Pister Guo Xiaobao"}
 {"id":1557953,"jp":"厨房へ戻る","fr":"Retourner à la cuisine"}
 {"id":1557954,"jp":"兵舎を出る","fr":"Quitter la caserne"}
