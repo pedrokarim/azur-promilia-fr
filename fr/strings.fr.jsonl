@@ -49853,35 +49853,214 @@
 {"id":1545459,"jp":"たてがみ、かあ……\nフリスにはふわふわしたキボがたくさんいるよ。\nどんなたてがみがいいの？","fr":"Une crinière, tu dis…\nÀ Fleece, c'est pas les Kibo tout duveteux qui manquent.\nTu cherches quel genre de crinière ?"}
 {"id":1545460,"jp":"硬くて丈夫で、ふわふわだけど形が安定してて\n防水、防湿性もあるのがいい！","fr":"Il m'en faut une bien solide et rêche, mais avec du gonflant et qui garde sa forme.\nEt il faut qu'elle résiste à l'eau et à l'humidité !"}
 {"id":1545461,"jp":"うーん、その条件をすべて満たすのは……\nふふーん、あのキボだけだにゃ！","fr":"Mmh, avec tout ça…\nHéhé, je connais un seul Kibo qui a la crinière qu'il te faut, nya !"}
+{"id":1545462,"jp":"まえ、こっそり話した依頼のこと、覚えてる？","fr":"Tu te souviens de la Mission dont je t'ai parlé en cachette ?"}
+{"id":1545463,"jp":"ライカウモの討伐のこと？","fr":"Celle où il faut terrasser le Raikaumo ?"}
+{"id":1545464,"jp":"水を汲んで花に水をやること？","fr":"Puiser de l'eau pour arroser les fleurs ?"}
+{"id":1545465,"jp":"メイプルの毛づくろいのこと？","fr":"Brosser le poil de Maple ?"}
 {"id":1545466,"jp":"そう、ライカウモ！","fr":"Oui, le Raikaumo !"}
+{"id":1545467,"jp":"違うちがーう！水汲みや水やりも大事だけど、\nそれはたてがみとは関係ないでしょ？","fr":"Mais non, pas du tout ! Puiser de l'eau et arroser, c'est important aussi,\nmais quel rapport avec la crinière ?"}
+{"id":1545468,"jp":"ライカウモの討伐依頼のことだにゃ！","fr":"Je te parle de la Mission contre le Raikaumo, nya !"}
+{"id":1545469,"jp":"メイプルの毛づくろいをしてくれるの？\nう〜、それはちょっと恥ずかしいよ～","fr":"Tu veux brosser le poil de Maple ?\nEuh… ça me gêne un peu…"}
+{"id":1545470,"jp":"待って！それって、メイプルの毛に目をつけたってこと！？\nダメだよ！メイプルのしっぽはすごく貴重なんだから！","fr":"Attends ! C'est sur les poils de Maple que t'as jeté ton dévolu ?!\nPas touche ! La queue de Maple, c'est précieux !"}
+{"id":1545471,"jp":"ライカウモの体にある金のたてがみは、\nキボの毛なかでも最も強靭なもののひとつだよね！\nみずからの強烈な雷に耐える上に、武器で傷つけることも難しい。","fr":"La crinière dorée du Raikaumo,\nc'est un des crins les plus résistants qu'on puisse trouver chez les Kibo !\nElle résiste à ses propres décharges, et même une lame a du mal à l'entamer."}
+{"id":1545472,"jp":"これこそハイクラス冒険者さまが手に入れられる最高級のたてがみ……\nでも、その金の毛を手に入れるには、勇気も必要なんだよ。","fr":"C'est la plus belle crinière dont on puisse rêver quand on fait partie de l'élite de la guilde…\nMais il en faut, du cran, pour aller lui prendre ses crins dorés !"}
+{"id":1545473,"jp":"依頼のあったライカウモはメルトレイクにいるけど、\n最近なんでか凶暴になって、行商を傷つける事件まで起きてるの……","fr":"Le Raikaumo de la Mission est à Melt Lake.\nCes derniers temps, on ne sait pas ce qui lui prend, mais il est devenu agressif. Il a même blessé des marchands ambulants…"}
+{"id":1545474,"jp":"とりあえずその一帯に近づかないよう通達は出してるけど。\n根本的な解決にはなっていないからね……\n領主さまもだれかにライカウモを討伐して欲しがってる。","fr":"Pour l'instant, on a affiché un avis pour demander aux gens d'éviter le coin.\nÇa nous fait gagner un peu de temps…\nLe seigneur aimerait bien que quelqu'un terrasse ce Raikaumo."}
+{"id":1545475,"jp":"この依頼を達成すれば報酬を得られる上に、たてがみも手に入るよ！\nどうどう？挑戦してみる？","fr":"Si tu termines la Mission, tu toucheras la récompense et tu pourras garder la crinière !\nAlors, ça te tente ?"}
+{"id":1545476,"jp":"えへへっ、決まりだね！\nライカウモの情報は依頼書に書いてあるよ。\nいい知らせ、待ってるにゃ！","fr":"Hé hé, c'est réglé !\nTout ce qu'on sait sur le Raikaumo est écrit sur la fiche de Mission.\nJ'attends de tes nouvelles, nya !"}
+{"id":1545477,"jp":"あれがライカウモか……とんでもない大きさだね……","fr":"C'est ça, le Raikaumo… ? Il est gigantesque…"}
+{"id":1545478,"jp":"しっー！寝てるみたいなのだ、ついてるぞ！","fr":"Chut ! On dirait qu'il dort. On a de la chance !"}
+{"id":1545479,"jp":"ルミィ……どうするつもりですか？","fr":"Lumi… qu'est-ce que vous comptez faire ?"}
+{"id":1545480,"jp":"もちろん、ぐっすり眠ってるあいだにたてがみを抜くのだ。\nうまくいけば、戦わずに済む！","fr":"La grande Lumi va lui prendre quelques crins pendant qu'il dort, bien sûr.\nSi ça marche, on s'épargne un combat !"}
+{"id":1545481,"jp":"そうだね、試してみる価値はありそう。","fr":"Oui, ça se tente."}
+{"id":1545482,"jp":"いい子いい子、そのまま、すやすやしてるのだ～","fr":"C'est bien, tout doux… Continue de faire dodo…"}
+{"id":1545483,"jp":"気をつけてね、ルミィ。","fr":"Fais attention, Lumi."}
+{"id":1545484,"jp":"大丈夫だいじょーぶ。\nこんなの、ハイガーデンのじじどものひげを抜くくらい簡単なことなのだ。","fr":"Mais oui, tout va bien.\nPour la grande Lumi, c'est aussi facile que d'arracher un poil de barbe aux vieux croûtons de High Garden."}
+{"id":1545485,"jp":"なんだかおかしいです……","fr":"Il y a quelque chose qui cloche…"}
+{"id":1545486,"jp":"いけません、はやく戻ってください！","fr":"Lumi, revenez vite !"}
 {"id":1545487,"jp":"やっと倒した……","fr":"On l'a enfin vaincu…"}
+{"id":1545488,"jp":"ルミィ、無事でよかった……","fr":"Lumi… j'ai eu peur pour toi."}
+{"id":1545489,"jp":"ふ、ふんっ。心配いらないのだ。\n羽だって傷ひとつついてない。","fr":"H… hmph ! Pas de quoi s'inquiéter.\nLes ailes de la grande Lumi n'ont même pas une égratignure."}
+{"id":1545490,"jp":"ふたりとも……ルミィを助けてくれてありがとうございます……\nこのライカウモがスーニヤに侵蝕されていたなんて、まったく気づきませんでした……","fr":"Merci à vous deux d'avoir sauvé Lumi…\nJe n'avais même pas senti que le Sunya avait gagné ce Raikaumo…"}
+{"id":1545491,"jp":"ロイレーはスーニヤの気配にとても敏感ですから。\nあの子と長く一緒にいるうちに、私もスーニヤにより敏感になりました。","fr":"Roiree sent la moindre présence de Sunya.\nÀ force de vivre avec elle, j'ai appris à le percevoir moi aussi."}
+{"id":1545492,"jp":"けれど、このあたりは人気のない郊外で、凶獣の痕跡もないわ。\nこのライカウモはどうして急に狂化したのかしら……","fr":"Pourtant, ce coin est désert et il n'y a aucune Trace de Bête maudite.\nQu'est-ce qui a bien pu rendre ce Raikaumo enragé du jour au lendemain… ?"}
+{"id":1545493,"jp":"まさか……『終刻の風塁』のスーニヤが、\n外部に影響を与えている？","fr":"Attends… Le Sunya du « Rempart des vents du dernier jour »\npourrait se propager au-delà du rempart ?"}
+{"id":1545494,"jp":"このライカウモの状況は、ロイレーとすこし似ています。\nもしかすると、これらはすべてスーニヤと関係があるのかもしれません……","fr":"Ce qui arrive à ce Raikaumo me rappelle un peu Roiree.\nLe Sunya pourrait bien être à l'origine de tout ça…"}
+{"id":1545495,"jp":"スーニヤに侵蝕された上に、縄張りに踏み込んだ輩にボコボコにされて、\n毛を抜き取られるなんて……なかなか気の毒なのだ。","fr":"Le Sunya lui tombe dessus, des intrus débarquent sur son territoire, le rossent,\net en plus on lui arrache des crins… Pauvre bête, quand même."}
+{"id":1545496,"jp":"そうですね……このまま放っておくわけにはいきません。\n傷の手当をしてあげましょう。","fr":"Oui… Il a besoin de nous.\nSoignons ses blessures."}
+{"id":1545497,"jp":"適量のたてがみを採集したあと、ライカウモを治療した。","fr":"Vous avez prélevé la quantité de crins nécessaire, puis soigné le Raikaumo."}
 {"id":1545498,"jp":"モォ～","fr":"Mooo~"}
+{"id":1545499,"jp":"ライカウモは回復したようです。\nもう商隊を襲うようなことが起きなければよいのですが。","fr":"On dirait que le Raikaumo a repris des forces.\nJ'espère que les caravanes pourront passer tranquillement à présent."}
+{"id":1545500,"jp":"そうね。スーニヤの問題については私から領主に伝えて、注意を払ってもらうわ。\n金麦穂カーニバルの期間中に、事故が起きては大変だもの。","fr":"Oui. Je vais prévenir le seigneur au sujet du Sunya pour que des précautions soient prises.\nUn accident en plein Carnaval de l'Épi doré, ce serait grave."}
+{"id":1545501,"jp":"とにかく、たてがみも手に入ったし、依頼も無事に完了したのだ！\nギルドに戻って報酬を受け取ろう！","fr":"Bon, on a les crins et la Mission est terminée !\nRetournons à la guilde chercher notre récompense !"}
+{"id":1545502,"jp":"うん。これで必要な素材もぜんぶ揃ったし。\nあとは準備するだけだよ！","fr":"Oui. On a tout ce qu'il nous faut maintenant.\nIl reste juste à préparer le tout !"}
+{"id":1545503,"jp":"それなら、あとは任せたわ。\n今日一日が無駄にならなければよいけれど。","fr":"Dans ce cas, je te laisse faire.\nPourvu que cette journée ait servi à quelque chose."}
+{"id":1545504,"jp":"{playerName}さま、気をつけてくださいね。","fr":"Soyez prudent… Prenez bien garde à vous, {playerName}."}
+{"id":1545505,"jp":"ロイレー、ほら。\nこれは、きみの大好きなハチミツのパンケーキだよ。","fr":"Tiens, Roiree, regarde.\nTes pancakes au miel préférés !"}
+{"id":1545506,"jp":"ロイレーが食べものに夢中になっている隙に、\nメルトレイクの清水をロイレーの体に噴きかけて、\nローブルのシャンプーを塗ってあげた。","fr":"Vous avez profité du moment où Roiree dévorait ses pancakes\npour l'asperger d'eau claire de Melt Lake,\npuis lui appliquer le shampoing au Lobul."}
+{"id":1545507,"jp":"素晴らしいです！ロイレーが嫌がらないなんて。","fr":"C'est merveilleux ! Roiree se laisse faire !"}
+{"id":1545508,"jp":"いい子いい子。ロイレー、力加減は大丈夫？","fr":"C'est bien, Roiree. Ça va, je frotte pas trop fort ?"}
+{"id":1545509,"jp":"とても幸せそうな顔をしていますね！\nよかった、ロイレー……","fr":"Regardez comme elle a l'air heureuse !\nJe suis si contente pour toi, Roiree…"}
+{"id":1545510,"jp":"本当にやってのけるなんて……","fr":"Qui aurait cru que ça marcherait…"}
+{"id":1545511,"jp":"だから言ったじゃないか。\n{playerName}はフツーじゃない、できないことなんてないのだ！","fr":"Qu'est-ce que la grande Lumi t'avait dit ?\n{playerName} a plus d'un tour dans son sac. Rien ne lui résiste !"}
+{"id":1545512,"jp":"さて。あとは綺麗な水で泡を洗い流せば終わりだよ。","fr":"Bon. On rince la mousse à l'eau claire et c'est fini."}
+{"id":1545513,"jp":"わかりました。\nさあ、ロイレー。流しますよーー","fr":"D'accord.\nAllez, Roiree, on rince…"}
+{"id":1545514,"jp":"ははっ！くすぐったいな。|ははっ！くすぐったいよ。","fr":"Ha ha ! Ça chatouille !|Ha ha ! Ça chatouille !"}
+{"id":1545515,"jp":"すごい……ロイレーが私以外にこんなに懐くのははじめてです。\nあなたのことが好きなんですね！","fr":"Incroyable… Je n'ai jamais vu Roiree se montrer aussi proche de quelqu'un d'autre que moi.\nElle vous aime beaucoup !"}
+{"id":1545516,"jp":"さっきロイレーに使ったものは、あなたが作ったの？","fr":"C'est toi qui as fabriqué ce que tu viens de mettre sur Roiree ?"}
+{"id":1545517,"jp":"うん。これは<color=#fed196>「ローブルアロマシャンプー」</color>。\nさっき採ったローブルの蜜を原料にしてるんだ。\nこれで体を洗えば、香りも長持ちするよ。|\nうん。これは<color=#fed196>「ローブルアロマシャンプー」</color>。\nさっき採ったローブルの蜜を原料にしてるの。\nこれで体を洗えば、香りも長持ちするよ。","fr":"Oui. C'est du <color=#fed196>« shampoing parfumé au Lobul »</color>.\nJe l'ai préparé avec le nectar de Lobul qu'on a récolté tout à l'heure.\nUne fois Roiree lavée, le parfum tiendra longtemps.|\nOui. C'est du <color=#fed196>« shampoing parfumé au Lobul »</color>.\nJe l'ai préparé avec le nectar de Lobul qu'on a récolté tout à l'heure.\nUne fois Roiree lavée, le parfum tiendra longtemps."}
+{"id":1545518,"jp":"これでロイレーはずっとローブルの香りに包まれていられる。","fr":"Comme ça, Roiree gardera près d'elle le parfum du Lobul."}
+{"id":1545519,"jp":"アロマシャンプー？よい名前ですね。\n心地よい香りと泡が舞って、まるで夢のようです。","fr":"Un shampoing parfumé ? Quel joli nom.\nCe parfum si doux, toutes ces bulles qui flottent… On se croirait dans un rêve."}
+{"id":1545520,"jp":"素晴らしい発明だわ。こんな方法を思いつくなんて……","fr":"Quelle belle invention ! Comment as-tu eu cette idée… ?"}
+{"id":1545521,"jp":"モーレン、どうやら勝負はこの方の勝ちですね。","fr":"Morwyn, je crois que vous avez perdu le pari."}
+{"id":1545522,"jp":"そうね。あなたは行動でみずからの価値を証明して見せた。\n潔く負けを認めるわ。","fr":"Oui. Tes actes ont prouvé ta valeur.\nJe reconnais ma défaite."}
+{"id":1545523,"jp":"さあ、望みを言いなさい。金？それとも地位？","fr":"Allez, dis-moi ce que tu veux. De l'or ? Un titre ?"}
+{"id":1545524,"jp":"そうだね……\nきみがシンフォーリアと友だちになってくれればいいと思うよ。","fr":"Voyons…\nJ'aimerais que tu deviennes amie avec Symphoria."}
+{"id":1545525,"jp":"{playerName}さま……それは……","fr":"{playerName}… Mais c'est…"}
+{"id":1545526,"jp":"友だち……？それがあなたの願いなの？","fr":"Amies… ? C'est vraiment ce que vous souhaitez ?"}
 {"id":1545527,"jp":"うん、どうかな？","fr":"Oui, qu'en dis-tu ?"}
+{"id":1545528,"jp":"ふふっ。モーレン、大変なことになりましたね。","fr":"Hihi. Vous voilà dans de beaux draps, Morwyn."}
+{"id":1545529,"jp":"はあ……まさかこんな結果になるなんて……","fr":"Ah… Je ne pensais vraiment pas que ça tournerait comme ça…"}
+{"id":1545530,"jp":"いったいなにを考えているのかしら。本当に読めないわ……\n金と地位を得る機会を捨てて、私をシンフォーリアの友にして？\nそれで、あなたになんの得があるというの？","fr":"Mais qu'est-ce qui vous passe par la tête ? Je n'arrive décidément pas à vous cerner…\nVous renoncez à la fortune et au prestige pour que Symphoria et moi devenions amies ?\nQu'est-ce que vous y gagnez, au juste ?"}
+{"id":1545531,"jp":"ふたりの誤解を解きたくて。","fr":"Je voulais dissiper le malentendu entre vous deux."}
+{"id":1545532,"jp":"エルフ同士、仲よくしてほしい。","fr":"J'aimerais que vous vous entendiez, entre Elfes."}
+{"id":1545533,"jp":"大層な思い上がりね……\nハイエルフとウッドエルフの確執は、あなたが思うほど単純なものではないの。","fr":"Quelle prétention…\nLa querelle entre les Hauts Elfes et les Elfes des bois est bien plus compliquée que vous ne le pensez."}
+{"id":1545534,"jp":"けれど、約束したことは守るわ。","fr":"Cela dit, je tiendrai parole."}
+{"id":1545535,"jp":"シンフォーリア……\nその、私の友になってもらえるかしら？","fr":"Symphoria…\nEst-ce que… vous voudriez bien être mon amie ?"}
+{"id":1545536,"jp":"断ったら許さないわよ……","fr":"Si vous refusez, je ne vous le pardonnerai pas…"}
 {"id":1545537,"jp":"ええ、もちろんです！","fr":"Oui, bien sûr !"}
+{"id":1545538,"jp":"よかったですね、モーレン！","fr":"Je suis ravie pour vous, Morwyn !"}
+{"id":1545539,"jp":"ウッドエルフと友になるなんて……\nこの人間に計られたわ。","fr":"Me voilà amie avec une Elfe des bois…\nJe me suis laissé prendre au jeu de cet être humain."}
+{"id":1545540,"jp":"けれど、私はハクオン家の継承者。約束を違えたりしない……","fr":"Mais je suis l'héritière de la maison Hakuon. Je ne manquerai pas à ma parole…"}
+{"id":1545541,"jp":"レンの名において……いまこの時から私はあなたの盟友よ。\n過去のわだかまりはすべて水に流すわ。","fr":"Au nom de Ren… À compter de cet instant, je suis votre alliée par serment.\nJe laisse derrière moi toutes nos rancunes."}
+{"id":1545542,"jp":"レンに感謝を。\nモーレン、どうか私の謝罪を受け入れてください。","fr":"Que Ren en soit remercié.\nMorwyn, je vous en prie, acceptez mes excuses."}
+{"id":1545543,"jp":"{playerName}……あなたはたしかに並外れた人間のようね。\n今日の記念に、ディナーをご一緒するのはどうかしら。","fr":"{playerName}… Vous êtes décidément un être humain hors du commun.\nEt si vous dîniez avec nous pour fêter ça ?"}
+{"id":1545544,"jp":"もちろんいいよ、もう仲間なんだから。","fr":"Bien sûr ! On est du même côté, maintenant."}
 {"id":1545545,"jp":"仲間、ね……","fr":"Des compagnons, hm…"}
+{"id":1545546,"jp":"私とシャルはメイメイハウスで待っているわ。\n必ず来るのよ。","fr":"Shalle et moi, nous vous attendrons à la Maison Meimei.\nNe nous faites pas faux bond."}
+{"id":1545547,"jp":"それでは、また後ほどお会いしましょう。","fr":"Alors, à tout à l'heure."}
+{"id":1545548,"jp":"ハイエルフからお誘いなんて、すごいことだぞ。","fr":"Une Haute Elfe qui t'invite à dîner, c'est pas rien !"}
+{"id":1545549,"jp":"{playerName}さま、私のためにたくさん心を砕いていただき、\nありがとうございます。","fr":"{playerName}, merci de vous être donné tant de mal\npour moi."}
+{"id":1545550,"jp":"僕がそうなればいいと思ったんだ。気にしないで。|私がそうなればいいと思ったの。気にしないで。","fr":"J'en avais envie, c'est tout. T'en fais pas.|J'en avais envie, c'est tout. T'en fais pas."}
+{"id":1545551,"jp":"こらこら～はやく行こう！おいしい料理が待ってるのだ！","fr":"Allez, allez, on se dépêche ! On va se régaler !"}
+{"id":1545552,"jp":"ハイエルフもこんな大衆レストランで食事をするのか？","fr":"Les Hauts Elfes mangent aussi dans des restos comme celui-là ?"}
+{"id":1545553,"jp":"ふん、私を温室育ちのお嬢さまだとでも思っているのかしら？\nそこまで甘やかされて育っていないわ。","fr":"Hum. Vous me prenez pour une demoiselle qui a grandi sous cloche ?\nOn ne m'a pas gâtée à ce point."}
+{"id":1545554,"jp":"それに、値付けと品質が釣り合っていないなんて、よくあることでしょう。\n私が求めているのは品質よ。値が高いだけの空虚な品はいらないわ。","fr":"Et puis, vous savez bien qu'un prix élevé ne garantit rien.\nMoi, je veux de la qualité. Les plats qui n'ont pour eux que leur prix, très peu pour moi."}
+{"id":1545555,"jp":"しばらく来ていなかったけれど、\nここの料理はフリスで一番おいしいのよ。","fr":"Ça faisait un moment que je n'étais pas venue,\nmais c'est ici qu'on mange le mieux à Fleece."}
+{"id":1545556,"jp":"ウェイター、メニューにある料理をすべて運んで。","fr":"Garçon, apportez-nous tous les plats de la carte."}
+{"id":1545557,"jp":"な、なんだと！？食べ切れるのか！？","fr":"Q-quoi ?! Tu vas vraiment manger tout ça ?!"}
+{"id":1545558,"jp":"心配いらないわ。シャルがいるもの。","fr":"Ne vous inquiétez pas. Shalle est là."}
+{"id":1545559,"jp":"モーレン！私を食いしん坊みたいに言わないでください！\n私はただエネルギーを消費するのが、すこしはやいだけで……","fr":"Morwyn ! Vous me faites passer pour une goinfre !\nJe dépense juste mon Énergie un peu plus vite, c'est tout…"}
+{"id":1545560,"jp":"ライカウモの一撃を防ぐほどの力ですから……納得できますね。","fr":"Quand on a la force de parer un coup de Raikaumo… Je comprends mieux."}
+{"id":1545561,"jp":"席に着きなさい。\n今日のディナーは私がご馳走するわ。思う存分食べてちょうだい。","fr":"Installez-vous.\nCe soir, c'est moi qui régale. Mangez autant que vous voulez."}
+{"id":1545562,"jp":"なによ、私たちはもう友なのでしょう？\nそんなふうに遠慮した物言いはやめてちょうだい。","fr":"Eh bien, nous sommes amies maintenant, vous vous souvenez ?\nVous pouvez me parler franchement."}
+{"id":1545563,"jp":"うわぁ……すごい量だぞ……","fr":"Waouh… Il y en a pour un régiment…"}
+{"id":1545564,"jp":"それでは、いただきますね。","fr":"Eh bien, bon appétit."}
+{"id":1545565,"jp":"シャル、私たちのことは気にせず食べなさい。","fr":"Shalle, mange. Ne t'occupe pas de nous."}
 {"id":1545566,"jp":"よーし、あたしも！","fr":"Allez, moi aussi !"}
+{"id":1545567,"jp":"シンフォーリア、いまなら、あのときの質問に答えてもらえるかしら？","fr":"Symphoria, maintenant qu'on y est, vous pouvez répondre à la question que je vous ai posée tout à l'heure ?"}
 {"id":1545568,"jp":"あのときの質問？","fr":"La question de tout à l'heure ?"}
+{"id":1545569,"jp":"この人間はいったい、何者なの？","fr":"Qui est donc cet être humain ?"}
+{"id":1545570,"jp":"通りすがりに会ったなんて、すぐにわかるような嘘でごまかさないで。\n私が信じないのはわかっているでしょう。","fr":"Ne me ressortez pas que vous vous êtes croisés par hasard. Ça se voit que c'est faux.\nVous savez très bien que je ne vous croirai pas."}
 {"id":1545571,"jp":"その……この方は……","fr":"C'est que… cette personne est…"}
+{"id":1545572,"jp":"シンフォーリア、自分で答えるよ。","fr":"Symphoria, laisse-moi répondre."}
+{"id":1545573,"jp":"実は記憶がないんだ。|実は記憶がないの。","fr":"En fait, j'ai perdu la mémoire.|En fait, j'ai perdu la mémoire."}
+{"id":1545574,"jp":"自分がだれかわからないんだ。|自分がだれかわからないの。","fr":"Je sais pas qui je suis.|Je sais pas qui je suis."}
 {"id":1545575,"jp":"記憶がない……？","fr":"Aucun souvenir… ?"}
+{"id":1545576,"jp":"まさか……記憶喪失だとでも言うの？","fr":"Attendez… Vous voulez dire que vous êtes amnésique ?"}
+{"id":1545577,"jp":"うん。目が覚めたら知らない森のなかにいて、自分がだれなのかまったく思い出せなかったんだ……|うん。目が覚めたら知らない森のなかにいて、自分がだれなのかまったく思い出せなかったの……","fr":"Oui. J'ai ouvert les yeux dans une forêt que je connaissais pas, et j'arrivais pas du tout à me rappeler qui j'étais…|Oui. J'ai ouvert les yeux dans une forêt que je connaissais pas, et j'arrivais pas du tout à me rappeler qui j'étais…"}
+{"id":1545578,"jp":"運よく、任務中だったシンフォーリアとルミィが僕を見つけて、助けてくれたけど。|運よく、任務中だったシンフォーリアとルミィが私を見つけて、助けてくれたけど。","fr":"Heureusement, Symphoria et Lumi étaient en mission dans le coin. C'est comme ça qu'elles m'ont trouvé et m'ont porté secours.|Heureusement, Symphoria et Lumi étaient en mission dans le coin. C'est comme ça qu'elles m'ont trouvé et m'ont porté secours."}
+{"id":1545579,"jp":"状況を聞いたふたりは、ロースランサに連れて行ってくれると約束してくれた。\nハイガーデンなら、記憶を取り戻す方法があるって。","fr":"Quand je leur ai expliqué, elles m'ont promis de m'emmener à Lors Lains.\nD'après elles, à Haut-Jardin, il y aurait un moyen de retrouver la mémoire."}
+{"id":1545580,"jp":"だから、記憶を取り戻すために、一緒に旅をしてるんだ。|だから、記憶を取り戻すために、一緒に旅をしてるの。","fr":"C'est pour ça qu'on voyage ensemble. J'espère retrouver la mémoire.|C'est pour ça qu'on voyage ensemble. J'espère retrouver la mémoire."}
+{"id":1545581,"jp":"ふむ……嘘はないでしょうね？","fr":"Mmh… Vous ne me mentez pas, au moins ?"}
+{"id":1545582,"jp":"うむうむ！全部ほんとーのことなのだ！","fr":"Oui, oui ! Tout est vrai, juré !"}
+{"id":1545583,"jp":"レンに誓って、嘘は一切ありません。","fr":"Je le jure par Ren. Tout est vrai."}
+{"id":1545584,"jp":"……わかったわ、とりあえず信じることにしましょう。","fr":"… Très bien. Pour l'instant, je vous crois."}
+{"id":1545585,"jp":"あなたたちがただの通りすがりの関係なら、\n私も遠慮する必要がなくなったわね。\n{playerName}さん、私と取引をしましょう？","fr":"Si vous vous êtes simplement rencontrés par hasard,\nje n'ai plus de raison de me retenir.\n{playerName}, si nous faisions affaire ?"}
 {"id":1545586,"jp":"取引？","fr":"Un marché ?"}
+{"id":1545587,"jp":"そう。あなたのすべてを買いたいの。\n値段はあなたが決めていいわ。","fr":"Oui. Je veux vous acheter. Tout ce que vous êtes.\nVous fixerez le prix."}
+{"id":1545588,"jp":"僕の……すべて？|私の……すべて？","fr":"Tout ce que… je suis ?|Tout ce que… je suis ?"}
+{"id":1545589,"jp":"ちょっ、ちょっと待つのだ！\n{playerName}を買いたいって言うのか！？","fr":"A-attends un peu !\nTu veux acheter {playerName} ?!"}
+{"id":1545590,"jp":"そう。その知恵、才能、そしてあなた自身すべてを。","fr":"Oui. Votre intelligence, vos talents et votre personne tout entière."}
+{"id":1545591,"jp":"人間のなかで傑出した存在であるこの者が、埋もれるなんて許せないわ。\n私とともにアヴァリアンへ来なさい。きっとあなたの才覚が活かせるはずよ。","fr":"Vous vous distinguez parmi les êtres humains. Je ne laisserai pas vos talents passer inaperçus.\nVenez avec moi à Avalian. Là-bas, vous aurez de quoi les mettre à profit."}
+{"id":1545592,"jp":"それはいけません！\n{playerName}さまは私とともにハイガーデンに帰るのですから！","fr":"Hors de question !\n{playerName} rentre avec moi à Haut-Jardin !"}
+{"id":1545593,"jp":"あら、どうして？\nハイガーデンの賢者たちが、余所者の人間を助けるわけがないでしょう。\nあなたたちが連れ帰ったところで無駄足だわ。","fr":"Ah bon ? Et pourquoi ?\nLes sages de High Garden ne lèveront pas le petit doigt pour un être humain venu d'ailleurs.\nVous aurez fait tout ce chemin pour rien."}
+{"id":1545594,"jp":"けれど、アヴァリアンは違う。\nハクオン家の名誉にかけて誓うわ。\nあなたの記憶を取り戻し、病を治すために全力を尽くすことを。","fr":"À Avalian, c'est différent.\nJe te le jure sur l'honneur de la maison Hakuon.\nJe ferai tout pour te rendre la mémoire et te guérir."}
+{"id":1545595,"jp":"いいえ、だって、{playerName}さまは……","fr":"Non, parce que {playerName}…"}
 {"id":1545596,"jp":"だって？","fr":"Parce que ?"}
+{"id":1545597,"jp":"と、とにかくいけません！\nもう友になったとはいえ、{playerName}さまのことに関しては、\n絶対に譲ることはできません！","fr":"E-enfin, c'est hors de question !\nNous sommes amies, c'est vrai. Mais quand il s'agit de {playerName},\nje ne céderai pas !"}
+{"id":1545598,"jp":"この者をハクオン家の参謀として推挙するわ。\n後継者である私の最も忠実なパートナーとして、栄華を極めるのよ。\n人間にとって、これ以上の名誉はないわ。","fr":"Je proposerai ta nomination au poste de stratège de la maison Hakuon.\nJe suis l'héritière. Si tu me secondes avec la plus grande loyauté, tu atteindras le sommet de la gloire.\nUn être humain ne peut rêver de plus grand honneur."}
+{"id":1545599,"jp":"{playerName}さん、どうかしら？10億<color=#fed196>10億</color>で足りる？","fr":"Alors, {playerName} ? Un milliard… <color=#fed196>Un milliard</color>, ça te suffit ?"}
+{"id":1545600,"jp":"じゅっ……10億だと！？\nそ、そんなの、見たことも聞いたこともない額だぞ！？","fr":"U-un… un milliard ?!\nLa grande Lumi a jamais vu une somme pareille ! Elle savait même pas que ça se disait !"}
+{"id":1545601,"jp":"見直したと思ったのに。そうやってすぐに本性を見せるんですね。\n{playerName}さまは商品ではありません！","fr":"Et dire que j'avais changé d'avis sur vous. Vous avez vite fait de montrer votre vrai visage.\n{playerName} n'est pas à vendre !"}
+{"id":1545602,"jp":"そうだそうだ、{playerName}の価値は金で測れるものじゃないのだ！","fr":"Mais oui ! Il y a des choses que l'argent ne peut pas acheter. {playerName} en fait partie !"}
+{"id":1545604,"jp":"{playerName}！こっちを見るのだ！","fr":"{playerName} ! Regarde par ici !"}
+{"id":1545605,"jp":"どう？あなたの条件を言ってみなさい。","fr":"Alors ? Dis-moi à quelles conditions tu accepterais."}
+{"id":1545606,"jp":"えっと……僕は……|えっと……私は……","fr":"Euh… Moi, je…|Euh… Moi, je…"}
 {"id":1545607,"jp":"僕――|私――","fr":"Moi…|Moi…"}
 {"id":1545608,"jp":"これは、なんの音！？","fr":"C'est quoi, ce bruit !?"}
 {"id":1545609,"jp":"街の外からだわ！","fr":"Ça vient de l'extérieur de la ville !"}
 {"id":1545610,"jp":"行ってみるのだ！","fr":"Allons voir !"}
 {"id":1545611,"jp":"あそこ！見るのだ！","fr":"Là-bas ! Regardez !"}
 {"id":1545612,"jp":"群衆の声","fr":"Voix de la foule"}
+{"id":1545613,"jp":"うわあああ！\n飛空船が爆発したぞ！！","fr":"Aaaah !\nLe dirigeable a explosé !"}
+{"id":1545614,"jp":"なにも、変わっていない——","fr":"Rien n'a changé…"}
+{"id":1545615,"jp":"炎が再び空を赤く染め上げた……","fr":"Les flammes ont de nouveau embrasé le ciel…"}
+{"id":1545616,"jp":"自由と奔放を象徴するあの姿が、\nまた渦の中心で犠牲となった……","fr":"Cette silhouette qui incarnait la liberté, qui n'obéissait à rien ni à personne,\nle tourbillon l'a de nouveau engloutie…"}
+{"id":1545617,"jp":"そして今度もまた、私は手をこまねいて、\n世界の悪意を受け入れるしかないの？","fr":"Et cette fois encore, il va falloir que je reste les bras croisés\net que j'accepte toute la cruauté de ce monde ?"}
+{"id":1545618,"jp":"答えて、アイオリアン——","fr":"L'Éolien, réponds-moi…"}
+{"id":1545619,"jp":"凄まじい火の勢いです……\nどうして、こんなことに……","fr":"Le feu est d'une violence…\nComment est-ce arrivé ?"}
+{"id":1545620,"jp":"後になさい。まずは火を消さなくては！\n麦畑まで燃え広がれば、手がつけられなくなるわ！","fr":"On verra ça plus tard. Il faut d'abord éteindre le feu !\nS'il gagne les champs de blé, on ne pourra plus l'arrêter !"}
+{"id":1545621,"jp":"ロイレーと空から状況を確認してきます！\n飛空船の内部にまだ生存者がいるかもしれません！","fr":"Je vais survoler les lieux avec Roiree !\nIl y a peut-être encore des survivants dans le dirigeable !"}
+{"id":1545622,"jp":"ええ！お願いね、シャル。","fr":"Oui ! Je compte sur toi, Shalle."}
+{"id":1545623,"jp":"ルミィさまは消火の役には立てないぞ！\n風魔法なんか使ったら、もっと手に負えなくなるからな。","fr":"La grande Lumi pourra pas vous aider à éteindre le feu !\nAvec sa magie du vent, les flammes se propageraient encore plus vite."}
+{"id":1545624,"jp":"近くの川から、水を引いてくれば――","fr":"Si on amenait de l'eau de la rivière, juste à côté…"}
+{"id":1545625,"jp":"おい！貴様らそこでなにをしている！道を塞ぐな！","fr":"Hé ! Qu'est-ce que vous fichez là ? Dégagez le passage !"}
+{"id":1545626,"jp":"その格好……ロージア帝国の者ね？","fr":"À en juger par l'uniforme… Vous êtes de l'Empire de Rosia ?"}
+{"id":1545627,"jp":"いかにも。我々は事故現場の封鎖を命じられている。\n以後、本件はロージア帝国の管轄だ。部外者はいますぐ立ち去れ！","fr":"Exact. Nous avons ordre de boucler le périmètre de l'accident.\nDésormais, c'est l'affaire de l'Empire de Rosia. Si vous n'avez rien à y faire, évacuez sur-le-champ !"}
+{"id":1545628,"jp":"誤解しないでください。\n私たちはただ消火の手伝いに来たのです！","fr":"Il y a un malentendu.\nNous sommes simplement là pour vous aider à éteindre le feu !"}
+{"id":1545629,"jp":"手伝いだと？必要ない。\nこの事故に関しては、すべてこちらで対処する！","fr":"Nous aider ? On n'a pas besoin de vous.\nOn s'occupe de tout !"}
+{"id":1545630,"jp":"たった数名でのろのろと火を消すつもり？\n命が懸かっている一刻を争う状況なのよ！\n助力を受け入れなさい。","fr":"Vous comptez vraiment venir à bout de ce feu à votre rythme, à si peu ?\nDes vies sont en jeu, chaque seconde compte !\nLaissez-nous vous aider."}
+{"id":1545631,"jp":"だれだ貴様は！余計な口を挟むな。","fr":"Pour qui tu te prends ? Mêle-toi de tes affaires !"}
+{"id":1545632,"jp":"私はハクオン家の次期当主、モーレンよ！","fr":"Morwyn. Je suis la prochaine à prendre la tête de la maison Hakuon !"}
+{"id":1545633,"jp":"この船は帝国の所有だ。\n貴様がだれであろうと、干渉する権利はない！","fr":"Ce dirigeable appartient à l'Empire.\nQui que tu sois, tu n'as aucun droit d'intervenir !"}
+{"id":1545634,"jp":"けれど、ここはフリスの領地よ。\n消火の遅れが更なる惨事を招いたら……責任を取れるのかしら？","fr":"Sauf qu'ici, vous êtes sur les terres de Fleece.\nSi le feu fait d'autres victimes à force d'attendre… vous en prendrez la responsabilité ?"}
+{"id":1545635,"jp":"そのような問題は帝国とフリスの間で協議される。\n我々はただ命令に従うだけだ。","fr":"C'est une question qui se réglera entre l'Empire et Fleece.\nNous, on suit les ordres."}
 {"id":1545636,"jp":"話にならないわね……","fr":"On n'en tirera rien…"}
 {"id":1545637,"jp":"みんなー！","fr":"Tout le monde !"}
 {"id":1545638,"jp":"コムギたちなのだ！","fr":"C'est Komugi et les autres !"}
+{"id":1545639,"jp":"おい！{playername}！","fr":"Hé ! {playername} !"}
+{"id":1545640,"jp":"ものすごい音がしたな！\n街のみんなも飛空船が落ちてきたって騒いでてさ！\n急いで手伝いにきたんだ！","fr":"Quel boucan, hein !\nToute la ville parle du dirigeable qui s'est écrasé !\nOn est venus en courant pour vous donner un coup de main !"}
+{"id":1545641,"jp":"街中のブルーダとブルーシィグナも連れてきたの！\nこの子たちも消火を手伝ってくれるわ！","fr":"J'ai amené tous les Bluda et les Blue Cygna de la ville !\nEux aussi, ils vont nous aider à éteindre le feu !"}
+{"id":1545642,"jp":"皆さん、よいところに……！","fr":"Vous tous… Vous arrivez à point nommé !"}
+{"id":1545643,"jp":"なんのつもりだ！\n貴様ら、全員いますぐ立ち去れ！","fr":"À quoi vous jouez ?\nFichez-moi le camp, tous, et tout de suite !"}
 {"id":1545644,"jp":"獣人ごときが……","fr":"De simples Furriens…"}
+{"id":1545645,"jp":"お待ちください。あちらはフリス領主の孫娘……\n余計な揉めごとは避けるべきでは。","fr":"Attendez. C'est la petite-fille du seigneur de Fleece…\nMieux vaut éviter de faire des histoires."}
+{"id":1545646,"jp":"みんな、ここはわたしが引き受けるから、\n消火と救助をお願い！","fr":"Je m'occupe d'eux.\nVous autres, allez éteindre le feu et porter secours aux victimes !"}
+{"id":1545647,"jp":"飛空船の本体はわたしたちに任せてちょうだい。\n麦畑や延焼した場所の消火をお願いできるかしら？","fr":"Laisse-nous nous occuper du dirigeable.\nTu peux éteindre les foyers dans les champs de blé et partout où le feu s'est propagé ?"}
+{"id":1545648,"jp":"ありがとう。ブルーダたちを連れて行って。\nきっと役に立ってくれるはずよ！","fr":"Merci. Emmène les Bluda avec toi.\nIls te donneront un bon coup de main !"}
 {"id":1545649,"jp":"グワッ！","fr":"Coin !"}
+{"id":1545650,"jp":"よーし！さすがブルーダ！","fr":"Bien joué, les Bluda !"}
 {"id":1545651,"jp":"いけいけ！ブルーダ！","fr":"Allez, allez ! Bluda !"}
 {"id":1545652,"jp":"グワーッ！","fr":"Gwaah !"}
+{"id":1545653,"jp":"えらいぞ！あとちょっとなのだ！","fr":"Bravo ! Encore un petit effort !"}
+{"id":1545654,"jp":"このあたりの火は消し止められたね……","fr":"Le feu est éteint par ici…"}
+{"id":1545655,"jp":"この子たちも限界のようです。\nゆっくり休ませてあげましょう。","fr":"Ces petits-là ont l'air à bout de forces.\nLaissons-les se reposer."}
+{"id":1545656,"jp":"ありがとう、ブルーダ！","fr":"Merci, les Bluda !"}
 {"id":1545657,"jp":"みんなえらい！","fr":"Vous êtes tous formidables !"}
+{"id":1545658,"jp":"よし、戻るぞ！\n飛空船の様子を見に行くのだ！","fr":"Allez, on retourne voir\ncomment ça se passe du côté du dirigeable !"}
+{"id":1545659,"jp":"皆さん、麦畑への飛び火は消し止めました。\nこちらの状況はどうですか？","fr":"J'ai éteint les foyers qui s'étaient déclarés dans les champs de blé.\nComment ça se passe de votre côté ?"}
+{"id":1545660,"jp":"飛空船があまりにも大きくて……\nその上、麦畑が天然の燃料となってしまっているから、\nなかなか火の勢いが収まらないわ。","fr":"Le dirigeable est tellement grand…\nEt le blé qui brûle tout autour nourrit les flammes.\nOn a du mal à faire baisser le feu."}
+{"id":1545661,"jp":"キボのみんな！あとちょっとよ！","fr":"Allez, les Kibo ! On y est presque !"}
 {"id":1545662,"jp":"ダック！","fr":"Canard !"}
+{"id":1545663,"jp":"モーレン！この火の勢いでは\n私もロイレーも近づくことができません！","fr":"Morwyn ! Avec des flammes pareilles,\nRoiree et moi, on ne peut pas approcher !"}
+{"id":1545664,"jp":"キボたちだけでは手に負えそうにないわね。\nほかの手も考えなければ……","fr":"Les Kibo n'y arriveront pas tout seuls.\nIl faut trouver autre chose…"}
+{"id":1545665,"jp":"街のみんなにも声をかけて、手伝ってもらおう！","fr":"Allons chercher du renfort en ville !"}
 {"id":1545666,"jp":"フォ〜ウゥー","fr":"Fou~ouuu"}
 {"id":1545667,"jp":"この声は……まさか！","fr":"Cette voix… Ce n'est pas possible !"}
+{"id":1545668,"jp":"あれは……広場にあった彫刻のキボ？","fr":"C'est… le Kibo de la statue sur la place ?"}
+{"id":1545669,"jp":"あれはアマルテイア……フリスの<color=#fed196>『恩寵の甘露』</color>。","fr":"C'est Amalthea… Le <color=#fed196>« Nectar de la grâce »</color> de Fleece."}
+{"id":1545670,"jp":"アマルテイア！手伝ってくれるの？","fr":"Amalthea ! Tu viens nous aider ?"}
 {"id":1545671,"jp":"雨だ！雨が降ってきたのだ！","fr":"La pluie ! Il se met à pleuvoir !"}
 {"id":1545672,"jp":"フゥ～","fr":"Fuuu~"}
 {"id":1545683,"jp":"どういう意味かしら？","fr":"Qu'est-ce que ça veut dire ?"}
@@ -52476,10 +52655,60 @@
 {"id":1552020,"jp":"……おぬしの父は、あらゆる試練において極めて優秀な成績を収めていた。","fr":"… Ton père avait obtenu des résultats exceptionnels à chacune des épreuves."}
 {"id":1552021,"jp":"完璧な飛行経路、だれにも超えられない『ソザンカのはしご』、\nさらには試練の敵も『鷹神の守護者』も、一切の隙を見せることなく打ち負かしてみせた。","fr":"Une trajectoire de vol irréprochable, une performance inégalée à l'« Échelle de Sozanka »…\nIl avait même vaincu les adversaires des épreuves et le « Gardien du dieu Faucon » sans jamais laisser la moindre ouverture."}
 {"id":1552022,"jp":"飛翔の儀で、皆の予想を遥かに超える力を発揮したのだ。\nそれまではおぬしと同じように、まだ子供っぽさが残っていたはずなのにな。","fr":"Lors du Rituel de l'envol, il avait déployé une force dépassant de loin toutes nos attentes.\nEt pourtant, jusque-là, il avait conservé un côté bien enfantin, tout comme toi."}
+{"id":1552023,"jp":"その後、彼は翼人を守ることを自らの使命とし、\n毎日、労を惜しまず訓練に励み、戦い、さらに些細なことまで全力を尽くしたのだ……","fr":"Par la suite, il s'était donné pour mission de protéger les Ailés.\nChaque jour, il s'entraînait sans relâche, combattait et donnait le meilleur de lui-même, jusque dans les tâches les plus insignifiantes…"}
+{"id":1552024,"jp":"ミィティ、おぬしは彼の誇りだった。身を挺して戦う理由そのものだったのだ。","fr":"Mitty, tu étais sa plus grande fierté. Tu étais la raison même pour laquelle il se battait au péril de sa vie."}
+{"id":1552025,"jp":"父の歩みを引き継ぎ、優れた翼人となれ。\nこの飛翔の儀で自分が戦うべき目標を見つけ出すのだ。","fr":"Suis les traces de ton père et deviens une Ailée digne de ce nom.\nPuisses-tu découvrir, au cours de ce Rituel de l'envol, ce pour quoi tu souhaites te battre."}
+{"id":1552026,"jp":"お父さん……わかりました、ザッハ長老。\n絶対に期待を裏切りません……アタシは……必ずその意志を受け継ぎます。","fr":"Papa… J'ai compris, ancien Zaha.\nJe ne décevrai pas vos attentes… Je… Je poursuivrai son œuvre, quoi qu'il arrive."}
+{"id":1552027,"jp":"フラミー、飛翔の儀を全力でやり遂げるわよ！\nお父さんの記録を超えるためにもね！","fr":"Flammy, on va tout donner pour réussir le Rituel de l'envol !\nEt on va même battre le record de papa !"}
 {"id":1552028,"jp":"やる気満々だね！","fr":"Quelle motivation !"}
+{"id":1552029,"jp":"もちろんよ！それじゃあもう時間だし、行こう、フラミー！\n星臨者も、はやく来てよね！","fr":"Évidemment ! Bon, c'est presque l'heure. En route, Flammy !\nEt toi aussi, Enfant des étoiles, dépêche-toi de nous rejoindre !"}
+{"id":1552030,"jp":"色々ありがとう、ザッハ長老。それじゃあね。","fr":"Merci pour tout, ancien Zaha. À bientôt !"}
 {"id":1552031,"jp":"イェクウ……","fr":"Yekuu…"}
+{"id":1552032,"jp":"……色々と感謝している……凶神のこと、そしてミィティのこと……","fr":"… Je te suis reconnaissant pour bien des choses… Pour le dieu maléfique, mais aussi pour Mitty…"}
+{"id":1552033,"jp":"僕はできることをしただけだよ。\nここは僕にとっても特別な意味を持つ場所だからね。|私はできることをしただけだよ。\nここは私にとっても特別な意味を持つ場所だからね。","fr":"Je n'ai fait que ce qui était en mon pouvoir.\nCet endroit compte beaucoup pour moi aussi, tu sais.|Je n'ai fait que ce qui était en mon pouvoir.\nCet endroit compte beaucoup pour moi aussi, tu sais."}
+{"id":1552034,"jp":"そうそう、新しい野菜肉団子はもうすぐ入荷するはずだから。楽しみにしててね。","fr":"Ah, au fait, la prochaine livraison de boulettes de viande aux légumes devrait bientôt arriver. Tu vas pouvoir te régaler !"}
+{"id":1552035,"jp":"ほう、それはなんと……\nコホンッ！……ふん、口が達者なやつよ。","fr":"Oh, voilà une excellente nouvelle…\nAhem !… Humph, tu as décidément la langue bien pendue."}
+{"id":1552036,"jp":"飛翔の儀の準備は整った。","fr":"Tout est prêt pour le Rituel de l'envol."}
+{"id":1552037,"jp":"ミィティ、落ち着いてやればきっと大丈夫ですよ！","fr":"Mitty, gardez votre calme et tout se passera bien !"}
+{"id":1552038,"jp":"そうそう、緊張するなよ！\nいつもアタシとやりあってるときみたいにすれば、きっと楽勝だよ！","fr":"Exactement ! Te mets pas la pression !\nFais comme quand on s'affronte à l'entraînement, et ce sera du gâteau !"}
+{"id":1552039,"jp":"シンフォーリア先生、それにテララも……ふたりとも来てくれたのね……","fr":"Maîtresse Symphoria… Et Terara aussi… Vous êtes venues toutes les deux…"}
+{"id":1552040,"jp":"みんな安心して、僕が練習の相手をしたからね。\nいまのミィティならきっと大丈夫。|みんな安心して、私が練習の相手をしたからね。\nいまのミィティならきっと大丈夫。","fr":"Ne vous inquiétez pas, Mitty s'est entraînée avec moi.\nJe sais qu'elle a tout ce qu'il faut pour réussir.|Ne vous inquiétez pas, Mitty s'est entraînée avec moi.\nJe sais qu'elle a tout ce qu'il faut pour réussir."}
+{"id":1552041,"jp":"星臨者さまが練習相手だったんですか？","fr":"C'est avec vous que Mitty s'est entraînée, Enfant des étoiles ?"}
+{"id":1552042,"jp":"なるほど！それでミィティはあんなに自信満々だったんだな。","fr":"Ah, je comprends mieux ! C'est pour ça que Mitty avait autant confiance en elle !"}
+{"id":1552043,"jp":"練習って……アンタは別になにもしてないじゃない！","fr":"Comment ça, entraînée !? Mais t'as absolument rien fait !"}
+{"id":1552044,"jp":"……あ……で、でも、星臨者……","fr":"… Ah… M-Mais, Enfant des étoiles…"}
+{"id":1552045,"jp":"……ありがとう、勇気をくれて。","fr":"… Merci de m'avoir donné du courage."}
+{"id":1552046,"jp":"アタシの飛翔の儀に来てくれて……\nそしてアタシの成長を見守ってくれて……ホントに嬉しかった……","fr":"Que tu sois là pour mon Rituel de l'envol…\nEt que tu aies suivi tous mes progrès… Ça m'a vraiment fait plaisir…"}
+{"id":1552047,"jp":"ミィティはもうとっくに立派なおとなになってたよ。","fr":"Tu es devenue une adulte accomplie depuis bien longtemps déjà, Mitty."}
+{"id":1552048,"jp":"この飛翔の儀で、みんなにも立派に成長したミィティを見せよう。","fr":"Maintenant, profite de ce Rituel de l'envol pour montrer à tout le monde le chemin que tu as parcouru."}
+{"id":1552049,"jp":"星臨者……うん、頑張るわ！","fr":"Enfant des étoiles… Oui, je vais tout donner !"}
+{"id":1552050,"jp":"……では時間だ、ミィティ。準備はいいか？","fr":"… L'heure est venue, Mitty. Es-tu prête ?"}
 {"id":1552051,"jp":"はいっ！","fr":"Oui !"}
+{"id":1552052,"jp":"天を舞う鷹神よ、翼人ミィティは覚悟を決めた。\n飛翔の儀を――これより開始する！","fr":"Ô dieu Faucon qui plane dans les cieux, l'Ailée Mitty a pris sa résolution.\nQue le Rituel de l'envol commence !"}
 {"id":1552053,"jp":"ふぅ……いくわよ！","fr":"Ouf… J'y vais !"}
+{"id":1552054,"jp":"最高記録にはすこし及ばない……が、実に見事だったぞ、ミィティ！","fr":"Tu n'as manqué le record que de peu… Mais ta prestation était tout simplement remarquable, Mitty !"}
+{"id":1552055,"jp":"やっぱり、お父さんの記録は破れなかったのね……","fr":"Finalement, je n'ai pas réussi à battre le record de papa…"}
+{"id":1552056,"jp":"……でも、必ず追いついてみせるわ。それまで、全力で飛び続けるからね、お父さん！","fr":"… Mais je te rattraperai un jour, je te le promets. D'ici là, je continuerai à voler de toutes mes forces, papa !"}
+{"id":1552057,"jp":"アタシ、やったわよ！飛翔の儀に合格したんだから！","fr":"J'ai réussi ! J'ai passé le Rituel de l'envol !"}
+{"id":1552058,"jp":"おめでとうございます、ミィティ！絶対にできると信じていましたよ！","fr":"Félicitations, Mitty ! J'ai toujours cru en vous !"}
+{"id":1552059,"jp":"実に見事だった。これまでの訓練や努力がついに実を結んだな。","fr":"C'était remarquable. Tous tes entraînements et tes efforts ont enfin porté leurs fruits."}
+{"id":1552060,"jp":"やっぱり朝飯前だったじゃん！これでミィティももう立派なおとなだな！","fr":"Je t'avais bien dit que ce serait du gâteau ! Ça y est, Mitty, te voilà vraiment adulte !"}
+{"id":1552061,"jp":"星臨者も見てくれた？アタシ、みんなの期待に応えられたわよね？","fr":"T'as vu ça, Enfant des étoiles ? J'ai été à la hauteur des attentes de tout le monde, hein ?"}
+{"id":1552062,"jp":"ミィティはやっぱりすごいね。","fr":"Décidément, tu es incroyable, Mitty."}
+{"id":1552063,"jp":"僕も飛翔の儀をやってみたいな。|私も飛翔の儀をやってみたいな。","fr":"J'aimerais bien tenter le Rituel de l'envol, moi aussi.|J'aimerais bien tenter le Rituel de l'envol, moi aussi."}
+{"id":1552064,"jp":"そ、それは当然に決まってるでしょ。みんなそう言ってるんだし！","fr":"C-C'est évident, voyons ! Tout le monde le dit, de toute façon !"}
+{"id":1552065,"jp":"飛翔の儀をやりたいの？それなら、星臨者は頑張って翼を生やさないとね。","fr":"Tu veux tenter le Rituel de l'envol ? Dans ce cas, il va falloir faire de gros efforts pour te faire pousser des ailes, Enfant des étoiles !"}
+{"id":1552066,"jp":"星臨者、<ruby=ホークガル>鷹主</ruby>さま、シンフォーリア先生……アタシ、試練のなかで進むべき道を見つけたの――","fr":"Enfant des étoiles, Seigneur Faucon, Maîtresse Symphoria… Pendant les épreuves, j'ai enfin trouvé la voie que je voulais suivre…"}
+{"id":1552067,"jp":"アタシは、お父さんみたいなすごい翼人になって、翼人を守って、この谷を守ってみせるわ！","fr":"Je vais devenir une Ailée aussi extraordinaire que mon père ! Je protégerai les Ailés et toute cette vallée !"}
+{"id":1552068,"jp":"……あれ？えっと、なんでいまアタシの名前だけなかったんだ？","fr":"… Hein ? Euh, pourquoi je suis la seule dont t'as pas cité le nom ?"}
+{"id":1552069,"jp":"……だって、アンタは獣人を守るんでしょ？だから……一緒に頑張るわよ。","fr":"… Parce que toi, tu vas protéger les Furriens, pas vrai ? Alors… On va se battre ensemble pour y arriver."}
+{"id":1552070,"jp":"はは、じゃあ約束だぞ！","fr":"Ahaha, alors c'est promis !"}
+{"id":1552071,"jp":"……え？あ、あれは……？","fr":"… Hein ? M-Mais qu'est-ce que c'est… ?"}
+{"id":1552072,"jp":"上空をピーチィの群れが通過していった。","fr":"Une nuée de Peachies est passée au-dessus de vos têtes."}
+{"id":1552073,"jp":"あれは、つぎの住処へ向かうピーチィの大群だ。","fr":"C'est une grande nuée de Peachies qui migre vers son prochain habitat."}
+{"id":1552074,"jp":"「翼あるキボの世界では群れについていけない個体は生き残れない。それが、空の掟だ」……","fr":"« Dans le monde des Kibo ailés, ceux qui ne parviennent pas à suivre leur groupe ne survivent pas. Telle est la loi du ciel. »…"}
+{"id":1552075,"jp":"……フラミー、あの大群についていきなさい。","fr":"… Flammy, va rejoindre cette nuée."}
+{"id":1552076,"jp":"これはフラミーの飛翔の儀よ。その力を、思いきり見せてきて！\nずっと心に引っかかってたこと、ちゃんと乗り越えるの！","fr":"C'est à ton tour de passer le Rituel de l'envol, Flammy. Va leur montrer de quoi tu es capable !\nIl est temps de surmonter ce qui te pèse sur le cœur depuis si longtemps !"}
 {"id":1552124,"jp":"ベリンダ","fr":"Belinda"}
 {"id":1552125,"jp":"ねえ、あなたたち……","fr":"Dites, vous tous…"}
 {"id":1552137,"jp":"首飾り？","fr":"Un collier ?"}
