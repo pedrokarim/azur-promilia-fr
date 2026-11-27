@@ -51277,7 +51277,57 @@
 {"id":1546760,"jp":"とりあえず2本試してみよう！","fr":"Allez, je vais en prendre deux bouteilles pour essayer !"}
 {"id":1546761,"jp":"激辛ぶどうジュース？\nああ、飲んでみたいな。インスピレーションが爆発するかも……\n僕も買ってみなくては！","fr":"Du jus de raisin extra-pimenté ?\nOh, j'aimerais bien y goûter. Cela pourrait provoquer une véritable explosion d'inspiration…\nIl faut absolument que j'en achète moi aussi !"}
 {"id":1546762,"jp":"あの女のひとは？","fr":"Et cette femme ?"}
+{"id":1546763,"jp":"『漂流ブック』さんは激辛ぶどうジュースを飲んだあと、\nものすごい速さで走って行っちゃったの……\nあれはもう文学少女じゃない！鍛えたひとの走りだったよ！","fr":"Après avoir bu son jus de raisin extra-pimenté, notre lectrice des « livres voyageurs »\nest partie en courant à une vitesse incroyable…\nCe n'était plus une fille passionnée de littérature, c'était une véritable athlète !"}
+{"id":1546764,"jp":"おなかの調子が悪くなったのかもね……\nあんなぶどうジュースを飲んだんだし……","fr":"Elle a peut-être eu mal au ventre…\nAprès avoir bu un pareil jus de raisin, ça ne serait pas étonnant…"}
+{"id":1546765,"jp":"侠客さん、うち、このふたりの縁\nなんだかちょっとおかしい気がするの。","fr":"Âme chevaleresque, j'ai l'impression\nqu'il y a quelque chose d'anormal dans le lien qui unit ces deux-là."}
+{"id":1546766,"jp":"僕はもう仙狐に『万事順調』の札を授かっているんだ。\nおかしいことなどあるはずがない。","fr":"Une renarde céleste m'a déjà accordé un talisman de « réussite en toutes choses ».\nIl ne peut absolument rien y avoir d'anormal."}
+{"id":1546767,"jp":"えっ？うちはそんなことした覚えないよ？","fr":"Hein ? Pourtant, je ne me souviens pas d'avoir fait ça !"}
+{"id":1546768,"jp":"ん？いやいや、僕は最近フリスで大人気の『仙狐』さまに頼んだんだよ。","fr":"Hmm ? Mais non, j'ai fait appel à la « renarde céleste » qui fait tant parler d'elle à Fleece ces derniers temps."}
+{"id":1546769,"jp":"大切なものを仙狐さまに預けると、\n陣を敷いて術をかけ、悩みを解決してくれる。","fr":"Il suffit de confier un objet précieux à cette vénérable renarde céleste.\nElle trace alors un cercle, lance un sort et résout tous vos problèmes."}
+{"id":1546770,"jp":"その仙狐さまがどんな法陣を敷いたのか、うちにも見せてくれない？","fr":"Tu pourrais me montrer quel genre de cercle de sortilège cette renarde céleste a tracé ?"}
+{"id":1546771,"jp":"いや、僕も見たことはないんだ。\n仙狐さまは、見たら効力がなくなると言っていた。","fr":"Non, je ne l'ai jamais vu moi-même.\nLa renarde céleste m'a expliqué qu'il perdrait son pouvoir si je posais les yeux dessus."}
+{"id":1546772,"jp":"それでもいいの。そのときあったことを思い出してみて。\nうちがすこし術をかけてみるから。","fr":"Ce n'est pas grave. Essaie simplement de te souvenir de ce qui s'est passé à ce moment-là.\nJe vais essayer un petit sortilège."}
+{"id":1546773,"jp":"あれ？おかしいな……\nこのひとが結ばれてるのは、善縁じゃないみたい……","fr":"Hein ? C'est étrange…\nLe lien qui unit cet homme à quelqu'un ne semble pas être de bon augure…"}
+{"id":1546774,"jp":"やっぱりなにか怪しい感じ？","fr":"Il y a donc bien quelque chose de louche ?"}
+{"id":1546775,"jp":"うーん、だれかに干渉された跡が……\n本来なら繋がってるはずの縁が、なにかの力で途切れちゃってる……","fr":"Mmmh, je distingue les Traces d'une intervention extérieure…\nUn lien qui aurait naturellement dû les unir a été rompu par une force inconnue…"}
+{"id":1546776,"jp":"そんな馬鹿な……\n『仙狐』さまは、僕の友人の問題を解決してくれたんだ。\nきみが言うようなことをするはずがない。","fr":"C'est absurde…\nLa vénérable « renarde céleste » a résolu les problèmes d'un de mes amis.\nElle ne ferait jamais une chose pareille."}
+{"id":1546777,"jp":"怪しいのはきみのほうだろう。さっきから怪しげなことばかり……\nいや、もういい、執筆に戻らないと……\n最初から話すべきじゃなかった。","fr":"C'est plutôt toi qui es suspecte. Depuis tout à l'heure, tu ne fais que des choses étranges…\nEnfin, peu importe. Il faut que je retourne à mes écrits…\nJe n'aurais jamais dû t'en parler."}
+{"id":1546778,"jp":"待ってってば！\nなんでふたりとも、すぐにどっか行っちゃうの！？","fr":"Mais attends, enfin !\nPourquoi vous passez tous les deux votre temps à filer comme ça ?!"}
+{"id":1546779,"jp":"これも、ふたりに縁がある証拠かな。","fr":"C'est peut-être une preuve supplémentaire du lien qui les unit."}
+{"id":1546780,"jp":"本来なら結ばれるはずのふたりが、\nなぜか偽仙狐の悪縁に絡め取られてしまったなんて……","fr":"Ces deux-là étaient destinés à se rencontrer,\nmais les voilà inexplicablement pris au piège des liens funestes de cette fausse renarde céleste…"}
+{"id":1546781,"jp":"この世のすべて『縁』が、うちと侠客さんのように、\n強くてはっきりしていればいいのに。","fr":"Si seulement tous les « liens » de ce monde pouvaient être\naussi forts et limpides que celui qui nous unit, Âme chevaleresque."}
 {"id":1546782,"jp":"これからどうする？","fr":"Que fait-on maintenant ?"}
+{"id":1546783,"jp":"そうだね……あの偽仙狐の痕跡を見つけたけど、\n相手の実力がまだわからないし、軽はずみに戦いを挑むべきじゃないかも……","fr":"C'est vrai… On a retrouvé les Traces de cette fausse renarde céleste,\nmais on ignore encore l'étendue de ses pouvoirs. Mieux vaut ne pas l'affronter inconsidérément…"}
+{"id":1546784,"jp":"うちの修行はまだまだ終わらないよ！\n侠客さん！これからも手伝ってね！","fr":"Mon Entraînement est encore loin d'être terminé !\nÂme chevaleresque ! Tu continueras à m'aider, hein ?"}
+{"id":1546785,"jp":"侠客さん、あの偽仙狐の法陣は、いまのうちにはもう通用しないよ！","fr":"Âme chevaleresque, le cercle de sortilège de cette fausse renarde céleste ne fait plus le poids face à moi !"}
+{"id":1546786,"jp":"『漂流ブック』さんが落としたしおりには、ふたりの縁が刻まれてた。\nその糸を読み解いて、最終的にたどり着いたのがここーー","fr":"Le lien qui unit ces deux-là était gravé dans le marque-page perdu par notre lectrice des « livres voyageurs ».\nJ'ai déchiffré les fils de ce lien, et voilà où ils m'ont finalement menée…"}
+{"id":1546787,"jp":"変な円……真ん中にあるのは……2冊の本？","fr":"Un drôle de cercle… Et au milieu… Deux livres ?"}
+{"id":1546788,"jp":"これは『101回目の脱出』と『放浪記』だね……\nあのふたりが読んだ本じゃなかったっけ？","fr":"Ce sont « La 101e évasion » et les « Chroniques d'un vagabond »…\nCe ne sont pas les livres que ces deux-là ont lus ?"}
+{"id":1546789,"jp":"偽仙狐の法陣が、ふたりの縁を無理やり引き離してる……","fr":"Le cercle de sortilège de cette fausse renarde céleste les empêche de se rapprocher en brisant de force le lien qui les unit…"}
+{"id":1546790,"jp":"まえまでのうちの法力だったら、あの偽物に騙されてたかも……\nでも、いまはもう、そんなことないもんね～えへへっ！","fr":"Avec les pouvoirs que j'avais avant, cette imposture aurait peut-être réussi à me tromper…\nMais maintenant, c'est une autre histoire ! Héhé !"}
+{"id":1546791,"jp":"もちろん、この法陣を破るの！\nうちの成長を見届けて！さあて、くらえ！仙狐爆砕拳～！","fr":"Mais évidemment, je vais briser ce cercle de sortilège !\nRegarde un peu les progrès que j'ai faits ! Allez, prends ça ! Poing explosif de la renarde céleste !"}
+{"id":1546792,"jp":"すごい煙！あっちでなにが起きてるの？\nまるで『101回目の脱出』の結末シーンそのものね……","fr":"Toute cette fumée ! Que se passe-t-il là-bas ?\nOn dirait la scène finale de « La 101e évasion »…"}
+{"id":1546793,"jp":"あれは……『漂流ブック』さんだ！|あれは……『漂流ブック』さん！","fr":"Mais c'est… Notre lectrice des « livres voyageurs » !|Oh… Notre lectrice des « livres voyageurs » !"}
+{"id":1546794,"jp":"すごい音だな。なにがあったのか見に行こう。\nひょっとしたらインスピレーションが湧くかもしれない！","fr":"Quel vacarme ! Allons voir ce qui s'est passé.\nPeut-être que cela me donnera de l'inspiration !"}
+{"id":1546795,"jp":"レッチルファニーパンさんも。","fr":"Et voilà aussi notre amateur de pain fantaisie Retchil."}
+{"id":1546796,"jp":"小玉、いまこそふたりを引き合わせる絶好のチャンスだよ。","fr":"Xiaoyu, c'est le moment idéal pour les faire se rencontrer."}
+{"id":1546797,"jp":"侠客さん、うちの修行の成果を信じてくれる？","fr":"Âme chevaleresque, tu crois aux progrès que j'ai accomplis grâce à mon Entraînement ?"}
+{"id":1546798,"jp":"もう一度、縁が結ばれたなら\nうちがなにもしなくても、あのふたりは巡り会うことになる。","fr":"Si leur lien a vraiment été renoué,\nces deux-là finiront par se rencontrer sans que j'aie besoin d'intervenir."}
+{"id":1546799,"jp":"だから、ここで見守ろう。","fr":"Alors, restons ici et regardons ce qui va se passer."}
+{"id":1546800,"jp":"これは……わたしが仙狐さまに託した『放浪記』？\nまさかここが、仙狐さまの『法陣』が張られている場所だったの？","fr":"Mais ce sont… Les « Chroniques d'un vagabond » que j'avais confiées à la renarde céleste ?\nSerait-ce ici qu'elle avait tracé son « cercle de sortilège » ?"}
+{"id":1546801,"jp":"あの仙狐さまが陣を張ったのは朝だったのか午後だったのか。\nそれとも、もしかして夜？","fr":"Je me demande si cette renarde céleste a tracé son cercle dans la matinée ou dans l'après-midi.\nOu peut-être même en pleine nuit ?"}
+{"id":1546802,"jp":"『法陣』は破れてしまっているようだ……\n人間が壊したのか、獣人が壊したのか……","fr":"Le « cercle de sortilège » semble avoir été détruit…\nJe me demande si c'est l'œuvre d'un être humain ou d'un Furrien…"}
+{"id":1546803,"jp":"わたしもそれが気になっているの！もしかして、あなた……","fr":"Je me posais exactement la même question ! Seriez-vous par hasard…"}
+{"id":1546804,"jp":"（彼は『夏の夜風』なの？\nでも仙狐さまの法陣が破れてしまったなら、彼にはもう会えないはずよ……）","fr":"(Serait-il « Brise nocturne d'été » ?\nMais si le cercle de sortilège de la renarde céleste a été détruit, je ne devrais plus pouvoir le rencontrer…)"}
+{"id":1546805,"jp":"（そうね……この世に『放浪記』みたいに\n偶然に満ちた物語があるわけないわ……）","fr":"(Bien sûr… Une histoire aussi riche en coïncidences que les « Chroniques d'un vagabond »\nne pourrait jamais se produire dans la réalité…)"}
+{"id":1546806,"jp":"（本を持って行って、仙狐さまにもう一度、術をお願いしなきゃ……）","fr":"(Il faut que je rapporte le livre à la renarde céleste pour lui demander de renouveler son sortilège…)"}
+{"id":1546807,"jp":"待ってくれ。きみが持っているその本は、僕が書いたものなんだ。\nだれがここに置いていったのか知らないが……\nもしよかったら、返してもらえないか？","fr":"Attendez ! Le livre que vous tenez entre vos mains, c'est moi qui l'ai écrit.\nJ'ignore qui a bien pu le laisser ici…\nPourriez-vous me le rendre, si cela ne vous dérange pas ?"}
+{"id":1546808,"jp":"こ、こ、こここれ、あなたが書いたものなの！？\nまさか、あなたは本当に『夏の夜風』！？","fr":"C-C-C'est vraiment vous qui avez écrit ce livre ?!\nVous êtes donc réellement « Brise nocturne d'été » ?!"}
+{"id":1546809,"jp":"たしかに僕のペンネームだ。この本を読んだことがあるのか？","fr":"C'est effectivement mon nom de plume. Vous avez déjà lu ce livre ?"}
+{"id":1546810,"jp":"わわわわたし、毎回あなたが送った本を受け取っていた読者なの！\nあなたの作品が大好きで、自分も『冬日の雪』というペンネームをつけたの！","fr":"J-J-Je suis la lectrice qui a reçu chacun des livres que vous avez envoyés !\nJ'aime tellement vos œuvres que j'ai moi-même adopté le nom de plume « Neige d'un jour d'hiver » !"}
+{"id":1546811,"jp":"きみが『冬日の雪』か！","fr":"C'est donc vous, « Neige d'un jour d'hiver » !"}
+{"id":1546812,"jp":"僕も毎回あなたの本を受け取っていたんだ。\nあなたがほかの本につけた評価や疑問が、\n僕に『101回目の脱出』と『放浪記』を書くきっかけを与えてくれた！","fr":"Moi aussi, j'ai reçu chacun des livres que vous avez envoyés.\nCe sont vos commentaires et vos interrogations sur les autres ouvrages\nqui m'ont donné l'idée d'écrire « La 101e évasion » et les « Chroniques d'un vagabond » !"}
+{"id":1546813,"jp":"それに、手紙ですすめてくれたレッチルファニーパンも、\n食べるたびにたくさんのユニークなインスピレーションを与えてくれる！","fr":"Et ce fameux pain fantaisie Retchil que vous m'aviez recommandé dans votre lettre,\nil me donne une foule d'idées originales chaque fois que j'en mange !"}
 {"id":1546816,"jp":"ふたり","fr":"Les deux"}
 {"id":1546817,"jp":"きみの名は……","fr":"Ton nom est…"}
 {"id":1546832,"jp":"気高い少女の声","fr":"Voix de la jeune fille noble"}
