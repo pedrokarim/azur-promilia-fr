@@ -57089,28 +57089,53 @@
 {"id":1556992,"jp":"廃墟の下層へ向かう","fr":"Aller au niveau inférieur des ruines"}
 {"id":1556995,"jp":"進化教団を倒す","fr":"Vaincre le Culte de l'Évolution"}
 {"id":1556996,"jp":"翼人と話す","fr":"Parler aux Ailés"}
+{"id":1557000,"jp":"棘付きの防衛柵を設置する（1/2）","fr":"Installer les barrières défensives à pointes (1/2)"}
+{"id":1557001,"jp":"矢塔を建設する（0/2）","fr":"Construire les tours de flèches (0/2)"}
 {"id":1557002,"jp":"矢塔を建設する","fr":"Construire des tours de flèches"}
+{"id":1557003,"jp":"矢塔を建設する（1/2）","fr":"Construire les tours de flèches (1/2)"}
+{"id":1557004,"jp":"第2防衛線を構築する（0/2）","fr":"Établir la deuxième ligne de défense (0/2)"}
+{"id":1557005,"jp":"第2防衛線を構築する（1/2）","fr":"Établir la deuxième ligne de défense (1/2)"}
+{"id":1557006,"jp":"フラムールの罠を設置する","fr":"Installer le piège à Flamur"}
 {"id":1557007,"jp":"罠を仕掛ける","fr":"Poser un piège"}
+{"id":1557008,"jp":"スタンシアの罠を設置する","fr":"Installer le piège à Stancia"}
 {"id":1557009,"jp":"木の下で休む","fr":"Se reposer sous l'arbre"}
 {"id":1557010,"jp":"村長らと話す","fr":"Parler au chef du village et aux autres"}
+{"id":1557011,"jp":"獣人の陣地にある聖樹の楔を守る","fr":"Protéger le coin de l'arbre sacré dans le camp des Furriens"}
+{"id":1557012,"jp":"聖樹の楔の防衛へ向かう","fr":"Aller défendre le coin de l'arbre sacré"}
+{"id":1557013,"jp":"カルマーナ陣地へ向かう","fr":"Se rendre au camp de Karmana"}
+{"id":1557014,"jp":"カルマーナ陣地の聖樹の楔を守る","fr":"Protéger le coin de l'arbre sacré du camp de Karmana"}
 {"id":1557015,"jp":"神鷹の陣地へ向かう","fr":"Aller au camp du Dieu Faucon"}
+{"id":1557016,"jp":"鷹神陣地の聖樹の楔を守る","fr":"Protéger le coin de l'arbre sacré du camp du dieu Faucon"}
+{"id":1557017,"jp":"戦線の状況を村長に尋ねる","fr":"Interroger le Chef du village sur la situation au front"}
 {"id":1557018,"jp":"獣人の陣地を守る","fr":"Défendre le camp des Furriens"}
 {"id":1557019,"jp":"陣地の防衛を開始する","fr":"Commencer à défendre le camp"}
+{"id":1557020,"jp":"テララ、ミィティと話す","fr":"Parler à Terara et à Mitty"}
 {"id":1557021,"jp":"禁域へ突入する","fr":"Foncer dans la zone interdite"}
 {"id":1557022,"jp":"始源の祭壇へ向かう","fr":"Aller à l'autel originel"}
+{"id":1557023,"jp":"途中のスーニヤに侵蝕されたエリアを浄化する","fr":"Purifier la zone corrompue par le Sunya sur le chemin"}
 {"id":1557024,"jp":"守衛を倒す","fr":"Vaincre le gardien"}
+{"id":1557025,"jp":"1つ目のカルマドレイナーを破壊する","fr":"Détruire le premier Draineur de Karma"}
+{"id":1557026,"jp":"2つ目のカルマドレイナーを破壊する","fr":"Détruire le deuxième Draineur de Karma"}
+{"id":1557027,"jp":"3つ目のカルマドレイナーを破壊する","fr":"Détruire le troisième Draineur de Karma"}
 {"id":1557028,"jp":"源流の地へ向かう","fr":"Aller au pays de la source"}
 {"id":1557029,"jp":"源流の地を離れる","fr":"Quitter le pays de la source"}
 {"id":1557030,"jp":"獣人の陣地に戻る","fr":"Retourner au camp des Furriens"}
 {"id":1557031,"jp":"祭り会場へ向かう","fr":"Aller sur le lieu de la fête"}
 {"id":1557032,"jp":"エテルナと話す","fr":"Parler à Eterna"}
 {"id":1557033,"jp":"大狼と対面する","fr":"Faire face au Grand Loup"}
+{"id":1557034,"jp":"シャルル村の入り口へ向かう","fr":"Se rendre à l'entrée du Village de Charlulu"}
 {"id":1557035,"jp":"広場の中央に向かう","fr":"Aller au centre de la place"}
+{"id":1557036,"jp":"タナの火祭りに参加する","fr":"Participer à la fête du feu de Tana"}
 {"id":1557037,"jp":"フリスへ向かう","fr":"Aller à Fleece"}
+{"id":1557038,"jp":"助けを求める声を確認しに向かう","fr":"Aller voir d'où proviennent les appels à l'aide"}
 {"id":1557039,"jp":"赤蠍団の下っ端を倒す","fr":"Vaincre les sbires des Scorpions rouges"}
 {"id":1557040,"jp":"エツィオを倒す","fr":"Vaincre Ezio"}
 {"id":1557041,"jp":"行商の状況を確認する","fr":"Vérifier la situation du colporteur"}
+{"id":1557042,"jp":"迷子になったトランゴを探す","fr":"Retrouver le Trango égaré"}
 {"id":1557043,"jp":"地面の痕跡を調べる","fr":"Examiner les traces sur le sol"}
+{"id":1557044,"jp":"引き続きトランゴを探す","fr":"Poursuivre les recherches du Trango"}
+{"id":1557045,"jp":"トランゴの位置を確認する","fr":"Localiser le Trango"}
+{"id":1557046,"jp":"ウルが見つけた場所へ向かう","fr":"Se rendre à l'endroit découvert par Uru"}
 {"id":1557047,"jp":"トランゴを連れて帰る","fr":"Ramener Trango"}
 {"id":1557048,"jp":"荘園へ向かう","fr":"Aller au domaine"}
 {"id":1557049,"jp":"農園に入る","fr":"Entrer dans la ferme"}
@@ -57118,36 +57143,61 @@
 {"id":1557051,"jp":"フリス市街へ出発する","fr":"Partir pour la ville de Fleece"}
 {"id":1557052,"jp":"領主との謁見を待つ","fr":"Attendre l'audience avec le seigneur"}
 {"id":1557053,"jp":"領主に謁見する","fr":"Être reçu par le seigneur"}
+{"id":1557054,"jp":"ホールに戻り、仲間たちと話し合う","fr":"Retourner dans la salle et discuter avec vos compagnons"}
 {"id":1557055,"jp":"冒険者ギルドへ向かう","fr":"Aller à la Guilde des aventuriers"}
 {"id":1557056,"jp":"領主邸に入る","fr":"Entrer dans le manoir du seigneur"}
 {"id":1557057,"jp":"客間を歩き回る","fr":"Faire le tour du salon d'accueil"}
 {"id":1557058,"jp":"モーキュンを調べる","fr":"Examiner Mokyun"}
+{"id":1557059,"jp":"ランプブラックへ向かう","fr":"Se rendre à Lampblack"}
+{"id":1557060,"jp":"ロビーに戻り、仲間たちと相談する","fr":"Retourner dans le hall et consulter vos compagnons"}
+{"id":1557061,"jp":"コムギについていき、フリス市街を観光する","fr":"Suivre Komugi pour visiter la ville de Fleece"}
+{"id":1557062,"jp":"カルノン療養院を見て回る","fr":"Visiter le centre de soins de Carnon"}
 {"id":1557063,"jp":"冒険者ギルドに向かう","fr":"Aller à la Guilde des aventuriers"}
+{"id":1557064,"jp":"冒険者ギルドを見て回る","fr":"Visiter la Guilde des aventuriers"}
 {"id":1557065,"jp":"市庁舎へ向かう","fr":"Aller à l'hôtel de ville"}
 {"id":1557066,"jp":"市庁舎を見て回る","fr":"Faire le tour de l'hôtel de ville"}
 {"id":1557067,"jp":"中央広場へ向かう","fr":"Aller à la place centrale"}
 {"id":1557068,"jp":"中央広場を見て回る","fr":"Faire le tour de la place centrale"}
 {"id":1557069,"jp":"食品店を覗いてみる","fr":"Jeter un œil dans la boutique d'alimentation"}
+{"id":1557070,"jp":"ランプブラックへ出発する","fr":"Partir pour Lampblack"}
 {"id":1557071,"jp":"採鉱場の入口へ向かう","fr":"Aller à l'entrée de la mine"}
+{"id":1557072,"jp":"ランプブラック採鉱場へ向かう","fr":"Se rendre à la mine de Lampblack"}
 {"id":1557073,"jp":"採鉱場の状況を調べる","fr":"Examiner la situation à la mine"}
+{"id":1557074,"jp":"採鉱場の奥へ進む方法を探す","fr":"Trouver un moyen de progresser dans les profondeurs de la mine"}
 {"id":1557075,"jp":"緩んだ石積みを調べる","fr":"Examiner la maçonnerie desserrée"}
+{"id":1557076,"jp":"アルマロの力を借りて、石を砕く","fr":"Utiliser la force d'Armaro pour briser le rocher"}
 {"id":1557077,"jp":"採鉱場の奥深くに入る","fr":"S'enfoncer dans la mine"}
 {"id":1557078,"jp":"採鉱場の奥を調べる","fr":"Explorer le fond de la mine"}
 {"id":1557079,"jp":"サピッツを追い払う","fr":"Chasser les Sapittsu"}
+{"id":1557080,"jp":"引き続き採鉱場の奥を調査する","fr":"Poursuivre l'exploration des profondeurs de la mine"}
+{"id":1557081,"jp":"アルマロの力を借りて、鉱車を突き飛ばす","fr":"Utiliser la force d'Armaro pour repousser le wagonnet"}
 {"id":1557082,"jp":"採鉱場の奥深くへ進む","fr":"S'enfoncer plus loin dans la mine"}
+{"id":1557083,"jp":"閉ざされた木の扉を調べる","fr":"Examiner la porte en bois fermée"}
 {"id":1557084,"jp":"扉を開く方法を探す","fr":"Chercher comment ouvrir la porte"}
 {"id":1557085,"jp":"精金鉱を調べる","fr":"Examiner le minerai d'or raffiné"}
 {"id":1557086,"jp":"襲ってきたキボを倒す","fr":"Vaincre le Kibo qui attaque"}
+{"id":1557087,"jp":"倒れている者の様子を確認する","fr":"Vérifier l'état de la personne au sol"}
 {"id":1557088,"jp":"閉ざされた大門を開く","fr":"Ouvrir la grande porte scellée"}
+{"id":1557089,"jp":"スイッチを起動し、吊り橋を下ろす","fr":"Actionner le mécanisme pour abaisser le pont suspendu"}
+{"id":1557090,"jp":"アルマロの力を借りて、閃硝鉱を砕く","fr":"Utiliser la force d'Armaro pour briser le minerai de salpêtre scintillant"}
+{"id":1557091,"jp":"中央エリアへ向かい、鉱員を救出する","fr":"Se rendre dans la zone centrale et secourir les mineurs"}
 {"id":1557092,"jp":"グランザロスを倒す","fr":"Vaincre Granzaros"}
+{"id":1557093,"jp":"採鉱場の最下層へ向かう","fr":"Se rendre au niveau le plus profond de la mine"}
+{"id":1557094,"jp":"暴れるキボを倒し、宝箱を調べる","fr":"Vaincre les Kibo enragés et examiner le coffre au trésor"}
 {"id":1557095,"jp":"宝箱を調べる","fr":"Examiner le coffre au trésor"}
+{"id":1557096,"jp":"アルマロの力を借りて、石を突き飛ばす","fr":"Utiliser la force d'Armaro pour dégager le rocher"}
 {"id":1557097,"jp":"サピッツの駆逐","fr":"Chasser les Sapittsu"}
 {"id":1557098,"jp":"石壁を砕いて先へ進む","fr":"Briser le mur de pierre et avancer"}
+{"id":1557099,"jp":"閉じた大門を開けてみる","fr":"Essayer d'ouvrir le grand portail"}
 {"id":1557100,"jp":"扉を開ける方法を探す","fr":"Chercher comment ouvrir la porte"}
 {"id":1557101,"jp":"魂火の呪符を獲得する","fr":"Obtenir le talisman de feu d'âme"}
 {"id":1557102,"jp":"大門を開けに向かう","fr":"Aller ouvrir la grande porte"}
 {"id":1557103,"jp":"蘭家の村を探索する","fr":"Explorer le village de la famille Lan"}
+{"id":1557104,"jp":"奇妙な見た目のキボを撃退する","fr":"Repousser les Kibo à l'apparence étrange"}
+{"id":1557105,"jp":"『輪廻』の力を使って、井戸を調べる","fr":"Utiliser le pouvoir du « cycle des réincarnations » pour examiner le puits"}
 {"id":1557106,"jp":"井戸を調べる","fr":"Examiner le puits"}
+{"id":1557107,"jp":"『輪廻』の力を使って、揺れる柱を調べる","fr":"Utiliser le pouvoir du « cycle des réincarnations » pour examiner le pilier oscillant"}
+{"id":1557108,"jp":"新しい能力を使って、蘭家の村を探索する","fr":"Explorer le village de la famille Lan à l'aide de votre nouvelle capacité"}
 {"id":1557109,"jp":"亡霊の影を追う","fr":"Suivre l'ombre du fantôme"}
 {"id":1557110,"jp":"大時計の間を調べる","fr":"Examiner la salle de la grande horloge"}
 {"id":1557112,"jp":"影絵芝居の舞台に入る","fr":"Monter sur la scène du théâtre d'ombres"}
