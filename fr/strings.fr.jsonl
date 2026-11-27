@@ -58044,28 +58044,72 @@
 {"id":1557953,"jp":"厨房へ戻る","fr":"Retourner à la cuisine"}
 {"id":1557954,"jp":"兵舎を出る","fr":"Quitter la caserne"}
 {"id":1557955,"jp":"訓練場へ向かう","fr":"Aller au terrain d'entraînement"}
+{"id":1557956,"jp":"灶娘のメッセージを確認する","fr":"Consulter le message de Zao Niang"}
+{"id":1557957,"jp":"勝利を収め、訓練を完了する","fr":"Remporter la victoire et terminer l'entraînement"}
+{"id":1557958,"jp":"あたりを調査して、小玉を探す","fr":"Fouiller les environs à la recherche de Xiaoyu"}
 {"id":1557959,"jp":"近くの新兵と話す","fr":"Parler à la recrue voisine"}
 {"id":1557960,"jp":"竈娘を探す","fr":"Chercher Zao Niang"}
 {"id":1557961,"jp":"小玉に追いつく","fr":"Rattraper Xiaoyu"}
 {"id":1557962,"jp":"郭小宝を見つける","fr":"Trouver Guo Xiaobao"}
 {"id":1557963,"jp":"最後の時刻に向かう","fr":"Aller vers la dernière heure"}
+{"id":1557964,"jp":"分厚い家族宛の手紙の束","fr":"Épaisse liasse de lettres destinées à la famille"}
+{"id":1557965,"jp":"暖を取るための焚き火を調べる","fr":"Examiner le feu de camp servant à se réchauffer"}
 {"id":1557966,"jp":"凶獣を倒して先へ進む","fr":"Vaincre les Bêtes maudites et continuer"}
 {"id":1557967,"jp":"先へ進み、小宝を探す","fr":"Continuer et chercher Xiaobao"}
 {"id":1557968,"jp":"悪縁を断つ","fr":"Rompre les liens funestes"}
 {"id":1557969,"jp":"ミィティを尾行する","fr":"Filer Mitty"}
+{"id":1557970,"jp":"襲いくる凶獣を撃退する","fr":"Repousser les Bêtes maudites qui vous attaquent"}
 {"id":1557971,"jp":"次回の襲撃を待つ","fr":"Attendre la prochaine attaque"}
+{"id":1557972,"jp":"空から襲いくる凶獣を撃退する","fr":"Repousser les Bêtes maudites qui attaquent depuis les airs"}
+{"id":1557973,"jp":"襲いくるエリート凶獣を撃退する","fr":"Repousser les Bêtes maudites d'élite qui vous attaquent"}
+{"id":1557974,"jp":"翼人を手助けして凶獣を撃退する","fr":"Aider les Ailés à repousser les Bêtes maudites"}
 {"id":1557975,"jp":"魔法攻撃を回避する","fr":"Esquiver les attaques magiques"}
+{"id":1557976,"jp":"チェシャバットを追い払う","fr":"Chasser le Cheshabat"}
+{"id":1557977,"jp":"イザベルの『宝物』を集める","fr":"Rassembler les « trésors » d'Isabel"}
 {"id":1557978,"jp":"居峡関を立ち去る","fr":"Quitter le col de Juxia"}
 {"id":1557979,"jp":"庭師の身分を確認する","fr":"Vérifier l'identité du jardinier"}
+{"id":1557980,"jp":"小玉と一緒に約束の場所へ向かう","fr":"Se rendre au lieu convenu en compagnie de Xiaoyu"}
 {"id":1557981,"jp":"星の旅歌","fr":"Chant du voyage stellaire"}
 {"id":1557982,"jp":"旅路の余韻","fr":"Échos du voyage"}
 {"id":1557983,"jp":"イベントクエスト","fr":"Quêtes d'événement"}
 {"id":1557984,"jp":"キャラクエスト","fr":"Quêtes de personnage"}
 {"id":1557985,"jp":"集会所","fr":"Salle de réunion"}
 {"id":1557986,"jp":"ガイド","fr":"Guide"}
+{"id":1557987,"jp":"キャバードは飛べるが、翼ではなく、頭のキャベツを回転させて飛び立つ。","fr":"Les Cabbird savent voler, mais ils n'utilisent pas leurs ailes. Pour décoller, ils font tourner le chou qu'ils portent sur la tête."}
+{"id":1557988,"jp":"ガヤックはおとなしくて力持ち。大陸で最も頼りになる貨物輸送キボの一種――ただし、おなかがいっぱいのときに限ります。","fr":"Dociles et puissants, les Gayak comptent parmi les Kibo les plus fiables du continent pour le transport de marchandises… À condition d'avoir le ventre plein !"}
+{"id":1557989,"jp":"キボの能力をうまく活用すれば、この世界をよりスムーズに探索できるよ。","fr":"En exploitant judicieusement les capacités de tes Kibo, tu pourras explorer ce monde beaucoup plus facilement."}
+{"id":1557990,"jp":"スターリンクする時はターゲットとなるキボのHPが低いほど成功率が高くなります……ですが、やりすぎには注意してくださいね。","fr":"Lorsque vous établissez un Lien stellaire, plus les PV du Kibo ciblé sont faibles, plus vos chances de réussite sont élevées… Veillez toutefois à ne pas aller trop loin."}
 {"id":1557991,"jp":"スターリンクの力を強化、またはより高レアリティのステラカードを使用することで、キボのスターリンク成功率を上げられます。","fr":"Renforcer ta puissance de Lien stellaire ou utiliser une carte Stella plus rare augmente tes chances de réussir un Lien stellaire avec un Kibo."}
+{"id":1557992,"jp":"探索で集めたさまざまな資源は、農園の建設に役立ちます！","fr":"Les différentes ressources récoltées au cours de vos explorations vous seront utiles pour aménager votre ferme !"}
+{"id":1557993,"jp":"同じ属性の刻印は重ねがけをすることで、より強力な刻印効果をもたらします。","fr":"Cumuler plusieurs Sceaux du même élément permet d'obtenir des effets de Sceau plus puissants."}
+{"id":1557994,"jp":"ネビュリオンは神出鬼没で、通常は週に2回、芽吹の谷のランダムな場所に現れます。","fr":"Insaisissable, le Nebulion apparaît généralement deux fois par semaine à des endroits aléatoires de la Vallée des Bourgeons."}
+{"id":1557995,"jp":"モフリーネは神出鬼没で、通常は週に2回だけ、フリスのランダムな場所に現れます。","fr":"Insaisissable, le Downybrinny n'apparaît généralement que deux fois par semaine à des endroits aléatoires de Fleece."}
+{"id":1557996,"jp":"アマルテイアやセレーシャといった特殊な存在もスターリンクできますが、1つの周期につき1回までです。","fr":"Il est également possible d'établir un Lien stellaire avec des êtres particuliers comme Amalthea et Celesha, mais seulement une fois par cycle."}
+{"id":1557997,"jp":"「星旅の記録」クエストをクリアしたり、依頼ダンジョンをクリアしたり、より多くのキボとスターリンクすることで星識レベルを上げられます。星臨者様、さっそく試してみましょう！","fr":"Vous pouvez augmenter votre niveau de Savoir stellaire en terminant les quêtes de la Chronique du voyage stellaire, les donjons de Mission et en établissant un Lien stellaire avec davantage de Kibo. Enfant des étoiles, essayons sans plus attendre !"}
+{"id":1557998,"jp":"『星旅の記録』クエストをクリアしたり、より多くのキボとスターリンクすることで星識レベルを上げられます。星臨者様、さっそく試してみましょう！","fr":"Vous pouvez augmenter votre niveau de Savoir stellaire en terminant les quêtes de la Chronique du voyage stellaire et en établissant un Lien stellaire avec davantage de Kibo. Enfant des étoiles, essayons sans plus attendre !"}
+{"id":1557999,"jp":"キボは戦闘で助けてくれるだけでなく、農園づくりも手伝ってくれます。","fr":"Les Kibo ne vous prêtent pas uniquement main-forte au combat. Ils vous aident également à aménager votre ferme."}
+{"id":1558000,"jp":"フィールドの資源ポイントを活性化すると、農園の採集施設に様々なバフ効果をもたらすことができます。","fr":"Activer les points de ressources en extérieur permet d'appliquer divers effets de Renforcement aux installations de collecte de votre ferme."}
+{"id":1558001,"jp":"より多くの希少な果実を手に入れたいなら、農園で対応する果樹を植えてみるのがおすすめです。","fr":"Si vous souhaitez obtenir davantage de fruits rares, pensez à planter les arbres fruitiers correspondants dans votre ferme."}
+{"id":1558002,"jp":"輝くコインはリリカやコロコロのところで素敵なアイテムと交換できるよ。さっそく取引所に行って荷物を売ってみよう～","fr":"Tu peux échanger tes pièces scintillantes contre de superbes objets auprès de Lyrica et Korokoro. Va donc vendre tes marchandises au Comptoir d'échange !"}
+{"id":1558003,"jp":"アマルテイアやセレーシャなどの特別な存在は自然には輝く姿になりません。星臨者さん、気をつけてくださいね。","fr":"Les êtres particuliers comme Amalthea et Celesha ne peuvent pas devenir naturellement des Kibo brillants. Enfant des étoiles, gardez bien cela à l'esprit."}
+{"id":1558004,"jp":"強敵と戦う際は、まずは体勢ゲージをブレイクするのが得策です。","fr":"Lorsque vous affrontez un adversaire redoutable, mieux vaut commencer par briser sa Jauge de posture."}
+{"id":1558005,"jp":"農園はステラカードや果実を入手する重要な手段です。忘れずに建設しましょう！","fr":"La ferme est une source importante de cartes Stella et de fruits. N'oubliez pas de l'aménager !"}
+{"id":1558006,"jp":"輝くコインは農園で素敵なアイテムと交換できるよ。さっそく取引所に行って商品を売ってみよう～","fr":"Tu peux échanger tes pièces scintillantes contre de superbes objets à la ferme. Va donc vendre tes marchandises au Comptoir d'échange !"}
+{"id":1558007,"jp":"広く善縁を結べば、修行も捗るはず！小玉は信じてるの。いつかきっと、ものすごく凄い必殺技を習得できるって！","fr":"En nouant plein de belles relations, mon Entraînement devrait progresser encore plus vite ! Xiaoyu y croit dur comme fer. Un jour, je maîtriserai un coup fatal absolument incroyable !"}
+{"id":1558008,"jp":"源氏の家訓に曰く、「千日の修練を経て、万日にして極致に至る」。修練を積めば、必ずや優勝を勝ち取れるだろう！","fr":"Le précepte de la famille Minamoto dit : « Mille jours pour s'exercer, dix mille jours pour atteindre la perfection. » Persévère dans ton entraînement et la victoire sera assurément à ta portée !"}
 {"id":1558009,"jp":"キボのロール","fr":"Rôles des Kibo"}
+{"id":1558010,"jp":"キボファイトにおける、キボのロールについて確認してみましょう。","fr":"Découvrons les différents rôles des Kibo lors d'un Duel de Kibo."}
+{"id":1558011,"jp":"キボファイトにおける、キボの属性相性について確認してみましょう。","fr":"Découvrons les affinités élémentaires des Kibo lors d'un Duel de Kibo."}
+{"id":1558012,"jp":"キボファイトにおける、キボの登場スキルについて確認してみましょう。","fr":"Découvrons les compétences d'entrée en jeu des Kibo lors d'un Duel de Kibo."}
 {"id":1558013,"jp":"星脈共鳴","fr":"Résonance de veine stellaire"}
+{"id":1558014,"jp":"キボファイトにおける、星脈共鳴について確認してみましょう。","fr":"Découvrons la résonance des veines stellaires lors d'un Duel de Kibo."}
+{"id":1558015,"jp":"登場スキル／持続スキル","fr":"Compétence d'entrée en jeu / Compétence persistante"}
+{"id":1558016,"jp":"切替ボタンを使ってキャラクターを交代すると、登場スキル／持続スキルが発動します。確認してみましょう。","fr":"Utilisez le bouton de changement de personnage pour déclencher les compétences d'entrée en jeu et les compétences persistantes. Essayez par vous-même !"}
+{"id":1558017,"jp":"属性同士には相性があります。相手の属性には注意しましょう。","fr":"Chaque élément possède ses propres forces et faiblesses face aux autres. Prêtez attention à l'élément de votre adversaire."}
+{"id":1558018,"jp":"キャラクターやキボの特定のスキルは、チームに刻印を付与したり、一定数の刻印を消費して対応する属性のEXダメージを与え、追加効果を発動できます。\n確認してみましょう。","fr":"Certaines compétences de personnages et de Kibo permettent d'appliquer des Sceaux à l'équipe ou d'en consommer un nombre défini pour infliger des DGT EX de l'élément correspondant et déclencher des effets supplémentaires.\nVoyons cela de plus près."}
+{"id":1558019,"jp":"敵が強力な攻撃を繰り出してくるときは、回避やカウンターで対応しましょう。","fr":"Lorsque l'ennemi lance une attaque puissante, réagissez par une esquive ou une contre-attaque."}
+{"id":1558020,"jp":"体勢ゲージを持つ強敵にキボとスターリンク攻撃を繰り出すと、体勢ゲージを大幅に削ることができます。","fr":"Effectuer une attaque de Lien stellaire avec un Kibo contre un adversaire puissant doté d'une Jauge de posture permet de réduire considérablement cette dernière."}
+{"id":1558021,"jp":"キャラクターたちはそれぞれ固有のスキルを持っています。スキルを理解し、戦闘に活かしましょう。","fr":"Chaque personnage possède des compétences qui lui sont propres. Apprenez à les maîtriser pour en tirer parti au combat."}
 {"id":1558022,"jp":"戦闘の基礎","fr":"Bases du combat"}
 {"id":1558023,"jp":"キャラクター訓練","fr":"Entraînement des personnages"}
 {"id":1558024,"jp":"火属性の刻印","fr":"Sceau de Feu"}
@@ -58096,6 +58140,7 @@
 {"id":1558049,"jp":"一括編成","fr":"Remplir auto"}
 {"id":1558050,"jp":"追跡ターゲット","fr":"Cible suivie"}
 {"id":1558051,"jp":"切り替え","fr":"Changer"}
+{"id":1558052,"jp":"キャラクターレベルアップ1","fr":"Montée en niveau des personnages 1"}
 {"id":1558053,"jp":"装備確認","fr":"Voir l'équipement"}
 {"id":1558054,"jp":"閉じる","fr":"Fermer"}
 {"id":1558055,"jp":"突破","fr":"Percée"}
@@ -58149,19 +58194,34 @@
 {"id":1558103,"jp":"出撃メンバー","fr":"Équipe de combat"}
 {"id":1558104,"jp":"旅立ち","fr":"Départ"}
 {"id":1558105,"jp":"修行","fr":"Entraînement"}
+{"id":1558106,"jp":"星旅の記録のアニマ受け取り","fr":"Récupération de l'Anima de la Chronique du voyage stellaire"}
 {"id":1558107,"jp":"指定映照","fr":"Projection désignée"}
 {"id":1558108,"jp":"神輝の聖蒜鳥","fr":"Oiseau-ail sacré de l'éclat divin"}
+{"id":1558109,"jp":"黄金で鋳造された王座。直視できないほど尊き光を放っている。神秘的な力が宿っているといわれ、座る者はみな聖王のごとく、世の万物について永遠の思考を巡らせるらしい。","fr":"Un trône coulé dans l'or, qui rayonne d'une lumière sacrée si intense qu'il est impossible de le regarder directement. On raconte qu'un pouvoir mystérieux y réside et que quiconque s'y assied se met à méditer éternellement sur toutes les choses de ce monde, à l'image d'un roi sacré."}
+{"id":1558110,"jp":"餌やり不要 | 発光エフェクト | 標準速度","fr":"Nourriture non requise | Effet lumineux | Vitesse standard"}
 {"id":1558111,"jp":"陸上乗りもの","fr":"Monture terrestre"}
+{"id":1558112,"jp":"3匹の仲間が、ふわりと舞いあがる。かわいいキボと一緒に空を駆けめぐり、雲と素敵な出会いを楽しもう。","fr":"Trois petits compagnons s'élèvent délicatement dans les airs. Parcourez le ciel en compagnie d'adorables Kibo et laissez-vous porter à la rencontre des nuages."}
+{"id":1558113,"jp":"餌やり不要 | 停止時エフェクト | 標準速度","fr":"Nourriture non requise | Effet à l'arrêt | Vitesse standard"}
 {"id":1558114,"jp":"シュガードウ号","fr":"Sugar Dough"}
+{"id":1558115,"jp":"キラミィと一緒に星々の懐をさまよおう。かわいい伴星キラミィ、フリス風の柔らかいソファ。このベストセラーのマウントは、いつだって星の海にいるような気分にさせてくれる。","fr":"Partez vagabonder au milieu des étoiles en compagnie de Kiramy. Une adorable petite étoile pour compagnon et un canapé moelleux dans le style de Fleece : cette monture très prisée vous donnera toujours l'impression de flotter sur une mer d'étoiles."}
+{"id":1558116,"jp":"餌やり不要 | 停止時エフェクト | 移動時エフェクト\n高速移動","fr":"Nourriture non requise | Effet à l'arrêt | Effet en mouvement\nVitesse élevée"}
 {"id":1558117,"jp":"ぴょこぴょこ冒険者","fr":"Aventurier sautillant"}
+{"id":1558118,"jp":"パミーからインスピレーションを得て作られた乗りもの。製作者いわく、彼がいままで出会ったなかで一番かわいかったものがモデルらしく、自分の得意な方法でその記憶を残すことにしたのだとか。だが、身長差のせいなのか、その思い出はなんだかすこし……潰れているようだ。","fr":"Une monture inspirée des Pammy. Selon son créateur, elle reproduit la créature la plus adorable qu'il ait jamais rencontrée. Il a choisi d'immortaliser ce souvenir en faisant appel à son savoir-faire. Mais peut-être à cause de la différence de taille, ce souvenir semble avoir été quelque peu… aplati."}
+{"id":1558119,"jp":"餌やり不要 | 標準速度","fr":"Nourriture non requise | Vitesse standard"}
+{"id":1558120,"jp":"浮遊する不思議なタマゴ・フリス","fr":"Œuf flottant mystérieux - Fleece"}
+{"id":1558121,"jp":"外見はキボのタマゴを参考にした乗りもの。奇妙な見た目だが、長い歴史を持っているらしい。塗装は違うが、形状はまったく同じ乗りものがさまざまな地域で見つかっている。","fr":"Une monture dont l'apparence s'inspire des œufs de Kibo. Malgré son aspect insolite, elle semble avoir une longue histoire. Des montures de forme strictement identique, mais aux peintures différentes, ont été découvertes dans plusieurs régions."}
+{"id":1558122,"jp":"浮遊する不思議なタマゴ・芽吹の谷","fr":"Œuf flottant mystérieux - Vallée des Bourgeons"}
 {"id":1558123,"jp":"星空の不思議なタマゴ","fr":"Œuf mystérieux du ciel étoilé"}
+{"id":1558124,"jp":"外見はキボのタマゴを参考にした乗りもの。普通の浮遊する不思議なタマゴに比べ、星空の不思議なタマゴの塗装はより華やかである。性能面での飛躍的な向上はないものの、キラキラと輝くキボのタマゴの形をした乗りものを拒める者などいるだろうか？","fr":"Une monture dont l'apparence s'inspire des œufs de Kibo. Comparé à l'Œuf flottant mystérieux ordinaire, l'Œuf mystérieux étoilé arbore une peinture bien plus somptueuse. Ses performances ne sont pas particulièrement supérieures, mais qui pourrait résister à une monture en forme d'œuf de Kibo scintillant de mille feux ?"}
 {"id":1558125,"jp":"ウミィカー","fr":"Umii Car"}
+{"id":1558126,"jp":"ステラカードの外見を参考にした乗りもの。当初、この巨大なステラカードは乗りものとして設計されたわけではなかった。ステラカードは大きければ大きいほどなかの空間も広くなると信じて疑わない、ある熱狂的なキボ愛好家から生まれたアイデアだったのだ……最終的にその設計は頓挫したが、彼のインスピレーションはほかの者たちに取り入れられ、最終的に現在のさまざまなウミィカーへと進化を遂げた。","fr":"Une monture dont l'apparence s'inspire des cartes Stella. À l'origine, cette carte Stella gigantesque n'avait pas été conçue pour servir de monture. L'idée venait d'un passionné de Kibo persuadé que plus une carte Stella était grande, plus l'espace qu'elle renfermait était vaste… Le projet a finalement échoué, mais d'autres inventeurs se sont inspirés de son idée pour donner naissance aux différents modèles d'Umii-car que l'on connaît aujourd'hui."}
 {"id":1558127,"jp":"特殊なウミィカー","fr":"Umii Car spécial"}
 {"id":1558128,"jp":"希少なウミィカー","fr":"Umii Car rare"}
 {"id":1558129,"jp":"閃耀のウミィカー","fr":"Umii Car éclatant"}
 {"id":1558130,"jp":"究極のウミィカー","fr":"Umii Car ultime"}
 {"id":1558131,"jp":"ピィピィカー","fr":"Peepee Car"}
 {"id":1558132,"jp":"星彩のウミィカー","fr":"Umii Car étoilé"}
+{"id":1558133,"jp":"星空の不思議なタマゴ・フリス","fr":"Œuf mystérieux étoilé - Fleece"}
 {"id":1558135,"jp":"髪","fr":"Cheveux"}
 {"id":1558136,"jp":"目","fr":"Yeux"}
 {"id":1558137,"jp":"耳","fr":"Oreilles"}
