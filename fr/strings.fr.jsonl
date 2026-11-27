@@ -44178,7 +44178,7 @@
 {"id":1539657,"jp":"散っていった戦士たちとミィティのためだけではない。\n私自身のためにもな。","fr":"Je le ferai pour les guerriers tombés au combat et pour Mitty.\nEt je le ferai aussi pour moi."}
 {"id":1539658,"jp":"スパイトホーンを討ち、鷹神の末裔が空から飛来する叫びを恐れることなく、\n自由に羽ばたける世界を作る。","fr":"J'abattrai Spitehorn. Les descendants du dieu Faucon pourront enfin voler librement,\nsans trembler à chaque cri qui leur parvient du ciel."}
 {"id":1539659,"jp":"このときをずっと待っていた……\n3朔を経て、ようやくあの凶神と対峙するときが来たんだ。","fr":"J'attends ce moment depuis si longtemps…\nTrois lunes ont passé. L'heure est enfin venue d'affronter ce dieu maléfique."}
-{"id":1539660,"jp":"ファランタなら絶対できるよ。","fr":"Tu vas y arriver, Faridah. J'en suis sûr.|Tu vas y arriver, Faridah. J'y crois."}
+{"id":1539660,"jp":"ファランタなら絶対できるよ。","fr":"Tu vas y arriver, Faridah. J'y crois."}
 {"id":1539661,"jp":"ありがとう、イェクウ……","fr":"Merci, Yekuu…"}
 {"id":1539662,"jp":"よし、取れたよ！ファランタ、翼の調子はどう？","fr":"Ça y est, c'est parti ! Faridah, tu peux bouger les ailes ?"}
 {"id":1539663,"jp":"ああ、動くようになった。飛行にも支障はない。","fr":"Oui, elles bougent à nouveau. Je peux voler sans problème."}
@@ -52016,7 +52016,7 @@
 {"id":1547499,"jp":"本当……ですか？","fr":"C'est… vrai ?"}
 {"id":1547500,"jp":"作り方は変えていないのに、どうして？","fr":"Pourtant, je n'ai rien changé à ma façon de cuisiner. Comment est-ce possible ?"}
 {"id":1547501,"jp":"心がこもってるからかな？","fr":"Peut-être parce que tu y as mis tout ton cœur ?"}
-{"id":1547502,"jp":"食べる相手の喜ぶ顔を思い浮かべて作ったから。\nきっと、そういうことなんだと思う。","fr":"Tu as cuisiné en imaginant le sourire de la personne qui allait déguster ton plat.\nJe suis sûr que c'est ça qui fait la différence.|"}
+{"id":1547502,"jp":"食べる相手の喜ぶ顔を思い浮かべて作ったから。\nきっと、そういうことなんだと思う。","fr":"Tu as cuisiné en imaginant le sourire de la personne qui allait déguster ton plat.\nC'est sûrement ça qui fait la différence."}
 {"id":1547503,"jp":"い、いえ……その、なんでもありません！\nはやく食べましょう。温かいうちに……","fr":"N… Non, enfin… Ce n'est rien !\nMangeons plutôt, tant que c'est encore chaud…"}
 {"id":1547504,"jp":"おくすり……にがいよう……","fr":"Le médicament… C'est amer…"}
 {"id":1547505,"jp":"ピカピカの石……どこ？","fr":"La pierre qui brille… Elle est où ?"}
@@ -52061,33 +52061,133 @@
 {"id":1547544,"jp":"それじゃあ、行こうか。\nまずは準備運動に、かくれんぼしよう。","fr":"Alors, c'est parti !\nPour commencer, on va s'échauffer en jouant à cache-cache."}
 {"id":1547545,"jp":"えへへ♪かくれんぼ！\nいっぱいうんどう、する！","fr":"Hihi ♪ Cache-cache !\nAbby va beaucoup bouger !"}
 {"id":1547546,"jp":"ここ、かくれんぼにぴったり。","fr":"Ici, c'est parfait pour jouer à cache-cache."}
+{"id":1547547,"jp":"{playerName}、かくれる。\nアビィ100まで数えて、つかまえにいく。","fr":"{playerName}, va te cacher.\nAbby compte jusqu'à 100, puis vient t'attraper."}
+{"id":1547548,"jp":"つかまえたら、アビィの勝ち。","fr":"Si Abby t'attrape, Abby gagne."}
+{"id":1547549,"jp":"かくれんぼ、得意そうだね？","fr":"On dirait que tu te débrouilles bien à cache-cache, non ?"}
+{"id":1547550,"jp":"かくれんぼは苦手なんだ。|かくれんぼは苦手なの。","fr":"Cache-cache, c'est pas mon fort.|Cache-cache, c'est pas mon fort."}
+{"id":1547551,"jp":"空飛べば、キボがかくれてる場所、ぜんぶ見える。","fr":"Quand Abby vole dans le ciel, elle voit toutes les cachettes des Kibo."}
+{"id":1547552,"jp":"なるほど、そういうことか……|\nなるほど、そういうこと……","fr":"Ah, je comprends mieux…|\nAh, je comprends mieux…"}
+{"id":1547553,"jp":"たのしいのに？\nアビィ、おしえてあげる。","fr":"Mais c'est rigolo, pourtant !\nAbby va t'apprendre."}
+{"id":1547554,"jp":"かくれて。いーち、にー、さーん……","fr":"Va te cacher. Uuun, deuuux, troiiis…"}
 {"id":1547555,"jp":"いた。","fr":"Trouvé."}
+{"id":1547556,"jp":"もう見つかっちゃった。\nアビィはすごいなあ。","fr":"Tu m'as déjà trouvé une cachette ?\nTu es vraiment forte, Abby !"}
+{"id":1547557,"jp":"ふふん。もういっかい。","fr":"Héhé ! Encore une fois."}
+{"id":1547558,"jp":"じゃあ、今度は交代しようか。アビィが隠れて。僕が捕まえるよ。|じゃあ、今度は交代しようか。アビィが隠れて。私が捕まえるよ。","fr":"Et si on échangeait les rôles, cette fois ? Va te cacher, Abby. Je vais essayer de t'attraper.|Et si on échangeait les rôles, cette fois ? Va te cacher, Abby. Je vais essayer de t'attraper."}
 {"id":1547559,"jp":"うん、かくれる。","fr":"Oui, Abby se cache."}
+{"id":1547562,"jp":"アビィ、アビィー？どこにいるの？","fr":"Abby, Abbyyy ? Où es-tu ?"}
+{"id":1547563,"jp":"はぁ……見つからないなあ。\nひとりでシャルル村へ帰るしかないかな。","fr":"Pfff… Impossible de la trouver.\nJe vais devoir rentrer au Village de Charlulu sans elle, on dirait."}
+{"id":1547564,"jp":"シャルル村、第三の掟、『食料を粗末にするべからず』。\nおいしいがっつり炙り肉は、アビィの代わりにもらっておこう。","fr":"Troisième règle du Village de Charlulu : « Tu ne gaspilleras point la nourriture ».\nJe vais donc manger cette délicieuse viande grillée bien généreuse à la place d'Abby."}
 {"id":1547565,"jp":"（捕まえた）","fr":"(Attrapé !)"}
+{"id":1547566,"jp":"アビィがどこに隠れても、必ず見つけるよ。","fr":"Peu importe où tu te caches, Abby, je finirai toujours par te trouver."}
+{"id":1547567,"jp":"せーりんしゃ、すごい。","fr":"Enfant des étoiles, trop fort !"}
+{"id":1547568,"jp":"準備運動はこれで終わり！リハビリをはじめよっか。\n……ん？アビィ、どうかした？","fr":"Voilà pour l'échauffement ! On commence la rééducation ?\n… Hein ? Qu'est-ce qu'il y a, Abby ?"}
+{"id":1547569,"jp":"あっち、あたらしい友だち！","fr":"Là-bas, un nouveau copain !"}
 {"id":1547570,"jp":"コケッ？","fr":"Cot ?"}
 {"id":1547571,"jp":"コケッ！コケコケッ！","fr":"Cot ! Cot cot !"}
+{"id":1547572,"jp":"コココッ、よーしよし、いい子。なでなで。","fr":"Cot cot cot ! Là, tout doux, sage comme une image. Des petites caresses."}
 {"id":1547573,"jp":"コケッ……","fr":"Cot…"}
 {"id":1547574,"jp":"あ、固まっちゃった。","fr":"Oh, il s'est figé."}
+{"id":1547575,"jp":"恥ずかしがり屋なんだよ。","fr":"C'est juste qu'il est timide."}
+{"id":1547576,"jp":"アビィと遊んでるんだよ。","fr":"Il est en train de jouer avec toi, Abby."}
+{"id":1547577,"jp":"あたまのはっぱ……いいにおい。","fr":"La feuille sur sa tête… Elle sent bon."}
+{"id":1547578,"jp":"がまんした。かじってない。","fr":"Abby a résisté. Abby a pas croqué dedans."}
+{"id":1547579,"jp":"アビィ、キボと友だちになりたい。","fr":"Abby veut être copine avec les Kibo."}
+{"id":1547580,"jp":"話している隙に、『死んだふり』をしていたキャバードは\nアビィの視界から猛スピードで走り去った。\nその逃げ足はキボ専門家の研究に値するだろう。","fr":"Profitant de votre conversation, le Cabbird qui faisait semblant d'être mort\ns'enfuit à toute vitesse, hors de la vue d'Abby.\nUne telle rapidité de fuite mériterait d'être étudiée par les spécialistes des Kibo."}
+{"id":1547581,"jp":"うぅ……怖がり……逃げちゃった。","fr":"Mmh… Quel froussard… Il s'est sauvé."}
+{"id":1547582,"jp":"だいじょうぶ。\nアビィ、おなかおっきい。ゆるしてあげる。","fr":"C'est pas grave.\nAbby a un gros ventre. Abby lui pardonne."}
+{"id":1547583,"jp":"おなかじゃなくて、『器』が大きいんだよね。","fr":"Tu veux plutôt dire que tu as un grand cœur, pas un gros ventre."}
+{"id":1547584,"jp":"そう、『うつわ』おっきいから……怒らない……","fr":"Oui, Abby a un grand cœur… Alors Abby se fâche pas…"}
+{"id":1547585,"jp":"もう遊ばない。\nアビィ、『りはびり』する……","fr":"Abby veut plus jouer.\nAbby va faire sa « rééducation »…"}
+{"id":1547586,"jp":"（リハビリ……だれかに手伝ってもらったほうがいいかな？\nラルならいつも訓練の指導をしてるし、アビィの力になってくれるかも）","fr":"(La rééducation… Je devrais peut-être demander un coup de main à quelqu'un ?\nRal supervise régulièrement des entraînements. Elle pourrait sans doute aider Abby.)"}
+{"id":1547587,"jp":"アビィ、『リハビリ』の相手を思いついたよ。","fr":"Abby, je sais qui pourrait t'aider à faire ta « rééducation »."}
+{"id":1547588,"jp":"経験豊富なラルに事情を話して、\nアビィのリハビリ訓練を見てもらうことにした。","fr":"Vous avez expliqué la situation à Ral et décidé de lui confier\nles exercices de rééducation d'Abby, compte tenu de son expérience."}
+{"id":1547589,"jp":"それじゃあ、よろしくね。","fr":"Bon, on compte sur toi."}
 {"id":1547590,"jp":"ああ、任せておけ。民兵隊は皆、私が鍛えたんだ。\nケガしたときの指導も、私が務めてきた。","fr":"Oui, comptez sur moi. Tous les membres de la milice, c'est moi qui les ai entraînés.\nEt c'est aussi moi qui encadrais ceux qui se remettaient d'une blessure."}
+{"id":1547591,"jp":"アビィ。ラル隊長にご挨拶しようか。","fr":"Abby, tu dis bonjour au capitaine Ral ?"}
+{"id":1547592,"jp":"ラルたいちょう、モフモフたいちょう。こんにちは。","fr":"Bonjour, capitaine Ral. Bonjour, capitaine Tout-Doux."}
+{"id":1547593,"jp":"ははっ、こいつは私の相棒のフィンヴォルフだ。\n隊長見習いみたいなものだな。","fr":"Haha ! Ce Finwolf est mon fidèle compagnon.\nOn pourrait dire que c'est un apprenti capitaine."}
 {"id":1547594,"jp":"モフモフ、遊ぼ！","fr":"Moelleux, on joue !"}
+{"id":1547595,"jp":"ふむ、そいつと遊びたいのか？\nそれなら、本格的に訓練をはじめるまえに、すこし遊んでいるといい。\n準備運動にもなるだろう。","fr":"Hum, tu aimerais jouer avec lui ?\nDans ce cas, amuse-toi un peu avant qu'on commence le véritable entraînement.\nÇa te servira aussi d'échauffement."}
+{"id":1547596,"jp":"うん、アビィ、行くね。","fr":"Oui ! Abby y va."}
 {"id":1547597,"jp":"まだまだ。","fr":"Pas encore."}
 {"id":1547598,"jp":"ワフ……ウォン？","fr":"Ouaf… Ouon ?"}
 {"id":1547599,"jp":"……アビィの勝ち！","fr":"… Abby a gagné !"}
 {"id":1547600,"jp":"ウゥー……ワオン！","fr":"Grrr… Waouon !"}
+{"id":1547601,"jp":"ふむ……とんでもない力だ。","fr":"Hum… Quelle force phénoménale."}
+{"id":1547602,"jp":"私の相棒は強敵を前にしても一歩も退かない。\nだが、今日は……これが竜人の威圧感か。","fr":"Mon compagnon ne recule jamais d'un pouce, même face à un adversaire redoutable.\nMais aujourd'hui… C'est donc ça, l'aura intimidante des Draconiens."}
+{"id":1547603,"jp":"アビィ、もっと遊びたい。","fr":"Abby veut encore jouer."}
 {"id":1547604,"jp":"うう、逃げた。","fr":"Aww, il s'est enfui."}
+{"id":1547605,"jp":"アビィはフィンヴォルフを追いかけ、難なく追いつめた。\n怯えたフィンヴォルフはその場でうずくまった。","fr":"Abby se lança à la poursuite du Finwolf et le coinça sans difficulté.\nTerrifié, le Finwolf se recroquevilla sur place."}
+{"id":1547606,"jp":"モフモフ、行かないで、いっしょに遊ぼ。","fr":"Tout-Doux, t'en va pas ! Viens jouer avec Abby."}
+{"id":1547607,"jp":"こわがらないで。もふもふ……なでなで。","fr":"Fais pas peur… Tout-Doux… Des petites caresses."}
+{"id":1547608,"jp":"あ、ちょうちょ……あむ――","fr":"Oh, un papillon… Miam !"}
+{"id":1547609,"jp":"ウォン……（ウォーン！ウォン！ウォン！）","fr":"Wouf… (Aouuuuh ! Wouf ! Wouf !)"}
+{"id":1547610,"jp":"（もしフィンヴォルフに言葉が話せたら、いまごろ助けを呼んでいたかもしれないな）|（もしフィンヴォルフに言葉が話せたら、いまごろ助けを呼んでいたかも……）","fr":"(Si le Finwolf pouvait parler, il serait probablement en train d'appeler au secours.)|(Si le Finwolf pouvait parler, il serait probablement en train d'appeler au secours…)"}
+{"id":1547611,"jp":"……あ、食べもの、逃げちゃった。","fr":"… Oh, le miam-miam s'est sauvé."}
+{"id":1547612,"jp":"やっぱりおまえのほうが、いい子。モフモフ、ふさふさで、ふわふわ。","fr":"C'est toi le plus gentil, finalement. Tout-Doux, avec plein de poils, tout moelleux."}
 {"id":1547613,"jp":"固まっちゃった……","fr":"Il s'est figé…"}
 {"id":1547614,"jp":"モフモフも、怖がり。","fr":"Moelleux aussi a peur."}
 {"id":1547615,"jp":"もう遊ばない。","fr":"Abby ne joue plus."}
+{"id":1547616,"jp":"モフモフ、よわい。\nたいちょうは、もっと強い？","fr":"Tout-Doux, il est faible.\nCapitaine, tu es plus forte ?"}
+{"id":1547617,"jp":"私と手合わせしたいのか？\nシャルル村、最強の隊長に勝つには百朔はやいぞ。","fr":"Tu veux te mesurer à moi ?\nIl te faudra encore cent lunes avant de pouvoir vaincre le plus puissant capitaine du Village de Charlulu !"}
+{"id":1547618,"jp":"さいきょう……じゃあ、アビィも、ぜんりょく……","fr":"La plus forte… Alors Abby aussi, de toutes ses forces…"}
+{"id":1547619,"jp":"ほ、ほう……全力だと！？\n……だが、まだ療養中のはずだ。ケガが治ってからにしておけ！","fr":"A… Ah bon… De toutes tes forces !?\n… Mais tu es encore en convalescence, non ? Attends que tes blessures soient guéries !"}
+{"id":1547620,"jp":"私は……その……民兵隊の訓練に行かなくては！\n今日は大事な実戦訓練がある！","fr":"Je… Euh… Je dois aller superviser l'entraînement de la milice !\nOn a un important exercice de combat aujourd'hui !"}
+{"id":1547621,"jp":"（勇敢なラルが、言い訳して逃げようとするなんて）","fr":"(Qui aurait cru que la courageuse Ral chercherait des excuses pour prendre la fuite…)"}
+{"id":1547622,"jp":"ラルは忙しいみたいだね。\nアビィ、手合わせはまた今度にしよう。","fr":"On dirait que Ral est très occupée.\nAbby, vous vous mesurerez une autre fois."}
+{"id":1547623,"jp":"コホン！とにかく、私の目から見ても、\n君はすこぶる健康だ。存分に遊んでくるといい！","fr":"Hum hum ! Quoi qu'il en soit, à en juger par ce que je viens de voir,\ntu es en pleine forme. Va donc t'amuser autant que tu veux !"}
+{"id":1547624,"jp":"リハビリその1。\nいっぱい運動……無事クリア、かな？","fr":"Première étape de la rééducation.\nBeaucoup bouger… Mission accomplie, on dirait ?"}
 {"id":1547625,"jp":"おなか、ぐーぐー。","fr":"Le ventre, gargouille gargouille."}
+{"id":1547626,"jp":"アビィのおなかの音は、キャバードの時報よりも正確だね。\nそれじゃ、とりあえずなにか食べにいこうか。","fr":"Ton ventre est encore plus ponctuel que le chant d'un Cabbird, Abby.\nAllez, allons manger quelque chose."}
+{"id":1547627,"jp":"いいにおい、お肉やいてるにおい！","fr":"Ça sent bon ! Ça sent la viande grillée !"}
+{"id":1547628,"jp":"ルマ、チルル、お邪魔するね。\n今日はアビィと一緒なんだ。","fr":"Ruma, Chilul, j'espère qu'on ne vous dérange pas.\nAujourd'hui, je suis avec Abby."}
+{"id":1547629,"jp":"おやおや、よく来たねえ。","fr":"Oh, mais regardez qui voilà ! Bienvenue !"}
+{"id":1547630,"jp":"ルマたいちょう、チルルたいちょう。","fr":"Capitaine Ruma, capitaine Chilul."}
 {"id":1547631,"jp":"隊長……？","fr":"Capitaine… ?"}
+{"id":1547632,"jp":"ルマとチルルにリハビリの説明をすると、\nふたりは協力したいと申し出てくれた。","fr":"Vous avez expliqué à Ruma et Chilul en quoi consistait la rééducation d'Abby,\net toutes deux se sont aussitôt proposées pour vous aider."}
+{"id":1547633,"jp":"ちょうど料理を作っていたところさ。\n食べておいき。育ちざかりなんだから、たくさんね。\nさて、おかずを増やしてこようかねえ。","fr":"J'étais justement en train de préparer à manger.\nAllez, mange bien. À ton âge, il faut beaucoup manger pour grandir.\nBon, je vais préparer quelques plats supplémentaires."}
+{"id":1547634,"jp":"わたしも手伝います……えと、好きなものはなんですか？","fr":"Je vais vous aider aussi… Euh, qu'est-ce que vous aimez manger ?"}
 {"id":1547635,"jp":"お肉、好き！","fr":"Abby aime la viande !"}
+{"id":1547636,"jp":"お肉……そうなんだ。\nじゃあ、よければ……これ、もらってほしいな。","fr":"La viande… Je vois.\nAlors, si vous voulez bien… J'aimerais vous offrir ceci."}
 {"id":1547637,"jp":"……おくりもの？","fr":"… Un cadeau ?"}
+{"id":1547638,"jp":"これ……焼き魚の木彫り。わたしが彫ったんです。","fr":"C'est… un poisson grillé sculpté dans du bois. C'est moi qui l'ai sculpté."}
+{"id":1547639,"jp":"村の釣り師さんが、欲しがってたから……\nお守りみたいなものなんですけど。","fr":"Un pêcheur du village en voulait un, alors…\nC'est une sorte de porte-bonheur."}
+{"id":1547640,"jp":"これ、持ってくと大漁になるって言われてて……\nまだいくつかあるから、よかったら……もらって。","fr":"On dit qu'en l'emportant avec soi, on fait des pêches miraculeuses…\nIl m'en reste quelques-uns, alors, si vous voulez… Prenez-le."}
 {"id":1547641,"jp":"これ、好き。","fr":"Abby aime ça."}
+{"id":1547642,"jp":"ふふっ、よかった……って、ええっ！？","fr":"Hihi, tant mieux… Hein !?"}
+{"id":1547643,"jp":"アビィはすばやく焼き魚の木彫りを丸呑みした。チルルにはなにが起きたのか見えなかったようだ。","fr":"Abby avala d'un seul coup le poisson grillé en bois. Chilul ne sembla pas avoir vu ce qui venait de se passer."}
 {"id":1547644,"jp":"サクサク、おいしい。","fr":"Croustillant, délicieux."}
+{"id":1547645,"jp":"き、気に入ったなら……よかった、のかな？\nもしおなかが痛くなったら……ルルカにお薬もらってくださいね！","fr":"S… Si ça vous a plu… Tant mieux, j'imagine ?\nSi vous avez mal au ventre… N'oubliez pas de demander un médicament à Luruka !"}
+{"id":1547646,"jp":"えっと、わたし……\nおばあちゃんのお手伝いに行ってきます！","fr":"Euh, je…\nJe vais aller aider mamie !"}
 {"id":1547647,"jp":"ん……へんな味？","fr":"Mm… drôle de goût ?"}
+{"id":1547648,"jp":"やっほー！なにかうまいもんでも食ってるのか？","fr":"Salut la compagnie ! Vous mangez quelque chose de bon ?"}
+{"id":1547649,"jp":"アビィさん、傷の具合はいかがですか？\nみんな心配していたんですよ。","fr":"Abby, comment vont vos blessures ?\nTout le monde s'inquiétait pour vous, vous savez."}
+{"id":1547650,"jp":"お体によい薬膳料理を作ってきました。\n冷めないうちにどうぞ。","fr":"Je vous ai préparé un plat médicinal qui vous fera du bien.\nJe vous en prie, dégustez-le avant qu'il ne refroidisse."}
+{"id":1547651,"jp":"秘伝の隠し味も入れてみたんですよ。\nきっと、甘い口当たりになっているはずです。","fr":"J'y ai même ajouté un ingrédient secret de notre recette traditionnelle.\nIl devrait lui donner une agréable saveur sucrée."}
 {"id":1547652,"jp":"えと？","fr":"Euh ?"}
+{"id":1547653,"jp":"うぅ……せーりんしゃ……これも、くんれん？","fr":"Mmh… Enfant des étoiles… Ça aussi, c'est de l'entraînement ?"}
+{"id":1547654,"jp":"ルルカの注意を引きつける。","fr":"Détourner l'attention de Luruka."}
+{"id":1547655,"jp":"アビィの代わりに薬を飲む。","fr":"Prendre le médicament à la place d'Abby."}
+{"id":1547656,"jp":"{playerName}さま……手足をばたつかせて、どうかしたのですか？\n具合が悪いならお薬をお出しします。","fr":"{playerName}… Pourquoi agitez-vous ainsi les bras et les jambes ? Quelque chose ne va pas ?\nSi vous ne vous sentez pas bien, je peux vous donner un médicament."}
+{"id":1547657,"jp":"{playerName}さま……そんなにじっと薬膳料理を見つめて。\nもしかして欲しいのですか？\nでも、これはアビィさんに用意したものですから。","fr":"{playerName}… Vous regardez ce plat médicinal avec beaucoup d'insistance.\nVous en voudriez peut-être ?\nMais je l'ai spécialement préparé pour Abby."}
+{"id":1547658,"jp":"ごめん、アビィ。ダメだったよ。","fr":"Désolé, Abby. Ça n'a pas marché."}
+{"id":1547659,"jp":"ルルカたいちょう……すごい。","fr":"Capitaine Luruka… Impressionnante."}
 {"id":1547660,"jp":"うぅ……えっ……","fr":"Uuh… hein…"}
+{"id":1547661,"jp":"ん？ほんとに、あまい。","fr":"Hein ? C'est vraiment sucré."}
+{"id":1547662,"jp":"{playerName}＆テララ","fr":"{playerName} et Terara"}
+{"id":1547663,"jp":"お肉、焼けました。どうぞ、食べていってください。","fr":"La viande est prête. Je vous en prie, restez donc manger un peu."}
 {"id":1547664,"jp":"お肉、いいにおい。","fr":"La viande… sent bon."}
+{"id":1547665,"jp":"やった！今日はご馳走じゃないか！","fr":"Génial ! C'est un vrai festin aujourd'hui !"}
+{"id":1547666,"jp":"ちょっと……わけてあげる。","fr":"Abby va… partager un petit peu."}
+{"id":1547667,"jp":"せーりんしゃ言ってた。\n「食べものは、わけあうと、もっとおいしい」って。","fr":"Enfant des étoiles a dit :\n« Quand on partage la nourriture, c'est encore meilleur. »"}
+{"id":1547668,"jp":"そうそう！\nシャルル村、第五の掟！『狩りは仲間と協力して行うべし』！","fr":"Exactement !\nCinquième règle du Village de Charlulu : « Tu chasseras en coopération avec tes compagnons » !"}
+{"id":1547669,"jp":"うまいもんは、みんなで分け合ったらもっとうまくなるからな！","fr":"Les bonnes choses sont encore meilleures quand on les partage tous ensemble !"}
+{"id":1547670,"jp":"じゃあ……あまいスープ……いっしょにのむ？","fr":"Alors… La soupe sucrée… On la boit ensemble ?"}
+{"id":1547671,"jp":"あ……いやいや！\nそんなさ、なんでもかんでも分け合う必要は……","fr":"Ah… Non, non !\nQuand je dis partager, ça veut pas dire qu'il faut absolument tout partager…"}
+{"id":1547672,"jp":"アビィ、お肉はむはむする。\nこれ、テララお姉ちゃん、あげる。","fr":"Abby va manger la viande.\nÇa, c'est pour toi, grande sœur Terara."}
+{"id":1547673,"jp":"うう……アタシの炙り肉がぁ……","fr":"Bouhou… Ma viande grillée…"}
+{"id":1547674,"jp":"ていうか、アンタみたいなちっこいのが\nこんなの食いきれるわけ……って、え！？","fr":"Et puis, une petite crevette comme toi,\nça peut pas finir toute cette viande… Hein !?"}
+{"id":1547675,"jp":"おいしい、もっと……ううぅ、なくなっちゃった……","fr":"Miam, encore… Bouhouhou… Y en a plus…"}
 {"id":1547676,"jp":"ごめんなさい。","fr":"Pardon."}
 {"id":1547681,"jp":"ん？","fr":"Hm ?"}
 {"id":1547693,"jp":"だめなの？","fr":"Pas permis ?"}
@@ -52666,9 +52766,9 @@
 {"id":1550270,"jp":"こんにちは、ヤアル。これを――","fr":"Salut, Yaal. Je t'apporte…"}
 {"id":1550271,"jp":"せ……星臨者さん……なにか、食べものは……","fr":"E-Enfant des étoiles… Tu n'aurais pas quelque chose à manger… ?"}
 {"id":1550272,"jp":"――えっ、食べもの？","fr":"… Hein, de la nourriture ?"}
-{"id":1550273,"jp":"食事をとりそびれて、いまにも倒れそうで……","fr":"M-Mince, ce n'est pas bon, ça… T-Tiens, bois ça pour commencer !|M-Mince, ce n'est pas bon, ça… T-Tiens, bois ça pour commencer !"}
-{"id":1550274,"jp":"そ、それは大変だ……と、とりあえずこれを飲んで！|そ、それは大変ね……と、とりあえずこれを飲んで！","fr":"Ouf… Merci, je revis ! Ça a quand même un drôle de goût…"}
-{"id":1550275,"jp":"ふぅ……ありがとう、生き返ったわ！なんだか変な味だけど……","fr":"Tu sais que Penny avait disparu, non ? Eh bien, moi aussi, je suis partie à sa recherche."}
+{"id":1550273,"jp":"食事をとりそびれて、いまにも倒れそうで……","fr":"J'ai raté le repas et je suis à deux doigts de tomber dans les pommes…"}
+{"id":1550274,"jp":"そ、それは大変だ……と、とりあえずこれを飲んで！|そ、それは大変ね……と、とりあえずこれを飲んで！","fr":"M-Mince, ce n'est pas bon, ça… T-Tiens, bois ça pour commencer !|M-Mince, ce n'est pas bon, ça… T-Tiens, bois ça pour commencer !"}
+{"id":1550275,"jp":"ふぅ……ありがとう、生き返ったわ！なんだか変な味だけど……","fr":"Ouf… Merci, je revis ! Ça a quand même un drôle de goût…"}
 {"id":1550276,"jp":"ペニーが行方不明になってたじゃない？それで私も彼女を探しに出てたのよ。","fr":"Tu sais que Penny avait disparu, non ? Eh bien, moi aussi, je suis partie à sa recherche."}
 {"id":1550277,"jp":"私、ひとりで暮らしてるから、そんな問題が起こってるなんてまったく知らなかったの。","fr":"Comme je vis toute seule, je n'avais absolument aucune idée de ce qui se passait."}
 {"id":1550278,"jp":"けどね、さっき急に思い出したのよ……\n私も昨日起きたとき、玄関に座ってたって。","fr":"Mais tout à l'heure, quelque chose m'est soudain revenu…\nHier, à mon réveil, j'étais assise devant ma porte d'entrée."}
