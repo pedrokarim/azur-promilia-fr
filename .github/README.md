@@ -1,19 +1,23 @@
 # Azur Promilia en français
 
-Traduction française non officielle du client PC japonais d'Azur Promilia (version 1.0.2, build 3219598). On traduit depuis le japonais, en s'aidant de l'anglais de [promiliafans/i18n](https://github.com/promiliafans/i18n), dont ce dépôt est un fork.
+Traduction française non officielle du client PC japonais d’Azur Promilia. On traduit depuis le japonais, en s’aidant de l’anglais de [promiliafans/i18n](https://github.com/promiliafans/i18n), dont ce dépôt est un fork.
 
 Ce projet n'est ni affilié à Manjuu ni approuvé par l'éditeur. Un patch de traduction modifie les fichiers du jeu, qui tourne avec l'anti-triche ACE : chacun l'installe à ses risques.
 
 ## Jouer en français
 
-1. [Télécharge le patcher Windows 1.1.0](https://github.com/pedrokarim/azur-promilia-fr/releases/download/patcher-v1.1.0/azur-promilia-patcher-windows-x64.zip) et décompresse toute l’archive. Laisse les dossiers à côté de `azur-promilia-patcher.exe`.
+1. [Télécharge le patcher Windows 1.2.0](https://github.com/pedrokarim/azur-promilia-fr/releases/download/patcher-v1.2.0/azur-promilia-patcher-windows-x64.zip) et décompresse toute l’archive. Laisse les dossiers à côté de `azur-promilia-patcher.exe`.
 2. Ferme le jeu et le launcher officiel, puis ouvre `azur-promilia-patcher.exe`. Si le patcher ne trouve pas le jeu, clique sur « Choisir » et sélectionne le dossier `AZUPRO_JP` qui contient `AzurPromiliaJP.exe`.
 3. Sélectionne « Français ». Si le patcher indique qu’une mise à jour est disponible, clique sur « Télécharger la traduction ». Clique ensuite sur « Installer ».
 4. Clique sur « Lancer » ou utilise le raccourci « Azur Promilia (français) ». Le launcher officiel peut remettre les fichiers japonais.
 
-![Fenêtre du patcher avec Français sélectionné et le bouton Choisir à côté du champ du dossier du jeu](../docs/images/patcher-fr.png)
+![Écran d’installation de la version 1.1.0, avec Français sélectionné et le bouton Choisir à côté du champ du dossier du jeu](../docs/images/patcher-fr.png)
 
-Avant une mise à jour du jeu, ferme-le et clique sur « Désinstaller » pour restaurer les fichiers japonais.
+À partir de la 1.2.0, le bouton « Mettre à jour le patcher », en haut à gauche, installe les prochaines versions du programme sans retélécharger le ZIP à la main. « Télécharger la traduction » récupère les derniers textes français.
+
+Avant une mise à jour du jeu, ferme-le et clique sur « Désinstaller ». Une fois la mise à jour terminée, referme le jeu et son launcher officiel, puis clique sur « Installer ». Le patcher repère le build le plus récent. La 1.2.0 a été testée sur le build 3273853.
+
+PedroKarim assure la maintenance du patcher français. Pour signaler un problème, rejoins [le Discord Ascencia Realms](https://discord.gg/rTd95UpUEb).
 
 Le launcher se traduit à part, avec [azur-promilia-fr-launcher](https://github.com/pedrokarim/azur-promilia-fr-launcher).
 
