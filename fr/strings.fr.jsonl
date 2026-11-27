@@ -54224,10 +54224,60 @@
 {"id":1552753,"jp":"いえ、とくに見かけませんでしたよ。\n……それから、奇妙なエネルギーの異常の方なんですが、麦が伸びきったところで消えてしまったんですよね。","fr":"Non, je n'ai remarqué personne en particulier.\n… Quant à cette étrange fluctuation d'Énergie, elle a disparu dès que le blé a cessé de pousser."}
 {"id":1552754,"jp":"一度ジルスのところに戻って報告しようか。","fr":"On retourne voir Jils pour lui faire notre rapport ?"}
 {"id":1552755,"jp":"なるほど、それでシロロがいなかったのか。","fr":"Je vois, c'est donc pour ça que Shiroro était introuvable."}
-{"id":1552756,"jp":"ごめんなさい。不用心でした……","fr":"Je suis désolé. J'aurais dû faire preuve de plus de prudence…"}
+{"id":1552756,"jp":"ごめんなさい。不用心でした……","fr":"Pardon. J'aurais dû faire plus attention…"}
+{"id":1552757,"jp":"いや、無事ならいいんだ。\nそれに、作物の異常な成長とエネルギー異常に関連があるという重要な手がかりも得られたしな。","fr":"Ne t'en fais pas, l'essentiel, c'est que tu n'aies rien.\nEt puis, nous avons obtenu un indice précieux : la croissance anormale des cultures est liée aux perturbations d'Énergie."}
+{"id":1552758,"jp":"ねえルミィ、こういう現象に心当たりはないかな？","fr":"Dis, Lumi, ça te dit quelque chose, ce genre de phénomène ?"}
+{"id":1552759,"jp":"うーん……特定の作物にだけ影響が出ることなんて話は聞いたことないのだ。\nロースランサには巨大植物は多いんだけど。","fr":"Hmm… La grande Lumi n'a jamais entendu parler d'un phénomène qui ne toucherait que certaines cultures.\nPourtant, les plantes géantes ne manquent pas à Lors Lains."}
 {"id":1552760,"jp":"そっか……うーん……","fr":"Je vois… Hmm…"}
+{"id":1552761,"jp":"ねえ、もしかして最近起きてるおかしな現象の話をしてた？\nその原因だったら、わたし心当たりがあるかも……","fr":"Dites, vous parliez des phénomènes étranges de ces derniers temps ?\nJe crois que j'ai une petite idée de ce qui pourrait les provoquer…"}
 {"id":1552762,"jp":"あれ、コムギ？","fr":"Tiens, Komugi ?"}
+{"id":1552763,"jp":"最近の報告とか、いまの話とか……どこかで似たような記述を読んだ気がするんだよね……","fr":"Les derniers signalements, ce que vous venez de raconter… J'ai l'impression d'avoir lu quelque chose de similaire quelque part…"}
+{"id":1552764,"jp":"えっと……たしかおばあちゃんの書斎に古い本があったんだけど、\nそこに書かれてたような……","fr":"Euh… Il me semble qu'il y avait un vieux livre dans le bureau de grand-mère,\net que c'était écrit dedans…"}
+{"id":1552765,"jp":"……そうだ、アマルテイアの伝説だよ！","fr":"… Ça y est, la légende d'Amalthea !"}
 {"id":1552766,"jp":"アマルテイア……","fr":"Amalthea…"}
+{"id":1552767,"jp":"で、その内容なんだけど……\nあれ、なんだっけ……思い出せない……書斎に戻って調べないと。","fr":"Et ce que raconte cette légende, c'est…\nHein, déjà ? Mince, je ne m'en souviens plus… Il faut que je retourne au bureau pour vérifier."}
+{"id":1552768,"jp":"僕も一緒に行くよ。|私も一緒に行くよ。","fr":"Je viens avec toi.|Je viens avec toi."}
+{"id":1552769,"jp":"あ、これだよ！わたしが言ってた古い本！","fr":"Ah, le voilà ! C'est le vieux livre dont je vous parlais !"}
+{"id":1552770,"jp":"栄養を土地に還元し、作物の成長を促進する……\nなるほど。異常な成長も成長には違いないのだ。ただ制御を失っているだけで。","fr":"Restituer les nutriments à la terre et favoriser la croissance des cultures…\nLa grande Lumi comprend mieux. Même anormale, ça reste de la croissance. Elle est simplement devenue incontrôlable."}
+{"id":1552771,"jp":"でも本によれば、昔のアマルテイアが事故を起こしたことは一度もなかったみたいだね。\n穏やかに土地を育んでただけで。","fr":"Mais d'après ce livre, Amalthea n'a jamais provoqué le moindre incident par le passé.\nSa seule activité consistait à prendre soin de la terre, en toute tranquillité."}
+{"id":1552772,"jp":"そういえば最近、赤蠍団みたいな怪しい連中がやたらと動き回っているけど……\nまさかあの連中がアマルテイアになにかしたのかな……？","fr":"Maintenant que j'y pense, des individus louches comme les Scorpions rouges s'agitent beaucoup ces derniers temps…\nTu crois qu'ils auraient pu faire quelque chose à Amalthea ?"}
+{"id":1552773,"jp":"……報告を見たかぎり、最近の異変はどれもメルとレイクの近くで起きてるね。\nそして、アマルテイアが隠れ住んでいるとされるのもメルトレイク……","fr":"… D'après les signalements, toutes les anomalies récentes se sont produites aux alentours du lac Melt.\nEt c'est justement là qu'Amalthea vivrait à l'abri des regards…"}
+{"id":1552774,"jp":"{playerName}さん、コムギさん、 新しい情報が入りました！","fr":"{playerName}, Komugi, nous avons de nouvelles informations !"}
+{"id":1552775,"jp":"メルトレイク付近でパトロール隊が怪しい痕跡を見つけたようです。\nおそらく赤蠍団が活動していた形跡とのこと！","fr":"Une patrouille a découvert des Traces suspectes près du lac Melt.\nTout porte à croire que les Scorpions rouges sont passés par là !"}
+{"id":1552776,"jp":"異変に関係があるかもしれないということで、ジルスさんが連絡をくれたようです。","fr":"Jils nous a prévenus parce que cela pourrait avoir un lien avec les phénomènes étranges."}
+{"id":1552777,"jp":"またメルトレイク？なら丁度いい機会だから、直接確認しに行こうか。","fr":"Encore le lac Melt ? Ça tombe bien, allons voir de nos propres yeux."}
+{"id":1552778,"jp":"了解しました！では私が案内しますね！","fr":"Très bien ! Je vais vous montrer le chemin !"}
+{"id":1552779,"jp":"いいか、計画は単純だ。ここでひとつ大火事を起こせば、アマルテイアは必ず消火に来る。\nそこで、準備しておいた罠にかけて捕まえる……ってわけだ。","fr":"Écoutez bien, le plan est simple. On déclenche un gros incendie ici, et Amalthea viendra forcément l'éteindre.\nIl ne restera plus qu'à le capturer avec les pièges qu'on a préparés…"}
+{"id":1552780,"jp":"隊長、その罠って本当に効くのか？あのキボ、かなりの巨体だと思うんだが……","fr":"Chef, t'es sûr que ces pièges vont fonctionner ? Ce Kibo est quand même sacrément imposant…"}
+{"id":1552781,"jp":"それに空を飛べるし……","fr":"Et en plus, il sait voler…"}
+{"id":1552782,"jp":"ふん、だから多めに仕掛けたんだよ。\nあいつが火を消してる隙に、四方から同時に起動させるって寸法だ。","fr":"Pff, c'est bien pour ça que j'en ai installé autant.\nPendant qu'il s'occupera d'éteindre le feu, on les déclenchera des quatre côtés en même temps."}
+{"id":1552783,"jp":"アマルテイアを捕らえりゃ、高値で売れる。そしたら山分けだ！","fr":"Une fois Amalthea capturé, on pourra le revendre à prix d'or. Et après, on se partagera le pactole !"}
+{"id":1552784,"jp":"おお、さすが兄貴！ずる賢いぜ！","fr":"Oh, bien joué, chef ! Qu'est-ce que t'es sournois !"}
+{"id":1552785,"jp":"おい待て、『ずる賢い』いってのは悪口だ。こういうときは『老獪』と言うべきだ！","fr":"Hé, attends un peu ! « Sournois », c'est une insulte. Le mot que tu cherches, c'est « fin stratège » !"}
+{"id":1552786,"jp":"おっ、そ、そうか……って、本当か？","fr":"Ah, j-je vois… Attends, t'es sûr ?"}
+{"id":1552787,"jp":"いいから、無駄口叩いてないで、さっさと仕事しろ！","fr":"Bon, assez bavardé ! Arrêtez de raconter des âneries et au boulot !"}
+{"id":1552788,"jp":"ちょっと待った！そんな計画はやめるんだ！|ちょっと待った！そんな計画、やめて！","fr":"Pas si vite ! Abandonnez ce plan immédiatement !|Pas si vite ! Abandonnez ce plan immédiatement !"}
+{"id":1552789,"jp":"フリスの見習い保安官、シロロです！\n公共の安全を脅かした罪で、大人しく捕まりなさい！","fr":"Shiroro, shérif stagiaire de Fleece !\nVous êtes en état d'arrestation pour mise en danger de la sécurité publique. Rendez-vous sans faire d'histoires !"}
+{"id":1552790,"jp":"てめえらなんかにビビるかよ！野郎ども、やっちまえ！","fr":"Vous croyez vraiment nous faire peur ? Les gars, réglez-leur leur compte !"}
+{"id":1552791,"jp":"ジルスさん、ただいま戻りました！\nそれから、赤蠍団の連中は捕らえました！","fr":"Jils, me voilà de retour !\nNous avons également arrêté les membres des Scorpions rouges !"}
+{"id":1552792,"jp":"ご苦労だったな。これで恐らく……","fr":"Beau travail. Avec ça, on devrait pouvoir…"}
+{"id":1552793,"jp":"長官、新たな報告が入りました！\n作物の異常な成長ですが、収まるどころか、さらに範囲が広がっているようです！","fr":"Commandant, un nouveau rapport vient d'arriver !\nLoin de s'atténuer, le phénomène de croissance anormale des cultures semble s'étendre à de nouvelles zones !"}
+{"id":1552794,"jp":"これです、見てください。","fr":"Le voici, regardez par vous-même."}
+{"id":1552795,"jp":"ということは……もしかして、赤蠍団にはまた別の仲間が？","fr":"Ça voudrait dire que… les Scorpions rouges auraient d'autres complices ?"}
+{"id":1552796,"jp":"いや……赤蠍団の狙いはアマルテイアだったよ。\nあの連中が悪人なのは間違いないけど、作物の異常な成長の原因じゃないと思う。","fr":"Non… Les Scorpions rouges en avaient après Amalthea.\nCe sont des criminels, aucun doute là-dessus, mais je ne pense pas qu'ils soient responsables de la croissance anormale des cultures."}
+{"id":1552797,"jp":"ならばまずは、異変の解決を急ごう。","fr":"Dans ce cas, notre priorité est de mettre fin à ces phénomènes au plus vite."}
+{"id":1552798,"jp":"ジルス、その報告書を見せてもらえないかな？\nなにか手がかりが見つかるかもしれないから。","fr":"Jils, tu peux me montrer ce rapport ?\nOn pourrait y trouver un indice."}
+{"id":1552799,"jp":"ああ、もちろんだ。ハーヴェイが持っているから、彼から受け取ってくれ。","fr":"Oui, bien sûr. C'est Harvey qui l'a, va le lui demander."}
+{"id":1552800,"jp":"集めた報告書？ほら、これだよ。","fr":"Les rapports qu'on a rassemblés ? Tiens, les voilà."}
+{"id":1552801,"jp":"なるほど……問題が起きてる場所はバラバラなのだ。","fr":"La grande Lumi voit… Les incidents se produisent à des endroits complètement différents."}
+{"id":1552802,"jp":"うーん……この異変、別の共通点があるような気がするね……","fr":"Hmm… J'ai l'impression que ces phénomènes ont un autre point commun…"}
+{"id":1552803,"jp":"{playerName}、なにか気づいたことでも？","fr":"{playerName}, tu as remarqué quelque chose ?"}
+{"id":1552804,"jp":"いや、まだわからないよ。もうすこし情報を集めてから……ね。","fr":"Non, pas encore. Il faudrait d'abord recueillir un peu plus d'informations…"}
+{"id":1552805,"jp":"じゃあ、パミーの奇跡工房に行ってみるか？パミーたちは情報通なのだ。","fr":"Et si on allait faire un tour à l'Atelier des miracles des Pammy ? Les Pammy sont toujours au courant de tout !"}
+{"id":1552806,"jp":"……地図を貸してほしい？構わんが、なにか気づいたことでもあるのか？","fr":"… Tu veux emprunter une carte ? Pas de problème, mais tu as remarqué quelque chose ?"}
+{"id":1552807,"jp":"すこしだけね。まず、最近異変が起きた場所に印をしてみるよ――","fr":"J'ai une petite idée. Pour commencer, je vais marquer les endroits où les dernières anomalies se sont produites…"}
+{"id":1552808,"jp":"――これが確認できた異変の発生した地点だけど、まず、ひとつ目の共通点は――","fr":"… Voilà tous les endroits où ces phénomènes ont été confirmés. Le premier point commun, c'est que…"}
+{"id":1552809,"jp":"どれも水に近いんだ。|どれも水に近いの。","fr":"Ils sont tous à proximité de l'eau.|Ils sont tous à proximité de l'eau."}
 {"id":1552852,"jp":"フォー！？","fr":"Fo !?"}
 {"id":1552855,"jp":"フォ、ウゥ――！","fr":"Fo, uuu~ !"}
 {"id":1552856,"jp":"飛んでいきました！","fr":"Il s'est envolé !"}
