@@ -56332,7 +56332,7 @@
 {"id":1554864,"jp":"キボファイトをはじめよう！","fr":"C'est parti pour le Duel de Kibo !"}
 {"id":1554865,"jp":"キボを捕まえたあと、テララとキボファイトを行う。","fr":"Après avoir capturé un Kibo, affronter Terara lors d'un Duel de Kibo."}
 {"id":1554866,"jp":"宝石をめぐる争い","fr":"La querelle des joyaux"}
-{"id":1554867,"jp":"ティティとノノは野外へ星輝鉱を探しに行く準備をしており、あなたを宝探しの探検隊に誘った。","fr":"Tiffy et Nono se préparent à partir à la recherche de minerai d'éclat stellaire en pleine nature et vous ont invité à rejoindre leur équipe de chasseurs de trésors."}
+{"id":1554867,"jp":"ティティとノノは野外へ星輝鉱を探しに行く準備をしており、あなたを宝探しの探検隊に誘った。","fr":"Tiffy et Nono se préparent à partir à la recherche de minerai d'éclat stellaire en pleine nature et vous proposent de rejoindre leur brigade des trésors."}
 {"id":1554868,"jp":"謎めいた村長さん","fr":"L'énigmatique Chef du village"}
 {"id":1554869,"jp":"謎が多い村長……興味があれば、探ってみてはどうだろうか？","fr":"Le Chef du village semble cacher bien des mystères… Si votre curiosité vous pousse à en savoir davantage, pourquoi ne pas mener votre petite enquête ?"}
 {"id":1554870,"jp":"森の奇縁","fr":"Un étrange lien au cœur de la forêt"}
@@ -56353,30 +56353,80 @@
 {"id":1554885,"jp":"お願い、笑って","fr":"Un sourire, s'il te plaît"}
 {"id":1554886,"jp":"ねえ、お願い。オータミット、もしかしてなにか悩んでいるの？なにか困りごとがあるの？どうして……あなたは微笑まないの？","fr":"Dis-moi, je t'en prie, Otamit. Quelque chose te tracasse ? Tu as des soucis ? Pourquoi… est-ce que tu ne souris jamais ?"}
 {"id":1554887,"jp":"しっぽの誘惑","fr":"La tentation de la queue"}
+{"id":1554888,"jp":"シロロはなにか悩んでいるようだ。どうしたのか様子を見に行こう。","fr":"Shiroro semble préoccupé par quelque chose. Allez voir ce qui le tracasse."}
 {"id":1554889,"jp":"失われた錬金の儀式","fr":"Le rituel alchimique perdu"}
+{"id":1554890,"jp":"野外でいじめられているニャアホを見つけた。急いで囲まれて攻撃されている状況から助け出してあげよう！","fr":"Vous avez découvert un Nyaho malmené en pleine nature. Vite, venez à son secours avant que ses agresseurs ne lui fassent davantage de mal !"}
+{"id":1554891,"jp":"『ヤルハドーム』の修復","fr":"Restauration du « dôme de Yarha »"}
+{"id":1554892,"jp":"森の女神のヤルハドーム修復を手伝うため、星臨者とルミィは村民たちとともに、芽吹の谷の各地で必要な素材を集めることにした……","fr":"Pour aider la déesse de la forêt à restaurer le dôme de Yarha, l'Enfant des étoiles et Lumi ont décidé de parcourir la Vallée des Bourgeons avec les villageois afin de rassembler les matériaux nécessaires…"}
+{"id":1554893,"jp":"最近、シャルル村では村民たちの睡眠の質が著しく低下し、一部には夢遊病のような症状も出ている。いったい原因はなんだろう……","fr":"Dernièrement, la qualité du sommeil des habitants du Village de Charlulu s'est considérablement dégradée. Certains présentent même des symptômes de somnambulisme. Quelle pourrait bien en être la cause… ?"}
 {"id":1554894,"jp":"騒々しい隣人","fr":"Les voisins bruyants"}
+{"id":1554895,"jp":"村長は星臨者とテララに何か依頼したいことがあるようだ。","fr":"Le Chef du village semble avoir une Mission à confier à l'Enfant des étoiles et à Terara."}
+{"id":1554896,"jp":"よく晴れたいつもどおりの日、星臨者は突然ジルスから助けを求められた。いったいなにが起きたのだろうか……","fr":"Par une belle journée ensoleillée comme tant d'autres, Jils a soudain sollicité l'aide de l'Enfant des étoiles. Que s'est-il donc passé… ?"}
+{"id":1554897,"jp":"今日も領主の邸宅を訪れる者は相変わらず多かった。星臨者は、そこに身を寄せている蘭香子が元気に過ごしているか様子を見に来たのだが、思いがけず不気味な噂を山のように耳にした……","fr":"Comme à son habitude, le manoir du seigneur accueillait de nombreux visiteurs. L'Enfant des étoiles venait prendre des nouvelles de Lan Xiangzi, qui y séjournait, mais y entendit contre toute attente une multitude de rumeurs inquiétantes…"}
+{"id":1554898,"jp":"フリスの街で偶然小玉と出会い、見え隠れする縁の糸が街角のどこかを指しているのにも気づいた……","fr":"Vous avez croisé Xiaoyu par hasard dans les rues de Fleece et remarqué que les fils du destin, à peine perceptibles, semblaient vous guider vers un endroit au détour d'une rue…"}
+{"id":1554899,"jp":"アビィのケガはすこしは良くなっただろうか。エヴァーガーデンへ彼女の様子を見に行こう。","fr":"Les blessures d'Abby se sont-elles un peu résorbées ? Rendez-vous au Jardin d’Evergreen pour prendre de ses nouvelles."}
 {"id":1554900,"jp":"農園拡張・1","fr":"Agrandissement de la ferme - 1"}
+{"id":1554901,"jp":"だんだんと豊かになっていく農園を見て、リリカがなにか言いたそうだ。彼女のところへ行って話を聞いてみよう。","fr":"En contemplant la ferme qui devient de plus en plus prospère, Lyrica semble avoir quelque chose à vous dire. Allez écouter ce qu'elle a à vous raconter."}
+{"id":1554902,"jp":"キボファイトエリアレベル","fr":"Niveau de zone du Duel de Kibo"}
+{"id":1554903,"jp":"テララからキボファイトのエリアレベルに関するルールを聞き、案内に従って報酬を受け取る。","fr":"Écouter les explications de Terara concernant les niveaux de zone du Duel de Kibo, puis suivre ses indications pour récupérer la récompense."}
+{"id":1554904,"jp":"芽吹の谷の強者対決・1","fr":"Duel des champions de la Vallée des Bourgeons - 1"}
+{"id":1554905,"jp":"テララとキボファイトを行い、勝利する","fr":"Remporter un Duel de Kibo contre Terara."}
+{"id":1554906,"jp":"芽吹の谷の強者対決・2","fr":"Duel des champions de la Vallée des Bourgeons - 2"}
+{"id":1554907,"jp":"ルルカとキボファイトを行い、勝利する","fr":"Remporter un Duel de Kibo contre Luruka."}
+{"id":1554908,"jp":"芽吹の谷の強者対決・3","fr":"Duel des champions de la Vallée des Bourgeons - 3"}
+{"id":1554909,"jp":"ミィティとキボファイトを行い、勝利する","fr":"Remporter un Duel de Kibo contre Mitty."}
+{"id":1554910,"jp":"芽吹の谷の強者対決・4","fr":"Duel des champions de la Vallée des Bourgeons - 4"}
+{"id":1554911,"jp":"シャルル村の村長とキボファイトを行い、勝利する","fr":"Remporter un Duel de Kibo contre le Chef du village de Charlulu."}
+{"id":1554912,"jp":"芽吹の谷の強者対決・5","fr":"Duel des champions de la Vallée des Bourgeons - 5"}
+{"id":1554913,"jp":"ファランタとキボファイトを行い、勝利する","fr":"Remporter un Duel de Kibo contre Faridah."}
 {"id":1554914,"jp":"フリスの強者対決・1","fr":"Duel des champions de Fleece - 1"}
+{"id":1554915,"jp":"シロロとキボファイトを行い、勝利する","fr":"Remporter un Duel de Kibo contre Shiroro."}
 {"id":1554916,"jp":"フリスの強者対決・2","fr":"Duel des champions de Fleece - 2"}
+{"id":1554917,"jp":"シャルとキボファイトを行い、勝利する","fr":"Remporter un Duel de Kibo contre Shalle."}
 {"id":1554918,"jp":"フリスの強者対決・3","fr":"Duel des champions de Fleece - 3"}
+{"id":1554919,"jp":"キャスベルとキボファイトを行い、勝利する","fr":"Remporter un Duel de Kibo contre Cathbelle."}
 {"id":1554920,"jp":"フリスの強者対決・4","fr":"Duel des champions de Fleece - 4"}
+{"id":1554921,"jp":"コムギとキボファイトを行い、勝利する","fr":"Remporter un Duel de Kibo contre Komugi."}
+{"id":1554922,"jp":"キボファイトセンターの挑戦","fr":"Défi du centre de Duel de Kibo"}
+{"id":1554923,"jp":"キボファイトセンターの挑戦をクリアして、グランドマスターになろう！","fr":"Relevez le défi du centre de Duel de Kibo et décrochez le titre de Grand maître !"}
 {"id":1554924,"jp":"群星の試練・1","fr":"Épreuve des étoiles - 1"}
+{"id":1554925,"jp":"プロミリアは、星臨者の到来によってその姿を変えていった。群星の下、数多の未来がその先に広がっている。さあ、歩みを進めるのだ。あらゆる未知と試練に立ち向かい、己が力を証明せよ。この世界に認められ、さらなる好機を手にするその時のために……","fr":"Depuis l'arrivée de l'Enfant des étoiles, Promilia se transforme peu à peu. Sous la voûte étoilée, d'innombrables avenirs s'offrent à vous. Poursuivez votre chemin. Affrontez l'inconnu, surmontez toutes les épreuves et prouvez votre force. Viendra alors le jour où ce monde reconnaîtra votre valeur et vous ouvrira de nouveaux horizons…"}
 {"id":1554926,"jp":"群星の試練・2","fr":"Épreuve des étoiles - 2"}
 {"id":1554927,"jp":"群星の試練・3","fr":"Épreuve des étoiles - 3"}
 {"id":1554928,"jp":"群星の試練・4","fr":"Épreuve des étoiles - 4"}
 {"id":1554929,"jp":"群星の試練・五","fr":"Épreuve des étoiles - 5"}
 {"id":1554930,"jp":"群星の試練・六","fr":"Épreuve des étoiles - 6"}
 {"id":1554931,"jp":"大金持ちへの第一歩！","fr":"Le premier pas vers la fortune !"}
+{"id":1554932,"jp":"農園では取引を通じてたくさんの良いものを手に入れられる。さっそく試してみよう！","fr":"Les échanges commerciaux de la ferme permettent d'obtenir toutes sortes de choses intéressantes. Essayez sans plus attendre !"}
 {"id":1554933,"jp":"「星冠杯」大会","fr":"Tournoi de la « Coupe de la Couronne stellaire »"}
+{"id":1554934,"jp":"テララは、キボファイト大会を主催したので、星臨者に参加してほしいという。","fr":"Terara a organisé un tournoi de Duel de Kibo et souhaite que l'Enfant des étoiles y participe."}
 {"id":1554935,"jp":"桃花の御札の奇縁","fr":"L'étrange lien du talisman aux fleurs de pêcher"}
 {"id":1554936,"jp":"結晶の骸に眠る遺跡","fr":"Les ruines enfouies dans une dépouille cristalline"}
 {"id":1554937,"jp":"百朔前の祈り","fr":"Une prière d'il y a cent lunes"}
+{"id":1554938,"jp":"百朔前の祈り、百朔前の流星……","fr":"Une prière d'il y a cent lunes, une étoile filante d'il y a cent lunes…"}
+{"id":1554939,"jp":"スパイトホーンを撃破する","fr":"Vaincre Spitehorn."}
+{"id":1554940,"jp":"開発したベタベタ弾はスパイトホーンの飛行能力を完全に封じた。この恐るべき敵を倒し、ミィティを過去の影から解き放とう！","fr":"Les projectiles collants que vous avez mis au point ont complètement neutralisé la capacité de vol de Spitehorn. Terrassez ce redoutable adversaire et libérez Mitty des ombres de son passé !"}
 {"id":1554941,"jp":"受け継ぐ意志","fr":"Une volonté en héritage"}
+{"id":1554942,"jp":"『タナの火祭り』を無事に開催し、村民たちの呼びかけに大狼さまが応えてくれるようにするには、『受け継ぐ意志の武器』を作らなければならない。そのため、エンカクたちは星臨者の協力を必要としている……","fr":"Pour que la fête du feu de Tana se déroule sans encombre et que le Seigneur Grand Loup réponde à l'appel des villageois, il faut fabriquer l'« Arme de la volonté héritée ». Enkaku et ses compagnons ont donc besoin de l'aide de l'Enfant des étoiles…"}
 {"id":1554943,"jp":"火祭りのごちそう","fr":"Le festin de la fête du feu"}
+{"id":1554944,"jp":"『先祖を祀る美食』は先祖のアウラを慰める供物であり、タナの火祭りに欠かせない捧げ物でもある。ティナナとルタは、そのために奔走している……","fr":"Le « Festin des ancêtres » est une offrande destinée à apaiser l'Aura des ancêtres et constitue un élément indispensable de la fête du feu de Tana. Tinana et Ruta se démènent pour le préparer…"}
 {"id":1554945,"jp":"かがり火の準備","fr":"Préparatifs du feu de joie"}
+{"id":1554946,"jp":"『消えないかがり火』があってこそ、大狼さまは目を向けてくださる。しかし、一体どうすれば火を絶やさずにいられるのか、カークはいまだ途方に暮れていた……","fr":"Seul le « Brasier inextinguible » pourra attirer l'attention du Seigneur Grand Loup. Mais comment faire pour que ses flammes ne s'éteignent jamais ? Kirk cherche encore désespérément une solution…"}
 {"id":1554947,"jp":"村民の願い","fr":"Le souhait des villageois"}
+{"id":1554948,"jp":"テララは村の大通り沿いに立てられたクエスト掲示板の前に立っている。星臨者に何か話したいことがあるようだ……","fr":"Terara se tient devant le tableau des quêtes installé le long de la rue principale du village. Elle semble avoir quelque chose à dire à l'Enfant des étoiles…"}
+{"id":1554949,"jp":"ルミィから旅に必要な物資の買い出しを頼まれたが、店主たちの様子がすこしおかしいようだ……","fr":"Lumi vous a demandé d'acheter les provisions nécessaires au voyage, mais les commerçants semblent se comporter étrangement…"}
+{"id":1554950,"jp":"フリスの冒険者ギルドの前で、星臨者は思いがけず見覚えのある……しっぽを見つけた？誰かに化けた塗山小玉を追ううちに、五十朔もの間、封印されてきた過去を知るのだった……","fr":"Devant la Guilde des aventuriers de Fleece, l'Enfant des étoiles a aperçu par hasard quelque chose de familier… Une queue de renard ? En poursuivant Tushan Xiaoyu, qui avait pris l'apparence de quelqu'un d'autre, l'Enfant des étoiles découvrit un passé enfoui depuis cinquante lunes…"}
 {"id":1554951,"jp":"ミィティを追跡する","fr":"Suivre les traces de Mitty"}
+{"id":1554952,"jp":"舞い散る雪のように・陣地守護","fr":"Comme des flocons virevoltants - Défense de la position"}
 {"id":1554953,"jp":"ルダリスを倒す","fr":"Vaincre Rudalis"}
+{"id":1554954,"jp":"モルフォーレ＆ナイトフォールを倒す","fr":"Vaincre Morphore et Vespervamp."}
+{"id":1554955,"jp":"ある午後の偶然の出会いから、星臨者はシャルに付き合って別の腹ごしらえの方法を試すことになった。","fr":"À la suite d'une rencontre fortuite au cours d'un après-midi, l'Enfant des étoiles accompagne Shalle pour essayer une nouvelle façon de se remplir l'estomac."}
+{"id":1554956,"jp":"本場のフリスの味を学ぶため、星臨者とシャルは真剣で忙しい探求の旅に出た。","fr":"Pour découvrir les saveurs authentiques de Fleece, l'Enfant des étoiles et Shalle se lancent dans une quête gastronomique aussi sérieuse que mouvementée."}
+{"id":1554957,"jp":"料理と味に関する悩みがなかなか解決しない中、予期せぬ騒動が密かに本来の計画を狂わせた。","fr":"Alors que leurs interrogations culinaires et gustatives restent sans réponse, un incident inattendu vient discrètement bouleverser leurs plans."}
+{"id":1554958,"jp":"なぜフレイムはキャバードに追いかけられていたのだろう？彼にいったいなにが起きたのか聞いてみよう。","fr":"Pourquoi Flame était-il poursuivi par un Cabbird ? Allez lui demander ce qui lui est arrivé."}
+{"id":1554959,"jp":"簡易クラフト-ベタベタ弾を製作","fr":"Fabrication simple - Fabriquer des projectiles collants"}
+{"id":1554960,"jp":"農園に畑小屋がありません。","fr":"Votre ferme ne dispose pas de cabane de culture."}
+{"id":1554961,"jp":"農園にキボの食堂がありません。","fr":"Votre ferme ne dispose pas de cantine pour Kibo."}
 {"id":1554963,"jp":"農園本部を開く","fr":"Ouvrir le QG de la ferme"}
 {"id":1554966,"jp":"エリアクエストを開く","fr":"Ouvrir les quêtes de zone"}
 {"id":1554970,"jp":"ストーリー完了","fr":"Terminer une histoire"}
