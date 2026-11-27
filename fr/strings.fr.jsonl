@@ -54512,16 +54512,66 @@
 {"id":1553041,"jp":"ねえ、もしあなたがよければ、ここにいてもいいのよ。","fr":"Dis, si tu en as envie, tu peux rester avec nous."}
 {"id":1553042,"jp":"メェェェ〜","fr":"Mêêêê~"}
 {"id":1553043,"jp":"わあ、クロディーメたちがみんなメーフィのところにきたよ！","fr":"Waouh ! Regarde, tous les Clodime sont venus rejoindre le Meafy !"}
+{"id":1553044,"jp":"メーフィが戻ってきて、みんな喜んでるんだね！","fr":"Ils sont tous contents que le Meafy soit revenu !"}
 {"id":1553045,"jp":"メェェェ～ン。","fr":"Bêêêê~n."}
+{"id":1553046,"jp":"思ってもみなかったわ……\nクロディーメがメーフィと仲良くできるだなんて……","fr":"Je n'aurais jamais imaginé ça…\nQue des Clodime puissent aussi bien s'entendre avec un Meafy…"}
+{"id":1553047,"jp":"もしかしたら、本に書かれていることだって、\nすこしは見直したほうがいいのかもしれないわね。","fr":"Peut-être qu'il faudrait parfois remettre en question\nce qu'on apprend dans les livres."}
 {"id":1553048,"jp":"ヨォ……","fr":"Yoo…"}
+{"id":1553049,"jp":"目のまえにいるのはメテオールだ。鷹の連峰で見かけるとはめずらしい。","fr":"C'est un Staray. Il est rare d'en croiser dans les Monts du Faucon."}
+{"id":1553050,"jp":"もしかしてなにか焦っている……？","fr":"On dirait que quelque chose l'inquiète…"}
 {"id":1553051,"jp":"ヨォ！ヨォヨォ！","fr":"Yoo ! Yoo yoo !"}
+{"id":1553052,"jp":"もしかして……「ついてこい」って言ってるのかな？","fr":"Est-ce qu'il essaie… de me dire de le suivre ?"}
+{"id":1553053,"jp":"わかった、道案内を頼む！|わかった、道案内をお願い！","fr":"D'accord, montre-moi le chemin !|D'accord, montre-moi le chemin !"}
 {"id":1553054,"jp":"ヨォォ～！","fr":"Yooo~ !"}
+{"id":1553055,"jp":"星……臨、者……？きて……くれて……あり……がと……","fr":"Enfant… des étoiles… ? Merci… d'être là…"}
 {"id":1553056,"jp":"み……み、ず……","fr":"E… e, au…"}
 {"id":1553057,"jp":"水を飲む？","fr":"Lui faire boire de l'eau ?"}
 {"id":1553058,"jp":"水をかけようか？","fr":"Lui jeter de l'eau ?"}
 {"id":1553059,"jp":"ヨォ……ヨォ～！","fr":"Yoo… Yoo~ !"}
+{"id":1553060,"jp":"欲しいのは水じゃない……？もしかして、メテオールの毒にあたったとか……？","fr":"Ce n'est pas de l'eau qu'il lui faut… ? Il aurait été empoisonné par le Staray ?"}
 {"id":1553061,"jp":"ヨォ～！","fr":"Yoo~ !"}
+{"id":1553062,"jp":"なるほど。それなら、解毒剤になるシーリリィの花を探さないと。","fr":"Je comprends. Dans ce cas, il faut trouver une fleur de lys marin pour préparer un antidote."}
+{"id":1553063,"jp":"シーリリィを口に含むと、フィルはようやく回復の兆しを見せた。","fr":"Après avoir pris le lys marin en bouche, Phil a enfin montré des signes de rétablissement."}
+{"id":1553064,"jp":"……はぁ。\nありがとう、星臨者さん。おかげで助かったよ。","fr":"… Ouf.\nMerci, Enfant des étoiles. Tu m'as sauvé la vie."}
+{"id":1553065,"jp":"気にしないで。そんなことより、どうしてこんなところに？","fr":"Ne t'en fais pas. Mais dis-moi, qu'est-ce que tu fais ici ?"}
+{"id":1553066,"jp":"俺が焦りすぎたんだ……\nこいつと一緒に、本気で『戦って』みたくて……","fr":"J'ai voulu aller trop vite…\nJe voulais vraiment livrer un vrai combat à ses côtés…"}
+{"id":1553067,"jp":"いつもは、キリのおじさんに立ち会ってもらってたんだ。\nなんだかんだ腕は立つからさ。","fr":"D'habitude, je demande à l'oncle Kiri de nous superviser.\nQuoi qu'on en dise, il sait se battre."}
+{"id":1553068,"jp":"こいつともうまくやれてるし、ファイエルくらいなら倒せると思ってた。\nそれが、このザマだ……","fr":"On s'entend plutôt bien, tous les deux, alors je pensais qu'on pourrait venir à bout d'un Fayel sans problème.\nEt voilà le résultat…"}
+{"id":1553069,"jp":"星臨者さんがいなかったら、危なかった。","fr":"Sans toi, Enfant des étoiles, ça aurait pu très mal finir."}
+{"id":1553070,"jp":"僕がいてよかったね。|私がいてよかったね。","fr":"Heureusement que j'étais dans les parages.|Heureusement que j'étais dans les parages."}
+{"id":1553071,"jp":"このメテオールがいてくれて、よかったよ。","fr":"Heureusement que ce Staray était là."}
+{"id":1553072,"jp":"恩に着るよ、こいつがきみを連れてきたんだよね？","fr":"Je t'en dois une. C'est lui qui t'a fait venir jusqu'ici, pas vrai ?"}
+{"id":1553073,"jp":"見つけたのがきみでよかった。","fr":"Heureusement que c'est toi qui m'as trouvé."}
+{"id":1553074,"jp":"それにしてもメテオールの毒にやられるなんて……\nメテオールは仲間を傷つけたりしないはずだ。|それにしてもメテオールの毒にやられるなんて……\nメテオールは仲間を傷つけたりしないはず。","fr":"Quand même, être empoisonné par un Staray…\nNormalement, les Staray ne font pas de mal à leurs compagnons.|Quand même, être empoisonné par un Staray…\nNormalement, les Staray ne font pas de mal à leurs compagnons."}
+{"id":1553075,"jp":"こいつとは、ちょっと複雑なんだ。","fr":"C'est un peu compliqué entre lui et moi."}
+{"id":1553076,"jp":"ふつう、俺たちは同じように翼をもつキボを相棒に選ぶんだ。\nそのほうが絆を深めやすいから。たとえば、スカイホークとか、ピーチィとかね。","fr":"En général, on choisit des Kibo qui ont des ailes comme nous.\nC'est plus facile de renforcer notre Lien avec eux. Des Skyhawk ou des Peachy, par exemple."}
+{"id":1553077,"jp":"でも、俺はこいつとスターリンクした。\n以前、偶然こいつを助けたことがあってさ。そのときに決めたんだよ。","fr":"Mais c'est avec lui que j'ai formé un Lien stellaire.\nUn jour, je lui ai porté secours par hasard. C'est à ce moment-là que j'ai pris ma décision."}
+{"id":1553078,"jp":"別に後悔はしてない。こいつとは真剣に向きあってきたつもりだし。","fr":"Je ne regrette pas mon choix. J'ai toujours fait de mon mieux pour le comprendre."}
+{"id":1553079,"jp":"暮らしてくうえで問題もあったけど、なんだって乗り越えてきた。\nだけど、こいつの毒だけは、どうしてもダメだった。","fr":"On a rencontré quelques difficultés en vivant ensemble, mais on les a toutes surmontées.\nSauf une : son poison. Ça, je n'ai jamais réussi à m'en accommoder."}
+{"id":1553080,"jp":"キリのおじさんは、フライリーのころから育てないと、\n毒を完全にさけるのは難しいって言ってた。","fr":"L'oncle Kiri m'a expliqué qu'à moins de l'élever depuis le stade de Flyree,\nil était très difficile d'éviter complètement son poison."}
+{"id":1553081,"jp":"……なあ、星臨者さん、俺たちを助けてくれないか？","fr":"… Dis, Enfant des étoiles, tu voudrais bien nous donner un coup de main ?"}
+{"id":1553082,"jp":"もちろん。僕はメテオールの専門家だからね！|もちろん。私はメテオールの専門家だからね！","fr":"Bien sûr ! Les Staray n'ont aucun secret pour moi !|Bien sûr ! Les Staray n'ont aucun secret pour moi !"}
+{"id":1553083,"jp":"むり……メテオールのことなんかまったく知らないし……","fr":"Impossible… Je ne connais absolument rien aux Staray…"}
+{"id":1553084,"jp":"すごいね……だから一瞬で状況を理解できたんだ！","fr":"Impressionnant… Pas étonnant que tu aies compris la situation en un instant !"}
+{"id":1553085,"jp":"構わないよ。きみと別のキボとのやり取りは、いろいろ学べるしね。","fr":"Pas de problème. Je peux aussi apprendre beaucoup en observant tes interactions avec un autre Kibo."}
+{"id":1553086,"jp":"それじゃ、きみのキボとのやりとり、もう一回見せてくれよ！","fr":"Alors, montre-moi encore une fois comment tu interagis avec ton Kibo !"}
+{"id":1553087,"jp":"息の合ったやり取りをいくつか披露すると、\nフィルは驚きと羨ましさの入り混じった眼差しを向けてきた。","fr":"Après avoir fait quelques démonstrations de votre parfaite coordination avec votre Kibo,\nvous avez vu Phil vous regarder avec un mélange d'émerveillement et d'envie."}
+{"id":1553088,"jp":"信じられない！キボとそんなことまでできるの！？","fr":"Incroyable ! On peut vraiment faire tout ça avec un Kibo !?"}
 {"id":1553089,"jp":"ヨォ～！ヨォォ～！","fr":"Yoo~ ! Yooo~ !"}
+{"id":1553090,"jp":"戦うだけじゃなくて、フィルと一緒にこの世界を冒険することもできるよ。","fr":"Tu sais, il n'y a pas que les combats. Tu peux aussi partir à l'aventure et découvrir le monde avec Phil."}
+{"id":1553091,"jp":"……メテオールの気持ち、なんだかわかったかもしれない。","fr":"… Je crois que je commence à comprendre ce que ressent mon Staray."}
+{"id":1553092,"jp":"キボと心が通じあうって、こんなに不思議な感覚だったんだな……","fr":"Alors, c'est ça, être en communion avec un Kibo… Quelle étrange sensation…"}
+{"id":1553093,"jp":"ん？……こいつ、緊張してる？どうして――","fr":"Hein ?… Il est nerveux ? Pourquoi…"}
+{"id":1553094,"jp":"……って、まずいぞ！ファイエルがイグネストを連れて戻ってきやがった！","fr":"… Oh, mince ! Ce fichu Fayel est revenu avec un Ignest !"}
+{"id":1553095,"jp":"ファイエルって、根に持つタイプなのかも……","fr":"On dirait que les Fayel sont plutôt rancuniers…"}
+{"id":1553096,"jp":"大丈夫、いまの俺たちなら、負ける気がしないぜ！さあ、かかってこい！","fr":"T'inquiète, maintenant qu'on en est là, je nous vois mal perdre ! Allez, venez vous battre !"}
+{"id":1553097,"jp":"（ファイエルは倒せた。ただ、フィルがまたメテオールの毒にやられたみたいだ……）|（ファイエルは倒せた。ただ、フィルがまたメテオールの毒にやられたみたいね……）","fr":"(On a vaincu le Fayel. Mais Phil semble avoir de nouveau été empoisonné par son Staray…)|(On a vaincu le Fayel. Mais Phil semble avoir de nouveau été empoisonné par son Staray…)"}
+{"id":1553098,"jp":"あ、あとすこしで……よけられた、のに……","fr":"J-j'y étais presque… J'ai failli l'esquiver…"}
+{"id":1553099,"jp":"だけど、こいつが毒を放った瞬間……","fr":"Mais au moment où il a libéré son poison…"}
+{"id":1553100,"jp":"（毒にやられたのは同じだけど、前よりもずっと容体は良さそうだ）|（毒にやられたのは同じだけど、前よりもずっと容体は良さそうね）","fr":"(Il a encore été empoisonné, mais son état semble bien meilleur que la dernière fois.)|(Il a encore été empoisonné, mais son état semble bien meilleur que la dernière fois.)"}
+{"id":1553101,"jp":"星臨者さん！俺、感じたんだ！","fr":"Enfant des étoiles ! Je l'ai senti !"}
+{"id":1553102,"jp":"メテオールの気持ちも……こいつがしたいことが何なのかも！","fr":"Ce que ressent mon Staray… Et même ce qu'il voulait faire !"}
+{"id":1553103,"jp":"なにか、あたたかいものが体のなかを流れてる……これが絆のチカラなのか？","fr":"Je sens comme une douce chaleur parcourir mon corps… C'est donc ça, la puissance du Lien ?"}
 {"id":1553110,"jp":"ヨォォ！ヨォ……","fr":"Yooo ! Yoo…"}
 {"id":1553119,"jp":"ヨォ！？","fr":"Yoo !?"}
 {"id":1553133,"jp":"リ……オ！","fr":"Ri… O !"}
