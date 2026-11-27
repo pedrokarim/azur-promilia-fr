@@ -54334,13 +54334,63 @@
 {"id":1552863,"jp":"で、このままだとフリスに迷惑をかけるから、\n自分の力が影響しないハイエルフの森へ引っ越そうと決めた――","fr":"Et comme il ne veut pas causer davantage de problèmes à Fleece,\nil a décidé de partir vivre dans la forêt des Hauts-Elfes, où son pouvoir ne causera aucun tort…"}
 {"id":1552864,"jp":"ただ、歩みはとても遅かったし、ずっとフリスを振り返っていたね。","fr":"Pourtant, tu avançais très lentement et tu n'arrêtais pas de regarder derrière toi, en direction de Fleece."}
 {"id":1552865,"jp":"それは当然なのだ！アマルテイアはフリスがすこしずつ成長していくのを見守ってきたのだ。\nこんなに深い愛着があったら、だれだって離れたくないのだ。","fr":"Mais c'est tout naturel ! Amalthea veille sur Fleece depuis longtemps et a vu la ville grandir petit à petit.\nQuand on tient autant à un endroit, personne n'a envie de le quitter !"}
+{"id":1552866,"jp":"ならアマルテイア、行かないでください！\nあなたは二千朔も昔からフリスを見守ってくれていたんです。\nフリスがあなたをお荷物だなんて思うはずがありません！","fr":"Alors, Amalthea, ne partez pas, je vous en prie !\nCela fait deux mille lunes que vous veillez sur Fleece.\nJamais les habitants de Fleece ne vous considéreraient comme un fardeau !"}
+{"id":1552867,"jp":"シロロの言う通りなのだ。\nそれに、力の制御ができなくなっただけなんだから、原因を突き止めて解決すればいいのだ。","fr":"Shiroro a raison !\nTu as simplement perdu le contrôle de ton pouvoir. Il suffit de trouver la cause du problème et d'y remédier !"}
+{"id":1552868,"jp":"二千朔も昔から……\nそういえばアマルテイア、フリスが発展してから、きみは一度も力を使わず静かに暮らしていた――\n本にはそう書いてあったんだけど、その期間ってどれくらいだったのかな？","fr":"Depuis deux mille lunes…\nDis, Amalthea, d'après un livre, tu aurais mené une vie paisible sans jamais utiliser ton pouvoir depuis que Fleece a prospéré…\nCombien de temps cela a-t-il duré exactement ?"}
 {"id":1552869,"jp":"ウッ～？","fr":"Uh~ ?"}
+{"id":1552870,"jp":"なるほど――たぶん一千朔ぐらいだそうなのだ。","fr":"La grande Lumi comprend… Amalthea dit que ça fait environ mille lunes."}
 {"id":1552871,"jp":"あっ、もしかして――","fr":"Ah, serait-ce…"}
+{"id":1552872,"jp":"うん、アマルテイアが数百朔も休んでいる間にエネルギーを蓄積しすぎたんだと思う。\nだから、このまえ火事を消したのをきっかけに、その力が溢れ出したんだろうね。","fr":"Oui, je pense qu'Amalthea a accumulé une Réserve d'Énergie trop importante durant ces centaines de lunes de repos.\nEn éteignant l'incendie l'autre jour, il a probablement libéré cette Énergie, qui est devenue incontrôlable."}
+{"id":1552873,"jp":"エネルギーを蓄積しすぎたのが問題なのか。\nそれなら戦って発散すればいいだけなのだ。\n相手は、{playerName}がぴったりなのだ、なんたって強いからな！","fr":"Alors, le problème vient d'une Réserve d'Énergie trop importante ?\nDans ce cas, il suffit de se battre pour évacuer le surplus !\n{playerName} fera parfaitement l'affaire, avec toute cette puissance !"}
+{"id":1552874,"jp":"これはまた乱暴な解決策だね……でもわかった、全力で相手するよ！","fr":"C'est une méthode plutôt brutale… Mais d'accord, je vais me battre de toutes mes forces !"}
+{"id":1552875,"jp":"うん！気持ちのいい戦いだったね！","fr":"Oui ! Quel combat ! Ça fait du bien !"}
+{"id":1552876,"jp":"アマルテイアが、「力が元に戻った」と言ってるのだ！","fr":"Amalthea dit que son pouvoir est revenu à la normale !"}
+{"id":1552877,"jp":"これがアマルテイアの『恩寵の甘露』……","fr":"Alors, c'est ça, le « Nectar de grâce » d'Amalthea…"}
+{"id":1552878,"jp":"すごく綺麗だ……|すごく綺麗……","fr":"C'est magnifique…|C'est magnifique…"}
+{"id":1552879,"jp":"アマルテイアが言ってる。\n「フリスは数千朔もの間、様々な困難を乗り越えて立派に成長した、\n誇らしい子どもたちなんだ」って。","fr":"Voilà ce que dit Amalthea :\n« Au fil des millénaires de lunes, les habitants de Fleece ont surmonté bien des épreuves et grandi admirablement.\nCe sont mes enfants, et ils font ma fierté. »"}
+{"id":1552880,"jp":"これからも、アマルテイアはフリスを見守り続けるんだろうね。","fr":"Amalthea continuera sûrement à veiller sur Fleece encore longtemps."}
 {"id":1552881,"jp":"フウゥ～","fr":"Fuuu~"}
+{"id":1552882,"jp":"星臨者さん、こんにちは！","fr":"Bonjour, Enfant des étoiles !"}
+{"id":1552883,"jp":"コムギ、最近どう？作物の異変は解決したかな？","fr":"Komugi, comment ça va depuis la dernière fois ? Le problème des cultures est réglé ?"}
+{"id":1552884,"jp":"あれから作物が異常な成長する現象は一度も起きていないよ！\n星臨者さんたちが手伝ってくれたおかげだね！","fr":"Depuis ce jour-là, il n'y a plus eu le moindre problème de croissance anormale des cultures !\nEt tout ça, c'est grâce à ton aide et à celle de tes compagnons, Enfant des étoiles !"}
+{"id":1552885,"jp":"しかも最近は雨や日差しが丁度いいんだ。\n葡萄園も順調だし、今朔の金麦はすごい豊作になりそうだよ。","fr":"En plus, ces derniers temps, on a juste ce qu'il faut de pluie et de soleil.\nLes vignes se portent à merveille, et la récolte de blé doré de cette lune s'annonce exceptionnelle !"}
+{"id":1552886,"jp":"アマルテイアの力が正しく作用しているんだろうね。\nエネルギーを溜め込みすぎると問題が起きるってわかったから、\n適度に力を使うようになったんじゃないかな。","fr":"Le pouvoir d'Amalthea doit fonctionner normalement à présent.\nMaintenant qu'il sait qu'accumuler trop d'Énergie peut causer des problèmes,\nil doit utiliser son pouvoir avec modération."}
+{"id":1552887,"jp":"でも、アマルテイアはいまもメルトレイクでひっそりと隠れてて、\n姿を見せてくれないの……みんな、感謝の思いを伝えたいのに。","fr":"Mais Amalthea vit toujours en retrait au lac Melt et ne se montre pas…\nPourtant, tout le monde aimerait tant le remercier."}
+{"id":1552888,"jp":"仕方がないよ。アマルテイアはそういう性格だからね。\nひとのなかで賑やかに暮らすより、工芸品のそばで静かに暮らす方が好きなんだよ。","fr":"On n'y peut rien, Amalthea a toujours été comme ça.\nIl préfère vivre paisiblement au milieu des créations artisanales plutôt que dans l'agitation de la foule."}
+{"id":1552889,"jp":"もし感謝をしてるなら、フリスをより素晴らしい街にするのがいちばんじゃないかな？\nアマルテイアは、活気に満ちている街の姿を見るのが好きだからね。","fr":"Si vous voulez le remercier, le meilleur moyen serait de rendre Fleece encore plus merveilleuse, non ?\nCe qu'Amalthea aime, c'est voir la ville déborder de vie."}
+{"id":1552890,"jp":"もちろん、分かってるよ！アマルテイアはフリスの――","fr":"Bien sûr, je le sais ! Après tout, Amalthea est…"}
+{"id":1552891,"jp":"『甘泉の恩恵』なんだからね！","fr":"La « Bénédiction de la source douce » de Fleece !"}
+{"id":1552892,"jp":"これでヤツらの目論見も泡と消えたのだ。","fr":"Et voilà, leur beau petit plan est tombé à l'eau !"}
+{"id":1552893,"jp":"シロロたちが連中の足取りを突き止めてくれたおかげだね。","fr":"C'est grâce à Shiroro et aux autres, qui ont réussi à retrouver leur piste."}
+{"id":1552894,"jp":"当然のことをしたまでですよ。\nそれに逮捕が簡単にできたのは、星臨者さんが頑張ってくれたおかげです。","fr":"Je n'ai fait que mon devoir.\nEt si nous avons pu les arrêter aussi facilement, c'est grâce à vos efforts, Enfant des étoiles."}
+{"id":1552895,"jp":"（これで作物の異常な成長が止まるのかは分からないけど……\nとりあえず保安官に聞いてみよう）","fr":"(Rien ne dit que ça suffira à mettre fin à la croissance anormale des cultures…\nJe vais aller me renseigner auprès du shérif.)"}
+{"id":1552896,"jp":"ケロ……？星臨者は最近の作物が異常に育つ話についてなにか聞きたいのかケロ？","fr":"Coâ… ? Tu veux en savoir plus sur les cultures qui poussent anormalement ces derniers temps, Enfant des étoiles, coâ ?"}
+{"id":1552897,"jp":"コロコロのところに、なにか情報はない？","fr":"Tu aurais des informations là-dessus, Korokoro ?"}
+{"id":1552898,"jp":"あるに決まってるケロ。\n最近はみんなその話題で持ちきりで、特に川辺で住んでいる市民たちが驚いているケロ。","fr":"Bien sûr que Korokoro en a, coâ !\nTout le monde ne parle que de ça en ce moment, et les habitants des bords de la rivière n'en reviennent toujours pas, coâ !"}
 {"id":1552899,"jp":"川辺だね……？","fr":"C'est au bord de la rivière… ?"}
+{"id":1552900,"jp":"具体的には、川辺のどこかな？","fr":"À quel endroit de la rivière, exactement ?"}
+{"id":1552901,"jp":"コロコロは詳しい場所までは知らないけど、依頼所に行ってみると分かるはずだケロ！\nいま、異常な作物の処理に関する依頼が掲示板にたくさん出ているはずだケロ。","fr":"Korokoro ne connaît pas les endroits précis, mais tu devrais trouver ça au bureau des missions, coâ !\nLe tableau d'affichage doit être rempli de Missions pour se débarrasser de ces cultures anormales, coâ !"}
+{"id":1552902,"jp":"はあ……ここにもないわね……いったいどこへ行っちゃったのかしら……","fr":"Pfff… Rien ici non plus… Mais où a-t-il bien pu passer… ?"}
+{"id":1552903,"jp":"……あれ、アニス？なにか探しものでも？","fr":"… Tiens, Anais ? Tu cherches quelque chose ?"}
+{"id":1552904,"jp":"あ、{playerName}ちゃん。ちょうどいいところで会ったわ。\n実はね、薬の材料になるハーブと、ジュイに頼まれた花の種を採っていたんだけど、\n袋をひとつ落としちゃったの……","fr":"Ah, {playerName}, tu tombes à pic.\nJe ramassais des herbes médicinales et les graines de fleurs que Joy m'avait demandées,\nmais j'ai perdu l'un de mes sachets…"}
+{"id":1552905,"jp":"それなら、一緒に探そうか？","fr":"Dans ce cas, on le cherche ensemble ?"}
+{"id":1552906,"jp":"ありがとう、すごく助かるわ。","fr":"Merci, ça m'aiderait beaucoup."}
+{"id":1552907,"jp":"アニスと一緒に袋を入念に探したが、なにも見つからなかった……","fr":"Vous avez fouillé minutieusement les environs avec Anais à la recherche du sachet, mais sans rien trouver…"}
+{"id":1552908,"jp":"見つからないね……落としたのはこのあたりじゃないのかも。","fr":"Toujours rien… Tu ne l'as peut-être pas fait tomber par ici."}
+{"id":1552909,"jp":"……あっ、{playerName}ちゃん、あの木の枝を見て。同じ方向に揺れてない？","fr":"… Oh, {playerName}, regarde les branches de cet arbre. Tu ne trouves pas qu'elles bougent toutes dans la même direction ?"}
+{"id":1552910,"jp":"それに、風で揺れているようにも見えないね……\nもしかして「あっちに行け」って言ってるとか？","fr":"Et on dirait bien que ce n'est pas le vent qui les fait bouger…\nTu crois qu'elles essaient de nous dire d'aller par là ?"}
+{"id":1552911,"jp":"不思議ね……森がわたしたちを助けようとしてくれている、ってことかしら？","fr":"Comme c'est étrange… Tu crois que la forêt essaie de nous venir en aide ?"}
+{"id":1552912,"jp":"案外そうかもしれないね……よし、あの案内に従ってみようよ。","fr":"Ce n'est pas impossible… Allez, essayons de suivre ses indications."}
+{"id":1552913,"jp":"見て、あそこに小さな包みがある。\nアニスの落としものってあれじゃない？","fr":"Regarde, il y a un petit sachet là-bas.\nAnais, ce ne serait pas celui que tu as perdu ?"}
+{"id":1552914,"jp":"ええ、そうみたいね……見つかってよかった……！\nそれにしても、優しい森ね。まさかわたしたちを案内をしてくれるだなんて……","fr":"Oui, on dirait bien… Quel soulagement de l'avoir retrouvé !\nCette forêt est vraiment bienveillante. Qui aurait cru qu'elle nous montrerait le chemin…"}
+{"id":1552915,"jp":"あっちの茂みでなにかが動いたような……","fr":"J'ai l'impression que quelque chose a bougé dans les buissons, là-bas…"}
+{"id":1552916,"jp":"あれは……『ウッダ』じゃないかしら？","fr":"Ce ne serait pas… un Woodda ?"}
 {"id":1552917,"jp":"ウッダ？","fr":"Un Woodda ?"}
+{"id":1552918,"jp":"若木を相棒として育てるキボで、森の小さな守護神でもあるの。\nそれから、樹木との会話もできるらしいわ。","fr":"C'est un Kibo qui prend soin d'un jeune arbre dont il fait son compagnon. C'est aussi l'un des petits esprits protecteurs de la forêt.\nIl paraît même qu'il peut communiquer avec les arbres."}
+{"id":1552919,"jp":"……ちょっと待って。ということはつまり、\n木々が道を教えてくれたのって、ウッディーのおかげかもしれないわね。","fr":"… Attends une seconde. Dans ce cas,\nc'est peut-être grâce à Woody que les arbres nous ont montré le chemin."}
 {"id":1552920,"jp":"ボググ……！","fr":"Bogugu… !"}
 {"id":1552921,"jp":"あ、隠れちゃったね。","fr":"Ah, il s'est caché."}
+{"id":1552922,"jp":"臆病だけど、好奇心はあるみたいね。まあ、そっとしておいてあげましょう。","fr":"Il est craintif, mais il a l'air plutôt curieux. Enfin, laissons-le tranquille."}
 {"id":1552926,"jp":"ありがとう、アニス！","fr":"Merci, Anais !"}
 {"id":1552934,"jp":"ボググ……","fr":"Bogugu…"}
 {"id":1552935,"jp":"ボグッ！","fr":"Bogu !"}
