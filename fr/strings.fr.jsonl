@@ -58435,8 +58435,12 @@
 {"id":1556845,"jp":"薬材を探し、集めた素材をルルカに渡そう。\nルルカの手にかかれば、これらの素材は民兵を目覚めさせる重要な薬となるのだ。","fr":"Cherchez les ingrédients médicinaux et remettez-les à Luruka.\nEntre ses mains, ces ingrédients permettront de préparer un remède essentiel pour réveiller les miliciens."}
 {"id":1556846,"jp":"マルティナに目覚めの薬を飲ませる","fr":"Faites boire la potion d'éveil à Martina"}
 {"id":1556847,"jp":"薬を飲ませる","fr":"Faire boire le remède"}
+{"id":1556848,"jp":"マルティナに目覚めの薬を飲ませる。\n複雑で強烈な味の刺激があれば、彼女を夢から目覚めさせることができるかもしれない。","fr":"Faites boire la potion d'éveil à Martina.\nUn mélange de saveurs complexes et intenses pourrait suffire à la tirer de son rêve."}
 {"id":1556849,"jp":"不審な野営地を探す","fr":"Chercher le campement suspect"}
+{"id":1556850,"jp":"進化教団の野営地を探す","fr":"Recherchez le campement du Culte de l'Évolution"}
 {"id":1556851,"jp":"怪しい場所へ向かう","fr":"Aller à l'endroit suspect"}
+{"id":1556852,"jp":"キャンプする者を観察する","fr":"Observez les occupants du campement"}
+{"id":1556853,"jp":"進化教団の野営地を発見","fr":"Découvrez le campement du Culte de l'Évolution"}
 {"id":1556854,"jp":"凶獣を倒す（0/3）","fr":"Vaincre les Bêtes maudites (0/3)"}
 {"id":1556855,"jp":"凶獣を倒す（1/3）","fr":"Vaincre les Bêtes maudites (1/3)"}
 {"id":1556856,"jp":"凶獣を倒す（2/3）","fr":"Vaincre les Bêtes maudites (2/3)"}
@@ -58446,32 +58450,46 @@
 {"id":1556860,"jp":"ルルカの家に戻る","fr":"Retourner chez Luruka"}
 {"id":1556861,"jp":"村長に経緯を報告する","fr":"Raconter les faits au chef du village"}
 {"id":1556862,"jp":"金麦パンを作成する","fr":"Préparer du pain de blé doré"}
+{"id":1556863,"jp":"普通の弾けるどっきりコーンを作る","fr":"Préparez du maïs surprise éclatant ordinaire"}
 {"id":1556864,"jp":"ポカポカポトフを作る","fr":"Préparer un pot-au-feu tout chaud"}
 {"id":1556865,"jp":"ティティとノノを探す","fr":"Chercher Tiffy et Nono"}
 {"id":1556866,"jp":"新しい料理を開発する","fr":"Mettre au point un nouveau plat"}
+{"id":1556867,"jp":"星臨者の野菜肉団子を製作する","fr":"Préparez les boulettes de viande aux légumes de l'Enfant des étoiles"}
 {"id":1556868,"jp":"シンフォーリアを探す","fr":"Chercher Symphoria"}
 {"id":1556869,"jp":"来た理由を説明する","fr":"Expliquer la raison de sa venue"}
 {"id":1556870,"jp":"ミィティについて行く","fr":"Suivre Mitty"}
 {"id":1556871,"jp":"ファランタと話す","fr":"Parler à Faridah"}
+{"id":1556872,"jp":"ファランタについていく","fr":"Suivez Faridah"}
 {"id":1556873,"jp":"本拠地の天幕に入る","fr":"Entrer dans la tente du camp principal"}
 {"id":1556874,"jp":"天幕を出る","fr":"Sortir de la tente"}
 {"id":1556875,"jp":"ミィティを探す","fr":"Chercher Mitty"}
 {"id":1556876,"jp":"ミィティを見つける","fr":"Trouver Mitty"}
+{"id":1556877,"jp":"ミィティにこっそりついて行く","fr":"Suivez discrètement Mitty"}
+{"id":1556878,"jp":"ミィティの挙動を観察する","fr":"Observez le comportement de Mitty"}
 {"id":1556879,"jp":"ミィティを追いかける","fr":"Courir après Mitty"}
 {"id":1556880,"jp":"ミィティに追いつく","fr":"Rattraper Mitty"}
 {"id":1556881,"jp":"ミィティのピンチ","fr":"Mitty en danger"}
 {"id":1556882,"jp":"修復する","fr":"Réparer"}
+{"id":1556883,"jp":"風障りの山砦の突き当たりへ","fr":"Rejoignez le fond de la forteresse montagneuse du Brise-Vent"}
 {"id":1556884,"jp":"巨大な怪鳥を迎え撃つ","fr":"Intercepter l'oiseau monstrueux géant"}
+{"id":1556885,"jp":"スパイトホーンを撃退する","fr":"Repoussez le Spitehorn"}
 {"id":1556886,"jp":"風隠れ岩に入る","fr":"Entrer dans le Roc Coupe-Vent"}
+{"id":1556887,"jp":"ファランタと一緒に出発する","fr":"Prenez la route avec Faridah"}
+{"id":1556888,"jp":"風隠れ岩の外にある分かれ道へ向かう","fr":"Rejoignez l'embranchement situé à l'extérieur du Roc Coupe-Vent"}
 {"id":1556889,"jp":"分かれ道へ向かう","fr":"Aller à la bifurcation"}
 {"id":1556890,"jp":"谷の古道へ向かう","fr":"Aller à l'ancien chemin de la vallée"}
 {"id":1556891,"jp":"谷底に入る","fr":"Entrer dans le fond de la vallée"}
+{"id":1556892,"jp":"スパイトホーンから逃げる","fr":"Échappez au Spitehorn"}
 {"id":1556893,"jp":"谷を越える","fr":"Traverser la vallée"}
+{"id":1556894,"jp":"天道の塔の遺跡、その入り口に到着","fr":"Atteignez l'entrée des ruines de la Tour céleste"}
+{"id":1556895,"jp":"氷柱を避け、身を隠せる洞窟を探す","fr":"Évitez les stalactites de glace et trouvez une grotte où vous réfugier"}
 {"id":1556896,"jp":"洞窟に入る","fr":"Entrer dans la grotte"}
 {"id":1556897,"jp":"水源を探す","fr":"Chercher une source d'eau"}
 {"id":1556898,"jp":"水を取る","fr":"Prélever de l'eau"}
 {"id":1556899,"jp":"マムベリーを採取する","fr":"Cueillir des baies mum"}
+{"id":1556900,"jp":"簡易クラフトでベタベタ弾を製作する","fr":"Fabriquez des projectiles collants via la Fabrication simple"}
 {"id":1556901,"jp":"ベタベタ弾を作成する","fr":"Fabriquer des balles collantes"}
+{"id":1556902,"jp":"カルマーナの礎を探索する","fr":"Explorez les fondations de Karmana"}
 {"id":1556903,"jp":"テララの目覚め","fr":"Le réveil de Terara"}
 {"id":1556904,"jp":"みんなと合流する","fr":"Retrouver tout le monde"}
 {"id":1556905,"jp":"飛行追跡挑戦に入る","fr":"Commencer le défi de poursuite en vol"}
@@ -58481,12 +58499,15 @@
 {"id":1556909,"jp":"風隠れ岩に到着","fr":"Arriver au Roc Coupe-Vent"}
 {"id":1556910,"jp":"風隠れ岩を出る","fr":"Quitter le Roc Coupe-Vent"}
 {"id":1556911,"jp":"天道の塔へ向かう","fr":"Aller à la tour de la Voie céleste"}
+{"id":1556912,"jp":"天道の塔の入口へ向かう","fr":"Rejoignez l'entrée de la Tour céleste"}
 {"id":1556913,"jp":"天道の塔の門を調べる","fr":"Examiner la porte de la tour de la Voie céleste"}
 {"id":1556914,"jp":"星砂の刻印を解く","fr":"Briser le Sceau de sable stellaire"}
+{"id":1556915,"jp":"星砂のルーレットを解く","fr":"Résolvez l'énigme de la roulette de sable stellaire"}
 {"id":1556916,"jp":"天道の塔を調べる","fr":"Explorer la tour de la Voie céleste"}
 {"id":1556917,"jp":"芽吹の谷へ戻る","fr":"Retourner à la Vallée des Bourgeons"}
 {"id":1556918,"jp":"ティティと会話する","fr":"Parler à Tiffy"}
 {"id":1556919,"jp":"ルルカの家に入る","fr":"Entrer chez Luruka"}
+{"id":1556920,"jp":"引き続き、メーツァのいる場所へ向かう","fr":"Poursuivez votre chemin pour rejoindre Metsa"}
 {"id":1556921,"jp":"メーツァと話す","fr":"Parler à Metsa"}
 {"id":1556922,"jp":"村長の家を出る","fr":"Sortir de la maison du chef du village"}
 {"id":1556923,"jp":"村民集会に参加する","fr":"Participer à l'assemblée du village"}
@@ -58494,43 +58515,78 @@
 {"id":1556925,"jp":"軟らかい木を採集する","fr":"Récolter du bois tendre"}
 {"id":1556926,"jp":"片塵石を採集する","fr":"Récolter de la pierre friable"}
 {"id":1556927,"jp":"素材をモモに渡す","fr":"Donner les matériaux à Momo"}
+{"id":1556928,"jp":"儀式用の武器を製作する","fr":"Fabriquez une arme cérémonielle"}
 {"id":1556929,"jp":"武器をエンカクに渡す","fr":"Donner l'arme à Enkaku"}
+{"id":1556930,"jp":"儀式用の武器をエンカクに渡す","fr":"Remettez l'arme cérémonielle à Enkaku"}
 {"id":1556931,"jp":"ティナナ、ルタと話す","fr":"Parler à Tinana et à Ruta"}
 {"id":1556932,"jp":"食材を採集する","fr":"Récolter des ingrédients"}
 {"id":1556933,"jp":"ノワルタケを採集する","fr":"Récolter du Noirtake"}
 {"id":1556934,"jp":"スタンシアを採集する","fr":"Récolter du Stancia"}
+{"id":1556935,"jp":"ティナナにスタンシアを3個渡す","fr":"Remettez 3 Stancia à Tinana"}
+{"id":1556936,"jp":"食材をティナナに渡す。","fr":"Remettez les ingrédients à Tinana."}
 {"id":1556937,"jp":"カークと話す","fr":"Parler à Kirk"}
 {"id":1556938,"jp":"カークの悩み","fr":"Les soucis de Kirk"}
+{"id":1556939,"jp":"フレイザーの素材を採集する","fr":"Récoltez des matériaux de Fraser"}
 {"id":1556940,"jp":"カークに素材を渡す","fr":"Donner les matériaux à Kirk"}
 {"id":1556941,"jp":"カークに素材を渡す。","fr":"Donner les matériaux à Kirk."}
+{"id":1556942,"jp":"トーテムの篝火を製作する","fr":"Fabriquez un brasier totémique"}
+{"id":1556943,"jp":"トーテムの篝火を配置する","fr":"Placez un brasier totémique"}
+{"id":1556944,"jp":"トーテムのかがり火を設置する。","fr":"Installez le brasier totémique."}
 {"id":1556945,"jp":"モフンガと話す","fr":"Parler à Mohunga"}
 {"id":1556946,"jp":"モフンガについていく","fr":"Suivre le Mohunga"}
 {"id":1556947,"jp":"悩んでいる村民と話す","fr":"Parler à l'habitant tourmenté"}
+{"id":1556948,"jp":"フェザーリーフを採集する","fr":"Récoltez des Featherleaf"}
 {"id":1556949,"jp":"音の出所を探す","fr":"Trouver l'origine du son"}
+{"id":1556950,"jp":"村の入り口でジュリリと話す","fr":"Discutez avec Juriri à l'entrée du village"}
+{"id":1556951,"jp":"行方不明のモフンガを探す","fr":"Recherchez le Mohunga disparu"}
 {"id":1556952,"jp":"ルルカの秘密を探る","fr":"Percer le secret de Luruka"}
+{"id":1556953,"jp":"フェザーリーフをジュリリに渡す","fr":"Remettez les Featherleaf à Juriri"}
+{"id":1556954,"jp":"採集したフェザーリーフをジュリリに渡す。\n大地がもたらしたこの産物は、火祀の祭典を彩る美しい飾りとなるだろう。","fr":"Remettez à Juriri les Featherleaf que vous avez récoltés.\nCe cadeau de la terre deviendra une magnifique décoration qui embellira les festivités du rite du feu."}
 {"id":1556955,"jp":"村を出る準備をする","fr":"Se préparer à quitter le village"}
+{"id":1556956,"jp":"水晶の採集地点へ向かう","fr":"Rejoignez le site de collecte des cristaux"}
+{"id":1556957,"jp":"凶獣を撃退する（1/2）","fr":"Repoussez les Bêtes maudites (1/2)"}
 {"id":1556958,"jp":"近くの水晶を採集する","fr":"Récolter les cristaux des environs"}
 {"id":1556959,"jp":"進化教団を追う","fr":"Poursuivre le Culte de l'Évolution"}
+{"id":1556960,"jp":"モルフォーレとナイトフォールを倒す","fr":"Terrassez le Morphore et le Vespervamp"}
 {"id":1556961,"jp":"村長に水晶を渡す","fr":"Donner les cristaux au chef du village"}
+{"id":1556962,"jp":"採集した水晶を村長に渡す。\n魂の水晶は、懐かしき過去と、守るべき現在、そしていつか辿り着く未来を繋ぎ合わせるものだ。","fr":"Remettez au Chef du village les cristaux que vous avez récoltés.\nLe cristal d'âme unit le passé qui nous est cher, le présent que nous devons protéger et l'avenir vers lequel nous avançons."}
 {"id":1556963,"jp":"家に帰って休む","fr":"Rentrer se reposer"}
 {"id":1556964,"jp":"月見の場所へ向かう","fr":"Aller au point d'observation de la lune"}
 {"id":1556965,"jp":"村に戻る","fr":"Retourner au village"}
 {"id":1556966,"jp":"農園で目を覚ます","fr":"Se réveiller à la ferme"}
+{"id":1556967,"jp":"ルルカの様子を見に行く","fr":"Allez prendre des nouvelles de Luruka"}
 {"id":1556968,"jp":"ラルと話す","fr":"Parler à Ral"}
 {"id":1556969,"jp":"ソールと話す","fr":"Parler à Sol"}
+{"id":1556970,"jp":"スーニヤの侵蝕の蔓延状況を調査する","fr":"Évaluez l'étendue de la propagation de l'Érosion de Sunya"}
+{"id":1556971,"jp":"遠吠え平原のスーニヤの侵蝕を浄化する","fr":"Purifiez l'Érosion de Sunya dans les Plaines hurlantes"}
+{"id":1556972,"jp":"風導の森のスーニヤの侵蝕を浄化する","fr":"Purifiez l'Érosion de Sunya dans la Forêt du Vent-Guide"}
+{"id":1556973,"jp":"霧隠れの森のスーニヤの侵蝕を浄化する","fr":"Purifiez l'Érosion de Sunya dans la forêt des Brumes"}
+{"id":1556974,"jp":"ルルカの眠れる意識を呼び覚ます","fr":"Réveillez la conscience endormie de Luruka"}
+{"id":1556975,"jp":"スーニヤの渦を調査する","fr":"Examinez le vortex de Sunya"}
 {"id":1556976,"jp":"翼人を支援する","fr":"Soutenir les Ailés"}
 {"id":1556977,"jp":"村の門へ向かう","fr":"Aller à la porte du village"}
 {"id":1556978,"jp":"ティナナたちと話す","fr":"Parler à Tinana et aux autres"}
 {"id":1556979,"jp":"メーツァに尋ねる","fr":"Demander à Metsa"}
 {"id":1556980,"jp":"聖樹の楔を製作する","fr":"Fabriquer des coins de l'arbre sacré"}
 {"id":1556981,"jp":"製作する","fr":"Fabriquer"}
+{"id":1556982,"jp":"エヴァーガーデンへ向かう","fr":"Rendez-vous au Jardin d'Evergreen"}
+{"id":1556983,"jp":"1つ目の聖樹の楔を配置する","fr":"Placez le premier coin de l'arbre sacré"}
 {"id":1556984,"jp":"聖樹の楔を配置する","fr":"Placer un coin de l'arbre sacré"}
+{"id":1556985,"jp":"2つ目の聖樹の楔を配置する","fr":"Placez le deuxième coin de l'arbre sacré"}
+{"id":1556986,"jp":"3つ目の聖樹の楔を配置する","fr":"Placez le troisième coin de l'arbre sacré"}
 {"id":1556987,"jp":"メーツァを待つ","fr":"Attendre Metsa"}
+{"id":1556988,"jp":"1つ目の星脈ノードへ向かう","fr":"Rejoignez le premier nœud de veine stellaire"}
 {"id":1556989,"jp":"スーニヤの侵蝕を浄化","fr":"Purifier l'Érosion de Sunya"}
+{"id":1556990,"jp":"2つ目の星脈ノードへ向かう","fr":"Rejoignez le deuxième nœud de veine stellaire"}
 {"id":1556991,"jp":"階段を下りる","fr":"Descendre l'escalier"}
 {"id":1556992,"jp":"廃墟の下層へ向かう","fr":"Aller au niveau inférieur des ruines"}
+{"id":1556993,"jp":"廃墟の洞窟を通り抜ける","fr":"Traversez la grotte des ruines"}
+{"id":1556994,"jp":"星脈ノードエリアに到着する","fr":"Atteignez la zone du nœud de veine stellaire"}
 {"id":1556995,"jp":"進化教団を倒す","fr":"Vaincre le Culte de l'Évolution"}
 {"id":1556996,"jp":"翼人と話す","fr":"Parler aux Ailés"}
+{"id":1556997,"jp":"3つ目の星脈ノードへ向かう","fr":"Rejoignez le troisième nœud de veine stellaire"}
+{"id":1556998,"jp":"棘付きの防衛柵を設置する（0/2）","fr":"Installez les barricades à pointes (0/2)"}
+{"id":1556999,"jp":"棘付きの防衛柵を設置する","fr":"Installez les barricades à pointes"}
 {"id":1557000,"jp":"棘付きの防衛柵を設置する（1/2）","fr":"Installer les barrières défensives à pointes (1/2)"}
 {"id":1557001,"jp":"矢塔を建設する（0/2）","fr":"Construire les tours de flèches (0/2)"}
 {"id":1557002,"jp":"矢塔を建設する","fr":"Construire des tours de flèches"}
@@ -61501,6 +61557,10 @@
 {"id":1559990,"jp":"編成コストが上限を超えています。","fr":"Le coût de composition de l'équipe dépasse la limite autorisée."}
 {"id":1559991,"jp":"保存確認","fr":"Confirmer l'enregistrement"}
 {"id":1559992,"jp":"編成コストが上限を超えています。編成を保存せずに退出しますか？","fr":"Le coût de composition de l'équipe dépasse la limite autorisée. Voulez-vous quitter sans enregistrer la composition ?"}
+{"id":1559993,"jp":"同じキボは使用できません。","fr":"Vous ne pouvez pas utiliser le même Kibo."}
+{"id":1559994,"jp":"適切な対戦相手が見つかりませんでした。しばらくしてからもう一度お試しください。","fr":"Aucun adversaire compatible n'a été trouvé. Veuillez réessayer dans quelques instants."}
+{"id":1559995,"jp":"読み込み中……{0}%","fr":"Chargement…{0}%"}
+{"id":1559996,"jp":"対戦相手の読み込みを待っています……","fr":"En attente de la fin du chargement de l'adversaire…"}
 {"id":1560000,"jp":"相手がファイトの招待に応答しませんでした。","fr":"Votre adversaire n'a pas répondu à l'invitation au duel."}
 {"id":1560001,"jp":"まだ準備していません。","fr":"Vous n'avez pas encore confirmé votre préparation."}
 {"id":1560002,"jp":"準備済み","fr":"Prêt"}
