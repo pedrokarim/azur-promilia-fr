@@ -59633,44 +59633,104 @@
 {"id":1559437,"jp":"小さな杭に擬態しているアウラ……？","fr":"Une Aura qui se fait passer pour un petit piquet… ?"}
 {"id":1559438,"jp":"露のようなアウラ……？","fr":"Une Aura qui ressemble à une goutte de rosée… ?"}
 {"id":1559439,"jp":"小さな旋風に擬態しているアウラ……？","fr":"Une Aura qui se fait passer pour un petit tourbillon… ?"}
+{"id":1559440,"jp":"小さな雷雲に擬態しているアウラ……？","fr":"Une Aura qui se fait passer pour un petit nuage orageux… ?"}
+{"id":1559441,"jp":"金属質の竜王時代の彫像。雷が落ちたらどうなるか……？","fr":"Une statue métallique datant de l'ère du Roi-dragon. Que se passerait-il si la foudre la frappait… ?"}
+{"id":1559442,"jp":"散らばっている石門の残骸には、雷電を導く古い紋様が今も残っている。","fr":"Les vestiges éparpillés de la porte de pierre portent encore d'anciens motifs capables de conduire la foudre."}
+{"id":1559443,"jp":"地面の石に擬態しているアウラ……？","fr":"Une Aura qui se fait passer pour une pierre au sol… ?"}
+{"id":1559444,"jp":"燃える炎のようなアウラ……？","fr":"Une Aura qui ressemble à une flamme vive… ?"}
+{"id":1559445,"jp":"浮かぶ木の実に擬態しているアウラ……？","fr":"Une Aura qui se fait passer pour un fruit flottant dans les airs… ?"}
 {"id":1559446,"jp":"群落内のキボを掃討","fr":"Éliminer les Kibo de la colonie"}
 {"id":1559447,"jp":"キボの宝物を探す","fr":"Chercher le trésor du Kibo"}
+{"id":1559448,"jp":"カウントダウン終了までターゲットを防衛する。現在のHP：{1}%","fr":"Protéger la cible jusqu'à la fin du compte à rebours. PV actuels : {1}%"}
+{"id":1559449,"jp":"カウントダウン終了までターゲットを防衛する。現在のHP：{0}%","fr":"Protéger la cible jusqu'à la fin du compte à rebours. PV actuels : {0}%"}
+{"id":1559450,"jp":"左クリックまたはFキーでソザンカのはしごを配置し、15層まで積み重ねるとチャレンジクリア","fr":"Effectuer un clic gauche ou appuyer sur la touche F pour placer un élément de l'échelle de Sozanka. Empiler 15 étages pour réussir le défi"}
+{"id":1559451,"jp":"現在のチャレンジを終了しますか？","fr":"Voulez-vous mettre fin au défi en cours ?"}
+{"id":1559452,"jp":"ソザンカのはしごを組み立てる","fr":"Assembler l'échelle de Sozanka"}
+{"id":1559453,"jp":"画面をタップしてソザンカのはしごを配置","fr":"Appuyer sur l'écran pour placer un élément de l'échelle de Sozanka"}
+{"id":1559454,"jp":"谷の各地に散らばる『ソザンカのはしご』。最近の獣人たちは、これをただの飾りと見なしている。だが、かつて祭祀を執り行った獣人の先祖たちは、大いなる神霊と交信するために、こうしてトーテムを積み重ねていたらしい。なんでも、トーテムを高く積むほど、より多くの啓示を得られるのだとか……","fr":"Les « échelles de Sozanka » sont disséminées aux quatre coins de la vallée. De nos jours, les Furriens ne les considèrent plus que comme de simples décorations. Pourtant, leurs ancêtres, qui pratiquaient autrefois des rites sacrés, auraient empilé ces totems pour communiquer avec les grands esprits divins. On raconte que plus les totems s'élevaient vers le ciel, plus les révélations étaient nombreuses…"}
+{"id":1559455,"jp":"落としたトーテムを3個以下に抑える","fr":"Ne pas faire tomber plus de 3 totems"}
+{"id":1559456,"jp":"トーテムの半数を正しく配置する","fr":"Placer correctement la moitié des totems"}
+{"id":1559457,"jp":"トーテムを2個正しく配置する","fr":"Placer correctement 2 totems"}
+{"id":1559458,"jp":"ソザンカのはしごを撤去","fr":"Démonter l'échelle de Sozanka"}
+{"id":1559459,"jp":"近くに珍跡キボが現れました。","fr":"Un Kibo aux traces rares est apparu à proximité."}
 {"id":1559460,"jp":"{1}倍消費して受取","fr":"Récupérer (coût ×{1})"}
 {"id":1559461,"jp":"報酬受取","fr":"Récupérer les récompenses"}
 {"id":1559462,"jp":"報酬放棄","fr":"Renoncer aux récompenses"}
+{"id":1559463,"jp":"報酬を受け取らずに終了しますか？","fr":"Voulez-vous quitter sans récupérer les récompenses ?"}
 {"id":1559464,"jp":"チームリスト","fr":"Liste d'équipes"}
+{"id":1559465,"jp":"{1}を消費して宝箱を開けますか？","fr":"Voulez-vous utiliser {1} pour ouvrir le coffre ?"}
+{"id":1559466,"jp":"{1}を所持していないため、開けられません。","fr":"Impossible d'ouvrir le coffre, car vous ne possédez pas {1}."}
+{"id":1559467,"jp":"キボの生息地を解放可能","fr":"Habitat de Kibo disponible au déblocage"}
+{"id":1559468,"jp":"{0}の{1}が{2}上昇","fr":"Augmentation de {1} de {0} de {2}"}
+{"id":1559469,"jp":"{0}属性キボの{1}が{2}上昇","fr":"Augmentation de {1} des Kibo d'élément {0} de {2}"}
+{"id":1559470,"jp":"{0}のスターリンク成功率上昇","fr":"Augmentation du taux de réussite du Lien stellaire avec {0}"}
+{"id":1559471,"jp":"-フィールドでキボと出会うと、この項目が解放されます-","fr":"- Rencontrez des Kibo dans la nature pour débloquer cette entrée -"}
 {"id":1559472,"jp":"キボ図鑑リスト","fr":"Liste de l'encyclopédie des Kibo"}
+{"id":1559473,"jp":"{0}秒以内にチャレンジを達成しよう！","fr":"Terminez le défi en moins de {0} secondes !"}
 {"id":1559474,"jp":"残り{0}時間","fr":"Reste {0} heure(s)"}
 {"id":1559475,"jp":"残り{0}分","fr":"Reste {0} minute(s)"}
 {"id":1559476,"jp":"{0}で期限切れ","fr":"Expire dans {0}"}
+{"id":1559477,"jp":"{0}日{1}時間{2}分","fr":"{0} j {1} h {2} min"}
 {"id":1559478,"jp":"{0}日{1}時間","fr":"{0} j {1} h"}
 {"id":1559479,"jp":"{0}時間{1}分","fr":"{0} h {1} min"}
 {"id":1559480,"jp":"{0}日","fr":"{0} j"}
 {"id":1559481,"jp":"{0}時間","fr":"{0} h"}
 {"id":1559482,"jp":"{0}分","fr":"{0} min"}
 {"id":1559483,"jp":"1分未満","fr":"Moins d'1 min"}
+{"id":1559484,"jp":"スキル{0}のレベル{1}の説明パラメータ数が不正です。","fr":"Nombre de paramètres de description incorrect pour la compétence {0} de niveau {1}."}
 {"id":1559485,"jp":"キボ小屋 {0}号","fr":"Enclos à Kibo n° {0}"}
+{"id":1559486,"jp":"現在のチャネル{0}には該当商品が存在しません。","fr":"L'article demandé n'est pas disponible sur le canal actuel {0}."}
+{"id":1559488,"jp":"次の回復まで：{0} 全回復まで：{1}","fr":"Prochaine récupération : {0} Récupération complète : {1}"}
+{"id":1559489,"jp":"{0}が不足しているため、購入できません。","fr":"Achat impossible : quantité de {0} insuffisante."}
 {"id":1559490,"jp":"合成可能：{0}","fr":"Synthèse possible : {0}"}
+{"id":1559491,"jp":"現在獲得済みの{0}はありません。","fr":"Vous n'avez encore rien obtenu dans la catégorie {0}."}
 {"id":1559492,"jp":"残り回数：{0}","fr":"Essais restants : {0}"}
+{"id":1559493,"jp":"スタミナを{0}消費して討伐報酬を受け取りますか？","fr":"Voulez-vous dépenser {0} points d'endurance pour récupérer les récompenses de combat ?"}
 {"id":1559494,"jp":"残りUP回数：{0}","fr":"Hausses restantes : {0}"}
+{"id":1559495,"jp":"原初の潮の宝箱は期限切れのため、報酬を受け取れません。","fr":"Ce coffre de la Marée originelle a expiré. Vous ne pouvez plus récupérer ses récompenses."}
+{"id":1559496,"jp":"獲得可能な報酬一覧（宝箱の獲得には{0}を消費します）","fr":"Liste des récompenses disponibles (récupérer le coffre coûte {0})"}
+{"id":1559497,"jp":"獲得可能な報酬は以下の通りです（初回は原初の潮を消費しません）","fr":"Voici les récompenses disponibles (la première récupération ne consomme pas de Marée originelle)"}
 {"id":1559498,"jp":"{0}はありません。","fr":"Pas de {0}."}
 {"id":1559499,"jp":"外す","fr":"Retirer"}
+{"id":1559500,"jp":"1回の生産上限：{0}","fr":"Limite de production par lot : {0}"}
+{"id":1559501,"jp":"材料は【{0}】に装備されています。生産を続けますか？","fr":"Le matériau est actuellement équipé par 【{0}】. Poursuivre la production ?"}
+{"id":1559502,"jp":"使用可能な装備がありません。","fr":"Aucun équipement disponible."}
 {"id":1559503,"jp":"~作成~","fr":"~Fabrication~"}
 {"id":1559504,"jp":"~建設~","fr":"~Construction~"}
 {"id":1559505,"jp":"低品質食材を優先","fr":"Priorité aux ingrédients de basse qualité"}
 {"id":1559506,"jp":"高品質食材を優先","fr":"Priorité aux ingrédients de haute qualité"}
 {"id":1559507,"jp":"食事中","fr":"Repas en cours"}
 {"id":1559508,"jp":"孵化が完了！","fr":"Éclosion terminée !"}
+{"id":1559509,"jp":"装備製作台レベル{0}で解放","fr":"Se débloque lorsque l'établi de fabrication d'équipement atteint le niveau {0}"}
 {"id":1559510,"jp":"生産一時停止中","fr":"Production en pause"}
+{"id":1559511,"jp":"キボの満腹度が不足しています。","fr":"La satiété de ce Kibo est insuffisante."}
 {"id":1559512,"jp":"一時停止中","fr":"En pause"}
 {"id":1559513,"jp":"星臨の手紙","fr":"Lettre de l'Enfant des étoiles"}
 {"id":1559514,"jp":"監修中","fr":"En cours de relecture"}
 {"id":1559515,"jp":"現在 {0}:{1}","fr":"Actuellement {0}:{1}"}
+{"id":1559516,"jp":"現在 {0}:0{1}","fr":"Heure actuelle : {0}:0{1}"}
+{"id":1559517,"jp":"テンプレートがありません。「テンプレート作成」を押して追加できます。","fr":"Aucun modèle disponible. Appuyez sur « Créer un modèle » pour en ajouter un."}
+{"id":1559518,"jp":"ネットワークエラーにより、アップロードに失敗しました。","fr":"Échec du téléversement en raison d'une erreur réseau."}
+{"id":1559519,"jp":"保存できるテンプレート数の上限に達しました。","fr":"Vous avez atteint le nombre maximal de modèles pouvant être enregistrés."}
+{"id":1559520,"jp":"現在の配置操作を完了してください。","fr":"Veuillez terminer le placement en cours."}
+{"id":1559521,"jp":"このキャラクターを操作中です。","fr":"Vous contrôlez actuellement ce personnage."}
+{"id":1559522,"jp":"配置できるキャラクターの上限に達しました。","fr":"Vous avez atteint le nombre maximal de personnages pouvant être placés."}
+{"id":1559523,"jp":"この位置には配置できません。","fr":"Impossible d'effectuer un placement à cet endroit."}
+{"id":1559524,"jp":"高画質写真は{0}に保存されました。","fr":"Photo haute qualité enregistrée dans {0}."}
+{"id":1559525,"jp":"このプラットフォームは対応していません。","fr":"Cette plateforme n'est pas prise en charge."}
+{"id":1559526,"jp":"シーンに配置されたキャラクターを先に回収してください。","fr":"Veuillez d'abord retirer les personnages placés dans la scène."}
+{"id":1559527,"jp":"撮影画面を閉じてもよろしいですか？","fr":"Voulez-vous vraiment quitter le mode photo ?"}
+{"id":1559528,"jp":"現在の状態では撮影できません。","fr":"Impossible de prendre des photos dans votre état actuel."}
+{"id":1559529,"jp":"変身中は撮影機能を使用できません。","fr":"Impossible d'utiliser le mode photo pendant une transformation."}
+{"id":1559530,"jp":"自分の表示がオフになっているため、視点調整は無効になります。","fr":"L'affichage de votre personnage est désactivé. Le réglage du point de vue est donc indisponible."}
 {"id":1559531,"jp":"遠","fr":"Loin"}
 {"id":1559532,"jp":"標準","fr":"Standard"}
 {"id":1559533,"jp":"近","fr":"Près"}
 {"id":1559534,"jp":"オプション設定","fr":"Options"}
 {"id":1559535,"jp":"簡易","fr":"Simple"}
+{"id":1559536,"jp":"先に使用できないキボを入れ替えてください。","fr":"Veuillez d'abord remplacer les Kibo indisponibles."}
+{"id":1559537,"jp":"{0}匹のキボを編成するとファイトを開始できます。","fr":"Formez une équipe de {0} Kibo pour commencer le duel."}
+{"id":1559538,"jp":"禁止されたスキルを変更してください。","fr":"Veuillez remplacer les compétences interdites."}
 {"id":1559542,"jp":"ノーマルモード","fr":"Mode normal"}
 {"id":1559543,"jp":"ハードモード","fr":"Mode difficile"}
 {"id":1559544,"jp":"潜行","fr":"Plongée"}
