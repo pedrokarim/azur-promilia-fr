@@ -57107,50 +57107,110 @@
 {"id":1555516,"jp":"胞子解毒剤","fr":"Antidote contre les spores"}
 {"id":1555517,"jp":"丁寧に手入れされたしっぽの毛、精巧に彫られた狼の首、密かに込められた『ともにいたいという願い』。ただ……ほかのみんなより一歩遅かったみたい？","fr":"Des poils de queue soigneusement entretenus, une tête de loup finement sculptée et un « souhait de rester ensemble » discrètement dissimulé. Seulement… on dirait que tout le monde vous a déjà devancé ?"}
 {"id":1555518,"jp":"カタルからもらったポポクッキー","fr":"Un biscuit Popo offert par Katalua"}
+{"id":1555519,"jp":"キボ専用に作られたクッキー。穀物と花の香りが漂う。味をつけていないため、知的種族には淡白すぎるが、キボには自然そのままの風味が好まれている。","fr":"Un biscuit spécialement conçu pour les Kibo, aux senteurs de céréales et de fleurs. Sans assaisonnement, il paraît trop fade aux peuples doués de raison, mais les Kibo apprécient sa saveur parfaitement naturelle."}
 {"id":1555520,"jp":"ノノ特製豆板醤","fr":"Pâte de piment fermentée spéciale de Nono"}
+{"id":1555521,"jp":"ノノ特製のタカ豆の豆板醤。","fr":"La pâte de fèves de faucon épicée, une spécialité de Nono."}
+{"id":1555522,"jp":"ノノ特製の一品だが、探検隊の『創設メンバー』としてティティも瓶の表面に記されている――試供品にしては、あまりにもしっかりとしたデザインだ。","fr":"Bien qu'il s'agisse d'une spécialité de Nono, le nom de Tiffy figure également sur le pot en tant que « membre fondateur » de l'équipe d'exploration… Un emballage étonnamment soigné pour un simple échantillon."}
 {"id":1555523,"jp":"ルルカ特製豆板醤","fr":"Pâte de piment fermentée spéciale de Luruka"}
+{"id":1555524,"jp":"ルルカ特製のタカ豆の豆板醤。","fr":"La pâte de fèves de faucon épicée, une spécialité de Luruka."}
+{"id":1555525,"jp":"その味は人生のように苦いが、その味を好む者もいる。","fr":"Son goût est aussi amer que la vie elle-même, mais certains apprécient cette saveur."}
+{"id":1555526,"jp":"生命の枝から大地の杭を彫り出し、イグドラシルの根が伸びる方向を指し示す。それは、生気をもたらし、あらゆる暗闇、停滞、死の静寂を追い払う。","fr":"Taillé dans une branche de vie, ce pieu de terre indique la direction dans laquelle s'étendent les racines d'Yggdrasil. Il insuffle la vitalité et chasse les ténèbres, l'immobilité et le silence de la mort."}
 {"id":1555527,"jp":"赤い便箋。","fr":"Du papier à lettres rouge."}
+{"id":1555528,"jp":"願いを記し、想いを伝えるために使われる。","fr":"Sert à coucher ses souhaits sur le papier et à transmettre ses sentiments."}
+{"id":1555529,"jp":"契約名『永遠の魔道眼鏡』","fr":"Nom du contrat : « Lunettes magiques éternelles »"}
+{"id":1555530,"jp":"ルビーナが最後に星臨者に贈ったもの。","fr":"Le dernier cadeau offert par Ruby à l'Enfant des étoiles."}
+{"id":1555531,"jp":"ルビーナが『いわゆる失敗作』の望遠鏡を解体して作り直した工芸品。万華鏡の魔導技術を組み合わせており、かけている間はレーブに似た景色を見ることができる。","fr":"Un objet artisanal que Ruby a confectionné en démontant et en transformant un télescope qu'elle qualifiait de « prétendu échec ». Grâce à la technologie magitech des kaléidoscopes, ces lunettes permettent d'admirer des paysages semblables à ceux de Lebe."}
 {"id":1555532,"jp":"フリス営業許可証","fr":"Licence commerciale de Fleece"}
+{"id":1555533,"jp":"都市国家フリス公式認定の営業許可。","fr":"Une autorisation commerciale officiellement délivrée par la Cité-État de Fleece."}
+{"id":1555534,"jp":"都市国家フリス公式認定の営業許可証。この許可証を所持していれば、フリスで商業活動を行うことができる。","fr":"Une licence commerciale officiellement délivrée par la Cité-État de Fleece. Ce document autorise son titulaire à exercer des activités commerciales à Fleece."}
+{"id":1555535,"jp":"玉のブレスレット-半分","fr":"Bracelet de jade - Moitié"}
+{"id":1555536,"jp":"ランプブラック採鉱場の奥深くで見つかった玉のブレスレットの片割れ。","fr":"La moitié d'un bracelet de jade découverte dans les profondeurs de la mine de Lampblack."}
+{"id":1555537,"jp":"ランプブラック採鉱場の奥深くで発見された玉のブレスレット。すでに破損して半分しかなく、もう半分の行方はわからない。","fr":"Un bracelet de jade découvert dans les profondeurs de la mine de Lampblack. Brisé en deux, il ne reste plus que cette moitié. Nul ne sait où se trouve l'autre."}
+{"id":1555538,"jp":"玉のブレスレット-完成形","fr":"Bracelet de jade - Restauré"}
+{"id":1555539,"jp":"蘭将軍が蘭香子に遺したブレスレット。","fr":"Le bracelet légué à Lan Xiangzi par le général Lan."}
+{"id":1555540,"jp":"蘭将軍が蘭香子に遺したブレスレット。いまは元通りになったとはいえ、過ぎ去りし日々は二度と戻らない。","fr":"Le bracelet légué à Lan Xiangzi par le général Lan. Bien qu'il ait retrouvé son apparence d'origine, les jours révolus ne reviendront jamais."}
 {"id":1555541,"jp":"オークション参加許可","fr":"Autorisation de participer à la vente aux enchères"}
+{"id":1555542,"jp":"都市国家フリス公式認定のオークション参加許可。","fr":"Une autorisation de participation aux enchères officiellement délivrée par la Cité-État de Fleece."}
+{"id":1555543,"jp":"都市国家フリス公式認定のオークション参加許可。この許可証を所持していれば、フリスのオークションに参加できる。","fr":"Une autorisation de participation aux enchères officiellement délivrée par la Cité-État de Fleece. Ce document permet à son titulaire de participer aux ventes aux enchères de Fleece."}
 {"id":1555544,"jp":"モフモフの鈴","fr":"Clochette moelleuse"}
 {"id":1555545,"jp":"ヘルウェン推薦状","fr":"Lettre de recommandation de Helwen"}
+{"id":1555546,"jp":"ヤータ・ヘルウェン直筆の推薦状。","fr":"Une lettre de recommandation rédigée de la main de Yarta Helwen."}
+{"id":1555547,"jp":"ヤータ・ヘルウェン直筆の推薦状。鏡花州で行動できるよう、天青閣の閣主に星臨者を推薦している。","fr":"Une lettre de recommandation rédigée de la main de Yarta Helwen. Elle recommande l'Enfant des étoiles auprès du maître du pavillon Tianqing afin de faciliter ses activités au Cap Jinghua."}
 {"id":1555548,"jp":"ヤータ旅行記","fr":"Récit de voyage de Yarta"}
+{"id":1555549,"jp":"ヤータ・ヘルウェンがみずから書いた旅行記。","fr":"Un récit de voyage rédigé par Yarta Helwen en personne."}
+{"id":1555550,"jp":"ヤータ・ヘルウェンがみずから書いた旅行記。諸国を巡った際の見聞が記されている。訪れたことのない国ではガイドブックとしても使えるほど、非常に実用的だ。","fr":"Un récit de voyage rédigé par Yarta Helwen en personne. Elle y relate ses découvertes et ses observations au fil de ses voyages à travers de nombreux pays. Si pratique qu'il peut même servir de guide pour visiter des contrées encore inconnues."}
+{"id":1555551,"jp":"摩耗の具合から察するに、かなり古いもののようだ。","fr":"À en juger par son usure, cet objet semble particulièrement ancien."}
+{"id":1555552,"jp":"なかには探検に欠かせない道具がいろいろ入っている。詳しい使い方は探検の専門家に相談してみる必要があるかもしれない。","fr":"Il contient toutes sortes d'outils indispensables aux expéditions. Mieux vaudrait peut-être consulter un spécialiste de l'exploration pour apprendre à les utiliser correctement."}
 {"id":1555553,"jp":"望遠鏡の収納ケース","fr":"Étui de télescope"}
 {"id":1555554,"jp":"望遠鏡の収納ケース。","fr":"Un étui pour ranger un télescope."}
+{"id":1555555,"jp":"氷雪万華鏡の収納ケース","fr":"Étui du kaléidoscope de glace et de neige"}
+{"id":1555556,"jp":"『氷雪万華鏡の収納ケース』","fr":"« Étui du kaléidoscope de glace et de neige »"}
 {"id":1555557,"jp":"硬い殻の粉末","fr":"Poudre de carapace dure"}
 {"id":1555558,"jp":"特製歯磨き粉","fr":"Dentifrice spécial"}
+{"id":1555559,"jp":"特製モフモフシャンプー","fr":"Shampooing spécial douceur"}
 {"id":1555560,"jp":"ハクオン宝石","fr":"Gemme de Hakuon"}
 {"id":1555561,"jp":"契約の鍵","fr":"Clé du contrat"}
 {"id":1555562,"jp":"フリス飛空船契約","fr":"Contrat du vaisseau volant de Fleece"}
 {"id":1555563,"jp":"アステランの指輪","fr":"Anneau d'Asteran"}
 {"id":1555564,"jp":"キボファイトボード","fr":"Plateau de Duel de Kibo"}
+{"id":1555565,"jp":"マーガレットが紙で丁寧に作ったキボファイトのボード。キボカードとキボファイトのフィールドが含まれている。","fr":"Un plateau de Duel de Kibo soigneusement confectionné en papier par Margaret. Il comprend des cartes de Kibo ainsi qu'un terrain de Duel de Kibo."}
+{"id":1555566,"jp":"すべて子どもの手描きだが、作者の心が込められているのが伝わってくる。","fr":"Tout a été dessiné à la main par une enfant, mais on ressent toute l'affection qu'elle y a mise."}
+{"id":1555567,"jp":"見た目は質素な障害物だが、敵の行動を遅らせ、阻止することができる。表面の棘は見た目以上に強力だ。","fr":"Malgré son apparence rudimentaire, cet obstacle peut ralentir, voire bloquer les déplacements des ennemis. Les épines qui le recouvrent sont bien plus redoutables qu'elles n'en ont l'air."}
 {"id":1555568,"jp":"『ドゥル』色の木材","fr":"Bois couleur de Dur"}
+{"id":1555569,"jp":"ドゥルの羽に似た色の木材。","fr":"Un morceau de bois dont la couleur rappelle celle des plumes de Dur."}
+{"id":1555570,"jp":"チルルはおばあちゃんへの贈りものとしてドゥルの木彫りを彫りたいと考えている。可能な限りドゥルを再現するため、似た色のこの木材が最適な原料なのだ。","fr":"Chilul souhaite sculpter un Dur en bois pour l'offrir à sa grand-mère. Grâce à sa couleur très proche de celle du plumage de Dur, ce bois constitue le matériau idéal pour reproduire son apparence aussi fidèlement que possible."}
 {"id":1555571,"jp":"火属性の木材","fr":"Bois de Feu"}
+{"id":1555572,"jp":"火属性の元素を帯びた木材。","fr":"Du bois imprégné de l'élément Feu."}
+{"id":1555573,"jp":"一般的な木材とは異なり、この木材はもともと火属性の元素を持っており、簡単には燃え上がらない。","fr":"Contrairement au bois ordinaire, celui-ci possède naturellement l'élément Feu et ne s'enflamme pas facilement."}
 {"id":1555574,"jp":"謎の種","fr":"Graine mystérieuse"}
+{"id":1555575,"jp":"なんの植物から落ちたのかわからない種。","fr":"Une graine provenant d'une plante inconnue."}
+{"id":1555576,"jp":"神秘的であればあるほど、惹きつけられるもの……すぐに植えて、なにが収穫できるか見てみたくなる。","fr":"Plus une chose est mystérieuse, plus elle attise la curiosité… Difficile de résister à l'envie de planter cette graine sur-le-champ pour découvrir ce qu'elle donnera."}
 {"id":1555577,"jp":"お祝い用の花束","fr":"Bouquet de fête"}
 {"id":1555578,"jp":"珍しい鉱石","fr":"Minerai rare"}
 {"id":1555579,"jp":"研磨前の藍晶の原石","fr":"Cyanite brute non polie"}
 {"id":1555580,"jp":"ターシャのノート","fr":"Carnet de Tasha"}
+{"id":1555581,"jp":"ターシャが書いたノート。","fr":"Un carnet rédigé par Tasha."}
+{"id":1555582,"jp":"様々な錬金術の難問が記されたノート。なかには難解で神秘的な錬金術の記号や様々な公式がびっしりと書かれている。","fr":"Un carnet recensant diverses énigmes alchimiques. Ses pages sont couvertes de mystérieux symboles alchimiques particulièrement difficiles à déchiffrer, ainsi que de toutes sortes de formules."}
 {"id":1555583,"jp":"茶葉","fr":"Feuilles de thé"}
+{"id":1555584,"jp":"蛻形族のキボがまれにドロップする抜け殻。","fr":"Une mue que les Kibo de la Famille des mues laissent rarement derrière eux."}
+{"id":1555585,"jp":"蛻形族のキボが新しい段階へ成長した際に残した抜け殻。蛻形族キボの新生を象徴している。\n脱皮時のキボは非常に危険な状態にある。彼らは脱皮に集中しており、外部の危険に対処する余裕がない。この比較的形の整った抜け殻は、蛻形族が過去の自分を超越した証なのだ。","fr":"Une enveloppe abandonnée par un Kibo de la Famille des mues lorsqu'il atteint un nouveau stade de croissance. Elle symbolise sa renaissance.\nLa mue est une période particulièrement dangereuse pour les Kibo. Toute leur Concentration est consacrée à ce processus, ce qui les empêche de réagir aux menaces extérieures. Cette enveloppe relativement intacte témoigne de leur capacité à surpasser leur ancienne condition."}
 {"id":1555586,"jp":"『未解決の謎』","fr":"« Mystères non résolus »"}
+{"id":1555587,"jp":"新品の『未解決の謎』。世界中の奇聞や逸話が記録されているが、「落とし戸」に関する記事は掲載されていなかった。","fr":"Un exemplaire flambant neuf des « Mystères non résolus ». Il rassemble des récits insolites et des anecdotes du monde entier, mais ne contient aucun article au sujet d'une « trappe »."}
 {"id":1555588,"jp":"謎の箱","fr":"Boîte mystérieuse"}
+{"id":1555589,"jp":"猛るライカウモのクエストプレースホルダー","fr":"Élément temporaire de la quête du Raikaumo furieux"}
 {"id":1555590,"jp":"新鮮なペペ","fr":"Pepe frais"}
+{"id":1555591,"jp":"【香りを追う者】クエスト プレースホルダー","fr":"Élément temporaire de la quête 【Sur la piste des parfums】"}
 {"id":1555592,"jp":"リンデレット","fr":"Linderet"}
 {"id":1555593,"jp":"ルルカの薬膳","fr":"Plat médicinal de Luruka"}
 {"id":1555594,"jp":"メーツァの巻物","fr":"Parchemin de Metsa"}
+{"id":1555595,"jp":"チルルが彫ったトーテム","fr":"Totem sculpté par Chilul"}
 {"id":1555596,"jp":"イグドラシルの葉","fr":"Feuille d'Yggdrasil"}
 {"id":1555597,"jp":"欠けていない瓦","fr":"Tuile intacte"}
+{"id":1555598,"jp":"期限切れのプレゼント。","fr":"Un cadeau dont la date de validité est dépassée."}
 {"id":1555599,"jp":"懐中時計の蓋","fr":"Couvercle de montre à gousset"}
+{"id":1555600,"jp":"期限の切れたプレゼント。それでも、とっておく価値はある。","fr":"Un cadeau dont la date de validité est dépassée. Il mérite néanmoins d'être conservé."}
+{"id":1555601,"jp":"村長から受け取った冒険の手引書。","fr":"Un guide de l'aventurier remis par le Chef du village."}
+{"id":1555602,"jp":"各地の風土や人情が記されているというが、幾種類もの達筆な筆跡が入り乱れており、非常に判読しづらい。このひょろひょろと歪んだ文字を見ていると、なぜか不思議と自由な気分にさせられてしまう。","fr":"Il paraît que ce guide décrit les paysages, les coutumes et les habitants de nombreuses régions. Cependant, plusieurs styles de calligraphie s'y entremêlent, rendant sa lecture particulièrement difficile. Étrangement, la vue de ces lettres fines et tortueuses procure un mystérieux sentiment de liberté."}
 {"id":1555603,"jp":"磁器の人形","fr":"Poupée de porcelaine"}
 {"id":1555604,"jp":"可愛らしい磁器人形。","fr":"Une adorable poupée de porcelaine."}
 {"id":1555605,"jp":"木彫りの焼き魚","fr":"Poisson grillé en bois sculpté"}
+{"id":1555606,"jp":"焼き魚をかたどった木彫り。","fr":"Une sculpture en bois représentant un poisson grillé."}
 {"id":1555607,"jp":"ゴンドラの帆","fr":"Voile de gondole"}
+{"id":1555608,"jp":"白く、非常に精巧な作りの帆だ。","fr":"Une voile blanche d'une facture particulièrement raffinée."}
 {"id":1555609,"jp":"数輪のウィンベル","fr":"Quelques Winbell"}
+{"id":1555610,"jp":"美しい調べを奏でるウィンベル。","fr":"Des Winbells qui jouent une magnifique mélodie."}
+{"id":1555611,"jp":"風が草の「弦」を爪弾き、花びらと葉を揺らして、生命の中に生まれた調和の調べを奏でる。","fr":"Le vent pince les « cordes » des herbes et fait danser les pétales et les feuilles, jouant une mélodie harmonieuse née au cœur même de la vie."}
 {"id":1555612,"jp":"ハルシヨンの粉","fr":"Poudre de Halcyon"}
+{"id":1555613,"jp":"ハルシヨンが撒き散らした幻想的な粉塵。","fr":"Une poudre féerique dispersée par un Halcyon."}
+{"id":1555614,"jp":"舞い上がるハルシヨンが華麗な鱗翅を羽ばたかせ、星屑のような粉塵で、植物さえも柔らかな眠りへと誘う夢を織りなす。","fr":"En prenant son envol, le Halcyon déploie ses magnifiques ailes écailleuses. De sa poudre semblable à des poussières d'étoiles, il tisse des rêves capables de plonger jusqu'aux plantes dans un doux sommeil."}
 {"id":1555615,"jp":"紅熱の土","fr":"Terre ardente"}
 {"id":1555616,"jp":"灼熱の赤き土壌。","fr":"Une terre rouge brûlante."}
+{"id":1555617,"jp":"その温度は樹根を焼き払うほどではないが、脆い普通の植物が耐えられるようなものでも決してない。","fr":"Sa chaleur n'est pas suffisante pour réduire les racines des arbres en cendres, mais aucune plante ordinaire et fragile ne pourrait y résister."}
 {"id":1555618,"jp":"清らかな水","fr":"Eau pure"}
+{"id":1555619,"jp":"カルマーナ湖畔の清らかな水。","fr":"De l'eau pure recueillie sur les rives du lac Karmana."}
+{"id":1555620,"jp":"敬虔な心を込めて、清らかな水で命を潤す。","fr":"Le cœur empli de piété, nourrir la vie d'une eau limpide."}
 {"id":1555621,"jp":"ウィスパーツリーの種","fr":"Graine d'arbre Murmure"}
+{"id":1555622,"jp":"ウィスパーツリーの種。","fr":"Une graine d'arbre Murmure."}
 {"id":1555624,"jp":"エネルギーコア","fr":"Noyau d'énergie"}
 {"id":1555627,"jp":"一冊の本。","fr":"Un livre."}
 {"id":1555629,"jp":"シャルの特選料理","fr":"Plat spécial de Shalle"}
