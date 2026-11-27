@@ -55818,8 +55818,8 @@
 {"id":1554347,"jp":"私、どうしてもあのキボと友達になりたいんです。\n見たところ、あなたはかなり強そうなので、一緒に来てくれたら非常に助かります！","fr":"Je tiens absolument à devenir l'ami de ce Kibo.\nVous semblez avoir de grandes capacités au combat, alors votre présence me serait d'une aide précieuse !"}
 {"id":1554348,"jp":"それに、私のなにが悪くてあんなに嫌がられたのか、\nあなたならわかるかもしれませんし……","fr":"Et puis, vous pourriez peut-être comprendre ce que j'ai fait de mal\npour qu'il me rejette à ce point…"}
 {"id":1554349,"jp":"うーん、それは……","fr":"Hmm, c'est que…"}
-{"id":1554350,"jp":"お願いします！ほ、ほら、一日一善みたいな感じでどうでしょうか？\n……あ、そうだ！もし報酬が必要ということなら、もちろん払いますし……","fr":"Je vous en prie ! V-Voyez ça comme votre bonne action de la journée, qu'en dites-vous ?\n… Ah, bien sûr ! Si vous souhaitez une récompense, je suis prêt à vous payer…"}
-{"id":1554351,"jp":"（かなり面倒な相手に捕まったみたいだね……）","fr":"(On dirait que je suis tombé sur un sacré casse-pieds…)"}
+{"id":1554350,"jp":"お願いします！ほ、ほら、一日一善みたいな感じでどうでしょうか？\n……あ、そうだ！もし報酬が必要ということなら、もちろん払いますし……","fr":"Je vous en prie ! V-Voyez ça comme votre bonne action de la journée, qu'en dites-vous ?\n… Ah, bien sûr ! Si vous souhaitez une récompense, je peux tout à fait vous payer…"}
+{"id":1554351,"jp":"（かなり面倒な相手に捕まったみたいだね……）","fr":"(On dirait que j'ai affaire à un sacré casse-pieds…)"}
 {"id":1554352,"jp":"わかったよ。森の中まで一緒に行こう。","fr":"D'accord, je vais t'accompagner dans la forêt."}
 {"id":1554353,"jp":"ありがとうございます、では早速案内しますね！さあ、こちらです！","fr":"Merci beaucoup ! Je vais vous montrer le chemin sans plus attendre ! Par ici !"}
 {"id":1554354,"jp":"いました！見てください、あのキボです！","fr":"Le voilà ! Regardez, c'est ce Kibo !"}
@@ -55849,11 +55849,61 @@
 {"id":1554378,"jp":"彼女のところへ行って、助言を聞いてみるっていうのはどう？","fr":"Et si on allait lui demander conseil ?"}
 {"id":1554379,"jp":"ウッドエルフ？人前にあまり姿を見せない、あのウッドエルフと知り合いなんですか……\nあなた、すごすぎません！？","fr":"Une Elfe des bois ? Vous connaissez vraiment ces Elfes des bois qui se montrent si rarement en public… ?\nMais vous êtes incroyable !"}
 {"id":1554380,"jp":"善は急げです。いますぐその方に会いに行きましょう！","fr":"Il n'y a pas une seconde à perdre ! Allons la rencontrer tout de suite !"}
+{"id":1554381,"jp":"どうしましたか、{playerName}さま？私になにかご用でしょうか？","fr":"Que se passe-t-il, {playerName} ? Vous avez besoin de moi ?"}
+{"id":1554382,"jp":"うん、すこし聞きたいことがあってね……","fr":"Oui, j'aimerais te poser quelques questions…"}
+{"id":1554383,"jp":"シンフォーリアに、先ほど起きたこと、そして観光客が抱えた疑問を話した……","fr":"Vous avez raconté à Symphoria ce qui venait de se passer et lui avez fait part des interrogations du touriste…"}
+{"id":1554384,"jp":"おそらく、それは誤解なんだと思います……","fr":"Je pense qu'il s'agit probablement d'un malentendu…"}
+{"id":1554385,"jp":"成長期のブラウディには、同族同士で角をぶつけ合って、戦い方を学ぶ習性があるんです。","fr":"Pendant leur croissance, les jeunes Browdy ont pour habitude d'entrechoquer leurs bois pour apprendre à se battre."}
+{"id":1554386,"jp":"しかも、ちょうどいまのブラウディたちは成長期……\n非常に勝ち気になりやすいんです……","fr":"Or, les Browdy traversent justement cette période de leur croissance en ce moment…\nIls sont particulièrement combatifs à cet âge…"}
+{"id":1554387,"jp":"あなたが頭を下げて腰を折った姿勢……\nそれが『角合わせ』へ誘っていると、ブラウディには見えたのでしょう。","fr":"Lorsque vous avez baissé la tête et incliné le buste…\nLe Browdy a probablement cru que vous le défiiez dans un combat de bois."}
+{"id":1554388,"jp":"ええっ！そうだったんですか。\nお辞儀をすれば、私の礼儀正しさが伝わると思っていたんですが……","fr":"Hein ?! Alors c'était ça !\nJe pensais pourtant lui témoigner mon respect en m'inclinant devant lui…"}
+{"id":1554389,"jp":"では、どうすればあの子に近づけるんでしょう？","fr":"Mais alors, comment pourrais-je l'approcher ?"}
+{"id":1554390,"jp":"それはとても簡単です。\n多くのキボは、食べものを与えれば距離を縮められますから。","fr":"C'est très simple.\nAvec la plupart des Kibo, il suffit de leur offrir de la nourriture pour gagner leur confiance."}
+{"id":1554391,"jp":"若葉を用意してみてください。ブラウディは若葉を好みますから。","fr":"Essayez de leur apporter de jeunes feuilles. Les Browdy en raffolent."}
+{"id":1554392,"jp":"なるほど……ではさっそく戻って、もう一度試してみましょう！\n今度こそ、あの子と友達になれるはずです！","fr":"Je vois… Alors retournons-y sans plus attendre pour réessayer !\nCette fois, je suis sûr de pouvoir devenir son ami !"}
+{"id":1554393,"jp":"ふう……ここへ来る途中で、若葉と枝をたくさん摘んできましたが……\nこれだけあれば足りますよね？","fr":"Ouf… J'ai ramassé beaucoup de jeunes feuilles et de branches en chemin…\nCela devrait suffire, n'est-ce pas ?"}
+{"id":1554394,"jp":"いざブラウディを前にすると、やはり美しさに見とれてしまいます……\nですが、なんだか足がすくんでしまいます……","fr":"Maintenant que je suis devant ce Browdy, je ne peux toujours pas m'empêcher d'admirer sa beauté…\nMais j'ai les jambes qui tremblent malgré moi…"}
+{"id":1554395,"jp":"心配しないでください。あの子たちは、そこまで怖い存在ではありませんから。\nではまずは私が手本を見せましょう。","fr":"Ne vous inquiétez pas. Ces petites créatures ne sont pas si effrayantes.\nPermettez-moi de vous montrer comment faire."}
+{"id":1554396,"jp":"シンフォーリアが枝を受け取り、ブラウディへ近づいていく……","fr":"Symphoria a pris une branche et s'est doucement approchée du Browdy…"}
+{"id":1554397,"jp":"いい子ですね……これを食べたいんですか？\n怖がる必要ありませんから、もうすこしこちらへ来てください。","fr":"Vous êtes bien sage… Vous avez envie de manger ceci ?\nVous n'avez rien à craindre, vous pouvez vous approcher un peu plus."}
+{"id":1554398,"jp":"ブラウディが近づいて、本当に若葉を食べていますよ……かわいい……！","fr":"Le Browdy s'approche et mange vraiment les jeunes feuilles… Il est adorable… !"}
 {"id":1554399,"jp":"ヨウヨウ～","fr":"Yoh yoh~"}
+{"id":1554400,"jp":"くすぐったいですよ、ふふ……あなたも若葉が欲しいんですか？","fr":"Vous me chatouillez, hé hé… Vous voulez aussi quelques jeunes feuilles ?"}
+{"id":1554401,"jp":"なんとっ……新しい野生のキボが現れました！","fr":"Oh, incroyable… Un autre Kibo sauvage vient d'apparaître !"}
+{"id":1554402,"jp":"このキノカは幼体期ですね。ひとに凄くなつきやすいんですよ。","fr":"Ce Kinoka est encore très jeune. À cet âge, ils s'attachent très facilement aux gens."}
 {"id":1554403,"jp":"ヨウ、ヨウ……","fr":"Yoh, yoh…"}
+{"id":1554404,"jp":"宝玉が光っています……","fr":"Sa gemme brille…"}
+{"id":1554405,"jp":"あの部分はブラウディが魔力を蓄える場所です。\n嬉しいときには、癒やしの力を放つんですよ。","fr":"C'est dans cette partie de leur corps que les Browdy accumulent leur énergie magique.\nLorsqu'ils sont heureux, ils libèrent un pouvoir de guérison."}
+{"id":1554406,"jp":"どうやら、あなたが持ってきた若葉をとても気に入っているようですね。","fr":"Il semblerait qu'ils apprécient énormément les jeunes feuilles que vous avez apportées."}
+{"id":1554407,"jp":"本当ですか？それならよかったです！","fr":"Vraiment ? Quel soulagement !"}
+{"id":1554408,"jp":"さあ、あなたもこちらへ来て、触れてみてください。","fr":"Allez, approchez-vous à votre tour et essayez de les caresser."}
+{"id":1554409,"jp":"観光客がまえへ進み、残りの若葉を二匹の子鹿に与えた……","fr":"Le touriste s'est avancé et a offert les jeunes feuilles restantes aux deux faons…"}
+{"id":1554410,"jp":"よかった、ついに受け入れてもらえましたよ！\nこれもすべて、皆さんが助けてくださったおかげです！","fr":"Quel bonheur ! Ils m'ont enfin accepté !\nC'est entièrement grâce à votre aide à tous !"}
+{"id":1554411,"jp":"ああ……せっかくですし、この場面を記録に残せたらよかったんですけどね……","fr":"Ah… J'aurais tellement aimé garder un souvenir de cet instant…"}
+{"id":1554412,"jp":"それなら、僕が写真を撮ってあげるよ。|それなら、私が写真を撮ってあげるよ。","fr":"Dans ce cas, je vais te prendre en photo.|Dans ce cas, je vais te prendre en photo."}
 {"id":1554413,"jp":"これでどうかな？","fr":"Et comme ça ?"}
+{"id":1554414,"jp":"とても素敵です……ずっと大切にします！","fr":"Elle est magnifique… Je la garderai précieusement toute ma vie !"}
+{"id":1554415,"jp":"今日は本当にありがとうございました。\n私とブラウディの誤解を解いていただいたうえに、友達になれるように手助けまでしていただて……","fr":"Merci infiniment pour tout ce que vous avez fait aujourd'hui.\nNon seulement vous avez dissipé le malentendu entre le Browdy et moi, mais vous m'avez aussi aidé à devenir son ami…"}
+{"id":1554416,"jp":"こちらのお礼を、どうか受け取ってください。\n……それでは、また旅のどこかでお会いできるといいですね！","fr":"Je vous en prie, acceptez ceci en guise de remerciement.\n… J'espère que nos chemins se croiseront de nouveau au cours de nos voyages !"}
+{"id":1554417,"jp":"聞いたか？昨日の夜、河口の方でまた爆発があったらしいぜ。\n前回よりもさらに大きな音だったそうだ。","fr":"T'as entendu ? Il paraît qu'il y a encore eu une explosion près de l'embouchure hier soir.\nApparemment, le bruit était encore plus fort que la dernière fois."}
+{"id":1554418,"jp":"爆発？なにがあったの？","fr":"Une explosion ? Qu'est-ce qui s'est passé ?"}
+{"id":1554419,"jp":"それわたしも知ってる！川にばくはつする魚がいるの！\nポンって音が鳴って、すごいんだよ！","fr":"Moi aussi, je sais ! Il y a des poissons qui explosent dans la rivière !\nÇa fait boum, et c'est trop génial !"}
+{"id":1554420,"jp":"なにがすごいもんですか……あれは『ボマーク』というキボでして……\n私の船を見ればわかると思いますが、帆布がまた粉々にされてしまいました。\nあのキボ、歩く災害ですよ。","fr":"Il n'y a vraiment rien de génial là-dedans… Ce sont des Kibo qu'on appelle « Bomark »…\nRegardez mon bateau, vous comprendrez. Ma voile a encore été réduite en lambeaux.\nCes Kibo sont de véritables catastrophes ambulantes."}
+{"id":1554421,"jp":"ボマーク……って、メルトレイクに生息するキボのこと？","fr":"Les Bomark… Tu parles des Kibo qui vivent dans le lac Melt ?"}
 {"id":1554422,"jp":"はあ、そうだ……いまは船を川に降ろすことさえできない。\nもしボマークの数がまた増えたら、川一帯が大変な目に遭うだろうな。","fr":"Ah, oui… En ce moment, je ne peux même pas mettre mon bateau à l'eau.\nSi le nombre de Bomark augmente encore, toute la rivière va en pâtir."}
+{"id":1554423,"jp":"爆発……なんと純粋で、熾烈な美学なの！\nあたしはそれを感じたの、まさにこの水域でね！","fr":"Les explosions… Quelle expression pure et flamboyante de la beauté !\nJ'ai ressenti leur appel, ici même, dans ces eaux !"}
+{"id":1554424,"jp":"わあ！はじめて見る綺麗なお姉ちゃんだ！","fr":"Waouh ! Une jolie grande sœur que j'ai jamais vue !"}
+{"id":1554425,"jp":"見慣れない顔ですね。新しくやってきた旅人でしょうか？","fr":"Votre visage ne m'est pas familier. Vous venez d'arriver dans la région ?"}
 {"id":1554426,"jp":"ルビーナ？","fr":"Ruby ?"}
+{"id":1554427,"jp":"ルビーナ、どうしてここに？","fr":"Ruby, qu'est-ce que tu fais ici ?"}
+{"id":1554428,"jp":"水中で爆発する魚がいると聞いて来たのよ。\n運命があたしを導いてくれている……そう思ったの！","fr":"J'ai entendu dire qu'il existait des poissons capables d'exploser sous l'eau, alors me voilà !\nJ'ai senti que le destin me guidait jusqu'ici… !"}
+{"id":1554429,"jp":"……うん、そうだよね。こういうことに興味しんしんってわかってたよ。","fr":"… Oui, évidemment. Je me doutais bien que ce genre de chose te passionnerait."}
+{"id":1554430,"jp":"当然でしょ♪火と水がぶつかりあい、爆発と波紋が交錯する――\nこれこそ、『爆発』という芸術と自然の狂想的な共鳴よ！","fr":"Évidemment ♪ Le feu et l'eau s'affrontent, les explosions et les ondulations s'entremêlent…\nVoilà toute la splendeur de l'art explosif, en parfaite et délirante résonance avec la nature !"}
+{"id":1554431,"jp":"もしかしてお姉ちゃん、ボマークを捕まえに行くの？","fr":"Dis, grande sœur, tu vas aller attraper les Bomark ?"}
+{"id":1554432,"jp":"違うわ、あたしはただその炎の中でボマークと舞い踊り、\n爆発する瞬間に放たれる儚き閃きを捉えるのよ！","fr":"Mais non ! Je veux simplement danser avec les Bomark au milieu des flammes,\net saisir l'éclat éphémère qui jaillit à l'instant même de l'explosion !"}
+{"id":1554433,"jp":"なんというか……すこし変わった喋り方をする方ですね……","fr":"Comment dire… Cette demoiselle a une façon de parler assez particulière…"}
+{"id":1554434,"jp":"そうだね、いつもあんな感じなんだ……|そうだね、いつもあんな感じなの……","fr":"Oui, elle est toujours comme ça…|Oui, elle est toujours comme ça…"}
+{"id":1554435,"jp":"ねえお姉ちゃん、どうすればボマークと一緒に踊れるの？","fr":"Dis, grande sœur, comment on fait pour danser avec les Bomark ?"}
 {"id":1554440,"jp":"最高ね、行きましょ！","fr":"Parfait, allons-y !"}
 {"id":1554443,"jp":"パーン！","fr":"Pan !"}
 {"id":1554460,"jp":"解決する方法？","fr":"Un moyen de le résoudre ?"}
