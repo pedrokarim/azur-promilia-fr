@@ -51758,12 +51758,62 @@
 {"id":1547241,"jp":"シャルさん、いまだよ！火からおろして！","fr":"Shalle, c'est le moment ! Retire la poêle du feu !"}
 {"id":1547242,"jp":"は、はい！こう、ですね！","fr":"O-Oui ! Comme ceci, n'est-ce pas ?"}
 {"id":1547243,"jp":"うん、なかなかうまくできてるね！","fr":"Eh bien, c'est plutôt réussi !"}
+{"id":1547244,"jp":"さっそく、ボスに味見してもらおう！","fr":"Allez, faisons goûter ça au Chef sans plus attendre !"}
 {"id":1547245,"jp":"できました！","fr":"C'est prêt !"}
+{"id":1547246,"jp":"{playerName}さま、食べてみていただけますか？","fr":"{playerName}, accepteriez-vous de goûter à ma préparation ?"}
 {"id":1547247,"jp":"うん、いただきます。","fr":"Oui, merci pour le repas."}
+{"id":1547248,"jp":"（かなり薄味だし、生っぽいところがあるけど……\n料理はちゃんとできてる）","fr":"(C'est assez fade et certains ingrédients manquent un peu de cuisson…\nMais dans l'ensemble, le plat est réussi.)"}
+{"id":1547249,"jp":"（シャルになんて伝えようかな？）","fr":"(Comment pourrais-je expliquer ça à Shalle ?)"}
 {"id":1547250,"jp":"すごくおいしいよ。","fr":"C'est vraiment délicieux."}
+{"id":1547251,"jp":"エルフの好みに合ってそうだね。","fr":"Je pense que ça devrait plaire au palais des Elfes."}
+{"id":1547252,"jp":"えっ、本当……ですか？","fr":"Oh, vous le pensez… vraiment ?"}
+{"id":1547253,"jp":"オイラ、ちょっと味が薄いような気がしたけど……","fr":"Moi, j'ai trouvé ça un peu fade, quand même…"}
+{"id":1547254,"jp":"ええ……作っているときは意識していませんでしたが、\n騎士団の食堂の味に近くなっているようです……","fr":"En effet… Je ne m'en suis pas rendu compte en cuisinant,\nmais le goût semble assez proche de celui des plats servis au réfectoire de l'ordre des chevaliers…"}
+{"id":1547255,"jp":"まあ、でも……\nちょっと味があっさりしてるくらいだよね！","fr":"Enfin, bon…\nC'est juste un peu léger en goût, rien de plus !"}
+{"id":1547256,"jp":"うん、調理の手順に問題はなかったし。","fr":"Oui, tu as bien respecté toutes les étapes de préparation."}
+{"id":1547257,"jp":"自分に合ったレシピを見つけて、\nしっかり学べばきっと……","fr":"Si tu trouves des recettes qui te conviennent\net que tu prends le temps de bien les étudier, je suis persuadé que…"}
+{"id":1547258,"jp":"シャルは自分でも、料理を作れるようになるはずだよ。","fr":"Tu finiras par savoir cuisiner toute seule, Shalle."}
+{"id":1547259,"jp":"ええ！ぜひ試してみたいです！","fr":"Oui ! J'aimerais beaucoup essayer !"}
 {"id":1547260,"jp":"シャル、頑張ったね。","fr":"Shalle, bravo pour ton effort."}
+{"id":1547261,"jp":"うんうん！オイラもちゃんと見てたよ。\nいい感じだった！","fr":"Oui, oui ! J'ai bien observé tout ce que tu faisais.\nTu t'en es plutôt bien sortie !"}
+{"id":1547262,"jp":"つぎは、フリスの料理にしてみようか。","fr":"Et si on essayait de préparer quelques spécialités de Fleece, la prochaine fois ?"}
+{"id":1547263,"jp":"はい！いつでも行けます！","fr":"Oui ! Je suis prête quand vous le souhaitez !"}
+{"id":1547264,"jp":"うん、また連絡するからね。","fr":"Parfait, je te recontacterai alors."}
+{"id":1547265,"jp":"ボスとシャルさんのために、メモを用意しといたよ。\nこれを見ながら探してみてね！","fr":"J'ai préparé un petit mémo pour le Chef et Shalle.\nServez-vous-en pour orienter vos recherches !"}
+{"id":1547266,"jp":"{playerName}さま、お待ちしておりました！","fr":"{playerName}, je vous attendais !"}
 {"id":1547267,"jp":"遅れてないかな？","fr":"Je ne suis pas en retard ?"}
+{"id":1547268,"jp":"ええ。ですが、そろそろおなかがすいてきました。","fr":"Oui. Cependant, je commence à avoir un peu faim."}
+{"id":1547269,"jp":"じゃあ、行こうか。今日の予定は……","fr":"Alors, allons-y. Au programme aujourd'hui…"}
+{"id":1547270,"jp":"はい……まずはメイメイハウスに伺って\nフリスの地方料理の作り方をお聞きします。","fr":"Oui… Nous devons tout d'abord nous rendre à la maison Meimei\npour apprendre à préparer les spécialités régionales de Fleece."}
+{"id":1547271,"jp":"それから、シャインさんに\nペペアメの秘伝のレシピをお聞きして……","fr":"Ensuite, nous demanderons à Shine\nde nous révéler sa recette secrète des bonbons Pepe…"}
+{"id":1547272,"jp":"最後は農場で、郷土料理の秘訣を聞く……","fr":"Enfin, nous nous rendrons à l'exploitation pour découvrir les secrets de la cuisine traditionnelle…"}
+{"id":1547273,"jp":"だいたいこのような予定になっております。","fr":"Voilà, dans les grandes lignes, le programme prévu."}
+{"id":1547274,"jp":"さすが記憶力がいいね。じゃあ、行こう。","fr":"Tu as vraiment une excellente mémoire ! Bon, allons-y."}
 {"id":1547275,"jp":"話はもう聞いてるよ〜","fr":"J'ai déjà entendu toute l'histoire~"}
+{"id":1547276,"jp":"えっ？だれに聞いたの？","fr":"Hein ? Qui t'en a parlé ?"}
+{"id":1547277,"jp":"リリカがフリスでお店をやってる\nみんなに手紙をくれたんだよ。","fr":"Lyrica a envoyé une lettre à tous les commerçants de Fleece."}
+{"id":1547278,"jp":"それで、みんなで協力しようって。","fr":"Elle nous a proposé d'unir nos efforts pour vous aider."}
+{"id":1547279,"jp":"そうだったんだ。ありがとう。","fr":"Ah, je vois. Merci !"}
+{"id":1547280,"jp":"うん。それで、うちで手伝えることはある？","fr":"De rien ! Alors, qu'est-ce qu'on peut faire pour vous aider ?"}
+{"id":1547281,"jp":"フリスならではの料理を学べたらと思っていまして。\n教えていただけないでしょうか……","fr":"J'aimerais apprendre à préparer une spécialité typique de Fleece.\nAccepteriez-vous de m'enseigner votre savoir-faire… ?"}
+{"id":1547282,"jp":"それなら、濃厚トマトパスタからはじめたら？","fr":"Dans ce cas, pourquoi ne pas commencer par des pâtes à la sauce tomate onctueuse ?"}
+{"id":1547283,"jp":"濃厚トマトパスタですか……","fr":"Des pâtes à la sauce tomate onctueuse…"}
+{"id":1547284,"jp":"たしかシャルさんも来るたびに食べてたよね。","fr":"Si je me souviens bien, tu en commandes à chacune de tes visites, Shalle."}
+{"id":1547285,"jp":"レシピはこれ！しっかりメモしておいたから。","fr":"Voilà la recette ! J'ai pris soin de tout noter en détail."}
+{"id":1547286,"jp":"こんなに詳しく……注釈もつけてくださって……","fr":"Que de détails… Vous avez même pris la peine d'ajouter des annotations…"}
+{"id":1547287,"jp":"料理って、こんなに複雑なのですね……","fr":"Je ne pensais pas que la cuisine pouvait être aussi complexe…"}
+{"id":1547288,"jp":"うん、お客さんに満足してもらうために、\nぜんぶ必要なことなんだ。","fr":"Eh oui ! Pour que les clients soient pleinement satisfaits,\nil faut accorder de l'importance à chacun de ces détails."}
+{"id":1547289,"jp":"フェデリカさん、ありがとうございます。","fr":"Federica, je vous remercie infiniment."}
+{"id":1547290,"jp":"はっは。おお、来たか。","fr":"Ha ha ha ! Ah, vous voilà !"}
+{"id":1547291,"jp":"今日はおいしいペペアメ作りの秘訣を\n学ばせていただきたいと思いまして。","fr":"Aujourd'hui, j'aimerais apprendre les secrets\nde la fabrication de délicieux bonbons Pepe."}
+{"id":1547292,"jp":"ほう？おいしいペペアメの秘訣か……","fr":"Oh ? Le secret des délicieux bonbons Pepe, dis-tu…"}
+{"id":1547293,"jp":"そんなものはないんだよ。","fr":"Eh bien, il n'y en a pas !"}
+{"id":1547294,"jp":"ペペアメは、『ペペ』と『アメ』でできている。\nつまり、基本の味はふたつだけだが……","fr":"Les bonbons Pepe sont faits de « Pepe » et de « bonbon ».\nIls ne reposent donc que sur deux saveurs de base, mais…"}
+{"id":1547295,"jp":"ペペアメのおいしさは、\nペペとアメの味だけでは語れないんだ。","fr":"Ce qui rend les bonbons Pepe si délicieux\nne se résume pas simplement au goût du Pepe et du bonbon."}
+{"id":1547296,"jp":"そのおいしさの秘訣を知るには――\nあらゆるおいしいものを味わわなくては。","fr":"Pour comprendre ce qui les rend aussi savoureux,\nil faut avoir goûté à toutes sortes de délices."}
+{"id":1547297,"jp":"ほら、これをあげよう。","fr":"Tiens, prends donc ceci."}
+{"id":1547298,"jp":"シャインキャンディショップの\nぜんぶのアメが入った試食セットさ。","fr":"C'est un assortiment de dégustation qui contient\n toutes les confiseries de la confiserie Shine."}
+{"id":1547299,"jp":"すべてのペペアメを食べてはじめて、\nペペアメのおいしさのわけがわかる。\n試してみなさい。","fr":"Ce n'est qu'après avoir goûté à toutes les variétés de bonbons Pepe\nque tu comprendras ce qui les rend si délicieux.\nAllez, essaie donc !"}
 {"id":1547311,"jp":"ふぅ……お待たせ！","fr":"Ouf… Pardon de vous avoir fait attendre !"}
 {"id":1547312,"jp":"これだよ！","fr":"Le voilà !"}
 {"id":1547315,"jp":"はい？","fr":"Oui ?"}
