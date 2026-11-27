@@ -56114,8 +56114,10 @@
 {"id":1554644,"jp":"コロコロ商店","fr":"Boutique Korokoro"}
 {"id":1554645,"jp":"食材ショップ","fr":"Boutique d'ingrédients"}
 {"id":1554646,"jp":"農園レベル","fr":"Niveau de la ferme"}
+{"id":1554647,"jp":"星識レベル10に達し、クエスト「はじめての芽吹の谷」を達成すると解放されます。","fr":"Se débloque après avoir atteint le niveau de Savoir stellaire 10 et terminé la quête « Premier passage dans la Vallée des Bourgeons »."}
 {"id":1554648,"jp":"農園倉庫","fr":"Entrepôt de la ferme"}
 {"id":1554649,"jp":"キラキラ珍品","fr":"Curiosités scintillantes"}
+{"id":1554650,"jp":"星識レベル13に達し、クエスト「村民の願い」を達成すると解放されます。","fr":"Se débloque après avoir atteint le niveau de Savoir stellaire 13 et terminé la quête « Le souhait des villageois »."}
 {"id":1554651,"jp":"農園製作","fr":"Fabrication à la ferme"}
 {"id":1554652,"jp":"乗りものホイール","fr":"Roue des montures"}
 {"id":1554653,"jp":"マウントライセンス","fr":"Permis de monture"}
@@ -56124,13 +56126,28 @@
 {"id":1554656,"jp":"バッグ-装備","fr":"Sac - Équipement"}
 {"id":1554657,"jp":"バッグ-素材","fr":"Sac - Matériaux"}
 {"id":1554658,"jp":"バッグ-料理","fr":"Sac - Plats"}
+{"id":1554659,"jp":"バッグ-クエストアイテム","fr":"Inventaire - Objets de quête"}
 {"id":1554660,"jp":"バッグ-キボのタマゴ","fr":"Sac - Œufs de Kibo"}
 {"id":1554661,"jp":"バッグ-コレクション","fr":"Sac - Collection"}
 {"id":1554662,"jp":"個人チャット","fr":"Discussion privée"}
 {"id":1554663,"jp":"ワールドチャンネル","fr":"Canal mondial"}
 {"id":1554664,"jp":"メインチャンネル","fr":"Canal principal"}
 {"id":1554665,"jp":"パーティチャンネル","fr":"Canal de groupe"}
+{"id":1554666,"jp":"チャット・フレンド設定","fr":"Paramètres du chat et des amis"}
 {"id":1554667,"jp":"プロフィールカード","fr":"Carte de profil"}
+{"id":1554668,"jp":"プロフィールカード-キャラ選択","fr":"Carte de profil - Sélection du personnage"}
+{"id":1554669,"jp":"プロフィールカード-名前変更","fr":"Carte de profil - Modification du nom"}
+{"id":1554670,"jp":"プロフィールカード-自己紹介変更","fr":"Carte de profil - Modification de la présentation"}
+{"id":1554671,"jp":"プロフィールカード-キボを選択","fr":"Carte de profil - Sélection du Kibo"}
+{"id":1554672,"jp":"プロフィールカード-誕生日の設定","fr":"Carte de profil - Date d'anniversaire"}
+{"id":1554673,"jp":"プロフィールカード-称号の設定","fr":"Carte de profil - Sélection du titre"}
+{"id":1554674,"jp":"プロフィールカード-シーン編集","fr":"Carte de profil - Modification de la scène"}
+{"id":1554675,"jp":"プロフィールカード-シーン編集入力欄","fr":"Carte de profil - Champ de saisie de l'éditeur de scène"}
+{"id":1554676,"jp":"プロフィールカード-スタンドの作成","fr":"Carte de profil - Création d'un présentoir"}
+{"id":1554677,"jp":"プロフィールカード-見た目の変更","fr":"Carte de profil - Modification de l'apparence"}
+{"id":1554678,"jp":"プロフィールカード-実績ポイントの表示","fr":"Carte de profil - Affichage des points de succès"}
+{"id":1554679,"jp":"プロフィールカード-農園レベルの表示","fr":"Carte de profil - Affichage du niveau de la ferme"}
+{"id":1554680,"jp":"プロフィールカード-アイコン／アイコンフレーム","fr":"Carte de profil - Avatar et cadre d'avatar"}
 {"id":1554681,"jp":"アニマ切り替え","fr":"Changer d'Anima"}
 {"id":1554682,"jp":"アニマ強化","fr":"Améliorer l'Anima"}
 {"id":1554683,"jp":"装備変更","fr":"Changer d'équipement"}
@@ -56142,10 +56159,12 @@
 {"id":1554689,"jp":"図鑑","fr":"Encyclopédie"}
 {"id":1554690,"jp":"ワールド難易度","fr":"Difficulté du monde"}
 {"id":1554691,"jp":"キャラクター好感度","fr":"Affinité des personnages"}
+{"id":1554692,"jp":"キャラクタープレゼント","fr":"Cadeaux aux personnages"}
 {"id":1554693,"jp":"願いの家具","fr":"Mobilier des souhaits"}
 {"id":1554694,"jp":"キャラの寮","fr":"Dortoir des personnages"}
 {"id":1554695,"jp":"星輝初現","fr":"Premier éclat stellaire"}
 {"id":1554696,"jp":"パミー通信","fr":"Messagerie Pammy"}
+{"id":1554697,"jp":"パミー通信-キャラクター","fr":"Messagerie Pammy - Personnages"}
 {"id":1554698,"jp":"パミー通信-NPC","fr":"Messagerie Pammy - PNJ"}
 {"id":1554699,"jp":"パミー通信-シナリオ","fr":"Messagerie Pammy - Scénarios"}
 {"id":1554700,"jp":"ランダムクエスト","fr":"Quêtes aléatoires"}
@@ -56156,6 +56175,7 @@
 {"id":1554706,"jp":"集会所ダンジョン","fr":"Donjon de la salle de réunion"}
 {"id":1554707,"jp":"共通リソース欄","fr":"Ressources communes"}
 {"id":1554708,"jp":"スタミナ購入","fr":"Acheter de l'endurance"}
+{"id":1554709,"jp":"クエスト「村民の願い」を達成すると解放されます。","fr":"Se débloque après avoir terminé la quête « Le souhait des villageois »."}
 {"id":1554710,"jp":"採集物追跡","fr":"Suivi des ressources"}
 {"id":1554711,"jp":"マップワープ","fr":"Téléportation sur la carte"}
 {"id":1554712,"jp":"ウミィ謎解き","fr":"Énigmes d'Umii"}
@@ -56168,19 +56188,29 @@
 {"id":1554719,"jp":"輝く異彩キボ","fr":"Variante brillante de Kibo"}
 {"id":1554720,"jp":"農園本部-生産施設","fr":"QG de la ferme - Installations de production"}
 {"id":1554721,"jp":"農園本部-畑小屋","fr":"QG de la ferme - Abri des champs"}
+{"id":1554722,"jp":"農園本部-フィールド採集","fr":"Quartier général de la ferme - Collecte en extérieur"}
 {"id":1554723,"jp":"農園本部-派遣キボ","fr":"QG de la ferme - Affectation des Kibo"}
 {"id":1554724,"jp":"農園本部-牧場キボ","fr":"QG de la ferme - Kibo du pâturage"}
+{"id":1554725,"jp":"星識レベル15に達し、クエスト「はじめての芽吹の谷」を達成すると解放されます。","fr":"Se débloque après avoir atteint le niveau de Savoir stellaire 15 et terminé la quête « Premier passage dans la Vallée des Bourgeons »."}
+{"id":1554726,"jp":"メインストーリー依頼「1-5 民の繁栄」を達成すると解放","fr":"Se débloque après avoir terminé la Mission de l'histoire principale « 1-5 Prospérité du peuple »."}
+{"id":1554727,"jp":"メインストーリー依頼「1-3 万里を越えて」を達成すると解放","fr":"Se débloque après avoir terminé la Mission de l'histoire principale « 1-3 Par-delà les horizons »."}
+{"id":1554728,"jp":"メインストーリー依頼「1-8 星の導き」を達成すると解放","fr":"Se débloque après avoir terminé la Mission de l'histoire principale « 1-8 Sous la guidance des étoiles »."}
+{"id":1554729,"jp":"キボファイトのチュートリアル","fr":"Tutoriel du Duel de Kibo"}
 {"id":1554730,"jp":"キャラレベルアップ","fr":"Monter le niveau du personnage"}
 {"id":1554731,"jp":"スキルレベルアップ","fr":"Monter le niveau des compétences"}
 {"id":1554732,"jp":"装備レベルアップ","fr":"Monter le niveau de l'équipement"}
 {"id":1554733,"jp":"アニマ上限突破","fr":"Percée de l'Anima"}
 {"id":1554734,"jp":"キボ捕獲","fr":"Capture de Kibo"}
 {"id":1554735,"jp":"キボ好感度","fr":"Affinité des Kibo"}
+{"id":1554736,"jp":"キボファイト・練習試合","fr":"Duel de Kibo - Match d'entraînement"}
+{"id":1554737,"jp":"芽吹の谷のエリアレベルが2になり、クエスト「『星冠杯』大会」を受注してクリアすると解放","fr":"Se débloque après avoir atteint le niveau de zone 2 dans la Vallée des Bourgeons, puis accepté et terminé la quête « Tournoi de la \"Coupe de la couronne stellaire\" »."}
+{"id":1554738,"jp":"ショートカットアイテムバー","fr":"Barre d'accès rapide aux objets"}
 {"id":1554739,"jp":"農園名を変更","fr":"Renommer la ferme"}
 {"id":1554740,"jp":"キボ名を変更","fr":"Renommer le Kibo"}
 {"id":1554741,"jp":"キボの小屋名を変更","fr":"Renommer l'abri du Kibo"}
 {"id":1554742,"jp":"チーム名を変更","fr":"Renommer l'équipe"}
 {"id":1554743,"jp":"フレンドのメモを編集","fr":"Modifier la note d'ami"}
+{"id":1554744,"jp":"写真カスタムテンプレート名","fr":"Nom du modèle photo personnalisé"}
 {"id":1554745,"jp":"エリアレベル報酬受取","fr":"Récupérer les récompenses de niveau de zone"}
 {"id":1554746,"jp":"星祝合成機能","fr":"Synthèse de Bénédictions stellaires"}
 {"id":1554747,"jp":"キボファイト手帳","fr":"Carnet de Duel de Kibo"}
@@ -56191,33 +56221,53 @@
 {"id":1554752,"jp":"アニマ図鑑","fr":"Encyclopédie des Anima"}
 {"id":1554753,"jp":"敵対ユニット図鑑","fr":"Encyclopédie des ennemis"}
 {"id":1554754,"jp":"マウント図鑑","fr":"Encyclopédie des montures"}
+{"id":1554755,"jp":"取引所設備内の関連機能","fr":"Fonctionnalités des installations du Comptoir d'échange"}
+{"id":1554756,"jp":"星識レベル13に達し、クエスト「金持ちへの第一歩！」を達成すると解放されます。","fr":"Se débloque après avoir atteint le niveau de Savoir stellaire 13 et terminé la quête « Premier pas vers la fortune ! »."}
 {"id":1554757,"jp":"農園配置アイテム","fr":"Objets à placer dans la ferme"}
+{"id":1554758,"jp":"ワールド採集 斧・ツルハシ","fr":"Collecte dans le monde - Hache et pioche"}
 {"id":1554759,"jp":"寮の入力欄","fr":"Champ de saisie du dortoir"}
 {"id":1554760,"jp":"メインエリア","fr":"Zone principale"}
+{"id":1554761,"jp":"星識レベル20になり、メインストーリー【第一章V】クリア後に異脈の星巣を解放","fr":"Le Nid stellaire anomal se débloque après avoir atteint le niveau de Savoir stellaire 20 et terminé le chapitre I, partie V de l'histoire principale."}
 {"id":1554762,"jp":"プレイヤーの基本情報","fr":"Informations de base du joueur"}
 {"id":1554764,"jp":"ESC背景設定","fr":"Fond du menu Échap"}
+{"id":1554765,"jp":"モバイル版事前ダウンロード","fr":"Prétéléchargement de la version mobile"}
 {"id":1554766,"jp":"凝結した空晶","fr":"Cristal céleste condensé"}
 {"id":1554767,"jp":"星虹交換","fr":"Échange d'arcs-en-ciel stellaires"}
 {"id":1554768,"jp":"新星おすすめ","fr":"Suggestions Nova"}
 {"id":1554769,"jp":"ゲーム終了","fr":"Quitter le jeu"}
+{"id":1554770,"jp":"この機能は一時停止中です。","fr":"Cette fonctionnalité est temporairement indisponible."}
 {"id":1554771,"jp":"レベル5で解放","fr":"Déblocage au niv. 5"}
 {"id":1554772,"jp":"レベル10で解放","fr":"Déblocage au niv. 10"}
+{"id":1554773,"jp":"キャラクターレベルアップ2","fr":"Montée en niveau des personnages 2"}
 {"id":1554774,"jp":"釣り","fr":"Pêche"}
 {"id":1554775,"jp":"メインチャット","fr":"Discussion principale"}
 {"id":1554776,"jp":"パーティチャット","fr":"Discussion de groupe"}
 {"id":1554777,"jp":"キボ装飾","fr":"Décoration des Kibo"}
 {"id":1554778,"jp":"キボの属性の実","fr":"Fruit élémentaire de Kibo"}
 {"id":1554779,"jp":"小屋を編集","fr":"Modifier l'abri"}
+{"id":1554780,"jp":"星啓のチュートリアルを進めてください。","fr":"Veuillez poursuivre le tutoriel de l'Éveil stellaire."}
 {"id":1554781,"jp":"願いの家具ショップ","fr":"Boutique du mobilier des souhaits"}
+{"id":1554782,"jp":"星識レベルが15に到達し、「星旅の記録」クエスト「農園に慣れる」を達成すると解放","fr":"Se débloque après avoir atteint le niveau de Savoir stellaire 15 et terminé la quête « Se familiariser avec la ferme » de la Chronique du voyage stellaire."}
 {"id":1554783,"jp":"釣りショップ","fr":"Boutique de pêche"}
 {"id":1554784,"jp":"満腹度施設","fr":"Installations d'alimentation"}
 {"id":1554785,"jp":"冒険手帳","fr":"Carnet d'aventure"}
+{"id":1554786,"jp":"芽吹の谷のキボファイトエリアレベルが3に達すると解放","fr":"Se débloque lorsque la zone de Duel de Kibo de la Vallée des Bourgeons atteint le niveau 3."}
+{"id":1554787,"jp":"レベル23で危機討伐解放","fr":"La Traque des menaces se débloque au niveau 23."}
+{"id":1554788,"jp":"星識レベル19に達し、メインストーリー【第一章V】クリア後に解放","fr":"Se débloque après avoir atteint le niveau de Savoir stellaire 19 et terminé le chapitre I, partie V de l'histoire principale."}
 {"id":1554789,"jp":"星脈の巣穴","fr":"Repaire de la veine stellaire"}
 {"id":1554790,"jp":"属性・星祝","fr":"Élément - Bénédiction stellaire"}
 {"id":1554791,"jp":"スキル・星祝","fr":"Compétence - Bénédiction stellaire"}
+{"id":1554792,"jp":"序章 はじまりの星の軌跡","fr":"Prologue : le Sillage stellaire des origines"}
 {"id":1554793,"jp":"はじまりの星の軌跡","fr":"Sillage stellaire des origines"}
+{"id":1554794,"jp":"エルフのアーチャー、シンフォーリアと妖精のルミィは、森の奥深くへと駆けていった……","fr":"Symphoria, l'archère Elfe, et Lumi, la fée, se sont élancées vers les profondeurs de la forêt…"}
+{"id":1554795,"jp":"まだ体には慣れない感覚があるが、凶獣の群れが近付いているため、シンフォーリアの後に続いて走り出した。","fr":"Les sensations de votre propre corps vous sont encore étrangères, mais une horde de Bêtes maudites approche. Vous vous êtes alors mis à courir à la suite de Symphoria."}
 {"id":1554796,"jp":"シャルル村見聞","fr":"Découverte du Village de Charlulu"}
+{"id":1554797,"jp":"ロースランサへ向かうはずだった空の旅は、避けようのない墜落によって終わりを告げた。それは新たな旅のはじまりでもあった……","fr":"Le voyage dans les airs qui devait vous mener à Lors Lains s'est achevé par un inévitable crash. Mais cet accident marquait aussi le début d'un nouveau voyage…"}
+{"id":1554798,"jp":"村から足を踏み出した瞬間、広大で真新しい世界が星臨者の目の前に広がった――","fr":"À peine l'Enfant des étoiles avait quitté le village qu'un monde immense, entièrement nouveau, s'étendait déjà à perte de vue…"}
+{"id":1554799,"jp":"ルミィと同行し、テララを探して合流する","fr":"Accompagner Lumi pour retrouver Terara et la rejoindre."}
+{"id":1554800,"jp":"村民たちとすこし言葉を交わした。もう一度ルルカと話してみよう。","fr":"Vous avez échangé quelques mots avec les villageois. Retournez parler à Luruka."}
 {"id":1554801,"jp":"翼としっぽ","fr":"Des ailes et des queues"}
+{"id":1554802,"jp":"仲間とともに、翼人の住処を探す。","fr":"Partir à la recherche du lieu de vie des Ailés en compagnie de vos alliés."}
 {"id":1554806,"jp":"森と霧のガーデン","fr":"Le jardin des bois et des brumes"}
 {"id":1554808,"jp":"満月の砕ける時","fr":"Quand la pleine lune se brise"}
 {"id":1554810,"jp":"忘れられた真実","fr":"La vérité oubliée"}
