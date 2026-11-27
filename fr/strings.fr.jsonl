@@ -51580,10 +51580,60 @@
 {"id":1547063,"jp":"手紙には前払金も同封されてたわ……\nこれなら、アヴィーナを療養院に入れられる！","fr":"Il y avait même une avance sur notre rémunération jointe à la lettre…\nGrâce à cet argent, je vais enfin pouvoir faire admettre Evina au sanatorium !"}
 {"id":1547064,"jp":"ほんとに！？","fr":"Vraiment !?"}
 {"id":1547065,"jp":"だけど、まずは試演を成功させないとね。","fr":"Mais avant tout, il faut que cette représentation d'essai soit une réussite."}
+{"id":1547066,"jp":"領主さまに伝えてもらえる？私たちはこの件を受けるって！\n試演会でまた会いましょ！","fr":"Tu pourrais transmettre notre réponse au seigneur ? Nous acceptons sa proposition !\nOn se retrouve à la représentation d'essai !"}
+{"id":1547067,"jp":"おふたりとも、ようこそいらっしゃいました。","fr":"Bienvenue à vous deux. Je suis ravie de vous accueillir."}
+{"id":1547068,"jp":"ふふーん、今日は大事な日だもんね。","fr":"Héhé, c'est un grand jour aujourd'hui, après tout !"}
+{"id":1547069,"jp":"そうそう……ナナチャさんと領主さんにも感謝しなきゃ！","fr":"Ah, mais oui… Il faut aussi qu'on te remercie, Nanacha, ainsi que le seigneur !"}
+{"id":1547070,"jp":"いいえ、私と領主さまのほうこそ、\nおふたりに感謝すべきでしょう。","fr":"Je vous en prie, c'est plutôt au seigneur et à moi-même\nde vous adresser nos remerciements."}
 {"id":1547071,"jp":"え？どうして？","fr":"Hein ? Pourquoi ?"}
+{"id":1547072,"jp":"領主さまはこのフリスで起こる\n多くのことを把握していらっしゃいますが……\nなかには手を出しづらいこともあるのです。","fr":"Le seigneur est au courant de bien des événements\nqui se produisent à Fleece…\nCependant, certaines situations rendent son intervention délicate."}
+{"id":1547073,"jp":"手を伸ばしたくても、できないことが……","fr":"Parfois, on aimerait tendre la main à quelqu'un, mais on ne le peut pas…"}
+{"id":1547074,"jp":"ですが、今回おふたりは橋渡しをするように、\n領主さまの願いとエリーナさんたちを繋げてくださいました。","fr":"Cette fois-ci, cependant, vous avez tous deux servi d'intermédiaires,\npermettant ainsi au seigneur de concrétiser son souhait d'aider Elina et sa famille."}
+{"id":1547075,"jp":"まるで縁が繋がるみたいにね。","fr":"Un peu comme lorsqu'on noue des liens, finalement."}
+{"id":1547076,"jp":"ええ、これこそ『ご縁』と言うべきものでしょう。","fr":"En effet, c'est précisément ce que l'on pourrait appeler un « lien du destin »."}
+{"id":1547077,"jp":"辰王朝の仙狐はただの伝説だと思っていました……\nあのように縁を結ぶ力が、実在しているなんて。","fr":"Je pensais que les renards célestes de la dynastie Chen n'étaient qu'une légende…\nJamais je n'aurais imaginé qu'un tel pouvoir de nouer des liens existait réellement."}
+{"id":1547078,"jp":"えっ？うちは今回、法力を使ってないよ？\n芷霜お姉ちゃんみたいに修行を極めたわけでもないし……","fr":"Hein ? Mais je n'ai même pas utilisé mes pouvoirs cette fois-ci !\nJe suis encore loin d'avoir atteint la maîtrise de ma grande sœur Zhishuang au terme de son Entraînement…"}
+{"id":1547079,"jp":"小玉さん、縁は法力だけで実現するものでは\nないでしょう？","fr":"Xiaoyu, les liens ne naissent pas uniquement\n de la puissance de vos pouvoirs spirituels, n'est-ce pas ?"}
+{"id":1547080,"jp":"縁を結ぶ最も大切なものは『想い』であるはずです。","fr":"Ce qui compte avant tout pour nouer des liens, ce sont les « sentiments »."}
+{"id":1547081,"jp":"おふたりの『想い』があったからこそ、\nすべてが実現したのです。","fr":"C'est précisément grâce aux « sentiments » qui vous animaient tous deux\nque tout cela a pu se concrétiser."}
+{"id":1547082,"jp":"塗山小玉&{playerName}","fr":"Tushan Xiaoyu & {playerName}"}
+{"id":1547083,"jp":"ほとんど{playerName}さんのおかげなんだよ。/\nほとんど小玉のおかげなんだよ。","fr":"C'est surtout grâce à {playerName}, tu sais./\nC'est surtout grâce à Xiaoyu, tu sais."}
+{"id":1547084,"jp":"ふふっ、どうやら『想い』だけでなく、\nおふたりのあいだの『ご縁』も尊いもののようですね。","fr":"Héhé, il semblerait que vos « sentiments » ne soient pas les seuls à être précieux.\nLe « lien » qui vous unit l'est tout autant."}
+{"id":1547085,"jp":"それでは本日お願いしたいことを\nまとめたリストをお渡ししておきますね。","fr":"Bien, permettez-moi maintenant de vous remettre\nla liste des préparatifs que j'aimerais vous confier aujourd'hui."}
+{"id":1547086,"jp":"ご手配、どうぞよろしくお願いいたします。","fr":"Je compte sur vous pour mener à bien ces préparatifs."}
+{"id":1547087,"jp":"{playerName}さん！それに小玉さんも！","fr":"{playerName} ! Oh, et Xiaoyu aussi !"}
+{"id":1547088,"jp":"めずらしいお客さんだね。楽しんでいって！","fr":"Voilà deux clients qu'on ne voit pas souvent ! Amusez-vous bien !"}
+{"id":1547089,"jp":"今日は遊びに来たんじゃないんだ。|今日は遊びに来たんじゃないの。","fr":"Aujourd'hui, on n'est pas là pour s'amuser.|Aujourd'hui, on n'est pas là pour s'amuser."}
+{"id":1547090,"jp":"領主さんから、お願いごとのリストを\n預かってるんだ～","fr":"Le seigneur nous a confié une petite liste\nde choses à faire !"}
 {"id":1547091,"jp":"へえ、見せてみて……","fr":"Oh ? Montre-moi…"}
 {"id":1547092,"jp":"手品の試演会！？","fr":"Un spectacle d'essai de magie !?"}
+{"id":1547093,"jp":"わかった！すぐに最高の改造パーツと装飾を選んで、\nゴンドーロに送るよ！","fr":"Compris ! Je vais sélectionner les meilleures pièces d'amélioration et les plus belles décorations,\npuis les envoyer immédiatement à Gondolo !"}
+{"id":1547094,"jp":"待って。ほかにも伝えなきゃいけないことが……","fr":"Attends, j'ai encore quelque chose à te préciser…"}
+{"id":1547095,"jp":"こうしちゃいられないよ！\nいますぐ倉庫に行って、最高のものを選んでくる！","fr":"Pas une seconde à perdre !\nJe file à l'entrepôt pour sélectionner ce qu'on a de mieux !"}
+{"id":1547096,"jp":"ああ、ロミミに『あまり豪華にしすぎないで』って\n伝えそびれちゃった……","fr":"Ah… Je n'ai pas eu le temps de préciser à Romimi\nqu'il ne fallait pas en faire trop sur le luxe…"}
+{"id":1547097,"jp":"ロミミは興奮しちゃってるのかもね？\nさあさ、つぎの場所に行こう！","fr":"Romimi s'est peut-être un peu trop emballé ?\nAllez, allez, passons à notre prochaine destination !"}
 {"id":1547098,"jp":"フェデリカさ～ん！","fr":"Federica~ !"}
+{"id":1547099,"jp":"ひさしぶり！今日のご注文は？","fr":"Ça fait longtemps ! Qu'est-ce que je vous sers aujourd'hui ?"}
+{"id":1547100,"jp":"えへへっ、今日はね、仕事で来たの！","fr":"Héhé, aujourd'hui, on est là pour le travail !"}
+{"id":1547101,"jp":"フェデリカ、これを見てもらえるかな。\n領主からもらったやって欲しいことのリストなんだけど。","fr":"Federica, tu pourrais jeter un œil à ceci ?\nC'est la liste des préparatifs que le seigneur nous a confiée."}
+{"id":1547102,"jp":"へえ〜、規模は小さめだけど、\n楽しそうなイベントだね。","fr":"Ohhh, c'est un événement plutôt modeste,\nmais ça a l'air drôlement sympathique !"}
+{"id":1547103,"jp":"子どもたちや町のために食事を用意するなら、\nしっかりとメニューを考えなくちゃ！","fr":"Puisqu'il s'agit de préparer un repas pour les enfants et les habitants de la ville,\nil va falloir que je réfléchisse sérieusement au menu !"}
+{"id":1547104,"jp":"ふふん、もう頭のなかでは決まってるから。\n届くのを待っててね！","fr":"Héhé, en fait, j'ai déjà mon idée !\nVous n'avez plus qu'à attendre la livraison !"}
+{"id":1547105,"jp":"うん、よろしくね。フェデリカさんも！","fr":"Super ! On compte sur toi aussi, Federica !"}
+{"id":1547106,"jp":"ところで……ユニはいくら必要かな？","fr":"Au fait… Combien d'Uni faudra-t-il prévoir ?"}
+{"id":1547107,"jp":"高くつくよ？\nなんたって、縁と笑顔のために用意する食事だもん。","fr":"Oh, ça risque de vous coûter cher !\nAprès tout, c'est un repas destiné à rapprocher les gens et à leur donner le sourire."}
+{"id":1547108,"jp":"なーんて！冗談だよ。\nリストに『請求書は領主邸へ』って書いてあるから！","fr":"Mais non, je plaisante !\nC'est écrit sur la liste : « Adresser la facture au manoir du seigneur » !"}
+{"id":1547109,"jp":"心配いらないって……どういうこと？","fr":"Comment ça, je n'ai pas à m'en faire… ?"}
+{"id":1547110,"jp":"ナナチャさんが手配リストをくれたの。\nそのリストのことは、もうぜんぶやっておいたから！","fr":"Nanacha nous a confié une liste de préparatifs.\nEt on s'est déjà occupés de tout !"}
+{"id":1547111,"jp":"うぅ、本来は私が主催者としてやるべきことだったのに……","fr":"Oh… C'était pourtant à moi de m'occuper de tout ça en tant qu'organisatrice…"}
+{"id":1547112,"jp":"今回のこと、本当に……ありがとう。","fr":"Pour tout ce que vous avez fait pour nous… Merci, du fond du cœur."}
+{"id":1547113,"jp":"アヴィーナの笑顔のため！","fr":"C'est pour le sourire d'Evina !"}
+{"id":1547114,"jp":"感謝は領主に伝えてね。","fr":"C'est le seigneur que tu devrais remercier."}
+{"id":1547115,"jp":"ああ、しっかりやり遂げるよ。","fr":"Oui, je vais faire en sorte que tout se passe bien."}
+{"id":1547116,"jp":"アヴィーナを安心させるためにも！","fr":"Ne serait-ce que pour qu'Evina puisse avoir l'esprit tranquille !"}
+{"id":1547117,"jp":"星臨者さま、来てくれたんですね！","fr":"Enfant des étoiles, vous êtes là !"}
+{"id":1547118,"jp":"エリーナから喘息のこと、聞いてるよ。\nすこしはよくなったかな？","fr":"Elina m'a parlé de ton asthme.\nEst-ce que tu te sens un peu mieux ?"}
+{"id":1547119,"jp":"はい、だいぶよくなりました。\nでも、エリーナお姉ちゃんは、やっぱり療養院に行かないとって……","fr":"Oui, je vais beaucoup mieux.\nMais ma grande sœur Elina dit qu'il faut quand même que j'aille au sanatorium…"}
 {"id":1547125,"jp":"探しに行ってみるよ。","fr":"Je vais aller la chercher."}
 {"id":1547127,"jp":"ここでなにしてるの？","fr":"Que fais-tu ici ?"}
 {"id":1547129,"jp":"ほら、こっちこっち！","fr":"Allez, par ici, par ici !"}
