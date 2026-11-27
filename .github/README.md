@@ -6,14 +6,14 @@ Ce projet n'est ni affilié à Manjuu ni approuvé par l'éditeur. Un patch de t
 
 ## Jouer en français
 
-1. [Télécharge le patcher Windows](https://github.com/pedrokarim/azur-promilia-fr/releases/download/patcher-v1.0.0/azur-promilia-patcher-windows-x64.zip) et décompresse toute l’archive. Laisse les dossiers à côté de `azur-promilia-patcher.exe`.
-2. Ferme le jeu et le launcher officiel. Ouvre `azur-promilia-patcher.exe`, puis clique sur « Choisir » et sélectionne le dossier `AZUPRO_JP` qui contient `AzurPromiliaJP.exe`.
-3. Sélectionne « Français », clique sur « Télécharger la traduction », puis sur « Installer ».
+1. [Télécharge le patcher Windows 1.1.0](https://github.com/pedrokarim/azur-promilia-fr/releases/download/patcher-v1.1.0/azur-promilia-patcher-windows-x64.zip) et décompresse toute l’archive. Laisse les dossiers à côté de `azur-promilia-patcher.exe`.
+2. Ferme le jeu et le launcher officiel, puis ouvre `azur-promilia-patcher.exe`. Si le patcher ne trouve pas le jeu, clique sur « Choisir » et sélectionne le dossier `AZUPRO_JP` qui contient `AzurPromiliaJP.exe`.
+3. Sélectionne « Français ». Si le patcher indique qu’une mise à jour est disponible, clique sur « Télécharger la traduction ». Clique ensuite sur « Installer ».
 4. Clique sur « Lancer » ou utilise le raccourci « Azur Promilia (français) ». Le launcher officiel peut remettre les fichiers japonais.
 
 ![Fenêtre du patcher avec Français sélectionné et le bouton Choisir à côté du champ du dossier du jeu](../docs/images/patcher-fr.png)
 
-Pour mettre à jour la traduction, ferme le jeu, puis clique sur « Télécharger la traduction » et « Installer ». Avant une mise à jour du jeu, clique sur « Désinstaller » pour restaurer les fichiers japonais.
+Avant une mise à jour du jeu, ferme-le et clique sur « Désinstaller » pour restaurer les fichiers japonais.
 
 Le launcher se traduit à part, avec [azur-promilia-fr-launcher](https://github.com/pedrokarim/azur-promilia-fr-launcher).
 
