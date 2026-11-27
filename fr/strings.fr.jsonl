@@ -58367,8 +58367,18 @@
 {"id":1558278,"jp":"素材が不足しています","fr":"Matériaux insuffisants"}
 {"id":1558279,"jp":"設備が重なっています","fr":"Les installations se chevauchent"}
 {"id":1558280,"jp":"設置エリアを超えています","fr":"En dehors de la zone de placement"}
+{"id":1558281,"jp":"設置上限数を超えています","fr":"Limite de placement dépassée"}
+{"id":1558282,"jp":"レベルアップ中のため、設置できません","fr":"Impossible de placer cette installation pendant son amélioration"}
+{"id":1558283,"jp":"設備の数が不足しており、連続配置はできません","fr":"Nombre d'installations insuffisant pour effectuer des placements successifs"}
+{"id":1558284,"jp":"建設エリアを離れました。あと{0}秒で建設モードを終了します","fr":"Vous avez quitté la zone de construction. Le mode Construction prendra fin dans {0} secondes"}
 {"id":1558285,"jp":"建設エリア外です","fr":"Hors de la zone de construction."}
+{"id":1558286,"jp":"鉱石と設備が重なっているため、設置できません。","fr":"Impossible de placer cette installation : elle chevauche un gisement de minerai."}
+{"id":1558287,"jp":"キャラクターの外見を初期状態にリセットしますか？","fr":"Voulez-vous rétablir l'apparence initiale du personnage ?"}
+{"id":1558288,"jp":"騎乗中はアクションを切り替えられません","fr":"Impossible de changer d'action lorsque vous utilisez une monture"}
+{"id":1558289,"jp":"キャラクターのHPは満タンです","fr":"Les PV du personnage sont au maximum"}
+{"id":1558290,"jp":"キャラクターの満腹度は最大です","fr":"La satiété du personnage est au maximum"}
 {"id":1558291,"jp":"使用しました","fr":"Utilisé"}
+{"id":1558292,"jp":"星脈活性度が1レベル上がるごとに敵の難易度が上昇し、ドロップ報酬が良くなります。\n星脈活性度はダンジョンやクエストの敵のレベルおよびドロップには影響しません。","fr":"Chaque niveau supplémentaire d'activité des veines stellaires augmente la difficulté des ennemis et améliore les récompenses obtenues.\nL'activité des veines stellaires n'affecte ni le niveau des ennemis ni leurs récompenses dans les donjons et les quêtes."}
 {"id":1558293,"jp":"鋳造","fr":"Coulée"}
 {"id":1558294,"jp":"彫金","fr":"Ciselure"}
 {"id":1558295,"jp":"錬金","fr":"Alchimie"}
@@ -58391,9 +58401,12 @@
 {"id":1558312,"jp":"変換開始","fr":"Lancer la conversion"}
 {"id":1558313,"jp":"製造数","fr":"Objets à fabriquer"}
 {"id":1558314,"jp":"製造開始","fr":"Lancer la fabrication"}
+{"id":1558315,"jp":"待ちリストをキャンセルしますか？\n（消費した素材は返却されません）","fr":"Voulez-vous annuler la file d'attente ?\n(Les matériaux consommés ne seront pas restitués.)"}
 {"id":1558316,"jp":"種を選択","fr":"Choisir les graines"}
 {"id":1558317,"jp":"栽培開始","fr":"Lancer la culture"}
 {"id":1558318,"jp":"収穫可能までの時間：","fr":"Temps avant la récolte :"}
+{"id":1558319,"jp":"種が選択した土地のタイプに適していません","fr":"Ces graines ne sont pas adaptées au type de sol sélectionné"}
+{"id":1558320,"jp":"選択した土地には作物が植えられています。","fr":"La parcelle sélectionnée contient déjà une culture."}
 {"id":1558321,"jp":"フレンドリスト","fr":"Liste d'amis"}
 {"id":1558322,"jp":"フレンド申請","fr":"Demandes d'ami"}
 {"id":1558323,"jp":"最近のマルチプレイ履歴","fr":"Historique multijoueur récent"}
@@ -58414,6 +58427,22 @@
 {"id":1558338,"jp":"フレンドを削除","fr":"Retirer l'ami"}
 {"id":1558339,"jp":"通報する","fr":"Signaler"}
 {"id":1558340,"jp":"ミュート解除","fr":"Réactiver le son"}
+{"id":1558341,"jp":"フレンド申請を送信しました。","fr":"Demande d'ami envoyée."}
+{"id":1558342,"jp":"このプレイヤーにはフレンド申請中です。","fr":"Une demande d'ami est déjà en attente pour ce joueur."}
+{"id":1558343,"jp":"このプレイヤーとはすでにフレンドです。","fr":"Ce joueur figure déjà dans votre liste d'amis."}
+{"id":1558344,"jp":"%sはあなたのフレンド申請を拒否しました","fr":"%s a refusé votre demande d'ami"}
+{"id":1558345,"jp":"%sをブロックリストに追加しました","fr":"%s a été ajouté à votre liste de joueurs bloqués"}
+{"id":1558346,"jp":"フレンドを削除しますか？","fr":"Voulez-vous supprimer cet ami ?"}
+{"id":1558347,"jp":"%sのチャットをミュートしますか？","fr":"Voulez-vous mettre les messages de %s en sourdine ?"}
+{"id":1558348,"jp":"%sのチャットをミュートしました","fr":"Les messages de %s ont été mis en sourdine"}
+{"id":1558349,"jp":"メモ用の名前を入力してください","fr":"Veuillez saisir un nom personnalisé"}
+{"id":1558350,"jp":"%sをブロックリストに追加してもよろしいですか？","fr":"Voulez-vous vraiment ajouter %s à votre liste de joueurs bloqués ?"}
+{"id":1558351,"jp":"訪問申請を送信しました","fr":"Demande de visite envoyée"}
+{"id":1558352,"jp":"UIDを入力してプレイヤーを検索","fr":"Saisir un UID pour rechercher un joueur"}
+{"id":1558353,"jp":"相手のフレンド申請リストが上限に達しています","fr":"La liste des demandes d'ami de ce joueur est pleine"}
+{"id":1558354,"jp":"フレンドが上限に達しています。","fr":"Votre liste d'amis est pleine."}
+{"id":1558355,"jp":"ブロックできる人数は上限に達しました","fr":"Le nombre maximal de joueurs bloqués est atteint"}
+{"id":1558357,"jp":"次のレベルまでの経験値：%s","fr":"EXP requise pour le niveau suivant : %s"}
 {"id":1558358,"jp":"性別","fr":"Sexe"}
 {"id":1558359,"jp":"所属ギルド","fr":"Guilde"}
 {"id":1558360,"jp":"誕生日","fr":"Anniversaire"}
@@ -58422,10 +58451,16 @@
 {"id":1558363,"jp":"レンタル中のキボ","fr":"Kibo prêtés"}
 {"id":1558364,"jp":"自己紹介変更","fr":"Modifier la bio"}
 {"id":1558365,"jp":"実績スコア","fr":"Score de succès"}
+{"id":1558366,"jp":"新しいニックネームを入力","fr":"Saisir un nouveau pseudonyme"}
 {"id":1558367,"jp":"コメントを入力","fr":"Saisir un commentaire"}
+{"id":1558368,"jp":"文字数制限を超えています","fr":"Nombre maximal de caractères dépassé"}
+{"id":1558369,"jp":"不適切な文字が含まれています","fr":"Contient des caractères non autorisés"}
 {"id":1558370,"jp":"チャットウィンドウ","fr":"Fenêtre de chat"}
+{"id":1558371,"jp":"押してメッセージを入力","fr":"Appuyer pour saisir un message"}
 {"id":1558372,"jp":"チャットを削除","fr":"Supprimer le chat"}
+{"id":1558373,"jp":"%s異なるチャンネルからのメッセージ","fr":"%s messages provenant d'un autre canal"}
 {"id":1558374,"jp":"送信","fr":"Envoyer"}
+{"id":1558375,"jp":"メッセージが長すぎます","fr":"Le message est trop long"}
 {"id":1558376,"jp":"所持トロフィー数：","fr":"Trophées possédés :"}
 {"id":1558377,"jp":"達成進捗","fr":"Progression"}
 {"id":1558378,"jp":"実績を達成しました。","fr":"Succès accompli."}
@@ -58434,6 +58469,7 @@
 {"id":1558381,"jp":"メールなし","fr":"Aucun courrier"}
 {"id":1558382,"jp":"メールはありません。","fr":"Aucun courrier."}
 {"id":1558383,"jp":"一括受取","fr":"Tout récupérer"}
+{"id":1558384,"jp":"添付アイテムを受け取る","fr":"Récupérer les pièces jointes"}
 {"id":1558385,"jp":"報酬","fr":"Récompenses"}
 {"id":1558386,"jp":"%s後に期限切れ","fr":"Expire dans %s"}
 {"id":1558387,"jp":"農園へ移動する","fr":"Aller à la ferme"}
@@ -58443,26 +58479,50 @@
 {"id":1558391,"jp":"設備リスト","fr":"Liste des installations"}
 {"id":1558392,"jp":"受け取る","fr":"Récupérer"}
 {"id":1558393,"jp":"現在の繁栄度レベル：","fr":"Niveau de prospérité actuel :"}
+{"id":1558394,"jp":"次のレベルまでの進捗：","fr":"Progression vers le niveau suivant :"}
 {"id":1558395,"jp":"繁栄度レベル報酬","fr":"Récompenses de niveau de prospérité"}
 {"id":1558396,"jp":"%sを獲得","fr":"%s obtenu"}
 {"id":1558397,"jp":"アップグレード中","fr":"Amélioration en cours"}
 {"id":1558398,"jp":"設備情報","fr":"Infos de l'installation"}
 {"id":1558399,"jp":"機能","fr":"Fonctions"}
 {"id":1558400,"jp":"派遣","fr":"Affectation"}
+{"id":1558401,"jp":"最大レベルに達しました","fr":"Niveau maximal atteint"}
 {"id":1558402,"jp":"農園招待コード","fr":"Code d'invitation de la ferme"}
 {"id":1558403,"jp":"発行","fr":"Générer"}
 {"id":1558404,"jp":"コピー","fr":"Copier"}
+{"id":1558405,"jp":"招待コードをコピーしました","fr":"Code d'invitation copié"}
 {"id":1558406,"jp":"設置制限：","fr":"Limite de placement :"}
 {"id":1558407,"jp":"連続","fr":"Continu"}
 {"id":1558408,"jp":"収納","fr":"Ranger"}
 {"id":1558409,"jp":"残りの設備数：%s","fr":"Installations restantes : %s"}
+{"id":1558410,"jp":"現在の設置可能設備数：%s/%s","fr":"Nombre d'installations pouvant être placées : %s/%s"}
 {"id":1558411,"jp":"農園収益","fr":"Revenus de la ferme"}
 {"id":1558412,"jp":"効率アップ設備","fr":"Installations d'efficacité"}
+{"id":1558413,"jp":"設備を建設すると、農園の設備から追加の収益が発生します。","fr":"La construction d'installations permet de générer des revenus supplémentaires grâce aux équipements de votre ferme."}
+{"id":1558414,"jp":"所持数  <color=#e8983a>{0}</color>","fr":"Quantité possédée  <color=#e8983a>{0}</color>"}
+{"id":1558416,"jp":"効率アップ設備建設済み","fr":"Installation de Hausse de l'efficacité construite"}
 {"id":1558417,"jp":"建設済み","fr":"Construit"}
 {"id":1558418,"jp":"未建設","fr":"Non construit"}
 {"id":1558419,"jp":"フィールド{0}解放","fr":"Terrain {0} débloqué"}
+{"id":1558420,"jp":"キボが空腹状態のため、作業効率が低下しています。","fr":"L'efficacité du travail est réduite, car le Kibo a faim."}
 {"id":1558421,"jp":"キボは作業中です。","fr":"Le Kibo travaille."}
+{"id":1558422,"jp":"施設に未回収の資源が残っています。自動回収後に施設を収納します。よろしいですか？","fr":"Cette installation contient encore des ressources non récupérées. Elles seront automatiquement collectées avant son rangement. Voulez-vous continuer ?"}
 {"id":1558423,"jp":"産出プラン","fr":"Plan de production"}
+{"id":1558424,"jp":"施設の資源産出プランを選択してください。","fr":"Veuillez sélectionner un programme de production de ressources pour cette installation."}
+{"id":1558425,"jp":"ボタンを移動して位置を調整してください","fr":"Déplacez le bouton pour ajuster sa position"}
+{"id":1558426,"jp":"ボタンの位置が重なっています","fr":"Les boutons se chevauchent"}
+{"id":1558427,"jp":"一部のボタンが重なっているため、保存できません。","fr":"Impossible d'enregistrer : certains boutons se chevauchent."}
+{"id":1558428,"jp":"%sのキー設定が解除されました。","fr":"Le raccourci clavier associé à %s a été supprimé."}
+{"id":1558429,"jp":"このキーには設定できません。","fr":"Cette touche ne peut pas être attribuée."}
+{"id":1558430,"jp":"すべてのキー設定を初期状態に戻します。よろしいですか？","fr":"Voulez-vous rétablir les paramètres par défaut de toutes les touches ?"}
+{"id":1558431,"jp":"選択中の言語パック「%s」は未ダウンロードです。ダウンロードして切り替えますか？\n「%s」言語パックサイズ（%sGB）","fr":"Le pack linguistique sélectionné « %s » n'a pas encore été téléchargé. Voulez-vous le télécharger et changer de langue ?\nTaille du pack linguistique « %s » (%s Go)"}
+{"id":1558432,"jp":"リソースをダウンロード中......\n進行状況：%sGB/%sGB","fr":"Téléchargement des ressources…\nProgression : %s Go/%s Go"}
+{"id":1558433,"jp":"交換に成功しました！アイテムはメールボックスに送付済みです。","fr":"Code échangé avec succès ! Les objets ont été envoyés dans votre boîte aux lettres."}
+{"id":1558434,"jp":"交換に失敗しました。無効なコードです。","fr":"Échec de l'échange : code invalide."}
+{"id":1558435,"jp":"交換に失敗しました。残り交換可能回数がゼロです。","fr":"Échec de l'échange : le nombre maximal d'utilisations a été atteint."}
+{"id":1558436,"jp":"リソースチェックには時間がかかります。実行しますか？","fr":"La vérification des ressources peut prendre un certain temps. Voulez-vous continuer ?"}
+{"id":1558437,"jp":"リソース整合性をチェック中......\n進行状況：%sGB/%sGB","fr":"Vérification de l'intégrité des ressources…\nProgression : %s Go/%s Go"}
+{"id":1558438,"jp":"スタック状態を解除して、最寄りの出現地点へ戻ります。よろしいですか？","fr":"Cette opération vous débloquera et vous ramènera au point de réapparition le plus proche. Voulez-vous continuer ?"}
 {"id":1558443,"jp":"%sが不足しています","fr":"Il manque %s"}
 {"id":1558444,"jp":"\"繁栄度%s","fr":"\"Prospérité %s"}
 {"id":1558445,"jp":"フレンドを訪問する","fr":"Rendre visite à un ami"}
