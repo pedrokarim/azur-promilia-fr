@@ -56905,39 +56905,99 @@
 {"id":1555314,"jp":"休暇の請願書。\n風隠れ岩の民がファランタ族長に休暇を取ってほしいと願う気持ちが記されている。","fr":"Une pétition pour des congés.\nLes habitants du Roc Coupe-Vent y expriment leur souhait de voir leur cheffe, Faridah, prendre quelques jours de repos."}
 {"id":1555315,"jp":"ファランタ特製激辛ソース","fr":"Sauce extra-piquante spéciale de Faridah"}
 {"id":1555316,"jp":"ファランタ特製赤辛子ソース。","fr":"Une sauce au piment rouge préparée selon la recette spéciale de Faridah."}
+{"id":1555317,"jp":"『この程度の辛さなら、星臨者でも楽しめる』\nファランタお手製の赤辛子ソース。すべてを超越する究極の激辛をほどよい辛さに改良し、翼人秘伝の香辛料で風味を加えた。","fr":"« Avec un piquant aussi raisonnable, même l'Enfant des étoiles pourra se régaler. »\nUne sauce au piment rouge préparée par Faridah. Elle a adouci son légendaire piquant, autrefois inégalable, et relevé sa saveur avec un mélange d'épices dont les Ailés gardent jalousement le secret."}
 {"id":1555318,"jp":"ボネイのお弁当","fr":"Boîte-repas de Bonei"}
+{"id":1555319,"jp":"ボネイ手作りのお弁当。","fr":"Un repas préparé à la main par Bonei."}
+{"id":1555320,"jp":"ボネイの手作り弁当。\nファランタへの感謝を込めて作られたが、量はひとり分をはるかに超えているようだ。","fr":"Un repas fait maison par Bonei.\nPréparé en guise de remerciement pour Faridah, il contient visiblement de quoi nourrir bien plus d'une personne."}
 {"id":1555321,"jp":"ルルカが求めた果物","fr":"Fruit demandé par Luruka"}
 {"id":1555322,"jp":"新鮮な果実。","fr":"Un fruit frais."}
+{"id":1555323,"jp":"ルルカがティナナに収集を依頼した木の実。\n薬材として使用できる。","fr":"Des fruits à coque que Luruka a demandé à Tinana de récolter.\nIls peuvent servir d'ingrédients médicinaux."}
 {"id":1555324,"jp":"硬い鉱石","fr":"Minerai dur"}
+{"id":1555325,"jp":"材質が硬い、ありふれた鉱石。","fr":"Un minerai ordinaire particulièrement dur."}
+{"id":1555326,"jp":"組織は緻密で、表面は淡い光沢を帯びている。","fr":"Sa structure est compacte et sa surface présente un léger éclat."}
 {"id":1555327,"jp":"欠けたノート","fr":"Carnet abîmé"}
+{"id":1555328,"jp":"鉱洞で発見されたノート。","fr":"Un carnet découvert dans une galerie minière."}
+{"id":1555329,"jp":"何者かが意図的に鉱坑に残したようで、ほぼ完璧な状態で保存されている。","fr":"Quelqu'un semble avoir délibérément laissé ce carnet dans la mine. Il est dans un état de conservation presque impeccable."}
 {"id":1555330,"jp":"実験レポート","fr":"Rapport d'expérience"}
+{"id":1555331,"jp":"実験記録がびっしりと書き込まれた報告書。","fr":"Un rapport rempli de comptes rendus d'expériences."}
+{"id":1555332,"jp":"記されているのは、だれもが理解できるような内容ではないが、飛空船の製造に関係しているもののようだ。","fr":"Son contenu n'est pas à la portée de tout le monde, mais semble concerner la construction de dirigeables."}
 {"id":1555333,"jp":"奇妙な鉱石","fr":"Minerai étrange"}
+{"id":1555334,"jp":"不思議な気配を帯びた鉱石。","fr":"Un minerai qui dégage une aura mystérieuse."}
+{"id":1555335,"jp":"一見、色の濃い氷の塊のように見えるが、わずかに灰色の煙を放っている。","fr":"À première vue, il ressemble à un bloc de glace sombre, mais un léger filet de fumée grise s'en échappe."}
 {"id":1555336,"jp":"小袋","fr":"Petite bourse"}
+{"id":1555337,"jp":"探検家がよく使う小さな布袋。","fr":"Un petit sac en tissu couramment utilisé par les explorateurs."}
+{"id":1555338,"jp":"探検家が愛用する小さな布袋。\n摩耗の具合から見て、かなり古いもののようだ。","fr":"Un petit sac en tissu très apprécié des explorateurs.\nÀ en juger par son usure, il a déjà bien vécu."}
 {"id":1555339,"jp":"探検道具セット","fr":"Kit d'exploration"}
+{"id":1555340,"jp":"探検家が鍛冶屋に注文した道具セット。","fr":"Un ensemble d'outils commandé à un forgeron par un explorateur."}
+{"id":1555341,"jp":"探検家が鍛冶屋に注文した道具セット。\nなかには探検に欠かせない道具がいくつか入っているが、具体的な使い方については探検の専門家に相談する必要があるだろう。","fr":"Un ensemble d'outils commandé à un forgeron par un explorateur.\nIl contient plusieurs accessoires indispensables aux expéditions, mais mieux vaudrait consulter un spécialiste de l'exploration pour apprendre à s'en servir."}
 {"id":1555342,"jp":"ガヤックの軟毛","fr":"Duvet de Gayak"}
+{"id":1555343,"jp":"ガヤックの腹部の柔らかな毛。","fr":"Des poils doux provenant du ventre d'un Gayak."}
+{"id":1555344,"jp":"ガヤックの腹部にある柔らかい綿毛。\n背中の毛よりも柔らかく、寒い季節の保温・防水用の防具を作るのに適している。","fr":"Le doux duvet qui recouvre le ventre d'un Gayak.\nPlus souple que les poils de son dos, il convient parfaitement à la fabrication de protections chaudes et imperméables pour la saison froide."}
 {"id":1555345,"jp":"きらめく風元素の結晶","fr":"Cristal scintillant de l'élément vent"}
+{"id":1555346,"jp":"ウィンデルが落とす元素の結晶。","fr":"Un cristal élémentaire laissé par un Windel."}
+{"id":1555347,"jp":"ウィンデルがドロップした元素結晶。\nシャルル村の文化では、祈りや薬の調合などさまざまな用途に使われている。","fr":"Un cristal élémentaire laissé par un Windel.\nDans la culture du Village de Charlulu, il trouve de nombreux usages, notamment dans les prières et la préparation de remèdes."}
 {"id":1555348,"jp":"酒蔵の請求書","fr":"Facture de la brasserie"}
+{"id":1555349,"jp":"ミリーが失くした伝票。","fr":"Une note de consommation égarée par Millie."}
+{"id":1555350,"jp":"半分に破られた伝票には、客の消費したものの明細が記録されている。","fr":"Cette note déchirée en deux détaille les consommations d'un client."}
 {"id":1555351,"jp":"初心者向けの木材","fr":"Bois pour débutants"}
 {"id":1555352,"jp":"手つかずの原木。","fr":"Du bois brut encore intact."}
+{"id":1555353,"jp":"チルルが厳選した原木は、初心者の彫刻にとても向いている。","fr":"Le bois brut soigneusement sélectionné par Chilul convient parfaitement aux personnes qui débutent dans la sculpture."}
 {"id":1555354,"jp":"盗まれた干し魚","fr":"Poisson séché volé"}
+{"id":1555355,"jp":"まだ仕込み中の干し魚。","fr":"Du poisson encore en cours de séchage."}
+{"id":1555356,"jp":"まだ仕込んでいる最中の干し魚。\nかすかな生臭い匂いがするが、ドゥルにとっては特別な魅力がある。","fr":"Du poisson encore en cours de séchage.\nIl dégage une légère odeur de poisson cru, mais celle-ci semble particulièrement irrésistible pour Dur."}
 {"id":1555357,"jp":"エルネストのお守り","fr":"Porte-bonheur d'Ernest"}
+{"id":1555358,"jp":"エルネストのお守り。\n翼人がよく使うデザインだが、そもそもどうしてイグニープの角に引っかかってしまったのだろうか？","fr":"Le porte-bonheur d'Ernest.\nSon motif est très répandu chez les Ailés, mais comment a-t-il bien pu se retrouver accroché à la corne d'un Igneep ?"}
 {"id":1555359,"jp":"新種の釣り餌","fr":"Nouveau type d'appât"}
+{"id":1555360,"jp":"ラニが調合した新種の釣り餌。","fr":"Un nouveau type d'appât de pêche concocté par Rani."}
+{"id":1555361,"jp":"ラニが調合した新種の釣り餌。\nひき肉や麦粉を主原料としており、ほかにもいくつか秘密の材料がふくまれているらしい。","fr":"Un nouveau type d'appât de pêche concocté par Rani.\nPrincipalement composé de viande hachée et de farine de blé, il contiendrait également quelques ingrédients secrets."}
 {"id":1555362,"jp":"新鮮なムーンベリー","fr":"Baie lunaire fraîche"}
+{"id":1555363,"jp":"採れたてのムーンベリーの果実。","fr":"Une baie lunaire fraîchement cueillie."}
+{"id":1555364,"jp":"採れたてのムーンベリーの果実。\n三日月形の種子は芳醇な香りを放ち、翼人の伝統医学では特別な薬効があるといわれている。","fr":"Une baie lunaire fraîchement cueillie.\nSes graines en forme de croissant de lune dégagent un parfum envoûtant. La médecine traditionnelle des Ailés leur attribue des vertus médicinales particulières."}
 {"id":1555365,"jp":"ハルシヨンの鱗粉","fr":"Poudre d'écailles de Halcyon"}
+{"id":1555366,"jp":"ハルシヨンが落とした鱗粉。","fr":"De la poudre d'écailles laissée par un Halcyon."}
+{"id":1555367,"jp":"シャルル村の文化では、祈りや製薬など、様々な用途に用いられる。","fr":"Dans la culture du Village de Charlulu, cette poudre trouve de nombreux usages, notamment dans les prières et la fabrication de remèdes."}
+{"id":1555368,"jp":"蛻形族のキボがドロップする軟殻。さまざまな用途がある。","fr":"Une carapace souple laissée par les Kibo de la Famille des mues. Elle possède de nombreux usages."}
+{"id":1555369,"jp":"透明で弾力があり、地域によっては料理に使われることさえある。","fr":"Transparente et élastique, elle est même utilisée en cuisine dans certaines régions."}
+{"id":1555370,"jp":"グランザロスから抜け落ちた鱗。","fr":"Une écaille détachée du corps d'un Granzaros."}
+{"id":1555371,"jp":"硬質で、芽吹の谷で防具を製作するための良質な素材となる。","fr":"D'une grande dureté, elle constitue un matériau de choix pour la fabrication d'armures dans la Vallée des Bourgeons."}
 {"id":1555372,"jp":"メルッポの羽根","fr":"Plume de Meluppo"}
+{"id":1555373,"jp":"メルッポが落とした羽根。","fr":"Une plume laissée par un Meluppo."}
+{"id":1555374,"jp":"艶やかな色合いで、特定の環境下では発火するようだ。","fr":"Aux couleurs chatoyantes, cette plume semble pouvoir s'enflammer dans certaines conditions."}
+{"id":1555375,"jp":"採取したばかりの木のパルプ","fr":"Pâte de bois fraîchement récoltée"}
+{"id":1555376,"jp":"特殊な容器に入れられた、新鮮な木のパルプ。","fr":"De la pâte de bois fraîche conservée dans un récipient spécial."}
+{"id":1555377,"jp":"うまく調合すれば、色彩を修復する顔料として使用できる。","fr":"Correctement préparée, elle peut servir de pigment pour restaurer les couleurs d'origine."}
 {"id":1555378,"jp":"古い図巻","fr":"Ancien rouleau illustré"}
+{"id":1555379,"jp":"メッティ婆さんが収集した図巻のひとつ。","fr":"L'un des rouleaux illustrés collectionnés par Mamie Metti."}
+{"id":1555380,"jp":"線は単純だが、獣人たちが描いた図案の内容は、しっかりと読み取ることができる。","fr":"Malgré la simplicité des traits, les motifs dessinés par les Furriens restent parfaitement reconnaissables."}
+{"id":1555381,"jp":"キボをモデルに彫刻された木彫りのおもちゃ。","fr":"Un jouet en bois sculpté à l'effigie d'un Kibo."}
+{"id":1555382,"jp":"生き生きとしており、一目でシャルル村の木彫り職人、チルルの作だとわかる。","fr":"D'un réalisme saisissant, cette sculpture porte la marque reconnaissable entre toutes de Chilul, l'artisan sculpteur sur bois du Village de Charlulu."}
 {"id":1555383,"jp":"壊れた古剣","fr":"Épée ancienne brisée"}
 {"id":1555384,"jp":"壊れた古剣。","fr":"Une épée ancienne brisée."}
+{"id":1555385,"jp":"剣身は錆に覆われ、刃は欠け落ち、武器としては到底使えない。","fr":"La lame est couverte de rouille et son tranchant est ébréché. Impossible de s'en servir comme arme."}
 {"id":1555386,"jp":"修復された古剣","fr":"Épée ancienne restaurée"}
 {"id":1555387,"jp":"修復された古剣。","fr":"Une épée ancienne restaurée."}
+{"id":1555388,"jp":"現代に普及している剣とは形状が異なり、古代の戦士のために設計された武具である。","fr":"Sa forme diffère de celle des épées couramment utilisées aujourd'hui. Cette arme a été conçue pour les guerriers des temps anciens."}
 {"id":1555389,"jp":"バターシュガーパン","fr":"Pain au beurre et au sucre"}
+{"id":1555390,"jp":"焼くことで、溶けたバターがふわふわのパンに完全に染み込んでいる。","fr":"Lors de la cuisson, le beurre fondu a imprégné jusqu'au cœur la mie moelleuse du pain."}
+{"id":1555391,"jp":"気泡という気泡から食欲をそそる香りが立ち上り、パンの表面で固まった砂糖がさらなる甘みを添えている。","fr":"Un parfum appétissant s'échappe de chaque alvéole de la mie, tandis que le sucre cristallisé à la surface apporte une touche de douceur supplémentaire."}
 {"id":1555392,"jp":"毛布","fr":"Couverture"}
+{"id":1555393,"jp":"厚みのある毛布で、掛けると暖かそうだ。","fr":"Une couverture épaisse sous laquelle on doit être bien au chaud."}
+{"id":1555394,"jp":"長時間煮込むことと適切な味付けが、この家庭料理を生まれ変わらせた。","fr":"Une longue cuisson à feu doux et un assaisonnement bien dosé ont donné une nouvelle dimension à ce plat familial."}
+{"id":1555395,"jp":"その味わいは冬の夜の心温まる集いを思い出させる。また、スープの温かさがすぐに体を包み込み、疲れを吹き飛ばしてくれる。","fr":"Sa saveur rappelle les chaleureux moments passés ensemble lors des soirées d'hiver. La chaleur du bouillon se répand aussitôt dans tout le corps, dissipant la fatigue."}
+{"id":1555396,"jp":"一般的な食物。料理に使用できる。","fr":"Un aliment ordinaire pouvant être utilisé en cuisine."}
 {"id":1555397,"jp":"精巧な磁器彫刻","fr":"Sculpture raffinée en porcelaine"}
 {"id":1555398,"jp":"磁器彫刻。","fr":"Une sculpture en porcelaine."}
+{"id":1555399,"jp":"辰王朝の特産品らしく、精巧な彫刻、滑らかな手触りが特徴だ。","fr":"Apparemment originaire de la dynastie Chen, cet objet se distingue par la finesse de ses sculptures et sa douceur au toucher."}
 {"id":1555400,"jp":"新しい味のキャンディ","fr":"Bonbon à la nouvelle saveur"}
 {"id":1555401,"jp":"一袋のキャンディ。","fr":"Un sachet de bonbons."}
+{"id":1555402,"jp":"シャインキャンディショップが新発売した花の香りのキャンディで、とても爽やかな香りがする。","fr":"Une nouvelle confiserie aux senteurs florales commercialisée par la confiserie Shine. Elle dégage un parfum particulièrement rafraîchissant."}
+{"id":1555403,"jp":"しゃがれて音質の悪いレコード","fr":"Disque au son rauque et de mauvaise qualité"}
+{"id":1555404,"jp":"なかには一枚のレコードが収められている。","fr":"Un disque est conservé à l'intérieur."}
+{"id":1555405,"jp":"一般人からすれば、このような雑然とした音は記録する価値もなく、ましてや鑑賞に値するものでもない。","fr":"Pour le commun des mortels, une telle cacophonie ne mérite même pas d'être enregistrée, encore moins d'être écoutée pour le plaisir."}
 {"id":1555406,"jp":"錆びた鎌","fr":"Faucille rouillée"}
 {"id":1555407,"jp":"錆びた鎌。","fr":"Une faucille rouillée."}
+{"id":1555408,"jp":"オータミットが持つ鎌は、風雨に打たれ、錆び付いてしまっている。","fr":"Exposée au vent et à la pluie, la faux que porte l'Otamit a fini par rouiller."}
+{"id":1555409,"jp":"鱗形族のキボがドロップする鱗。さまざまな用途がある。","fr":"Une écaille laissée par les Kibo de la Famille écailleuse. Elle possède de nombreux usages."}
 {"id":1555410,"jp":"新鮮なネコヒゲ草","fr":"Moustache-de-chat fraîche"}
 {"id":1555412,"jp":"新鮮なアエルータ","fr":"Aeruta frais"}
 {"id":1555414,"jp":"粘土","fr":"Argile"}
