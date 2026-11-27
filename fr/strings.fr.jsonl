@@ -55679,8 +55679,58 @@
 {"id":1554208,"jp":"そうですね……慰めてくれてありがとうございます……\nでは、私は注意書きの看板を立ててきます……","fr":"Vous avez raison… Merci de me remonter le moral…\nJe vais aller installer un panneau d'avertissement…"}
 {"id":1554209,"jp":"はやく観光客の皆さんに知らせないといけないですからね……\n自分自身がどんなアレルギーを持っているか分からないうちは、\nポポティや園芸品、植物にはなるべく触れないようにって……","fr":"Il faut prévenir les visiteurs au plus vite…\nTant qu'ils ne connaissent pas leurs éventuelles allergies,\nils devraient éviter de toucher les Popoty, les compositions horticoles et les plantes…"}
 {"id":1554210,"jp":"シロロ、まだかなり落ち込んでいるわね……","fr":"Shiroro a encore l'air bien abattu…"}
+{"id":1554211,"jp":"きっと、あの観光客のことをまだ心配しているんだと思う。\n僕もシロロを手伝ってくるよ。|きっと、あの観光客のことをまだ心配しているんだと思う。\n私もシロロを手伝ってくるね。","fr":"Il doit encore s'inquiéter pour ce touriste.\nJe vais aller donner un coup de main à Shiroro.|Il doit encore s'inquiéter pour ce touriste.\nJe vais aller donner un coup de main à Shiroro."}
+{"id":1554212,"jp":"いったい、どうすれば……","fr":"Mais que faire…"}
+{"id":1554213,"jp":"シロロ、まださっきのことを気にしているの？","fr":"Shiroro, tu repenses encore à ce qui s'est passé tout à l'heure ?"}
+{"id":1554214,"jp":"いいえ、いまは別のことを考えているんです……","fr":"Non, je réfléchis à autre chose maintenant…"}
+{"id":1554215,"jp":"もしあの観光客の方が、アレルギーのせいでポポティに触れられないとしたら……\nポポティを気に入っていたあの方にとって、とても残念なことですよね？","fr":"Si ce touriste ne peut plus caresser les Popoty à cause de son allergie…\nCe serait vraiment dommage, alors qu'il les aime tant, vous ne trouvez pas ?"}
+{"id":1554216,"jp":"なにか、この問題を解決する方法はないのでしょうか……","fr":"Il doit bien exister une solution à ce problème…"}
+{"id":1554217,"jp":"そうだね……なにか代わりのものがあればいいんじゃないかな？\nあの人が言っていた、ふわふわで、もこもこで、まんまるなものが……","fr":"Eh bien… Et si on trouvait quelque chose pour les remplacer ?\nQuelque chose de doux, de duveteux et de tout rond, comme il disait…"}
+{"id":1554218,"jp":"……それって、ぬいぐるみじゃないですか！？","fr":"… Mais c'est une peluche qu'il nous faut !"}
+{"id":1554219,"jp":"そうですよ。ポポティのぬいぐるみを作って、あの方に贈るんです！","fr":"C'est ça ! Nous allons fabriquer une peluche de Popoty et la lui offrir !"}
+{"id":1554220,"jp":"{playerName}さん、お願いです！\n布と、クロディーメの毛、それからボタン、針、糸を買ってきてもらえませんか？","fr":"{playerName}, j'ai un service à vous demander !\nPourriez-vous acheter du tissu, de la laine de Clodime, des boutons, une aiguille et du fil ?"}
+{"id":1554221,"jp":"こんにちは。薄緑色の布とクロディーメの毛をすこしと、ボタンをいくつかもらえるかな？","fr":"Bonjour ! Tu aurais du tissu vert clair, un peu de laine de Clodime et quelques boutons ?"}
+{"id":1554222,"jp":"もちろんです、どうぞお受け取りください！全部で500ユニです。","fr":"Bien sûr, tenez ! Cela vous fera 500 Uni en tout."}
+{"id":1554223,"jp":"（必要な物はそろったし、シロロに持っていこう）","fr":"(J'ai tout ce qu'il faut. Je vais apporter ça à Shiroro.)"}
+{"id":1554224,"jp":"頼まれていた物は、全部ここにあるよ。","fr":"Voilà, tout ce que tu m'as demandé est là."}
+{"id":1554225,"jp":"ありがとうございます！\nほら、はやく来てください、ベルト。これで作りはじめられますよ！","fr":"Merci beaucoup !\nVenez vite, Belt. Nous avons tout ce qu'il faut pour commencer !"}
+{"id":1554226,"jp":"焦らないで、ほら、来たわよ。\nさっきあなたが言ったぬいぐるみを作るっていう話でしょ？あの観光客のために。","fr":"Ne t'impatiente pas, me voilà.\nC'est pour cette peluche dont tu me parlais tout à l'heure, n'est-ce pas ? Celle pour le touriste."}
+{"id":1554227,"jp":"アレルギーも無いし、ポポティの可愛さも楽しんでもらえるし……\nいい考えじゃないかしら？","fr":"Il pourra profiter de toute la douceur des Popoty sans risquer de réaction allergique…\nC'est une excellente idée, tu ne trouves pas ?"}
+{"id":1554228,"jp":"手芸のことならすこしたしなんでるからね。裁断と縫製は任せてちょうだい！","fr":"Je me débrouille plutôt bien en travaux d'aiguille. Laisse-moi m'occuper de la découpe du tissu et de la couture !"}
+{"id":1554229,"jp":"ありがとうございます！それでは、さっそくはじめましょう！","fr":"Merci beaucoup ! Alors, mettons-nous au travail sans plus attendre !"}
+{"id":1554230,"jp":"しばらく作業を続けたあと……","fr":"Après avoir travaillé un moment…"}
 {"id":1554231,"jp":"できましたね！","fr":"C'est fait !"}
+{"id":1554232,"jp":"かわいいわ。ポポティにそっくりね！まんまるで、ふわふわで……","fr":"Oh, qu'elle est mignonne ! On dirait un vrai Popoty ! Toute ronde, toute douce…"}
+{"id":1554233,"jp":"もしかして、ポポティに仲間だと思われたんじゃない？\nほら、あまりにも似てるから……","fr":"Le Popoty la prend peut-être pour l'un des siens, non ?\nRegarde, ils se ressemblent tellement…"}
+{"id":1554234,"jp":"では、観光客の方にぬいぐるみを届けに行きましょう。\n喜んでもらえるといいのですが……","fr":"Allons maintenant remettre cette peluche à notre visiteur.\nJ'espère qu'elle lui fera plaisir…"}
+{"id":1554235,"jp":"ううう……あんなに可愛かったのに……","fr":"Bouhouhou… Ils étaient tellement mignons, pourtant…"}
+{"id":1554236,"jp":"こんにちは！お見舞いに来ました……\nって、どうして泣いてるんですか？なにかあったんでしょうか？","fr":"Bonjour ! Nous sommes venus prendre de vos nouvelles…\nOh, mais pourquoi pleurez-vous ? Il s'est passé quelque chose ?"}
+{"id":1554237,"jp":"ああ、皆さんが来てくださるとは……\nお恥ずかしいところをお見せしました……実は私は、可愛いものが大好きでして……","fr":"Oh, je ne m'attendais pas à vous revoir tous ici…\nQuelle honte de me montrer dans cet état… En réalité, j'adore tout ce qui est mignon…"}
+{"id":1554238,"jp":"これからはポポティがいても遠くから見るしかないのかと思うと……とても悲しくて……","fr":"Rien qu'à l'idée de ne plus pouvoir admirer les Popoty que de loin… Ça me rend tellement triste…"}
+{"id":1554239,"jp":"本当に残念ですよね……ところで、私たちから贈り物がありまして。\nすこしでも元気になっていただけたらと思ったんですが……","fr":"C'est vraiment dommage… À ce propos, nous avons un cadeau pour vous.\nNous espérons qu'il vous remontera un peu le moral…"}
+{"id":1554240,"jp":"ええ、これはポポティですか！？\nいや、違う……ポポティの形をしたぬいぐるみ！？","fr":"Oh, mais c'est un Popoty ?!\nNon, attendez… Une peluche en forme de Popoty ?!"}
+{"id":1554241,"jp":"ポポティの手触りを完全に再現することはできないかもしれません。\nですが、ぬいぐるみならアレルギーは起きないはずです。","fr":"Nous n'avons sans doute pas réussi à reproduire parfaitement la douceur d'un véritable Popoty.\nMais avec une peluche, vous ne devriez pas avoir de réaction allergique."}
+{"id":1554242,"jp":"これは……私がいままでにもらったなかで\n一番心のこもった贈りものです……！","fr":"C'est… de tous les cadeaux que j'ai reçus dans ma vie,\ncelui qui témoigne de la plus belle attention… !"}
+{"id":1554243,"jp":"フリスは本当に温かくて素晴らしい場所でした。\nそれとあなたは、私が出会った中で一番優秀な保安官補佐でしたよ！","fr":"Fleece est vraiment un endroit merveilleux et chaleureux.\nEt vous êtes le meilleur shérif adjoint que j'aie jamais rencontré !"}
+{"id":1554244,"jp":"つぎの園芸展が開かれる時も、必ずまた見にいきますからね！","fr":"Je ne manquerai pas de revenir pour la prochaine exposition horticole, c'est promis !"}
+{"id":1554245,"jp":"どうしてあげたらいいのかな……","fr":"Comment est-ce que je pourrais l'aider…"}
+{"id":1554246,"jp":"どうしたの、コリン？ずいぶん悩んでいるみたいだけど。","fr":"Qu'est-ce qui se passe, Colin ? Tu as l'air bien préoccupé."}
+{"id":1554247,"jp":"ああ、{playerName}さん。あの、ちょっとあそこを見て――","fr":"Ah, {playerName}. Dis, regarde un peu par là…"}
+{"id":1554248,"jp":"後ろ脚になにか問題がありそうだね。\nまるで……凶獣に噛まれたみたいだ。はやく治療しないと。","fr":"On dirait qu'il a un problème à la patte arrière.\nComme si… une Bête maudite l'avait mordu. Il faut vite le soigner."}
+{"id":1554249,"jp":"すごく警戒しているみたいだけど、どうすれば落ち着かせられるかな……","fr":"Il a l'air vraiment méfiant. Comment pourrait-on le rassurer… ?"}
+{"id":1554250,"jp":"ゆっくり近づいてみるのはどうかな？\n大きな動きはせず、僕たちが脅威じゃないって分かってもらうんだ。|ゆっくり近づいてみるのはどうかな？\n大きな動きはせず、私たちが脅威じゃないって分かってもらうの。","fr":"Et si on essayait de s'approcher tout doucement ?\nSans faire de gestes brusques, pour lui montrer qu'on ne représente aucun danger.|Et si on essayait de s'approcher tout doucement ?\nSans faire de gestes brusques, pour lui montrer qu'on ne représente aucun danger."}
+{"id":1554251,"jp":"やあ、怖がらないで。僕たちは傷つけたりしないからさ。","fr":"Coucou, n'aie pas peur. On ne te fera aucun mal."}
+{"id":1554252,"jp":"落ち着いて……痛いのは分かってる。僕はただ君を助けたいだけだ。","fr":"Tout doux… Je sais que tu as mal. Je veux simplement t'aider."}
+{"id":1554253,"jp":"そう、そのまま……力を抜いて……","fr":"Voilà, c'est bien… Détends-toi…"}
+{"id":1554254,"jp":"警戒がすこし解けてきたね。","fr":"Il commence à baisser sa garde."}
+{"id":1554255,"jp":"うん。見たところ、傷はそこまで深くないね。\nけど、早めに手当てする必要があるかな。","fr":"Oui. À première vue, la blessure n'a pas l'air très profonde.\nMais il faudrait la soigner rapidement."}
+{"id":1554256,"jp":"ねえティーガ、僕の果樹園に一緒に来てくれないかな？\n家になら治療用の薬草がすこし置いてあるからさ。","fr":"Dis, Tiga, tu veux bien nous accompagner jusqu'à mon verger ?\nJ'ai quelques herbes médicinales à la maison."}
+{"id":1554257,"jp":"どうやら僕たちのことを信じてくれるみたいだね。|どうやら私たちのことを信じてくれるみたいだね。","fr":"On dirait qu'il est prêt à nous faire confiance.|On dirait qu'il est prêt à nous faire confiance."}
+{"id":1554258,"jp":"じゃあ決まりだね。この子を連れて帰ろう。","fr":"Alors, c'est décidé ! Ramenons ce petit à la maison."}
+{"id":1554259,"jp":"怖がらなくていいよ、ここは安全だからね。\nそれじゃすぐに薬を塗ってあげるよ。","fr":"N'aie pas peur, tu ne risques rien ici.\nJe vais tout de suite appliquer le remède sur ta blessure."}
+{"id":1554260,"jp":"ちょっと待って！\n傷がまだ治っていないんだから、走り回っちゃだめだよ！","fr":"Attends un peu !\nTa blessure n'est pas encore guérie, tu ne dois pas courir partout !"}
 {"id":1554261,"jp":"グル……グル……","fr":"Grr… grr…"}
+{"id":1554262,"jp":"先に薬を嗅がせてみたらどうかな。すこし落ち着くかもしれないよ。","fr":"Et si tu lui faisais d'abord sentir le remède ? Ça pourrait le rassurer un peu."}
 {"id":1554266,"jp":"……グル。","fr":"… Grr."}
 {"id":1554273,"jp":"ゴロゴロ……","fr":"Ronron…"}
 {"id":1554277,"jp":"おやすみ。","fr":"Bonne nuit."}
