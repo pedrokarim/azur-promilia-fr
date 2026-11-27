@@ -55711,7 +55711,7 @@
 {"id":1554240,"jp":"ええ、これはポポティですか！？\nいや、違う……ポポティの形をしたぬいぐるみ！？","fr":"Oh, mais c'est un Popoty ?!\nNon, attendez… Une peluche en forme de Popoty ?!"}
 {"id":1554241,"jp":"ポポティの手触りを完全に再現することはできないかもしれません。\nですが、ぬいぐるみならアレルギーは起きないはずです。","fr":"Nous n'avons sans doute pas réussi à reproduire parfaitement la douceur d'un véritable Popoty.\nMais avec une peluche, vous ne devriez pas avoir de réaction allergique."}
 {"id":1554242,"jp":"これは……私がいままでにもらったなかで\n一番心のこもった贈りものです……！","fr":"C'est… de tous les cadeaux que j'ai reçus dans ma vie,\ncelui qui témoigne de la plus belle attention… !"}
-{"id":1554243,"jp":"フリスは本当に温かくて素晴らしい場所でした。\nそれとあなたは、私が出会った中で一番優秀な保安官補佐でしたよ！","fr":"Fleece est vraiment un endroit merveilleux et chaleureux.\nEt vous êtes le meilleur shérif adjoint que j'aie jamais rencontré !"}
+{"id":1554243,"jp":"フリスは本当に温かくて素晴らしい場所でした。\nそれとあなたは、私が出会った中で一番優秀な保安官補佐でしたよ！","fr":"Fleece est vraiment un endroit merveilleux et chaleureux.\nEt au bureau du shérif, je n'ai jamais eu d'aide aussi précieuse que la vôtre !"}
 {"id":1554244,"jp":"つぎの園芸展が開かれる時も、必ずまた見にいきますからね！","fr":"Je ne manquerai pas de revenir pour la prochaine exposition horticole, c'est promis !"}
 {"id":1554245,"jp":"どうしてあげたらいいのかな……","fr":"Comment est-ce que je pourrais l'aider…"}
 {"id":1554246,"jp":"どうしたの、コリン？ずいぶん悩んでいるみたいだけど。","fr":"Qu'est-ce qui se passe, Colin ? Tu as l'air bien préoccupé."}
@@ -55731,15 +55731,65 @@
 {"id":1554260,"jp":"ちょっと待って！\n傷がまだ治っていないんだから、走り回っちゃだめだよ！","fr":"Attends un peu !\nTa blessure n'est pas encore guérie, tu ne dois pas courir partout !"}
 {"id":1554261,"jp":"グル……グル……","fr":"Grr… grr…"}
 {"id":1554262,"jp":"先に薬を嗅がせてみたらどうかな。すこし落ち着くかもしれないよ。","fr":"Et si tu lui faisais d'abord sentir le remède ? Ça pourrait le rassurer un peu."}
+{"id":1554263,"jp":"コリンがティーガに近づいた。薬瓶とハチミツを手に抱えて……","fr":"Colin s'est approché de Tiga, une fiole de remède et du miel à la main…"}
+{"id":1554264,"jp":"この薬草は、君の傷にとても効くんだ。","fr":"Ces herbes médicinales sont très efficaces pour soigner ta blessure."}
+{"id":1554265,"jp":"ハチミツもあげる。すこし楽になるはずだよ。","fr":"Tiens, je t'ai aussi apporté du miel. Ça devrait te faire un peu de bien."}
 {"id":1554266,"jp":"……グル。","fr":"… Grr."}
+{"id":1554267,"jp":"ハチミツ、気に入ったみたいだね！","fr":"On dirait qu'il adore le miel !"}
+{"id":1554268,"jp":"ははは！これは僕が特別に調合したものなんだよ。\nやっぱりキボたちはこれが好きなんだね。","fr":"Ha ha ha ! C'est une préparation spéciale de ma fabrication.\nDécidément, les Kibo en raffolent !"}
+{"id":1554269,"jp":"いまのうちに、僕がハチミツでこの子の気を引くよ。\n{playerName}さんは、傷の手当てを手伝ってくれるかな？","fr":"Je vais en profiter pour détourner son attention avec le miel.\n{playerName}, tu veux bien m'aider à soigner sa blessure ?"}
+{"id":1554270,"jp":"できた！うまくいったね！","fr":"Et voilà ! On s'en est bien sortis !"}
+{"id":1554271,"jp":"よかった。すこし元気が戻ってきたみたいだ。","fr":"Tant mieux ! On dirait qu'il a déjà repris un peu de forces."}
+{"id":1554272,"jp":"いまはゆっくり休ませてあげよう。","fr":"Laissons-le se reposer tranquillement pour le moment."}
 {"id":1554273,"jp":"ゴロゴロ……","fr":"Ronron…"}
+{"id":1554274,"jp":"これは……気持ちいいっていうことかな？","fr":"Ça veut dire… qu'il se sent bien ?"}
+{"id":1554275,"jp":"僕たちを信頼しはじめてくれたみたいだね。","fr":"On dirait qu'il commence à nous faire confiance."}
+{"id":1554276,"jp":"明日、また様子を見に来よう。","fr":"Revenons demain pour voir comment il va."}
 {"id":1554277,"jp":"おやすみ。","fr":"Bonne nuit."}
+{"id":1554278,"jp":"ティーガの脚の傷、かなりよくなったみたいだね。","fr":"La blessure à la patte de Tiga a l'air d'avoir bien cicatrisé."}
+{"id":1554279,"jp":"うん。傷の治りはとても早いよ。\nいまはずいぶん活発になって、動くのも楽そうだね。","fr":"Oui, elle guérit très vite.\nIl est beaucoup plus vif maintenant et semble se déplacer sans difficulté."}
+{"id":1554280,"jp":"この子、僕の果物を盗み食いしに来た食いしん坊のキボたちを、\n追い払ってくれたりもしたんだよ。","fr":"Il a même chassé les petits Kibo gourmands\nqui venaient me chaparder des fruits !"}
+{"id":1554281,"jp":"ほら、ハチミツをご褒美にあげるよ。本当に賢い子だね。","fr":"Tiens, un peu de miel pour te récompenser. Tu es vraiment malin, toi !"}
 {"id":1554282,"jp":"ガウ～","fr":"Gaoo~"}
+{"id":1554283,"jp":"だんだんコリンになついてきてるみたいだね。","fr":"On dirait qu'il s'attache de plus en plus à toi, Colin."}
+{"id":1554284,"jp":"でも時々、すこし落ち着かない様子でね。\nもしかしたら、自分の家に帰りたいのかもしれないね。","fr":"Mais parfois, il a l'air un peu agité.\nIl a peut-être envie de rentrer chez lui."}
+{"id":1554285,"jp":"この子は野生のキボだからね。\n自由でいることが、この子の本来の姿なんだと思うよ。","fr":"Après tout, c'est un Kibo sauvage.\nJe pense qu'il est fait pour vivre en liberté."}
+{"id":1554286,"jp":"それもそうだね。\nティーガ、傷を見せて……うん、もうほとんど治っている。","fr":"Oui, tu as raison.\nTiga, montre-moi ta blessure… Mh, elle est presque entièrement guérie."}
+{"id":1554287,"jp":"……そのときが来たみたいだね。この子を家に帰してあげないと。","fr":"… On dirait que le moment est venu. Il faut le ramener chez lui."}
+{"id":1554288,"jp":"そう、メルトレイクのほうにある森へ、ね。\nあそこがこの子の本当の居場所だから。","fr":"Oui, dans la forêt près du lac Melt.\nC'est là qu'est sa véritable place."}
+{"id":1554289,"jp":"着いたよ。この辺りが、この子の縄張りの近くのはずだ。","fr":"Nous y voilà. Son territoire ne devrait plus être très loin."}
+{"id":1554290,"jp":"さようなら、ティーガ。元気で暮らすんだよ。","fr":"Au revoir, Tiga. Prends bien soin de toi."}
+{"id":1554291,"jp":"さあ、家族のところへ行っておいで。","fr":"Allez, va retrouver ta famille."}
+{"id":1554292,"jp":"なんだか……僕たちに別れを言ってるみたいだね。|なんだか……私たちに別れを言ってるみたいだね。","fr":"On dirait… qu'il nous dit au revoir.|On dirait… qu'il nous dit au revoir."}
+{"id":1554293,"jp":"もうケガをしないといいな……","fr":"J'espère qu'il ne se blessera plus…"}
+{"id":1554294,"jp":"……さあ、僕たちも帰ろう。","fr":"… Allez, rentrons nous aussi."}
 {"id":1554295,"jp":"うん、行こうか。","fr":"Oui, allons-y."}
+{"id":1554296,"jp":"今日は本当にいい天気だね。帰ったら、またハチミツを仕込めそうだよ。\nもしかしたら、いつかあの子にも持ってきてあげられるかもしれないね。","fr":"Il fait vraiment beau aujourd'hui. Je vais pouvoir préparer une nouvelle fournée de miel en rentrant.\nPeut-être que je pourrai lui en apporter un jour."}
+{"id":1554297,"jp":"待って。この辺り……なにかおかしいよ。","fr":"Attends. Il y a… quelque chose qui cloche par ici."}
+{"id":1554298,"jp":"そう？さっきティーガと別れたばっかりで、すこし気持ちが沈んでいるんじゃない？","fr":"Tu trouves ? C'est peut-être parce qu'on vient de dire au revoir à Tiga que tu as un peu le cafard."}
+{"id":1554299,"jp":"気をつけて！なにかいる！","fr":"Attention ! Il y a quelque chose !"}
+{"id":1554300,"jp":"あれは……凶獣！どうしてこんなところに？","fr":"Ce sont… des Bêtes maudites ! Qu'est-ce qu'elles font ici ?"}
+{"id":1554301,"jp":"コリン、僕の後ろに隠れて！|コリン、私の後ろに隠れて！","fr":"Colin, cache-toi derrière moi !|Colin, cache-toi derrière moi !"}
+{"id":1554302,"jp":"か、数が多い！どうしよう……！？","fr":"I-Il y en a beaucoup trop ! Qu'est-ce qu'on va faire… ?!"}
+{"id":1554303,"jp":"僕が相手をする。コリンは逃げ道を探して！|私が相手をする。コリンは逃げ道を探して！","fr":"Je m'occupe d'elles. Colin, cherche une issue !|Je m'occupe d'elles. Colin, cherche une issue !"}
+{"id":1554304,"jp":"まずい……どんどん増えてくるよ！","fr":"Ça craint… Il en arrive de plus en plus !"}
+{"id":1554305,"jp":"ティーガ……ティーガだ！","fr":"Tiga… C'est Tiga !"}
+{"id":1554306,"jp":"{playerName}さん、見て！ティーガが助けに来てくれたよ！","fr":"{playerName}, regarde ! Tiga est venu à notre secours !"}
+{"id":1554307,"jp":"あれは……ティーガの仲間？","fr":"Ce sont… les compagnons de Tiga ?"}
 {"id":1554308,"jp":"すごい迫力！","fr":"Quelle présence !"}
+{"id":1554309,"jp":"僕たちを守ってくれてる！","fr":"Ils nous protègent !"}
 {"id":1554310,"jp":"見事な連携だね！","fr":"Quelle belle coordination !"}
+{"id":1554311,"jp":"これが家族の力ってやつなのかな！","fr":"Alors c'est ça, la force des liens familiaux !"}
+{"id":1554312,"jp":"ガルティガーとティーガの息はぴったりだった。\n勇ましく飛び出すと、嵐のような連携による攻撃で、凶獣の群れを瞬く間に撃退した。","fr":"Galtiger et Tiga se battaient en parfaite harmonie.\nIls se sont élancés avec bravoure et, grâce à une Coordination impeccable, ont repoussé la horde de Bêtes maudites en un éclair, dans un véritable tourbillon d'attaques."}
+{"id":1554313,"jp":"ティーガ、君だったんだね！それに、君の家族まで……本当にありがとう！","fr":"Tiga, c'était bien toi ! Et tu as même amené ta famille… Merci infiniment !"}
 {"id":1554314,"jp":"グル。","fr":"Grr."}
+{"id":1554315,"jp":"家族同士でなにを話しているのかな？","fr":"Je me demande bien ce qu'ils se racontent en famille."}
 {"id":1554316,"jp":"ん？こっちを見たよ！","fr":"Hm ? Il nous a regardés !"}
+{"id":1554317,"jp":"あれは……僕たちに挨拶しているのかな？","fr":"Est-ce que… c'est leur façon de nous saluer ?"}
+{"id":1554318,"jp":"たぶん、きみのことを認めたんじゃないかな。ティーガを助けたってね。","fr":"Je crois qu'ils te témoignent leur respect. Ils savent que tu as sauvé Tiga."}
+{"id":1554319,"jp":"ティーガは最後に、力いっぱい体をすり寄せてきた。\n軽やかな――別れを告げるような――鳴き声を上げたティーガは、\n身をひるがえし、さきに歩き出したガルティガーのあとを追っていく。\n大小ふたつの白い影は、すぐに森の闇へ溶け込んでいった……","fr":"Une dernière fois, Tiga est venu se frotter vigoureusement contre vous.\nIl a poussé un petit cri enjoué, comme pour vous dire adieu,\navant de faire volte-face et de rejoindre Galtiger, déjà en chemin.\nLes deux silhouettes blanches, l'une grande et l'autre petite, se sont bientôt fondues dans l'obscurité de la forêt…"}
+{"id":1554320,"jp":"僕たちは……認めてもらえた、ってことなのかな？","fr":"Ça veut dire… qu'ils nous ont accordé leur confiance ?"}
+{"id":1554321,"jp":"うん。素敵な友情だったと思うよ。","fr":"Oui. C'était une belle amitié, je trouve."}
 {"id":1554326,"jp":"観光客","fr":"Touriste"}
 {"id":1554327,"jp":"うっ……痛たたた……","fr":"Aïe… aïe, aïe, aïe…"}
 {"id":1554346,"jp":"まだ諦めてないの？","fr":"Tu n'as pas encore abandonné ?"}
