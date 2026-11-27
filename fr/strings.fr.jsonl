@@ -55039,7 +55039,7 @@
 {"id":1553568,"jp":"っていうか、もしかして――きみたちは、もともとあまり表情が変わらない……？","fr":"Attends… Est-ce que vos expressions changent très peu, en fait ?"}
 {"id":1553569,"jp":"つまり、きみは本当に悲しかったわけじゃないんだね？\n……でもそれなら、どうしてリビーを避けていたの？","fr":"Ça veut dire que tu n'étais pas vraiment triste ?\n… Mais alors, pourquoi évitais-tu Libby ?"}
 {"id":1553570,"jp":"うーん、避けていた理由か……\nきみは、成長した自分の姿をリビーに嫌われるんじゃないかって心配してた、とか……？","fr":"Hmm… Pourquoi tu l'évitais…\nTu avais peut-être peur que Libby ne t'aime plus à cause de ton apparence, maintenant que tu as grandi ?"}
-{"id":1553571,"jp":"そうだったんだ……なら、直接リビーに会いに行こう！\nちゃんと話せば、きっとわだかまりも解けるよ。","fr":"C'était donc ça… Alors, allons voir Libby directement !\nJe suis sûr que vous pourrez dissiper ce malentendu en discutant ensemble."}
+{"id":1553571,"jp":"そうだったんだ……なら、直接リビーに会いに行こう！\nちゃんと話せば、きっとわだかまりも解けるよ。","fr":"C'était donc ça… Alors, allons voir Libby directement !\nVous pourrez sûrement dissiper ce malentendu en discutant ensemble."}
 {"id":1553572,"jp":"ギシ！","fr":"Gishi !"}
 {"id":1553573,"jp":"えっ、スキャーク？","fr":"Hein, un Scark ?"}
 {"id":1553574,"jp":"引っ張られたわらを取り返したんだ……","fr":"Il a récupéré la paille qu'on lui avait arrachée…"}
@@ -55074,7 +55074,7 @@
 {"id":1553603,"jp":"というわけで、行商たちは時間が経つにつれてしっぽを諦めるようになりました。\n野原でたまに拾える程度で、数はすくないし、品質もそれほど良くなかったんです。","fr":"Avec le temps, les marchands ambulants ont donc fini par renoncer à en récolter.\nIls se contentaient de ramasser celles qu'ils trouvaient occasionnellement dans les prairies. Elles étaient peu nombreuses et de qualité plutôt médiocre."}
 {"id":1553604,"jp":"……しかし、ほかとは違う行商がいました。\n男が販売しているグルルのしっぽは数も多く、どれをとっても新鮮だったんです。","fr":"… Pourtant, un marchand se distingue des autres.\nNon seulement il propose des queues de Gururu en grande quantité, mais elles sont toutes d'une fraîcheur remarquable."}
 {"id":1553605,"jp":"なるほど、つまり――\nその行商は、グルルの特殊なガスを防ぐ方法を見つけ、しっぽを乱獲している――\nシロロはそう考えているんだね？","fr":"Je vois… Autrement dit,\ntu soupçonnes ce marchand d'avoir trouvé un moyen de se protéger du gaz des Gururu pour récolter leurs queues en masse.\nC'est bien ça, Shiroro ?"}
-{"id":1553606,"jp":"はい、それでグルルたちを見にきたというわけです。","fr":"Exactement. C'est pour cette raison que je suis venu observer les Gururu."}
+{"id":1553606,"jp":"はい、それでグルルたちを見にきたというわけです。","fr":"Exactement. C'est pour cette raison que je suis ici, pour observer les Gururu."}
 {"id":1553607,"jp":"たしかに気になるね……それじゃ、僕も調査を手伝うよ。|たしかに気になるね……それじゃ、私も調査を手伝うよ。","fr":"C'est effectivement préoccupant… Dans ce cas, je vais t'aider à enquêter.|C'est effectivement préoccupant… Dans ce cas, je vais t'aider à enquêter."}
 {"id":1553608,"jp":"ありがとうございます。では、グルルたちを驚かせたくないので、\nすこし離れたところから眺めましょうか。ちなみに、じっと見つめすぎると、\n私たちの表情もグルルみたいになってしまうらしいです。","fr":"Merci beaucoup. Pour éviter d'effrayer les Gururu,\nje vous propose de les observer à bonne distance. Au fait, il paraît que si on les fixe trop longtemps,\non finit par faire la même tête qu'eux."}
 {"id":1553609,"jp":"商人","fr":"Marchand"}
@@ -55089,15 +55089,65 @@
 {"id":1553618,"jp":"さあさあ、残りわずかだよ！早いもの勝ちだよー！","fr":"Allez, allez ! Il n'en reste plus beaucoup ! Premier arrivé, premier servi !"}
 {"id":1553619,"jp":"（なかなか口が堅いね……ひとまずシロロと相談してみよう）","fr":"(Il n'est pas du genre à lâcher le morceau… Je vais d'abord en discuter avec Shiroro.)"}
 {"id":1553620,"jp":"ごめん……あの行商、警戒心が強くて、しっぽのことは聞き出せなかったよ。\nでも、シロロの言う通り、かなり怪しいと思う。","fr":"Pardon… Ce marchand est très méfiant. Impossible de lui soutirer la moindre information sur ses queues de Gururu.\nMais comme tu le pensais, Shiroro, il a un comportement franchement suspect."}
+{"id":1553621,"jp":"となりますと……残された方法はひとつしかないですね……","fr":"Dans ce cas… Il ne nous reste plus qu'une seule solution…"}
+{"id":1553622,"jp":"そうだね、尾行するしかないね。","fr":"Oui, il ne nous reste plus qu'à le suivre discrètement."}
+{"id":1553623,"jp":"そうだね、誘拐するしかないね。","fr":"Oui, il ne nous reste plus qu'à le kidnapper."}
+{"id":1553624,"jp":"ええ、彼が店を閉めたあと、その後をつければ、仕入れ先がわかるかもしれません。","fr":"Exactement. En le suivant après la fermeture de son stand, nous pourrions découvrir où il se procure sa marchandise."}
+{"id":1553625,"jp":"はい、誘拐して拷問にかけ……","fr":"Exactement, nous allons l'enlever et le soumettre à la torture…"}
+{"id":1553626,"jp":"……って違います！そんなことしちゃダメですよ！\nいいたかったのは、尾行をして、彼の仕入れ先までついていきましょう……っていう話ですよ！","fr":"… Mais non ! Il ne faut surtout pas faire ça !\nJe voulais simplement dire que nous devrions le suivre discrètement jusqu'à son fournisseur !"}
+{"id":1553627,"jp":"尾行……って、だれを尾行するの？","fr":"Suivre quelqu'un discrètement… Mais qui donc ?"}
+{"id":1553628,"jp":"えっ、寒悠悠！？なんでこんなところに？","fr":"Hein, Han Youyou !? Qu'est-ce que tu fais ici ?"}
+{"id":1553629,"jp":"たまたま通りかかったんだけど、みんなが浮かない顔をしてたから気になってね。\nそれで、なにがあったのか詳しく教えてくれる？","fr":"Je passais par hasard et vous faisiez tous une drôle de tête, alors ça m'a intriguée.\nVous me racontez ce qui s'est passé ?"}
+{"id":1553630,"jp":"寒悠悠に行商の怪しいところを伝える。","fr":"Vous avez expliqué à Han Youyou ce que vous trouviez suspect chez le marchand ambulant."}
+{"id":1553631,"jp":"すごく面白そう、私も混ぜてよ！\n……ところで、その行商っていまはどこにいるの？","fr":"Ça a l'air super intéressant ! Je veux participer, moi aussi !\n… Au fait, il est où, ce marchand ?"}
+{"id":1553632,"jp":"えっと、あちらの方に……って、あれ！？もう行ってしまったみたいです！","fr":"Eh bien, il est juste par là… Mais… Hein !? Il semble être déjà parti !"}
+{"id":1553633,"jp":"むこうに足跡があるよ。いまならまだ追いつけるはず！","fr":"Il y a des empreintes de pas là-bas. Si on se dépêche, on devrait encore pouvoir le rattraper !"}
+{"id":1553634,"jp":"とうとう追いついたよ、ほらあそこ！","fr":"On l'a enfin rattrapé ! Regardez, il est là-bas !"}
+{"id":1553635,"jp":"……って、あれっ？あのグルルたち……行商とすごく仲がよさそう……？","fr":"… Mais, attends… Ces Gururu ont l'air de très bien s'entendre avec le marchand… ?"}
 {"id":1553636,"jp":"グルーグル！","fr":"Guroo-gul !"}
+{"id":1553637,"jp":"おお、来てくれたのか、今日もお利口さんだな。","fr":"Oh, vous êtes venus ! Vous êtes bien sages aujourd'hui encore."}
 {"id":1553638,"jp":"グル……グル！","fr":"Gur… Gul !"}
+{"id":1553639,"jp":"そうそう、しっぽを全部俺に渡せばいい。これこそが友情の証だからな。","fr":"Voilà, c'est ça. Donnez-moi toutes vos queues. C'est la plus belle preuve de notre amitié, après tout."}
+{"id":1553640,"jp":"お前たちはひとのことが大好きだけど、向こうはそう思ってない。\n「ブサイクで間抜け」だってお前たちのことを毛嫌いしてる。\nこうして遊び相手になるのは俺くらいなものさ。","fr":"Vous adorez les gens, mais eux ne vous aiment pas en retour.\nIls vous trouvent « moches et stupides » et ne peuvent pas vous supporter.\nJe suis bien le seul à accepter de jouer avec vous."}
 {"id":1553641,"jp":"グ～グ～","fr":"Gu~gu~"}
+{"id":1553642,"jp":"それじゃそろそろ行くよ。また来るから、礼をしっかり用意しとくんだぞ。","fr":"Bon, il est temps que j'y aille. Je reviendrai, alors n'oubliez pas de préparer vos cadeaux pour me remercier !"}
+{"id":1553643,"jp":"あの行商……純粋で無邪気なキボを騙すなんて！","fr":"Ce marchand… Comment ose-t-il profiter de l'innocence de ces pauvres Kibo !"}
 {"id":1553644,"jp":"ひどすぎる！","fr":"C'est affreux !"}
+{"id":1553645,"jp":"しっぽを無理やり取った痕跡がないのも納得ですよ。\nまさかグルルたちがみずから差し出してるだなんて、思ってもみませんでした……","fr":"Cela explique pourquoi nous n'avons trouvé aucune Trace indiquant que leurs queues avaient été arrachées de force.\nJamais je n'aurais imaginé que les Gururu les lui donnaient de leur plein gré…"}
+{"id":1553646,"jp":"ここのグルルが痩せてたのも、\n頻繁にしっぽを再生させて栄養失調になっていた――ってことかな。","fr":"Et si les Gururu d'ici étaient aussi maigres,\nc'est probablement parce qu'à force de faire repousser leurs queues, ils souffraient de malnutrition."}
+{"id":1553647,"jp":"きっとそうだと思います。","fr":"C'est très certainement le cas."}
+{"id":1553648,"jp":"でも、これで証拠はバッチリ揃ったよね？\nなら、しっかり罰を受けてもらわないと……","fr":"Mais maintenant, on a toutes les preuves qu'il nous faut, non ?\nIl va falloir qu'il paie pour ce qu'il a fait…"}
+{"id":1553649,"jp":"それは恐らく難しいでしょう……行商はグルルに直接危害を加えていないので、\n有罪にするのはすこし難しいと思います。","fr":"Cela risque malheureusement d'être compliqué… Puisque le marchand n'a pas directement fait de mal aux Gururu,\nil sera difficile de le faire condamner."}
+{"id":1553650,"jp":"仮に有罪判決が下ったとしても、罰金で済む可能性が高いかもね。\nでもそれだと、また同じことを繰り返す可能性が……","fr":"Et même s'il était condamné, il s'en tirerait probablement avec une simple amende.\nRien ne l'empêcherait alors de recommencer…"}
 {"id":1553651,"jp":"シロロ&寒悠悠&{playerName}","fr":"Shiroro & Han Youyou & {playerName}"}
+{"id":1553652,"jp":"あっ！いい考えがあるよ！","fr":"Ah ! J'ai une idée !"}
+{"id":1553653,"jp":"ただ、この計画にはキボのことをよく知っているひとに\n協力してもらう必要があるから、まずはコロコロのところへ行こう。","fr":"Mais pour que mon plan fonctionne, il nous faut l'aide de quelqu'un\nqui connaît très bien les Kibo. Allons d'abord voir Korokoro !"}
+{"id":1553654,"jp":"それなら、あのグルルたちの誤解もコロコロに解いてもらいたいね。","fr":"Dans ce cas, j'aimerais aussi que Korokoro aide les Gururu à comprendre qu'on leur a menti."}
+{"id":1553655,"jp":"星臨者、それにシロロと寒悠悠も……\nこんなに大勢で来るということは……もしかしてキボになにかあったケロ？","fr":"Enfant des étoiles, Shiroro et Han Youyou aussi…\nVous êtes venus si nombreux… Il serait arrivé quelque chose aux Kibo, coâ ?"}
+{"id":1553656,"jp":"行商がグルルたちを騙し、頻繁にしっぽを献上させていたことをコロコロに話した。","fr":"Vous avez expliqué à Korokoro comment le marchand trompait les Gururu pour qu'ils lui offrent régulièrement leurs queues."}
+{"id":1553657,"jp":"なんてことを……ひどすぎるケロ！\nグルルたちにきちんと説明しないとケロ！","fr":"Mais quelle horreur… C'est vraiment ignoble, coâ !\nIl faut absolument expliquer la vérité aux Gururu, coâ !"}
+{"id":1553658,"jp":"でも、あのグルルたちは長い間行商に騙されてきたよね？\n本当にコロコロの言葉を信じてくれるのかな？","fr":"Mais ça fait longtemps que ces Gururu se font manipuler par le marchand, non ?\nTu crois vraiment qu'ils te croiront, Korokoro ?"}
+{"id":1553659,"jp":"大丈夫、グルルたちは純粋だけど、バカではないケロ。\nきちんと説明すれば、きっと理解してくれるんだケロ。","fr":"Ne t'inquiète pas, les Gururu sont innocents, mais ils ne sont pas idiots, coâ.\nSi on leur explique bien les choses, ils comprendront sûrement, coâ."}
+{"id":1553660,"jp":"でも、グルルたちのところに行くまえに、\nすこしポポクッキーを用意したほうが良いケロ。","fr":"Mais avant d'aller voir les Gururu,\non ferait mieux de préparer quelques biscuits Popo, coâ."}
 {"id":1553661,"jp":"グゥ……グル？","fr":"Guu… Gul ?"}
+{"id":1553662,"jp":"グルルたち、警戒しているみたい。","fr":"On dirait que les Gururu se méfient de nous."}
+{"id":1553663,"jp":"安心して、コロコロたちに悪意はないよ。\nそれに、おいしい食べものもあるんだケロ。","fr":"N'ayez pas peur, Korokoro et ses amis ne vous veulent aucun mal, coâ.\nOn vous a même apporté de bonnes choses à manger, coâ !"}
+{"id":1553664,"jp":"私たちはただ皆さんと友達のように、じっくりとお話ししたいだけなんです。","fr":"Nous souhaitons simplement prendre le temps de discuter avec vous, comme le feraient des amis."}
+{"id":1553665,"jp":"あ、だめだよ、しっぽを引っ張らないで。\n本当の友達は、相手が傷つくようなことは求めたりしないんだ！|あ、だめだよ、しっぽを引っ張らないで。\n本当の友達は、相手が傷つくようなことは求めたりしないの！","fr":"Oh non, ne tire pas sur ta queue !\nUn véritable ami ne te demanderait jamais de te faire du mal !|Oh non, ne tire pas sur ta queue !\nUn véritable ami ne te demanderait jamais de te faire du mal !"}
+{"id":1553666,"jp":"まったく……ここまで騙すなんて……","fr":"C'est pas vrai… Il les a manipulés à ce point…"}
+{"id":1553667,"jp":"いい？よく聞いてほしいケロ。「グルルと遊ぶのは俺だけ」と\n言ってたひとがいたと思うけど……あのひとは、嘘をついてるケロ。","fr":"Écoutez bien ce que Korokoro va vous dire, coâ. Quelqu'un vous a sûrement dit : « Je suis le seul à vouloir jouer avec les Gururu. »\nEh bien, cette personne vous a menti, coâ."}
 {"id":1553668,"jp":"グル……？","fr":"Gul… ?"}
+{"id":1553669,"jp":"みんな、グルルを嫌いなんかじゃないんだよ。","fr":"Les gens ne vous détestent absolument pas, vous savez."}
+{"id":1553670,"jp":"グルルの生活を邪魔したくないだけだからね。","fr":"Ils veulent simplement vous laisser vivre tranquillement."}
+{"id":1553671,"jp":"そういうこと！あのひどい行商が噓をついてるんだよ！","fr":"Exactement ! C'est cet horrible marchand qui vous raconte des mensonges !"}
+{"id":1553672,"jp":"うーん、なるほど……\nグルルたち、「しっぽは再生できるから」って、あんまり怒ってないんだケロ。","fr":"Hmm… Korokoro comprend mieux, coâ.\nLes Gururu ne lui en veulent pas vraiment, puisqu'ils disent que leurs queues peuvent repousser, coâ."}
+{"id":1553673,"jp":"だとしても、あの行商には罰が必要だよ！\nじゃないと、今後、より多くのキボたちが騙されるかもしれないんだから。","fr":"Même dans ce cas, il faut punir ce marchand !\nSinon, il risque de tromper encore bien d'autres Kibo à l'avenir."}
 {"id":1553674,"jp":"そのとおりだケロ。","fr":"C'est exact, coâ."}
 {"id":1553675,"jp":"グル～グル～","fr":"Gul~gul~"}
+{"id":1553676,"jp":"ああ……どうやらグルルたちも同意したみたいですね。\n……ですが、どうやって行商を懲らしめましょうか？","fr":"Ah… Il semblerait que les Gururu soient également de cet avis.\n… Mais comment allons-nous donner une bonne leçon à ce marchand ?"}
+{"id":1553677,"jp":"ふふ、あいつの名前を世のなかに知らしめればいいんだよ。","fr":"Héhé, il suffit de faire en sorte que tout le monde sache qui il est vraiment."}
+{"id":1553678,"jp":"ねえコロコロ、さっき話しあったでしょ？\nあの作戦を、グルルたちに教えてあげて。","fr":"Dis, Korokoro, tu te souviens de ce dont on a discuté tout à l'heure ?\nExplique donc notre plan aux Gururu."}
+{"id":1553679,"jp":"え？グルルたちが列を作ってるよ？","fr":"Hein ? Les Gururu se mettent en file indienne ?"}
 {"id":1553684,"jp":"ルル♪","fr":"Lulu♪"}
 {"id":1553685,"jp":"グルルル～！！","fr":"Gurulu~ !!"}
 {"id":1553686,"jp":"グルルルル！","fr":"Gurululu !"}
