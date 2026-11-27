@@ -59155,36 +59155,96 @@
 {"id":1558955,"jp":"左クリックでキボを配置","fr":"Clic gauche pour placer un Kibo"}
 {"id":1558956,"jp":"配置エリアを超えています。","fr":"Vous êtes en dehors de la zone de placement."}
 {"id":1558957,"jp":"スターリンクの印が破壊されました。","fr":"La marque du Lien stellaire a été détruite."}
+{"id":1558958,"jp":"戦闘時間が終了しました。","fr":"Le temps de combat est écoulé."}
 {"id":1558959,"jp":"戦闘をあきらめる","fr":"Abandonner le combat"}
 {"id":1558960,"jp":"対決をあきらめる","fr":"Abandonner le duel"}
+{"id":1558961,"jp":"対決をあきらめますか？","fr":"Voulez-vous abandonner le duel ?"}
+{"id":1558962,"jp":"対決が{0}秒経過、フィーバーモード突入！エネルギー回復速度がアップ!!","fr":"Le duel dure depuis {0} secondes. Activation du mode frénésie ! Hausse de la vitesse de récupération d'Énergie !!"}
+{"id":1558963,"jp":"対決中は使用できません。","fr":"Impossible d'utiliser ceci pendant un duel."}
+{"id":1558964,"jp":"対決開始から{0}秒が経過しました。戦闘が激化し、ダメージが増加、回復とシールドの効果が低下します！","fr":"Le duel dure depuis {0} secondes. Le combat s'intensifie : les DGT augmentent, tandis que l'efficacité des soins et des Boucliers diminue !"}
+{"id":1558965,"jp":"チュートリアル中のため、現在キボを配置できません。","fr":"Impossible de placer des Kibo pendant le tutoriel."}
+{"id":1558966,"jp":"操作が頻繁すぎるため、しばらくしてから再度お試しください。","fr":"Trop d'actions effectuées en peu de temps. Veuillez réessayer dans un instant."}
+{"id":1558967,"jp":"このキボファイトでは、キボを変更できません。","fr":"Impossible de changer de Kibo lors de ce Duel de Kibo."}
+{"id":1558968,"jp":"ファイトスキルは最大2つまでしか装備できません。","fr":"Vous pouvez équiper jusqu'à 2 compétences de duel."}
+{"id":1558969,"jp":"ファイトスキルは2つ選択する必要があります。","fr":"Vous devez sélectionner 2 compétences de duel."}
+{"id":1558970,"jp":"スキル構成が変更されています。保存せずに退出しますか？","fr":"Votre configuration de compétences a été modifiée. Quitter sans enregistrer ?"}
+{"id":1558971,"jp":"キボ経験値が最大のため、これ以上星満の果実を食べさせることができません。","fr":"Ce Kibo a atteint son maximum d'EXP. Vous ne pouvez plus lui donner de fruit étoilé."}
+{"id":1558972,"jp":"ステージクエストを達成すると獲得可能","fr":"S'obtient en terminant la quête de l'étape"}
+{"id":1558973,"jp":"連続クエストを達成すると獲得可能","fr":"S'obtient en terminant la série de quêtes"}
 {"id":1558974,"jp":"ステージ報酬","fr":"Récompenses de niveau"}
 {"id":1558975,"jp":"シリーズ報酬","fr":"Récompenses de série"}
+{"id":1558976,"jp":"キボの配置数が上限に達しています。","fr":"Vous avez atteint le nombre maximal de Kibo pouvant être placés."}
+{"id":1558977,"jp":"現在のキボの配置方法を確定してください。","fr":"Veuillez confirmer la disposition actuelle des Kibo."}
+{"id":1558978,"jp":"このキボはすでに配置されています。","fr":"Ce Kibo a déjà été placé."}
+{"id":1558979,"jp":"現在のエリアではキボを配置できません。","fr":"Impossible de placer des Kibo dans cette zone."}
+{"id":1558980,"jp":"【{0}】は特殊イベント中のため、ワープできません。","fr":"La téléportation vers 【{0}】 est indisponible en raison d'un événement spécial en cours."}
+{"id":1558981,"jp":"現在の状況では時間を変更できません。","fr":"Impossible de modifier l'heure dans la situation actuelle."}
+{"id":1558982,"jp":"テンプレートに必要なキャラクターが不足しているため、使用できません。","fr":"Impossible d'utiliser ce modèle, car vous ne possédez pas tous les personnages requis."}
+{"id":1558983,"jp":"特殊イベント中のため、【{0}】は一時的に使用できません。","fr":"【{0}】 est temporairement indisponible en raison d'un événement spécial en cours."}
+{"id":1558984,"jp":"選択中の音声パックは未ダウンロードです。\nダウンロードして切り替えますか？","fr":"Le pack vocal sélectionné n'a pas encore été téléchargé.\nVoulez-vous le télécharger et l'activer ?"}
+{"id":1558985,"jp":"{language}音声パックのサイズ：{num}","fr":"Taille du pack vocal ({language}) : {num}"}
+{"id":1558986,"jp":"リソースをダウンロード中","fr":"Téléchargement des ressources en cours"}
+{"id":1558987,"jp":"音声パックのダウンロードが完了しました。{language}を使用しますか？","fr":"Le téléchargement du pack vocal est terminé. Voulez-vous utiliser le doublage en {language} ?"}
+{"id":1558988,"jp":"装備中、またはロックされた装備は選択できません。","fr":"Impossible de sélectionner de l'équipement déjà équipé ou verrouillé."}
 {"id":1558989,"jp":"追跡","fr":"Suivre"}
 {"id":1558990,"jp":"農園に入りますか？","fr":"Entrer dans la ferme ?"}
 {"id":1558991,"jp":"農園を離れますか？","fr":"Quitter la ferme ?"}
 {"id":1558992,"jp":"解放条件：","fr":"Condition de déblocage :"}
+{"id":1558993,"jp":"星脈ノードがあなたの傷を癒しました。","fr":"Le nœud de veine stellaire a guéri vos blessures."}
+{"id":1558994,"jp":"現在の満腹度区間は【{0}】：2秒ごとにHP【{1}】回復","fr":"Palier de satiété actuel : 【{0}】. Récupération de 【{1}】 PV toutes les 2 secondes"}
+{"id":1558995,"jp":"現在のホイールスロットにはアイテムが装備されていません。編集画面に移動しますか？","fr":"Aucun objet n'est assigné à cet emplacement de la roue. Accéder à l'écran de configuration ?"}
+{"id":1558996,"jp":"前章のすべてのクエストを完了すると解放されます。","fr":"Se débloque une fois toutes les quêtes du chapitre précédent terminées."}
 {"id":1558997,"jp":"報酬を確認","fr":"Voir les récompenses"}
 {"id":1558998,"jp":"受取済み","fr":"Récupéré"}
+{"id":1558999,"jp":"{0}を解放しました。","fr":"Vous avez débloqué {0}."}
 {"id":1559000,"jp":"進行度報酬","fr":"Récompenses de progression"}
+{"id":1559001,"jp":"探索済みエリアには、これ以上対戦相手がいません。","fr":"Il ne reste plus aucun adversaire dans les zones explorées."}
+{"id":1559002,"jp":"探索済みエリアには、これ以上適切な対戦相手がいません。","fr":"Il ne reste plus aucun adversaire correspondant aux critères dans les zones explorées."}
+{"id":1559003,"jp":"探索済みエリアにキボファイトできる対戦相手がいません。","fr":"Aucun adversaire disponible pour un Duel de Kibo dans les zones explorées."}
 {"id":1559004,"jp":"難易度を切り替える","fr":"Changer la difficulté"}
 {"id":1559005,"jp":"現在の難易度","fr":"Difficulté actuelle"}
+{"id":1559006,"jp":"騎乗中は撮影機能を使用できません。","fr":"Impossible d'utiliser le mode photo sur une monture."}
+{"id":1559007,"jp":"騎乗中はキャラクターの動作を変更できません。","fr":"Impossible de modifier les mouvements du personnage sur une monture."}
+{"id":1559008,"jp":"騎乗中はキャラテンプレートを切り替えられません。","fr":"Impossible de changer de modèle de personnage sur une monture."}
+{"id":1559009,"jp":"飛行中はキボを設置できません。","fr":"Impossible de placer des Kibo en plein vol."}
+{"id":1559010,"jp":"騎乗中はシーンを切り替えできません。","fr":"Impossible de changer de scène sur une monture."}
+{"id":1559011,"jp":"騎乗中はキャラクターを配置できません。","fr":"Impossible de placer des personnages sur une monture."}
+{"id":1559012,"jp":"騎乗中はキャラクターを切り替えできません。","fr":"Impossible de changer de personnage sur une monture."}
+{"id":1559013,"jp":"読み込み中です。しばらくお待ちください。","fr":"Chargement en cours. Veuillez patienter."}
+{"id":1559014,"jp":"現在の状態ではキャラクター動作を調整できません。","fr":"Impossible d'ajuster les mouvements du personnage dans votre état actuel."}
 {"id":1559015,"jp":"アニマ未装備","fr":"Aucun Anima équipé"}
 {"id":1559016,"jp":"装備未装着","fr":"Rien d'équipé"}
 {"id":1559017,"jp":"装備効果なし","fr":"Aucun effet d'équipement"}
+{"id":1559018,"jp":"メール数が上限に達しました。整理してください。","fr":"Votre boîte de réception est pleine. Veuillez supprimer quelques messages."}
 {"id":1559019,"jp":"開墾","fr":"Défricher"}
 {"id":1559020,"jp":"耕作中止","fr":"Arrêter la culture"}
+{"id":1559021,"jp":"採集中のため、派遣を解除できません。","fr":"Impossible d'annuler l'Affectation pendant la collecte."}
+{"id":1559022,"jp":"生産リストにキボが必要なレシピがあるため、派遣を解除できません。","fr":"Impossible d'annuler l'Affectation, car une recette de la liste de production nécessite un Kibo."}
+{"id":1559023,"jp":"生産リストにキボが必要なレシピがあるため、選択を変更できません。","fr":"Impossible de modifier la sélection, car une recette de la liste de production nécessite un Kibo."}
+{"id":1559024,"jp":"キボがフィールド採集所に派遣中のため、選択を変更できません","fr":"Impossible de modifier la sélection, car le Kibo est en Affectation sur un site de collecte en extérieur"}
 {"id":1559025,"jp":"配置待ちのキボ","fr":"Kibo en attente de placement"}
 {"id":1559026,"jp":"キボが作業中","fr":"Kibo au travail"}
 {"id":1559027,"jp":"解放条件","fr":"Conditions de déblocage"}
 {"id":1559028,"jp":"建設に必要な素材","fr":"Matériaux requis pour la construction"}
 {"id":1559029,"jp":"このレシピで製作可能","fr":"Fabricable avec cette recette"}
+{"id":1559030,"jp":"農園に【{0}】を配置する","fr":"Placer 【{0}】 dans la ferme"}
+{"id":1559031,"jp":"必要なアイテムが不足しています。","fr":"Nombre d'objets requis insuffisant."}
+{"id":1559032,"jp":"必要なアイテムを投入してください。","fr":"Veuillez déposer les objets requis."}
+{"id":1559033,"jp":"必要なアイテムは揃っています。","fr":"Tous les objets requis sont réunis."}
 {"id":1559034,"jp":"数量不足です。","fr":"Quantité insuffisante."}
+{"id":1559035,"jp":"【{0}】は本日の獲得上限に達しました。これ以上は獲得できません。","fr":"La limite d'obtention quotidienne de 【{0}】 est atteinte. Vous ne pouvez plus en obtenir aujourd'hui."}
+{"id":1559036,"jp":"使用する素材を選択してください。","fr":"Sélectionnez les matériaux à utiliser."}
 {"id":1559037,"jp":"数量：{0}","fr":"Qté : {0}"}
+{"id":1559038,"jp":"%sのスキルレベル+%s","fr":"Niveau de compétence de %s +%s"}
 {"id":1559039,"jp":"授与成功","fr":"Octroi réussi"}
 {"id":1559040,"jp":"スキルレベル","fr":"Niveau de compétence"}
+{"id":1559041,"jp":"星祝が不足しているため授与できません。","fr":"Octroi impossible : Bénédiction stellaire insuffisante."}
 {"id":1559042,"jp":"授与","fr":"Octroyer"}
 {"id":1559043,"jp":"昇臨","fr":"Ascension"}
+{"id":1559044,"jp":"ユニおよび星祝が不足しているため、授与できません。","fr":"Octroi impossible : quantité insuffisante d'Uni et de Bénédiction stellaire."}
 {"id":1559045,"jp":"一括授与","fr":"Tout octroyer"}
+{"id":1559046,"jp":"ストーリーをスキップしますか？","fr":"Voulez-vous passer la séquence narrative ?"}
+{"id":1559047,"jp":"今回のログイン中は再表示しない","fr":"Ne plus afficher pendant cette session"}
 {"id":1559049,"jp":"【{0}】の騎乗特性","fr":"Traits de monture de [{0}]"}
 {"id":1559057,"jp":"{0}が壊れました。","fr":"Rupture de {0}."}
 {"id":1559060,"jp":"ボスを倒す","fr":"Vaincre le boss"}
