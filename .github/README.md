@@ -31,6 +31,8 @@ Le launcher se traduit à part, avec [azur-promilia-fr-launcher](https://github.
 | `AGENTS.md` | Le brief des agents qui traduisent. |
 | `fr/orphans.jsonl` | Les traductions dont le japonais a disparu du jeu après une mise à jour. Elles servent de modèle pour retraduire. |
 | `scripts/fr.mjs` | L'outil : avancement, vérification, lots de travail, fabrication du fichier du patcher. |
+| `fr/static-ui.fr.jsonl` | Les libellés fixes des menus, hors du fichier de traduction : une ligne `{"key", "jp", "en", "fr"}` par entrée de la table `StaticTextConfig` du jeu. |
+| `scripts/static-ui.py` | Tire cette table du pack anglais du patcher et refait le pack français. |
 
 Une traduction est rattachée au texte japonais, et non à son `id`. C'est aussi ce que fait le patcher. Quand une mise à jour du jeu change une phrase, seule cette ligne repasse « à traduire » ; tout le reste tient.
 
@@ -63,6 +65,21 @@ node scripts/fr.mjs build --accent-test      # dist/strings.accent-test.jsonl : 
 Le fichier produit garde le format de l'amont (`{"id", "jp", "en", "src"}`) : le patcher ne lit que `jp` et `en`, donc le français passe dans `en`. Un `en` vide laisse le texte japonais.
 
 À chaque modification poussée sur `main`, l'action « Publier la traduction » vérifie le français et publie les trois fichiers dans la release [`latest`](../../releases/tag/latest). Le patcher les télécharge depuis cette release.
+
+## Les libellés fixes des menus
+
+Une partie des menus (boutons, onglets, titres d'écran, consignes) ne passe pas par `strings.translatable.jsonl` : le jeu la lit dans la table `StaticTextConfig`, rangée dans un AssetBundle à part. Les fans en ont fait un pack anglais, que le patcher installe. `fr/static-ui.fr.jsonl` en donne la traduction, clé par clé. Le japonais d'origine est chiffré dans le jeu : le champ `jp` ne donne que le japonais retrouvé dans `strings.translatable.jsonl` pour le même anglais, et reste vide sinon. On traduit donc souvent depuis l'anglais, avec le glossaire. Un `fr` vide laisse l'anglais.
+
+Le pack ne se publie pas ici (il contient des fichiers du jeu) : on le refait à partir du pack anglais du patcher, `data/static/yr49bxop0f3reujfsmyfca.r`. Il faut Python 3 et UnityPy, dans un venv :
+
+```sh
+python -m venv .venv && .venv/Scripts/pip install UnityPy          # une fois (bin/ au lieu de Scripts/ hors Windows)
+python -I scripts/static-ui.py check                                 # variables et balises identiques à l'anglais
+python -I scripts/static-ui.py build <patcher>/data/static/yr49bxop0f3reujfsmyfca.r <patcher>/data/static-fr
+python -I scripts/static-ui.py extract <pack-anglais.r>             # après une mise à jour du pack anglais : nouvelles clés, français gardé
+```
+
+`build` écrit le pack et son `files.txt`, puis relit le résultat : hors des textes de la table, il doit être identique au pack anglais, octet pour octet. Le bundle modifié garde sa place et sa taille dans le fichier, car le jeu le retrouve par sa position ; si le français ne tient plus dans l'emplacement, `build` s'arrête et il faut raccourcir des textes. Comme `fr.mjs build`, il pose les espaces insécables et change « … » en trois points.
 
 ## Suivre l'amont
 
