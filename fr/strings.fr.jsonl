@@ -59245,11 +59245,71 @@
 {"id":1559045,"jp":"一括授与","fr":"Tout octroyer"}
 {"id":1559046,"jp":"ストーリーをスキップしますか？","fr":"Voulez-vous passer la séquence narrative ?"}
 {"id":1559047,"jp":"今回のログイン中は再表示しない","fr":"Ne plus afficher pendant cette session"}
+{"id":1559048,"jp":"現在の最高段階に到達しています。","fr":"Vous avez atteint le stade maximal actuellement disponible."}
 {"id":1559049,"jp":"【{0}】の騎乗特性","fr":"Traits de monture de [{0}]"}
+{"id":1559050,"jp":"この場所は危険です。キボを1匹連れていってください。","fr":"Cet endroit est dangereux. Emmenez au moins un Kibo avec vous."}
+{"id":1559051,"jp":"農園で【{name}】を作成する。","fr":"Fabriquer 【{name}】 dans la ferme."}
+{"id":1559052,"jp":"{name}を入手していないため、騎乗できません。","fr":"Impossible d'utiliser {name} comme monture tant que vous ne l'avez pas obtenu."}
+{"id":1559053,"jp":"ロック中のため、分解できません。","fr":"Démantèlement impossible : cet élément est verrouillé."}
+{"id":1559054,"jp":"【{0}】を発見しました。","fr":"Vous avez découvert 【{0}】."}
+{"id":1559055,"jp":"{0}が不足しています。攻撃して採集してみましょう。","fr":"Vous manquez de {0}. Essayez d'en récolter en attaquant."}
+{"id":1559056,"jp":"採集条件を満たしていません。近づいて採集するか、心得で採集能力を上げてください。","fr":"Les conditions de collecte ne sont pas remplies. Approchez-vous pour récolter ou améliorez votre capacité de collecte grâce aux savoir-faire."}
 {"id":1559057,"jp":"{0}が壊れました。","fr":"Rupture de {0}."}
+{"id":1559058,"jp":"{0}のレベルが低すぎるため、この鉱石を採掘できません。","fr":"Le niveau de {0} est trop faible pour extraire ce minerai."}
+{"id":1559059,"jp":"適した釣り竿とエサを選択してください。","fr":"Sélectionnez une canne à pêche et un appât adaptés."}
 {"id":1559060,"jp":"ボスを倒す","fr":"Vaincre le boss"}
+{"id":1559061,"jp":"敵ウェーブ突破 {1}/{2}","fr":"Repousser les vagues d'ennemis {1}/{2}"}
 {"id":1559062,"jp":"ダークフレイムを倒す","fr":"Vaincre la Flamme noire"}
 {"id":1559063,"jp":"現在の敵を倒す","fr":"Vaincre les ennemis actuels"}
+{"id":1559064,"jp":"登場スキルを発動する {1}/{2}","fr":"Activer une compétence d'entrée en scène {1}/{2}"}
+{"id":1559065,"jp":"持続スキルを発動する {1}/{2}","fr":"Activer une compétence persistante {1}/{2}"}
+{"id":1559066,"jp":"登場スキルと持続スキルを発動する {1}/{2}","fr":"Activer une compétence d'entrée en scène et une compétence persistante {1}/{2}"}
+{"id":1559067,"jp":"自由攻撃をエネミーに命中させる {1}/{2}","fr":"Toucher les ennemis avec des attaques libres {1}/{2}"}
+{"id":1559068,"jp":"星響スキルでエネミーに{3}の刻印を重ねる {1}/{2}","fr":"Appliquer des cumuls de Sceau de {3} aux ennemis avec la Compétence Écho stellaire {1}/{2}"}
+{"id":1559069,"jp":"星極スキルまたは星響スキルでエネミーに刻印をさらに重ね、{3}EXを発動する {1}/{2}回","fr":"Appliquer davantage de cumuls de Sceau aux ennemis avec la Compétence Zénith stellaire ou la Compétence Écho stellaire pour déclencher {3} EX {1}/{2} fois"}
+{"id":1559070,"jp":"{3}EXを発動する {1}/{2}","fr":"Déclencher {3} EX {1}/{2}"}
+{"id":1559071,"jp":"エネミーを攻撃し続け、{3}を{1}/{2}スタックまで重ねる","fr":"Continuer à attaquer les ennemis pour atteindre {1}/{2} cumuls de {3}"}
+{"id":1559072,"jp":"刻印を消費する攻撃でエネミーにダメージを与える {1}/{2}回","fr":"Infliger des DGT aux ennemis avec des attaques consommant des Sceaux {1}/{2} fois"}
+{"id":1559073,"jp":"通常攻撃で刻印を消費し、エネミーにダメージを与える {1}/{2}回","fr":"Consommer des Sceaux avec des Attaques normales pour infliger des DGT aux ennemis {1}/{2} fois"}
+{"id":1559074,"jp":"星極スキルで刻印を消費し、エネミーにダメージを与える {1}/{2}回","fr":"Consommer des Sceaux avec la Compétence Zénith stellaire pour infliger des DGT aux ennemis {1}/{2} fois"}
+{"id":1559075,"jp":"転送ポイントを使って先へ進む","fr":"Utiliser le point de téléportation pour poursuivre"}
+{"id":1559076,"jp":"テララを操作して自由攻撃をエネミーに命中させる {1}/{2}","fr":"Jouer Terara et toucher les ennemis avec des attaques libres {1}/{2}"}
+{"id":1559077,"jp":"ルルカを操作して自由攻撃をエネミーに命中させる {1}/{2}","fr":"Jouer Luruka et toucher les ennemis avec des attaques libres {1}/{2}"}
+{"id":1559078,"jp":"ミィティを操作して自由攻撃をエネミーに命中させる {1}/{2}","fr":"Jouer Mitty et toucher les ennemis avec des attaques libres {1}/{2}"}
+{"id":1559079,"jp":"ミィティのチャージ攻撃、星極スキルまたは星響スキルでエネミーに{3}の刻印を重ねる {1}/{2}","fr":"Appliquer des cumuls de Sceau de {3} aux ennemis avec l'Attaque chargée, la Compétence Zénith stellaire ou la Compétence Écho stellaire de Mitty {1}/{2}"}
+{"id":1559080,"jp":"ポンポンに切り替えて登場スキルを発動した後、すぐに星響スキルで刻印を{1}/{2}つ消費し、エネミーにダメージを与える {1}/{2}回","fr":"Passer à Pengpeng pour activer sa compétence d'entrée en scène, puis utiliser immédiatement sa Compétence Écho stellaire pour consommer {1}/{2} Sceaux et infliger des DGT aux ennemis {1}/{2} fois"}
+{"id":1559081,"jp":"ミィティに切り替え、チャージ攻撃、星極スキルまたは星響スキルでエネミーに刻印をさらに重ね、{3}EXを発動する {1}/{2}","fr":"Passer à Mitty et appliquer davantage de cumuls de Sceau aux ennemis avec son Attaque chargée, sa Compétence Zénith stellaire ou sa Compétence Écho stellaire pour déclencher {3} EX {1}/{2}"}
+{"id":1559082,"jp":"ポンポンに切り替えて星極スキルで刻印を消費し、ダメージを増加させてエネミーを攻撃する {1}/{2}回","fr":"Passer à Pengpeng et consommer des Sceaux avec sa Compétence Zénith stellaire pour infliger des DGT accrus aux ennemis {1}/{2} fois"}
+{"id":1559083,"jp":"宝箱を開けて、クエスト報酬を受け取る","fr":"Ouvrir le coffre pour récupérer la récompense de quête"}
+{"id":1559084,"jp":"シンフォーリアの登場スキルを発動する {1}/{2}","fr":"Activer la compétence d'entrée en scène de Symphoria {1}/{2}"}
+{"id":1559085,"jp":"攻撃ボタンを長押ししてチャージ攻撃を発動する {0}/{1}","fr":"Maintenir le bouton d'attaque pour déclencher une Attaque chargée {0}/{1}"}
+{"id":1559086,"jp":"通常攻撃の2段目または星響スキルを発動した後、攻撃ボタンを長押ししてチャージ攻撃の第二形態を発動する {0}/{1}","fr":"Après le 2e coup de l'Attaque normale ou l'activation de la Compétence Écho stellaire, maintenir le bouton d'attaque pour déclencher la deuxième forme de l'Attaque chargée {0}/{1}"}
+{"id":1559087,"jp":"通常攻撃の3段目または4段目を発動した後、攻撃ボタンを長押ししてチャージ攻撃の第三形態を発動する {0}/{1}","fr":"Après le 3e ou le 4e coup de l'Attaque normale, maintenir le bouton d'attaque pour déclencher la troisième forme de l'Attaque chargée {0}/{1}"}
+{"id":1559088,"jp":"攻撃ボタンを連打し、通常攻撃の連続攻撃を最後まで発動する {0}/{1}","fr":"Appuyer plusieurs fois sur le bouton d'attaque pour réaliser un combo complet d'Attaques normales {0}/{1}"}
+{"id":1559089,"jp":"星響スキルを発動する {0}/{1}","fr":"Activer la Compétence Écho stellaire {0}/{1}"}
+{"id":1559090,"jp":"攻撃ボタンを長押ししてチャージ攻撃を発動し、周囲の「蝶生の種」と「霊木の種」を吸収してエネミーを引き寄せる {0}/{1}","fr":"Maintenir le bouton d'attaque pour déclencher une Attaque chargée, absorber les « Graines de papillon » et les « Graines d'arbre spirituel » à proximité, puis attirer les ennemis {0}/{1}"}
+{"id":1559091,"jp":"星響スキルを発動し、「意志」を獲得する {0}/{1}","fr":"Activer la Compétence Écho stellaire pour obtenir l'effet « Volonté » {0}/{1}"}
+{"id":1559092,"jp":"「意志」効果中、敵の攻撃を受けるとジャストガードが1回自動で発動する {0}/{1}","fr":"Sous l'effet « Volonté », subir une attaque ennemie pour déclencher automatiquement une garde parfaite {0}/{1}"}
+{"id":1559093,"jp":"攻撃ボタンを連打し、通常攻撃の最終段まで発動する {0}/{1}","fr":"Appuyer plusieurs fois sur le bouton d'attaque jusqu'au dernier coup du combo d'Attaques normales {0}/{1}"}
+{"id":1559094,"jp":"攻撃ボタンを連打して連続攻撃を発動し、その間に攻撃ボタンを長押しして派生チャージ攻撃を発動する {0}/{1}","fr":"Appuyer plusieurs fois sur le bouton d'attaque pour lancer un combo, puis maintenir ce bouton pendant l'enchaînement pour déclencher une variante de l'Attaque chargée {0}/{1}"}
+{"id":1559095,"jp":"派生チャージ攻撃を発動した後、強化星響スキルを発動する {0}/{1}","fr":"Après avoir déclenché une variante de l'Attaque chargée, activer la Compétence Écho stellaire renforcée {0}/{1}"}
+{"id":1559096,"jp":"通常攻撃の2段目または3段目を発動した後、攻撃ボタンを長押ししてチャージ攻撃の第二形態を発動する {0}/{1}","fr":"Après le 2e ou le 3e coup de l'Attaque normale, maintenir le bouton d'attaque pour déclencher la deuxième forme de l'Attaque chargée {0}/{1}"}
+{"id":1559097,"jp":"通常攻撃の4段目または5段目を発動した後、攻撃ボタンを長押ししてチャージ攻撃の第三形態を発動する {0}/{1}","fr":"Après le 4e ou le 5e coup de l'Attaque normale, maintenir le bouton d'attaque pour déclencher la troisième forme de l'Attaque chargée {0}/{1}"}
+{"id":1559098,"jp":"通常攻撃の4段目または5段目を発動した後、攻撃ボタンを長押しして派生チャージ攻撃を発動する {0}/{1}","fr":"Après le 4e ou le 5e coup de l'Attaque normale, maintenir le bouton d'attaque pour déclencher une variante de l'Attaque chargée {0}/{1}"}
+{"id":1559099,"jp":"キボ特殊スキルを発動し、刻印を1つ獲得する {0}/{1}","fr":"Activer la compétence spéciale de Kibo pour obtenir 1 Sceau {0}/{1}"}
+{"id":1559100,"jp":"星極スキルを発動し、刻印をさらに1つ獲得する {0}/{1}","fr":"Activer la Compétence Zénith stellaire pour obtenir 1 Sceau supplémentaire {0}/{1}"}
+{"id":1559101,"jp":"いずれかの方向キーを押しながら攻撃ボタンを連打し、通常攻撃の連続攻撃中に移動射撃を発動する {0}/{1}","fr":"Maintenir une touche directionnelle tout en appuyant plusieurs fois sur le bouton d'attaque pour tirer en mouvement pendant un combo d'Attaques normales {0}/{1}"}
+{"id":1559102,"jp":"「風の息吹」がある間にチャージ攻撃を複数回発動し、チャージ攻撃の追加範囲効果を発動する {0}/{1}","fr":"Sous l'effet « Souffle du vent », déclencher plusieurs Attaques chargées pour activer leur effet de zone supplémentaire {0}/{1}"}
+{"id":1559103,"jp":"通常攻撃またはダッシュ攻撃をエネミーに命中させ、「風語」を10スタックにして「風の息吹」を獲得する {0}/{1}","fr":"Toucher les ennemis avec des Attaques normales ou des attaques de sprint pour atteindre 10 cumuls de « Murmure du vent » et obtenir l'effet « Souffle du vent » {0}/{1}"}
+{"id":1559104,"jp":"星響スキルを発動してエネミーに命中させる {0}/{1}","fr":"Activer la Compétence Écho stellaire et toucher un ennemi {0}/{1}"}
+{"id":1559105,"jp":"「縁結び」を獲得するまで、チャージ攻撃で「縁結び値」を貯める {0}/{1}","fr":"Accumuler des points de « Nouer les liens » avec des Attaques chargées jusqu'à obtenir l'effet « Nouer les liens » {0}/{1}"}
+{"id":1559106,"jp":"「縁結び」効果中、通常攻撃の全コンボを{0}/{1}回発動","fr":"Sous l'effet « Nouer les liens », réaliser un combo complet d'Attaques normales {0}/{1} fois"}
+{"id":1559107,"jp":"通常攻撃の最終段、星響スキルまたは星極スキルを発動した後、攻撃ボタンを長押しして特殊チャージ攻撃を発動する {0}/{1}回","fr":"Après le dernier coup de l'Attaque normale ou l'activation de la Compétence Écho stellaire ou de la Compétence Zénith stellaire, maintenir le bouton d'attaque pour déclencher une Attaque chargée spéciale {0}/{1} fois"}
+{"id":1559108,"jp":"星響スキルを発動する {0}/{1}回","fr":"Activer la Compétence Écho stellaire {0}/{1} fois"}
+{"id":1559109,"jp":"星響スキルを発動した後に攻撃ボタンを押し、星響スキルの追撃を発動する {0}/{1}回","fr":"Après avoir activé la Compétence Écho stellaire, appuyer sur le bouton d'attaque pour déclencher son attaque de suivi {0}/{1} fois"}
+{"id":1559110,"jp":"星極スキルを1回発動し、シールドを獲得する {0}/{1}","fr":"Activer une fois la Compétence Zénith stellaire pour obtenir un Bouclier {0}/{1}"}
+{"id":1559111,"jp":"攻撃ボタンを長押しして防御姿勢を取り、3秒経過するか攻撃を受けた後にボタンを離して反撃する {0}/{1}","fr":"Maintenir le bouton d'attaque pour adopter une posture défensive, puis le relâcher après 3 secondes ou après avoir subi une attaque pour contre-attaquer {0}/{1}"}
+{"id":1559112,"jp":"通常攻撃の5段目、星響スキルまたは星極スキルを発動した後、攻撃ボタンを長押しして派生チャージ攻撃を発動する {0}/{1}回","fr":"Après le 5e coup de l'Attaque normale ou l'activation de la Compétence Écho stellaire ou de la Compétence Zénith stellaire, maintenir le bouton d'attaque pour déclencher une variante de l'Attaque chargée {0}/{1} fois"}
 {"id":1559135,"jp":"現在のスコア：{0}","fr":"Score actuel : {0}"}
 {"id":1559138,"jp":"目標地点へ向かう","fr":"Aller à la destination"}
 {"id":1559165,"jp":"ダンジョンを退出","fr":"Quitter le donjon"}
