@@ -58957,13 +58957,60 @@
 {"id":1558880,"jp":"現在の効果","fr":"Effet actuel"}
 {"id":1558881,"jp":"次のレベルの効果","fr":"Effet du niveau suivant"}
 {"id":1558882,"jp":"農園の新しいエリアを解放","fr":"Débloquer une nouvelle zone de la ferme"}
+{"id":1558883,"jp":"農園の新しい設備を解放","fr":"Débloquer de nouvelles installations de la ferme"}
+{"id":1558884,"jp":"{desc}が必要です。","fr":"Prérequis : {desc}."}
+{"id":1558885,"jp":"{desc}と{desc2}が必要です。","fr":"Prérequis : {desc} et {desc2}."}
+{"id":1558886,"jp":"設備はレベル{0}で解放されます。","fr":"Cette installation se débloque au niveau {0}."}
 {"id":1558887,"jp":"該当クエストなし","fr":"Aucune quête correspondante"}
+{"id":1558888,"jp":"水泳中はキャラクターを切り替えられません。","fr":"Impossible de changer de personnage en nageant."}
+{"id":1558889,"jp":"キボのタマゴの最大所持数を超えているため、獲得できません。","fr":"Impossible d'obtenir cet œuf de Kibo, car la limite de stockage est dépassée."}
+{"id":1558890,"jp":"<%s>のワープ機能を解放しました。","fr":"Vous avez débloqué la fonction de téléportation de <%s>."}
 {"id":1558891,"jp":"属性詳細","fr":"Détails de l'élément"}
+{"id":1558892,"jp":"現在「{0}」にはいません。近くにワープしますか？","fr":"Vous ne vous trouvez pas actuellement dans « {0} ». Vous téléporter à proximité ?"}
+{"id":1558893,"jp":"瓜を植えれば瓜が実り、豆を植えれば豆が実る。\nじゃあ、キボのタマゴを植えたら――？","fr":"Sème un melon, tu récolteras un melon. Sème un haricot, tu récolteras un haricot.\nMais alors, si tu plantes un œuf de Kibo… ?"}
+{"id":1558894,"jp":"水やりを待っているのは作物だけじゃない――\nさぼり癖のあるキャバードも待ってるよ。","fr":"L'Arrosage, ce n'est pas que pour les cultures…\nCe petit paresseux de Cabbird l'attend aussi !"}
+{"id":1558895,"jp":"キボの力を借りれば――\nすこしの努力で、大きな成果が手に入るよ。","fr":"Avec un petit coup de patte des Kibo…\nOn peut obtenir de grands résultats sans trop d'efforts."}
+{"id":1558896,"jp":"このエリアで追跡機能を使用するには、最低1つの星脈ノードを解放する必要があります。","fr":"Vous devez débloquer au moins un nœud de veine stellaire pour utiliser la fonction de suivi dans cette zone."}
+{"id":1558897,"jp":"「メインメニュー」から「農園」を選択すると、農園に戻ることができます。","fr":"Pour retourner à la ferme, sélectionnez « Ferme » dans le « Menu principal »."}
+{"id":1558898,"jp":"騎乗状態を解除する必要があります。","fr":"Vous devez d'abord descendre de votre monture."}
+{"id":1558899,"jp":"料理の一括追加が完了しました。","fr":"Tous les plats sélectionnés ont été ajoutés."}
+{"id":1558900,"jp":"上限を超えているため、料理を追加できません。","fr":"Impossible d'ajouter des plats supplémentaires, car la limite est dépassée."}
+{"id":1558901,"jp":"「{0}」の熟練度が上昇しました。","fr":"Votre maîtrise de « {0} » a augmenté."}
+{"id":1558902,"jp":"派遣するキボを選択してください。","fr":"Sélectionnez un Kibo à envoyer en Affectation."}
+{"id":1558903,"jp":"目的地付近にワープしますか？","fr":"Vous téléporter à proximité de votre destination ?"}
+{"id":1558904,"jp":"すでに目的地にいます。","fr":"Vous êtes déjà à destination."}
+{"id":1558905,"jp":"強化済みの装備が選択されています。よろしいですか？","fr":"Votre sélection contient de l'équipement déjà amélioré. Continuer ?"}
+{"id":1558906,"jp":"高レアリティの装備が選択されています。よろしいですか？","fr":"Votre sélection contient de l'équipement de rareté élevée. Continuer ?"}
+{"id":1558907,"jp":"強化済み、かつ高レアリティの装備が選択されています。よろしいですか？","fr":"Votre sélection contient de l'équipement déjà amélioré et de rareté élevée. Continuer ?"}
+{"id":1558908,"jp":"今回の強化では、{num}ポイントの経験値が上限を超えてしまいます。上限を超えた分は返却されませんが、よろしいですか？","fr":"Cette amélioration dépassera la limite de {num} points d'expérience. Les points excédentaires ne seront pas restitués. Continuer ?"}
+{"id":1558909,"jp":"条件に一致する素材がありません。","fr":"Aucun matériau ne correspond aux critères."}
+{"id":1558910,"jp":"任意の素材を選択してください。","fr":"Sélectionnez un matériau de votre choix."}
+{"id":1558911,"jp":"スターリンクできるキボがいません。","fr":"Aucun Kibo disponible pour le Lien stellaire."}
+{"id":1558912,"jp":"このキボではレア因子を獲得できません。","fr":"Ce Kibo ne permet pas d'obtenir de facteurs Rares."}
 {"id":1558913,"jp":"獲得可能なレア因子","fr":"Facteurs rares obtenables"}
 {"id":1558914,"jp":"{0}へ移動","fr":"Aller à {0}"}
+{"id":1558915,"jp":"制限時間を超えたため、戦闘に敗北しました。","fr":"Vous avez perdu le combat, car le temps imparti est écoulé."}
 {"id":1558916,"jp":"- クエスト開始 -","fr":"- Début de la quête -"}
 {"id":1558917,"jp":"- 完了 -","fr":"- Terminé -"}
 {"id":1558918,"jp":"実績達成で獲得","fr":"Obtenu en accomplissant des succès"}
+{"id":1558919,"jp":"ニックネームは7日ごとに1回変更できます。","fr":"Vous pouvez modifier votre pseudonyme une fois tous les 7 jours."}
+{"id":1558920,"jp":"新しいニックネームを入力してください。","fr":"Saisissez un nouveau pseudonyme."}
+{"id":1558921,"jp":"未解放のパーツが選択されているため、スタンドパネルの編集に失敗しました。","fr":"Impossible de modifier le panneau de présentation, car un élément non débloqué est sélectionné."}
+{"id":1558922,"jp":"ニックネームは空欄にできません。","fr":"Le pseudonyme ne peut pas être vide."}
+{"id":1558923,"jp":"変更後のニックネームは元のニックネームと異なる必要があります。","fr":"Le nouveau pseudonyme doit être différent du pseudonyme actuel."}
+{"id":1558924,"jp":"ニックネームを{name}に変更しますか？","fr":"Voulez-vous remplacer votre pseudonyme par {name} ?"}
+{"id":1558925,"jp":"ニックネームを変更しました。","fr":"Votre pseudonyme a été modifié."}
+{"id":1558926,"jp":"クールタイム中です。{time}後に再度変更できます。","fr":"Temps de recharge en cours. Vous pourrez effectuer une nouvelle modification dans {time}."}
+{"id":1558927,"jp":"自己紹介を入力してください。","fr":"Saisissez votre présentation personnelle."}
+{"id":1558928,"jp":"自己紹介を変更しました。","fr":"Votre présentation personnelle a été modifiée."}
+{"id":1558929,"jp":"誕生日を{month}月{day}日に設定しますか？","fr":"Voulez-vous définir votre date d'anniversaire au {day}/{month} ?"}
+{"id":1558930,"jp":"誕生日の設定が完了しました。","fr":"Votre date d'anniversaire a été enregistrée."}
+{"id":1558931,"jp":"未解放のアイコン/アイコンフレームを選択しているため、適用できません。","fr":"Impossible d'appliquer la sélection, car l'icône ou son cadre n'a pas été débloqué."}
+{"id":1558932,"jp":"アイコン／フレームの適用に成功しました。","fr":"L'icône ou son cadre a été appliqué avec succès."}
+{"id":1558933,"jp":"適用に失敗しました。アイコン／フレームが未解放です。","fr":"Échec de l'application : l'icône ou son cadre n'a pas été débloqué."}
+{"id":1558934,"jp":"ニックネームにスペースは使用できません。","fr":"Le pseudonyme ne peut pas contenir d'espaces."}
+{"id":1558935,"jp":"一度確定すると変更できません。","fr":"Une fois confirmée, cette information ne pourra plus être modifiée."}
+{"id":1558936,"jp":"{month}月{day}日","fr":"{day}/{month}"}
 {"id":1558937,"jp":"キボ展示","fr":"Exposition de Kibo"}
 {"id":1558938,"jp":"スタンド制作","fr":"Fabrication de stand"}
 {"id":1558939,"jp":"変更する","fr":"Modifier"}
@@ -58971,7 +59018,20 @@
 {"id":1558941,"jp":"未撮影","fr":"Non photographié"}
 {"id":1558942,"jp":"カスタム撮影","fr":"Photo personnalisée"}
 {"id":1558943,"jp":"再撮影","fr":"Reprendre la photo"}
+{"id":1558944,"jp":"ユーザーが存在しません。","fr":"Utilisateur introuvable."}
+{"id":1558945,"jp":"フレンド申請を送信済みです。","fr":"Une demande d'ami a déjà été envoyée."}
+{"id":1558946,"jp":"相手のフレンドリストが上限に達しています。","fr":"La liste d'amis de cet utilisateur est pleine."}
+{"id":1558947,"jp":"あなたのフレンドリストが上限に達しています。","fr":"Votre liste d'amis est pleine."}
+{"id":1558948,"jp":"写真を{0}に保存しました。","fr":"Photo enregistrée dans {0}."}
+{"id":1558949,"jp":"動画をアルバムに保存しました。","fr":"Vidéo enregistrée dans l'album."}
+{"id":1558950,"jp":"動画を{0}に保存しました。","fr":"Vidéo enregistrée dans {0}."}
+{"id":1558951,"jp":"相手のスターリンクの印を破壊して勝利をつかめ！","fr":"Détruisez la marque du Lien stellaire adverse pour remporter la victoire !"}
 {"id":1558952,"jp":"スキルクールタイム中","fr":"Compétence en recharge"}
+{"id":1558953,"jp":"スキルの残り使用回数がありません。","fr":"Toutes les utilisations de cette compétence ont été épuisées."}
+{"id":1558954,"jp":"配置コストが不足しているため、配置できません。","fr":"Placement impossible : coût de placement non couvert."}
+{"id":1558955,"jp":"左クリックでキボを配置","fr":"Clic gauche pour placer un Kibo"}
+{"id":1558956,"jp":"配置エリアを超えています。","fr":"Vous êtes en dehors de la zone de placement."}
+{"id":1558957,"jp":"スターリンクの印が破壊されました。","fr":"La marque du Lien stellaire a été détruite."}
 {"id":1558959,"jp":"戦闘をあきらめる","fr":"Abandonner le combat"}
 {"id":1558960,"jp":"対決をあきらめる","fr":"Abandonner le duel"}
 {"id":1558974,"jp":"ステージ報酬","fr":"Récompenses de niveau"}
