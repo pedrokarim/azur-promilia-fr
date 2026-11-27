@@ -59844,40 +59844,100 @@
 {"id":1559650,"jp":"総合評価","fr":"Évaluation globale"}
 {"id":1559651,"jp":"このキボは作業中のため、キャンセルできません。","fr":"Impossible d'annuler l'Affectation de ce Kibo, car il est actuellement au travail."}
 {"id":1559652,"jp":"農園本部がいっぱいのため、キボを派遣できません。","fr":"Impossible d'envoyer des Kibo en Affectation, car le quartier général de la ferme est plein."}
+{"id":1559653,"jp":"キボの満腹度が足りないため、生産を一時停止しています。","fr":"La production est suspendue, car le Kibo a trop faim."}
+{"id":1559654,"jp":"{0}はまだ建設されていません。","fr":"{0} n'a pas encore été construit."}
 {"id":1559655,"jp":"キボ未派遣","fr":"Aucun Kibo en affectation"}
 {"id":1559656,"jp":"倉庫がいっぱいです。","fr":"L'entrepôt est plein."}
 {"id":1559657,"jp":"{0}キボ牧場","fr":"Pâturage à Kibo {0}"}
+{"id":1559658,"jp":"稼働中の施設はアップグレードできません。","fr":"Impossible d'améliorer une installation en cours de fonctionnement."}
 {"id":1559659,"jp":"条件未達成","fr":"Conditions non remplies"}
 {"id":1559660,"jp":"資源不足","fr":"Ressources insuffisantes"}
 {"id":1559661,"jp":"外観を元に戻す","fr":"Rétablir l'apparence d'origine"}
+{"id":1559662,"jp":"アップグレード後の外観をプレビュー","fr":"Aperçu de l'apparence après amélioration"}
+{"id":1559663,"jp":"このエリアにはすでに畑小屋があります。","fr":"Cette zone dispose déjà d'une cabane agricole."}
+{"id":1559664,"jp":"この画面には設備IDが必要です。","fr":"Cet écran nécessite un identifiant d'installation."}
 {"id":1559665,"jp":"設備稼働中","fr":"Installation en marche"}
+{"id":1559666,"jp":"栽培中のため、収納できません。","fr":"Impossible de ranger cette parcelle tant que des cultures y poussent."}
+{"id":1559667,"jp":"先に畑小屋内のすべてのキボを派遣解除してください。","fr":"Veuillez d'abord annuler l'Affectation de tous les Kibo de la cabane agricole."}
+{"id":1559668,"jp":"先に畑小屋内の種をすべて取り出してから収納してください。","fr":"Retirez toutes les graines de la cabane agricole avant de la ranger."}
+{"id":1559669,"jp":"餌箱が空ではないか、キボが食事中です。","fr":"La mangeoire n'est pas vide ou un Kibo est en train de manger."}
+{"id":1559670,"jp":"{0}在庫 <size=24><color=#111A22>{1}</color></size>","fr":"Stock de {0} <size=24><color=#111A22>{1}</color></size>"}
+{"id":1559671,"jp":"成長に必要な水量 <size=24><color=#111A22>{0}</color></size>","fr":"Quantité d'eau nécessaire à la croissance <size=24><color=#111A22>{0}</color></size>"}
+{"id":1559672,"jp":"何も植えていない土地の方を向いてください。","fr":"Placez-vous face à une parcelle sur laquelle rien n'a été planté."}
+{"id":1559673,"jp":"アップグレードできません。フィールド管理施設をLv.{0}にする必要があります。","fr":"Amélioration impossible : l'installation de gestion en extérieur doit atteindre le Niv. {0}."}
+{"id":1559674,"jp":"フィールドの採集管理施設のレベルが不足しています。","fr":"Le niveau de l'installation de gestion de la collecte en extérieur est insuffisant."}
+{"id":1559675,"jp":"Lv.{0}に到達すると昇臨が可能になります。","fr":"L'Ascension devient disponible au Niv. {0}."}
+{"id":1559676,"jp":"{0}後にアップグレードを再開","fr":"Reprise de l'amélioration dans {0}"}
+{"id":1559677,"jp":"授与できる星祝がありません。","fr":"Aucune Bénédiction stellaire disponible à octroyer."}
 {"id":1559678,"jp":"【アニマ】 {0}","fr":"[Anima] {0}"}
 {"id":1559679,"jp":"交換を確認","fr":"Confirmer l'échange"}
 {"id":1559680,"jp":"{0}後に続行","fr":"Suite dans {0}"}
 {"id":1559681,"jp":"削除成功","fr":"Suppression réussie."}
 {"id":1559682,"jp":"ビジー状態","fr":"Occupé"}
+{"id":1559683,"jp":"フレンド：{0}/{1}","fr":"Amis : {0}/{1}"}
 {"id":1559684,"jp":"レベル {0}","fr":"Niv. {0}"}
 {"id":1559685,"jp":"ワールドに参加","fr":"Rejoindre le monde"}
+{"id":1559686,"jp":"申請一覧:{0}/{1}","fr":"Demandes d'ami : {0}/{1}"}
+{"id":1559687,"jp":"フレンド申請を承認しました。","fr":"Vous avez accepté la demande d'ami."}
+{"id":1559688,"jp":"フレンド申請を拒否しました。","fr":"Vous avez refusé la demande d'ami."}
+{"id":1559689,"jp":"他プレイヤーのUIDを入力してください。","fr":"Saisissez l'UID d'un autre joueur."}
+{"id":1559690,"jp":"チームがいっぱいのため、これ以上編成できません。","fr":"Impossible d'ajouter de nouveaux membres, car l'équipe est au complet."}
+{"id":1559691,"jp":"これ以上編成できません。","fr":"Impossible d'ajouter davantage de membres à l'équipe."}
+{"id":1559692,"jp":"現在は編成機能を使用できません。","fr":"La composition d'équipe est actuellement indisponible."}
+{"id":1559693,"jp":"現在の原初の潮ではすべてのステージ報酬を獲得できません。挑戦を続けますか？","fr":"Votre réserve actuelle de Marée originelle ne permet pas de récupérer toutes les récompenses de l'épreuve. Voulez-vous tout de même poursuivre le défi ?"}
+{"id":1559694,"jp":"（宝箱の獲得には原初の潮を{0}消費します）","fr":"(Récupérer le coffre coûte {0} points de Marée originelle)"}
+{"id":1559695,"jp":"（今週の受取可能回数：あと{0}回）","fr":"(Récupérations restantes cette semaine : {0})"}
+{"id":1559696,"jp":"<color=#3266B4>熟練度：{0}/{1}</color>","fr":"<color=#3266B4>Maîtrise : {0}/{1}</color>"}
+{"id":1559697,"jp":"<color=#4F525D>熟練度：{0}/{1}</color>","fr":"<color=#4F525D>Maîtrise : {0}/{1}</color>"}
 {"id":1559698,"jp":"所持:","fr":"Possédé :"}
 {"id":1559699,"jp":"料理種類：{0}","fr":"Types de plats : {0}"}
+{"id":1559700,"jp":"まずはレシピを解放してください。","fr":"Vous devez d'abord débloquer la recette."}
 {"id":1559701,"jp":"採集を中止する","fr":"Arrêter la récolte"}
 {"id":1559702,"jp":"本当に中止しますか？","fr":"Vraiment arrêter ?"}
+{"id":1559703,"jp":"キボが食事中のため、一時停止中です。","fr":"Production suspendue : le Kibo est en train de manger."}
+{"id":1559704,"jp":"キボが派遣されていません。","fr":"Aucun Kibo en Affectation."}
+{"id":1559705,"jp":"時間切れにより、生産が一時停止されました。","fr":"La production a été suspendue, car le temps imparti est écoulé."}
+{"id":1559706,"jp":"食物の備蓄が上限に達しました。しばらくすると生産が再開されます。","fr":"Les réserves de nourriture sont pleines. La production reprendra dans un instant."}
 {"id":1559707,"jp":"生産をキャンセル","fr":"Annuler la production"}
 {"id":1559708,"jp":"作成{0}","fr":"Fabrication {0}"}
 {"id":1559709,"jp":"人口{0}/{1}","fr":"Population {0}/{1}"}
 {"id":1559710,"jp":"残り {0}","fr":"Reste {0}"}
+{"id":1559711,"jp":"「現在の満腹度区間は【{0}】。毎秒【{1}】HPを回復」","fr":"« Palier de satiété actuel : 【{0}】. Récupération de 【{1}】 PV par seconde »"}
 {"id":1559712,"jp":"開始待ち","fr":"En attente de lancement"}
 {"id":1559713,"jp":"待機中","fr":"En attente"}
+{"id":1559714,"jp":"受け取れる報酬はありません。","fr":"Aucune récompense à récupérer."}
 {"id":1559715,"jp":"ウィークリー","fr":"Hebdomadaire"}
 {"id":1559716,"jp":"実行中…","fr":"En cours…"}
+{"id":1559717,"jp":"現在、複数の報酬が受け取れます","fr":"Plusieurs récompenses sont actuellement disponibles"}
+{"id":1559718,"jp":"この装備にはセット効果がありません","fr":"Cet équipement ne possède aucun effet d'ensemble"}
+{"id":1559719,"jp":"{0}さんからチームへの招待が届いています","fr":"{0} vous invite à rejoindre son équipe"}
 {"id":1559720,"jp":"すでに農園にいます。","fr":"Déjà à la ferme."}
+{"id":1559721,"jp":"{0}機能はまだ使えません。","fr":"La fonctionnalité {0} n'est pas encore disponible."}
+{"id":1559722,"jp":"本日は解放されていません","fr":"Indisponible aujourd'hui"}
+{"id":1559723,"jp":"ダンジョン入口へワープ＋UI表示機能。今後実装予定です。","fr":"Téléportation vers l'entrée du donjon et affichage de l'interface. Fonctionnalité prévue pour une prochaine mise à jour."}
+{"id":1559724,"jp":"現在はこのアイテムを使用できません。","fr":"Impossible d'utiliser cet objet pour le moment."}
 {"id":1559725,"jp":"{0}生産：{1}","fr":"Production de {0} : {1}"}
+{"id":1559726,"jp":"星祝が不足しています。","fr":"Bénédiction stellaire insuffisante."}
+{"id":1559727,"jp":"ステラカードを所持していません。","fr":"Vous ne possédez aucune carte Stella."}
 {"id":1559728,"jp":"タマゴ","fr":"Œuf"}
 {"id":1559729,"jp":"完成","fr":"Terminé"}
 {"id":1559730,"jp":"除去する","fr":"Retirer"}
+{"id":1559731,"jp":"種を選択してください。","fr":"Sélectionnez une graine."}
+{"id":1559732,"jp":"メモの変更が完了しました。","fr":"Votre note a été modifiée."}
 {"id":1559733,"jp":"メモ用の名前を変更","fr":"Modifier le nom du mémo"}
 {"id":1559734,"jp":"絆が{0}上昇する","fr":"Le Lien augmente de {0}"}
+{"id":1559735,"jp":"タップしてキボを確認（{0}秒）","fr":"Appuyez pour consulter le Kibo ({0} s)"}
+{"id":1559736,"jp":"[{0}]さんが{1}への参加に招待しています。","fr":"[{0}] vous invite à rejoindre {1}."}
+{"id":1559737,"jp":"[{0}]-{1}チャンネルに入りました。","fr":"Vous avez rejoint le canal [{0}]-{1}."}
+{"id":1559738,"jp":"（セット内容：{0}）","fr":"(Contenu de l'ensemble : {0})"}
+{"id":1559739,"jp":"エラーコード{0}：設定が存在しません。","fr":"Code d'erreur {0} : configuration introuvable."}
+{"id":1559740,"jp":"以下の素材を消費して{0}を建設しますか？","fr":"Voulez-vous utiliser les matériaux suivants pour construire {0} ?"}
+{"id":1559741,"jp":"クエストアイテムが不足しています。","fr":"Nombre d'objets de quête insuffisant."}
 {"id":1559742,"jp":"素材返却","fr":"Remboursement des matériaux"}
+{"id":1559743,"jp":"ワープポイントが未解放です。","fr":"Ce point de téléportation n'a pas encore été débloqué."}
+{"id":1559744,"jp":"このキーはカスタマイズできません","fr":"Cette touche ne peut pas être personnalisée"}
+{"id":1559745,"jp":"一部の画像設定はシーンを再読み込みすると反映されます。","fr":"Certains paramètres graphiques ne prendront effet qu'après le rechargement de la scène."}
+{"id":1559746,"jp":"前提試練を先にクリアしてください。","fr":"Vous devez d'abord réussir l'épreuve préalable."}
 {"id":1559748,"jp":"瞳","fr":"Pupilles"}
 {"id":1559749,"jp":"眉毛","fr":"Sourcils"}
 {"id":1559750,"jp":"目の形","fr":"Forme des yeux"}
