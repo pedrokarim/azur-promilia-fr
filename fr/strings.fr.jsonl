@@ -51634,7 +51634,7 @@
 {"id":1547117,"jp":"星臨者さま、来てくれたんですね！","fr":"Enfant des étoiles, vous êtes là !"}
 {"id":1547118,"jp":"エリーナから喘息のこと、聞いてるよ。\nすこしはよくなったかな？","fr":"Elina m'a parlé de ton asthme.\nEst-ce que tu te sens un peu mieux ?"}
 {"id":1547119,"jp":"はい、だいぶよくなりました。\nでも、エリーナお姉ちゃんは、やっぱり療養院に行かないとって……","fr":"Oui, je vais beaucoup mieux.\nMais ma grande sœur Elina dit qu'il faut quand même que j'aille au sanatorium…"}
-{"id":1547120,"jp":"エリーナたちはもうフリスのお抱え手品師だから。\n入院しても、ちゃんと会いに来てくれるはずだよ。","fr":"Elina et Eins sont désormais les illusionnistes attitrés de Fleece.\nMême si tu dois séjourner au sanatorium, je suis sûr qu'ils viendront régulièrement te voir."}
+{"id":1547120,"jp":"エリーナたちはもうフリスのお抱え手品師だから。\n入院しても、ちゃんと会いに来てくれるはずだよ。","fr":"Elina et Eins sont désormais les illusionnistes attitrés de Fleece.\nMême si tu dois séjourner au sanatorium, ils viendront sûrement te voir régulièrement."}
 {"id":1547121,"jp":"はい、わかっています。","fr":"Oui, je le sais."}
 {"id":1547122,"jp":"あれ？小玉さんは？\nまだ来ていないんですか？","fr":"Tiens ? Où est Xiaoyu ?\nElle n'est pas encore arrivée ?"}
 {"id":1547123,"jp":"そういえば、ここに来る途中で\nどこかに行っちゃったな……|そういえば、ここに来る途中で\nどこかに行っちゃった……","fr":"Maintenant que tu en parles, elle est partie je ne sais où\npendant qu'on venait ici…|Maintenant que tu en parles, elle est partie je ne sais où\npendant qu'on venait ici…"}
@@ -51703,11 +51703,61 @@
 {"id":1547186,"jp":"うん、この時間までずっと。","fr":"Oui, sans interruption jusqu'à maintenant."}
 {"id":1547187,"jp":"……どれくらい食べたの？","fr":"… Et elle a mangé quelle quantité, exactement ?"}
 {"id":1547188,"jp":"ええーっとね……メニューの半分くらい、かな？","fr":"Euhhh, voyons voir… Environ la moitié de la carte, je dirais ?"}
+{"id":1547189,"jp":"……はあ、ちょっとシャルの様子を見てくるよ。","fr":"… Pfff, je vais aller voir comment va Shalle."}
+{"id":1547190,"jp":"シャルにしばらく付き添って休ませた……","fr":"Vous êtes resté un moment auprès de Shalle pour lui permettre de se reposer…"}
+{"id":1547191,"jp":"ふぅ……だいぶ楽になりました。","fr":"Ouf… Je me sens beaucoup mieux."}
+{"id":1547192,"jp":"{playerName}さま、ありがとうございます。","fr":"Merci infiniment, {playerName}."}
+{"id":1547193,"jp":"どうしてそんなにたくさん食べたの？","fr":"Pourquoi as-tu autant mangé ?"}
+{"id":1547194,"jp":"もうフェデリカから聞いちゃったし。","fr":"Federica m'a déjà tout raconté, tu sais."}
+{"id":1547195,"jp":"でも、なんでなのかなって、ちょっと不思議で。","fr":"Mais j'aimerais quand même comprendre pourquoi."}
+{"id":1547196,"jp":"その……騎士団に戻れば、\nあまりたくさん食べられなくなりますから……","fr":"Eh bien… Une fois de retour auprès de l'ordre des chevaliers,\nje ne pourrai plus manger autant…"}
 {"id":1547197,"jp":"そうなんだ？","fr":"Ah bon ?"}
+{"id":1547198,"jp":"ええ……私が食堂に行くと\n料理はほとんど残っていないことが多いのです。","fr":"En effet… Lorsque j'arrive au réfectoire,\nil ne reste généralement presque plus rien à manger."}
+{"id":1547199,"jp":"もっとはやく行けばいいんじゃないかな？","fr":"Tu ne pourrais pas simplement y aller plus tôt ?"}
+{"id":1547200,"jp":"そうしようとしたことはありますが……\n助けを必要としている方を放っておくことはできませんから。","fr":"J'ai déjà essayé, mais…\nJe ne peux tout de même pas abandonner les personnes qui ont besoin de mon aide."}
+{"id":1547201,"jp":"うん……だいたい事情はわかったよ。","fr":"Je vois… Je comprends mieux la situation."}
+{"id":1547202,"jp":"シャル、自分で料理をしたことはある？","fr":"Dis, Shalle, tu as déjà essayé de cuisiner toi-même ?"}
 {"id":1547203,"jp":"料理、ですか？","fr":"Cuisiner ?"}
+{"id":1547204,"jp":"いえ……その、調理器具を壊してしまいそうで……","fr":"Non… À vrai dire, j'ai peur de casser les ustensiles de cuisine…"}
+{"id":1547205,"jp":"そんなに身構える必要はないんだよ。","fr":"Tu n'as pas besoin d'appréhender autant les choses, tu sais."}
+{"id":1547206,"jp":"何事もやってみないとわからないし。","fr":"On ne peut pas savoir de quoi on est capable sans essayer."}
+{"id":1547207,"jp":"いまから一緒にやってみようか！\nほら、行こう！","fr":"Et si on essayait ensemble, tout de suite ?\nAllez, viens !"}
+{"id":1547208,"jp":"えっ？お、お待ちください――","fr":"Hein ? A-Attendez, je vous en prie…"}
+{"id":1547209,"jp":"その、私はなにをすればよいのでしょうか？","fr":"Euh, que dois-je faire exactement ?"}
+{"id":1547210,"jp":"まずは基本中の基本！\n潤いトマトのオムレツからはじめよう。","fr":"Commençons par la base des bases !\nL'omelette aux tomates juteuses."}
+{"id":1547211,"jp":"潤いトマトのオムレツですか？\n私の大好物です！","fr":"Une omelette aux tomates juteuses ?\nC'est mon plat préféré !"}
+{"id":1547212,"jp":"ですが、うまく作れるでしょうか……","fr":"Mais vais-je réussir à la préparer correctement… ?"}
+{"id":1547213,"jp":"大丈夫、すごく簡単だから。","fr":"Ne t'inquiète pas, c'est vraiment très simple."}
+{"id":1547214,"jp":"それに、最高の助手もついてるしね。","fr":"Et puis, on a la meilleure assistante qui soit pour nous aider."}
+{"id":1547215,"jp":"ボス〜！来たよ……はぁはぁ……","fr":"Chef ! Me voilà… Han, han…"}
+{"id":1547216,"jp":"用事があるって聞いて、急いで駆けつけたんだ……\nふう……","fr":"J'ai entendu dire que t'avais besoin de moi, alors j'ai accouru aussi vite que possible…\nOuf…"}
+{"id":1547217,"jp":"そんなに急がなくてもよかったのに……","fr":"Tu n'avais pas besoin de te dépêcher autant…"}
+{"id":1547218,"jp":"リリカさん？\n{playerName}さまが呼んだのですか？","fr":"Lyrica ?\nC'est vous qui l'avez appelée, {playerName} ?"}
+{"id":1547219,"jp":"リリカはこの農園の管理者だからね！食材のことなら、だれより詳しいんだ。|リリカはこの農園の管理者だからね！食材のことなら、だれより詳しいんだよ。","fr":"C'est Lyrica qui s'occupe de la ferme, après tout ! Personne ne s'y connaît mieux qu'elle en ingrédients.|C'est Lyrica qui s'occupe de la ferme, après tout ! Personne ne s'y connaît mieux qu'elle en ingrédients."}
 {"id":1547220,"jp":"えへへ！","fr":"Hé hé !"}
+{"id":1547221,"jp":"新鮮な食材の準備はオイラに任せてよ！\nシャルさんが作る料理はもう決まってる？","fr":"Laisse-moi m'occuper des ingrédients frais !\nTu as déjà choisi ce que tu voulais cuisiner, Shalle ?"}
+{"id":1547222,"jp":"うん、最初の料理は……","fr":"Oui, pour commencer, on va préparer…"}
+{"id":1547223,"jp":"潤いトマトのオムレツ！","fr":"Une omelette aux tomates juteuses !"}
+{"id":1547224,"jp":"ふむふむ、潤いトマトのオムレツか！","fr":"Hmm, hmm, une omelette aux tomates juteuses !"}
+{"id":1547225,"jp":"そう！簡単に作れて、特別な風味が楽しめる。\nはじめて作るのにちょうどいいよね。","fr":"Exactement ! C'est facile à préparer et ça a une saveur bien particulière.\nC'est idéal pour une première leçon de cuisine, non ?"}
 {"id":1547226,"jp":"どうぞ、召し上がれ。","fr":"Voilà, bon appétit."}
+{"id":1547227,"jp":"はい、いただきます……","fr":"Très bien, je vais goûter…"}
+{"id":1547228,"jp":"とてもまろやかで……コクのある味わいです……","fr":"C'est si doux en bouche… Et tellement riche en saveurs…"}
+{"id":1547229,"jp":"{playerName}さまは、素晴らしい料理の腕まで\nお持ちなのですね。","fr":"Vous possédez également de remarquables talents culinaires, {playerName}."}
+{"id":1547230,"jp":"作るのはすごく簡単なんだよ。\nシャルも試してみない？","fr":"C'est vraiment très facile à préparer.\nTu veux essayer à ton tour, Shalle ?"}
 {"id":1547231,"jp":"うぅ、ですが……","fr":"Ugh, mais…"}
+{"id":1547232,"jp":"リリカも手伝ってくれるから、安心して。","fr":"Lyrica sera là pour t'aider, alors ne t'inquiète pas."}
+{"id":1547233,"jp":"うん、最初から最後まで、オイラがサポートするから！","fr":"Oui ! Je vais t'accompagner du début à la fin !"}
+{"id":1547234,"jp":"は、はい。では、やってみます！","fr":"O-Oui. Dans ce cas, je vais essayer !"}
+{"id":1547235,"jp":"シャルとリリカが料理をはじめた……","fr":"Shalle et Lyrica se sont mises aux fourneaux…"}
+{"id":1547236,"jp":"シャルさん、フライパンは\nそんなに高く投げなくて大丈夫だからね！","fr":"Shalle, tu n'as pas besoin de lancer\nla poêle aussi haut dans les airs !"}
+{"id":1547237,"jp":"潤いトマトの量は……これくらいでしょうか？","fr":"Pour les tomates juteuses… Cette quantité devrait-elle suffire ?"}
+{"id":1547238,"jp":"わあ、フライパンから溢れちゃいそうだよ！","fr":"Wouah, ça va déborder de la poêle !"}
+{"id":1547239,"jp":"シャルさん！ほら、調味料を入れなくちゃ！","fr":"Shalle ! N'oublie pas d'ajouter l'assaisonnement !"}
+{"id":1547240,"jp":"申し訳ありません！忘れてしまうところでした！","fr":"Toutes mes excuses ! J'allais complètement oublier !"}
+{"id":1547241,"jp":"シャルさん、いまだよ！火からおろして！","fr":"Shalle, c'est le moment ! Retire la poêle du feu !"}
+{"id":1547242,"jp":"は、はい！こう、ですね！","fr":"O-Oui ! Comme ceci, n'est-ce pas ?"}
+{"id":1547243,"jp":"うん、なかなかうまくできてるね！","fr":"Eh bien, c'est plutôt réussi !"}
 {"id":1547245,"jp":"できました！","fr":"C'est prêt !"}
 {"id":1547247,"jp":"うん、いただきます。","fr":"Oui, merci pour le repas."}
 {"id":1547250,"jp":"すごくおいしいよ。","fr":"C'est vraiment délicieux."}
