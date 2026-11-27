@@ -54692,14 +54692,64 @@
 {"id":1553221,"jp":"あれ？抽選券の下に紙があるみたい。","fr":"Tiens ? On dirait qu'il y a un morceau de papier sous le billet de tombola."}
 {"id":1553222,"jp":"普通の包装紙のようですね。ほのかな香りが漂っています……","fr":"Cela ressemble à du papier d'emballage ordinaire. Il en émane un léger parfum…"}
 {"id":1553223,"jp":"う～ん……もしかして、ソフィアさんは帰り道に別の場所に寄って、\nそこで人形を置いてきてしまったんじゃないでしょうか？","fr":"Hmm… Peut-être vous êtes-vous arrêtée quelque part sur le chemin du retour, Sophia,\net y avez-vous oublié votre poupée ?"}
+{"id":1553224,"jp":"もし本当にそうだとしたら、もう見つけられないかもしれないわね……\nこんなに広いフリスでは……","fr":"Si c'est vraiment ce qui s'est passé, on ne la retrouvera peut-être jamais…\nFleece est tellement grande…"}
+{"id":1553225,"jp":"モーキュン！モーキュン――","fr":"Mokyun ! Mokyuuun…"}
+{"id":1553226,"jp":"そうだ……モーキュンなら、ポケットに残っていた包装紙の出所を突き止められるかもしれない。\nディレッタさん、その紙をもらってもいい？","fr":"Mais oui… Mokyun pourrait peut-être retrouver d'où vient le papier d'emballage qui était dans la poche.\nDiletta, tu veux bien me passer ce papier ?"}
+{"id":1553227,"jp":"クンクン……モーキュン？","fr":"Snif, snif… Mokyun ?"}
 {"id":1553228,"jp":"モ……モーキュン？","fr":"Mo… Mokyun ?"}
+{"id":1553229,"jp":"馴染みのある香りなのでしょうか？\nなんだか、うなずいているように見えます……","fr":"Cette odeur lui serait-elle familière ?\nOn dirait qu'il hoche la tête…"}
+{"id":1553230,"jp":"どうやらもう紙の出所がわかったみたいですね。","fr":"Il semble avoir déjà compris d'où venait ce papier."}
+{"id":1553231,"jp":"軽く香りを嗅いだだけなのに……そんなにすぐ正確な判断ができるのか？|軽く香りを嗅いだだけなのに……そんなにすぐ正確な判断ができるの？","fr":"Il a à peine reniflé le papier… Il peut vraiment identifier sa provenance aussi rapidement ?|Il a à peine reniflé le papier… Il peut vraiment identifier sa provenance aussi rapidement ?"}
+{"id":1553232,"jp":"ええ。なんといってもフリス最強のガイドですからね！","fr":"Bien sûr ! Après tout, c'est le meilleur guide de tout Fleece !"}
+{"id":1553233,"jp":"この子は、ありとあらゆる香りと音を熟知しているんです……街の隅々まで……","fr":"Ce petit connaît toutes les odeurs et tous les bruits de la ville… jusque dans ses moindres recoins…"}
+{"id":1553234,"jp":"モーキュンさえいれば、はじめてフリスに来た方でも行きたい場所へ行けるんです。","fr":"Avec un Mokyun à leurs côtés, même les personnes qui découvrent Fleece peuvent se rendre où elles le souhaitent."}
+{"id":1553235,"jp":"すごいな！じゃあ早速出発しようか！|すごいね！じゃあ早速出発しよう！","fr":"Incroyable ! Alors, en route !|Incroyable ! Alors, en route !"}
+{"id":1553236,"jp":"ただいま、ソフィアさん。きみが探してた人形はこれかな？","fr":"Nous revoilà, Sophia. C'est bien cette poupée que tu cherchais ?"}
+{"id":1553237,"jp":"そうそう、この人形だよ！とてもかわいいだろう？\nそれにしても、これをどこで見つけたんだい？","fr":"Oui, oui, c'est bien celle-là ! Elle est adorable, tu ne trouves pas ?\nMais dis-moi, où l'as-tu donc retrouvée ?"}
+{"id":1553238,"jp":"あそこの花屋だよ。ジョイが言うには、\nこの人形だけじゃなくて、花束も一緒に包んでもらったんだって。","fr":"Chez la fleuriste, juste là-bas. D'après Joy,\ntu avais demandé à faire emballer cette poupée avec un bouquet de fleurs."}
+{"id":1553239,"jp":"ああ、思い出したよ……\nあのとき、メッセージカードを書いて、花束に挟んでもらったんだわ……","fr":"Ah, ça me revient maintenant…\nJ'avais écrit un petit mot et demandé qu'on le glisse dans le bouquet…"}
+{"id":1553240,"jp":"これこれ……さあディレッタ、これを受け取って。","fr":"Le voilà… Tiens, Diletta, c'est pour toi."}
+{"id":1553241,"jp":"え？私ですか？……カードに書かれてるのは……「あたしのかわいい娘、\nディレッタへ。毎日優しく世話をしてくれて、本当に感謝しているわ」……","fr":"Hein ? Pour moi ?… Il est écrit sur la carte… « À mon adorable fille,\nDiletta. Merci du fond du cœur de prendre soin de moi avec tant de douceur chaque jour. »…"}
+{"id":1553242,"jp":"もしかして……人形も花束も、全部私へのプレゼントだったのですか？","fr":"Vous voulez dire que… la poupée et le bouquet étaient tous les deux des cadeaux pour moi ?"}
+{"id":1553243,"jp":"ふふ……この小さな人形を見たとき、あなたと同じくらいかわいいと思ってねえ。","fr":"Héhé… Quand j'ai vu cette petite poupée, je l'ai trouvée aussi adorable que toi."}
+{"id":1553244,"jp":"カードにも書いたけど、領主の屋敷に来るたびにいつも面倒を見てくれてさ……\nたまに不注意もあるけど、いつも誠実で情熱を感じていたわ……","fr":"Comme je l'ai écrit sur la carte, chaque fois que je viens au manoir du seigneur, tu prends toujours soin de moi…\nTu es parfois un peu distraite, mais j'ai toujours été touchée par ta sincérité et ton dévouement…"}
+{"id":1553245,"jp":"ほんのささやかな気持ちだけど、受け取ってくれるかい？","fr":"Ce n'est qu'un petit geste pour te témoigner mon affection, mais veux-tu bien l'accepter ?"}
+{"id":1553246,"jp":"ありがとうございます。必ず大切にします！","fr":"Merci infiniment ! Je vous promets d'en prendre grand soin !"}
+{"id":1553247,"jp":"そうそう、この小さなガイドさんと{playerName}さんにも感謝をしないとねえ。","fr":"Ah oui, il faut aussi que je remercie notre petit guide et {playerName}."}
+{"id":1553248,"jp":"おや、そんなにキャンディが好きなのかい？\nふふ……ならこれを全部あげようかね。","fr":"Oh, tu aimes tant que ça les bonbons ?\nHéhé… Alors, je vais tous te les donner."}
 {"id":1553249,"jp":"モッモーキュン～","fr":"Mo-Mokyun~"}
 {"id":1553250,"jp":"グワッ！グワグワッ！","fr":"Coin ! Coin coin !"}
+{"id":1553251,"jp":"ブルーダ！はぁ……よかった、やっと出てこられましたね……\nありがとうございます、星臨者さま！","fr":"Bluda ! Ouf… Vous voilà enfin sorti de là…\nMerci beaucoup, Enfant des étoiles !"}
+{"id":1553252,"jp":"どういたしまして。ところで、さっきから気になってたんだけど……","fr":"De rien. Au fait, il y a quelque chose que je me demande depuis tout à l'heure…"}
 {"id":1553253,"jp":"外は危ないよ。","fr":"C'est dangereux dehors."}
+{"id":1553254,"jp":"どうしてこんなところに？","fr":"Qu'est-ce que tu fais dans un endroit pareil ?"}
+{"id":1553255,"jp":"えっと、実は……ローザおば……ローザ先生から美術の課題が出まして。\nそれが、キボのスケッチをするというもので……","fr":"Euh, en fait… Tante Ro… Enfin, Madame Rosa nous a donné un devoir de dessin.\nNous devons faire le croquis d'un Kibo…"}
+{"id":1553256,"jp":"ブルーシィグナが水面から出てくる様子が「美しい」と聞きまして、\nモデルにしようと思ったんです。","fr":"J'ai entendu dire que le spectacle d'un Blue Cygna émergeant de l'eau était magnifique,\nalors j'ai pensé en prendre un comme modèle."}
+{"id":1553257,"jp":"それで、ブルーシィグナを探していたらブルーダを見つけて……\nまるで私のやりたいことを知ってるかのように、案内してくれました。","fr":"C'est en cherchant un Blue Cygna que j'ai rencontré Bluda…\nIl m'a montré le chemin, comme s'il savait exactement ce que je voulais faire."}
+{"id":1553258,"jp":"きっと、ブルーシィグナのところまで連れて行こうとしたんでしょう。\nそしたら、ここで落ち葉の山に突っこんでしまったんです。\n星臨者さまが来てくれて助かりました……","fr":"Il voulait sûrement me conduire jusqu'au Blue Cygna.\nMais en arrivant ici, il a foncé droit dans un tas de feuilles mortes.\nHeureusement que vous êtes là, Enfant des étoiles…"}
 {"id":1553259,"jp":"グワッ……グワワ――","fr":"Coin… Coiiin…"}
+{"id":1553260,"jp":"あの方角……もしかして、滝つぼに案内してくれるのかな？","fr":"Dans cette direction… Il essaierait de nous conduire au pied de la cascade ?"}
+{"id":1553261,"jp":"えっ！？ブルーシィグナが滝つぼに！？\nもしいるなら、水から出てくるところを見れるかも――","fr":"Comment !? Un Blue Cygna au pied de la cascade !?\nS'il y en a vraiment un, je pourrai peut-être le voir émerger de l'eau…"}
+{"id":1553262,"jp":"でも滝つぼのあたりは行ったことないですし……\nうーん……ローザ先生もあまり遠くには行かない方がいいって言ってましたし……","fr":"Mais je ne suis encore jamais allé dans les environs de la cascade…\nHmm… Et Madame Rosa m'a conseillé de ne pas trop m'éloigner…"}
+{"id":1553263,"jp":"僕も一緒に行こう。それなら危険な目にあう心配もない。|私も一緒に行くよ。それなら危険な目にあう心配もないし。","fr":"Je vais t'accompagner. Comme ça, tu n'auras pas à t'inquiéter du danger.|Je vais t'accompagner. Comme ça, tu n'auras pas à t'inquiéter du danger."}
+{"id":1553264,"jp":"いいんですか、星臨者さま？ありがとうございます、なんて頼もしい……\nそれではさっそく、向かいましょう！","fr":"Vraiment, Enfant des étoiles ? Merci beaucoup ! Je sais que je peux compter sur vous…\nAlors, allons-y sans plus attendre !"}
+{"id":1553265,"jp":"ブルーシィグナは……ここにはいないみたいです。","fr":"Il ne semble pas y avoir de Blue Cygna ici…"}
+{"id":1553266,"jp":"見て、なにか落ちてる……","fr":"Regarde, il y a quelque chose par terre…"}
+{"id":1553267,"jp":"ん？羽根、でしょうか……？きれいですね。\nなぜかすこし汚れてるみたいですが……","fr":"Tiens ? Serait-ce une plume… ? Elle est très jolie.\nMême si elle semble un peu sale, pour une raison que j'ignore…"}
+{"id":1553268,"jp":"……こ、これって！ブルーシィグナの羽根じゃないですか？\n絵で見たことあります！","fr":"… M-mais attendez ! Ce serait pas une plume de Blue Cygna ?\nJ'en ai déjà vu sur une illustration !"}
 {"id":1553269,"jp":"グワッ、グワッ！","fr":"Gwah, gwah !"}
+{"id":1553270,"jp":"ギーーギーー！チチチ……","fr":"Griiih, griiih ! Tchip, tchip, tchip…"}
 {"id":1553271,"jp":"星臨者さま、あれを！","fr":"Enfant des étoiles, regardez ça !"}
+{"id":1553272,"jp":"近くでワオッキーがブルーダの羽毛をむしっている……","fr":"Non loin de là, un Waokki arrache les plumes de Bluda…"}
+{"id":1553273,"jp":"ひどい！ただでさえブルーダの羽毛は短いのに……","fr":"C'est horrible ! Bluda a déjà des plumes si courtes…"}
+{"id":1553274,"jp":"ちょっと待ってください。\nということは、このブルーシィグナの羽根もワオッキーが抜いたのでしょうか？","fr":"Attendez une seconde.\nVous pensez que c'est aussi ce Waokki qui a arraché cette plume au Blue Cygna ?"}
+{"id":1553275,"jp":"うん、きっとワオッキーが悪さをしたせいでブルーシィグナが滝つぼから逃げたんだよ。","fr":"Oui, le Blue Cygna a sûrement fui la cascade à cause des mauvais tours de ce Waokki."}
+{"id":1553276,"jp":"イタズラっ子には「しつけ」をする必要がありそうだね。","fr":"On dirait que ces petits garnements ont besoin d'une bonne leçon."}
+{"id":1553277,"jp":"よし、これであのワオッキーもすこしはおとなしくなるね。","fr":"Voilà, ça devrait calmer un peu ce Waokki."}
+{"id":1553278,"jp":"ありがとうございます！\n……あっそうだ！ブルーダ、大丈夫？痛くないですか……？","fr":"Merci beaucoup !\n… Oh, mais j'y pense ! Bluda, ça va ? Vous n'avez pas trop mal… ?"}
 {"id":1553279,"jp":"ガガ……グワッ！","fr":"Gaga… Coin !"}
+{"id":1553280,"jp":"……もしかして、私を慰めてくれてるんですか……？\nごめんなさい、ブルーシィグナを見つけたいなんてワガママ言わなければ……","fr":"… Vous essayez de me réconforter… ?\nPardonnez-moi… Si seulement je n'avais pas fait ce caprice pour voir un Blue Cygna…"}
+{"id":1553281,"jp":"グワッ、グワグワ……グワッ！","fr":"Coin, coin-coin… Coin !"}
 {"id":1553298,"jp":"グアー……ペイッ！","fr":"Couaaa… Plouf !"}
 {"id":1553305,"jp":"アレ……？","fr":"Ça… ?"}
 {"id":1553307,"jp":"ぷっ――","fr":"Pff…"}
