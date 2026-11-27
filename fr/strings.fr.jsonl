@@ -57760,14 +57760,74 @@
 {"id":1556170,"jp":"川沿いにメテオールの痕跡を探そう。","fr":"Cherchez des Traces du Staray le long de la rivière."}
 {"id":1556171,"jp":"メテオールはフィルのためにシーリリィを探し出していたのだ。きっと彼らなら、もっと安全でよりよい接し方を見つけられるはずだ。","fr":"Le Staray était en réalité parti chercher un Sea Lily pour Phil. Tous deux finiront certainement par trouver une meilleure façon de se témoigner leur affection, sans se mettre en danger."}
 {"id":1556172,"jp":"リサおばあちゃんは最近、夜の畑で奇妙な笑顔を見たらしい。ひどく怯えている彼女から、星臨者はこの件の調査を依頼された。","fr":"Mamie Lisa aurait récemment aperçu un étrange sourire au milieu des champs, en pleine nuit. Terrifiée par cette apparition, elle vous a confié une Mission pour élucider ce mystère."}
+{"id":1556173,"jp":"夜に畑を調べてみたところ、どうやらただの取り越し苦労だったようだ。","fr":"Après avoir inspecté le champ en pleine nuit, vous avez constaté qu'il n'y avait finalement pas de quoi s'inquiéter."}
+{"id":1556174,"jp":"ニャバットを追い払う。","fr":"Chassez le Titterbat."}
+{"id":1556175,"jp":"リサおばあちゃんに真相を伝えて安心させると、今度は小さな女の子から依頼を受けた。どうやらそれもこの件と関係があるようだ。","fr":"Après avoir rassuré Mamie Lisa en lui révélant la vérité, vous avez reçu une nouvelle Mission de la part d'une petite fille. Celle-ci semble également liée à cette affaire."}
+{"id":1556176,"jp":"イザベルについていき、彼女の秘密基地の前へ向かう。","fr":"Suivez Isabel jusqu'à l'entrée de sa base secrète."}
+{"id":1556177,"jp":"秘密基地に入り、先へ進む","fr":"Entrez dans la base secrète et poursuivez votre exploration"}
+{"id":1556178,"jp":"秘密基地に入ると、そこは確かにキボに『占拠』されていた。","fr":"En pénétrant dans la base secrète, vous avez constaté que les lieux étaient bel et bien « occupés » par des Kibo."}
 {"id":1556179,"jp":"薪を集める","fr":"Ramasser du bois de chauffage"}
+{"id":1556180,"jp":"火をつける準備をしていると、イザベルはためらいはじめる……","fr":"Alors que vous préparez de quoi allumer un feu, Isabel commence à hésiter…"}
+{"id":1556181,"jp":"イザベルは自分の秘密基地をニャバットに『譲る』ことにした。","fr":"Isabel a finalement décidé de « céder » sa base secrète aux Titterbat."}
+{"id":1556182,"jp":"ローザはポリーがなにかトラブルや危険に巻き込まれたのではないかと心配し、星臨者に様子を見に行くよう依頼した。","fr":"Craignant que Polly ait des ennuis ou se trouve en danger, Rosa vous a confié une Mission : aller s'assurer que tout va bien."}
+{"id":1556183,"jp":"ポリーを見つけ、彼女の状況を尋ねる。","fr":"Retrouvez Polly et demandez-lui ce qui se passe."}
+{"id":1556184,"jp":"ポリーを手伝い、フリスのトランゴの生活環境を調査する。","fr":"Aidez Polly à étudier les conditions de vie des Trango à Fleece."}
+{"id":1556185,"jp":"街にいるトランゴの状態を調べる。","fr":"Examinez l'état des Trango présents en ville."}
+{"id":1556186,"jp":"まさか本当に、ろくに休みもせず働き続けているトランゴがいるとは！","fr":"Incroyable ! Certains Trango travaillent bel et bien sans pouvoir prendre le moindre repos !"}
+{"id":1556187,"jp":"行商を問いただしに行こう。トランゴをこんなふうにいじめてはいけない！","fr":"Allez demander des comptes au marchand ambulant. Il est inadmissible de traiter les Trango de cette façon !"}
 {"id":1556188,"jp":"夜になるまで待つ。","fr":"Attendre la tombée de la nuit."}
+{"id":1556189,"jp":"夜、案の定トランゴを痛めつけている行商を捕らえた。","fr":"À la nuit tombée, vous avez pris le marchand ambulant en flagrant délit de maltraitance envers le Trango, comme vous le soupçonniez."}
+{"id":1556190,"jp":"トランゴを虐待する者には、多くを語る必要はない。少し懲らしめてやろう！","fr":"Inutile de perdre son temps à discuter avec quelqu'un qui maltraite les Trango. Donnez-lui une bonne leçon !"}
+{"id":1556191,"jp":"トランゴにおいしいポポクッキーをあげて、しっかりなだめよう。","fr":"Offrez quelques délicieux biscuits Popo au Trango pour l'aider à retrouver son calme."}
+{"id":1556192,"jp":"ポリーと話して、トランゴが再び虐待されるのを防ぐ方法がないか聞いてみよう。","fr":"Discutez avec Polly pour savoir s'il existe un moyen d'empêcher que le Trango soit de nouveau victime de maltraitance."}
 {"id":1556193,"jp":"朝まで待つ。","fr":"Attendre le matin."}
 {"id":1556194,"jp":"ポリーと別れる","fr":"Quitter Polly"}
+{"id":1556195,"jp":"ハリエットは困り果てていた。空に突然、2色の虹が現れたのだ。さらに視線を下げてみると、なんと干していた果実が半分なくなっている！まさか空の異変が果実の干し物にまで影響を及ぼしたというのだろうか……？","fr":"Harriet ne savait plus quoi penser. Un étrange arc-en-ciel bicolore était soudain apparu dans le ciel. En baissant les yeux, elle a découvert que la moitié des fruits qu'elle avait mis à sécher avait disparu ! Ce phénomène céleste aurait-il vraiment quelque chose à voir avec la disparition de ses fruits… ?"}
+{"id":1556196,"jp":"付近を調査していると、キャバードが何かを目撃したようで、ある方向を指し示した。","fr":"Au cours de votre enquête dans les environs, un Cabbird qui semblait avoir été témoin de quelque chose vous a indiqué une direction."}
+{"id":1556197,"jp":"麦畑で怪しいピンク色の毛玉を発見した。手を触れるとゴロゴロと喉を鳴らす声さえ聞こえてくる……","fr":"Vous avez découvert une mystérieuse boule de poils rose dans un champ de blé. En la touchant, vous avez même entendu un petit ronronnement…"}
+{"id":1556198,"jp":"ワオッキーを追い払い振り返ると、あのピンクの毛玉はいなくなっていた！","fr":"Après avoir chassé les Waokki, vous vous êtes retourné vers l'endroit où se trouvait la boule de poils rose. Elle avait disparu !"}
+{"id":1556199,"jp":"イザベルはママに、最近大人気の童話『眠れるぬいぐるみ』を買ってほしいとせがんでいた。待って、眠れる？","fr":"Isabel suppliait sa maman de lui acheter « La Peluche endormie », un conte pour enfants très populaire en ce moment. Un instant… Endormie ?"}
+{"id":1556200,"jp":"『眠れるぬいぐるみ』を読み、あの日見たピンクの毛玉がモフリーネではないかと強く思うようになった！","fr":"Après avoir lu « La Peluche endormie », vous avez de bonnes raisons de penser que la boule de poils rose aperçue l'autre jour était un Downybrinny !"}
 {"id":1556201,"jp":"本屋に手がかりを聞く","fr":"Demander des indices à la librairie"}
+{"id":1556202,"jp":"フェデリカが眠れるぬいぐるみを見たことがあるという。メイメイハウスに行ってみると、果たしてかわいい小さな生き物を見つけた……","fr":"Federica affirme avoir déjà vu la peluche endormie. En vous rendant à la maison Meimei, vous avez effectivement découvert une adorable petite créature…"}
+{"id":1556203,"jp":"追いかけていくと、それはなんと迷跡の森へと逃げ込んでしまった。","fr":"En essayant de la rattraper, vous l'avez vue se réfugier dans la forêt perdue."}
+{"id":1556204,"jp":"茂みの冠を開き、星満の果実でモフリーネを誘惑した。案の定、彼女は抗えず……","fr":"Vous avez écarté le feuillage du buisson et tenté d'attirer le Downybrinny avec un fruit étoilé. Comme prévu, la petite créature n'a pas pu résister à la tentation…"}
+{"id":1556205,"jp":"ティティとノノはシャルル村の貝殻に興味津々で、村の住民からその歴史を聞いてみようと考えている。","fr":"Tiffy et Nono sont fascinées par les coquillages du Village de Charlulu. Elles aimeraient en apprendre davantage sur leur histoire auprès des habitants."}
+{"id":1556206,"jp":"ティナナとカークの問題解決を手伝った後、ついでに貝殻について尋ねる。","fr":"Après avoir aidé Tinana et Kirk à résoudre leur problème, profitez-en pour les interroger au sujet des coquillages."}
+{"id":1556207,"jp":"再びエンカクとモモを探して尋ねに行くと、思いがけず、口を開いた途端に不幸な出来事が起こった！","fr":"Vous êtes retourné voir Enkaku et Momo pour leur poser quelques questions. Mais contre toute attente, à peine aviez-vous ouvert la bouche qu'un malheureux incident s'est produit !"}
+{"id":1556208,"jp":"貝殻についてチルルに尋ねに行こう。今回はやり方を変えて、必ず結果を聞き出さなければ！","fr":"Allez interroger Chilul au sujet des coquillages. Cette fois, adoptez une autre approche pour obtenir enfin une réponse !"}
+{"id":1556209,"jp":"ティティとノノと一緒に村の外へ向かい、貝殻の由来を探ろう。","fr":"Quittez le village avec Tiffy et Nono pour découvrir l'origine des coquillages."}
+{"id":1556210,"jp":"見つけた貝殻は期待していたものとは違うようだ。場所を変えて、もう一度探してみよう。","fr":"Le coquillage découvert ne semble pas correspondre à ce que vous recherchiez. Essayez de chercher ailleurs."}
+{"id":1556211,"jp":"見つけたものはどれも探している貝殻ではないようだ。カルマーナ湖へ向かい、もう一度探してみよう。","fr":"Aucun de vos coquillages ne semble être celui que vous recherchez. Rendez-vous au lac Karmana pour poursuivre vos recherches."}
+{"id":1556212,"jp":"真相を探る道のりは、いつだって一筋縄ではいかない！","fr":"Le chemin qui mène à la vérité n'est jamais de tout repos !"}
+{"id":1556213,"jp":"遺跡で偶然手に入れた貝殻は、シャルル村の貝殻と関係があるのだろうか？","fr":"Le coquillage découvert par hasard dans les ruines aurait-il un lien avec ceux du Village de Charlulu ?"}
+{"id":1556214,"jp":"貝殻通貨を村長のもとへ持ち帰ると、村長は笑うだけでなにも言わなかった……","fr":"Lorsque vous avez rapporté la monnaie en coquillage au Chef du village, celui-ci s'est contenté de rire sans dire un mot…"}
+{"id":1556215,"jp":"貝殻の由来はわかったが、奇妙な出来事そのものは解決していない……","fr":"Vous connaissez désormais l'origine des coquillages, mais le mystérieux incident reste inexpliqué…"}
 {"id":1556216,"jp":"ビリバーを獲得","fr":"Biliver obtenu"}
 {"id":1556217,"jp":"リーフォを獲得","fr":"Leafo obtenu"}
 {"id":1556218,"jp":"モーモを獲得","fr":"Momo obtenu"}
+{"id":1556219,"jp":"契約を結んだばかりの相棒は、自分の実力を証明したくてたまらないようだ。","fr":"Votre nouveau compagnon, avec lequel vous venez de conclure un pacte, brûle d'envie de prouver sa valeur."}
+{"id":1556220,"jp":"テララおよびウルと対戦し、グランドマスターへの第一歩を踏み出そう！","fr":"Affrontez Terara et Uru pour faire votre premier pas vers le titre de Grand Maître !"}
+{"id":1556221,"jp":"テララと会話して、キボファイトについて教わる。","fr":"Discutez avec Terara pour apprendre les règles du Duel de Kibo."}
+{"id":1556222,"jp":"ティティとノノはやる気満々で、どうやら新しい冒険をはじめようとしているようだ。","fr":"Tiffy et Nono débordent d'enthousiasme. Elles semblent sur le point de se lancer dans une nouvelle aventure."}
+{"id":1556223,"jp":"ティティとノノの宝探し探検隊に加わり、鷹の連峰へ綺麗な星輝鉱を探しに行こう。","fr":"Rejoignez l'équipe de chasse au trésor de Tiffy et Nono et partez dans les Monts du Faucon à la recherche de magnifiques minerais d'éclat stellaire."}
+{"id":1556224,"jp":"ぷーちゃんは星輝鉱の匂いを嗅ぐと走り出した。急いで後を追おう！","fr":"Puu-chan s'est élancé en flairant l'odeur du minerai d'éclat stellaire. Vite, suivez-le !"}
+{"id":1556225,"jp":"ぷーちゃんが案内したせいで、逆に近くのボアラーガを驚かせてしまった！いや、まてよ。ぷーちゃんは一行を直接ボアラーガの縄張りに連れ込んでしまったのかもしれない！","fr":"En vous guidant, Puu-chan a malencontreusement effrayé un Boaraga qui se trouvait dans les environs ! Mais attendez… Puu-chan aurait-il tout simplement conduit le groupe en plein territoire des Boaraga ?"}
+{"id":1556226,"jp":"過酷な戦いと逃走の末、ようやくボアラーガの生息地から脱出することができた……","fr":"Au terme d'un combat éprouvant et d'une fuite mouvementée, votre groupe a enfin réussi à quitter le territoire des Boaraga…"}
+{"id":1556227,"jp":"ノノのヒントを元に方向を改めて確認し、星輝鉱が密集している場所へ向かおう。","fr":"Fiez-vous aux indications de Nono pour retrouver la bonne direction et rejoignez l'endroit où les minerais d'éclat stellaire abondent."}
+{"id":1556228,"jp":"ここにはマグマロスが生息しているようだ。熟睡していたところを起こされて機嫌が悪い様子のマグマロス。急いで撃退して離れよう！","fr":"Un Magmaros semble avoir élu domicile ici. Tiré de son sommeil profond, il est visiblement de très mauvaise humeur. Repoussez-le rapidement et éloignez-vous !"}
+{"id":1556229,"jp":"マグマロスの追跡範囲から離れ、ようやく安全な場所に辿り着いた。ここは、星輝鉱を採集する場所だろうか？","fr":"Après avoir semé le Magmaros, vous avez enfin trouvé un endroit sûr. Serait-ce ici que l'on peut récolter du minerai d'éclat stellaire ?"}
+{"id":1556230,"jp":"ノノが動かなくなった。どうやら弱っているルビッツを見つけたようだ。","fr":"Nono s'est soudain immobilisée. Elle semble avoir découvert un Rubbit en piteux état."}
+{"id":1556231,"jp":"星輝鉱を探す冒険は一段落した。ひとまず休息しよう。","fr":"L'expédition à la recherche du minerai d'éclat stellaire touche à sa fin. Prenez un peu de repos pour le moment."}
+{"id":1556232,"jp":"あなたは再びティティとノノに出会った。ふたりはつぎの冒険をはじめようと張り切っている。","fr":"Vous avez retrouvé Tiffy et Nono, toutes deux impatientes de partir pour leur prochaine aventure."}
+{"id":1556233,"jp":"ノーマが奇妙な包みを受け取ったらしい。あなたはティティ、ノノと一緒にシャルル村の門のまえへ確認に向かった。だがなんと、その包みは……","fr":"Norma aurait reçu un étrange colis. Vous avez rejoint les portes du Village de Charlulu avec Tiffy et Nono pour tirer cette affaire au clair. Mais à votre grande surprise, le colis contenait…"}
+{"id":1556234,"jp":"エンカクがなにか手助けを必要としているようだ……","fr":"Enkaku semble avoir besoin d'un coup de main…"}
+{"id":1556235,"jp":"以前村長がエンカクに新しい靴を注文していたのだが、受け取りに来るのを忘れているようだ……","fr":"Le Chef du village avait commandé de nouvelles chaussures à Enkaku il y a quelque temps, mais il semble avoir oublié de venir les récupérer…"}
+{"id":1556236,"jp":"村長が何か神秘的な武術を練習しているようだ。実に目を見張るものがある！","fr":"Le Chef du village semble s'exercer à un mystérieux art martial. Le spectacle est vraiment impressionnant !"}
+{"id":1556237,"jp":"雑談の中で、村長は若い頃に冒険の記念品を一部残したと言い出した。しかしその置き場所は忘れてしまったようだ……","fr":"Au fil de la conversation, le Chef du village a évoqué quelques souvenirs matériels qu'il avait conservés de ses aventures de jeunesse. Malheureusement, il semble avoir oublié où il les avait rangés…"}
+{"id":1556238,"jp":"助言のおかげで、村長はおおよその方向を思い出した。彼に同行して、かつての宝物を見に行こう。","fr":"Grâce à vos conseils, le Chef du village a réussi à se souvenir approximativement de l'endroit. Accompagnez-le pour retrouver ses trésors d'autrefois."}
+{"id":1556239,"jp":"村を出る途中で、エンカクに偶然出会った……","fr":"En quittant le village, vous avez croisé Enkaku par hasard…"}
+{"id":1556240,"jp":"エンカクは村長の身を守れるようにと願い、また防具を一式作った……","fr":"Soucieux de la sécurité du Chef du village, Enkaku lui a confectionné une nouvelle armure complète…"}
 {"id":1556247,"jp":"1ヶ所目を調査する。","fr":"Examiner le premier endroit."}
 {"id":1556248,"jp":"2ヶ所目を調査する。","fr":"Examiner le deuxième endroit."}
 {"id":1556249,"jp":"3ヶ所目を調査する。","fr":"Examiner le troisième endroit."}
