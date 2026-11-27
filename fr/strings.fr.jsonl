@@ -54065,7 +54065,7 @@
 {"id":1552594,"jp":"この動き……もしかしてハルシィのものまね？ハルシィがどうかしたのか？","fr":"Ces mouvements… Tu essaies d'imiter un Halcy ? Qu'est-ce qu'il y a avec les Halcies ?"}
 {"id":1552595,"jp":"キィィ……","fr":"Kiii…"}
 {"id":1552596,"jp":"なんとなく分かった気がする……\nつまり、ハルシィが休息を邪魔してくるから、この子たちは困ってるんじゃない？","fr":"Je crois que je commence à comprendre…\nEn fait, ces petits Kibo sont embêtés parce que les Halcies les empêchent de se reposer, non ?"}
-{"id":1552597,"jp":"そういうことか！それでアタシたちを呼びに来たんだな。\nアタシたちなら、ハルシィを追い払えるって知ってたから！","fr":"Ah, c'est donc ça ! Voilà pourquoi t'es venu nous chercher !\nTu savais qu'on pouvait chasser les Halcies !"}
+{"id":1552597,"jp":"そういうことか！それでアタシたちを呼びに来たんだな。\nアタシたちなら、ハルシィを追い払えるって知ってたから！","fr":"Ah, c'est donc ça ! Voilà pourquoi tu voulais nous faire venir !\nTu savais qu'on pouvait chasser les Halcies !"}
 {"id":1552598,"jp":"……キィ！","fr":"… Kii !"}
 {"id":1552599,"jp":"あのハルシィたちはやんちゃがすぎるんだって！\nニィバットの眠りを邪魔するだけじゃなくて、アタシの尻尾まで毟るんだから！","fr":"Ces Halcies sont vraiment trop turbulents !\nNon seulement ils empêchent les Nybats de dormir, mais en plus, ils m'arrachent les poils de la queue !"}
 {"id":1552600,"jp":"（でも、ハルシィが他のキボの眠りを邪魔するなんて聞いたことない……\nもしかしてバッティにだけしてるとか？でもそうだとしたら、一体どうして……？）","fr":"(Pourtant, je n'ai jamais entendu dire que les Halcies perturbaient le sommeil des autres Kibo…\nIls ne feraient ça qu'aux Batties ? Mais dans ce cas, pour quelle raison… ?)"}
@@ -54117,9 +54117,59 @@
 {"id":1552647,"jp":"なにか面白そうな話してるね。金属の悪魔に、召喚された雷だなんて……","fr":"Vous avez l'air de discuter de quelque chose de passionnant. Un démon de métal capable d'invoquer la foudre, rien que ça…"}
 {"id":1552648,"jp":"寒悠悠！？いつからいつからそこに？","fr":"Han Youyou !? D-Depuis quand t'es là ?"}
 {"id":1552649,"jp":"通りかかったら聞こえてきたの……それにしても、すっごく面白そうな話だよね。\nねえウォルフ、私をそこに連れて行ってくれない？","fr":"Je passais par là quand j'ai entendu votre conversation… En tout cas, cette histoire a l'air super intéressante !\nDis, Wolf, tu pourrais m'emmener là-bas ?"}
+{"id":1552650,"jp":"……あ、相手は金属の悪魔なんだぞ！危なすぎるよ！","fr":"… M-Mais on parle quand même d'un démon de métal ! C'est beaucoup trop dangereux !"}
+{"id":1552651,"jp":"ふふ、危ないから冒険する価値があるのよ！\nそれにもしかしたら、貴重な古代の遺物かもしれないしね。","fr":"Héhé, c'est justement parce que c'est dangereux que l'aventure en vaut la peine !\nEt puis, il pourrait très bien s'agir d'un précieux vestige ancien."}
+{"id":1552652,"jp":"ウォルフ、俺も案内してくれ。その悪魔ってやつが、俺が思い浮かべたキボなのか興味が湧いてな。\n実際に見た方がいいだろう。","fr":"Wolf, emmène-moi aussi. J'aimerais savoir si ce fameux démon est bien le Kibo auquel je pense.\nAutant aller vérifier de mes propres yeux."}
+{"id":1552653,"jp":"僕もついていくよ。それを放置して周辺の住民に危険が及ぶのは避けたいし。|私ついていくよ。それを放置して周辺の住民に危険が及ぶのは避けたいし。","fr":"Je viens aussi. Je ne voudrais pas qu'en laissant les choses en l'état, on mette les habitants des environs en danger.|Je viens aussi. Je ne voudrais pas qu'en laissant les choses en l'état, on mette les habitants des environs en danger."}
+{"id":1552654,"jp":"わ、わかった……それじゃあ行こう。もしヤバいと思ったらすぐに逃げるから！","fr":"D-D'accord… Alors, allons-y. Mais au moindre danger, je prends mes jambes à mon cou !"}
+{"id":1552655,"jp":"あそこを見て、あの丸い目！あれが金属の悪魔だよ！……まだ金属を切り刻んでる！","fr":"Regardez là-bas, ces gros yeux ronds ! C'est le démon de métal !… Il est encore en train de découper du métal !"}
+{"id":1552656,"jp":"思い出した……あれはエレキカッターだ。\nしかも、隣にいるのはその幼体、エレキリーじゃないか。\n無機のエネルギーを吸収するキボで、かなり珍しいんだ！","fr":"Ça y est, je me souviens… C'est un Elekicutter.\nEt celui qui se trouve à côté de lui, c'est sa forme juvénile, un Electrilly !\nCe sont des Kibo capables d'absorber de l'Énergie inorganique. Ils sont particulièrement rares !"}
+{"id":1552657,"jp":"ちぇ、エレキカッター？いきなり襲ってきたりはしないの……？","fr":"U-Un Elekicutter ? Il risque pas de nous attaquer sans prévenir… ?"}
+{"id":1552658,"jp":"そんなことはないと思うよ。","fr":"Je ne pense pas."}
+{"id":1552659,"jp":"こちらには気づいていない。","fr":"Il ne nous a pas remarqués."}
+{"id":1552660,"jp":"ああ、どうやら金属にしか興味がないみたいだな。","fr":"Oui, on dirait que seul le métal les intéresse."}
+{"id":1552661,"jp":"そういえば、あいつらはなんで金属を並べているんだ？","fr":"Au fait, pourquoi est-ce qu'ils disposent tous ces morceaux de métal comme ça ?"}
+{"id":1552662,"jp":"適当に並べているんじゃなくて、規則性があるように見えるね……もしかして、陣かな？","fr":"Ils ne les placent pas au hasard. On dirait qu'ils suivent un motif bien précis… Peut-être une formation énergétique ?"}
+{"id":1552663,"jp":"これ、なかなかおもしろいね！いま、探知機で分析してみるよ……","fr":"C'est vraiment intéressant, tout ça ! Je vais analyser cette formation avec mon détecteur…"}
+{"id":1552664,"jp":"……って、探知機の反応が激しいね……なにか強い電流が検知されたみたい……","fr":"… Oh, mon détecteur s'affole complètement… Il semble avoir détecté un courant électrique particulièrement puissant…"}
+{"id":1552665,"jp":"この子たちが集めた金属片から発生しているみたいだね……","fr":"Il semblerait que ce courant provienne des fragments de métal que ces deux petits ont rassemblés…"}
 {"id":1552666,"jp":"キュオン……","fr":"Kyuon…"}
+{"id":1552667,"jp":"そっか……この子が金属を切り刻んでた理由がわかったよ！\n天然のエネルギー網を作って、電力が流れる仕組み――サイクルを組み立てようとしてるんだ！","fr":"Je vois… Maintenant, je comprends pourquoi il découpait tout ce métal !\nIl essaie de créer un réseau d'Énergie naturel, autrement dit, un circuit permettant au courant électrique de circuler !"}
+{"id":1552668,"jp":"天然のエネルギー網……？電力のサイクル……？\nそれってもしかして、雷が落ちる危ない場所を作ってるってこと！？","fr":"Un réseau d'Énergie naturel… ? Un circuit électrique… ?\nÇa veut dire qu'ils sont en train de créer un endroit dangereux où la foudre risque de tomber !?"}
+{"id":1552669,"jp":"「パチッ！」\n一筋の電光が走り、ウォルフに直撃しそうになった。","fr":"« PAF ! »\nUn éclair a jailli et a manqué de frapper Wolf de plein fouet."}
+{"id":1552670,"jp":"ああっ！きのうの夜と同じ雷だ！","fr":"Aaaah ! C'est exactement la même foudre qu'hier soir !"}
+{"id":1552671,"jp":"どうやら、これが雷の正体みたいだね。","fr":"On dirait qu'on vient de découvrir l'origine de ces éclairs."}
+{"id":1552672,"jp":"待て、こいつらなんだか友好的には見えないぞ。\n近づきすぎて侵入者だと思われたか？","fr":"Attendez, ces deux-là n'ont pas l'air très amicaux.\nOn s'est peut-être trop approchés et ils nous prennent pour des intrus ?"}
+{"id":1552673,"jp":"仕方ないね、まずは落ち着かせようか。","fr":"Bon, on n'a pas vraiment le choix. Essayons d'abord de les calmer."}
+{"id":1552674,"jp":"よしよし、ちょっと落ち着きなよ！\nきみたちの縄張りを奪うつもりなんてないんだからさ！","fr":"Du calme, du calme ! Ne vous énervez pas !\nOn n'a absolument pas l'intention de vous prendre votre territoire !"}
+{"id":1552675,"jp":"言葉が通じていないみたいね……それなら、この子たちのわかる方法で意思の疎通をしてみるよ。","fr":"On dirait qu'ils ne comprennent pas ce qu'on leur dit… Dans ce cas, je vais essayer de communiquer avec eux d'une manière qu'ils pourront comprendre."}
 {"id":1552676,"jp":"それはどうやって？","fr":"Et comment comptes-tu faire ?"}
+{"id":1552677,"jp":"改造した小型デバイスがあるの。それを使えば特定の周波数の信号を送信できるんだ。\n悪意がないことが伝わればいいんだけどね。","fr":"J'ai un petit appareil que j'ai modifié pour pouvoir émettre des signaux à une fréquence précise.\nJ'espère qu'il me permettra de leur faire comprendre qu'on ne leur veut aucun mal."}
+{"id":1552678,"jp":"寒悠悠が小さな装置を取り出して操作する。\nすると、すぐにエレキカッターの触角から電気の光が消え、エレキカッターが静止して信号を受信しはじめる。","fr":"Han Youyou sort un petit appareil et l'actionne.\nAussitôt, les lueurs électriques disparaissent des antennes de l'Elekicutter. Celui-ci s'immobilise et commence à capter les signaux."}
+{"id":1552679,"jp":"聞いてる……どうやら、ちゃんと意味は伝わってるみたいだね！","fr":"Il écoute… On dirait qu'il comprend parfaitement le message !"}
+{"id":1552680,"jp":"お願いだからさ……もう二度と感電はごめんだよ……","fr":"Pitié… J'ai vraiment pas envie de me reprendre une décharge électrique…"}
+{"id":1552681,"jp":"金属片をまた並べはじめたぞ。ということは、和解できたってことかな。","fr":"Il a recommencé à disposer ses fragments de métal. On dirait qu'on a réussi à faire la paix avec lui."}
+{"id":1552682,"jp":"でもこの後はどうしよう……？\n雷の原因はわかったけど、この子たちを無理やり追い出すっていうのはさすがに乱暴すぎるし……","fr":"Mais qu'est-ce qu'on fait maintenant… ?\nOn a découvert l'origine de ces éclairs, mais chasser ces petits Kibo de force serait vraiment trop brutal…"}
+{"id":1552683,"jp":"それなら、雷が発生する元をたどればいいんじゃない？","fr":"Dans ce cas, pourquoi ne pas remonter jusqu'à la véritable source de la foudre ?"}
+{"id":1552684,"jp":"雷の発生する元？それはこの金属のことだろう？","fr":"La véritable source de la foudre ? Ce ne sont pas ces morceaux de métal, justement ?"}
+{"id":1552685,"jp":"まさか、金属片だけで勝手に雷が生まれるわけないでしょ。\nこれはただの陣で、雷を集めているだけ。\nこの子たちは電気を食べるから、この金属の陣は言わば食堂みたいなものよ。","fr":"Mais non, de simples fragments de métal ne peuvent pas produire de la foudre à eux seuls !\nCette formation sert uniquement à capter les éclairs.\nPuisque ces petits se nourrissent d'électricité, on pourrait dire que cette installation métallique leur sert de salle à manger."}
+{"id":1552686,"jp":"空気中のエネルギーだけじゃ、こんな陣で雷になるのは無理よ。\n近くに何か特別なものがあって、それに引き寄せられてエレキカッターが来たんだと思う。","fr":"L'Énergie présente dans l'air ne suffirait pas à produire de tels éclairs avec cette seule installation.\nJe pense qu'il y a quelque chose de particulier dans les environs qui a attiré l'Elekicutter jusqu'ici."}
+{"id":1552687,"jp":"たぶん、誰かがここになにかを隠した可能性が高いと思う。\nメルトレイクの環境じゃ、エレキカッターを呼び寄せるものは自然に生まれたりしないから。","fr":"Il est fort probable que quelqu'un ait caché quelque chose par ici.\nDans un environnement comme celui du lac Melt, rien de ce qui pourrait attirer un Elekicutter ne se formerait naturellement."}
+{"id":1552688,"jp":"だから、それを見つけ出せば、エレキカッターが穏便に立ち去る方法も見えるんじゃない？","fr":"Alors, si on découvre de quoi il s'agit, on pourra peut-être trouver un moyen de faire partir l'Elekicutter sans lui faire de mal, non ?"}
+{"id":1552689,"jp":"兄貴！エレキカッターをだれかがさきに見つけたみたいだ！","fr":"Chef ! On dirait que quelqu'un a trouvé l'Elekicutter avant nous !"}
 {"id":1552690,"jp":"赤蠍団の小隊長","fr":"Chef de section des Scorpions rouges"}
+{"id":1552691,"jp":"くそっ、出発が遅くなけりゃいまごろ……ってか、こいつらもエレキカッターを狙ってたのか？","fr":"Merde ! Si on était partis plus tôt, on aurait déjà… Attends, ces types en ont après l'Elekicutter, eux aussi ?"}
+{"id":1552692,"jp":"密猟者が自分から出てきたね……大人しく縄につくんだ！|密猟者が自分から出てきたね……大人しく縄について！","fr":"Tiens, les braconniers se montrent d'eux-mêmes… Rendez-vous sans faire d'histoires !|Tiens, les braconniers se montrent d'eux-mêmes… Rendez-vous sans faire d'histoires !"}
+{"id":1552693,"jp":"さすが{playerName}！あっという間だったね！","fr":"C'est bien du {playerName}, ça ! T'as réglé leur compte en un rien de temps !"}
+{"id":1552694,"jp":"計画に穴が多すぎ……この人たちって、バカなのかな？","fr":"Leur plan est truffé de failles… Ils sont complètement idiots ou quoi ?"}
+{"id":1552695,"jp":"密猟じゃねえよ。こいつらを心優しいやつらに譲って、それで謝礼をもらうだけだ！","fr":"C'est pas du braconnage ! On confie simplement ces bestioles à des gens au grand cœur, et ils nous récompensent en échange !"}
+{"id":1552696,"jp":"え、ええっ？そ、そうだったのか、兄貴？","fr":"H-Hein ? C-C'est vraiment ça, chef ?"}
+{"id":1552697,"jp":"金払いがいいなら優しいやつに決まってんだろ。\nそんないいやつがキボを大切にしないわけがねえ！\n俺だって善意でやってるんだ、なんでぶっ飛ばされなきゃならねえんだ！","fr":"Quelqu'un qui paie généreusement est forcément quelqu'un de gentil, non ?\nComment des gens aussi bien pourraient-ils maltraiter leurs Kibo !?\nMoi aussi, j'agis par bonté d'âme ! Alors pourquoi je devrais me faire tabasser !?"}
+{"id":1552698,"jp":"あ、兄貴の言う通りっす！","fr":"L-Le chef a tout à fait raison !"}
+{"id":1552699,"jp":"そいういう詭弁は警備隊に言ってくれる？","fr":"Tu pourras raconter tes beaux discours à la garde, d'accord ?"}
+{"id":1552700,"jp":"キュキュキュキュオン！","fr":"Kyu-kyu-kyu-kyuon !"}
+{"id":1552701,"jp":"警備隊がすぐ駆けつけてきて、エレキカッターに麻痺させられた赤蠍団のメンバーを連行していく","fr":"La garde est rapidement arrivée sur les lieux et a emmené les membres des Scorpions rouges, paralysés par l'Elekicutter."}
+{"id":1552702,"jp":"事件の犯人は、あの密猟者たちだったね。\nあの連中が小型のエネルギー装置を使って、エレキカッターをおびき寄せていたんだ。","fr":"Ces braconniers étaient donc bien à l'origine de toute cette histoire.\nIls avaient utilisé un petit dispositif énergétique pour attirer l'Elekicutter."}
 {"id":1552713,"jp":"……キュン。","fr":"… Kyun."}
 {"id":1552730,"jp":"異常事態……？","fr":"Un incident anormal… ?"}
 {"id":1552741,"jp":"だれかいませんかー！","fr":"Il y a quelqu'un~ !"}
