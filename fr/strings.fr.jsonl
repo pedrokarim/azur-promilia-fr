@@ -58711,6 +58711,7 @@
 {"id":1558625,"jp":"通貨が不足しています。","fr":"Solde de monnaie insuffisant."}
 {"id":1558626,"jp":"ショップが更新されました。商品を再選択してください。","fr":"La boutique a été actualisée. Veuillez sélectionner à nouveau vos articles."}
 {"id":1558627,"jp":"所持","fr":"Possédé"}
+{"id":1558628,"jp":"テクノロジー[%s]第%d段階を解放","fr":"Débloquer la technologie [%s] au stade %d"}
 {"id":1558629,"jp":"現在のテクノロジー研究をキャンセルしますか？使用した素材は返却されます。","fr":"Voulez-vous annuler la recherche technologique en cours ? Les matériaux utilisés vous seront restitués."}
 {"id":1558630,"jp":"データが更新されました。ホーム画面に戻ってください。","fr":"Les données ont été actualisées. Veuillez revenir à l'écran d'accueil."}
 {"id":1558631,"jp":"このキーは変更できません","fr":"Cette touche ne peut pas être modifiée"}
@@ -58791,25 +58792,84 @@
 {"id":1558708,"jp":"釣った魚の数：{0}匹","fr":"Nombre de poissons pêchés : {0}"}
 {"id":1558709,"jp":"収集進捗{0}{1}","fr":"Progression de la collection {0}{1}"}
 {"id":1558711,"jp":"資源が上限に達しているため、受け取れません。","fr":"Impossible de récupérer les ressources : la limite de stockage est atteinte."}
+{"id":1558712,"jp":"このメールは期限切れです。お気に入りを解除すると削除されます。よろしいですか？","fr":"Ce courrier a expiré. Il sera supprimé si vous le retirez de vos favoris. Voulez-vous continuer ?"}
+{"id":1558713,"jp":"お気に入り数が上限に達しています。","fr":"Le nombre maximal de favoris est atteint."}
 {"id":1558714,"jp":"{0}日後に期限切れ","fr":"Expire dans {0} j"}
+{"id":1558715,"jp":"<color=#ff7e6d>{0}時間後に期限切れ</color>","fr":"<color=#ff7e6d>Expire dans {0} h</color>"}
+{"id":1558716,"jp":"<color=#ff7e6d>1時間以内に期限切れ</color>","fr":"<color=#ff7e6d>Expire dans moins d'une heure</color>"}
 {"id":1558717,"jp":"ウェブサイト","fr":"Site web"}
+{"id":1558718,"jp":"派遣可能なキボ：%s体","fr":"Kibo disponibles pour l'Affectation : %s"}
+{"id":1558719,"jp":"お気に入り登録されたメールは削除できません。","fr":"Les courriers ajoutés aux favoris ne peuvent pas être supprimés."}
+{"id":1558720,"jp":"このメールは期限切れのため操作できません。","fr":"Ce courrier a expiré. Aucune opération n'est possible."}
+{"id":1558721,"jp":"まだ装備を装着していません。","fr":"Aucun équipement n'est actuellement porté."}
+{"id":1558722,"jp":"リストから入れ替える装備を選択してください。","fr":"Veuillez sélectionner l'équipement de remplacement dans la liste."}
 {"id":1558723,"jp":"装備推奨：","fr":"Équipement recommandé :"}
 {"id":1558724,"jp":"装備推奨","fr":"Équiper le recommandé"}
 {"id":1558725,"jp":"取り外しました。","fr":"Retiré."}
+{"id":1558726,"jp":"自分の表示がオフになっているため、視線調整は無効になります。","fr":"L'affichage de votre personnage étant désactivé, l'ajustement du regard est indisponible."}
+{"id":1558727,"jp":"現在、バッグ／キボ小屋の容量が上限に達しているため受け取れません。バッグ／キボ小屋を整理してから、もう一度お試しください。","fr":"Impossible de récupérer les récompenses : votre inventaire ou votre Enclos à Kibo est plein. Veuillez libérer de l'espace avant de réessayer."}
+{"id":1558728,"jp":"このキーは他の機能で使用されています。2つのショートカットキーを入れ替えますか？","fr":"Cette touche est déjà utilisée par une autre fonction. Voulez-vous permuter les deux raccourcis clavier ?"}
+{"id":1558729,"jp":"現在は【UI操作】に関するキーのみ変更可能です。","fr":"Seules les touches liées aux 【Commandes de l'interface】 peuvent être modifiées actuellement."}
+{"id":1558730,"jp":"【{0}】は【{1}】に使用されているため、変更できません。","fr":"【{0}】 est utilisé pour 【{1}】 et ne peut pas être modifié."}
+{"id":1558731,"jp":"受け取りに失敗しました。","fr":"Échec de la récupération."}
+{"id":1558732,"jp":"料理レシピ「{0}」を入手しました。料理画面で作成できます。","fr":"Vous avez obtenu la recette de cuisine « {0} ». Vous pouvez désormais la préparer depuis l'interface de cuisine."}
+{"id":1558733,"jp":"以下のアイテムから報酬を選択してください（重複選択可）。","fr":"Veuillez sélectionner vos récompenses parmi les objets suivants (sélection multiple d'un même objet autorisée)."}
+{"id":1558734,"jp":"以下の報酬の中からランダムで1つ獲得","fr":"Obtenir 1 récompense aléatoire parmi les suivantes"}
+{"id":1558735,"jp":"以下のすべての報酬を獲得","fr":"Obtenir toutes les récompenses suivantes"}
 {"id":1558736,"jp":"レベル{0}で解放","fr":"Débloqué au niv. {0}"}
+{"id":1558737,"jp":"本当にキャンセルしますか？","fr":"Voulez-vous vraiment annuler ?"}
+{"id":1558738,"jp":"キボを派遣しないと実行できません。","fr":"Vous devez affecter un Kibo pour effectuer cette opération."}
 {"id":1558739,"jp":"レシピ未解放","fr":"Recette verrouillée"}
+{"id":1558740,"jp":"1個以上加工してください。","fr":"Veuillez transformer au moins 1 objet."}
+{"id":1558741,"jp":"クラフト枠が埋まっています。","fr":"Tous les emplacements d'Artisanat sont occupés."}
+{"id":1558742,"jp":"先に完了済みの報酬を受け取ってください。","fr":"Veuillez d'abord récupérer les récompenses des activités terminées."}
 {"id":1558743,"jp":"生産中","fr":"En production"}
+{"id":1558744,"jp":"生産リスト：%s/%s","fr":"Liste de production : %s/%s"}
+{"id":1558745,"jp":"すべての生産を完了してから行ってください。","fr":"Veuillez attendre la fin de toutes les productions avant de continuer."}
 {"id":1558746,"jp":"産出量：{0}{1}","fr":"Production : {0}{1}"}
+{"id":1558747,"jp":"キャラクターは戦闘不能状態です。まずは復活させてください。","fr":"Ce personnage est hors combat. Veuillez d'abord le ranimer."}
 {"id":1558748,"jp":"レアリティ{0}以下","fr":"Rareté {0} ou moins"}
 {"id":1558749,"jp":"挑戦失敗","fr":"Défi échoué"}
+{"id":1558750,"jp":"残念ですが、もう一度挑戦しましょう。","fr":"Dommage ! Retentons notre chance !"}
+{"id":1558751,"jp":"難易度切替はクールタイム中です。","fr":"Le temps de recharge du changement de difficulté n'est pas terminé."}
+{"id":1558752,"jp":"メインストーリークエスト【{0}】クリアで解放されます。","fr":"Se débloque après avoir terminé la quête principale 【{0}】."}
 {"id":1558753,"jp":"取り外し成功","fr":"Retrait réussi."}
+{"id":1558754,"jp":"【{0}】は{1}が装備しています。交換しますか？","fr":"【{0}】 est actuellement utilisé par {1}. Voulez-vous procéder à l'échange ?"}
+{"id":1558755,"jp":"まだアニマを入手していません。","fr":"Vous n'avez encore obtenu aucune Anima."}
+{"id":1558756,"jp":"先にアニマを装備してください。","fr":"Veuillez d'abord équiper une Anima."}
+{"id":1558757,"jp":"アイテムのロックを解除してください。","fr":"Veuillez déverrouiller l'objet."}
+{"id":1558758,"jp":"上限数に達しているため、追加できません","fr":"Impossible d'en ajouter davantage : la limite est atteinte"}
+{"id":1558759,"jp":"現在の経験値上限に達しているため、追加できません。","fr":"Impossible d'en ajouter davantage : la limite d'EXP actuelle est atteinte."}
 {"id":1558760,"jp":"一括投入","fr":"Tout ajouter"}
 {"id":1558761,"jp":"すべてキャンセル","fr":"Tout annuler"}
+{"id":1558762,"jp":"使用予定のアニマ{0}は強化済み／ランクアップ済みです。よろしいですか？","fr":"L'Anima {0} sélectionnée a déjà été améliorée ou son rang a été augmenté. Voulez-vous continuer ?"}
+{"id":1558763,"jp":"今回の強化では、%sの経験値が上限を超えてしまいます。上限を超えた分は返却しませんが、よろしいですか？","fr":"Cette amélioration fera dépasser la limite d'EXP de %s. L'EXP excédentaire ne sera pas restituée. Voulez-vous continuer ?"}
 {"id":1558765,"jp":"現在","fr":"Actuel"}
 {"id":1558766,"jp":"ランク{0}","fr":"Rang {0}"}
+{"id":1558767,"jp":"現在のランク上限に達しているため、追加できません。","fr":"Impossible d'en ajouter davantage : la limite de rang actuelle est atteinte."}
+{"id":1558768,"jp":"投入条件を満たす素材がありません。","fr":"Aucun matériau ne remplit les conditions requises."}
 {"id":1558769,"jp":"ランクアップ成功","fr":"Montée de rang réussie"}
+{"id":1558770,"jp":"ランク上限を超えました。","fr":"Limite de rang dépassée."}
+{"id":1558771,"jp":"使用するアニマ{0}は強化済み／ランクアップ済みです。このままランクアップすると、ランク上限（{1}）を超えます。よろしいですか？","fr":"L'Anima {0} sélectionnée a déjà été améliorée ou son rang a été augmenté. Cette augmentation de rang dépassera la limite autorisée ({1}). Voulez-vous continuer ?"}
+{"id":1558772,"jp":"ランク上限を超えます。続けますか？","fr":"La limite de rang sera dépassée. Voulez-vous continuer ?"}
+{"id":1558773,"jp":"この設備は建設上限に達しています。","fr":"Le nombre maximal de constructions pour cette installation est atteint."}
 {"id":1558774,"jp":"切り替え時の注意","fr":"Avant de changer"}
+{"id":1558775,"jp":"追跡ターゲットを切り替えると、NPCの位置が変更される可能性があります。","fr":"Changer de cible suivie peut modifier la position des PNJ."}
+{"id":1558776,"jp":"[%s]日後の[%s]時までに達成可能","fr":"Réalisable dans [%s] jour(s), avant [%s] h"}
+{"id":1558777,"jp":"[%s]日後の[%s]時～[%s]時の間に達成可能","fr":"Réalisable dans [%s] jour(s), entre [%s] h et [%s] h"}
+{"id":1558778,"jp":"{0}～{1}時の間に進行可能。","fr":"Progression possible entre {0} h et {1} h."}
+{"id":1558779,"jp":"{0}日後の{1}時～{2}時に続行可能です。","fr":"Progression possible dans {0} jour(s), entre {1} h et {2} h."}
+{"id":1558780,"jp":"ヒント：現在サーバーは開放されていません。","fr":"Information : le serveur est actuellement indisponible."}
+{"id":1558781,"jp":"対応するレシピを入手していません","fr":"Vous n'avez pas encore obtenu la recette correspondante"}
+{"id":1558782,"jp":"レシピが選択されていません","fr":"Aucune recette sélectionnée"}
+{"id":1558783,"jp":"現在Wi-Fi環境ではありません。モバイルデータ通信でダウンロードしますか？","fr":"Vous n'êtes actuellement pas connecté à un réseau Wi-Fi. Voulez-vous utiliser vos données mobiles pour le téléchargement ?"}
+{"id":1558784,"jp":"キャラが戦闘不能ではないため、使用できません。","fr":"Utilisation impossible : le personnage n'est pas hors combat."}
+{"id":1558785,"jp":"ログイン画面に戻りますか？","fr":"Voulez-vous revenir à l'écran de connexion ?"}
+{"id":1558786,"jp":"キャッシュを削除しますか？","fr":"Voulez-vous vider le cache ?"}
+{"id":1558787,"jp":"現在のネットワーク状態が不安定です。再接続をお試しください。","fr":"Votre connexion réseau est instable. Veuillez essayer de vous reconnecter."}
 {"id":1558788,"jp":"通信エラー","fr":"Erreur de communication"}
+{"id":1558789,"jp":"ネットワーク接続に失敗しました。サーバーに接続できません。通信環境をご確認ください。","fr":"Échec de la connexion réseau. Impossible de se connecter au serveur. Veuillez vérifier votre connexion."}
+{"id":1558790,"jp":"スターリンクはクールタイム中です。","fr":"Le temps de recharge du Lien stellaire n'est pas terminé."}
 {"id":1558808,"jp":"小幅","fr":"Légère"}
 {"id":1558809,"jp":"中幅","fr":"Modérée"}
 {"id":1558811,"jp":"大幅","fr":"Forte"}
