@@ -52395,7 +52395,7 @@
 {"id":1551939,"jp":"だから君はもちろん、試験監督の私でさえ、空島の下で結果を待つしかない。","fr":"Toi comme moi, bien que je sois l'examinatrice, devrons attendre les résultats au pied de l'île céleste."}
 {"id":1551940,"jp":"そうだったんだね。じゃあ、ミィティはいまどこにいるのかな？","fr":"Ah, je comprends. Et où se trouve Mitty en ce moment ?"}
 {"id":1551941,"jp":"すこし離れた場所で準備を進めている……\nが、まさにいま、不安に駆られているはずだ。","fr":"Elle poursuit ses préparatifs un peu plus loin…\nMais à l'heure qu'il est, l'inquiétude doit certainement la gagner."}
-{"id":1551942,"jp":"ミィティならきっと大丈夫だよ。","fr":"Je suis sûr que Mitty s'en sortira."}
+{"id":1551942,"jp":"ミィティならきっと大丈夫だよ。","fr":"Mitty va s'en sortir, c'est sûr."}
 {"id":1551943,"jp":"ああ。ただ、私の経験から言えば、試練前が最も緊張するはずなんだ。","fr":"Oui. Cependant, d'après mon expérience, c'est toujours juste avant une épreuve que la nervosité est à son comble."}
 {"id":1551944,"jp":"ファランタも試練に挑むときも、そうだったのか？|ファランタも試練に挑むときも、そうだったの？","fr":"C'était pareil pour toi quand tu as passé ces épreuves, Faridah ?|C'était pareil pour toi quand tu as passé ces épreuves, Faridah ?"}
 {"id":1551945,"jp":"イェクウ……勘が鋭いというのも、考えものだな……","fr":"Yekuu… Il y a des moments où ta perspicacité est bien embarrassante…"}
@@ -52424,8 +52424,58 @@
 {"id":1551968,"jp":"僕にはキボがいるからそこは大丈夫。\nもしまた、強い敵と空中で戦うことになったときに、翼人の戦い方が役に立つと思ったんだ。|私にはキボがいるからそこは大丈夫。\nもしまた、強い敵と空中で戦うことになったときに、翼人の戦い方が役に立つと思ったの。","fr":"J'ai mes Kibo pour ça, donc ce n'est pas un problème.\nJe me disais que les techniques de combat des Ailés pourraient m'être utiles si je devais de nouveau affronter un adversaire redoutable dans les airs.|J'ai mes Kibo pour ça, donc ce n'est pas un problème.\nJe me disais que les techniques de combat des Ailés pourraient m'être utiles si je devais de nouveau affronter un adversaire redoutable dans les airs."}
 {"id":1551969,"jp":"たしかに、そのとおりかもね……","fr":"C'est vrai que tu n'as pas tort…"}
 {"id":1551970,"jp":"というわけで、飛翔の儀を終えた翼人たちに会わせてくれないかな？\nいくつか聞きたいことがあってね。","fr":"Du coup, tu pourrais me présenter des Ailés qui ont déjà passé le Rituel de l'envol ?\nJ'aurais quelques questions à leur poser."}
+{"id":1551971,"jp":"そこまで言うなら、仕方ないわ……\nい、言っとくけど、アタシが不安だから一緒についていくわけじゃないんだからね。","fr":"Puisque tu insistes autant, je n'ai pas vraiment le choix…\nM-Mais ne va pas croire que je t'accompagne parce que je suis inquiète, hein !"}
+{"id":1551972,"jp":"わかってるって。それじゃ早速、先輩のところに行こう。","fr":"Oui, oui, je sais. Allez, allons voir quelqu'un qui a déjà passé le rituel."}
+{"id":1551973,"jp":"そうね……最適な人といえば、やっぱりキアラ教官かな。\nさあ、ついてきなさい！","fr":"Voyons… La personne la mieux placée pour nous renseigner serait sûrement l'instructrice Kiara.\nAllez, suis-moi !"}
+{"id":1551974,"jp":"……翼の収束幅を確認……飛行速度と方向制御については、\nまだ調整の余地がありそうですね。まあひとまずはこれでいいでしょう……","fr":"… Vérification de l'amplitude de repli des ailes… Il semble encore possible d'améliorer\nla vitesse de vol et le contrôle de la trajectoire. Enfin, cela devrait suffire pour le moment…"}
+{"id":1551975,"jp":"すみませんキアラ教官、いまお忙しいですか？","fr":"Excusez-moi, instructrice Kiara. Vous êtes occupée ?"}
+{"id":1551976,"jp":"ミィティ？いまは大丈夫ですよ、どうかしましたか？","fr":"Mitty ? Non, j'ai un peu de temps. Que se passe-t-il ?"}
+{"id":1551977,"jp":"飛翔の儀のことで、いくつか質問があってね。","fr":"J'aurais quelques questions à te poser sur le Rituel de l'envol."}
+{"id":1551978,"jp":"イェクウが質問を……？でも参加するのはミィティで……\nいえ、なるほど……なんでもありません。","fr":"Vous avez des questions, Yekuu… ? Mais c'est Mitty qui doit participer au rituel…\nAh, je comprends… Non, rien."}
+{"id":1551979,"jp":"では質問をどうぞ。知っていることなら、何でもお答えします。\nとはいえ、私は飛翔の儀を完璧にやり遂げたわけではありませんが……","fr":"Je vous écoute. Je répondrai à toutes les questions auxquelles je pourrai répondre.\nCela dit, ma propre prestation lors du Rituel de l'envol était loin d'être parfaite…"}
+{"id":1551980,"jp":"えっ？キアラ教官でも完璧に合格できなかったんですか！？","fr":"Hein ? Même vous, instructrice Kiara, vous n'avez pas réussi toutes les épreuves à la perfection !?"}
+{"id":1551981,"jp":"恥ずかしながら、重大な失敗をしてしまったんです。","fr":"J'ai un peu honte de l'admettre, mais j'ai commis une grave erreur."}
+{"id":1551982,"jp":"なんとか状況を挽回したので、試練は合格できましたが、\nあの失敗はいまも心に引っかかっています。","fr":"J'ai tant bien que mal réussi à reprendre le dessus et à réussir l'épreuve,\nmais cette erreur me reste encore en travers de la gorge aujourd'hui."}
+{"id":1551983,"jp":"どんな失敗だったのか、詳しく聞いてもいいかな？","fr":"Tu pourrais me raconter plus précisément ce qui s'est passé ?"}
+{"id":1551984,"jp":"敵との戦いで、側面にあった死角を見落としてしまい、その隙を突かれてしまったんです。\nあの頃の私は、身長は槍よりも小さいくらいで、戦闘意識も乏しくて……","fr":"Lors d'un combat, j'ai négligé un angle mort sur mon flanc, et mon adversaire en a profité.\nÀ l'époque, j'étais encore plus petite qu'une lance et je manquais cruellement d'instinct au combat…"}
+{"id":1551985,"jp":"敵は翼をめがけて攻撃をしてきました。もしあれを止められていなかったら……\nいま私は、大空を抱きしめる力を奪われていたかもしれません。","fr":"Mon adversaire a directement visé mes ailes. Si je n'avais pas réussi à repousser cette attaque…\nJ'aurais peut-être perdu à jamais la possibilité de prendre mon envol dans le vaste ciel."}
+{"id":1551986,"jp":"試練って、本物の武器を使って行うのか？|試練って、本物の武器を使って行うの？","fr":"Vous utilisez de vraies armes pendant les épreuves ?|Vous utilisez de vraies armes pendant les épreuves ?"}
+{"id":1551987,"jp":"もちろんよ！そうでなければ、アタシだってこんなに悩ん……\nな、なんでもないから……！","fr":"Évidemment ! Sinon, je ne me ferais pas autant de sou…\nN-Non, rien du tout… !"}
+{"id":1551988,"jp":"飛翔の儀は、翼人たちが自立して生きていく力を養うためのものですから。\n日々の生活には、至る所に危険が潜んでいるので、飛ぶことを学ぶだけでは不十分なんです。","fr":"Le Rituel de l'envol a pour but de préparer les Ailés à vivre de manière autonome.\nLes dangers sont omniprésents dans la vie quotidienne. Savoir voler ne suffit donc pas."}
+{"id":1551989,"jp":"たしかに……ある程度は戦えないと、\nキャバードにやられてしまうかもしれないしね。","fr":"C'est vrai… Sans un minimum de compétences au combat,\non pourrait facilement se faire attaquer par un Cabbird."}
+{"id":1551990,"jp":"しかしいまになって思うんです。\nたしかに飛翔の儀の一件は恥ずべきことでしたが、それ以上に幸運な経験ができたんだって……","fr":"Mais avec le recul, je vois les choses autrement.\nCertes, cette erreur lors du Rituel de l'envol était embarrassante, mais j'ai surtout eu la chance de vivre une expérience très enrichissante…"}
+{"id":1551991,"jp":"その後のあらゆる戦いにおいて、飛翔の儀での教訓を肝に銘じ、\n同じ過ちを繰り返さずに済んだのですから。","fr":"Dans tous les combats que j'ai menés depuis, j'ai gardé en mémoire la leçon tirée du Rituel de l'envol,\net je n'ai jamais commis la même erreur."}
+{"id":1551992,"jp":"それと、戦いを振り返る習慣も身に付きました。凶神との戦いにおいても、\n戦闘での不手際やイェクウの戦闘技術など、そのすべてを心に刻み込みましたからね。","fr":"J'ai également pris l'habitude d'analyser mes combats après coup. Lors de notre affrontement contre le dieu maléfique,\nj'ai retenu chaque détail, de mes propres erreurs jusqu'aux techniques de combat de Yekuu."}
+{"id":1551993,"jp":"さすがキアラ教官です！","fr":"Vous êtes vraiment incroyable, instructrice Kiara !"}
+{"id":1551994,"jp":"ですからミィティ……飛翔の儀で失敗すれば悔いは残ります。\nけれど、それは同時に喜ばしいことでもあるのですよ。","fr":"Alors, Mitty… Commettre une erreur pendant le Rituel de l'envol peut laisser des regrets.\nMais c'est aussi une occasion de se réjouir des leçons que l'on en tire."}
+{"id":1551995,"jp":"はい、胸に刻んでおきます！","fr":"Oui ! Je garderai précieusement vos paroles en mémoire !"}
+{"id":1551996,"jp":"そうだ……私のような失敗をした若い翼人に尋ねるより、\nザッハ長老に直接聞いてみたほうがいいのではないでしょうか。","fr":"Ah, j'y pense… Plutôt que d'interroger une jeune Ailée qui a commis des erreurs comme moi,\nvous devriez peut-être vous adresser directement à l'ancien Zaha."}
+{"id":1551997,"jp":"長老はすこし辛辣な物言いをするところもあります。\nが、翼人たちに知識を教えることを誇りに思ってる方ですから。","fr":"L'ancien a parfois la langue un peu acérée.\nMais transmettre son savoir aux Ailés est pour lui une véritable source de fierté."}
+{"id":1551998,"jp":"色々教えてくれありがとう！\nじゃあ、ミィティと長老のところへ行ってくるね。","fr":"Merci pour toutes ces explications !\nDans ce cas, Mitty et moi allons rendre visite à l'ancien."}
+{"id":1551999,"jp":"礼はいりません。それよりミィティ、あなたはもう一人前の翼人として育っています。\n私の言葉を信じて、頑張ってくださいね。","fr":"Inutile de me remercier. Mitty, tu es déjà devenue une Ailée à part entière.\nCrois-moi et donne le meilleur de toi-même."}
+{"id":1552000,"jp":"……ありがとうございます、キアラ教官！","fr":"… Merci beaucoup, instructrice Kiara !"}
+{"id":1552001,"jp":"またなにを企んでおるのだ、ミィティ？\n飛翔の儀の準備をしてるとおもったんだが？","fr":"Que manigances-tu encore, Mitty ?\nJe croyais que tu préparais ton Rituel de l'envol."}
+{"id":1552002,"jp":"えっと、準備は……だいたい……終わったので……","fr":"Euh, mes préparatifs sont… presque… terminés, alors…"}
+{"id":1552003,"jp":"ザッハ長老、僕がミィティに頼んで連れてきてもらったんだ。\n飛翔の儀の要点を知りたくて。|ザッハ長老、私がミィティに頼んで連れてきてもらったの。\n飛翔の儀の要点を知りたくて。","fr":"Ancien Zaha, c'est moi qui ai demandé à Mitty de m'amener jusqu'ici.\nJ'aimerais comprendre les aspects essentiels du Rituel de l'envol.|Ancien Zaha, c'est moi qui ai demandé à Mitty de m'amener jusqu'ici.\nJ'aimerais comprendre les aspects essentiels du Rituel de l'envol."}
 {"id":1552004,"jp":"おぬしが？","fr":"Toi ?"}
+{"id":1552005,"jp":"そう、翼人のみんなと共に戦ったけど、その戦い方がとても参考になると感じたんだ。|そう、翼人のみんなと共に戦ったけど、その戦い方がとても参考になると感じたの。","fr":"Oui. En combattant aux côtés des Ailés, j'ai réalisé que j'avais beaucoup à apprendre de vos techniques de combat.|Oui. En combattant aux côtés des Ailés, j'ai réalisé que j'avais beaucoup à apprendre de vos techniques de combat."}
+{"id":1552006,"jp":"そしたら、翼人たちが飛翔の儀で成長していく、っていう話を聞いてね。\nこれは学ぶチャンスだって思ったんだ。|そしたら、翼人たちが飛翔の儀で成長していく、っていう話を聞いてね。\nこれは学ぶチャンスだって思ったの。","fr":"Puis j'ai entendu dire que le Rituel de l'envol permettait aux Ailés de se surpasser.\nJe me suis dit que c'était une excellente occasion d'apprendre.|Puis j'ai entendu dire que le Rituel de l'envol permettait aux Ailés de se surpasser.\nJe me suis dit que c'était une excellente occasion d'apprendre."}
+{"id":1552007,"jp":"ふん、なかなかの心がけだ……だが残念ながら、教えることなどなにもない。","fr":"Humph, voilà une intention fort louable… Malheureusement, je n'ai rien à t'enseigner."}
+{"id":1552008,"jp":"なにしろ、おぬしには翼人の翼がない。\n地上の束縛から解き放たれ、大空へ飛び立つことができないのだ。","fr":"Après tout, tu ne possèdes pas les ailes propres à notre peuple.\nTu ne peux t'affranchir des entraves terrestres pour prendre ton envol vers le vaste ciel."}
+{"id":1552009,"jp":"当然、羽ばたきで角度を制御することも不可能。\nそんなおぬしでは、最初の試練すら通過できないだろう。","fr":"Il t'est donc également impossible d'ajuster ton angle de vol d'un battement d'ailes.\nDans ces conditions, tu ne franchirais même pas la première épreuve."}
 {"id":1552010,"jp":"でも……キボが……","fr":"Mais… les Kibo…"}
+{"id":1552011,"jp":"それに、鷹神さまから授かるはずの鋭い視力もおぬしにはない。","fr":"De plus, tu ne possèdes pas l'acuité visuelle dont le dieu Faucon nous a fait don."}
+{"id":1552012,"jp":"敵の反応や、つぎの動きを瞬時に捉えることができないから、第二の試練も難しい。","fr":"Tu serais incapable de percevoir instantanément les réactions de ton adversaire et d'anticiper ses mouvements. La deuxième épreuve serait donc tout aussi difficile pour toi."}
+{"id":1552013,"jp":"また、軽やかな体躯と素早い反応も不可欠だ。\n鷹神さまの意志を体現する『鷹神の守護者』に立ち向かわねばいけないのだからな。","fr":"Un corps léger et des réflexes aiguisés sont également indispensables.\nCar il faut affronter le « Gardien du dieu Faucon », incarnation de sa volonté divine."}
+{"id":1552014,"jp":"よいか、危機に直面した際の生き残るための術。\nそれをすでに身につけていることを鷹神さまに証明する……\nこれが飛翔の儀で最も大切なことなのだ。","fr":"Écoute bien. Il s'agit avant tout de savoir survivre face au danger.\nProuver au dieu Faucon que l'on maîtrise déjà cet art…\nVoilà l'essence même du Rituel de l'envol."}
+{"id":1552015,"jp":"ねえ……星臨者……ザッハ長老はいま、遠回しに教えてくれてるんじゃ……？","fr":"Dis… Enfant des étoiles… L'ancien Zaha ne serait-il pas en train de nous expliquer tout le rituel de manière détournée… ?"}
+{"id":1552016,"jp":"しーっ、ちゃんと聞いて。","fr":"Chut, écoute bien."}
+{"id":1552017,"jp":"そして最後に……鷹神さまに対する深い信仰と畏敬の念を抱き、\n自分だけの心の拠り所を残さなければならない。","fr":"Enfin… Il faut témoigner d'une foi profonde et d'une grande révérence envers le dieu Faucon,\npuis laisser derrière soi quelque chose qui constituera un ancrage spirituel personnel."}
+{"id":1552018,"jp":"これは最後の試練であると同時に、\n飛翔の儀を振り返り、幼い自分と決別する重要なものでもある。","fr":"Cette ultime épreuve est également l'occasion de méditer sur le chemin parcouru durant le Rituel de l'envol\net de faire définitivement ses adieux à l'enfance."}
+{"id":1552019,"jp":"ちなみに、この最後の試練において、\n先代<ruby=ホークガル>鷹主</ruby>が樹立した記録を破った者はだれひとりいない。","fr":"D'ailleurs, lors de cette dernière épreuve,\nnul n'a jamais surpassé le record établi par le précédent Seigneur Faucon."}
+{"id":1552020,"jp":"……おぬしの父は、あらゆる試練において極めて優秀な成績を収めていた。","fr":"… Ton père avait obtenu des résultats exceptionnels à chacune des épreuves."}
+{"id":1552021,"jp":"完璧な飛行経路、だれにも超えられない『ソザンカのはしご』、\nさらには試練の敵も『鷹神の守護者』も、一切の隙を見せることなく打ち負かしてみせた。","fr":"Une trajectoire de vol irréprochable, une performance inégalée à l'« Échelle de Sozanka »…\nIl avait même vaincu les adversaires des épreuves et le « Gardien du dieu Faucon » sans jamais laisser la moindre ouverture."}
+{"id":1552022,"jp":"飛翔の儀で、皆の予想を遥かに超える力を発揮したのだ。\nそれまではおぬしと同じように、まだ子供っぽさが残っていたはずなのにな。","fr":"Lors du Rituel de l'envol, il avait déployé une force dépassant de loin toutes nos attentes.\nEt pourtant, jusque-là, il avait conservé un côté bien enfantin, tout comme toi."}
 {"id":1552028,"jp":"やる気満々だね！","fr":"Quelle motivation !"}
 {"id":1552031,"jp":"イェクウ……","fr":"Yekuu…"}
 {"id":1552051,"jp":"はいっ！","fr":"Oui !"}
