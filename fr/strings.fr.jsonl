@@ -56514,48 +56514,98 @@
 {"id":1555046,"jp":"ティティが『大金をはたいて』買ったと言う琥珀の欠片。貴重な琥珀を探すためのサンプルとして使うらしい。","fr":"Un fragment d'ambre que Tiffy affirme avoir acheté en « dépensant une fortune ». Il servirait d'échantillon de référence pour rechercher de l'ambre précieux."}
 {"id":1555047,"jp":"豪華おやつセット","fr":"Assortiment de friandises de luxe"}
 {"id":1555048,"jp":"パンパンに詰まったおやつセット。","fr":"Un assortiment de gourmandises rempli à ras bord."}
+{"id":1555049,"jp":"上のラベルを見ると、もともとはぷーちゃんのために用意されたもののようだ。","fr":"À en juger par l'étiquette sur le dessus, ces gourmandises étaient initialement destinées à Pu-chan."}
 {"id":1555050,"jp":"荷物","fr":"Colis"}
+{"id":1555051,"jp":"村長が雑貨屋で注文した荷物。","fr":"Un colis commandé par le Chef du village à la boutique d'articles divers."}
+{"id":1555052,"jp":"気になるが、個人の事情には深入りしないほうがいいだろう。","fr":"Votre curiosité est piquée, mais mieux vaut ne pas se mêler des affaires privées des autres."}
 {"id":1555053,"jp":"エンカク特製の鎧","fr":"Armure spéciale d'Enkaku"}
 {"id":1555054,"jp":"エンカク特製の鎧。","fr":"Une armure spécialement confectionnée par Enkaku."}
+{"id":1555055,"jp":"エンカクの特殊な製法により、鎧は極めて軽く、装着後も身軽に動ける上、堅牢な防御力も保ったままだ。","fr":"Grâce à la technique de fabrication particulière d'Enkaku, cette armure est extrêmement légère. Elle offre une grande liberté de mouvement tout en conservant une excellente DÉF."}
 {"id":1555056,"jp":"大剣","fr":"Épée à deux mains"}
 {"id":1555057,"jp":"モモが鍛造した武器。","fr":"Une arme forgée par Momo."}
 {"id":1555058,"jp":"長槍","fr":"Lance longue"}
 {"id":1555059,"jp":"長剣","fr":"Épée longue"}
 {"id":1555060,"jp":"上質な閃錫鉱","fr":"Minerai d'étain scintillant de qualité"}
+{"id":1555061,"jp":"非常に上質な閃錫鉱石。","fr":"Un minerai d'étain scintillant de très grande qualité."}
+{"id":1555062,"jp":"優れた可塑性を持ち、同時に一定の硬度も兼ね備えているため、実用性が非常に高い。","fr":"À la fois très malléable et suffisamment dur, ce minerai se prête à de nombreuses utilisations."}
 {"id":1555063,"jp":"羽根","fr":"Plume"}
+{"id":1555064,"jp":"ぽつんと落ちていた一本の羽根。","fr":"Une plume abandonnée, seule sur le sol."}
+{"id":1555065,"jp":"ゾーラに頼まれていたものを千朔の大樹の後ろで見つけた。だれがここに置いたのかはわからない。","fr":"Vous avez trouvé ce que Zola vous avait demandé derrière le Grand Arbre des Mille Lunes. Impossible de savoir qui l'a laissé là."}
 {"id":1555066,"jp":"お守り","fr":"Porte-bonheur"}
+{"id":1555067,"jp":"ゾーラ手作りのお守り。","fr":"Un porte-bonheur confectionné à la main par Zola."}
+{"id":1555068,"jp":"シャルル村の伝統的なスタイルで作られており、友人に対するゾーラの想いが込められている。","fr":"Confectionné dans le style traditionnel du Village de Charlulu, ce porte-bonheur témoigne de toute l'affection que Zola porte à son ami."}
 {"id":1555069,"jp":"崖際のエイプル","fr":"Aple du bord de la falaise"}
+{"id":1555070,"jp":"断崖絶壁に生える赤い果実。","fr":"Un fruit rouge qui pousse sur les parois escarpées des falaises."}
+{"id":1555071,"jp":"見た目は普通のエイプルとよく似ているが、長年にわたって崖を吹き抜ける強風にさらされてきたため、果皮はひときわ丈夫で、果肉も通常のエイプルより引き締まっている。","fr":"Son apparence rappelle celle d'un Aple ordinaire. Cependant, des années d'exposition aux vents violents des falaises lui ont donné une peau particulièrement résistante et une chair plus ferme que celle d'un Aple ordinaire."}
 {"id":1555072,"jp":"甘いリッチモモ","fr":"Rich Momo sucré"}
+{"id":1555073,"jp":"甘酸っぱくておいしい果物。","fr":"Un délicieux fruit à la saveur sucrée et acidulée."}
+{"id":1555074,"jp":"新鮮な採れたてのリッチモモ。果汁が豊富で、キボも大好きな果物。","fr":"Un Rich Momo fraîchement cueilli. Très juteux, ce fruit fait également le bonheur des Kibo."}
 {"id":1555075,"jp":"書物","fr":"Livre"}
+{"id":1555076,"jp":"重厚な本。表紙には長い歳月の跡が刻まれている。","fr":"Un ouvrage imposant dont la couverture porte les marques du temps."}
+{"id":1555077,"jp":"よく見かける本。表紙は比較的厚く、古びた感じがある。","fr":"Un livre assez courant, doté d'une couverture plutôt épaisse à l'aspect vieilli."}
 {"id":1555078,"jp":"封筒（開封済み）","fr":"Enveloppe (ouverte)"}
+{"id":1555079,"jp":"開封された手紙。内容をすこし覗くくらいなら大丈夫だろうか？","fr":"Une lettre déjà ouverte. Y jeter un petit coup d'œil ne devrait pas faire de mal, si ?"}
 {"id":1555080,"jp":"開封された手紙。","fr":"Une lettre ouverte."}
 {"id":1555081,"jp":"雑貨の注文書","fr":"Bon de commande de marchandises"}
+{"id":1555082,"jp":"カークの雑貨の包み。中身は村長が頼んでおいた物品だ。","fr":"Un colis préparé par Kirk, contenant les articles commandés par le Chef du village."}
+{"id":1555083,"jp":"村長が受け取り忘れた注文の包み。はやく届けてあげよう。","fr":"Une commande que le Chef du village a oublié de récupérer. Dépêchez-vous de la lui livrer."}
 {"id":1555084,"jp":"巻物","fr":"Parchemin"}
+{"id":1555085,"jp":"読むのが難しい巻物。なかになにが記録されているのかはわからない。","fr":"Un rouleau difficile à déchiffrer. Impossible de savoir ce qu'il renferme."}
+{"id":1555086,"jp":"内容が判別できない羊皮紙の巻物。","fr":"Un rouleau de parchemin dont le contenu est indéchiffrable."}
 {"id":1555087,"jp":"翼人の羽根。","fr":"Une plume d'Ailé."}
 {"id":1555088,"jp":"とても新鮮なエイプル","fr":"Aple très frais"}
+{"id":1555089,"jp":"とても新鮮なエイプル。","fr":"Un Aple particulièrement frais."}
+{"id":1555090,"jp":"ティナナの指示に従って見つけたエイプル。とても新鮮らしいが、見た目は普通のエイプルとまったく同じ。その違いはティナナにしかわからないのかもしれない。","fr":"Un Aple que vous avez trouvé en suivant les indications de Tinana. Il serait particulièrement frais, mais ressemble en tout point à un Aple ordinaire. Seule Tinana est peut-être capable de faire la différence."}
 {"id":1555091,"jp":"新鮮な果物","fr":"Fruit frais"}
+{"id":1555092,"jp":"ティナナの果物の包み。なかにはゴルドが予約した果物が入っている。","fr":"Un colis de fruits préparé par Tinana. Il contient les fruits réservés par Gord."}
+{"id":1555093,"jp":"とても新鮮な果物。ひとつひとつがティナナによってピカピカに磨かれている。","fr":"Des fruits particulièrement frais, que Tinana a soigneusement lustrés un à un jusqu'à les faire briller."}
 {"id":1555094,"jp":"ピーチィの羽根","fr":"Plume de Peachy"}
 {"id":1555095,"jp":"ピーチィの羽根。","fr":"Une plume de Peachy."}
+{"id":1555096,"jp":"ピーチィが落とした羽根。触るととても暖かい。","fr":"Une plume perdue par Peachy. Elle est particulièrement chaude au toucher."}
 {"id":1555097,"jp":"ペコの弁当箱","fr":"Boîte-repas de Peco"}
+{"id":1555098,"jp":"ペコの名前が彫られた弁当箱。","fr":"Une boîte-repas sur laquelle est gravé le nom de Peco."}
+{"id":1555099,"jp":"ペコの名前が彫られた弁当箱。なぜかドゥルのところにあった。","fr":"Une boîte-repas sur laquelle est gravé le nom de Peco. Pour une raison inconnue, elle se trouvait chez Dur."}
 {"id":1555100,"jp":"ユラユラノキの原木","fr":"Rondin de Yurayura"}
+{"id":1555101,"jp":"芽吹の谷でよく見かける木材。","fr":"Un bois très répandu dans la Vallée des Bourgeons."}
+{"id":1555102,"jp":"美しい木目と光沢があり、様々な道具や家具を作ることができる。","fr":"Doté de belles veinures et d'un éclat naturel, ce bois permet de fabriquer toutes sortes d'outils et de meubles."}
 {"id":1555103,"jp":"レイルの包み","fr":"Colis de Reil"}
 {"id":1555104,"jp":"いい香りがする包み。","fr":"Un colis qui dégage un agréable parfum."}
+{"id":1555105,"jp":"レイルからロンクに渡してほしいと頼まれた包み。中身はいったい何だろうか？","fr":"Un colis que Reil vous a demandé de remettre à Ronk. Que peut-il bien contenir ?"}
 {"id":1555106,"jp":"失くした包み","fr":"Colis perdu"}
 {"id":1555107,"jp":"カークの積み荷。","fr":"La cargaison de Kirk."}
+{"id":1555108,"jp":"彼の積み荷が無事だといいが。","fr":"Espérons que sa cargaison soit intacte."}
 {"id":1555109,"jp":"封蝋付きの手紙","fr":"Lettre cachetée à la cire"}
+{"id":1555110,"jp":"封をされた手紙。なかになにが書かれているのかわからない。","fr":"Une lettre cachetée. Impossible de savoir ce qui y est écrit."}
 {"id":1555111,"jp":"封がされた手紙。","fr":"Une lettre scellée."}
 {"id":1555112,"jp":"特製スパイス","fr":"Épice spéciale"}
+{"id":1555113,"jp":"シャフィが新しく開発したスパイス。すこし酸っぱくて、すこしピリリと辛そうな匂いがする。","fr":"Une nouvelle épice mise au point par Shafi. Elle dégage une odeur légèrement acidulée et piquante."}
+{"id":1555114,"jp":"すこし酸っぱくて、すこしピリリと辛そうな匂いがする。","fr":"Dégage une odeur légèrement acidulée et piquante."}
 {"id":1555115,"jp":"チシキヤシの古木","fr":"Vieux palmier Chishiki"}
+{"id":1555116,"jp":"長い歳月を経たチシキの原木。","fr":"Une grume de Chishiki qui a traversé de longues années."}
+{"id":1555117,"jp":"風雨にさらされた、粘り強いチシキの木材。","fr":"Du bois de Chishiki particulièrement tenace, éprouvé par le vent et la pluie."}
 {"id":1555118,"jp":"ひときわ硬い風銅鉱","fr":"Minerai de cuivre du vent très dur"}
+{"id":1555119,"jp":"普通の風銅鉱よりすこし硬い風銅鉱。しかしあくまで風銅鉱は風銅鉱である。","fr":"Un minerai de cuivre du vent légèrement plus dur qu'un minerai de cuivre du vent ordinaire. Cela reste néanmoins du cuivre du vent."}
 {"id":1555120,"jp":"ラニの魚","fr":"Poisson de Rani"}
+{"id":1555121,"jp":"ラニが釣り上げた魚。ドゥルにめちゃくちゃにされた後、これ一匹しか残っていないようだ……","fr":"Un poisson pêché par Rani. Après le désordre causé par Dur, il semblerait que ce soit le seul qu'il reste…"}
 {"id":1555122,"jp":"カークの謎の積み荷","fr":"Cargaison mystérieuse de Kirk"}
+{"id":1555123,"jp":"カークの謎の積み荷。彼にとっては非常に重要なもののはずだ。","fr":"La mystérieuse cargaison de Kirk. Elle doit revêtir une importance toute particulière à ses yeux."}
 {"id":1555124,"jp":"名前の彫られた木彫り","fr":"Sculpture en bois au nom gravé"}
+{"id":1555125,"jp":"だれかの名前が彫られている木彫り。","fr":"Une sculpture en bois sur laquelle est gravé le nom de quelqu'un."}
+{"id":1555126,"jp":"イーベの名前が彫られた木彫り。なぜかボアラーガのところにあった。","fr":"Une sculpture en bois portant le nom d'Eva. Pour une raison inconnue, elle se trouvait auprès d'un Boaraga."}
 {"id":1555127,"jp":"模造品のコサージュ","fr":"Broche florale d'imitation"}
+{"id":1555128,"jp":"本物と見紛うほどの造花の胸飾り。","fr":"Une broche en forme de fleur artificielle, si réaliste qu'on pourrait la prendre pour une véritable fleur."}
+{"id":1555129,"jp":"ネールの花の胸飾り。まるで本物の花のようだ。","fr":"La broche florale de Nell. On dirait une véritable fleur."}
 {"id":1555130,"jp":"ザニアの手紙","fr":"Lettre de Zania"}
+{"id":1555131,"jp":"受取人の名前が書かれた手紙。","fr":"Une lettre sur laquelle figure le nom de son destinataire."}
+{"id":1555132,"jp":"受取人がザニアである手紙。なぜかスカイホークのところにあった。","fr":"Une lettre adressée à Zania. Pour une raison inconnue, elle se trouvait auprès d'un Skyhawk."}
 {"id":1555133,"jp":"グランザロスの鱗","fr":"Écaille de Granzaros"}
+{"id":1555134,"jp":"グランザロスが落とした鱗。","fr":"Une écaille perdue par Granzaros."}
+{"id":1555135,"jp":"エンカクはこれで装備一式を作りたいと考えている。","fr":"Enkaku souhaite utiliser ce matériau pour fabriquer un ensemble d'équipement complet."}
 {"id":1555136,"jp":"ブレイオスの毛","fr":"Fourrure de Breios"}
 {"id":1555137,"jp":"ブレイオスの毛。","fr":"De la fourrure de Breios."}
+{"id":1555138,"jp":"リアンはこれで暖かい服を作りたいと考えている。","fr":"Lian souhaite utiliser ce matériau pour confectionner des vêtements chauds."}
 {"id":1555139,"jp":"ライルのメモ","fr":"Note de Lyle"}
+{"id":1555140,"jp":"ライルの名前が書かれたメモ。","fr":"Un petit mot sur lequel figure le nom de Lyle."}
 {"id":1555142,"jp":"シュネルフの毛","fr":"Fourrure de Schnelf"}
 {"id":1555143,"jp":"シュネルフの毛。","fr":"De la fourrure de Schnelf."}
 {"id":1555145,"jp":"ドゥルの羽","fr":"Plume de Duru"}
