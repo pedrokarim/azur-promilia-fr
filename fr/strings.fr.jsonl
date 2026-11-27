@@ -57957,7 +57957,67 @@
 {"id":1556367,"jp":"ライトは再び元気を取り戻したようだ。エイプルをいくつか集め、食料にしよう。","fr":"Wright semble avoir retrouvé le moral. Récoltez quelques Aples pour vous constituer des provisions."}
 {"id":1556368,"jp":"どうやらライトは設計を完了したようだ。彼がなにを作ったのか見てみよう。","fr":"Wright semble avoir terminé ses plans. Allez découvrir ce qu'il a conçu."}
 {"id":1556369,"jp":"集めたエイプルをライトに食べさせてあげよう。","fr":"Donnez à Wright les Aples que vous avez récoltés pour qu'il puisse reprendre des forces."}
+{"id":1556370,"jp":"近くで使える素材を集める。","fr":"Rassemblez des matériaux utiles dans les environs."}
+{"id":1556371,"jp":"ライトはこれらの素材を使って、ここから脱出するための道具を作り出した。","fr":"Wright s'est servi de ces matériaux pour fabriquer un dispositif qui devrait vous permettre de quitter les lieux."}
+{"id":1556372,"jp":"パラシュートが完成した。スカイホークの巣に別れを告げるときだ！","fr":"Le parachute est enfin prêt. Il est temps de dire adieu au nid du Skyhawk !"}
+{"id":1556373,"jp":"パラシュートが破損した。危機一髪のなか、星臨者たちを助けたのはなんとスカイホークだった！","fr":"Le parachute s'est déchiré. Et contre toute attente, c'est le Skyhawk qui a sauvé votre groupe in extremis !"}
+{"id":1556374,"jp":"親切な翼人たちがあなたたちを助けた。翼人たちの話によれば、ライトの情熱に打たれたスカイホークが助け舟を出したのだという。","fr":"De bienveillants Ailés sont venus vous porter secours. D'après eux, le Skyhawk aurait été touché par la passion de Wright et aurait décidé de lui venir en aide."}
+{"id":1556375,"jp":"リビーちゃんには、最近一つ悩み事がある。それは、とある友人を元気づけてあげたいということだ。","fr":"Quelque chose préoccupe la petite Libby depuis quelque temps : elle aimerait redonner le sourire à un ami."}
 {"id":1556376,"jp":"オータミットを探す","fr":"Chercher Otamit"}
+{"id":1556377,"jp":"オータミットを撮影し、その服装を記録する。","fr":"Photographiez l'Otamit pour garder une référence de sa tenue."}
+{"id":1556378,"jp":"オータミットの写真を撮り、その鎌を撮影する。","fr":"Photographiez la faux de l'Otamit."}
+{"id":1556379,"jp":"オータミットを撮影する。オータミットと周囲の風景をカメラに収める。","fr":"Prenez une photo de l'Otamit en incluant le paysage qui l'entoure."}
+{"id":1556380,"jp":"オータミットの写真を見て、リビーはプレゼントを贈ることにした。","fr":"Après avoir examiné les photos de l'Otamit, Libby a décidé de lui offrir un cadeau."}
+{"id":1556381,"jp":"リビーと協力して高級エルフ商人のセリンディを訪ね、布地を購入しようとしたところ、セリンディが焦った様子で……","fr":"Vous avez rendu visite à Serindi, un marchand haut Elfe, avec Libby pour acheter du tissu. Mais Serindi semblait particulièrement préoccupé…"}
+{"id":1556382,"jp":"セリンディの提供した手がかりを頼りに、森でキボの足跡を探す","fr":"À l'aide des indices fournis par Serindi, cherchez des empreintes de Kibo dans la forêt"}
+{"id":1556383,"jp":"足跡を追って先へ進む。","fr":"Continuez à suivre les empreintes."}
+{"id":1556384,"jp":"足跡をたどって、迷子のキボを見つける","fr":"Suivez les empreintes pour retrouver le Kibo égaré"}
+{"id":1556385,"jp":"キボのためにもう少し食物を採集する","fr":"Récoltez encore un peu de nourriture pour le Kibo"}
+{"id":1556386,"jp":"エイプルをいくつか採集し、リビーと話そう。","fr":"Récoltez quelques Aples, puis discutez avec Libby."}
+{"id":1556387,"jp":"セリンディのところへ戻って状況を知らせる","fr":"Retournez voir Serindi pour lui expliquer la situation"}
+{"id":1556388,"jp":"キボが家出した真相はなんと……","fr":"Contre toute attente, la véritable raison pour laquelle le Kibo avait fugué était…"}
+{"id":1556389,"jp":"服装の問題は片付いた。次は錆止め油を買いに行こう。","fr":"La question de la tenue est réglée. Il ne reste plus qu'à acheter de l'huile antirouille."}
+{"id":1556390,"jp":"騙されないように、まずは周囲で相場を聞いてみよう。","fr":"Pour éviter de vous faire avoir, renseignez-vous d'abord sur les prix pratiqués dans les environs."}
+{"id":1556391,"jp":"本当の価格を聞き出したことで、ボスとの値切り交渉にも自信がついた。","fr":"Maintenant que vous connaissez le véritable prix, vous pouvez négocier avec le commerçant en toute confiance."}
+{"id":1556392,"jp":"何度かの駆け引きの末、最終的には自分にとって割に合う価格で、2本の錆止め油を買い取ることができた。","fr":"Après quelques négociations, vous avez finalement réussi à acheter deux bouteilles d'huile antirouille à un prix qui vous convenait."}
+{"id":1556393,"jp":"リビーは店主に笑顔を取り戻してほしいと願い、逆値切りをするつもりだ……","fr":"Libby aimerait redonner le sourire au commerçant. Pour cela, elle compte négocier le prix… à la hausse !"}
+{"id":1556394,"jp":"リビーはオータミットに新しい友達を紹介することにした。","fr":"Libby a décidé de présenter un nouvel ami à l'Otamit."}
+{"id":1556395,"jp":"リビーが言っていたスキャークを探す","fr":"Cherchez le Scark dont Libby vous a parlé"}
+{"id":1556396,"jp":"スキャークが囲まれている！急いで助けに行こう！","fr":"Le Scark est encerclé ! Vite, portez-lui secours !"}
+{"id":1556397,"jp":"オータミットを見つけたが、リビーの姿を見るなり走って逃げ出してしまった。","fr":"Vous avez retrouvé l'Otamit, mais à peine a-t-il aperçu Libby qu'il a pris ses pattes à son cou."}
+{"id":1556398,"jp":"リビーを手伝ってオータミットを足止めし、衣装を届けよう。","fr":"Aidez Libby à retenir l'Otamit pour lui remettre sa nouvelle tenue."}
+{"id":1556399,"jp":"リビーを手伝ってオータミットを足止めし、錆止め油を届けよう。","fr":"Aidez Libby à retenir l'Otamit pour lui remettre l'huile antirouille."}
+{"id":1556400,"jp":"リビーに協力してオータミットを足止めし、友達となるスキャークを送り出す。","fr":"Aidez Libby à retenir l'Otamit pour lui présenter son nouvel ami, le Scark."}
+{"id":1556401,"jp":"リビーは、なぜオータミットが逃げ出してしまうのか理解できず、ひどく悲しんでいた。","fr":"Libby avait beaucoup de peine. Elle ne comprenait pas pourquoi l'Otamit s'obstinait à la fuir."}
+{"id":1556402,"jp":"オータミットが新しい服をまとって戻ってきた。どうやらリビーを避けていたのには、何か訳がありそうだ……","fr":"L'Otamit est revenu vêtu de sa nouvelle tenue. Il semblerait qu'il avait une bonne raison d'éviter Libby…"}
+{"id":1556403,"jp":"誤解が解け、リビーとオータミットはさらに親しくなった！","fr":"Le malentendu est enfin dissipé et Libby et l'Otamit sont plus proches que jamais !"}
+{"id":1556404,"jp":"郊外でシロロと出会った。怪しげな行商を調べているところだという。","fr":"Vous avez croisé Shiroro aux abords de la ville. Elle affirme enquêter sur un marchand ambulant aux agissements suspects."}
+{"id":1556405,"jp":"シロロに付き添って、グルルの生息地をいくつか調査する。","fr":"Accompagnez Shiroro pour inspecter plusieurs habitats naturels des Gururu."}
+{"id":1556406,"jp":"グルルのしっぽについて行商人に探りを入れたが、口を割ろうとはしなかった。","fr":"Vous avez tenté de soutirer quelques informations au marchand ambulant au sujet des queues de Gururu, mais il a refusé de parler."}
+{"id":1556407,"jp":"行商人に見つからないよう、あとを追おう。","fr":"Prenez le marchand ambulant en filature sans vous faire repérer."}
+{"id":1556408,"jp":"もうすぐ行商人に追いつく。なにを隠しているのかたしかめよう。","fr":"Vous êtes sur le point de rattraper le marchand ambulant. Découvrez ce qu'il cherche à cacher."}
+{"id":1556409,"jp":"コロコロを見つけてグルルのことを話すと、コロコロもひどく憤慨し、グルルの元へ向かってしっかりと事情を説明する必要があると考えた。","fr":"Lorsque vous avez retrouvé Korokoro et lui avez raconté ce qui arrivait aux Gururu, la nouvelle l'a également mis en colère. Il estime nécessaire d'aller trouver les Gururu pour leur expliquer la situation en détail."}
+{"id":1556410,"jp":"出発の前に、ポポクッキーをいくつか準備しておく必要がある。","fr":"Avant de partir, préparez quelques biscuits Popo."}
+{"id":1556411,"jp":"コロコロが手伝ってくれたおかげで、グルルとの交渉は順調に進んだ。","fr":"Grâce à l'intervention de Korokoro, les négociations avec les Gururu se sont déroulées sans encombre."}
+{"id":1556412,"jp":"1日後、寒悠悠からの伝書機関鳶が届いた。そこには、かの悪徳行商について記されていた。","fr":"Le lendemain, un milan mécanique est arrivé avec un message de Han Youyou contenant des informations sur ce fameux marchand malhonnête."}
+{"id":1556413,"jp":"フリスの街道で、行商は受けるべき報いを受けた。","fr":"Sur les routes de Fleece, le marchand ambulant a finalement reçu la punition qu'il méritait."}
+{"id":1556414,"jp":"フィールドでかわいそうなニャアホに出会った。なぜかわからないが、他のキボにいじめられている。","fr":"Vous avez croisé un pauvre Nyaho en pleine nature. Pour une raison encore inconnue, les autres Kibo s'en prennent à lui."}
+{"id":1556415,"jp":"グレナードを追い払い、ニャアホを救出する","fr":"Chassez le Grenade et portez secours au Nyaho"}
+{"id":1556416,"jp":"ニャアホを助け、石の下にある本を探してあげよう。","fr":"Aidez le Nyaho à retrouver le livre qui se trouve sous la pierre."}
+{"id":1556417,"jp":"ニャアホのあとについて主のもとへ戻り、いったいどういう状況なのか確かめよう。","fr":"Suivez le Nyaho jusqu'à son propriétaire pour comprendre ce qui se passe."}
+{"id":1556418,"jp":"ニャアホが見つけた本をターシャに渡すと、ターシャは大喜びしたが、そこに書かれている文字が読めないことに気づいた……","fr":"Lorsque vous avez remis à Tasha le livre découvert par le Nyaho, elle était folle de joie. Mais elle s'est vite rendu compte qu'elle ne pouvait pas déchiffrer les caractères qui y figuraient…"}
+{"id":1556419,"jp":"ターシャと一緒に本屋へ向かい、本の内容を解読できるか確かめる。","fr":"Rendez-vous à la librairie avec Tasha pour voir s'il est possible de déchiffrer le contenu du livre."}
+{"id":1556420,"jp":"ターシャは少し焦っており、慌ててハイエルフの住処へ直行する準備をはじめた……","fr":"Quelque peu fébrile, Tasha s'est empressée de préparer son départ vers le lieu de résidence des hauts Elfes…"}
+{"id":1556421,"jp":"ターシャが用意した『プレゼント』は、笑うに笑えないものだった……","fr":"Le « cadeau » préparé par Tasha était pour le moins embarrassant. Difficile de savoir s'il fallait en rire ou en pleurer…"}
+{"id":1556422,"jp":"アラマニヤを探して目的を伝え、書物から手がかりが得られないか相談する","fr":"Retrouvez Aramaniya, expliquez-lui le but de votre visite et demandez-lui si elle peut tirer quelques indices de l'ouvrage"}
+{"id":1556423,"jp":"本に書かれている通り、まずは必要な素材を準備しよう。","fr":"Conformément aux indications du livre, commencez par rassembler les matériaux nécessaires."}
+{"id":1556424,"jp":"素材がすべて揃ったら、本の指示に従って、謎の儀式を行う準備をしよう。","fr":"Une fois tous les matériaux réunis, suivez les instructions du livre pour préparer le mystérieux rituel."}
+{"id":1556425,"jp":"茂みの冠へ向かい、錬金の儀式を開始する。","fr":"Rendez-vous à la Couronne des fourrés pour commencer le rituel alchimique."}
+{"id":1556426,"jp":"二度目の挑戦もやはり失敗に終わった。いったいどこに不備があったのだろうか？","fr":"La deuxième tentative s'est elle aussi soldée par un échec. Qu'est-ce qui a bien pu vous échapper ?"}
+{"id":1556427,"jp":"ニャアホはなにかを感じ取ったようで、自分の考えを口にした。","fr":"Le Nyaho semble avoir perçu quelque chose et a décidé de partager ses impressions."}
+{"id":1556428,"jp":"儀式の中心から美しい黄金の光が放たれ、その光がニャアホを包み込んだ……","fr":"Une magnifique lumière dorée a jailli du centre du rituel, enveloppant le Nyaho de son éclat…"}
+{"id":1556429,"jp":"ターシャは感謝を伝え、引きつづきこの著作を深く探求し、そこにあるすべての秘密を解き明かすつもりだ。","fr":"Tasha vous a exprimé toute sa gratitude. Elle compte poursuivre l'étude de cet ouvrage jusqu'à en percer les moindres secrets."}
+{"id":1556430,"jp":"ルミィがなにか言いたそうだ。彼女と話してみよう。","fr":"Lumi semble avoir quelque chose à vous dire. Allez discuter avec elle."}
 {"id":1556487,"jp":"小玉についていく。","fr":"Suivre Xiaoyu."}
 {"id":1556510,"jp":"風銅鉱を採集する。","fr":"Récolter du minerai de cuivre du vent."}
 {"id":1556511,"jp":"星輝鉱を採集する。","fr":"Récolter du minerai d'éclat stellaire."}
