@@ -50117,6 +50117,7 @@
 {"id":1545600,"jp":"じゅっ……10億だと！？\nそ、そんなの、見たことも聞いたこともない額だぞ！？","fr":"U-un… un milliard ?!\nLa grande Lumi a jamais vu une somme pareille ! Elle savait même pas que ça se disait !"}
 {"id":1545601,"jp":"見直したと思ったのに。そうやってすぐに本性を見せるんですね。\n{playerName}さまは商品ではありません！","fr":"Et dire que j'avais changé d'avis sur vous. Vous avez vite fait de montrer votre vrai visage.\n{playerName} n'est pas à vendre !"}
 {"id":1545602,"jp":"そうだそうだ、{playerName}の価値は金で測れるものじゃないのだ！","fr":"Mais oui ! Il y a des choses que l'argent ne peut pas acheter. {playerName} en fait partie !"}
+{"id":1545603,"jp":"あの、ご本人の意見を聞くべきではありませんか？\n無理強いするのはよくありません。","fr":"Euh, ne devrions-nous pas demander son avis à la personne concernée ?\nCe ne serait pas bien de lui forcer la main."}
 {"id":1545604,"jp":"{playerName}！こっちを見るのだ！","fr":"{playerName} ! Regarde par ici !"}
 {"id":1545605,"jp":"どう？あなたの条件を言ってみなさい。","fr":"Alors ? Dis-moi à quelles conditions tu accepterais."}
 {"id":1545606,"jp":"えっと……僕は……|えっと……私は……","fr":"Euh… Moi, je…|Euh… Moi, je…"}
@@ -51114,13 +51115,62 @@
 {"id":1546598,"jp":"感情は変化していくものですが……\nまさか、恋愛関係がこれほど短期間でひっくり返るとは。","fr":"Les sentiments évoluent avec le temps…\nMais je n'aurais jamais cru que leurs amours puissent changer à ce point en si peu de temps."}
 {"id":1546599,"jp":"まるでだれかが意図的に感情を操っているかのようです……","fr":"On dirait que quelqu'un s'amuse à manipuler leurs sentiments…"}
 {"id":1546600,"jp":"縁をかき乱している黒幕は、私たちの存在に気づいていて、\nわざと混乱を起こして惑わせようとしているのかもしれません。","fr":"La personne qui brouille ces liens nous a peut-être repérés.\nElle cherche peut-être à nous égarer en semant la confusion."}
+{"id":1546601,"jp":"こんなふうに縁を弄んで、因縁を暇つぶしみたいに扱うなんて……\nうちは絶対に許せない！","fr":"Jouer ainsi avec les liens qui unissent les gens, traiter leur destin comme un simple passe-temps…\nJe ne peux absolument pas pardonner ça !"}
+{"id":1546602,"jp":"しかし、この黒幕のような行動は、\n追跡を用意にし、弱点を露呈しやすいものです。","fr":"Cependant, en agissant de la sorte, la personne derrière tout cela\nfacilite nos recherches et risque de révéler ses faiblesses."}
+{"id":1546603,"jp":"うん、シンフォーリアさんの言う通り。","fr":"Oui, Symphoria, tu as raison."}
+{"id":1546604,"jp":"縁に敏感な妖狐でも、因縁を好き勝手に変えることは難しいはず……\nうちがすべてを『看破』してみせるよ！","fr":"Même pour un esprit-renard sensible aux liens du destin, il devrait être difficile de les modifier à sa guise…\nJe vais percer tous ses secrets !"}
+{"id":1546605,"jp":"「いったいどうすれば……だれを選べばいいの……」","fr":"« Qu'est-ce que je dois faire… Qui dois-je choisir… »"}
+{"id":1546606,"jp":"「どうして、心ってこんなに複雑なの？\n心さえなければ、こんな悩みもなかったのに……」","fr":"« Pourquoi les sentiments sont-ils si compliqués ?\nSi seulement je n'avais pas de cœur, je n'aurais pas tous ces soucis… »"}
+{"id":1546607,"jp":"ふん、逃げ足だけははやいんだから……\nそのくせ九尾まで達してるなんて、いったい何者……？","fr":"Pfff, pour prendre la fuite, ça, elle est douée…\nEt dire qu'elle possède déjà neuf queues ! Mais qui est-elle au juste… ?"}
+{"id":1546608,"jp":"でも、シンフォーリアさんの助言のおかげで、\n無数の縁の糸からあいつの姿を見抜くことができたよ！","fr":"Mais grâce aux conseils de Symphoria,\nj'ai réussi à la repérer au milieu de ces innombrables fils du destin !"}
+{"id":1546609,"jp":"小玉、この法陣を見破ったの？","fr":"Xiaoyu, tu as réussi à percer le secret de ce cercle de sortilège ?"}
+{"id":1546610,"jp":"もちろん！さて……うーん……\nうっ……そうか……なるほど、そういうこと！","fr":"Bien sûr ! Alors… Mmmh…\nOh… Je vois… Ah, c'est donc ça !"}
+{"id":1546611,"jp":"侠客さん、これを見て。陣のなかに置かれてるもの。\n阿貞たちの気と同じ、みんなが想いを託した品みたい。","fr":"Âme chevaleresque, regarde les objets placés à l'intérieur du cercle.\nIls dégagent la même aura qu'A-Zhen et les autres. On dirait que chacun y a confié ses sentiments."}
+{"id":1546612,"jp":"はあ……本来は『想いびとへの贈りもの』だったはずなのに。\nこんなふうに台無しにされちゃうなんて！","fr":"Pfff… À l'origine, ça devait être des « cadeaux pour l'être aimé ».\nEt voilà qu'on a tout gâché !"}
+{"id":1546613,"jp":"侠客さん！縁に縛られたみんなの悩みを解きに行こう！\nいまのうちの洞察力なら、きっと正しい道を見つける手伝いができるはずだよ！","fr":"Âme chevaleresque ! Allons démêler les soucis de tous ceux que ces liens tourmentent !\nAvec ma Perspicacité actuelle, je suis certaine de pouvoir les aider à trouver la bonne voie !"}
+{"id":1546614,"jp":"ふっふーん。あんなにたくさんの縁を結ぶことができたんだから。\n試験だって無事合格できるに違いないよね！","fr":"Héhé ! J'ai réussi à nouer tellement de liens !\nAvec ça, je devrais réussir mon examen haut la main, non ?"}
+{"id":1546615,"jp":"えっと、つまり、フリスの一番賑やかな場所で『信奉者』を集めて……\n試験をクリアしたいってこと？","fr":"Euh, si je comprends bien, tu veux rassembler des « adeptes » à l'endroit le plus animé de Fleece…\npour réussir ton examen ?"}
+{"id":1546616,"jp":"うん。冒険者ギルドならぴったりじゃないかと思って。\n受付をして依頼を手伝いながら、いい縁も結べる。\n悪くなさそうじゃない？","fr":"Oui ! Je me suis dit que la Guilde des aventuriers serait l'endroit idéal.\nJe pourrais tenir l'accueil, aider les gens dans leurs Missions et nouer de beaux liens au passage.\nPas mal comme idée, non ?"}
+{"id":1546617,"jp":"なるほどね！そういうことなら、メイプルに任せて！\n小玉さん、準備はできてる？","fr":"Je vois ! Dans ce cas, laisse faire Maple !\nXiaoyu, tu es prête ?"}
+{"id":1546618,"jp":"うーっ……でも、冒険者ギルドの受付を代行することで、\n本当にいい『縁』を結べるのかな？","fr":"Mmmh… Mais en remplaçant la réceptionniste de la Guilde des aventuriers,\nest-ce que je vais vraiment réussir à nouer de beaux « liens » ?"}
+{"id":1546619,"jp":"大丈夫！メイプルを信じてよ！\nまあ、特別なコツがあるわけじゃないけど！","fr":"Mais oui ! Fais confiance à Maple !\nBon, il n'y a pas vraiment de technique secrète, hein !"}
+{"id":1546620,"jp":"よく聞いて、よく見て、よく感じ取ること！\n細かく観察して、助けを必要としてる瞬間を見極めて。\nすこしずつ積み重ねていけば、みんなに好かれるにゃ！","fr":"Écoute bien, ouvre grand les yeux et sois attentive à ce que ressentent les autres !\nObserve les moindres détails pour savoir quand quelqu'un a besoin d'aide.\nÀ force de petites attentions, tout le monde finira par t'adorer, nya !"}
+{"id":1546621,"jp":"うん、それならできるかも！試してみるよ！","fr":"Oui, ça devrait être dans mes cordes ! Je vais essayer !"}
 {"id":1546622,"jp":"頑固な子供","fr":"Enfant têtu"}
+{"id":1546623,"jp":"こうなったら、ギルドに決めてもらおう！\nどっちが天下一のボスなのか！","fr":"Puisque c'est comme ça, on va demander à la Guilde de trancher !\nOn verra qui a le meilleur Chef du monde !"}
 {"id":1546624,"jp":"意地っ張りな子供","fr":"Enfant obstiné"}
+{"id":1546625,"jp":"天下一がなんだよ。\nうちのボスはプロミリアじゅうに敵なしなんだぞ！","fr":"Le meilleur du monde ? Et alors ?\nPersonne dans tout Promilia n'arrive à la cheville de notre Chef !"}
+{"id":1546626,"jp":"嘘つくな！うちのボスはひとりでライカウモの巣に行けるんだぞ。\nお前のボスにはできないだろ！？","fr":"Menteur ! Notre Chef peut aller dans un nid de Raikaumo sans aucune aide !\nTon Chef en serait incapable, hein ?!"}
+{"id":1546627,"jp":"それがなんだよ！うちのボスはチョフコの尻についた土を食えるんだ。\nお前のボスにできるってのか！？","fr":"Et alors ?! Notre Chef peut manger la terre collée aux fesses d'un Chofuko !\nEst-ce que ton Chef peut en faire autant, hein ?!"}
 {"id":1546628,"jp":"もちろん！うちのボスだって食えるさ！2杯でも！","fr":"Bien sûr ! Notre boss aussi peut en manger ! Et même deux bols !"}
+{"id":1546629,"jp":"ちょっとちょっと！ふたりともケンカはやめて！","fr":"Hé, hé ! Vous deux, arrêtez de vous chamailler !"}
+{"id":1546630,"jp":"お前だれだ？なんで受付の耳がピンクになってるんだ？","fr":"T'es qui, toi ? Pourquoi la fille de l'accueil a les oreilles roses ?"}
+{"id":1546631,"jp":"メイプルの黄色い耳のほうがかわいいのに。\nピンクの受付なんていらない！","fr":"Les oreilles jaunes de Maple sont bien plus mignonnes !\nOn ne veut pas d'une réceptionniste aux oreilles roses !"}
+{"id":1546632,"jp":"それなら俺はピンクのほうがいいね！\nああ、ピンクのほうが黄色よりずっといい！","fr":"Eh ben moi, je préfère le rose !\nOuais, le rose, c'est mille fois mieux que le jaune !"}
+{"id":1546633,"jp":"もう！うちの耳の色でケンカしないでよ！","fr":"Mais enfin ! Arrêtez de vous disputer pour la couleur de mes oreilles !"}
 {"id":1546634,"jp":"取り乱した女性","fr":"Femme bouleversée"}
+{"id":1546635,"jp":"あんた！よくも彼を奪ったわね！","fr":"Toi ! Comment as-tu osé me le voler ?!"}
 {"id":1546636,"jp":"落ち着く女性","fr":"Femme calme"}
+{"id":1546637,"jp":"彼が私のそばにいたいって言ったのよ。\n奪ったわけじゃないわ。","fr":"C'est lui qui a dit qu'il voulait rester auprès de moi.\nJe ne te l'ai pas volé."}
+{"id":1546638,"jp":"なんて恩知らずなの！\n朝から晩まで働いて、おいしいものを与えて養ってきたのに……\n私以外に手を出すなんて！","fr":"Quel ingrat !\nJ'ai travaillé du matin au soir pour le nourrir et lui offrir tout ce qu'il y avait de meilleur…\nEt voilà qu'il va voir ailleurs !"}
+{"id":1546639,"jp":"あなたが彼をちゃんと世話できていなかっただけでしょ。\n私のところでは、とても満足して暮らしているわ。","fr":"C'est simplement que tu ne savais pas t'occuper de lui correctement.\nChez moi, il mène une vie très heureuse."}
+{"id":1546640,"jp":"まずいまずい！これは恋愛関係のもつれ？","fr":"Aïe, aïe, aïe ! Ce serait une histoire de triangle amoureux ?"}
+{"id":1546641,"jp":"ふたりとも、ちょっといいかな？\n恋愛のことならもっと穏やかに話し合ったほうがいいと思うの……","fr":"Euh, je peux vous interrompre un instant ?\nQuand il s'agit d'amour, je pense qu'il vaut mieux en discuter calmement…"}
+{"id":1546642,"jp":"あんたになにがわかるの！？\n私が彼とスターリンクするために、どれだけ苦労したか！","fr":"Qu'est-ce que tu y connais, toi ?!\nTu n'as aucune idée des efforts que j'ai dû faire pour établir un Lien stellaire avec lui !"}
 {"id":1546643,"jp":"スター……リンク？","fr":"Lien… stellaire ?"}
+{"id":1546644,"jp":"そうよ！うちのポニーロのことよ！\nこの女が飼い葉でだまして連れて行ったの！","fr":"Mais oui ! Je parle de mon Poniro !\nCette femme l'a attiré avec du fourrage pour me le prendre !"}
+{"id":1546645,"jp":"はは……キボのことだったのね。","fr":"Ah ah… C'était donc une histoire de Kibo."}
 {"id":1546646,"jp":"禿げのフリスの住民","fr":"Habitant chauve de Fleece"}
+{"id":1546647,"jp":"だれが丸刈りにしろと言った！？\n毎日かつらをかぶるはめになったじゃないか……\nくそっ、訴えてやる！","fr":"Qui t'a demandé de me raser le crâne ?!\nMaintenant, je suis obligé de porter une perruque tous les jours…\nBon sang, je vais porter plainte !"}
+{"id":1546648,"jp":"斬新な理念を持つ美容師","fr":"Coiffeur aux idées révolutionnaires"}
+{"id":1546649,"jp":"いやいや、お客さん。\n涼しくてかっこよくて、農作業の邪魔にならない……\nそんなヘアスタイルがいいと仰ったじゃないですか。","fr":"Allons, allons, cher client.\nUne coupe aérée, élégante et pratique pour les travaux agricoles…\nC'est bien ce que vous m'avez demandé, non ?"}
+{"id":1546650,"jp":"ヘアスタイルと言うからには、髪の毛が必要だろう！\n丸刈りなんて、ヘアスタイルとは言えるか！","fr":"Pour appeler ça une coiffure, encore faudrait-il qu'il reste des cheveux !\nDepuis quand un crâne rasé, c'est une coiffure ?!"}
+{"id":1546651,"jp":"うーん……ガイドさん、ちょっと意見をくださいよ。\n丸刈りだってヘアスタイルですよね？","fr":"Mmmh… Mademoiselle la guide, donnez-nous votre avis.\nUn crâne rasé, c'est bien une coiffure, n'est-ce pas ?"}
+{"id":1546652,"jp":"それに、こちらのお客さんは、丸刈りでも十分かっこよくありませんか？","fr":"Et puis, vous ne trouvez pas que ce monsieur reste très séduisant, même avec le crâne rasé ?"}
+{"id":1546653,"jp":"ほら！ガイドが黙ってる！俺がブサイクだって思ってるんだろう！\nそれもこれも、みんなお前のせいだ！","fr":"Tu vois ! Même la guide ne dit rien ! Elle me trouve moche, c'est évident !\nEt tout ça, c'est entièrement ta faute !"}
+{"id":1546654,"jp":"そういう意味じゃないってば！","fr":"Mais non, ce n'est pas du tout ce que je voulais dire !"}
+{"id":1546655,"jp":"うぅ……もうダメ。うち、もう限界。\nどうしてこんな骨折り損のくたびれ儲けみたいなことばっかり……","fr":"Ouin… J'en peux plus. Je suis à bout.\nPourquoi est-ce que je me donne autant de mal pour absolument rien…"}
+{"id":1546656,"jp":"あれれぇ？おかしいにゃ。\nいつもはこんなにトラブルなんてないのに。\n今日はどうしちゃったんだろう……？","fr":"Hein ? C'est bizarre, nya.\nD'habitude, il n'y a jamais autant de problèmes.\nMais qu'est-ce qui se passe aujourd'hui… ?"}
 {"id":1546664,"jp":"熱狂的なロージア商人","fr":"Marchand rosien fanatique"}
 {"id":1546672,"jp":"この異端者め！！","fr":"Hérétique !!"}
 {"id":1546705,"jp":"わたしの荷物？","fr":"Mon colis ?"}
