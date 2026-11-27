@@ -56606,31 +56606,81 @@
 {"id":1555138,"jp":"リアンはこれで暖かい服を作りたいと考えている。","fr":"Lian souhaite utiliser ce matériau pour confectionner des vêtements chauds."}
 {"id":1555139,"jp":"ライルのメモ","fr":"Note de Lyle"}
 {"id":1555140,"jp":"ライルの名前が書かれたメモ。","fr":"Un petit mot sur lequel figure le nom de Lyle."}
+{"id":1555141,"jp":"びしょ濡れのメモ。なぜレインエルのところにあったのだろうか？","fr":"Un petit mot complètement détrempé. Pourquoi se trouvait-il auprès de Rainel ?"}
 {"id":1555142,"jp":"シュネルフの毛","fr":"Fourrure de Schnelf"}
 {"id":1555143,"jp":"シュネルフの毛。","fr":"De la fourrure de Schnelf."}
+{"id":1555144,"jp":"柔らかい腹部の産毛。ジュリリはこれで糸を紡ぐつもりだ。","fr":"Un doux duvet prélevé sur le ventre. Juriri compte le filer pour en faire du fil."}
 {"id":1555145,"jp":"ドゥルの羽","fr":"Plume de Duru"}
 {"id":1555146,"jp":"ドゥルの羽。","fr":"Une plume de Duru."}
+{"id":1555147,"jp":"防水性のある羽根で、水面に浮くことができる。","fr":"Une plume imperméable capable de flotter à la surface de l'eau."}
 {"id":1555148,"jp":"炭火炙り肉","fr":"Viande grillée au charbon de bois"}
+{"id":1555149,"jp":"大狼に捧げる特別な炙り肉。","fr":"Une viande grillée spécialement préparée en offrande au Grand Loup."}
+{"id":1555150,"jp":"特殊な手法で焼かれた炙り肉。","fr":"Une viande grillée selon une méthode de cuisson particulière."}
 {"id":1555151,"jp":"特製タタの激辛焼き魚","fr":"Poisson grillé extra-pimenté façon Tata"}
+{"id":1555152,"jp":"香ばしい匂いが漂うタタの激辛焼き魚。","fr":"Le poisson grillé extra-piquant de Tata, qui dégage un délicieux parfum."}
+{"id":1555153,"jp":"めずらしい魚を使っているらしく、ほかのタタの激辛焼き魚よりも香りが良い。","fr":"Préparé semble-t-il avec un poisson rare, ce plat dégage un parfum encore plus savoureux que les autres poissons grillés extra-piquants de Tata."}
 {"id":1555154,"jp":"カイキンギョ","fr":"Kaikingyo"}
 {"id":1555155,"jp":"極めて珍しい魚。","fr":"Un poisson extrêmement rare."}
+{"id":1555156,"jp":"特製タタの激辛焼き魚の材料らしい。","fr":"Il semblerait que ce soit un ingrédient du poisson grillé extra-piquant spécial de Tata."}
 {"id":1555157,"jp":"破損した木片","fr":"Morceau de bois brisé"}
+{"id":1555158,"jp":"なにかの建物から落ちた木片のようだ。","fr":"Un morceau de bois qui semble s'être détaché d'un bâtiment."}
+{"id":1555159,"jp":"長い間水に浸かっていたようだが、それでもまだ硬い。","fr":"Bien qu'il semble avoir séjourné longtemps dans l'eau, ce morceau de bois reste très solide."}
 {"id":1555160,"jp":"モーモのエイプル","fr":"Aple de Momo"}
+{"id":1555161,"jp":"モーモと一緒に採集したエイプル。","fr":"Un Aple que vous avez cueilli en compagnie de Momo."}
+{"id":1555162,"jp":"大きくて赤く、とても甘そうだ。","fr":"Gros et bien rouge, il semble particulièrement sucré."}
 {"id":1555163,"jp":"散らばったがらくた","fr":"Bric-à-brac éparpillé"}
+{"id":1555164,"jp":"スカイホークの巣の近くで集めたがらくた。","fr":"Des bricoles récupérées près du nid d'un Skyhawk."}
+{"id":1555165,"jp":"針金、木の枝、布切れ……本当にこんなものでここから脱出するための道具が作れるのだろうか？","fr":"Du fil de fer, des brindilles, des morceaux de tissu… Est-il vraiment possible de fabriquer de quoi s'échapper d'ici avec tout ça ?"}
+{"id":1555166,"jp":"茂みで見つかったチシキの殻。","fr":"Une coque de Chishiki retrouvée dans les buissons."}
+{"id":1555167,"jp":"開けられたチシキの殻。なぜか鷹の連峰の道端の茂みにあった。","fr":"Une coque de Chishiki ouverte. Pour une raison inconnue, elle se trouvait dans les buissons bordant un chemin des Monts du Faucon."}
 {"id":1555168,"jp":"新鮮な飼い葉","fr":"Fourrage frais"}
+{"id":1555169,"jp":"刈り取ったばかりの新鮮な飼い葉。","fr":"Du fourrage fraîchement coupé."}
+{"id":1555170,"jp":"葉にはまだ露がついており、清々しい香りがする。","fr":"Les feuilles sont encore couvertes de rosée et dégagent un agréable parfum de fraîcheur."}
 {"id":1555171,"jp":"半分の瓦・甲","fr":"Demi-tuile - A"}
+{"id":1555172,"jp":"なにに使われるのかわからない半分に割れた瓦。","fr":"Une tuile brisée en deux dont l'utilité reste inconnue."}
+{"id":1555173,"jp":"とても古そうに見える。上の模様はシャルル村のトーテムではない。","fr":"Elle semble très ancienne. Le motif qui y figure ne correspond pas au totem du Village de Charlulu."}
 {"id":1555174,"jp":"半分の瓦・乙","fr":"Demi-tuile - B"}
+{"id":1555175,"jp":"リドが持ってきたもう半分の瓦。上の模様はシャルル村でも見かけたことがある。","fr":"L'autre moitié de la tuile, apportée par Rido. Vous avez déjà aperçu le motif qui y figure au Village de Charlulu."}
 {"id":1555176,"jp":"すこし古びた手帳。","fr":"Un carnet légèrement usé."}
+{"id":1555177,"jp":"なんども読み返されたようで、ページの間には綺麗な羽根ペンが挟まっている。","fr":"Cet ouvrage semble avoir été lu et relu de nombreuses fois. Une jolie plume d'écriture est glissée entre ses pages."}
 {"id":1555178,"jp":"ネコヒゲ草の若葉","fr":"Jeunes feuilles de moustache-de-chat"}
+{"id":1555179,"jp":"新しく摘んだネコヒゲ草の若葉。","fr":"De jeunes feuilles d'herbe à moustaches de chat fraîchement cueillies."}
+{"id":1555180,"jp":"株の先端だけを摘み取り、ルルカの薬の粉と混ぜると、外傷に著しい治療効果がある。","fr":"En prélevant uniquement les extrémités de la plante et en les mélangeant à la poudre médicinale de Luruka, on obtient un remède remarquablement efficace contre les blessures externes."}
 {"id":1555181,"jp":"バルロンのお礼","fr":"Remerciements de Barlon"}
+{"id":1555182,"jp":"シャルル村のハンター、バルロンからのお礼。","fr":"Un cadeau de remerciement offert par Barlon, un chasseur du Village de Charlulu."}
+{"id":1555183,"jp":"バルロンは狩猟の道具作りが得意で、道具の手入れにも非常に気を遣っている。彼が作った道具は、きっと狩りの大きな助けになるだろう。","fr":"Barlon excelle dans la fabrication d'outils de chasse et accorde une attention particulière à leur entretien. Les outils qu'il confectionne seront certainement d'une aide précieuse lors de vos parties de chasse."}
+{"id":1555184,"jp":"ラッピングされたプレゼント","fr":"Cadeau emballé"}
 {"id":1555185,"jp":"丁寧に包まれた木箱。","fr":"Une boîte en bois soigneusement emballée."}
+{"id":1555186,"jp":"なかには獣人の想いが託された、森の女神への贈りものが入っている。","fr":"Ce paquet contient un cadeau destiné à la déesse de la forêt, dans lequel les Furriens ont placé toute leur affection."}
+{"id":1555187,"jp":"テララが自身の抜け落ちた犬歯を使い、丹精込めて作った首飾り。","fr":"Un collier que Terara a confectionné avec le plus grand soin à partir de l'une de ses propres canines tombées."}
+{"id":1555188,"jp":"獣人にとって、自身の歯や骨で作った装飾品はお守りのようなもので、最も真摯な祝福が込められている。","fr":"Pour les Furriens, les ornements fabriqués à partir de leurs propres dents ou os font office de porte-bonheur et renferment leurs bénédictions les plus sincères."}
+{"id":1555189,"jp":"遠い地から来たオルゴール。","fr":"Une boîte à musique venue d'une contrée lointaine."}
+{"id":1555190,"jp":"表面の模様はすり減っているが、それ自体が持つ精巧さと優雅さは健在だ。","fr":"Bien que les motifs qui ornent sa surface soient usés par le temps, elle n'a rien perdu de sa finesse ni de son élégance."}
 {"id":1555191,"jp":"下級ギフトボックス","fr":"Coffret-cadeau basique"}
+{"id":1555192,"jp":"普通のギフトボックス。","fr":"Un coffret-cadeau ordinaire."}
+{"id":1555193,"jp":"なかになにか入っているようだ。","fr":"Il semble contenir quelque chose."}
 {"id":1555194,"jp":"中級ギフトボックス","fr":"Coffret-cadeau intermédiaire"}
+{"id":1555195,"jp":"精巧なギフトボックス。","fr":"Un coffret-cadeau de confection raffinée."}
+{"id":1555196,"jp":"きっとなかになにか入っている。","fr":"Il doit certainement contenir quelque chose."}
 {"id":1555197,"jp":"上級ギフトボックス","fr":"Coffret-cadeau supérieur"}
+{"id":1555198,"jp":"上質な素材で作られた美しいギフトボックス。","fr":"Un magnifique coffret-cadeau confectionné à partir de matériaux de qualité."}
+{"id":1555199,"jp":"きっとなかになにか価値のあるものが入っている。","fr":"Il doit certainement renfermer quelque chose de précieux."}
 {"id":1555200,"jp":"道具箱","fr":"Boîte à outils"}
+{"id":1555201,"jp":"職人が常に持ち歩いている箱。","fr":"Une boîte qu'un artisan emporte partout avec lui."}
+{"id":1555202,"jp":"なかにはたくさんの『宝物』が入っている。","fr":"Elle renferme de nombreux « trésors »."}
+{"id":1555203,"jp":"フランシスコの散らばった積み荷。","fr":"La cargaison éparpillée de Francisco."}
+{"id":1555204,"jp":"すこし重いが、なかになにが入っているのだろうか？","fr":"C'est assez lourd. Que peut bien contenir ce colis ?"}
 {"id":1555205,"jp":"上等な毛布","fr":"Couverture de belle facture"}
 {"id":1555206,"jp":"精巧な作りの毛織物。","fr":"Un tissu de laine finement confectionné."}
+{"id":1555207,"jp":"表面の模様は見たことのない精巧な紋様で、おそらくパットが言っていた『フリス』という場所の特色なのだろう。","fr":"Sa surface est ornée de motifs complexes que vous n'avez encore jamais vus. Il s'agit probablement d'une particularité de cette ville appelée « Fleece », dont Pat vous a parlé."}
 {"id":1555208,"jp":"スカイホークの羽","fr":"Plume de Skyhawk"}
+{"id":1555209,"jp":"スカイホークが持つ独特な構造の骨と羽根。ほかの翼形族のキボのものよりも軽い。","fr":"Des os et des plumes de Skyhawk à la structure singulière. Ils sont plus légers que ceux des autres Kibo de la Famille ailée."}
+{"id":1555210,"jp":"この羽根で矢を作れば、すごい矢ができるかもしれない。","fr":"Cette plume permettrait peut-être de fabriquer des flèches exceptionnelles."}
+{"id":1555211,"jp":"一般的な植物。料理に使われる。","fr":"Une plante commune utilisée en cuisine."}
+{"id":1555212,"jp":"池や湖に多く分布する杯のような形をした花で、池の水をすくって飲むこともできる。カドゥリアの生える池には野生のガヤックがよく水を飲みにくる。これがカドゥリアの名の由来なのかもしれない。","fr":"Une fleur en forme de coupe, très répandue dans les étangs et les lacs. Elle peut même servir à puiser de l'eau pour boire. Les Gayak sauvages viennent souvent s'abreuver dans les étangs où pousse la Kaduria. C'est peut-être de là que cette fleur tire son nom."}
+{"id":1555213,"jp":"ダロマグラスの穂。濃密な闇の元素の気配が秘められている。","fr":"Un épi d'herbe de Daroma qui renferme une forte concentration d'élément Ténèbres."}
+{"id":1555214,"jp":"ほの暗く、独特の香りを持つ植物。獣人たちはこれを仮面の素材に使う。","fr":"Une plante aux teintes sombres et au parfum singulier. Les Furriens l'utilisent comme matériau pour confectionner leurs masques."}
+{"id":1555215,"jp":"元素祭壇で精製されたエネルギーで、わずかに地元素を含んでいる。さらに精製すれば、より大きな力を発揮できるだろう。","fr":"Une Énergie raffinée à l'autel élémentaire, contenant une faible quantité d'élément Terre. Un raffinage supplémentaire permettrait probablement d'en libérer une puissance encore plus grande."}
 {"id":1555216,"jp":"フェルト画","fr":"Tableau en feutre"}
 {"id":1555222,"jp":"錆止め油","fr":"Huile antirouille"}
 {"id":1555224,"jp":"経済的でお手頃価格。","fr":"Économique et abordable."}
