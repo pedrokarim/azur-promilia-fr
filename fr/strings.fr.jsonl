@@ -51333,7 +51333,7 @@
 {"id":1546816,"jp":"ふたり","fr":"Les deux"}
 {"id":1546817,"jp":"きみの名は……","fr":"Ton nom est…"}
 {"id":1546818,"jp":"小玉の法術、成功したみたいだね。","fr":"On dirait que ton sortilège a fonctionné, Xiaoyu."}
-{"id":1546819,"jp":"べ、別に大した術とかかけたわけじゃないの。\n侠客さんがずっとそばにいて修行に付き合ってくれたから……それに……","fr":"J-Je n'ai pas vraiment lancé de sort extraordinaire, tu sais.\nC'est surtout parce que tu es resté à mes côtés tout au long de mon Entraînement, Âme chevaleresque… Et puis…"}
+{"id":1546819,"jp":"べ、別に大した術とかかけたわけじゃないの。\n侠客さんがずっとそばにいて修行に付き合ってくれたから……それに……","fr":"J-Je n'ai pas vraiment lancé de sort extraordinaire, tu sais.\nC'est surtout parce que tu m'as accompagnée tout au long de mon Entraînement, Âme chevaleresque… Et puis…"}
 {"id":1546820,"jp":"テララさんも教えてくれたもんね。\n時には拳のほうが法術より役に立つって！","fr":"Terara nous l'a bien appris, non ?\nParfois, les poings sont plus efficaces que les sortilèges !"}
 {"id":1546821,"jp":"なにより大切なことはね。本当の縁がある人同士なら、\nうちと侠客さんのように、いつか必ず出会えるってこと！","fr":"Mais le plus important, c'est que deux personnes unies par un véritable lien\nfinissent toujours par se rencontrer un jour. Comme toi et moi, Âme chevaleresque !"}
 {"id":1546822,"jp":"侠客さん、うちはテララさんの教えを受けたハンターだよ！\n困難なことがあっても怯んだりしない！","fr":"Âme chevaleresque, je suis une chasseuse formée par Terara !\nJe ne reculerai devant aucune difficulté !"}
@@ -51397,19 +51397,69 @@
 {"id":1546880,"jp":"ええ。この本にはですね……\n「星臨者は涙で凶獣を溶かすことができる、\nけれど、決して泣くことはない」と書いてあります！","fr":"Oui ! Tenez, il est écrit dans ce livre que…\n« L'Enfant des étoiles peut faire fondre les Bêtes maudites avec ses larmes,\nmais ne pleure jamais. »"}
 {"id":1546881,"jp":"それに……ほかにもたくさんのことができるって……\nだから、あなたさえいれば、どんな問題も解決できるはずです！","fr":"Et ce n'est pas tout… Il paraît que vous êtes capable de bien d'autres choses…\nAlors, avec votre aide, je suis certaine que tous les problèmes peuvent être résolus !"}
 {"id":1546882,"jp":"えっ……僕が？|えっ……私が？","fr":"Hein… Moi ?|Hein… Moi ?"}
+{"id":1546883,"jp":"僕って涙で凶獣を溶かせるの？|私って涙で凶獣を溶かせるの？","fr":"Je peux faire fondre les Bêtes maudites avec mes larmes ?|Je peux faire fondre les Bêtes maudites avec mes larmes ?"}
+{"id":1546884,"jp":"はい！本にはそう書いてありました！","fr":"Oui ! C'est ce qui est écrit dans le livre !"}
+{"id":1546885,"jp":"どう説明すればいいかな……","fr":"Comment t'expliquer ça…"}
+{"id":1546886,"jp":"もしかして……本に書いてあったことは、\nぜんぶ嘘……？そんな……","fr":"Vous voulez dire que… Tout ce qui est écrit dans ce livre\nn'est que mensonge… ? Oh non…"}
 {"id":1546887,"jp":"あっ！待って！","fr":"Ah ! Attends !"}
+{"id":1546888,"jp":"あの子、なにか困ってたの？","fr":"Cette petite avait besoin d'aide pour quelque chose ?"}
+{"id":1546889,"jp":"ええ、どうやら複雑な家庭の事情があるようで……","fr":"Oui, il semblerait que sa situation familiale soit assez compliquée…"}
+{"id":1546890,"jp":"アヴィーナの兄と姉がケンカしてしまって\nアヴィーナは仲直りさせたいと思っているそうなんです。","fr":"Le grand frère et la grande sœur d'Evina se sont disputés,\net elle souhaiterait les aider à se réconcilier."}
+{"id":1546891,"jp":"詳しく聞こうとしましたが、要領を得なくて……\nその上、あの子はどうしても\nあなたに問題を解決して欲しいそうなんです。","fr":"J'ai essayé d'en savoir davantage, mais ses explications étaient assez confuses…\nDe plus, elle tient absolument à ce que\nce soit vous qui résolviez son problème."}
+{"id":1546892,"jp":"どのあたりが複雑なの？","fr":"Qu'est-ce qui est si compliqué dans cette histoire ?"}
+{"id":1546893,"jp":"どうして僕なの？|どうして私なの？","fr":"Pourquoi moi ?|Pourquoi moi ?"}
+{"id":1546894,"jp":"アヴィーナは具体的になにがあったのかは\n話してくれなかったんです……","fr":"Evina n'a pas voulu me raconter\nce qui s'était réellement passé…"}
+{"id":1546895,"jp":"アヴィーナは星臨者ならなんとかしてくれると信じているんです。\nそれで、ひたすら星臨者を探して欲しいと……","fr":"Evina est convaincue que l'Enfant des étoiles pourra trouver une solution.\nElle n'a donc cessé de me supplier de vous retrouver…"}
 {"id":1546896,"jp":"うーん、なるほど……","fr":"Hmm, je vois…"}
+{"id":1546897,"jp":"とりあえず……あの子を追いかけよう。","fr":"Bon, pour commencer… Rattrapons-la."}
 {"id":1546898,"jp":"あっ！あなたは……","fr":"Ah ! Vous êtes…"}
+{"id":1546899,"jp":"僕を探してたんじゃないの？|私を探してたんじゃないの？","fr":"Ce n'est pas moi que tu cherchais ?|Ce n'est pas moi que tu cherchais ?"}
+{"id":1546900,"jp":"そうだよ。それにあんたの縁……\nコホン、さっきはすごく焦ってたし、助けが必要なんでしょ？","fr":"Exactement ! Et puis, ton lien…\nHum hum ! Tu avais l'air complètement paniquée tout à l'heure. Tu as besoin d'aide, non ?"}
+{"id":1546901,"jp":"でも、星臨者の偉大な事実はぜんぶ嘘なんですよね……？","fr":"Mais toutes ces histoires sur les exploits de l'Enfant des étoiles sont des mensonges, n'est-ce pas… ?"}
 {"id":1546902,"jp":"嘘なんかじゃないよ！","fr":"Ce ne sont pas des mensonges !"}
 {"id":1546903,"jp":"でも、さっき……","fr":"Mais à l'instant…"}
+{"id":1546904,"jp":"さっきは誤魔化さなきゃいけなかったんだ。\nだってほら、星臨者があちこちで奇跡を起こしたら、\n世間が大騒ぎになっちゃうでしょ？","fr":"Tout à l'heure, on était obligés de cacher la vérité.\nRéfléchis un peu, si l'Enfant des étoiles accomplissait des miracles à tout-va,\nça provoquerait une sacrée agitation, tu ne crois pas ?"}
+{"id":1546905,"jp":"ね、{playerName}さん？","fr":"Hein, {playerName} ?"}
 {"id":1546906,"jp":"まあ……","fr":"Eh bien…"}
+{"id":1546907,"jp":"じゃあ、その……\n星臨者さま、わたしのこと助けてくれますか？","fr":"Alors, euh…\nEnfant des étoiles, accepteriez-vous de m'aider ?"}
+{"id":1546908,"jp":"うん、なにが起きてるのかちゃんと話してもらえたら。","fr":"Bien sûr, à condition que tu m'expliques clairement ce qui se passe."}
+{"id":1546909,"jp":"はい、わかりました……ついてきてください。","fr":"Oui, d'accord… Suivez-moi, s'il vous plaît."}
 {"id":1546910,"jp":"ここです……","fr":"C'est ici…"}
+{"id":1546911,"jp":"お姉さんはどこにいるの？","fr":"Où est ta grande sœur ?"}
+{"id":1546912,"jp":"えっと……いまは留守みたいで……","fr":"Euh… On dirait qu'elle est sortie…"}
+{"id":1546913,"jp":"どこで働いているかは、わたしも知らないんです……","fr":"Je ne sais pas non plus où elle travaille…"}
 {"id":1546914,"jp":"探しに行こうか。","fr":"On va la chercher ?"}
 {"id":1546915,"jp":"そうだね！","fr":"Bonne idée !"}
 {"id":1546916,"jp":"あんたたちは……","fr":"Vous deux…"}
+{"id":1546917,"jp":"お姉ちゃん！……ううっ！","fr":"Grande sœur !… Ouh !"}
+{"id":1546918,"jp":"アヴィーナ！まだ病気が治っていないのに！\nどうして外を出歩いたりするのよ！？","fr":"Evina ! Tu n'es même pas encore guérie !\nPourquoi es-tu sortie te promener dans cet état ?!"}
+{"id":1546919,"jp":"わ、わたし……エインズお兄ちゃんを探すのを\n星臨者さまに手伝って欲しくて、それで……！","fr":"J-Je voulais demander à l'Enfant des étoiles de m'aider\nà retrouver grand frère Eins, alors… !"}
+{"id":1546920,"jp":"落ち着いて。ひとまずゆっくり休みましょ。\nいまはあちこち走り回っちゃいけないのよ。","fr":"Du calme. Pour l'instant, tu vas te reposer tranquillement.\nTu ne dois pas courir partout dans ton état."}
+{"id":1546921,"jp":"アヴィーナは体が弱くて……\n待って、もしかしてあんたが星臨者さまなの？","fr":"Evina a une santé très fragile…\nAttends, ne me dis pas que tu es l'Enfant des étoiles ?"}
 {"id":1546922,"jp":"うん、そうだよ。","fr":"Oui, c'est moi."}
+{"id":1546923,"jp":"その子はそう思ってるみたい。","fr":"C'est ce qu'elle semble croire."}
+{"id":1546924,"jp":"そう、本当に見つけたのね……","fr":"Je vois. Tu as donc vraiment réussi à retrouver l'Enfant des étoiles…"}
+{"id":1546925,"jp":"そう。それでもいいわ……","fr":"Je vois. Eh bien, ce n'est pas grave…"}
+{"id":1546926,"jp":"アヴィーナのこと、助けてもらえないかしら？\nこの子がひとりで歩き回るのは心配で……","fr":"Est-ce que tu pourrais aider Evina ?\nÇa m'inquiète de la savoir dehors toute seule…"}
+{"id":1546927,"jp":"なるほど。お兄さんを見つけたくて、\n僕に助けを求めたんだね。|なるほど。お兄さんを見つけたくて、\n私に助けを求めたんだね。","fr":"Je comprends mieux. Tu voulais retrouver ton grand frère,\nc'est pour ça que tu es venue me demander de l'aide.|Je comprends mieux. Tu voulais retrouver ton grand frère,\nc'est pour ça que tu es venue me demander de l'aide."}
+{"id":1546928,"jp":"だけど、それってさ、本来は保安官の仕事だよね。\nちゃんと事情を話せば、助けてくれるはずだよ？","fr":"Mais normalement, c'est le travail du shérif, non ?\nSi tu expliques clairement la situation à Shiroro, elle devrait pouvoir t'aider."}
 {"id":1546929,"jp":"でも、その……","fr":"Mais, euh…"}
+{"id":1546930,"jp":"はあ、やっぱり話してなかったのね……","fr":"Pfff… Comme je le pensais, tu ne lui as rien expliqué…"}
+{"id":1546931,"jp":"アヴィーナ、私が教えたこと、覚えてるでしょ？","fr":"Evina, tu te souviens de ce que je t'ai appris, n'est-ce pas ?"}
+{"id":1546932,"jp":"ううっ、うん……あの、実はお兄ちゃんは\n悪いことをしに行ったのかもしれないんです……","fr":"Ouh… Oui… En fait, il se pourrait que mon grand frère\nsoit parti faire quelque chose de mal…"}
+{"id":1546933,"jp":"悪いこと！？てことは、やっぱりあの悪縁は……","fr":"Quelque chose de mal ?! Alors ces fameux liens funestes…"}
 {"id":1546934,"jp":"コホン。","fr":"Hum."}
+{"id":1546935,"jp":"あっ、ごほっ！コンコンッ！","fr":"Ah, kof ! Kof, kof !"}
+{"id":1546936,"jp":"どうしたんですか？\nもしかして、おふたりも具合が？","fr":"Qu'est-ce qui vous arrive ?\nVous ne vous sentez pas bien non plus, tous les deux ?"}
+{"id":1546937,"jp":"ううん、ちょっと考えごとをしてたんだ。","fr":"Non, non, je réfléchissais juste à quelque chose."}
+{"id":1546938,"jp":"うん、あんたのお兄さんが悪いことをしようとしてるなら\n止めるのはーー星臨者の役目だね！","fr":"Oui ! Si ton grand frère s'apprête à faire quelque chose de mal,\nc'est à l'Enfant des étoiles de l'en empêcher !"}
+{"id":1546939,"jp":"でも、エインズお兄ちゃんのこと\n傷つけて欲しくなくて……","fr":"Mais je ne voudrais pas\nque vous fassiez du mal à grand frère Eins…"}
+{"id":1546940,"jp":"道を踏み外していないなら、傷つけたりしないよ。","fr":"Tant qu'il n'a pas dévié du droit chemin, je ne lui ferai aucun mal."}
+{"id":1546941,"jp":"うん、うちも{playerName}さんを信じてるよ！","fr":"Oui ! Moi aussi, j'ai confiance en {playerName} !"}
+{"id":1546942,"jp":"ありがとう……ごほっ、ごほっ……","fr":"Merci… Kof, kof…"}
+{"id":1546943,"jp":"アヴィーナ、すこし休まないと。","fr":"Evina, il faut que tu te reposes un peu."}
+{"id":1546944,"jp":"あとのことは、私から説明するわ。","fr":"Je vais vous expliquer la suite."}
+{"id":1546945,"jp":"アヴィーナはしばらく休ませなくちゃいけないから、\n私が事情を説明するわ……","fr":"Evina a besoin de se reposer un moment,\nje vais donc vous expliquer la situation à sa place…"}
 {"id":1546946,"jp":"アヴィーナは……","fr":"Avina est…"}
 {"id":1546947,"jp":"体が弱いんだよね？","fr":"Elle est de santé fragile, n'est-ce pas ?"}
 {"id":1546948,"jp":"ええ……","fr":"Oui…"}
