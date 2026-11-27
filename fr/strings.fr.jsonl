@@ -56427,43 +56427,93 @@
 {"id":1554959,"jp":"簡易クラフト-ベタベタ弾を製作","fr":"Fabrication simple - Fabriquer des projectiles collants"}
 {"id":1554960,"jp":"農園に畑小屋がありません。","fr":"Votre ferme ne dispose pas de cabane de culture."}
 {"id":1554961,"jp":"農園にキボの食堂がありません。","fr":"Votre ferme ne dispose pas de cantine pour Kibo."}
+{"id":1554962,"jp":"簡易クラフト-普通のステラカード","fr":"Fabrication simple - Carte Stella ordinaire"}
 {"id":1554963,"jp":"農園本部を開く","fr":"Ouvrir le QG de la ferme"}
+{"id":1554964,"jp":"農園に畑がありません。","fr":"Votre ferme ne dispose d'aucune parcelle de culture."}
+{"id":1554965,"jp":"農園に取引所がありません。","fr":"Votre ferme ne dispose pas de Comptoir d'échange."}
 {"id":1554966,"jp":"エリアクエストを開く","fr":"Ouvrir les quêtes de zone"}
+{"id":1554967,"jp":"離脱すると現在の進捗が失われます。離脱しますか？","fr":"Si vous quittez cette activité, votre progression actuelle sera perdue. Voulez-vous vraiment quitter ?"}
+{"id":1554968,"jp":"NPCとインタラクトする","fr":"Interagir avec un PNJ"}
+{"id":1554969,"jp":"オブジェクトとインタラクトする","fr":"Interagir avec un objet"}
 {"id":1554970,"jp":"ストーリー完了","fr":"Terminer une histoire"}
+{"id":1554971,"jp":"村長の新しい靴のパーツ","fr":"Pièce des nouvelles chaussures du Chef du village"}
+{"id":1554972,"jp":"ピカピカに磨かれた一枚の革。ちょうどいい大きさに切りそろえられている。","fr":"Une pièce de cuir soigneusement lustrée et découpée aux dimensions idéales."}
 {"id":1554973,"jp":"靴のパーツ。","fr":"Une pièce de chaussure."}
 {"id":1554974,"jp":"村長の新しい靴","fr":"Nouvelles chaussures du Chef du village"}
+{"id":1554975,"jp":"一足の真新しい靴。さらなる伝説の足跡を刻むことを期待している。","fr":"Une paire de chaussures flambant neuves. Leur propriétaire espère qu'elles laisseront derrière elles de nouvelles empreintes légendaires."}
 {"id":1554976,"jp":"飼料","fr":"Fourrage"}
+{"id":1554977,"jp":"【アウラルベリー】と【チシキ】を7：3の割合で配合して作った高品質な飼料。","fr":"Un aliment de haute qualité préparé à partir de 【Baies d'Aura】 et de 【Chishiki】, dans des proportions de 7 pour 3."}
 {"id":1554978,"jp":"上質な飼料。","fr":"Du fourrage de qualité."}
 {"id":1554979,"jp":"柏木虫草","fr":"Cordyceps de chêne"}
+{"id":1554980,"jp":"【ネコヒゲ草】、【碩葉木】、【アステラン】。3種類の薬草を調合して作られた秘伝のお薬。","fr":"【Herbe à moustaches de chat】, 【Arbre Sekiha】 et 【Asteran】. Un remède secret obtenu en associant ces trois plantes médicinales."}
 {"id":1554981,"jp":"特製ポーション","fr":"Potion spéciale"}
 {"id":1554982,"jp":"キキの花","fr":"Fleur de Kiki"}
+{"id":1554983,"jp":"目立たない小さな花。花びらを揉むと、清々しい香りが漂う。","fr":"Une petite fleur discrète. Ses pétales dégagent un parfum rafraîchissant lorsqu'on les froisse."}
+{"id":1554984,"jp":"その見た目を忘れることはあっても、その香りを忘れることはない。","fr":"On peut oublier son apparence, mais jamais son parfum."}
 {"id":1554985,"jp":"ボアラーガのたてがみ","fr":"Crinière de Boaraga"}
 {"id":1554986,"jp":"硬く強靭な獣の毛。","fr":"Des poils de bête durs et résistants."}
+{"id":1554987,"jp":"手触りや見た目は良くないが、とても丈夫だ。","fr":"Peu agréable au toucher et à l'œil, mais particulièrement robuste."}
 {"id":1554988,"jp":"新鮮な粘土","fr":"Argile fraîche"}
+{"id":1554989,"jp":"掘り出したばかりの新鮮な粘土。子どもの手にかかれば、様々な形に姿を変える。","fr":"De l'argile fraîchement extraite. Entre les mains d'un enfant, elle peut prendre toutes sortes de formes."}
 {"id":1554990,"jp":"枯れたアステランの茎","fr":"Tige d'Asteran fanée"}
+{"id":1554991,"jp":"生気を失った【アステランの茎】。","fr":"Une 【Tige d'Asteran】 qui a perdu toute sa vitalité."}
+{"id":1554992,"jp":"粘土製品の形を固定するのに使える。","fr":"Peut servir à maintenir la forme des objets façonnés en argile."}
 {"id":1554993,"jp":"清草","fr":"Herbe limpide"}
 {"id":1554994,"jp":"汁気の多い草。","fr":"Une herbe riche en sève."}
+{"id":1554995,"jp":"村民たちはこの植物の汁を粘土製品の接着剤としてよく使用する。","fr":"Les villageois utilisent souvent la sève de cette plante comme colle pour leurs créations en argile."}
 {"id":1554996,"jp":"繊羽木の葉","fr":"Feuille d'arbre-plume"}
+{"id":1554997,"jp":"フェザーリーフ。きらきらと色鮮やかな光を放っている。","fr":"Une Feuille-plume qui scintille de mille couleurs."}
+{"id":1554998,"jp":"獣人の衣服の装飾によく使われる。","fr":"Souvent utilisée pour orner les vêtements des Furriens."}
 {"id":1554999,"jp":"チシキの樹皮","fr":"Écorce de Chishiki"}
+{"id":1555000,"jp":"チシキの樹皮。チシキの実の皮と同じくらい硬い。","fr":"De l'écorce de Chishiki, aussi dure que l'enveloppe de ses fruits."}
+{"id":1555001,"jp":"熟練の獣人の仕立て屋なら、ここから糸を紡ぎ出し、衣服を織ることができる。","fr":"Un tailleur furrien expérimenté peut en extraire des fibres, les filer et les tisser pour confectionner des vêtements."}
 {"id":1555002,"jp":"クーパーの毛","fr":"Laine de Cooper"}
+{"id":1555003,"jp":"クーパーの体から抜け落ちたり、刈り取られたりした、長くてさらさらの毛。","fr":"De longs poils soyeux, tombés naturellement du pelage d'un Cooper ou obtenus lors de sa tonte."}
+{"id":1555004,"jp":"獣人はよくこの毛を糸の代わりにして編み物をする。","fr":"Les Furriens utilisent souvent ces poils en guise de fil pour leurs travaux de tricot."}
 {"id":1555005,"jp":"ふわふわボール","fr":"Boule duveteuse"}
+{"id":1555006,"jp":"真っ黒で柔らかい物体。ウミィの体の一部のようだ。","fr":"Une substance molle d'un noir profond. Elle semble provenir du corps d'un Umii."}
+{"id":1555007,"jp":"スーニヤの影響を受けた産物のように見えるが、揉んでいるとストレスが解消され、つい夢中になってしまう。それ以外の悪影響はない。","fr":"Cette substance semble avoir été affectée par le Sunya. Pourtant, la malaxer apaise le stress, au point qu'il devient difficile de s'arrêter. Elle ne présente aucun autre effet néfaste."}
 {"id":1555008,"jp":"信頼の石標","fr":"Stèle de la confiance"}
+{"id":1555009,"jp":"シャルル村の住民たちの信頼の証。","fr":"Un témoignage de la confiance des habitants du Village de Charlulu."}
+{"id":1555010,"jp":"シャルル村のサブクエストをクリアすると獲得できる。","fr":"S'obtient en terminant les quêtes secondaires du Village de Charlulu."}
 {"id":1555011,"jp":"キャバードの羽根","fr":"Plume de Cabbird"}
+{"id":1555012,"jp":"キャバードの体から落ちた羽根。","fr":"Une plume tombée du plumage d'un Cabbird."}
+{"id":1555013,"jp":"手触りは比較的柔らかく、羽扇子を作るのに使えそうだ。","fr":"Plutôt douce au toucher, elle semble convenir à la fabrication d'un éventail en plumes."}
 {"id":1555014,"jp":"魔力の伝声筒","fr":"Porte-voix magique"}
 {"id":1555015,"jp":"竹筒のような物体。","fr":"Un objet ressemblant à un tube de bambou."}
+{"id":1555016,"jp":"魔力を注ぐと拡声効果がある。","fr":"Permet d'amplifier la voix lorsqu'on y insuffle de l'énergie magique."}
 {"id":1555017,"jp":"干しノワルタケ","fr":"Noirtake séché"}
+{"id":1555018,"jp":"新鮮なノワルタケをスライスして乾燥させたもの。","fr":"Des Noirtake frais, découpés en fines tranches puis séchés."}
+{"id":1555019,"jp":"ポーションの材料として使える。","fr":"Peut servir d'ingrédient dans la préparation de potions."}
 {"id":1555020,"jp":"安眠アロマ","fr":"Arôme soporifique"}
+{"id":1555021,"jp":"フリス特産の安眠アロマ。","fr":"Une essence aromatique favorisant le sommeil, spécialité de Fleece."}
+{"id":1555022,"jp":"シャルル村と外界との繋がりが回復してから、時々輸入されるようになった商品のひとつ。","fr":"L'un des produits importés occasionnellement depuis que le Village de Charlulu a renoué avec le monde extérieur."}
 {"id":1555023,"jp":"安神の煎じ薬","fr":"Décoction apaisante"}
+{"id":1555024,"jp":"ちょっと不気味な色のポーション。","fr":"Une potion à la couleur légèrement inquiétante."}
+{"id":1555025,"jp":"しかし不眠に対しては極めて優れた治癒効果がある。","fr":"Elle est pourtant remarquablement efficace contre l'insomnie."}
 {"id":1555026,"jp":"ルルカの薬","fr":"Remède de Luruka"}
+{"id":1555027,"jp":"ルルカが姉のテララのために特別に作った、内服用の傷薬。","fr":"Un remède à boire pour soigner les blessures, spécialement préparé par Luruka pour sa grande sœur Terara."}
 {"id":1555028,"jp":"ルルカ特製の薬。","fr":"Un remède spécialement préparé par Luruka."}
 {"id":1555029,"jp":"木彫りのおもちゃ","fr":"Jouet en bois sculpté"}
+{"id":1555030,"jp":"トビの木彫りのおもちゃ。","fr":"Le jouet en bois sculpté de Tobi."}
+{"id":1555031,"jp":"ただの木彫りのおもちゃ。","fr":"Un simple jouet en bois sculpté."}
 {"id":1555032,"jp":"林英の種","fr":"Graine de fleur sylvestre"}
 {"id":1555033,"jp":"神秘的な力を持つ種。","fr":"Une graine dotée d'un pouvoir mystérieux."}
+{"id":1555034,"jp":"シンフォーリアが取り出した不思議な種。植えると、神秘的な存在と繋がりが持てるらしい。","fr":"Une mystérieuse graine que Symphoria a sortie. Une fois plantée, elle permettrait d'établir un lien avec une entité mystérieuse."}
 {"id":1555035,"jp":"猪の牙","fr":"Défense de sanglier"}
+{"id":1555036,"jp":"つやつやと光沢があり、硬く鋭い猪の牙。","fr":"Une défense de sanglier brillante, dure et acérée."}
+{"id":1555037,"jp":"ボアラーガから落ちた長い牙。シャルル村の村民に好まれている品で、さまざまな日用品に加工できる。","fr":"Une longue défense provenant d'un Boaraga. Très prisée des habitants du Village de Charlulu, elle peut être transformée en toutes sortes d'objets du quotidien."}
 {"id":1555038,"jp":"布人形","fr":"Poupée de chiffon"}
+{"id":1555039,"jp":"道端に落ちていた布人形。","fr":"Une poupée de chiffon retrouvée au bord du chemin."}
+{"id":1555040,"jp":"古びているが綺麗な布人形。幼い持ち主に大切にされていたことがひと目でわかる。","fr":"Une poupée de chiffon ancienne, mais bien entretenue. On devine au premier regard combien elle était chère à l'enfant qui la possédait."}
 {"id":1555041,"jp":"双頭の木彫り","fr":"Sculpture en bois à deux têtes"}
+{"id":1555042,"jp":"おとなの腰ほどの高さで、狼と鷹が背中合わせになった双頭の木彫り。","fr":"Une sculpture en bois à deux têtes, représentant un loup et un faucon dos à dos. Elle arrive à hauteur de taille d'un adulte."}
+{"id":1555043,"jp":"狼と鷹の頭が背中合わせになった木彫り。お互いに背中を預けているかのように作られており、非常に精巧である。","fr":"Une sculpture en bois représentant une tête de loup et une tête de faucon adossées l'une à l'autre, comme si chacun confiait ses arrières à l'autre. Sa réalisation est d'une finesse remarquable."}
 {"id":1555044,"jp":"琥珀の欠片","fr":"Fragment d'ambre"}
+{"id":1555045,"jp":"不規則な形をした宝石の欠片。","fr":"Un fragment de pierre précieuse aux contours irréguliers."}
+{"id":1555046,"jp":"ティティが『大金をはたいて』買ったと言う琥珀の欠片。貴重な琥珀を探すためのサンプルとして使うらしい。","fr":"Un fragment d'ambre que Tiffy affirme avoir acheté en « dépensant une fortune ». Il servirait d'échantillon de référence pour rechercher de l'ambre précieux."}
 {"id":1555047,"jp":"豪華おやつセット","fr":"Assortiment de friandises de luxe"}
+{"id":1555048,"jp":"パンパンに詰まったおやつセット。","fr":"Un assortiment de gourmandises rempli à ras bord."}
 {"id":1555050,"jp":"荷物","fr":"Colis"}
 {"id":1555053,"jp":"エンカク特製の鎧","fr":"Armure spéciale d'Enkaku"}
 {"id":1555054,"jp":"エンカク特製の鎧。","fr":"Une armure spécialement confectionnée par Enkaku."}
