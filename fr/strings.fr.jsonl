@@ -55517,7 +55517,7 @@
 {"id":1554046,"jp":"もちろん……秘密基地に隠しておいた私の宝物は、\nちゃんと取り返さないといけないけどね！","fr":"Bien sûr… Il faut quand même que je récupère tous les trésors\nque j'avais cachés dans ma base secrète !"}
 {"id":1554047,"jp":"ねえ、依頼内容を変更してもいい？\n私の荷物を全部取り戻すのを手伝ってほしいの。わるいけど、急いでね！","fr":"Dis, je peux modifier les objectifs de la Mission ?\nJ'aimerais que tu m'aides à récupérer toutes mes affaires. Désolée, mais il faut faire vite !"}
 {"id":1554048,"jp":"パミー郵便局へようこそ……って、星臨者さま！\nいいところに来てくれました、ちょっと手伝ってくれませんか？","fr":"Bienvenue au bureau de poste des Pammy… Oh, Enfant des étoiles !\nVous arrivez à point nommé ! Pourriez-vous me donner un coup de main ?"}
-{"id":1554049,"jp":"実は……さっき飛空船の中の郵便物を整理しに行ったのですが、\n中にキボが1匹紛れ込んでいたんです……","fr":"En fait… Je suis allé trier le courrier à bord du dirigeable tout à l'heure,\net j'ai découvert qu'un Kibo s'était glissé parmi les colis…"}
+{"id":1554049,"jp":"実は……さっき飛空船の中の郵便物を整理しに行ったのですが、\n中にキボが1匹紛れ込んでいたんです……","fr":"En fait… Tout à l'heure, en triant le courrier à bord du dirigeable,\nj'ai découvert qu'un Kibo s'était glissé parmi les colis…"}
 {"id":1554050,"jp":"ゲロ？","fr":"Coâ ?"}
 {"id":1554051,"jp":"このフログーレがいま話していたキボです。ずっと説明しているんですが……\n「自分は『郵便物』だから受取人に『送られる』必要がある」って信じて疑わないんです……","fr":"Ce Frogure est le Kibo dont je vous parlais. J'ai beau lui expliquer la situation…\nIl reste persuadé d'être un « colis » qui doit être « livré » à son destinataire…"}
 {"id":1554052,"jp":"配達員としては、『郵便物』ならばきちんと配達しなくてはいけないのかもしれませんが……\n受取人の手がかりも全くない状態で……","fr":"En tant que facteur, s'il s'agit vraiment d'un « colis », je suppose que je devrais assurer sa livraison…\nMais je n'ai absolument aucun indice sur l'identité de son destinataire…"}
@@ -55571,9 +55571,59 @@
 {"id":1554100,"jp":"さあさあ、一緒にこの陽気な歌を思いっきり歌いましょう！","fr":"Allez, tout le monde ! Chantons ensemble cette joyeuse chanson à pleins poumons !"}
 {"id":1554101,"jp":"フログーレの演奏が終わると、観客たちは次々と拍手をした……","fr":"Lorsque le Frogure a terminé sa prestation, les applaudissements ont fusé parmi les spectateurs…"}
 {"id":1554102,"jp":"いいね！最高だ……こんなに楽しい気分になったのは久しぶりだよ……","fr":"Génial ! C'était extraordinaire… Ça faisait longtemps que je n'avais pas ressenti autant de joie…"}
+{"id":1554103,"jp":"フログーレはすごく満足そうだし、お腹も鳴らなくなったね……\nまさか、音楽を聴くだけで『お腹いっぱい』になるのかな？","fr":"Le Frogure a l'air vraiment satisfait, et son ventre ne gargouille plus…\nIl lui suffit donc d'écouter de la musique pour être « rassasié » ?"}
+{"id":1554104,"jp":"正確には『音波』ね。フログーレはピアッドと同じで、音波を食べるの。\nその音楽が美しければ美しいほど、彼らにとっては美味しいってわけ。","fr":"Plus précisément, ce sont les « ondes sonores ». Tout comme les Piad, les Frogure se nourrissent d'ondes sonores.\nPlus la musique est belle, plus elle est savoureuse pour eux."}
+{"id":1554105,"jp":"そして、食べられた『音波』の代わりに、彼らは『お返し』をしてくれるの。","fr":"Et en échange des « ondes sonores » qu'ils consomment, ils nous offrent quelque chose en retour."}
+{"id":1554106,"jp":"え？『お返し』って……？","fr":"Hein ? Quelque chose en retour… ?"}
+{"id":1554107,"jp":"フフ、この子にしか奏でられない、みんなを楽しい気分にさせる音楽のことよ。","fr":"Héhé, une musique que lui seul sait jouer et qui remplit de joie tous ceux qui l'écoutent."}
+{"id":1554108,"jp":"ほら、酒蔵のお客さんたちもいつもよりずっと楽しそうじゃない。","fr":"Regarde, les clients de la brasserie ont l'air bien plus joyeux que d'habitude, tu ne trouves pas ?"}
+{"id":1554109,"jp":"あら、あなたたちのことを見つめているお客さんがあそこにいるわね。\n話したいことがありそうだし、あなたを独り占めするのはここまでにするわ。","fr":"Oh, il y a quelqu'un là-bas qui vous observe attentivement.\nCette personne semble avoir quelque chose à vous dire, alors je vais arrêter de monopoliser ton attention."}
+{"id":1554110,"jp":"それじゃ、また遊びに来てね！","fr":"Sur ce, reviens nous voir quand tu veux !"}
+{"id":1554111,"jp":"突然申し訳ありません、{playerName}さま。\nひとつお聞きしてもよろしいでしょうか？","fr":"Veuillez m'excuser de vous interrompre, {playerName}.\nPuis-je vous poser une question ?"}
+{"id":1554112,"jp":"そのフログーレは、いったいなぜここにいるのでしょうか？","fr":"Pour quelle raison ce Frogure se trouve-t-il ici ?"}
+{"id":1554113,"jp":"フログーレと一緒に行動している理由をルルに説明した……","fr":"Vous avez expliqué à Lulu pourquoi vous étiez en compagnie du Frogure…"}
+{"id":1554114,"jp":"あれ？でもルルが質問してきたということは――\nこのフログーレについてなにか知っているのかな？","fr":"Attends… Si tu me poses cette question, Lulu,\nc'est que tu sais quelque chose au sujet de ce Frogure ?"}
 {"id":1554115,"jp":"……やはり隠せませんね。わたしは確かにこのフログーレを知っています。\nおそらくマチルダ院長の友人、リンデアンナさんのキボだと思われます。","fr":"… Je ne peux décidément rien cacher. Oui, je connais ce Frogure.\nC'est sans doute le Kibo de Lindeanna, une amie de la directrice Matilda."}
+{"id":1554116,"jp":"ということで、ひとつお願いがあるのですが……\nもしよければ、わたしと一緒に療養院へ来ていただけないでしょうか？","fr":"J'aurais donc un petit service à vous demander…\nSi vous le voulez bien, pourriez-vous m'accompagner à la maison de convalescence ?"}
+{"id":1554117,"jp":"院長ならこのフログーレのことを詳しく知っているかもしれません……\nそれに、この子の音楽があれば療養院のみんなを元気づけられますし。","fr":"La directrice en sait peut-être davantage sur ce Frogure…\nEt grâce à sa musique, nous pourrions également remonter le moral de tous nos patients."}
 {"id":1554118,"jp":"患者たち","fr":"Patients"}
+{"id":1554119,"jp":"なんだか空気が重いね。みんな落ち込んでいるみたいだけど、なにがあったの？","fr":"L'ambiance est plutôt morose ici. Tout le monde semble avoir le moral à zéro. Qu'est-ce qui s'est passé ?"}
+{"id":1554120,"jp":"実は、二日前にオージーくんとケリーちゃんが遊んでいたときにうっかり転んでしまったんです。\nいまは隔離して治療がほどこされている状況です。","fr":"En fait, il y a deux jours, Ozzie et Kelly ont fait une mauvaise chute en jouant ensemble.\nIls sont actuellement isolés des autres patients pour recevoir les soins nécessaires."}
+{"id":1554121,"jp":"療養院でいちばん活発なふたりがいなくなったので、みんな笑顔を失ってしまいました……\nみんな、彼らのことがとても心配ですから。","fr":"Depuis que les deux enfants les plus dynamiques de la maison de convalescence sont absents, tout le monde a perdu le sourire…\nTous les patients s'inquiètent énormément pour eux."}
+{"id":1554122,"jp":"今朝、病室に食事を届けに行ったんですが、\nオージーくんとケリーちゃんはみんなに心配をかけたくないと言っていました。","fr":"Ce matin, lorsque je leur ai apporté leur repas dans leur chambre,\nOzzie et Kelly m'ont confié qu'ils ne voulaient pas que les autres s'inquiètent pour eux."}
+{"id":1554123,"jp":"もしフログーレが療養院のみんなのために演奏すれば、\nみんな笑顔を取り戻せると思いますし、オージーくんとケリーちゃんも喜ぶのではないでしょうか？","fr":"Si le Frogure jouait de la musique pour les patients de la maison de convalescence,\nje pense qu'ils retrouveraient le sourire. Cela ferait également plaisir à Ozzie et Kelly, vous ne croyez pas ?"}
+{"id":1554124,"jp":"フログーレはこの仕事を引き受ける準備ができてるみたいだね。\n……って、どうして僕を押すの？一緒に演奏してほしいの？|フログーレはこの仕事を引き受ける準備ができてるみたいだね。\n……って、どうして私を押すの？一緒に演奏してほしいの？","fr":"On dirait que le Frogure est prêt à relever le défi.\n… Mais pourquoi tu me pousses ? Tu veux que je participe au spectacle avec toi ?|On dirait que le Frogure est prêt à relever le défi.\n… Mais pourquoi tu me pousses ? Tu veux que je participe au spectacle avec toi ?"}
 {"id":1554125,"jp":"ゲロ～ゲロロ～","fr":"Coâ~ coâ~"}
+{"id":1554126,"jp":"わかったよ、みんなのために一緒に歌おう！","fr":"D'accord ! Chantons ensemble pour leur redonner le sourire !"}
+{"id":1554127,"jp":"陽気な歌声のなか、重い雰囲気は消え去り、療養院のみんなは再び元気を取り戻した。","fr":"Au son de ces chants joyeux, l'atmosphère pesante s'est dissipée et les patients de la maison de convalescence ont retrouvé leur bonne humeur."}
+{"id":1554128,"jp":"本当にありがとうございました……","fr":"Merci infiniment pour ce que vous avez fait…"}
+{"id":1554129,"jp":"あら、こんなところで{playerName}さまに会えるなんてね。\n外から音楽が聞こえてきたから来てみたら……って、この子はリンデアンナのキボじゃないの！？","fr":"Oh, je ne pensais pas vous croiser ici, {playerName}.\nJ'ai entendu de la musique depuis l'extérieur, alors je suis venue voir… Mais attendez, ce ne serait pas le Kibo de Lindeanna !?"}
+{"id":1554130,"jp":"はい、実は酒蔵のあたりで見つけたんです。\nちょうど{playerName}さまもこの子がフリスに来た理由を知りたがっていたので、ご案内したんです。","fr":"Oui, je l'ai aperçu près de la brasserie.\nComme {playerName} souhaitait justement découvrir pourquoi ce petit était venu à Fleece, je leur ai proposé de venir ici."}
+{"id":1554131,"jp":"ポポが言ってたんだけどね……このフログーレは「自分が『郵便物』だと信じていて、\n受取人のところに『送られる』必要がある」って思っているみたいなんだよ……","fr":"D'après ce que m'a expliqué Popo… Ce Frogure semble persuadé d'être un « colis »\net pense qu'il doit être « livré » à son destinataire…"}
+{"id":1554132,"jp":"なるほどね、大体わかったわ……\nフフ、まさかこんな勘違いが起きていたなんてね……","fr":"Je vois, je comprends mieux la situation…\nHéhé, qui aurait cru qu'un tel malentendu puisse se produire…"}
+{"id":1554133,"jp":"実は、リンデアンナがロージア帝国に定住してから、\nわたしたちは手紙で連絡を取り合っていたの。","fr":"En fait, depuis que Lindeanna s'est installée dans l'Empire de Rosia,\nnous sommes restées en contact par courrier."}
+{"id":1554134,"jp":"それでこのまえ、フログーレと星絆を結んだことを彼女から教えてもらったわ。\nその子がする演奏の音色が、皆を心の底から喜ばせるからって。","fr":"Récemment, elle m'a annoncé avoir formé un Lien stellaire avec un Frogure.\nElle m'a expliqué que les mélodies qu'il jouait procuraient une joie profonde à tous ceux qui les écoutaient."}
+{"id":1554135,"jp":"それを聞いた私は、「フログーレの音楽をいくつか録音して送ってくれないか」って彼女に頼んだの。\n療養中の患者にとっても、日々を楽しく過ごすことは重要なのよ。","fr":"En apprenant cela, je lui ai demandé : « Pourrais-tu enregistrer quelques mélodies du Frogure et me les envoyer ? »\nIl est important que les patients en convalescence puissent eux aussi passer leurs journées dans la bonne humeur."}
+{"id":1554136,"jp":"おそらくフログーレは、そのときに彼女が言った\n「患者たちのために演奏して、その音楽を送る」という言葉を、\n「自分自身」が送られて演奏するものだと勘違いしたんだと思うわ……","fr":"Le Frogure a probablement mal interprété les paroles de Lindeanna :\n« Jouer de la musique pour les patients et leur envoyer les mélodies. »\nIl a dû comprendre que c'était lui-même qu'on allait envoyer pour donner un concert…"}
+{"id":1554137,"jp":"だから、リンデアンナが用意した郵便小包のなかに潜り込んで、飛空船に乗って来たのよ。","fr":"C'est donc pour cette raison qu'il s'est glissé dans un colis préparé par Lindeanna et qu'il a fait le voyage jusqu'ici à bord du dirigeable."}
+{"id":1554138,"jp":"ほら、これを見てちょうだい。\nリンデアンナからさっき手紙が届いたんだけど、フログーレを送り返してほしいんですって。","fr":"Tenez, regardez ceci.\nJe viens de recevoir une lettre de Lindeanna dans laquelle elle nous demande de lui renvoyer le Frogure."}
+{"id":1554139,"jp":"パミー郵便局へようこそ！\nあ、星臨者さま！どうですか、フログーレとはうまくやっていますか？","fr":"Bienvenue au bureau de poste des Pammy !\nOh, Enfant des étoiles ! Alors, tout se passe bien avec le Frogure ?"}
+{"id":1554140,"jp":"えっと、マチルダ院長の話によると……","fr":"Eh bien, d'après les explications de la directrice Matilda…"}
+{"id":1554141,"jp":"フログーレのことをポポに伝えた……","fr":"Vous avez expliqué à Popo toute l'histoire du Frogure…"}
+{"id":1554142,"jp":"ええっ、そういうことだったのですね！？\n……はあ……これからは、荷物を積むまえにちゃんと中身をチェックしないとダメみたいですね……","fr":"Quoi !? C'était donc ça !?\n… Ah là là… À l'avenir, il va vraiment falloir que je vérifie le contenu des colis avant de les charger à bord…"}
+{"id":1554143,"jp":"ともあれ、事情もはっきりしたことですし、ぼくがフログーレを連れて帰ります！","fr":"Quoi qu'il en soit, maintenant que tout est clair, je vais personnellement raccompagner le Frogure chez lui !"}
+{"id":1554144,"jp":"そして{playerName}さま、ぜひこの報酬を受け取ってください！\n今回ずっと助けてもらったお礼です！","fr":"Et surtout, {playerName}, veuillez accepter cette récompense !\nC'est pour vous remercier de toute l'aide que vous m'avez apportée !"}
+{"id":1554145,"jp":"というわけで、パミー郵便局はまたのご利用をお待ちしています！","fr":"Le bureau de poste des Pammy vous remercie et espère vous revoir très bientôt !"}
+{"id":1554146,"jp":"こちら、どうぞチラシをお持ちくださーい！新しい園芸展が開催中です。\n面白い作品がたくさん集まっています。こちらが展覧会のチラシで……","fr":"Approchez, approchez ! Prenez un prospectus ! Une nouvelle exposition horticole a ouvert ses portes !\nDe nombreuses créations originales vous y attendent. Voici le prospectus de l'exposition…"}
+{"id":1554147,"jp":"……って、{playerName}さん？どうもこんにちは。\nここでお会いするなんて思いませんでしたよ。","fr":"… Oh, {playerName} ? Bonjour à vous !\nJe ne pensais pas vous rencontrer ici."}
+{"id":1554148,"jp":"シロロはなにをしてるの？","fr":"Qu'est-ce que tu fais, Shiroro ?"}
+{"id":1554149,"jp":"それって新しい公務かな？","fr":"C'est une nouvelle mission officielle ?"}
+{"id":1554150,"jp":"いえいえ、今日はお休みです！\n実は今朝、金穂の家のまえを通りかかったところ、あちらで園芸展が開かれておりまして。","fr":"Non, pas du tout, je suis en congé aujourd'hui !\nEn passant devant la Maison de l'Épi doré ce matin, j'ai découvert qu'une exposition horticole s'y tenait."}
+{"id":1554151,"jp":"神殿の人手が足りていないようでしたので、\n私から宣伝のお手伝いを申し出たんです……","fr":"Le temple semblait manquer de personnel,\nalors je me suis proposé pour les aider à faire connaître l'événement…"}
+{"id":1554152,"jp":"というわけで、いまはこうしてチラシを配りながら、\n内容に興味を持った観光客の方に案内をしているわけです！","fr":"Voilà pourquoi je distribue actuellement des prospectus,\ntout en renseignant les touristes qui s'intéressent à l'exposition !"}
+{"id":1554153,"jp":"でも、まだずいぶんチラシは残ってるみたいだね……","fr":"Mais on dirait qu'il te reste encore beaucoup de prospectus à distribuer…"}
+{"id":1554154,"jp":"そ、それは……はい、やっぱり私ひとりの力では限界がありますね……","fr":"C-c'est que… Enfin, oui, je dois reconnaître que je ne peux pas tout faire seul…"}
+{"id":1554155,"jp":"本当ですか、ありがとうございます！これでチラシ配りがはやく終わります！","fr":"Vraiment ? Merci beaucoup ! Grâce à votre aide, nous terminerons la distribution bien plus rapidement !"}
 {"id":1554158,"jp":"イトーンの観光客","fr":"Touriste d'Iton"}
 {"id":1554171,"jp":"ポポ？","fr":"Popo ?"}
 {"id":1554176,"jp":"ポポ〜","fr":"Popo~"}
