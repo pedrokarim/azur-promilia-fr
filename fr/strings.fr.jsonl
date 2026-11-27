@@ -54248,13 +54248,13 @@
 {"id":1552777,"jp":"またメルトレイク？なら丁度いい機会だから、直接確認しに行こうか。","fr":"Encore le lac Melt ? Ça tombe bien, allons voir de nos propres yeux."}
 {"id":1552778,"jp":"了解しました！では私が案内しますね！","fr":"Très bien ! Je vais vous montrer le chemin !"}
 {"id":1552779,"jp":"いいか、計画は単純だ。ここでひとつ大火事を起こせば、アマルテイアは必ず消火に来る。\nそこで、準備しておいた罠にかけて捕まえる……ってわけだ。","fr":"Écoutez bien, le plan est simple. On déclenche un gros incendie ici, et Amalthea viendra forcément l'éteindre.\nIl ne restera plus qu'à le capturer avec les pièges qu'on a préparés…"}
-{"id":1552780,"jp":"隊長、その罠って本当に効くのか？あのキボ、かなりの巨体だと思うんだが……","fr":"Chef, t'es sûr que ces pièges vont fonctionner ? Ce Kibo est quand même sacrément imposant…"}
+{"id":1552780,"jp":"隊長、その罠って本当に効くのか？あのキボ、かなりの巨体だと思うんだが……","fr":"Chef, ces pièges vont vraiment fonctionner ? Ce Kibo est quand même sacrément imposant…"}
 {"id":1552781,"jp":"それに空を飛べるし……","fr":"Et en plus, il sait voler…"}
 {"id":1552782,"jp":"ふん、だから多めに仕掛けたんだよ。\nあいつが火を消してる隙に、四方から同時に起動させるって寸法だ。","fr":"Pff, c'est bien pour ça que j'en ai installé autant.\nPendant qu'il s'occupera d'éteindre le feu, on les déclenchera des quatre côtés en même temps."}
 {"id":1552783,"jp":"アマルテイアを捕らえりゃ、高値で売れる。そしたら山分けだ！","fr":"Une fois Amalthea capturé, on pourra le revendre à prix d'or. Et après, on se partagera le pactole !"}
 {"id":1552784,"jp":"おお、さすが兄貴！ずる賢いぜ！","fr":"Oh, bien joué, chef ! Qu'est-ce que t'es sournois !"}
 {"id":1552785,"jp":"おい待て、『ずる賢い』いってのは悪口だ。こういうときは『老獪』と言うべきだ！","fr":"Hé, attends un peu ! « Sournois », c'est une insulte. Le mot que tu cherches, c'est « fin stratège » !"}
-{"id":1552786,"jp":"おっ、そ、そうか……って、本当か？","fr":"Ah, j-je vois… Attends, t'es sûr ?"}
+{"id":1552786,"jp":"おっ、そ、そうか……って、本当か？","fr":"Ah, j-je vois… Attends, c'est vrai ?"}
 {"id":1552787,"jp":"いいから、無駄口叩いてないで、さっさと仕事しろ！","fr":"Bon, assez bavardé ! Arrêtez de raconter des âneries et au boulot !"}
 {"id":1552788,"jp":"ちょっと待った！そんな計画はやめるんだ！|ちょっと待った！そんな計画、やめて！","fr":"Pas si vite ! Abandonnez ce plan immédiatement !|Pas si vite ! Abandonnez ce plan immédiatement !"}
 {"id":1552789,"jp":"フリスの見習い保安官、シロロです！\n公共の安全を脅かした罪で、大人しく捕まりなさい！","fr":"Shiroro, shérif stagiaire de Fleece !\nVous êtes en état d'arrestation pour mise en danger de la sécurité publique. Rendez-vous sans faire d'histoires !"}
@@ -54278,12 +54278,62 @@
 {"id":1552807,"jp":"すこしだけね。まず、最近異変が起きた場所に印をしてみるよ――","fr":"J'ai une petite idée. Pour commencer, je vais marquer les endroits où les dernières anomalies se sont produites…"}
 {"id":1552808,"jp":"――これが確認できた異変の発生した地点だけど、まず、ひとつ目の共通点は――","fr":"… Voilà tous les endroits où ces phénomènes ont été confirmés. Le premier point commun, c'est que…"}
 {"id":1552809,"jp":"どれも水に近いんだ。|どれも水に近いの。","fr":"Ils sont tous à proximité de l'eau.|Ils sont tous à proximité de l'eau."}
+{"id":1552810,"jp":"どれも植物に関連しているんだ。|どれも植物に関連しているの。","fr":"Ils ont tous un rapport avec les plantes.|Ils ont tous un rapport avec les plantes."}
+{"id":1552811,"jp":"どれもフリスの街外れで起きているんだ。|どれもフリスの街外れで起きているの。","fr":"Ils se produisent tous aux abords de Fleece.|Ils se produisent tous aux abords de Fleece."}
+{"id":1552812,"jp":"おお、たしかにどれも川から遠くないのだ。\n川の中で起きた異変すらあるのだ。","fr":"Oh, c'est vrai ! Aucun de ces endroits n'est très éloigné de la rivière.\nIl y a même eu une anomalie dans la rivière elle-même !"}
+{"id":1552813,"jp":"どうだろうな……以前の報告もすべて植物に関連してたし、\nいまさら特別な手がかりにはならないんじゃないか？","fr":"Je ne sais pas trop… Tous les signalements précédents concernaient déjà les plantes.\nJe doute que ce soit un indice particulièrement utile."}
+{"id":1552814,"jp":"え？それって、単にフリスの農地がすべて街外れにあるからじゃないのか？","fr":"Hein ? Ce ne serait pas simplement parce que toutes les terres agricoles de Fleece se trouvent en dehors de la ville ?"}
+{"id":1552815,"jp":"ゴホン……いまのは冗談だよ。","fr":"Hum, hum… C'était pour rire."}
+{"id":1552816,"jp":"以前の異変は、すべてメルトレイク付近で起きていたが、いまは川沿いで起きるようになった。\nということは、異変は水に関連している――ということか？","fr":"Auparavant, toutes les anomalies se produisaient près du lac Melt, alors qu'elles surviennent maintenant le long de la rivière.\nTu veux donc dire que ces phénomènes sont liés à l'eau ?"}
+{"id":1552817,"jp":"そうだね、僕の考えだと――|nそうだね、私の考えだと――","fr":"Exactement. D'après ce que j'observe…|nExactement. D'après ce que j'observe…"}
+{"id":1552818,"jp":"異変の発生地点はメルトレイクから徐々に遠ざかっているんだ。|異変の発生地点はメルトレイクから徐々に遠ざかっているの。","fr":"Les anomalies se produisent de plus en plus loin du lac Melt.|Les anomalies se produisent de plus en plus loin du lac Melt."}
+{"id":1552819,"jp":"異変は同時に起きたわけじゃないんだ。|異変は同時に起きたわけじゃないの。","fr":"Les anomalies ne se sont pas toutes produites au même moment.|Les anomalies ne se sont pas toutes produites au même moment."}
+{"id":1552820,"jp":"異変が起きた土地はきっと肥沃なんだ。|異変が起きた土地はきっと肥沃なの。","fr":"Les terres touchées par les anomalies sont certainement fertiles.|Les terres touchées par les anomalies sont certainement fertiles."}
+{"id":1552821,"jp":"たしかに異変が同時に発生したという証拠はない。が、そのことにどんな意味があるんだ？","fr":"C'est vrai, rien ne prouve qu'elles se soient produites simultanément. Mais qu'est-ce que ça nous apprend ?"}
+{"id":1552822,"jp":"たしかに、そのとおりなのだ。","fr":"Effectivement, c'est tout à fait exact !"}
+{"id":1552823,"jp":"んん？どうしてわかったのだ？まさか当てずっぽうか？","fr":"Hein ? Comment tu as deviné ça ? Tu n'aurais pas répondu au hasard, par hasard ?"}
+{"id":1552824,"jp":"というわけで僕の推測は――|というわけで私の推測は――","fr":"Tout ça m'amène à penser que…|Tout ça m'amène à penser que…"}
+{"id":1552825,"jp":"これは赤蠍団の陰謀だね。","fr":"C'est un complot des Scorpions rouges."}
+{"id":1552826,"jp":"アマルテイアが移動してるってことだよ。","fr":"Amalthea est en train de se déplacer."}
+{"id":1552827,"jp":"新種の不思議なキボが現れたんだよ。","fr":"Une nouvelle espèce mystérieuse de Kibo est apparue."}
+{"id":1552828,"jp":"赤蠍団が……川沿いで作物を異常なまでに育てているというのか……？","fr":"Les Scorpions rouges… feraient pousser les cultures de manière démesurée le long de la rivière… ?"}
+{"id":1552829,"jp":"つまり……異変の場所とアマルテイアの位置が連動している、と言いたいのか？","fr":"Autrement dit… tu penses que les anomalies suivent les déplacements d'Amalthea ?"}
+{"id":1552830,"jp":"えっ？それって……これまでの手がかりとなんの関係があるのだ？","fr":"Hein ? Mais… quel rapport avec les indices qu'on a trouvés jusqu'ici ?"}
+{"id":1552831,"jp":"そう、異変はアマルテイアが引き起こしたものである可能性が高いと思うよ。\n以前はメルトレイクに住んでいたから、その付近での異変が多く発生したんだ。\nそして、移動をはじめたから、異変が起きる場所も変わったんじゃないかな……|そう、異変はアマルテイアが引き起こしたものである可能性が高いと思うよ。\n以前はメルトレイクに住んでいたから、その付近での異変が多く発生したの。\nそして、移動をはじめたから、異変が起きる場所も変わったんじゃないかな……","fr":"Oui, je pense qu'il y a de fortes chances qu'Amalthea soit à l'origine des anomalies.\nComme Amalthea vivait près du lac Melt, la plupart des phénomènes se produisaient dans les environs.\nEt depuis qu'Amalthea a commencé à se déplacer, les anomalies semblent suivre le même chemin…|Oui, je pense qu'il y a de fortes chances qu'Amalthea soit à l'origine des anomalies.\nComme Amalthea vivait près du lac Melt, la plupart des phénomènes se produisaient dans les environs.\nEt depuis qu'Amalthea a commencé à se déplacer, les anomalies semblent suivre le même chemin…"}
+{"id":1552832,"jp":"だがもし、アマルテイアが本当に川に沿って移動しているなら、だれかが見かけてもいいはずじゃないか？\nそもそも、アマルテイアがなぜ異変を起こせるのかは一旦棚に上げるとして……","fr":"Mais si Amalthea se déplace réellement le long de la rivière, quelqu'un aurait forcément dû l'apercevoir, non ?\nSans même aborder la question de savoir comment Amalthea provoque ces anomalies…"}
+{"id":1552833,"jp":"もしかしたら、隠れた移動経路があるのかもしれないね。\n伝承によれば、アマルテイアは目立つことを好まないらしいし。それから、アマルテイアの力は\n水系の星脈エネルギーが源だと書いてあったから、星脈に潜って、人目を避けているんじゃないかな。","fr":"Peut-être qu'Amalthea emprunte un passage secret.\nD'après la légende, ce Kibo préfère passer inaperçu. Le livre disait également que son pouvoir\nprovenait de l'Énergie des veines stellaires de Lignée Eau. Peut-être qu'Amalthea s'y déplace à l'abri des regards."}
+{"id":1552834,"jp":"もし僕の推測が正しければ、アマルテイアはこのまま川に沿って移動すると思う。\n問題は、どうやって地上におびき出すのかってことだけど……\nまだまだ分からないことが多すぎるから、実際に会ってみないことにはなんとも言えないね……|もし私の推測が正しければ、アマルテイアはこのまま川に沿って移動すると思う。\n問題は、どうやって地上におびき出すのかってことだけど……\nまだまだ分からないことが多すぎるから、実際に会ってみないことにはなんとも言えないね……","fr":"Si mon hypothèse est juste, Amalthea devrait continuer à longer la rivière.\nReste à savoir comment le faire remonter à la surface…\nIl y a encore trop de choses qu'on ignore. Difficile d'en dire plus sans le rencontrer…|Si mon hypothèse est juste, Amalthea devrait continuer à longer la rivière.\nReste à savoir comment le faire remonter à la surface…\nIl y a encore trop de choses qu'on ignore. Difficile d'en dire plus sans le rencontrer…"}
+{"id":1552835,"jp":"ああ、そのことなら心配いらないのだ。\nキボは星脈の中に長い間とどまっていられない性質だから、ずっと隠れてられないのだ。","fr":"Ah, inutile de t'inquiéter pour ça !\nLes Kibo ne peuvent pas rester longtemps à l'intérieur des veines stellaires. Amalthea ne pourra donc pas s'y cacher indéfiniment."}
+{"id":1552836,"jp":"よし、じゃあいまの推測を踏まえてアマルテイアを追いかけよう！\nジルスは引き続き異変の情報共有を頼んだよ！","fr":"Parfait ! Alors, suivons cette piste et partons à la recherche d'Amalthea !\nJils, continue de nous transmettre les informations sur les anomalies !"}
+{"id":1552837,"jp":"問題ない。シロロは{playerName}と一緒に行ってくれ。\n迷跡の森へ向かうのなら、お前の方向感覚が役に立つはずだ。","fr":"Pas de problème. Shiroro, accompagne {playerName}.\nSi vous vous dirigez vers la forêt des Traces perdues, ton sens de l'orientation leur sera certainement utile."}
+{"id":1552838,"jp":"ちょっと待って……ここ、もしかして……","fr":"Attends un peu… Ce serait…"}
+{"id":1552839,"jp":"はい、とても馴染みがある感じがします。","fr":"Oui, cette sensation m'est très familière."}
+{"id":1552840,"jp":"エネルギーの残留があるのだ。\nアマルテイアが火事の現場に現れたときの気配と全く同じなのだ。","fr":"Il reste de l'Énergie résiduelle ici !\nLa grande Lumi reconnaît exactement la même présence que lorsqu'Amalthea est apparu sur les lieux de l'incendie."}
+{"id":1552841,"jp":"さすが{playerName}さん！本当にアマルテイアが見つかるなんて……！","fr":"Vous êtes vraiment incroyable, {playerName} ! Dire que nous avons réellement retrouvé Amalthea… !"}
+{"id":1552842,"jp":"痕跡を見つけただけだよ。","fr":"Je n'ai trouvé qu'une Trace de son passage."}
+{"id":1552843,"jp":"ふむ……残留エネルギーがまだ残ってるということは、\nアマルテイアは遠くへ行ってないはず。よし、すぐに追いかけるのだ！","fr":"Hmm… S'il reste encore de l'Énergie résiduelle ici,\nc'est qu'Amalthea ne doit pas être bien loin. Allez, dépêchons-nous de le rattraper !"}
+{"id":1552844,"jp":"あっ、見えた！本当にアマルテイアなのだ！","fr":"Ah, le voilà ! C'est bien Amalthea !"}
+{"id":1552845,"jp":"本当に異変報告だけで位置を特定するなんて……{playerName}さんはやはりすごい方です！","fr":"Réussir à déterminer sa position à partir de simples signalements d'anomalies… Vous ne cessez de m'impressionner, {playerName} !"}
+{"id":1552846,"jp":"でも、やっぱりよく分からない……なんでアマルテイアは作物を異常なまでに成長させたんだ？\nそれに、どうして迷跡の森に来たんだろう……|でも、やっぱりよく分からない……なんでアマルテイアは作物を異常なまでに成長させたの？\nそれに、どうして迷跡の森に来たんだろう……","fr":"Mais il y a toujours quelque chose que je ne comprends pas… Pourquoi Amalthea a-t-il fait pousser les cultures à ce point ?\nEt pourquoi être venu dans la forêt des Traces perdues… ?|Mais il y a toujours quelque chose que je ne comprends pas… Pourquoi Amalthea a-t-il fait pousser les cultures à ce point ?\nEt pourquoi être venu dans la forêt des Traces perdues… ?"}
+{"id":1552847,"jp":"おい、あれを見てくれ。アマルテイアがずっとフリスの方を見ているのだ。","fr":"Hé, regarde un peu ! Amalthea n'arrête pas de regarder en direction de Fleece."}
+{"id":1552848,"jp":"すこし飛んでは立ち止まって、またフリスを振り返って……\nあんな調子じゃ全然進まないのも当然だな。\nどうりであたしたちがアマルテイアに追いつけたわけだ。","fr":"Il vole un peu, s'arrête, puis se retourne encore vers Fleece…\nÀ ce rythme-là, pas étonnant qu'il n'avance presque pas.\nLa grande Lumi comprend mieux pourquoi on a réussi à le rattraper."}
+{"id":1552849,"jp":"もしかして……アマルテイアはフリスを離れようとしているんですかね？","fr":"Serait-il possible… qu'Amalthea cherche à quitter Fleece ?"}
+{"id":1552850,"jp":"わからないね……\nもし離れたいのだとしたら、立ち止まったりしないんじゃないかな？","fr":"Difficile à dire…\nS'il voulait vraiment partir, pourquoi s'arrêterait-il sans cesse ?"}
+{"id":1552851,"jp":"離れたいのに立ち止まる……わからないのだ……","fr":"Vouloir partir, mais s'arrêter sans cesse… La grande Lumi ne comprend pas…"}
 {"id":1552852,"jp":"フォー！？","fr":"Fo !?"}
+{"id":1552853,"jp":"マズい、私たちの声が大きすぎて気づかれたみたいです！","fr":"Mince ! Nous avons parlé trop fort, il semble nous avoir repérés !"}
+{"id":1552854,"jp":"待って、アマルテイア！僕たちは話がしたいだけなんだ！|待って、アマルテイア！私たちは話がしたいだけなの！","fr":"Attends, Amalthea ! On veut juste te parler !|Attends, Amalthea ! On veut juste te parler !"}
 {"id":1552855,"jp":"フォ、ウゥ――！","fr":"Fo, uuu~ !"}
 {"id":1552856,"jp":"飛んでいきました！","fr":"Il s'est envolé !"}
 {"id":1552857,"jp":"フォ……ウゥ……","fr":"Fo… uuu…"}
 {"id":1552858,"jp":"あ、止まった！","fr":"Ah, il s'est arrêté !"}
+{"id":1552859,"jp":"よかった、私たちの話を聞いてくれるんですね！","fr":"Ouf ! Il accepte de nous écouter !"}
+{"id":1552860,"jp":"ねえ、アマルテイア。\nどうしてフリスを離れるんだ？なにか困ったことでもあった？|ねえ、アマルテイア。\nどうしてフリスを離れるの？なにか困ったことでもあった？","fr":"Dis, Amalthea.\nPourquoi veux-tu quitter Fleece ? Il t'est arrivé quelque chose ?|Dis, Amalthea.\nPourquoi veux-tu quitter Fleece ? Il t'est arrivé quelque chose ?"}
 {"id":1552861,"jp":"フォ～ウゥーフォー","fr":"Fo~ uuu~ fo !"}
+{"id":1552862,"jp":"アマルテイアが言うには……\nこのまえ、火を消すために雨を降らせてから、自分の力が制御できずに力が溢れ出してしまい、\nそのせいで、近くの畑の作物が異常に成長してしまった――ということらしいのだ。","fr":"D'après ce qu'Amalthea raconte…\nDepuis qu'il a fait tomber la pluie pour éteindre l'incendie l'autre jour, il ne parvient plus à maîtriser son pouvoir, qui déborde malgré lui.\nC'est ce qui aurait provoqué la croissance anormale des cultures dans les champs voisins."}
+{"id":1552863,"jp":"で、このままだとフリスに迷惑をかけるから、\n自分の力が影響しないハイエルフの森へ引っ越そうと決めた――","fr":"Et comme il ne veut pas causer davantage de problèmes à Fleece,\nil a décidé de partir vivre dans la forêt des Hauts-Elfes, où son pouvoir ne causera aucun tort…"}
+{"id":1552864,"jp":"ただ、歩みはとても遅かったし、ずっとフリスを振り返っていたね。","fr":"Pourtant, tu avançais très lentement et tu n'arrêtais pas de regarder derrière toi, en direction de Fleece."}
+{"id":1552865,"jp":"それは当然なのだ！アマルテイアはフリスがすこしずつ成長していくのを見守ってきたのだ。\nこんなに深い愛着があったら、だれだって離れたくないのだ。","fr":"Mais c'est tout naturel ! Amalthea veille sur Fleece depuis longtemps et a vu la ville grandir petit à petit.\nQuand on tient autant à un endroit, personne n'a envie de le quitter !"}
 {"id":1552869,"jp":"ウッ～？","fr":"Uh~ ?"}
 {"id":1552871,"jp":"あっ、もしかして――","fr":"Ah, serait-ce…"}
 {"id":1552881,"jp":"フウゥ～","fr":"Fuuu~"}
