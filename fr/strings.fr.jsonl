@@ -58141,8 +58141,68 @@
 {"id":1556551,"jp":"ティティとノノが中立都市フリスへ仕入れに行こうとしている。ふたりは、あなたが最近気を張りすぎているのではないかと心配し、気分転換にフリスまで一緒に行こうと誘ってくれた。","fr":"Tiffy et Nono s'apprêtent à partir s'approvisionner à Fleece, la cité neutre. Elles trouvent que l'Enfant des étoiles est bien sur les nerfs ces derniers temps et lui proposent de les accompagner à Fleece pour se changer les idées."}
 {"id":1556552,"jp":"フリスに着いたら、ティティとノノと話してみよう。ふたりはどうやら新しい計画があるようだ。","fr":"À votre arrivée à Fleece, allez discuter avec Tiffy et Nono. Elles semblent avoir un nouveau projet en tête."}
 {"id":1556553,"jp":"フリス郊外の荒野には、奇妙な試練が待ち受けているようだ。好奇心の導くままに、真相を確かめてみよう！","fr":"Une mystérieuse épreuve semble vous attendre dans les terres sauvages aux alentours de Fleece. Laissez-vous guider par votre curiosité pour découvrir ce qui s'y cache !"}
-{"id":1556554,"jp":"ナイトフォールが巣穴に招待してくれた。しかし、その目には異様な熱意が宿っているような？","fr":"Vespervamp vous a invité à découvrir son repaire. Mais n'y aurait-il pas une étrange lueur d'enthousiasme dans son regard ?"}
+{"id":1556554,"jp":"ナイトフォールが巣穴に招待してくれた。しかし、その目には異様な熱意が宿っているような？","fr":"Vespervamp vous propose de découvrir son repaire. Mais n'y aurait-il pas une étrange lueur d'enthousiasme dans son regard ?"}
 {"id":1556555,"jp":"村長の家の前へ向かい、村長を見つけてタナの火祭りの準備状況を尋ねよう。","fr":"Rendez-vous devant la maison du Chef du village pour le retrouver et lui demander où en sont les préparatifs de la fête du feu de Tana."}
+{"id":1556556,"jp":"ズートル広場へ向かい、祭典の準備をしている村民たちに挨拶しよう。","fr":"Rendez-vous sur la place Zutor pour saluer les villageois qui préparent les festivités."}
+{"id":1556557,"jp":"広場にメーツァの姿はなかった。シャルル村の門の前へ向かい、彼女を探そう。","fr":"Metsa n'était pas sur la place. Allez la chercher devant les portes du Village de Charlulu."}
+{"id":1556558,"jp":"メーツァがシャルル村の門の前に現れた。彼女と話してみよう。","fr":"Metsa est apparue devant les portes du Village de Charlulu. Allez discuter avec elle."}
+{"id":1556559,"jp":"ズートル広場に戻り、『タナの火祭り』に参加する仲間たちと合流しよう。","fr":"Retournez sur la place Zutor pour retrouver vos compagnons qui participent à la fête du feu de Tana."}
+{"id":1556560,"jp":"村長がタナの火祭りの開始を宣言しようとしている。みんなに何を話すのか聞いてみよう。","fr":"Le Chef du village s'apprête à annoncer l'ouverture de la fête du feu de Tana. Écoutez ce qu'il a à dire à tous les habitants."}
+{"id":1556561,"jp":"祭祀儀式がまもなくはじまる。前へ進み、ルルカが執り行うタナの火祭りを見届けよう。","fr":"Le rituel sacré va bientôt commencer. Avancez pour assister à la cérémonie de la fête du feu de Tana, présidée par Luruka."}
+{"id":1556562,"jp":"手紙がポポのところに届いた。さっそく見に行ってみよう。","fr":"Une lettre est arrivée chez Popo. Allez voir de quoi il s'agit sans tarder."}
+{"id":1556563,"jp":"ジルスはなにか困りごとを抱えているようだ。彼と話してみよう。","fr":"Jils semble avoir quelques ennuis. Allez discuter avec lui."}
+{"id":1556564,"jp":"『とんでもない麦』はいったいどれほどとんでもないのだろうか？報告があった場所へ見に行ってみよう。","fr":"En quoi ce fameux « blé incroyable » est-il si incroyable ? Rendez-vous à l'endroit signalé pour le découvrir."}
+{"id":1556565,"jp":"聞き覚えのある声だ。シロロの声に違いない、一刻もはやく助け出さなければ！","fr":"Cette voix vous est familière. C'est forcément celle de Shiroro ! Il faut lui porter secours au plus vite !"}
+{"id":1556566,"jp":"麦の異常成長については、どうにも手がかりがつかめない……まずは戻って、ジルスに報告することにしよう。","fr":"Impossible de trouver le moindre indice expliquant la croissance anormale du blé… Pour l'instant, retournez faire votre rapport à Jils."}
+{"id":1556567,"jp":"領主邸の書斎にはアマルテイアに関する書籍が保管されている。領主邸へ向かい、探してみよう。","fr":"Des ouvrages consacrés à Amalthea sont conservés dans le cabinet d'étude du manoir du seigneur. Rendez-vous sur place pour les retrouver."}
+{"id":1556568,"jp":"書籍を調べ、手がかりを探す","fr":"Examinez les ouvrages à la recherche d'indices"}
+{"id":1556569,"jp":"見つけた！この書籍をコムギに見せに行こう。","fr":"Vous avez trouvé ce que vous cherchiez ! Allez montrer cet ouvrage à Komugi."}
+{"id":1556570,"jp":"パトロール隊がメルトレイク付近で不審な痕跡を発見した。書籍の記録と照らし合わせると、そこに手がかりが隠されているかもしれない。調べに行ってみよう。","fr":"Une patrouille a découvert des Traces suspectes aux abords du lac Melt. En les comparant aux informations consignées dans l'ouvrage, vous pourriez trouver de nouveaux indices. Allez enquêter sur place."}
+{"id":1556571,"jp":"まさか、これはすべて赤蠍団の陰謀だというのか？いずれにせよ、まずは彼らを阻止しなければ！","fr":"Tout cela ne serait-il qu'un complot des Scorpions rouges ? Quoi qu'il en soit, il faut d'abord les arrêter !"}
+{"id":1556572,"jp":"赤蠍団の陰謀を阻止したことは、作物が異常成長する問題の解決に役立つかもしれない。状況をジルスに報告しよう。","fr":"Avoir déjoué le complot des Scorpions rouges pourrait contribuer à résoudre le problème de croissance anormale des cultures. Faites part de vos découvertes à Jils."}
+{"id":1556573,"jp":"ハーヴェイの報告書を確認し、手がかりを探す。","fr":"Examinez le rapport de Harvey à la recherche d'indices."}
+{"id":1556574,"jp":"まだ情報が必要だ……パミーたちはいつも耳が早いと聞く。パミーの奇跡工房へ行って、コロコロに聞いてみよう。","fr":"Il vous faut davantage d'informations… Les Pammy ont la réputation d'être toujours au courant de tout. Rendez-vous à l'Atelier des miracles des Pammy pour interroger Korokoro."}
+{"id":1556575,"jp":"コロコロが提案してくれた。依頼所へ行ってみよう。何か新しい発見があるかもしれない。","fr":"Korokoro vous a donné une idée. Rendez-vous au bureau des Missions, où vous pourriez faire de nouvelles découvertes."}
+{"id":1556576,"jp":"糸口がつかめて来た！ジルスから地図を借りて、最後の推理を行う。","fr":"Les pièces du puzzle commencent à s'assembler ! Empruntez une carte à Jils pour tirer vos dernières conclusions."}
+{"id":1556577,"jp":"推測によれば、こうした異常はすべてアマルテイアの力によるものらしい。いまも移動を続けており、その終点は……迷跡の森！迷跡の森へ向かい、アマルテイアの状況を確認しよう。","fr":"D'après vos déductions, toutes ces anomalies seraient liées au pouvoir d'Amalthea. La créature est toujours en mouvement et sa destination serait… la forêt perdue ! Rendez-vous dans la forêt perdue pour vérifier l'état d'Amalthea."}
+{"id":1556578,"jp":"痕跡を辿り、アマルテイアを見つけよう。","fr":"Suivez les Traces pour retrouver Amalthea."}
+{"id":1556579,"jp":"アマルテイアを見つけたぞ。逃がすな、すぐ追うんだ！","fr":"Voilà Amalthea ! Ne laissez pas la créature s'échapper, lancez-vous à sa poursuite !"}
+{"id":1556580,"jp":"アマルテイアが異常をきたした原因は、エネルギーの蓄積過多にあった。アマルテイアと戦い、エネルギーを消費させよう。","fr":"Le comportement anormal d'Amalthea était dû à une Réserve d'Énergie excessive. Affrontez Amalthea pour lui faire dépenser son surplus d'Énergie."}
+{"id":1556581,"jp":"アマルテイアが元に戻った。作物の異常成長事件は無事に解決したのだろうか？コムギと話してみよう。","fr":"Amalthea a retrouvé son état normal. Le problème de croissance anormale des cultures est-il enfin résolu ? Allez en discuter avec Komugi."}
+{"id":1556582,"jp":"村長の依頼を受け、霧隠れの森の奥深くへミッシュルームの採集に向かう。しかし村長の話によると、最近の霧隠れの森では、なんだかおかしな動きがあるらしい……","fr":"En réponse à la Mission confiée par le Chef du village, aventurez-vous au plus profond de la forêt des Brumes pour récolter des Mishrooms. Toutefois, d'après lui, d'étranges phénomènes s'y produiraient depuis quelque temps…"}
+{"id":1556583,"jp":"テララは、ミッシュルームが薄暗い場所に生えていることを思い出し、意気揚々とさらに奥へと駆けていった。","fr":"Se souvenant que les Mishrooms poussent dans les endroits peu éclairés, Terara s'est élancée avec enthousiasme vers les profondeurs de la forêt."}
+{"id":1556584,"jp":"数匹のハルシィが洞窟に入り込み、騒ぎはじめた。追い払おう！","fr":"Plusieurs Halcy se sont introduits dans la grotte et ont commencé à faire un vacarme infernal. Chassez-les !"}
+{"id":1556585,"jp":"テララがなぜか突然昏睡状態に陥ってしまった。急いで彼女の様子を見てみよう。","fr":"Pour une raison inconnue, Terara a soudain sombré dans un profond coma. Vite, allez vérifier son état !"}
+{"id":1556586,"jp":"ナイトバットとの意思疎通を試みる。","fr":"Essayez de communiquer avec le Night Bat."}
+{"id":1556587,"jp":"ハルシィたちがまた現れた。しかも非常に機嫌が悪そうだ。仕方がない、まずは倒すしかない。","fr":"Les Halcy sont de retour et semblent particulièrement furieux. Il va malheureusement falloir les combattre."}
+{"id":1556588,"jp":"採集したヘミッシュルームの品質はどうだろうか。村長に聞いてみよう。","fr":"Que valent les Hemishrooms que vous avez récoltés ? Allez demander l'avis du Chef du village."}
+{"id":1556589,"jp":"ルミィに旅行に必要な物資の買い出しを頼まれたが、店主たちの様子がすこしおかしいようだ……","fr":"Lumi vous a demandé d'acheter les provisions nécessaires au voyage, mais les commerçants semblent se comporter bizarrement…"}
+{"id":1556590,"jp":"ルミィが星臨者に用事があるようだ。なんだろう？","fr":"Lumi semble avoir quelque chose à vous demander. De quoi peut-il bien s'agir ?"}
+{"id":1556591,"jp":"ルミィに旅の物資の買い出しを頼まれ、順番どおり、まずはアビィのキャンディを買いにキャンディショップへやって来た。だが、今日のシャインじいさんはどこか様子がおかしい……","fr":"Lumi vous a chargé de faire les achats nécessaires au voyage. En suivant l'ordre de sa liste, vous avez commencé par vous rendre à la confiserie pour acheter les bonbons d'Abby. Mais aujourd'hui, Papi Shine se comporte étrangement…"}
+{"id":1556592,"jp":"買い出しリストの二つ目は、テララが必要としている『速成！獣人でも身につく共通語会話』だった。しかしリュドミラは、入荷したばかりの新刊『言語と縁』をしきりに一行へ勧めてきた。それは別にイトーンの著作というわけでもないのに……","fr":"Le deuxième article de la liste était un ouvrage dont Terara avait besoin : « Méthode express ! Apprendre la langue commune, même pour les Furriens ». Pourtant, Lyudmila n'arrêtait pas de vous recommander sa dernière nouveauté, « Langage et destin », alors qu'il ne s'agissait même pas d'un ouvrage d'Iton…"}
+{"id":1556593,"jp":"最後のひとつは、シンフォーリアのためにキャンプで虫よけに使う香料を買うことだ。そこで江離のところへ来た。だが、今日は江離もどこかおかしく、どうしても鏡花州の桃花の匂い袋をオマケとして星臨者に渡したいようだ。待てよ、江離がものを渡してきたとき、なにかが見えたような？","fr":"Le dernier article de la liste est un encens destiné à Symphoria pour éloigner les insectes du campement. Vous avez donc rendu visite à Jiang Li. Mais lui aussi se comporte étrangement aujourd'hui et tient absolument à vous offrir un sachet parfumé aux fleurs de pêcher du Cap Jinghua. Un instant… N'avez-vous pas aperçu quelque chose au moment où Jiang Li vous l'a tendu ?"}
+{"id":1556594,"jp":"江離が立ち去った足跡をたどっていくと、変化を解いたばかりの塗山小玉を見つけた。彼女の説明を聞き、星臨者はようやく、彼女が頼みごとのために自分を試したのだと納得するのだった。","fr":"En suivant les empreintes laissées par Jiang Li, vous avez découvert Tushan Xiaoyu, qui venait tout juste de reprendre son apparence habituelle. Après avoir entendu ses explications, vous avez enfin compris qu'elle vous avait mis à l'épreuve avant de vous demander un service."}
+{"id":1556595,"jp":"小玉と一緒に接触場所とされる場所へ行き、怪しい者を探そう。","fr":"Rendez-vous avec Xiaoyu au lieu de rendez-vous présumé pour repérer les individus suspects."}
+{"id":1556596,"jp":"小玉と話して、情報をすり合わせよう。","fr":"Discutez avec Xiaoyu pour mettre en commun les informations recueillies."}
+{"id":1556597,"jp":"怪しい者たちは正体を見破られて逃走した。彼らの居場所まで追跡しよう。","fr":"Démasqués, les individus suspects ont pris la fuite. Suivez-les jusqu'à leur repaire."}
+{"id":1556598,"jp":"赤蠍団のメンバーは自分たちの暴利を守るため、一行に襲いかかってきた。こうなっては仕方がない。すこし懲らしめてやろう。","fr":"Pour protéger leurs profits exorbitants, les membres des Scorpions rouges ont attaqué votre groupe. Puisqu'ils le prennent ainsi, donnez-leur une bonne leçon."}
+{"id":1556599,"jp":"小玉から望郷沢で会いたいと誘われた。そろそろ出発しよう。","fr":"Xiaoyu vous a donné rendez-vous au marais du Souvenir. Il est temps de prendre la route."}
+{"id":1556600,"jp":"翌日、小玉は、密猟された桃海月たちを鏡花州へ帰してくれる者を見つけたと言った――なんとそれは、江離、シャイン、リュドミラだった。鏡花州の者が来るまでの間、小玉は桃海月と楽しそうに舞い踊り、星臨者を誘っているようだった……","fr":"Le lendemain, Xiaoyu vous a annoncé avoir trouvé des personnes disposées à ramener au Cap Jinghua les méduses-pêches capturées par les braconniers. Et contre toute attente, il s'agissait de Jiang Li, Shine et Lyudmila ! En attendant l'arrivée des habitants du Cap Jinghua, Xiaoyu dansait joyeusement avec les méduses-pêches, comme pour vous inviter à la rejoindre…"}
+{"id":1556601,"jp":"すこしおなかが空いた……","fr":"Un petit creux commence à se faire sentir…"}
+{"id":1556602,"jp":"メイメイハウスで偶然シャルに出会った。彼女はここでなにをしているのだろう？","fr":"Vous avez croisé Shalle par hasard à la maison Meimei. Que peut-elle bien faire ici ?"}
+{"id":1556603,"jp":"シャルと話して、彼女の悩みを聞いてみよう。","fr":"Discutez avec Shalle pour découvrir ce qui la tracasse."}
+{"id":1556604,"jp":"シャルがフリスの美食を思う存分食べたいのなら、自分で作り方を学んでみてはどうだろう？","fr":"Si Shalle souhaite déguster à volonté les spécialités culinaires de Fleece, pourquoi ne pas apprendre à les préparer elle-même ?"}
+{"id":1556605,"jp":"料理を覚えるからには、やはり一番作りやすい潤いトマトのオムレツからはじめよう。","fr":"Pour apprendre à cuisiner, autant commencer par le plat le plus simple à préparer : l'omelette aux tomates juteuses."}
+{"id":1556606,"jp":"シャルに定番の潤いトマトのオムレツを味見させ、その後、シャル自身が作るのを見守ろう。","fr":"Faites goûter à Shalle une omelette aux tomates juteuses préparée selon la recette classique, puis observez-la lorsqu'elle essaiera d'en cuisiner une elle-même."}
+{"id":1556607,"jp":"シャルの潤いトマトのオムレツは、どんな味になるのだろうか？","fr":"Quel goût aura donc l'omelette aux tomates juteuses préparée par Shalle ?"}
+{"id":1556608,"jp":"料理をおいしく作る方法を知るには、その道のプロに教えを請うのが一番だ。","fr":"Pour apprendre à préparer de délicieux plats, rien ne vaut les conseils de véritables professionnels de la cuisine."}
+{"id":1556609,"jp":"フェデリカさんはどんなアドバイスをくれるのだろうか？","fr":"Quels conseils Federica pourra-t-elle vous donner ?"}
+{"id":1556610,"jp":"シャインおじいさんなら、甘みに関するコツをたくさん知っていることだろう。","fr":"Papi Shine doit certainement connaître quantité d'astuces pour réussir les préparations sucrées."}
+{"id":1556611,"jp":"農場の誰かが特製レシピを持っているらしい。これはまたとないチャンスだ。","fr":"Quelqu'un à l'exploitation posséderait une recette spéciale. Voilà une occasion à ne pas manquer."}
+{"id":1556612,"jp":"マッシマは特製レシピを持ってくると言っていたが、少し探す必要があるらしい。","fr":"Massima a promis d'apporter sa recette spéciale, mais il semble avoir besoin d'un peu de temps pour la retrouver."}
+{"id":1556613,"jp":"善は急げだ。さっそくシャルに試してもらおう。","fr":"Inutile d'attendre davantage. Proposez à Shalle d'essayer immédiatement cette recette."}
+{"id":1556614,"jp":"フリスから集めた経験を柔軟に活用し、シャルは料理を作る準備を整えた。","fr":"En mettant à profit tout ce qu'elle a appris auprès des habitants de Fleece, Shalle a terminé ses préparatifs et peut désormais passer aux fourneaux."}
+{"id":1556615,"jp":"首席試食官――リリカに味見してもらおう。","fr":"Il est temps de soumettre le résultat au verdict de notre goûteuse en chef : Lyrica."}
 {"id":1556666,"jp":"次の襲撃を待つ","fr":"Attendre la prochaine attaque"}
 {"id":1556670,"jp":"敵を探す","fr":"Chercher l'ennemi"}
 {"id":1556678,"jp":"星識レベル10","fr":"Niveau de Savoir stellaire 10"}
