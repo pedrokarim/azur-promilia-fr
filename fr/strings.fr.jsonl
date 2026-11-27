@@ -58870,10 +58870,53 @@
 {"id":1558788,"jp":"通信エラー","fr":"Erreur de communication"}
 {"id":1558789,"jp":"ネットワーク接続に失敗しました。サーバーに接続できません。通信環境をご確認ください。","fr":"Échec de la connexion réseau. Impossible de se connecter au serveur. Veuillez vérifier votre connexion."}
 {"id":1558790,"jp":"スターリンクはクールタイム中です。","fr":"Le temps de recharge du Lien stellaire n'est pas terminé."}
+{"id":1558791,"jp":"ステラカードが不足しています。","fr":"Nombre de cartes Stella insuffisant."}
+{"id":1558792,"jp":"現在の状態ではスターリンクできません。","fr":"Impossible d'activer le Lien stellaire dans votre état actuel."}
+{"id":1558793,"jp":"現在のマップではスターリンクできません。","fr":"Impossible d'activer le Lien stellaire dans cette zone."}
+{"id":1558794,"jp":"騎乗中はスターリンクできません。","fr":"Impossible d'activer le Lien stellaire sur une monture."}
+{"id":1558795,"jp":"現在のマップでは農園に入れません。","fr":"Impossible d'accéder à la ferme depuis cette zone."}
+{"id":1558796,"jp":"現在の状況ではこの操作を行えません。","fr":"Cette action est actuellement impossible."}
+{"id":1558797,"jp":"飛行状態ではこの操作を行えません。","fr":"Impossible d'effectuer cette action en plein vol."}
+{"id":1558798,"jp":"墜落状態ではこの操作を行えません。","fr":"Impossible d'effectuer cette action en pleine chute."}
+{"id":1558799,"jp":"交戦状態ではこの操作を行えません。","fr":"Impossible d'effectuer cette action en combat."}
+{"id":1558800,"jp":"挑戦中ではこの操作を行えません。","fr":"Impossible d'effectuer cette action pendant un défi."}
+{"id":1558801,"jp":"採取中ではこの操作を行えません。","fr":"Impossible d'effectuer cette action pendant la collecte."}
+{"id":1558802,"jp":"スターリンク中はこの操作を行えません。","fr":"Impossible d'effectuer cette action pendant le Lien stellaire."}
+{"id":1558803,"jp":"ストーリー中ではこの操作を行えません。","fr":"Impossible d'effectuer cette action pendant une séquence narrative."}
+{"id":1558804,"jp":"キャラクターがレベル{0}になると解放されます。","fr":"Se débloque lorsque le personnage atteint le niveau {0}."}
+{"id":1558805,"jp":"キャラクターが昇臨{0}になると解放されます。","fr":"Se débloque lorsque le personnage atteint l'Ascension {0}."}
+{"id":1558806,"jp":"素材が不足しており、スキルを強化できません。","fr":"Matériaux insuffisants pour améliorer la compétence."}
+{"id":1558807,"jp":"このスキルは最大レベルです。","fr":"Cette compétence a atteint son niveau maximal."}
 {"id":1558808,"jp":"小幅","fr":"Légère"}
 {"id":1558809,"jp":"中幅","fr":"Modérée"}
+{"id":1558810,"jp":"リィフの演奏では、音楽と視覚的ヒントに基づいて正確な入力が必要です\n視覚または音響遅延の有無を確認するには、円形マークを移動させ、音が繰り返されるタイミングで点灯させてみてください。\nこのテスト結果に基づき、高遅延環境か低遅延環境かを判別することができます。","fr":"La prestation musicale de Riif exige des commandes précises, synchronisées avec la musique et les repères visuels.\nPour vérifier la présence d'un décalage visuel ou sonore, déplacez le repère circulaire et essayez de le faire s'allumer au moment où le son se répète.\nLe résultat de ce test vous permettra de déterminer si votre latence est élevée ou faible."}
 {"id":1558811,"jp":"大幅","fr":"Forte"}
+{"id":1558812,"jp":"キボの所持数が上限に達しています。","fr":"Vous avez atteint le nombre maximal de Kibo que vous pouvez posséder."}
+{"id":1558814,"jp":"料理【{0}】を使用しました。","fr":"Vous avez consommé le plat 【{0}】."}
 {"id":1558815,"jp":"テクノロジー未解放","fr":"Technologie verrouillée"}
+{"id":1558816,"jp":"【T】キーを押して騎乗","fr":"Appuyez sur 【T】 pour chevaucher votre monture"}
+{"id":1558817,"jp":"マウントがいません。【T】を長押しで編集してください。","fr":"Aucune monture disponible. Maintenez 【T】 pour modifier votre sélection."}
+{"id":1558818,"jp":"空き枠がありません。先にマウントを1つ外してください。","fr":"Aucun emplacement libre. Retirez d'abord une monture."}
+{"id":1558819,"jp":"騎乗はクールタイム中です。","fr":"Le temps de recharge de la monture n'est pas terminé."}
+{"id":1558820,"jp":"水面では騎乗できません。","fr":"Impossible de monter en selle à la surface de l'eau."}
+{"id":1558821,"jp":"このキャラクターは騎乗できません。","fr":"Ce personnage ne peut pas utiliser de monture."}
+{"id":1558822,"jp":"現在の状態では騎乗できません。","fr":"Impossible de monter en selle dans votre état actuel."}
+{"id":1558823,"jp":"現在のマップでは騎乗できません。","fr":"Impossible d'utiliser une monture dans cette zone."}
+{"id":1558824,"jp":"現在の状態では切り替えできません。","fr":"Impossible de changer dans votre état actuel."}
+{"id":1558825,"jp":"騎乗中は外見を変更できません。","fr":"Impossible de modifier l'apparence sur une monture."}
+{"id":1558826,"jp":"現在の状態では騎乗を解除できません。","fr":"Impossible de descendre de votre monture dans votre état actuel."}
+{"id":1558827,"jp":"現在はスキルを発動できません。","fr":"Impossible d'utiliser une compétence pour le moment."}
+{"id":1558828,"jp":"キボは作業中のためチームに編成できません。","fr":"Ce Kibo est au travail et ne peut pas rejoindre une équipe."}
+{"id":1558829,"jp":"キボはマウントホイールに登録されています。編成するとホイールから除外されます。よろしいですか？","fr":"Ce Kibo figure dans la roue des montures. L'ajouter à une équipe le retirera de la roue. Continuer ?"}
+{"id":1558830,"jp":"この編成には作業中のキボが含まれており、設定できません。","fr":"Impossible d'utiliser cette composition d'équipe, car elle comprend un Kibo actuellement au travail."}
+{"id":1558831,"jp":"%sはマウントホイールに登録されています。編成するとホイールから除外されます。よろしいですか？","fr":"%s figure dans la roue des montures. L'ajouter à l'équipe le retirera de la roue. Continuer ?"}
+{"id":1558832,"jp":"キボはマウントホイールに登録されています。派遣するとホイールから除外されます。よろしいですか？","fr":"Ce Kibo figure dans la roue des montures. L'envoyer en Affectation le retirera de la roue. Continuer ?"}
+{"id":1558833,"jp":"キボは装備中です。派遣してもよろしいですか？","fr":"Ce Kibo est actuellement équipé. L'envoyer tout de même en Affectation ?"}
+{"id":1558834,"jp":"キボは派遣中のため、騎乗できません","fr":"Ce Kibo est en Affectation et ne peut pas servir de monture"}
+{"id":1558835,"jp":"キボは装備中です。マウントホイールに追加してもよろしいですか？","fr":"Ce Kibo est actuellement équipé. L'ajouter tout de même à la roue des montures ?"}
+{"id":1558836,"jp":"騎乗中のため、マウントの変更はできません。","fr":"Impossible de changer de monture en pleine chevauchée."}
+{"id":1558837,"jp":"キボは作業中です。装備してもよろしいですか？","fr":"Ce Kibo est actuellement au travail. L'équiper tout de même ?"}
+{"id":1558838,"jp":"キボは作業中です。マウントホイールに追加してもよろしいですか？","fr":"Ce Kibo est actuellement au travail. L'ajouter tout de même à la roue des montures ?"}
 {"id":1558839,"jp":"作業中","fr":"Au travail"}
 {"id":1558840,"jp":"派遣中","fr":"En affectation"}
 {"id":1558841,"jp":"騎乗中","fr":"En selle"}
@@ -58883,20 +58926,37 @@
 {"id":1558845,"jp":"現在配置","fr":"Poste actuel"}
 {"id":1558846,"jp":"農園内","fr":"À la ferme"}
 {"id":1558847,"jp":"旅の途中","fr":"En voyage"}
+{"id":1558848,"jp":"キボがLv.{0}に達すると成長可能","fr":"Croissance possible lorsque le Kibo atteint le Niv. {0}"}
 {"id":1558849,"jp":"必要素材","fr":"Matériaux requis"}
+{"id":1558850,"jp":"成長後、ステータスが上昇し、キボのスキルや特性が変化する場合があります。","fr":"Après la croissance, les statistiques du Kibo augmentent. Ses compétences et ses traits peuvent également changer."}
+{"id":1558851,"jp":"これ以上成長することができません。","fr":"Ce Kibo a atteint son stade de croissance maximal."}
+{"id":1558852,"jp":"キボの成長条件を満たしていません。","fr":"Les conditions de croissance de ce Kibo ne sont pas remplies."}
 {"id":1558853,"jp":"キボの満腹度+","fr":"Satiété du Kibo +"}
 {"id":1558854,"jp":"属性相性ノート","fr":"Notes d'affinités élémentaires"}
+{"id":1558857,"jp":"複数属性による効果の重複","fr":"Cumul des effets de plusieurs éléments"}
 {"id":1558859,"jp":"獲得","fr":"Obtenir"}
+{"id":1558860,"jp":"毎日4:00に自動で補充されます。","fr":"Réapprovisionnement automatique tous les jours à 4 h 00."}
+{"id":1558861,"jp":"キャラクターの満腹度を補充する。","fr":"Restaure la satiété d'un personnage."}
 {"id":1558863,"jp":"孵化詳細","fr":"Détails de l'éclosion"}
 {"id":1558864,"jp":"孵化プレビュー","fr":"Aperçu de l'éclosion"}
 {"id":1558865,"jp":"ルール説明","fr":"Règles"}
 {"id":1558866,"jp":"孵化確率","fr":"Taux d'éclosion"}
 {"id":1558867,"jp":"キボのタマゴ説明","fr":"Description de l'œuf de Kibo"}
+{"id":1558868,"jp":"·キボのタマゴを孵化させると対応するキボを獲得できます。\n·キボのタマゴごとに孵化結果の範囲が異なる場合があります。詳細画面の表示をご確認ください。","fr":"· Faire éclore un œuf de Kibo permet d'obtenir un Kibo correspondant.\n· Les résultats possibles de l'éclosion varient selon l'œuf. Consultez l'écran des détails pour en savoir plus."}
 {"id":1558869,"jp":"孵化確率説明","fr":"Détail des taux d'éclosion"}
+{"id":1558870,"jp":"·各キボのタマゴから孵化するキボの種類と確率は詳細画面に記載されており、実際の孵化結果は記載された確率に基づいて決まります。","fr":"· Les espèces de Kibo pouvant éclore de chaque œuf ainsi que leurs probabilités d'obtention sont indiquées sur l'écran des détails. Le résultat de l'éclosion est déterminé selon ces probabilités."}
+{"id":1558871,"jp":"星彩確定タマゴは星彩ステラカードを選択できませんので、もう一度選び直してください。","fr":"Les œufs garantissant un Kibo étoilé ne peuvent pas être associés à une carte Stella étoilée. Veuillez choisir une autre carte."}
+{"id":1558872,"jp":"ステラカードが足りません","fr":"Nombre de cartes Stella insuffisant"}
+{"id":1558873,"jp":"このタマゴとお別れしてもよろしいですか？","fr":"Voulez-vous vraiment vous séparer de cet œuf ?"}
+{"id":1558874,"jp":"ふ化の状況に応じて農園へ移動するか判断されます.gif","fr":"Le transfert vers la ferme dépend de l'état d'avancement de l'éclosion.gif"}
+{"id":1558875,"jp":"農園テクノロジーを通じて、キボのおやつバッグを解放できます","fr":"Les technologies de la ferme permettent de débloquer le sac de friandises pour Kibo"}
 {"id":1558876,"jp":"星識レベル{0}","fr":"Niveau de Savoir stellaire {0}"}
+{"id":1558877,"jp":"すべての前提能力を習得する必要があります","fr":"Toutes les aptitudes prérequises doivent être acquises"}
 {"id":1558878,"jp":"新しいアイテムを解放","fr":"Débloquer de nouveaux objets"}
+{"id":1558879,"jp":"農園の新しい心得を解放","fr":"Débloquer un nouveau savoir-faire de la ferme"}
 {"id":1558880,"jp":"現在の効果","fr":"Effet actuel"}
 {"id":1558881,"jp":"次のレベルの効果","fr":"Effet du niveau suivant"}
+{"id":1558882,"jp":"農園の新しいエリアを解放","fr":"Débloquer une nouvelle zone de la ferme"}
 {"id":1558887,"jp":"該当クエストなし","fr":"Aucune quête correspondante"}
 {"id":1558891,"jp":"属性詳細","fr":"Détails de l'élément"}
 {"id":1558913,"jp":"獲得可能なレア因子","fr":"Facteurs rares obtenables"}
