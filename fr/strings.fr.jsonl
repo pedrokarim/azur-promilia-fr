@@ -1,6 +1,66 @@
+{"id":636357,"jp":"雷","fr":"Foudre"}
+{"id":636362,"jp":"木","fr":"Bois"}
+{"id":636364,"jp":"地","fr":"Terre"}
+{"id":637676,"jp":"紫","fr":"Violet"}
+{"id":637680,"jp":"金","fr":"Or"}
+{"id":637721,"jp":"免疫","fr":"Immunité"}
 {"id":642215,"jp":"中","fr":"Moyen"}
+{"id":642747,"jp":"一","fr":"Un"}
+{"id":642748,"jp":"二","fr":"Deux"}
+{"id":642749,"jp":"三","fr":"Trois"}
+{"id":650942,"jp":"火","fr":"Feu"}
+{"id":650946,"jp":"水","fr":"Eau"}
+{"id":650947,"jp":"光","fr":"Lumière"}
+{"id":652726,"jp":"法力精通","fr":"Maîtrise arcanique"}
+{"id":652753,"jp":"低体温","fr":"Hypothermie"}
+{"id":652757,"jp":"演奏家","fr":"Virtuose"}
+{"id":666969,"jp":"加速","fr":"Accélération"}
+{"id":668792,"jp":"物理防御","fr":"DÉF physique"}
+{"id":669193,"jp":"反震","fr":"Contrecoup"}
+{"id":669737,"jp":"岩甲","fr":"Armure de roche"}
+{"id":669802,"jp":"心眼","fr":"Œil intérieur"}
+{"id":669804,"jp":"幽火","fr":"Flamme spectrale"}
 {"id":704537,"jp":"小","fr":"Petit"}
 {"id":704539,"jp":"大","fr":"Grand"}
+{"id":707790,"jp":"落雷","fr":"Foudroiement"}
+{"id":708289,"jp":"雷球","fr":"Orbe de foudre"}
+{"id":853401,"jp":"元素","fr":"Élément"}
+{"id":854085,"jp":"表情","fr":"Expression"}
+{"id":857649,"jp":"武器","fr":"Arme"}
+{"id":860121,"jp":"水柱","fr":"Colonne d'eau"}
+{"id":886288,"jp":"特殊","fr":"Spécial"}
+{"id":924270,"jp":"耐性","fr":"Résistance"}
+{"id":924273,"jp":"耐火","fr":"Résistance au Feu"}
+{"id":924276,"jp":"耐水","fr":"Résistance à l'Eau"}
+{"id":924282,"jp":"耐木","fr":"Résistance au Bois"}
+{"id":924285,"jp":"耐地","fr":"Résistance à la Terre"}
+{"id":924291,"jp":"耐雷","fr":"Résistance à la Foudre"}
+{"id":924294,"jp":"耐光","fr":"Résistance à la Lumière"}
+{"id":924336,"jp":"防御弱化","fr":"Réduction de DÉF"}
+{"id":932999,"jp":"星臨者","fr":"Enfant des étoiles"}
+{"id":956050,"jp":"白英石","fr":"Quartz blanc"}
+{"id":986691,"jp":"辰王朝","fr":"dynastie Chen"}
+{"id":1000602,"jp":"加工","fr":"Transformation"}
+{"id":1022820,"jp":"脱力","fr":"Affaiblissement"}
+{"id":1023896,"jp":"第六感","fr":"Sixième sens"}
+{"id":1023980,"jp":"全能","fr":"Omnipotence"}
+{"id":1024170,"jp":"威光","fr":"Majesté"}
+{"id":1024432,"jp":"爆裂火球","fr":"Boule de feu explosive"}
+{"id":1032214,"jp":"投石","fr":"Lancer de pierre"}
+{"id":1032544,"jp":"地震","fr":"Séisme"}
+{"id":1032657,"jp":"落石","fr":"Chute de rochers"}
+{"id":1033183,"jp":"石柱","fr":"Pilier de pierre"}
+{"id":1035888,"jp":"暗星","fr":"Étoile obscure"}
+{"id":1036003,"jp":"暗影爆破","fr":"Explosion des ombres"}
+{"id":1036322,"jp":"鬼火","fr":"Feu follet"}
+{"id":1037451,"jp":"影舞","fr":"Danse des ombres"}
+{"id":1037800,"jp":"爆炎","fr":"Déflagration"}
+{"id":1042312,"jp":"岩突石裂","fr":"Fracasse-roche"}
+{"id":1048042,"jp":"音波","fr":"Onde sonore"}
+{"id":1050110,"jp":"水流潮旋","fr":"Tourbillon des marées"}
+{"id":1061566,"jp":"追加","fr":"Ajouter"}
+{"id":1073857,"jp":"禁呪","fr":"Sort interdit"}
+{"id":1495181,"jp":"疾風","fr":"Rafale"}
 {"id":1495182,"jp":"チーム全体の風属性ダメージが<color=#EF903D>20%</color>増加する。","fr":"Augmente de <color=#EF903D>20 %</color> les DGT de Vent de toute l'équipe."}
 {"id":1495183,"jp":"炎刃","fr":"Lame ardente"}
 {"id":1495184,"jp":"チーム全体の火属性ダメージが<color=#EF903D>20%</color>増加する。","fr":"Augmente de <color=#EF903D>20 %</color> les DGT de Feu de toute l'équipe."}
@@ -2045,10 +2105,13 @@
 {"id":1497228,"jp":"強襲・ダメージアップ","fr":"Assaut : hausse des DGT"}
 {"id":1497229,"jp":"星響スキルと星極スキルのダメージ上昇","fr":"Hausse des DGT de Compétence Écho stellaire et de Compétence Zénith stellaire"}
 {"id":1497230,"jp":"絶地","fr":"Terrain sans issue"}
+{"id":1497231,"jp":"星移・剛貫・会心率","fr":"Déplacement stellaire · Perforation · Taux CRIT"}
 {"id":1497232,"jp":"会心率上昇","fr":"Hausse du Taux CRIT"}
 {"id":1497233,"jp":"星移・剛貫・会心ダメージ","fr":"Transition stellaire - Perforation - DGT CRIT"}
 {"id":1497234,"jp":"星移・EX・強度","fr":"Glissement stellaire - EX - Puissance"}
+{"id":1497235,"jp":"星移・EX・会心率","fr":"Déplacement stellaire · EX · Taux CRIT"}
 {"id":1497236,"jp":"EX・重鋒・強度","fr":"EX - Tranchant lourd - Puissance"}
+{"id":1497237,"jp":"EX・重鋒・会心率","fr":"EX · Lame lourde · Taux CRIT"}
 {"id":1497238,"jp":"剛貫・累勢・攻撃力","fr":"Perforation - Élan cumulé - ATQ"}
 {"id":1497239,"jp":"剛貫・累勢・会心ダメージ","fr":"Perforation - Élan - DGT CRIT"}
 {"id":1497240,"jp":"EXダメージ上昇","fr":"Hausse des DGT EX"}
@@ -3347,7 +3410,9 @@
 {"id":1498535,"jp":"星臨者ね……あの人といっしょにいたら絶対に退屈しない。\nいつもおもしろいことに巻き込まれてるから。\nそんな風に思ってるのは、きっと私だけじゃないよ？\nだって、最初は無関心だった皆も、気がつけばあの人の周りに集まってるでしょ？\nふふっ、そんなことってなかなかないよね！","fr":"L'Enfant des étoiles, hein… Impossible de s'ennuyer en sa compagnie.\nIl se passe toujours quelque chose d'intéressant autour de cette personne.\nEt je suis certaine de ne pas être la seule à le penser !\nMême ceux qui n'y prêtaient aucune attention au début ont fini par se rassembler autour de l'Enfant des étoiles sans même s'en rendre compte, non ?\nHéhé, ce n'est pas quelque chose qu'on voit tous les jours !"}
 {"id":1498536,"jp":"星臨者について・2","fr":"À propos de l'Enfant des étoiles 2"}
 {"id":1498537,"jp":"星臨者が直面してる状況って、私がこれまで見てきたどんな機関よりも複雑かもね……いったいなにがあの人の背中を押してるんだろう？\nすごくすごく、気になっちゃう！","fr":"La situation à laquelle fait face l'Enfant des étoiles est peut-être plus complexe que tous les mécanismes que j'ai vus jusqu'ici… Qu'est-ce qui peut bien pousser l'Enfant des étoiles à avancer ?\nJe suis tellement, tellement curieuse !"}
+{"id":1498538,"jp":"世界見聞・1","fr":"Découverte du monde · 1"}
 {"id":1498539,"jp":"城壁ってさ、どんっと立ってて、見てるだけでも安心感があるよね？\nでも私的には、跳んだり走ったりしながら街をパトロールしちゃう鎮守獅の方が、ずっとすごいと思うの！","fr":"Les remparts, ils se dressent là, massifs, et rien qu'à les regarder, on se sent en sécurité, non ?\nMais à mon avis, les lions gardiens qui patrouillent en ville en bondissant et en courant sont bien plus impressionnants !"}
+{"id":1498540,"jp":"世界見聞・2","fr":"Découverte du monde · 2"}
 {"id":1498541,"jp":"機関の設計ってさ、\n皆の役に立つものが『巧み』とされて、役に立たないものは『拙い』って言われるの。\n\nでも、一見無駄なものが多い自然の造形美とかを見てると、本当に『巧み』なものは『拙く』見えるのかもしれないね……","fr":"Dans la conception des mécanismes,\nce qui est utile à tous est qualifié d'« ingénieux », et ce qui ne l'est pas, de « maladroit ».\n\nMais quand je contemple la beauté des formes de la nature, avec tant de choses d'apparence inutile, peut-être que ce qui est vraiment « ingénieux » peut sembler « maladroit »…"}
 {"id":1498542,"jp":"エピソード","fr":"Épisodes"}
 {"id":1498543,"jp":"内緒にしてくれるなら、もっといろいろ教えてあげてもいいよ！","fr":"Si tu gardes ça pour toi, je peux t'en apprendre bien plus !"}
@@ -8059,6 +8124,7 @@
 {"id":1503251,"jp":"霧月の心・輝","fr":"Cœur de la lune brumeuse : Éclat"}
 {"id":1503252,"jp":"星祝で授与すると、以下のステータスが上昇する。\nEX強度+13\nHP+40\n防御力+1","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nPuissance EX +13\nPV +40\nDÉF +1"}
 {"id":1503253,"jp":"おぼろげな月明かりと立ち込める霧。隠世の谷には、人知れぬ神秘が秘められていた。","fr":"Un clair de lune vaporeux et une brume qui s'élève. Dans la vallée du monde caché, un mystère ignoré de tous était enfoui."}
+{"id":1503254,"jp":"垂光鎮厄・輝","fr":"Lumière conjuratrice · Éclat"}
 {"id":1503255,"jp":"星祝で授与すると、以下のステータスが上昇する。\nHP+40\n防御力+2\n攻撃力+4","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nPV +40\nDÉF +2\nATQ +4"}
 {"id":1503256,"jp":"光が降り注ぐ場所で、荒波は次第に静まる。そして、塔のなかのわずかな空間には、ページをめくる音がすこしずつ響きはじめるのだった。","fr":"Là où la lumière se déverse, les vagues furieuses s'apaisent peu à peu. Et dans le petit espace de la tour, le bruit des pages qu'on tourne commence à résonner, peu à peu."}
 {"id":1503257,"jp":"妙筆丹青・輝","fr":"Pinceau prodigieux : Éclat"}
@@ -8117,6 +8183,7 @@
 {"id":1503310,"jp":"霧月の心・耀","fr":"Cœur de la lune brumeuse : Splendeur"}
 {"id":1503311,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星閃スキルレベル+2\nHP+40\n攻撃力+8","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Éclair stellaire +2\nPV +40\nATQ +8"}
 {"id":1503312,"jp":"メインストーリー依頼第三章 3-5","fr":"Mission principale - Chapitre 3 : 3-5"}
+{"id":1503313,"jp":"垂光鎮厄・耀","fr":"Lumière conjuratrice · Rayonnement"}
 {"id":1503314,"jp":"星祝で授与すると、以下のステータスが上昇する。\n星閃スキルレベル+2\nHP+40\nEX強度+13","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nNiv. de Compétence Éclair stellaire +2\nPV +40\nPuissance EX +13"}
 {"id":1503315,"jp":"メインストーリー依頼第三章 3-6","fr":"Mission principale - Chapitre 3 : 3-6"}
 {"id":1503316,"jp":"妙筆丹青・耀","fr":"Pinceau prodigieux : Splendeur"}
@@ -8174,6 +8241,7 @@
 {"id":1503368,"jp":"霧月の心・煌","fr":"Cœur de la lune brumeuse : Fulgurance"}
 {"id":1503369,"jp":"星祝で授与すると、以下のステータスが上昇する。\nEX強度+19\n防御力+2\nHP+40","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nPuissance EX +19\nDÉF +2\nPV +40"}
 {"id":1503370,"jp":"メインストーリー依頼第四章 4-6","fr":"Mission principale - Chapitre 4 : 4-6"}
+{"id":1503371,"jp":"垂光鎮厄・煌","fr":"Lumière conjuratrice · Fulgurance"}
 {"id":1503372,"jp":"星祝で授与すると、以下のステータスが上昇する。\n攻撃力+12\n防御力+2\nHP+40","fr":"En Bénédiction stellaire, augmente les statistiques suivantes :\nATQ +12\nDÉF +2\nPV +40"}
 {"id":1503373,"jp":"メインストーリー依頼第四章 4-7","fr":"Mission principale - Chapitre 4 : 4-7"}
 {"id":1503374,"jp":"妙筆丹青・煌","fr":"Pinceau prodigieux : Fulgurance"}
@@ -9440,6 +9508,7 @@
 {"id":1504635,"jp":"暴力・残酷","fr":"Violent ou cruel"}
 {"id":1504636,"jp":"詐欺","fr":"Arnaque"}
 {"id":1504637,"jp":"広告・宣伝","fr":"Publicité"}
+{"id":1504638,"jp":"政治的・敏感","fr":"Sujet politiquement sensible"}
 {"id":1504639,"jp":"キボ名","fr":"Nom du Kibo"}
 {"id":1504640,"jp":"悪質行為","fr":"Comportement malveillant"}
 {"id":1504641,"jp":"チート行為","fr":"Triche"}
@@ -15206,10 +15275,13 @@
 {"id":1510466,"jp":"ステラカードの主な素材です。ステラカードを作るなら、見逃さないようにしてください。","fr":"Matériau principal des cartes Stella. Si vous voulez fabriquer des cartes Stella, ne le laissez pas filer."}
 {"id":1510467,"jp":"元素属性","fr":"Attribut élémentaire"}
 {"id":1510468,"jp":"キャラクターやキボは、それぞれ元素属性を持ちます。元素同士の属性相性は、戦闘時のダメージに影響します。\n7つの属性間にはそれぞれ<color={highlight}>属性相性</color>が存在します。光と闇は互いに相性有利で、無属性はどの属性に対しても相性不利になりません。","fr":"Chaque personnage et chaque Kibo possède un attribut élémentaire. Les affinités entre les éléments influencent les DGT infligés au combat.\nIl existe différentes <color={highlight}>affinités élémentaires</color> entre les 7 éléments. La Lumière et les Ténèbres bénéficient d'un avantage mutuel, tandis que l'attribut neutre ne présente aucun désavantage face aux autres éléments."}
+{"id":1510469,"jp":"元素属性・有利","fr":"Attribut élémentaire · Avantage"}
 {"id":1510470,"jp":"元素属性が敵に対して<color={highlight}>有利</color>な場合、ダメージにアップマークが表示され、属性関係のない時より高いダメージを与えられます。","fr":"Lorsque votre élément est <color={highlight}>avantagé</color> face à celui de l'ennemi, un indicateur de hausse apparaît sur les DGT infligés, qui sont supérieurs à ceux d'une affinité neutre."}
 {"id":1510471,"jp":"属性バランス","fr":"Équilibre des éléments"}
 {"id":1510472,"jp":"敵と味方の属性が互いに有利・不利でない場合、敵に<color={highlight}>通常のダメージ</color>を与えます。","fr":"Lorsque les éléments des alliés et des ennemis ne présentent aucun avantage ni désavantage mutuel, vous infligez des <color={highlight}>DGT normaux</color>."}
+{"id":1510473,"jp":"元素属性・不利","fr":"Attribut élémentaire · Désavantage"}
 {"id":1510474,"jp":"味方の元素が<color={highlight}>不利な場合</color>、ダメージはグレーで表示され、通常よりもダメージが低くなります。","fr":"Lorsque l'élément allié est <color={highlight}>désavantagé</color>, les DGT s'affichent en gris et sont inférieurs à la normale."}
+{"id":1510475,"jp":"元素属性・複数属性","fr":"Attribut élémentaire · Éléments multiples"}
 {"id":1510476,"jp":"敵が<color={highlight}>複数の属性</color>を持つ場合、相性による与ダメージは<color={highlight}>総合的に計算</color>されます。","fr":"Lorsqu'un ennemi possède <color={highlight}>plusieurs éléments</color>, les DGT infligés selon les affinités élémentaires sont <color={highlight}>calculés conjointement</color>."}
 {"id":1510477,"jp":"キボの絆","fr":"Le Lien avec les Kibo"}
 {"id":1510478,"jp":"<color={highlight}>キボに餌をあげる</color>か<color={highlight}>一緒に戦闘する</color>ことで、キボの<color={highlight}>絆レベル</color>を上げられます。\n絆レベルを上げると、<color={highlight}>同行者のステータスがアップ</color>し、同時にキボが<color={highlight}>同行者のステータスをより多く継承する</color>ようになります。","fr":"<color={highlight}>Nourrir un Kibo</color> ou <color={highlight}>combattre à ses côtés</color> permet d'augmenter son <color={highlight}>niveau de Lien</color>.\nAugmenter le niveau de Lien entraîne une <color={highlight}>Hausse des caractéristiques de son compagnon</color> et permet également au Kibo <color={highlight}>d'hériter davantage des caractéristiques de son compagnon</color>."}
@@ -15226,9 +15298,11 @@
 {"id":1510489,"jp":"一部のキボはチーム全体に刻印を付与できます。キボの特殊スキルとキャラクターの攻撃をうまく組み合わせ、戦闘を有利に進めましょう。","fr":"Certains Kibo peuvent conférer des Sceaux à toute l'équipe. Combinez judicieusement les compétences spéciales des Kibo et les attaques de vos personnages pour prendre l'avantage au combat."}
 {"id":1510490,"jp":"火の刻印・熱狂","fr":"Sceau de Feu : Frénésie"}
 {"id":1510491,"jp":"チームが火の刻印を獲得すると、<color=#96f9ff>熱狂</color>状態になります\n熱狂状態では火の刻印の数に応じて、チームの<color=#96f9ff>攻撃力（%）が少し上昇</color>します","fr":"Lorsque l'équipe obtient un Sceau de Feu, elle entre en état de <color=#96f9ff>Ferveur</color>.\nDans cet état, l'<color=#96f9ff>ATQ (%) de l'équipe augmente légèrement</color> selon le nombre de Sceaux de Feu."}
+{"id":1510492,"jp":"火EX・烈火","fr":"Feu EX · Brasier"}
 {"id":1510493,"jp":"特定のスキルを使用すると<color=#96f9ff>烈火</color>効果が発動し、対応する刻印を消費します\n烈火効果はターゲットに<color=#96f9ff>火属性EXダメージ</color>を1回与え、同時に一定時間<color=#96f9ff>持続的な火属性EX小ダメージ</color>を与えます","fr":"L'utilisation de certaines compétences déclenche l'effet <color=#96f9ff>Brasier</color> et consomme les Sceaux correspondants.\nL'effet Brasier inflige une fois des <color=#96f9ff>DGT EX de Feu</color> à la cible, ainsi que de <color=#96f9ff>faibles DGT EX de Feu continus</color> pendant un certain temps."}
 {"id":1510494,"jp":"水の刻印・泉涌","fr":"Sceau d'Eau : Source jaillissante"}
 {"id":1510495,"jp":"チームが水の刻印を獲得すると、<color=#96f9ff>泉涌</color>状態になります\n水の刻印の数に応じて、チームの<color=#96f9ff>ダメージ増幅が少し上昇</color>します","fr":"Lorsque l'équipe obtient un Sceau d'Eau, elle entre en état de <color=#96f9ff>Jaillissement</color>.\nL'<color=#96f9ff>Amplification des DGT de l'équipe augmente légèrement</color> selon le nombre de Sceaux d'Eau."}
+{"id":1510496,"jp":"水EX・浸没","fr":"Eau EX · Submersion"}
 {"id":1510497,"jp":"特定のスキルを使用すると<color=#96f9ff>浸没</color>効果が発動し、対応する刻印を消費します\n浸没効果はターゲットに<color=#96f9ff>水属性EXダメージ</color>を1回与え、同時に一定時間ターゲットの<color=#96f9ff>防御力</color>を低下させます","fr":"L'utilisation de certaines compétences déclenche l'effet <color=#96f9ff>Submersion</color> et consomme les Sceaux correspondants.\nL'effet Submersion inflige une fois des <color=#96f9ff>DGT EX d'Eau</color> à la cible et réduit également sa <color=#96f9ff>DÉF</color> pendant un certain temps."}
 {"id":1510498,"jp":"氷の刻印・氷澈","fr":"Sceau de Glace : Limpidité"}
 {"id":1510499,"jp":"チームが氷の刻印を獲得すると、<color=#96f9ff>氷澈</color>状態になります\n氷の刻印の数に応じて、チームの<color=#96f9ff>防御貫通が少し上昇</color>します","fr":"Lorsque l'équipe obtient un Sceau de Glace, elle entre en état de <color=#96f9ff>Clarté glaciale</color>.\nLa <color=#96f9ff>Pénétration de DÉF de l'équipe augmente légèrement</color> selon le nombre de Sceaux de Glace."}
@@ -15240,6 +15314,7 @@
 {"id":1510505,"jp":"特定のスキルを使用すると<color=#96f9ff>竜巻</color>効果が発動し、対応する刻印を消費します\n竜巻効果はターゲットに<color=#96f9ff>風属性EXダメージ</color>を1回与え、同時に自身の<color=#96f9ff>星極チャージ</color>を少し回復します","fr":"L'utilisation de certaines compétences déclenche l'effet <color=#96f9ff>Tornade</color> et consomme les Sceaux correspondants.\nL'effet Tornade inflige une fois des <color=#96f9ff>DGT EX de Vent</color> à la cible et restaure légèrement sa propre <color=#96f9ff>charge du Zénith stellaire</color>."}
 {"id":1510506,"jp":"木の刻印・萌芽","fr":"Sceau de Bois : Bourgeon"}
 {"id":1510507,"jp":"チームが木の刻印を獲得すると、<color=#96f9ff>萌芽</color>状態になります\n木の刻印の数に応じて、チームの<color=#96f9ff>EX会心が少し上昇</color>します","fr":"Lorsque l'équipe obtient un Sceau de Bois, elle entre en état de <color=#96f9ff>Germination</color>.\nLe <color=#96f9ff>Taux CRIT EX de l'équipe augmente légèrement</color> selon le nombre de Sceaux de Bois."}
+{"id":1510508,"jp":"木EX・開花","fr":"Bois EX · Floraison"}
 {"id":1510509,"jp":"特定のスキルを使用すると<color=#96f9ff>開花</color>効果が発動し、対応する刻印を消費します\n開花効果は目標エリアに<color=#96f9ff>木属性EXダメージ</color>を1回与え、同時にチームキャラクターの<color=#96f9ff>EX強度が少し上昇</color>します","fr":"L'utilisation de certaines compétences déclenche l'effet <color=#96f9ff>Floraison</color> et consomme les Sceaux correspondants.\nL'effet Floraison inflige une fois des <color=#96f9ff>DGT EX de Bois</color> dans la zone ciblée et <color=#96f9ff>augmente légèrement la Puissance EX</color> des personnages de l'équipe."}
 {"id":1510510,"jp":"地の刻印・固守","fr":"Sceau de Terre : Inébranlable"}
 {"id":1510511,"jp":"チームが地の刻印を獲得すると、<color=#96f9ff>固守</color>状態になります\n地の刻印の数に応じて、チームの<color=#96f9ff>ブレイク効率が少し上昇</color>します","fr":"Lorsque l'équipe obtient un Sceau de Terre, elle entre en état de <color=#96f9ff>Fermeté</color>.\nL'<color=#96f9ff>Efficacité de brise de l'équipe augmente légèrement</color> selon le nombre de Sceaux de Terre."}
@@ -15251,6 +15326,7 @@
 {"id":1510517,"jp":"特定のスキルを使用すると<color=#96f9ff>雷嵐</color>効果が発動し、対応する刻印を消費します\n雷嵐効果は目標エリアに<color=#96f9ff>雷属性EXダメージ</color>を1回与え、同時に自身の<color=#96f9ff>防御貫通が上昇</color>します","fr":"L'utilisation de certaines compétences déclenche l'effet <color=#96f9ff>Tempête de foudre</color> et consomme les Sceaux correspondants.\nL'effet Tempête de foudre inflige une fois des <color=#96f9ff>DGT EX de Foudre</color> dans la zone ciblée et <color=#96f9ff>augmente sa propre Pénétration de DÉF</color>."}
 {"id":1510518,"jp":"光の刻印・平和","fr":"Sceau de Lumière : Paix"}
 {"id":1510519,"jp":"チームが光の刻印を獲得すると、<color=#96f9ff>平和</color>状態になります\n光の刻印の数に応じて、5秒ごとに次の攻撃に<color=#96f9ff>少量の光属性EXダメージ</color>が1回追加されます","fr":"Lorsque l'équipe obtient un Sceau de Lumière, elle entre en état de <color=#96f9ff>Paix</color>.\nToutes les 5 s, la prochaine attaque inflige une fois de <color=#96f9ff>faibles DGT EX de Lumière supplémentaires</color>, selon le nombre de Sceaux de Lumière."}
+{"id":1510520,"jp":"光EX・灼光","fr":"Lumière EX · Lumière ardente"}
 {"id":1510521,"jp":"特定のスキルを使用すると<color=#96f9ff>灼光</color>効果が発動し、対応する刻印を消費します\n灼光効果はターゲットに<color=#96f9ff>光属性EXダメージ</color>を1回与え、同時に追加で<color=#96f9ff>少量の固定ダメージ</color>を1回与えます","fr":"L'utilisation de certaines compétences déclenche l'effet <color=#96f9ff>Lumière ardente</color> et consomme les Sceaux correspondants.\nL'effet Lumière ardente inflige une fois des <color=#96f9ff>DGT EX de Lumière</color> à la cible, ainsi qu'une instance supplémentaire de <color=#96f9ff>faibles DGT fixes</color>."}
 {"id":1510522,"jp":"闇の刻印・神秘","fr":"Sceau de Ténèbres : Mystère"}
 {"id":1510523,"jp":"チームが闇の刻印を獲得すると、<color=#96f9ff>神秘</color>状態になります\n闇の刻印の数に応じて、チームの<color=#96f9ff>全属性ダメージが少し上昇</color>します","fr":"Lorsque l'équipe obtient un Sceau de Ténèbres, elle entre en état de <color=#96f9ff>Mystère</color>.\nLes <color=#96f9ff>DGT de tous les éléments de l'équipe augmentent légèrement</color> selon le nombre de Sceaux de Ténèbres."}
@@ -16940,6 +17016,7 @@
 {"id":1512207,"jp":"メーツァの星極スキルと星閃スキルによる回復が発動するたび、チーム全体の与える木属性ダメージと風属性ダメージが4%増加する（最大6スタック、効果時間：24秒）。\n「霊木の種」を拾った後にチーム全体が回復する星極チャージが2になる。","fr":"Chaque fois que les soins de la Compétence Zénith stellaire ou de l'Éclair stellaire de Metsa se déclenchent, les DGT de Bois et de Vent infligés par toute l'équipe augmentent de 4 % (maximum 6 cumuls, durée : 24 s).\nRamasser une « Graine d'arbre spirituel » restaure désormais 2 points de charge du Zénith stellaire à chaque membre de l'équipe."}
 {"id":1512208,"jp":"午後","fr":"Après-midi"}
 {"id":1512209,"jp":"ごきげんよう。いいお天気で、風も心地よくて……こんな日は、一緒に過ごすのにちょうどいいわね。","fr":"Bien le bonjour. Il fait beau, le vent est agréable… Par une journée pareille, il fait bon la passer ensemble."}
+{"id":1512210,"jp":"主人公（男性・風属性）","fr":"Enfant des étoiles (version masculine · Vent)"}
 {"id":1512211,"jp":"千代","fr":"Chiyo"}
 {"id":1512212,"jp":"キャラ説明の設定待ち","fr":"Description du personnage à venir"}
 {"id":1512213,"jp":"散策エリア1","fr":"Zone de promenade 1"}
@@ -17208,7 +17285,9 @@
 {"id":1512476,"jp":"「去りゆく春はどこにもないと嘆いていたが、まさかここにあったとは」","fr":"« Je pleurais le printemps qui s'en va, introuvable, et il était là depuis le début. »"}
 {"id":1512477,"jp":"ペイペイ・聴竹の庵","fr":"Peipei : Ermitage du bambou qui écoute"}
 {"id":1512478,"jp":"竹の影が揺れる小さな住処。ここでは快適さと楽しさがもっとも重要。\n獲得するとペイペイ専用の寮とパジャマ姿が解放されます。","fr":"Une petite demeure où dansent les ombres du bambou. Ici, le confort et le plaisir passent avant tout.\nL'obtenir débloque le dortoir exclusif de Peipei et sa tenue en pyjama."}
+{"id":1512479,"jp":"源千代・観月宮","fr":"Minamoto Chiyo · Palais de contemplation lunaire"}
 {"id":1512480,"jp":"障子に月が映り、ほのかに木の香りが漂う。修行と刀の稽古を終えた後、ここは彼女が心を休め、穏やかな日常を取り戻す場所となる。","fr":"La lune se reflète sur les shōji, tandis qu'un léger parfum de bois flotte dans l'air. Après ses séances d'Entraînement et ses exercices au sabre, elle trouve ici un refuge où apaiser son esprit et retrouver la sérénité du quotidien."}
+{"id":1512481,"jp":"鏡花州・柔風別院","fr":"Cap Jinghua · Pavillon de la douce brise"}
 {"id":1512482,"jp":"メーツァ・青陰の秘苑","fr":"Metsa : Jardin secret de l'ombre bleue"}
 {"id":1512483,"jp":"フリス・暖陽の間","fr":"Fleece : Salle du soleil tiède"}
 {"id":1512484,"jp":"きゃっ、もう……イタズラはだめよ。","fr":"Ah ! Enfin… Pas de petites farces."}
@@ -23916,6 +23995,7 @@
 {"id":1519203,"jp":"目標地点3","fr":"Objectif 3"}
 {"id":1519204,"jp":"複数の素材から霊液を抽出して作られたシャーマンの霊薬。\n行動不能状態の仲間ひとりを完全に回復させる。","fr":"Une potion de chamane, élaborée en extrayant l'élixir spirituel de plusieurs matériaux.\nSoigne entièrement un allié hors de combat."}
 {"id":1519205,"jp":"複数の素材から霊液を抽出して作られた大容量のシャーマンの霊薬。\n行動不能状態の仲間全員を完全に回復させる。","fr":"Une potion de chamane de grande capacité, élaborée en extrayant l'élixir spirituel de plusieurs matériaux.\nSoigne entièrement tous les alliés hors de combat."}
+{"id":1519206,"jp":"伝書契約・余韻","fr":"Contrat de correspondance · Écho persistant"}
 {"id":1519207,"jp":"爆笑","fr":"Mort de rire"}
 {"id":1519208,"jp":"フンっ","fr":"Hmpf"}
 {"id":1519209,"jp":"怒り","fr":"Colère"}
@@ -25889,6 +25969,9 @@
 {"id":1521225,"jp":"慈愛・普通","fr":"Bienveillance - rang normal"}
 {"id":1521226,"jp":"慈愛・優良","fr":"Bienveillance - rang supérieur"}
 {"id":1521227,"jp":"慈愛・卓越","fr":"Bienveillance - rang exceptionnel"}
+{"id":1521228,"jp":"理性的・普通","fr":"Rationalité · Ordinaire"}
+{"id":1521229,"jp":"理性的・優良","fr":"Rationalité · Supérieur"}
+{"id":1521230,"jp":"理性的・卓越","fr":"Rationalité · Exceptionnel"}
 {"id":1521231,"jp":"粘り強さ・普通","fr":"Ténacité - rang normal"}
 {"id":1521232,"jp":"粘り強さ・優良","fr":"Ténacité - rang supérieur"}
 {"id":1521233,"jp":"粘り強さ・卓越","fr":"Ténacité - rang exceptionnel"}
@@ -25940,6 +26023,9 @@
 {"id":1521279,"jp":"陽気・普通","fr":"Jovialité - rang normal"}
 {"id":1521280,"jp":"陽気・優良","fr":"Jovialité - rang supérieur"}
 {"id":1521281,"jp":"陽気・卓越","fr":"Jovialité - rang exceptionnel"}
+{"id":1521282,"jp":"器用・普通","fr":"Dextérité · Ordinaire"}
+{"id":1521283,"jp":"器用・優良","fr":"Dextérité · Supérieur"}
+{"id":1521284,"jp":"器用・卓越","fr":"Dextérité · Exceptionnel"}
 {"id":1521285,"jp":"情熱・普通","fr":"Passion - rang normal"}
 {"id":1521286,"jp":"情熱・優良","fr":"Passion - rang supérieur"}
 {"id":1521287,"jp":"情熱・卓越","fr":"Passion - rang exceptionnel"}
@@ -25970,12 +26056,18 @@
 {"id":1521312,"jp":"円満・普通","fr":"Amabilité - rang normal"}
 {"id":1521313,"jp":"円満・優良","fr":"Amabilité - rang supérieur"}
 {"id":1521314,"jp":"円満・卓越","fr":"Amabilité - rang exceptionnel"}
+{"id":1521315,"jp":"友好的・普通","fr":"Sociabilité · Ordinaire"}
+{"id":1521316,"jp":"友好的・優良","fr":"Sociabilité · Supérieur"}
+{"id":1521317,"jp":"友好的・卓越","fr":"Sociabilité · Exceptionnel"}
 {"id":1521318,"jp":"鋭敏・普通","fr":"Acuité - rang normal"}
 {"id":1521319,"jp":"鋭敏・優良","fr":"Acuité - rang supérieur"}
 {"id":1521320,"jp":"鋭敏・卓越","fr":"Acuité - rang exceptionnel"}
 {"id":1521321,"jp":"強気・普通","fr":"Assurance - rang normal"}
 {"id":1521322,"jp":"強気・優良","fr":"Assurance - rang supérieur"}
 {"id":1521323,"jp":"強気・卓越","fr":"Assurance - rang exceptionnel"}
+{"id":1521324,"jp":"人情・普通","fr":"Bienveillance · Ordinaire"}
+{"id":1521325,"jp":"人情・優良","fr":"Bienveillance · Supérieur"}
+{"id":1521326,"jp":"人情・卓越","fr":"Bienveillance · Exceptionnel"}
 {"id":1521327,"jp":"強壮・普通","fr":"Vigueur - rang normal"}
 {"id":1521328,"jp":"強壮・優良","fr":"Vigueur - rang supérieur"}
 {"id":1521329,"jp":"強壮・卓越","fr":"Vigueur - rang exceptionnel"}
@@ -25985,6 +26077,9 @@
 {"id":1521333,"jp":"頑固・普通","fr":"Entêtement - rang normal"}
 {"id":1521334,"jp":"頑固・優良","fr":"Entêtement - rang supérieur"}
 {"id":1521335,"jp":"頑固・卓越","fr":"Entêtement - rang exceptionnel"}
+{"id":1521336,"jp":"好戦的・普通","fr":"Combativité · Ordinaire"}
+{"id":1521337,"jp":"好戦的・優良","fr":"Combativité · Supérieur"}
+{"id":1521338,"jp":"好戦的・卓越","fr":"Combativité · Exceptionnel"}
 {"id":1521339,"jp":"洞察力・普通","fr":"Perspicacité - rang normal"}
 {"id":1521340,"jp":"洞察力・優良","fr":"Perspicacité - rang supérieur"}
 {"id":1521341,"jp":"洞察力・卓越","fr":"Perspicacité - rang exceptionnel"}
@@ -27507,12 +27602,30 @@
 {"id":1522858,"jp":"一気呵成Ⅰ","fr":"D'une seule traite I"}
 {"id":1522859,"jp":"一気呵成Ⅱ","fr":"D'une seule traite II"}
 {"id":1522860,"jp":"ガラスの大砲","fr":"Canon de verre"}
+{"id":1522861,"jp":"元素充溢・火","fr":"Saturation élémentaire · Feu"}
+{"id":1522862,"jp":"元素充溢・水","fr":"Saturation élémentaire · Eau"}
+{"id":1522863,"jp":"元素充溢・氷","fr":"Saturation élémentaire · Glace"}
+{"id":1522864,"jp":"元素充溢・風","fr":"Saturation élémentaire · Vent"}
+{"id":1522865,"jp":"元素充溢・木","fr":"Saturation élémentaire · Bois"}
+{"id":1522866,"jp":"元素充溢・地","fr":"Saturation élémentaire · Terre"}
+{"id":1522867,"jp":"元素充溢・雷","fr":"Saturation élémentaire · Foudre"}
+{"id":1522868,"jp":"元素充溢・光","fr":"Saturation élémentaire · Lumière"}
+{"id":1522869,"jp":"元素充溢・闇","fr":"Saturation élémentaire · Ténèbres"}
 {"id":1522870,"jp":"せっかち","fr":"Impatient"}
 {"id":1522871,"jp":"戦いの角笛","fr":"Cor de bataille"}
 {"id":1522872,"jp":"先制攻撃","fr":"Frappe préventive"}
 {"id":1522873,"jp":"好戦的","fr":"Belliqueux"}
 {"id":1522874,"jp":"警戒心","fr":"Vigilance"}
 {"id":1522875,"jp":"用心","fr":"Prudence"}
+{"id":1522876,"jp":"元素解放・火","fr":"Libération élémentaire · Feu"}
+{"id":1522877,"jp":"元素解放・水","fr":"Libération élémentaire · Eau"}
+{"id":1522878,"jp":"元素解放・氷","fr":"Libération élémentaire · Glace"}
+{"id":1522879,"jp":"元素解放・風","fr":"Libération élémentaire · Vent"}
+{"id":1522880,"jp":"元素解放・木","fr":"Libération élémentaire · Bois"}
+{"id":1522881,"jp":"元素解放・地","fr":"Libération élémentaire · Terre"}
+{"id":1522882,"jp":"元素解放・雷","fr":"Libération élémentaire · Foudre"}
+{"id":1522883,"jp":"元素解放・光","fr":"Libération élémentaire · Lumière"}
+{"id":1522884,"jp":"元素解放・闇","fr":"Libération élémentaire · Ténèbres"}
 {"id":1522885,"jp":"全力パンチ","fr":"Coup de poing à pleine puissance"}
 {"id":1522886,"jp":"一発必中Ⅰ","fr":"Coup sûr I"}
 {"id":1522887,"jp":"一発必中Ⅱ","fr":"Coup sûr II"}
@@ -27528,6 +27641,15 @@
 {"id":1522897,"jp":"苦痛の贈りものⅡ","fr":"Don de douleur II"}
 {"id":1522898,"jp":"不屈","fr":"Inébranlable"}
 {"id":1522899,"jp":"共同戦線","fr":"Front uni"}
+{"id":1522900,"jp":"元素反響・火","fr":"Écho élémentaire · Feu"}
+{"id":1522901,"jp":"元素反響・水","fr":"Écho élémentaire · Eau"}
+{"id":1522902,"jp":"元素反響・氷","fr":"Écho élémentaire · Glace"}
+{"id":1522903,"jp":"元素反響・風","fr":"Écho élémentaire · Vent"}
+{"id":1522904,"jp":"元素反響・木","fr":"Écho élémentaire · Bois"}
+{"id":1522905,"jp":"元素反響・地","fr":"Écho élémentaire · Terre"}
+{"id":1522906,"jp":"元素反響・雷","fr":"Écho élémentaire · Foudre"}
+{"id":1522907,"jp":"元素反響・光","fr":"Écho élémentaire · Lumière"}
+{"id":1522908,"jp":"元素反響・闇","fr":"Écho élémentaire · Ténèbres"}
 {"id":1522909,"jp":"ウィンウィン","fr":"Gagnant-gagnant"}
 {"id":1522910,"jp":"向心力Ⅰ","fr":"Force centripète I"}
 {"id":1522911,"jp":"向心力Ⅱ","fr":"Force centripète II"}
@@ -28777,6 +28899,7 @@
 {"id":1524155,"jp":"踏波","fr":"Pas sur les flots"}
 {"id":1524156,"jp":"チャージ攻撃 未チャージ","fr":"Attaque chargée (sans charge)"}
 {"id":1524157,"jp":"燃えあがる心","fr":"Cœur ardent"}
+{"id":1524158,"jp":"乱刀・断界","fr":"Lame frénétique · Fracture du monde"}
 {"id":1524159,"jp":"牙突","fr":"Estoc du croc"}
 {"id":1524160,"jp":"刹那百連斬","fr":"Cent entailles en un instant"}
 {"id":1524161,"jp":"朧影抜刀","fr":"Dégainé d'Oborokage"}
