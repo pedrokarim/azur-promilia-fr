@@ -56268,40 +56268,90 @@
 {"id":1554800,"jp":"村民たちとすこし言葉を交わした。もう一度ルルカと話してみよう。","fr":"Vous avez échangé quelques mots avec les villageois. Retournez parler à Luruka."}
 {"id":1554801,"jp":"翼としっぽ","fr":"Des ailes et des queues"}
 {"id":1554802,"jp":"仲間とともに、翼人の住処を探す。","fr":"Partir à la recherche du lieu de vie des Ailés en compagnie de vos alliés."}
+{"id":1554803,"jp":"仲間とともに風隠れ岩へ戻る。","fr":"Retourner au Roc Coupe-Vent en compagnie de vos alliés."}
+{"id":1554804,"jp":"森の奥深くで、謎めいた一団が野営している……","fr":"Au plus profond de la forêt, un mystérieux groupe a établi son campement…"}
+{"id":1554805,"jp":"同盟を結んだの喜びもつかの間、風隠れ岩からまたしても悪い知らせが届いた……","fr":"La joie d'avoir conclu une alliance fut de courte durée : de nouvelles mauvaises nouvelles arrivèrent du Roc Coupe-Vent…"}
 {"id":1554806,"jp":"森と霧のガーデン","fr":"Le jardin des bois et des brumes"}
+{"id":1554807,"jp":"急いで仲間と一緒に村に戻る。","fr":"Retourner de toute urgence au village avec vos alliés."}
 {"id":1554808,"jp":"満月の砕ける時","fr":"Quand la pleine lune se brise"}
+{"id":1554809,"jp":"禍々しい魔の手は、ひそかに谷へと入り込んでいた。唯一の解決策は、百朔前の祭りを再現し――大狼を召喚すること。村民たちは闘志をみなぎらせ、火祭りの準備へと積極的に身を投じていた。しかし、タナが満ちて空にかかるとき、降り注ぐその光のなかには、不吉な濁りがかすかに透けて見えていた……","fr":"Une force maléfique s'était secrètement infiltrée dans la vallée. La seule solution consistait à reproduire la célébration d'il y a cent lunes pour invoquer le Grand Loup. Déterminés à se battre, les villageois s'investirent pleinement dans les préparatifs de la fête du feu. Mais lorsque Tana apparut dans le ciel dans toute sa plénitude, une inquiétante impureté se laissa entrevoir dans la lumière qu'elle déversait sur la vallée…"}
 {"id":1554810,"jp":"忘れられた真実","fr":"La vérité oubliée"}
+{"id":1554811,"jp":"突然の襲撃が天幕のドームを引き裂き、白いスーニヤの力がしだいに谷全体を侵蝕していく。ルルカは敵の攻撃を受けて深い眠りに落ちていた。忘れたはずの苦い記憶がふたたび彼女に襲いかかる……","fr":"Une attaque soudaine déchira le dôme protecteur, tandis que la puissance du Sunya blanc corrompait progressivement toute la vallée. Frappée par l'ennemi, Luruka sombra dans un profond sommeil. Les douloureux souvenirs qu'elle croyait avoir oubliés refirent surface…"}
 {"id":1554812,"jp":"分かれ道","fr":"À la croisée des chemins"}
+{"id":1554813,"jp":"巨大なスーニヤの渦が空一面に広がった。進化教団はなんと百朔前の『災禍』の封印を解こうとしていた！シャルル村の力ではこれほどの災厄に抗うことはできない。村民たちに残された選択肢は、もはやひとつだけのようだった……","fr":"Un gigantesque vortex de Sunya s'étendit dans tout le ciel. Le Culte de l’Évolution cherchait à briser le sceau de la « Calamité » d'il y a cent lunes ! Le Village de Charlulu ne pouvait résister seul à une catastrophe d'une telle ampleur. Il semblait ne rester qu'une seule solution aux villageois…"}
 {"id":1554814,"jp":"聖樹の使命","fr":"La mission de l'arbre sacré"}
+{"id":1554815,"jp":"スーニヤに侵蝕された区域の拡大を防ぐため、一行は芽吹の谷の3ヶ所に『聖樹の楔』を設置し、幾重もの防衛線を敷いた。戦いの準備が整い、未来への希望と自信を抱く仲間たちの心境には、わずかな変化が起きていた……","fr":"Pour empêcher la propagation de la corruption du Sunya, le groupe installa trois coins de l'arbre sacré à différents endroits de la Vallée des Bourgeons, établissant ainsi plusieurs lignes de défense. Alors que les préparatifs du combat touchaient à leur fin, un changement subtil s'opérait dans le cœur de vos compagnons, désormais animés par l'espoir et la confiance en l'avenir…"}
 {"id":1554816,"jp":"舞い散る雪のように","fr":"Comme des flocons dansants"}
+{"id":1554817,"jp":"万全の準備が整った。進化教団との戦闘が目前に迫っていた。大切な存在と、ともに暮らす故郷のため、谷の住民たちは星臨者のもとに集結し、剣と信念を研ぎ澄まして反撃を開始した！","fr":"Tout était prêt. L'affrontement contre le Culte de l’Évolution était imminent. Pour protéger leurs proches et la terre qui les avait vus grandir, les habitants de la vallée se rassemblèrent autour de l'Enfant des étoiles. Leurs lames affûtées et leurs convictions inébranlables, ils lancèrent la contre-attaque !"}
+{"id":1554818,"jp":"ようやくスーニヤの渦の内部へ突入すると、スーニヤのコアを包み込む大祭壇が一行の前に姿を現した。それを破壊すれば、カルマドレイナーの脅威を断つことができる……だが、果たしてそううまくいくのだろうか？","fr":"Après avoir enfin pénétré dans le vortex de Sunya, vous avez découvert, avec vos compagnons, un immense autel renfermant le noyau de Sunya. Sa destruction permettrait de mettre fin à la menace du Draineur de Karma… Mais les choses se passeraient-elles vraiment aussi simplement ?"}
+{"id":1554819,"jp":"ルルカと一緒にズートル広場へ向かい、タナの火祭りの準備状況を確認しよう。","fr":"Se rendre sur la place Zutoru avec Luruka pour vérifier l'avancement des préparatifs de la fête du feu de Tana."}
 {"id":1554820,"jp":"騎士見習いとの邂逅","fr":"Rencontre avec un apprenti chevalier"}
 {"id":1554821,"jp":"亡霊はここに沈む","fr":"Là où repose le fantôme"}
+{"id":1554822,"jp":"鉱場を出た後、寒悠悠と塗山小玉の姿は見当たらなかった。ランプブラックへ行って、目撃情報がないか聞いてみよう。","fr":"À la sortie de la mine, Han Youyou et Tushan Xiaoyu étaient introuvables. Rendez-vous à Lampblack pour demander si quelqu'un les a aperçues."}
+{"id":1554823,"jp":"怪しい者にはキツネのしっぽが生えていた。塗山小玉の変装だ！逃がすわけにはいかない、追いかけよう。","fr":"L'individu suspect avait une queue de renard. C'est Tushan Xiaoyu qui s'est déguisée ! Impossible de la laisser s'échapper. Poursuivez-la !"}
 {"id":1554824,"jp":"嵐の前夜","fr":"La veille de la tempête"}
+{"id":1554825,"jp":"目を覚ますと、すっかり朝になったようだ。みんなの様子を見に行こう。","fr":"À votre réveil, le jour était déjà bien levé. Allez voir comment tout le monde se porte."}
+{"id":1554826,"jp":"ライカウモからはスーニヤの気が感じられる。これ以上の被害を出さないよう、なんとかして阻止しよう。","fr":"Vous percevez une émanation de Sunya provenant du Raikaumo. Trouvez un moyen de l'arrêter avant qu'il ne fasse davantage de dégâts."}
 {"id":1554827,"jp":"暗雲の嵐の下で","fr":"Sous les sombres nuages de l'orage"}
+{"id":1554828,"jp":"一隻の飛空船がフリス郊外に墜落し、激しく燃え上がっている。すぐに墜落地点へ向かい、被害状況を確認しよう。","fr":"Un dirigeable s'est écrasé aux abords de Fleece et est en proie aux flammes. Rendez-vous immédiatement sur les lieux de l'accident pour évaluer les dégâts."}
 {"id":1554829,"jp":"竜果てし陽追いの塔","fr":"La tour des dragons en quête du soleil"}
+{"id":1554830,"jp":"伝説よりも古くから存在する塔。ここには、太陽を追って命を落とした竜人の骸が埋葬されているという……","fr":"Une tour dont l'existence remonte à une époque antérieure aux légendes. On raconte qu'y repose la dépouille d'un Draconien qui perdit la vie en poursuivant le soleil…"}
+{"id":1554831,"jp":"不思議なガイドに導かれ","fr":"Sur les traces d'un guide mystérieux"}
+{"id":1554832,"jp":"フリスに住む者ならだれもが知っている。この街を最もよく知る『不思議なガイド』を見つければ、行きたい場所ならどこへでも行けるということを……","fr":"Tous les habitants de Fleece le savent : quiconque trouve le « guide mystérieux », qui connaît la ville mieux que personne, pourra se rendre où bon lui semble…"}
 {"id":1554833,"jp":"美しい秘密","fr":"Un beau secret"}
+{"id":1554834,"jp":"美術の宿題のため、ポリーはブルーシィグナをモデルにしたいと考えている。しかし、彼女が追い求めてきた『美しさ』は、意外な形で現れることになり……","fr":"Pour son devoir d'arts plastiques, Polly souhaite prendre un Blue Cygna pour modèle. Mais la « beauté » qu'elle recherche depuis si longtemps va se manifester sous une forme bien inattendue…"}
+{"id":1554835,"jp":"パミー郵便局の飛空船に乗ってフリスへとやってきたフログーレが、この地の住民たちに向けて楽しい歌を奏でている。","fr":"Un Frogure arrivé à Fleece à bord d'un dirigeable du bureau de poste Pammy entonne une joyeuse mélodie pour les habitants de la ville."}
 {"id":1554836,"jp":"リオリオ","fr":"Rio-Rio"}
+{"id":1554837,"jp":"リオ、リオ――奇妙な鳴き声が耳元に響く。その声の正体とは？","fr":"Rio, rio… Un étrange cri résonne à vos oreilles. D'où peut-il bien provenir ?"}
 {"id":1554838,"jp":"ツリィフと巨樹の家","fr":"Treeff et la maison de l'arbre géant"}
+{"id":1554839,"jp":"助けて！ものすごい数のツリィフが！谷中のツリィフが押し寄せてきてるようだ！もしかしたらツリィフの生息地になにか起きたのだろうか？","fr":"Au secours ! Il y a une quantité incroyable de Treeff ! On dirait que tous les Treeff de la vallée affluent vers cet endroit ! Serait-il arrivé quelque chose à leur habitat naturel ?"}
 {"id":1554840,"jp":"メェメェがおがお","fr":"Bêê-bêê, graou-graou"}
+{"id":1554841,"jp":"昼に出かけたクロディーメの数と、夜に戻ってきたクロディーメの数が違うなんて！？一体何が起きているんだ……","fr":"Comment se fait-il que les Clodime revenus à la tombée de la nuit ne soient pas aussi nombreux que ceux partis dans la journée ?! Mais que se passe-t-il donc… ?"}
 {"id":1554842,"jp":"導電のエコー","fr":"Échos électriques"}
+{"id":1554843,"jp":"ブドウ園で、レニーとラニーがなにやら緊張した面持ちで話し合っているようだ……","fr":"Dans le vignoble, Lenny et Rani semblent avoir une discussion particulièrement tendue…"}
 {"id":1554844,"jp":"火と波の協奏曲","fr":"Concerto du feu et des vagues"}
+{"id":1554845,"jp":"最近、ゴンドーロの河口で爆発事件が発生した！どうやらルビーナは、この件に興味津々のようだ……","fr":"Une explosion s'est récemment produite à l'embouchure de la rivière de Gondolo ! Ruby semble particulièrement intéressée par cette affaire…"}
 {"id":1554846,"jp":"森にもお手入れを","fr":"Prendre aussi soin de la forêt"}
+{"id":1554847,"jp":"迷跡の森で、アニスはすこし悩んでいるようだ……","fr":"Dans la forêt des Égarés, Anais semble quelque peu préoccupée…"}
 {"id":1554848,"jp":"モフモフ危機一髪","fr":"Une boule de poils en péril"}
+{"id":1554849,"jp":"愛らしく、丸々としていて、ふわふわの毛が密集した……抗いがたいほど心惹かれるもの。だが、触れたが最後、危機に陥ることになる！","fr":"Adorable, tout rond et couvert d'un épais duvet… Un charme auquel il est presque impossible de résister. Mais gare à celui qui ose le caresser !"}
 {"id":1554850,"jp":"森を守る白い影","fr":"L'ombre blanche qui protège la forêt"}
+{"id":1554851,"jp":"コリンは果実を採集していたとき、草むらで傷ついたティーガを見つけた。星臨者の協力を求めている。","fr":"Alors qu'il cueillait des fruits, Colin a découvert un Tiga blessé dans les hautes herbes. Il sollicite l'aide de l'Enfant des étoiles."}
+{"id":1554852,"jp":"キボにとって、振る舞いにはそれぞれ異なる意味がある。友達になりたいのなら、正しい挨拶の仕方を選ぶことが重要だ……","fr":"Chez les Kibo, chaque geste revêt une signification différente. Pour se lier d'amitié avec eux, mieux vaut savoir comment les saluer…"}
+{"id":1554853,"jp":"キャバードになってる！","fr":"C'est devenu un Cabbird !"}
 {"id":1554854,"jp":"今日からキャバード！","fr":"Dès aujourd'hui, Cabbird !"}
 {"id":1554855,"jp":"波に乗って飛べ","fr":"S'envoler au gré des vagues"}
+{"id":1554856,"jp":"翼人サトゥルはなにか話があるようだ。どんな用か確かめに行こう。","fr":"Saturn, un Ailé, semble avoir quelque chose à vous dire. Allez découvrir ce qu'il vous veut."}
 {"id":1554857,"jp":"秘密基地","fr":"La base secrète"}
+{"id":1554858,"jp":"夜の農場に、奇妙な「笑顔」が現れた。近所に住むリサ婆さんは、その光景にひどく驚かされたという。調査を進める中で出会った少女イザベルもまた、これらの「笑顔」の動向を追いかけているようだ。","fr":"D'étranges « sourires » sont apparus dans l'exploitation à la tombée de la nuit. Mamie Lisa, qui habite à proximité, aurait été terrifiée par ce spectacle. Isabel, une jeune fille rencontrée au cours de votre enquête, semble elle aussi suivre la piste de ces mystérieux « sourires »."}
 {"id":1554859,"jp":"トランゴ大調査","fr":"La grande enquête sur Trango"}
+{"id":1554860,"jp":"ポリーが何日もローザ先生の元へ顔を出さない理由、それがまさかトランゴの群れのせいだったとは！","fr":"Qui aurait cru que Polly ne s'était pas présentée devant sa professeure Rosa depuis plusieurs jours à cause d'un troupeau de Trango !"}
 {"id":1554861,"jp":"神秘のモフモフ","fr":"La mystérieuse boule de poils"}
+{"id":1554862,"jp":"寝息を立てるピンクの毛玉を偶然にも発見してしまう！もしや――『眠れるぬいぐるみ』が現実に！？","fr":"Vous avez découvert par hasard une petite boule de poils rose qui dormait paisiblement ! Se pourrait-il que la « peluche endormie » existe réellement ?!"}
+{"id":1554863,"jp":"ティティとノノは、シャルル村が貝殻を通貨として使用していることに強い好奇心を抱き、なんとも奇妙な調査をはじめた……","fr":"Intrigués par l'utilisation des coquillages comme monnaie au Village de Charlulu, Tiffy et Nono se sont lancés dans une enquête pour le moins insolite…"}
+{"id":1554864,"jp":"キボファイトをはじめよう！","fr":"C'est parti pour le Duel de Kibo !"}
+{"id":1554865,"jp":"キボを捕まえたあと、テララとキボファイトを行う。","fr":"Après avoir capturé un Kibo, affronter Terara lors d'un Duel de Kibo."}
 {"id":1554866,"jp":"宝石をめぐる争い","fr":"La querelle des joyaux"}
+{"id":1554867,"jp":"ティティとノノは野外へ星輝鉱を探しに行く準備をしており、あなたを宝探しの探検隊に誘った。","fr":"Tiffy et Nono se préparent à partir à la recherche de minerai d'éclat stellaire en pleine nature et vous ont invité à rejoindre leur équipe de chasseurs de trésors."}
 {"id":1554868,"jp":"謎めいた村長さん","fr":"L'énigmatique Chef du village"}
+{"id":1554869,"jp":"謎が多い村長……興味があれば、探ってみてはどうだろうか？","fr":"Le Chef du village semble cacher bien des mystères… Si votre curiosité vous pousse à en savoir davantage, pourquoi ne pas mener votre petite enquête ?"}
 {"id":1554870,"jp":"森の奇縁","fr":"Un étrange lien au cœur de la forêt"}
+{"id":1554871,"jp":"ラリンの孫、バレットが行方不明となった！バレットの足跡を追いかけていくと、森の奥深くに隠された秘密の小さな世界へ足を踏み入れたようで……","fr":"Barrett, le petit-fils de Larin, a disparu ! En suivant ses traces, vous semblez avoir découvert un petit monde secret, dissimulé au plus profond de la forêt…"}
+{"id":1554872,"jp":"平穏に終わる配達などない。それが真実だ――生活とは常に予期せぬ出来事がつきまとうもので、旅路とはいつでも慌ただしく過ぎ去っていくものなのだから。","fr":"Il n'existe pas de livraison qui se déroule sans encombre. Telle est la vérité… Car la vie est toujours pleine d'imprévus et les voyages se succèdent dans un éternel tourbillon."}
+{"id":1554873,"jp":"スパイトホーンを撃破したミィティは、ついに心の影に打ち勝ち、羽ばたいて空を舞った。心身ともに生まれ変わった彼女は、真の『鷹神翼衛』にならい空へ誓いを立て、飛翔の儀を迎える時が来た……\n「このクエスト中、追加の宝箱はない」","fr":"Après avoir vaincu Spitehorn, Mitty a enfin triomphé des ombres qui hantaient son cœur et pris son envol. Transformée dans son corps comme dans son esprit, le moment est venu pour elle de suivre l'exemple d'une véritable Garde ailée du dieu Faucon, de prêter serment devant le ciel et d'accomplir le rite de l'envol…\n« Cette quête ne contient aucun coffre au trésor supplémentaire. »"}
+{"id":1554874,"jp":"スパイトホーンを撃破したミィティは、ついに心の影に打ち勝ち、羽ばたいて空を舞った。心身ともに生まれ変わった彼女は、真の『鷹神翼衛』にならって空へ誓いを立て、飛翔の儀を迎える時が来た……","fr":"Après avoir vaincu Spitehorn, Mitty a enfin triomphé des ombres qui hantaient son cœur et pris son envol. Transformée dans son corps comme dans son esprit, le moment est venu pour elle de suivre l'exemple d'une véritable Garde ailée du dieu Faucon, de prêter serment devant le ciel et d'accomplir le rite de l'envol…"}
 {"id":1554875,"jp":"究極の奥義『恩恵石』","fr":"Technique ultime suprême : « Pierre de bienfait »"}
+{"id":1554876,"jp":"リリカは畑仕事の究極の奥義『恩恵石』を星臨者に伝授しようと決心したが、この『恩恵石』は並大抵のものではなかった……","fr":"Lyrica a décidé de transmettre à l'Enfant des étoiles la Technique ultime des Travaux des champs : la « Pierre de bénédiction ». Mais cette pierre est loin d'être ordinaire…"}
 {"id":1554877,"jp":"一族の栄光を背負う","fr":"Porter la gloire du clan"}
+{"id":1554878,"jp":"再び姿を現した希少な魚類をヒントに、ビリバーの堤防改修作業を手伝おう。ビリバーの心が先祖を超えられるように。","fr":"Le retour d'une espèce de poisson rare pourrait fournir un précieux indice. Aidez Biliver à réaménager sa digue afin qu'il puisse dépasser l'héritage de ses ancêtres."}
 {"id":1554879,"jp":"巣を荒らしたのはだれ","fr":"Qui a saccagé le nid ?"}
+{"id":1554880,"jp":"キボたちが次々と災難に見舞われている。果たして、「黒幕」はいったい誰なのだろうか……？","fr":"Les Kibo sont victimes de malheurs qui se succèdent sans répit. Mais qui tire donc les ficelles dans l'ombre… ?"}
 {"id":1554881,"jp":"軟弱な鼻","fr":"Un nez bien fragile"}
+{"id":1554882,"jp":"強くなりたい！気の弱さを克服したい！だが、どうすればいいんだろうか？モーモは微動だにせず、考え込んでしまった……","fr":"Je veux devenir plus fort ! Je veux vaincre ma timidité ! Mais comment faire ? Momo resta parfaitement immobile, plongé dans ses pensées…"}
 {"id":1554883,"jp":"飛行の軌跡をたどって","fr":"Sur les traces du vol"}
+{"id":1554884,"jp":"空を舞うその姿こそ、風を受けて羽ばたくスカイホーク。その飛行の軌跡を辿った先には、どのような景色が待っているのだろうか？","fr":"Cette silhouette qui plane dans le ciel n'est autre qu'un Skyhawk, déployant ses ailes au gré du vent. Quels paysages vous attendent au bout de sa trajectoire ?"}
 {"id":1554885,"jp":"お願い、笑って","fr":"Un sourire, s'il te plaît"}
+{"id":1554886,"jp":"ねえ、お願い。オータミット、もしかしてなにか悩んでいるの？なにか困りごとがあるの？どうして……あなたは微笑まないの？","fr":"Dis-moi, je t'en prie, Otamit. Quelque chose te tracasse ? Tu as des soucis ? Pourquoi… est-ce que tu ne souris jamais ?"}
 {"id":1554887,"jp":"しっぽの誘惑","fr":"La tentation de la queue"}
 {"id":1554889,"jp":"失われた錬金の儀式","fr":"Le rituel alchimique perdu"}
 {"id":1554894,"jp":"騒々しい隣人","fr":"Les voisins bruyants"}
