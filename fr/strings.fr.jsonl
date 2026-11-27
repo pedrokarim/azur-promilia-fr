@@ -59561,18 +59561,78 @@
 {"id":1559365,"jp":"キャラクターの満腹度を回復できる料理がありません。","fr":"Vous ne possédez aucun plat permettant de restaurer la satiété du personnage."}
 {"id":1559366,"jp":"キボの満腹度を回復できる料理がありません。","fr":"Vous ne possédez aucun plat permettant de restaurer la satiété des Kibo."}
 {"id":1559367,"jp":"強化へ","fr":"Aller au renforcement"}
+{"id":1559368,"jp":"交換／装備可能なパーツがありません。","fr":"Aucun élément disponible à remplacer ou à équiper."}
+{"id":1559369,"jp":"徒歩状態に切り替えました。もう一度{0}キーを押すと走りに切り替えられます。","fr":"Mode marche activé. Appuyez à nouveau sur la touche {0} pour courir."}
+{"id":1559370,"jp":"走る状態に切り替えました。再度{0}キーを押すと歩き状態に切り替わります。","fr":"Mode course activé. Appuyez à nouveau sur la touche {0} pour marcher."}
+{"id":1559371,"jp":"歩行状態に切り替えました。もう一度歩行ボタンを押すと走行に切り替えられます。","fr":"Mode marche activé. Appuyez à nouveau sur le bouton de marche pour courir."}
+{"id":1559372,"jp":"走行状態に切り替えました。もう一度歩行ボタンを押すと歩行に切り替えられます。","fr":"Mode course activé. Appuyez à nouveau sur le bouton de marche pour marcher."}
 {"id":1559373,"jp":"キボ未装備","fr":"Aucun Kibo équipé"}
+{"id":1559374,"jp":"戦闘中はキボ謎解きグリッドを使用できません","fr":"Impossible d'utiliser la grille d'énigmes de Kibo pendant un combat"}
 {"id":1559375,"jp":"壺に隠れているウミィ","fr":"Umii caché dans une jarre"}
+{"id":1559376,"jp":"<color=#61DEFD>ウミィ</color>を探してみよう！","fr":"Partons à la recherche de <color=#61DEFD>Umy</color> !"}
+{"id":1559377,"jp":"<color=#61DEFD>キャバード</color>を探してみよう！","fr":"Partons à la recherche de <color=#61DEFD>Cabbird</color> !"}
+{"id":1559378,"jp":"<color=#FFD013>ウミィ</color>を見つけた！","fr":"Vous avez trouvé <color=#FFD013>Umy</color> !"}
+{"id":1559379,"jp":"<color=#FFD013>キャバード</color>を見つけた！","fr":"Vous avez trouvé <color=#FFD013>Cabbird</color> !"}
+{"id":1559380,"jp":"このスロットにはキボが設定されていません","fr":"Aucun Kibo n'est assigné à cet emplacement"}
+{"id":1559381,"jp":"スロットがいっぱいです","fr":"Tous les emplacements sont occupés"}
+{"id":1559382,"jp":"キボが作業中です。キボ謎解きホイールに参加させますか？","fr":"Ce Kibo est actuellement au travail. L'ajouter tout de même à la roue d'énigmes de Kibo ?"}
+{"id":1559383,"jp":"一括装備を実行しました","fr":"Tous les éléments ont été équipés"}
+{"id":1559384,"jp":"選択中のキボに騎乗しています。","fr":"Vous utilisez actuellement le Kibo sélectionné comme monture."}
+{"id":1559385,"jp":"スキル発動中は、キボの謎解きを行うことができません。","fr":"Impossible de résoudre les énigmes de Kibo pendant l'activation d'une compétence."}
+{"id":1559386,"jp":"前方に十分な空き地がなく、耕作できません。","fr":"Impossible de cultiver le sol : l'espace libre devant vous est insuffisant."}
+{"id":1559387,"jp":"作物が栽培中です。元の状態に戻しますか？\n果樹以外の種は返却されません。","fr":"Des cultures sont en cours de croissance. Voulez-vous restaurer l'état initial du terrain ?\nSeules les graines d'arbres fruitiers seront restituées."}
+{"id":1559388,"jp":"現在耕作可能な畑の上限に達しています。","fr":"Vous avez atteint le nombre maximal de parcelles actuellement cultivables."}
+{"id":1559389,"jp":"作業可能な建物：<color=#523e31>{0}/{1}</color>","fr":"Bâtiments exploitables : <color=#523e31>{0}/{1}</color>"}
+{"id":1559390,"jp":"ボーナスがありません。","fr":"Aucun bonus."}
+{"id":1559391,"jp":"戦闘不能のキャラクターには切り替えられません","fr":"Impossible de passer à un personnage hors combat"}
 {"id":1559392,"jp":"現在に戻る","fr":"Revenir au présent"}
+{"id":1559393,"jp":"{0}後に耕作可能な畑の上限が上がります。","fr":"Le nombre maximal de parcelles cultivables augmentera dans {0}."}
 {"id":1559394,"jp":"昇臨プレビュー","fr":"Aperçu de l'ascension"}
+{"id":1559395,"jp":"同時稼働可能な採集所の上限に達しています。","fr":"Vous avez atteint le nombre maximal de sites de collecte pouvant fonctionner simultanément."}
+{"id":1559396,"jp":"%s後に派遣上限が上がります。","fr":"La limite d'Affectation augmentera dans %s."}
 {"id":1559397,"jp":"採集時間：{0}","fr":"Durée de récolte : {0}"}
+{"id":1559398,"jp":"農園に戻ってからプランを切り替えてください。","fr":"Retournez à la ferme pour changer de plan."}
+{"id":1559399,"jp":"対応する産出を先に解放する必要があります。","fr":"Vous devez d'abord débloquer la production correspondante."}
+{"id":1559400,"jp":"{0}の産出プランを選択してください。","fr":"Sélectionnez un plan de production pour {0}."}
+{"id":1559401,"jp":"対応するクエストを達成するとストーリー回想が解放されます。確認しますか？","fr":"Terminez la quête correspondante pour débloquer ce souvenir de l'histoire. Consulter la quête ?"}
 {"id":1559402,"jp":"{0}の縄張り","fr":"Territoire de {0}"}
+{"id":1559403,"jp":"この場所のワープ機能が解放されました。","fr":"Vous avez débloqué la fonction de téléportation de ce lieu."}
+{"id":1559404,"jp":"変身中は星脈活性レベルを変更できません。","fr":"Impossible de modifier le niveau d'activation des veines stellaires pendant une transformation."}
+{"id":1559405,"jp":"孵化中のタマゴはお別れできません。","fr":"Impossible de vous séparer d'un œuf en cours d'éclosion."}
 {"id":1559406,"jp":"修復","fr":"Réparer"}
+{"id":1559407,"jp":"以下の素材を消費して設備を修復しますか？","fr":"Voulez-vous utiliser les matériaux suivants pour réparer l'installation ?"}
 {"id":1559408,"jp":"キボが消えました。","fr":"Le Kibo a disparu."}
+{"id":1559409,"jp":"ターゲットが遮られています。","fr":"Un obstacle masque la cible."}
+{"id":1559410,"jp":"カメラを正しい位置に移動してください。","fr":"Placez la caméra dans la bonne position."}
+{"id":1559411,"jp":"カメラを正しい位置に移動しました。","fr":"La caméra est désormais correctement positionnée."}
 {"id":1559412,"jp":"石柱の修復","fr":"Réparer le pilier de pierre"}
+{"id":1559413,"jp":"守衛モンスターを倒して石柱を修復する","fr":"Vaincre les monstres gardiens pour restaurer le pilier de pierre"}
+{"id":1559414,"jp":"火の祭壇をクリアして石柱を修復する","fr":"Terminer l'épreuve de l'autel de feu pour restaurer le pilier de pierre"}
+{"id":1559415,"jp":"順列石柱の仕掛けを解いて石柱を修復する","fr":"Résoudre l'énigme de l'ordre des piliers pour restaurer le pilier de pierre"}
+{"id":1559416,"jp":"巡霊プレートの仕掛けを解いて石柱を修復する","fr":"Résoudre l'énigme des dalles des esprits errants pour restaurer le pilier de pierre"}
+{"id":1559417,"jp":"石陣ギミックを完了して石柱を修復する","fr":"Résoudre l'énigme de la disposition des pierres pour restaurer le pilier de pierre"}
+{"id":1559418,"jp":"祭火の祭壇を調べ、すべての炎に火を灯す","fr":"Examiner l'autel du feu rituel et allumer toutes les flammes"}
+{"id":1559419,"jp":"固定編成のため、チームを変更できません。","fr":"Impossible de modifier l'équipe, car sa composition est imposée."}
+{"id":1559420,"jp":"まもなく戦闘から離脱します。","fr":"Vous allez bientôt quitter le combat."}
 {"id":1559421,"jp":"一括装備","fr":"Tout équiper"}
 {"id":1559422,"jp":"比較","fr":"Comparer"}
 {"id":1559423,"jp":"戦闘離脱中……","fr":"Sortie du combat…"}
+{"id":1559424,"jp":"取り外し可能な装備がありません","fr":"Aucun équipement ne peut être retiré"}
+{"id":1559425,"jp":"どうやらうまくいかないみたい。別の方法を試してみよう。","fr":"On dirait que ça ne marche pas. Essayons autrement."}
+{"id":1559426,"jp":"つぼみの植物には草木の成長の力が必要なようだ……","fr":"Cette plante en bourgeon semble avoir besoin d'un pouvoir capable de faire pousser les végétaux…"}
+{"id":1559427,"jp":"干上がった水たまりにはもっと水が必要なようだ……","fr":"Cette flaque asséchée semble avoir besoin d'un peu plus d'eau…"}
+{"id":1559428,"jp":"絡みついた茨は燃えやすそうだ……","fr":"Ces ronces entremêlées semblent faciles à brûler…"}
+{"id":1559429,"jp":"輝きを失った結晶は光の力を吸収できそうだ……","fr":"Ce cristal a perdu son éclat. Il pourrait peut-être absorber le pouvoir de la lumière…"}
+{"id":1559430,"jp":"流れる噴水は、氷の力で固められそうだ…","fr":"Le pouvoir de la glace pourrait figer l'eau de cette fontaine…"}
+{"id":1559431,"jp":"欠けた壁画は、闇の力で元の姿に戻せそうだ…","fr":"Le pouvoir des ténèbres pourrait rendre à cette fresque abîmée son aspect d'origine…"}
+{"id":1559432,"jp":"危険そうな毒霧だ。吹き飛ばせば……","fr":"Cette brume toxique a l'air dangereuse. Si on la dispersait…"}
+{"id":1559433,"jp":"目立ちすぎる杭だ。地面に打ち込めるかもしれない……","fr":"Ce piquet dépasse beaucoup trop. Il serait peut-être possible de l'enfoncer dans le sol…"}
+{"id":1559434,"jp":"風雨にさらされた石像だ。きれいにすれば……","fr":"Cette statue de pierre a été abîmée par les intempéries. Si on la nettoyait…"}
+{"id":1559435,"jp":"光る虫のようなアウラ……？","fr":"Une Aura qui ressemble à un insecte lumineux… ?"}
+{"id":1559436,"jp":"小石に擬態しているアウラ……？","fr":"Une Aura qui se fait passer pour un caillou… ?"}
+{"id":1559437,"jp":"小さな杭に擬態しているアウラ……？","fr":"Une Aura qui se fait passer pour un petit piquet… ?"}
+{"id":1559438,"jp":"露のようなアウラ……？","fr":"Une Aura qui ressemble à une goutte de rosée… ?"}
+{"id":1559439,"jp":"小さな旋風に擬態しているアウラ……？","fr":"Une Aura qui se fait passer pour un petit tourbillon… ?"}
 {"id":1559446,"jp":"群落内のキボを掃討","fr":"Éliminer les Kibo de la colonie"}
 {"id":1559447,"jp":"キボの宝物を探す","fr":"Chercher le trésor du Kibo"}
 {"id":1559460,"jp":"{1}倍消費して受取","fr":"Récupérer (coût ×{1})"}
