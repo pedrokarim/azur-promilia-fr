@@ -55860,7 +55860,7 @@
 {"id":1554389,"jp":"では、どうすればあの子に近づけるんでしょう？","fr":"Mais alors, comment pourrais-je l'approcher ?"}
 {"id":1554390,"jp":"それはとても簡単です。\n多くのキボは、食べものを与えれば距離を縮められますから。","fr":"C'est très simple.\nAvec la plupart des Kibo, il suffit de leur offrir de la nourriture pour gagner leur confiance."}
 {"id":1554391,"jp":"若葉を用意してみてください。ブラウディは若葉を好みますから。","fr":"Essayez de leur apporter de jeunes feuilles. Les Browdy en raffolent."}
-{"id":1554392,"jp":"なるほど……ではさっそく戻って、もう一度試してみましょう！\n今度こそ、あの子と友達になれるはずです！","fr":"Je vois… Alors retournons-y sans plus attendre pour réessayer !\nCette fois, je suis sûr de pouvoir devenir son ami !"}
+{"id":1554392,"jp":"なるほど……ではさっそく戻って、もう一度試してみましょう！\n今度こそ、あの子と友達になれるはずです！","fr":"Je vois… Alors retournons-y sans plus attendre pour réessayer !\nCette fois, je vais sûrement réussir à gagner son amitié !"}
 {"id":1554393,"jp":"ふう……ここへ来る途中で、若葉と枝をたくさん摘んできましたが……\nこれだけあれば足りますよね？","fr":"Ouf… J'ai ramassé beaucoup de jeunes feuilles et de branches en chemin…\nCela devrait suffire, n'est-ce pas ?"}
 {"id":1554394,"jp":"いざブラウディを前にすると、やはり美しさに見とれてしまいます……\nですが、なんだか足がすくんでしまいます……","fr":"Maintenant que je suis devant ce Browdy, je ne peux toujours pas m'empêcher d'admirer sa beauté…\nMais j'ai les jambes qui tremblent malgré moi…"}
 {"id":1554395,"jp":"心配しないでください。あの子たちは、そこまで怖い存在ではありませんから。\nではまずは私が手本を見せましょう。","fr":"Ne vous inquiétez pas. Ces petites créatures ne sont pas si effrayantes.\nPermettez-moi de vous montrer comment faire."}
@@ -55904,10 +55904,60 @@
 {"id":1554433,"jp":"なんというか……すこし変わった喋り方をする方ですね……","fr":"Comment dire… Cette demoiselle a une façon de parler assez particulière…"}
 {"id":1554434,"jp":"そうだね、いつもあんな感じなんだ……|そうだね、いつもあんな感じなの……","fr":"Oui, elle est toujours comme ça…|Oui, elle est toujours comme ça…"}
 {"id":1554435,"jp":"ねえお姉ちゃん、どうすればボマークと一緒に踊れるの？","fr":"Dis, grande sœur, comment on fait pour danser avec les Bomark ?"}
+{"id":1554436,"jp":"……はっ……もしかして、あのボマークたちを刺激するつもりですか？","fr":"… Ah, mais… Vous n'avez tout de même pas l'intention de provoquer ces Bomark ?"}
+{"id":1554437,"jp":"刺激――とは違うの。あたしはただ爆発を間近で観察して、\nほんの一瞬のエネルギーが放出される様子を記録したいだけよ。","fr":"Les provoquer ? Ce n'est pas exactement ça. Je veux simplement observer leurs explosions de près\net immortaliser cet instant fugace où leur Énergie se libère."}
+{"id":1554438,"jp":"芸術を創るのなら、まずは情報を集めないとね！","fr":"Avant de créer une œuvre d'art, il faut bien faire quelques recherches !"}
+{"id":1554439,"jp":"なんかすごくワクワクするよ！ねえお姉ちゃん、ボマークのところに連れて行ってあげる！\nわたし、さっきボマークがどこに現れたか知ってるんだ。","fr":"Ça a l'air trop génial ! Dis, grande sœur, je vais t'emmener voir les Bomark !\nJe sais où ils sont apparus tout à l'heure !"}
 {"id":1554440,"jp":"最高ね、行きましょ！","fr":"Parfait, allons-y !"}
+{"id":1554441,"jp":"ちょっと待ってください！近くに行くのは危険ですよ！","fr":"Attendez un instant ! Il est dangereux de s'en approcher !"}
+{"id":1554442,"jp":"{playerName}さん、あのひとは知り合いなんですよね？\nそれなら、なにかあったら大変ですので、彼女たちについて行ってもらえませんか？","fr":"{playerName}, vous connaissez cette demoiselle, n'est-ce pas ?\nPourriez-vous les accompagner ? Je crains qu'il ne leur arrive quelque chose."}
 {"id":1554443,"jp":"パーン！","fr":"Pan !"}
+{"id":1554444,"jp":"あれはボマークの群れです！はやく川から離れてください！","fr":"C'est un groupe de Bomark ! Éloignez-vous vite de la rivière !"}
+{"id":1554445,"jp":"ルビーナ、ケイティ、いったん下がって――","fr":"Ruby, Katie, reculez un peu…"}
+{"id":1554446,"jp":"ちょっと待って！ここを記録したいの！\nこの爆発の角度――まさに完璧な火花の軌跡ね！","fr":"Attends ! Je veux immortaliser cet instant !\nCet angle d'explosion… Quelle trajectoire parfaite pour ces étincelles !"}
+{"id":1554447,"jp":"ルビーナは双眼鏡を手に、その光景を食い入るように観察していた。\nその双眼鏡から漏れ出た光に引き寄せられたのか、川岸に近づいた船に、ボマークは激しい体当たりを仕掛けた。","fr":"Ruby observait la scène avec fascination, les yeux rivés à ses jumelles.\nPeut-être attiré par la lumière qui s'en échappait, un Bomark a violemment percuté un bateau qui s'approchait de la rive."}
+{"id":1554448,"jp":"ああっ、ボマークがまた来た！俺の船、荷物が全部川に落ちたぞ！","fr":"Ah non, voilà encore un Bomark ! Toute la cargaison de mon bateau est tombée à l'eau !"}
+{"id":1554449,"jp":"おい、あんた！さっきなにをした？\nボマークが来たのはあんたのせいじゃないのか！","fr":"Hé, toi ! Qu'est-ce que t'as fait, là ?\nC'est à cause de toi que le Bomark est venu, pas vrai ?!"}
+{"id":1554450,"jp":"あ、あたし！？あたしはただ観察してるだけで……","fr":"M-Moi ?! Mais je ne faisais qu'observer…"}
+{"id":1554451,"jp":"ひとまず落ち着いて、ただの誤解かもしれないから――","fr":"Du calme, c'est peut-être simplement un malentendu…"}
+{"id":1554452,"jp":"とにかく、荷物も船も被害を受けているんですから、いまははやく片付けましょう。","fr":"Quoi qu'il en soit, le bateau et sa cargaison ont subi des dégâts. Occupons-nous d'abord de tout remettre en ordre."}
+{"id":1554453,"jp":"ボマークはもういなくなったようですし、まずは荷物を引き上げましょうか。","fr":"Les Bomark semblent être partis. Commençons par repêcher la cargaison, voulez-vous ?"}
+{"id":1554454,"jp":"……よし、荷物の引き上げは完了ですね。確認をしてください。","fr":"… Voilà, nous avons récupéré toute la cargaison. Je vous laisse vérifier son état."}
+{"id":1554455,"jp":"はあ……もうこんな危ない真似はやめてくれよな。","fr":"Pfff… Évite de refaire des trucs aussi dangereux, à l'avenir."}
+{"id":1554456,"jp":"あたしはただ、芸術のために記録をしていただけで……","fr":"Je voulais simplement recueillir des informations pour mon art…"}
+{"id":1554457,"jp":"わざとじゃないと信じてます。\nですが、ボマークの行動は予測できないですし、なにが刺激になるのかもわからないんです。","fr":"Je suis convaincu que vous ne l'avez pas fait exprès.\nMais le comportement des Bomark est imprévisible et nous ignorons ce qui peut les provoquer."}
+{"id":1554458,"jp":"ですから、私たちはボマークを見かけると、可能な限り距離を取るんです。\nそうしないと、いまみたいなことになりますから……","fr":"C'est pourquoi, lorsque nous apercevons des Bomark, nous gardons nos distances autant que possible.\nSinon, voilà le genre d'incident qui peut se produire…"}
+{"id":1554459,"jp":"ごめんなさい。でも、この問題を解決する方法はあるのよ……！","fr":"Je suis désolée. Mais il existe un moyen de résoudre ce problème… !"}
 {"id":1554460,"jp":"解決する方法？","fr":"Un moyen de le résoudre ?"}
+{"id":1554461,"jp":"さっき、ある法則に気づいたの。\nボマークの爆発は一見不規則のように見えるけど、実は一定のパターンがある！","fr":"J'ai remarqué quelque chose tout à l'heure.\nLes explosions des Bomark semblent aléatoires à première vue, mais elles suivent en réalité un schéma bien précis !"}
+{"id":1554462,"jp":"もちろん本当よ！\nただ、確信はできないから、もうすこしボマークをじっくり観察してみないと。","fr":"Bien sûr que c'est vrai !\nMais pour en avoir la certitude, il faut que j'observe encore un peu les Bomark."}
+{"id":1554463,"jp":"ルビーナは自信がありそうだ。\nボマークが多く住むメルトレイクへ、一緒に行ってみよう。","fr":"Ruby semble sûre d'elle.\nAccompagnez-la jusqu'au lac Melt, où vivent de nombreux Bomark."}
+{"id":1554464,"jp":"見つけた！ボマークはあっちよ！","fr":"Trouvés ! Les Bomark sont par là !"}
+{"id":1554465,"jp":"生息地にいるときのボマークは、こんな風に暮らしているんですね……","fr":"Alors, voilà comment vivent les Bomark dans leur habitat naturel…"}
+{"id":1554466,"jp":"ねえ{playerName}、ボマークとすこし戦ってくれない？\n爆発時の情報を集めたいの。","fr":"Dis, {playerName}, tu veux bien affronter quelques Bomark ?\nJ'aimerais recueillir des données sur leurs explosions."}
 {"id":1554467,"jp":"うん、わかったよ。","fr":"Oui, compris."}
+{"id":1554468,"jp":"ルビーナの指示通り、ボマークを誘い込み、石に体当たりさせた。","fr":"En suivant les instructions de Ruby, vous avez attiré un Bomark et l'avez amené à percuter un rocher."}
+{"id":1554469,"jp":"完璧ね！衝撃波が放射状に広がってる。\nつまり、エネルギーの放出方向は……やっぱり誘導できる――","fr":"Parfait ! L'onde de choc se propage dans toutes les directions.\nCe qui signifie que la direction dans laquelle l'Énergie se libère… peut bel et bien être contrôlée…"}
+{"id":1554470,"jp":"……って、ちょっと待って。なんでボマークたちは急にあっちに行ったの？","fr":"… Hein, attends un peu. Pourquoi les Bomark sont-ils tous partis par là, soudainement ?"}
+{"id":1554471,"jp":"おそらく……水中にあるなにかを囲んでいるような……","fr":"On dirait bien… qu'ils se rassemblent autour de quelque chose sous l'eau…"}
+{"id":1554472,"jp":"あれは……石かな？戦ってたときに、うっかり水のなかに落としてしまったのかも……","fr":"C'est… une pierre ? J'ai peut-être fait tomber ça dans l'eau sans m'en rendre compte pendant le combat…"}
+{"id":1554473,"jp":"あの石はきっとほかとは違う秘密があるはずよ！\n{playerName}、岸にまだ同じような石がないか、一緒に探して！","fr":"Cette pierre doit avoir une particularité qui nous échappe !\n{playerName}, aide-moi à chercher d'autres pierres semblables sur la rive !"}
+{"id":1554474,"jp":"……見つけた、この鉱石だ。|……見つけたよ、この鉱石ね。","fr":"… Voilà, c'est ce minerai.|… Voilà, c'est ce minerai."}
+{"id":1554475,"jp":"うーん……それ、どこかで見たことがあるような……","fr":"Hmm… Il me semble avoir déjà vu ça quelque part…"}
+{"id":1554476,"jp":"おもしろいね。かすかにだけど……特別な元素の波動を感じるよ。","fr":"Intéressant. C'est très faible, mais… Je ressens une étrange vibration élémentaire."}
+{"id":1554477,"jp":"でも、ボマークは鉱石には興味を示さないね。\n陸に上がれるはずなんだけど……なんでかな……？","fr":"Pourtant, les Bomark ne semblent pas s'intéresser au minerai.\nIls peuvent se déplacer sur la terre ferme, alors pourquoi… ?"}
+{"id":1554478,"jp":"……多分、鉱石が水に触れたことでなんらかの変化が起こったんじゃない？\nそれが、ボマークたちを惹きつける物質なんだと思う。","fr":"… Peut-être que le minerai subit une transformation au contact de l'eau ?\nJe pense que c'est la substance qui en résulte qui attire les Bomark."}
+{"id":1554479,"jp":"……あ、思い出しました！実はこのまえ、新しい船舶用塗料の研究が町で行われていたんです。\nその塗料の原料として、この鉱石の粉末が使われていました。","fr":"… Ah, je me souviens ! Il y a peu, des recherches ont été menées en ville pour mettre au point une nouvelle peinture pour les bateaux.\nLa poudre de ce minerai entrait justement dans sa composition."}
+{"id":1554480,"jp":"きっとその塗料のせいだよ！だって、ボマークたちが現れたのって最近だもん！","fr":"C'est forcément à cause de cette peinture ! Les Bomark ont commencé à venir il n'y a pas longtemps, après tout !"}
+{"id":1554481,"jp":"だとしたら、塗料を変えればボマークたちはもう現れないはずだね。","fr":"Dans ce cas, il devrait suffire de changer de peinture pour que les Bomark cessent de venir."}
+{"id":1554482,"jp":"ああ……本当にありがとうございます……！\nこれで町が被害に遭うこともなくなるでしょう。","fr":"Ah… Merci infiniment… !\nNotre ville devrait enfin être à l'abri de ces dégâts."}
+{"id":1554483,"jp":"ふふ、どういたしまして♪","fr":"Hé hé, mais de rien ♪"}
+{"id":1554484,"jp":"でもそうなると、せっかく作った塗料も使い道がなくなってしまうんじゃない？","fr":"Mais du coup, toute cette peinture que vous avez pris tant de peine à fabriquer ne servira plus à rien, non ?"}
+{"id":1554485,"jp":"まあそうですが、こればっかりは仕方ないですよ……","fr":"C'est vrai, mais nous n'avons malheureusement pas le choix…"}
+{"id":1554486,"jp":"それなら、あたしにその塗料を売ってくれない？\nちょうど新しいアイデアが浮かんでね……その塗料で発明しようと思うの！","fr":"Dans ce cas, tu voudrais bien me vendre cette peinture ?\nJe viens justement d'avoir une nouvelle idée… Je compte m'en servir pour créer une invention !"}
+{"id":1554487,"jp":"そうね……しなやかな帆布、詰め物用のコルク、防水性のある編み紐……\nそしてその塗料があれば、発明ができると思うの。","fr":"Voyons voir… De la toile souple, du liège pour le rembourrage, de la corde tressée imperméable…\nAvec tout ça et cette peinture, je devrais pouvoir réaliser mon invention."}
+{"id":1554488,"jp":"帆布と塗料は工房にありますね。\nルビーナさんのおかげで町が救われたことですし、両方とも差し上げますよ。\nただ、コルクと編み紐は余ってないかもしれません……","fr":"Nous avons de la toile et de la peinture à l'atelier.\nPuisque vous avez sauvé notre ville, Ruby, je vous offre les deux.\nEn revanche, je ne suis pas certain qu'il nous reste du liège ou de la corde tressée…"}
+{"id":1554489,"jp":"編み紐は私がなんとかします。ただ、コルクは……","fr":"Je vais me débrouiller pour la corde tressée. Mais pour le liège…"}
 {"id":1554491,"jp":"材料が揃ったよ。","fr":"J'ai tous les matériaux."}
 {"id":1554530,"jp":"ふふっ……！","fr":"Hé hé… !"}
 {"id":1554539,"jp":"属性順","fr":"Par élément"}
