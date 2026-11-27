@@ -55624,11 +55624,61 @@
 {"id":1554153,"jp":"でも、まだずいぶんチラシは残ってるみたいだね……","fr":"Mais on dirait qu'il te reste encore beaucoup de prospectus à distribuer…"}
 {"id":1554154,"jp":"そ、それは……はい、やっぱり私ひとりの力では限界がありますね……","fr":"C-c'est que… Enfin, oui, je dois reconnaître que je ne peux pas tout faire seul…"}
 {"id":1554155,"jp":"本当ですか、ありがとうございます！これでチラシ配りがはやく終わります！","fr":"Vraiment ? Merci beaucoup ! Grâce à votre aide, nous terminerons la distribution bien plus rapidement !"}
+{"id":1554156,"jp":"行き交う観光客に、ふたりでチラシを配った……","fr":"Vous avez distribué ensemble des prospectus aux touristes de passage…"}
+{"id":1554157,"jp":"新しい園芸展が、金穂の家のまえで開催中ですー！","fr":"Une nouvelle exposition horticole vous attend devant la Maison des Épis d'or !"}
 {"id":1554158,"jp":"イトーンの観光客","fr":"Touriste d'Iton"}
+{"id":1554159,"jp":"こんにちは。展覧会のチラシを一枚いただけますか？","fr":"Bonjour. Pourrais-je avoir un prospectus de l'exposition ?"}
+{"id":1554160,"jp":"もちろんです、どうぞ……って、チラシはすべて配り終わってました……！\n{playerName}さんのほうには、まだ残っていますか？","fr":"Bien sûr, tenez… Oh, mais j'ai déjà distribué tous mes prospectus… !\n{playerName}, vous en reste-t-il ?"}
+{"id":1554161,"jp":"ごめん、こっちももうなくなったよ。","fr":"Désolé, je n'en ai plus non plus."}
+{"id":1554162,"jp":"ということは……宣伝のお手伝いはこれで終わりですね……\nそれなら――私たちが直接ご案内するのはいかがでしょうか？","fr":"Cela signifie que… nous avons terminé notre travail de promotion…\nDans ce cas, que diriez-vous si nous vous accompagnions directement à l'exposition ?"}
+{"id":1554163,"jp":"いいんですか？それは本当に助かります。\n実は、フリスに来るのは初めてで、街のこともまだよくわからなくて……","fr":"Vraiment ? Cela m'arrangerait beaucoup.\nEn fait, c'est la première fois que je viens à Fleece et je ne connais pas encore bien la ville…"}
+{"id":1554164,"jp":"気にしないでください！皆さんのお役に立つのは、私の務めです。\nでは、展覧会に早速向かいましょう！","fr":"Ne vous en faites pas ! Il est de mon devoir d'aider tout le monde.\nAllons donc à l'exposition sans plus attendre !"}
+{"id":1554165,"jp":"ベルト！展覧会のチラシは全部配り終えました。\nそれから、お客様もお連れしました！","fr":"Belt ! J'ai terminé de distribuer tous les prospectus de l'exposition.\nEt je vous ai également amené un visiteur !"}
+{"id":1554166,"jp":"本当にお疲れさま。あなたたちのおかげで、今日はお客さんがずいぶん増えたわ。\nおかげでみんな大喜びよ！","fr":"Merci beaucoup pour votre aide. Grâce à vous deux, nous avons accueilli bien plus de visiteurs aujourd'hui.\nTout le monde est ravi !"}
+{"id":1554167,"jp":"こちらのお客様は、イトーンからいらした方みたいね。\n展示中の園芸作品を、どうぞゆっくり見てちょうだい。\nもしなにかあったら、遠慮なく声をかけてね！","fr":"Il me semble que vous venez d'Iton.\nPrenez votre temps pour admirer les compositions florales exposées.\nSi vous avez besoin de quoi que ce soit, n'hésitez pas à m'appeler !"}
+{"id":1554168,"jp":"ええ、その通りです。気候の影響で、私の故郷の景色といえば氷の彫刻ばっかりなんです。","fr":"Oui, tout à fait. Avec le climat de ma région natale, on ne voit pratiquement que des sculptures de glace dans le paysage."}
+{"id":1554169,"jp":"こんなに色鮮やかで、花の多い園芸展を見るのははじめてです！","fr":"C'est la première fois que je vois une exposition horticole aussi colorée, avec autant de fleurs !"}
+{"id":1554170,"jp":"えっ、ま、待ってください！あちらの植物、動いていませんか！？","fr":"Hein ? A-Attendez un instant ! Cette plante, là-bas… Elle bouge, non ?!"}
 {"id":1554171,"jp":"ポポ？","fr":"Popo ?"}
+{"id":1554172,"jp":"実はね、あの動く植物は、『ポポティ』というキボなのよ。ここではよく見かけるわね。","fr":"En réalité, cette plante qui bouge est un Kibo qu'on appelle « Popoty ». On en voit très souvent par ici."}
+{"id":1554173,"jp":"見た目が可愛いし、植物に寄り添うのも好きなキボだから、\n園芸デザインに取り入れる園芸師が増えているのよね。","fr":"Ces Kibo sont adorables et aiment se blottir contre les plantes.\nDe plus en plus d'horticulteurs les intègrent donc à leurs compositions."}
+{"id":1554174,"jp":"なるほど……風に吹かれて揺れているポポティは、\n本当に植物のように見えますが……","fr":"Je vois… À le regarder se balancer au gré du vent,\non dirait vraiment une plante…"}
+{"id":1554175,"jp":"まさかキボだったとは！\n『ポポティ』……名前まで可愛らしい……","fr":"Je n'aurais jamais imaginé que c'était un Kibo !\n« Popoty »… Même son nom est adorable…"}
 {"id":1554176,"jp":"ポポ〜","fr":"Popo~"}
+{"id":1554177,"jp":"ええっ！？こちらに飛んできましたよ！","fr":"Hein ?! Il vient de voler jusqu'à nous !"}
+{"id":1554178,"jp":"もしかしたら、褒められて嬉しくなったんじゃないかな？","fr":"Peut-être que ça lui a fait plaisir que tu lui fasses des compliments ?"}
+{"id":1554179,"jp":"あの……よかったら触ってみてもいいでしょうか？本当に可愛らしくて……","fr":"Euh… Est-ce que je pourrais le caresser, si cela ne vous dérange pas ? Il est tellement adorable…"}
+{"id":1554180,"jp":"はい、軽く触れるくらいなら問題ありません！\n植物に傷をつけないよう気をつけてくださいね！","fr":"Oui, vous pouvez le caresser délicatement, sans problème !\nVeillez simplement à ne pas abîmer les plantes !"}
+{"id":1554181,"jp":"えっ？僕にも触ってほしいってこと……？|えっ？私にも触ってほしいってこと……？","fr":"Hein ? Tu veux que je te caresse aussi… ?|Hein ? Tu veux que je te caresse aussi… ?"}
+{"id":1554182,"jp":"ふわふわで、もこもこで、まんまるで……\nあっという間に幸せで心が満たされました……","fr":"Il est si doux, si duveteux, tout rond…\nIl suffit de quelques instants pour que mon cœur déborde de bonheur…"}
+{"id":1554183,"jp":"ただ……なぜでしょう。私まで、ふわふわしてきたような……","fr":"Mais… c'est étrange. J'ai l'impression de flotter, moi aussi…"}
+{"id":1554184,"jp":"頭が……くらくらします……","fr":"J'ai… la tête qui tourne…"}
 {"id":1554185,"jp":"危ない！お客様――","fr":"Attention ! Cher client…"}
+{"id":1554186,"jp":"大変だわ……急に倒れちゃった！","fr":"Oh non… Il vient de s'effondrer !"}
+{"id":1554187,"jp":"療養院のほうへお連れして、看護師さんに診てもらわないと……\n{playerName}さん、すこし手伝っていただけますか？","fr":"Il faut l'emmener au centre de soins pour qu'une infirmière l'examine…\n{playerName}, pourriez-vous me donner un coup de main ?"}
+{"id":1554188,"jp":"うん、わかったよ。療養院にすぐに行こう。","fr":"Oui, bien sûr. Allons vite au centre de soins."}
+{"id":1554189,"jp":"療養院で一通り治療を受けたあと……","fr":"Après que le touriste a reçu les soins nécessaires…"}
+{"id":1554190,"jp":"マチルダさん、観光客の方の具合は大丈夫でしょうか？","fr":"Matilda, comment va notre visiteur ? Va-t-il s'en remettre ?"}
+{"id":1554191,"jp":"検査は済ませたわ。どうやら、ポポティの綿毛にアレルギー反応を起こしたようね……","fr":"J'ai terminé les examens. Il semblerait qu'il ait fait une réaction allergique au duvet des Popoty…"}
+{"id":1554192,"jp":"それで倒れてしまったんですか？\nまさかそんなに重いアレルギー反応をするなんて……","fr":"C'est pour cela qu'il s'est effondré ?\nJe n'aurais jamais imaginé qu'une réaction allergique puisse être aussi violente…"}
+{"id":1554193,"jp":"いえ、倒れたのは、厚着をしたまま暑いなかを過ごして軽い熱中症を起こしたからよ……\nアレルギー反応が、体調不良を悪化させたみたいね。","fr":"Non, il a surtout été victime d'un léger coup de chaleur après avoir passé trop de temps dehors avec des vêtements trop chauds…\nLa réaction allergique semble avoir aggravé son état."}
+{"id":1554194,"jp":"とにかく、今後はポポティに触れるのは控えることね。","fr":"Quoi qu'il en soit, il devra désormais éviter de toucher les Popoty."}
+{"id":1554195,"jp":"私のせいです！事前に注意していたら……\n保安官補佐なのに責任を果たせず、お客さんを守れませんでした……","fr":"C'est ma faute ! Si seulement je l'avais prévenu…\nJe suis censé être shérif adjoint, mais je n'ai pas rempli mon devoir. Je n'ai pas su protéger ce visiteur…"}
+{"id":1554196,"jp":"いえいえ、気にしないでください。\n自分でもアレルギーがあるなんて知らなかったのですから、あなたのせいなわけがありませんよ。\nそもそも、私はこれまでずっとイトーン暮らしで、ポポティに触れたことなどなかったんですからね。","fr":"Non, non, ne vous en faites pas.\nJ'ignorais moi-même que j'étais allergique, alors vous n'y êtes absolument pour rien.\nAprès tout, j'ai toujours vécu à Iton et je n'avais encore jamais touché de Popoty."}
+{"id":1554197,"jp":"療養院まで連れてきてくれただけで、本当に感謝していますから！","fr":"Je vous suis déjà très reconnaissant de m'avoir amené au centre de soins !"}
+{"id":1554198,"jp":"大丈夫、私はここですこし休ませてもらえれば十分です。\n展覧会のほうは、まだ忙しいのでしょう？皆さんははやく戻ってください。","fr":"Tout ira bien, j'ai simplement besoin de me reposer un peu ici.\nVous devez encore avoir beaucoup de travail à l'exposition, n'est-ce pas ? Retournez-y vite !"}
+{"id":1554199,"jp":"そうね、いまの彼には静養が必要だわ。\n大勢で囲んでいるとかえってよくないわよ。","fr":"En effet, il a surtout besoin de calme et de repos pour le moment.\nRester aussi nombreux autour de lui ne lui fera aucun bien."}
+{"id":1554200,"jp":"うう……では、私たちは先に神殿のほうへ戻ります……\n{playerName}さん、行きましょう。","fr":"Mh… Dans ce cas, nous allons retourner au temple…\n{playerName}, allons-y."}
+{"id":1554201,"jp":"戻ったのね。あの観光客は大丈夫だったの？","fr":"Ah, vous voilà de retour. Comment va le touriste ?"}
+{"id":1554202,"jp":"その方は……ポポティの綿毛にアレルギーがあったようです。\nそれから、気候にも慣れてないようで、軽い熱中症になってしまい倒れたようですね……","fr":"Il semblerait qu'il soit allergique au duvet des Popoty…\nIl n'est pas non plus habitué au climat d'ici et aurait fait un léger coup de chaleur, ce qui a provoqué son malaise…"}
+{"id":1554203,"jp":"どうして私は、その可能性に気づけなかったんでしょう……","fr":"Comment ai-je pu ne pas envisager cette éventualité… ?"}
 {"id":1554204,"jp":"しかたないよ。","fr":"On n'y pouvait rien."}
+{"id":1554205,"jp":"事情があったわけだし……","fr":"Les circonstances étaient assez particulières, après tout…"}
+{"id":1554206,"jp":"あの観光客も、自分がアレルギーだとは知らなかったって言っていたし……","fr":"Ce touriste a lui-même dit qu'il ignorait être allergique…"}
+{"id":1554207,"jp":"そうだわ。それに、ポポティは本当に可愛いじゃない？\n触ってみたくなるのも自然なことよ……","fr":"Exactement. Et puis, les Popoty sont vraiment adorables, tu ne trouves pas ?\nC'est tout naturel d'avoir envie de les caresser…"}
+{"id":1554208,"jp":"そうですね……慰めてくれてありがとうございます……\nでは、私は注意書きの看板を立ててきます……","fr":"Vous avez raison… Merci de me remonter le moral…\nJe vais aller installer un panneau d'avertissement…"}
+{"id":1554209,"jp":"はやく観光客の皆さんに知らせないといけないですからね……\n自分自身がどんなアレルギーを持っているか分からないうちは、\nポポティや園芸品、植物にはなるべく触れないようにって……","fr":"Il faut prévenir les visiteurs au plus vite…\nTant qu'ils ne connaissent pas leurs éventuelles allergies,\nils devraient éviter de toucher les Popoty, les compositions horticoles et les plantes…"}
+{"id":1554210,"jp":"シロロ、まだかなり落ち込んでいるわね……","fr":"Shiroro a encore l'air bien abattu…"}
 {"id":1554231,"jp":"できましたね！","fr":"C'est fait !"}
 {"id":1554261,"jp":"グル……グル……","fr":"Grr… grr…"}
 {"id":1554266,"jp":"……グル。","fr":"… Grr."}
