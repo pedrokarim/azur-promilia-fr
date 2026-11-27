@@ -57828,10 +57828,70 @@
 {"id":1556238,"jp":"助言のおかげで、村長はおおよその方向を思い出した。彼に同行して、かつての宝物を見に行こう。","fr":"Grâce à vos conseils, le Chef du village a réussi à se souvenir approximativement de l'endroit. Accompagnez-le pour retrouver ses trésors d'autrefois."}
 {"id":1556239,"jp":"村を出る途中で、エンカクに偶然出会った……","fr":"En quittant le village, vous avez croisé Enkaku par hasard…"}
 {"id":1556240,"jp":"エンカクは村長の身を守れるようにと願い、また防具を一式作った……","fr":"Soucieux de la sécurité du Chef du village, Enkaku lui a confectionné une nouvelle armure complète…"}
+{"id":1556241,"jp":"遠吠え平原に到着したとき、突如としてボアラーガが襲いかかってきた！","fr":"À peine votre groupe avait-il atteint les Plaines hurlantes qu'un Boaraga a soudain lancé une attaque !"}
+{"id":1556242,"jp":"ボアラーガとの戦いのなか、村長の動きは見事なもので、衰えを知らないようだった。彼のお宝についても、ますます興味が湧いてくる……","fr":"Lors du combat contre le Boaraga, le Chef du village a fait preuve d'une agilité remarquable, comme si les années n'avaient aucune prise sur lui. Son fameux trésor attise de plus en plus votre curiosité…"}
+{"id":1556243,"jp":"村長について行き、目印となるトーテムを見つけた。宝物はこの下に埋まっているという……","fr":"En suivant le Chef du village, vous avez découvert le totem qui sert de repère. Le trésor serait enterré juste en dessous…"}
+{"id":1556244,"jp":"苦労の末、ついに村長のかつての探検ノートと記念品を見つけた。","fr":"Après bien des efforts, vous avez enfin retrouvé l'ancien carnet d'exploration du Chef du village ainsi que ses souvenirs d'aventure."}
+{"id":1556245,"jp":"ノートの内容はどれも、村長の過去の伝説を証明するものだ……だが、なぜ読めば読むほどでたらめになっていくのだろうか？","fr":"Tout ce que contient ce carnet semble confirmer les exploits légendaires du Chef du village… Mais pourquoi les récits deviennent-ils de plus en plus farfelus au fil des pages ?"}
+{"id":1556246,"jp":"ラリンがまた孫のバレットを見失ってしまった。あの子はいつも野外の森へ行きたがる。キボと一緒にいるのが好きなのだというが、今回はどこへ行ってしまったのだろうか……","fr":"Larin a de nouveau perdu de vue son petit-fils Barrett. Le garçon cherche toujours à s'aventurer dans les bois, sous prétexte qu'il adore passer du temps avec les Kibo. Mais où a-t-il bien pu aller cette fois-ci…"}
 {"id":1556247,"jp":"1ヶ所目を調査する。","fr":"Examiner le premier endroit."}
 {"id":1556248,"jp":"2ヶ所目を調査する。","fr":"Examiner le deuxième endroit."}
 {"id":1556249,"jp":"3ヶ所目を調査する。","fr":"Examiner le troisième endroit."}
+{"id":1556250,"jp":"森をくまなく探索し、ようやくバレットの居場所を突き止めた。","fr":"Après avoir fouillé la forêt de fond en comble, vous avez enfin retrouvé Barrett."}
+{"id":1556251,"jp":"バレットは元気に走り回るのが好きな子どもだと思っていたが、意外にも彼はひどく大人しく、真剣な面持ちでノートに何かを書き留めていた。","fr":"Vous pensiez que Barrett était un garçon plein d'énergie qui adorait courir partout. À votre grande surprise, il était parfaitement calme et prenait des notes avec le plus grand sérieux."}
+{"id":1556252,"jp":"ブラウディを一緒に観察する","fr":"Observez le Browdy avec Barrett"}
+{"id":1556253,"jp":"観察地点に到着すると、彼は慣れた様子で身を隠し、星臨者にもどこかへ隠れるよう促した。","fr":"Une fois au point d'observation, Barrett s'est dissimulé avec une aisance remarquable et vous a fait signe de trouver également une cachette."}
+{"id":1556254,"jp":"危ない！ブラウディに危害を加えようとする密猟者がいる！","fr":"Attention ! Un braconnier s'apprête à s'en prendre au Browdy !"}
+{"id":1556255,"jp":"ブラウディが密猟者に傷つけられた。状況は思わしくない。","fr":"Le braconnier a blessé le Browdy. La situation est préoccupante."}
+{"id":1556256,"jp":"ブラウディを救うため、バレットにマンドラゴンを渡す。","fr":"Remettez le Mandragon à Barrett pour sauver le Browdy."}
+{"id":1556257,"jp":"まさか密猟者が奥の手を残していたとは。急いで逃走を阻止しよう！","fr":"Qui aurait cru que le braconnier avait encore un tour dans son sac ? Vite, empêchez-le de s'enfuir !"}
+{"id":1556258,"jp":"密猟者が逃げようとしたその時、覇気に満ちた姿が彼の行く手を阻んだ！","fr":"Alors que le braconnier tentait de prendre la fuite, une silhouette imposante lui a soudain barré la route !"}
+{"id":1556259,"jp":"バレットとブラウディを護送してフリスへ戻り、ラリンおばあちゃんに起きた出来事を説明する。","fr":"Raccompagnez Barrett et le Browdy à Fleece en toute sécurité, puis racontez à Mamie Larin ce qui s'est passé."}
+{"id":1556260,"jp":"立ち去る際、バレットが追いかけてきた。密猟者が裁かれる瞬間を、自分の目で確かめたいのだという。","fr":"Alors que vous preniez congé, Barrett a couru pour vous rattraper. Il tient à voir de ses propres yeux le braconnier répondre de ses actes."}
+{"id":1556261,"jp":"密猟者を市庁舎に連行し、保安官に引き渡す。","fr":"Emmenez le braconnier à l'hôtel de ville et remettez-le au shérif."}
+{"id":1556262,"jp":"バレットは、いつか森と再会できると信じている！","fr":"Barrett garde la conviction qu'il retrouvera un jour la forêt !"}
+{"id":1556263,"jp":"一行は翼人の里への道順が分からず、星臨者が案内役を買って出た。皆は村の入り口で集合することにした。","fr":"Comme le groupe ignorait le chemin menant au Village des Ailés, vous avez proposé de servir de guide. Tout le monde a convenu de se retrouver à l'entrée du village."}
+{"id":1556264,"jp":"カタルはなにか悩んでいるようだ。なにが起きたのか見に行こう。","fr":"Quelque chose semble tracasser Katalua. Allez découvrir ce qui se passe."}
+{"id":1556265,"jp":"ルミィに鼓舞され、護衛隊は正式に翼人の里へと出発した……","fr":"Galvanisée par les encouragements de Lumi, l'escorte a enfin pris la route vers le Village des Ailés…"}
+{"id":1556266,"jp":"すぐ近くからぷーちゃんの鳴き声が聞こえるようだ。急いで確認しに行こう！","fr":"Les cris de Puu-chan semblent provenir de tout près. Vite, allez voir ce qui se passe !"}
+{"id":1556267,"jp":"ファランタは、ミィティにとって最も重要な『飛翔の儀』を星臨者が見届けてくれることを心待ちにしており、ミィティが準備をするのを手伝ってほしいと申し出た。","fr":"Faridah tient à ce que vous assistiez au « rite de l'Envol », l'événement le plus important pour Mitty. Elle vous a également demandé de l'aider dans ses préparatifs."}
+{"id":1556268,"jp":"ミィティは強がって、翼人の試練の内容はすでに把握しているから心配はいらないと星臨者に伝えた。どうやら、もっと遠回しな方法で彼女を助ける必要がありそうだ。","fr":"Mitty a fait bonne figure en vous assurant qu'elle connaissait déjà le déroulement des épreuves des Ailés et qu'il n'y avait aucune raison de s'inquiéter. Il va sans doute falloir trouver une manière plus discrète de lui venir en aide."}
+{"id":1556269,"jp":"キアラは自身の試練の経験を語り、もう一度ザッハ長老に教えを請うよう勧めた。","fr":"Kiara a raconté sa propre expérience des épreuves et a conseillé de solliciter de nouveau les enseignements de l'ancien Zaha."}
+{"id":1556270,"jp":"ミィティの真剣な表情を見たザッハは、ミィティの父がかつて試練のなかで成し遂げた伝説的な功績について語りはじめた。","fr":"Devant l'expression sérieuse de Mitty, Zaha a commencé à raconter l'exploit légendaire accompli autrefois par son père lors des épreuves."}
+{"id":1556271,"jp":"ファランタの短い前置きが終わると、ミィティの試練が幕を開けた！","fr":"Après quelques mots d'introduction de Faridah, les épreuves de Mitty ont enfin commencé !"}
+{"id":1556272,"jp":"第一戦、初翼の試練！スカイホークと一緒に飛行しよう。","fr":"Première épreuve : le baptême des ailes ! Prenez votre envol aux côtés d'un Skyhawk."}
+{"id":1556273,"jp":"つぎの試練の準備をしよう！","fr":"Préparez-vous pour la prochaine épreuve !"}
+{"id":1556274,"jp":"第二戦、勇毅の試練！空島で敵と戦おう。","fr":"Deuxième épreuve : l'épreuve du courage ! Affrontez les ennemis sur l'île flottante."}
+{"id":1556275,"jp":"リリカは焦っているようだ。なにがあったのか聞いてみよう。","fr":"Lyrica semble particulièrement agitée. Demandez-lui ce qui s'est passé."}
+{"id":1556276,"jp":"リリカの鍬が『夢遊病』で行方不明になったという……にわかには信じがたいが、『夢遊病』の鍬なんてだれもが見てみたいはずだ。鍬が残した花粉の痕跡をたどって、村の中で手がかりを探してみよう。","fr":"La houe de Lyrica aurait disparu à cause d'une crise de « somnambulisme »… Difficile à croire, mais qui ne rêverait pas de voir une houe somnambule ? Suivez les Traces de pollen laissées par la houe pour trouver des indices dans le village."}
+{"id":1556277,"jp":"偶然出会ったテララとウルも『夢遊病』の鍬に興味津々のようだ。ちょうど手が増えたことだし、引き続き痕跡をたどって先へ進もう。","fr":"Terara et Uru, que vous avez croisés par hasard, semblent eux aussi fascinés par cette houe « somnambule ». Maintenant que vous avez des renforts, continuez à suivre les Traces."}
+{"id":1556278,"jp":"痕跡をたどって村の門まで来たが、手がかりはなんと遠吠え平原のフィールドを指していた。そこにはなにがあるのだろうか……","fr":"En suivant les Traces, vous avez atteint les portes du village. Contre toute attente, les indices mènent vers les Plaines hurlantes. Que peut-il bien y avoir là-bas…"}
+{"id":1556279,"jp":"花粉の痕跡の先に、なんとだれかが座っている。何者だろうか？","fr":"Au bout des Traces de pollen, quelqu'un se tient en position assise. De qui peut-il bien s'agir ?"}
+{"id":1556280,"jp":"農作業の技術を学びたかったカタルが鍬を借りていったのだった。経緯は分かったが、鍬がここにないなら、ウルについていって探し続けるしかない。","fr":"C'était donc Katalua qui avait emprunté la houe pour apprendre les techniques agricoles. Le mystère est résolu, mais la houe reste introuvable. Il ne vous reste plus qu'à suivre Uru pour poursuivre les recherches."}
+{"id":1556281,"jp":"ウルについていくと、ツーモに囲まれた鍬を見つけた。ぐずぐずしてはいられない。急いでやつらを追い払い、鍬を取り戻そう。","fr":"En suivant Uru, vous avez retrouvé la houe, encerclée par des Tsumo. Pas une seconde à perdre ! Chassez-les rapidement pour récupérer la houe."}
+{"id":1556282,"jp":"深く満足したリリカは、農作業の奥義――『恩恵石』を皆に伝授することに決めた！","fr":"Ravie, Lyrica a décidé de transmettre à tout le monde sa Technique ultime des travaux agricoles : la « pierre de bénédiction » !"}
+{"id":1556283,"jp":"リリカはカタルの農作業への情熱に感化され、新しい農作業の技術『恩恵石』をみんなに教えることにした。彼女が準備している間、手本として、カタルに耕作のテクニックを見せてあげよう。","fr":"Inspirée par la passion de Katalua pour l'agriculture, Lyrica a décidé d'enseigner à tout le monde une nouvelle technique agricole : la « pierre de bénédiction ». Pendant qu'elle termine ses préparatifs, montrez à Katalua comment travailler la terre."}
+{"id":1556284,"jp":"耕作が完了し、リリカの準備も整った。リリカと会話して、『恩恵石』の奥義がいったいなんなのか見てみよう。","fr":"Le travail de la terre est terminé et Lyrica a achevé ses préparatifs. Discutez avec elle pour découvrir ce que cache véritablement la Technique ultime de la « pierre de bénédiction »."}
+{"id":1556285,"jp":"『恩恵石』を探しに行くはずだったウルは、キボの排泄物のそばで立ち止まった……","fr":"Uru, qui devait partir à la recherche de la « pierre de bénédiction », s'est arrêté devant des déjections de Kibo…"}
 {"id":1556286,"jp":"『恩恵石』を探す","fr":"Chercher la « pierre de bienfait »"}
+{"id":1556287,"jp":"『恩恵石』の透き通るような金色の見た目は、リリカの言った通り美しく、皆は直ちに収集に取りかかった。","fr":"Avec leur éclat doré et translucide, les « pierres de bénédiction » étaient aussi belles que Lyrica l'avait affirmé. Tout le monde s'est aussitôt mis à les ramasser."}
+{"id":1556288,"jp":"引き続きリリカから畑仕事を学ぶためには、もっと『恩恵石』を集めなければならない。","fr":"Pour poursuivre votre apprentissage des Travaux des champs auprès de Lyrica, il va falloir récolter davantage de « pierres de bénédiction »."}
+{"id":1556289,"jp":"ルミィの何気ない不満がきっかけとなり、リリカは意図せず『恩恵石』の前身について口にしてしまうのだった……","fr":"Une petite remarque de mécontentement de Lumi a amené Lyrica à révéler malgré elle la véritable origine des « pierres de bénédiction »…"}
+{"id":1556290,"jp":"リリカが黙々と励んでいることを知った皆は、態度を一変させて畑仕事の学習を再開した。","fr":"En découvrant tous les efforts que Lyrica fournissait discrètement, chacun a radicalement changé d'attitude et repris son apprentissage des Travaux des champs."}
+{"id":1556291,"jp":"ビリバーはもうすぐ、キボとしての生涯で最初の『試練』を迎える。村の料理人ルマおばあちゃんは、彼を労うことに決めた……","fr":"Biliver s'apprête à affronter la première « épreuve » de sa vie de Kibo. Mamie Ruma, la cuisinière du village, a décidé de le récompenser pour ses efforts…"}
+{"id":1556292,"jp":"ビリバーと一緒に焼き魚を味わう。","fr":"Dégustez du poisson grillé avec Biliver."}
+{"id":1556293,"jp":"この特別な焼き魚には、なにか珍しい種類の魚が使われているのだろうか？漁師のラニに尋ねてみよう。","fr":"Ce délicieux poisson grillé aurait-il été préparé avec une espèce particulièrement rare ? Allez poser la question à Rani, spécialiste de la pêche."}
+{"id":1556294,"jp":"湖畔へ行き、いい釣りポイントを探す。","fr":"Rendez-vous au bord du lac pour trouver un bon coin de pêche."}
+{"id":1556295,"jp":"食いしん坊なキボの群れがすでに水辺のいい場所を独占していた……","fr":"Une bande de Kibo gourmands avait déjà monopolisé les meilleurs emplacements au bord de l'eau…"}
+{"id":1556296,"jp":"魚が驚いて逃げていないことを願う……目当ての魚がまだ捕まえられるか試してみよう。","fr":"Espérons que les poissons n'ont pas tous pris la fuite… Essayez d'attraper celui que vous recherchez."}
+{"id":1556297,"jp":"ビリバーは湖畔で流木の残骸を見つけて興奮している。村長ならこの木片のことを知っているかもしれない。","fr":"Biliver déborde d'enthousiasme après avoir découvert un morceau de bois flotté au bord du lac. Le Chef du village sait peut-être quelque chose à son sujet."}
+{"id":1556298,"jp":"チルルならこの「マイスター」のことを知っているかもしれない。聞きに行ってみよう。","fr":"Chilul connaît peut-être ce fameux « Meister ». Allez lui poser la question."}
+{"id":1556299,"jp":"どうやらこれは「マスティーバ」の仕業のようだ。村長に情報を伝えよう。","fr":"Il semblerait que ce soit l'œuvre d'un « Mustiva ». Faites part de cette découverte au Chef du village."}
+{"id":1556300,"jp":"ビリバーは寂しそうな表情をしている。どうやらこの件について困惑しているようだ……","fr":"Biliver affiche une expression mélancolique. Toute cette histoire semble le laisser perplexe…"}
+{"id":1556301,"jp":"どちらを捨てるのも辛いなら、湖畔でほかの方法を試してみるのはどうだろうか。","fr":"S'il est trop difficile de renoncer à l'un ou à l'autre, pourquoi ne pas essayer une autre méthode au bord du lac ?"}
+{"id":1556302,"jp":"片塵石をビリバーに渡す。","fr":"Remettez les pierres de poussière à Biliver."}
+{"id":1556303,"jp":"軟らかい木をビリバーに渡そう。","fr":"Remettez le bois tendre à Biliver."}
+{"id":1556304,"jp":"繊維をビリバーに渡そう。","fr":"Remettez les fibres à Biliver."}
 {"id":1556312,"jp":"カークと会話する","fr":"Parler à Kirk"}
 {"id":1556318,"jp":"1日経ったあと……","fr":"Un jour plus tard…"}
 {"id":1556322,"jp":"翌日まで待つ。","fr":"Attendre le lendemain."}
