@@ -49703,7 +49703,7 @@
 {"id":1545308,"jp":"申し訳ないけど、お手上げだ。\nずいぶん長いこと厩舎の管理してきたけど、こんなに手強いのははじめてだよ。","fr":"Désolé, je jette l'éponge.\nÇa fait des années que je m'occupe des écuries. C'est la première fois que je tombe sur un Kibo aussi coriace."}
 {"id":1545309,"jp":"いいえ、謝るべきは私のほうです。\nケガをさせてしまって申し訳ありません……\nこちらの品をどうかお受け取りください。","fr":"C'est à moi de m'excuser.\nJe regrette que Roiree vous ait fait mal…\nTenez, je vous en prie, prenez ceci."}
 {"id":1545310,"jp":"でも……なにも手伝えてないのに……","fr":"Mais… je t'ai même pas rendu service…"}
-{"id":1545311,"jp":"そんなことはありません。\nどうかお詫びとしてお受け取りください。","fr":"Vous êtes venu me prêter main-forte.\nJe vous en prie, acceptez-le en guise d'excuses."}
+{"id":1545311,"jp":"そんなことはありません。\nどうかお詫びとしてお受け取りください。","fr":"Pas du tout.\nJe vous en prie, acceptez-le en guise d'excuses."}
 {"id":1545312,"jp":"ははっ、そうか。\nエルフさんは気前がいいな！じゃあ遠慮なくいただくよ！","fr":"Ha ha ! Si tu insistes.\nT'es drôlement généreuse ! Allez, j'accepte avec plaisir."}
 {"id":1545313,"jp":"どう？見通しはたったかしら？","fr":"Alors ? Tu as trouvé une idée ?"}
 {"id":1545314,"jp":"{playerName}さま、私のことはどうかお気になさらず。\n失敗しても問題はありませんから。","fr":"{playerName}, je vous en prie, ne vous faites pas de souci pour moi.\nSi vous n'y arrivez pas, ce n'est pas grave."}
@@ -49722,17 +49722,137 @@
 {"id":1545327,"jp":"ペガサスノヴァは生まれつき星空に憧れを抱いています。\nその時間はいつも、心の底からリラックスしていますよ。","fr":"Les Pegasus Nova sont fascinés par les étoiles dès leur naissance.\nQuand Roiree les regarde, je la sens vraiment apaisée."}
 {"id":1545328,"jp":"ロイレーが好きな場所……\nローブルが咲き乱れる花畑でしょうか。\nあの花の香りがするだけで、ロイレーはすくなからず落ち着くようです。","fr":"Un endroit qu'elle aime…\nJe dirais un champ couvert de fleurs de Lobul.\nLe parfum de ces fleurs suffit à l'apaiser un peu."}
 {"id":1545329,"jp":"アヴァリアンからフリスに続く境界にも<color=#fed196>ローブルの花畑</color>があります。\nあの場所に連れていけば、落ち着いてくれるかもしれません。","fr":"Il y a justement un <color=#fed196>champ de fleurs de Lobul</color> à la frontière entre Avalian et Fleece.\nSi on l'y emmenait, elle retrouverait peut-être son calme."}
+{"id":1545330,"jp":"うん、ありがとう。話を聞けて、助かったよ。","fr":"Oui, merci. Ça m'a bien aidé de t'écouter."}
+{"id":1545331,"jp":"どうなのだ？なにか手がかりは見つかったか？","fr":"Alors ? T'as trouvé une piste ?"}
+{"id":1545332,"jp":"ロイレーの体を洗ってあげようとした考えは間違ってない。\nだけど、もっと工夫して、道具も整えないと。","fr":"Tu as bien fait de vouloir laver Roiree.\nIl faut juste trouver une meilleure façon de s'y prendre et préparer le bon matériel."}
+{"id":1545333,"jp":"ロイレーのために<color=#fed196>キボのスパセット</color>を用意して、\n最高級のカスタマイズトリートメントを体験させてあげようかなって。","fr":"Je pensais préparer un <color=#fed196>kit de spa pour Kibo</color> pour Roiree\net lui offrir un soin sur mesure, digne des plus grands spas."}
+{"id":1545334,"jp":"またぁ……意味不明なことばっかり言って。","fr":"Ça y est, tu recommences… On comprend rien à ce que tu racontes."}
+{"id":1545335,"jp":"スパ、ですか……？\nなんのことかはわかりませんが、おもしろそうですね。","fr":"Un spa… ?\nJ'ignore ce que c'est, mais ça a l'air intéressant."}
+{"id":1545336,"jp":"準備にすこし時間と手間がかかるから、\nふたりにも手伝ってもらえるかな？","fr":"Il y a un peu de travail pour tout préparer.\nVous deux, vous me donnez un coup de main ?"}
+{"id":1545337,"jp":"ええ、もちろんです。ロイレーのためですから。","fr":"Oui, bien sûr. C'est pour Roiree, après tout."}
+{"id":1545338,"jp":"楽しみにしているわ。\n大げさに言っているだけじゃないといいけれど。","fr":"J'ai hâte de voir ça.\nJ'espère que vos soins seront à la hauteur de vos promesses."}
+{"id":1545339,"jp":"いらっしゃいませ！……って、あれ？\nこのまえ貝殻で買いものをしようとしたお客さんじゃありませんか？","fr":"Bienvenue !… Oh, mais attendez !\nC'est vous qui avez essayé de payer en coquillages l'autre jour ?"}
+{"id":1545340,"jp":"このレシピにある食材を買いたくて。","fr":"Je voudrais acheter les ingrédients de cette recette."}
+{"id":1545341,"jp":"どれどれ……うん、問題ありませんよ！\n店にはぜんぶ揃ってますからね。ただ、お支払いはユニでお願いします……","fr":"Voyons voir… Oui, pas de souci !\nOn a tout ce qu'il vous faut. Il faudra juste payer en Uni, cette fois…"}
+{"id":1545342,"jp":"私が払うわ。あなたは自分の能力を示してくれればそれでいいの。","fr":"Je paie. Vous, montrez-moi simplement ce que vous savez faire."}
+{"id":1545343,"jp":"ありがとう。ところで、ここには焼き菓子用の調理器具はある？\nすこし借りられたりしないかな？","fr":"Merci. Au fait, tu as de quoi faire de la pâtisserie ici ?\nTu nous prêtes ton matériel un instant ?"}
+{"id":1545344,"jp":"構いませんよ。こちらへどうぞ。","fr":"Bien sûr. Suivez-moi."}
+{"id":1545345,"jp":"店員と一緒に厨房に入り、オーブンを使ってハチミツパンケーキを焼いた。","fr":"Vous avez suivi la personne qui vous servait jusqu'en cuisine, puis vous avez fait cuire des pancakes au miel au four."}
+{"id":1545346,"jp":"あらっ……この香りと食感、アヴァリアンのものとまったく同じです！","fr":"Oh… Ce parfum, cette texture… On les croirait tout droit sortis d'une cuisine d'Avalian !"}
+{"id":1545347,"jp":"シャルが覚えていた食材だけで、アヴァリアンの名物を再現できるなんて……\n人間にしては、なかなかの料理の腕だわ。","fr":"Vous avez réussi à refaire une spécialité d'Avalian avec les seuls ingrédients dont Shalle se souvenait…\nPour un être humain, vous vous débrouillez plutôt bien en cuisine."}
+{"id":1545348,"jp":"フン！{playerName}はまだまだこんなもんじゃないぞ！\nほら、このふたりにもっと技を披露してやるといい！","fr":"Ha ! Vous êtes loin d'avoir vu tout ce que {playerName} sait faire !\nAllez, montre-leur un peu de quoi tu es capable !"}
+{"id":1545349,"jp":"{playerName}さま、つぎはどうしましょうか？","fr":"{playerName}, que faisons-nous maintenant ?"}
+{"id":1545350,"jp":"シャルが話してた『ローブルの花畑』に行こうかなって。","fr":"Je pensais aller voir le « champ de lobuls » dont Shalle parlait."}
+{"id":1545351,"jp":"花畑はフリスとアヴァリアンの国境にあります。\n私がご案内しましょう。","fr":"Il se trouve à la frontière entre Fleece et Avalian.\nJe vais vous y conduire."}
 {"id":1545352,"jp":"おおっ、ここか！","fr":"Oh, c'est ici !"}
+{"id":1545353,"jp":"森の奥にこれほど美しい花畑があるとは……","fr":"Qui aurait cru trouver un champ de fleurs aussi beau au fin fond de la forêt…"}
+{"id":1545354,"jp":"不思議ね。錦朔とはいえ、\nここのローブルがこんなにも咲き誇っているなんて。","fr":"Comme c'est étrange… Même en Lune de brocart,\nje ne m'attendais pas à voir autant de lobuls en fleurs ici."}
+{"id":1545355,"jp":"この森はもともと道に迷いやすく、\n部外者がここを訪れることは滅多にありません。","fr":"On s'égare facilement dans cette forêt.\nRares sont les gens de passage qui arrivent jusqu'ici."}
+{"id":1545356,"jp":"だからこそ、ハイエルフたちは\nここを戦士たちの安息の地として選んだのです。","fr":"C'est pour cette raison que les Hauts Elfes ont choisi ce lieu\npour que leurs guerriers y reposent en paix."}
+{"id":1545357,"jp":"安息の地……もしかしてハイエルフたちも\nフリスであったっていう戦争に参加してたの？","fr":"Pour que leurs guerriers reposent en paix…\nLes Hauts Elfes ont aussi pris part à la guerre dont on m'a parlé à Fleece ?"}
+{"id":1545358,"jp":"それは、辰王朝とエルデンランドの戦争のことかしら？","fr":"Vous parlez de la guerre entre la dynastie Chen et Eldenland ?"}
+{"id":1545359,"jp":"いいえ。ハイエルフは人間同士の戦争にはまったく興味がないの。\n私たちが経験したのは<color=#fed196>『凶潮』</color>という災厄よ。","fr":"Non. Les guerres entre êtres humains n'intéressent pas les Hauts Elfes.\nNous, nous avons connu un fléau qu'on appelle la <color=#fed196>« Marée maudite »</color>."}
+{"id":1545360,"jp":"凶潮……？それってたしか……","fr":"La Marée maudite… ? Attends, c'est bien…"}
+{"id":1545361,"jp":"あなた、おかしな方ね……妙な知識を持っているくせに、\n子どもでも知っているような歴史のことは、なにも知らないなんて……","fr":"Vous m'intriguez… Vous savez des choses bien singulières,\nmais vous ignorez des pans de notre histoire que même les enfants connaissent…"}
+{"id":1545362,"jp":"『凶潮』とは、プロミリア大陸でかつて発生したスーニヤの災禍のこと。\n数え切れない凶獣がスーニヤの地からこの地に押し寄せた。","fr":"La « Marée maudite » est un fléau venu de Sunya qui a frappé Promilia il y a longtemps.\nLes Bêtes maudites ont déferlé de Sunya en nombre incalculable."}
+{"id":1545363,"jp":"およそ500朔前、<color=#fed196>『第二次凶潮』</color>と呼ばれる災厄が大陸を襲った。\nアヴァリアンは当時、ほかの種族とともに凶獣と戦い、故郷を守り抜いたのよ。","fr":"Il y a environ 500 lunes, la <color=#fed196>« Deuxième Marée maudite »</color> s'est abattue sur le continent.\nAvalian a combattu les Bêtes maudites aux côtés des autres peuples pour défendre notre terre."}
+{"id":1545364,"jp":"あの凶獣との戦争なら、あたしも経験したのだ。\n『凶潮』はこの大陸の呪いと呼ばれている。\nいまもなお消し去ることのできない禍の根だ。","fr":"La grande Lumi aussi a connu la guerre contre les Bêtes maudites.\nOn dit que la « Marée maudite » est la Malédiction de ce continent.\nLe mal est toujours là. Personne n'a réussi à l'extirper."}
+{"id":1545365,"jp":"だけど、そう心配することはない。\nいまのところスーニヤの地の凶獣は比較的に落ち着いてるからな。\n当面、脅威にはならないはずなのだ。","fr":"Enfin, pas de quoi t'inquiéter.\nLes Bêtes maudites de Sunya se tiennent plutôt tranquilles en ce moment.\nOn devrait avoir un peu de répit."}
+{"id":1545366,"jp":"さて、雑談はこの辺にしておきましょう。\nこの花畑まで来て、いったいなにをするつもりなのかしら？","fr":"Bon, assez bavardé.\nQu'avez-vous donc en tête pour nous avoir fait venir jusqu'ici ?"}
+{"id":1545367,"jp":"みんなにローブルをすこし集めて欲しいんだ。|みんなにローブルをすこし集めて欲しいの。","fr":"J'aimerais que chacun de vous cueille quelques lobuls.|J'aimerais que vous m'aidiez tous à cueillir quelques lobuls."}
+{"id":1545368,"jp":"ローブルは自然からの贈りもの……ハイエルフにとって神聖なものよ。\n理由もなく、摘むことはできないわ。","fr":"Les lobuls sont un don de la nature… Pour les Hauts Elfes, ils sont sacrés.\nOn ne peut pas les cueillir sans raison."}
+{"id":1545369,"jp":"もしかして、ロイレーにローブルの香りを嗅がせたいのですか？","fr":"Vous voudriez faire sentir le parfum des lobuls à Roiree, c'est ça ?"}
 {"id":1545370,"jp":"うん、そのつもり。","fr":"Oui, c'est l'idée."}
+{"id":1545371,"jp":"このあたりにはポポティがいっぱい棲んでるみたいなのだ。\nあの子たちに花の蜜を集めてもらえるように頼んでみるか？","fr":"On dirait qu'il y a plein de Popoty dans le coin.\nEt si on leur demandait de récolter le nectar des fleurs ?"}
+{"id":1545372,"jp":"ポポティ！あつまれ〜！","fr":"Les Popoty ! Par ici !"}
 {"id":1545373,"jp":"ポティ～","fr":"Poti~"}
+{"id":1545374,"jp":"ルミィさまは、ローブルの蜜を集めてるのだ。\n集めるのを手伝ってもらえないか？","fr":"La grande Lumi cherche du nectar de lobul.\nVous voulez bien l'aider à en récolter ?"}
 {"id":1545375,"jp":"ポティ！","fr":"Poti !"}
+{"id":1545376,"jp":"さすが妖精さま。キボとこれほど親しく交流できるなんて","fr":"Vous êtes vraiment à la hauteur de votre titre, Dame Fée. Les Kibo ont une telle confiance en vous…"}
+{"id":1545377,"jp":"ポポティは風のカルマが好きだからな。\nあたしは風の大妖精だし、快く応えてもらえるのだ。","fr":"Les Popoty adorent le Karma du vent, tu sais.\nAlors, quand la Grande Fée du vent leur demande un service, ils viennent de bon cœur."}
+{"id":1545378,"jp":"妖精の力をこんなことに使っていいのかしら。","fr":"Est-ce bien raisonnable d'utiliser des pouvoirs de fée pour ce genre de chose ?"}
+{"id":1545379,"jp":"まあ、大したことじゃないし、気にすることないのだ。","fr":"Oh, pour si peu, t'en fais pas."}
+{"id":1545380,"jp":"ポポティたちが蜜を集め終わるのにすこし時間がかかりそうなのだ。\nこのあたりですこし休もう。","fr":"Les Popoty vont mettre un peu de temps à récolter le nectar.\nReposons-nous dans le coin en attendant."}
 {"id":1545381,"jp":"ヒヒ～ン。","fr":"Hiii~."}
+{"id":1545382,"jp":"やはりここに来ると、ロイレーの気分もずいぶん晴れやかになるようです。","fr":"Comme je le pensais, venir ici remonte le moral de Roiree."}
 {"id":1545383,"jp":"よかったね。","fr":"Tant mieux, Roiree."}
+{"id":1545384,"jp":"ロイレーのために心を砕いてくださり、ありがとうございます。","fr":"Merci de vous donner tant de mal pour Roiree."}
+{"id":1545385,"jp":"人間は利益を追求する種族だわ。\n私たちを助ける目的も、結局は富や報酬を得ることでしょう。","fr":"Les êtres humains cherchent toujours à y gagner quelque chose.\nSi vous nous aidez, c'est bien que vous espérez de l'argent ou une autre récompense."}
 {"id":1545386,"jp":"モーレン……","fr":"Morwyn…"}
+{"id":1545387,"jp":"誤解しないで。そういった取引を嫌っているわけではないの。\n価値の交換はこの世界の法則そのものよ。\nハイエルフもそれに従うことで、今日まで発展してきたのだから。","fr":"Comprenez-moi bien. Ces arrangements me conviennent parfaitement.\nChacun donne quelque chose en échange de ce qu'il reçoit. C'est ainsi que le monde fonctionne.\nLes Hauts Elfes suivent cette règle depuis toujours, et elle leur a permis de prospérer."}
+{"id":1545388,"jp":"価値の交換で利用できるものすべてを手に入れるのは、\n最も効率的な方法と言えるわね。","fr":"Si l'on veut obtenir tout ce qui peut nous servir,\nle plus efficace reste d'avoir quelque chose à offrir en échange."}
+{"id":1545389,"jp":"ふたりも、そういう関係なの？","fr":"Et entre vous deux, ça marche comme ça aussi ?"}
+{"id":1545390,"jp":"シャルともそういう関係なの？","fr":"C'est comme ça que ça se passe avec Shalle aussi ?"}
+{"id":1545391,"jp":"そんなわけないでしょう！","fr":"Mais bien sûr que non !"}
+{"id":1545392,"jp":"私はハクオン家の後継者。\nそして、シャルと私はともにエルフ王座の剣なのよ。\n単なる利害で結びついた間柄などではないわ。","fr":"Je suis l'héritière de la maison Hakuon.\nShalle et moi, nous sommes toutes deux des Lames du Trône des Elfes.\nCe qui nous lie va bien au-delà de nos intérêts."}
+{"id":1545393,"jp":"ふふっ、モーレンも言い負かされてしまったようですね。","fr":"Hi hi… On dirait que cette fois, Morwyn n'a plus rien à ajouter."}
+{"id":1545394,"jp":"ごめんなさい。モーレンはときに真剣になりすぎるのです。\nでも、ほとんどの場合、悪意はないのですよ。","fr":"Veuillez l'excuser. Morwyn prend parfois les choses trop à cœur.\nEn général, elle parle sans aucune malice."}
+{"id":1545395,"jp":"シャル、どうしていつもこの人間の味方をするの？","fr":"Shalle, pourquoi prenez-vous toujours le parti de cet être humain ?"}
+{"id":1545396,"jp":"ふふっ、たしかにハイエルフは利益至上主義を掲げています。\nですが、それだけではありません。我々にはほかの種族に誇るべき美徳があり、\nそれゆえに大陸で一定の地位を占めているのです。","fr":"Hi hi… Chez les Hauts Elfes, il est vrai que le profit passe avant tout.\nNous avons aussi des qualités dont nous pouvons être fiers devant les autres peuples,\net c'est à elles que nous devons notre place sur le continent."}
+{"id":1545397,"jp":"栄光、誓い、契約、そして誠実さ。\nこれらはすべて、アヴァリアンの者が守るべき掟。","fr":"La gloire, les serments, les contrats et la droiture.\nVoilà les principes que chacun doit respecter à Avalian."}
+{"id":1545398,"jp":"あなたが私たちを助けることを選んだ理由については\n私もとても気になっています。","fr":"Moi aussi, j'aimerais beaucoup savoir\nce qui vous a donné envie de nous aider."}
 {"id":1545399,"jp":"キボが好きだから！","fr":"Parce que j'aime les Kibo !"}
+{"id":1545400,"jp":"発明するのが好きだから！","fr":"Parce que j'adore inventer des trucs !"}
+{"id":1545401,"jp":"だれかを助けるのが好きだから。","fr":"Parce que j'aime rendre service."}
+{"id":1545402,"jp":"この大陸のキボたちが好きなんだ。\nキボたちの役に立てるなら、なんだってやりたいよ。|\nこの大陸のキボたちが好きなの。\nキボたちの役に立てるなら、なんだってやりたいよ。","fr":"J'adore les Kibo de ce continent.\nS'il y a quoi que ce soit que je puisse faire pour eux, je le ferai.|\nJ'adore les Kibo de ce continent.\nS'il y a quoi que ce soit que je puisse faire pour eux, je le ferai."}
+{"id":1545403,"jp":"発明と創作が好きなんだ。おもしろいものを作りながら、\nだれかの力になれるなんて、最高だよね？|\n発明と創作が好きなの。おもしろいものを作りながら、\nだれかの力になれるなんて、最高だよね？","fr":"J'adore inventer des trucs. Et si je peux fabriquer quelque chose de chouette\net rendre service en même temps, que demander de plus ?|\nJ'adore inventer des trucs. Et si je peux fabriquer quelque chose de chouette\net rendre service en même temps, que demander de plus ?"}
+{"id":1545404,"jp":"特別な理由なんてないよ。\n困ってるだれかを助けられるだけで幸せなんだから！","fr":"J'ai pas de raison particulière.\nÇa me fait plaisir, tout simplement, d'aider quelqu'un qui en a besoin !"}
 {"id":1545405,"jp":"理解できないわ……","fr":"Je ne comprends pas…"}
+{"id":1545406,"jp":"ふふっ、あなたは本当におもしろい方ですね。","fr":"Hihi, vous êtes vraiment quelqu'un de surprenant."}
+{"id":1545407,"jp":"{playerName}さま、申し訳ありません。\n私としたことが、取り乱してしまって。","fr":"{playerName}, pardonnez-moi.\nJe ne sais pas ce qui m'a pris de m'emporter ainsi."}
+{"id":1545408,"jp":"私が冷静でいられなかったせいで、\nあなたを私とモーレンの個人的な確執に巻き込んでしまいました……","fr":"J'ai perdu mon calme et, à cause de moi,\nvous voilà au beau milieu de ma querelle avec Morwyn…"}
+{"id":1545409,"jp":"僕を庇ってくれたんだよね。|私を庇ってくれたんだよね。","fr":"Tu as pris ma défense, c'est tout.|Tu as pris ma défense, c'est tout."}
+{"id":1545410,"jp":"いつもとは違う顔が見れてうれしかった。","fr":"Ça m'a fait plaisir de te découvrir sous un autre jour."}
+{"id":1545411,"jp":"シンフォーリアは僕を守るためにモーレンと争ってくれたんだよね。僕もその言葉を証明して、期待に応えたい。|シンフォーリアは私を守るためにモーレンと争ってくれたんだよね。私もその言葉を証明して、期待に応えたい。","fr":"Tu as tenu tête à Morwyn pour me défendre, Symphoria. J'ai envie de te donner raison et de me montrer à la hauteur.|Tu as tenu tête à Morwyn pour me défendre, Symphoria. J'ai envie de te donner raison et de me montrer à la hauteur."}
+{"id":1545412,"jp":"シンフォーリアが感情的になるところ、はじめて見たよ。\nいつもとは違う顔が見れて、うれしかったな。","fr":"C'est la première fois que je te vois t'emporter, Symphoria.\nÇa m'a fait plaisir de voir ce côté-là de toi."}
+{"id":1545413,"jp":"うっ、あの……そんなふうに言われると\nなんだか恥ずかしくなってしまいます……","fr":"Oh, euh… quand vous dites les choses comme ça,\nje ne sais plus où me mettre…"}
+{"id":1545414,"jp":"でも、シンフォーリアとモーレンのあいだになにがあったのか、すごく気になる。\nシンフォーリアは優しいから、だれかと衝突するなんて思ってなかったよ。","fr":"Mais j'aimerais vraiment savoir ce qui s'est passé entre toi et Morwyn.\nTu es si douce, Symphoria. J'avais du mal à t'imaginer te disputer avec quelqu'un."}
+{"id":1545415,"jp":"あたしも知りたいのだ！あのころはまだシフォンと一緒に行動してなかったから、\nおもしろいことをたくさん見逃してる気がするぞ！","fr":"La grande Lumi veut savoir, elle aussi ! À l'époque, elle voyageait pas encore avec toi, Chiffon.\nElle a dû en rater, des histoires !"}
+{"id":1545416,"jp":"ずいぶん昔の話ですよ……以前、私はロースランサを代表して\nハイガーデンの決議を伝えるためにアヴァリアンに行きました。\nそのとき、モーレンとはじめて会ったのです。","fr":"Ça remonte à bien longtemps… J'étais allée à Avalian au nom de Lors Lains\npour transmettre une décision de High Garden.\nC'est là que j'ai rencontré Morwyn pour la première fois."}
+{"id":1545417,"jp":"ああ……その言葉だけで、ハイエルフの反応が想像できるな……","fr":"Ah… Rien qu'à t'entendre, j'imagine la tête des Hauts Elfes…"}
+{"id":1545418,"jp":"ええ。ハイエルフとウッドエルフは分かれて久しいのですが、\nロースランサではいまでもアヴァリアンを\nハイガーデンの管轄だと考える方々がたくさんいます。","fr":"Oui. Il y a longtemps que les Hauts Elfes et les Elfes des bois se sont séparés,\nmais à Lors Lains, beaucoup de gens considèrent encore\nqu'Avalian relève de l'autorité de High Garden."}
+{"id":1545419,"jp":"訪問理由を知ったモーレンは\n私のことをハイガーデンがアヴァリアンを侮辱するために\n送り込んだ使者と見なし、決闘を申し込んできたのです。","fr":"Quand Morwyn a appris pourquoi j'étais venue,\nelle a cru que High Garden m'avait envoyée\npour humilier Avalian. Elle m'a provoquée en duel."}
+{"id":1545420,"jp":"エルフの王の仲裁が入って決着はつきませんでしたが、\nいまもわだかまりが残っているのです……","fr":"Le roi des Elfes s'est interposé avant que le duel soit tranché,\nmais la rancune est restée…"}
+{"id":1545421,"jp":"まあ、どっちの考えも理解はできるのだ。","fr":"Bah, la grande Lumi comprend les deux camps."}
+{"id":1545422,"jp":"ウッドエルフはハイエルフが先祖や自然の法則を裏切ったと思ってる。\nだけど、このルミィさまだって、ハイガーデンのじじどもは\n保守的でつまらないって思うからな。","fr":"Les Elfes des bois pensent que les Hauts Elfes ont trahi leurs ancêtres et les lois de la nature.\nEt puis même la grande Lumi trouve que les vieux de High Garden\nsont bornés et ennuyeux à mourir."}
+{"id":1545423,"jp":"ルミィの言う通り、ウッドエルフの多くは\n生涯ロースランサから離れることがありません。\nですから、考えが凝り固まってしまっているのです。","fr":"Lumi a raison. Beaucoup d'Elfes des bois\npassent toute leur vie à Lors Lains.\nÀ force, ils finissent par toujours voir les choses de la même façon."}
+{"id":1545424,"jp":"私も、かつてはそうでした……\nウィスパーとして大陸を巡り、任務を遂行するようになってはじめて、\n以前の考え方が、旧習に縛られていたことに気づいたのです。","fr":"J'étais comme eux, autrefois…\nC'est en sillonnant le continent pour mes missions de Whisper\nque j'ai compris à quel point les vieilles coutumes dictaient ma façon de penser."}
+{"id":1545425,"jp":"この機会に、モーレンと和解してみるのはどうかな？","fr":"Tu pourrais profiter de l'occasion pour te réconcilier avec Morwyn. Qu'est-ce que t'en dis ?"}
+{"id":1545426,"jp":"和解、ですか……\nそうですね、すこし考えてみます。","fr":"Me réconcilier avec elle… ?\nEh bien, je vais y réfléchir."}
+{"id":1545427,"jp":"なんだか、ここにはさわやかなそよ風が流れてる気がする。","fr":"Tu sens cette petite brise ? Ça fait du bien."}
+{"id":1545428,"jp":"うむうむ。たしかに、この花畑の風のカルマは活発なのだ。\nポポティがこんなにたくさん集まってるのも、\n風の星脈の支流が流れてるからだな。","fr":"Mmh, oui. Le Karma du vent est bien actif dans ce champ.\nSi les Popoty se rassemblent ici en si grand nombre,\nc'est parce qu'une branche de la veine stellaire du vent passe par là."}
 {"id":1545430,"jp":"幼い領主の幻影","fr":"Fantôme du jeune seigneur"}
+{"id":1545431,"jp":"わあ！ここ、すごく綺麗だね！\n連れてきてくれてありがとう、アイオリアン！","fr":"Waouh ! Qu'est-ce que c'est beau ici !\nMerci de m'avoir amenée, l'Éolien !"}
+{"id":1545432,"jp":"フリスの国境に、こんなにすてきな花畑があるなんて……\nもっと遠くまで飛べたら、きっともっと素敵な景色が見られるね！","fr":"Je savais pas qu'il y avait un champ de fleurs aussi beau à la frontière de Fleece…\nSi on pouvait voler encore plus loin, on verrait sûrement des endroits encore plus beaux !"}
 {"id":1545433,"jp":"シュ～","fr":"Chuu~"}
+{"id":1545434,"jp":"でも、ここからさきはフリスの外だよね。\nすぐそこなのに、簡単には越えられない……","fr":"Mais juste après, on sort de Fleece, hein ?\nC'est juste là, et c'est si compliqué de passer de l'autre côté…"}
+{"id":1545435,"jp":"アイオリアンは風の化身だから、\n行きたい場所があればどこでも行けるんだよね？","fr":"Toi, t'es le vent en personne, l'Éolien.\nTu peux aller où tu veux, pas vrai ?"}
+{"id":1545436,"jp":"私もアイオリアンみたいに自由だったら……","fr":"Si seulement j'étais aussi libre que toi, l'Éolien…"}
+{"id":1545437,"jp":"ん、慰めてくれてるの？ふふっ、大丈夫だよ。\n私はフリスの後継者。家族が私に期待するのは当然のことだもん……","fr":"Hm ? Tu essaies de me consoler ? Hihi, ça va, tu sais.\nJe suis l'héritière de Fleece. C'est normal que ma famille compte sur moi…"}
+{"id":1545438,"jp":"いまはまだ無理だけど……\nおとなになったら、きっと行きたい場所へ行けるようになるよね！","fr":"Pour l'instant, je peux pas…\nMais quand je serai grande, je pourrai sûrement aller où je veux, hein !"}
+{"id":1545439,"jp":"そのときは、アイオリアンもそばにいてくれる？","fr":"Et ce jour-là, tu seras à mes côtés, l'Éolien ?"}
+{"id":1545440,"jp":"約束だよ？指切りげんまん、約束を破ったら\nペペアメを百個食べる！","fr":"Promis ? Allez, on se donne le petit doigt ! Si je tiens pas parole,\nje mange cent bonbons Pepe !"}
+{"id":1545441,"jp":"こら！{playerName}、どうしたのだ？\nいきなりぼーっとしちゃって。","fr":"Hé ! {playerName}, qu'est-ce qui t'arrive ?\nT'es dans la lune, d'un coup."}
+{"id":1545442,"jp":"さっき、コムギとアイオリアンが一緒にいる光景が見えた……\nふたりも、この花畑に来たことがあるんだね。","fr":"Je viens de voir Komugi avec l'Éolien…\nIls sont déjà venus ici tous les deux."}
+{"id":1545443,"jp":"また過去の幻影か？ほかにはなにが見えたんだ？","fr":"Encore une vision du passé ? T'as vu quoi d'autre ?"}
+{"id":1545444,"jp":"よくわからない……けど、コムギはアイオリアンと\nなにか約束をしたみたい……","fr":"C'était pas très clair… Mais on aurait dit\nque Komugi avait fait une promesse à l'Éolien…"}
+{"id":1545445,"jp":"ですが……領主さまは、\nアイオリアンは『終刻の風塁』から出られないと仰っていました。\nコムギさんと来たのはいつのことなのでしょう……","fr":"Pourtant, le seigneur nous a dit\nque l'Éolien ne pouvait pas quitter le Rempart du dernier vent.\nQuand aurait-il pu venir ici avec Komugi… ?"}
+{"id":1545446,"jp":"うーん、たしかに不思議なのだ。","fr":"Mmh… C'est vrai que c'est bizarre."}
+{"id":1545447,"jp":"あとでコムギに聞いてみよう。\nアイオリアンのことで、なにか手がかりが得られるかもしれない。","fr":"On demandera à Komugi plus tard.\nElle pourra peut-être nous en dire plus sur l'Éolien."}
+{"id":1545448,"jp":"なんの話をしているのかしら？","fr":"De quoi parlez-vous ?"}
+{"id":1545449,"jp":"いやいや！なんでもないのだ！\nそろそろ時間だし、ポポティたちのところに戻ってみよう。","fr":"Hein ? Oh, de rien du tout !\nIl doit être l'heure. Retournons voir les Popoty."}
+{"id":1545450,"jp":"よしよ～し、みんな、集めた蜜をここにまとめて欲しいのだ！","fr":"Voilà, c'est bien ! Tout le monde, déposez ici le nectar que vous avez récolté !"}
+{"id":1545451,"jp":"{playerName}、これだけ蜜があれば十分だろう？","fr":"{playerName}, ça devrait suffire, tout ce nectar, non ?"}
+{"id":1545452,"jp":"うん！みんな、ありがとう！","fr":"Oui ! Merci à tous !"}
+{"id":1545453,"jp":"フフーン、無事完了なのだ！","fr":"Héhé, mission accomplie !"}
+{"id":1545454,"jp":"これで準備は整ったかしら？","fr":"Alors, tout est prêt ?"}
+{"id":1545455,"jp":"あとすこし。フリスのギルドに行って情報を集めてくるよ。\nあそこに探してるものがあるかもしれない。","fr":"Presque. Je vais me renseigner à la guilde de Fleece.\nJ'y trouverai peut-être ce que je cherche."}
+{"id":1545456,"jp":"それでは、戻りましょうか。","fr":"Dans ce cas, on rentre ?"}
+{"id":1545457,"jp":"おやおや～？そこにいるのは、ギルドのハイクラス冒険者さま！\nなにかお手伝いできることはあるかにゃ？","fr":"Tiens, tiens ! Voilà la crème de la guilde !\nJe peux faire quelque chose pour toi, nya ?"}
+{"id":1545458,"jp":"フリスで質のいいたてがみを手に入れられる場所が知りたくて。","fr":"Je voudrais savoir où trouver une crinière de bonne qualité à Fleece."}
+{"id":1545459,"jp":"たてがみ、かあ……\nフリスにはふわふわしたキボがたくさんいるよ。\nどんなたてがみがいいの？","fr":"Une crinière, tu dis…\nÀ Fleece, c'est pas les Kibo tout duveteux qui manquent.\nTu cherches quel genre de crinière ?"}
+{"id":1545460,"jp":"硬くて丈夫で、ふわふわだけど形が安定してて\n防水、防湿性もあるのがいい！","fr":"Il m'en faut une bien solide et rêche, mais avec du gonflant et qui garde sa forme.\nEt il faut qu'elle résiste à l'eau et à l'humidité !"}
+{"id":1545461,"jp":"うーん、その条件をすべて満たすのは……\nふふーん、あのキボだけだにゃ！","fr":"Mmh, avec tout ça…\nHéhé, je connais un seul Kibo qui a la crinière qu'il te faut, nya !"}
 {"id":1545466,"jp":"そう、ライカウモ！","fr":"Oui, le Raikaumo !"}
 {"id":1545487,"jp":"やっと倒した……","fr":"On l'a enfin vaincu…"}
 {"id":1545498,"jp":"モォ～","fr":"Mooo~"}
@@ -52196,14 +52316,114 @@
 {"id":1551860,"jp":"これは……本当にきれいですね。これはなんの石なのですか？","fr":"Oh… Elle est vraiment magnifique. De quelle pierre s'agit-il ?"}
 {"id":1551861,"jp":"キボのフンの石だね。","fr":"Une pierre de crotte de Kibo."}
 {"id":1551862,"jp":"ふふ、きれいだよね、キボのフン……","fr":"Héhé… C'est joli, hein, les crottes de Kibo…"}
+{"id":1551863,"jp":"星臨者、しっかりするのだ！","fr":"Enfant des étoiles, ressaisis-toi !"}
+{"id":1551864,"jp":"ま、まったく。ボスまで大げさなんだから……\nこんなことなら、はじめに『恩恵石』の使い方を教えておけばよかったよ。","fr":"F-Franchement, même toi, Chef, tu en fais toute une histoire…\nSi j'avais su, j'aurais commencé par vous expliquer comment utiliser les « Pierres de bénédiction »."}
+{"id":1551865,"jp":"あの……そろそろ畑仕事の授業をしてもらってもいいかな、リリカ先生。","fr":"Euh… On pourrait peut-être commencer la leçon de Travaux des champs, Maîtresse Lyrica ?"}
+{"id":1551866,"jp":"おお、さすがカタルさんだね！まだ畑仕事への情熱を失っていなかったんだ！","fr":"Oh, bravo, Katalua ! Tu n'as toujours pas perdu ta passion pour les Travaux des champs !"}
+{"id":1551867,"jp":"むむっ……大妖精であるあたしでも、カタルの決意には心から感服するのだ。","fr":"Hmm… Même la Grande Fée ne peut que s'incliner devant la détermination de Katalua."}
+{"id":1551868,"jp":"まったくだよ、珍しく気が合うな。\nにしても、まさかこんなことで意見が一致するなんて……","fr":"Carrément ! Pour une fois qu'on est d'accord, toutes les deux…\nCela dit, qui aurait cru que ce serait pour un truc pareil ?"}
+{"id":1551869,"jp":"よし、みんながいつまでも立ち直らないなら、オイラはカタルにだけ教えるよ。","fr":"Bon, si vous comptez rester dans cet état encore longtemps, je vais donner ma leçon à Katalua toute seule !"}
+{"id":1551870,"jp":"わたし、いつでも準備できているよ！","fr":"Je suis prête, moi !"}
+{"id":1551871,"jp":"よーし。それじゃ、この『恩恵石』を砕いて、畑にまくんだよ！","fr":"Parfait ! Alors, réduis cette « Pierre de bénédiction » en poudre et répands-la sur le champ !"}
+{"id":1551872,"jp":"わかったよ……って、畑にまくの？","fr":"D'accord… Attends, sur le champ ?"}
+{"id":1551873,"jp":"大丈夫、カタル？急に笑顔が消えちゃったけど……","fr":"Ça va, Katalua ? Tu as soudainement perdu ton sourire…"}
+{"id":1551874,"jp":"……あの、もしかして……キボのフンを畑にまくの？","fr":"… Euh, ne me dis pas que… On va répandre des crottes de Kibo sur le champ ?"}
+{"id":1551875,"jp":"そうだよ！いや、違うよ！！『恩恵石』を畑にまくんだよ。","fr":"Exactement ! Enfin, non !! Ce sont des « Pierres de bénédiction » qu'on répand sur le champ !"}
+{"id":1551876,"jp":"『恩恵石』には栄養がたっぷり含まれているから、強くて大きな作物が育つんだ！","fr":"Les « Pierres de bénédiction » sont pleines de nutriments qui permettent d'obtenir de belles cultures bien vigoureuses !"}
 {"id":1551877,"jp":"えっ……！","fr":"Hein… !?"}
+{"id":1551878,"jp":"カタル、なんで急に固まったんだ？","fr":"Katalua, pourquoi tu t'es figée comme ça ?"}
+{"id":1551879,"jp":"わたし、キボのフンを集めるのは、畑仕事を前にした試練だと思っていたの……\n一族に伝わる地獄の試練、みたいなものだって。","fr":"Je pensais que ramasser des crottes de Kibo était une épreuve à surmonter avant de pouvoir apprendre les Travaux des champs…\nUn peu comme les épreuves infernales transmises au sein de mon clan."}
+{"id":1551880,"jp":"……そうじゃなくて、キボのフンは畑仕事のひとつだったの……！？","fr":"… Mais en fait, les crottes de Kibo font partie intégrante des Travaux des champs !?"}
+{"id":1551881,"jp":"理解するのが遅すぎるぞ、カタル！","fr":"T'en as mis du temps à comprendre, Katalua !"}
+{"id":1551882,"jp":"わあ、ここまで来ると、戦士としての覚悟を褒めるべきなのか、\n反応の遅さに感心するべきなのかわからないのだ。","fr":"Eh bien, la grande Lumi ne sait plus s'il faut saluer ta détermination de guerrière\nou s'émerveiller devant ta lenteur à comprendre."}
+{"id":1551883,"jp":"あのさ……作物っていうのはね、\n穴を掘って、そこに種をいれて、数分待てばポンッ……みたいな感じで育つものじゃないんだよ。","fr":"Écoutez… Faire pousser des légumes,\nce n'est pas simplement creuser un trou, y mettre une graine, attendre quelques minutes et hop, c'est prêt !"}
+{"id":1551884,"jp":"まず土を耕すことで、種が育つ環境に十分なカルマの流れを作るんだ。","fr":"Il faut d'abord labourer la terre pour assurer une circulation suffisante du Karma dans le sol où les graines vont germer."}
+{"id":1551885,"jp":"そのつぎに、『恩恵石』をまく。\nそうすれば、育ち盛りの芽に栄養を与えられるし、畑そのものも元気になるんだ。","fr":"Ensuite, on répand les « Pierres de bénédiction ».\nElles apportent aux jeunes pousses les nutriments nécessaires à leur croissance et enrichissent la terre."}
+{"id":1551886,"jp":"で、そのつぎに種をまくの。すると、種が健康な環境の中ですくすく育って、\nみずみずしくて、おいしくて、立派な野菜になるんだよ。","fr":"Puis, on sème les graines. Elles peuvent ainsi grandir dans un environnement sain\net donner de beaux légumes frais, savoureux et bien juteux."}
+{"id":1551887,"jp":"水やりは水分を与えるため。\n草取りは栄養を行き渡らせるため。虫よけは作物を守るため……","fr":"L'Arrosage apporte l'eau nécessaire aux plantes.\nLe désherbage leur permet de profiter pleinement des nutriments. Et la lutte contre les insectes protège les cultures…"}
+{"id":1551888,"jp":"どの工程もとても大事で、たくさんの手間と気持ちが必要なんだよ……\nキボの排泄物の工程も含めてね！","fr":"Chaque étape est essentielle et demande beaucoup de travail et d'attention…\nY compris celle des excréments de Kibo !"}
 {"id":1551889,"jp":"急に開き直ったのだ。","fr":"Elle s'est soudain braquée."}
+{"id":1551890,"jp":"たしかに『恩恵石』はキボの排泄物だったかもしれない。\nけど長い間、風雨に打たれるうちに、衝撃的な見た目は少しずつ変わっていって……","fr":"C'est vrai, les « Pierres de bénédiction » étaient autrefois des excréments de Kibo.\nMais à force d'être exposées au vent et à la pluie, elles ont peu à peu perdu leur aspect répugnant…"}
+{"id":1551891,"jp":"中身は栄養たっぷりになったんだ。\n農業のために自然がくれた恵みなんだから、そんなに偏見を持たないでよ。","fr":"Et elles sont devenues de véritables concentrés de nutriments.\nC'est un cadeau que la nature nous offre pour cultiver la terre, alors ne les jugez pas aussi sévèrement !"}
+{"id":1551892,"jp":"……ごめんなさい、リリカ先生。わたしの考えが浅かったよ。\nキボのフン……じゃなくて、『恩恵石』の大切さ、分かった！","fr":"… Pardon, Maîtresse Lyrica. Je n'avais pas suffisamment réfléchi.\nJe comprends maintenant l'importance des crottes de Kibo… Enfin, des « Pierres de bénédiction » !"}
+{"id":1551893,"jp":"僕たちの見えないところで、リリカはずっと大変な苦労をしていたんだね。|私たちの見えないところで、リリカはずっと大変な苦労をしていたんだね。","fr":"Alors, depuis tout ce temps, tu te donnes autant de mal sans qu'on s'en rende compte, Lyrica.|Alors, depuis tout ce temps, tu te donnes autant de mal sans qu'on s'en rende compte, Lyrica."}
+{"id":1551894,"jp":"大げさだよ、ボス。オイラは畑仕事が一番好きなんだ。\n立派な作物が育つなら、苦労なんてなにもないよ！","fr":"Tu exagères, Chef ! Rien ne me plaît davantage que les Travaux des champs.\nTant que je peux faire pousser de belles récoltes, aucun effort ne me coûte !"}
+{"id":1551895,"jp":"そうだな……まあ、少なくとも……『恩恵石』は見た目は結構きれいだし……\n少しは受け入れられるかな……ほんの少しだけならな。","fr":"Ouais… Bon, au moins… Les « Pierres de bénédiction » sont plutôt jolies à regarder…\nJe pourrais peut-être faire un effort pour les accepter… Un tout petit effort, hein."}
+{"id":1551896,"jp":"リリカの言う通りだね。これはみんなの食べ物のためなんだから……\n大丈夫、僕が『恩恵石』を砕くよ。|リリカの言う通りだね。これはみんなの食べ物のためなんだから……\n大丈夫、私が『恩恵石』を砕くよ。","fr":"Lyrica a raison. C'est pour que tout le monde puisse manger…\nNe t'en fais pas, je vais broyer les « Pierres de bénédiction ».|Lyrica a raison. C'est pour que tout le monde puisse manger…\nNe t'en fais pas, je vais broyer les « Pierres de bénédiction »."}
+{"id":1551897,"jp":"……星臨者さん……わ、わたしも手伝うよ！","fr":"… Enfant des étoiles… J-Je vais t'aider, moi aussi !"}
+{"id":1551898,"jp":"ウル、鉢を持ってこい。アタシたちだって星臨者に負けてらんないぞ！","fr":"Uru, apporte le mortier ! On va quand même pas se laisser distancer par l'Enfant des étoiles !"}
+{"id":1551899,"jp":"星臨者……キミはほんとーにいつも真っ先に飛び込むな。\nそれならあたしは……みんなの代わりに種をまいてやるのだ。","fr":"Enfant des étoiles… Il faut vraiment que tu te jettes toujours à l'eau avant tout le monde, hein ?\nDans ce cas… La grande Lumi se chargera de semer les graines pour vous tous !"}
+{"id":1551900,"jp":"はは、いい感じだよ！それじゃ、リリカの畑仕事教室、授業再開だね！","fr":"Ahaha, voilà qui fait plaisir à voir ! Allez, l'école des Travaux des champs de Lyrica reprend du service !"}
+{"id":1551901,"jp":"事情はよく分かりませんが……力を合わせているみなさんは、とても素敵ですね。\nわたしも『恩恵石』に興味が湧いてきました。","fr":"Je ne comprends pas très bien ce qui se passe, mais… C'est vraiment beau de vous voir unir vos forces.\nCes « Pierres de bénédiction » commencent à éveiller ma curiosité, à moi aussi."}
+{"id":1551902,"jp":"ひとつの命から生まれたものが、また別の命を養って、\nその循環が続いていく……不思議なものですね。","fr":"Ce qui provient d'un être vivant permet de nourrir un autre être vivant,\net ainsi, le cycle de la vie se perpétue… C'est fascinant, n'est-ce pas ?"}
+{"id":1551903,"jp":"でしょ！だから偏見を持たないでほしいんだよ。\nこんなに栄養たっぷりな自然の恵みなんて、そうそうないんだから！","fr":"Pas vrai !? C'est pour ça que j'aimerais que vous mettiez vos préjugés de côté.\nUn don de la nature aussi riche en nutriments, ça ne se trouve pas tous les jours !"}
+{"id":1551904,"jp":"そうですね。栄養たっぷりな自然の恵み……ふむ……","fr":"En effet. Un don de la nature riche en nutriments… Hmm…"}
+{"id":1551905,"jp":"まずい……星臨者、はやくルルカの思考を止めてくれ！","fr":"Oh non… Enfant des étoiles, vite, empêche Luruka de poursuivre son raisonnement !"}
 {"id":1551906,"jp":"まさか……なのだ！？","fr":"Ce n'est pas possible… non !?"}
+{"id":1551907,"jp":"あっ、新しい案が浮かびました……！","fr":"Oh, je viens d'avoir une nouvelle idée… !"}
+{"id":1551908,"jp":"……やっぱり一歩遅かった！","fr":"… Et voilà, trop tard !"}
+{"id":1551909,"jp":"ルルカ、なにを考えているかしらないけど、いますぐやめろ！","fr":"Luruka, je sais pas ce qui te passe par la tête, mais arrête tout de suite !"}
+{"id":1551910,"jp":"え？わたし、まだなにも言っていないけど？","fr":"Hein ? Mais je n'ai encore rien dit, grande sœur !"}
+{"id":1551911,"jp":"ルルカ、いまある薬でもう効力は十分なのだ。\nだからこれ以上改善する必要はないのだ！","fr":"Luruka, tes remèdes actuels sont déjà suffisamment efficaces.\nInutile de chercher à les améliorer davantage !"}
+{"id":1551912,"jp":"……あの、もしかして……わたしが『恩恵石』をお薬の材料にすると思ってませんか？\n言っておきますが、そんなことしませんよ？","fr":"… Euh, attendez… Vous pensez que je vais utiliser les « Pierres de bénédiction » comme ingrédient dans mes remèdes ?\nJe vous rassure, je ne ferais jamais une chose pareille !"}
+{"id":1551913,"jp":"ただ……とにかく、みなさんにこのお薬を飲んでもらう必要はありません。\nそれよりわたしは、新しい調合を試さないといけませんから……ふふっ。","fr":"Seulement… Enfin, quoi qu'il en soit, vous n'aurez pas besoin de boire ce remède.\nJe dois plutôt aller essayer une nouvelle formule… Héhé."}
+{"id":1551914,"jp":"それでは、みなさん。また明日。","fr":"Sur ce, je vous laisse. À demain, tout le monde."}
+{"id":1551915,"jp":"えっと、星臨者さん、テララ……どうしてそんな顔をしているの？","fr":"Euh… Enfant des étoiles, Terara… Pourquoi vous faites cette tête ?"}
 {"id":1551916,"jp":"……リ……リリカ……","fr":"… L-Lilika…"}
+{"id":1551917,"jp":"えっと……あっ！急にオイラのツルハシがどこかにいっちゃった気がしてきたよ。\nと、とと、とにかく！カタルさん、先に行こうか！","fr":"Euh… Ah ! J'ai comme l'impression que ma pioche a soudainement disparu.\nE-En-En-En tout cas ! Katalua, on devrait y aller !"}
+{"id":1551918,"jp":"え？あ、うん……それじゃまたあとでね、星臨者さん！","fr":"Hein ? Ah, d'accord… Alors, à tout à l'heure, Enfant des étoiles !"}
+{"id":1551919,"jp":"……まえ向きに考えようよ。すくなくとも、今日は薬を飲まなくて済んだんだし。","fr":"… Voyons le bon côté des choses. Au moins, on a échappé au remède aujourd'hui."}
+{"id":1551920,"jp":"イェクウ、君に頼みたい大事な用事があるのだが、時間はあるか？","fr":"Yekuu, j'ai un service important à te demander. As-tu un peu de temps à m'accorder ?"}
+{"id":1551921,"jp":"もちろん。なんでも遠慮なく言ってよ。","fr":"Bien sûr. Dis-moi ce dont tu as besoin, n'hésite pas."}
+{"id":1551922,"jp":"実は、ミィティの飛翔の儀の立会人になってほしいんだ。","fr":"En réalité, j'aimerais que tu sois témoin du Rituel de l'envol de Mitty."}
+{"id":1551923,"jp":"彼女はすでに覚悟を決めていてな。\n私と長老たちは、飛翔の儀を今日の夕方に行うことに決めたというわけだ。","fr":"Elle a déjà pris sa décision.\nLes anciens et moi avons donc décidé d'organiser le Rituel de l'envol ce soir."}
+{"id":1551924,"jp":"翼人であるミィティにとって、最も重要な瞬間になる。\nだから、イェクウにも参加してほしい。","fr":"Pour une Ailée comme Mitty, ce sera le moment le plus important de sa vie.\nC'est pourquoi j'aimerais que tu y assistes également, Yekuu."}
+{"id":1551925,"jp":"なるほどね。じゃあ、喜んで参加させてもらうよ。","fr":"Je comprends. Dans ce cas, j'y assisterai avec plaisir."}
+{"id":1551926,"jp":"よかった、心から感謝する。ミィティもきっと喜んでくれるだろう。","fr":"Parfait, je t'en remercie du fond du cœur. Mitty en sera certainement ravie."}
+{"id":1551927,"jp":"必要なら開会の挨拶をするけど？","fr":"Tu veux que je prononce un discours d'ouverture ?"}
+{"id":1551928,"jp":"必要なら料理を手伝うけど？","fr":"Tu veux que je donne un coup de main en cuisine ?"}
+{"id":1551929,"jp":"え？……ああ、それは結構だ。\n翼人の飛翔の儀はただの宴というより、一種の試練でもあるからな。","fr":"Hein ?… Ah, non, ce ne sera pas nécessaire.\nLe Rituel de l'envol des Ailés tient davantage de l'épreuve que de la fête."}
+{"id":1551930,"jp":"なるほどね……それって中間試験みたいなこと？\nほら、学習の成果を確認するためにするでしょ？","fr":"Je vois… C'est un peu comme un examen de mi-semestre, alors ?\nTu sais, le genre d'examen qu'on passe pour vérifier ce qu'on a appris."}
+{"id":1551931,"jp":"その通りだ。ただその範囲が、\n生まれてからこれまでに学んだすべて、ではあるんだがな。","fr":"Exactement. À ceci près qu'il porte sur absolument tout\nce que l'on a appris depuis sa naissance."}
+{"id":1551932,"jp":"なら、きっと様々な試練が待ち構えているんだな。|なら、きっと様々な試練が待ち構えているんだね。","fr":"Alors, j'imagine que toutes sortes d'épreuves l'attendent.|Alors, j'imagine que toutes sortes d'épreuves l'attendent."}
+{"id":1551933,"jp":"ああ。飛翔の儀は全部で4回行われるんだ。\nそこで、『飛行能力』『度胸』『俊敏性』、そして『決意』が試される。","fr":"En effet. Le Rituel de l'envol se déroule en quatre épreuves.\nElles mettent à l'épreuve les « aptitudes au vol », le « courage », l'« agilité » et enfin la « détermination »."}
+{"id":1551934,"jp":"この儀式は翼人にとって、成長を示し、殻を破る重要なものなんだ。\nだから皆、真剣に取り組んでいる。","fr":"Pour les Ailés, ce rituel marque une étape essentielle de leur croissance, le moment où ils sortent véritablement de leur coquille.\nC'est pourquoi chacun le prend très au sérieux."}
+{"id":1551935,"jp":"それ、なんだかすごく見覚えがあるような……","fr":"Ça me rappelle étrangement quelque chose…"}
+{"id":1551936,"jp":"ほう？もしかしてイェクウもこういう試練を乗り越えてきたのか？\nであれば、その強さも納得だな。","fr":"Oh ? Aurais-tu toi aussi surmonté ce genre d'épreuves, Yekuu ?\nCela expliquerait ta force."}
+{"id":1551937,"jp":"そういうわけではないんだけど……まあ、だいたい分かったよ。\nそれじゃ早速、飛翔の儀の会場に行こっか。","fr":"Ce n'est pas vraiment ça, mais… Enfin, je comprends mieux.\nAlors, si on se rendait tout de suite sur le lieu du Rituel de l'envol ?"}
+{"id":1551938,"jp":"落ち着いてくれ、イェクウ。飛翔の儀の会場は、雲と雲の間に浮かぶ空島にあるんだが、\nそこに入場できるのは飛翔の儀に参加する翼人とキボのみなんだ。","fr":"Pas si vite, Yekuu. Le Rituel de l'envol se déroule sur une île céleste flottant au milieu des nuages.\nSeuls les Ailés qui participent au rituel et les Kibo sont autorisés à y accéder."}
+{"id":1551939,"jp":"だから君はもちろん、試験監督の私でさえ、空島の下で結果を待つしかない。","fr":"Toi comme moi, bien que je sois l'examinatrice, devrons attendre les résultats au pied de l'île céleste."}
+{"id":1551940,"jp":"そうだったんだね。じゃあ、ミィティはいまどこにいるのかな？","fr":"Ah, je comprends. Et où se trouve Mitty en ce moment ?"}
+{"id":1551941,"jp":"すこし離れた場所で準備を進めている……\nが、まさにいま、不安に駆られているはずだ。","fr":"Elle poursuit ses préparatifs un peu plus loin…\nMais à l'heure qu'il est, l'inquiétude doit certainement la gagner."}
+{"id":1551942,"jp":"ミィティならきっと大丈夫だよ。","fr":"Je suis sûr que Mitty s'en sortira."}
+{"id":1551943,"jp":"ああ。ただ、私の経験から言えば、試練前が最も緊張するはずなんだ。","fr":"Oui. Cependant, d'après mon expérience, c'est toujours juste avant une épreuve que la nervosité est à son comble."}
+{"id":1551944,"jp":"ファランタも試練に挑むときも、そうだったのか？|ファランタも試練に挑むときも、そうだったの？","fr":"C'était pareil pour toi quand tu as passé ces épreuves, Faridah ?|C'était pareil pour toi quand tu as passé ces épreuves, Faridah ?"}
+{"id":1551945,"jp":"イェクウ……勘が鋭いというのも、考えものだな……","fr":"Yekuu… Il y a des moments où ta perspicacité est bien embarrassante…"}
+{"id":1551946,"jp":"とにかく、試験官である以上、私が深く関わることは難しい。\nミィティ自身が気持ちをうまく調整してくれることを願うばかりだ。","fr":"Quoi qu'il en soit, en ma qualité d'examinatrice, je ne peux pas intervenir davantage.\nJe ne peux qu'espérer que Mitty parviendra à maîtriser sa nervosité par elle-même."}
+{"id":1551947,"jp":"じゃあ僕がミィティを手伝うよ。|じゃあ私がミィティを手伝うよ。","fr":"Dans ce cas, je vais donner un coup de main à Mitty.|Dans ce cas, je vais donner un coup de main à Mitty."}
+{"id":1551948,"jp":"じゃあ僕がミィティの練習相手になるよ。|じゃあ私がミィティの練習相手になるよ。","fr":"Dans ce cas, je vais proposer à Mitty de s'entraîner avec moi.|Dans ce cas, je vais proposer à Mitty de s'entraîner avec moi."}
 {"id":1551949,"jp":"本当に、いいのか？","fr":"Vraiment, c'est certain ?"}
 {"id":1551950,"jp":"大丈夫、任せてよ。","fr":"Pas de souci, je m'en charge."}
+{"id":1551951,"jp":"……フラミー、アタシたちふたりならきっとできるわ！","fr":"… Flammy, à nous deux, on va forcément y arriver !"}
+{"id":1551952,"jp":"飛翔の儀の流れはしっかり覚えているし、弓矢もちゃんと点検した。\nそれに、もう空を飛ぶことだって怖くないし……！","fr":"Je connais parfaitement le déroulement du Rituel de l'envol et j'ai bien vérifié mon arc et mes flèches.\nEt puis, je n'ai même plus peur de voler… !"}
+{"id":1551953,"jp":"たくさんの困難を乗り越えて、たくさんの戦闘技術を身につけた……\nだから、きっと大丈夫！","fr":"J'ai surmonté tellement de difficultés et appris tant de techniques de combat…\nAlors, tout va bien se passer !"}
+{"id":1551954,"jp":"……それに、これは翼人たちが空を取り戻して以来、はじめての飛翔の儀……\nだから……きっと……きっと……！","fr":"… Et puis, c'est le premier Rituel de l'envol depuis que les Ailés ont reconquis le ciel…\nAlors… Tout ira bien… Forcément… !"}
 {"id":1551955,"jp":"ピィ？","fr":"Pii ?"}
+{"id":1551956,"jp":"……そう、三朔ぶりの飛翔の儀……絶対に失敗は許されない……絶対に……","fr":"… Oui, le premier Rituel de l'envol depuis trois lunes… Je n'ai absolument pas le droit d'échouer… Absolument pas…"}
+{"id":1551957,"jp":"えっ！せ、せせ、星臨者！？\nテララと一緒にシャルル村に戻ったんじゃなかったの？","fr":"Hein !? E-En-Enfant des étoiles !?\nTu n'étais pas censé rentrer au Village de Charlulu avec Terara ?"}
+{"id":1551958,"jp":"まだ気になることがあったから、しばらくは風隠れ岩に滞在することにしたんだ。|まだ気になることがあったから、しばらくは風隠れ岩に滞在することにしたの。","fr":"Il y avait encore quelque chose qui me préoccupait, alors j'ai décidé de rester quelque temps au Roc Coupe-Vent.|Il y avait encore quelque chose qui me préoccupait, alors j'ai décidé de rester quelque temps au Roc Coupe-Vent."}
 {"id":1551959,"jp":"本当に！？","fr":"Vraiment !?"}
+{"id":1551960,"jp":"なんだか、すごく嬉しそうだね？","fr":"Dis donc, ça a l'air de te faire drôlement plaisir !"}
+{"id":1551961,"jp":"うっ、嬉しくなんかないわ……！","fr":"P-Pas du tout ! Ça ne me fait aucun plaisir… !"}
+{"id":1551962,"jp":"いや、いまのはフラミーに聞いたんだけど？","fr":"Euh, c'est à Flammy que je parlais, tu sais."}
+{"id":1551963,"jp":"もう！フラミーまでなに言ってるのよ……！","fr":"Mais enfin ! Flammy, ne t'y mets pas, toi aussi… !"}
+{"id":1551964,"jp":"ところでミィティ、飛翔の儀の準備は進んでる？\n儀に参加するってファランタから聞いたよ。","fr":"Au fait, Mitty, comment avancent tes préparatifs pour le Rituel de l'envol ?\nFaridah m'a dit que tu allais y participer."}
+{"id":1551965,"jp":"そ、それは……た、たかが飛翔の儀なんて、余裕に決まってるわ……！\nいまは、フラミーと景色を眺めてるだけで……べつになにも困ってないし……","fr":"Ç-Ça ?… U-Un simple Rituel de l'envol ? Ça va être du gâteau, évidemment… !\nPour l'instant, Flammy et moi, on admire juste le paysage… Je n'ai absolument aucun problème…"}
+{"id":1551966,"jp":"いや、実は僕が飛翔の儀に興味があってさ、ちょっと手伝ってくれない？|いや、実は私が飛翔の儀に興味があってね、ちょっと手伝ってくれない？","fr":"En fait, j'aimerais en apprendre davantage sur le Rituel de l'envol. Tu pourrais m'aider un peu ?|En fait, j'aimerais en apprendre davantage sur le Rituel de l'envol. Tu pourrais m'aider un peu ?"}
+{"id":1551967,"jp":"興味……って言っても、星臨者は飛べないでしょ？","fr":"En apprendre davantage ?… Mais tu ne sais pas voler, Enfant des étoiles."}
+{"id":1551968,"jp":"僕にはキボがいるからそこは大丈夫。\nもしまた、強い敵と空中で戦うことになったときに、翼人の戦い方が役に立つと思ったんだ。|私にはキボがいるからそこは大丈夫。\nもしまた、強い敵と空中で戦うことになったときに、翼人の戦い方が役に立つと思ったの。","fr":"J'ai mes Kibo pour ça, donc ce n'est pas un problème.\nJe me disais que les techniques de combat des Ailés pourraient m'être utiles si je devais de nouveau affronter un adversaire redoutable dans les airs.|J'ai mes Kibo pour ça, donc ce n'est pas un problème.\nJe me disais que les techniques de combat des Ailés pourraient m'être utiles si je devais de nouveau affronter un adversaire redoutable dans les airs."}
+{"id":1551969,"jp":"たしかに、そのとおりかもね……","fr":"C'est vrai que tu n'as pas tort…"}
+{"id":1551970,"jp":"というわけで、飛翔の儀を終えた翼人たちに会わせてくれないかな？\nいくつか聞きたいことがあってね。","fr":"Du coup, tu pourrais me présenter des Ailés qui ont déjà passé le Rituel de l'envol ?\nJ'aurais quelques questions à leur poser."}
 {"id":1552004,"jp":"おぬしが？","fr":"Toi ?"}
 {"id":1552010,"jp":"でも……キボが……","fr":"Mais… les Kibo…"}
 {"id":1552028,"jp":"やる気満々だね！","fr":"Quelle motivation !"}
