@@ -50400,10 +50400,69 @@
 {"id":1546007,"jp":"よく言ったのだ！このルミィさまが最後まで付き合うぞ！","fr":"Voilà qui est bien dit ! La grande Lumi sera à tes côtés jusqu'au bout !"}
 {"id":1546008,"jp":"うん！みんなありがとう！","fr":"Oui ! Merci à tous !"}
 {"id":1546009,"jp":"そうだ。飛空船の残骸からこんなものも見つかって――","fr":"Ah oui, on a aussi trouvé ça dans l'épave du dirigeable…"}
+{"id":1546010,"jp":"見つけた貨物申告書をコムギに渡した。","fr":"Vous avez remis à Komugi la déclaration de fret que vous avez trouvée."}
+{"id":1546011,"jp":"これは……バルニ号の貨物申告書だね。","fr":"C'est… la déclaration de fret du Barni."}
+{"id":1546012,"jp":"うん、この書類にはコムギしか目を通してないから、\n手がかりになることが載ってるかはわからないけど。","fr":"Oui, il n'y a que Komugi qui a lu ce document,\nalors je sais pas si on va y trouver un indice."}
+{"id":1546013,"jp":"うーん……ほとんど合ってるんだけど、\n一列抜けてるみたい……なんだろう……","fr":"Mmh… Tout colle ou presque,\nmais on dirait qu'il manque une ligne… Qu'est-ce que ça peut être…"}
+{"id":1546014,"jp":"あっ、ロジニア連邦から送られてきた小説！","fr":"Ah, le roman qui venait de la Fédération de Roginia !"}
+{"id":1546015,"jp":"あっ！それって、あたしが闇商人に運ばせたものじゃない？","fr":"Ah ! C'est celui que j'avais fait transporter par le trafiquant, non ?"}
+{"id":1546016,"jp":"うん、覚えてるよ！棚卸しのときにいきなり出てきて、\n引き取り手もいないから、ずっと倉庫に置かれたままになってたって……","fr":"Oui, je m'en souviens ! Il est apparu de nulle part pendant l'inventaire.\nComme personne n'est venu le réclamer, il est resté tout ce temps dans l'entrepôt…"}
 {"id":1546017,"jp":"意図的に削除された？","fr":"Supprimé exprès ?"}
 {"id":1546018,"jp":"この書類は偽物？","fr":"Ce document est un faux ?"}
+{"id":1546019,"jp":"ふふん！どうやら帝国もこの天才のマスターピースが\nもうすぐ仕上がると気付いたのね！\nあたしの偉業を妨げようなんて、身のほど知らずもいいところよ！","fr":"Hé hé ! On dirait que l'Empire a compris\nque mon chef-d'œuvre de génie était presque terminé !\nIl faut vraiment se croire tout permis pour oser saboter l'œuvre de ma vie !"}
+{"id":1546020,"jp":"キミみたいな小娘のガラクタ部品なんて、\nわざわざ狙う必要があるのか？","fr":"Tu crois vraiment qu'ils iraient se donner tout ce mal\npour la ferraille d'une gamine comme toi ?"}
+{"id":1546021,"jp":"謎は深まるばかりですね……\nそれに、あの見張りの厳重さ。なにか隠しているとしか思えません。","fr":"Le mystère s'épaissit…\nEt avec toute cette surveillance, ils doivent cacher quelque chose."}
+{"id":1546022,"jp":"それか、もうひとつの可能性がある……","fr":"Il y a peut-être une autre explication…"}
+{"id":1546023,"jp":"飛空船が、すり替えられている。","fr":"On a échangé les dirigeables."}
+{"id":1546024,"jp":"墜落したのはバルニ号じゃない。","fr":"C'est pas le Barni qui s'est écrasé."}
+{"id":1546025,"jp":"墜落したのはバルニ号じゃなくて、\nすり替えられた同じ型の飛空船だった。","fr":"Le dirigeable qui s'est écrasé, c'était pas le Barni.\nOn l'avait remplacé par un autre du même modèle."}
+{"id":1546026,"jp":"だから、倉庫内の貨物は申告書どおりに用意できず、\nルビーナが闇商人に頼んで密輸していた荷物が、\nだれも気づかない盲点になってしまった。","fr":"Ils n'ont donc pas pu mettre en soute tout ce qui figurait sur la déclaration.\nQuant au colis que Ruby avait fait passer en douce par le trafiquant,\npersonne n'a pensé à le mettre à bord."}
+{"id":1546027,"jp":"それにルビーナも言ってたよね。\n帝国の飛空船の構造はシンプルで生産しやすく、すり替えるのは難しくない。","fr":"Et comme Ruby l'a dit,\nles dirigeables de l'Empire sont simples à fabriquer. En échanger deux, c'est pas bien compliqué."}
+{"id":1546028,"jp":"墜落する前提の代替品だったからこそ、コストを考慮して古い船を選んだ。だから、手入れされていたはずの帆がボロボロだったんだ。|墜落する前提の代替品だったからこそ、コストを考慮して古い船を選んだ。だから、手入れされていたはずの帆がボロボロだったの。","fr":"Ils comptaient le faire s'écraser, alors ils ont pris un vieux dirigeable pour économiser. Voilà pourquoi les voiles étaient en lambeaux alors qu'elles étaient censées être bien entretenues.|Ils comptaient le faire s'écraser, alors ils ont pris un vieux dirigeable pour économiser. Voilà pourquoi les voiles étaient en lambeaux alors qu'elles étaient censées être bien entretenues."}
+{"id":1546029,"jp":"だけど、バルニ号はずっとこの飛空船乗り場にあったんだよ。\nすり替えるなんてどうやって……","fr":"Mais le Barni est resté tout ce temps à l'embarcadère.\nComment ils auraient pu l'échanger…"}
+{"id":1546030,"jp":"簡単な話だよ。本物のバルニ号が嵐を通過するときに、\n逆側から同型の飛空船を飛ばせばいい。","fr":"C'est simple. Pendant que le vrai Barni traversait la tempête,\nil suffisait de faire arriver un dirigeable du même modèle par le côté opposé."}
+{"id":1546031,"jp":"フリスの住民はみんな金麦穂カーニバルに夢中になっている。\nそれを差し引いても、日が傾いてる時刻に嵐のまえを通過すれば\nなかなか目視はできないよ。","fr":"À Fleece, tout le monde avait la tête au Carnaval de l'Épi doré.\nEt même en levant les yeux, avec le soleil qui se couchait,\non aurait eu du mal à distinguer un dirigeable devant la tempête."}
+{"id":1546032,"jp":"墜落時の滑走痕が、航路と反対に向かっていた理由も\nこれで辻褄が合うよ。","fr":"Ça explique aussi pourquoi les traces au sol allaient\nà l'inverse de la trajectoire prévue du Barni."}
+{"id":1546033,"jp":"そうね！航路の長さが違う以上、\n帝国から来た飛空船の魔晶核に残っていた風のカルマは\nきっと残りわずかだったはずよ！","fr":"Mais oui ! Les deux trajets n'avaient pas la même longueur.\nIl devait rester à peine un peu de Karma du vent dans le noyau de cristal magique\ndu dirigeable qui venait de l'Empire !"}
+{"id":1546034,"jp":"だから、帝国兵は真っ先に魔晶核を回収した。\nそこが一番大きな矛盾になるから！","fr":"C'est pour ça que les soldats impériaux ont récupéré le noyau en premier.\nC'était l'indice qui risquait le plus de les trahir !"}
+{"id":1546035,"jp":"さすが、{playerName}！\nこれですべてはっきりしたのだ！","fr":"Bien joué, {playerName} !\nMaintenant, tout s'explique !"}
+{"id":1546036,"jp":"でも……ロージア帝国がそんなことをした目的はなんなの？\nアイオリアンの気配が飛空船に残っていたことにも、\n説明がつかないし……","fr":"Mais… pourquoi l'Empire de Rosia aurait fait ça ?\nEt on ne sait toujours pas pourquoi on sentait\nla présence de l'Éolien à bord…"}
+{"id":1546037,"jp":"でも！いまはまだ推測に過ぎないとしても、\nこのことはおばあさまに伝えなくちゃ！","fr":"Bon ! Même si on n'a encore que des suppositions,\nil faut que j'en parle à grand-mère !"}
+{"id":1546038,"jp":"ええ、{playerName}さま、私たちも行きましょう！","fr":"Oui, {playerName}. Allons-y, nous aussi !"}
+{"id":1546039,"jp":"うぅ……腹減ったぁ……\n話は終わったのか？食事はいつなんだ？","fr":"Ouh… J'ai la dalle…\nVous avez fini de parler ? On mange quand ?"}
+{"id":1546040,"jp":"はぁ、狼しっぽ娘が羨ましくなるな。\nこんな大事件の最中なのに、そんなに落ち着いていられるなんて。","fr":"Je t'envie, Queue-de-loup.\nAvec toute cette histoire, t'arrives encore à rester tranquille."}
+{"id":1546041,"jp":"えっ？なんか大変なことになってるのか？\nアンタたちが話してたこと、ぜんっぜんわかんなかったよ。\n{playerName}、はやく教えてくれ！","fr":"Hein ? Il se passe un truc grave ?\nJ'ai rien pigé du tout à ce que vous racontiez.\n{playerName}, allez, raconte !"}
+{"id":1546042,"jp":"テララは知らないままでいて欲しい。","fr":"J'aimerais que tu gardes ton insouciance, Terara."}
+{"id":1546043,"jp":"テララは幸せなままでいて欲しい。","fr":"J'aimerais que tu restes heureuse, Terara."}
+{"id":1546044,"jp":"なんだよ、アンタまでそんな目でアタシを見てるのか！","fr":"Oh, ça va ! Toi aussi, tu me regardes comme ça ?!"}
+{"id":1546045,"jp":"千代さん、今日は手伝ってくれて本当にありがとう。","fr":"Dame Chiyo, merci beaucoup pour ton aide aujourd'hui."}
+{"id":1546046,"jp":"いいえ、私は1,000万の賞金のために動いているだけです。","fr":"Je vous en prie. Seule la prime de dix millions m'intéresse, nya."}
+{"id":1546047,"jp":"まだ例の商品のためにお金を貯めてたんだね……","fr":"Tu mets toujours de l'argent de côté pour cet article, alors…"}
+{"id":1546048,"jp":"本当にごめんね。\nあのあと、保安官にフリス周辺で活動してる闇商人をしっかり調べてもらったけど、\n千代さんの言ってた商品は見つからなかったの……","fr":"Je suis vraiment désolée.\nAprès ça, j'ai demandé au shérif d'enquêter sur les trafiquants des environs de Fleece,\nmais il n'a pas trouvé l'article dont tu m'avais parlé, Dame Chiyo…"}
+{"id":1546049,"jp":"でも、たぶんその保安官の捜査のおかげで、闇商人が飛空船に残していった積み荷はだれにも持ち去られず、最終的に僕たちも重要な手がかりを見つけられたんだろうね。|でも、たぶんその保安官の捜査のおかげで、闇商人が飛空船に残していった積み荷はだれにも持ち去られず、最終的に私たちも重要な手がかりを見つけられたんだろうね。","fr":"Cela dit, c'est sûrement grâce à l'enquête du shérif que personne n'a embarqué la cargaison laissée par le trafiquant à bord du dirigeable. C'est comme ça qu'on a pu mettre la main sur un indice important.|Cela dit, c'est sûrement grâce à l'enquête du shérif que personne n'a embarqué la cargaison laissée par le trafiquant à bord du dirigeable. C'est comme ça qu'on a pu mettre la main sur un indice important."}
 {"id":1546050,"jp":"あっ！たしかに！","fr":"Ah ! C'est vrai !"}
+{"id":1546051,"jp":"つまり、すべて千代のおかげだったと。","fr":"En gros, on te doit tout, Chiyo."}
+{"id":1546052,"jp":"事情はよくわかりませんが……どうぞ、お気になさらず。","fr":"Je ne suis pas sûre de tout comprendre… mais je vous en prie, nya."}
+{"id":1546053,"jp":"はあぁ……スターミィのヤツぅ～おかげで散々よ！","fr":"Aaah… Ce fichu Starmy ! Dans quel pétrin il m'a mise !"}
+{"id":1546054,"jp":"連邦のエージェントだけじゃなくて、\n帝国の兵士からも逃げなきゃいけないなんて！\nこんなんじゃもうフリスにはいられないよ！","fr":"J'avais déjà les agents de la Fédération aux trousses,\net maintenant je dois aussi semer les soldats de l'Empire !\nÀ ce train-là, je peux plus rester à Fleece !"}
+{"id":1546055,"jp":"懸賞金がまた上がりそうだね。","fr":"La prime sur ta tête va encore grimper."}
+{"id":1546056,"jp":"名声が上がりそうだね。","fr":"Tu vas devenir encore plus célèbre."}
+{"id":1546057,"jp":"前向きに考えると、そんなに悪いことばっかりじゃないかも。\nすくなくとも懸賞金と名声は上がるんだし。","fr":"Regarde le bon côté des choses.\nTa prime va grimper et on va encore plus parler de toi."}
+{"id":1546058,"jp":"{playerName}、そんなんじゃ慰めにならないのだ……","fr":"{playerName}, tu parles d'un réconfort…"}
+{"id":1546059,"jp":"たしかにね！ふふふふふっ！\n考えてみればこのルビーナさまの格も名声も、\n前代未聞なくらい跳ね上がったってことじゃない！","fr":"Mais oui ! Hi hi hi !\nÀ bien y penser, la grande Ruby vient de faire un sacré bond dans le monde.\nOn n'a jamais vu une renommée grimper aussi vite !"}
+{"id":1546060,"jp":"連邦と帝国の双方からのお尋ね者！\n世界の真理と注目を一身に背負う、未来の天才！さいこ～ね♪","fr":"Recherchée à la fois par la Fédération et par l'Empire !\nMoi, le génie de demain, seule à détenir les vérités du monde, sous les yeux de tous ! Le rêve ♪"}
+{"id":1546061,"jp":"まったく、ちょろいヤツ～！","fr":"Eh ben, il t'en faut peu !"}
+{"id":1546062,"jp":"おばあさま！戻ったよ！","fr":"Grand-mère ! Je suis de retour !"}
+{"id":1546063,"jp":"事件の経緯はすでに把握している。\nそちらの調査はどうだった。犯人は見つかったのか？","fr":"Je sais déjà ce qui s'est passé.\nQu'a donné votre enquête ? Vous avez trouvé qui a fait le coup ?"}
 {"id":1546064,"jp":"おばあさま、実は――","fr":"Grand-mère, en fait…"}
+{"id":1546065,"jp":"コムギはルビーナの追跡と飛空船の残骸を調べたいきさつを領主ヘルウェンに告げた。","fr":"Komugi a raconté au seigneur Helwen comment le groupe avait suivi Ruby, puis examiné l'épave du dirigeable."}
+{"id":1546066,"jp":"おばあさま、ルビーナさんは真犯人じゃなかったの。\n本当の原因はアイオリアンと関係がありそうだけど、\n絶対にそうだっていうたしかな証拠はまだなくて……","fr":"Grand-mère, Ruby n'y est pour rien.\nOn pense que l'Éolien a quelque chose à voir avec la chute du dirigeable,\nmais on n'a pas encore de preuve solide…"}
+{"id":1546067,"jp":"それに墜落した飛空船はもしかしたらバルニ号じゃないかもしれない。\nおかしな点がたくさんあるんだよ！","fr":"Et ça se trouve, le dirigeable qui s'est écrasé n'était même pas le Barni.\nIl y a plein de détails qui clochent !"}
+{"id":1546068,"jp":"領主さま、市民たちはみな飛空船の墜落は\nアイオリアンと関わりがあるのではないかと噂しています……\n一刻もはやく真相を突き止めなければなりません。","fr":"Madame, partout en ville, on se demande\nsi l'Éolien a quelque chose à voir avec la chute du dirigeable…\nIl faut faire toute la lumière sur cette affaire au plus vite."}
+{"id":1546069,"jp":"そうだそうだ！\nこういう噂はすぐ広まるぞ……はやくなんとかするのだ！","fr":"Oui, oui !\nLes rumeurs comme ça, ça court vite… Fais quelque chose, et vite !"}
+{"id":1546070,"jp":"ああ……残りの件はこちらで処理しよう。\n戻って休むといい。","fr":"Bien… Je m'occupe du reste.\nRentrez vous reposer."}
+{"id":1546071,"jp":"僕たちにも手伝わせて。|私たちにも手伝わせて。","fr":"Laisse-nous t'aider, nous aussi.|Laisse-nous t'aider, nous aussi."}
+{"id":1546072,"jp":"ずっと走り回ってたし、そろそろ休まないと。","fr":"On a couru partout. Il est temps de souffler un peu."}
 {"id":1546081,"jp":"そんな！","fr":"Mais enfin !"}
 {"id":1546085,"jp":"憲兵イーディス","fr":"Gendarme Edith"}
 {"id":1546097,"jp":"おい！あれを見ろ！","fr":"Hé ! Regardez ça !"}
@@ -53280,13 +53339,63 @@
 {"id":1552346,"jp":"……え？","fr":"… Hein ?"}
 {"id":1552347,"jp":"わ、わわ、わたくしが行くのですか？ですが……その……これは……","fr":"M-M-Moi !? Vous souhaitez que j'y aille ? Mais… Euh… C'est que…"}
 {"id":1552348,"jp":"なあ星臨者、こんな状態で話を聞いてこれるのか？","fr":"Dis, Enfant des étoiles, tu crois vraiment qu'elle va réussir à obtenir des renseignements dans cet état ?"}
+{"id":1552349,"jp":"香子は符篆や道術の専門家だからね。\n『怪異事件』の真相をより正しく理解できるかもしれない。それに――","fr":"Lan Xiangzi maîtrise les talismans et les arts taoïstes.\nElle pourrait mieux comprendre la véritable nature de ces « affaires paranormales ». Et puis…"}
+{"id":1552350,"jp":"ほかのひとと話せば、社交性も上がると思うよ、香子。","fr":"En discutant avec d'autres personnes, tu apprendras aussi à être plus sociable, Lan Xiangzi."}
+{"id":1552351,"jp":"ほら、みんなに受け入れてもらった恩を返したいんだよね？だとしたら、いまがその時だと思う。","fr":"Tu souhaites bien remercier tous ceux qui t'ont accueillie, non ? Alors, je pense que c'est le moment idéal."}
+{"id":1552352,"jp":"たしかに、あなたさまのおっしゃる通りです。\nこれはわたくしにとって……し、試練でもあります。","fr":"Vous avez tout à fait raison.\nC'est également pour moi… une é-épreuve à surmonter."}
+{"id":1552353,"jp":"だれに聞けばいいのか、検討もつかないのです……","fr":"Je n'ai pas la moindre idée de la personne à laquelle je devrais m'adresser…"}
+{"id":1552354,"jp":"だれって……あそこにはひとがたくさんいるじゃないか。","fr":"À qui t'adresser ? Mais il y a plein de monde, juste là !"}
+{"id":1552355,"jp":"その……みなさまお忙しそうに見えます。\nそれなのに、わたくしがいきなりお声をかけてしまったら……\nわたくしのような者に突然邪魔をされたら……きっと困らせてしまいます。やはり……","fr":"Eh bien… Tout le monde semble très occupé.\nSi je venais soudainement leur adresser la parole…\nSi une personne telle que moi venait les interrompre… Je risquerais de les importuner. Il vaudrait peut-être mieux…"}
+{"id":1552356,"jp":"……仕方ないのだ。星臨者、だれに聞きに行くか選んであげてやってくれ。","fr":"… Bon, tant pis. Enfant des étoiles, choisis quelqu'un à qui elle pourrait poser ses questions."}
+{"id":1552357,"jp":"あの、できれば……お声がけが容易そうな方からお願いできますでしょうか……","fr":"Euh, si possible… Pourriez-vous choisir quelqu'un qui semble facile à aborder, pour commencer… ?"}
+{"id":1552358,"jp":"話に花を咲かせている商人たち、かな。","fr":"Les marchands qui discutent avec animation, peut-être."}
+{"id":1552359,"jp":"優しそうな顔の女性、かな。","fr":"Cette femme qui a l'air bienveillante, peut-être."}
+{"id":1552360,"jp":"掃除をしているキャスベル、かな。","fr":"Cathbelle, qui est en train de faire le ménage, peut-être."}
+{"id":1552361,"jp":"あのふたりの商人に聞いてみよう。","fr":"Allons interroger ces deux marchands."}
+{"id":1552362,"jp":"いい考えなのだ。商人は毎日あちこちを行き来しているから、\nきっといろんなことを知っているはずなのだ。","fr":"Bonne idée ! Les marchands se déplacent partout chaque jour,\nils doivent certainement être au courant de toutes sortes de choses !"}
+{"id":1552363,"jp":"わ、わかりました……では……行ってまいります……","fr":"J-J'ai compris… Dans ce cas… J'y vais…"}
 {"id":1552364,"jp":"あの、すみません……","fr":"Euh, excusez-moi…"}
 {"id":1552365,"jp":"男商人","fr":"Marchand"}
+{"id":1552366,"jp":"いいか、金のない者ほど薄氷を踏もうとするんだ。\nむしろ我々のような金持ちこそ、大胆に勝負すべきなんだよ！","fr":"Écoute bien, ce sont les gens sans le sou qui prennent des risques inconsidérés.\nMais les gens fortunés comme nous doivent savoir miser gros et faire preuve d'audace !"}
 {"id":1552367,"jp":"女商人","fr":"Marchande"}
+{"id":1552368,"jp":"たしかに、それも一理あるけどねぇ……","fr":"Certes, ce que tu dis n'est pas totalement faux…"}
+{"id":1552369,"jp":"あの、すみません、お尋ねしたいことが……","fr":"Euh, excusez-moi, j'aurais une question à vous poser…"}
+{"id":1552370,"jp":"フリスが農業都市だった時代は、もう過去なんだ！\n私はな、全財産を飛空船事業に投じようと思う。","fr":"L'époque où Fleece n'était qu'une ville agricole est révolue !\nMoi, je compte investir toute ma fortune dans l'industrie des dirigeables !"}
+{"id":1552371,"jp":"全財産？あなた、そんなにお金を持ってるの？","fr":"Toute ta fortune ? Tu possèdes vraiment autant d'argent que ça ?"}
+{"id":1552372,"jp":"あの、お聞きしたいのですが……","fr":"Euh, pardonnez-moi, j'aimerais vous demander…"}
+{"id":1552373,"jp":"恐れることなどなにもないさ。\n私はすでに、すべての蓄えを売り払って、すべてを賭けるよ！","fr":"Il n'y a absolument rien à craindre !\nJ'ai déjà liquidé tous mes biens et je vais tout miser là-dessus !"}
+{"id":1552374,"jp":"え？蓄えを売ったの！？","fr":"Quoi ?! Tu as liquidé toutes tes économies !?"}
+{"id":1552375,"jp":"勝負あるのみさ！\nいまこそ、フリスでいちばんの長者になるときだ！","fr":"Qui ne risque rien n'a rien !\nLe moment est enfin venu pour moi de devenir l'homme le plus riche de Fleece !"}
+{"id":1552376,"jp":"ねえ……もうすこしよく考えたほうがいいと思うわよ……\nってそういえば……さっき女の子の声が聞こえなかった？","fr":"Dis… Tu devrais peut-être y réfléchir un peu plus sérieusement…\nTiens, au fait… Tu n'aurais pas entendu la voix d'une jeune fille à l'instant ?"}
+{"id":1552377,"jp":"多分、風の音だろう、そんなものは聞こえなか……\nって待てよ、それって、まさか噂の……","fr":"Ce devait être le vent. Je n'ai absolument rien enten…\nAttends un peu… Ce ne serait pas cette fameuse histoire de…"}
+{"id":1552378,"jp":"香子、いまにも泣きそうなのだ……","fr":"Lan Xiangzi est sur le point de fondre en larmes…"}
+{"id":1552379,"jp":"大丈夫、ほかのひともいるんだし、気を取り直して頑張ろう！","fr":"Ce n'est pas grave, il y a d'autres personnes à interroger. Allez, reprends courage !"}
+{"id":1552380,"jp":"わ、わたくし……頑張ります……","fr":"J-Je… Je vais faire de mon mieux…"}
+{"id":1552381,"jp":"キャスベルに情報を聞いてみよう。","fr":"Essayons d'obtenir des renseignements auprès de Cathbelle."}
+{"id":1552382,"jp":"知っている相手なら、見知らぬ相手よりはましなはずなのだ。","fr":"Ce sera sûrement plus facile de parler à quelqu'un que tu connais qu'à de parfaits inconnus."}
+{"id":1552383,"jp":"わたくし、頑張ります！","fr":"Je vais faire de mon mieux !"}
+{"id":1552384,"jp":"あの……キャスベルさん……","fr":"Excusez-moi… Cathbelle…"}
+{"id":1552385,"jp":"……香子さまですね。なにかご用件でしょうか？","fr":"… Dame Lan Xiangzi ? Que puis-je faire pour vous ?"}
 {"id":1552386,"jp":"その、わたくし……","fr":"C'est que, moi…"}
+{"id":1552387,"jp":"……ってあれ？キャスベルさん、どうかされたのですか？\nなんだか、あまりお元気ではないような……\nあ、もちろん、キャスベルさんはそれでもわたくしよりはずっとお元気だとは思いますが……","fr":"… Oh ? Cathbelle, quelque chose ne va pas ?\nVous n'avez pas l'air très en forme…\nAh, bien entendu, je ne doute pas que vous soyez tout de même en bien meilleure santé que moi…"}
+{"id":1552388,"jp":"大丈夫です、とくに問題はありません。ただ、すこし……","fr":"Tout va bien, rien de particulier à signaler. Je suis simplement un peu…"}
 {"id":1552389,"jp":"……ふあ……","fr":"… Haaam…"}
+{"id":1552390,"jp":"もしかして眠いのでしょうか？やはり睡眠は大切ですからね。\nきちんと眠らないと、わたくしのようになってしまうかもしれませんし……","fr":"Manqueriez-vous de sommeil, par hasard ? Il est très important de bien dormir, vous savez.\nSi vous ne dormez pas suffisamment, vous pourriez finir comme moi…"}
+{"id":1552391,"jp":"あ、いえ、違います……！\nキャスベルさんがわたくしのようになるという意味ではなく、ただ……","fr":"Ah, non, ce n'est pas ce que je voulais dire… !\nJe ne sous-entendais pas que vous alliez devenir comme moi, Cathbelle, c'est simplement que…"}
+{"id":1552392,"jp":"いえ、あなたのおっしゃる通りです。","fr":"Non, vous avez parfaitement raison."}
+{"id":1552393,"jp":"ご忠告、ありがとうございました。気をつけるようにいたします。","fr":"Je vous remercie pour vos conseils. Je veillerai à prendre davantage soin de moi."}
+{"id":1552394,"jp":"なんと言いますか……キャスベルさん、とてもお疲れのようですね……","fr":"Comment dire… Cathbelle semble terriblement fatiguée…"}
+{"id":1552395,"jp":"たしかに、休みが必要そうだね。","fr":"C'est vrai, elle aurait bien besoin de repos."}
+{"id":1552396,"jp":"なあ……邪魔するつもりはないんだが、情報はどうしたのだ？","fr":"Dis… La grande Lumi ne voudrait pas interrompre cette charmante conversation, mais qu'en est-il des renseignements ?"}
+{"id":1552397,"jp":"あっ！き、ききき、聞くのを忘れてしまいました！","fr":"Ah ! J-J-J'ai complètement oublié de poser ma question !"}
 {"id":1552398,"jp":"やれやれなのだ……","fr":"Franchement, que faire de toi…"}
+{"id":1552399,"jp":"あの優しそうな女性に聞いてみようか。","fr":"Et si on interrogeait cette femme qui a l'air si gentille, là-bas ?"}
+{"id":1552400,"jp":"話しやすそうな相手なのだ。なにか聞き出せるかもしれないぞ。","fr":"Elle a l'air facile à aborder. On pourrait peut-être obtenir quelques renseignements auprès d'elle !"}
+{"id":1552401,"jp":"では……行ってまいります……","fr":"Dans ce cas… Je vais aller lui parler…"}
 {"id":1552402,"jp":"優しそうな女性","fr":"Femme à l'air bienveillant"}
+{"id":1552403,"jp":"あら、お嬢ちゃん。なにかご用かしら？","fr":"Oh, bonjour, ma petite. Tu souhaites quelque chose ?"}
+{"id":1552404,"jp":"おやまあ……その服装って、辰王朝の方かしら？","fr":"Oh, mais dis donc… À en juger par ta tenue, tu viendrais de la dynastie Chen ?"}
+{"id":1552405,"jp":"その……わたくしは……","fr":"Eh bien… Je…"}
 {"id":1552411,"jp":"え……えへへ……","fr":"E-hé hé…"}
 {"id":1552414,"jp":"あの、皆様。","fr":"Euh, tout le monde."}
 {"id":1552415,"jp":"おお、ナナチャ！","fr":"Oh, Nanacha !"}
