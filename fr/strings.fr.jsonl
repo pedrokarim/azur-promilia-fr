@@ -55512,15 +55512,65 @@
 {"id":1554041,"jp":"そうみたいだね。もしかしたら、ここを新しい家にしていたのかも。","fr":"On dirait bien. Ils ont peut-être choisi cet endroit pour en faire leur nouveau foyer."}
 {"id":1554042,"jp":"やっぱり追い出すのはやめる……\nうん、この秘密基地はあの子たちに譲ってあげるわ。","fr":"Finalement, je ne veux plus les chasser…\nOui, je vais leur laisser ma base secrète."}
 {"id":1554043,"jp":"どうして急に？","fr":"Pourquoi si soudainement ?"}
+{"id":1554044,"jp":"だって……ここで幸せそうに暮らしてるんだもの……\n私が追い出したら、かわいそうじゃない。","fr":"Parce que… Ils ont l'air tellement heureux de vivre ici…\nCe serait cruel de ma part de les chasser."}
+{"id":1554045,"jp":"秘密基地なら……また探せばいいわ。\nでも、あの子たちにとっては、ここが大切な『おうち』みたいだから。","fr":"Une base secrète, je pourrai toujours en trouver une autre…\nMais pour eux, cet endroit semble être un véritable « foyer »."}
+{"id":1554046,"jp":"もちろん……秘密基地に隠しておいた私の宝物は、\nちゃんと取り返さないといけないけどね！","fr":"Bien sûr… Il faut quand même que je récupère tous les trésors\nque j'avais cachés dans ma base secrète !"}
+{"id":1554047,"jp":"ねえ、依頼内容を変更してもいい？\n私の荷物を全部取り戻すのを手伝ってほしいの。わるいけど、急いでね！","fr":"Dis, je peux modifier les objectifs de la Mission ?\nJ'aimerais que tu m'aides à récupérer toutes mes affaires. Désolée, mais il faut faire vite !"}
+{"id":1554048,"jp":"パミー郵便局へようこそ……って、星臨者さま！\nいいところに来てくれました、ちょっと手伝ってくれませんか？","fr":"Bienvenue au bureau de poste des Pammy… Oh, Enfant des étoiles !\nVous arrivez à point nommé ! Pourriez-vous me donner un coup de main ?"}
+{"id":1554049,"jp":"実は……さっき飛空船の中の郵便物を整理しに行ったのですが、\n中にキボが1匹紛れ込んでいたんです……","fr":"En fait… Je suis allé trier le courrier à bord du dirigeable tout à l'heure,\net j'ai découvert qu'un Kibo s'était glissé parmi les colis…"}
 {"id":1554050,"jp":"ゲロ？","fr":"Coâ ?"}
+{"id":1554051,"jp":"このフログーレがいま話していたキボです。ずっと説明しているんですが……\n「自分は『郵便物』だから受取人に『送られる』必要がある」って信じて疑わないんです……","fr":"Ce Frogure est le Kibo dont je vous parlais. J'ai beau lui expliquer la situation…\nIl reste persuadé d'être un « colis » qui doit être « livré » à son destinataire…"}
+{"id":1554052,"jp":"配達員としては、『郵便物』ならばきちんと配達しなくてはいけないのかもしれませんが……\n受取人の手がかりも全くない状態で……","fr":"En tant que facteur, s'il s'agit vraiment d'un « colis », je suppose que je devrais assurer sa livraison…\nMais je n'ai absolument aucun indice sur l'identité de son destinataire…"}
+{"id":1554053,"jp":"……ってそうそう、実はすぐに届けなきゃいけない郵便物がたくさんありまして……\n星臨者さま、しばらくこのフログーレの世話をしてもらえませんか？","fr":"… Ah oui, j'allais oublier ! J'ai énormément de courrier à distribuer de toute urgence…\nEnfant des étoiles, pourriez-vous vous occuper de ce Frogure pendant un petit moment ?"}
+{"id":1554054,"jp":"お仕事が終わったら、この子の問題は解決しようと思います……","fr":"Une fois ma tournée terminée, j'essaierai de trouver une solution à son problème…"}
+{"id":1554055,"jp":"お安い御用だよ、安心して任せて！","fr":"Rien de plus facile ! Tu peux compter sur moi !"}
 {"id":1554056,"jp":"ゲロロ～","fr":"Coâ~"}
+{"id":1554057,"jp":"どうやらもう懐いてるみたいですね……\nおや？背負っている葉っぱの表面、なんだかカサカサじゃありませんか？","fr":"On dirait qu'il s'est déjà attaché à vous…\nTiens ? La feuille qu'il porte sur son dos ne vous paraît-elle pas particulièrement sèche ?"}
+{"id":1554058,"jp":"ゲロ……ゲロロー！ゲロロー！","fr":"Coâ… Coâââ ! Coâââ !"}
+{"id":1554059,"jp":"これは……きっと水分不足が原因です。\n星臨者さま、もし時間があるなら、\nこの子を外に連れていって綺麗な水を集めてきてくれませんか！","fr":"Il doit certainement manquer d'eau…\nEnfant des étoiles, si vous avez un peu de temps,\npourriez-vous l'emmener dehors et lui trouver de l'eau propre ?"}
+{"id":1554060,"jp":"ぼくは手紙を届けに行ってきますので、またあとで会いましょう！","fr":"Je vais distribuer mes lettres. À tout à l'heure !"}
+{"id":1554061,"jp":"どうやら、しばらく一緒に行動することになりそうだね。\nそれじゃ、まずは水分不足の問題を解決しようか。","fr":"On dirait qu'on va passer un peu de temps ensemble, toi et moi.\nAlors, commençons par régler ton problème de déshydratation."}
 {"id":1554062,"jp":"コロロ～","fr":"Kororo~"}
+{"id":1554063,"jp":"うぅ……わたしが来るのが遅すぎたせいだわ……\n手遅れでもう取り返しがつかない……","fr":"Snif… C'est parce que je suis arrivée trop tard…\nMaintenant, il est trop tard pour réparer les dégâts…"}
+{"id":1554064,"jp":"だれか危険な目に遭ったの？","fr":"Quelqu'un est en danger ?"}
+{"id":1554065,"jp":"いったいなにがあったの？","fr":"Mais qu'est-ce qui s'est passé ?"}
+{"id":1554066,"jp":"うぅ……うわぁぁん……！あのね、全部わたしのせいなの……\nわたしが来るのが遅かったせいで果物がどれも熟しすぎちゃって……","fr":"Snif… Bouhouhou… ! Tout est de ma faute, tu sais…\nComme je suis arrivée trop tard, tous les fruits ont trop mûri…"}
+{"id":1554067,"jp":"収穫できないまま、地面に落ちて腐っちゃったの……うぅぅぅぅ……","fr":"Ils sont tombés par terre et ont pourri avant même que je puisse les récolter… Bouhouhou…"}
 {"id":1554068,"jp":"たしかに脆いね。","fr":"C'est vrai que c'est fragile."}
+{"id":1554069,"jp":"あまり落ち込まないで。","fr":"Ne te décourage pas comme ça."}
+{"id":1554070,"jp":"ゴホン……あ、そういうことなんだね。\nよかったら、木に残っている果物の収穫を手伝う？","fr":"Hum, hum… Ah, c'est donc ça.\nSi tu veux, je peux t'aider à récolter les fruits qui restent sur les arbres ?"}
+{"id":1554071,"jp":"ああ……果物は来年また実るから、そんなに落ち込まないで……\nとりあえず、この辺りを片付けるのを手伝うよ。","fr":"Ah… Les arbres donneront de nouveaux fruits l'année prochaine, alors ne te laisse pas abattre…\nEn attendant, je vais t'aider à nettoyer les environs."}
+{"id":1554072,"jp":"うぅ……ありがとう……でも大丈夫……もう片付けたから。\nただ、心がすごく悲しくて……涙が止まらないの……\nすこし泣けば落ち着くから気にしないで……うう……","fr":"Snif… Merci… Mais ça ira, j'ai déjà tout nettoyé.\nJ'ai simplement le cœur tellement lourd… Je n'arrive pas à retenir mes larmes…\nÇa ira mieux quand j'aurai un peu pleuré, ne t'inquiète pas… Snif…"}
+{"id":1554073,"jp":"ゲロロ！ゲロ！ゲロロ～","fr":"Coââ ! Coâ ! Coâââ !"}
+{"id":1554074,"jp":"うぅ……この子……歌って、踊ってる……？","fr":"Snif… Ce petit… Il est en train de chanter et de danser… ?"}
+{"id":1554075,"jp":"なんだか、悲しい気持ちがへってきたかも……","fr":"C'est étrange… J'ai l'impression que ma tristesse commence à s'envoler…"}
+{"id":1554076,"jp":"さっきは聞き入っちゃった！あなた、音楽でわたしを慰めてくれたの？\nありがとう、すごく気分が晴れた気がするわ……！","fr":"J'étais complètement absorbée par ta musique ! Tu essayais de me réconforter ?\nMerci, j'ai l'impression d'avoir retrouvé le moral… !"}
 {"id":1554077,"jp":"ゲロローグゥー","fr":"Coâ-grrr~"}
+{"id":1554078,"jp":"フログーレのお腹が鳴ってる。\n歌って踊ったから結構体力を消耗したみたいね。","fr":"Le ventre du Frogure gargouille.\nIl a dû dépenser beaucoup d'énergie à force de chanter et de danser."}
+{"id":1554079,"jp":"ふふ、それはだめね、お腹が空くと辛いもの。\nちょうどいま果物があるからあげるわ！さっきの楽曲のお礼よ。","fr":"Héhé, on ne peut pas te laisser comme ça ! C'est désagréable d'avoir faim.\nJ'ai justement quelques fruits à te donner ! C'est pour te remercier de ta jolie musique."}
+{"id":1554080,"jp":"……グゥー、ゲ、ゲロロ！ゲロロ……","fr":"… Grrrr… C-coââ ! Coââ…"}
+{"id":1554081,"jp":"え？首を振ってるってことはいらないってこと？\n……でもお腹空いてるんじゃないの？","fr":"Hein ? Tu secoues la tête parce que tu n'en veux pas ?\n… Mais tu as faim, non ?"}
+{"id":1554082,"jp":"うーん……自分には食べ物は必要ないってフログーレは伝えているのかな……？","fr":"Hmm… Le Frogure essaie peut-être de nous expliquer qu'il n'a pas besoin de nourriture… ?"}
+{"id":1554083,"jp":"そうだ、思い出した！まえにだれかが言ってたんだけど、\nフログーレがお腹が空いたときは、音楽を聴かせないといけないんだって……","fr":"Ah, ça me revient ! Quelqu'un m'a dit un jour\nque lorsqu'un Frogure avait faim, il fallait lui faire écouter de la musique…"}
 {"id":1554084,"jp":"ゲロ！ゲロロー！","fr":"Coâ ! Coâ !"}
+{"id":1554085,"jp":"頷いてるわね……そうだ、オーディ酒蔵に行ってみたらどう？\nあそこで歌ってるロクサーナさんはすごく歌が上手なのよ！","fr":"Il hoche la tête… Ah, je sais ! Pourquoi ne pas aller à la brasserie Audie ?\nRoxana, qui chante là-bas, a une voix magnifique !"}
+{"id":1554086,"jp":"いいね、じゃあ早速行ってみようか！","fr":"Bonne idée ! Allons-y tout de suite !"}
+{"id":1554087,"jp":"あたしの歌が聞きたいの？\nもちろんいいわよ。ちょうど演奏の時間だしね！","fr":"Tu veux m'entendre chanter ?\nMais bien sûr ! C'est justement l'heure de mon spectacle !"}
+{"id":1554088,"jp":"それじゃあ、この情熱的な音楽を一緒に楽しみましょう！","fr":"Alors, vibrons ensemble au rythme de cette musique enflammée !"}
+{"id":1554089,"jp":"ん？フログーレも一緒に演奏したいの？","fr":"Tiens ? Tu veux aussi jouer de la musique avec moi, Frogure ?"}
+{"id":1554090,"jp":"構わないわ、賑やかな方がいいからね！\nさあ、はやくおいで！酒蔵のお客さんも待ちきれないみたい！","fr":"Aucun problème ! Plus on est de fous, plus on rit !\nAllez, viens vite ! Les clients de la brasserie ont l'air impatients, eux aussi !"}
 {"id":1554091,"jp":"ゲロロ！","fr":"Coâ !"}
+{"id":1554092,"jp":"本当にひとだかりのなかに入って……演奏をはじめちゃった！","fr":"Il s'est vraiment faufilé au milieu de la foule… Et le voilà qui commence à jouer !"}
+{"id":1554093,"jp":"フログーレが背負っている楽器から、次々と美しいメロディが流れてくるね……","fr":"De magnifiques mélodies s'échappent les unes après les autres de l'instrument que le Frogure porte sur son dos…"}
 {"id":1554094,"jp":"ゲロロ～フンフン～","fr":"Coâ~ Hm-hm~"}
 {"id":1554095,"jp":"観客たち","fr":"Spectateurs"}
+{"id":1554096,"jp":"ふふ……フンフン～フンフン～","fr":"Héhé… Hum, hum… Hum, hum…"}
+{"id":1554097,"jp":"観客も一緒に鼻歌を歌いはじめて……あちこちで笑い声が響いてるね……","fr":"Le public commence aussi à fredonner… Des éclats de rire résonnent un peu partout…"}
+{"id":1554098,"jp":"これがフログーレの特別な力よ――","fr":"Voilà le pouvoir particulier des Frogure…"}
+{"id":1554099,"jp":"疲労や悲しみを洗い流し、みんなを心から喜ばせる音色を奏でるの。","fr":"Ils jouent des mélodies qui dissipent la fatigue et la tristesse, et emplissent le cœur de chacun de joie."}
+{"id":1554100,"jp":"さあさあ、一緒にこの陽気な歌を思いっきり歌いましょう！","fr":"Allez, tout le monde ! Chantons ensemble cette joyeuse chanson à pleins poumons !"}
+{"id":1554101,"jp":"フログーレの演奏が終わると、観客たちは次々と拍手をした……","fr":"Lorsque le Frogure a terminé sa prestation, les applaudissements ont fusé parmi les spectateurs…"}
+{"id":1554102,"jp":"いいね！最高だ……こんなに楽しい気分になったのは久しぶりだよ……","fr":"Génial ! C'était extraordinaire… Ça faisait longtemps que je n'avais pas ressenti autant de joie…"}
 {"id":1554115,"jp":"……やはり隠せませんね。わたしは確かにこのフログーレを知っています。\nおそらくマチルダ院長の友人、リンデアンナさんのキボだと思われます。","fr":"… Je ne peux décidément rien cacher. Oui, je connais ce Frogure.\nC'est sans doute le Kibo de Lindeanna, une amie de la directrice Matilda."}
 {"id":1554118,"jp":"患者たち","fr":"Patients"}
 {"id":1554125,"jp":"ゲロ～ゲロロ～","fr":"Coâ~ coâ~"}
