@@ -59938,6 +59938,7 @@
 {"id":1559744,"jp":"このキーはカスタマイズできません","fr":"Cette touche ne peut pas être personnalisée"}
 {"id":1559745,"jp":"一部の画像設定はシーンを再読み込みすると反映されます。","fr":"Certains paramètres graphiques ne prendront effet qu'après le rechargement de la scène."}
 {"id":1559746,"jp":"前提試練を先にクリアしてください。","fr":"Vous devez d'abord réussir l'épreuve préalable."}
+{"id":1559747,"jp":"前の章のステージを先にクリアしてください。","fr":"Vous devez d'abord terminer les épreuves du chapitre précédent."}
 {"id":1559748,"jp":"瞳","fr":"Pupilles"}
 {"id":1559749,"jp":"眉毛","fr":"Sourcils"}
 {"id":1559750,"jp":"目の形","fr":"Forme des yeux"}
@@ -59947,14 +59948,29 @@
 {"id":1559754,"jp":"肌","fr":"Peau"}
 {"id":1559755,"jp":"試着","fr":"Essayer"}
 {"id":1559756,"jp":"体型","fr":"Gabarit"}
+{"id":1559757,"jp":"マーカー名に不適切な言葉が含まれています。","fr":"Le nom du marqueur contient des termes inappropriés."}
 {"id":1559758,"jp":"脱出成功","fr":"Évasion réussie"}
+{"id":1559759,"jp":"戦闘中はクイック装備ができません。","fr":"Impossible d'utiliser l'équipement rapide pendant un combat."}
 {"id":1559760,"jp":"無料回数：","fr":"Essais gratuits :"}
+{"id":1559761,"jp":"星脈活性度をレベルアップしますか？今回のレベルアップにはクールタイムが発生しません。","fr":"Voulez-vous augmenter le niveau d'activation des veines stellaires ? Cette augmentation ne déclenchera aucun temps de recharge."}
 {"id":1559762,"jp":"一覧","fr":"Liste"}
+{"id":1559763,"jp":"検索文字が入力されていません。","fr":"Aucun terme de recherche n'a été saisi."}
 {"id":1559764,"jp":"星臨ガイド","fr":"Guide de l'Enfant des étoiles"}
+{"id":1559765,"jp":"今週の報酬受取可能回数:{0}/{1}","fr":"Récupérations de récompenses disponibles cette semaine : {0}/{1}"}
 {"id":1559766,"jp":"残り","fr":"Restant"}
 {"id":1559767,"jp":"・未解放・","fr":"·Verrouillé·"}
 {"id":1559768,"jp":"・本日未解放・","fr":"· Non débloqué aujourd'hui ·"}
+{"id":1559769,"jp":"ネットワークエラーにより、画像のアップロードに失敗しました。","fr":"Échec du téléversement de l'image en raison d'une erreur réseau."}
+{"id":1559770,"jp":"幻器を選択してください。","fr":"Sélectionnez un artefact spectral."}
+{"id":1559771,"jp":"手がかりを選択してください。","fr":"Sélectionnez un indice."}
+{"id":1559772,"jp":"属性を選択してください。","fr":"Sélectionnez un élément."}
+{"id":1559773,"jp":"幻器を取り外してください。","fr":"Retirez l'artefact spectral."}
+{"id":1559774,"jp":"手がかりを取り外してください。","fr":"Retirez l'indice."}
 {"id":1559775,"jp":"空","fr":"Vide"}
+{"id":1559776,"jp":"サーバーリストを取得できませんでした。","fr":"Impossible de récupérer la liste des serveurs."}
+{"id":1559777,"jp":"サーバーを選択してください。","fr":"Sélectionnez un serveur."}
+{"id":1559778,"jp":"クリップボードにコピーしました。","fr":"Copié dans le presse-papiers."}
+{"id":1559779,"jp":"一度削除すると元に戻せません。削除してもよろしいですか？","fr":"Cette suppression est irréversible. Voulez-vous vraiment continuer ?"}
 {"id":1559780,"jp":"テンプレート削除","fr":"Supprimer le modèle"}
 {"id":1559781,"jp":"テンプレート管理","fr":"Gérer les modèles"}
 {"id":1559782,"jp":"挑戦済み","fr":"Tenté"}
@@ -59970,30 +59986,74 @@
 {"id":1559792,"jp":"編成5","fr":"Équipe 5"}
 {"id":1559793,"jp":"撃破！","fr":"K.O. !"}
 {"id":1559794,"jp":"破壊！","fr":"Détruit !"}
+{"id":1559795,"jp":"一部の設定が重複しています。編集に戻りますか？","fr":"Certains paramètres sont en conflit. Revenir à l'écran de configuration ?"}
 {"id":1559796,"jp":"巨大","fr":"Géant"}
 {"id":1559797,"jp":"スキル習得","fr":"Apprendre une compétence"}
+{"id":1559798,"jp":"破棄すると新しい因子は失われます。変異を中止しますか？","fr":"Le nouveau facteur sera perdu si vous abandonnez. Voulez-vous annuler la mutation ?"}
+{"id":1559799,"jp":"変異すると元の因子は失われます。変異させますか？","fr":"La mutation entraînera la perte du facteur d'origine. Voulez-vous continuer ?"}
+{"id":1559800,"jp":"変異すると元の因子は失われます。変異させますか？\n変異後、因子の品質が低下します。","fr":"La mutation entraînera la perte du facteur d'origine. Voulez-vous continuer ?\nLa qualité du facteur diminuera après la mutation."}
+{"id":1559801,"jp":"前回の因子変異の結果を先に確認してください。","fr":"Veuillez d'abord consulter le résultat de la précédente mutation de facteur."}
 {"id":1559802,"jp":"キボ因子","fr":"Facteur de Kibo"}
+{"id":1559803,"jp":"移動させるキボ小屋を選択してください。","fr":"Sélectionnez l'Enclos à Kibo à déplacer."}
 {"id":1559804,"jp":"現在の配置先","fr":"Affectation actuelle"}
+{"id":1559805,"jp":"指定のキボ小屋を選択してください。","fr":"Sélectionnez l'Enclos à Kibo indiqué."}
+{"id":1559806,"jp":"このキボはロックされています。","fr":"Ce Kibo est verrouillé."}
+{"id":1559807,"jp":"キボの選択数が上限に達しています。","fr":"Vous avez atteint le nombre maximal de Kibo pouvant être sélectionnés."}
+{"id":1559808,"jp":"本日のキボレンタル残回数は0回です。","fr":"Vous avez épuisé toutes vos locations de Kibo pour aujourd'hui."}
 {"id":1559809,"jp":"設置範囲外です。","fr":"Hors de la zone de placement."}
 {"id":1559810,"jp":"リソースを確認","fr":"Vérifier les ressources"}
+{"id":1559811,"jp":"リソース整合性を確認中","fr":"Vérification de l'intégrité des ressources"}
+{"id":1559812,"jp":"削除してもよろしいですか？","fr":"Voulez-vous vraiment supprimer cet élément ?"}
+{"id":1559813,"jp":"現在使用中のボイスパックは削除できません。","fr":"Impossible de supprimer le pack vocal actuellement utilisé."}
+{"id":1559814,"jp":"削除したいボイスパックを選択してください。","fr":"Sélectionnez le pack vocal à supprimer."}
 {"id":1559815,"jp":"削除の確認","fr":"Confirmer la suppression"}
 {"id":1559816,"jp":"韓国語","fr":"Coréen"}
 {"id":1559817,"jp":"英語","fr":"Anglais"}
+{"id":1559818,"jp":"{0}秒後に自動的に終了します。","fr":"Fin automatique dans {0} secondes."}
+{"id":1559819,"jp":"フレンドの参加を待っています。マッチングを開始できません。","fr":"En attente de votre ami. Impossible de lancer la recherche de partenaires."}
 {"id":1559820,"jp":"マッチング中……","fr":"Mise en relation…"}
+{"id":1559821,"jp":"ホストがマッチングを開始させるのを待っています。","fr":"En attente du lancement de la recherche de partenaires par l'hôte."}
+{"id":1559822,"jp":"不足のため受け取れません。","fr":"Quantité insuffisante pour récupérer la récompense."}
+{"id":1559823,"jp":"現在のステージ推奨 Lv.","fr":"Niv. recommandé pour l'épreuve actuelle"}
 {"id":1559824,"jp":"最高：","fr":"Meilleur :"}
 {"id":1559825,"jp":"マッチング中","fr":"Mise en relation"}
+{"id":1559826,"jp":"チームを作成しました。マッチングするか、フレンドを招待できます。","fr":"Vous avez créé une équipe. Vous pouvez lancer la recherche de partenaires ou inviter vos amis."}
+{"id":1559827,"jp":"準備完了後、リーダーの開始をお待ちください。","fr":"Une fois vos préparatifs terminés, attendez que le chef d'équipe lance l'épreuve."}
 {"id":1559828,"jp":"シングル","fr":"Solo"}
 {"id":1559829,"jp":"マルチ","fr":"Multijoueur"}
+{"id":1559830,"jp":"農園内では出発準備できません。","fr":"Impossible de confirmer vos préparatifs de départ depuis la ferme."}
+{"id":1559831,"jp":"すでにマルチモードです。","fr":"Vous êtes déjà en mode multijoueur."}
+{"id":1559832,"jp":"チームレベルが一致しません。","fr":"Les niveaux des équipes ne correspondent pas."}
+{"id":1559833,"jp":"秒後に再び出発準備できます。","fr":"secondes avant de pouvoir à nouveau confirmer vos préparatifs de départ."}
+{"id":1559834,"jp":"マッチングがタイムアウトしました。しばらくしてから再度お試しください。","fr":"Le délai de recherche de partenaires a expiré. Veuillez réessayer dans un instant."}
+{"id":1559835,"jp":"出発準備完了でダンジョンに入れます。","fr":"Vous pourrez entrer dans le donjon une fois vos préparatifs de départ terminés."}
+{"id":1559836,"jp":"メンバーが出発準備完了後、ダンジョンに入れます。","fr":"Vous pourrez entrer dans le donjon une fois les préparatifs de tous les membres terminés."}
+{"id":1559837,"jp":"{0}がチームを解散しました。","fr":"{0} a dissous l'équipe."}
+{"id":1559838,"jp":"{0}がチームを離脱しました。","fr":"{0} a quitté l'équipe."}
+{"id":1559839,"jp":"{0}が離脱しました。","fr":"{0} est parti."}
+{"id":1559840,"jp":"{0}のチームに参加しました。","fr":"Vous avez rejoint l'équipe de {0}."}
+{"id":1559841,"jp":"{0}がチームに参加しました。","fr":"{0} a rejoint l'équipe."}
+{"id":1559842,"jp":"レベル{0}から参加申請できます。","fr":"Vous pouvez demander à rejoindre l'équipe à partir du niveau {0}."}
+{"id":1559843,"jp":"星識レベル{0}に到達すると解放","fr":"Se débloque lorsque le niveau de Savoir stellaire atteint {0}"}
+{"id":1559844,"jp":"ProximaInspectorは起動済みです。サービスを再構築したい場合は先に停止してください。\n{0}\nパスワード：{1}","fr":"ProximaInspector est déjà en cours d'exécution. Arrêtez-le avant de reconstruire le service.\n{0}\nMot de passe : {1}"}
+{"id":1559845,"jp":"ProximaInspector、起動！\n{0}\nパスワード：{1}","fr":"ProximaInspector a démarré !\n{0}\nMot de passe : {1}"}
+{"id":1559846,"jp":"ProximaInspectorの起動に失敗しました。\n{0}","fr":"Échec du démarrage de ProximaInspector.\n{0}"}
+{"id":1559847,"jp":"ProximaInspectorを終了しました。","fr":"ProximaInspector a été arrêté."}
 {"id":1559848,"jp":"購入成功","fr":"Achat réussi"}
 {"id":1559849,"jp":"購入失敗","fr":"Échec de l'achat"}
 {"id":1559850,"jp":"チュートリアル中","fr":"Tutoriel en cours"}
 {"id":1559851,"jp":"未発動","fr":"Inactif"}
+{"id":1559852,"jp":"戦闘中にのみ使用できます。まず戦闘に入ってください。","fr":"Cette fonctionnalité est uniquement disponible en combat. Engagez d'abord un combat."}
+{"id":1559853,"jp":"現在は撮影モードではありません。","fr":"Vous n'êtes pas actuellement en mode photo."}
+{"id":1559854,"jp":"パラメータをクリップボードにコピーしました。パス：{0}","fr":"Les paramètres ont été copiés dans le presse-papiers. Chemin : {0}"}
 {"id":1559855,"jp":"デフォルト内容","fr":"Contenu par défaut"}
 {"id":1559856,"jp":"フリービュー視点","fr":"Vue libre"}
+{"id":1559857,"jp":"このエリアはまだ解放されていません。","fr":"Cette zone n'a pas encore été débloquée."}
 {"id":1559858,"jp":"種の段階","fr":"Stade de graine"}
 {"id":1559859,"jp":"苗の段階","fr":"Stade de pousse"}
 {"id":1559860,"jp":"成長段階","fr":"Stade de croissance"}
 {"id":1559861,"jp":"成熟段階","fr":"Stade de maturité"}
+{"id":1559862,"jp":"ウォーターマークの読み込みに失敗しました。しばらくしてから再試行してください {0}","fr":"Échec du chargement du filigrane. Veuillez réessayer dans un instant. {0}"}
 {"id":1559863,"jp":"マンスリー","fr":"Mensuel"}
 {"id":1559864,"jp":"不明なエラー","fr":"Erreur inconnue"}
 {"id":1559865,"jp":"アクセサリー","fr":"Accessoire"}
