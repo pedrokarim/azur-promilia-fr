@@ -58222,6 +58222,7 @@
 {"id":1558131,"jp":"ピィピィカー","fr":"Peepee Car"}
 {"id":1558132,"jp":"星彩のウミィカー","fr":"Umii Car étoilé"}
 {"id":1558133,"jp":"星空の不思議なタマゴ・フリス","fr":"Œuf mystérieux étoilé - Fleece"}
+{"id":1558134,"jp":"星空の不思議なタマゴ・芽吹の谷","fr":"Œuf mystérieux étoilé - Vallée des Bourgeons"}
 {"id":1558135,"jp":"髪","fr":"Cheveux"}
 {"id":1558136,"jp":"目","fr":"Yeux"}
 {"id":1558137,"jp":"耳","fr":"Oreilles"}
@@ -58276,6 +58277,7 @@
 {"id":1558188,"jp":"スキル切り替え","fr":"Passer aux compétences"}
 {"id":1558189,"jp":"デフォルトに切り替え","fr":"Revenir au défaut"}
 {"id":1558190,"jp":"詳細切り替え","fr":"Passer aux détails"}
+{"id":1558191,"jp":"兵士を素材にすると、強化経験値は100%引き継がれます。","fr":"Lorsque des soldats sont utilisés comme matériaux, 100 % de leur EXP de renforcement est transférée."}
 {"id":1558192,"jp":"王朝の若者","fr":"Jeune de la dynastie"}
 {"id":1558193,"jp":"木製機械鳶","fr":"Milan mécanique en bois"}
 {"id":1558194,"jp":"木製機械獣","fr":"Bête mécanique en bois"}
@@ -58283,19 +58285,76 @@
 {"id":1558196,"jp":"人形","fr":"Poupée"}
 {"id":1558197,"jp":"信徒","fr":"Fidèle"}
 {"id":1558198,"jp":"攻城兵器","fr":"Arme de siège"}
+{"id":1558199,"jp":"まずステージと難易度を選択してください","fr":"Veuillez d'abord sélectionner un niveau et une difficulté."}
+{"id":1558200,"jp":"チームの作成に成功しました","fr":"Équipe créée avec succès"}
 {"id":1558201,"jp":"チームに参加しました","fr":"Équipe rejointe."}
+{"id":1558202,"jp":"現在、参加可能なチームがありません","fr":"Aucune équipe disponible actuellement"}
+{"id":1558203,"jp":"相手に招待を拒否されました","fr":"L'autre joueur a refusé votre invitation."}
+{"id":1558204,"jp":"相手は現在対応できません","fr":"L'autre joueur est actuellement indisponible"}
+{"id":1558205,"jp":"キャラクターが出撃していません","fr":"Aucun personnage n'est déployé"}
+{"id":1558206,"jp":"準備中はチームから離脱できません","fr":"Impossible de quitter l'équipe pendant la préparation"}
+{"id":1558207,"jp":"{0}秒後に再度招待してください","fr":"Veuillez patienter {0} secondes avant d'envoyer une nouvelle invitation"}
+{"id":1558208,"jp":"プレイヤー【{0}】がダンジョンを【{1}】に変更するようリクエストしました","fr":"Le joueur 【{0}】 souhaite remplacer le donjon actuel par 【{1}】"}
+{"id":1558209,"jp":"共闘はメインエリアからのみ参加可能です","fr":"Le mode coopératif est uniquement accessible depuis la zone principale."}
 {"id":1558210,"jp":"戦士","fr":"Guerrier"}
 {"id":1558211,"jp":"アーチャー","fr":"Archer"}
 {"id":1558212,"jp":"魔法使い","fr":"Mage"}
+{"id":1558213,"jp":"%sを消費して購入しますか？","fr":"Dépenser %s pour effectuer cet achat ?"}
+{"id":1558214,"jp":"この操作を実行してよろしいですか？\n（実行後は自動で進行します）","fr":"Voulez-vous vraiment effectuer cette opération ?\n(La progression se poursuivra automatiquement.)"}
 {"id":1558215,"jp":"警告","fr":"Avertissement"}
+{"id":1558216,"jp":"現在の状態では開けません","fr":"Impossible d'ouvrir dans l'état actuel"}
 {"id":1558217,"jp":"コピー成功","fr":"Copié"}
+{"id":1558218,"jp":"ユニが不足しています。","fr":"Vous n'avez pas assez d'Uni."}
+{"id":1558219,"jp":"すべての選択をクリアしました。","fr":"Toutes les sélections ont été annulées."}
+{"id":1558220,"jp":"受け取れる資源はありません。","fr":"Aucune ressource à récupérer."}
+{"id":1558221,"jp":"ランクアップに必要なレベルに達していません。レベルアップしてください。","fr":"Le niveau requis pour augmenter le rang n'est pas atteint. Veuillez d'abord augmenter le niveau."}
 {"id":1558222,"jp":"レベルアップ成功","fr":"Montée de niveau réussie"}
+{"id":1558223,"jp":"レベルアップ用のアイテムを選択してください。","fr":"Veuillez sélectionner les objets à utiliser pour augmenter le niveau."}
+{"id":1558224,"jp":"ランクアップ用のアイテムを選択してください。","fr":"Veuillez sélectionner les objets à utiliser pour augmenter le rang."}
+{"id":1558225,"jp":"前のランクを解放してください。","fr":"Veuillez d'abord débloquer le rang précédent."}
+{"id":1558226,"jp":"出撃可能な編成枠が上限に達しています。","fr":"Le nombre maximal d'emplacements de déploiement est atteint."}
+{"id":1558227,"jp":"この兵士は現在%sに配属されています。入れ替えますか？","fr":"Ce soldat est actuellement affecté à %s. Voulez-vous modifier son affectation ?"}
+{"id":1558228,"jp":"現在の指揮官には保存できる兵士がいません。","fr":"Le commandant actuel ne dispose d'aucun soldat à enregistrer."}
+{"id":1558229,"jp":"このスキルは現在強化できません。","fr":"Cette compétence ne peut pas être améliorée pour le moment."}
+{"id":1558230,"jp":"キャラクターがレベル%sになると強化可能です。","fr":"Amélioration disponible lorsque le personnage atteint le niveau %s."}
+{"id":1558231,"jp":"キャラクターがランク%sに突破すると解放。","fr":"Se débloque après la Percée du personnage au rang %s."}
 {"id":1558232,"jp":"クールタイム","fr":"Temps de recharge"}
 {"id":1558233,"jp":"エネルギー消費","fr":"Coût en Énergie"}
+{"id":1558234,"jp":"このアニマは{0}に装備されています。入れ替えますか？","fr":"Cette Anima est actuellement équipée par {0}. Voulez-vous procéder à l'échange ?"}
+{"id":1558235,"jp":"このアニマはすでにランクアップされています。素材として使用してもよろしいですか？","fr":"Le rang de cette Anima a déjà été augmenté. Voulez-vous tout de même l'utiliser comme matériau ?"}
+{"id":1558236,"jp":"このアニマはランクアップされています。素材として使用してもよろしいですか？","fr":"Le rang de cette Anima a été augmenté. Voulez-vous vraiment l'utiliser comme matériau ?"}
+{"id":1558237,"jp":"使用可能な家具がありません","fr":"Aucun mobilier disponible"}
+{"id":1558238,"jp":"準備が完了していないチームメンバーがいます。","fr":"Certains membres de l'équipe n'ont pas terminé leurs préparatifs."}
+{"id":1558239,"jp":"最後のキャラクターは外すことができません。","fr":"Impossible de retirer le dernier personnage de l'équipe."}
+{"id":1558240,"jp":"準備中は操作を行えません。","fr":"Cette opération est impossible pendant la préparation."}
+{"id":1558241,"jp":"少なくとも1名のキャラクターを出撃させる必要があります。","fr":"Vous devez déployer au moins 1 personnage."}
+{"id":1558242,"jp":"2人以上のプレイヤーが必要です。","fr":"Au moins 2 joueurs sont nécessaires."}
+{"id":1558243,"jp":"%sにチーム招待を拒否されました。","fr":"%s a refusé votre invitation à rejoindre l'équipe."}
+{"id":1558244,"jp":"メールの添付アイテムはすべて受け取り済みです。","fr":"Toutes les pièces jointes de vos courriers ont déjà été récupérées."}
+{"id":1558245,"jp":"添付アイテムが未受け取りの場合、メールは削除できません。","fr":"Impossible de supprimer un courrier dont les pièces jointes n'ont pas été récupérées."}
+{"id":1558246,"jp":"受け取れるアイテムが所持上限を超えています。","fr":"La quantité d'objets à récupérer dépasse votre limite de stockage."}
+{"id":1558247,"jp":"既読メールをすべて削除しますか？","fr":"Supprimer tous les courriers lus ?"}
+{"id":1558248,"jp":"添付アイテムが未受け取りの場合、メールは削除されません。","fr":"Les courriers contenant des pièces jointes non récupérées ne seront pas supprimés."}
+{"id":1558249,"jp":"このメールを削除しますか？","fr":"Voulez-vous supprimer ce courrier ?"}
+{"id":1558250,"jp":"バッグがいっぱいのため、受け取れませんでした","fr":"Impossible de récupérer les objets : votre inventaire est plein"}
+{"id":1558251,"jp":"バッグがいっぱいのため、一部の報酬を受け取れませんでした","fr":"Certaines récompenses n'ont pas pu être récupérées, car votre inventaire est plein"}
 {"id":1558252,"jp":"クイック選択","fr":"Sélection rapide"}
+{"id":1558253,"jp":"ネットワーク接続に失敗しました。","fr":"Échec de la connexion au réseau."}
+{"id":1558254,"jp":"再接続に失敗しました。再試行しますか？","fr":"Échec de la reconnexion. Réessayer ?"}
+{"id":1558255,"jp":"ネットワークタイムアウト","fr":"Délai de connexion dépassé"}
+{"id":1558256,"jp":"接続が切断されました。","fr":"La connexion a été interrompue."}
+{"id":1558257,"jp":"キャンセルすると、消費した生産回数は返還されません。\n本当にキャンセルしますか？","fr":"En cas d'annulation, les tentatives de production déjà utilisées ne seront pas restituées.\nVoulez-vous vraiment annuler ?"}
 {"id":1558258,"jp":"キャンセルしました。","fr":"Annulé."}
+{"id":1558259,"jp":"現在、メインストーリークエストはありません。","fr":"Aucune quête principale disponible actuellement."}
+{"id":1558260,"jp":"現在、サブストーリークエストはありません。","fr":"Aucune quête secondaire disponible actuellement."}
 {"id":1558261,"jp":"他の場所も見てみよう","fr":"Allons voir ailleurs aussi"}
+{"id":1558262,"jp":"<color=#d1fffe>[任意]</color>","fr":"<color=#d1fffe>[Facultatif]</color>"}
 {"id":1558263,"jp":"[任意]","fr":"[Facultatif]"}
+{"id":1558264,"jp":"装備できる兵装がありません。","fr":"Aucun armement disponible à équiper."}
+{"id":1558265,"jp":"騎乗中はキャラクターを切り替えられません。","fr":"Impossible de changer de personnage lorsque vous utilisez une monture."}
+{"id":1558266,"jp":"現在は騎乗できません。","fr":"Impossible d'utiliser une monture pour le moment."}
+{"id":1558267,"jp":"現在の状態では切り替えられません","fr":"Impossible de changer dans l'état actuel"}
+{"id":1558268,"jp":"マウントを装備しました","fr":"Monture équipée"}
 {"id":1558269,"jp":"上級","fr":"Avancé"}
 {"id":1558270,"jp":"兵種系統図","fr":"Arbre des classes"}
 {"id":1558271,"jp":"数量","fr":"Quantité"}
@@ -58307,6 +58366,7 @@
 {"id":1558277,"jp":"押して解放","fr":"Appuyer pour libérer"}
 {"id":1558278,"jp":"素材が不足しています","fr":"Matériaux insuffisants"}
 {"id":1558279,"jp":"設備が重なっています","fr":"Les installations se chevauchent"}
+{"id":1558280,"jp":"設置エリアを超えています","fr":"En dehors de la zone de placement"}
 {"id":1558285,"jp":"建設エリア外です","fr":"Hors de la zone de construction."}
 {"id":1558291,"jp":"使用しました","fr":"Utilisé"}
 {"id":1558293,"jp":"鋳造","fr":"Coulée"}
