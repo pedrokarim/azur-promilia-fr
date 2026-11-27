@@ -57200,47 +57200,81 @@
 {"id":1557108,"jp":"新しい能力を使って、蘭家の村を探索する","fr":"Explorer le village de la famille Lan à l'aide de votre nouvelle capacité"}
 {"id":1557109,"jp":"亡霊の影を追う","fr":"Suivre l'ombre du fantôme"}
 {"id":1557110,"jp":"大時計の間を調べる","fr":"Examiner la salle de la grande horloge"}
+{"id":1557111,"jp":"蘭家の村の奥を探索する","fr":"Poursuivre l'exploration du village de la famille Lan"}
 {"id":1557112,"jp":"影絵芝居の舞台に入る","fr":"Monter sur la scène du théâtre d'ombres"}
+{"id":1557113,"jp":"『輪廻』の力を使って、屋根の上の幽霊と話す","fr":"Utiliser le pouvoir du « cycle des réincarnations » pour parler au fantôme sur le toit"}
 {"id":1557114,"jp":"屋根の上の幽霊と話す","fr":"Parler au fantôme sur le toit"}
+{"id":1557115,"jp":"『輪廻』の力を使い、村民の亡霊と話す","fr":"Utiliser le pouvoir du « cycle des réincarnations » pour parler au spectre du villageois"}
 {"id":1557116,"jp":"村人の亡霊と話す","fr":"Parler au fantôme de l'habitant"}
+{"id":1557117,"jp":"『輪廻』の力を使って、このエリアを調べる","fr":"Utiliser le pouvoir du « cycle des réincarnations » pour examiner cette zone"}
 {"id":1557118,"jp":"このエリアを調べる","fr":"Examiner cette zone"}
+{"id":1557119,"jp":"戻って閉ざされた大門を開ける","fr":"Revenir sur vos pas et ouvrir le grand portail fermé"}
+{"id":1557120,"jp":"不気味な廊下から出る方法を探す","fr":"Trouver un moyen de sortir de l'inquiétant couloir"}
+{"id":1557121,"jp":"不気味な廊下から離れる","fr":"Quitter l'inquiétant couloir"}
 {"id":1557122,"jp":"幽霊の少女に追いつく","fr":"Rattraper la petite fille fantôme"}
 {"id":1557123,"jp":"蘭香子を倒す","fr":"Vaincre Lan Xiangzi"}
+{"id":1557124,"jp":"蘭香子に地下からの脱出方法を尋ねる","fr":"Demander à Lan Xiangzi comment sortir des souterrains"}
 {"id":1557125,"jp":"寒悠悠の行方を尋ねる","fr":"Demander où est allée Han Youyou"}
 {"id":1557126,"jp":"逃げたふたりを探す","fr":"Chercher les deux fuyards"}
 {"id":1557127,"jp":"キボを撃退","fr":"Repousser le Kibo"}
 {"id":1557128,"jp":"フリス市街に入る","fr":"Entrer dans la ville de Fleece"}
+{"id":1557129,"jp":"ふたりの行方を聞き出す","fr":"Se renseigner sur l'endroit où les deux personnes sont parties"}
+{"id":1557130,"jp":"手がかりを頼りに塗山小玉を探す","fr":"Suivre les indices pour retrouver Tushan Xiaoyu"}
+{"id":1557131,"jp":"近くで小玉の行方を探す","fr":"Chercher Xiaoyu dans les environs"}
+{"id":1557132,"jp":"逃げた相手を追いかける","fr":"Poursuivre la personne qui s'est enfuie"}
 {"id":1557133,"jp":"蘭香子と話す","fr":"Parler à Lan Xiangzi"}
 {"id":1557134,"jp":"領主邸に戻る","fr":"Retourner au manoir du seigneur"}
 {"id":1557135,"jp":"ナナチャと話す","fr":"Parler à Nanacha"}
 {"id":1557136,"jp":"みんなと話す","fr":"Parler à tout le monde"}
+{"id":1557137,"jp":"ナナチャが準備した朝食を食べる","fr":"Prendre le petit-déjeuner préparé par Nanacha"}
+{"id":1557138,"jp":"フリス中央広場へ向かう","fr":"Se rendre sur la place centrale de Fleece"}
+{"id":1557139,"jp":"飛空船乗り場を見学する","fr":"Visiter le port de dirigeables"}
 {"id":1557140,"jp":"コムギと合流する","fr":"Retrouver Komugi"}
 {"id":1557141,"jp":"飛空船を見学する","fr":"Visiter le vaisseau volant"}
 {"id":1557142,"jp":"フリス中央広場に戻る","fr":"Retourner à la place centrale de Fleece"}
+{"id":1557143,"jp":"群衆が集まる場所を視察する","fr":"Examiner l'endroit où la foule s'est rassemblée"}
 {"id":1557144,"jp":"状況を確認する","fr":"Faire le point sur la situation"}
 {"id":1557145,"jp":"闇商人の行方を探す","fr":"Chercher le marchand du marché noir"}
+{"id":1557146,"jp":"ハーベストホールへ向かう","fr":"Se rendre à la Halle des Moissons"}
+{"id":1557147,"jp":"ハーベストホールに入る","fr":"Entrer dans la Halle des Moissons"}
 {"id":1557148,"jp":"領主邸に戻って休む","fr":"Retourner se reposer au manoir du seigneur"}
+{"id":1557149,"jp":"厩舎へ向かい、状況を確認する","fr":"Se rendre aux écuries pour évaluer la situation"}
+{"id":1557150,"jp":"ペガサスが荒れている原因を調べる","fr":"Découvrir la cause de l'agitation du Pégase"}
+{"id":1557151,"jp":"調査した原因をモーレンに報告する","fr":"Rapporter les conclusions de l'enquête à Morwyn"}
 {"id":1557152,"jp":"食料品店へ向かう","fr":"Aller à l'épicerie"}
+{"id":1557153,"jp":"ローブルの花畑へ向かう","fr":"Se rendre au champ de fleurs de Lobul"}
+{"id":1557154,"jp":"ポポティが花の蜜を集めるのを待つ","fr":"Attendre que les Popoty récoltent le nectar des fleurs"}
 {"id":1557155,"jp":"風の導きに従う","fr":"Suivre le guide du vent"}
+{"id":1557156,"jp":"フリス冒険者ギルドへ向かう","fr":"Se rendre à la Guilde des aventuriers de Fleece"}
+{"id":1557157,"jp":"メルトレイクに出没するライカウモを探す","fr":"Chercher le Raikaumo qui rôde près du lac Melt"}
+{"id":1557158,"jp":"スーニヤの侵蝕を受けたライカウモを阻止する","fr":"Arrêter le Raikaumo affecté par l'Érosion de Sunya"}
 {"id":1557159,"jp":"厩舎に戻る","fr":"Retourner à l'écurie"}
 {"id":1557160,"jp":"準備をはじめる","fr":"Commencer les préparatifs"}
+{"id":1557161,"jp":"メイメイハウスへ向かう","fr":"Se rendre à la Maison Meimei"}
+{"id":1557162,"jp":"飛空船の墜落地点へ向かう","fr":"Se rendre sur les lieux du crash du dirigeable"}
 {"id":1557163,"jp":"アニスと話す","fr":"Parler à Anais"}
 {"id":1557164,"jp":"火元を消火する","fr":"Éteindre le foyer de l'incendie"}
 {"id":1557165,"jp":"火を消す","fr":"Éteindre le feu"}
 {"id":1557166,"jp":"飛空船の本体に戻る","fr":"Retourner à la coque principale du vaisseau volant"}
+{"id":1557167,"jp":"逃走した容疑者を追いかける","fr":"Poursuivre le suspect en fuite"}
 {"id":1557168,"jp":"容疑者の行方を調べる","fr":"Chercher où est passé le suspect"}
+{"id":1557169,"jp":"ウルについていき、疑わしい者を見つける","fr":"Suivre Uru pour retrouver l'individu suspect"}
 {"id":1557170,"jp":"墜落現場に戻る","fr":"Retourner sur le lieu du crash"}
 {"id":1557171,"jp":"墜落地点に潜入する","fr":"S'infiltrer sur le lieu du crash"}
 {"id":1557172,"jp":"飛空船の残骸を調べる","fr":"Examiner l'épave du vaisseau volant"}
 {"id":1557173,"jp":"現場から逃れる","fr":"Fuir les lieux"}
+{"id":1557174,"jp":"ロージア帝国の兵士を撃退する","fr":"Repousser les soldats de l'Empire de Rosia"}
+{"id":1557175,"jp":"ハーベストホールから出る","fr":"Quitter la Halle des Moissons"}
 {"id":1557176,"jp":"からくり石板を踏む","fr":"Marcher sur la dalle à mécanisme"}
 {"id":1557177,"jp":"門のなかに入る","fr":"Franchir la porte"}
 {"id":1557178,"jp":"遺跡の守護者を倒す","fr":"Vaincre le gardien des ruines"}
 {"id":1557179,"jp":"石台に近づく","fr":"Approcher du socle de pierre"}
+{"id":1557180,"jp":"上の階へ行く方法を探す","fr":"Trouver un moyen d'accéder à l'étage supérieur"}
 {"id":1557181,"jp":"キボの像を調べる","fr":"Examiner la statue de Kibo"}
 {"id":1557182,"jp":"竜人の旗を調べる","fr":"Examiner la bannière draconienne"}
 {"id":1557183,"jp":"下へ向かい、確認する","fr":"Descendre pour vérifier"}
 {"id":1557184,"jp":"壁画の装置を調べる","fr":"Examiner le mécanisme de la fresque"}
+{"id":1557185,"jp":"扉を開くからくり石板を踏む","fr":"Marcher sur la dalle qui actionne le mécanisme d'ouverture de la porte"}
 {"id":1557186,"jp":"階段へ向かう","fr":"Aller vers l'escalier"}
 {"id":1557187,"jp":"造影装置を調べる","fr":"Examiner l'imageur"}
 {"id":1557188,"jp":"扉を開ける","fr":"Ouvrir la porte"}
@@ -57256,53 +57290,77 @@
 {"id":1557198,"jp":"溯空の石板に乗る","fr":"Monter sur la dalle de l'Ascension céleste"}
 {"id":1557199,"jp":"塔の3階へ向かう","fr":"Aller au 3e étage de la tour"}
 {"id":1557200,"jp":"辺りを散策する","fr":"Se promener dans les environs"}
+{"id":1557201,"jp":"上の階に行く方法を探す","fr":"Trouver un moyen d'accéder à l'étage supérieur"}
 {"id":1557202,"jp":"部屋に入る","fr":"Entrer dans la salle"}
 {"id":1557203,"jp":"竜人の製造物を拾う","fr":"Ramasser l'ouvrage draconien"}
 {"id":1557204,"jp":"拾う","fr":"Ramasser"}
 {"id":1557205,"jp":"石碑を調べる","fr":"Examiner la stèle"}
 {"id":1557206,"jp":"封生のルーンを置く","fr":"Poser la rune de scellement de vie"}
+{"id":1557207,"jp":"封生のルーンを石台に置く。\n封入されたカルマが砂時計に流れ込み、エネルギーコアを起動させる。","fr":"Placer la Rune de scellement de vie sur le socle de pierre.\nLe Karma qu'elle renferme s'écoule dans le sablier et active le noyau énergétique."}
 {"id":1557208,"jp":"右側の部屋へ向かう","fr":"Aller dans la salle de droite"}
+{"id":1557209,"jp":"封生のルーンを入手する","fr":"Obtenir la Rune de scellement de vie"}
 {"id":1557210,"jp":"滝を調べる","fr":"Examiner la cascade"}
 {"id":1557211,"jp":"竜人の小像を調べる","fr":"Examiner la figurine draconienne"}
 {"id":1557212,"jp":"操作室へ戻る","fr":"Retourner à la salle de commande"}
+{"id":1557213,"jp":"ほかの部屋へ行く方法を探す","fr":"Trouver un moyen d'accéder aux autres salles"}
+{"id":1557214,"jp":"コントロール台を操作する","fr":"Actionner la console de commande"}
 {"id":1557215,"jp":"部屋の奥深くへ向かう","fr":"Aller au fond de la salle"}
 {"id":1557216,"jp":"巨大な羽根を調べる","fr":"Examiner la plume géante"}
 {"id":1557217,"jp":"怪しい爪痕を調べる","fr":"Examiner les traces de griffes suspectes"}
+{"id":1557218,"jp":"封生のルーンの手がかりを探す","fr":"Chercher des indices concernant la Rune de scellement de vie"}
 {"id":1557219,"jp":"割れた卵を調べる","fr":"Examiner l'œuf brisé"}
 {"id":1557220,"jp":"折れた石柱に登る","fr":"Grimper sur le pilier de pierre brisé"}
 {"id":1557221,"jp":"塔に異常発生","fr":"Anomalie dans la tour"}
 {"id":1557222,"jp":"塔の4階へ向かう","fr":"Aller au 4e étage de la tour"}
 {"id":1557223,"jp":"部屋の入口へ向かう","fr":"Aller à l'entrée de la salle"}
+{"id":1557224,"jp":"息絶えた竜人を観察する","fr":"Observer la dépouille du Draconien"}
 {"id":1557225,"jp":"スーニヤ竜兵を倒す","fr":"Vaincre le soldat dragon de la Sunya"}
+{"id":1557226,"jp":"スーニヤ竜兵の遺体を調べる","fr":"Examiner la dépouille du soldat draconien de Sunya"}
 {"id":1557227,"jp":"折れた長槍を調べる","fr":"Examiner la longue lance brisée"}
 {"id":1557228,"jp":"龍紋の石碑を調べる","fr":"Examiner la stèle au sceau du dragon"}
 {"id":1557229,"jp":"断裂箇所を調べる","fr":"Examiner la cassure"}
 {"id":1557230,"jp":"岩石の巨刃を調べる","fr":"Examiner la lame de roche géante"}
+{"id":1557231,"jp":"竜の鱗の呼びかけに応じる","fr":"Répondre à l'appel de l'écaille de dragon"}
+{"id":1557232,"jp":"カルマを竜鱗に注ぎ込む","fr":"Insuffler du Karma dans l'écaille de dragon"}
 {"id":1557233,"jp":"カルマを注入する","fr":"Insuffler du Karma"}
 {"id":1557234,"jp":"ホールに戻る","fr":"Retourner dans le hall"}
+{"id":1557235,"jp":"石板を奇妙な窪みに差し込む","fr":"Insérer la dalle de pierre dans l'étrange cavité"}
 {"id":1557236,"jp":"石板をはめ込む","fr":"Encastrer la tablette de pierre"}
+{"id":1557237,"jp":"創流の契りを石台に置く。\n長き眠りについていた竜王時代の製器が目覚めるのを待つ。","fr":"Placer le Pacte de la création sur le socle de pierre.\nAttendre que l'artefact de l'ère du Roi-dragon s'éveille de son long sommeil."}
+{"id":1557238,"jp":"天道の塔の遺跡を離れる","fr":"Quitter les ruines de la Tour céleste"}
 {"id":1557239,"jp":"遺跡を離れる","fr":"Quitter les ruines"}
 {"id":1557240,"jp":"領主邸から離れる","fr":"Quitter le manoir du seigneur"}
 {"id":1557241,"jp":"モーキュンを探す","fr":"Chercher Mokyun"}
+{"id":1557242,"jp":"モーキュンについて行く","fr":"Suivre Mokyun"}
 {"id":1557243,"jp":"追従","fr":"Suivre"}
 {"id":1557244,"jp":"小夕に尋ねる","fr":"Interroger Xiaoxi"}
 {"id":1557245,"jp":"景品について尋ねる","fr":"Se renseigner sur le lot"}
+{"id":1557246,"jp":"小夕とキボファイトをする","fr":"Affronter Xiaoxi lors d'un Duel de Kibo"}
 {"id":1557247,"jp":"報酬を受け取る","fr":"Récupérer la récompense"}
 {"id":1557248,"jp":"ソフィアに尋ねる","fr":"Interroger Sophia"}
 {"id":1557249,"jp":"ソフィアと話す","fr":"Parler à Sophia"}
+{"id":1557250,"jp":"香りのついた包み紙をモーキュンに嗅がせる","fr":"Faire renifler le papier d'emballage parfumé à Mokyun"}
+{"id":1557251,"jp":"包装紙の匂いを嗅がせる","fr":"Faire renifler le papier d'emballage"}
+{"id":1557252,"jp":"ジョイに磁器人形について尋ねる","fr":"Interroger Joy au sujet de la poupée en porcelaine"}
 {"id":1557253,"jp":"磁器人形について","fr":"À propos de la poupée de porcelaine"}
 {"id":1557254,"jp":"磁器人形を返却する","fr":"Rendre la poupée de porcelaine"}
 {"id":1557255,"jp":"助けを求める者を探す","fr":"Chercher la personne qui demande de l'aide"}
 {"id":1557256,"jp":"ポリーを助ける","fr":"Aider Polly"}
+{"id":1557257,"jp":"捕らわれたブルーダを救出","fr":"Libérer le Bluda captif"}
+{"id":1557258,"jp":"落ち葉の山を吹き飛ばす","fr":"Disperser le tas de feuilles mortes"}
+{"id":1557259,"jp":"カスカード湖を調査する","fr":"Explorer les environs du lac Cascade"}
 {"id":1557260,"jp":"ワオッキーを倒す","fr":"Vaincre le Waokki"}
 {"id":1557261,"jp":"ブルーダの後を追う","fr":"Suivre Bluda"}
+{"id":1557262,"jp":"カスカード湖のほとりに来た","fr":"Vous avez atteint les rives du lac Cascade"}
 {"id":1557263,"jp":"ポリーと話す","fr":"Parler à Polly"}
 {"id":1557264,"jp":"リッチモモを採集する","fr":"Récolter des pêches gourmandes"}
+{"id":1557265,"jp":"採った果物をポリーに渡す","fr":"Remettre les fruits récoltés à Polly"}
 {"id":1557266,"jp":"ブルーダの様子を見る","fr":"Voir comment va Bluda"}
 {"id":1557267,"jp":"ポポの悩みを聞く","fr":"Écouter les soucis de Popo"}
 {"id":1557268,"jp":"ポポと話す","fr":"Parler à Popo"}
 {"id":1557269,"jp":"ポポの悩み","fr":"Les soucis de Popo"}
 {"id":1557270,"jp":"露を集める","fr":"Recueillir de la rosée"}
+{"id":1557271,"jp":"泣き声の出どころを探す","fr":"Trouver d'où proviennent les pleurs"}
 {"id":1557272,"jp":"オーディ酒蔵へ向かう","fr":"Aller à la brasserie Audie"}
 {"id":1557273,"jp":"ルルと話す","fr":"Parler à Lulu"}
 {"id":1557274,"jp":"ルルの依頼","fr":"Mission de Lulu"}
@@ -57315,7 +57373,9 @@
 {"id":1557281,"jp":"鉱石について尋ねる","fr":"Se renseigner sur le minerai"}
 {"id":1557282,"jp":"痕跡を調査する","fr":"Examiner les traces"}
 {"id":1557283,"jp":"ルビッツを倒す","fr":"Vaincre les Rubbits"}
+{"id":1557284,"jp":"焔光の原石を5つ採集する","fr":"Récolter 5 pierres brutes de lueur ardente"}
 {"id":1557285,"jp":"鉱石を返却する","fr":"Rendre le minerai"}
+{"id":1557286,"jp":"鉱石をネビュリオンに返す。","fr":"Rendre le minerai à Nebulion."}
 {"id":1557289,"jp":"結果を知らせる","fr":"Annoncer le résultat"}
 {"id":1557290,"jp":"サンディアと話す","fr":"Parler à Sandia"}
 {"id":1557291,"jp":"牧場へ向かう","fr":"Aller au pâturage"}
