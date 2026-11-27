@@ -51511,7 +51511,7 @@
 {"id":1546994,"jp":"ならいい！いますぐこいつらを始末しろ！\n情報を外に漏らすわけにはいかないからな！","fr":"Alors prouve-le ! Liquide-moi ces deux-là sur-le-champ !\nAucune information ne doit filtrer à l'extérieur, compris ?!"}
 {"id":1546995,"jp":"えっ！？うちらを始末するって言った？","fr":"Hein ?! Il vient vraiment de lui demander de nous liquider ?"}
 {"id":1546996,"jp":"きみたちなんか怖くないよ。","fr":"Vous ne me faites pas peur."}
-{"id":1546997,"jp":"星臨者を始末するって、本気？","fr":"Vous comptez vraiment vous débarrasser de l'Enfant des étoiles ? Vous êtes sérieux ?"}
+{"id":1546997,"jp":"星臨者を始末するって、本気？","fr":"Vous comptez vraiment vous débarrasser de l'Enfant des étoiles ? C'est sérieux ?"}
 {"id":1546998,"jp":"それじゃ、説明してもらえるかな。\nなんのためにこんなことをしてるの？","fr":"Bon, maintenant, tu veux bien nous expliquer ?\nQu'est-ce qui t'a poussé à faire tout ça ?"}
 {"id":1546999,"jp":"仲間は倒しちゃったし、もうなにもできないよ。","fr":"On a déjà réglé le compte de tes complices. Tu ne peux plus rien faire, maintenant."}
 {"id":1547000,"jp":"俺はただ、ユニを用意して、アヴィーナにちゃんとした\n治療を受けさせてやりたかったんだ……","fr":"Je voulais juste réunir assez d'Uni\npour qu'Evina puisse recevoir les soins dont elle a besoin…"}
@@ -51520,16 +51520,66 @@
 {"id":1547003,"jp":"なら、もうアヴィーナの喘息のことも知ってるだろ……","fr":"Alors vous êtes déjà au courant pour l'asthme d'Evina…"}
 {"id":1547004,"jp":"あの子を療養院に入院させてやりたいけど\n俺たちにはどうすればそんな金を貯められるのかも\nわからないんだ……","fr":"J'aimerais pouvoir la faire admettre au sanatorium,\nmais on ne sait même pas comment on pourrait\nréunir une somme pareille…"}
 {"id":1547005,"jp":"そっか、だからアヴィーナちゃんは\n保安官に事情を話そうとしなかったんだね……","fr":"Je comprends… C'est donc pour ça qu'Evina\nne voulait pas expliquer la situation à la shérif…"}
+{"id":1547006,"jp":"もし知られちゃったら、\nあんたが逮捕されちゃうかもしれないから。","fr":"Parce que si les autorités découvraient ce que tu faisais,\ntu risquais de finir en prison."}
+{"id":1547007,"jp":"どうすればユニを貯められるか、エリーナとずっと考えてた。\nけど、どうしても方法が見つからなくて……","fr":"Elina et moi, on n'arrêtait pas de chercher un moyen d'économiser assez d'Uni.\nMais on ne trouvait vraiment aucune solution…"}
+{"id":1547008,"jp":"それでも、悪事に手を出すのはよくないよ。","fr":"Ce n'est pas une raison pour te lancer dans des activités criminelles."}
+{"id":1547009,"jp":"わかってる。わかってるよ……","fr":"Je sais. Je sais bien…"}
+{"id":1547010,"jp":"エリーナさんとアヴィーナちゃんが\nあんたのことを心配してるよ。\nいったん帰って、ちゃんと話し合おう。ね？","fr":"Elina et Evina se font beaucoup de souci pour toi.\nRentrons et prenons le temps d'en discuter calmement, d'accord ?"}
 {"id":1547011,"jp":"……ああ、そうだな。","fr":"… Oui, c'est vrai."}
 {"id":1547012,"jp":"エインズ！","fr":"Ains !"}
+{"id":1547013,"jp":"あんた、どこに行ってたのよ！","fr":"Mais où est-ce que tu étais passé ?!"}
 {"id":1547014,"jp":"俺は……","fr":"Moi…"}
+{"id":1547015,"jp":"エインズさんにも事情があるんだよ……","fr":"Eins avait ses raisons, tu sais…"}
+{"id":1547016,"jp":"なにをしようとしてたか、私が知らないとでも思ってるの？","fr":"Tu crois vraiment que j'ignore ce que tu préparais ?"}
+{"id":1547017,"jp":"私たちの手品を使ってあの赤蠍団の『お仲間』と\nなにかやろうとしてたでしょう？","fr":"Tu comptais te servir de nos tours de magie pour monter un mauvais coup\navec tes « copains » des Scorpions rouges, pas vrai ?"}
+{"id":1547018,"jp":"やっぱり、わかってたか……","fr":"Je me doutais bien que tu avais compris…"}
+{"id":1547019,"jp":"なんども言ったはずよ！そんな悪事には絶対加担させない。\nいざとなったら、私が領主邸の下働きにでもなるって！","fr":"Combien de fois faudra-t-il que je te le répète ?! Je ne te laisserai jamais tremper dans de telles affaires !\nS'il le faut, j'irai même travailler comme domestique au manoir du seigneur !"}
+{"id":1547020,"jp":"そうじゃなきゃ、私たちみたいな手品師は、\n一生、日の目を見られなくなるんだから。","fr":"Si on se met à utiliser nos talents pour commettre des crimes,\ndes illusionnistes comme nous ne pourront plus jamais se produire au grand jour."}
+{"id":1547021,"jp":"それじゃあ、アヴィーナのことはどうするんだよ！","fr":"Et Evina, alors ?! Qu'est-ce qu'on fait pour elle ?!"}
+{"id":1547022,"jp":"お前がゴンドーロで日雇いで稼ぐユニだけじゃ\nアヴィーナの病気は一生治せないじゃないか！","fr":"Avec les quelques Uni que tu gagnes en faisant des petits boulots à Gondolo,\non n'arrivera jamais à soigner Evina !"}
+{"id":1547023,"jp":"だから！どうしてもダメなら、\nフリスの領主に助けを求めに行くって言ってるでしょ！","fr":"Mais justement ! Je t'ai déjà dit que si on ne trouvait vraiment aucune autre solution,\nj'irais demander de l'aide au seigneur de Fleece !"}
+{"id":1547024,"jp":"頭がおかしくなったのか！？\nそれじゃあプロミリア中の手品を学び尽くす夢は……\nどうするんだよ？","fr":"T'as perdu la tête ou quoi ?!\nEt notre rêve de maîtriser tous les tours de magie de Promilia…\nQu'est-ce qu'il va devenir ?"}
+{"id":1547025,"jp":"私にどうしろって言うの！？\nあんたが牢屋に入るのを黙って見ていろとでも？","fr":"Mais qu'est-ce que tu veux que je fasse ?!\nQue je reste les bras croisés pendant qu'on te jette en prison ?!"}
+{"id":1547026,"jp":"まあまあ、ふたりとも落ち着いて……","fr":"Allons, allons, calmez-vous tous les deux…"}
+{"id":1547027,"jp":"そんなふうにケンカを続けたらさ、\nまたアヴィーナちゃんが悲しい気持ちになっちゃうよ……","fr":"Si vous continuez à vous disputer comme ça,\nvous allez encore faire de la peine à Evina…"}
+{"id":1547028,"jp":"あの子はここにいないわよ。","fr":"Mais elle n'est pas là."}
+{"id":1547029,"jp":"アヴィーナ、いつからそこに？","fr":"Evina ? Depuis combien de temps es-tu là ?"}
+{"id":1547030,"jp":"わ、わたし……みんなが戻って来るの\nずっと待ってたから、どうしても気になって……","fr":"J-Je… J'attendais votre retour depuis tout à l'heure,\net je n'arrivais pas à m'empêcher de m'inquiéter…"}
 {"id":1547031,"jp":"……はあ。","fr":"… Haaa."}
 {"id":1547032,"jp":"あの……","fr":"Euh…"}
+{"id":1547033,"jp":"とにかく、領主さまに相談してみるわ。\nなにか……方法があるはずよ。","fr":"Quoi qu'il en soit, je vais demander conseil au seigneur.\nIl doit bien y avoir… une solution."}
 {"id":1547034,"jp":"なら、俺も……","fr":"Alors moi aussi…"}
+{"id":1547035,"jp":"エインズはアヴィーナの面倒を見てて。\nこの子が勝手に出歩かないか心配なの。","fr":"Eins, reste auprès d'Evina.\nJ'ai peur qu'elle reparte se promener toute seule."}
+{"id":1547036,"jp":"じゃあ、うちらが一緒に行くよ。","fr":"Alors, on va t'accompagner !"}
+{"id":1547037,"jp":"ううん、アヴィーナとエインズを\n無事に連れ戻してくれただけで十分よ……","fr":"Non, vraiment. Vous avez déjà fait bien assez pour nous\nen ramenant Evina et Eins sains et saufs…"}
+{"id":1547038,"jp":"僕たち、領主とはすこし懇意にしてるんだ。|\n私たち、領主とはすこし懇意にしてるの。","fr":"On connaît assez bien le seigneur, tu sais.|\nOn connaît assez bien le seigneur, tu sais."}
+{"id":1547039,"jp":"よければ、一緒に行って説得するよ。","fr":"Si tu veux, on peut t'accompagner et plaider ta cause."}
+{"id":1547040,"jp":"アヴィーナちゃんが言ってたじゃない。\n星臨者ならきっと助けてくれるって！","fr":"Tu te souviens de ce qu'Evina a dit, non ?\nQue l'Enfant des étoiles saurait forcément vous aider !"}
+{"id":1547041,"jp":"だからうちもね、\nあんたたちの願いが叶うといいなって思ってるの。","fr":"Et moi aussi, tu sais,\nj'aimerais que vos souhaits se réalisent."}
+{"id":1547042,"jp":"勝手にちょっと手助けさせてもらうってことでさ。ね？","fr":"Dis-toi simplement qu'on a envie de vous donner un petit coup de pouce. D'accord ?"}
+{"id":1547043,"jp":"うん、そういうことで。","fr":"Oui, c'est exactement ça."}
+{"id":1547044,"jp":"ほら！星臨者さまも、それでいいって！","fr":"Tu vois ! Même l'Enfant des étoiles est de mon avis !"}
 {"id":1547045,"jp":"ええ、ありがとう……","fr":"Oui… merci."}
+{"id":1547046,"jp":"ごきげんよう。お客さま。\n本日はどのようなご用件でしょうか？","fr":"Bien le bonjour, chers hôtes.\nQue puis-je faire pour vous aujourd'hui ?"}
+{"id":1547047,"jp":"ナナチャに事情を説明した……","fr":"Vous avez expliqué la situation à Nanacha…"}
+{"id":1547048,"jp":"こんなことがあって……","fr":"Voilà ce qui s'est passé…"}
+{"id":1547049,"jp":"なるほど。その件でしたら、\n領主さまの台帳にも記録がございます。","fr":"Je vois. À ce sujet,\ncette affaire figure déjà dans le registre du seigneur."}
+{"id":1547050,"jp":"えっ？領主さんってそんなことまで気にかけてるの？","fr":"Hein ? Le seigneur se soucie même de ce genre de problèmes ?"}
+{"id":1547051,"jp":"ふふっ。そうですね、領主さまは\nおふたりがカーニバルで披露された手品を\n大変高く評価していらっしゃいますから。","fr":"Héhé. En effet, le seigneur a particulièrement apprécié\nles tours de magie que ces deux artistes\nont présentés lors du carnaval."}
+{"id":1547052,"jp":"それに、おふたりが抱えている問題についても、\n小耳に挟んだことがございます。","fr":"J'ai également eu vent\n des difficultés auxquelles ils sont confrontés."}
+{"id":1547053,"jp":"まえにも、エリーナさまが私どもに\n相談に来られたことがありましたから。","fr":"Il se trouve que Mademoiselle Elina est déjà venue\nnous consulter à ce sujet par le passé."}
+{"id":1547054,"jp":"そうだったんだ。領主はどう考えてるの？","fr":"Ah, je vois. Et qu'en pense le seigneur ?"}
+{"id":1547055,"jp":"そうですね。金麦穂カーニバルの手品師は\nどれだけいても十分ということはありません。","fr":"Eh bien, nous n'avons jamais trop d'illusionnistes\npour animer le Carnaval de l'Épi doré."}
+{"id":1547056,"jp":"ですから、私どもとしては、\n金麦穂カーニバルの期間中、エリーナさまたちが\nフリスに滞在してくださればうれしく思います。","fr":"C'est pourquoi nous serions ravis que Mademoiselle Elina et sa famille\nséjournent à Fleece\npendant toute la durée du Carnaval de l'Épi doré."}
+{"id":1547057,"jp":"ほかにもご相談している件があるのですが、\nそちらについては、エリーナさまにお聞きください。","fr":"Nous discutons également d'une autre proposition,\nmais je vous invite à vous renseigner directement auprès de Mademoiselle Elina à ce sujet."}
 {"id":1547058,"jp":"エリーナさん……","fr":"Elina…"}
 {"id":1547059,"jp":"戻ったのね！","fr":"Te revoilà !"}
+{"id":1547060,"jp":"さっき、これを受け取ったの。","fr":"Je viens tout juste de recevoir ceci."}
+{"id":1547061,"jp":"ええと……\n「貴殿を金麦穂カーニバルの常駐特別出演者として、\nお招きしたく存じます」……","fr":"Voyons voir…\n« Nous souhaiterions vous inviter à vous produire en tant qu'artistes invités permanents\nlors du Carnaval de l'Épi doré. »…"}
+{"id":1547062,"jp":"「それに先立ち、近々ゴンドーロにて小規模な試演兼晩餐会を\n催したいと考えております。諸々の手配は領主邸が行いますので、\n主催をお願いできますでしょうか？」","fr":"« Au préalable, nous souhaiterions organiser prochainement à Gondolo\nun petit dîner accompagné d'une représentation d'essai. Le manoir du seigneur se chargera de tous les préparatifs.\nAccepteriez-vous d'animer cette soirée ? »"}
+{"id":1547063,"jp":"手紙には前払金も同封されてたわ……\nこれなら、アヴィーナを療養院に入れられる！","fr":"Il y avait même une avance sur notre rémunération jointe à la lettre…\nGrâce à cet argent, je vais enfin pouvoir faire admettre Evina au sanatorium !"}
 {"id":1547064,"jp":"ほんとに！？","fr":"Vraiment !?"}
+{"id":1547065,"jp":"だけど、まずは試演を成功させないとね。","fr":"Mais avant tout, il faut que cette représentation d'essai soit une réussite."}
 {"id":1547071,"jp":"え？どうして？","fr":"Hein ? Pourquoi ?"}
 {"id":1547091,"jp":"へえ、見せてみて……","fr":"Oh ? Montre-moi…"}
 {"id":1547092,"jp":"手品の試演会！？","fr":"Un spectacle d'essai de magie !?"}
