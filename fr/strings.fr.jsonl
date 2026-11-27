@@ -57569,10 +57569,14 @@
 {"id":1557477,"jp":"バレットについていく","fr":"Suivre Barrett"}
 {"id":1557478,"jp":"隠れる","fr":"Se cacher"}
 {"id":1557479,"jp":"密猟者を倒す","fr":"Vaincre les braconniers"}
+{"id":1557480,"jp":"マンドラゴンを提出する","fr":"Remettre le Mandragon"}
+{"id":1557481,"jp":"マンドラゴンをバレットに渡す。","fr":"Remettre le Mandragon à Barrett."}
 {"id":1557482,"jp":"密猟者と話す","fr":"Parler au braconnier"}
 {"id":1557483,"jp":"密猟者を連行する","fr":"Emmener le braconnier"}
+{"id":1557484,"jp":"ティティとノノの後を追って配達に行く","fr":"Suivre Tiffy et Nono lors de leur livraison"}
 {"id":1557485,"jp":"ぷーちゃんを探す","fr":"Trouver Pu-chan"}
 {"id":1557486,"jp":"ファランタの依頼","fr":"Mission de Faridah"}
+{"id":1557487,"jp":"何とかしてミィティを助けよう","fr":"Trouver un moyen de secourir Mitty"}
 {"id":1557488,"jp":"キアラに教えを請う","fr":"Demander conseil à Kiara"}
 {"id":1557489,"jp":"ザッハに教えを請う","fr":"Demander conseil à Zaha"}
 {"id":1557490,"jp":"飛翔の儀に参加する","fr":"Participer au rite d'envol"}
@@ -57586,6 +57590,7 @@
 {"id":1557498,"jp":"カメレウスに近づく","fr":"Approcher du Chameleus"}
 {"id":1557499,"jp":"挨拶","fr":"Saluer"}
 {"id":1557500,"jp":"ぷーちゃんを守る","fr":"Protéger Pu-chan"}
+{"id":1557501,"jp":"キングラーガに乗って配達する","fr":"Effectuer la livraison à dos de Kingraga"}
 {"id":1557502,"jp":"キングラーガに乗る","fr":"Monter Kingraga"}
 {"id":1557503,"jp":"リリカを気遣う","fr":"Réconforter Lyrica"}
 {"id":1557504,"jp":"『夢遊』のクワを探す","fr":"Chercher la houe « Somnambule »"}
@@ -57597,25 +57602,34 @@
 {"id":1557510,"jp":"ツーモを撃退する","fr":"Repousser Tsumo"}
 {"id":1557511,"jp":"クワをリリカに返す","fr":"Rendre la houe à Lyrica"}
 {"id":1557512,"jp":"鍬を返す","fr":"Rendre la houe"}
+{"id":1557513,"jp":"畑を耕す方法を実演する","fr":"Montrer comment labourer un champ"}
 {"id":1557514,"jp":"任意の農地を開墾する","fr":"Défricher une parcelle au choix"}
 {"id":1557515,"jp":"狼の獣道へ向かう","fr":"Aller au sentier du loup"}
 {"id":1557516,"jp":"指定のエリアへ向かう","fr":"Aller dans la zone indiquée"}
+{"id":1557517,"jp":"『恩恵石』を探し続ける","fr":"Poursuivre la recherche de la « Pierre de bénédiction »"}
 {"id":1557518,"jp":"石を調べる","fr":"Examiner la pierre"}
 {"id":1557519,"jp":"『恩恵石』を集める","fr":"Rassembler des pierres de bienfait"}
 {"id":1557520,"jp":"リリカのもとへ戻る","fr":"Retourner auprès de Lyrica"}
 {"id":1557521,"jp":"『恩恵石』を渡す","fr":"Remettre les pierres de bienfait"}
 {"id":1557522,"jp":"ルマと話す","fr":"Parler à Ruma"}
+{"id":1557523,"jp":"ビリバーと焼き魚を分かち合う","fr":"Partager le poisson grillé avec Biliver"}
 {"id":1557524,"jp":"焼き魚を味わう","fr":"Savourer le poisson grillé"}
+{"id":1557525,"jp":"特製タタの激辛焼き魚をビリバーに渡す。","fr":"Remettre le poisson grillé extra-piquant spécial de Tata à Biliver."}
 {"id":1557526,"jp":"ラニに尋ねる","fr":"Interroger Rani"}
 {"id":1557527,"jp":"カイキンギョについて","fr":"À propos des Kaikingyo"}
 {"id":1557528,"jp":"湖畔へ向かう","fr":"Aller au bord du lac"}
 {"id":1557529,"jp":"魚を捕りに行く","fr":"Aller pêcher"}
 {"id":1557530,"jp":"水に入って魚を捕る","fr":"Entrer dans l'eau pour pêcher"}
+{"id":1557531,"jp":"カイキンギョを村長に渡す。","fr":"Remettre le Kaikingyo au Chef du village."}
+{"id":1557532,"jp":"村長にカイキンギョを見せる","fr":"Montrer le Kaikingyo au Chef du village"}
 {"id":1557533,"jp":"カイキンギョを見せる","fr":"Montrer le Kaikingyo"}
+{"id":1557534,"jp":"村長にカイキンギョを見せる。","fr":"Montrer le Kaikingyo au Chef du village."}
 {"id":1557535,"jp":"チルルに木片を見せる","fr":"Montrer le morceau de bois à Chilul"}
 {"id":1557536,"jp":"木片を見せる","fr":"Montrer le morceau de bois"}
+{"id":1557537,"jp":"チルルに木片を見せる。","fr":"Montrer le morceau de bois à Chilul."}
 {"id":1557538,"jp":"村長に知らせる","fr":"Prévenir le chef du village"}
 {"id":1557539,"jp":"マスティーバについて","fr":"À propos de Mustiva"}
+{"id":1557540,"jp":"ビリバーの悩みを解決する","fr":"Résoudre le problème de Biliver"}
 {"id":1557541,"jp":"ビリバーを慰める","fr":"Consoler Biliver"}
 {"id":1557542,"jp":"対策を相談する","fr":"Discuter des mesures à prendre"}
 {"id":1557543,"jp":"片塵石を集める","fr":"Rassembler de la pierre friable"}
@@ -57626,34 +57640,55 @@
 {"id":1557548,"jp":"繊維を納品する","fr":"Livrer les fibres"}
 {"id":1557549,"jp":"ビリバーと話す","fr":"Parler à Biliver"}
 {"id":1557550,"jp":"村長に報告する","fr":"Faire un rapport au chef du village"}
+{"id":1557551,"jp":"ルマに祝宴の準備を頼む","fr":"Demander à Mamie Ruma de préparer le festin"}
+{"id":1557552,"jp":"カイキンギョをルマに渡す","fr":"Remettre le Kaikingyo à Mamie Ruma"}
 {"id":1557553,"jp":"カイキンギョを渡す","fr":"Remettre le Kaikingyo"}
+{"id":1557554,"jp":"カイキンギョをルマに渡す。","fr":"Remettre le Kaikingyo à Mamie Ruma."}
 {"id":1557555,"jp":"リーフォを見つける","fr":"Trouver Leafo"}
 {"id":1557556,"jp":"キャベッコを追い払う","fr":"Chasser les Cabbeco"}
 {"id":1557557,"jp":"リーフォを引き抜く","fr":"Arracher Leafo"}
+{"id":1557558,"jp":"リーフォのためにネコヒゲ草を集める","fr":"Récolter de l'herbe à moustaches de chat pour Leafo"}
+{"id":1557559,"jp":"ネコヒゲ草をリーフォに渡す。","fr":"Remettre l'herbe à moustaches de chat à Leafo."}
+{"id":1557560,"jp":"ルビッツの悩みを解決する","fr":"Résoudre le problème des Rubbits"}
 {"id":1557561,"jp":"真相を尋ねる","fr":"Demander la vérité"}
 {"id":1557562,"jp":"巣の入口を修理する","fr":"Réparer l'entrée du nid"}
+{"id":1557563,"jp":"キャベッコの悩みを解決する","fr":"Résoudre le problème du Cabbeco"}
 {"id":1557564,"jp":"足跡調査","fr":"Enquête sur les empreintes"}
+{"id":1557565,"jp":"フィンヴォルフを見つける","fr":"Retrouver le Finwolf"}
 {"id":1557566,"jp":"キャバードを救出する","fr":"Secourir le Cabbird"}
 {"id":1557567,"jp":"ミステルフを撃退する","fr":"Repousser le Mistelf"}
 {"id":1557568,"jp":"真相を突き止める","fr":"Découvrir la vérité"}
+{"id":1557569,"jp":"キボたちが何を話しているのか確認する","fr":"Découvrir ce que se racontent les Kibo"}
+{"id":1557570,"jp":"ユースベリーを採集する","fr":"Récolter des baies de jouvence"}
 {"id":1557571,"jp":"リーフォと話す","fr":"Parler à Leafo"}
 {"id":1557572,"jp":"モーモと話す","fr":"Parler à Momo"}
 {"id":1557573,"jp":"三神獣の像へ向かう","fr":"Aller à la statue des trois bêtes divines"}
 {"id":1557574,"jp":"モーモの特訓を手伝う","fr":"Aider à l'entraînement spécial de Momo"}
 {"id":1557575,"jp":"モーモを訓練する","fr":"Entraîner Momo"}
+{"id":1557576,"jp":"木の杭を見つけてトレーニングする","fr":"Trouver un poteau en bois pour s'entraîner"}
 {"id":1557577,"jp":"訓練開始","fr":"Commencer l'entraînement"}
 {"id":1557578,"jp":"モーモをなだめる","fr":"Calmer Momo"}
 {"id":1557579,"jp":"なだめる","fr":"Apaiser"}
 {"id":1557580,"jp":"鼻に触れる","fr":"Toucher son nez"}
 {"id":1557581,"jp":"触れる","fr":"Toucher"}
+{"id":1557582,"jp":"ティナナからエイプルを買う","fr":"Acheter des Aple à Tinana"}
+{"id":1557583,"jp":"村の門でなにが起きているか見に行く","fr":"Aller voir ce qui se passe à l'entrée du village"}
+{"id":1557584,"jp":"モーモのエイプル採集を手伝う","fr":"Aider Momo à récolter des Aple"}
 {"id":1557585,"jp":"ピーチィに聞く","fr":"Interroger Peachy"}
+{"id":1557586,"jp":"エイプルの木の下に向かう","fr":"Se rendre au pied de l'arbre à Aple"}
 {"id":1557587,"jp":"風林遺跡付近へ向かう","fr":"Aller près des ruines de Windwood"}
 {"id":1557588,"jp":"ブセラと話す","fr":"Parler à Busera"}
 {"id":1557589,"jp":"いったん休憩しよう","fr":"Faisons une pause"}
+{"id":1557590,"jp":"ミステルフと戦う（0/3）","fr":"Affronter les Mistelf (0/3)"}
+{"id":1557591,"jp":"ミステルフと戦う（1/3）","fr":"Affronter les Mistelf (1/3)"}
+{"id":1557592,"jp":"ミステルフと戦う（2/3）","fr":"Affronter les Mistelf (2/3)"}
 {"id":1557593,"jp":"モーモを励ます","fr":"Encourager Momo"}
+{"id":1557594,"jp":"モーモのエイプルをガヤックに渡す","fr":"Donner l'Aple de Momo au Gayak"}
 {"id":1557595,"jp":"エイプルを渡す","fr":"Donner des Aple"}
+{"id":1557596,"jp":"モーモのエイプルをガヤックに渡す。","fr":"Donner l'Aple de Momo au Gayak."}
 {"id":1557597,"jp":"高台から見渡す","fr":"Regarder depuis les hauteurs"}
 {"id":1557598,"jp":"翼衛戦士に尋ねる","fr":"Interroger le guerrier de la Garde ailée"}
+{"id":1557599,"jp":"変わった格好の者を探す","fr":"Chercher une personne à la tenue inhabituelle"}
 {"id":1557600,"jp":"ライトと会話する","fr":"Parler à Wright"}
 {"id":1557601,"jp":"ライトの後を追う","fr":"Suivre Wright"}
 {"id":1557602,"jp":"ライトを護衛する","fr":"Escorter Wright"}
@@ -57662,6 +57697,8 @@
 {"id":1557605,"jp":"いったん休憩する","fr":"Faire une pause"}
 {"id":1557606,"jp":"ライトに話を聞く","fr":"Interroger Wright"}
 {"id":1557607,"jp":"エイプルを採集","fr":"Cueillir des Aple"}
+{"id":1557608,"jp":"エイプルをライトに渡す","fr":"Remettre les Aple à Wright"}
+{"id":1557609,"jp":"エイプルをライトに渡す。","fr":"Remettre les Aple à Wright."}
 {"id":1557610,"jp":"使える素材を収集する","fr":"Rassembler des matériaux utilisables"}
 {"id":1557611,"jp":"集める","fr":"Rassembler"}
 {"id":1557612,"jp":"素材をライトに渡す","fr":"Donner les matériaux à Wright"}
@@ -57671,6 +57708,7 @@
 {"id":1557616,"jp":"ライトに別れを告げる","fr":"Dire au revoir à Wright"}
 {"id":1557617,"jp":"別れ","fr":"Adieux"}
 {"id":1557618,"jp":"リビーと話す","fr":"Parler à Libby"}
+{"id":1557619,"jp":"オータミットを撮影する","fr":"Prendre Otamit en photo"}
 {"id":1557620,"jp":"写真","fr":"Photo"}
 {"id":1557621,"jp":"写真をリビーに渡す","fr":"Donner la photo à Libby"}
 {"id":1557622,"jp":"写真をリビーに渡す。","fr":"Donner la photo à Libby."}
@@ -57680,36 +57718,58 @@
 {"id":1557626,"jp":"足跡をたどる","fr":"Suivre les empreintes"}
 {"id":1557627,"jp":"迷子の仔馬を見つける","fr":"Trouver le poulain égaré"}
 {"id":1557628,"jp":"仔馬を見つける","fr":"Trouver le poulain"}
+{"id":1557629,"jp":"リビーにエイプルを3個渡す","fr":"Remettre 3 Aple à Libby"}
 {"id":1557630,"jp":"セリンディに返事する","fr":"Répondre à Serindi"}
+{"id":1557631,"jp":"セリンディにエイプルを渡す。","fr":"Remettre l'Aple à Serindi."}
 {"id":1557632,"jp":"服をリビーに渡す。","fr":"Donner les vêtements à Libby."}
 {"id":1557633,"jp":"武器店の近くへ向かう","fr":"Aller près de l'armurerie"}
 {"id":1557634,"jp":"真の価格を聞き出す","fr":"Découvrir le vrai prix"}
+{"id":1557635,"jp":"レオンと価格の駆け引きをする","fr":"Négocier le prix avec Leon"}
 {"id":1557636,"jp":"錆止め油を購入する","fr":"Acheter de l'huile antirouille"}
+{"id":1557637,"jp":"錆止め油をリビーに渡す","fr":"Remettre l'huile antirouille à Libby"}
+{"id":1557638,"jp":"錆止め油をリビーに渡す。","fr":"Remettre l'huile antirouille à Libby."}
 {"id":1557639,"jp":"スキャークを探す","fr":"Chercher Scark"}
 {"id":1557640,"jp":"スキャークを救出する","fr":"Secourir Scark"}
+{"id":1557641,"jp":"オータミットを追いかける","fr":"Poursuivre Otamit"}
+{"id":1557642,"jp":"オータミットを阻止する","fr":"Arrêter Otamit"}
 {"id":1557643,"jp":"礼儀正しい別れ","fr":"Des adieux polis"}
 {"id":1557644,"jp":"心のわだかまりを解く","fr":"Dissiper les rancœurs"}
 {"id":1557645,"jp":"生息地の調査・1","fr":"Relevé d'habitat 1"}
 {"id":1557646,"jp":"生息地の調査","fr":"Relever l'habitat"}
 {"id":1557647,"jp":"生息地の調査・2","fr":"Relevé d'habitat 2"}
 {"id":1557648,"jp":"生息地の調査・3","fr":"Relevé d'habitat 3"}
+{"id":1557649,"jp":"行商から情報を聞き出す","fr":"Obtenir des renseignements auprès du marchand ambulant"}
 {"id":1557650,"jp":"足跡を追う","fr":"Suivre les empreintes"}
+{"id":1557651,"jp":"行商人の行方を発見する","fr":"Localiser le marchand ambulant"}
+{"id":1557652,"jp":"コロコロに事情を説明する","fr":"Expliquer la situation à Korokoro"}
+{"id":1557653,"jp":"ポポクッキーを製作してコロコロに渡す","fr":"Préparer un biscuit Popo et le donner à Korokoro"}
+{"id":1557654,"jp":"ポポクッキーを1個納品する","fr":"Livrer 1 biscuit Popo"}
 {"id":1557655,"jp":"グルルと話す","fr":"Parler à Gururu"}
 {"id":1557656,"jp":"1日後","fr":"1 jour plus tard"}
 {"id":1557657,"jp":"フリス街道へ向かう","fr":"Aller sur la route de Fleece"}
 {"id":1557658,"jp":"ニャアホを発見する","fr":"Trouver Nyaho"}
 {"id":1557659,"jp":"グレナードを撃退する","fr":"Repousser Grenade"}
+{"id":1557660,"jp":"ニャアホの様子を確認する","fr":"Vérifier l'état du Nyaho"}
 {"id":1557661,"jp":"古書をターシャに渡す","fr":"Donner le vieux livre à Tasha"}
+{"id":1557662,"jp":"ボロボロの古書をターシャに渡す。","fr":"Remettre le vieux livre abîmé à Tasha."}
+{"id":1557663,"jp":"ターシャと共に本屋へ向かう","fr":"Se rendre à la librairie en compagnie de Tasha"}
 {"id":1557664,"jp":"古書を鑑定する","fr":"Expertiser le vieux livre"}
 {"id":1557665,"jp":"ターシャと話す","fr":"Parler à Tasha"}
 {"id":1557666,"jp":"ターシャと合流する","fr":"Retrouver Tasha"}
+{"id":1557667,"jp":"アラマニヤに教えを請う","fr":"Demander conseil à Aramaniya"}
 {"id":1557668,"jp":"古書を読み解く","fr":"Déchiffrer le vieux livre"}
+{"id":1557669,"jp":"集めた素材をターシャに渡す","fr":"Remettre les matériaux récoltés à Tasha"}
+{"id":1557670,"jp":"素材をターシャに渡す。","fr":"Remettre les matériaux à Tasha."}
 {"id":1557671,"jp":"茂みの冠へ向かう","fr":"Aller à la Couronne de buissons"}
 {"id":1557672,"jp":"素材をターシャに渡す","fr":"Donner les matériaux à Tasha"}
+{"id":1557673,"jp":"カドゥリアをターシャに渡す。","fr":"Remettre la Kaduria à Tasha."}
 {"id":1557674,"jp":"ニャアホと話す","fr":"Parler au Nyaho"}
+{"id":1557675,"jp":"羽根を錬金炉に投入する","fr":"Placer la plume dans le fourneau alchimique"}
 {"id":1557676,"jp":"羽根を投入する","fr":"Insérer la plume"}
+{"id":1557677,"jp":"ニャアホの羽根を投入する。","fr":"Introduire la plume de Nyaho."}
 {"id":1557678,"jp":"実験結果","fr":"Résultats de l'expérience"}
 {"id":1557679,"jp":"ウィンベルを入手する","fr":"Obtenir un Winbell"}
+{"id":1557680,"jp":"ハルシヨンの粉塵を集める村民たち","fr":"Les villageois qui récoltent de la poudre d'Halcyon"}
 {"id":1557685,"jp":"素材を注ぐ","fr":"Verser les matériaux"}
 {"id":1557687,"jp":"サラと話す","fr":"Parler à Sara"}
 {"id":1557688,"jp":"ルルカのもとへ向かう","fr":"Aller voir Luruka"}
