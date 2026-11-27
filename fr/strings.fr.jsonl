@@ -58266,26 +58266,37 @@
 {"id":1556676,"jp":"凶獣ハンター大会……ユニを稼ぐ絶好のチャンスみたいだ。まずは冒険ギルドに行ってみよう。","fr":"Un tournoi de chasse aux Bêtes maudites… Voilà une excellente occasion de gagner des Uni ! Commencez par vous rendre à la Guilde des aventuriers."}
 {"id":1556677,"jp":"源千代さんが困っているようだ。様子を見に行ってみよう。","fr":"Minamoto Chiyo semble avoir quelques ennuis. Allez voir ce qui se passe."}
 {"id":1556678,"jp":"星識レベル10","fr":"Niveau de Savoir stellaire 10"}
+{"id":1556679,"jp":"指定クエストを完了する","fr":"Terminez la quête indiquée"}
 {"id":1556680,"jp":"周囲の環境を調べる","fr":"Examiner les environs"}
+{"id":1556681,"jp":"大移動中の獣人の幻影に近づく","fr":"Approchez-vous de la vision des Furriens en pleine migration"}
 {"id":1556682,"jp":"先へ進む","fr":"Avancer"}
 {"id":1556683,"jp":"先祖の幻影に近づく","fr":"Approcher de la vision des ancêtres"}
 {"id":1556684,"jp":"白い狼の幻影に近づく","fr":"Approcher de la vision du Loup blanc"}
+{"id":1556685,"jp":"トーテムの幻影に近づく","fr":"Approchez-vous de la vision du totem"}
 {"id":1556686,"jp":"狼の群れの足跡を追う","fr":"Suivre les traces de la meute de loups"}
+{"id":1556687,"jp":"シャーマンの幻影に近づく","fr":"Approchez-vous de la vision de la chamane"}
+{"id":1556688,"jp":"『シャルル』の悲しげな訴えを聞く","fr":"Écoutez la triste supplication de « Charlulu »"}
 {"id":1556689,"jp":"ミステルフを倒す","fr":"Vaincre le Mistelf"}
 {"id":1556690,"jp":"ステラストーンを探す","fr":"Chercher la pierre Stella"}
+{"id":1556691,"jp":"ステラストーンに近づく","fr":"Approchez-vous de la pierre Stella"}
 {"id":1556692,"jp":"容姿を決める","fr":"Choisir son apparence"}
+{"id":1556693,"jp":"隕石クレーターを離れる","fr":"Quittez le cratère de la météorite"}
 {"id":1556694,"jp":"安全エリアへ向かう","fr":"Rejoindre la zone sûre"}
 {"id":1556695,"jp":"さらに先へ進む","fr":"Continuer encore"}
+{"id":1556696,"jp":"キャベッコとスターリンクする","fr":"Établissez un Lien stellaire avec le Cabbeco"}
 {"id":1556697,"jp":"謎の物体を調べる","fr":"Examiner l'objet mystérieux"}
 {"id":1556698,"jp":"調べる","fr":"Examiner"}
 {"id":1556699,"jp":"キボのスキルを発動","fr":"Utiliser une compétence de Kibo"}
+{"id":1556700,"jp":"高いところの宝箱を開ける","fr":"Ouvrez le coffre situé en hauteur"}
 {"id":1556701,"jp":"宝箱を開ける","fr":"Ouvrir le coffre"}
 {"id":1556702,"jp":"遺跡に入る","fr":"Entrer dans les ruines"}
 {"id":1556703,"jp":"脱出方法を探す","fr":"Chercher un moyen de sortir"}
+{"id":1556704,"jp":"シャドウブレイズを倒す","fr":"Terrassez le Shadowblaze"}
 {"id":1556705,"jp":"凶獣を倒す","fr":"Vaincre la Bête maudite"}
 {"id":1556706,"jp":"前へ進む","fr":"Avancer"}
 {"id":1556707,"jp":"追撃から逃れる","fr":"Échapper à la poursuite"}
 {"id":1556708,"jp":"遺跡内部に入る","fr":"Entrer dans les ruines"}
+{"id":1556709,"jp":"【シャドウブレイズ】を倒す","fr":"Terrassez 【Shadowblaze】"}
 {"id":1556710,"jp":"昏睡から目覚める","fr":"Sortir du coma"}
 {"id":1556711,"jp":"ルルカの家を出る","fr":"Quitter la maison de Luruka"}
 {"id":1556712,"jp":"部屋を出る","fr":"Quitter la pièce"}
@@ -58297,22 +58308,42 @@
 {"id":1556718,"jp":"会話","fr":"Parler"}
 {"id":1556719,"jp":"謎の彫像に近づく","fr":"Approcher de la statue mystérieuse"}
 {"id":1556720,"jp":"キボを選ぶ","fr":"Choisir un Kibo"}
+{"id":1556721,"jp":"リーフォとスターリンクする","fr":"Établissez un Lien stellaire avec Leafo"}
 {"id":1556722,"jp":"リーフォを選ぶ","fr":"Choisir Leafo"}
+{"id":1556723,"jp":"モーモとスターリンクする","fr":"Établissez un Lien stellaire avec Momo"}
 {"id":1556724,"jp":"モーモを選ぶ","fr":"Choisir Momo"}
+{"id":1556725,"jp":"ビリバーとスターリンクする","fr":"Établissez un Lien stellaire avec Biliver"}
 {"id":1556726,"jp":"ビリバーを選ぶ","fr":"Choisir Biliver"}
 {"id":1556727,"jp":"スターリンクしたあと","fr":"Après le Lien stellaire"}
+{"id":1556728,"jp":"簡易クラフトでノーマルのステラカードを5枚製作する","fr":"Fabriquez 5 cartes Stella de qualité Normal via la Fabrication simple"}
+{"id":1556729,"jp":"ピーチィ1体とスターリンクする","fr":"Établissez un Lien stellaire avec 1 Peachy"}
+{"id":1556730,"jp":"グルル1体とスターリンクする","fr":"Établissez un Lien stellaire avec 1 Gururu"}
+{"id":1556731,"jp":"テララとキボファイトを行う","fr":"Affrontez Terara lors d'un Duel de Kibo"}
+{"id":1556732,"jp":"遠吠え平原の星脈ノードを起動する","fr":"Activez le nœud de veine stellaire des Plaines hurlantes"}
 {"id":1556733,"jp":"星脈ノードを起動する","fr":"Activer le nœud de veine stellaire"}
 {"id":1556734,"jp":"テララと共に先へ進む","fr":"Continuer avec Terara"}
+{"id":1556735,"jp":"マウントの試練を完了する","fr":"Terminez l'épreuve de monture"}
 {"id":1556736,"jp":"挑戦開始","fr":"Lancer le défi"}
 {"id":1556737,"jp":"大狼の像へ向かう","fr":"Aller à la statue du Grand Loup"}
+{"id":1556738,"jp":"奇妙なトーテムを調べる","fr":"Examinez l'étrange totem"}
+{"id":1556739,"jp":"フェザーリーフを調べる","fr":"Examinez le Featherleaf"}
 {"id":1556740,"jp":"ルルカと話す","fr":"Parler à Luruka"}
 {"id":1556741,"jp":"シャルル村へ戻る","fr":"Retourner au Village de Charlulu"}
 {"id":1556742,"jp":"鍛冶屋へ向かう","fr":"Aller chez le forgeron"}
 {"id":1556743,"jp":"村長と合流する","fr":"Retrouver le chef du village"}
 {"id":1556744,"jp":"裏山へ向かう","fr":"Aller à la montagne de derrière"}
+{"id":1556745,"jp":"共鳴の石台を建設し、配置する","fr":"Construisez et installez un socle de résonance"}
+{"id":1556746,"jp":"共鳴の石台で特殊なステラカードを5枚製作する","fr":"Fabriquez 5 cartes Stella spéciales au socle de résonance"}
+{"id":1556747,"jp":"農園本部に作業のキボを3匹派遣する","fr":"Affectez 3 Kibo au travail dans le quartier général de la ferme"}
 {"id":1556748,"jp":"リリカと話す","fr":"Parler à Lyrica"}
 {"id":1556749,"jp":"農地エリアに入る","fr":"Entrer dans la zone des champs"}
+{"id":1556750,"jp":"農園で畑を4区画開墾する","fr":"Aménagez 4 parcelles cultivables dans la ferme"}
 {"id":1556751,"jp":"リリカの購買店で金麦の種を4つ購入する","fr":"Acheter 4 graines de blé doré à la boutique de Lyrica"}
+{"id":1556752,"jp":"農園で金麦を4株栽培して水やりをする","fr":"Cultivez 4 plants de blé doré dans la ferme et arrosez-les"}
+{"id":1556753,"jp":"農園で調理鍋を建設し、配置する","fr":"Construisez et installez une Marmite dans la ferme"}
+{"id":1556754,"jp":"農園でキボの食堂を建設し、配置する","fr":"Construisez et installez une cantine pour Kibo dans la ferme"}
+{"id":1556755,"jp":"調理鍋で普通のポポクッキー（小）を4つ作る","fr":"Préparez 4 biscuits Popo ordinaires (petits) dans la Marmite"}
+{"id":1556756,"jp":"普通のポポクッキー（小）を4つキボの食堂に入れる","fr":"Déposez 4 biscuits Popo ordinaires (petits) dans la cantine pour Kibo"}
 {"id":1556757,"jp":"部屋に戻って休む","fr":"Retourner dans sa chambre pour se reposer"}
 {"id":1556758,"jp":"休憩","fr":"Se reposer"}
 {"id":1556759,"jp":"ルミィと話す","fr":"Parler à Lumi"}
@@ -58320,16 +58351,27 @@
 {"id":1556761,"jp":"テララを呼ぶ","fr":"Appeler Terara"}
 {"id":1556762,"jp":"サララに話を聞く","fr":"Interroger Sarara"}
 {"id":1556763,"jp":"質問する","fr":"Poser une question"}
+{"id":1556764,"jp":"広場へ向かい、ルルカを探す","fr":"Rendez-vous sur la place pour retrouver Luruka"}
 {"id":1556765,"jp":"ルルカを探す","fr":"Trouver Luruka"}
 {"id":1556766,"jp":"肉屋のルタに挨拶する","fr":"Saluer Ruta, le boucher"}
+{"id":1556767,"jp":"木彫り屋のチルルに挨拶する","fr":"Saluez Chilul, la sculptrice sur bois"}
+{"id":1556768,"jp":"鍛冶屋のエンカクに挨拶する","fr":"Saluez Enkaku à la forge"}
+{"id":1556769,"jp":"鍛冶屋のモモに挨拶する","fr":"Saluez Momo à la forge"}
+{"id":1556770,"jp":"釣具屋のラニに挨拶する","fr":"Saluez Rani, qui tient la boutique de matériel de pêche"}
 {"id":1556771,"jp":"広場に戻る","fr":"Retourner sur la place"}
+{"id":1556772,"jp":"『タナの火祭り』について","fr":"À propos de la « fête du feu de Tana »"}
 {"id":1556773,"jp":"出発の準備をする","fr":"Se préparer au départ"}
 {"id":1556774,"jp":"外に出て調査する","fr":"Sortir enquêter"}
+{"id":1556775,"jp":"スーニヤの侵蝕を浄化して宝箱を開ける","fr":"Purifiez l'Érosion de Sunya et ouvrez le coffre"}
+{"id":1556776,"jp":"スーニヤに汚染された区域を浄化する","fr":"Purifiez la zone contaminée par Sunya"}
 {"id":1556777,"jp":"像を調べる","fr":"Examiner la statue"}
 {"id":1556778,"jp":"白い狼について進む","fr":"Suivre le Loup blanc"}
 {"id":1556779,"jp":"過去の幻影を調べる","fr":"Examiner la vision du passé"}
 {"id":1556780,"jp":"幻影に耳を傾ける","fr":"Écouter le fantôme"}
+{"id":1556781,"jp":"仲間の痕跡を探す（0/3）","fr":"Cherchez des Traces de vos compagnons (0/3)"}
+{"id":1556782,"jp":"仲間の痕跡を探す（1/3）","fr":"Cherchez des Traces de vos compagnons (1/3)"}
 {"id":1556783,"jp":"足跡を調べる","fr":"Examiner les empreintes"}
+{"id":1556784,"jp":"仲間の痕跡を探す（2/3）","fr":"Cherchez des Traces de vos compagnons (2/3)"}
 {"id":1556785,"jp":"羽根を調べる","fr":"Examiner la plume"}
 {"id":1556786,"jp":"テララと合流","fr":"Retrouver Terara"}
 {"id":1556787,"jp":"イグニープを倒す","fr":"Vaincre l'Igneep"}
@@ -58338,11 +58380,14 @@
 {"id":1556790,"jp":"座って休む","fr":"S'asseoir pour se reposer"}
 {"id":1556791,"jp":"座る","fr":"S'asseoir"}
 {"id":1556792,"jp":"騒音の出所へ向かう","fr":"Aller vers l'origine du bruit"}
+{"id":1556793,"jp":"翼人の住む場所へ向かう","fr":"Rendez-vous sur le territoire des Ailés"}
 {"id":1556794,"jp":"目的地へ向かう","fr":"Aller à la destination"}
 {"id":1556795,"jp":"情報交換","fr":"Échanger des informations"}
 {"id":1556796,"jp":"ドゥルを追跡する","fr":"Pister Dur"}
+{"id":1556797,"jp":"笛の音がする場所へ向かう","fr":"Rejoignez l'endroit d'où provient le son de la flûte"}
 {"id":1556798,"jp":"翼人の防衛線に近づく","fr":"Approcher de la ligne de défense des Ailés"}
 {"id":1556799,"jp":"翼人の戦闘を支援する","fr":"Soutenir les Ailés au combat"}
+{"id":1556800,"jp":"迫り来る凶獣を撃退する","fr":"Repoussez les Bêtes maudites qui approchent"}
 {"id":1556801,"jp":"凶獣の迎撃","fr":"Intercepter les Bêtes maudites"}
 {"id":1556802,"jp":"翼人の防衛線に戻る","fr":"Retourner à la ligne de défense des Ailés"}
 {"id":1556803,"jp":"風隠れ岩へ向かう","fr":"Aller au Roc Coupe-Vent"}
@@ -58350,9 +58395,13 @@
 {"id":1556805,"jp":"ノオミと話す","fr":"Parler à Noomi"}
 {"id":1556806,"jp":"ゲージと話す","fr":"Parler à Gage"}
 {"id":1556807,"jp":"食品屋台を訪れる","fr":"Visiter le stand de nourriture"}
+{"id":1556808,"jp":"翼人のシャーマンと話す","fr":"Parlez à la chamane des Ailés"}
 {"id":1556809,"jp":"鷹匠と話す","fr":"Parler au fauconnier"}
+{"id":1556810,"jp":"見晴らしのいい場所を調べる","fr":"Examinez le point de vue panoramique"}
 {"id":1556811,"jp":"鷹主に謁見する","fr":"Être reçu par le Seigneur Faucon"}
 {"id":1556812,"jp":"風隠れ岩の広場に到着","fr":"Arriver sur la place du Roc Coupe-Vent"}
+{"id":1556813,"jp":"スカイホークと一緒に飛ぶ","fr":"Volez aux côtés du Skyhawk"}
+{"id":1556814,"jp":"スカイホークに乗って去る","fr":"Montez sur le Skyhawk et quittez les lieux"}
 {"id":1556815,"jp":"シャルル村に戻る","fr":"Retourner au Village de Charlulu"}
 {"id":1556816,"jp":"ソールを起こす","fr":"Réveiller Sol"}
 {"id":1556817,"jp":"村長の家へ向かう","fr":"Aller à la maison du chef du village"}
@@ -58361,9 +58410,14 @@
 {"id":1556820,"jp":"雑草の除去","fr":"Désherber"}
 {"id":1556821,"jp":"クリア","fr":"Terminer"}
 {"id":1556822,"jp":"砕けた石を取り除く","fr":"Dégager les pierres brisées"}
+{"id":1556823,"jp":"畑小屋を作成し、設置する","fr":"Fabriquez et installez une cabane agricole"}
+{"id":1556824,"jp":"任意のキボを畑小屋に派遣する","fr":"Affectez un Kibo de votre choix à la cabane agricole"}
+{"id":1556825,"jp":"キボの食堂を作成し、設置する","fr":"Fabriquez et installez une cantine pour Kibo"}
+{"id":1556826,"jp":"任意の料理をキボの食堂に追加する","fr":"Ajoutez un plat de votre choix dans la cantine pour Kibo"}
 {"id":1556827,"jp":"シンフォーリアと話す","fr":"Parler à Symphoria"}
 {"id":1556828,"jp":"翌日の昼間まで待つ","fr":"Attendre le jour suivant"}
 {"id":1556829,"jp":"村長と話す","fr":"Parler au chef du village"}
+{"id":1556830,"jp":"ユースベリー泥棒を探す","fr":"Recherchez le voleur de baies de jouvence"}
 {"id":1556831,"jp":"ガドリを探す","fr":"Trouver le Gadori"}
 {"id":1556832,"jp":"料理を作る","fr":"Cuisiner un plat"}
 {"id":1556833,"jp":"カタルに料理を作る","fr":"Cuisiner pour Katalua"}
@@ -58372,8 +58426,14 @@
 {"id":1556836,"jp":"霧隠れの森へ向かう","fr":"Aller à la Forêt Voile-Brume"}
 {"id":1556837,"jp":"密林に入る","fr":"Entrer dans la jungle"}
 {"id":1556838,"jp":"霧隠れの森の奥へ","fr":"Au cœur de la Forêt Voile-Brume"}
+{"id":1556839,"jp":"行方不明者を探す（0/5）","fr":"Recherchez les personnes disparues (0/5)"}
+{"id":1556840,"jp":"行方不明者を探す（1/5）","fr":"Recherchez les personnes disparues (1/5)"}
+{"id":1556841,"jp":"行方不明者を探す（4/5）","fr":"Recherchez les personnes disparues (4/5)"}
 {"id":1556842,"jp":"歌声が聞こえる","fr":"On entend un chant"}
+{"id":1556843,"jp":"材料を採集してルルカに渡す","fr":"Récoltez les matériaux et remettez-les à Luruka"}
 {"id":1556844,"jp":"渡す","fr":"Donner"}
+{"id":1556845,"jp":"薬材を探し、集めた素材をルルカに渡そう。\nルルカの手にかかれば、これらの素材は民兵を目覚めさせる重要な薬となるのだ。","fr":"Cherchez les ingrédients médicinaux et remettez-les à Luruka.\nEntre ses mains, ces ingrédients permettront de préparer un remède essentiel pour réveiller les miliciens."}
+{"id":1556846,"jp":"マルティナに目覚めの薬を飲ませる","fr":"Faites boire la potion d'éveil à Martina"}
 {"id":1556847,"jp":"薬を飲ませる","fr":"Faire boire le remède"}
 {"id":1556849,"jp":"不審な野営地を探す","fr":"Chercher le campement suspect"}
 {"id":1556851,"jp":"怪しい場所へ向かう","fr":"Aller à l'endroit suspect"}
