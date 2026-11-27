@@ -326,11 +326,13 @@ function build(options) {
     const accentText = ACCENT_TEST[row.jp] ?? (row.en ? `ÉÀÇ éèàçœ «\u00a0»\u00a0! ${row.en}` : '');
     const translated = options['accent-test'] ? accentText : french.byJp.get(row.jp)?.fr;
     if (translated && validate(row.jp, translated).length === 0) {
-      text = options['accent-test'] ? translated : frenchSpacing(translated);
+      // La police du jeu est japonaise : elle dessine « … » centré en hauteur, comme en japonais.
+      // Dans le fichier du jeu seulement, il devient trois points ordinaires, posés sur la ligne.
+      text = options['accent-test'] ? translated : frenchSpacing(translated).replace(/…/g, '...');
       source = 'fr';
       fromFrench++;
     } else if (fallback === 'en') {
-      text = row.en ?? '';
+      text = (row.en ?? '').replace(/…/g, '...');
     }
     // Le patcher ne lit que « jp » et « en » : le français passe par le champ « en ».
     // Un « en » vide laisse le texte japonais du jeu.

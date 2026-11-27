@@ -9459,7 +9459,7 @@
 {"id":1504655,"jp":"パミー郵便局","fr":"Poste des Pammy"}
 {"id":1504656,"jp":"農園本部","fr":"QG de la ferme"}
 {"id":1504657,"jp":"ヘルプ","fr":"Aide"}
-{"id":1504658,"jp":"星源の庭","fr":"Jardin de la source stellaire"}
+{"id":1504658,"jp":"星源の庭","fr":"Jardin étoilé"}
 {"id":1504659,"jp":"実績","fr":"Succès"}
 {"id":1504660,"jp":"設定","fr":"Paramètres"}
 {"id":1504661,"jp":"メール","fr":"Courrier"}
@@ -57563,6 +57563,7 @@
 {"id":1557984,"jp":"キャラクエスト","fr":"Quêtes de personnage"}
 {"id":1557985,"jp":"集会所","fr":"Salle de réunion"}
 {"id":1557986,"jp":"ガイド","fr":"Guide"}
+{"id":1557991,"jp":"スターリンクの力を強化、またはより高レアリティのステラカードを使用することで、キボのスターリンク成功率を上げられます。","fr":"Renforcer ta puissance de Lien stellaire ou utiliser une carte Stella plus rare augmente tes chances de réussir un Lien stellaire avec un Kibo."}
 {"id":1558009,"jp":"キボのロール","fr":"Rôles des Kibo"}
 {"id":1558013,"jp":"星脈共鳴","fr":"Résonance de veine stellaire"}
 {"id":1558022,"jp":"戦闘の基礎","fr":"Bases du combat"}
@@ -59217,7 +59218,7 @@
 {"id":1560862,"jp":"同調スターリンクを終了しますか？\n<color=#FF7E6D>終了すると、このキボとのスターリンクを続けられなくなります</color>","fr":"Mettre fin au Lien stellaire de Synchronie ?\n<color=#FF7E6D>Vous ne pourrez plus poursuivre le Lien stellaire avec ce Kibo.</color>"}
 {"id":1560863,"jp":"直近7日間の出荷記録はありません。","fr":"Aucun historique de livraison au cours des 7 derniers jours."}
 {"id":1560864,"jp":"プロミリア大陸に新たな一日が訪れた……","fr":"Un nouveau jour se lève sur le continent de Promilia…"}
-{"id":1560865,"jp":"リンクの力 {0}","fr":"Puissance de lien {0}"}
+{"id":1560865,"jp":"リンクの力 {0}","fr":"Lien {0}"}
 {"id":1560866,"jp":"キボレベル {0}","fr":"Niveau du Kibo {0}"}
 {"id":1560867,"jp":"進行度：","fr":"Progression :"}
 {"id":1560868,"jp":"クリア済み","fr":"Terminé"}
@@ -67924,7 +67925,7 @@
 {"id":1665128,"jp":"このキボは<color=#DD6868>連結の乱れ</color>状態になっており、全ステータスが{0}%低下しています。","fr":"Ce Kibo est en état de <color=#DD6868>perturbation du lien</color> : toutes ses statistiques baissent de {0} %."}
 {"id":1665129,"jp":"アニマを1つ選択してください。","fr":"Veuillez sélectionner 1 Anima."}
 {"id":1665130,"jp":"伝書契約の期間中、取引所での{0}収益増加：","fr":"Pendant le Contrat de correspondance, hausse des revenus en {0} au Comptoir d'échange :"}
-{"id":1665131,"jp":"リンク力 {0}","fr":"Puissance de lien {0}"}
+{"id":1665131,"jp":"リンク力 {0}","fr":"Lien {0}"}
 {"id":1665132,"jp":"これ以上因子の実を与えることはできません。","fr":"Impossible de donner davantage de fruits de facteurs."}
 {"id":1665133,"jp":"因子の実を与えると、既存の因子と入れ替えることができます。","fr":"Donner un fruit de facteur permet de remplacer un facteur existant."}
 {"id":1665134,"jp":"このキボの因子の数は上限に達しています。新しい因子と入れ替える必要があります。","fr":"Ce Kibo a atteint le nombre maximal de facteurs. Un facteur existant doit être remplacé par le nouveau."}
