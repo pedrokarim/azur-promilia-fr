@@ -6,17 +6,14 @@ Ce projet n'est ni affilié à Manjuu ni approuvé par l'éditeur. Un patch de t
 
 ## Jouer en français
 
-La traduction s'installe avec le patcher des fans, le même que pour l'anglais. On ne le redistribue pas ici : c'est le travail de ses auteurs, et il contient des fichiers du jeu.
+1. [Télécharge le patcher Windows](https://github.com/pedrokarim/azur-promilia-fr/releases/download/patcher-v1.0.0/azur-promilia-patcher-windows-x64.zip) et décompresse toute l’archive. Laisse les dossiers à côté de `azur-promilia-patcher.exe`.
+2. Ferme le jeu et le launcher officiel. Ouvre `azur-promilia-patcher.exe`, puis clique sur « Choisir » et sélectionne le dossier `AZUPRO_JP` qui contient `AzurPromiliaJP.exe`.
+3. Sélectionne « Français », clique sur « Télécharger la traduction », puis sur « Installer ».
+4. Clique sur « Lancer » ou utilise le raccourci « Azur Promilia (français) ». Le launcher officiel peut remettre les fichiers japonais.
 
-1. Récupère le patcher anglais (`ap-english-patcher.zip`) sur le serveur Discord de la communauté d'Azur Promilia, là où il est diffusé, et décompresse-le.
-2. Télécharge [`strings.fr.jsonl`](../../releases/download/latest/strings.fr.jsonl) depuis la release `latest` de ce dépôt. C'est toujours la dernière version publiée.
-3. Dans le dossier du patcher, ouvre le dossier `translation` et remplace `strings.translatable.jsonl` par le fichier téléchargé, renommé `strings.translatable.jsonl`.
-4. Ferme le jeu et le launcher, lance le patcher, puis clique sur **Install English** : c'est le français qui s'installe. Ne clique pas sur **Download newest translation**, qui remettrait l'anglais.
-5. Lance le jeu par **Launch** ou par le raccourci créé par le patcher, jamais par le launcher officiel, qui peut remettre les fichiers d'origine.
+![Fenêtre du patcher avec Français sélectionné et le bouton Choisir à côté du champ du dossier du jeu](../docs/images/patcher-fr.png)
 
-Pour mettre à jour, refais les étapes 2 à 4. **Restore Japanese** remet le jeu d'origine ; fais-le avant chaque mise à jour du jeu.
-
-Les textes pas encore traduits restent en anglais. Si tu préfères qu'ils restent en japonais, prends [`strings.fr-jp.jsonl`](../../releases/download/latest/strings.fr-jp.jsonl) à la place.
+Pour mettre à jour la traduction, ferme le jeu, puis clique sur « Télécharger la traduction » et « Installer ». Avant une mise à jour du jeu, clique sur « Désinstaller » pour restaurer les fichiers japonais.
 
 Le launcher se traduit à part, avec [azur-promilia-fr-launcher](https://github.com/pedrokarim/azur-promilia-fr-launcher).
 
