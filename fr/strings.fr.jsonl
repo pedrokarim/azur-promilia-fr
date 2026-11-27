@@ -55790,15 +55790,65 @@
 {"id":1554319,"jp":"ティーガは最後に、力いっぱい体をすり寄せてきた。\n軽やかな――別れを告げるような――鳴き声を上げたティーガは、\n身をひるがえし、さきに歩き出したガルティガーのあとを追っていく。\n大小ふたつの白い影は、すぐに森の闇へ溶け込んでいった……","fr":"Une dernière fois, Tiga est venu se frotter vigoureusement contre vous.\nIl a poussé un petit cri enjoué, comme pour vous dire adieu,\navant de faire volte-face et de rejoindre Galtiger, déjà en chemin.\nLes deux silhouettes blanches, l'une grande et l'autre petite, se sont bientôt fondues dans l'obscurité de la forêt…"}
 {"id":1554320,"jp":"僕たちは……認めてもらえた、ってことなのかな？","fr":"Ça veut dire… qu'ils nous ont accordé leur confiance ?"}
 {"id":1554321,"jp":"うん。素敵な友情だったと思うよ。","fr":"Oui. C'était une belle amitié, je trouve."}
+{"id":1554322,"jp":"……でも、あらためて考えると、本当に不思議だよね。","fr":"… Mais quand on y repense, c'est vraiment fascinant, tu ne trouves pas ?"}
+{"id":1554323,"jp":"森に暮らすキボたちには、彼らだけの世界と絆がある。\nそして僕たちは……幸運にも、その絆の一部になれたんだね……","fr":"Les Kibo qui vivent dans la forêt ont leur propre univers et tissent des Liens entre eux.\nEt nous… nous avons eu la chance de faire partie de ces Liens…"}
+{"id":1554324,"jp":"さようなら、ティーガ。","fr":"Au revoir, Tiga."}
+{"id":1554325,"jp":"いつかまた、会える日が来る。僕はそう信じているよ……","fr":"Un jour, nos chemins se croiseront à nouveau. J'en suis certain…"}
 {"id":1554326,"jp":"観光客","fr":"Touriste"}
 {"id":1554327,"jp":"うっ……痛たたた……","fr":"Aïe… aïe, aïe, aïe…"}
+{"id":1554328,"jp":"大丈夫？ケガをしているみたいだけど。","fr":"Ça va ? Tu as l'air blessé."}
+{"id":1554329,"jp":"げほっ……お腹が痛くて、もう最悪です……","fr":"Keuf… J'ai mal au ventre, c'est vraiment horrible…"}
+{"id":1554330,"jp":"すみません、薬草を探してきてもらえませんか……\nネコヒゲ草みたいなやつがあると嬉しいです……","fr":"Excusez-moi, pourriez-vous aller me chercher des herbes médicinales… ?\nDe l'herbe à moustaches de chat, par exemple, ferait parfaitement l'affaire…"}
+{"id":1554331,"jp":"それをすり潰して傷口に当てれば、すこしはマシになると思うんです……","fr":"Je pense qu'en les écrasant pour les appliquer sur ma blessure, ça devrait déjà aller un peu mieux…"}
+{"id":1554332,"jp":"わかったよ。ちょっと待ってて！","fr":"D'accord. Attends-moi ici !"}
+{"id":1554333,"jp":"ありがとうございます、これなら十分です！それじゃ早速手当てを……","fr":"Merci beaucoup, c'est largement suffisant ! Je vais pouvoir soigner ma blessure…"}
+{"id":1554334,"jp":"傷の手当てを終え、しばらく休んだあと……","fr":"Après avoir soigné sa blessure et pris un peu de repos…"}
+{"id":1554335,"jp":"ふう……だいぶ楽になりました！\nおかげさまで、体の痛みも引いてきましたよ！","fr":"Ouf… Je me sens beaucoup mieux !\nGrâce à vous, mes douleurs commencent à disparaître !"}
+{"id":1554336,"jp":"そもそもなにがあったの？","fr":"Mais qu'est-ce qui t'est arrivé, au juste ?"}
+{"id":1554337,"jp":"どうして怪我をしたの？","fr":"Comment est-ce que tu t'es blessé ?"}
+{"id":1554338,"jp":"いやあ、話すと長いんですが……\n実は私、フリスへ旅行に来た普通のバックパッカーなんです。","fr":"Eh bien, c'est une longue histoire…\nEn réalité, je suis un voyageur ordinaire, venu visiter Fleece avec mon sac à dos."}
+{"id":1554339,"jp":"それで、この森をぶらぶら歩いていたんですが、\nものすごくきれいなキボを見かけましてね。","fr":"Je me promenais tranquillement dans cette forêt\nquand j'ai aperçu un Kibo d'une beauté incroyable."}
+{"id":1554340,"jp":"姿は優雅だし、見た目もかわいいし、どうしても仲良くなりたいなって思ったんです！","fr":"Il était si gracieux et si mignon que j'ai tout de suite voulu me lier d'amitié avec lui !"}
+{"id":1554341,"jp":"ですが、近づいてみたらものすごく嫌がられてしまって……\nなにがまずかったのかよく分からないんですが……","fr":"Seulement, quand j'ai essayé de m'approcher, il m'a très mal accueilli…\nJe ne comprends toujours pas ce que j'ai fait de travers…"}
+{"id":1554342,"jp":"それでも近づこうとしたところ、頭で思いきり吹っ飛ばされました……","fr":"J'ai quand même essayé de m'approcher et il m'a envoyé valser d'un violent coup de tête…"}
+{"id":1554343,"jp":"うぐっ……この傷は、そのときについたんです……\nまあ、体はけっこう丈夫なほうですけどね。普段から鍛えておいて正解でした。","fr":"Aïe… C'est comme ça que je me suis fait cette blessure…\nHeureusement, je suis plutôt robuste. J'ai bien fait de m'entraîner régulièrement."}
+{"id":1554344,"jp":"この森は危険も多いからね。\nひとりで来るのなら、もっと気をつけたほうがいいと思うよ。","fr":"Cette forêt regorge de dangers, tu sais.\nSi tu comptes t'y aventurer tout seul, tu devrais faire davantage attention."}
+{"id":1554345,"jp":"たしかにその通りですね――そうだ、もしよかったらなんですが……\nもう一度、森のなかに一緒に行ってもらえませんか？","fr":"Vous avez tout à fait raison… Ah, tant que j'y pense, si cela ne vous dérange pas…\nPourriez-vous m'accompagner une nouvelle fois dans la forêt ?"}
 {"id":1554346,"jp":"まだ諦めてないの？","fr":"Tu n'as pas encore abandonné ?"}
+{"id":1554347,"jp":"私、どうしてもあのキボと友達になりたいんです。\n見たところ、あなたはかなり強そうなので、一緒に来てくれたら非常に助かります！","fr":"Je tiens absolument à devenir l'ami de ce Kibo.\nVous semblez avoir de grandes capacités au combat, alors votre présence me serait d'une aide précieuse !"}
+{"id":1554348,"jp":"それに、私のなにが悪くてあんなに嫌がられたのか、\nあなたならわかるかもしれませんし……","fr":"Et puis, vous pourriez peut-être comprendre ce que j'ai fait de mal\npour qu'il me rejette à ce point…"}
 {"id":1554349,"jp":"うーん、それは……","fr":"Hmm, c'est que…"}
+{"id":1554350,"jp":"お願いします！ほ、ほら、一日一善みたいな感じでどうでしょうか？\n……あ、そうだ！もし報酬が必要ということなら、もちろん払いますし……","fr":"Je vous en prie ! V-Voyez ça comme votre bonne action de la journée, qu'en dites-vous ?\n… Ah, bien sûr ! Si vous souhaitez une récompense, je suis prêt à vous payer…"}
+{"id":1554351,"jp":"（かなり面倒な相手に捕まったみたいだね……）","fr":"(On dirait que je suis tombé sur un sacré casse-pieds…)"}
+{"id":1554352,"jp":"わかったよ。森の中まで一緒に行こう。","fr":"D'accord, je vais t'accompagner dans la forêt."}
+{"id":1554353,"jp":"ありがとうございます、では早速案内しますね！さあ、こちらです！","fr":"Merci beaucoup ! Je vais vous montrer le chemin sans plus attendre ! Par ici !"}
+{"id":1554354,"jp":"いました！見てください、あのキボです！","fr":"Le voilà ! Regardez, c'est ce Kibo !"}
 {"id":1554355,"jp":"ヨウー","fr":"Yoh~"}
+{"id":1554356,"jp":"ん？あれは……ブラウディだね。","fr":"Mh ? Mais c'est… un Browdy."}
+{"id":1554357,"jp":"本来は、とても穏やかな性格のはずだよ。","fr":"Normalement, les Browdy sont de nature très paisible."}
+{"id":1554358,"jp":"自分からちょっかいを出さない限り、攻撃されることはないと思うけど……\nきみはどんなふうに挨拶しようとしたの？","fr":"À moins de les provoquer, ils n'ont aucune raison de t'attaquer…\nComment as-tu essayé de le saluer ?"}
+{"id":1554359,"jp":"えっと……ちょっと口では説明しづらいですね……\nでは、実際にもう一度やってみせます！","fr":"Euh… C'est un peu difficile à expliquer avec des mots…\nJe vais plutôt vous montrer exactement ce que j'ai fait !"}
+{"id":1554360,"jp":"あの、もしまた襲われそうになったら……絶対に助けてくださいね！","fr":"Euh, s'il essaie encore de m'attaquer… Promettez-moi de me venir en aide !"}
+{"id":1554361,"jp":"もちろん。それじゃ、やってみてよ。","fr":"Bien sûr. Allez, montre-moi."}
 {"id":1554362,"jp":"ふう……こんにちは！","fr":"Ouf… Bonjour !"}
+{"id":1554363,"jp":"（まずい！彼のお辞儀を見た瞬間、ブラウディの目つきが変わったよ……！）","fr":"(Mince ! Le regard du Browdy a changé dès qu'il l'a vu s'incliner… !)"}
 {"id":1554364,"jp":"ヨウ……","fr":"Yoh…"}
+{"id":1554365,"jp":"と、友達になってくれませんか？\n危害を加えるつもりなど、これっぽっちもありませんから……","fr":"V-Veux-tu bien devenir mon ami ?\nJe n'ai absolument aucune intention de te faire du mal…"}
+{"id":1554366,"jp":"待って！近づいちゃ――","fr":"Attends ! Ne t'approche pas…"}
 {"id":1554367,"jp":"ヨウー！！！","fr":"Yoh~ !!!"}
+{"id":1554368,"jp":"うわあ！また突っ込んできました！","fr":"Aaaah ! Il me fonce encore dessus !"}
+{"id":1554369,"jp":"離れて！ここは僕に任せて！|離れて！ここは私に任せて！","fr":"Éloigne-toi ! Je m'occupe de lui !|Éloigne-toi ! Je m'occupe de lui !"}
 {"id":1554370,"jp":"ヨウー……","fr":"Yoh~…"}
+{"id":1554371,"jp":"怖がらなくても大丈夫。ブラウディはもう落ち着いたよ。","fr":"Tu n'as plus rien à craindre. Le Browdy s'est calmé."}
+{"id":1554372,"jp":"よかった……！こっちに突っ込んできたときは、\nまた吹き飛ばされるかと思いましたが……","fr":"Quel soulagement… ! Quand je l'ai vu me foncer dessus,\nj'ai bien cru qu'il allait encore m'envoyer valser…"}
+{"id":1554373,"jp":"とにかく、見ての通りですよ。さっきもああやって挨拶しました。","fr":"Enfin, vous avez vu. C'est exactement comme ça que je l'ai salué tout à l'heure."}
+{"id":1554374,"jp":"お辞儀の所作にはなんの問題もなかったはずなのに、\nどうして攻撃してきたんでしょう？","fr":"Pourtant, il n'y avait rien d'incorrect dans ma façon de m'incliner.\nAlors pourquoi m'a-t-il attaqué ?"}
+{"id":1554375,"jp":"作法の問題じゃなくて……","fr":"Ce n'est pas une question de politesse…"}
+{"id":1554376,"jp":"もしかすると、『お辞儀』っていう姿勢そのものが誤解を招いたのかも。","fr":"C'est peut-être le fait même de t'incliner qui a créé un malentendu."}
+{"id":1554377,"jp":"僕、ウッドエルフの友達がいるんだ。\nブラウディのような自然と親しいタイプのキボたちと仲のいいウッドエルフだよ。|私、ウッドエルフの友達がいるの。\nブラウディのような自然と親しいタイプのキボたちと仲のいいウッドエルフだよ。","fr":"J'ai une amie qui est une Elfe des bois.\nElle s'entend très bien avec les Kibo proches de la nature, comme les Browdy.|J'ai une amie qui est une Elfe des bois.\nElle s'entend très bien avec les Kibo proches de la nature, comme les Browdy."}
+{"id":1554378,"jp":"彼女のところへ行って、助言を聞いてみるっていうのはどう？","fr":"Et si on allait lui demander conseil ?"}
+{"id":1554379,"jp":"ウッドエルフ？人前にあまり姿を見せない、あのウッドエルフと知り合いなんですか……\nあなた、すごすぎません！？","fr":"Une Elfe des bois ? Vous connaissez vraiment ces Elfes des bois qui se montrent si rarement en public… ?\nMais vous êtes incroyable !"}
+{"id":1554380,"jp":"善は急げです。いますぐその方に会いに行きましょう！","fr":"Il n'y a pas une seconde à perdre ! Allons la rencontrer tout de suite !"}
 {"id":1554399,"jp":"ヨウヨウ～","fr":"Yoh yoh~"}
 {"id":1554403,"jp":"ヨウ、ヨウ……","fr":"Yoh, yoh…"}
 {"id":1554413,"jp":"これでどうかな？","fr":"Et comme ça ?"}
