@@ -60067,35 +60067,80 @@
 {"id":1559873,"jp":"\nバックエンド:","fr":"\nBack-end :"}
 {"id":1559874,"jp":"＋＋キボ:","fr":"++ Kibo :"}
 {"id":1559875,"jp":"計算しない","fr":"Ne pas compter"}
+{"id":1559876,"jp":"\nフロントエンド計算:","fr":"\nCalcul côté client :"}
+{"id":1559877,"jp":"使用可能な人口が不足しています。","fr":"Population disponible insuffisante."}
+{"id":1559878,"jp":"1個以上生産してください。","fr":"Produisez au moins un exemplaire."}
 {"id":1559879,"jp":"メモを編集","fr":"Modifier la note"}
+{"id":1559880,"jp":"相手のチャットをミュートしますか？","fr":"Voulez-vous masquer les messages de ce joueur ?"}
+{"id":1559881,"jp":"相手をフレンドリストから削除しますか？","fr":"Voulez-vous retirer ce joueur de votre liste d'amis ?"}
+{"id":1559882,"jp":"相手をブロックリストに追加しますか？","fr":"Voulez-vous ajouter ce joueur à votre liste de blocage ?"}
+{"id":1559883,"jp":"ブロックリストに追加しました。","fr":"Le joueur a été ajouté à votre liste de blocage."}
+{"id":1559884,"jp":"ブロックリストから解除","fr":"Débloquer le joueur"}
+{"id":1559885,"jp":"ブロックリストから解除しました。","fr":"Le joueur a été retiré de votre liste de blocage."}
 {"id":1559886,"jp":"UIDをコピー","fr":"Copier l'UID"}
+{"id":1559887,"jp":"チャットを削除しました。","fr":"La conversation a été supprimée."}
 {"id":1559888,"jp":"通報通報通報","fr":"Signaler Signaler Signaler"}
+{"id":1559889,"jp":"ダンジョンから退出しますか？","fr":"Voulez-vous quitter le donjon ?"}
+{"id":1559890,"jp":"チームにキャラクターがいません。","fr":"Votre équipe ne contient aucun personnage."}
+{"id":1559891,"jp":"チームには少なくとも1名の行動可能なキャラクターが必要です。","fr":"Votre équipe doit comprendre au moins un personnage capable d'agir."}
+{"id":1559892,"jp":"戦闘不能のキャラクターを唯一の出撃キャラクターにはできません。","fr":"Un personnage incapable de combattre ne peut pas être le seul personnage de l'équipe active."}
+{"id":1559893,"jp":"現在、キャラクターを切り替えられません。","fr":"Impossible de changer de personnage pour le moment."}
+{"id":1559894,"jp":"現在は休憩モード中のため、操作キャラを切り替えられません。","fr":"Impossible de changer de personnage en mode repos."}
+{"id":1559895,"jp":"疲弊状態のキャラクターには切り替えできません。","fr":"Impossible de passer à un personnage en état d'épuisement."}
+{"id":1559896,"jp":"メモ名にスペースは使用できません。","fr":"Le nom d'une note ne peut pas contenir d'espaces."}
+{"id":1559897,"jp":"現在のマップはアクティブではありません。","fr":"La carte actuelle n'est pas active."}
+{"id":1559898,"jp":"[{0}]がチームを離れました。","fr":"[{0}] a quitté l'équipe."}
+{"id":1559899,"jp":"[{0}] をチームから追放しました。","fr":"Vous avez exclu [{0}] de l'équipe."}
+{"id":1559900,"jp":"[{0}] がチームを解散しました。","fr":"[{0}] a dissous l'équipe."}
+{"id":1559901,"jp":"[{0}]が招待を拒否しました。","fr":"[{0}] a refusé l'invitation."}
+{"id":1559902,"jp":"[{0}]によりチームから追放されました。","fr":"[{0}] vous a exclu de l'équipe."}
 {"id":1559903,"jp":"招待を送信しました。","fr":"Invitation envoyée."}
+{"id":1559904,"jp":"相手はすでに他のチームに参加しています。","fr":"Ce joueur a déjà rejoint une autre équipe."}
+{"id":1559905,"jp":"メッセージの有効期限が切れており、参加できません。","fr":"Ce message a expiré. Vous ne pouvez plus rejoindre l'équipe."}
+{"id":1559906,"jp":"マッチングチームから離脱しますか？","fr":"Voulez-vous quitter l'équipe formée par la recherche de partenaires ?"}
 {"id":1559907,"jp":"{0}からの手紙","fr":"Lettre de {0}"}
 {"id":1559908,"jp":"受注済みのクエスト:","fr":"Quêtes acceptées :"}
 {"id":1559909,"jp":"勢力","fr":"Faction"}
 {"id":1559910,"jp":"やや空腹","fr":"Un peu faim"}
 {"id":1559911,"jp":"空腹","fr":"Faim"}
+{"id":1559912,"jp":"共鳴[{0}]を削除しますか？","fr":"Voulez-vous supprimer la résonance [{0}] ?"}
 {"id":1559913,"jp":"ランダム共鳴を削除","fr":"Supprimer la résonance aléatoire"}
+{"id":1559914,"jp":"ランダム共鳴を削除しますか？","fr":"Voulez-vous supprimer cette résonance aléatoire ?"}
 {"id":1559915,"jp":"商品が期限切れです。","fr":"Cet article a expiré."}
+{"id":1559916,"jp":"農園ではこの機能を使用できません。","fr":"Cette fonctionnalité est indisponible dans la ferme."}
 {"id":1559917,"jp":"次回の更新：{0}日","fr":"Prochain renouvellement : {0} j"}
+{"id":1559918,"jp":"{0} 後に更新されます","fr":"Actualisation dans {0}"}
 {"id":1559919,"jp":"{0}ポイントに到達","fr":"Atteindre {0} points"}
 {"id":1559920,"jp":"闇星の加護","fr":"Protection de l'étoile obscure"}
+{"id":1559921,"jp":"戦闘から退出すると、この挑戦は失敗とみなされます。本当に退出しますか？","fr":"Quitter le combat entraînera l'échec du défi. Voulez-vous vraiment quitter ?"}
 {"id":1559922,"jp":"未出撃","fr":"Non déployé"}
 {"id":1559923,"jp":"騎乗可能","fr":"Montable"}
 {"id":1559924,"jp":"戦闘可能","fr":"Apte au combat"}
+{"id":1559925,"jp":"ロックされた装備は選択できません。","fr":"Impossible de sélectionner un équipement verrouillé."}
+{"id":1559926,"jp":"現在の満腹度区間は【{0}】：1秒ごとにHP【{0}】回復","fr":"Palier de satiété actuel : 【{0}】. Récupération de 【{0}】 PV par seconde"}
+{"id":1559927,"jp":"このアイテムは所持していません。","fr":"Vous ne possédez pas cet objet."}
 {"id":1559928,"jp":"残りフロア数:","fr":"Étages restants :"}
 {"id":1559929,"jp":"戦闘終了","fr":"Combat terminé"}
 {"id":1559930,"jp":"戦闘を終了しますか？","fr":"Terminer le combat ?"}
 {"id":1559931,"jp":"読み込み","fr":"Chargement"}
 {"id":1559932,"jp":"位置","fr":"Position"}
+{"id":1559933,"jp":"現在の状態ではメニューを開けません。","fr":"Impossible d'ouvrir le menu dans votre état actuel."}
+{"id":1559934,"jp":"プレイしていただきありがとうございます。","fr":"Merci de jouer à notre jeu."}
+{"id":1559935,"jp":"引き続き探索をお楽しみください。","fr":"Nous vous souhaitons une bonne continuation dans votre exploration."}
+{"id":1559936,"jp":"本日は再表示しません。","fr":"Ne plus afficher aujourd'hui."}
 {"id":1559937,"jp":"本当に閉じますか？","fr":"Vraiment fermer ?"}
 {"id":1559938,"jp":"料理ゲーム","fr":"Jeu de cuisine"}
 {"id":1559939,"jp":"ステージ終了","fr":"Fin du niveau"}
+{"id":1559940,"jp":"現在のステージを本当に終了しますか？ステージ内で獲得したすべての報酬は失われます。","fr":"Voulez-vous vraiment quitter l'épreuve en cours ? Toutes les récompenses obtenues au cours de cette épreuve seront perdues."}
+{"id":1559941,"jp":"この機能は現在未解放です。","fr":"Cette fonctionnalité n'a pas encore été débloquée."}
+{"id":1559942,"jp":"このキャラクターには自己紹介がありません。","fr":"Ce personnage n'a pas de présentation personnelle."}
 {"id":1559943,"jp":"カウントダウン:","fr":"Compte à rebours :"}
 {"id":1559944,"jp":"スキップ","fr":"Passer"}
+{"id":1559945,"jp":"このページを閉じ、すべてのチュートリアルをスキップしますか？","fr":"Voulez-vous fermer cette page et passer tous les tutoriels ?"}
 {"id":1559946,"jp":"【アニマ】","fr":"[Anima]"}
 {"id":1559947,"jp":"付与済み","fr":"Appliqué"}
+{"id":1559948,"jp":"星祝は授与後に取り外せません。","fr":"Une Bénédiction stellaire ne peut plus être retirée une fois octroyée."}
+{"id":1559949,"jp":"解放済みの設備エリアにいません。","fr":"Vous ne vous trouvez pas dans une zone d'installation débloquée."}
 {"id":1559950,"jp":"設備倉庫","fr":"Entrepôt d'installations"}
 {"id":1559951,"jp":"設備がありません。","fr":"Aucune installation."}
 {"id":1559952,"jp":"種がありません。","fr":"Aucune graine."}
@@ -60105,7 +60150,12 @@
 {"id":1559957,"jp":"取り出す","fr":"Sortir"}
 {"id":1559958,"jp":"収納する","fr":"Ranger"}
 {"id":1559959,"jp":"未配属","fr":"Non affecté"}
+{"id":1559960,"jp":"協力アクションを途中で終了しますか？","fr":"Voulez-vous interrompre l'action coopérative en cours ?"}
+{"id":1559961,"jp":"キャラクターの満腹度が{0}の時、2秒ごとに{0}%のHPを回復","fr":"Lorsque la satiété du personnage est de {0}, récupération de {0}% des PV toutes les 2 secondes"}
+{"id":1559962,"jp":"クエストを続けて達成し、解放しましょう！","fr":"Continuez à accomplir des quêtes pour débloquer cette fonctionnalité !"}
+{"id":1559963,"jp":"設備の数が不足しています。","fr":"Nombre d'installations insuffisant."}
 {"id":1559964,"jp":"装備製作","fr":"Fabrication d'équipement"}
+{"id":1559965,"jp":"notice_charge_closeは未設定です。","fr":"Le paramètre notice_charge_close n'est pas configuré."}
 {"id":1559966,"jp":"現在のチャンネル：1","fr":"Canal actuel : 1"}
 {"id":1559967,"jp":"現在のチャンネル：","fr":"Canal actuel :"}
 {"id":1559968,"jp":"四","fr":"Quatre"}
@@ -60113,15 +60163,25 @@
 {"id":1559970,"jp":"六","fr":"Six"}
 {"id":1559971,"jp":"七","fr":"Sept"}
 {"id":1559972,"jp":"{0}曜日、{1}","fr":"{0}, {1}"}
+{"id":1559973,"jp":"連続クエストをすべて達成すると獲得可能","fr":"S'obtient en terminant toutes les quêtes de la série"}
 {"id":1559974,"jp":"左目の色","fr":"Couleur de l'œil gauche"}
 {"id":1559975,"jp":"右目の色","fr":"Couleur de l'œil droit"}
 {"id":1559976,"jp":"衣装カラー","fr":"Couleur de la tenue"}
 {"id":1559977,"jp":"試着カラー","fr":"Couleur d'essayage"}
 {"id":1559978,"jp":"髪色1","fr":"Couleur de cheveux 1"}
 {"id":1559979,"jp":"眉の色","fr":"Couleur des sourcils"}
+{"id":1559980,"jp":"パック購入に必要なアイテムが不足しています。","fr":"Vous ne possédez pas suffisamment d'objets requis pour acheter ce pack."}
+{"id":1559981,"jp":"マウントの満腹度が最大のため、料理を使用できません。","fr":"La satiété de la monture est maximale. Impossible de lui donner davantage de nourriture."}
+{"id":1559982,"jp":"現在、料理を与えられるマウントがいません。","fr":"Aucune monture ne peut être nourrie pour le moment."}
+{"id":1559983,"jp":"育成したキボの種族外見は、主要遺伝元（{0}{1}）と同じです。本当によろしいですか？","fr":"Le Kibo issu de l'élevage héritera de l'espèce et de l'apparence du donneur génétique principal ({0}{1}). Voulez-vous vraiment continuer ?"}
+{"id":1559984,"jp":"このキボはキャラクター編成中かつレンタル中です。解除して選択しますか？","fr":"Ce Kibo fait partie d'une équipe de personnages et est actuellement en location. Voulez-vous le retirer de l'équipe et mettre fin à sa location pour le sélectionner ?"}
 {"id":1559986,"jp":"防御塔の耐久度：","fr":"Solidité de la tour de défense :"}
 {"id":1559987,"jp":"最大耐久度：","fr":"Solidité max. :"}
+{"id":1559988,"jp":"公平モードではすべてのキボのレベルが最大まで引き上げられますが、そのほかの育成状況は引き継がれます。","fr":"En mode équitable, tous les Kibo sont ramenés au niveau maximal. Tous les autres aspects de leur progression sont conservés."}
+{"id":1559989,"jp":"デッキ編成コストが上限を超えています。","fr":"Le coût de composition du deck dépasse la limite autorisée."}
+{"id":1559990,"jp":"編成コストが上限を超えています。","fr":"Le coût de composition de l'équipe dépasse la limite autorisée."}
 {"id":1559991,"jp":"保存確認","fr":"Confirmer l'enregistrement"}
+{"id":1559992,"jp":"編成コストが上限を超えています。編成を保存せずに退出しますか？","fr":"Le coût de composition de l'équipe dépasse la limite autorisée. Voulez-vous quitter sans enregistrer la composition ?"}
 {"id":1560000,"jp":"相手がファイトの招待に応答しませんでした。","fr":"Votre adversaire n'a pas répondu à l'invitation au duel."}
 {"id":1560001,"jp":"まだ準備していません。","fr":"Vous n'avez pas encore confirmé votre préparation."}
 {"id":1560002,"jp":"準備済み","fr":"Prêt"}
