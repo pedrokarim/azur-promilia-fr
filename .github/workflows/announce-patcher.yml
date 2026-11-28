@@ -1,0 +1,76 @@
+name: Annoncer les versions du patcher sur Discord
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  announce:
+    if: github.event_name == 'workflow_dispatch' || (startsWith(github.event.release.tag_name, 'patcher-v') && !github.event.release.prerelease)
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Contacter le salon Azur Promilia
+        env:
+          WEBHOOK_URL: ${{ secrets.AZUR_PROMILIA_DISCORD_WEBHOOK }}
+          ROLE_ID: "1575986841314926599"
+          CHANNEL_ID: "1575986853008638015"
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import re
+          from pathlib import Path
+          from urllib.error import HTTPError, URLError
+          from urllib.request import Request, urlopen
+
+          webhook_url = os.environ["WEBHOOK_URL"]
+          if not re.fullmatch(r"https://discord\.com/api/v10/webhooks/\d+/[\w-]+", webhook_url):
+              raise SystemExit("Webhook Discord absent ou invalide.")
+
+          def discord(request):
+              try:
+                  with urlopen(request, timeout=20) as response:
+                      return json.load(response)
+              except HTTPError as error:
+                  raise SystemExit(f"Discord a répondu HTTP {error.code}.") from None
+              except (URLError, TimeoutError):
+                  raise SystemExit("Discord est inaccessible.") from None
+
+          if os.environ["GITHUB_EVENT_NAME"] == "workflow_dispatch":
+              info = discord(Request(webhook_url))
+              if info.get("channel_id") != os.environ["CHANNEL_ID"]:
+                  raise SystemExit("Le webhook pointe vers un autre salon.")
+              print("Webhook vérifié. Aucun message envoyé.")
+              raise SystemExit(0)
+
+          release = json.loads(Path(os.environ["GITHUB_EVENT_PATH"]).read_bytes())["release"]
+          tag = release["tag_name"]
+          if release["draft"] or release["prerelease"] or not re.fullmatch(r"patcher-v\d+\.\d+\.\d+", tag):
+              raise SystemExit(0)
+          asset = "azur-promilia-patcher-windows-x64.zip"
+          if not any(file["name"] == asset and file["state"] == "uploaded" for file in release["assets"]):
+              raise SystemExit("Le ZIP Windows doit être joint avant de publier la version.")
+          role = os.environ["ROLE_ID"]
+          payload = {
+              "content": (
+                  f"<@&{role}> Le patcher français d’Azur Promilia **{tag.removeprefix('patcher-v')}** est disponible.\n"
+                  "Dans le patcher, clique sur **Mettre à jour le patcher**, puis sur **Installer** après le redémarrage.\n"
+                  f"https://github.com/pedrokarim/azur-promilia-fr/releases/tag/{tag}"
+              ),
+              "allowed_mentions": {"parse": [], "roles": [role]},
+          }
+          request = Request(
+              webhook_url + "?wait=true",
+              data=json.dumps(payload).encode(),
+              headers={"Content-Type": "application/json"},
+              method="POST",
+          )
+          posted = discord(request)
+          if posted.get("channel_id") != os.environ["CHANNEL_ID"] or role not in posted.get("mention_roles", []):
+              raise SystemExit("L’annonce a été envoyée, mais le salon ou le rôle signalé est inattendu.")
+          print("Annonce envoyée au salon Azur Promilia.")
+          PY
