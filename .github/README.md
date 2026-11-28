@@ -6,16 +6,16 @@ Ce projet n'est ni affilié à Manjuu ni approuvé par l'éditeur. Un patch de t
 
 ## Jouer en français
 
-1. [Télécharge le patcher Windows 1.2.1](https://github.com/pedrokarim/azur-promilia-fr/releases/download/patcher-v1.2.1/azur-promilia-patcher-windows-x64.zip) et décompresse toute l’archive. Laisse les dossiers à côté de `azur-promilia-patcher.exe`.
+1. [Télécharge la dernière version du patcher Windows](https://github.com/pedrokarim/azur-promilia-fr/releases/latest/download/azur-promilia-patcher-windows-x64.zip) et décompresse toute l’archive. Laisse les dossiers à côté de `azur-promilia-patcher.exe`.
 2. Ferme le jeu et le launcher officiel, puis ouvre `azur-promilia-patcher.exe`. Si le patcher ne trouve pas le jeu, clique sur « Choisir » et sélectionne le dossier `AZUPRO_JP` qui contient `AzurPromiliaJP.exe`.
 3. Sélectionne « Français ». Si le patcher indique qu’une mise à jour est disponible, clique sur « Télécharger la traduction ». Clique ensuite sur « Installer ».
 4. Clique sur « Lancer » ou utilise le raccourci « Azur Promilia (français) ». Le launcher officiel peut remettre les fichiers japonais.
 
 ![Écran d’installation de la version 1.1.0, avec Français sélectionné et le bouton Choisir à côté du champ du dossier du jeu](../docs/images/patcher-fr.png)
 
-À partir de la 1.2.0, le bouton « Mettre à jour le patcher », en haut à gauche, installe les prochaines versions du programme sans retélécharger le ZIP à la main. « Télécharger la traduction » récupère les derniers textes français.
+Depuis la 1.2.0, le bouton « Mettre à jour le patcher », en haut à gauche, installe les prochaines versions du programme. À partir de la 1.3.0, ce bouton affiche le numéro de la version disponible. « Télécharger la traduction » récupère les derniers textes français.
 
-La 1.2.1 rétablit le français dans les menus fixes du build 3273853. Si tu as déjà la 1.2.0, ferme le jeu et son launcher officiel, clique sur « Mettre à jour le patcher », puis sur « Installer » après son redémarrage.
+Le bouton « Actualités », disponible depuis la 1.3.0, affiche les annonces du jeu dans la langue choisie. Le patcher récupère les nouvelles annonces au démarrage et toutes les 15 minutes tant qu’il reste ouvert.
 
 Avant une mise à jour du jeu, ferme-le et clique sur « Désinstaller ». Une fois la mise à jour terminée, referme le jeu et son launcher officiel, puis clique sur « Installer ». Le patcher repère le build le plus récent.
 
