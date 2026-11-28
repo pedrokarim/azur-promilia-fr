@@ -561,7 +561,7 @@
 {"key": "F5BCB607", "jp": "", "en": "View Mutation Effects", "fr": "Voir les effets de mutation"}
 {"key": "F6738C46", "jp": "", "en": "22/22", "fr": "22/22"}
 {"key": "F74F1E0B", "jp": "獲得アイテム", "en": "Items Obtained", "fr": "Objets obtenus"}
-{"key": "F76E2900", "jp": "", "en": "Starborn Skins", "fr": "Apparences de l'Enfant des étoiles"}
+{"key": "F76E2900", "jp": "", "en": "Starborn Skins", "fr": "Apparences de Starborn"}
 {"key": "F7D21160", "jp": "", "en": "My Bag", "fr": "Mon sac"}
 {"key": "F7F82B9C", "jp": "", "en": "New Content Preview", "fr": "Aperçu des nouveautés"}
 {"key": "F7FCDD39+2", "jp": "", "en": "Idle", "fr": "Inactif"}
@@ -623,7 +623,7 @@
 {"key": "02F1C6EC", "jp": "", "en": "Bond with Nono", "fr": "Lien avec Nono"}
 {"key": "02FD8EC3", "jp": "", "en": "Achievement Unlocked [Double Kill", "fr": "Succès débloqué [Double élimination"}
 {"key": "030D962D", "jp": "イベント", "en": "EVENT", "fr": "ÉVÉNEMENT"}
-{"key": "030F8ABC", "jp": "", "en": "Starborn\nUnlocks at Lv.10", "fr": "Enfant des étoiles\nSe débloque au Niv. 10"}
+{"key": "030F8ABC", "jp": "", "en": "Starborn\nUnlocks at Lv.10", "fr": "Starborn\nSe débloque au Niv. 10"}
 {"key": "03199E5D", "jp": "", "en": "Hello!", "fr": "Bonjour !"}
 {"key": "0339B7FA", "jp": "コンテンツ解放", "en": "Content Unlocked", "fr": "Contenu débloqué"}
 {"key": "036E4E66", "jp": "", "en": "Factor limit reached. Feeding a Factor Fruit lets you replace an existing Factor.", "fr": "Limite de facteurs atteinte. Donner un fruit de facteur permet de remplacer un facteur existant."}
@@ -1043,7 +1043,7 @@
 {"key": "2B30334A", "jp": "", "en": "Shipping Bin", "fr": "Caisse d'expédition"}
 {"key": "2B61E0D5", "jp": "", "en": "Ctrl", "fr": "Ctrl"}
 {"key": "2B6F9172", "jp": "", "en": "Dismantling cannot be undone. Continue?", "fr": "Le démantèlement est irréversible. Continuer ?"}
-{"key": "2B92C142", "jp": "", "en": "This page shows your gacha history for the past 6 months. Records may take about 1 hour to appear. If no data is shown, please check again later. Times below are based on the Starborn's device time zone.", "fr": "Cette page permet de consulter votre historique d'Observation des 6 derniers mois. Un délai d'environ 1 heure peut être nécessaire pour actualiser l'historique. Si aucune donnée ne s'affiche, veuillez réessayer ultérieurement. Les horaires ci-dessous suivent le fuseau horaire de l'appareil de l'Enfant des étoiles."}
+{"key": "2B92C142", "jp": "", "en": "This page shows your gacha history for the past 6 months. Records may take about 1 hour to appear. If no data is shown, please check again later. Times below are based on the Starborn's device time zone.", "fr": "Cette page permet de consulter votre historique d'Observation des 6 derniers mois. Un délai d'environ 1 heure peut être nécessaire pour actualiser l'historique. Si aucune donnée ne s'affiche, veuillez réessayer ultérieurement. Les horaires ci-dessous suivent le fuseau horaire de l'appareil de Starborn."}
 {"key": "2BD1D6E3", "jp": "", "en": "Water needed for full growth  <size=24><color=#111A22>200</color></size>", "fr": "Eau requise pour la pousse complète  <size=24><color=#111A22>200</color></size>"}
 {"key": "2BDA9959", "jp": "", "en": "NPC", "fr": "PNJ"}
 {"key": "2BDB795A", "jp": "", "en": "B     A     T     T     L     E     C     L     E     A     R", "fr": "V     I     C     T     O     I     R     E"}
@@ -1098,7 +1098,7 @@
 {"key": "307DD9D6", "jp": "未達成", "en": "Incomplete", "fr": "Non accompli"}
 {"key": "30ACC1AC", "jp": "", "en": "'MAX\n\n\n'", "fr": "'MAX\n\n\n'"}
 {"key": "30CF3873", "jp": "", "en": "Go to Dispatch", "fr": "Aller à l'Affectation"}
-{"key": "30E2A471", "jp": "", "en": "You can change the Starborn's appearance in-game", "fr": "Vous pouvez changer l'apparence de l'Enfant des étoiles en jeu"}
+{"key": "30E2A471", "jp": "", "en": "You can change the Starborn's appearance in-game", "fr": "Vous pouvez changer l'apparence de Starborn en jeu"}
 {"key": "31878984", "jp": "再挑戦", "en": "Retry", "fr": "Réessayer"}
 {"key": "31A24A4E", "jp": "", "en": "Star cap reached", "fr": "Étoiles au maximum"}
 {"key": "31FF4649", "jp": "", "en": "[Hold]", "fr": "[Maintenir]"}
@@ -1907,7 +1907,7 @@
 {"key": "86AAFAA7", "jp": "", "en": "Head", "fr": "Tête"}
 {"key": "86C98449", "jp": "", "en": "Press the key to assign", "fr": "Appuyez sur la touche à attribuer"}
 {"key": "86D3A394", "jp": "", "en": "Block Notifications\n", "fr": "Bloquer les notifications\n"}
-{"key": "86D688A8", "jp": "", "en": "New to the continent of Promilia? The [Starborn Guidebook] is here to help!\nBuild your base / Star Link with Kibo / Defeat mighty foes / Uncover secrets... Follow the guide and\nexplore this world step by step!", "fr": "Vous découvrez le continent de Promilia ? Le [Guide de l'Enfant des étoiles] est là pour vous aider !\nBâtissez votre base / Nouez un Lien stellaire avec des Kibo / Battez de puissants ennemis / Percez des secrets… Suivez le guide et\nexplorez ce monde pas à pas !"}
+{"key": "86D688A8", "jp": "", "en": "New to the continent of Promilia? The [Starborn Guidebook] is here to help!\nBuild your base / Star Link with Kibo / Defeat mighty foes / Uncover secrets... Follow the guide and\nexplore this world step by step!", "fr": "Vous découvrez le continent de Promilia ? Le [Guide de Starborn] est là pour vous aider !\nBâtissez votre base / Nouez un Lien stellaire avec des Kibo / Battez de puissants ennemis / Percez des secrets… Suivez le guide et\nexplorez ce monde pas à pas !"}
 {"key": "86E4B169", "jp": "", "en": "Full Speed Stack", "fr": "Cumul de vitesse max"}
 {"key": "86F18C80", "jp": "", "en": "Grow Kibo", "fr": "Élever des Kibo"}
 {"key": "8736E1B0", "jp": "", "en": "Leaving in 09:50.", "fr": "Départ dans 09:50."}
@@ -2519,7 +2519,7 @@
 {"key": "C0D81736", "jp": "", "en": "Select a Kibo to swap from the list on the left", "fr": "Choisissez un Kibo à échanger dans la liste de gauche"}
 {"key": "C0DBC820", "jp": "", "en": "Level:", "fr": "Niveau :"}
 {"key": "C0DD17FF", "jp": "", "en": "Red Flame Artifact Wielder Set (4/6)", "fr": "Set du porteur d'artefact à flamme rouge (4/6)"}
-{"key": "C0EC704C", "jp": "", "en": "Dear Starborn:", "fr": "À l'Enfant des étoiles :"}
+{"key": "C0EC704C", "jp": "", "en": "Dear Starborn:", "fr": "À Starborn :"}
 {"key": "C0F7769F", "jp": "", "en": "Kibo Duel Showdown - Grand Match", "fr": "Duel de Kibo - Grand match"}
 {"key": "C122F2D3", "jp": "", "en": "Shop refreshes in: 9h 22m", "fr": "Actualisation de la boutique dans : 9 h 22 min"}
 {"key": "C16CCAED", "jp": "報酬", "en": "Rewards", "fr": "Récompenses"}
@@ -2686,7 +2686,7 @@
 {"key": "D1D5F473", "jp": "", "en": "The 3rd hit of the Normal Attack deals AoE Fire damage and ignites targets hit, dealing 30% of ATK as damage every second. Lasts 8s.", "fr": "Le 3e coup de l'Attaque normale inflige des DGT de Feu de zone et enflamme les cibles touchées, infligeant 30 % de l'ATQ en dégâts chaque seconde. Dure 8 s."}
 {"key": "D1F85D1E", "jp": "本日の残り挑戦回数", "en": "Attempts Left Today", "fr": "Tentatives restantes aujourd'hui"}
 {"key": "D232B0CF", "jp": "", "en": "Test Text", "fr": "Texte de test"}
-{"key": "D233B163", "jp": "", "en": "TODO_Hello, Starborn~ Here is today's login bonus. Please accept it~~~_TODO", "fr": "TODO_Bonjour, Enfant des étoiles~ Voici le bonus de connexion du jour. Acceptez-le, je vous prie~~~_TODO"}
+{"key": "D233B163", "jp": "", "en": "TODO_Hello, Starborn~ Here is today's login bonus. Please accept it~~~_TODO", "fr": "TODO_Bonjour, Starborn~ Voici le bonus de connexion du jour. Acceptez-le, je vous prie~~~_TODO"}
 {"key": "D2554BEA", "jp": "マウント", "en": "Mount", "fr": "Montures"}
 {"key": "D26F6C7E", "jp": "", "en": "Assignment Rewards", "fr": "Récompenses d'affectation"}
 {"key": "D29328A8", "jp": "", "en": "Frostfire Burn - Hollow Scorch", "fr": "Brûlure de givre-feu - Embrasement creux"}
@@ -3491,7 +3491,7 @@
 {"key": "AF394C04", "jp": "", "en": "Game Icon", "fr": "Icône du jeu"}
 {"key": "AF7F89C0", "jp": "", "en": "Initial Ⅱ", "fr": "Initial Ⅱ"}
 {"key": "B22D9262", "jp": "", "en": "Please select an equipment recipe", "fr": "Veuillez choisir une recette d'équipement"}
-{"key": "B2E68CA4", "jp": "", "en": "Starborn Chronicle", "fr": "Chronique de l'Enfant des étoiles"}
+{"key": "B2E68CA4", "jp": "", "en": "Starborn Chronicle", "fr": "Chronique de Starborn"}
 {"key": "B304DF95", "jp": "", "en": "NO.13", "fr": "N°13"}
 {"key": "B370CE69", "jp": "", "en": "Elemental Disadvantage DMG", "fr": "DGT de désavantage élémentaire"}
 {"key": "B393583E", "jp": "", "en": "Lumber Hut", "fr": "Cabane de bûcheron"}
@@ -3543,7 +3543,7 @@
 {"key": "E5739F0A", "jp": "", "en": "Add Chat Contact", "fr": "Ajouter un contact"}
 {"key": "E5EE73B2", "jp": "追跡", "en": "Track\n", "fr": "Suivre"}
 {"key": "E6787FC1", "jp": "", "en": "Normal Wheat", "fr": "Blé ordinaire"}
-{"key": "E6AA2A22", "jp": "", "en": "Starborn Name Card", "fr": "Carte de visite de l'Enfant des étoiles"}
+{"key": "E6AA2A22", "jp": "", "en": "Starborn Name Card", "fr": "Carte de visite de Starborn"}
 {"key": "E6FDDAE2", "jp": "", "en": "Base Image", "fr": "Image de base"}
 {"key": "E7F8CBD8", "jp": "", "en": "tab", "fr": "tab"}
 {"key": "EA8DF8F2", "jp": "", "en": "Kibo Emotes", "fr": "Emotes des Kibo"}

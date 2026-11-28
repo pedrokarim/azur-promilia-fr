@@ -24,7 +24,7 @@ Le ton général est doux et lumineux, proche d'un conte : on soigne, on cultiv
 
 ## Le personnage du joueur
 
-Le joueur est 星臨者 (« Starborn » en anglais officiel), un être venu des étoiles, attendu par une prophétie. On le joue en version masculine ou féminine, mais le texte japonais est le même pour les deux, et le patcher ne remplace qu'un texte par un autre : une seule traduction doit convenir aux deux. En français, on traduit donc par « Enfant des étoiles » (épicène) et rien de ce qui le désigne ne s'accorde en genre : on écrit « merci de ta venue » et non « merci d'être venu », sans point médian. La variable `{playerName}` donne son nom ; elle reste telle quelle.
+Le joueur est 星臨者, un être venu des étoiles, attendu par une prophétie. La traduction française reprend le titre « Starborn », commun aux deux versions du personnage. Dans les dialogues, le titre désigne le personnage sans article. La variable `{playerName}` contient le nom choisi par le joueur et reste telle quelle.
 
 Les personnages l'appellent de différentes façons, et le français doit garder la nuance :
 - 星臨者さま : respectueux (Symphoria) ;
@@ -73,7 +73,7 @@ Relevés dans les dialogues déjà traduits. Un traducteur les applique tels que
 - L'aide de la ferme (オイラ) appelle le joueur « Chef » (ボス).
 - Faridah est une femme (la plus jeune Seigneur Faucon de l'histoire) : accords au féminin.
 - Luruka vouvoie le joueur. Popoi, Francisco, Ariana, l'employé de la Compagnie Tianjiang vouvoient le joueur. Momo, Enkaku, le boucher, Joy, Elro, Tinana, Libby tutoient.
-- Abby dit « Enfant des étoiles » sans déformation (せーりんしゃ).
+- Abby dit « Starborn » sans déformation (せーりんしゃ).
 - Vouvoient aussi : Tiffy, Rani et Seal (pêcheurs), le parfumeur, la libraire d'Iton, la servante du manoir, l'employée de la poste. Tutoient aussi : Metsa, Lyrica (une Pammy, au féminin), Mamie Gumina, Mamie Ruma, Akuri, Rock, Sol, Tinana.
 - Vouvoient aussi : Juriri (couturière, appelle Lumi « Dame Fée »), Regera (envers le capitaine Ral). Tutoient aussi : Katalua, la femme en noir (« Évêque » pour le Culte), le spectre de Veka Shulaga (ton archaïque et hautain).
 - Symphoria vouvoie Metsa (« Sœur Metsa ») ; Luruka tutoie Terara (« grande sœur ») et vouvoie « Dame Lumi ».
@@ -82,7 +82,7 @@ Relevés dans les dialogues déjà traduits. Un traducteur les applique tels que
 - Luruka vouvoie Metsa, qui la tutoie. Charlulu et Tana (la louve, au féminin) se tutoient.
 - Seekrid (masculin) tutoie le joueur. Rudalis l'appelle « mon souverain » et le vouvoie ; Seekrid le tutoie. Rudalis tutoie la chamane et vouvoie le groupe.
 - Mitty vouvoie Faridah, qui la tutoie. Le Chef du village et Faridah se tutoient.
-- Zaha tutoie le joueur, avec mépris. L'évêque du Culte le tutoie ; 星臨者ちゃん = « Enfant des étoiles, mon chou ».
+- Zaha tutoie le joueur avec mépris. L’évêque du Culte le tutoie et dit « Starborn, mon chou » (星臨者ちゃん).
 - La narration des actions du joueur est à la 2e personne du pluriel (« Vous avez saisi… »).
 - Luruka vouvoie aussi le Chef du village, Chilul, Rani, Uchi, Lyrica et Poya. Metsa tutoie Luruka et l'appelle encore « Charlulu ».
 - Mitty dit « Maîtresse Symphoria ». Lyrica (オイラ, féminin) tutoie et dit « Chef ». Korokoro tutoie et finit par « coâ ».
@@ -104,7 +104,7 @@ Relevés dans les dialogues déjà traduits. Un traducteur les applique tels que
 
 Arrêtées le 26/11/2026, faute de version française officielle, à partir de l'anglais officiel quand il existe.
 
-- Le joueur (星臨者) : « Enfant des étoiles », épicène.
+- Le joueur (星臨者) porte le titre « Starborn ».
 - Les peuples : Furriens (獣人), Ailés (翼人), Draconiens (竜人), d'après les noms officiels anglais Furrian et Dragonborn.
 - Shalle, et non Shal : c'est le nom officiel (Shalle Ensys).
 - Les monstres (凶獣) : Bêtes maudites.
