@@ -32,11 +32,17 @@ jobs:
               raise SystemExit("Webhook Discord absent ou invalide.")
 
           def discord(request):
+              request.add_header("User-Agent", "DiscordBot (https://github.com/pedrokarim/azur-promilia-fr, 1.0)")
               try:
                   with urlopen(request, timeout=20) as response:
                       return json.load(response)
               except HTTPError as error:
-                  raise SystemExit(f"Discord a répondu HTTP {error.code}.") from None
+                  try:
+                      code = json.load(error).get("code")
+                  except (ValueError, AttributeError):
+                      code = None
+                  detail = f" (code Discord {code})" if isinstance(code, int) else ""
+                  raise SystemExit(f"Discord a répondu HTTP {error.code}{detail}.") from None
               except (URLError, TimeoutError):
                   raise SystemExit("Discord est inaccessible.") from None
 
